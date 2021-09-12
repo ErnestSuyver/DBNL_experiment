@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Andronicus</title>
+               <author>Frans van Steenwijk</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Andronicus</hi> van Frans van Steenwijk uit 1741.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2<!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">stee033andr01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: TIN sign 4 B 15: 2</idno>
+               </bibl>
+               <p>Frans van Steenwijk, <hi rend="i">Andronicus</hi>. Izaak Duim, Amsterdam 1741</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Andronicus</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Andronicus</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-30</date>
+               <respStmt>
+                   <name type="person">DH</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="turki01"/>
+</interpGrp>
+       <body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>ANDRONICUS,</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p>Gevolgd naar het Fransche van den Heere</p>
+<p>DE CAMPISTRON.</p>
+<p><figure>
+<p><xptr to="stee033andr01ill0001.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM;</p>
+<p>By Izaak Duim, Boekverkooper, bezuiden het Stadhuis. <hi rend="i">Met Privilegie.</hi> 1741.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland doen teweten: alzo Ons te kennen is gegeven by de tegenwoordige Regenten van het Wees- en- Oude Mannenhuys der Stad Amsterdam, en in die qualiteyten te samen Eygenaars, mitsgaders Regenten van den Schouwburg aldaar, dat zy Supplianten eenige Jaaren hadden gejoüisseert van 't Octroy of Privilegie by hen van Ons op den 23. May 1714. geobtineert, waar by Wy aan hun Supplianten goedguustelyk hadden geaccordeert, en geoctroyeert, om, geduurende den tyd van vyftien doen eerst agter een volgende Jaaren, de Werken, die ten dienste van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het licht gebragt, en ten Toneele gevoert zouden mogen werden, alleen te mogen drukken, doen drukken, uytgeeven ende verkoopen, en bevonden dat de Jaaren, by 't voorsz. Octroy of Privilegie genoemt, op den 22. May 1729, stonden te expireeren; ende dewyle zy Supplianten ten meesten dienste van den Schouburg, waar van hunne respective Godshuyzen onder andere mede moeten worden gesustenteert, de voorengemelte Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, die reets gedrukt, en ten Toneele gevoert zyn, of in komende toe gedrukt, en ten Toneele gevoert zouden mogen werden, geerne alleen, gelyk voorheen, zoupen blyven drukken, uyt geeven en verkopen, ten eynde dezelve Werken door het nadrukken van andere haar Luyster, soo in taal, als in spelkonst, niet mogten komente verliesen, en dewylen sulx haar Supplianten na de expiratie van 't bovengemelte Octroy, niet gepermitteert was, zoo keerden zy Supplianten haar tot Ons, onderdaniglyk verzoekende, dat Wy aan hun Supplianten in kwaliteyten voorsz. geliefden te verleenen, prolongatie van het voorsz. Octroy of Privilegie, om de voorsz. Werken, zoo van Treurspellen, blyspellen, Klugten, als anders, reets gemaakt, en ten Toneele gevoert, of als nog in het ligt te brengen, en ten Toneele te voeren, den tyd van Vyftieneerstkomende, en agtereenvolgende Jaaren, alleen te mogen
+drukken, en Verkopen, of te doen drukken, en verkopen, met verbod aan alle andere op seekere hooge Peene by Ons daar tegens te Statueeren, SOO IS 't, dat Wy, de Saake, ende't voorsz. verzoek overgemerkt hebbende, ende geneegen weezende ter bede van de Supplianten uyt Onze regtewetenschap, Souveraine Magt ende Authoriteyt, de selve Supplianten geconsenteert, geaccordeert, en geoctroyeert hebben, consenteeren, accordeeren, en octroyeeren haar by deezen, dat Zy, geduurende den tyd van Vyftien eerst Agtereenvolgende Jaaren, de Werken, die ten diensten van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het ligt gebragt, en ten Toneele gevoert zouden mogen werden, in dier voegen, als zulx by de Supplianten is verzogt, en hier vooren uytgedrukt staat, binnenden voorsz. Onzen Landen alleen zullen mogen Drucken, doen Drucken, uytgeven ende verkopen, verbiedende daaromme allen ende een enygelyken dezelve Werken, in 't geheel, ofte ten deele te Drucken, naar te Drukken, te doen Naardrucken te Verhandelen, of te Verkopen, ofte elders Naargedrukt binnen den selven Onzen Landen te brengen, uyt te geven, ofte Verhandelen en Verkopen, op Verbeurte van alle de nagedrukte, ingebragte, verhandelde ofte verkogte Exemplaren, ende
+<pb n="4"/>een boete van drie duysend guldens daar en bovente verbeuren, te Appliceeren een derde part voor den Officier, die de Calange doen zal, een derde part voor den Armen der plaatzen daar het Calus voor vallen zal, ende het resteerende derdepart voor de Supplianten, ende dit t'elkens zoo meenigmaal, als dezelve zullen werden agterhaalt, alles in dien verstande, dat Wy de Supplianten met dezen onzen Octroye alleen willende gratificeeren tot verhoedinge van hunne schade door het Nadrucken van de voorsz. Werken, daar door in geenigen deele verstaan, den innehouden van dien te autoriseeren, ofte te Advouëren, ende veel min dezelve onder onze protexie, ende bescherminge, eenig meerder Credit, aanzien ofte reputatie te geeven, nemaar de Supplianten in cas daar inne iets onbehoorlyks zoude influëren, alle het zelve tot hare Lasten zullen gehouden weezen te verantwoorden, tot dien eynde wel Expresselyk begeerende, dat by aldien zy dezen onzen Octroye voordezelve Werken zullen willen stellen, daar van geene geabbrevierde ofte gecontraheerde mentie zullen mogen maken, nemaar gehouden wezen, het zelve Octroy in 't geheel, en zondereenige omissie daarvoor te drucken, of te doen drucken, ende dat zy gehouden zullen zyn, een Exemplaar van de voorsz. werken, op Groot Papier, gebonden en welgeconditioneert te brengen in de Bibliotheek van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat zy Supplianten de zelve Werken zullen hebben uyt te geeven, op een boete van zes hondert guldens, na expiratie der voorsz. zes Weeken, by de Supplianten te verbeuren ten behoeve van de Nederduytse Armen van de plaats alwaarde Supplianten wonen; en voorts op peene van met 'er daad versteeken te zyn van het effect van dezen Octroye. Dat ook de Supplianten schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz. Onse Bibliotheek, by zoo verre zy geduurende den tyd van dit Octroy deselve Werken zouden willen herdrucken met eenige
+vermeerderingen of anders, hoe genaamt, of ook in een ander formaat, gehouden zullen zyn wederom een ander Exemplaar van de gemelde Werken Geconditioneert als vooren, te brengen in de voorsz. Bibliotheek, binnen deselve tyd, en op de boete en penaliteyt, als voren. Ende ten eynde de Supplianten dezen Onzen Consente, ende Octroye mogen genieten, als naar behooren, Lasten wy allen ende eenen ygelyken, dien het aangaan mag, dat zy de Supplianten van den inhouden van dezen doen, Laten, ende gedogen, Rustelijk, vredelijk, ende volkomentlijk genieten ende gebruyken, cesserende alle belet ter contrarie. Gegeven in den Hage, onder onzen Groten zegele hieraan doen hangen op den zevenentwintigsten Mey, in 't Jaar onzes Heereende Zaligmakers duysend zeven hondert agtentwintig.</p>
+<p>J.G.V. Boetzelaar.</p>
+<p>Onder stond, ter Ordonnantie van de Staten, was gerekent</p>
+<p>WILLEM BUYS.</p>
+<p>Lager stond,</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gestelt by Extract Authenticq, haar Ed. Gr. Mog. Resolutien van den 28. Juny, 1715, en 30. April, 1728, ten einde om zig daarnate reguleeren.</p>
+<p>De Regenten en van het Wees en Oude Mannenhuis hebben, in hunne voorsz qualiteyt, het recht van deze Privilegie, alleen voor den tegenwoordigen Druk, van ANDRONICUS, <hi rend="i">Treurspel</hi>; vergunt aan <hi rend="sc">Izaak Duim</hi>. <hi rend="i">Amsterdam, den</hi> 5. <hi rend="i">January</hi>, 1741.</p>
+</div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3"><hi rend="i">Toewying</hi> Aan de kundige oefenaren der <hi rend="i">Nederduitsche dichtkunste.</hi></head>
+<lg type="poem">
+<l>Rechtschapene Yveraars voor de eedle Poëzyë,</l>
+<l>Die, Kenners van de kunst, en vreemd van vleijeryë,</l>
+<l>In spyt van d'overmoed der woeste Onwetendheid,</l>
+<l>Het leerzaam Dichterdom op 't gloriespoor geleid!</l>
+<l>Kunstlievende Oefenaars! myn yver durft het wagen</l>
+<l>U myn' Andronicus, myn' eerstling, op te dragen.</l>
+<l>Geen roekelooze drift, geen hatelyke waan,</l>
+<l>Geen vleijend zelf bedrog, maar leerzucht noopt my aan,</l>
+<l>Om op uw' oordeeltoets myn feilen na te speuren.</l>
+<l>Zoo zal uw dierbre gunst myn hulde billyk keuren:</l>
+<l>Zoo vrees ik voor myn dicht, myn nedrige offerhand',</l>
+<l>Geen wrevle lasterzucht van 't schendziek Onverstand.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">F. v. STEENWYK, de Jonge.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Personaadjen.</head>
+<list>
+<item><hi rend="sc">Calo-Joannes Paleólogus</hi>, <hi rend="i">Grieksch Keizer.</hi></item>
+<item><hi rend="sc">Iréne</hi>, <hi rend="i">Gemalin  } van den Keizer.</hi></item>
+<item><hi rend="sc">Andrónicus</hi>, <hi rend="i">Voorzoon } van den Keizer.</hi></item>
+<item><hi rend="sc">Marcénus</hi>,  } <hi rend="i">Staatsdienaars.</hi></item>
+<item><hi rend="sc">Leo</hi>, } <hi rend="i">Staatsdienaars.</hi></item>
+<item><hi rend="sc">Leoncius</hi>, <hi rend="i">Afgezant der Bulgaren.</hi></item>
+<item><hi rend="sc">Eudoxe</hi>, <hi rend="i">Zedemeesteres  } van Irene.</hi></item>
+<item><hi rend="sc">Narcéa</hi>, <hi rend="i">Staatjuffer } van Irene.</hi></item>
+<item><hi rend="sc">Martiaan</hi>, <hi rend="i">Vertrouweling van Audronicus.</hi></item>
+<item><hi rend="sc">Aspar</hi>,  } <hi rend="i">Oversten der Lyfwacht.</hi></item>
+<item><hi rend="sc">Géllas</hi>, } <hi rend="i">Oversten der Lyfwacht.</hi></item>
+<item><hi rend="sc">Crispus</hi>, <hi rend="i">Hofdienaar.</hi></item>
+<item><hi rend="sc">Lyfwachten</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p><hi rend="i">Het</hi> TOONEEL <hi rend="i">is te</hi> BYZANTIUM, <hi rend="i">in het Keizerlyk Paleis.</hi></p>
+</div>
+<div type="act">
+<pb n="7"/>
+<head rend="h2">Andronicus,
+<lb/>
+<hi rend="i">treurspel.</hi></head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Marcenus, Crispus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Hoe! ondanks d'ouden wrok, dien we in den boezem kweeken,</l>
+<l>Zegt gy, dat Leo met Marcenus wenscht te spreken?</l>
+<l>Met my? Kan 't wezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Crispus</hi>.</speaker>
+<l rend="; 1tab">Ja, hoe vreemd het u ook schyn',</l>
+<l>Hy zocht naar u, myn Heer, en zal terstond hier zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Is 't mooglyk dat zoo sterk hem eenig inzigt dringe,</l>
+<l>Dat hy één oogenblik zyn hevigheid bedwinge,</l>
+<l>Nadat hy menig jaar, met ydlen wederstand,</l>
+<l>Zich tegen myn belang heeft wrevlig aangekant,</l>
+<l>En honderdwerf getracht het eerämpt my te onttrekken,</l>
+<l>'t Geen me in Byzantium den nyd ten doel doet strekken?</l>
+<l>Ja, Crispus, myn geluk, 't geen met het zyne stryd,</l>
+<l>Geeft my een zoete wraak voor't woeden van zyn'nyd;</l>
+<l>Ik triomfeer, maar moet, bekommerd voor dat woeden,</l>
+<l>My voor zyn vyandschap nochtans zorgvuldig hoeden.</l>
+<l>Ik zal, in weêrwil zelfs van onzen fellen twilt,</l>
+<l>Hem hier verbeiden, om zyn hartsgeheim door list....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Crispus</hi>.</speaker>
+<l>Hy komt</l>
+</sp>
+<div type="scene">
+<pb n="8"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Marcenus, Leo, Crispus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<stage><hi rend="i">Tegen Crispus.</hi></stage>
+<l rend="; 1tab">Laat ons alleen.</l>
+<stage><hi rend="i">Tegen Marcenus.</hi></stage>
+<l rend="; 2tab">Myn Heer, kan ik verwachten,</l>
+<l>Dat gy, beleedigd, my gehoor zult waardig achten?</l>
+<l>Dat ge, ondanks de achterdocht, die gy met reden voed,</l>
+<l>Myn inzigt zult verstaan met een bedaard gemoed?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Ik kan onmooglyk myne ontroernis u bedekken:</l>
+<l>Maar wat belemmering uw reednen my verwekken,</l>
+<l>Van welk een groot gewigt uwe onderwinding zy,</l>
+<l>Vrees echter niets, myn Heer; spreek zonder veinzery.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>Myn Heer, 'k zal op uw woord myn oogmerk u verklaren.</l>
+<l rend="; 1tab">Door ons, door ons alleen, wierd meer dan twintig jaren</l>
+<l>Des Keizers geest bestiert. Ontrust om dees' uw' rang,</l>
+<l>Bedoelde ik menigwerf, uit nyd, uw' ondergang.</l>
+<l>Gy word niet minder door die zelfde zucht bewogen:</l>
+<l>De Vorst heeft my te hoog verheven in uwe oogen.</l>
+<l>'t Gevaar, gesproten uit den wederzydschen haat,</l>
+<l>Wierd grooter door de vrees voor onzen veegen staat:</l>
+<l>Wy dongen, door die vrees rechtmatig aangedreven,</l>
+<l>Tot onze veiligheid elkander naar het leven.</l>
+<l>Somtyds, als ons geschil bykans was bygeleid,</l>
+<l>Heeft ons de Keizer zelf een' nieuwen twist bereid:</l>
+<l>Hy weer, dat hy de trouw, die onze dienst hem huldigt,</l>
+<l>Aan onze onéénigheid is t' éénemaal verschuldigt;</l>
+<l>Dat we, onöphoudelyk verbitrerd op elkaêr,</l>
+<l>Voor hem steeds yvrig zyn, uit schrik voor ons gevaar.</l>
+<l>De Keizer smaakte dus, zoo lang we onéénig waren,</l>
+<pb n="9"/>
+<l>De vrucht van dezen twist. Men doe dien storm bedaren,</l>
+<l>Wiens hevigheid te lang ons beiden heeft ontrust;</l>
+<l>'t Is nu de tyd: de staat van 't Hof is u bewust.</l>
+<l rend="; 1tab">De Vorst, korts met Irene in echtverbond getreden,</l>
+<l>Betooverd door den glans van haar bekoorlykheden,</l>
+<l>Heeft die Prinses gerooft van zyn' rampzaalgen Zoon:</l>
+<l>De jonge Andronicus blaakt, om dien schampren hoon,</l>
+<l>Van onverzwelgbren spyt, van toorn en wraak te gader.</l>
+<l>Spaart zyn verwoede drift, uit eerbied, zynen Vader,</l>
+<l>Men vreeze billyk, dat het dreigend ongeval,</l>
+<l>'t En zy men 't listig weere, ons hoofd verpletten zal.</l>
+<l>Hy denkt dat onze raad, ten spyt van zyn vermogen,</l>
+<l>Tot deze tweede trouw den Keizer heeft bewogen.</l>
+<l>Ons dreigt een zelfde slag: men waak' dan éénsgezind,</l>
+<l>Opdat hy zich ter wraak met vrucht niets onderwind'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>'k Weet niet, myn Heer, of gy den grond van uw gepeinzen</l>
+<l>Gulhartig my verklaart, of, door arglistig veinzen,</l>
+<l>U wilt verzekren van myn zielsverborgenheên:</l>
+<l>Maar 'k vrees dien toeleg niet; wy spreken hier alleen.</l>
+<l>Gy zoud, indien ge my van ontrouw dorst betigten,</l>
+<l>Niets by den Keizer tot myn' ondergang verrichten:</l>
+<l>Ik weet dat hy uw' nyd verdenken zou, niet my.</l>
+<l>Ik spreek dan onbeschroomd, en zonder veinzery.</l>
+<l rend="; 1tab">Ik kan de billykheid van uw vertoog bevroeden:</l>
+<l>Nooit kunnen we ons te veel voor onzen Vyand hoeden,</l>
+<l>Dien Erfgenaam des Ryks. Hoe best zyn haat ontgaan?</l>
+<l>Voorzigtig wendde ik reeds all' myne zorgen aan,</l>
+<l>Om van zyn droefenis de redenen te vinden:</l>
+<l>Ik kon, als Voedsterheer, my best zulks onderwinden.</l>
+<l>Hy, steeds in eenzaamheid, en met een wrevlig hart</l>
+<l>Vol ongerustheid, leeft met eene onlydbre smart.</l>
+<l>Ik wist dit hartsgeheim, met zo veel kunst verborgen,</l>
+<l>'k Wist de oorzaak zyner smart te ontdekken door myn zorgen.</l>
+<l>De heerszucht pynigt hem: ja, zonder 't Ryksgebied,</l>
+<l>Strekt allerlei vermaak dien Trotsen tot verdriet.</l>
+<l>En, schoon men ondernam in zyn vermeetle zinnen,</l>
+<pb n="10"/>
+<l>Door lange slaverny, den hoogmoed te overwinnen,</l>
+<l>Zyn fierheid, die ons dreigt, ons éénmaal dier kan staan,</l>
+<l>Groeit in 't onbuigzaam hart, ondanks die voorzorg, aan:</l>
+<l>Door 't Keizerlyke bloed te hoog in rang verheven,</l>
+<l>Acht hy het zich tot schande afhangkelyk te leven:</l>
+<l>Ons aanzien, vruchteloos door zynen haat gedrukt,</l>
+<l>Dunkt hem een roof te zyn, vermetel hem ontrukt:</l>
+<l>Zyn sterkste hartstogt, hoe de heerszucht hem moog' dringen,</l>
+<l>Is de onverzoenbre haat tot 's Keizers gunstelingen:</l>
+<l>Ja, wenscht hy 's Vaders dood uit staatzucht, 't is noch meer</l>
+<l>Om onzen ondergang, dan om den troon, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>De liefde, die van Hof en Volk hem word bewezen,</l>
+<l>Doet voor zyn vyandschap ons zonder lafheid vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Hy heeft het gantsche Ryk, om die genegenheid,</l>
+<l>Van zyne kindsheid af door looze gunst misleid.</l>
+<l>Nu ondersteunt zyn list de oproerige Bulgaren:</l>
+<l>Ja, aan den Afgezant dier wrevele Barbaren,</l>
+<l>Die reis op reis met hem elk oogmerk overlegt,</l>
+<l>Heeft hy zyn' bystand by den Keizer toegezegt.</l>
+<l>Hun oogwit strekt tot vreê: verydlen wy dat poogen.</l>
+<l>Wat zouden we aan een Hof, dat rust geniet, vermogen?</l>
+<l>De Keizer, zorgloos, zou, naar aller vorsten aard,</l>
+<l>Als vruchtloos tot zyn' dienst, en zyner gunste onwaard,</l>
+<l>Wat gunst hy thans ons toone, ondankbaar ons verächten:</l>
+<l>Wy wierden, zo van ons geen dienst meer stond te wachten,</l>
+<l>Verdacht om ons gezag: en komt, in ongenaê,</l>
+<l>Voorheenbewezen trouw een' gunsteling te staê?</l>
+<l>Dan strekt in tegendeel, voor zuivre pligtbetooning,</l>
+<l>Hem kerker, ballingschap, de dood zelfs tot belooning;</l>
+<l>Terwyl, hoe wreed men zy, elk, blyde in ons verdriet,</l>
+<l>Uit oude wangunst waant, dat ons genaê geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>ô Ja, myn Heer, men poog' voor deze tegenspoeden,</l>
+<l>Gemeen aan ieder Hof, zich door beleid te hoeden.</l>
+<l>De Vorst geniete nooit de rust der vrede; ô neen!</l>
+<pb n="11"/>
+<l>Zoo blyve 't Ryksbewind in onze magt alleen!</l>
+<l>En trotse Andronicus, door dwang nooit in te toonen,...</l>
+<l>Doch met den Afgezant zie ik hem herwaarts komen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Leoncius, Marcenus, Leo, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Hier zyn ze: ik spreek hen aan, Leoncius: gy ziet</l>
+<l>Hoe uw verdrukte Staat myn tedre zorg geniet.</l>
+<stage><hi rend="i">Tegen Marcenus en Leo.</hi></stage>
+<l>Gy, die den Vorst bestiert, beweegt hem: op myn bede,</l>
+<l>Vergunn' men Bulgaryë een wenschelyke vrede.</l>
+<l>Merkt dat rampzalig Volk niet als strafwaardig aan.</l>
+<l>Ik wensch naar dat gewest met d' Afgezant te gaan.</l>
+<l>Ikzelf, indien men my laat derwaarts heen vertrekken,</l>
+<l>Wil, voor de zuivre trouw dier Volken, borg verstrekken.</l>
+<l>Denkt, dat gy oorzaak zyt van 't onheil 't geen my drukt;</l>
+<l>Dat, zo myn oogmerk door uw' bystand my gelukt,</l>
+<l>Ik edelmoedig kan vergeten my te wreken;</l>
+<l>Ja, my verneder u hier toe om hulp te smeeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Ach, Prins!...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Denkt op uw' pligt: maar overweegt vooräl,</l>
+<l>Dat my 't geboorterecht ten troon verheffen zal.</l>
+<l>Vertrekt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Leoncius, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l rend="; 1tab">Grootmoedig Prins, wy vleijen ons met reden,</l>
+<l>Dat uw genegenheid....</l>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Ach! wat vermag ik heden?</l>
+<l>Ik, ondanks al uw leed, rampzaliger dan gy,</l>
+<l>Wacht nimmer uitkomst in de rampen die ik ly:</l>
+<l>Maar een gewenschte vrede, indien gy die kunt treffen,</l>
+<l>Is magtig van verdriet u t'éénemaal te ontheffen....</l>
+<l>De Vorst, die u gehoor vergunt, komt herwaarts aan:</l>
+<l>Hy heeft, op myn verzoek, die gunst u toegestaan.</l>
+<l>Gelukkig, zo myn zorg u doet de rust verwerven,</l>
+<l>Die myn geteisterd hart in eeuwigheid moet derven!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Andronicus, Leoncius, Martiaan</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Myn Heer, Leoncius verzoekt nochmaal gehoor:</l>
+<l>En gy, uit loutre gunst, gaaft my verzekring voor....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hy nader'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l rend="; 2tab">Groote Vorst!....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 3tab">Rys op.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l rend="; 4tab">Laat my u smeeken,</l>
+<l>ô Vorst! voor Volken, van hunn' pligt nooit afgeweken;</l>
+<l>Wier heldendaden, by den vyand zoo gevreesd,</l>
+<l>Aan 't sidderend Europe een geessel zyn geweest,</l>
+<l>Wanneer uws Vaders moed, in zoo veel oorelogen,</l>
+<l>Hem deed ontzaglyk zyn in aller Vorsten oogen.</l>
+<l>Gedenk, myn Heer, gedenk hoe zyn genegenheid</l>
+<l>Dit trouw, dit moedig Volk, voordezen heeft gevleit;</l>
+<l>Dat zyn beroemde kling, in all' zyn heldentogten,</l>
+<l>Met onze legermagt de zege heeft bevochten.</l>
+<l rend="; 1tab">Maar, ach! die voorspoed is verkeert in slaverny:</l>
+<pb n="13"/>
+<l>Uw Dienaars drukken hen door wreede dwinglandy:</l>
+<l>Dier Helden eedle moed ligt nu ter neêr geslagen:</l>
+<l>Hun deugd word fel bestormt door de ysselykste plagen:</l>
+<l>'t Erbarmelyk geschrei vervult alöm de lucht:</l>
+<l>De Vorsten, Hoofden, en Soldaten, alles zucht:</l>
+<l>Het recht van Land en Volk word jammerlyk vertreden.</l>
+<l>Men wil met eenen glimp die tyranny bekleeden;</l>
+<l>Die noemt men uw bevel: maar neen, in ons verdriet,</l>
+<l>ô Vorst! schept gy geen' lust; gy weet die rampen niet.</l>
+<l>Ja, gy, zo 't misbruik van uw wydgeducht vermogen,</l>
+<l>Zo deze wreedheid ééns zich toonde voor uwe oogen,</l>
+<l>Zoud, min als Keizer, dan als Vader, all' den druk</l>
+<l>Van dit rampzalig Volk verwisslen in geluk,</l>
+<l>En uw misbruikt gezag niet ongewroken laten.</l>
+<l>'t Is waar, men heeft voor 't recht van onze veege Staten</l>
+<l>De wapens opgevat: maar, wierd door ons misdaan,</l>
+<l>Men wyte 't hun alleen, wier juk wy wederstaan.</l>
+<l rend="; 1tab">Gy zult ons nimmer zien in trouw voor u bezwyken.</l>
+<l>Begeert gy, dat we die op 't heerlykst u doen blyken?</l>
+<l>Dat wy van oord tot oord, met onvertsaagden moed,</l>
+<l>Uw standaards volgen? Vorst, gebie. Men zal noch bloed,</l>
+<l>Noch goedren, in uw' dienst, voor uwe glorie sparen.</l>
+<l>Wy hopen op dien last, in weêrwil der gevaren;</l>
+<l>Opdat uw gunstig hart, die zuivre trouw ten loon,</l>
+<l>De zelfde goedheid van uw' Vader ons betoon'.</l>
+<l rend="; 1tab">Maar ziet ons siddrend Volk, dat Wreedaarts, doof voor klagten,</l>
+<l>Zyn Magen, dag aan dag gefolterd, deerlyk slagten;</l>
+<l>Zich grooter maken dan zyn Vorsten, door den schat,</l>
+<l>Die 't uitgemergeld Land ontrooft word; denk dan, dat,</l>
+<l>Uit hoogen nood, maar niet om uw gezag te ontëeren,</l>
+<l>Het altoos trachten zal die dwinglandy te weeren.</l>
+<l rend="; 1tab">Besluit (als wettig Vorst, hangt van u 't oordeel af,)</l>
+<l>Wat onze schuld verdient, vergiffenis, of straf.</l>
+<l>Eerbiedig, zonder van ons ongeval te klagen,</l>
+<l>Zyn wy, zo ge ons verwyst, bereid die straf te dragen.</l>
+<l>Maar pleeg ten minsten met den onverzoenbren haat</l>
+<l>Der snoode Werkers van ons ongeluk geen' raad:</l>
+<pb n="14"/>
+<l>Spreek zelf het vonnis uit; maar laat u niet verkloeken</l>
+<l>Door hun, die uit belang de staatsberoerte zoeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Gy waant uw schuldig hoofd, door zulk een loos bestaan,</l>
+<l>Van welverdiende straf dan t'éénemaal te ontslaan?</l>
+<l>Is 't mooglyk? durft gy, door vermetelheid gedreven,</l>
+<l>My, in 't bestieren van myn Staten, wetten geven?</l>
+<l>Aan all' wat op myn' naam gelast word, of verricht,</l>
+<l>Is uw oproerig Volk gehoorzaamheid verpligt.</l>
+<l>Ik zou, zo ik myn wraak voldoening wou verschaffen,</l>
+<l>U antwoord geven met uw' overmoed te straffen:</l>
+<l>Maar 'k zal, in weêrwil van myn gramschap, echter my</l>
+<l>Met rypen ernst beraên, wat u beschoren zy.</l>
+<l>Ik weet uw inzigt. Ga. Ik zal in 't kort besluiten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Androncus, Martiaan</hi>. <hi rend="i">Lyswachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Prins, poogt gy noch de straf dier Schuldigen te stuiten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Geene onderdanen hebt ge, in uw' geduchten Staat,</l>
+<l>Wier trouw voor u, myn Heer, hun trouw te boven gaat.</l>
+<l>Gy zult, wat gunst gy hun Vervolgers moogt bewyzen,</l>
+<l>By de ondervinding van hun rampen, echter yzen.</l>
+<l>De Vorst, uw Vader, wiens beroemde heldenäart,</l>
+<l>Tot zyne onsterflyke eer, met wysheid ging gepaard,</l>
+<l>Heeft, van hunn' moed bewust, recht van hun trouw geoordeelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe! strekt zyn goedheid thans my tot een volgbaar voorbeeld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Weläan, myn Heer, beveel (nadien uw grimmigheid</l>
+<l>Aan die Verdrukten uw genade noch ontzeit,)</l>
+<l>Hun lot aan myne zorg; die schenke hun de vrede.</l>
+<l>Laat my vertrekken....</l>
+</sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">Gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Vergun my, op myn bede,</l>
+<l>Dien nutten togt. Het noopt my alles daar toe aan:</l>
+<l>Een deerniswaardig Volk, dat eerloos word verraên,</l>
+<l>Dat my zyn lot betrouwt; myn yverig begeeren</l>
+<l>Om van de staatsberoerte in 't end' te triomferen;</l>
+<l>En duizend reednen.... Ach! uw goedheid sta my toe....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Gy, gy Byzantium, dit Hof verlaten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 3tab">Hoe!</l>
+<l>Zult gy myne eerste beê my weigren? Laat, ten teeken</l>
+<l>Van uw genegenheid, uw' Zoon niet vruchtloos smeeken.</l>
+<l>Zie, door dit grootsch bestaan, zo de uitslag my voldoet,</l>
+<l>ô Vorst! wat éénmaal 't Ryk van my verwachten moet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Wat staat my van een taal, die my verbaast, te wachten?</l>
+<l>Tot welk een vreemde zorg verpynt gy uw gedachten?</l>
+<l>Wilt gy Byzantium, daar alles u ontziet,</l>
+<l>Daar gy, naar wensch, het hart van Hof en Volk geniet,</l>
+<l>Om 't vyandlyk gewest, dan onbedacht verlaten?</l>
+<l>U levren in de magt van muitende Onderzaten?</l>
+<l>Zyn die Ondankbren waard, dat gy hun smart gevoelt?</l>
+<l>Beraad u, Prins; bedenk wat oogmerk gy bedoelt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Andronicus, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>'t Besluit staat vast, myn Vrind: niets, niets kan my beletten</l>
+<l>Dien wenschelyken togt op 't spoedigst voort te zetten:</l>
+<l>Ja, 'k wil dit heilloos oord ontwyken, daar myn hart</l>
+<l>Onëndig word gepynt door de ysselykste smart.</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Hoe, Prins! door welk een hoop word ge onverhoeds gedreven?</l>
+<l>Waant ge in een vreemd gewest gelukkiger te leven?</l>
+<l>Dat gy Byzantium, en uw rampzaligheên,</l>
+<l>Dan teffens zult ontvliên? uw hart verzaken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Neen.</l>
+<l>'k Word nooit ontheven van myn felle tegenspoeden;</l>
+<l>Zelfs durve ik in myn ziel de minste hoop niet voeden;</l>
+<l>Irene is veel te schoon; in myn' verliefden zin</l>
+<l>Groeit ieder oogenblik myn hopelooze min.</l>
+<l>Die Schoone, eer 't schyngeluk my deed vyf jaren hopen,</l>
+<l>Kon in hare eerste jeugd my tot haar liefde nopen;</l>
+<l>En, ach! hare oogen zyn thans magtiger dan toen.</l>
+<l>'k Zou tegen myne min vergeefsche pooging doen.</l>
+<l rend="; 1tab">Maar dit rampzalig vuur, dat my ten val kan strekken,</l>
+<l>Zou mooglyk voor den Vorst niet langer zich bedekken.</l>
+<l>'k Zie in myns Vaders arm, met geen' bedaarden geest,</l>
+<l>Eene Ega, die myn Bruid voordezen is geweest.</l>
+<l>Een haat, door al myn deugd onmooglyk te overwinnen,</l>
+<l>Verspreid zich, om dien roof, in myn verstoorde zinnen.</l>
+<l>Ik weet, dat ik dien haat, die myns onwaardig is,</l>
+<l>Alleen door 't vlieden ban uit myn gedachtenis.</l>
+<l>Ik ken, ik ken genoeg de kinderlyke pligten.</l>
+<l>De Hemel tuig', dat ik die gaarne zou verrichten!</l>
+<l>Ja, dat ik meer zou doen, indien myn Vader my</l>
+<l>Niet alles had ontrooft! Zyn keur... Maar zwygen wy;</l>
+<l>Ik ben te driftig; 'k heb myn hart, myn jeugd te schroomen;</l>
+<l>Ik blaak van minnenyd; myn Bruid is my ontnomen....</l>
+<l>Ik ken myzelf niet meer in zoo veel ongeneugt'....</l>
+<l>Ontvlieden wy 't gevaar van myn bestreden deugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Uw ongelukkig lot, myn Prins, gaat my ter harte.</l>
+<l>Hoe pynt die wreede min uw ziel met felle smarte!</l>
+<l>Hoe zoud gy, zonder die, vernoegd, alöm geächt,</l>
+<l>Verzekerd van den rang van uw beroemd Geslacht,</l>
+<l>Hoe zoud gy, met al 't zoet dat waereldvoogden smaken,</l>
+<pb n="17"/>
+<l>In eene zagte rust uw' eedlen geest vermaken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>My baart de liefde alleen myn wreede kwelling niet;</l>
+<l>Ik ben geboren tot onlydbaar zielsverdriet.</l>
+<l>Hoe! is u de overmaat myns ongeluks verholen?</l>
+<l>Kunt gy, die 't wrevlig hart myns Vaders kent, dus dolen?</l>
+<l>Hy, aan zyn' rang verslaafd, hy, die steeds argwaan voed,</l>
+<l>Betoonde nimmer my de neiging van het bloed:</l>
+<l>De minste tederheid, kon 't bloed hem die verwekken,</l>
+<l>Zou in zyn wreede ziel zelfs voor een misdaad strekken.</l>
+<l>Het voordeel van myn' rang, al vleit ge my daar meê,</l>
+<l>Is iets, dat my de Vorst noch nooit genieten deê.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Hoe, Prins!...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Myn moedig hart, dat zich naar eisch wil kwyten,</l>
+<l>Mort, nu ik hier myn jeugd in ledigheid moet slyten.</l>
+<l>De Helden van myn' Stam, geächt, benyd, gevreesd,</l>
+<l>Zyn grooter door hunn'moed, dan door hunn'rang geweest.</l>
+<l>Doch ondanks all' hunn' roem, gaat echter niets my nader</l>
+<l>Ter harte, dan de lof van 's Keizers dappren Vader:</l>
+<l>Zyn voorbeeld, dat nooit zal uit myn gedachten gaan,</l>
+<l>Spoort op het krachtigst my tot eedlen volglust aan.</l>
+<l>Ik, die niet zonder nyd zyn' roem kan overwegen,</l>
+<l>Ik vergelyk, met smart, myn ledigheid daar tegen.</l>
+<l>In all' den levensloop van dien geduchten Held</l>
+<l>Is niets, dan 't gene alöm zyne eer en voorspoed meld,</l>
+<l>Nu doet hy 't Muitgespan den overmoed bezuren;</l>
+<l>Dan wint hy stad op stad door list, of velt de muren;</l>
+<l>De grootste Koningen verneêrt zyn heldenmoed;</l>
+<l>Der Bondgenooten rust word door zyn magt behoed:</l>
+<l>Of, zo hy echter moest een weinig rampspoeds lyen,</l>
+<l>Dien deed zyn wys beleid tot zynen roem gedyën:</l>
+<l>Hy, des te grooter, en door tegenspoed geleerd,</l>
+<l>Heeft van zyn ongeluk altoos getriomfeert.</l>
+<l>Maar ik, te leur gesteld met ydle bezigheden,</l>
+<l>Ik, die op 't heldenspoor hem nimmer na mogt treden,</l>
+<pb n="18"/>
+<l>Ik ken het recht gebruik noch van 't zeeghaftig staal,</l>
+<l>Noch van een legermagt, dan enkel door 't verhaal.</l>
+<l>Ach! dit verscheurt my; 't perst de tranen uit myne oogen;</l>
+<l>'t Heeft meer dan al myn ramp my tot dees 'togt bewogen.</l>
+<l>De drift, die my bezielt, werde in het end', voldaan!</l>
+<l>Ik moet, ter eeuwige eere, een heldenstuk bestaan,</l>
+<l>Opdat, ondanks de schaê van myn verloren jaren,</l>
+<l>Myn moedige oorlogsdaên myne afkomst evenaren.</l>
+<l rend="; 1tab">Ga, zoek Eudoxe, die, bewust van myn verdriet,</l>
+<l>My dikwyls de oogen van de schoone Irene ried</l>
+<l>Te ontvluchten tot myn rust, 'k mag my op haar betrouwen:</l>
+<l>Zy doe my voor het laatst de Keizerin aanschouwen.</l>
+<l>Ik eisch van haar die hulp noch voor deze ééne keer.</l>
+<l>Ga; haast u, Martiaan; ik wacht terstond u weêr.</l>
+</sp>
+<stage><hi rend="i">Einde des Eersten Bedryfs.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="19"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Irene, Eudoxe</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Eudoxe, ik doem uw' raad; myn hart blyft onbewogen.</l>
+<l>Hoe noopt ge my dus aan, uit avrechts mededoogen,</l>
+<l>Gy, van ons lot bewust, dat ik den Prins aanschouw'?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Ontzegt ge hem voor 't laatst een kort gesprek, Mevrouw?</l>
+<l>Begeert ge dan, dat hy, noch droeviger te moede,</l>
+<l>Zich, om uw weigring, uit Byzantium niet spoede?</l>
+<l>Verstoor den droeven Prins in zyne wanhoop niet:</l>
+<l>Vergun hem, nu hyzelf voor eeuwig u ontvlied,</l>
+<l>Dat hy, naar zyn begeerte, u 't laatst vaarwel doe hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Moet hy door zyn geklag op nieuw my 't hart doorbooren?</l>
+<l>Zal ik, zoo fel geschokt uit myn voorgaand geluk,</l>
+<l>Zoo jammerlyk gepynd door overmaat van druk,</l>
+<l>Terwyl gy, verr' van my zoo dwaas te wederstreven,</l>
+<l>Myn afgefolterd hart een' nieuwen moed moest geven,</l>
+<l>Zal ik, nochtans misleid door uw' verkeerden raad,</l>
+<l>My storten in 't gevaar dat meest te vreezen staat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Vorstin, eene ydle zorg verbystert uw gedachten.</l>
+<l>Staat, op uw weigering, u minder leeds te wachten?</l>
+<l>Licht zou hy roekeloos, alöm, voor elks gezigt,</l>
+<l>U volgen, tot in 't end' zyn opzet waar' verricht.</l>
+<l>De min, die hem beheerscht, zou hem den togt verbieden,</l>
+<l>'t En zy gyzelf hem perst kloekmoedig u te ontvlieden.</l>
+<l>Vertoon hem, dat zyn min, hoe loflyk wederstaan,</l>
+<l>In dit rampzalig Hof hem echter zou verraên;</l>
+<l>Dat Paleologus, die wreede op 't minst vermoeden</l>
+<l>Gemaal noch Vader ware in zyn onmenschlyk woeden;</l>
+<pb n="20"/>
+<l>Ja, dat de strengste wraak, zyn' minnenyd ten zoen,</l>
+<l>Dat zelfs uw beider val hem naauwlyks zou voldoen.</l>
+<l>Sterk in Andronicus den moed, hem aangeboren:</l>
+<l>Toon hem de onsterflyke eer, der helden deugd beschoren:</l>
+<l>Doe hem besluiten, om, hoe smartelyk 't hem zy,</l>
+<l>Voor eeuwig u te ontvliên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 2tab">Helaas! wat vergt ge my!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Bedenk, Vorstin! bedenk, dat hy, van hier gescheiden,</l>
+<l>Licht weêr zou keeren, u een nieuw verdriet bereiden,</l>
+<l>Wanneer het afzyn hem geweert had uit uw hart.</l>
+<l>Gy kunt u hoeden voor die doodelyke smart.</l>
+<l>Zo u de Prins belooft hier nimmer weêr te keeren,</l>
+<l>Te stryden met zichzelf, zyn liefde te overheeren,</l>
+<l>Zal hy, schoon door die drift op 't krachtigst aangespoord,</l>
+<l>In weêrwil van zyn hart zich kwyten van zyn woord.</l>
+<l>Hy kome; en, zonder dat zyn rampspoed u doe beven,</l>
+<l>Verwys hem, om altoos in ballingschap te leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Kan ik, meêdoogenloos, dat vonnis vellen? Ach!</l>
+<l>De Prins ontvliede my, maar niet door myn gezag.</l>
+<l>Zou ik, die door de min hem reeds genoeg doe zuchten,</l>
+<l>Zou ik hem nopen uit zyn Vaderland te vluchten?</l>
+<l>By woeste Volken zich te onthouden? Zou myn deugd</l>
+<l>Gesterkt zyn, tegen hem, in zoo veel ongeneugt'?</l>
+<l>Zyn tranen, zuchten,... Neen; myn hart, met hem bewogen,</l>
+<l>Heeft reeds voorzigtig hem verbannen uit myne oogen.</l>
+<l>Ik vind myn zielsverdriet onlydbaar, zonder 't zyn',</l>
+<l>Door dit bedroefd vaarwel, te voegen by het myn'.</l>
+<l>Was 't niet genoeg, om my van smart te doen bezwyken,</l>
+<l>Dat ik myns Vaders Hof voor eeuwig moest ontwyken?</l>
+<l>Die rustplaats daar myn geest, door myn geluk gevleit,</l>
+<l>Niets anders heeft gekent, dan lieve vrolykheid?</l>
+<l rend="; 1tab">ô Trebizonde, dat voorheen my kon bekoren,</l>
+<l>Daar geen verboden min myn zoete rust kon stooren!</l>
+<l>Ach! had een snelle dood, wanneer ik u verliet,</l>
+<pb n="21"/>
+<l>Myn angstig hart behoed voor 't pynlykst zielsverdriet!</l>
+<l rend="; 1tab">In myn gedachten door eene ydle hoop bedrogen,</l>
+<l>Ben ik, onzaalge! naar dit heilloos oord getogen.</l>
+<l>'k Verbeeldde my dat ik, door een gewenschte trouw,</l>
+<l>Aan 't hart des jongen Prins het myn' verbinden zou.</l>
+<l>'t Was onzer Vadren wil; en, in hun beider Staten,</l>
+<l>Steunde op dien grootschen echt de hoop der onderzaten.</l>
+<l>Nadien de Prins my minde, en minnenswaardig is,</l>
+<l>Kwam ik met blydschap aan tot die verbintenis.</l>
+<l>Maar, ach! hoe haast verdween myn vreugd en hoop te gader!</l>
+<l>'k Verschyn hier naauwlyks, of men dwingt my, met den Vader</l>
+<l>Myns Bruidegoms te treên in 't haatlyk echtverbond.</l>
+<l>Myn Vader stemt die trouw. 'k Moest (denk hoe dier 't my stond,)</l>
+<l>Tot redding van myne eer myn tedremin verzaken,</l>
+<l>Als offerhand' van Staat myzelf rampzalig maken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Vorstin, waar toe gestaâg 't voorleden wee herdacht?</l>
+<l>Is dit een middel dat uw droefenis verzagt?</l>
+<l>Bedenk wat ongeval die smart u kan verwekken,</l>
+<l>Die gy voor aller oog zorgvuldig moet bedekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Wie heeft ooit, meer dan ik, 't verdriet gesmoort in 't hart?</l>
+<l>Wie leed met meer gedulds zoo pynelyk een smart?</l>
+<l>'k Word van een wrevlig Hof, daar 't all' my staat te schroomen,</l>
+<l>Zelfs in het minst bedryf op 't naauwst in acht genomen;</l>
+<l>Terwyl myn angstig hart, dat steeds zichzelf bestryd,</l>
+<l>Versteken van zyn hoop, ondraagbre kwelling lyd;</l>
+<l>Terwyl dit strydend hart, in weêrwil van zyn poogen,</l>
+<l>Somtyds in zyn verdriet te kleen is van vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Span alle uw krachten in: door uw standvastigheid</l>
+<l>Is een gewisse zege u in het end' bereid.</l>
+<l>Gy zult, wanneer de Prins uwe oogen is ontweken,...</l>
+</sp>
+<div type="scene">
+<pb n="22"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Irene, Eudoxe, Narcea</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Narcea</hi>.</speaker>
+<l>Andronicus genaakt, Vorstin, om u te spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>, <hi rend="i">tegen Eudoxe.</hi></speaker>
+<l>Ik durf, om ons gevaar, hem niet aanschouwen: gy,</l>
+<l>Myn waarde Eudoxe, wacht, en spreek den Prins voor my.</l>
+<l>Zeg hem, dat pligt, gevaar, en glorie, my gebieden,</l>
+<l>In dezen toestand hem te weeren, hem te ontvlieden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Irene, Andronicus, Eudoxe, Narcea</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ontvlucht ge my, Mevrouw? Wat wreedheid! Hemel! Hoe!</l>
+<l>Moet myn geteisterd hart, noch droeviger te moê,</l>
+<l>U schuldig vinden aan myn doodlyke ongelukken?</l>
+<l>Kon in myn wanhoop my een zwaarder onheil drukken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Wat reden port u, Prins, om tegen myn bevel</l>
+<l>U aan te kanten? my te dwingen uw vaarwel,</l>
+<l>Uw klagt, te hooren? Kan die roekloosheid u baten?</l>
+<l>Waarom Byzantium niet zonder schuld verlaten?</l>
+<l>Gy weet hoe streng een pligt, verr' van uw stout bestaan,</l>
+<l>Ons beiden dwingt elkaêr in eeuwigheid te ontgaan.</l>
+<l>Neen, Prins, wy mogen geen byéénkomst oorbaar noemen,</l>
+<l>Waar in men't minstewoord, één lonk, één zucht, moet doemen.</l>
+<l>Ook weet gy, hoe myn hart, standvastig in zyn' pligt,</l>
+<l>U, tot ons beider heil, verbant uit myn gezigt;</l>
+<l>En zelfs, wat kwellingen uw hart op 't wreedst doorknagen,</l>
+<l>Dat ik, uit deerenis, dien ramp niet mag beklagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Wat hoor ik! Hoe, Mevrouw! heb ik door onbescheid</l>
+<pb n="23"/>
+<l>U redenen verschaft tot deze grimmigheid?</l>
+<l>Verg ik u onbedacht, dat gy, uit mededoogen,</l>
+<l>Myn' fellen tegenspoed aanschouwt met weenende oogen?</l>
+<l>Of smeek ik, dat myn ziel van u dien troost verwerv',</l>
+<l>Dat ik, die 't leven haar, aan uwe voeten sterv'?</l>
+<l>Door d'yver voor uw rust meer dan gyzelf gedreven,</l>
+<l>Ga ik vrywillig my in ballingschap begeven.</l>
+<l>Hier groeit van dag tot dag myn wreede minnegloed....</l>
+<l>Vergeef my voor het laatst een taal die u misdoet.</l>
+<l>Denk, denk aan myn besluit, 't gene, eer ik had vernomen</l>
+<l>Dat gy myn afzyn eischt, dien last is vóórgekomen:</l>
+<l>Herdenk, Mevrouw, of ik, sints dien rampzaalgen tyd,</l>
+<l>Dat gy (onlydbre smart!) myn' arm ontweldigt zyt,</l>
+<l>U, schoon myn boezem is op 't felst in liefde ontstoken,</l>
+<l>Van die verboden min heb onbedacht gesproken;</l>
+<l>Of ik u ooit met recht, ik, die myzelf bestreed,</l>
+<l>Eene onbescheiden' drift van my vermoeden deed:</l>
+<l>'k Gaf van een' strengen pligt u immers klare blyken:</l>
+<l>Maar onder zoo veel leeds zou 't moedigst hart bezwyken.</l>
+<l rend="; 1tab">Ik weet hoe doodlyk my in 't kort myn zelfstryd waar',</l>
+<l>Indien ik langer toefde in 't ysselykst gevaar;</l>
+<l>Ik weet wat achterdocht ons beiden stond te vreezen:</l>
+<l>Men zou, nadien men weet hoe hevig ik voordezen</l>
+<l>In liefde heb geblaakt, vermoeden dat die min,</l>
+<l>Gekoesterd, noch niet waar' verbannen uit myn' zin:</l>
+<l>Men zou u mogelyk, zoo wel als my, verdenken.</l>
+<l>Men weere eene achterdocht, die beider eer zou krenken!</l>
+<l rend="; 1tab">Ik tracht uw oog te ontvliên: ach! noop den Keizer aan,</l>
+<l>Voor 't eerst eene enkle beê my gunstig toe te staan.</l>
+<l>Mogt ik, door u, verlof erlangen! Bulgaryë</l>
+<l>Wierd haast getemt, wierd haast bevryd van dwinglandyë.</l>
+<l>Dat Volk, dien bystand waard, bied my een zuivre trouw:</l>
+<l>'k Weet, dat het bly te moê myn wetten eeren zou;</l>
+<l>Ja, dat ik, voor myn kling, aan't hoofd der legermagten</l>
+<l>Van dat ontzaglyk Volk, niets kan onmooglyk achten.</l>
+<l rend="; 1tab">Gedoog dan, dat ik u door zyne wapens dien'.</l>
+<l>De Hemel, die me ontzegt u immer weêr te zien,</l>
+<pb n="24"/>
+<l>My dwingt om, naar myn'pligt, myn' minnegloed te smooren,</l>
+<l>Kan zich ten minsten om myn' yver niet verstooren:</l>
+<l>Myn pligt verbied my, dat myn liefde u hulde doe;</l>
+<l>Maar staat, zelfs in uw' dienst, myn' arm het stryden toe.</l>
+<l>Gebie, Prinses, indien dees arm u ooit kan baten;</l>
+<l>'t Zy om uw' Vader, in zyn Keizerlyke Staten,</l>
+<l>Te sterken, allerweeg' die uit te breiden, of,</l>
+<l>Indien de nood het eischt, zelfs in dit wrevlig Hof</l>
+<l>Te stryden voor uw heil. 'k Wacht, voor myn dienst betooning,</l>
+<l>Niets anders dan de dood, of glorie, tot belooning.</l>
+<l>'k Mag u geen minnend hart opöffren; maar ik boet</l>
+<l>(Dit 's thans myn grootst geluk,) die schade met myn bloed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Gy vleit my vruchtloos, Prins, met deze heldendaden:</l>
+<l>Ik moet zoo groot een' dienst, die offerhand', versmaden.</l>
+<l>Wat kan 'er wezen, dat, na uw gewenscht vertrek</l>
+<l>Uit dit rampzalig Hof, my hier noch vrees verwekk'?</l>
+<l>Alleen door deugden, myn geboorte waard, bewogen,</l>
+<l>Zie ik dan alles aan met onverschillige oogen.</l>
+<l>Ja, Prins, ik wil myn hart, hoe wederspannig 't zy,</l>
+<l>Tot liefde dwingen voor een' Echtgenoot, dien my</l>
+<l>Des Hemels schikking gaf, gehoorzaam hem behagen,</l>
+<l>Naar myn' gestrengen pligt my t' éénemaal gedragen,</l>
+<l>'t Verdrukt Bulgarisch Volk van dwinglandyë ontslaan:</l>
+<l>Zie daar, waar in altoos myn pooging zal bestaan.</l>
+<l rend="; 1tab">Nochtans, nadien 't niet stryd met deze pligt betrachting,</l>
+<l>Verzeker u altoos van myne onkreukbare achting;</l>
+<l>Dat ik, wanneer uw roem verbreid word door 't heeläl,</l>
+<l>By 't algemeen gejuich het myne voegen zal.</l>
+<l>Ja, 't éénige vermaak, 't geen my noch kan bekoren,</l>
+<l>Is, van uw heldendaên een' eedlen lof te hooren;</l>
+<l>Dat honderd Vorsten, u afgunstig om die eer,</l>
+<l>Myn ziel rechtvaardigen dat ze u verkoos, myn Heer.</l>
+<l rend="; 1tab">Nu werde uw nutte togt kloekmoedig ondernomen!</l>
+<l>Tracht, zonder myn verlof, hier nimmer weêr te komen.</l>
+<l>Zoek elders meer geluks, dan in dit heilloos oord,</l>
+<l>Daar myn gezigt altoos uw zielsgenoegen stoort.</l>
+</sp>
+<pb n="25"/>
+<sp>
+<speaker><hi rend="sc">Adronicus</hi>.</speaker>
+<l>Vorstin, ach! wat geluk kan ooit myn hart verwerven,</l>
+<l>Na de onherstelbre schaê van u te moeten derven?</l>
+<l>Wat kan ik hopen, dan te toonen, dat myn hart</l>
+<l>Een beter lot verdient? dan, in de wreedste smart,</l>
+<l>Ten koste van myn bloed, my eertropheen te stichten?</l>
+<l>Maar gy, Mevrouw, schoon ik, genoopt door strenge pligten,</l>
+<l>In onöphoudlyk wee myn jeugdig leven slyt,</l>
+<l>Vergeet myn ongeval, regeer, en tracht altyd....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Wat hoor ik! Is myn moed zoo groot in uw gedachten?</l>
+<l>Dit wreed verwyt bestormt my feller, dan uw klagten.</l>
+<l>Ach, Prins! gelooft ge, dat Irenes teder hart</l>
+<l>Gevoelloos wezen kan in uwe onlydbre smart?</l>
+<l>Dat gy, dat gy alleen, door de ysselykste rampen,</l>
+<l>Beklagens waardig zyt, en met uzelf moet kampen?...</l>
+<l>Maar, hoe! wat zeg ik! Ach! waar toe my opgezocht?</l>
+<l>Misbruik myn zwakheid niet: ga; haast u tot den togt....</l>
+<l>Wat zie ik!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Irene, Andronnicus, Eudoxe, Narcea, Marcenus, Leo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">Wat geheim doet u hier samen spreken?</l>
+<l>Myne onverwachte komst doet u van schrik verbleeken:</l>
+<l>Gy veinst vergeefs voor my; 'k bespeur uw beider schrik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Myn Vorst,... de Prins... hy kwam my zoeken, smeekt dat ik</l>
+<l>(Nadien hy word genoopt door yverig verlangen,)</l>
+<l>Hem, door myn voorspraak, doe een gunst van u ontfangen.</l>
+<l>Op ieder oogenblik groeit dat verlangen aan.</l>
+<l>Wacht van die eedle drift ontelbre heldendaên.</l>
+<l>Uw gunst will' zyn begeerte op myne beê gehengen!</l>
+<l>Zie daar, Prins, al de hulp die ik u toe kan brengen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="26"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Andronicus, Marcenus, Leo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Prins, heeft het ongeduld uw hart dus overheert,</l>
+<l>Dat ge in uw stout bestaan noch myn verlof begeert?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ja, Vorst; ik kan de zucht, waar door ik word gedreven,</l>
+<l>Myn' yver tot dien togt, onmooglyk wederstreven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe wenschte ik dat die drift, die onbedachtzaamheid,</l>
+<l>Die ik met weêrzin hoor, u nimmer had misleid!</l>
+<l>'k Heb, min als Keizer, dan als Vader, u doen hooren,</l>
+<l>Dat zulk een vreemd verzoek, hervat, my zou verstooren.</l>
+<l>'t Verwondere u dan niet, nu gy, uit overmoed,</l>
+<l>Door zulk een roekloosheid my weêr op 't hoogst misdoet,</l>
+<l>Dat u die dwaze bede in 't end' werde afgeslagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ach, Vorst! begeert ge dan,....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">Hoe! wilt ge u des beklagen?</l>
+<l>Betoon my meer ontzags, opdat ik, voor altoos,</l>
+<l>Dees' overmoed vergeet': verwek nooit roekeloos</l>
+<l>Eene achterdocht, die u tot onheil kon verstrekken,</l>
+<l>Die in ons beider ziel kon naberouw verwekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Weläan, myn Heer, ik ga; 'k bespeur dat zich myn hart</l>
+<l>Niet meer bedwingen kan in zyne onlydbre smart.</l>
+<l>Dat zy, die oorzaak zyn van all' myn tegenspoeden,</l>
+<l>My ééns die weigring, al myn hartewee, vergoeden!</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="27"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Marcenus, Leo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe! voor myne oogen zulk een roekloos onbescheid</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>Gy hoort, dat hy ons dreigt, myn Vorst! zyn wrevelheid,</l>
+<l>Zyn woede, die geenszins tot u zich durft verheffen,</l>
+<l>Zal, onverzoenelyk, ons hoofd te zwaarder treffen.</l>
+<l>Ja, 't is te duchten, dat het dreigend ongeval</l>
+<l>Niet op ons hoofd alleen ter neder storten zal;</l>
+<l>Dat op ons Nageslacht, door niemands hulp verdedigd,</l>
+<l>Zyn felöntstoken toorn zelfs naauwlyks werd' bevredigt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Voor my, ik sidder niet, wat rampen wy voorzien,</l>
+<l>Voor 't woeden van den Zoon, zo ik den Vader dien':</l>
+<l>Ja, schoon dat ongeval my mogt het eerst doen beven,</l>
+<l>Vorst, 'k raad u echter acht op uwen Zoon te geven.</l>
+<l>Hy had die smart niet op uw weigering gevoelt,</l>
+<l>Zo hy geen groot bestaan had met dien togt bedoelt.</l>
+<l>Wat zou hem naar 't gewest der Muitelingen dryven,</l>
+<l>Indien zyn yver niet hunne ontrouw zocht te styven?</l>
+<l>Zou iets hem nopen uit zyn Vaderland te gaan,</l>
+<l>ô Vorst! 't en zy hy 't wilde, uit dolle drift, verraên?</l>
+<l>Bedenk, bedenk dat hy, door d' Afgezant gewonnen,</l>
+<l>Ondanks uw streng verbod in stilte 't Ryk zou konnen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hy? zonder myn verlof?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l rend="; 1tab">Ja, Vorst, 't en zy gy 't weert.</l>
+<l>Hy, hy alleen is 't dien Leoncius begeert.</l>
+<l>Denk, dat zyn staatzucht, door dien Afgezant gesteven,</l>
+<l>Een' rang bedoelt, waar toe hy hier niet is verheven.</l>
+<l>'t Is waar, ik zie eerlang, door uw geduchte magt,</l>
+<l>De Muitelingen tot gehoorzaamheid gebragt:</l>
+<pb n="28"/>
+<l>Maar wat verdriet zal u hun overmoed verwekken,</l>
+<l>Zo ze onder zulk een Hoofd, als hy, ten stryde trekken!</l>
+<l>Zo zy den Vader met zyn' eigen Zoon weêrstaan,</l>
+<l>Als of ze voor dien Prins alleen ten stryde gaan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>Myn Vorst, wat stout bedryf zou hy niet billyk vinden,</l>
+<l>Indien hy magtig waar' zich alles te onderwinden?</l>
+<l>Misnoegd, alöm gevolgd door hun, die, keer op keer</l>
+<l>Verwinnaars, moedig zyn op hun verkregene eer,</l>
+<l>Zou hy, als Opperhoofd van die gevloekte Helden,</l>
+<l>Licht zyn vermogen in Byzantium doen gelden.</l>
+<l rend="; 1tab">Een jeugdig Prins, vol moeds, gelukt hem één bestaan,</l>
+<l>Eén misdaad, zal allengs tot grooter overslaan.</l>
+<l>Misleid door vleijers, die hem 's Ryks Beschermer noemen,</l>
+<l>Zal hy zich schaamteloos op 's Hemels hulp beroemen.</l>
+<l>Hy wint der benden hart door zyn' vermeetlen moed;</l>
+<l>Hy triomfeert; elk schrikt; hy stort een zee van bloed;</l>
+<l>Geen aanslag is te zwaar; in zyn verfoeilyk poogen,</l>
+<l>Eert, of ontvlucht, beschermt, of vreest men zyn vermogen;</l>
+<l>Totdat al zyn bestaan, zyn kloekheid, hoe bevlekt</l>
+<l>Met gruwzame euveldaên, zelfs tot zyn glorie strekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Ach! hoe verbaast ge my! Hy werde vóórgekomen!</l>
+<l>Zyn pooging van naby zorgvuldig waargenomen!</l>
+<l>Myn Vrinden, op wier hulp ik my verlaten zal,</l>
+<l>Kiest trouwe dienaars uit: men volg' hem overäl,</l>
+<l>Opdat, indien hy waant myn magt te zyn ontwassen,</l>
+<l>Wy dien Vermeetlen in zyn stoute vlucht verrassen!</l>
+<l>Vertrekt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l rend="; 1tab">Wat voorgevoel! hoe hevig word myn hart,</l>
+<l>Myn angstig hart, ontrust door pynelyker smart!</l>
+<l>'k Zie, door Andronicus, door minnenyd, bestreden,</l>
+<l>Irene, t'zyner liefde, in zyn belangen treden!</l>
+<pb n="29"/>
+<l>Wat noopt haar voor myn' Zoon? Zy spraken met elkaêr;</l>
+<l>Myn komst heeft hen verrast; 'kwierd beider schrik gewaar.</l>
+<l>ô Hemel! welk een' schrik!.. 'k Heb mooglyk my bedrogen.</l>
+<l>Maar zou ik met den pligt eens Zoons my vleijen mogen?</l>
+<l>Stelt my die pligt gerust? ô Neen! het minnevuur,</l>
+<l>Wanneer het hevig blaakt, die gloed, verteert natuur,</l>
+<l>En doet Andronicus misschien zyn deugd verzaken.</l>
+<l>'k Weet dat Irene hem voorheen in min deed blaken:</l>
+<l>Licht dat, ondanks myn' echt, hy haar noch liefde draagt,</l>
+<l>Dat zy in 't heimelyk hem aanhoort, hem beklaagt.</l>
+<l>Zo 't bleek..! Wat strenge wraak..! Laat ons't geheim ontdekken:</l>
+<l>Ze ontveinzen 't my vergeefs, nu ze achterdocht verwekken.</l>
+<l>Weläan, zo 't misdryf blykt, de schuldige verga!</l>
+<l>Men overwege niet hoe dier die straf my sta!</l>
+</sp>
+<stage><hi rend="i">Einde des Tweeden Bedryfs.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="30"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Andronicus, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Myn Prins, wat gaat u aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Ach! zwyg; gy zoud niets winnen:</l>
+<l>Myn gramschap triomfeert in myn getergde zinnen;</l>
+<l>Noopt, onweêrstaanbaar, my tot deze klagten aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Kunt gy die hevigheid geen oogenblik weêrstaan?</l>
+<l>Hoe, Prins! moet dit Paleis weêrgalmen van uw klagten?</l>
+<l>Gy moet, in tegendeel, u voor bespieders wachten....</l>
+<l>Leoncius genaakt, die, tot de vlucht bereid,...</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage>Andronicus, Leoncius, Martiaan.</stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Leoncius, myn hoop steunt op uw kloek beleid.</l>
+<l>De Keizer wil myn' togt, hoe billyk, niet gedoogen:</l>
+<l>En, ach! 'k word door myn drift nog even sterk bewogen:</l>
+<l>Ik moest, indien ik toefde in dit rampzalig oord,</l>
+<l>Vergaan door 't endloos wee, dat my de ziel doorboort:</l>
+<l>De vlucht alleen verzagt die smart. Mag ik my vleijen,</l>
+<l>Dat uw voorzigtigheid my veilig zal geleijen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l>Ja, Prins; niets hindert ons: verbreek een schandlyk juk;</l>
+<l>Bevry u, door de vlucht, van uw gevaar en druk.</l>
+<l>Ons vryheidlievend Volk voldoet ge in zyn verlangen,</l>
+<l>Zo ge onze wapens tot uw' bystand wilt ontfangen.</l>
+<l>Dit Krygsvolk zal, om stryd, met zyn' gewonen moed,</l>
+<pb n="31"/>
+<l>Uw rust verdedigen ten koste van zyn bloed.</l>
+<l>Vlie onbekommerd. Dat uwe eerste heldenslagen,</l>
+<l>Elk, u genegen, van uw glorie doen gewagen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ik mar niet langer, neen; men heeft myn strydend hart</l>
+<l>Te deerelyk bestormt met de ysselykste smart.</l>
+<l>Laat ons, te lang misleid, zorgvuldig ons behoeden.</l>
+<l>Wie t' onrecht my vervolgt, deele in myn tegenspoeden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l>ô Ja, wreek u en ons, myn Prins: men wacht alleen</l>
+<l>Dat zich uw heldendeugd met onzen moed veréén'.</l>
+<l>Dat we al ons Staatsgeheim u ongeveinst ontdekken,</l>
+<l>Kan u tot onderpand van onze oprechtheid strekken.</l>
+<l>Ons Heir, zyn Hoofd getrouw, behendig in 't geweer,</l>
+<l>In 't krygsveld lydzaam, stout op zyn verkregene eer,</l>
+<l>Ja steeds gezind, uit schrik voor een verächtlyk leven,</l>
+<l>Te zegepralen, of met eeuwige eer te sneven,</l>
+<l>Is vaardig tot de wraak, uw eerste heldenstuk.</l>
+<l>Gebie dees benden, Prins; beproef uw krygsgeluk.</l>
+<l>'t Ontzag weêrhoude u niet! ô Neen! Meêdoogenswaardig</l>
+<l>Mishandeld neffens ons, wreekt ge u en ons rechtvaardig.</l>
+<l>Zoo doe uw heldenmoed, door schyndeugd niet misleid,</l>
+<l>U steigeren ten top van eere en mogendheid!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Men overweeg' hoe best de vlucht werde ondernomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leoncius</hi>.</speaker>
+<l>'t Is Martiaan bewust. U staat geen' ramp te schroomen.</l>
+<l>Hy zal u uit dit Hof, terwyl ik u verwacht,</l>
+<l>Geleiden, als ge u ziet beveiligd door den nacht.</l>
+<l>Gy zult van oord tot oord, door myn getrouwe Vrinden,</l>
+<l>Door Yvraars voor uw' dienst, uw' togt begunstigd vinden.</l>
+<l>Vaarwel, myn Vorst: de tyd van uw vertrek genaakt:</l>
+<l>'k Maak alles vaardig voor den yver die u blaakt.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="32"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>'t Is dan gedaan, myn Prins? verr'van myn zorgen te achten,</l>
+<l>Volgt gy de blinde drift van woedende gedachten?</l>
+<l>Is niets dan magtig om die vlucht te wederstaan?</l>
+<l>Wat ysselyk gevaar dreigt u te doen vergaan!</l>
+<l>De dolle drift, waar door ge u roekloos laat misleiden,</l>
+<l>Uw stout bestaan, zal u een wis verderf bereiden.</l>
+<l>Neen, neen, des Keizers hart, geen tederheid gewoon,</l>
+<l>Zou u, door hem verrast, niet handlen als zyn' Zoon.</l>
+<l>Besef den toeleg: 't is noch tyd die vlucht te staken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ach, Wreede! moet uw zorg myne eedle neiging wraken?</l>
+<l>Men laat' my vlieden! waar, waar heb ik meerder stof</l>
+<l>Tot welgegronde vrees, dan in dit gruwzaam Hof?</l>
+<l>My is genoeg bewust wat ramp ik heb te duchten:</l>
+<l>Ja, Martiaan, ik weet, verrast men my in 't vluchten,</l>
+<l>Dat ik, vergeefs beschermd door 't bloed en door den Staat,</l>
+<l>Myn' grootschen toeleg zou bezuren als verraad:</l>
+<l>Maar, ach! hoe zou myn ziel, in hare ontelbare plagen,</l>
+<l>Zich, tot verlichting van dien tegenspoed, gedragen?</l>
+<l rend="; 1tab">Is 't mooglyk, dat uw vrees de vlucht niet billyk keurt?</l>
+<l>Bedenk wat endloos wee my meer en meer verscheurt.</l>
+<l>Ik zie (ô wreede spyt!) twee snoode Gunstelingen,</l>
+<l>Twee Kankers van den Staat, my al 't gezag ontwringen;</l>
+<l>Terwyl hun magt, bestierd door hunn' ontmenschten aart,</l>
+<l>Van 't bloed, waar uit ik sproot, myn ziel een' afschrik baart.</l>
+<l>Gy weet hoe onverhoeds, door hun misbruikt vermogen</l>
+<l>Op 's Keizers wreede ziel, myn Bruid my wierd onttogen.</l>
+<l>Hoe yslyk is die schade in myn gedachtenis,</l>
+<l>Dat gadeloos verlies, dat onherstelbaar is!</l>
+<l>Heb ik, gefolterd door myn kwynende gedachten,</l>
+<l>Ooit ademtogt geschept? myn ziel ontlast door klagten?</l>
+<pb n="33"/>
+<l>Neen; 'k heb, in weêrwil van de pynelykste smart,</l>
+<l>Myn zuchten steeds gesmoort in 't binnenst van myn hart;</l>
+<l>Ik heb myzelf gepynt, verr' van myn' smaad te wreken,</l>
+<l>Myzelf alleen, door 't leed dus in het hart te kweeken.</l>
+<l>Nu smeek ik, afgemat in dit afgryslyk oord,</l>
+<l>Door al de kwelling, die onlydbaar my doorboort;</l>
+<l>En min bekommerd dat men toelegge op myn leven,</l>
+<l>Dan dat myn veege deugd in 't end' my mogt begeven;</l>
+<l>Nu smeek ik ernstig, dat de felöntstoken twist,</l>
+<l>In Bulgaryë, door myn zorgen werd' geslist;</l>
+<l>Dat ik de Oproerigen ter onderwerping brenge:</l>
+<l>Maar, verr' van dat men't grootsch, en nut bestaan gehenge,</l>
+<l>Bespeur ik dat myn beê zelfs achterdocht verwekt,</l>
+<l>Myn yver voor dien togt my tot een misdaad strekt.</l>
+<l>Ja, Martiaan, men durft, door ydlen schrik bedrogen,</l>
+<l>Vermoeden dat myn hart door heerszucht word bewogen;</l>
+<l>Dat my die drift noopt tot een hagchelyk besluit,</l>
+<l>Als doelde ik op de wraak van myne ontrukte Bruid.</l>
+<l>Dus laat men blindling zich door ydle vrees misleiden:</l>
+<l>Dit 's de oorzaak, dat men my belet van hier te scheiden:</l>
+<l>Men maakt een Vaders hart onbuigzaam voor myn beê:</l>
+<l>Men kluistert hier het myne aan zyn ondraagbaar wee:</l>
+<l>Ik zie met afschrik myn Vervolgers triomferen,</l>
+<l>Aan wie, belust om my van smart te zien verteeren,</l>
+<l>De onlydbre wreedheid van myn kwelling niet voldeed,</l>
+<l>Zo ik die yslykheên voor hun gezigt niet leed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l>Myn Heer,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Ik doem uw' raad: myn' naren kerker moede,</l>
+<l>Volg ik de drift alleen van myn geheime woede:</l>
+<l>Die woede dwingt myn' arm tot moedige oorlogsdaên:</l>
+<l>Ik ben 't gevaar getroost; 'k moet vlieden, of vergaan.</l>
+<l>Myn hart moest onder't leed te lang in 't heimlyk zuchten:</l>
+<l>Ik wil betoonen hoe myn gramschap is te duchten;</l>
+<l>Opdat in 's Keizers geest de wreedste tyranny,</l>
+<l>Zelfs aan een' Zoon gepleegd, tot naberouw gedy'!</l>
+<pb n="34"/>
+<l rend="; 1tab">Maar, Martiaan, de nacht heeft al 't gerucht verdreven:</l>
+<l>Licht heeft het Hofgezin zich reeds tot rust begeven.</l>
+<l>Voldoe myn ongeduld; ga; 'k wacht u hier; bespie</l>
+<l>Het gunstig oogenblik waar in men veilig vliê.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Myn hart, dat allen troost in zyn verdriet moest derven,</l>
+<l>Zal, door de vlucht, in 't ende een beter lot verwerven,</l>
+<l>Indien de Hemel, op myn bede, uit deerenis</l>
+<l>Met myne ondraagbre smart, den toeleg gunstig is.</l>
+<l rend="; 1tab">Getuige myner vreugde, en myner wreede plagen,</l>
+<l>Paleis, welëer 't verblyf van myn beroemde Magen!</l>
+<l>Byzantium, daar 't bloed my had den troon bereid!</l>
+<l>Myn dierbaar Vaderland! vaart wel in eeuwigheid.</l>
+<l>Ik vlie; maar, ach! myn hart, niet van zyn liefde ontheven,</l>
+<l>Betrouwt aan u een' schat, my waarder dan het leven.</l>
+<l rend="; 1tab">ô Hemel, die my dwingt, dat ik myn min verzaak'!</l>
+<l>'k Ontvlucht voor eeuwig haar om wie ik hevig blaak.</l>
+<l>Verzagt dien ramp; laat my haar wee niet meer beklagen:</l>
+<l>Zy slyte vergenoegd in dit verblyf haar dagen!</l>
+<l>Dat ik alleen (dewyl 't myn lot is dat ik ly',)</l>
+<l>'t Ontzalig voorwerp van uw geesselslagen zy!</l>
+<l>In 't end'...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Martiaan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Martiaan</hi>.</speaker>
+<l rend="; 1tab">De tyd, myn Heer, begunstigt ons; men scheide...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Weläan. ô Hemel! dat uw bystand ons geleide!</l>
+<l>Mogt niemand ons in dit gevaarlyk uur bespiên!...</l>
+<l>Maar, hoe! ik hoor gerucht... Moet ik den Keizer zien!</l>
+<l>Myn vlucht is hem ontdekt!</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="35"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Paleologus, Andronicus, Marcenus, Leo, Martiaan, Aspar, Crispus, Gellas</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 2tab">Men gryp' hen aan, myn Wachten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Laat af; 'k moet door myn dood myn éénig heil betrachten.</l>
+</sp>
+<stage><hi rend="i">Hy wil zich doorsteken, doch word ontwapent.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe, Prins! gelooft ge, dat uw roekeloos bestaan</l>
+<l>U in myne oogen als strafwaardig door doet gaan?</l>
+<l>Men brengt zichzelf niet om, wanneer men niets moet vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Nu gy myn misdaad weet, zou 't veinzen vruchtloos wezen.</l>
+<l>Men had my immers in myn opzet niet gestuit,</l>
+<l>Zo gy niet waart bericht van myn bespied besluit.</l>
+<l>ô Ja, 'k ben schuldig; 'k zal u niets daar van bedekken:</l>
+<l>'k Wilde aan uw wrevelheid eene offerhande onttrekken;</l>
+<l>Aan myne drift voldoen, en aan uwe achterdocht;</l>
+<l>U van een zorg ontslaan, u, die naar reden zogt</l>
+<l>Om my te slagten uit een ongegrond vermoeden;</l>
+<l>U voor dien gruwel, voor die kindermoord behoeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Met welk een trotsheid gaat zyne euveldaad gepaart!</l>
+<l>Men sleepe hem van hier: hy werde naauw bewaart.</l>
+<l>Berooft Leoncius en Martiaan van 't leven.</l>
+<stage><hi rend="i">Tegen Marcenus, en Leo.</hi></stage>
+<l>Hun boosheid heeft hem in zyn wanbedryf gesteven.</l>
+<l rend="; 1tab">Gy, Leo, volg den Prins: 'k beveel aan uw beleid</l>
+<l>Een ernstig onderzoek van zyne trouwloosheid.</l>
+<l>Tracht een onwraakbaar blyk van zyn verraad te vinden:</l>
+<l>Zoo straf ik billyk dien Vermeetlen, dien Ontzinden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="36"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Paleologus, Marcenus</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Marcenus</hi>.</speaker>
+<l>Nu ziet gy,'t Vorst; waar't niet door ons bericht mislukt,</l>
+<l>Leoncius verraad had u den Prins ontrukt.</l>
+<l>Zy pleegden heimlyk raad hoe best van hier te vluchten:</l>
+<l>Begunstigd door den nacht, scheenhun geen leed te duchten:</l>
+<l>Maar een der mynen, die hen volgde van naby,</l>
+<l>Die 't roekeloos besluit bespiedde, ontdekte 't my.</l>
+<l>Nu is die stoute vlucht, hoe schielyk ondernomen,</l>
+<l>En 't zorgelyk gevolg des aanslags, voorgekomen:</l>
+<l>'t Arglistig Muitgespan, hoe moedig, hoe verwoed,</l>
+<l>Is nu te leur gestelt in all' zyn' overmoed.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Paleologus, Irene, Eudoxe, Narcea, Marcenus</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Myn Heer, wat naar gerucht doet door al 't Hof zich hooren?</l>
+<l>Wat yslyk oogmerk is 't, dat uwe rust kan stooren?</l>
+<l>Wat onvoorzien gevaar heeft thans u hier gevoert?</l>
+<l>Door dit verward gerucht op 't smartelykst ontroerd,</l>
+<l>Door bittren angst, voor u, zoo onverhoeds bewogen,</l>
+<l>Zoek ik u allerweeg': niets toont zich voor myne oogen,</l>
+<l>Dan 't geen my meer ontrust, dan zuchten, dan geween:</l>
+<l>De schrik verspreit zich reeds door al de Lyfwacht heen.</l>
+<l>Wat schielyke ommekeer, wat ramp, doet alles beven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Vorstin, gy zyt te veel bekommert voor myn leven:</l>
+<l>Het onheil, dat my dreigde, is t' éénemaal voorby.</l>
+<l>Ik heb den Prins verrast in zyn verradery.</l>
+</sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Hoe, Vorst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">Hy schaamt zich niet op 't vinnigst uit te spatten,</l>
+<l>De wapens tegen my als vyand op te vatten:</l>
+<l>Voor 't billyk woeden van myn gramschap niet beducht,</l>
+<l>Waar' hy, tot bystand van het Muitgespan, gevlucht,</l>
+<l>'t En waar' de Hemel, als Verdelger van de boosheid,</l>
+<l>Hem had verhindert in die snoode roekeloosheid:</l>
+<l>De zorg des Hemels, die der Vorsten heil betracht,</l>
+<l>Heeft dien Vermetelen gelevert in myn magt.</l>
+<l>Die Snoode, die zichzelf door 't wanbedryf veröordeelt,</l>
+<l>Verstrekke, door myn wraak, het Multgespan ten voorbeeld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Ach, Vorst! zyt gy bekwaam tot zoo ontmenscht een daad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Mevrouw,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 2tab">Kan 't zyn, dat gy dus aan het woeden slaat!</l>
+<l>Wat gruwel, dien ge u zoud in eeuwigheid beklagen!</l>
+<l>Laat u myn stoutheid, myne oprechtheid, niet mishagen!</l>
+<l>Ik ben beducht, dat u de neiging van het bloed</l>
+<l>Een felle wroeging zou verwekken in 't gemoed;</l>
+<l>Dat gy, wat grimmigheid uw zinnen moog' misleijen,</l>
+<l>Dien omgebragten Zoon op 't smartlykst zoud beschreijen:</l>
+<l>Ik vrees voor u den naam van Wreedäart, en de schand',</l>
+<l>Die u zou treffen om die gruwzame offerhand'.</l>
+<l>Bedenk, ô Vorst! bedenk, dat zulke wreede straffen</l>
+<l>Een eeuwig nawee aan den Rechter zelf verschaffen.</l>
+<l>Wat haat betoont men hem, die zulk een wraak betracht!</l>
+<l>Wat liefde en deerenis het offer dat hy slagt!</l>
+<l>Ja, wie het bloed zyns Zoons kan plengen, zulk een Vader</l>
+<l>Schynt waardig, dat zyn Zoon hem afvalle als verrader,</l>
+<l>'k Zeg mogelyk te veel: maar 't is om u, myn Heer,</l>
+<l>Voor 't wrekend naberouw te hoeden, om uwe eer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Het is genoeg, Mevrouw; 'k zal voor myn glorie waken.</l>
+<pb n="38"/>
+<l>'k Bespeur wat yver u voor myne rust doet blaken:</l>
+<l>Ik ken uw hart; ik weet waar voor 't bekommert is.</l>
+<l>Dat hart verzekere u van myne erkentenis.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Paleologus, Irene, Eudoxe, Narcea, Marcenus, Crispus</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Crispus</hi>.</speaker>
+<l>Een deel der Lyfwacht, door moedwilligheid gedreven,</l>
+<l>Myn Vorst, heeft schielyk zich uit dit Paleis begeven,</l>
+<l>Om 't Volk, waar van de Prins zich heeft bemind gemaakt,</l>
+<l>Te waapnen tegen u, opdat hy werd' geslaakt.</l>
+<l>Indien men de andren tot hunn' pligt niet had bewogen,</l>
+<l>Reeds ware Andronicus u door geweld onttogen.</l>
+<l>Uw vorstlyk byzyn word op 't hoogst verëischt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">Weläan,</l>
+<l>Men weere in aller yl dat stout, dat snood bestaan!</l>
+</sp>
+<stage><hi rend="i">Einde des Derden Bedryfs.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="39"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Leo, Aspar</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>Ja, Aspar, in 't Paleis weêrhoud de schrik het woeden.</l>
+<l>Maar hebt gy 't Vloekgespan, dat, om den Prins te hoeden,</l>
+<l>Zich naar het Volk begaf, in 't wanbedryf gestoort?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l>Myn Heer, ondanks myn vlyt, is 't noch niet opgespoort:</l>
+<l>Van d'overmoed des Volks word echter niets vernomen;</l>
+<l>Men schynt de sterke Wacht, die 't all' bezet, te schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>De Vorst, opdat uw trouw hem onbetwistbaar blyk',</l>
+<l>Beveelt aan u alleen, tot welstand van het Ryk,</l>
+<l>Een Staatsgeheim, waar van ik u bericht zal geven.</l>
+<l>Den onderschepten brief, aan zynen Zoon geschreven,</l>
+<l>Heeft hy bereids gezien: dewyl hy noodig acht,</l>
+<l>Dat dees bedekte brief werde aan den Prins gebragt,</l>
+<l>Begeert hy, dat uw list zyn' wil terstond voltrekke.</l>
+<stage><hi rend="i">Hy geeft Aspar den brief, en vervolgt.</hi></stage>
+<l>Zorg, Aspar, dat de Prins dien kunstgreep niet ontdekke.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l>De Keizer zy gerust op myn' onkreukbren pligt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leo</hi>.</speaker>
+<l>Verkies een' dienaar, die getrouw dien last verricht'.</l>
+<l>Hy werde door uw zorg naauwkeurig onderwezen.</l>
+<l>Zo hy zyn' pligt verzaakt, staat u de wraak te vreezen.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Wees niet bekommert voor dien valschen kunstgreep; neen,...</l>
+<l>Maar 'k zie Andronicus.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="40"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Aspar</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Men late my alleen.</l>
+<l rend="; 1tab">Erbarmelyke wraak, die, lieflyk in myne oogen,</l>
+<l>Met zulk eene ydle hoop myn zinnen hebt bedrogen!</l>
+<l>ô Onbedachtzaamheid! ô roekeloos besluit!</l>
+<l>Ontwerp, zoo haast gesmeed, zoo onverhoeds gestuit!</l>
+<l>ô Harsenschimmen! vlied, vlied eeuwig myn gedachten:</l>
+<l>Uw denkbeeld stoor' my niet in myn' rechtvaarde klagten!</l>
+<l rend="; 1tab">Hoe aaklig is myn lot! 'k zie, in myn wreeden' staat,</l>
+<l>Dat alles my ontvlied, of jammerlyk verraad.</l>
+<l>Van all' myn vrinden, ach! van alle hulp versteken,</l>
+<l>Kan myn beklemde ziel de minste hoop niet kweeken.</l>
+<l>Helaas! Leoncius, de onnoosle Martiaan,</l>
+<l>Door 's Keizers razerny op 't schandelykst vergaan,</l>
+<l>Myn Wacht, van tyd tot tyd verdubbeld, en (ô smarte!)</l>
+<l>Een pynlyk voorgevoel in myn geteisterd harte,</l>
+<l>Ja alles overtuigt myn' hopeloozen zin,</l>
+<l>Hoe wreed het end' zal zyn van zulk een droef begin.</l>
+<l>De dood is my bereid van myn' ontmenschten Vader:</l>
+<l>Ik, die verraden ben, ik sneuvel als Verrader.</l>
+<l>Dat my de Keizer straff', zyn gramschap vergenoeg',</l>
+<l>Maar by myn vonnis ook zyn eigen vonnis voeg'!</l>
+<l>Dat onzer beider lot hem ernstig doe beseffen,</l>
+<l>Wie schuldigst is, of wien de zwaarste rampen treffen!</l>
+<l>Ik neem (bewogen door myn' moed, myn roekloosheid,)</l>
+<l>Een' ydlen toeleg voor, waar mede ik word gevleit;</l>
+<l>Myn ziel durft aan haar drift zich blindling overgeven;</l>
+<l>Dit is myn misdaad, dit 's al 't gene ik heb misdreven.</l>
+<l>Myn Vader... Maar ik dool; hy is myn Vader niet,</l>
+<l>Wiens wreedheid oorzaak is van al myn zielsverdriet:</l>
+<l>Hy durft van Bruid, van kroon, van leven, my berooven.</l>
+<pb n="41"/>
+<l>Zyn wanbedryven gaan de mynen verr' te boven.</l>
+<l rend="; 1tab">Men vall'hem niet te voet, zyn grimmigheid ten zoen;</l>
+<l>'k Zou op 't wraakgierig hart eene ydle pooging doen:</l>
+<l>Ja, schoon ik door gebeên hem stuiten kon in 't woeden,</l>
+<l>'k Zou echter tot dien prys my 't leven niet behoeden.</l>
+<l>Maar, hoe! wie nadert my?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Gellas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gellas</hi>.</speaker>
+<l rend="; 1tab">Myn Heer, 'k heb my verpligt</l>
+<l>Om heimlyk dezen brief...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Geef my een klaar bericht.</l>
+<l>Wie zend my dit geschrift? Mag ik den naam niet weten..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gellas</hi>.</speaker>
+<l>Prins, vraag my niets; 'k heb van myn'pligt my reeds gekweten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Mag ik my vleijen, dat de Hemel onverhoeds</l>
+<l>Een' bystand my verschaft in 't felst myns tegenspoeds?</l>
+<l>Men leze wien myn ramp verwekt tot mededoogen.</l>
+<l>'t Schrift is my onbekend... Maar welk een vreemd vermogen</l>
+<l>Ontroert me op 't eerst gezigt! wat heimlyk voorgevoel</l>
+<l>Stelt myn wanhopend hart een' nieuwen stryd ten doel!</l>
+<stage><hi rend="i">Hy leest.</hi></stage>
+<l>‘Prins, tracht uws Vaders toorn door smeeken af te wenden;</l>
+<l rend="; 1tab">‘Span alle uw krachten in tot uw behoudenis;</l>
+<l rend="; 1tab">‘Behoed een leven 't geen den Staat zoo dierbaar is;</l>
+<l>‘Bedenk, dat door uw dood... Ik kan geenszins volënden.</l>
+<l rend="; 1tab">ô Minnenswaarde ziel! ô goedheid zonder gaê!</l>
+<l>Prinses! hoe! zorgt ge noch voor myn behoud? ô Ja,</l>
+<pb n="42"/>
+<l>Ik twyfel niet; dees brief is een onwraakbaar teeken:</l>
+<l>Gy, gy alleen hebt recht om zulk een taal te spreken.</l>
+<l>My dunkt ik hoor uw stem, die my grootmoedig noopt,</l>
+<l>'k Heb zulk een teeken van uw goedheid niet gehoopt.</l>
+<l>Schoon alles my verlaat, gy, tot myn' welstand vaardig,...</l>
+<l>Gelukkig Prins! gy zyt dier eedle zorge onwaardig.</l>
+<l>Beklagen wy ons niet; 't waar' wrevlig onbescheid:</l>
+<l>Niets baart my grooter heil, dan's Keizers grimmigheid.</l>
+<l>Nadien ge my beveelt te zorgen voor myn leven,</l>
+<l>Irene! 't is genoeg; 'k zal u voldoening geven:</l>
+<l>Alle uw begeerte is my een strenge wet... Maar, ach!</l>
+<l>Wat neem ik voor, die niets op 's Keizers geest vermag?...</l>
+<l>Dat myn gehoorzaamheid nochtans Irene blyke!</l>
+<l>Dat al myn fierheid voor myn tedre liefde wyke!</l>
+<l>Weläan, besluit, myn ziel! wat felle schaamte u prang'</l>
+<l>Besluit kloekmoedig tot dat vruchteloos bedwang.</l>
+<l rend="; 1tab">Neem deze pooging aan van myne fiere zinnen,</l>
+<l>Prinses! ten wissen blyk hoe teder ze u beminnen:</l>
+<l>Maar als ik vruchtloos uw begeerte heb voldaan,</l>
+<l>Dat dan uw deernis u geen pooging doe bestaan,</l>
+<l>Waar door (verr' dat ze my rampspoed zou ontheffen,)</l>
+<l>Des Keizers gramschap u, zoo wreed als my, zou treffen!</l>
+<l>Helaas! uw deerenis verwekke u geen gevaar,</l>
+<l>Het geen my droever dan de wreedste foltring waar'!</l>
+<l rend="; 1tab">Kom herwaarts Aspar.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Andronicus, Aspar</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l rend="; 1tab">Prins, wat is uw wil?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Men smeeke</l>
+<l>Den Keizer ernstig, in myn' naam, dat ik hem spreke.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="43"/>
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Wat hatelyk gesprek! wat onderwind ik my!</l>
+<l>Wat spyt, wat schaamte zal, hoe fel ik die bestry',</l>
+<l>Wanneer ik schandlyk smeek vergiffenis te erlangen,</l>
+<l>Voor's Keizers wreed gezigt myn fier gemoed bevangen!</l>
+<l>'k Moet my vernedren voor een' Vader, die, verwoed,</l>
+<l>My niets dan smaad betoont, wiens wrevelig gemoed,</l>
+<l>Uit doodelyken haat nooit gunst my heeft bewezen.</l>
+<l>Hoe doet zyn wreedheid my zyn haatlyk byzyn vreezen!</l>
+<l>De Ontmenschte, die, ontbloot van 't vaderlyke hart,</l>
+<l>Als Landverrader my wil straffen, zal (ô smart!)</l>
+<l>In myn vernedering op 't smaadlykst my verächten.</l>
+<l>Wie zelfs natuur verzaakt word niet vermurwt door klagten.</l>
+<l>De wreedste dood ware, in myn' hopeloozen stand,</l>
+<l>My zoo afgryslyk niet, als zulk eene offerhand'.</l>
+<l>ô Strenge wetten, van een onbepaald vermogen,</l>
+<l>Tot wat vernedering hebt gy myn ziel bewogen!...</l>
+<l>De Keizer nadert my... Ik sterf van schaamte en spyt.</l>
+<l>Wat baart my dit gezigt een' onweêrstaanbren stryd!</l>
+<l>Ach! wat belemmering! Hoe zal ik hem ontmoeten?</l>
+<l>Hoe! zal ik dan zoo laf my werpen aan zyn voeten?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Paleologus, Andronicus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe groeit myn gramschap aan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">ô Neen! ik mar niet meer;</l>
+<l>Ik zal gehoorzaam zyn.</l>
+<stage><hi rend="i">Hy werpt zich aan 's Keizers voeten, en vervolgt.</hi></stage>
+<l rend="; 1tab">Verwaardig my, myn Heer!...</l>
+<l>Ontsteld, verlegen,...</l>
+<pb n="44"/>
+<l rend="; 1tab">Prins, wat kunt ge van my hopen?</l>
+<l>Wat inzigt kan uw' geest tot dees vernedring nopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ach, Vorst! stel my gerust; vergroot myn kwelling niet.</l>
+<l>Wat lyd myn ziel al angst! wat doodelyk verdriet!</l>
+<l>Myn wreede droefenis doet all' myn' moed bezwyken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe! laat een hart als 't uw' zoo groot een zwakheid blyken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Ik ben uw Zoon, myn Vorst! het bloed spreke u voor my!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Ik ken geen' Vyand zoo gevarelyk als gy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Is 't mooglyk! Hemel! Wat gedachten durft gy smeden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Die myn gerechte toorn my ingeeft, en de reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Wat is myn rampspoed groot!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 2tab">Min, dan uw wanbedryf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Is 't mooglyk dat uw ziel zoo onmeêdoogend blyv'?</l>
+<l>Zyt ge ongevoelig voor een' Zoon? Bedenk u nader.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hebt ge u gevoeliger gedragen voor een' Vader?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Hoe, Vorst! 't is dan gedaan? is uwe grimmigheid</l>
+<l>Zoo hevig, dat ge my den naam van Zoon ontzeit?</l>
+<l>Ach! mag ik u niet meer den naam van Vader geven?</l>
+<l>Beneemt ge my al 't heil, 't geen my is bygebleven?</l>
+<l>'k Heb, in myn ongeluk, tot myn verdediging</l>
+<l>Niets anders, dan die bloed, dat ik van u ontfing.</l>
+<l>Hier door werde uwe ziel tot deerenis bewogen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Neen, neen, dat bloed vergroot uw misdryf in myne oogen.</l>
+<l>Nadien ge u tegen my op 't hoogst strafwaardig maakt,</l>
+<pb n="45"/>
+<l>Betoont ge, dat gyzelf den naam van Zoon verzaakt.</l>
+<l>Ik zie met siddering, in uwe onwaarde daden,</l>
+<l>Ondankbre! dat myn bloed, ontäard, my durft verraden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">opstaande.</hi></speaker>
+<l>Vorst!...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l rend="; 1tab">'k Twyfel nu niet meer: geene achterdocht verwekt</l>
+<l>Dien afschrik t' uwaarts; alle uw boosheid is ontdekt.</l>
+<l>Ga, Prins, daar de eer u wacht: ja, dat gantsch Bulgaryë,</l>
+<l>Veréénigd onder u, zyn' wettig' Vorst bestryë:</l>
+<l>Vlie; win onsterflyke eer door zulke heldendaën:</l>
+<l>Voeg andre gruwlen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Ach! sla geen geloof daar aan:</l>
+<l>ô Neen, verwyt my niet die ingebeelde boosheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Is 't mooglyk! loochent gy zoo stout uw trouweloosheid?</l>
+<l>Gy, die den Muiteling uw snoode hulp belooft?</l>
+<l>Ja, met hem samenzweert? u opwerpt tot zyn Hoofd?</l>
+<l>Zyn dit bewyzen van een ongegrond vermoeden?</l>
+<l>Indien myn hart de minste onzekerheid kon voeden,</l>
+<l>Dit vaderlyke hart, bewogen door dien schyn,</l>
+<l>Ware u geen vyand meer; 't zou uw beschermer zyn.</l>
+<l>'k Heb 't vloekverbond gezien; gy hebt het onderschreven.</l>
+<l>Natuur is uit myn ziel, op dat gezigt, verdreven.</l>
+<l>Spreek: waar toe diende die strafwaarde handeling?</l>
+<l>Die aangenomen' hulp? die schuilplaats? dat verding,</l>
+<l>Zoo bitter wederzyds bezworen? om wat reden,</l>
+<l>Dan om den troon, dien gy met smart my ziet bekleeden?</l>
+<l>Veräntwoord uw bedryf, indien 't u mooglyk is.</l>
+<l>Neen, wat misdreeft ge meer? Spreek. Uwe ontsteltenis</l>
+<l>Strekt van uw schuldig hart een onbetwistbaar teeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l>Helaas, myn Vorst! ik kan, ik durf niets meer, dan smeeken.</l>
+<l>Ik ben zoo schuldig niet; ik word te zwaar betigt:</l>
+<l>Maar al myn zielsgeheim is u noch niet bericht.</l>
+</sp>
+<pb n="46"/>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hoe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 1tab">Vorst! het streng bewind van uwe Gunstgenooten,</l>
+<l>Waar uit myn stoute vlucht, myn misdaad, is gesproten,</l>
+<l>Die hatelyke last, dien ik met weêrzin droeg,</l>
+<l>Die my ondraaglyk viel, rechtvaardigt my genoeg;</l>
+<l>En in een fiere jeugd, zoo zwak, zoo onërvaren,</l>
+<l>Is zulk een doling licht te wyten aan de jaren:</l>
+<l>Maar myn verdediging wacht ik van u alleen.</l>
+<l>'k Werp andermaal my voor u neêr. Doen myn gebeên</l>
+<l>Uw hart niet deelen in myn veel te wreede elenden?</l>
+<l>Vorst! acht ge my onwaard het oog naar my te wenden?</l>
+<l>Hoe kan ik denken, dat uw vaderlyk gemoed</l>
+<l>Geen tederheid gevoelt? geen neiging voor uw bloed?</l>
+<l>Toon, dat gy Vader zyt... Maar, ach! 'k heb niets te hopen;</l>
+<l>'k Zie, dat myn klagten u tot feller gramschap nopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Begeert ge iets anders, Prins?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">opstaande.</hi></speaker>
+<l rend="; 2tab">Neen. 'k Heb te veel begeert.</l>
+<l>'k Gevoel myn ziel van schaamte, en fellen spyt, verheerd.</l>
+<l>Ja, schoon ik heb gepoogt vergiffenis te erlangen,</l>
+<l>Andronicus word niet van lassen schrik bevangen.</l>
+<l>Ik heb, na zoo veel blyks van ongevoeligheid,</l>
+<l>Geen minder wreed onthaal van u my toegeleit:</l>
+<l>De tederheid van 't bloed heest nimmer u bewogen:</l>
+<l>Neen, neen, de dood heeft niets verschriklyks in myne oogen.</l>
+<l>'t En zy ik waar' geperst tot zulk een laf besluit,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Hou op; 'k heb u verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 3tab">Weläan, spreek 't vonnis uit;</l>
+<l>Verhaast uw strenge wraak; ikzelf begeer te sneven;</l>
+<l>Ik ken, in myn verdriet, geen wreeder straf, dan 't leven:</l>
+<l>Ja, nu ik vruchtloos u om 't leven heb gesmeekt,</l>
+<l>Sterf ik van schaamte en spyt, 't en zy ge u spoedig wreekt.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="47"/>
+<head rend="h4">Negende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>ô Hemel! waar toe kan zyn roekloosheid hem dringen!</l>
+<l>Ik wil niet langer, in zyn voordeel, my bedwingen.</l>
+<l>‘'t En zy ik waar' geperst tot zulk een laf besluit,</l>
+<l>Zegt hy... 't Baart hem de dood. Myn twyffeling heeft uit:</l>
+<l>Irene mint hem; 'k heb 't genoegzaam ondervonden:</l>
+<l>Haar strafbre min heeft hem dien snooden brief gezonden,</l>
+<l>Die my de ziel verscheurt door de ysselykste pyn:</l>
+<l>'t Kan niemand anders dan de ontrouwe Irene zyn.</l>
+<l>Zy, die, voor hem bevreesd, hem dorst tot voorspraak strekken,</l>
+<l>Heeft alles aangewend om hem 't gevaar te onttrekken,</l>
+<l>Ja; die Verrader heeft zyn eigen hart verraên.</l>
+<l>Had hy die pooging op zyn' fieren geest gedaan,</l>
+<l>Zou hy gehoorzaam naar 't bevel des briefs zich voegen,</l>
+<l>'t En ware om 't voorwerp van zyn min te vergenoegen?</l>
+<l>Heeft hy, voor my verneêrd, zyn wrevelheid verzaakt?</l>
+<l>Heeft hy myn deernis, of myn haat zich waard gemaakt?</l>
+<l>Kon die Hoogmoedige den grond van zyn gepeinzen,</l>
+<l>Dat afgeperst bedwang, voor myn gezigt ontveinzen?</l>
+<l>Neen; door zyn' fellen spyt en fierheid aangesard,</l>
+<l>Ontdekte my zyn mond den weêrzin van zyn hart,</l>
+<l>In 't gunstig oogenblik, dat de eerbied des Verraders</l>
+<l>Myn' toorn deê zwichten voor de tederheid eens Vaders;</l>
+<l>Toen hem misschien myn hart, bewogen met zyn leed,</l>
+<l>Vergifnis had verleent van all' wat hy misdeed.</l>
+<l>Dit onderling verstand, dit misbruik myner goedheid,</l>
+<l>Heeft uit, ô Snooden! ducht myn billyke verwoedheid.</l>
+<l>Maar wat betoovering had my zoo dwaas misleid?</l>
+<l>Hoe durfden ze overslaan tot zulk een roekloosheid?</l>
+<l>Ik, die de harten, door ervarenheid en zorgen,</l>
+<l>Behendig toets, voor wien geen kunstgreep is verborgen,</l>
+<l>Ik, die, de staatkunde en de veinzery gewoon,</l>
+<l>De grootste Koningen doe siddren op hunn' troon,</l>
+<l>Ik word, in weêrwil van myn loosheid en vermogen,</l>
+<pb n="48"/>
+<l>Door twee Vermeetlen, twee Onkundigen, bedrogen;</l>
+<l>Ja, 'k zie, in 't midden van myn eigen Hofgezin,</l>
+<l>Myzelf ten speeltuig van een roekelooze min,</l>
+<l>Die, doodlyk voor myne eer, my, die zoo groot een boosheid</l>
+<l>Niet dorst vermoeden, kon bedriegen zonder loosheid.</l>
+<l>Hun strafbreschyndeugd was 't, die dus my de oogen sloot.</l>
+<l>Rampzalig Vader! ach, beklaaglyke Echtgenoot!</l>
+<l>Wie moet ge slagten? wat erbarmlyke offerhande?...</l>
+<l>Men zuivre, in 't eerloos bloed, ons van de vlek dier schande!</l>
+<l>Bevordren wy de wraak met ernstig overleg:</l>
+<l>Onze eer ly' geen gevaar! Door meer dan éénen weg</l>
+<l>Kan zich myn grimmigheid gerechte wraak verschaffen.</l>
+<l>Ik zal Andronicus als Landverrader straffen.</l>
+<l>Dat my trouwlooze Irene een heimlyk offer strekk'!</l>
+<l>Dat niemand ooit haar schuld, en deze straf, ontdekk'!</l>
+<l rend="; 1tab">Maar 't roekloos Vloekgespan heeft eerst myn wraak te duchten:</l>
+<l>Zyn schuilplaats is ontdekt, en 't zal my niet ontvluchten.</l>
+<l>Zyn welverdiende straf, die 't Volk van schrik bevang',</l>
+<l>Houde, eer het oproer woed', die boosheid in bedwang!</l>
+</sp>
+<stage><hi rend="i">Einde des Vierden Bedryfs.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="49"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Wanneer zal 't ende zyn van deze onlydbre plagen?</l>
+<l>Wat onvoorzien geval kan 's Keizers wraak vertragen?</l>
+<l>In deze onzekerheid, die onöphoudlyk duurt,</l>
+<l>Heb ik myn stout bestaan bereids te veel bezuurt.</l>
+<l>Nu my de minste troost niet meer is bygebleven,</l>
+<l>Groeit ieder oogenblik myn afschrik voor het leven.</l>
+<l>Waar toeft men? Kan het zyn, na de aangewreven' schuld,</l>
+<l>Dat 's Keizers grimmigheid my noch in 't leven duld'?</l>
+<l>Maar, ach! hy weet, dat hy niet strenger zich kan wreken,</l>
+<l>Dan dat hy lang vertoev' myn vonnis uit te spreken;</l>
+<l>Dat my de spyt meer pynt, dan de ysselykste straf.</l>
+<l>Ik wacht dan met geduld myn lot, myn vonnis af.</l>
+<l rend="; 1tab">In welk een poel van wee zie ik my neêrgestoten!</l>
+<l>Ik, van het edelst, van 't ontzaglykst bloed gesproten,</l>
+<l>Ik, wien 't geboorterecht een' rykstroon had bereid,</l>
+<l>Die my deed hopen op de hoogste mogendheid,</l>
+<l>Ik sterf, wanneer myn rang my 't roemrykst heil moest baren,</l>
+<l>Een schandelyke dood in 't prilste myner jaren.</l>
+<l>'t Word my tot wanbedryf gerekent, dat ik my</l>
+<l>In 't end' bevryde van de wreedste slaverny...</l>
+<l>Maar, hoe! altoos ten prooije aan de yslykste ongelukken,</l>
+<l>Kan my de dood alleen myn zielsverdriet ontrukken.</l>
+<l>In 't hart gefolterd door de felste minnepyn,</l>
+<l>Zou ik steeds schuldig, of op 't hoogst rampzalig zyn:</l>
+<l>De Hemel, zo ik nooit die liefde zou verzaken,</l>
+<l>Kon door geen wonderwerk myn ziel gelukkig maken.</l>
+<l>Door ydle grimmigheid op 't krachtigst aangespoord,</l>
+<l>Door hopelooze liefde in myne rust gestoord,</l>
+<l>Moest ik myn minnesmart, myn woedende gepeinzen,</l>
+<l>Myn felgetergde wraak, voor aller oog ontveinzen.</l>
+<l>Ach! had de Hemel my een weinig gunst betoont,</l>
+<l>Myn liefde, of gramschap, waar' van dwinglandy verschoont:</l>
+<l>Een wettig minnevuur zou my den boezem zengen,</l>
+<pb n="50"/>
+<l>Ik 's Medeminnaars bloed onstraf baar konnen plengen.</l>
+<l>Ik kan niet leven in dees' onverwinbren stryd:</l>
+<l>ô Ja, ik dank den slag, die my daar van bevryd.</l>
+<l rend="; 1tab">Maar als ik sterf, Prinses! wat ramp staat u te schroomen!</l>
+<l>Zult gy de woede van een' wreed' Gemaal ontkomen?</l>
+<l>Vrees, als gy tranen stort om 't plengen van myn bloed,</l>
+<l>De schriklyke achterdocht van zyn verstokt gemoed.</l>
+<l>Ja, mogelyk dat hy, misleid door zyn gedachten,</l>
+<l>My meer uit minnenyd, dan om myn vlucht, zal slagten.</l>
+<l>ô Droevig denkbeeld! ä ondragelyke smart!</l>
+<l>Dit 's weêr een nieuwe stryd in myn geteisterd hart.</l>
+<l>Hoe ducht ik, dat geen liefde in 's Keizers geest belette,</l>
+<l>Prinses! dat u en my een zelfde slag verplette!</l>
+<l>Ach! dit verscheurt myn ziel, niet de afschrik voor de dood.</l>
+<l rend="; 1tab">ô Hemel! dat uw gunst een' wreeden Echtgenoot</l>
+<l>In 't woeden wederhou'! de onnoozelheid verdedig'!</l>
+<l>Ach! dat myn dood alleen uw grimmigheid bevredig'!</l>
+<l rend="; 1tab">Maar Aspar komt bedeesd: myn vonnis is gevelt.</l>
+<l>Ik ga ter dood.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Andronicus, Aspar, Gellas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l rend="; 1tab">Myn Prins!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andronicus</hi>.</speaker>
+<l rend="; 2tab">Hoe toont ge u dus ontsteld?</l>
+<l>Uw schrik zegt my genoeg; ik ben ter dood verwezen.</l>
+<l>Welaan, men toeve niet; geen laf heid doet my vreezen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>ô Gadelooze moed, die my verwondert! Ach!</l>
+<l>k Verberg hem, in zyn' ramp, den pynelyksten slag.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Irene, Narcea, Aspar</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Narcea, 't is vergeefs; gy zult my niet weêrhouwen;</l>
+<pb n="51"/>
+<l>'k Wil, in myn' wreeden staat, Andronicus aanschouwen.</l>
+<l>Wees meer bewogen met myn bittre droefenis.</l>
+<l>Voor hem is al de tyd, die my noch ovrig is.</l>
+<l><note n="*" place="margin"><hi rend="i">Tegen Aspar.</hi></note>Gelei my naar den Prins.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l rend="; 1tab">Mevrouw!...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 3tab">Gy doet my beven....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aspar</hi>.</speaker>
+<l>Hy leeft. Ik moet terstond my naar den Vorst begeven;</l>
+<l>Hy wacht my: doch men zal u alles doen verstaan,</l>
+<l>Van 't geen den Prins betreft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 2tab">Ga; dien den Keizer aan,</l>
+<l>Dat ik geheimen van belang hem wensch te ontdekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Narcea</hi>, <hi rend="i">terwyl Aspar vertrekt.</hi></speaker>
+<l>Mevrouw! tot welk een eind' zal deze pooging strekken?</l>
+<l>Ach! hoe beklaag ik u! Hoe klopt my't hart van schrik!</l>
+<l>Ei! wees gedachtig, in dit aaklig oogenblik,...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Irene, Eudoxe, Narcea</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Vorstin! wat zie ik! Hebt ge Eudoxe dus bedrogen?</l>
+<l>Door welk een dwaze drift word uw gemoed bewogen!</l>
+<l>Gy wilt dan toonen, dat ge uw rampen waardig zyt?</l>
+<l>Gy zoekt den Prins? Bedenk hoe 't met uw glorie stryd.</l>
+<l>Wat uitslag myner zorg! Helaas! kon ik vermoeden,</l>
+<l>Dat ge, onbedacht, uwe eer niet beter zoud behoeden?</l>
+<l>Wat zal het Nageslacht, een Echtgenoot, de Staat,..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Eudoxe! welk een' tyd verkiest ge voor uw' raad!</l>
+<l>Uw deernis doe u meer toegevendheid verwerven!</l>
+<l>Irene sterst; helaas! zy moet onschuldig sterven.</l>
+<l>My, die altoos uw' raad zorgvuldig heb betracht,</l>
+<l>Bestraft ge, nu ik dien maar ééne keer veracht.</l>
+<l>Ei! staak uw bits verwyt: myn dood begint te naadren;</l>
+<pb n="52"/>
+<l>'k Gevoel 't vergif zich reeds verspreiden door myne aadren.</l>
+<l>Zie daar de werking van den doodelyken drank,</l>
+<l>Wien, tot myn straf geschikt, ik myn verlossing dank.</l>
+<l>Gy zaagt, hoe 't heilloos rot, arglistig op zyn hoede,</l>
+<l>Door snoode veinzery zyn heimelyke woede</l>
+<l>My zocht te helen: maar die list bedroog my niet:</l>
+<l>ô Ja, Eudoxe, ik zag hoe snood men my verried.</l>
+<l>Maar 'k heb dat heilzaam vocht, verr'van de dood reschroomen,</l>
+<l>Dien heeldrank voor myn smart, kloekmoedig ingenomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Verlaat uw opzet; stuit de werking van 't venyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Begeert ge, dat myn ziel voor eeuwig hooploos kwyn'?</l>
+<l>Neen, neen, ik wil, noch kan my 't angstig leven rekken:</l>
+<l>Ik moet een' wreed' Gemaal ter offerhande strekken.</l>
+<l>In zyne ontmenschte ziel, door minnenyd misleid,</l>
+<l>Wyt hy zyn' Zoon, en my, een zelfde trouwloosheid.</l>
+<l>Ach! zoeken wy dien Prins: vergun my dat genoegen:</l>
+<l>Kom; dat uw tranen zich by onze tranen voegen!</l>
+<l>Dat die getrouwe Prins niet meer onkundig zy,</l>
+<l>Wat doodlyke overmaat van hartewee ik ly!</l>
+<l>Hy wete hoe myn ziel, haar lastig juk onttogen,</l>
+<l>Met zyne onlydbre smart, zyn wanhoop, is bewogen!</l>
+<l>Hier door meer word gepynt, dan door haar' eigen rouw!</l>
+<l>Dat ik geen oogenblik na hem het licht aanschouw!</l>
+<l>Dat, schoon 't ons was ontzegt gelukkig saam' te leven,</l>
+<l>Wy, echter lotgemeen, kloekmoedig samen sneven!</l>
+<l>Hy is niet verr' van hier: kom, gaan we.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l rend="; 1tab">Neen, Vorstin.</l>
+<l>Ontveins, (in 's Hemels naam!) ontveins uw straf bremin.</l>
+<l>Verr' dat die roekloosheid uw kwelling zou verzagten,</l>
+<l>Wierd beider smart verzwaart door vruchtelooze klagten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Hou my niet langer op: ik ga; hy is misschien</l>
+<l>Op d'oever van de dood: ik moet, ik wil hem zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>De Prins loopt min gevaar, dan u de schrik doet denken.</l>
+</sp>
+<pb n="53"/>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Zou 's Keizers minnenyd aan hem het leven schenken?</l>
+<l>Die hoop misleid my niet in myn' gerechten schrik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Ach! toef, Mevrouw! hoor my een enkel oogenblik.</l>
+<l>Betoom uw drift: dat u de reden doe bedaren!</l>
+<l>De Keizer zal den Prins niet in het leven sparen,</l>
+<l>'t En zy het woedend volk door overmagt hem dwing'.</l>
+<l>'t Zal, aangenoopt door hun, die, tot verdediging</l>
+<l>Van hunn' geliefden Prins, zyn uit dit Hof gevloden,</l>
+<l>Tot die bescherming zich niet vruchtloos laten noden:</l>
+<l>Gy weet met welk een zucht hem 't gantsche Ryk bemint.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Is dit een toevlucht, die gy onzer waardig vind?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Neen: maar de Keizer durft hem niet aan 't leven komen,</l>
+<l>Schoon hy 't in 't heimelyk op u heeft ondernomen.</l>
+<l>Vorstin, ach! wanhoop niet: licht, dat den Prins het bloed,</l>
+<l>En u de liefde, eerlang voor 's Keizers gramschap hoed.</l>
+<l>Een heilzaam tegengif...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 1tab">Welhaast is myne elende,</l>
+<l>Door de onweêrstaanbre kracht van't werkend gif, ten ende.</l>
+<l>Gy vleit my voor den Prins!... Weläan, men toev'niet meer:</l>
+<l>'t Is billyk dat myn ziel, om hem, haar fierheid wéér'.</l>
+<l>Ach! mogt ik door myn dood zyn dier behoud verwerven!</l>
+<l>Eudoxe, volg my: 'k wil aan 's Keizers voeten sterven,</l>
+<l>Opdat myn bede, en dat erbarmelyk gezigt,</l>
+<l>Zyn ongevoelig hart tot tederheid verpligt'!</l>
+<l>Men zoek' hem, eer de dood het ovrig' van myn leven....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l>Neen, toef; bedenk...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Irene, Eudoxe, Narcea, Gellas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gellas</hi>.</speaker>
+<l>Vorstin! waar heen wilt ge u begeven?</l>
+<pb n="54"/>
+<l>Wat zoekt gy? Ach! ontwyk veel eer een heilloos oord,</l>
+<l>Welks yslykheid op 't felst my 't siddrend hart doorboort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>Leeft dan de Prins niet meer?</l>
+</sp>
+<sp>
+<speaker>Gellas.</speaker>
+<l rend="; 3tab">'k Zag hem van 't leven scheiden,</l>
+<l>In 't bad het geen hy zich kloekmoedig deed bereiden.</l>
+<l>'k Zag op dit oogenblik...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>, <hi rend="i">tegen Eudoxe en Narcea.</hi></speaker>
+<l rend="; 4tab">Men ondersteun' my. Ach!</l>
+<l>Myn tedre ziel bezwykt voor zulk een' zwaren slag.</l>
+<stage><hi rend="i">Tegen Gellas.</hi></stage>
+<l>Doorgrief my 't hart; doe my zyn dood omstandig hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gellas</hi>.</speaker>
+<l>Men wist de Hoofden der Misnoegden op te sporen.</l>
+<l>Hun straf, de schrik, weêrhoud het dreigende geweld.</l>
+<l>Het vonnis van den Prins word na die straf gevelt.</l>
+<l>Hy volgt ons, zonder van zyn smartlyk lot te klagen:</l>
+<l>Geen dood, hoe gruwzaam, kan dat heldenhart vertsagen.</l>
+<l>Vol gadeloozen moed in 't heilloos bad getreên,</l>
+<l>En even onverschrikt in all' die yslykheên,</l>
+<l>Strekt hy zyne armen uit, en doet zich de aadren kerven.</l>
+<l rend="; 1tab">Terwyl men 't vorstlyk bloed het aaklig bad ziet verven,</l>
+<l>En door 't verlies van 't bloed zyn kracht allengs vergaat,</l>
+<l>'t Gezigt verduistert word in zyn verbleekt gelaat;</l>
+<l>Terwyl zyn veege ziel...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 2tab">Hoe word myn hart bestreden!...</l>
+<l>Vaar voort in 't wreed verhaal van die afgryslykheden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gellas</hi>.</speaker>
+<l>Hy wend het oog voor 't laatst ten Hemel, als men hem</l>
+<l>Zich dus hoort uiten, met een flaauwe en naare stem:</l>
+<l>‘ô Eénige uitkomst in onlydbre tegenspoeden,</l>
+<l>‘ô Dood!'k zag t'myner vreugde u op myn leven woeden,</l>
+<l>‘Zo my alléén de wraak mogt treffen, zo geen schrik...</l>
+<l>Zyne oogen zwieren, in dit angstig oogenblik,</l>
+<l>Vol kommers hier en ginds. Hy uit aldus zich nader:</l>
+<l>‘Zie uw' gesmaden Zoon, ô onmeôdoogend Vader!</l>
+<pb n="55"/>
+<l>‘Zie 't plengen van al 't bloed dat ik van u genoot.</l>
+<l>‘Maar, ach! uw strenge wraak vernoeg'zich met myn dood!</l>
+<l>Thans heeft zyn veege mond bykans de spraak verloren:</l>
+<l>Hy laat niets anders, dan verwarde reednen, hooren:</l>
+<l>Zyn hart, zyn stervend hart, gelyk zyn tong, beroerd,</l>
+<l>En door een hevige bedenking staâg vervoerd,</l>
+<l>Schynt op dit oogenblik eens meester zyner zinnen,</l>
+<l>In 't ander laat het zich van razerny verwinnen:</l>
+<l>Nu spreekt hy, zuchtende, u, en dan den Keizer aan.</l>
+<l>In 't ende is al zyn kracht in 't bloedloos lyt vergaan:</l>
+<l>'t Gezigt draait in het hoofd, dat, slingrend ginds en weder,</l>
+<l>Nu t' éénemaal bezwykt; 't zygt op den boezem neder:</l>
+<l>Hy sterft; en alle hoop op d'Erfgenaam van 't Ryk</l>
+<l>Verkeert in siddring, op 't aanschouwen van zyn lyk.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Irene, Eudoxe, Narcea</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l>ô Hemel! 't is gedaan! de Prins is omgekomen!</l>
+<l>Neen, niets beweegt my meer myn zuchten in te toomen,</l>
+<l>Gebillykt door zyn dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eudoxe</hi>.</speaker>
+<l rend="; 1tab">Hoe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Irene</hi>.</speaker>
+<l rend="; 2tab">'k Wil myn felle smart</l>
+<l>Niet langer smooren in dit afgepynigd hart.</l>
+<l>ô Diervergoten bloed! 't Is billyk dat Irene,</l>
+<l>ô Teêrgeliefde Prins! uw deerlyk lot beweene;</l>
+<l>Ja, dat de foltering van myn' gerechten druk,</l>
+<l>Op 't hooren van uw dood, my uit het leven rukk'.</l>
+<l>Maar, ach! 'k gevoel, dat ik dien troost niet mag verwerven,</l>
+<l>Dien wreeden troost, dat my de droefenis doe sterven!</l>
+<l>'k Moet myn verlossing aan de werking van 't venyn,</l>
+<l>'t Geen met de dood my reeds doet worstlen, schuldig zyn.</l>
+<l>Neen: beider hulp zal my die éénige uitkomst geven....</l>
+<l>De Keizer nadert: ach! hoe doet zyn komst my beven!</l>
+<l>Hoe word myn doodlyke angst, op dit gezigt, vergroot!</l>
+<l>Hoe yze ik!</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="56"/>
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Paleologus, Irene, Eudoxe, Narcea</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Irene</hi>, <hi rend="i">zittende.</hi></speaker>
+<l rend="; 2tab">Vorst, ik wilde u spreken vóór myn dood.</l>
+<l>De Prins is omgebragt: 't gif doet my 't leven enden:</l>
+<l>Uw wrevle minnenyd stort ons in deze elenden.</l>
+<l>Een onderschepte brief (ik twyfel daar niet aan,)</l>
+<l>Misleidde uw' argwaan, deed die wreedheid u bestaan.</l>
+<l>Gy zoud, indien ik zweeg, altoos in twyfel blyven,</l>
+<l>Want eene onkenbre hand heb ik dien brief doen schryven.</l>
+<l>'t Is zonder schaamte, dat ik 't u te kennen geef;</l>
+<l>Die eedle toeleg is al 't gene ik ooit misdreef.</l>
+<l>Dit tuig' de Hemel, die, door onnaspeurbre wegen,</l>
+<l>Beloont, of straft, naar eisch der daden die wy plegen!</l>
+<l>Door my, noch door uw' Zoon, wierd immer in 't gemoed</l>
+<l>Hoe schuldig in uw oog, een snoode lust gevoed.</l>
+<l>Myn pligt deed my dien Prins zyn' nutten togt gebieden:</l>
+<l>Hy deed een pooging om voor eeuwig my te ontvlieden,</l>
+<l>Terwyl gy hem verrast, en op den zelfden tyd</l>
+<l>Ons beiden offert aan uw' wreeden minnenyd.</l>
+<l>Dees dag zal, afgemaald met ysselyke trekken,</l>
+<l>Verëeuwigd door 't gerucht, 't heeläl ten gruwel strekken.</l>
+<l rend="; 1tab">Myn deerniswaardig lot is thans vervult; en ik,</l>
+<l>Die 't pynlyk leven haat, kan sterven zonder schrik:</l>
+<l>'k Word van myn' wreeden echt, naar myn begeerte, ontheven.</l>
+<l rend="; 1tab">Geen wraakzucht noopt my aan; 'k heb alles u vergeven.</l>
+<l>Dat uw misleide ziel hare achterdocht verzaak!</l>
+<l>Gy weent!.. Ik sterf vernoegd... Uw inkeer zy myn wraak!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Paleologus</hi>.</speaker>
+<l>Wat hoor ik! wat bericht! Door welk een mededoogen</l>
+<l>Word myn beklemde ziel op 't onverhoedst bewogen!</l>
+<l>Is 't mooglyk dat hun schuld een bloot vermoeden zy?</l>
+<l>Dit 's een geheim... Maar, ach! wat wroeging pynigt my!</l>
+</sp>
+<p><hi rend="i">EINDE.</hi></p>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

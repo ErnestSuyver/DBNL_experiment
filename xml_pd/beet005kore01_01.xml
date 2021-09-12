@@ -1,0 +1,5006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Korenbloemen</title>
+               <author>Nicolaas Beets</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Korenbloemen</hi> van Nicolaas Beets uit 1853.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>In het origineel staat in de inhoudsopgave bij sommige hoofdstukken toelichting. Deze tekst is uit de inhoudsopgave gehaald en als voetnoot bij de hoofdstukken zelf gezet. Deze voetnoten staan nu op pagina 22, 31, 63, 73, 120, 138 en 179.</corr>
+                       <corr>p. 120: lettterkundige → letterkundige: ‘De letterkundige lezer zal’</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">beet005kore01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability><p>2016 dbnl</p></availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: 763 E 1, scans van Google Books</idno>
+               </bibl>
+               <p>Nicolaas Beets, <hi rend="i">Korenbloemen</hi>. De erven F. Bohn, Haarlem 1853</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Korenbloemen</title>
+               <author>Nicolaas Beets</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Korenbloemen</title>
+               <author>Nicolaas Beets</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2016-06-08</date>
+               <respStmt>
+                   <name type="person">CvM</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="I"/>
+<p><hi rend="b">KORENBLOEMEN.</hi></p>
+<pb rend="blank" n="II"/>
+<pb n="t.o. II"/>
+<p><hi rend="b">GEDICHTEN</hi></p>
+<p><hi rend="sc">van</hi></p>
+<p><hi rend="i">Nicolaas Beets.</hi></p>
+<p><figure>
+<p><xptr to="beet005kore01ill0001.gif"/></p>
+</figure></p>
+<p><hi rend="spat">HAARLEM</hi>.</p>
+<p><hi rend="b">ERVEN F. BOHN.</hi></p>
+<pb rend="blank" n="t.o. III"/>
+<pb n="III"/>
+<p>KORENBLOEMEN.</p>
+<p>NIEUWE GEDICHTEN</p>
+<p>VAN</p>
+<p>Nicolaas Beets.</p>
+<q rend="bq">'t Is Byslagh, die den aert van 't Lant, of van het Koren Te voorschijn heeft gehaelt.
+<lb/>
+HUYGENS.</q>
+<p>TE HAARLEM, BY</p>
+<p>DE ERVEN F. BOHN.</p>
+<p>1853.</p>
+<pb rend="blank" n="IV"/>
+</div>
+</cf>
+<div type="chapter">
+<pb n="V"/>
+<head rend="h3">Aan den lezer.</head>
+<p>Onder den, zoo ik hoop, bescheiden titel van Korenbloemen, reik ik mits dezen mijnen Landgenooten een nieuwen bundel gedichten toe, waarvan sommige vroeger bekend geworden, maar de meeste nooit gedrukt zijn, en die het bewijs moeten opleveren dat ik de poëzy niet geheel verwaarloos, al is het dat my tijd en gelegenheid ontbreekt om haar opzettelijk te kweeken.</p>
+<p>Een onzer uitnemendste, en door my van der jeugd af meest geliefde dichters is my voorgegaan in eene naamgeving, waarop ik ook reeds by den herdruk van mijnen eersten dichtbundel
+<pb n="VI"/>door motto en titelplaat gezinspeeld heb. Gaarne beken ik dat zijn</p>
+<lg type="poem">
+<l rend="; 2tab">Tarw, en van het beste Koren,</l>
+<l rend="; 1tab">Ten beste van 't Gemein,</l>
+</lg>
+<p>overvloediger en zijn Korenbloemen kleuriger waren dan de mijne. Maar de wensch van ook mijn hart is altijd geweest, dat mijn Vaderland niet geheel te vergeefs naar mijn Koren mocht vragen en van mijn Gebloemte getuigen:</p>
+<lg type="poem">
+<l>Is 't onkruyt, 't is van 't Best'; 't is vriendelick, 't is fijn,</l>
+<l>'t Is soet en schadeloos, en niet min als Fenijn.</l>
+</lg>
+<p><hi rend="sc">Heemstede</hi>,</p>
+<p>November 1853.</p>
+<cf>
+<pb n="VII"/>
+<p><hi rend="b">INHOUD.</hi></p>
+<p><table>
+<row>
+<cell cols="2">HEILIGE ONDERWERPEN.</cell>
+<cell/>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Eens konings tranen</hi></cell>
+<cell>Bladz. 3</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Weent niet over my</hi></cell>
+<cell>Bladz. 18</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Magdalene by 't kruis</hi></cell>
+<cell>Bladz. 22</cell>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Kerstfeest</hi></cell>
+<cell>Bladz. 27</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Hemelvaart</hi></cell>
+<cell>Bladz. 28</cell>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2">UIT HET BOEK DER SCHEPPING.</cell>
+<cell/>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Verwachting</hi></cell>
+<cell>Bladz. 31</cell>
+</row>
+</table></p>
+<pb n="VIII"/>
+<p><table>
+<row>
+<cell cols="2"><hi rend="sc">Lente</hi></cell>
+<cell>Bladz. 34</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">In mei</hi></cell>
+<cell>Bladz. 36</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Herfst</hi></cell>
+<cell>Bladz. 38</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Najaarslied</hi></cell>
+<cell>Bladz. 40</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Overgangen</hi></cell>
+<cell>Bladz. 42</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Jaargetijden</hi></cell>
+<cell>Bladz. 45</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Morgenstond</hi></cell>
+<cell>Bladz. 47</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Zonsondergang</hi></cell>
+<cell>Bladz. 49</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Madeliefjen</hi></cell>
+<cell>Bladz. 51</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Een roos</hi></cell>
+<cell>Bladz. 58</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Suum cuique</hi></cell>
+<cell>Bladz. 60</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Nachtegaal</hi></cell>
+<cell>Bladz. 62</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Koekoek</hi></cell>
+<cell>Bladz. 63</cell>
+</row>
+</table></p>
+<pb n="IX"/>
+<p><table>
+<row>
+<cell cols="2"><hi rend="sc">Bloeiende linde</hi></cell>
+<cell>Bladz. 65</cell>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2">VERSCHEIDEN GEDICHTEN.</cell>
+<cell/>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Zangdrift</hi></cell>
+<cell>Bladz. 71</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Wat kinderoogen zien kunnen</hi></cell>
+<cell>Bladz. 73</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan een bruid</hi></cell>
+<cell>Bladz. 78</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">De deuvig en de kompasnaald</hi></cell>
+<cell>Bladz. 79</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Niet voor de wareld</hi></cell>
+<cell>Bladz. 82</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Weerhaan-wijsheid</hi></cell>
+<cell>Bladz. 84</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan mijn vriend Hasebroek</hi></cell>
+<cell>Bladz. 88</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Thuiskomst van het eenjarig koosjen</hi></cell>
+<cell>Bladz. 92</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan mijne echtgenoote</hi></cell>
+<cell>Bladz. 97</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Herinnering</hi></cell>
+<cell>Bladz. 104</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Koperen bruiloft</hi></cell>
+<cell>Bladz. 109</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan Dr. Karel Gützlaff</hi></cell>
+<cell>Bladz. 111</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Het Oranjewater</hi></cell>
+<cell>Bladz. 113</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Het Haarlemmer-meir</hi>. 1850</cell>
+<cell>Bladz. 118</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Het Haarlemmer-meir uitgedroogd</hi>. 1853</cell>
+<cell>Bladz. 120</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Een nederlandsch lied</hi></cell>
+<cell>Bladz. 122</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Liedtjen</hi></cell>
+<cell>Bladz. 124</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Ontdekkingen</hi></cell>
+<cell>Bladz. 126</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Op 't ziekbed</hi></cell>
+<cell>Bladz. 127</cell>
+</row>
+</table></p>
+<pb n="X"/>
+<p><table>
+<row>
+<cell cols="2"><hi rend="sc">Eenvoud</hi></cell>
+<cell>Bladz. 128</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Stijg maar nijg</hi></cell>
+<cell>Bladz. 130</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Reinen van harten</hi></cell>
+<cell>Bladz. 131</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan eene jonge dichteresse</hi></cell>
+<cell>Bladz. 134</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Ter bruiloft van moederstroost</hi></cell>
+<cell>Bladz. 138</cell>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan mijne kinderen</hi></cell>
+<cell>Bladz. 145</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Jongelingschap</hi></cell>
+<cell>Bladz. 147</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan eene achttienjarige</hi></cell>
+<cell>Bladz. 149</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Lotwisseling</hi></cell>
+<cell>Bladz. 154</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan mijn vader</hi></cell>
+<cell>Bladz. 156</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Aan mijne moeder</hi></cell>
+<cell>Bladz. 159</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Uit moeders naam</hi></cell>
+<cell>Bladz. 161</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Scheiding</hi></cell>
+<cell>Bladz. 166</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Naamgeving aan een landhoeve</hi></cell>
+<cell>Bladz. 167</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Verpoozing</hi></cell>
+<cell>Bladz. 169</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Wederzien</hi></cell>
+<cell>Bladz. 171</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Drie jongelingen</hi></cell>
+<cell>Bladz. 173</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Met zen achten</hi></cell>
+<cell>Bladz. 175</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Niels Stockfleth</hi></cell>
+<cell>Bladz. 179</cell>
+</row>
+<row>
+<cell cols="3"/>
+</row>
+
+</table></p>
+<pb n="XI"/>
+<p><table>
+<row>
+<cell/>
+<cell cols="2">Zie over <hi rend="sc">stockfleth</hi>, <hi rend="i">Evangelische Missions-Geschichte in Biographieën</hi>, 1<hi rend="sup">ster</hi> Band. 5<hi rend="sup">tes</hi> Heft. Anhang. Düsseldorf 1850.</cell>
+</row>
+<row>
+<cell cols="2">KLEINIGHEDEN.</cell>
+<cell/>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Triomfeerende argumenten</hi></cell>
+<cell>Bladz. 191</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Ontboezeming</hi></cell>
+<cell>Bladz. 194</cell>
+</row>
+<row>
+<cell cols="2"><hi rend="sc">Scheppend genie</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+</table></p>
+<pb n="XII"/>
+<p><table>
+<row>
+<cell><hi rend="sc">Germanismen</hi></cell>
+<cell>Bladz. 195</cell>
+</row>
+<row>
+<cell><hi rend="sc">Taal-censuur</hi></cell>
+<cell>Bladz. 196</cell>
+</row>
+<row>
+<cell><hi rend="sc">Medebroeder</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Het juiste midden</hi></cell>
+<cell>Bladz. 197</cell>
+</row>
+<row>
+<cell><hi rend="sc">Anders</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Intuïtie</hi></cell>
+<cell>Bladz. 198</cell>
+</row>
+<row>
+<cell><hi rend="sc">Prijsvraag</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Arabische menschenhaat</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Naar Rückert</hi></cell>
+<cell>Bladz. 199</cell>
+</row>
+<row>
+<cell><hi rend="sc">Zelfkritiek</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Maat en toon</hi></cell>
+<cell>Bladz. 200</cell>
+</row>
+<row>
+<cell><hi rend="sc">Volkomenheid</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Navolging</hi></cell>
+<cell>Bladz. 201</cell>
+</row>
+<row>
+<cell><hi rend="sc">Keurigheid</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Vleugels</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Waarschuwingen</hi></cell>
+<cell>Bladz. 202</cell>
+</row>
+<row>
+<cell><hi rend="sc">Een is noodig</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Opmerking</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Zwijgen</hi></cell>
+<cell>Bladz. 203</cell>
+</row>
+<row>
+<cell><hi rend="sc">Geen deel; maar 't geheel</hi></cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Geen orgeltoon, maar uw persoon</hi>!</cell>
+<cell>Bladz. -</cell>
+</row>
+<row>
+<cell><hi rend="sc">Oog en hart</hi></cell>
+<cell>Bladz. 204</cell>
+</row>
+</table></p>
+</cf>
+</div>
+<div type="chapter">
+<pb n="1"/>
+<head rend="h2">Heilige onderwerpen.</head>
+<pb rend="blank" n="2"/>
+<pb n="3"/>
+<head rend="h3">Eens konings tranen.</head>
+<head rend="h4">I.</head>
+<lg type="poem">
+<l><hi rend="b">V</hi>ergeet uw vrees voor louter vreugd,</l>
+<l>Wees, Dochter Sions! wees verheugd,</l>
+<l rend="; 1tab">En laat uw psalmen stroomen:</l>
+<l rend="; 1tab">Uw Vorst en Heer zal komen!</l>
+<l>&nbsp;</l>
+<l>Hy komt, de koning lang verwacht;</l>
+<l>Maar houdt, eenvoudig, arm, en zacht,</l>
+<l rend="; 1tab">Op 't needrig lastdiervolen</l>
+<l rend="; 1tab">Zijn majesteit verscholen.</l>
+<l>&nbsp;</l>
+<l>Hoe trekt de schaar hem in 't gemoet,</l>
+<l>Het hart vol vuur, het oog in gloed,</l>
+<l rend="; 1tab">Hoe schudt men met de palmen,</l>
+<l rend="; 1tab">En doet hozanna's galmen.</l>
+<l>&nbsp;</l>
+<pb n="4"/>
+<l>‘Hozanna! zegen over hem</l>
+<l>Die nadert tot Jeruzalem,</l>
+<l rend="; 1tab">Die komt in naam des Heeren,</l>
+<l rend="; 1tab">Hozanna, God zij eeren!</l>
+<l>&nbsp;</l>
+<l>Hozanna! eer zij God gebracht,</l>
+<l>Tot in den hemel van zijn kracht,</l>
+<l rend="; 1tab">Tot in de hoogste plaatsen!’</l>
+<l rend="; 1tab">Dat berg en dal 't weerkaatsen.</l>
+<l>&nbsp;</l>
+<l>Aanschouwt hem! Goedertierenheid</l>
+<l>Ligt op zijn aanzicht uitgespreid;</l>
+<l rend="; 1tab">Genade is op de tippen</l>
+<l rend="; 1tab">Dier lachelende lippen.</l>
+<l>&nbsp;</l>
+<l>Ziedaar het godlijk aangezicht</l>
+<l>Van die den blinden heeft het licht,</l>
+<l rend="; 1tab">Den stommen spraak gegeven,</l>
+<l rend="; 1tab">En Lazarus het leven!</l>
+<l>&nbsp;</l>
+<l>Valt, palmenmeien! voor dien Heer</l>
+<l>Uit de uitgestrekte handen neêr;</l>
+<l rend="; 1tab">De kniën moeten buigen,</l>
+<l rend="; 1tab">Waar hart en lippen juichen!</l>
+<l>&nbsp;</l>
+<pb n="5"/>
+<l>Hoe klopt de boezem die hem prijst,</l>
+<l>Wanneer men van den grond verrijst,</l>
+<l rend="; 1tab">Maar 't opperkleed laat blijven</l>
+<l rend="; 1tab">By palmen en olijven.</l>
+<l>&nbsp;</l>
+<l>Rijd, koning vol zachtmoedigheid!</l>
+<l>Rijd zacht op 't pad aldus bespreid,</l>
+<l rend="; 1tab">En laat uw oogen waren</l>
+<l rend="; 1tab">Langs de opgetogen scharen.</l>
+<l>&nbsp;</l>
+<l>Trek door het bloeiend, vruchtbaar dal,</l>
+<l>Dat nooit uw hart vergeten zal,</l>
+<l rend="; 1tab">Waar 't liefde vond en vrede...</l>
+<l rend="; 1tab">Zijn nardus-geur trekt mede.</l>
+<l>&nbsp;</l>
+<l>Bestijg op 't veulen, nooit bereên,</l>
+<l>Betfagees heuvlen een voor een,</l>
+<l rend="; 1tab">Waar dadelen en vijgen</l>
+<l rend="; 1tab">Voor u de kroonen nijgen.</l>
+<l>&nbsp;</l>
+<l>Rijd, rijd voorspoedig, naar uw woord,</l>
+<l>Tot d' afgang der olijven voort;</l>
+<l rend="; 1tab">Straks zal uw oog aanschouwen</l>
+<l rend="; 1tab">Jeruzalems gebouwen.</l>
+<l>&nbsp;</l>
+<pb n="6"/>
+<l>Daar ligt de stad, de koningstad,</l>
+<l>Op tempel en paleizen prat,</l>
+<l rend="; 1tab">Daar ligt zy, de overschoone,</l>
+<l rend="; 1tab">En vonkelt met haar kroone.</l>
+<l>&nbsp;</l>
+<l>Daar ligt de stad, der steden eer,</l>
+<l>Waar zich de stammen van den Heer,</l>
+<l rend="; 1tab">Om voor zijn oog te naderen,</l>
+<l rend="; 1tab">Hem lovende vergaderen.</l>
+<l>&nbsp;</l>
+<l>Hoe heerlijk pronkt, hoe vrolijk zwiert</l>
+<l>Het prachtig feestkleed, dat haar siert,</l>
+<l rend="; 1tab">En laat zijn breede zoomen</l>
+<l rend="; 1tab">Langs al haar bergen stroomen.</l>
+<l>&nbsp;</l>
+<l>Hoe breekt de schaar, die om u sluit,</l>
+<l>In hooger jubelkreeten uit,</l>
+<l rend="; 1tab">Zoo ras zy aan hun voeten</l>
+<l rend="; 1tab">Uw koningstad begroeten.</l>
+<l>&nbsp;</l>
+<l>Hoe heft zy van uw wonderdaân</l>
+<l>Met dubbelde hozanna's aan,</l>
+<l rend="; 1tab">En trekt er hupplend henen:</l>
+<l rend="; 1tab">Maar 's konings oogen weenen.</l>
+<l>&nbsp;</l>
+<pb n="7"/>
+<l>Hoe vrolijk worden, daar zy trekt,</l>
+<l>De wedergalmen opgewekt</l>
+<l rend="; 1tab">Van Sions bergvalleien:</l>
+<l rend="; 1tab">Maar 's konings oogen schreien.</l>
+<l>&nbsp;</l>
+<l>Zy schreien. Want de koning kent</l>
+<l>De stad die Gods profeeten schendt,</l>
+<l rend="; 1tab">En overdekt met wonden</l>
+<l rend="; 1tab">Wie God haar heeft gezonden.</l>
+<l>&nbsp;</l>
+<l>Zy schreien. Want de koning laat</l>
+<l>Den bloedvlek op haar schoon gelaat,</l>
+<l rend="; 1tab">De lastring op haar lippen</l>
+<l rend="; 1tab">Zijn aandacht niet ontslippen.</l>
+<l>&nbsp;</l>
+<l>Jeruzalem! Jeruzalem!</l>
+<l>Gy zult het roepen dezer stem,</l>
+<l rend="; 1tab">Het galmen dezer kooren,</l>
+<l rend="; 1tab">By uw altaren, smooren.</l>
+<l>&nbsp;</l>
+<l>De blijdste schaar zwijgt ras verschrikt</l>
+<l>Als gy haar toornig tegenblikt;</l>
+<l rend="; 1tab">Slechts wordt in kindermonden</l>
+<l rend="; 1tab">'t Hozanna nog gevonden.</l>
+<l>&nbsp;</l>
+<pb n="8"/>
+<l>Maar blijve ook 't kinderlipjen stom,</l>
+<l>En doe, van uit het heiligdom,</l>
+<l rend="; 1tab">'t Gekrijsch der lasterkreeten</l>
+<l rend="; 1tab">'t Hozanna gantsch vergeten;</l>
+<l>&nbsp;</l>
+<l>Zelfs daar gy met uw banvloek doemt,</l>
+<l>Wie slechts zijn naam met eerbied noemt,</l>
+<l rend="; 1tab">Hem zal geen lof ontbreken:</l>
+<l rend="; 1tab">Uw steenen zullen spreken.</l>
+<l>&nbsp;</l>
+<l>Uw steenen dronken woorden in</l>
+<l>Van goddelijke menschenmin,</l>
+<l rend="; 1tab">Uw steenen zagen wonderen,</l>
+<l rend="; 1tab">Die ze in uw ooren donderen.</l>
+<l>&nbsp;</l>
+<l>Uw steenen, doof Jeruzalem!</l>
+<l>Zy roepen, met onsmoorbre stem,</l>
+<l rend="; 1tab">Zijn schriklijk Wee! u tegen,</l>
+<l rend="; 1tab">Ook schoon zijn lippen zwegen.</l>
+<l>&nbsp;</l>
+<l>En als uw vijand om uw wal</l>
+<l>Straks een begraving werpen zal,</l>
+<l rend="; 1tab">En u rondom benaauwen,</l>
+<l rend="; 1tab">Met kinderen en vrouwen:</l>
+<l>&nbsp;</l>
+<pb n="9"/>
+<l>Hoe zal 't geween, 't gejoel, 't verward</l>
+<l>Gejammer van uw woede en smart,</l>
+<l rend="; 1tab">'t Vertwijfelende gillen,</l>
+<l rend="; 1tab">Door dag noch nacht te stillen;</l>
+<l>&nbsp;</l>
+<l>Hoe zal het ruiselende bloed,</l>
+<l>Dat door uw straten zijplen moet,</l>
+<l rend="; 1tab">Waar broedermoordenaren,</l>
+<l rend="; 1tab">Met pest en honger, waren;</l>
+<l>&nbsp;</l>
+<l>Hoe zal, by 't steigren van den nood,</l>
+<l>Het vruchtloos zoeken van den dood,</l>
+<l rend="; 1tab">'t Vergeefs verbrijzling vergen</l>
+<l rend="; 1tab">Van heuvelen en bergen;</l>
+<l>&nbsp;</l>
+<l>Hoe zal de schelle wanhoopkreet</l>
+<l>Van moeders, met het staal gereed</l>
+<l rend="; 1tab">Haar kroost door 't hart te steken,</l>
+<l rend="; 1tab">Uws konings eere wreeken.</l>
+<l>&nbsp;</l>
+<l>Straks als het heilig grondgebied</l>
+<l>Den gruwel der verwoesting ziet,</l>
+<l rend="; 1tab">De vlam des vuurs zal naken</l>
+<l rend="; 1tab">Tot tempelwand en daken:</l>
+<l>&nbsp;</l>
+<pb n="10"/>
+<l>Hoe schriklijk zullen wederom</l>
+<l>De muren van het heiligdom,</l>
+<l rend="; 1tab">In 't wagglen, kraken, splijten,</l>
+<l rend="; 1tab">Tot eer uws konings krijten!</l>
+<l>&nbsp;</l>
+<l>Geen steen van heel uw trotsche wal</l>
+<l>Zoo vast en heerlijk, of hy zal</l>
+<l rend="; 1tab">Van uit zijn voegen breken,</l>
+<l rend="; 1tab">Geen steen of hy zal spreken.</l>
+<l>&nbsp;</l>
+<l>Verhef dan, by 't verwoeste huis,</l>
+<l>Uw klachten over 't rookend gruis,</l>
+<l rend="; 1tab">Ween luid! de stem dier steenen</l>
+<l rend="; 1tab">Roept luider dan uw weenen.</l>
+<l>&nbsp;</l>
+<l>Of smoor uw klachten, en verzend</l>
+<l>Uw kwijnend kroost tot 's aardrijks end:</l>
+<l rend="; 1tab">De bloedige asch en kolen</l>
+<l rend="; 1tab">Kleeft wroegende aan hun zolen.</l>
+</lg>
+<div type="section">
+<pb n="11"/>
+<head rend="h4">II.</head>
+<lg type="poem">
+<l>Uw koning middlerwijl volbrengt</l>
+<l>Zijn zegetochten ongekrenkt,</l>
+<l rend="; 1tab">En gaat van oost tot westen</l>
+<l rend="; 1tab">Zijn vrederijksthroon vesten.</l>
+<l>&nbsp;</l>
+<l>Verwerpt het kroost van Abraham</l>
+<l>Den leeuwenwelp uit Judaas stam:</l>
+<l rend="; 1tab">De heiden zal hem kroonen...</l>
+<l rend="; 1tab">Uit steenen Abrams zonen!</l>
+<l>&nbsp;</l>
+<l>Houdt Jakobs dolend huisgezin</l>
+<l>Zijn plechtige hozanna's in:</l>
+<l rend="; 1tab">In honderd nieuwe talen</l>
+<l rend="; 1tab">Hoort hy zijn lof herhalen.</l>
+<l>&nbsp;</l>
+<l>Verdort het oostersch palmenblad</l>
+<l>Daar 't zich terughoudt van zijn pad:</l>
+<l rend="; 1tab">Het noord noopt pijn en eiken</l>
+<l rend="; 1tab">Hem duurzaam loof te reiken.</l>
+<l>&nbsp;</l>
+<pb n="12"/>
+<l>Het westen, door geen zee gestuit,</l>
+<l>Rekt voor dien vorst zijn grenzen uit,</l>
+<l rend="; 1tab">Wien 't aangename zuiden</l>
+<l rend="; 1tab">Begroet met bloem en kruiden.</l>
+<l>&nbsp;</l>
+<l>Wat nood dan, koning! al veracht</l>
+<l>U 't muitend Isrel, de aarde wacht.</l>
+<l rend="; 1tab">Reeds hoort gy, dezer dagen,</l>
+<l rend="; 1tab">De grieken naar u vragen.</l>
+<l>&nbsp;</l>
+<l>Wisch van uw stralende gelaat</l>
+<l>Dien traan, die in uw oogen staat:</l>
+<l rend="; 1tab">Het wederhoorig harte</l>
+<l rend="; 1tab">Verdient geen zulke smarte.</l>
+<l>&nbsp;</l>
+<l>Laat, daar gy tot een kampstrijd trekt,</l>
+<l>Die heel een wareld heil verstrekt,</l>
+<l rend="; 1tab">Het oog van uw getrouwen</l>
+<l rend="; 1tab">Een blij gelaat aanschouwen.</l>
+<l>&nbsp;</l>
+<l>Geniet de hulde, die u wacht</l>
+<l>Van heel het menschelijk geslacht;</l>
+<l rend="; 1tab">Maar spil geen kostbre tranen</l>
+<l rend="; 1tab">Aan trouwlooze onderdanen.</l>
+<l>&nbsp;</l>
+<pb n="13"/>
+<l>Is niet de grond, dien gy betreedt,</l>
+<l>Tot drinken van uw bloed gereed?</l>
+<l rend="; 1tab">En zoudt gy dien besproeien</l>
+<l rend="; 1tab">Met tranen?... Maar zy vloeien.</l>
+<l>&nbsp;</l>
+<l>Zy blijven vloeien.... Moordnaarskrocht!</l>
+<l>Voor u dit godlijk tranenvocht,</l>
+<l rend="; 1tab">Volk, dat hem trapt op 't harte!</l>
+<l rend="; 1tab">Voor u, voor u dees smarte.</l>
+<l>&nbsp;</l>
+<l>Hy weet wat ijsselijke nacht</l>
+<l>Hem in dit dal des Kedrons wacht,</l>
+<l rend="; 1tab">Wat perskuip hy gaat treden,</l>
+<l rend="; 1tab">Na dit bedrieglijk heden.</l>
+<l>&nbsp;</l>
+<l>Hy weet wat strijd, wat heete strijd,</l>
+<l>Hem tot der volken koning wijdt;</l>
+<l rend="; 1tab">Hy weet in welke plassen</l>
+<l rend="; 1tab">Hy zijn gewaad moet wasschen;</l>
+<l>&nbsp;</l>
+<l>Hy weet, uw koning hoog geloofd,</l>
+<l>Aan welk een doop hy 't buigend hoofd</l>
+<l rend="; 1tab">En 't krimpend lijf moet leenen:</l>
+<l rend="; 1tab">Maar dit doet hem niet weenen.</l>
+<l>&nbsp;</l>
+<pb n="14"/>
+<l>U geldt zijn droefheid, u alleen,</l>
+<l>O Israël, zijn vleesch en been,</l>
+<l rend="; 1tab">Niets kan in west of oosten</l>
+<l rend="; 1tab">Hem van uw afval troosten.</l>
+<l>&nbsp;</l>
+<l>Geen grieksche aanbidding, eer, en lof,</l>
+<l>Geen adelaren in het stof,</l>
+<l rend="; 1tab">Geen aangegroeide scharen</l>
+<l rend="; 1tab">Vertederde barbaren;</l>
+<l>&nbsp;</l>
+<l>Geen uitgestoken heidenhand</l>
+<l>Uit Mitzraïem of Moorenland;</l>
+<l rend="; 1tab">Geen bloeiende woestijnen,</l>
+<l rend="; 1tab">Waarop zijn licht gaat schijnen;</l>
+<l>&nbsp;</l>
+<l>Geen héerschappy van vloed tot vloed,</l>
+<l>Geen nieuwe wareld, aan zijn voet</l>
+<l rend="; 1tab">Met schatten neergebogen,</l>
+<l rend="; 1tab">Kan deze tranen droogen.</l>
+<l>&nbsp;</l>
+<l>Ach Sion! dat, op dees uw dag,</l>
+<l>'t Zoo lang afkeerig oog nog zag</l>
+<l rend="; 1tab">Wat tot uw vrede diende,</l>
+<l rend="; 1tab">Die koningstranen ziende!</l>
+<l>&nbsp;</l>
+<pb n="15"/>
+<l>Ach, dat gy 't onheil wenden mocht,</l>
+<l>Zich spieglende in dat tranenvocht!</l>
+<l rend="; 1tab">Ach, dat gy mocht bezwijken</l>
+<l rend="; 1tab">Voor zulke liefdeblijken!</l>
+<l>&nbsp;</l>
+<l>Dat de uitgebreide vleugelschaauw</l>
+<l>U nog mocht bergen voor den klaauw</l>
+<l rend="; 1tab">Des giers, die uit den hoogen</l>
+<l rend="; 1tab">U reeds verslindt met de oogen.</l>
+<l>&nbsp;</l>
+<l>Hoe menigmaal, Jeruzalem!</l>
+<l>Heeft u des konings zachte stem</l>
+<l rend="; 1tab">Gezocht byeen te gaderen...</l>
+<l rend="; 1tab">Ach, dat gy nog kost naderen!</l>
+<l>&nbsp;</l>
+<l>Gy wendt u af; gy blijft verhard;</l>
+<l>Maar van zijn koninklijke smart</l>
+<l rend="; 1tab">Zal 't oog der volken leeken,</l>
+<l rend="; 1tab">Tot eens u 't hart zal breken.</l>
+</lg>
+</div>
+<div type="section">
+<pb n="16"/>
+<head rend="h4">III.</head>
+<lg type="poem">
+<l>En eenmaal breekt het. Eindlijk zullen,</l>
+<l rend="; 2tab">Naar Gods bestel,</l>
+<l>Ook uwe tijden zich vervullen,</l>
+<l rend="; 2tab">O Israël!</l>
+<l>Ook gy zult tot uw koning naderen,</l>
+<l rend="; 1tab">Ook gy aanbidden aan zijn voet,</l>
+<l>Hem kennende als de Hoop der Vaderen,</l>
+<l rend="; 1tab">Die al uw jamm'ren enden doet.</l>
+<l>&nbsp;</l>
+<l>De olijfstam zal, voor vreemde twijgen</l>
+<l rend="; 2tab">Hem ingegrift,</l>
+<l>Zijn sap in eigen hout doen stijgen,</l>
+<l rend="; 2tab">Met nieuwe drift.</l>
+<l>Het aaklig dal, waar 't doodsgebeente</l>
+<l rend="; 1tab">Verstrooid, verdord, verworpen ligt,</l>
+<l>Zich met een levende gemeente</l>
+<l rend="; 1tab">Bevolken voor Gods aangezicht.</l>
+<l>&nbsp;</l>
+<pb n="17"/>
+<l>En alle volkren, alle tongen,</l>
+<l rend="; 2tab">Zoo verre en wijd</l>
+<l>De lof diens konings wordt gezongen,</l>
+<l rend="; 1tab">Wiens vleesch en been gy immers zijt!</l>
+<l>Zy zullen zich om u verdringen,</l>
+<l rend="; 2tab">En blijde en luid</l>
+<l>Het groote Hallelujah zingen,</l>
+<l rend="; 1tab">Dat op uw groot Hozanna sluit.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<pb n="18"/>
+<head rend="h3">Weent niet over my.</head>
+<lg type="poem">
+<l><hi rend="b">J</hi>ezus wordt weggeleid:</l>
+<l>Heilige Onnoozelheid!</l>
+<l>Is daar geen deugd of eer</l>
+<l>By Jood noch Heiden meer?</l>
+<l>Is daar geen moed of kracht</l>
+<l>Dan by de helsche macht?</l>
+<l>Druischt niet een enkle stem</l>
+<l>In tegen 't: ‘Weg met hem?’</l>
+<l>Barst niet een menschlijk hart</l>
+<l>Los in een luide smart,</l>
+<l>Uit in een raauwen gil?</l>
+<l>Zwijgt ook de hemel stil?</l>
+<pb n="19"/>
+<l>Valt, op dees onweersdag,</l>
+<l>Nergens een donderslag?</l>
+<l>Gaat door de onreine lucht</l>
+<l>Zelfs niet een bange zucht,</l>
+<l>Die voor den Heilge spreekt,</l>
+<l rend="; 1tab">En de onschuld wreekt?</l>
+<l>&nbsp;</l>
+<l>Jezus wordt weggeleid:</l>
+<l>Heilige Lijdzaamheid!</l>
+<l>Gy draagt de doornenkroon:</l>
+<l rend="; 1tab">Zy stond u schoon.</l>
+<l>Gy torscht het kruishout nu:</l>
+<l>Die last verheerlijkt U.</l>
+<l>Gy kunt niet schooner zijn</l>
+<l>Dan in uw hoogste pijn,</l>
+<l>Doende den diepen grond</l>
+<l>Van uwe liefde kond;</l>
+<l>Maar wie heeft oog of hart</l>
+<l>Voor deze schoone smart?</l>
+<l>'t Woedend gepeupel niet,</l>
+<l>Dat zijn profeet verstiet,</l>
+<l>Dat zijn onschuldig bloed</l>
+<l>Over zich komen doet,</l>
+<pb n="20"/>
+<l>Noch ook de krijgerstoet,</l>
+<l rend="; 1tab">Die 't plengen moet....</l>
+<l>Stil! In der Vrouwen drom</l>
+<l>Gaat een gemompel om;</l>
+<l>Stil! Uit der Vrouwen rei</l>
+<l>Meldt zich een luid geschrei,</l>
+<l>Dat Jezus eer bewijst...</l>
+<l rend="; 1tab">Hoor, hoe het rijst!</l>
+<l>&nbsp;</l>
+<l>Jezus wordt weggeleid:</l>
+<l>Heilge Barmhartigheid!</l>
+<l>Minst over eigen smart</l>
+<l rend="; 1tab">Bloedt hem het hart.</l>
+<l>Als hy de Sioniet'</l>
+<l>Over hem weenen ziet,</l>
+<l>Vall' hem zijn kruis ook zwaar,</l>
+<l rend="; 1tab">Hy weent om haar.</l>
+<l>Want, over kruis en dood,</l>
+<l>Ziet hy haar bangen nood,</l>
+<l>Hoort hy haar jammerklacht,</l>
+<l>Radeloos voortgebracht:</l>
+<l>‘Heil der versmade maagd,</l>
+<l>Die geenen man behaagt!</l>
+<pb n="21"/>
+<l>Zalig de dorre schoot,</l>
+<l>Nimmer van kinde groot!</l>
+<l>Bergen verplet me vrij!</l>
+<l>Heuvlen stort over my!...’</l>
+<l rend="; 1tab">En die ten kruisberg gaat</l>
+<l>Spreekt met een zacht gelaat:</l>
+<l>‘Klagende Sioniet'!</l>
+<l>Ween over Jezus niet;</l>
+<l>Maar zoo gy weenen moet,</l>
+<l>Ween om uw eigen bloed!</l>
+<l>Stort om Jeruzalem</l>
+<l>Tranen - met Hem!’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="22"/>
+    <head rend="h3">Magdalene by 't kruis.<note n="*" place="foot">Door het opschrift van dit stukjen wensch ik de vraag geenszins te beslissen of, overeenkomstig de kerkelijke overlevering en prof. <hi rend="sc">lange</hi> (Leben Jesu), de Boetvaardige Zondares (Luk. VII) met <hi rend="sc">maria magdalena</hi> een zelfde persoon zij, dan wel, naar het gevoelen der meeste nieuweren, eene andere. Slechts had de poëzy behoefte aan den naam voor het type.</note></head>
+<lg type="poem">
+<l><hi rend="b">H</hi>ier is mijn plaats. Aan deze voeten,</l>
+<l rend="; 1tab">Genageld op dit hout.</l>
+<l>Hier, dat de tranen vloeien moeten,</l>
+<l rend="; 1tab">Die Gy in gunst aanschouwt.</l>
+<l>De Simons schudden 't hoofd en smaden</l>
+<l rend="; 1tab">En lastren als weleer:</l>
+<l>De zondares, met schuld beladen,</l>
+<l rend="; 1tab">Stort in aanbidding neêr.</l>
+<l>&nbsp;</l>
+<l>De middagzonne derft haar luister;</l>
+<l rend="; 1tab">De dag is donkerheid.</l>
+<l>Uw oogen zien, ook in dit duister,</l>
+<l rend="; 1tab">Wie aan uw voeten schreit.</l>
+<l>Gy kent haar. Heer! Gy zult haar dulden.</l>
+<l rend="; 1tab">Gy leest haar tot in 't hart.</l>
+<l>Het is de vrouw van vele schulden,</l>
+<l rend="; 1tab">Wie veel vergeven werd.</l>
+<l>&nbsp;</l>
+<pb n="23"/>
+<l>Ook op haar arme ziele daalde</l>
+<l rend="; 1tab">Een zevendubble nacht;</l>
+<l>Maar 't licht, dat eens haar tegenstraalde,</l>
+<l rend="; 1tab">Behoudt, ook <hi rend="i">hier</hi>, zijn kracht.</l>
+<l>Gy lijdt, Gy sterft; zy voelt uw smarte,</l>
+<l rend="; 1tab">Zy siddert by uw wee;</l>
+<l>Maar, in het binnenst van haar harte,</l>
+<l rend="; 1tab">Behoudt gy haar den vreê.</l>
+<l>&nbsp;</l>
+<l>Haar oor vernam die bittre klachte:</l>
+<l rend="; 1tab">‘Waarom verlaat gy my?’</l>
+<l>O zielverbijstrende gedachte...</l>
+<l rend="; 1tab">Verlaten!... Heiland, Gy?</l>
+<l>Toch blijft gy haar van vrede spreken,</l>
+<l rend="; 1tab">Die al uw strijd aanschouwt;</l>
+<l>Toch voelt zy, in geen strijd bezweken,</l>
+<l rend="; 1tab">Dat haar 't geloof behoudt.</l>
+<l>&nbsp;</l>
+<l>Ja, Gy zult Israël bevrijden,</l>
+<l rend="; 1tab">Eens stijgt ge op Davids throon,</l>
+<l>Daar komt een heerlijkheid na 't lijden,</l>
+<l rend="; 1tab">En na dit kruis een kroon!</l>
+<l>Eens, in uw koninkrijk gekomen,</l>
+<l rend="; 1tab">Gedenkt gy, naar uw woord,</l>
+<l>De vrouw, die gy hebt aangenomen,</l>
+<l rend="; 1tab">Bemoedigd, en verhoord.</l>
+<l>&nbsp;</l>
+<pb n="24"/>
+<l>Gewis, haar zonden zijn vergeven,</l>
+<l rend="; 1tab">Haar schuld is weggedaan,</l>
+<l>Haar naam in 't levensboek geschreven,</l>
+<l rend="; 1tab">Dat zeide uw mond haar aan;</l>
+<l>Die mond, die lieflijke, die zachte,</l>
+<l rend="; 1tab">Die thands zoo bleeke mond,</l>
+<l>Zich oopnend tot zoo bittre klachte</l>
+<l rend="; 1tab">In zoo ontzetbre stond!</l>
+<l>&nbsp;</l>
+<l>Ach, Zy vertroost, en Gy verlaten,</l>
+<l rend="; 1tab">Gy smachtend, Zy onthaald;</l>
+<l>Gy, prooi van allen die u haten,</l>
+<l rend="; 1tab">Zy, door Uw gunst bestraald!</l>
+<l>Die alle straffen Gods verdiende,</l>
+<l rend="; 1tab">Zelfs door geen vrees benaauwd!</l>
+<l>Gods Heilgen in een jammer ziende</l>
+<l rend="; 1tab">Daar God zich ver van houdt!...</l>
+<l>&nbsp;</l>
+<l>Dit heilig lichaam enkel wonde,</l>
+<l rend="; 1tab">Van koorts en pijn verteerd;</l>
+<l>En 't schandlijk werktuig van de zonde</l>
+<l rend="; 1tab">Gezond en ongedeerd!</l>
+<l>Komt, overmoedige soldaten!</l>
+<l rend="; 1tab">Doet recht, en spot niet meer:</l>
+<l>Laat dezen Koning 't kruis verlaten;</l>
+<l rend="; 1tab">My voegt het, niet mijn Heer.</l>
+<l>&nbsp;</l>
+<pb n="25"/>
+<l>Dit hout, met al zijn ijslijkheden,</l>
+<l rend="; 1tab">Verdiende ik lang en steeds.</l>
+<l>Wat toeft gy? komt, verscheurt dees leden,</l>
+<l rend="; 1tab">Ontziet geen tenger vleesch.</l>
+<l><hi rend="i">Ik</hi> heb de wet van God geschonden,</l>
+<l rend="; 1tab">Moedwillig dartel, dwaas....</l>
+<l>Komt, laat my sterven voor mijn zonden,</l>
+<l rend="; 1tab">En sterven in Zijn plaats!</l>
+<l>&nbsp;</l>
+<l>Maar neen! de onschuldige moet lijen,</l>
+<l rend="; 1tab">Als 't offer op 't altaar,</l>
+<l>Als 't lam der oude profecyen....</l>
+<l rend="; 1tab">En zoo hy 't offer waar?</l>
+<l>Indien.... Ja, Israëls verwachting!</l>
+<l rend="; 1tab">Verzoener van mijn schuld!</l>
+<l>‘Men leidde u als een lam ter slachting!</l>
+<l rend="; 1tab">Zachtmoedig, vol geduld!’</l>
+<l>&nbsp;</l>
+<l>Een stem roept uit: ‘Ons overtreden</l>
+<l rend="; 1tab">Kost hem dit leed, dit bloed.</l>
+<l>Het zijn Onze ongerechtigheden</l>
+<l rend="; 1tab">Die Zijn verbrijzling boet.</l>
+<l>De straf die op ons hoofd moest wezen,</l>
+<l rend="; 1tab">Verdraagt hy in dees smart.</l>
+<l>Door Zijne striemen zijn genezen</l>
+<l rend="; 1tab">De wonden van Ons hart.’</l>
+<l>&nbsp;</l>
+<pb n="26"/>
+<l>Mijn ziel geeft andwoord: ‘Heer! ik dwaalde</l>
+<l rend="; 1tab">Gelijk een schaap in 't rond;</l>
+<l>Zijt Gy 't, op wien mijn misdrijf daalde,</l>
+<l rend="; 1tab">Gy Herder, die my vondt?</l>
+<l>Zijt Gy voor my, voor mijne zonde</l>
+<l rend="; 1tab">Gelijk een lam geslacht?...’</l>
+<l>Aanbidlijk woord door uwen monde</l>
+<l rend="; 1tab">Gesproken: ‘'<hi rend="sc">t is volbracht</hi>!’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="27"/>
+<head rend="h3">Kerstfeest.</head>
+<lg type="poem">
+<l><hi rend="b">L</hi>aat ons met de herders gaan</l>
+<l rend="; 1tab">'t Heilig kind begroeten,</l>
+<l>Zwijgend by zijn kribbe staan,</l>
+<l rend="; 1tab">Knielen aan zijn voeten.</l>
+<l>Denken aan het hemelsch lied</l>
+<l rend="; 1tab">Van Gods englenreien,</l>
+<l>En by 't wonder hier geschied</l>
+<l rend="; 1tab">Dankbre tranen schreien.</l>
+<l>&nbsp;</l>
+<l>Sluiten we in ons innigst hart,</l>
+<l rend="; 1tab">Wat onze ooren hooren,</l>
+<l>Met de maagd, die moeder werd,</l>
+<l rend="; 1tab">In gepeins verloren;</l>
+<l>Wijken wy niet van dit Kind,</l>
+<l rend="; 1tab">Eer we ons vergewissen</l>
+<l>Dat ons hart het teder mint,</l>
+<l rend="; 1tab">En niet meer kan missen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="28"/>
+<head rend="h3">Hemelvaart.</head>
+<lg type="poem">
+<l><hi rend="b">W</hi>at staart gy, met kortzichtige oogen,</l>
+<l rend="; 1tab">Op d'ondoordringbren hemeltrans?</l>
+<l>Daar houdt een wolk uw Heer omtogen,</l>
+<l rend="; 1tab">Gants oogverblindend door haar glans.</l>
+<l>Wat wenscht ge u wieken, wenscht u krachten</l>
+<l rend="; 1tab">Om op te varen waar hy leeft,</l>
+<l>Die zelfs op vleuglen der gedachten</l>
+<l rend="; 1tab">Het heiligdom niet binnenzweeft!</l>
+<l>&nbsp;</l>
+<l>Ach, leer in eigen boezem delven!</l>
+<l rend="; 1tab">Misleid u niet, tot enkel smart;</l>
+<l>En vraag, by hemelsch licht, uzelven:</l>
+<l rend="; 1tab">‘Woont reeds de Heiland in mijn hart?</l>
+<l>Werd hem, die opvoer in den hoogen,</l>
+<l rend="; 1tab">Ook daar een zetel opgericht,</l>
+<l>Zoo dat hy, naar zijn alvermogen</l>
+<l rend="; 1tab">En liefde, ook daar een hemel sticht?’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="29"/>
+<head rend="h2">Uit het boek der schepping.</head>
+<pb rend="blank" n="30"/>
+<pb n="31"/>
+    <head rend="h3">Verwachting.<note n="*" place="foot">Dit stukjen, onder den naam van Perzische Wereldbeschouwing, in den Muzen-Almanak van 1849 opgenomen, is ontstaan uit de lezing van het volgende in <hi rend="sc">von schubert's</hi> <hi rend="i">Geschichte der Seele</hi> (S. 59):
+        ‘Die Wasser, so sagt ein alter persischer Spruch, sie rauschen vom Gebirge herab und eilen hinaus in alle Lande, suchend ob sie den Herrn der Erde fänden; die Flamme des Feuers, sobald sie erwachet, schaut den Boden nicht mehr an, sondern geraden Zuges richtet sie sich empor zum Himmel, ob sie den Herrn des Himmels erblicken möchte; die Erde, sie hat hier, sie hat dort die hohen Warten der Gebirge aufgestellt; diese ragen weit empor und schauen sehnend hinauf und umher, ob der Richter der Welt noch nicht komme?’</note></head>
+<lg type="poem">
+<l><hi rend="b">V</hi>an der bergen steile wanden</l>
+<l>Storten, met luidruchtig klateren</l>
+<l>Met een onverduldig branden,</l>
+<l rend="; 1tab">Met onwederhoudbren val,</l>
+<l rend="; 3tab">Alle wateren</l>
+<l rend="; 2tab">Zich in 't dal,</l>
+<l rend="; 2tab">Daarop scheiden</l>
+<l rend="; 2tab">Zich de vloeden,</l>
+<l>Om de landen door te spoeden;</l>
+<l rend="; 2tab">Daarop spreiden</l>
+<l rend="; 2tab">Zich de stroomen,</l>
+<l rend="; 2tab">Langs verscheiden</l>
+<l rend="; 2tab">Bed en zoomen;</l>
+<pb n="32"/>
+<l rend="; 2tab">Daarop breken</l>
+<l rend="; 2tab">Honderd beken,</l>
+<l rend="; 1tab">Met een daverend geluid,</l>
+<l rend="; 3tab">Haastig uit;</l>
+<l rend="; 2tab">Zy doorkruisen</l>
+<l rend="; 3tab">Zonder rust</l>
+<l rend="; 2tab">Alle streken,</l>
+<l rend="; 3tab">Iedre kust,</l>
+<l rend="; 2tab">Zy doorbruischen</l>
+<l rend="; 3tab">Alle landen,</l>
+<l>Zy bereiken alle stranden,</l>
+<l>Zy doorvorschen alle hoeken:</l>
+<l>Om den God der aard te zoeken.</l>
+<l>&nbsp;</l>
+<l>En de vlammende gloed</l>
+<l rend="; 1tab">Treedt, zoo ras hy ontwaakt,</l>
+<l rend="; 1tab">'t Lage dal, waar hy blaakt,</l>
+<l>Met den vurigen voet,</l>
+<l rend="; 1tab">En schiet lijnrecht omhoog</l>
+<l rend="; 1tab">Naar den oppersten boog;</l>
+<l>En zijn hoornige kop,</l>
+<l rend="; 1tab">Immer hooger gestrekt,</l>
+<l>Scheurt het wolkenkleed op:</l>
+<l>Of hy den Heer van den Hemel ontdekt.</l>
+<pb n="33"/>
+<l rend="; 1tab">En de aarde schaart, als stille wachten,</l>
+<l rend="; 2tab">De reuzenbergen op haar post,</l>
+<l rend="; 2tab">Door jaar- noch eeuwkring afgelost,</l>
+<l rend="; 1tab">Wier kruinen ijs en sneeuw bevrachten.</l>
+<l rend="; 3tab">Zy zien op, zy zien uit,</l>
+<l>Naar het Oost, naar het West, naar het Noord, naar het Zuid;</l>
+<l rend="; 4tab">By dagen,</l>
+<l rend="; 4tab">By nachten;</l>
+<l rend="; 1tab">By stormen, by stilte, by bloei, by verval;</l>
+<l rend="; 4tab">En vragen</l>
+<l rend="; 4tab">'t Heelal,</l>
+<l>Of de groote Wareldrechter toch niet eindlijk komen zal!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="34"/>
+<head rend="h3">Lente.</head>
+<lg type="poem">
+<l><hi rend="b">H</hi>ad ik uw adem, Nachtegalen!</l>
+<l rend="; 1tab">Uw zilvertoon,</l>
+<l>Langs alle heuvlen, alle dalen,</l>
+<l>Zou ik uw smeltend lied herhalen,</l>
+<l rend="; 1tab">Zoo vol, zoo schoon!</l>
+<l>&nbsp;</l>
+<l>Ik prees dien God in mijn gezangen,</l>
+<l rend="; 1tab">Die veld en woud</l>
+<l>Weêr 't groene kleed heeft omgehangen,</l>
+<l>Na zoo veel maanden van verlangen</l>
+<l rend="; 1tab">Zoo blijde aanschouwd.</l>
+<l>&nbsp;</l>
+<l>Ik zou dien grooten Schepper loven,</l>
+<l rend="; 1tab">Die, ongezien,</l>
+<l>Zijn throon gevestigd heeft daar boven,</l>
+<l>En wien de bloemkens onzer hoven</l>
+<l rend="; 1tab">Hunne offers biên.</l>
+<l>&nbsp;</l>
+<pb n="35"/>
+<l>Mijn zangtoon zou des morgens stijgen,</l>
+<l rend="; 1tab">En 's avonds laat;</l>
+<l>Met u, zoude ik des nachts niet zwijgen,</l>
+<l>Daar 't maantjen, glurend door de twijgen,</l>
+<l rend="; 1tab">Ons gadeslaat;</l>
+<l>&nbsp;</l>
+<l>En 't oog dat nimmer wordt gesloten,</l>
+<l rend="; 1tab">Dat alles ziet,</l>
+<l>Den kleinen zanger en den grooten,</l>
+<l>Wier lofgezangen samenvloten,</l>
+<l rend="; 1tab">In gunst bespiedt.</l>
+<l>&nbsp;</l>
+<l>Mijn lied zou vrome zielen treffen,</l>
+<l rend="; 1tab">Daar 't woorden gaf</l>
+<l>Aan wat zy kennen en beseffen,</l>
+<l>En logge geesten opwaart heffen</l>
+<l rend="; 1tab">Uit stof en draf.</l>
+<l>&nbsp;</l>
+<l>Ik ware een priester in dien tempel,</l>
+<l rend="; 1tab">Die thands alom</l>
+<l>Van liefde en almacht toont den stempel -</l>
+<l>Nu zink ik zwijgende op den drempel,</l>
+<l rend="; 1tab">Van 't heiligdom.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="36"/>
+<head rend="h3">In mei.</head>
+<lg type="poem">
+<l><hi rend="b">L</hi>aat my rusten aan uw boezem,</l>
+<l rend="; 1tab">Schepping Gods</l>
+<l rend="; 2tab">in lentedosch!</l>
+<l>Met dien krans van appelbloesem,</l>
+<l rend="; 1tab">Met dien zachten rozenblos!</l>
+<l rend="; 1tab">Dat uw glimlach, dat uw blik,</l>
+<l rend="; 1tab">Dat uw adem my verkwikk',</l>
+<l>Dat uw stem my toe koom fluisteren,</l>
+<l>Waar ik eeuwig naar wil luisteren.</l>
+<l>&nbsp;</l>
+<l>Van mijns Levens lente spreekt gy.</l>
+<l rend="; 1tab">Lentevreugd</l>
+<l rend="; 2tab">der blijde Jeugd!</l>
+<l>U bemin ik nog, al weekt gy.</l>
+<l rend="; 1tab">Gy verheugt zoo lang gy heugt.</l>
+<l rend="; 1tab">Van de lente mijner Min</l>
+<l rend="; 1tab">Vlecht gy zoete woordtjens in,</l>
+<l>Van de bloemen, die nog geuren,</l>
+<l>Al verschoten ook haar kleuren.</l>
+<l>&nbsp;</l>
+<pb n="37"/>
+<l>Maar uw zachte fluisteringen,</l>
+<l rend="; 2tab">Hemelzoet</l>
+<l rend="; 3tab">Voor mijn gemoed,</l>
+<l>Raken goddelijker dingen</l>
+<l rend="; 2tab">Dan gy zelve smaken doet:</l>
+<l rend="; 1tab">Van een lente die niet vlucht,</l>
+<l rend="; 1tab">Van een eeuwge balsemlucht,</l>
+<l>Waar de rozen nimmer dorden,</l>
+<l>Lelies nooit bezoedeld worden.</l>
+<l>&nbsp;</l>
+<l>'k Zag u in mijn winterdroomen,</l>
+<l rend="; 2tab">Met uw krans,</l>
+<l rend="; 3tab">in vollen glans</l>
+<l>Uit de sneeuw te voorschijn komen,</l>
+<l rend="; 1tab">Even heerlijk, dacht me, als thands;</l>
+<l rend="; 1tab">Maar waar blijft mijn schoonste droom,</l>
+<l rend="; 1tab">Daar ik u te aanschouwen koom?</l>
+<l>Zeg my, zal ik ook zoo spreken,</l>
+<l>Als <hi rend="i">die</hi> lente me aan zal breken?</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="38"/>
+<head rend="h3">Herfst.</head>
+<lg type="poem">
+<l><hi rend="b">V</hi>oer me op des heuvels top, als, uit haar slaap ontwakend,</l>
+<l rend="; 1tab">En, door den zachten drang der nieuwe levenskracht,</l>
+<l rend="; 2tab">Haar windselen en boeien slakend,</l>
+<l rend="; 3tab">Geheel de schepping vrolijk lacht.</l>
+<l>'k Smaak de eerste lentelucht liefst frisch en ruim daar boven;</l>
+<l rend="; 1tab">'k Zie gaarne 't gantsch tooneel dier nieuwe heerlijkheid,</l>
+<l rend="; 2tab">Waar alle schepslen God by loven,</l>
+<l rend="; 3tab">Aan mijne voeten uitgebreid.</l>
+<l>&nbsp;</l>
+<l>Breng me aan den groenen rand der heldre waterstroomen,</l>
+<l rend="; 1tab">Als 't zonlicht in den vloed zijn felste stralen doopt,</l>
+<l rend="; 2tab">En, in de schaâuw der wilgenboomen,</l>
+<l rend="; 3tab">De zwaan vergeefs op koelte hoopt.</l>
+<l>'k Wil, uit mijn schuilplaats, langs den bochtige' oever staren,</l>
+<l rend="; 1tab">En zien hoe 't bonte vee het laauwe bad geniet,</l>
+<l rend="; 2tab">By 't dobbren van de plompeblaren</l>
+<l rend="; 3tab">En 't zacht gewiegel van het riet.</l>
+<pb n="39"/>
+<l>Maar als (mijn lust van ouds!) de rijke herfsttijd nadert,</l>
+<l rend="; 2tab">Het zonlicht vroeg ter kimme nijgt:</l>
+<l>O! Laat me alleen in 't bosch, waar, uit verdord gebladert,</l>
+<l rend="; 2tab">Geur als van rijpe vruchten stijgt.</l>
+<l>'k Wil tegen 't eikengroen en 't blaauw der schotsche dennen,</l>
+<l rend="; 2tab">Aan 't hooge geel, den berk herkennen;</l>
+<l rend="; 3tab">Ik wil 't getijgerd beukenhout</l>
+<l rend="; 3tab">Zijn kroon zien dragen van bruin goud;</l>
+<l rend="; 2tab">'k Wil 't bloedrood loof met zwarte vlakken</l>
+<l rend="; 2tab">Zien fladdren, eschdoorn! aan uw takken;</l>
+<l rend="; 3tab">En peinzen met bedrukt gezicht,</l>
+<l>Waar ik den statige' olm, die in mijn kindsche dagen</l>
+<l>Zoo menig lieven naam heeft in zijn schors gedragen,</l>
+<l rend="; 1tab">Geblutst zie met den bijl, die aan zijn wortel ligt.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="40"/>
+<head rend="h3">Najaarslied.</head>
+<lg type="poem">
+<l><hi rend="b">I</hi>k ken geen schooner kleuren</l>
+<l rend="; 1tab">Dan die van 't hollandsch bosch,</l>
+<l rend="; 1tab">In bruinen najaarsdosch;</l>
+<l>Ik ken geen zoeter geuren,</l>
+<l rend="; 1tab">Dan die uit drooge mosch,</l>
+<l>Uit geelroode eikenbladeren,</l>
+<l rend="; 1tab">En varenkruid dat bloeit,</l>
+<l>My op het koeltjen naderen,</l>
+<l rend="; 1tab">Dat met mijn lokken stoeit.</l>
+<l>&nbsp;</l>
+<l>Ik ken geen schooner zangen</l>
+<l rend="; 1tab">Dan vink en lijster slaakt,</l>
+<l rend="; 1tab">By 't morgenlicht ontwaakt,</l>
+<l>Voor hen de strikken vangen,</l>
+<l rend="; 1tab">Door al wat zingt gewraakt;</l>
+<l>Den wildzang uit de twijgen</l>
+<l rend="; 1tab">Met vochtig rag omstrikt,</l>
+<l>Dat als de dampen stijgen,</l>
+<l rend="; 1tab">Met parels blijft bestikt.</l>
+<l>&nbsp;</l>
+<pb n="41"/>
+<l>Ik ken geen schooner luchten</l>
+<l rend="; 1tab">Dan waar de herfst meê praalt,</l>
+<l rend="; 1tab">Als 't zonlicht nederdaalt,</l>
+<l>En dorpen en gehuchten</l>
+<l rend="; 1tab">In goud en kleuren maalt.</l>
+<l>Dan rijzen blanke rotsen</l>
+<l rend="; 1tab">En donkre bergen op,</l>
+<l>Begroeid met ruige bosschen,</l>
+<l rend="; 1tab">Verguld aan rand en top.</l>
+<l>&nbsp;</l>
+<l>Dan spelen alle verwen</l>
+<l rend="; 1tab">Dooreen met stille pracht,</l>
+<l rend="; 1tab">Tot dat ze, schoon en zacht,</l>
+<l>Versmelten en versterven,</l>
+<l rend="; 1tab">En zeggen: ‘Het wordt nacht!</l>
+<l>Weer is een dag vervlogen,</l>
+<l rend="; 1tab">Welhaast een jaargetij:</l>
+<l>Een jaar gaat voor onze oogen,</l>
+<l rend="; 1tab">Gelijk een damp voorby.’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="42"/>
+<head rend="h3">Overgangen.</head>
+<lg type="poem">
+<l><hi rend="b">A</hi>ch, hoe vele</l>
+<l rend="; 1tab">Groene, gele,</l>
+<l rend="; 3tab">Bruine, roode,</l>
+<l rend="; 4tab">Bontgekleurde,</l>
+<l rend="; 3tab">Halfverscheurde</l>
+<l rend="; 1tab">Levend doode,</l>
+<l>Zwartgevlekte,</l>
+<l rend="; 1tab">Met het stof des wegs bedekte,</l>
+<l rend="; 2tab">Dorre blaân</l>
+<l rend="; 1tab">Kraken op de wandelpaân!</l>
+<l rend="; 2tab">Zie ik omhoog,</l>
+<l>Kaalheid en naaktheid en dood treft mijn oog;</l>
+<l>Hoekige takken, en knoesterige armen,</l>
+<l>Sprokkels, geschikt om den haard te verwarmen,</l>
+<l>'t Ledige nest in den schuddenden top;</l>
+<l>Maar aan de twijgen de wordende knop.</l>
+<pb n="43"/>
+<l>Heden, stormen aarde en zee beroerend.</l>
+<l>Morgen, regens alles met zich voerend.</l>
+<l rend="; 1tab">Heden, luchten ondoordringbaar graauw.</l>
+<l rend="; 1tab">Morgen, nog een plekjen waterblaauw;</l>
+<l>Nog een zonnelonkjen, nog een lachjen,</l>
+<l>Toegeworpen aan het krimpend dagjen,</l>
+<l rend="; 1tab">Maar dat treurig wegsmelt en vergaat,</l>
+<l rend="; 1tab">Als een glimlach op een krank gelaat.</l>
+<l>&nbsp;</l>
+<l rend="; 4tab">Nog weinige dagen</l>
+<l rend="; 4tab">Van vlagen en buien,</l>
+<l rend="; 6tab">Uit zuien</l>
+<l rend="; 1tab">En westen, met gieren en jagen,</l>
+<l rend="; 4tab">Met blazen en woelen,</l>
+<l rend="; 4tab">En joelen en razen....</l>
+<l rend="; 1tab">En 't noorden laat zijn adem voelen.</l>
+<l rend="; 2tab">Die machtige adem overwint.</l>
+<l rend="; 3tab">Het tierende oproer is bezworen.</l>
+<l rend="; 3tab">Uit onrust wordt de rust geboren.</l>
+<l rend="; 2tab">De winterslaap der aard begint.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">Haar slaap? Haar dood;</l>
+<l rend="; 3tab">Dus naakt en bloot</l>
+<l rend="; 5tab">Ten prooi gegeven,</l>
+<pb n="44"/>
+<l>Aan de ongenâ van koude en vorst,</l>
+<l>Die 't hart doet stilstaan in de borst,</l>
+<l rend="; 1tab">En toornig optrekt tegen 't leven.</l>
+<l>&nbsp;</l>
+<l>Maar neen! de hoogste goedheid waakt.</l>
+<l rend="; 2tab">De hulp genaakt,</l>
+<l rend="; 2tab">Zoo trouw als teder.</l>
+<l>Een donzen vlok, een zachte pluim,</l>
+<l>Een zweemsel van bevroren schuim,</l>
+<l rend="; 2tab">Daalt dwarlend neder.</l>
+<l>Straks volgt haar uit de graauwe lucht</l>
+<l rend="; 2tab">Een dichte vlucht,</l>
+<l rend="; 2tab">Met zwervend zweven.</l>
+<l rend="; 1tab">Gy weet niet of zy naakt of wijkt;</l>
+<l rend="; 1tab">Maar als zy eindlijk nederstrijkt,</l>
+<l>Is 't koestrend winterkleed geweven.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="flor047"/>
+<interp type="vertaler" value="beet005"/>
+</interpGrp>
+<pb n="45"/>
+<head rend="h3">Jaargetijden.</head>
+<head rend="h4">Lente.</head>
+<lg type="poem">
+<l><hi rend="b">O</hi>nder vreugde en zoete smarten,</l>
+<l rend="; 1tab">Scherts, gezang, en minnekozen,</l>
+<l rend="; 2tab">Vluchten ons de schoonste weken:</l>
+<l rend="; 2tab">Al wat bloeien kan, kan breken,</l>
+<l rend="; 1tab">Veldviooltjens, malsche rozen,</l>
+<l>Blanke lelies, jonge harten.</l>
+</lg>
+<div type="section">
+<head rend="h4">Zomer.</head>
+<lg type="poem">
+<l>Drukkend is de heete lucht;</l>
+<l rend="; 1tab">Dreigende onweêrs barsten los;</l>
+<l rend="; 1tab">Donker kleurt zich veld en bosch;</l>
+<l>Maar in stilte rijpt de vrucht.</l>
+</lg>
+</div>
+<div type="section">
+<pb n="46"/>
+<head rend="h4">Herfst.</head>
+<lg type="poem">
+<l>Koren hier, en ginder druiven.</l>
+<l rend="; 1tab">Die te vreden is, is wijs;</l>
+<l rend="; 1tab">Gaarne ziet hy, tot dien prijs,</l>
+<l>Kleur en geur verstuiven.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">Winter.</head>
+<lg type="poem">
+<l>Wordt u de aarde droef en duister:</l>
+<l>Zie omhoog naar 's hemels luister.</l>
+<l>&nbsp;</l>
+<l>Leer in graauwe windeldoeken</l>
+<l>Kiemen van nieuw leven zoeken.</l>
+</lg>
+<p>(<hi rend="sc">Ernst Floris</hi>.)</p>
+</div>
+</div>
+<div type="chapter">
+<pb n="47"/>
+<head rend="h3">Morgenstond.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">W</hi>at is er niet te hooren,</l>
+<l rend="; 2tab">Wat is er niet te zien,</l>
+<l rend="; 1tab">By 't eerste morgengloren,</l>
+<l rend="; 2tab">Als nacht en nevel vliên:</l>
+<l rend="; 1tab">Van glansen, kleuren, stralen,</l>
+<l rend="; 1tab">Die langs den hemel dwalen;</l>
+<l rend="; 1tab">Van rozenroode wolken,</l>
+<l rend="; 1tab">Die 't oost en 't west bevolken;</l>
+<l rend="; 1tab">Van heldre pareldroppen</l>
+<l rend="; 1tab">Op blaadren, bloemen, knoppen;</l>
+<l rend="; 1tab">Van blijde vogelzangen,</l>
+<l rend="; 1tab">Luidruchtig aangevangen,</l>
+<l rend="; 2tab">Uit volle borst geslaakt....</l>
+<l>Maar tot Arbeid is de mensch ontwaakt.</l>
+<pb n="48"/>
+<l rend="; 1tab">Wat is er niet te ontwaren</l>
+<l rend="; 2tab">In 's harten diepsten grond,</l>
+<l rend="; 1tab">By 't opgaan onzer jaren,</l>
+<l rend="; 2tab">In 's levens morgenstond!</l>
+<l rend="; 1tab">Te voelen, te beseffen,</l>
+<l rend="; 1tab">Te gissen en te treffen,</l>
+<l rend="; 1tab">Te zoeken, te verlangen,</l>
+<l rend="; 1tab">Te ontdekken, op te vangen,</l>
+<l rend="; 1tab">Te kennen en te smaken,</l>
+<l rend="; 1tab">Tot eigendom te maken,</l>
+<l rend="; 1tab">Te droomen en te dichten,</l>
+<l rend="; 1tab">Te slechten en te stichten,</l>
+<l rend="; 2tab">Te ontginnen, nooit genoeg....</l>
+<l>Één ding is noodig, en dat Eene vroeg.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="49"/>
+<head rend="h3">Zonsondergang.</head>
+<lg type="poem">
+<l rend="; 3tab">'s <hi rend="b">H</hi>emels wonder</l>
+<l>Duikt in volle schoonheid onder,</l>
+<l>Schittert met gekleurde stralen</l>
+<l>Over heuveltop en dalen,</l>
+<l>Dekt de kim met vuur en vonken,</l>
+<l>Troost de wareld met zijn lonken,</l>
+<l rend="; 1tab">En neemt afscheid met een lach:</l>
+<l rend="; 1tab">Morgen rijst een nieuwe dag!</l>
+<l rend="; 2tab">Maar voor heden,</l>
+<l>Slechts wat nagloor hier beneden;</l>
+<l>Slechts een lichtstreep aan de kimmen,</l>
+<l>Met een rozenkleurig glimmen,</l>
+<l>Dat de wolkjens in hun zweven</l>
+<l rend="; 2tab">Aan blijft kleven;</l>
+<l rend="; 2tab">Straks is 't nacht....</l>
+<l rend="; 1tab">Maar de maan betrekt haar wacht.</l>
+<pb n="50"/>
+<l rend="; 2tab">Desgelijken</l>
+<l>Is uw glorierijk bezwijken</l>
+<l rend="; 2tab">Ook geweest,</l>
+<l rend="; 2tab">Groote Geest!</l>
+<l>Als een zon zijt gy gezonken,</l>
+<l>Als een zon hadt gy geblonken,</l>
+<l rend="; 1tab">En met vollen glans gepraald,</l>
+<l rend="; 1tab">Tot gy, laat, had uitgestraald.</l>
+<l>Rijk begiftigde, des gevens</l>
+<l rend="; 2tab">Nimmer moê,</l>
+<l>Wierpt ge ons, op de grens des levens,</l>
+<l rend="; 1tab">Nog uw schoonste schittring toe.</l>
+<l>Eensklaps als gy waart verdwenen,</l>
+<l>Werd het duister om ons henen....</l>
+<l rend="; 1tab">Ja, een schoone nagloor blijft</l>
+<l>Aan de nevelwolkjens hangen:</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Maar waar of het maantjen drijft,</l>
+<l>Dat van nacht u zal vervangen?</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="51"/>
+<head rend="h3">Madeliefjen.</head>
+<q rend="bq">'T is Flora's page: - in every place,
+<lb/>
+In every season fresh and fair,
+<lb/>
+It opens with perennial grace,
+<lb/>
+And blossoms everywhere.
+<lb/>
+<hi rend="sc">J. Montgomery</hi>.</q>
+<lg type="poem">
+<l><hi rend="b">S</hi>preid vrolijk, tusschen gras en kruid,</l>
+<l>Het hagelwitte kroontjen uit,</l>
+<l rend="; 1tab">Om 't hart van louter goude;</l>
+<l>Al valt ons 't voorjaar schraal en ruw,</l>
+<l>Wat, Madeliefjen, deert het u?</l>
+<l rend="; 1tab">Gy zijt niet bang voor koude.</l>
+<l>&nbsp;</l>
+<l>Gy wacht niet tot, met zomerpracht,</l>
+<l>De zon vroeg opstaat in haar kracht,</l>
+<l rend="; 1tab">In 't purperkleurig oosten;</l>
+<l>Maar komt ons, needrig als gy zijt,</l>
+<l>Van een gerekten wintertijd</l>
+<l rend="; 1tab">Met goelijk lachjen troosten.</l>
+<l>&nbsp;</l>
+<pb n="52"/>
+<l>Als 't maartsch viooltjen, dicht in 't mosch,</l>
+<l>In 't warmste plekjen van het bosch,</l>
+<l rend="; 1tab">Zich huivrig aan komt melden,</l>
+<l>Wast reeds uw knopjen, rood als bloed,</l>
+<l>Het bibbrend paaschlam voor den voet,</l>
+<l rend="; 1tab">In de onbeschermde velden.</l>
+<l>&nbsp;</l>
+<l>Daar spoort gy, met ontploken blaân,</l>
+<l>De velerhande bloemtjens aan,</l>
+<l rend="; 1tab">Nog sluimrend of kleinmoedig.</l>
+<l>Ze ontwaken lieflijk, een voor een,</l>
+<l>En schittren vrolijk om u heen,</l>
+<l rend="; 1tab">Maar nijgen 't hoofd zoo spoedig.</l>
+<l>&nbsp;</l>
+<l>Zy nijgen 't hoofd, zoo jong en schoon</l>
+<l>Hier pronkende met gouden kroon,</l>
+<l rend="; 1tab">En ginds met bonte verwen;</l>
+<l>Het blozende gelaat wordt bleek;</l>
+<l>En 't oogjen, dat zoo geestig keek,</l>
+<l rend="; 1tab">Breekt in een haastig sterven.</l>
+<l>&nbsp;</l>
+<pb n="53"/>
+<l>Maar gy bloeit voort in 't scheutig gras.</l>
+<l>Haast overdekt u 't hoog gewas,</l>
+<l rend="; 1tab">Als pluim en airen zwieren;</l>
+<l>De hooitijd komt: die pronk ligt neêr....</l>
+<l>Gy zijt er nog, gy zijt er weêr,</l>
+<l rend="; 1tab">En zult het etgroen sieren.</l>
+<l>&nbsp;</l>
+<l>Het etgroen, ja! en 't laatste groen.</l>
+<l>Laat vrij de najaarsstortvlaag woên,</l>
+<l rend="; 1tab">De winterstormen naderen:</l>
+<l>Glimlachend ziet gy 't woeste spel,</l>
+<l>En groet den kortsten dag nog wel,</l>
+<l rend="; 1tab">Van tusschen geele bladeren.</l>
+<l>&nbsp;</l>
+<l>Ik weet wie, in bevroren grond,</l>
+<l>In 't zonnig hoekje' u bloeien vond,</l>
+<l rend="; 1tab">Als sneeuw het veld reeds dekte;</l>
+<l>Ik weet, in wiens bezwijkend hart</l>
+<l>De les, die dus gegeven werd,</l>
+<l rend="; 1tab">Een nieuwe veerkracht wekte.</l>
+<l>&nbsp;</l>
+<pb n="54"/>
+<l>O Leerzaam bloemtjen, laag genaamd,</l>
+<l>Gy maakt uitnemender beschaamd,</l>
+<l rend="; 1tab">Door onuitputbre krachten.</l>
+<l>Die needrigst leeft, leeft veiligst voort;</l>
+<l>En die zich aan geen tijden stoort,</l>
+<l rend="; 1tab">Hoeft op geen plaatsen te achten.</l>
+<l>&nbsp;</l>
+<l>De duinroos vindt men slechts op 't duin;</l>
+<l>De heibloem in 't eentoonig bruin;</l>
+<l rend="; 1tab">De korenbloem in 't koren;</l>
+<l>Geen smachtende vergeet-my-niet,</l>
+<l>Dan tusschen lisch en oeverriet</l>
+<l rend="; 1tab">En waterkers verloren.</l>
+<l>&nbsp;</l>
+<l>Der bloemen schoone koningin</l>
+<l>Ontziet zich met haar hofgezin</l>
+<l rend="; 1tab">In 't open veld te pralen;</l>
+<l>Daar, slechts in schaauw van dicht geboomt,</l>
+<l>De balsemgeur ons tegenstroomt</l>
+<l rend="; 1tab">Van 't lelietjen der dalen.</l>
+<l>&nbsp;</l>
+<pb n="55"/>
+<l>Maar gy, gy klimt den heuvel op,</l>
+<l>Ontplooit op 't heideveld uw knop,</l>
+<l rend="; 1tab">En siert des akkers zoomen;</l>
+<l>Gy spiegelt u in kreek en vliet;</l>
+<l>En, in uw eenvoud, schroomt gy niet</l>
+<l rend="; 1tab">Den bloemhof in te komen.</l>
+<l>&nbsp;</l>
+<l>Gy schuwt de schaduw noch het licht,</l>
+<l>Maar toont alom een blijd gezicht,</l>
+<l rend="; 1tab">Gy hebt geen zorg van noode:</l>
+<l>Een droppel regen, laat of vroeg,</l>
+<l>Een weinig zons is u genoeg,</l>
+<l rend="; 1tab">Een staanplaatsje' op de zode.</l>
+<l>&nbsp;</l>
+<l>Veel bloemtjens kiest men om hun geur;</l>
+<l>Dit om zijn vorm, dat om zijn kleur;</l>
+<l rend="; 1tab">Niet elk behaagt aan allen;</l>
+<l>Maar gy, aan lof noch blaam gewoon,</l>
+<l>Uw' zedig, uw bescheiden schoon</l>
+<l rend="; 1tab">Toont ieder welgevallen.</l>
+<l>&nbsp;</l>
+<pb n="56"/>
+<l>U mint niet slechts de schalke maagd,</l>
+<l>Die stil uw blaadtjens ondervraagt,</l>
+<l rend="; 1tab">Om 't zoetst geheim te ontdekken;</l>
+<l>Maar ook de ziele stil voor God,</l>
+<l>Waarin het voorrecht van uw lot</l>
+<l rend="; 1tab">Een weinig moed kan wekken.</l>
+<l>&nbsp;</l>
+<l>U mint het hart, dat, vol en zacht,</l>
+<l>Gods rijke schepping tegenlacht,</l>
+<l rend="; 1tab">En 't loflied uit doet vloeien;</l>
+<l>De wijze, wien gy ootmoed leert;</l>
+<l>De needrige armoê, die gy eert,</l>
+<l rend="; 1tab">Door voor haar deur te bloeien.</l>
+<l>&nbsp;</l>
+<l>U mint eene onbezorgde jeugd,</l>
+<l>In 't gras, met koninklijke vreugd,</l>
+<l rend="; 1tab">Zijn boersche kransjens windend;</l>
+<l>En 't weesjen, vreemd aan spel en lust,</l>
+<l>Ter stille plek, waar moeder rust,</l>
+<l rend="; 1tab">U altijd wedervindend.</l>
+<l>&nbsp;</l>
+<pb n="57"/>
+<l>'t Weemoedig schaapje', in de open hei,</l>
+<l>Het veulen, dartlend door de wei,</l>
+<l rend="; 1tab">Verheugt zich u te ontmoeten,</l>
+<l>En 't bijtjen, dat uw honig ruikt,</l>
+<l>En in uw open hartjen duikt,</l>
+<l rend="; 1tab">Om liefde en lust te boeten.</l>
+<l>&nbsp;</l>
+<l>U mint al 't dichterlijk gediert:</l>
+<l>De leeuwrik, dien gy 't nest versiert</l>
+<l rend="; 1tab">En naöogt onder 't steigeren;</l>
+<l>En ik, wien ge, als ik eens voor al</l>
+<l>U door mijn snaren vlechten zal,</l>
+<l rend="; 1tab">Geen wedermin zult weigeren.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="58"/>
+<head rend="h3">Een roos.</head>
+<lg type="poem">
+<l><hi rend="b">H</hi>oe lieflijk staat een frissche roos</l>
+<l rend="; 1tab">In d' open hof te pralen,</l>
+<l>En vangt in d' opgebarsten knop,</l>
+<l>Zoo menig heldren daauwdrop op</l>
+<l rend="; 1tab">En duizend zonnestralen.</l>
+<l>&nbsp;</l>
+<l>Nu laat ze eens op den morgenwind</l>
+<l rend="; 1tab">Het hoofdtjen achtloos wiegelen;</l>
+<l>Dan bukt zy, om in 't vijvernat,</l>
+<l>Dat kabblend om haar voetjens spat,</l>
+<l rend="; 1tab">Het lief gelaat te spiegelen.</l>
+<l>&nbsp;</l>
+<l>En straks vergeet zy paarlekroon</l>
+<l rend="; 1tab">En zachtgebloosde wangen,</l>
+<l>Staat stil, en luistert, en gevoelt</l>
+<l>Wat gindsche nachtegaal bedoelt,</l>
+<l rend="; 1tab">Met zijn verliefde zangen.</l>
+<l>&nbsp;</l>
+<pb n="59"/>
+<l>Niet anders bloeit een prille maagd,</l>
+<l rend="; 1tab">In d' uchtendstond van 't leven;</l>
+<l>Ach, pluk de tengre roos niet af,</l>
+<l>Noch doem haar, in kristallen graf</l>
+<l rend="; 1tab">Te prijken en te sneven.</l>
+<l>&nbsp;</l>
+<l>‘Maar zoo veel vrijheid! Dreigt zy niet</l>
+<l rend="; 1tab">Met onverwacht verleppen?’</l>
+<l>Neen, lucht en vrijheid zijn gezond;</l>
+<l>Wijd slechts uw zorgen aan den grond,</l>
+<l rend="; 1tab">Waar uit zy kracht moet scheppen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="ruck005"/>
+<interp type="vertaler" value="beet005"/>
+</interpGrp>
+<pb n="60"/>
+<head rend="h3">Suum cuique.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">B</hi>loem der Amandelen!</l>
+<l>Gy vliegt de Lente voor, en, op haar naadren,</l>
+<l>Bestrooit gy 't pad, waar langs haar voet zal wandelen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Aanvallig Klokjen!</l>
+<l>Van 't sneeuwkleed, dat van de aarde is opgenomen,</l>
+<l>Zijt gy teruggebleven als een vlokjen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Bedeesd Penseetjen!</l>
+<l>Gy zegt: ‘De Roos zal komen als ik weg ben.’</l>
+<l>Goed dat zy komt; maar blijf nog maar een beetjen.</l>
+<l>&nbsp;</l>
+<pb n="61"/>
+<l rend="; 1tab">Gy zijt, te midden</l>
+<l>Der zustren, de priestresse, zilvren Lelie!</l>
+<l>Wanneer zy godsdienst houden en aanbidden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Maar, Lelie-stengelen!</l>
+<l>Voor onze ruikers zijt gy niet geschapen;</l>
+<l>Uw plaats is in de handpalm van Gods engelen.</l>
+</lg>
+<p>(<hi rend="sc">Ruckert</hi>.)</p>
+</div>
+<div type="chapter">
+<pb n="62"/>
+<head rend="h3">Nachtegaal.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="b">Z</hi>ijt my gegroet,</l>
+<l rend="; 3tab">Met blij gemoed,</l>
+<l rend="; 1tab">Maar niet met luide zangen!</l>
+<l rend="; 2tab">Mijn opgewekte zangdrift zwijgt</l>
+<l rend="; 2tab">Bescheiden stil, waar de uwe stijgt,</l>
+<l>Waaraan mijn gantsche ziel blijft hangen.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">Ik ken er veel,</l>
+<l rend="; 3tab">Wier schel gekweel</l>
+<l rend="; 1tab">In uwen roem wil deelen;</l>
+<l rend="; 2tab">Maar eensklaps zwijgt gy tot hun straf,</l>
+<l rend="; 2tab">En wacht den stillen avond af,</l>
+<l>Om 't Eenig lied in eenzaamheid te kweelen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="63"/>
+    <head rend="h3">Koekoek.<note n="*" place="foot">Door verkeerde verbetering, is in dit stukjen een fout gebleven en eene andere ingeslopen. Men leze het tweede couplet dus:
+        <lg type="poem">
+            <l>Elk kent, mijnheer! uw ruim geweten,</l>
+            <l rend="; 1tab">Uw vreemd begrip van recht;</l>
+            <l>Daar gy om zelf wat meerder te eten</l>
+            <l rend="; 1tab">Uw kroost te vondling legt. enz.</l>
+        </lg></note></head>
+<lg type="poem">
+<l><hi rend="b">Z</hi>eer zelden is ons de eer beschoren</l>
+<l rend="; 2tab">Dat iemands oog u ziet,</l>
+<l>Maar des te meer vervult ge onze ooren</l>
+<l rend="; 2tab">Met uw eentonig lied,</l>
+<l>En wy - wy willen 't altijd hooren,</l>
+<l rend="; 2tab">Al zingt gy anders niet</l>
+<l rend="; 1tab">Dan: Koekoek, Koekoek!</l>
+<l rend="; 3tab">Koekoek Een zang.</l>
+<l>&nbsp;</l>
+<l>Elk kent, mijnheer! uw rein geweten,</l>
+<l rend="; 2tab">Uw vreemd begrip van recht;</l>
+<l>Hoe gy, om zelf wat ruimer te eten,</l>
+<l rend="; 2tab">Uw kroost te vondling legt.</l>
+<l>En wy - wy willen 't aardig heeten,</l>
+<l rend="; 2tab">Al is het nog zoo slecht</l>
+<l rend="; 1tab">Van Koekoek, Koekoek!</l>
+<l rend="; 3tab">Koekoek Eenzang.</l>
+<l>&nbsp;</l>
+<pb n="64"/>
+<l>Gy spelt ons niets dan regenbuien,</l>
+<l rend="; 2tab">Gy roept uw blijdschap uit,</l>
+<l>Als, op een heldren dag, in 't zuien,</l>
+<l rend="; 2tab">Een donker luchtjen kruit,</l>
+<l>Hier zou een ander 't door verbruien;</l>
+<l rend="; 2tab">Maar wat wordt ooit misduid</l>
+<l rend="; 1tab">Aan Koekoek, Koekoek,</l>
+<l rend="; 3tab">Koekoek Eenzang?</l>
+<l>&nbsp;</l>
+<l>Gy schijnt ons deze les te leeren</l>
+<l rend="; 2tab">Van populariteit:</l>
+<l>‘Gy hebt u niet zoo zeer te keeren</l>
+<l rend="; 2tab">Aan kunde of eerbaarheid;</l>
+<l>Verberg alleen met zorg uw veêren,</l>
+<l rend="; 2tab">En zie wat kracht er leit</l>
+<l rend="; 1tab">In Koekoek, Koekoek,</l>
+<l rend="; 3tab">Koekoek Eenzang!’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="65"/>
+<head rend="h3">Bloeiende linde.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">D</hi>iep dringt de wortel door,</l>
+<l rend="; 3tab">Die 't oog ontvlucht,</l>
+<l rend="; 2tab">Hoog stijgt de stam hervoor,</l>
+<l rend="; 3tab">Hoog in de lucht.</l>
+<l>&nbsp;</l>
+<l>Ver breiden, met een zacht ontfermen,</l>
+<l>De takken, als weldadige armen,</l>
+<l rend="; 1tab">Zich over 't lager groeiend kruid,</l>
+<l rend="; 1tab">Naar alle zijden, liefdrijk uit.</l>
+<l>&nbsp;</l>
+<l>De koele schaduw strekt nog verder,</l>
+<l>En lokt de kudde met den herder,</l>
+<l rend="; 1tab">Des middags, op den zoom van 't bosch,</l>
+<l rend="; 1tab">Ter sluimring uit in 't koele mosch.</l>
+<pb n="66"/>
+<l>Maar het verst reikt de geur van de geurige bloesems,</l>
+<l rend="; 1tab">Die de twijgen bezaaien, omlaag en omhoog;</l>
+<l rend="; 1tab">Zy verbergen zich needrig en zedig voor 't oog,</l>
+<l>Maar verkwikken veel hoofden en zalven veel boezems;</l>
+<l rend="; 1tab">Arm en rijk vangt die geur, en by dag en by nacht</l>
+<l rend="; 1tab">Wordt de linde gezegend en dank toegebracht.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">'t Blind en hulpbehoevend zieltjen,</l>
+<l rend="; 3tab">Lang van 's levens last vermoeid,</l>
+<l rend="; 2tab">Ruikt haar by haar spinnewieltjen:</l>
+<l rend="; 3tab">‘Kindertjens! de linde bloeit!’</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Op het ziekbed neergezegen,</l>
+<l rend="; 3tab">Haalt het teeringachtig wicht</l>
+<l rend="; 2tab">Dezen geur nog eens ter degen</l>
+<l rend="; 3tab">Op, en lacht met bleek gezicht.</l>
+<l rend="; 2tab">Voor haar open venster, staken</l>
+<l rend="; 2tab">(Komt hy ook hun neusjens raken)</l>
+<l rend="; 3tab">Broêrtje' en zusjen 't vrolijk spel.</l>
+<l rend="; 2tab">De oudste heft zich op de teenen,</l>
+<l rend="; 2tab">Gluurt vernoegd naar 't bedtjen henen:</l>
+<l rend="; 3tab">‘Zusjen!’ vraagt hy: ‘ruikt gy 't wel?’</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Zelfs de ruiter, op de heiden,</l>
+<pb n="67"/>
+<l rend="; 1tab">Waar die geur hem tegenvaart,</l>
+<l rend="; 1tab">Kort den teugel, stuit zijn paard,</l>
+<l>Om het plekjen te onderscheiden,</l>
+<l rend="; 1tab">Waar de balsemwolk van stijgt,</l>
+<l rend="; 1tab">Die zoo koestrend nederzijgt.</l>
+<l>Als hy, met geslaakte toomen,</l>
+<l>Toestapt op de lindeboomen,</l>
+<l rend="; 1tab">Zien zijn bruine wangen bleek;</l>
+<l>Beelden uit het diepst verleden,</l>
+<l>Enkel liefde en lieflijkheden,</l>
+<l rend="; 1tab">Maken hem den boezem week.</l>
+<l>&nbsp;</l>
+<l>Onder 't lommer zit de Wijze,</l>
+<l rend="; 1tab">Met den leerling aan zijn voet,</l>
+<l>Starende op den achtbren grijze,</l>
+<l rend="; 1tab">Met een oog vol eerbiedsgloed.</l>
+<l>Naar den blondgelokten schedel</l>
+<l rend="; 1tab">Wordt de stramme hand gestrekt,</l>
+<l>'t Voorhoofd streelt zy, breed en edel,</l>
+<l rend="; 1tab">En de geest wordt opgewekt:</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘<hi rend="i">Dring diep door</hi>, <hi rend="i">eedle geest!</hi></l>
+<l rend="; 2tab"><hi rend="i">Om te steiler te stijgen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maar hoe hooger gy reest.</hi></l>
+<pb n="68"/>
+<l rend="; 1tab"><hi rend="i">Leer des te lager</hi>, <hi rend="i">in liefde</hi>, <hi rend="i">u te nijgen</hi></l>
+<l rend="; 2tab"><hi rend="i">Tot wat zwak en beproefd</hi></l>
+<l rend="; 2tab"><hi rend="i">Uw bescherming behoeft</hi>,</l>
+<l rend="; 1tab"><hi rend="i">En haar inroept met hopen en zwijgen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 2tab"><hi rend="i">Vermenigvuldig en verbreid</hi></l>
+<l rend="; 3tab"><hi rend="i">Uw kracht</hi>, <hi rend="i">uw werk</hi>, <hi rend="i">uw zegen;</hi></l>
+<l><hi rend="i">Maar glimlach zacht een lijdend menschdom tegen:</hi></l>
+<l rend="; 1tab"><hi rend="i">Ver reikt de</hi> <hi rend="sc">liefde</hi>, <hi rend="i">verst de</hi> <hi rend="sc">lieflijkheid</hi>.’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="69"/>
+<head rend="h2">Verscheiden gedichten.</head>
+<pb rend="blank" n="70"/>
+<pb n="71"/>
+<head rend="h3">Zangdrift.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">H</hi>oe woelt de poëzy</l>
+<l rend="; 3tab">In my,</l>
+<l rend="; 1tab">En haakt aan 't licht te komen;</l>
+<l>Als in 't gebergte een volle bron,</l>
+<l>Begeerig naar den glans der zon,</l>
+<l rend="; 1tab">Begeerig uit te stroomen.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Hoe voel ik my omringd,</l>
+<l rend="; 3tab">Omkringd,</l>
+<l rend="; 1tab">Door beelden, geesten, schimmen,</l>
+<l>Van schoonheid, liefde, waarheid, kracht,</l>
+<l>Me omzwevende in een halve nacht,</l>
+<l rend="; 1tab">Waaruit een dag wil klimmen.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Hoe ruischt my koor op koor</l>
+<l rend="; 3tab">In 't oor,</l>
+<l rend="; 1tab">Verlokkend en ontroerend.</l>
+<l>Hoe zoet weemoedig is het my,</l>
+<l>Als ware een stroom van melody</l>
+<l rend="; 1tab">My op zijn golven voerend.</l>
+<l>&nbsp;</l>
+<pb n="72"/>
+<l rend="; 2tab">Als hoorde ik in 't verschiet</l>
+<l rend="; 3tab">Een lied,</l>
+<l rend="; 1tab">Dat hart en zin mocht kluisteren;</l>
+<l>Een nieuw gezang, dat niemand zong,</l>
+<l>En dat de gantsche wareld dwong</l>
+<l rend="; 1tab">Tot opgetogen luisteren.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Mijn vrienden, neen! geen lust,</l>
+<l rend="; 3tab">Maar rust</l>
+<l rend="; 1tab">Ontbreekt den armen zanger.</l>
+<l>Hem kwelt een lang getergde dorst</l>
+<l>Naar poëzy, zijn moede borst</l>
+<l rend="; 1tab">Is van gedichten zwanger.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Geef de onbezorgde vreugd</l>
+<l rend="; 3tab">Der jeugd,</l>
+<l rend="; 1tab">Haar zoete mijmeringen,</l>
+<l>In schaduw van 't aloud geboomt,</l>
+<l>Of waar, van munte en tijm omzoomd,</l>
+<l>De rimpelende duinbeek stroomt,</l>
+<l rend="; 1tab">Hem weer - en hy zal zingen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="73"/>
+    <head rend="h3">Wat kinderoogen zien kunnen.<note n="*" place="foot">De legende is te vinden in <hi rend="sc">wolf's</hi> <hi rend="i">Niederl. Sagen</hi>, S. 157.</note></head>
+<lg type="poem">
+<l><hi rend="b">F</hi>ier zwijgt de vader in zijn lot,</l>
+<l>En leert, in 't duister kerkerkot,</l>
+<l rend="; 1tab">Verdragen wat hy draagt.</l>
+<l>De klacht der moeder stijgt tot God;</l>
+<l rend="; 1tab">Eens raakt zy uitgeklaagd....</l>
+<l>‘Ach kinderkens, mijn kinderkens!</l>
+<l rend="; 2tab">Uw moeders hart</l>
+<l rend="; 2tab">Bezwijkt van smart,</l>
+<l rend="; 1tab">Zy heeft geen woorden meer.</l>
+<l>Komt! handtjens samen, oogjens dicht!</l>
+<l>Uw englen zien Gods aangezicht;</l>
+<l rend="; 1tab">Ontferme zich de Heer!’</l>
+<l>&nbsp;</l>
+<pb n="74"/>
+<l>By 't venster knielt de kleine kring;</l>
+<l>In 't midden vaders lieveling,</l>
+<l rend="; 1tab">In 't midden de oudste zoon;</l>
+<l>Wat is zijn leeftijd nog gering,</l>
+<l rend="; 1tab">Wat is de jongen schoon!</l>
+<l>‘Ach kinderkens, mijn kinderkens!</l>
+<l rend="; 2tab">Uw moeders hart</l>
+<l rend="; 2tab">Bezwijkt van smart,</l>
+<l rend="; 1tab">Zy heeft geen woorden meer.</l>
+<l>Wat staart gy op de donkre straat?</l>
+<l>Bidt, bidt tot God die u verstaat!</l>
+<l rend="; 1tab">Ontferme zich de Heer!’</l>
+<l>&nbsp;</l>
+<l>De nacht is duister. Star noch maan</l>
+<l>Is aan den hemel opgegaan;</l>
+<l rend="; 1tab">De kamer zonder licht.</l>
+<l>De moeder ziet den kleinsten aan...</l>
+<l rend="; 1tab">Hoe blinkt zijn aangezicht!</l>
+<l>‘Ach moedertjen, lief moedertjen!</l>
+<l rend="; 2tab">Hoe schoon trekt daar</l>
+<l rend="; 2tab">Een gantsche schaar</l>
+<l rend="; 1tab">Van gouden lichtjens voort!</l>
+<l>Zy zweven naar des hertogs slot;</l>
+<l>De heilige englen zijn 't van God</l>
+<l rend="; 1tab">Die ons gebed verhoort!’</l>
+<l>&nbsp;</l>
+<pb n="75"/>
+<l>De bleeke moeder hoopt en ducht;</l>
+<l>Zy treedt aan 't venster met een zucht;</l>
+<l rend="; 1tab">Maar alles wat zy ziet</l>
+<l>Is donkre huizen, zwarte lucht:</l>
+<l rend="; 1tab">Gods englen ziet zy niet.</l>
+<l>‘Ach kinderkens, mijn kinderkens!</l>
+<l rend="; 2tab">Het wicht verstaat</l>
+<l rend="; 2tab">Niet wat het praat;</l>
+<l rend="; 1tab">Lief jongsken! ga ter rust.</l>
+<l>De vromen dient Gods englenschaar,</l>
+<l>Maar in dien boozen hertog daar</l>
+<l rend="; 1tab">Betoonen zy geen lust.’</l>
+<l>&nbsp;</l>
+<l>Nu schudt de kleine 't lokkig hoofd,</l>
+<l>Bedroefd dat moeder niet gelooft,</l>
+<l rend="; 1tab">En tuurt aandachtig voort,</l>
+<l>Tot dat de glans is uitgedoofd</l>
+<l rend="; 1tab">Die om zijn kopjen gloort.</l>
+<l>‘Ach moedertjen, lief moedertjen!</l>
+<l rend="; 2tab">Gewis geschiedt</l>
+<l rend="; 2tab">Wat broertjen ziet;</l>
+<l rend="; 1tab">Der englen taak is schoon;</l>
+<l>Gehoorzaam aan zijn wijs gebod,</l>
+<l>Volbrengen zy een last van God.’</l>
+<l rend="; 1tab">Zoo spreekt haar oudste zoon.</l>
+<l>&nbsp;</l>
+<pb n="76"/>
+<l>De kindren gingen tot hun rust.</l>
+<l>Het wee der moeder werd gesust;</l>
+<l rend="; 1tab">Zy slaapt den gantschen nacht;</l>
+<l>Ook droomt zy dat haar de egâ kust,</l>
+<l rend="; 1tab">Die in den kerker smacht.</l>
+<l>‘Ach kinderkens, mijn kinderkens!</l>
+<l rend="; 2tab">Wat toeft gy nog?</l>
+<l rend="; 2tab">Omhelst hem toch!</l>
+<l rend="; 1tab">En kust zijn bleek gezicht.</l>
+<l>Hy kwam in 't holste van den nacht;</l>
+<l>Duc d'Alva heeft hem thuis gebracht</l>
+<l rend="; 1tab">Met pauk en fakkellicht.’</l>
+<l>&nbsp;</l>
+<l>De hertog woelt op 't ledikant,</l>
+<l>Zijn voorhoofd gloeit, zijn boezem brandt,</l>
+<l rend="; 1tab">Zijn mond gaapt naar 't geluid;</l>
+<l>Nu strekt hy de een, dan de andre hand</l>
+<l rend="; 1tab">Met schrik en woestheid uit.</l>
+<l>‘Laat los, laat los, gy kinderkens!</l>
+<l rend="; 2tab">Laat los, o vrouw!</l>
+<l rend="; 2tab">'k Verdrijf u rouw.</l>
+<l rend="; 1tab">Gy hebt uws hertogs woord;</l>
+<l>'k Verbreukte 't nooit tot goed noch kwaad;</l>
+<l>'k Vervul het met den dageraad;</l>
+<l rend="; 1tab">Uw beden zijn verhoord.’</l>
+<l>&nbsp;</l>
+<pb n="77"/>
+<l>De nacht gaat om; het morgenlicht</l>
+<l>Schijnt reeds de kleinen in 't gezicht,</l>
+<l rend="; 1tab">Genaderd door een scheur;</l>
+<l>Nog zijn de zware bouten dicht....</l>
+<l rend="; 1tab">Wie klopt daar aan de deur?</l>
+<l>‘Staat op, staat op, mijn kinderkens!</l>
+<l rend="; 2tab">Sta op, vriendin!</l>
+<l rend="; 2tab">En laat my in!</l>
+<l rend="; 1tab">Omhels uw echten man!</l>
+<l>Hy die het hart der vorsten buigt</l>
+<l>Heeft voor mijn goede zaak getuigd,</l>
+<l rend="; 1tab">Hy hebbe de eer er van!’</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="78"/>
+<head rend="h3">Aan een bruid.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">U</hi> zeegne God!</l>
+<l rend="; 1tab">Hy stelle u tot een zegen!</l>
+<l>Gezegend zij uw hoofd, uw hart, uw wegen,</l>
+<l rend="; 1tab">Uw aardsch, uw eeuwig lot.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Gezegend de Echt,</l>
+<l rend="; 1tab">Die u verbindt! Haar banden,</l>
+<l>Haar bloemen en haar juk! De trouwe handen</l>
+<l rend="; 1tab">Door God in een gelegd.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Gezegend 't Huis,</l>
+<l rend="; 1tab">Waarin de liefde wone!</l>
+<l>Waar u de Heer met vreugde en eere kroone!</l>
+<l rend="; 1tab">Gezegend ook het Kruis -</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Het Kruis te zaam</l>
+<l rend="; 1tab">Met d' echtgenoot gedragen,</l>
+<l>Den blik op Hem die 't Kruis verdroeg geslagen,</l>
+<l rend="; 1tab">En in zijn kracht en naam!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="79"/>
+<head rend="h3">De deuvig en de kompasnaald.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">E</hi>en Deuvig, zich te recht zijn waarde</l>
+<l>‘Als deuvig en geleerde’ wel bewust,</l>
+<l rend="; 2tab">Daar hy op een maderafust</l>
+<l rend="; 1tab">Een reis gemaakt had om heel de aarde,</l>
+<l rend="; 2tab">En ongetwijfeld al dien tijd,</l>
+<l rend="; 1tab">('t Was streng verboôn hem af te trekken)</l>
+<l rend="; 2tab">Aan overdenkingen gewijd,</l>
+<l rend="; 1tab">Waarmeê slechts onverstand durft gekken;</l>
+<l>Een Deuvig dus, van de eêlste geesten vol,</l>
+<l rend="; 1tab">Van rijpe ervaring daarenboven,</l>
+<l>Met wetenschap gelaafd in een stikdonker hol,</l>
+<l rend="; 1tab">By passende' afkeer van gelooven,</l>
+<l rend="; 2tab">Verliet zijn ‘stil studeervertrek,’</l>
+<l rend="; 2tab">En kwam zich toonen op het dek.</l>
+<l rend="; 1tab">Het scheen zijn eerste plicht, voor allen,</l>
+<l rend="; 1tab">De Scheepskompasnaald aan te vallen:</l>
+<l rend="; 2tab">‘Gy zijt gelukkig, lieve vrind!</l>
+<l rend="; 2tab">Maar 't is als een onnoozel kind;</l>
+<pb n="80"/>
+<l>Onnoozelheid, die <hi rend="i">ik</hi> niet laken,</l>
+<l rend="; 1tab">Maar evenmin benijden wil:</l>
+<l rend="; 1tab">Gy meent ons, trillende op uw spil,</l>
+<l>Den koers naar 't Noorden uit te maken.</l>
+<l rend="; 1tab">Maar al mijn studie (en ik zat</l>
+<l rend="; 1tab">Zoo lang reeds muurvast op dit vat)</l>
+<l>Bewijst de onmooglijkheid dier zaken.</l>
+<l rend="; 1tab">Vooreerst: nog is 't my niet gewis</l>
+<l rend="; 1tab">Dat daar een werklijk Noorden <hi rend="i">is;</hi></l>
+<l>Ten andren, kan ik niet ontdekken</l>
+<l><hi rend="i">Hoe</hi> 't Noorden naalden aan zou trekken.</l>
+<l rend="; 1tab">'t <hi rend="i">Begrip</hi> van 't Noorden laat ik staan;</l>
+<l rend="; 1tab">Dat trekt sints lang van alles aan,</l>
+<l>Door wat gevoeligheid te wekken;</l>
+<l rend="; 1tab">Maar 't Noorden zelf, hoe zou dat gaan?</l>
+<l><hi rend="i">Gy</hi> wilt er tot bewijs van strekken;</l>
+<l rend="; 1tab">Maar zie of u 't bewijs niet schort,</l>
+<l rend="; 1tab">Dat ge inderdaad getrokken <hi rend="i">wordt</hi>,</l>
+<l>En dat ik waar gy op durft roemen</l>
+<l>Geen <hi rend="i">malen op één punt</hi> mag noemen.</l>
+<l rend="; 1tab">Geloof niet dat 'k uw eer verkort;</l>
+<l>Maar hoor hetgeen <hi rend="i">ik</hi> u verklare:</l>
+<l>Zoo daar een trekkend Noorden ware,</l>
+<l rend="; 1tab">Het trok my lang reeds van dit vat....</l>
+<pb n="81"/>
+<l>Doch neen, hoezeer ik 't zelf begeerde,</l>
+<l rend="; 1tab">'t Gebeurde niet: verklaar my <hi rend="i">dat</hi>!</l>
+<l rend="; 1tab">En voorts....’</l>
+<l rend="; 2tab">De Naalde sprak: ‘Ei wat!</l>
+<l>Gy zijt <hi rend="i">van hout</hi>, u Hooggeleerde.’’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'t Schip kwam ter reede zoo 't behoort.</l>
+<l rend="; 1tab">Men rolde 't vat met wijn van boord.</l>
+<l>De wijze Deuvig, vol gepeinzen</l>
+<l rend="; 1tab">En studie, rolde deftig meê.</l>
+<l rend="; 1tab">'t Kompas bleef eervol op zijn steê.</l>
+<l>Het schip stak af tot nieuwe reizen:</l>
+<l rend="; 1tab">De Naald wees trouw den weg door zee.</l>
+</lg>
+<div type="section">
+<head rend="h4">Aanteekening.</head>
+<p>Misschien weten niet alle lezers terstond wat een <hi rend="i">Deuvig</hi> zij. 't Is de houten <hi rend="i">stop</hi> waardoor een vat gesloten blijft, tot dat zy plaats moet maken voor een <hi rend="i">kraan</hi>, waardoor zich de inhoud mededeelt.</p>
+</div>
+</div>
+<div type="chapter">
+<pb n="82"/>
+<head rend="h3">Niet voor de wareld.</head>
+<lg type="poem">
+<l><hi rend="b">V</hi>oor de wareld bloeit gy niet,</l>
+<l rend="; 1tab">Roem der lenterozen!</l>
+<l>'t Zedig blosjen, dat zy ziet</l>
+<l rend="; 1tab">Op uw wangen blozen,</l>
+<l>Zult gy, waar haar adem gloeit,</l>
+<l>En het kruid des velds verschroeit,</l>
+<l rend="; 1tab">Niet verroekeloozen.</l>
+<l>&nbsp;</l>
+<l>Voor de wareld gloeit het niet,</l>
+<l rend="; 1tab">'t Lichtjen in uw oogen,</l>
+<l>Dat zoo zachte stralen schiet</l>
+<l rend="; 1tab">Van zoo groot vermogen;</l>
+<l>Keert zich niet uw reine blik,</l>
+<l>Met een heilzaam heilgen schrik,</l>
+<l rend="; 1tab">Van haar lust en logen?</l>
+<l>&nbsp;</l>
+<pb n="83"/>
+<l>Voor de wareld vloeit het niet,</l>
+<l rend="; 1tab">'t Traantjen op uw wangen!...</l>
+<l>Vreemd aan 't wareldsche verdriet,</l>
+<l rend="; 1tab">'t Wareldsche verlangen,</l>
+<l>Zal het in zijn zuiver schoon,</l>
+<l>Zal het aan haar trotsche kroon</l>
+<l rend="; 1tab">Niet als parel hangen.</l>
+<l>&nbsp;</l>
+<l>Neen, de wareld boeit u niet,</l>
+<l rend="; 1tab">Hoe gy haar moogt boeien!</l>
+<l>Waar uw hart van overvliet,</l>
+<l rend="; 1tab">Wat uw oog doet gloeien,</l>
+<l>Is een heiliger genot,</l>
+<l>Is een blijdschap, die uit God</l>
+<l rend="; 1tab">Zielen toe mag vloeien.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="84"/>
+<head rend="h3">Weerhaan-wijsheid.</head>
+<q rend="bq">Temporibus cedere semper sapientis est habitum.
+<lb/>
+<hi rend="sc">Cicero</hi>.</q>
+<lg type="poem">
+<l>‘<hi rend="b">D</hi>e ware wijsheid is zich naar de omstandigheden</l>
+<l rend="; 1tab">Te schikken.’ Dat 's een spreuk van Romes redenaar.</l>
+<l>Dies diende, voor een tijd, Pompejus aangebeden,</l>
+<l rend="; 1tab">En Cesar, na diens val, verheerlijkt; dat is klaar.</l>
+<l>Nu, 't is ook veiligst by den winnaar; en in zegen</l>
+<l rend="; 1tab">Wordt immers liever dan in nederlaag gedeeld?</l>
+<l>Een kroontjen lacht het hart wel eens zoo aardig tegen,</l>
+<l rend="; 1tab">Als traan, of schaamteblos die door de wangen speelt.</l>
+<l>De zon gaat op! Bid aan! - Zie, zie haar hooger stijgen!</l>
+<l rend="; 1tab">Kraai al wat kraaien kan, haar morgenglorie uit. -</l>
+<l>'t Is avond, en zy daalt. - Zwijg! Wijzen voegt het zwijgen. -</l>
+<l rend="; 1tab">Zy zinkt, gaat onder! - Foei, nu dient zy uitgefluit.</l>
+<l>Op nachtuil, 't is hoog tijd! - De maan schijnt op te komen....</l>
+<pb n="85"/>
+<l rend="; 1tab">Is 't waarheid! Is zy vol? Wy smelten reeds in lof.</l>
+<l>Zy naakt Orion. Hoe? Zy schijnt zijn knots te schroomen....</l>
+<l rend="; 1tab">Haar wang verbleekt... Houd op! Daar is geen lovensstof. -</l>
+<l>Dus laken? - Niet zoo snel! Daar is een soort van loven</l>
+<l rend="; 1tab">Met laken ondermengd; waar past dat, zoo niet hier?</l>
+<l>Zoek Nieuwland middlerwijl. Maar neen! de Maan haalt boven!</l>
+<l rend="; 1tab">Weg laffe starpoëet! Uw lichtheld deugt geen zier.</l>
+<l>Lang leef de Maangodes! - Wel mag het haar bekomen;</l>
+<l rend="; 1tab">Ziet gy dat wolkenheir? Haar neêrlaag is gewis.</l>
+<l>'t Rukt aan, verdikt, verwint, heeft alles ingenomen....</l>
+<l rend="; 1tab">Het rijk der Maan heeft uit. - Lang leef de Duisternis!</l>
+<l>Hoe was 't ook mooglijk dat we aan 't licht ons zoo verwenden?</l>
+<l rend="; 1tab">Verblinding hield ons aan een ijdlen glans geboeid.</l>
+<l>Verga en Zon en Maan en duizend sterrenbenden,</l>
+<l rend="; 1tab">Het Duister is 't alleen, waarvoor ons hart ontgloeit.</l>
+<l>Ach, zotte schouwburgpronk met gloed en straalgeflonker,</l>
+<l rend="; 1tab">Die de oogen afmat en 't gevoelig brein ontsteekt:</l>
+<l>Hoe veilig tasten we om in 't hartverkwikkend donker,</l>
+<l rend="; 1tab">En knijpen wien 't ons lust, terwijl geen schepsel 't wreekt.</l>
+<l>Wat 's dat? Een purpre gloed verschijnt aan de oosterkimmen,</l>
+<l rend="; 1tab">De lucht wordt klaar en blaauw. Wat of dat worden zal?</l>
+<l>Dat is ‘de blonde Auroor;’ haar ‘rozenvingren’ glimmen....</l>
+<l rend="; 1tab">Verwacht de Zon eerlang met scepter, kroon, en al. -</l>
+<pb n="86"/>
+<l>Dat 's leelijk. - Niet in 't minst. Al toonden wy gehechtheid</l>
+<l rend="; 1tab">Aan duisternis en nacht, wat maakt dat uit, gantsch bloed!</l>
+<l>Belijd die dwaling met wat nagemaakte oprechtheid:</l>
+<l rend="; 1tab">Die grijns is overal voorhanden, en staat goed.</l>
+<l>&nbsp;</l>
+<l>Ach, 't kost zoo veel niet zich in 's warelds spel te schikken.</l>
+<l rend="; 1tab">Zoo knie en rug en tong maar meê wil, en 't verstand</l>
+<l>Den juisten <hi rend="i">tact</hi> bezit der gunstige oogenblikken,</l>
+<l rend="; 1tab">Het maakt u meester van de meesters van het land.</l>
+<l>‘Ja maar 't geweten?’ Wat geweten? Zulke dingen</l>
+<l rend="; 1tab">Zijn overbodig; moeit ge u daarmeê? Lieve man!</l>
+<l>Wat beeldt uw hart zich in? Wy zijn geen hemelingen</l>
+<l rend="; 1tab">Maar nog op de aarde thuis. Daar gaat het.... zoo als 't kan.</l>
+<l>Volhardt gy? Ban u dan uit onze samenleving.</l>
+<l rend="; 1tab">Gewetens zijn niet op de hoogte van den tijd.</l>
+<l>Wy dulden veel; maar voor gewetens... geen vergeving!</l>
+<l rend="; 1tab">Zy zijn <hi rend="i">behoudend</hi>, <hi rend="i">achteruitgaand</hi>, en, in spijt</l>
+<l><hi rend="i">Der wetenschap</hi>, geheel niet vatbaar voor ontwikkelen.</l>
+<l rend="; 1tab">'t Geweten acht ik niet <hi rend="i">rein menschlijk;</hi> niet geschikt</l>
+<l><hi rend="i">De menschheid op de baan haars strevens</hi> aan te prikkelen -</l>
+<l rend="; 1tab">‘Maar God heeft, dunkt my toch...’ Van God dient niet gekikt.</l>
+<l>Of wilt ge een God, en ons de ware godsdienst toonen,</l>
+<pb n="87"/>
+<l rend="; 1tab">Ze is liefde, en anders is 't geen godsvrucht zoo 't behoort.</l>
+<l>Wat zegt uw Bijbel? ‘Zoet en lieflijk is 't dat zonen</l>
+<l rend="; 1tab">Van 't zelfde huisgezin als broedren' en zoo voort.</l>
+<l>En daarom, plaag ons niet met wat wy stelsels heeten;</l>
+<l rend="; 1tab">Wees lieflijk; geef en neem, en knel u in geen keurs....</l>
+<l>&nbsp;</l>
+<l>Dat is: <hi rend="i">Vertrap het Recht</hi>, <hi rend="i">om meer en beter te eten</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Verzaak Gewisse en God</hi>, <hi rend="i">maar nimmermeer uw beurs.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="hase002"/>
+</interpGrp>
+<pb n="88"/>
+<head rend="h3">Aan mijn vriend Hasebroek,
+<lb/>
+op zijn trouwdag.</head>
+<lg type="poem">
+<l><hi rend="b">D</hi>e dag uws feestes is gekomen,</l>
+<l rend="; 1tab">Uw lieve Bruid staat aan uw zij:</l>
+<l>En alle vaderlandsche stroomen,</l>
+<l rend="; 1tab">Zy stroomen tusschen u en my;</l>
+<l>Rondom uw schreden dringen scharen</l>
+<l rend="; 1tab">Van nieuwe vrienden, die gy vondt:</l>
+<l>Een vriendschap van zoo vele jaren</l>
+<l rend="; 1tab">Blijft pruilende op den achtergrond.</l>
+<l>&nbsp;</l>
+<l>Heeft zy geweigerd goed te keuren</l>
+<l rend="; 1tab">Den echtknoop, dien gy heden sluit!</l>
+<l>Of is ze ('t kon zoo licht gebeuren)</l>
+<l rend="; 1tab">Naijvrig van de lieve Bruid?</l>
+<l>Ligt in haar aard de vreugd te mijden,</l>
+<l rend="; 1tab">Te ontvluchten in een duistren hoek?</l>
+<l>Zich te verblijden met den blijden,</l>
+<l rend="; 1tab">Staat dat niet in haar woordenboek?</l>
+<l>&nbsp;</l>
+<pb n="89"/>
+<l>Is zy te traag de reis te maken?</l>
+<l rend="; 1tab">Te bang voor 't gure najaarsweêr?</l>
+<l>Beducht, om aan den grond te raken,</l>
+<l rend="; 1tab">By 't scheepgaan aan zoo menig veer?</l>
+<l>Of heeft zy mooglijk andre vreezen,</l>
+<l rend="; 1tab">Wel wetend dat er, waar zy naakt,</l>
+<l>Geen preek slechts, maar een vers moet wezen,</l>
+<l rend="; 1tab">Waardoor zy in labeuren raakt?</l>
+<l>&nbsp;</l>
+<l>Of is het, als met zoo veel vrinden,</l>
+<l rend="; 1tab">Ten laatsten ook met ons gegaan:</l>
+<l>De banden die hen saamverbinden,</l>
+<l rend="; 1tab">Zy worden slapper zoetjens aan.</l>
+<l>Wat, slapper? Neen! zy heeten stijver,</l>
+<l rend="; 1tab">Steeds stijver! Ja voor goed verstijfd!</l>
+<l>Maar verg het hart een blijk van ijver,</l>
+<l rend="; 1tab">En zie dan waar de vriendschap blijft.</l>
+<l>&nbsp;</l>
+<l>Neen! Dank zij God, die ons tot vrinden,</l>
+<l rend="; 1tab">Die ons tot broeders heeft gemaakt,</l>
+<l>Die ons voor vijftien jaar deed vinden,</l>
+<l rend="; 1tab">Wat ons nog nu gelukkig maakt!</l>
+<l>Geen tijd, geen afstand deed verkoelen</l>
+<l rend="; 1tab">De vriendschap in ons hart gelegd,</l>
+<l>En wat wy voor elkaâr gevoelen,</l>
+<l rend="; 1tab">Heeft niets te vreezen van uw Echt.</l>
+<l>&nbsp;</l>
+<pb n="90"/>
+<l>Uw Echt! Haar blijde dag gekomen!</l>
+<l rend="; 1tab">Haar schoon verschiet u opgegaan!</l>
+<l>Haar zachte kluisters aangenomen,</l>
+<l rend="; 1tab">Met roos bedekt en mirteblaân!</l>
+<l>Uw Echt! Een bron van zoo veel zegen,</l>
+<l rend="; 1tab">Als zeven jaar my zalig maakt,</l>
+<l>Ook u ontsprongen op uw wegen,</l>
+<l rend="; 1tab">Haar waatren ook door u gesmaakt!</l>
+<l>&nbsp;</l>
+<l>Uw Echt! Geen dartle lust der zinnen,</l>
+<l rend="; 1tab">Maar zielsvereening voor dien God,</l>
+<l>In wien elkander te beminnen</l>
+<l rend="; 1tab">Het echtheil waarborgt tegen 't lot...</l>
+<l>En zou geheel mijn hart niet gloeien,</l>
+<l rend="; 1tab">Van enkel blijdschap, lof en dank,</l>
+<l>En wenschen voor u uit te vloeien</l>
+<l rend="; 1tab">In zegenbede en maatgezang?</l>
+<l>&nbsp;</l>
+<l>Mijn vriend! op dezen blijden morgen,</l>
+<l rend="; 1tab">Op dees uw schoonen huwlijksdag,</l>
+<l>Voor uw volkomen vreugd te zorgen,</l>
+<l rend="; 1tab">Door al wat hart en mond vermag;</l>
+<l>U met den handdruk te bejegenen</l>
+<l rend="; 1tab">Der oude vriendschap, keer op keer;</l>
+<l>Uw echt plechtstatig in te zegenen,</l>
+<l rend="; 1tab">Als mededienstknecht van den Heer;</l>
+<l>&nbsp;</l>
+<pb n="91"/>
+<l>U, in zijn naam, een woord te zeggen</l>
+<l rend="; 1tab">Van ernst en wijsheid, liefde en trouw,</l>
+<l>De handen in elkaâr te leggen</l>
+<l rend="; 1tab">Des jongen mans, der jonge vrouw;</l>
+<l>Met Gods gemeente, Vrienden, Magen,</l>
+<l rend="; 1tab">Met alles wat u eert en acht,</l>
+<l>Uw echtheil biddende te vragen</l>
+<l rend="; 1tab">Van Hem, van wien alleen gy 't wacht:</l>
+<l>&nbsp;</l>
+<l>Hoe zou mijn ziele kunnen scheiden</l>
+<l rend="; 1tab">Van al de blijdschap, al 't genot,</l>
+<l>Dat deze dingen haar bereidden,</l>
+<l rend="; 1tab">Ten zij dan op een wenk van God?</l>
+<l>Hoe zou mijn vriendschap kunnen dulden,</l>
+<l rend="; 1tab">By 't sluiten van <hi rend="i">uw</hi> huwlijksband,</l>
+<l>Dat anderen haar taak vervulden,</l>
+<l rend="; 1tab">Nam niet God zelf die uit haar hand!</l>
+<l>&nbsp;</l>
+<l>Zijn wil geschiede! Laat ons zwijgen.</l>
+<l rend="; 1tab">'t Is wijze liefde wat Hy doet.</l>
+<l>De wenschen, die wy niet verkrijgen,</l>
+<l rend="; 1tab">Verdienen vast niet zoo veel gloed.</l>
+<l>Ik wil te midden van mijn kranken,</l>
+<l rend="; 1tab">En met mijn kranken al te zaam,</l>
+<l>Den hemel op uw feestdag danken,</l>
+<l rend="; 1tab">En zeegnen dien in 's Heeren naam.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18471028"/>
+</interpGrp>
+<pb n="92"/>
+<head rend="h3">Thuiskomst van het eenjarig Koosjen,
+<lb/>
+na een afwezigheid van vier weken.</head>
+<lg type="poem">
+<l><hi rend="b">K</hi>omt gy in mijn huis weerom,</l>
+<l rend="; 1tab">Lieve, kleinste spruit?</l>
+<l>Moest gy, op uw ouderdom,</l>
+<l rend="; 1tab">Reeds zoo lang daaruit?</l>
+<l>&nbsp;</l>
+<l>Speenden wy u, niet alleen,</l>
+<l rend="; 1tab">Na een maand of elf,</l>
+<l>Van uw moeders boezem, neen!</l>
+<l rend="; 1tab">Zelfs ook van haar zelf?</l>
+<l>&nbsp;</l>
+<l>Heb ik u met pak en zak</l>
+<l rend="; 1tab">Aan de deur gezet?</l>
+<l>Zeide ik: Zoek uw eigen dak,</l>
+<l rend="; 1tab">En uw eigen bed?</l>
+<l>&nbsp;</l>
+<pb n="93"/>
+<l>Moest gy zorgen voor uw brood,</l>
+<l rend="; 1tab">In dees duren tijd?</l>
+<l>Neen, die proef was al te groot,</l>
+<l rend="; 1tab">'k Had wat dikwijls spijt.</l>
+<l>&nbsp;</l>
+<l>'k Heb wel honderdmaal gedacht,</l>
+<l rend="; 1tab">Midden in mijn werk,</l>
+<l>(Ook een enkle maal by nacht):</l>
+<l rend="; 1tab">'t Is wat al te sterk.</l>
+<l>&nbsp;</l>
+<l>'k Ben geen weeke vader: neen,</l>
+<l rend="; 1tab">Lasteraar die 't zeit!</l>
+<l>Maar uw leeftijd, naar 't my scheen,</l>
+<l rend="; 1tab">Maakte een onderscheid.</l>
+<l>&nbsp;</l>
+<l>Somtijds dacht ik: 't Arme kind</l>
+<l rend="; 1tab">Denkt misschien met smart:</l>
+<l><hi rend="i">Ik</hi> word niet met al bemind</l>
+<l rend="; 1tab">Door mijn Vaders hart!</l>
+<l>&nbsp;</l>
+<l>Waar zy haars gelijken ziet</l>
+<l rend="; 1tab">By haar ouders haard,</l>
+<l>Denkt zy telkens met verdriet,</l>
+<l rend="; 1tab">Aan mijn wreeden aart;</l>
+<l>&nbsp;</l>
+<pb n="94"/>
+<l>Broeit er in haar jong gemoed</l>
+<l rend="; 1tab">Vast een stil verwijt;</l>
+<l>Zegt zy: Vader meent het goed,</l>
+<l rend="; 1tab">Maar is liefst my kwijt.</l>
+<l>&nbsp;</l>
+<l>'k Dacht dat vuur nog aangevuurd,</l>
+<l rend="; 1tab">Door het boos gepraat</l>
+<l>Van de meisjens uit de buurt....</l>
+<l rend="; 1tab">En ik wist geen raad.</l>
+<l>&nbsp;</l>
+<l>Kwam, zoo dacht ik, 't kind ooit weer</l>
+<l rend="; 1tab">Onder Vaders dak,</l>
+<l>'k Wist wel wie er nimmermeer</l>
+<l rend="; 1tab">Van vertrekken sprak!</l>
+<l>&nbsp;</l>
+<l>Doch de haat, dit was my klaar,</l>
+<l rend="; 1tab">Zat u reeds in 't bloed:</l>
+<l>By dien gierigen barbaar,</l>
+<l rend="; 1tab">Zet gy nooit weer voet!</l>
+<l>&nbsp;</l>
+<l>Maar daar zijt ge. Welkom hier!</l>
+<l rend="; 1tab">Dank dat gy er zijt!</l>
+<l>Met die oogjens vol pleizier,</l>
+<l rend="; 1tab">Zonder één verwijt.</l>
+<l>&nbsp;</l>
+<pb n="95"/>
+<l>Met dien vriendelijken lach</l>
+<l rend="; 1tab">Op die lieve koon,</l>
+<l>Dien ik in mijn droomen zag,</l>
+<l rend="; 1tab">Maar nog eens zoo schoon!</l>
+<l>&nbsp;</l>
+<l>Met die armtjens uitgebreid</l>
+<l rend="; 1tab">Naar ons gantsch gezin....</l>
+<l>'t Staat u open, lieve meid!</l>
+<l rend="; 1tab">Kom er maar weer in.</l>
+<l>&nbsp;</l>
+<l>Kom maar weder aan den disch -</l>
+<l rend="; 1tab">(Jongens, schik wat op!)</l>
+<l>Waar des noods een plaatsjen is,</l>
+<l rend="; 1tab">Op mijn knie, mijn pop!</l>
+<l>&nbsp;</l>
+<l>Daar 'k u eindlijk wederzie,</l>
+<l rend="; 1tab">Houd ik u ook hier;</l>
+<l>Hebben wy nog brood voor drie,</l>
+<l rend="; 1tab">'t Is er ook voor vier.</l>
+<l>&nbsp;</l>
+<l>Zelfs geloof ik, kleine meid!</l>
+<l rend="; 1tab">Is 't er op gemunt,</l>
+<l>'t Bedtjen ligt nog wel gespreid,</l>
+<l rend="; 1tab">Waar gy slapen kunt.</l>
+<l>&nbsp;</l>
+<pb n="96"/>
+<l>Schoon sints dagen aan 't verdriet</l>
+<l rend="; 1tab">Van 't gemis gewend,</l>
+<l>Moeder, denk ik, treurt toch niet</l>
+<l rend="; 1tab">Dat ge er weder bent.</l>
+<l>&nbsp;</l>
+<l>Kijk, Maria en de broêrs</l>
+<l rend="; 1tab">('k Merk het aan 't gekus)</l>
+<l>Zijn alvast nog niet jaloersch</l>
+<l rend="; 1tab">Van de kleine zus.</l>
+<l>&nbsp;</l>
+<l>Allen zijn zy ziek geweest,</l>
+<l rend="; 1tab">Met Mama en my;</l>
+<l>Thands is 't haast herstellingsfeest,</l>
+<l rend="; 1tab">Gy behoort er by.</l>
+<l>&nbsp;</l>
+<l>Daarom dan in vredes naam,</l>
+<l rend="; 1tab">Blijf nu waar gy zijt -</l>
+<l>Zeegne God ons al te zaam,</l>
+<l rend="; 1tab">Voor een langen tijd!</l>
+</lg>
+<p>28 October 1847.</p>
+</div>
+<div type="chapter">
+<pb n="97"/>
+<head rend="h3">Aan mijne echtgenoote.</head>
+<lg type="poem">
+<l><hi rend="b">V</hi>erwijt gy my, mijn waarde!</l>
+<l rend="; 1tab">Dat 'k sedert jaar en dag</l>
+<l>Mijn cither niet besnaarde,</l>
+<l rend="; 1tab">Zoo vrolijk als ik plag,</l>
+<l>Om u een lied te zingen,</l>
+<l rend="; 1tab">Op uw geboortefeest,</l>
+<l>Die negen zonnekringen</l>
+<l rend="; 1tab">Mijn sieraad zijt geweest?</l>
+<l>&nbsp;</l>
+<l>Mijn sieraad en mijn eere,</l>
+<l rend="; 1tab">Mijn grootste schat op aard,</l>
+<l>Een gave van den Heere,</l>
+<l rend="; 1tab">Zijn groote goedheid waard,</l>
+<l>Een onwaardeerbre zegen,</l>
+<l rend="; 1tab">Een hulp, een troost, een vreugd:</l>
+<l>Dat zijt gy op mijn wegen,</l>
+<l rend="; 1tab">Gy, huisvrouw van mijn jeugd!</l>
+<l>&nbsp;</l>
+<pb n="98"/>
+<l>Wy plachten u te kroonen</l>
+<l rend="; 1tab">Op menig feestgetij,</l>
+<l>Met liederen en tonen</l>
+<l rend="; 1tab">En luide poëzy.</l>
+<l>Wy lieten al de stralen</l>
+<l rend="; 1tab">Van onzen vroegsten roem</l>
+<l>Op 't blonde hoofdtjen dalen,</l>
+<l rend="; 1tab">Dat ik het mijne noem.</l>
+<l>&nbsp;</l>
+<l>Mei had geen rozenknoppen,</l>
+<l rend="; 1tab">Geen leliën genoeg,</l>
+<l>Bepareld met de droppen</l>
+<l rend="; 1tab">Der daauw van 's uchtends vroeg,</l>
+<l>Om u het hoofd te tooien,</l>
+<l rend="; 1tab">Vorstinne van ons hart!</l>
+<l>En over 't pad te strooien,</l>
+<l rend="; 1tab">Waar gy bewelkomd werd.</l>
+<l>&nbsp;</l>
+<l>Wy riepen filomeelen</l>
+<l rend="; 1tab">Van alle zijden op,</l>
+<l>Om u een lied te kwelen,</l>
+<l rend="; 1tab">Van berk en elzentop.</l>
+<pb n="99"/>
+<l>De tortelduif moest dalen,</l>
+<l rend="; 1tab">Vol tederheid en min,</l>
+<l>En om uw schouders dwalen,</l>
+<l rend="; 1tab">En streelen hals en kin.</l>
+<l>&nbsp;</l>
+<l>Van uit de luwe bosschen,</l>
+<l rend="; 1tab">Van veld en vijvervlak,</l>
+<l>Van tusschen bloementrossen</l>
+<l rend="; 1tab">En vruchtbren boomgaarttak,</l>
+<l>Moest u het laauwe luchtjen</l>
+<l rend="; 1tab">De geuren, die het torscht,</l>
+<l>Toevoeren met een zuchtjen,</l>
+<l rend="; 1tab">En sterven aan uw borst.</l>
+<l>&nbsp;</l>
+<l>En allen moesten hooren</l>
+<l rend="; 1tab">Van 't achttienjarig kind,</l>
+<l>Dat ik had uitverkoren</l>
+<l rend="; 1tab">En teder werd bemind.</l>
+<l>En allen moesten weten</l>
+<l rend="; 1tab">Hoe zacht zy was en trouw,</l>
+<l>En dat ze Aleide heeten,</l>
+<l rend="; 1tab">En my behooren zou.</l>
+<l>&nbsp;</l>
+<pb n="100"/>
+<l>Maar sedert God u kroonde</l>
+<l rend="; 1tab">Met kostelijker krans</l>
+<l>Dan ooit uw schoon verschoonde,</l>
+<l rend="; 1tab">En liefelijker glans</l>
+<l>Deed op uw schedel dalen,</l>
+<l rend="; 1tab">Dan waar de poëzy</l>
+<l>Uw lokken van deed stralen,</l>
+<l rend="; 1tab">Op 't lente-feestgetij;</l>
+<l>&nbsp;</l>
+<l>Maar sedert Gods genade</l>
+<l rend="; 1tab">Uw teder hart verblijd,</l>
+<l>En de allerliefste gade</l>
+<l rend="; 1tab">Tot moeder heeft gewijd;</l>
+<l>Maar sedert spruit op spruite</l>
+<l rend="; 1tab">Onze echtkoets heeft verheugd:</l>
+<l>Verstomde mijne luite,</l>
+<l rend="; 1tab">Van eerbied en van vreugd.</l>
+<l>&nbsp;</l>
+<l>Laat frissche maagdenwangen,</l>
+<l rend="; 1tab">Laat oogen vol van gloed,</l>
+<l>Den luiden lof ontfangen</l>
+<l rend="; 1tab">Van 't dichterlijk gemoed,</l>
+<pb n="101"/>
+<l>Laat keur van poëzyen</l>
+<l rend="; 1tab">En al wat ooren treft</l>
+<l>Om 't minzaam lachjen vrijen,</l>
+<l rend="; 1tab">Waarop zich 't hart verheft;</l>
+<l>&nbsp;</l>
+<l>Die in den bloei der jaren,</l>
+<l rend="; 1tab">Gelukkig echtgenoot,</l>
+<l>Zijn egade aan mag staren,</l>
+<l rend="; 1tab">Een zuigling op den schoot,</l>
+<l>Met neergeslagen oogen</l>
+<l rend="; 1tab">Zijn kinderlijke dorst,</l>
+<l>Met meer dan nektartogen,</l>
+<l rend="; 1tab">Verkwikkende aan haar borst,</l>
+<l>&nbsp;</l>
+<l>Die laat de cither glippen,</l>
+<l rend="; 1tab">Die stort geen maatgezang;</l>
+<l>Een beê zweeft op zijn lippen,</l>
+<l rend="; 1tab">Zijn boezem smelt in dank;</l>
+<l>Maar stem en woorden falen,</l>
+<l rend="; 1tab">Of schijnen leeg en koel;</l>
+<l>De rijkdom aller talen</l>
+<l rend="; 1tab">Is arm by zijn gevoel.</l>
+<l>&nbsp;</l>
+<pb n="102"/>
+<l>Maar die, met rozen wangen</l>
+<l rend="; 1tab">En oogjens vol van vreugd,</l>
+<l>Zijn kroost in d' arm ziet hangen</l>
+<l rend="; 1tab">Der huisvrouw van zijn jeugd;</l>
+<l>Maar die haar moeder noemen</l>
+<l rend="; 1tab">En moeder wezen ziet:</l>
+<l>Vergankelijke bloemen</l>
+<l rend="; 1tab">Vlecht hy haar schedel niet.</l>
+<l>&nbsp;</l>
+<l>Hy laat geen liedren rijzen</l>
+<l rend="; 1tab">En klinken tot haar eer,</l>
+<l>Wie eigen kindren prijzen,</l>
+<l rend="; 1tab">Die lof heeft van den Heer.</l>
+<l>Hy wenscht niet meer te pralen</l>
+<l rend="; 1tab">Met zijn benijdbaar lot,</l>
+<l>Maar zegent duizendmalen</l>
+<l rend="; 1tab">Het hoofd gekroond door God.</l>
+<l>&nbsp;</l>
+<l>Mijn dierbre, die my zonen</l>
+<l rend="; 1tab">En lieve dochtren schonkt,</l>
+<l>En met hun frissche konen</l>
+<l rend="; 1tab">En vrolijke oogen pronkt,</l>
+<pb n="103"/>
+<l>Hoe prijkt gy zelve tusschen</l>
+<l rend="; 1tab">Het vijftal uit uw schoot,</l>
+<l>En reikt my om te kussen</l>
+<l rend="; 1tab">Mijn kleinen naamgenoot.</l>
+<l>&nbsp;</l>
+<l>Hoe treedt mijn ziel u tegen</l>
+<l rend="; 1tab">Op dees geboortedag,</l>
+<l>Verplet van al den zegen,</l>
+<l rend="; 1tab">Waarin zy roemen mag;</l>
+<l>Hoe dankt u dit mijn harte</l>
+<l rend="; 1tab">Voor 't offer van uw jeugd,</l>
+<l>Voor al uw moedersmarte,</l>
+<l rend="; 1tab">Voor al mijn vadervreugd.</l>
+<l>&nbsp;</l>
+<l>Hoe stijgen mijn gebeden</l>
+<l rend="; 1tab">En zuchten hemelwaart:</l>
+<l>‘God! die dit huwlijks-Eden</l>
+<l rend="; 1tab">Geplant hebt, en bewaart:</l>
+<l>Het bloeie in uw bescherming,</l>
+<l rend="; 1tab">Uw goedheid, nooit verpoosd!</l>
+<l>Ach, schenk uw rijkste ontferming</l>
+<l rend="; 1tab">Der moeder en haar kroost!’</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18521000"/>
+</interpGrp>
+<pb n="104"/>
+<head rend="h3">Herinnering.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">N</hi>een, ducht niet dat ons hart, lief jongsken! u vergeet,</l>
+<l>Schoon reeds ten derde maal, de herfstwind, in zijn waren,</l>
+<l>Uw grafje' onkenbaar maakt met afgescheurde blaâren,</l>
+<l rend="; 2tab">En immers, sints een tweetal jaren,</l>
+<l rend="; 1tab">Een dochtertje' in ons huis uw leege plaats bekleedt.</l>
+<l>Neen, ducht niet dat uw beeld terugwijkt uit onze oogen,</l>
+<l rend="; 1tab">Te midden van de vreugd, die thands ons hart vervult,</l>
+<l>Waaraan we op nieuw, Godlof! van blijdschap opgetogen,</l>
+<l rend="; 2tab">Een aardig wichtjen drukken mogen....</l>
+<l rend="; 1tab">Neen, ducht niet dat gy <hi rend="i">ooit</hi> vergeten worden zult.</l>
+<l>&nbsp;</l>
+<l>Der oudren hart is trouw: het laat zijn kroost niet varen,</l>
+<l rend="; 1tab">Al offren zy het Gode, en leggen 't welgemoed</l>
+<pb n="105"/>
+<l>Ter neer in 't donker graf, om voorts omhoog te staren:</l>
+<l rend="; 2tab">Geen nacht des doods, geen macht der jaren,</l>
+<l rend="; 3tab">Scheidt hen volkomen van hun bloed;</l>
+<l>Geen nieuwe vadervreugd, geen andre moedersmarte,</l>
+<l rend="; 1tab">Geen goddelijke troost, geen bovenaardsche vreê</l>
+<l rend="; 3tab">Verdooft zijn beeltnis in dat harte,</l>
+<l rend="; 1tab">Dat nooit zijn kindren telt, of telt de dooden meê.</l>
+<l>&nbsp;</l>
+<l>Ach, 't was me een zware gang, toen 'k, met een hart vol tranen,</l>
+<l rend="; 1tab">Uw dierbaar lijkjen bracht, waar 't rusten zou in de aard.</l>
+<l>Hoe lieflijk was die plek, door eikjens en platanen</l>
+<l rend="; 1tab">En bloeiende kastanje omschaduwd en bewaard.</l>
+<l>Hoe lieflijk was dat uur: het zonlicht was aan 't dalen,</l>
+<l rend="; 3tab">Maar deed zijn ondergaande pracht,</l>
+<l>Met tintlend rood en goud, door 't dichte lommer pralen,</l>
+<l rend="; 2tab">En wierp zijn laatste en schoonste stralen</l>
+<l rend="; 1tab">In de open grafkuil neêr, waarin gy werd verwacht.</l>
+<l>&nbsp;</l>
+<l>Ik ben op 't kerkhof thuis: 'k heb in die twalef jaren,</l>
+<l rend="; 1tab">Waarin ik voeren mocht den herderlijken staf,</l>
+<l rend="; 3tab">Er beurtelings in ieder graf</l>
+<l rend="; 2tab">Met velerlei gedachten moeten staren;</l>
+<l rend="; 3tab">Ik wacht er al de dooden af.</l>
+<l>En immer was 't my goed, in 't wachten op een doode,</l>
+<pb n="106"/>
+<l rend="; 3tab">De groene heuvlen rond te gaan,</l>
+<l>By menig harden zerk en menig zachte zode</l>
+<l rend="; 3tab">Herin'rend, peinzend, stil te staan.</l>
+<l>Ik zwierf er veel, en lang met ongewisse treden,</l>
+<l rend="; 1tab">Niets dan 't geval alleen bestuurde er vaak mijn voet;</l>
+<l rend="; 3tab">Maar, sints dien avond, spreekt het bloed,</l>
+<l>En gaat dat kerkhofhek niet open voor mijn schreden,</l>
+<l rend="; 1tab">Of 'k weet waar ik het eerst die schreden wenden moet.</l>
+<l>&nbsp;</l>
+<l>Dat hek.... Mijn kind! wanneer, by schoone zomerdagen,</l>
+<l rend="; 1tab">Het lied des nachtegaals tot over 't kerkhof klinkt,</l>
+<l rend="; 1tab">Uw moeder uitlokt om te hooren wat hy zingt,</l>
+<l>En ze aan mijn zijde treedt langs bosch en doornehagen:</l>
+<l rend="; 1tab">Als zy dat hek genaakt, hoe zie ik haar meteen</l>
+<l rend="; 2tab">Reikhalzend gluren door de reten,</l>
+<l rend="; 1tab">Of zy, door 't hooge gras en 't lage lommer heen,</l>
+<l rend="; 3tab">Een blik mocht werpen op den steen</l>
+<l rend="; 2tab">Dien wy zoo wèl te vinden weten.</l>
+<l>&nbsp;</l>
+<l>Dan gaan wy zwijgend voort. Een zucht mag ons ontglippen;</l>
+<l rend="; 1tab">Doch niemand onzer spreekt, zij soms de lust ook groot.</l>
+<l>Maar eindlijk... 't is genoeg! Uw naam moet van de lippen,</l>
+<l rend="; 3tab">Uw naam, mijn lieve naamgenoot.</l>
+<l>Dan schetsen we ons uw beeld, in 't spelen, staamlen, kozen,</l>
+<pb n="107"/>
+<l rend="; 1tab">In dartle kindervreugd of ongestoorde rust,</l>
+<l rend="; 2tab">Dat zachtblaauw oog vol liefde en levenslust,</l>
+<l rend="; 3tab">Die wangen frisch als lenterozen,</l>
+<l rend="; 1tab">Dien mond, die stervend nog ons handen heeft gekust.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">En 's winters, als de storm daar buiten</l>
+<l rend="; 4tab">Door witbesneeuwd geboomte vaart,</l>
+<l rend="; 3tab">En 't ramm'len van de vensterruiten</l>
+<l>Ons, met ons lief gezin, een dichten kring doet sluiten</l>
+<l rend="; 4tab">Rondom den huisselijken haard;</l>
+<l rend="; 3tab">Als wy, omringd van al de spruiten,</l>
+<l rend="; 4tab">Ons door de goedheid Gods gespaard -</l>
+<l>De jongste op moeders schoot, een andere aan haar voeten</l>
+<l rend="; 4tab">Op 't kleine stoeltjen neergehukt,</l>
+<l rend="; 4tab">Een derde aan vaders hart gedrukt -</l>
+<l rend="; 3tab">Niets dan erkentnis wezen moeten</l>
+<l rend="; 4tab">Voor wat ons oudrenhart verrukt;</l>
+<l>Dan gaat wel nooit het oog, met innig welgevallen,</l>
+<l rend="; 4tab">Van blij gezicht tot blij gezicht,</l>
+<l rend="; 4tab">Of 't hart gedenkt u, dierbaar wicht!</l>
+<l>En zegt: Ziedaar zijn plaats; hier is hy uitgevallen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dan stijgt in moeders oog wel vaak een stille traan,</l>
+<l>En vaders stem verflaauwt, in 't midden van 't verhalen;</l>
+<pb n="108"/>
+<l rend="; 3tab">Zijn kroost ziet hem verwonderd aan,</l>
+<l rend="; 1tab">Onwetend dat hy denkt, hoe thands de bleeke maan</l>
+<l rend="; 3tab">Uw graf verlicht met koude stralen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Neen, ducht niet dat ons hart, lief jongsken! u vergeet.</l>
+<l rend="; 2tab">Maar gy, gedenkt gy in dat Eden,</l>
+<l rend="; 1tab">Waar gy, in Jezus arm, van smart noch tranen weet,</l>
+<l rend="; 3tab">Nog soms - ik zeg niet aan ons leed -</l>
+<l rend="; 2tab">Maar wel aan onze tederheden?</l>
+<l rend="; 1tab">Dáár weet gy met wat liefde ons hart u heeft bemind;</l>
+<l>Met eene, die u 't heil der heemlen niet benijdde;</l>
+<l>Maar, als uw Heiland riep, bedroefd en nogthands blijde,</l>
+<l rend="; 3tab">Tot u kon zeggen: Ga, mijn kind!</l>
+</lg>
+<p>October 1852.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18530000"/>
+</interpGrp>
+<pb n="109"/>
+<head rend="h3">Koperen bruiloft.
+<lb/>
+Aan Aleide.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">A</hi>ch melieve! Welk een feest!</l>
+<l>Welk een vreugde voor de harten,</l>
+<l>Die in voorspoed en in smarten</l>
+<l rend="; 1tab">Steeds gezegend zijn geweest,</l>
+<l>Door de liefde van dien God,</l>
+<l>Die de schaal houdt van ons lot.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ach, melieve! welk een dag!</l>
+<l>Daar we een zestal frissche spruiten</l>
+<l>In de minnende armen sluiten,</l>
+<l rend="; 1tab">Met een stillen dankbren lach,</l>
+<l>Waar een traan zich meê vereent,</l>
+<l>'t Lieve jongsken nageweend.</l>
+<l>&nbsp;</l>
+<pb n="110"/>
+<l rend="; 1tab">Ach melieve! welk een dank,</l>
+<l>Welk een schaamrood nederknielen</l>
+<l>Voor den Herder onzer zielen,</l>
+<l rend="; 1tab">Welk een daavrend lofgezang!</l>
+<l>Hy schonk liefde, en overvloed,</l>
+<l>Gaven, krachten, troost, en moed.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">En, te midden van 't genot,</l>
+<l>Hoeft de boezem voor Zijn ooren</l>
+<l>Deze bede niet te smooren:</l>
+<l rend="; 1tab">‘Spaar onze echtknoop, machtig God!</l>
+<l>Spaar de kindren! Schend, o Heer!</l>
+<l>Onze schoonste krans niet weer.’</l>
+</lg>
+<p>1853.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18500000"/>
+</interpGrp>
+<pb n="111"/>
+<head rend="h3">Aan D<hi rend="sup">r</hi>. Karel Gützlaff.</head>
+<lg type="poem">
+<l><hi rend="b">D</hi>oor zevendubblen muur en hemelhooge bergen,</l>
+<l rend="; 1tab">En wetten eeuwenoud beveiligd en bepaald,</l>
+<l>Meent China voor altijd al 's warelds macht te tergen,</l>
+<l rend="; 1tab">Maar weert het zonlicht niet dat van Gods hemel straalt.</l>
+<l>Haast doet een hooger zon de Bloeiende Aarde bloeien,</l>
+<l rend="; 1tab">En 't Rijk des Middens prijkt met oogsten dicht en vol;</l>
+<l>Haast zal het eeuwig ijs in beken nedervloeien,</l>
+<l rend="; 1tab">En drijven d' ouden Draak drufpstaartende uit zijn hol.</l>
+<l>Haast dreunt de grijze muur, by 't klinken der bazuinen</l>
+<l rend="; 1tab">Van 't vorstlijk priestervolk, dat vrede brengt door 't kruis,</l>
+<l>En stort by 't blij gejuich tot onherstelbre puinen....</l>
+<l rend="; 1tab">Neen, levert bouwstof uit voor Gods gezegend Huis!</l>
+<l>Verspieder! op bevel van Jezus doorgebroken,</l>
+<l rend="; 1tab">Wat tijding brengt gy uit dit Jericho ons weêr,</l>
+<pb n="112"/>
+<l>Van Rachabs harten, reeds voor 't heilgeloof ontloken,</l>
+<l rend="; 1tab">Van lippen tot den lof zich oopnend van den Heer?</l>
+<l>Ja, Chinaas tijd genaakt; langs alle waatren ruischend,</l>
+<l rend="; 1tab">Wordt de adem van Gods Geest vernomen, en het geldt</l>
+<l rend="; 2tab">Zijn zestigduizend maal zesduizend,</l>
+<l rend="; 1tab">Wier eerstlingen door u aanschouwd zijn en geteld!</l>
+<l>o Gützlaff, keer tot hen; breng hun eens broeders groeten,</l>
+<l rend="; 1tab">Van d' oever der Noordzee, aan de uiterste oosterkust;</l>
+<l>Betuig hen hoe zijn geest hen eenmaal hoopt te ontmoeten,</l>
+<l rend="; 1tab">Tot duizenden vermeerd, in 't Hemelsch Rijk der rust.</l>
+</lg>
+<p>1850.</p>
+</div>
+<div type="chapter">
+    <interpGrp>
+        <interp type="secundair" value="18511111"/>
+    </interpGrp>  
+<pb n="113"/>
+<head rend="h3">Het oranjewater.</head>
+<q rend="bq">De jonge Prins van Oranje stak op den 11<hi rend="sup">den</hi> November 1851, de eerste spade in het stuk duingrond (achter het landgoed Leyduin, boven Haarlem) waarin men voorhad de eerste vergaarkom te graven voor de sedert voltooide <hi rend="i">Waterleiding</hi> ten behoeve der Hoofdstad. Vóór de Prins nog vertrokken was, zag men het gewenschte water in het door hem gegravene gat reeds opgeweld.</q>
+<lg type="poem">
+<l><hi rend="b">O</hi>mkrans het hoofd, het achtbaar hoofd,</l>
+<l rend="; 1tab">Gy Hoofdstad, die wy roemen,</l>
+<l>Met klimop, dat geen winter rooft,</l>
+<l rend="; 1tab">En late najaarsbloemen;</l>
+<l>Vertoon uw volk een blij gelaat,</l>
+<l>En doe van 't sleepend feestgewaad</l>
+<l rend="; 1tab">De zoomen en de plooien</l>
+<l rend="; 1tab">Met munte en tijm bestrooien.</l>
+<l>&nbsp;</l>
+<l>Zie westwaarts! Hef uw oogen op</l>
+<l rend="; 1tab">Tot waar ze ons duin aanschouwen!</l>
+<l>De herfstwind waait, van 's Blinkerts top</l>
+<l rend="; 1tab">Ons vaandel uit zijn vouwen;</l>
+<pb n="114"/>
+<l>Een daverend trompetgeluid</l>
+<l>Voorspelt u krijg noch oorlogsbuit,</l>
+<l rend="; 1tab">Maar, naar uw stille bede,</l>
+<l rend="; 1tab">De vruchten van den vrede.</l>
+<l>&nbsp;</l>
+<l>Wat koningszoon, wat heldenbloed,</l>
+<l rend="; 1tab">Wat middelpunt van zegen,</l>
+<l>Trekt hier dees feestelijke stoet</l>
+<l rend="; 1tab">Met vreugde en geestdrift tegen?</l>
+<l>Een zachte blos op 't lief gezicht,</l>
+<l>Biedt hem een veertienjarig wicht</l>
+<l rend="; 1tab">(Maar komt hem die te stade?)</l>
+<l rend="; 1tab">Geen degen aan, maar spade.</l>
+<l>&nbsp;</l>
+<l>Aanvaard dit teeken, Vorstenspruit,</l>
+<l rend="; 1tab">Geboren tot regeeren!</l>
+<l>Des warelds volken prijzen luid</l>
+<l rend="; 1tab">Hen die den arbeid eeren.</l>
+<l>Verstrekke 't, in Oranjes hand,</l>
+<l>Aan Hollands volk ten onderpand</l>
+<l rend="; 1tab">Dat wie zijn akkers bouwen</l>
+<l rend="; 1tab">Te recht op hem vertrouwen.</l>
+<l>&nbsp;</l>
+<pb n="115"/>
+<l>Ja, drijve uw vorstelijke voet</l>
+<l rend="; 1tab">Dit blinkend vredewapen</l>
+<l>De koningsschatten in 't gemoet,</l>
+<l rend="; 1tab">Die onder de aarde slapen;</l>
+<l>Het wijs den weg in uwe hand</l>
+<l>Tot waar, van nacht bedekt en zand,</l>
+<l rend="; 1tab">De zilvren stroomen wachten,</l>
+<l rend="; 1tab">Die naar het daglicht smachten.</l>
+<l>&nbsp;</l>
+<l>Houdt in, trompet en feestgedruisch!</l>
+<l rend="; 1tab">En herfstwind, zwijg en luister!</l>
+<l>Met murmlend onderaardsch geruisch</l>
+<l rend="; 1tab">Verbreekt de bron haar kluister.</l>
+<l>Daar welt zy op, hand over hand,</l>
+<l>En stort haar spranken over 't zand,</l>
+<l rend="; 1tab">En blinkt ons tintlend tegen,</l>
+<l rend="; 1tab">Een beeltnis van Gods zegen.</l>
+<l>&nbsp;</l>
+<l>Ja, Bron van Goedheid! God, van wien</l>
+<l rend="; 1tab">De goede gaven komen,</l>
+<l>Gy doet ook dezen zegen zien,</l>
+<l rend="; 1tab">Ook deze waatren stroomen.</l>
+<pb n="116"/>
+<l>De wijsheid die de bron ontdekt,</l>
+<l>De kunst die haar tot leidsvrouw strekt,</l>
+<l rend="; 1tab">Zijn goddelijke stralen,</l>
+<l rend="; 1tab">Die uit uw hemel dalen.</l>
+<l>&nbsp;</l>
+<l>Van U is elke waterdrop,</l>
+<l rend="; 1tab">Die neerzijgt uit de wolken,</l>
+<l>Die afruischt van des heuvels top,</l>
+<l rend="; 1tab">Die opbruischt uit de kolken;</l>
+<l>Wat steden drenkt, wat volken spijst,</l>
+<l>Waar zich een vorst om zalig prijst,</l>
+<l rend="; 1tab">By overvloed en vrede,</l>
+<l rend="; 1tab">Gy deelt het alles mede.</l>
+<l>&nbsp;</l>
+<l>o Moge uw zegen, mild en rijk,</l>
+<l rend="; 1tab">Met onverpoosde stralen,</l>
+<l>In liefdeblijk op liefdeblijk</l>
+<l rend="; 1tab">Op 't minzaam voorhoofd dalen</l>
+<l>Van 't vorstlijk kind, dat dezen dag</l>
+<l>Zijn naam aan waatren geven mag,</l>
+<l rend="; 1tab">Wier overvloedig vloeien</l>
+<l rend="; 1tab">Roos en olijf doe bloeien!</l>
+<l>&nbsp;</l>
+<pb n="117"/>
+<l>Barst los weer, blijde jubeltoon,</l>
+<l rend="; 1tab">En dreunt, gy feestbazuinen!</l>
+<l>Ja, klinkt en weerklinkt, vol en schoon,</l>
+<l rend="; 1tab">Langs Haarlems grijze duinen;</l>
+<l>De donder van 't geschut vermeld'</l>
+<l>Aan stad en lande, bosch en veld,</l>
+<l rend="; 1tab">Dat hier de waatren vlieten,</l>
+<l rend="; 1tab">Die naar den Amstel schieten.</l>
+<l>&nbsp;</l>
+<l>Vloeit, heldre spranken! op den wenk</l>
+<l rend="; 1tab">Van <hi rend="sc">willems</hi> zoon verkregen;</l>
+<l>Bruischt, als een koninklijk geschenk,</l>
+<l rend="; 1tab">Zijn dankbre hoofdstad tegen;</l>
+<l>Voert bloemen van gezondheid aan,</l>
+<l>Die frisch en vrolijk opengaan,</l>
+<l rend="; 1tab">En laat uw zuivre teugen</l>
+<l rend="; 1tab">Het laatst geslacht verheugen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18500000"/>
+</interpGrp>
+<pb n="118"/>
+<head rend="h3">Het Haarlemmer-meir.
+<lb/>
+1850.</head>
+<lg type="poem">
+<l><hi rend="b">N</hi>u wordt de Sloköp opgeslokt,</l>
+<l rend="; 1tab">Nu raakt zijn rijk ten ende;</l>
+<l>Nu ligt de grove Waterreus</l>
+<l>Zieltogend op zijn breeden neus,</l>
+<l rend="; 1tab">En jammert van ellende.</l>
+<l>&nbsp;</l>
+<l>Nu laat hem Oome Cruquius,</l>
+<l rend="; 1tab">Nu kopt hem Vader Lijnden,</l>
+<l>En de oude Rijpsche Molenaar<note n="1" place="foot">Leeghwater.</note></l>
+<l>Purgeert hem sedert derd'half jaar,</l>
+<l rend="; 1tab">Dat al zijn krachten kwijnden.</l>
+<l>&nbsp;</l>
+<l>Nu slinkt zijn buik met ieder dag,</l>
+<l rend="; 1tab">Zijn onderkin en wangen;</l>
+<l>Nu droogt hy als een stokvisch uit;</l>
+<l>En hoort wel dat zijn doodklok luidt</l>
+<l rend="; 1tab">In onze zegezangen.</l>
+<l>&nbsp;</l>
+<pb n="119"/>
+<l>Ja, oude Landplaag! 't is genoeg</l>
+<l rend="; 1tab">Aan Hollands tuin geknabbeld;</l>
+<l>Genoeg gesleept naar diepte en krocht,</l>
+<l>En wat gy niet verslinden mocht</l>
+<l rend="; 1tab">Bezoedeld en bezabbeld.</l>
+<l>&nbsp;</l>
+<l>'t Geduld is uit; de straf gereed;</l>
+<l rend="; 1tab">Uw wisse dood gezworen;</l>
+<l>Uw huis en erf verbeurd verklaard,</l>
+<l>En wat uw roofzucht heeft vergaard</l>
+<l rend="; 1tab">Zal nu der vlijt behooren.</l>
+<l>&nbsp;</l>
+<l>Rukt aan, met spade en ploeg, en komt</l>
+<l rend="; 1tab">Dit watererf bezaaien,</l>
+<l>Gy, zonen van 't gewroken land!</l>
+<l>Met vrolijk hart en nijvre hand....</l>
+<l rend="; 1tab">En doe Gods gunst u maaien!</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18530000"/>
+</interpGrp>
+<pb n="120"/>
+<head rend="h3">Het Haarlemmer-meir uitgedroogd.
+<lb/>
+    1853.<note n="*" place="foot">De letterkundige lezer zal, in dit stukjen, de herinnering aan <hi rend="sc">vondels</hi>: <hi rend="i">Op het uitmalen van 't Haarl. Meir; aan den Leeuw van Holland</hi>, ook zonder aanwijzing door ‘ ’ hebben weten thuis te brengen.</note></head>
+<lg type="poem">
+<l><hi rend="b">N</hi>u, kom eens uit uw graf,</l>
+<l rend="; 1tab">Gy puik der Molenaren,</l>
+<l rend="; 1tab">En zak het Zuider Sparen</l>
+<l>Eens in een schuitjen af!</l>
+<l rend="; 1tab">Nu klim dien dijk eens op!</l>
+<l>Gy hoeft niet meer te vragen:</l>
+<l>Uw vijand ligt verslagen,</l>
+<l rend="; 1tab">Uw zielsvreugd stijgt ten top.</l>
+<l>&nbsp;</l>
+<l>Nu, geef van vreugd een schreeuw,</l>
+<l rend="; 1tab">Nu schud uw manen statig,</l>
+<l rend="; 1tab">Uw fierheid is rechtmatig,</l>
+<l>Oud-Hollands trotsche Leeuw!</l>
+<l rend="; 1tab">‘Zuig haast uw long gezond</l>
+<l>Aan de uiers van de koeien,’</l>
+<l>Die 't luid triumflied loeien</l>
+<l rend="; 1tab">Op d' overwonnen grond.</l>
+<l>&nbsp;</l>
+<pb n="121"/>
+<l>Geluk, mijn Vaderland!</l>
+<l rend="; 1tab">Geluk, geluk, mijn Koning!</l>
+<l rend="; 1tab">Volharding vindt belooning,</l>
+<l>Volharding en verstand.</l>
+<l rend="; 1tab">Gy rukte 't zwaard niet bloot,</l>
+<l>Gy liet het in zijn scheede;</l>
+<l>Gy Hebt in volle vrede</l>
+<l rend="; 1tab">Uwe eer en erf vergroot.</l>
+<l>&nbsp;</l>
+<l>Heb dank, almachtig Heer!</l>
+<l rend="; 1tab">Uw gunst mocht ons bestralen,</l>
+<l rend="; 1tab">Gy deedt ons zegepralen,</l>
+<l>Aan u-alleen zij de eer.</l>
+<l rend="; 1tab">Blijf die ge ons zijt geweest,</l>
+<l>Bestel het zaad den zaaier,</l>
+<l>Een dubbelde oogst den maaier,</l>
+<l rend="; 1tab">Heel 't volk een dankbren geest!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="122"/>
+<head rend="h3">Een Nederlandsch lied.</head>
+<lg type="poem">
+<l>o <hi rend="b">N</hi>ederland, mijn Vaderland!</l>
+<l>Hoe fier staat aan uw roemrijk strand,</l>
+<l>De aloude leeuwbanier geplant,</l>
+<l rend="; 1tab">Door Belg, noch Frank, noch Brit te rooven.</l>
+<l>Hoe sierlijk prijkt, op 't spits der lans,</l>
+<l>De onschendbre hoed des vrijen mans,</l>
+<l>Omslingerd met een lauwerkrans:</l>
+<l rend="; 2tab">Oranje Boven!</l>
+<l>&nbsp;</l>
+<l>o Nederland, mijn Vaderland!</l>
+<l>Één naam, één roem, een eendrachtsband</l>
+<l>Omsnoert uw burgers hand aan hand,</l>
+<l rend="; 1tab">By vrije vaart en volle schoven:</l>
+<l>Hollandia, Zelandia,</l>
+<l>Met Frisia, Brabantia,</l>
+<l>Sticht, Oversticht en Gelria:</l>
+<l rend="; 2tab">Oranje Boven!</l>
+<l>&nbsp;</l>
+<pb n="123"/>
+<l>o Nederland, mijn Vaderland!</l>
+<l>Zoo ooit uw erf werd aangerand,</l>
+<l>Gy kent de zinspreuk: <hi rend="sc">ik haaf hand</hi>;</l>
+<l rend="; 1tab">Den moed door tijd noch lot te dooven,</l>
+<l>'t Bloed, dat zoo dikwijls heeft gevloeid,</l>
+<l>Dat voor uw eer en vrijheid gloeit,</l>
+<l>En gaarne uw laatste schans besproeit;</l>
+<l rend="; 2tab">Oranje Boven!</l>
+<l>&nbsp;</l>
+<l>o Nederland, mijn Vaderland!</l>
+<l>Doe Nassau's oud verbond gestand,</l>
+<l>En stel uw lot in Godes hand,</l>
+<l rend="; 1tab">Wien, als de Vaadren, 't kroost moet loven.</l>
+<l>Blijf trouw en edel, vroed en vroom,</l>
+<l>Rust waakzaam, zonder blaam of schroom,</l>
+<l>By uw Oranje- en Vrijheids-boom:</l>
+<l rend="; 2tab">Oranje Boven!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="124"/>
+<head rend="h3">Liedtjen.</head>
+<lg type="poem">
+<l><hi rend="b">A</hi>ls ik een woord van wijsheid wist,</l>
+<l rend="; 1tab">Ik zou het gaarne spreken,</l>
+<l>Om vroom bedrog en achterlist</l>
+<l rend="; 1tab">Den buigbren nek te breken.</l>
+<l>&nbsp;</l>
+<l>Bezat ik kracht van scherts en luim,</l>
+<l rend="; 1tab">Die zette' ik graag op renten,</l>
+<l>Voor die ons altijd schuim voor kruim</l>
+<l rend="; 1tab">En schijn voor wezen venten.</l>
+<l>&nbsp;</l>
+<l>Zoo my een tuchtroê waar bedeeld,</l>
+<l rend="; 1tab">Zy zou de schouders streelen</l>
+<l>Van 't nietig volk dat altijd speelt,</l>
+<l rend="; 1tab">En kibbelt by zijn spelen.</l>
+<l>&nbsp;</l>
+<pb n="125"/>
+<l>Had ik den toon van d'echten troost</l>
+<l rend="; 1tab">Straks werd die aangeboden</l>
+<l>Aan wie vergeefsche zuchten loost,</l>
+<l rend="; 1tab">En roept tot valsche goden.</l>
+<l>&nbsp;</l>
+<l>Maar wist mijn keel een lofgezang</l>
+<l rend="; 1tab">Behoorlijk aan te stemmen,</l>
+<l>Ik nam een kaars en zocht zoo lang,</l>
+<l rend="; 1tab">Tot ik aan 't hart mocht klemmen</l>
+<l>&nbsp;</l>
+<l>Een man die aan beginsels trouw</l>
+<l rend="; 1tab">En zonder blaam of vreezen,</l>
+<l>De opgaande zon niet eeren zou,</l>
+<l rend="; 1tab">Noch heden noch nadezen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="126"/>
+<head rend="h3">Ontdekkingen.</head>
+<lg type="poem">
+<l><hi rend="b">I</hi>k vond een man, een man van staal,</l>
+<l rend="; 1tab">Een man van stalen moed,</l>
+<l>Een man van onvermengd metaal -</l>
+<l rend="; 1tab">En toch van vleesch en bloed.</l>
+<l>&nbsp;</l>
+<l>Ik vond een man met ijs omschorst,</l>
+<l rend="; 1tab">Voor lof- en naspraak koel -</l>
+<l>Maar, in het binnenst van zijn borst,</l>
+<l rend="; 1tab">Vond ik een warm gevoel.</l>
+<l>&nbsp;</l>
+<l>Ik vond een man ten strijd gereed,</l>
+<l rend="; 1tab">En vaardig toe te slaan -</l>
+<l>Maar schoon ze van zijn wang niet gleed,</l>
+<l rend="; 1tab">Zag 'k in zijn oog een traan.</l>
+<l>&nbsp;</l>
+<l>Ik vond een man met vrijen nek,</l>
+<l rend="; 1tab">Van eedlen geest bezield -</l>
+<l>Juist kwam hy uit zijn bidvertrek,</l>
+<l rend="; 1tab">Hy had voor God geknield.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="127"/>
+<head rend="h3">Op 't ziekbed.</head>
+<lg type="poem">
+<l><hi rend="b">O</hi>p 't ziekbed dankt u, Heer! mijn lied,</l>
+<l rend="; 1tab">Dewijl 't een bed mag zijn;</l>
+<l>Zoo vele kranken hebben 't niet,</l>
+<l rend="; 1tab">Maar warm en zacht is 't mijn'.</l>
+<l>&nbsp;</l>
+<l>Op 't ziekbed looft u, Heer! mijn zang,</l>
+<l rend="; 1tab">Omdat een ziekbed leert.</l>
+<l>Zoo veel gezonden leefden lang,</l>
+<l rend="; 1tab">Maar leefden lang verkeerd.</l>
+<l>&nbsp;</l>
+<l>Maar, wat indien 'k ondankbaar was,</l>
+<l rend="; 1tab">En morde en tegensprak?</l>
+<l>'k Verdiende dan dat 'k nooit genas,</l>
+<l rend="; 1tab">Maar sukklend bleef en zwak.</l>
+<l>&nbsp;</l>
+<l>Heer, zoo gy 't ziekvertrek ook nu</l>
+<l rend="; 1tab">Voor my ten schoolzaal kiest,</l>
+<l>Vertoon my dat een kind van u</l>
+<l rend="; 1tab">Daar nimmer by verliest!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="128"/>
+<head rend="h3">Eenvoud.</head>
+<lg type="poem">
+<l><hi rend="b">W</hi>at elk behaagt op d' eersten blik</l>
+<l rend="; 1tab">En aantrekt op den duur,</l>
+<l>Is Eenvoud warsch van kwik en strik,</l>
+<l rend="; 1tab">Is Eenvoud en Natuur.</l>
+<l>&nbsp;</l>
+<l>De Schoonheid spot met elk sieraad,</l>
+<l rend="; 1tab">De Waarheid evenzeer,</l>
+<l>Zoo 't eerbaar hart het reeds versmaadt,</l>
+<l rend="; 1tab">Het vrome des te meer.</l>
+<l>&nbsp;</l>
+<l>De wareld heeft haar mommery</l>
+<l rend="; 1tab">Zoo noodig als haar geld:</l>
+<l>Een reine ziel is vrank en vrij,</l>
+<l rend="; 1tab">En treedt in 't open veld;</l>
+<l>&nbsp;</l>
+<pb n="129"/>
+<l>En laat zich tot den bodem zien,</l>
+<l rend="; 1tab">Gerust en zonder schrik,</l>
+<l>Maar let op onbescheiden liên,</l>
+<l rend="; 1tab">En weert ze met een blik.</l>
+<l>&nbsp;</l>
+<l>Haar valt de zegen Gods ten deel,</l>
+<l rend="; 1tab">Dat 's alles wat zy vraagt,</l>
+<l>En voorts bekreunt zy zich niet veel</l>
+<l rend="; 1tab">Wien ze al of niet behaagt.</l>
+<l>&nbsp;</l>
+<l>Toch rust op haar, met stille vreugd</l>
+<l rend="; 1tab">En zachten liefdegloed,</l>
+<l>Het oog van ouderdom en jeugd,</l>
+<l rend="; 1tab">Die 't Schoon vereert in 't Goed'.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="130"/>
+<head rend="h3">Stijg maar nijg.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">L</hi>aat niets uw ader stremmen,</l>
+<l rend="; 3tab">Beek, zoo vol en klaar!</l>
+<l rend="; 2tab">Niets uw vleuglen klemmen,</l>
+<l rend="; 3tab">Moedige Adelaar!</l>
+<l rend="; 2tab">Niets uw liedren smooren,</l>
+<l rend="; 3tab">Zanger van het woud!</l>
+<l rend="; 2tab">Niets uw werking storen,</l>
+<l rend="; 3tab">Geest zoo vrij en stout!</l>
+<l rend="; 2tab">Oefen al uw krachten,</l>
+<l rend="; 3tab">Neem uw steilste vlucht,</l>
+<l rend="; 2tab">Waag uw zwanenschachten</l>
+<l rend="; 3tab">Aan de hoogste lucht,</l>
+<l rend="; 2tab">Spot met band en perken,</l>
+<l rend="; 3tab">Die u 't schepsel stelt....</l>
+<l>Maar neig uw oogen, plooi uw vlerken,</l>
+<l rend="; 1tab">Waar zich de Heer der schepping meldt.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="131"/>
+<head rend="h3">Reinen van harten.
+<lb/>
+By een schildery van Ary Scheffer.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">V</hi>rolijke Onschuld,</l>
+<l rend="; 4tab">die niet weet,</l>
+<l rend="; 2tab">Welk een eerplaats</l>
+<l rend="; 4tab">zy bekleedt;</l>
+<l rend="; 2tab">'t Licht begroetend</l>
+<l rend="; 4tab">van den dag,</l>
+<l rend="; 2tab">Met haar blijdsten</l>
+<l rend="; 4tab">kinderlach,</l>
+<l>Met de tintling van twee oogen,</l>
+<l rend="; 3tab">In wier blaauw</l>
+<l>Wy de oprechtheid lezen mogen</l>
+<l rend="; 1tab">En een vlekkelooze trouw.</l>
+<l>&nbsp;</l>
+<pb n="132"/>
+<l rend="; 2tab">Kuische Schoonheid,</l>
+<l rend="; 4tab">die haar oog</l>
+<l rend="; 2tab">Vredig opslaat</l>
+<l rend="; 4tab">naar omhoog;</l>
+<l rend="; 2tab">'t Effen voorhoofd,</l>
+<l rend="; 4tab">rein en schoon,</l>
+<l rend="; 2tab">Onversierbaar</l>
+<l rend="; 4tab">door een kroon;</l>
+<l>Schoonheid met haar kracht en waarde</l>
+<l rend="; 3tab">Niet bekend;</l>
+<l>Lelie, zwevende over de aarde,</l>
+<l rend="; 1tab">d' Open kelk naar God gewend.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Goêlijke Eenvoud,</l>
+<l rend="; 4tab">'t hart vervuld</l>
+<l rend="; 2tab">Van haar liefde en</l>
+<l rend="; 4tab">rijk geduld;</l>
+<l rend="; 2tab">Liefst de laatste;</l>
+<l rend="; 4tab">liefst geleund</l>
+<l rend="; 2tab">Op een schouder,</l>
+<l rend="; 4tab">die haar steunt;</l>
+<l>Door geen vreezen of vermoeden</l>
+<l rend="; 3tab">Ooit ontrust;</l>
+<l>Prooi der boozen, vreugd der goeden,</l>
+<l rend="; 1tab">Maar van beiden onbewust.</l>
+<l>&nbsp;</l>
+<pb n="133"/>
+<l rend="; 2tab">Scheur uw heemlen,</l>
+<l rend="; 4tab">Hemelheer!</l>
+<l rend="; 2tab">Zend beschermen-</l>
+<l rend="; 4tab">de englen neer:</l>
+<l rend="; 2tab">Blinke een straal van</l>
+<l rend="; 4tab">hooger licht</l>
+<l rend="; 2tab">Deze uw schepslen</l>
+<l rend="; 4tab">in 't gezicht;</l>
+<l>Gun dat zich de reine blikken</l>
+<l rend="; 3tab">Dezer Trits</l>
+<l>In de aanschouwing Gods verkwikken,</l>
+<l rend="; 1tab">Die het deel der <hi rend="sc">reinen</hi> is.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="134"/>
+<head rend="h3">Aan eene jonge dichteresse.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">Z</hi>eg uw gedachte, zing uw lied,</l>
+<l>Laat ons uw gantsche ziel vernemen,</l>
+<l rend="; 1tab">Eer u een engel Gods gebiedt</l>
+<l rend="; 2tab">Uw steilste vlucht te nemen!</l>
+<l rend="; 1tab">Zet voor den opgezetten vloed</l>
+<l>De sluizen van den boezem open,</l>
+<l rend="; 1tab">Vergun een uittocht aan den gloed,</l>
+<l rend="; 2tab">Eer u zijn vlammen sloopen.</l>
+<l>&nbsp;</l>
+<pb n="135"/>
+<l rend="; 1tab">Laat op dit voorhoofd, rein en schoon,</l>
+<l>De flikkring van den dichtgeest stralen,</l>
+<l rend="; 1tab">Op 't fijn albast der maagdenkoon</l>
+<l rend="; 2tab">'t Verhoogde blosjen dwalen!</l>
+<l rend="; 1tab">Laat, laat een vonk van 't heilig vuur,</l>
+<l>Dat hart en bloedstroom houdt bewogen,</l>
+<l rend="; 1tab">Ons tegentintlen in 't azuur</l>
+<l rend="; 2tab">Van die zoo zielvolle oogen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Is poëzy een gaaf van God,</l>
+<l>Een godenspijs voor menschenharten,</l>
+<l rend="; 1tab">Een teug van hooger zielsgenot,</l>
+<l rend="; 2tab">Een laafdrank, in hun smarten:</l>
+<l rend="; 1tab">o Pleng dien, pleng dien, stort hem uit,</l>
+<l>Laat in ons hart dien nektar glippen,</l>
+<l rend="; 1tab">Op 't klinken van uw zilvren luit,</l>
+<l rend="; 2tab">Op d' adem van uw lippen!</l>
+<l>&nbsp;</l>
+<pb n="136"/>
+<l rend="; 1tab">Wy zullen, met verrukt gemoed,</l>
+<l>Uw Godgewijde tonen vangen,</l>
+<l rend="; 1tab">Wy zullen drijven op dien vloed</l>
+<l rend="; 2tab">Van maagdelijke zangen;</l>
+<l rend="; 1tab">Een bleekte, een blos, een traan vooral,</l>
+<l>Een blik zal onze erkentnis toonen,</l>
+<l rend="; 1tab">Maar eerbewijs en lofgeschal</l>
+<l rend="; 2tab">Uw zedigheid niet honen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Geen weelderige mirtenkrans,</l>
+<l>Van dartle rozengeur doortrokken,</l>
+<l rend="; 1tab">Durft naadren tot den kuischen glans</l>
+<l rend="; 2tab">Die afstraalt van uw lokken;</l>
+<l rend="; 1tab">En ook de lauwer wage 't nooit</l>
+<l>Zich tot een kroon voor 't hoofd te strengelen,</l>
+<l rend="; 1tab">Dat met een schoonheid is getooid,</l>
+<l rend="; 2tab">Verwant aan die der engelen.</l>
+<l>&nbsp;</l>
+<pb n="137"/>
+<l rend="; 1tab">Ook zien we een trek op dat gelaat,</l>
+<l>Een glimlach om die lippen spelen,</l>
+<l rend="; 1tab">Die ons bekommerd hart verstaat,</l>
+<l rend="; 2tab">En vruchtloos wil verheelen.</l>
+<l rend="; 1tab">Nog raakt uw voet een nietige aard,</l>
+<l>Nog zweeft gy, troostende, in ons midden,</l>
+<l rend="; 1tab">Maar uw verhaaste hemelvaart</l>
+<l rend="; 2tab">Zal niemand lang verbidden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">o Toef, vertoef nog, neem geduld!</l>
+<l>De dag van God bestemd zal komen.</l>
+<l rend="; 1tab">Eerst moet wat zulk een hart vervult</l>
+<l rend="; 2tab">Van zulke lippen stroomen.</l>
+<l rend="; 1tab">Doorzuiver onze onreine lucht</l>
+<l>Met galmen van verheven zangen....</l>
+<l rend="; 1tab">Klap dan uw vleuglen, neem uw vlucht,</l>
+<l rend="; 2tab">En boet uw heet verlangen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18520800"/>
+</interpGrp>
+<pb n="138"/>
+    <head rend="h3">Ter bruiloft van moederstroost.<note n="*" place="foot">Men vergelijke, tot recht verstand van eenige toespelingen, het stukjen <hi rend="i">Moeders troost</hi> in mijn eersten dichtbundel.</note></head>
+<lg type="poem">
+<l><hi rend="b">W</hi>as op mijn versleten luit</l>
+<l rend="; 1tab">Slechts één snaar gebleven,</l>
+<l>Kon die snaar slechts een geluid</l>
+<l rend="; 1tab">Stervend van zich geven;</l>
+<l>Klinken moest van daag die toon,</l>
+<l>Daar ik deze huwlijkskroon</l>
+<l rend="; 1tab">Om dit hoofd zie zweven.</l>
+<l>&nbsp;</l>
+<l>o Gewis, het speeltuig, dat</l>
+<l rend="; 1tab">Al zijn melodiën</l>
+<l>Reeds voor u ten besten had,</l>
+<l rend="; 1tab">Op uw moeders kniën,</l>
+<l>Galmt voor u, geliefde Bruid!</l>
+<l>Galmt van zelf een feestzang uit,</l>
+<l rend="; 1tab">Wacht op geen gebiën.</l>
+<l>&nbsp;</l>
+<pb n="139"/>
+<l>Duldt gy, brave Bruidegom!</l>
+<l rend="; 1tab">Trotsch op uw vriendinne,</l>
+<l>Dat men thands haar spreken kom</l>
+<l rend="; 1tab">Van een oude minne,</l>
+<l>Van een teedren liefdegloed,</l>
+<l>Zestien jaren aangevoed,</l>
+<l rend="; 1tab">Groot van den beginne?</l>
+<l>&nbsp;</l>
+<l>Dat 's de liefde van mijn hart</l>
+<l rend="; 1tab">Voor uw uitverkoren,</l>
+<l>Die de kracht der jaren tart,</l>
+<l rend="; 1tab">Die geen tijd zal smooren,</l>
+<l>Bruidtjenlief, ziedaar de gloed,</l>
+<l>Die van daag in mijn gemoed</l>
+<l rend="; 1tab">Dubbel op komt gloren.</l>
+<l>&nbsp;</l>
+<l>Dubbel - Maar waartoe? Mijn kind,</l>
+<l rend="; 1tab">Kan uw oogjen 't vragen?</l>
+<l>Om den bruigom die u mint</l>
+<l rend="; 1tab">'t Harnas aan te jagen?</l>
+<l>Ach, dat pogen ware om zonst,</l>
+<l>Daar uw hartjen voor hem bonst,</l>
+<l rend="; 1tab">Tot zijn laatste slagen.</l>
+<l>&nbsp;</l>
+<pb n="140"/>
+<l>Neen, indien wat onverpoosd</l>
+<l rend="; 1tab">My het hart deed blaken,</l>
+<l>Dezen dag voor <hi rend="sc">moederstroost</hi></l>
+<l rend="; 1tab">Krachtig op komt waken,</l>
+<l>Beste Bruigom, 't is alleen</l>
+<l>Om voor haar geluk mijn beên</l>
+<l rend="; 1tab">Vuriger te slaken.</l>
+<l>&nbsp;</l>
+<l>‘Baat eens dichters heilwensch veel?’</l>
+<l rend="; 1tab">'k Durfde 't nooit betoogen.</l>
+<l>Maar de Bruid zal 't tegendeel</l>
+<l rend="; 1tab">Niet beweeren mogen.</l>
+<l>Wat haar zestien jaar geleên,</l>
+<l>Door mijn zang werd toegebeên,</l>
+<l rend="; 1tab">Is haar toegewogen.</l>
+<l>&nbsp;</l>
+<l>‘Liefde, vreugde, zegen’ werd</l>
+<l rend="; 1tab">Rijklijk haar gegeven.</l>
+<l>Deed wel ooit een groote smart</l>
+<l rend="; 1tab">'t Jeugdig hartjen beven?</l>
+<l>God heeft haar met tederheid</l>
+<l>Langs een zachten weg geleid,</l>
+<l rend="; 1tab">Tusschen rozendreven.</l>
+<l>&nbsp;</l>
+<pb n="141"/>
+<l>Zie de roosjens ook eens aan,</l>
+<l rend="; 1tab">Die, by elk ontwaken,</l>
+<l>Frisch en vrolijk opengaan</l>
+<l rend="; 1tab">Op haar zachte kaken,</l>
+<l>Zie dien heldren zonnegloed,</l>
+<l>Die haar oogjens stralen doet,</l>
+<l rend="; 1tab">Om elks hart te raken.</l>
+<l>&nbsp;</l>
+<l>Zie die lipjens, fijn en schoon,</l>
+<l rend="; 1tab">Steeds ten glimlach vaardig,</l>
+<l>Gravende in haar malsche koon</l>
+<l rend="; 1tab">Kuiltjens diep en aardig;</l>
+<l>Zie dat voorhoofd enkel glans,</l>
+<l>Niet versierbaar door een krans,</l>
+<l rend="; 1tab">Maar de schoonste waardig.</l>
+<l>&nbsp;</l>
+<l>Dus is <hi rend="sc">moederstroost</hi> altoos</l>
+<l rend="; 1tab">Moeders troost gebleven;</l>
+<l>In haar hand een frissche roos,</l>
+<l rend="; 1tab">Haar van God gegeven;</l>
+<l>Lieve ster, in iedre nacht,</l>
+<l>Lach, te midden van de klacht,</l>
+<l rend="; 1tab">Leven van haar leven.</l>
+<l>&nbsp;</l>
+<pb n="142"/>
+<l>Blijf, o blijf het, lieve Bruid!</l>
+<l rend="; 1tab">Want gy kunt het blijven,</l>
+<l>Mag de bede die ik uit</l>
+<l rend="; 1tab">Door Gods gunst beklijven.</l>
+<l>Kom, herstel u van den schrik,</l>
+<l>Ziet ge ook in dit oogenblik</l>
+<l rend="; 1tab">Stille tranen drijven.</l>
+<l>&nbsp;</l>
+<l>Kan zich 't moederlijke hart</l>
+<l rend="; 1tab">Niet geheel verkroppen,</l>
+<l>Daar is zoo veel vreugd als smart</l>
+<l rend="; 1tab">In dees kostbre droppen;</l>
+<l>Voelt zy slechts, by 't scheiden gaan,</l>
+<l>Tegen haren boezem aan</l>
+<l rend="; 1tab">d' Uwen rustig kloppen.</l>
+<l>&nbsp;</l>
+<l>'t Scheiden wordt welhaast verzoet,</l>
+<l rend="; 1tab">'t Leed is ras vervlogen,</l>
+<l>Zoo maar steeds een zelfde gloed</l>
+<l rend="; 1tab">Tintelt uit uw oogen,</l>
+<l>Zoo maar de eigen gulle lach</l>
+<l>Na als vóór uw huwlijksdag</l>
+<l rend="; 1tab">Haar houdt opgetogen.</l>
+<l>&nbsp;</l>
+<pb n="143"/>
+<l>Zoo maar op uw lief gezicht,</l>
+<l rend="; 1tab">Zij het ook in smarten,</l>
+<l>Steeds de glans des vredes ligt</l>
+<l rend="; 1tab">Der voldane harten;</l>
+<l>Zoo ze u maar een wisslend lot,</l>
+<l>Met een kalmen blik op God,</l>
+<l rend="; 1tab">Onbevreesd ziet tarten.</l>
+<l>&nbsp;</l>
+<l>Zoo ge in de armen van uw vrind</l>
+<l rend="; 1tab">Uw geluk blijft roemen,</l>
+<l>En, beminnende en bemind,</l>
+<l rend="; 1tab">Vruchten plukt na bloemen;</l>
+<l>Zoo zy door haar <hi rend="sc">moederstroost</hi></l>
+<l>Ras een haar gelijkend kroost</l>
+<l rend="; 1tab">Naar haar naam hoort noemen.</l>
+<l>&nbsp;</l>
+<l>Lieve, lang geliefde Bruid!</l>
+<l rend="; 1tab">Storte God dien zegen,</l>
+<l>Naar zoo veler wenschen uit</l>
+<l rend="; 1tab">Op uw hoofd en wegen.</l>
+<l>Lache, als van uw vroegste jeugd,</l>
+<l>By uw lieflijkheid, uw vreugd</l>
+<l rend="; 1tab">En geluk ons tegen.</l>
+<l>&nbsp;</l>
+<pb n="144"/>
+<l>En gy, Bruidegom! Aanvaard</l>
+<l rend="; 1tab">Wie wy allen minnen;</l>
+<l>Zy is de uwe, wees haar waard,</l>
+<l rend="; 1tab">Wijd haar hart en zinnen;</l>
+<l>Wees haar vreugde, steun, en trots,</l>
+<l>Leid met haar den zegen Gods</l>
+<l rend="; 1tab">Uwe woning binnen.</l>
+</lg>
+<p>Aug. 1852.</p>
+</div>
+<div type="chapter">
+<pb n="145"/>
+<head rend="h3">Aan mijne kinderen.</head>
+<lg type="poem">
+<l><hi rend="b">K</hi>indren! leert u vroeg gewennen</l>
+<l rend="; 1tab">Te aller tijd,</l>
+<l>Gods alwetendheid te erkennen,</l>
+<l rend="; 1tab">Waar ge ook zijt.</l>
+<l>Hen die overal beseffen:</l>
+<l rend="; 1tab">‘God is hier!’</l>
+<l>Zal geen pijl des Satans treffen,</l>
+<l rend="; 1tab">Hoe hy zwier.</l>
+<l>&nbsp;</l>
+<l>Opent gy des morgens de oogen</l>
+<l rend="; 1tab">Voor het licht,</l>
+<l>Denkt: ‘Op my staart, uit den hoogen</l>
+<l rend="; 1tab">Gods gezicht.</l>
+<l>Op uw rustbed neergelegen,</l>
+<l rend="; 1tab">In den nacht,</l>
+<l>Zij dit denkbeeld u ten zegen:</l>
+<l rend="; 1tab">‘God geeft acht.’</l>
+<l>&nbsp;</l>
+<pb n="146"/>
+<l>Waar zich ooit uw voeten keeren,</l>
+<l rend="; 1tab">God gaat meê,</l>
+<l>Over bergen, heiden, meiren,</l>
+<l rend="; 1tab">Zand en zee.</l>
+<l>Niemand kan die hand ontvlieden</l>
+<l rend="; 1tab">Of dien blik.</l>
+<l>Baar die troost van brave lieden</l>
+<l rend="; 1tab">U geen schrik.</l>
+<l>&nbsp;</l>
+<l>Ach, het is een vreeslijk vreezen,</l>
+<l rend="; 1tab">Waar men vreest en beeft,</l>
+<l>Van dien God gezien te wezen,</l>
+<l rend="; 1tab">Door wiens zorg men leeft.</l>
+<l>Ach, het is een hooploos hopen,</l>
+<l rend="; 1tab">Waar men hoopt en haakt</l>
+<l>Aan die trouwe hand te ontloopen,</l>
+<l rend="; 1tab">Die gelukkig maakt.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="147"/>
+<head rend="h3">Jongelingschap.</head>
+<lg type="poem">
+<l><hi rend="b">T</hi>reedt vrolijk, treedt met fierheid op,</l>
+<l rend="; 1tab">Rechtaarde Jongelingen!</l>
+<l>En plukt de schoonste rozenknop,</l>
+<l rend="; 1tab">Waarvan de dichters zingen.</l>
+<l>Voor u is 't, dat zy geurt en gloeit,</l>
+<l>Met droppels van een daauw besproeid,</l>
+<l rend="; 1tab">Die op de blaadren wiegelt,</l>
+<l rend="; 1tab">Waar zich Gods zon in spiegelt.</l>
+<l>&nbsp;</l>
+<l>Treedt vurig op, treedt moedig voort,</l>
+<l rend="; 1tab">Van God geschonken Zonen!</l>
+<l>De lauwer, die uw oog bekoort,</l>
+<l rend="; 1tab">Zal u den schedel kroonen;</l>
+<l>Tast toe hy strekt zich naar u uit</l>
+<l>Het glinstrend zwaard, de zilvren luit,</l>
+<l rend="; 1tab">Zoo machtig in uw vingeren,</l>
+<l rend="; 1tab">Wil hy met loof omslingeren.</l>
+<l>&nbsp;</l>
+<pb n="148"/>
+<l>Treedt lachend op met scherts en zang,</l>
+<l rend="; 1tab">En siert de gouden lokken</l>
+<l>Met eppenloof en wingertrank,</l>
+<l rend="; 1tab">Van mirtegeur doortrokken.</l>
+<l>Gevoelt het bruischen van uw bloed,</l>
+<l>De spanning van uw kracht en moed,</l>
+<l rend="; 1tab">En laat de zucht tot daden</l>
+<l rend="; 1tab">Zich in uw blik verraden.</l>
+<l>&nbsp;</l>
+<l>Maar houdt uw boezem onbesmet,</l>
+<l rend="; 1tab">En treedt op reine wegen,</l>
+<l>Hebt eerbied voor des hemels wet,</l>
+<l rend="; 1tab">Behoefte aan 's hemels zegen;</l>
+<l>Beheerscht u zelven; hebt de kracht</l>
+<l>Te huivren, waar de zonde lacht,</l>
+<l rend="; 1tab">Den moed om God te vreezen,</l>
+<l rend="; 1tab">Om kuisch en vroom te wezen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="149"/>
+<head rend="h3">Aan eene achttienjarige.</head>
+<lg type="poem">
+<l><hi rend="b">N</hi>ovember brengt geen malsche rozen,</l>
+<l rend="; 1tab">Geen zilverblanke lelies aan,</l>
+<l>Dan die op maagdenwangen blozen</l>
+<l rend="; 1tab">En op haar voorhoofd opengaan.</l>
+<l>Hy draagt een krans van geele bladeren</l>
+<l rend="; 1tab">Op lokken haavloos en doorweekt,</l>
+<l rend="; 1tab">En 't hart van 't laatste bloemtjen breekt</l>
+<l rend="; 2tab">Op zijn onstuimig naderen.</l>
+<l>&nbsp;</l>
+<l>Toch viert ge uw jaardag, lieve schoone!</l>
+<l rend="; 1tab">Door storm noch regenvlaag bedroefd,</l>
+<l>Gerust dat gy noch bonte kroone</l>
+<l rend="; 1tab">Noch groene bladerkrans behoeft.</l>
+<l>Toch brengen we u een handvol bloemen,</l>
+<l rend="; 1tab">Maar bloemen van een andre gaard,</l>
+<l rend="; 1tab">Dan die de herfstwind vaagt van de aard,</l>
+<l rend="; 2tab">En koel ter dood durft doemen.</l>
+<l>&nbsp;</l>
+<pb n="150"/>
+<l>Wy brachten gaarne te aller tijde</l>
+<l rend="; 1tab">Ons kransjen aan een frissche jeugd,</l>
+<l>Die in haar jonkheid zich verblijdde</l>
+<l rend="; 1tab">Met tintelende levensvreugd;</l>
+<l>Maar vlochten onze schoonste rozen</l>
+<l rend="; 1tab">Het liefst om dat gezegend hoofd,</l>
+<l rend="; 1tab">Dat vroeg in hooger vreugd geloofd</l>
+<l rend="; 2tab">En 't beste had gekozen.</l>
+<l>&nbsp;</l>
+<l>Aandoenlijk straalt, by hooge jaren,</l>
+<l rend="; 1tab">Beproefde godsvrucht met haar licht</l>
+<l>Om 't zilver van besneeuwde hairen</l>
+<l rend="; 1tab">En eerbiedwaardig aangezicht;</l>
+<l>Maar waar wy bruine of blonde lokken,</l>
+<l rend="; 1tab">Een voorhoofd zonder kreuk of voor</l>
+<l rend="; 1tab">Zien weemlen van dien zachten gloor,</l>
+<l rend="; 2tab">Hoe wordt daar 't hart getrokken.</l>
+<l>&nbsp;</l>
+<l>Dáár zijn juweel noch goudglans noodig,</l>
+<l rend="; 1tab">Noch paarlen kwistig uitgestort,</l>
+<l>De bloemkrans zelfs is overbodig</l>
+<l rend="; 1tab">En deed aan 't zedig schoon te kort.</l>
+<pb n="151"/>
+<l>Een reine blik uit zielvolle oogen,</l>
+<l rend="; 1tab">Een glimlach van 't gerust gemoed</l>
+<l rend="; 1tab">Toont daadlijk den geleenden gloed</l>
+<l rend="; 2tab">Zijn blinkend onvermogen.</l>
+<l>&nbsp;</l>
+<l>Melieve, daar we uw jaarfeest vieren,</l>
+<l rend="; 1tab">Een wensch is 't, die ons hart vervult,</l>
+<l>Dat altijd u dat schoon moog sieren,</l>
+<l rend="; 1tab">Dat siert en geen versiersel duldt.</l>
+<l>De frissche roos der maagdenkonen,</l>
+<l rend="; 1tab">Wat is zy by dien zachten gloed,</l>
+<l rend="; 1tab">Die uitstraalt, waar in 't stil gemoed</l>
+<l rend="; 2tab">Geloof en liefde wonen.</l>
+<l>&nbsp;</l>
+<l>Een ijdle jeugd is 't eerst geweken,</l>
+<l rend="; 1tab">Onzuivre weelde snelst aan 't end;</l>
+<l>Vergeefs gepoogd door duizend treken,</l>
+<l rend="; 1tab">Een schoon te redden, dat zy schendt.</l>
+<l>Daar is geen schoonheid, meer beveiligd,</l>
+<l rend="; 1tab">Daar is geen langgerekter jeugd,</l>
+<l rend="; 1tab">Dan die bewaakt wordt door de deugd,</l>
+<l rend="; 2tab">En die de godsvrucht heiligt.</l>
+<l>&nbsp;</l>
+<pb n="152"/>
+<l>De lelie zal niet haast verwelken,</l>
+<l rend="; 1tab">Schoon ook de hitte 's middags prangt,</l>
+<l>Die 's morgens vroeg in de open kelken</l>
+<l rend="; 1tab">Den koelen daauwdrup rijklijk vangt;</l>
+<l>Maar als de morgenwind de droppen</l>
+<l rend="; 1tab">Uit speelschheid wegkust van de roos,</l>
+<l rend="; 1tab">Dan duurt de vreugde een korte poos:</l>
+<l rend="; 2tab">Haast kwijnen bloem en knoppen.</l>
+<l>&nbsp;</l>
+<l>o Lieve Lelie, die onze oogen</l>
+<l rend="; 1tab">Aanschouwen in haar morgenstond,</l>
+<l>Van zuivren hemeldaauw betogen,</l>
+<l rend="; 1tab">Drink aan dat vocht uw hart gezond!</l>
+<l>Streelt de uchtendkoelte ook u de bladeren,</l>
+<l rend="; 1tab">Bewaar uw schat, bewaar uw hart,</l>
+<l rend="; 1tab">En laat zijn adem, tot uw smart,</l>
+<l rend="; 2tab">Dat heiligdom niet naderen.</l>
+<l>&nbsp;</l>
+<l>Ontplooi, by 't brandendst middagstralen,</l>
+<l rend="; 1tab">Geheel uw stille bloesempracht;</l>
+<l>En waait een stormwind door de dalen,</l>
+<l rend="; 1tab">Buig neer met ootmoed, rijs met kracht;</l>
+<pb n="153"/>
+<l>Vervul de lucht nog van uw geuren</l>
+<l rend="; 1tab">Als de avondzon in 't westen blinkt;</l>
+<l rend="; 1tab">God zal u, waar zy nederzinkt,</l>
+<l rend="; 2tab">Zijn bloemhof waardig keuren</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="154"/>
+<head rend="h3">Lotwisseling.</head>
+<lg type="poem">
+<l><hi rend="b">W</hi>elk een vreugd in uw jeugd, welk een gloed in uw bloed,</l>
+<l rend="; 1tab">Welk een glans op de krans uwer liefde;</l>
+<l>Welk een vonk in die oogen, vol zorgloozen moed,</l>
+<l>Welk een speelzieke lach op die lipjens zoo zoet,</l>
+<l rend="; 1tab">Eer de smarte des levens u griefde!</l>
+<l>Maar waar was toen die Vreê, die uw harte thands smaakt,</l>
+<l rend="; 1tab">Die uw hoofd met haar gloor heeft omtogen;</l>
+<l>Waar die Kracht, die uw boezem nu nimmer verzaakt,</l>
+<l>Waar die Hoop, die de blos op uw wangen bewaakt,</l>
+<l rend="; 1tab">En de tranen verdrijft uit uw oogen?</l>
+<pb n="155"/>
+<l>Welk een smart voor uw hart, welk een zwaard voor uw ziel,</l>
+<l rend="; 1tab">Welk een wolk, welk een nacht op uw paden,</l>
+<l>Welk een storm op de speelreis der zorglooze kiel,</l>
+<l>Als uw afgod op eenmaal zijn voetstuk ontviel,</l>
+<l rend="; 1tab">Om het ledig van 't hart te verraden!</l>
+<l>Maar daarna - welk een licht voor 't beneveld gezicht,</l>
+<l rend="; 1tab">Welk een balsem voor 't snerpen der wonden,</l>
+<l>Welk een anker van troost, welk een adem van rust,</l>
+<l>Als uw lippen de voeten uws Heilands gekust,</l>
+<l rend="; 1tab">En uw ziele haar God had gevonden!</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18520419"/>
+</interpGrp>
+<pb n="156"/>
+<head rend="h3">Aan mijn vader,
+<lb/>
+op zijn tweeënzeventigsten verjaardag.
+<lb/>
+Na de aanvankelijke herstelling mijner moeder uit zware krankte.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">H</hi>et hart eens teedren echtgenoots</l>
+<l rend="; 1tab">Vreez' voor zich zelf geen pijl des doods,</l>
+<l rend="; 2tab">Toch blijft het beven:</l>
+<l rend="; 1tab">Hy ademt voor een ander Ik,</l>
+<l rend="; 1tab">En kan hy denken zonder schrik</l>
+<l rend="; 1tab">Aan dien ontzetbren oogenblik,</l>
+<l>Als dat zal sterven, en hy leven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De liefdeband, die nooit verslijt,</l>
+<l rend="; 1tab">Klemt vaster na een langen tijd,</l>
+<l rend="; 2tab">En wil niet breken.</l>
+<l rend="; 1tab">Hoe siddren hart en ingewand</l>
+<l rend="; 1tab">Op 't denkbeeld van de ijskoude hand,</l>
+<l rend="; 1tab">Die eens, door 't slaken van dien band,</l>
+<l>Het leven zelf naar 't hart zal steken.</l>
+<l>&nbsp;</l>
+<pb n="157"/>
+<l rend="; 1tab">Zoo iets, in 's echtvriends trouw gemoed,</l>
+<l rend="; 1tab">Aan de oude liefde een nieuwen gloed</l>
+<l rend="; 2tab">En kracht kan geven,</l>
+<l rend="; 1tab">'t Is dan, wanneer des Engels zwaard,</l>
+<l rend="; 1tab">Een dierbre weêrhelft tegenvaart,</l>
+<l rend="; 1tab">En zy bedreigd wordt.... doch gespaard,</l>
+<l>Om als op nieuw voor hem te leven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoe zevenvoudig zalig is</l>
+<l rend="; 1tab">'t Bezit na 't reeds gevoeld gemis,</l>
+<l rend="; 2tab">De rust na zorgen;</l>
+<l rend="; 1tab">Hoe nieuw op nieuw 't geluk voor 't hart,</l>
+<l rend="; 1tab">Door persende angsten lang benard;</l>
+<l rend="; 1tab">Hoe lieflijk, na een nacht van smart,</l>
+<l>Het scheemren van een stillen morgen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoe vrolijk straalt, in zulk een licht,</l>
+<l rend="; 1tab">Uw opgehelderd aangezicht</l>
+<l rend="; 2tab">Thands in ons midden;</l>
+<l rend="; 1tab">Mijn Vader! met hoe blijd een geest,</l>
+<l rend="; 1tab">Viert gy den dag van dit uw feest,</l>
+<l rend="; 1tab">Die haast een treurdag was geweest:</l>
+<l>Maar onze God liet zich verbidden.</l>
+<l>&nbsp;</l>
+<pb n="158"/>
+<l rend="; 1tab">Hoe smelt mijn ziel met de uwe, en prijst</l>
+<l rend="; 1tab">Een liefde die haar macht bewijst</l>
+<l rend="; 2tab">Door dus te sparen!</l>
+<l rend="; 1tab">Hoe veilig, wat de toekomst baar,</l>
+<l rend="; 1tab">Steunt ons geloovig hart op haar,</l>
+<l rend="; 1tab">Die u, na zes maal twalef jaar,</l>
+<l>De vreugd gunt van een zulk verjaren.</l>
+</lg>
+<p>19 April 1852.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18530702"/>
+</interpGrp>
+<pb n="159"/>
+<head rend="h3">Aan mijne moeder.</head>
+<lg type="poem">
+<l><hi rend="b">A</hi>ch Moeder, welk een dag van diep en droef ontroeren,</l>
+<l rend="; 1tab">Als eensklaps, onverwacht, met donderend gedruisch,</l>
+<l>De koets bestemd u uit ons midden weg te voeren,</l>
+<l rend="; 1tab">Aanrolde, naderkwam, en stilstond voor ons huis.</l>
+<l>&nbsp;</l>
+<l>'t Portier gaat open, en de treê wordt neergelaten.</l>
+<l rend="; 1tab">Hoe klinkt die bel, en breekt de harten van uw kroost!</l>
+<l>Uw gade staat en weent, maar zucht noch tranen baten:</l>
+<l rend="; 1tab">Gy kleedt u tot den tocht, en spreekt een woord van troost.</l>
+<l>&nbsp;</l>
+<l>Reisvaardig, neemt gy, met het oog op God geslagen,</l>
+<l rend="; 1tab">Een moedig afscheid van 't verslagen huisgezin,</l>
+<l>En treedt in 't voorvertrek; ziet voerman, paarden, wagen....</l>
+<l rend="; 1tab">Maar wacht tot hooger wenk u zeggen zal: Stijg in!</l>
+<l>&nbsp;</l>
+<pb n="160"/>
+<l>Die wenk blijft achter. Uur aan uur vervult zijn ronde</l>
+<l rend="; 1tab">Met pijnlijk wachten, hoop en vreeze, moed en angst.</l>
+<l>Uw afreis blijft bepaald, maar onbepaald haar stonde,</l>
+<l rend="; 1tab">Ons voorwerp steeds van schrik, U dikwijls van verlangst.</l>
+<l>&nbsp;</l>
+<l>Op eens, wat ommekeer! Het rijtuig, weggereden,</l>
+<l rend="; 1tab">Haalt vrienden, zusters af, bestemd u voor te gaan.</l>
+<l>Uw diepbedroefde kring omhelst u wel te vreden;</l>
+<l rend="; 1tab">Gy glimlacht, maar met ernst; en - houdt het reiskleed aan.</l>
+</lg>
+<p>2 July 1853.</p>
+</div>
+<div type="chapter">
+<pb n="161"/>
+<head rend="h3">Uit moeders naam.
+<lb/>
+Ter bruiloft mijner jongste zuster.</head>
+<lg type="poem">
+<l><hi rend="b">H</hi>et is niet om de vreugd te storen,</l>
+<l rend="; 1tab">Die voorzit aan dees blijden disch,</l>
+<l>Indien zich hier de stem laat hooren</l>
+<l rend="; 1tab">Der Moeder die afwezig is;</l>
+<l>Niet om een wolk van smart te brengen,</l>
+<l rend="; 1tab">Waar alles licht en glans moet zijn,</l>
+<l rend="; 1tab">En in den feestelijken wijn,</l>
+<l rend="; 2tab">Een bittren drop te mengen.</l>
+<l>&nbsp;</l>
+<l>Laat, lieve Bruid! dat traantjen blijven,</l>
+<l rend="; 1tab">Dat uit uw oogjen dringt en breekt;</l>
+<l>Om uit uw hartjen 't weg te drijven,</l>
+<l rend="; 1tab">Ziedaar waarom uw Moeder spreekt.</l>
+<l>Het laatste rimpeltjen moet wijken</l>
+<l rend="; 1tab">Van 't voorhoofd, dat een bruidskrans tooit</l>
+<l rend="; 1tab">Kom, laat uw Moeder, nu of nooit,</l>
+<l rend="; 2tab">Het van uw slapen strijken.</l>
+<l>&nbsp;</l>
+<pb n="162"/>
+<l>Gy weet toch, lieve! dat uw rozen</l>
+<l rend="; 1tab">Voor haar geen doornen zijn van smart,</l>
+<l>Of slechts met fledsche verwen blozen,</l>
+<l rend="; 1tab">Voor 't uw gemis betreurend hart.</l>
+<l>Betreurend? Neen! dit is geen treuren,</l>
+<l rend="; 1tab">Dees zachte weemoed baart geen pijn:</l>
+<l rend="; 1tab">Wie op die wijs bedroefd mag zijn,</l>
+<l rend="; 2tab">Blijf ik gelukkig keuren.</l>
+<l>&nbsp;</l>
+<l>'t Is waar... Maar waarom toch dit schreien?</l>
+<l rend="; 1tab">Ik schrei niet daar ik tot u spreek.</l>
+<l>'t Is waar, hier is een moeilijk scheien;</l>
+<l rend="; 1tab">Maar is uw Moeders hart zoo week?</l>
+<l>'t Is waar, hier rijzen vele zorgen;</l>
+<l rend="; 1tab">Maar lieve, hebt gy niet bemerkt</l>
+<l rend="; 1tab">Hoe God uw Moeder heden sterkt?</l>
+<l rend="; 2tab">En zal Hy 't ook niet morgen?</l>
+<l>&nbsp;</l>
+<l>Hoog zijn mijn jaren, klein mijn krachten,</l>
+<l rend="; 1tab">'t Geschokte lichaam krank en broos,</l>
+<l>Mijn dagen lang gerekt, mijn nachten</l>
+<l rend="; 1tab">Maar al te dikwijls slapeloos.</l>
+<pb n="163"/>
+<l>Veel troost, veel vreugde neemt gy mede...</l>
+<l rend="; 1tab">Doch wy genoten veel en lang;</l>
+<l rend="; 1tab">Uw waar geluk eischt al mijn dank,</l>
+<l rend="; 2tab">En was altijd mijn bede.</l>
+<l>&nbsp;</l>
+<l>Uw trouwdag heb ik vaak verschoven;</l>
+<l rend="; 1tab">Mijn stervensuur scheen zoo naby;</l>
+<l>En zou ik nu mijn God niet loven,</l>
+<l rend="; 1tab">Die hem doet opgaan, ook voor my?</l>
+<l>Zijn wijsheid riep van uit ons midden</l>
+<l rend="; 1tab">Een ander dierbaar leven af;</l>
+<l rend="; 1tab">Maar ik mag, op den rand van 't graf,</l>
+<l rend="; 2tab">Zijn goedheid nog aanbidden.</l>
+<l>&nbsp;</l>
+<l>Aanbidden, ja; en met u allen</l>
+<l rend="; 1tab">Op luiden toon Hem danken, dat</l>
+<l>Hy nog zoo schoon een straal laat vallen</l>
+<l rend="; 1tab">Op 't haast voleindigd levenspad.</l>
+<l>Kom Bruid! dit traantjen zij het letste!</l>
+<l rend="; 1tab">Wy weenen niet; wy zijn verblijd;</l>
+<l rend="; 1tab">Wy willen dat gy vrolijk zijt,</l>
+<l rend="; 2tab">Wy zijn het zelf, mijn beste!</l>
+<l>&nbsp;</l>
+<pb n="164"/>
+<l>Niet waar, mijn Gade! wy zijn blijde,</l>
+<l rend="; 1tab">Wy zijn het beiden, gy en ik?</l>
+<l>Wy juichen op dit feestgetijde;</l>
+<l rend="; 1tab">Het is een heilig oogenblik.</l>
+<l>Lang kondt ge aan dezen dag niet denken,</l>
+<l rend="; 1tab">Of dacht uw lijdende Ega dood,</l>
+<l rend="; 1tab">Maar God, mijn dierbare Echtgenoot!</l>
+<l rend="; 2tab">Wilde ons dien samen schenken.</l>
+<l>&nbsp;</l>
+<l>Komt, laat ons Hem vereenigd prijzen,</l>
+<l rend="; 1tab">En voorts getroost zijn in ons lot,</l>
+<l>Door duizend gunst- en trouwbewijzen</l>
+<l rend="; 1tab">Blijft Hy een algenoegzaam God.</l>
+<l>Laat ons de lieve Dochter zegenen</l>
+<l rend="; 1tab">Voor al de vreugd ons aangedaan,</l>
+<l rend="; 1tab">En haar met moedig hart ontslaan,</l>
+<l rend="; 2tab">Met helder oog bejegenen.</l>
+<l>&nbsp;</l>
+<l>Laat ons den braven Bruigom toonen,</l>
+<l rend="; 1tab">Hoe gants volkomen ons gemoed</l>
+<l>Hem opneemt by ons viertal zonen,</l>
+<l rend="; 1tab">Hem lief heeft als ons eigen bloed;</l>
+<pb n="165"/>
+<l>Laat zijn gevoelig hart niet lijden,</l>
+<l rend="; 1tab">Geen oogenblik benepen slaan,</l>
+<l rend="; 1tab">Als deed hy daar een misdaad aan,</l>
+<l rend="; 2tab">Zich zichtbaar te verblijderf.</l>
+<l>&nbsp;</l>
+<l>Komt, Zoon en Dochter! komt, knielt neder!</l>
+<l rend="; 1tab">Hier is uw Moeder in den geest.</l>
+<l>Hier is dat hart zoo trouw en teder,</l>
+<l rend="; 1tab">Dat oog dat in uw boezem leest.</l>
+<l>Hier is haar moederlijke zegen!</l>
+<l rend="; 1tab">Aanvaardt dien! Hy zal met u gaan</l>
+<l rend="; 1tab">En, hechte er God zijn zegel aan!</l>
+<l rend="; 2tab">Op blijde en donkre wegen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="166"/>
+<head rend="h3">Scheiding.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">O</hi>nze wegen scheiden,</l>
+<l rend="; 3tab">Maar ons hart blijft een;</l>
+<l rend="; 2tab">Immers is ons beiden</l>
+<l rend="; 3tab">Ééne hoop gemeen;</l>
+<l rend="; 2tab">En de dag zal komen,</l>
+<l rend="; 3tab">Is reeds in 't verschiet,</l>
+<l>Die ons vereent met alle vromen,</l>
+<l rend="; 1tab">En voor altijd te zamen ziet.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Onze wegen brengen</l>
+<l rend="; 3tab">Over berg en dal,</l>
+<l rend="; 2tab">Naar het God gehengen</l>
+<l rend="; 3tab">En besturen zal;</l>
+<l rend="; 2tab">Liefde doet ze kronkelen,</l>
+<l rend="; 3tab">Maakt ze ruw, en vlak,</l>
+<l>Tot waar wy 't vredig licht zien vonkelen,</l>
+<l rend="; 1tab">Van onder 't veilig vaderdak.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18500000"/>
+</interpGrp>
+<pb n="167"/>
+<head rend="h3">Naamgeving aan een landhoeve.</head>
+<lg type="poem">
+<l><hi rend="b">N</hi>oem ze <hi rend="sc">rozengaarde</hi>:</l>
+<l rend="; 1tab">Wat is meer gepast</l>
+<l>Voor een plek der aarde,</l>
+<l rend="; 1tab">Waar geen onkruid wast;</l>
+<l>Waar de schoonste rozen,</l>
+<l rend="; 1tab">Van de zoetste geur,</l>
+<l rend="; 1tab">Van de zachtste kleur,</l>
+<l>In Gods zonlicht blozen.</l>
+<l>&nbsp;</l>
+<l>Waar men elke vrede</l>
+<l rend="; 1tab">Iedre liefde vindt,</l>
+<l>Bloeiende op de bede</l>
+<l rend="; 1tab">Van wie God bemint;</l>
+<l>Waar steeds versche knoppen.</l>
+<l rend="; 1tab">Vrolijk opengaan</l>
+<l rend="; 1tab">En bepareld staan</l>
+<l>Met de reinste droppen.</l>
+<l>&nbsp;</l>
+<pb n="168"/>
+<l>'k Sleet zoo zoete dagen</l>
+<l rend="; 1tab">In dien stillen hof,</l>
+<l>Geen der woeste vlagen,</l>
+<l rend="; 1tab">Die zijn bloemen trof;</l>
+<l>Heilzaam, frisch, en geurig</l>
+<l rend="; 1tab">Was er my de lucht;</l>
+<l rend="; 1tab">'t Afscheid kostte een zucht,</l>
+<l>Want mijn hart was treurig.</l>
+<l>&nbsp;</l>
+<l>Hoe gy haar wilt noemen</l>
+<l rend="; 1tab">Uit bescheidenheid,</l>
+<l><hi rend="i">Ik</hi> denk aan de bloemen</l>
+<l rend="; 1tab">My door u gespreid;</l>
+<l>Stelle ons ook op aarde</l>
+<l rend="; 1tab">Menig naam te leur,</l>
+<l rend="; 1tab">Boven uwe deur</l>
+<l>Schrijf ik: <hi rend="sc">rozengaarde</hi>.</l>
+</lg>
+<p>1850.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="18530000"/>
+</interpGrp>
+<pb n="169"/>
+<head rend="h3">Verpoozing.</head>
+<lg type="poem">
+<l>'t <hi rend="b">B</hi>ezig leven sleept my voort</l>
+<l rend="; 1tab">Met zijn last en lusten;</l>
+<l>Laat my, in dit lieflijk oord,</l>
+<l rend="; 1tab">Van mijn zorgen rusten.</l>
+<l>&nbsp;</l>
+<l>Vriendschap opent my dees deur,</l>
+<l rend="; 1tab">Tusschen loof en bloesem;</l>
+<l>Rozen van de zoetste geur</l>
+<l rend="; 1tab">Draagt zy aan haar boezem.</l>
+<l>&nbsp;</l>
+<l>Onder 't half verborgen dak,</l>
+<l rend="; 1tab">Lachen vreugde en vrede:</l>
+<l>Zoo my hier een doren stak,</l>
+<l rend="; 1tab">'k Bracht die zelf dan mede.</l>
+<l>&nbsp;</l>
+<l>Voedsel zal hier aan 't gemoed</l>
+<l rend="; 1tab">Noch den geest ontbreken,</l>
+<l>Waar men van 't waarachtig Goed,</l>
+<l rend="; 1tab">'t Echte Schoon kan spreken.</l>
+<l>&nbsp;</l>
+<pb n="170"/>
+<l>'t Woord des Heeren vind ik hier</l>
+<l rend="; 1tab">Tot mijn troost en stichting;</l>
+<l>'k Breng er zelf een deel of vier</l>
+<l rend="; 1tab">Waarheid en verdichting.</l>
+<l>&nbsp;</l>
+<l>Mooglijk wordt een enkle maal</l>
+<l rend="; 1tab">Eigen dichtgeest wakker,</l>
+<l>Als ik langs het mastbosch dwaal</l>
+<l rend="; 1tab">Of den boekweitakker.</l>
+<l>&nbsp;</l>
+<l>Mooglijk... maar geen plannen, neen!</l>
+<l rend="; 1tab">t' Huis moog 't werk mijn lust zijn.</l>
+<l>Rusten kom ik hier alleen;</l>
+<l rend="; 1tab">En de rust moet rust zijn.</l>
+</lg>
+<p>Zeist, 1853.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="flor047"/>
+<interp type="vertaler" value="beet005"/>
+</interpGrp>
+<pb n="171"/>
+<head rend="h3">Wederzien.</head>
+<lg type="poem">
+<l><hi rend="b">B</hi>y 't kruis op den heuvel, daar leunt zich</l>
+<l rend="; 1tab">Een zwerver zoo lang op zijn staf,</l>
+<l>Daar ziet hy, met tranen in de oogen,</l>
+<l rend="; 1tab">In het dal op de woningen af.</l>
+<l>&nbsp;</l>
+<l>Ja, dat is zijn dorpjen, dat gloeiend</l>
+<l rend="; 1tab">Zich uitbreidt by 't avondzonrood,</l>
+<l>Nog eens mag zijn voet het bereiken,</l>
+<l rend="; 1tab">Nog eens mag hy 't zien voor zijn dood.</l>
+<l>&nbsp;</l>
+<l>Daar staat nog het kerkje' op de hoogte,</l>
+<l rend="; 1tab">Zoo net en zoo wit als weleer,</l>
+<l>Slechts werden de linden wat zwaarder,</l>
+<l rend="; 1tab">Slechts werden de graven wat meer.</l>
+<l>&nbsp;</l>
+<l>De oude put is bezocht als te voren;</l>
+<l rend="; 1tab">Moeders huisjen kijkt uit tusschen 't groen;</l>
+<l>Aan wie of het thands mag behooren?</l>
+<l rend="; 1tab">En wat zy daar binnen wel doen?</l>
+<l>&nbsp;</l>
+<pb n="172"/>
+<l>Daar is veel dat gantsch nieuw is geworden,</l>
+<l rend="; 1tab">'t Jong geslacht eischt verandring en plaats;</l>
+<l>Het verbouwt zich de dorpen tot steden,</l>
+<l rend="; 1tab">En verandert de stilte in geraas.</l>
+<l>&nbsp;</l>
+<l>Zie het beekjen ruischt over zijn keitjens,</l>
+<l rend="; 1tab">En het kronkelt zich zachtjens en zoet;</l>
+<l>'t Waren eenmaal geweldige waatren</l>
+<l rend="; 1tab">Voor het kinderlijk droomend gemoed.</l>
+<l>&nbsp;</l>
+<l>Ach, de bergen, de bosschen, de velden,</l>
+<l rend="; 1tab">Ze zijn allen gering nu en kleen;</l>
+<l>Ook zoo krimpt voor veroudrende harten</l>
+<l rend="; 1tab">Elke vreugd en verwachting in een.</l>
+<l>&nbsp;</l>
+<l>Zie, de huisman keert weer van den akker;</l>
+<l rend="; 1tab">'t Wachtend kroost kent zijn stap en zijn stem.</l>
+<l>Ook de huismoeder treedt op den dorpel....</l>
+<l rend="; 1tab">Hy herkent haar, maar niemand kent hem.</l>
+</lg>
+<p><hi rend="sc">ernst floris</hi>.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="uhla002"/>
+<interp type="vertaler" value="beet005"/>
+</interpGrp>
+<pb n="173"/>
+<head rend="h3">Drie jongelingen.</head>
+<lg type="poem">
+<l><hi rend="b">D</hi>rie jongelingen trokken dwars over den Rhijn;</l>
+<l>In gindschen kleinen herberg, daar moeten zy zijn.</l>
+<l>&nbsp;</l>
+<l>‘Laat proeven, kasteleinsche! uw beste wijn en bier,</l>
+<l>En breng ons zonder dralen uw mooie dochter hier!’</l>
+<l>&nbsp;</l>
+<l>‘“Mijn bier en wijn, mijnheeren! zijn krachtig, frisch en klaar;</l>
+<l>Maar ach, mijn mooie dochtertjen, ligt op de zwarte baar.”’</l>
+<l>&nbsp;</l>
+<l>De knapen traden binnen, en maakten geen gedruisch;</l>
+<l>Daar lag het mooie dochtertjen in 't enge planken huis.</l>
+<l>&nbsp;</l>
+<l>En de eerste jongling rukte den hoofddoek snel omhoog,</l>
+<l>En zag het mooie dochtertjen... Een traan blonk in zijn oog.</l>
+<l>&nbsp;</l>
+<pb n="174"/>
+<l>‘Ach, waart gy blijven leven, sprak hy, gy beeldschoon kind!</l>
+<l>'k Had van den dag van heden u teer en trouw bemind!’</l>
+<l>&nbsp;</l>
+<l>De tweede jongling haalde den hoofddoek weder neer,</l>
+<l>En keerde zich naar 't venster toe, en weende zoo zeer:</l>
+<l>&nbsp;</l>
+<l>‘Ach, ligt gy daar ter neder, mijn allerliefste schat!</l>
+<l>Ik heb zoo menig jaartjen u teder lief gehad.’</l>
+<l>&nbsp;</l>
+<l>De derde heeft den hoofddoek weer spoedig weggerukt,</l>
+<l>En op haar bleeke lippen een stijven kus gedrukt:</l>
+<l>&nbsp;</l>
+<l>‘U minde ik lange jaren, u min ik ook nog nu.</l>
+<l>Mijn lief, mijn uitverkoren! voor eeuwig min ik u.’</l>
+</lg>
+<p><hi rend="sc">uhland</hi>.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="word001"/>
+<interp type="vertaler" value="beet005"/>
+</interpGrp>
+<pb n="175"/>
+<head rend="h3">‘Met zen achten.’</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">W</hi>at kan, in 't Gooi, een schuldloos kind,</l>
+<l>Met rozen op de frissche kaken,</l>
+<l rend="; 1tab">Daar 't niets dan leven in zich vindt,</l>
+<l rend="; 2tab">Van dood of sterven maken?</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Een meisjen trippelde aan mijn zij</l>
+<l>Van zes of mooglijk zeven jaren:</l>
+<l rend="; 1tab">Wat schitterde dat oogjen blij</l>
+<l rend="; 2tab">Van onder 't zwart der hairen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Een aardig lachjen, zacht en schoon,</l>
+<l>Ontblootte hagelwitte tanden,</l>
+<l rend="; 1tab">En vormde een kuiltje' in iedre koon,</l>
+<l rend="; 2tab">Wat bruin van 't zonnebranden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'k Vroeg: ‘Met hoe velen zijt gy wel?’</l>
+<l>Ze liet niet lang op 't andwoord wachten,</l>
+<l rend="; 1tab">Maar vrolijk keek ze, en zeide snel:</l>
+<l rend="; 2tab">‘“We bennen met zen achten.”’</l>
+<l>&nbsp;</l>
+<pb n="176"/>
+<l rend="; 1tab">‘Zoo!’ zeide ik ‘dat 's een heel gezin;</l>
+<l>Dan zult ge de oudste wel niet wezen?’</l>
+<l rend="; 1tab">‘“Neen, krek de jongste,”’ viel zy in;</l>
+<l rend="; 2tab">‘“Maar ik kan toch al lezen.”’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘En wat doen de andre?’ vroeg ik. ‘“Twee”’</l>
+<l>Was 't andwoord (kort, om tijd te sparen):</l>
+<l rend="; 1tab">‘“Twee onder dienst, en twee naar zee,</l>
+<l rend="; 2tab">En een woont heel te Baren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Twee liggen er op 't kerkhof neêr,</l>
+<l>Het eene een zusjen, 't andre een broertjen;</l>
+<l rend="; 1tab">En alder-aldernaast, mijnheer!</l>
+<l rend="; 2tab">Daar woon ik met mijn moertjen.”’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘Twee onder dienst, en twee naar zee,</l>
+<l>Een heel te Baren - 't is geen reisjen!...</l>
+<l rend="; 1tab">Maar gy telt ze al te maal nog meê,</l>
+<l rend="; 2tab">Niet waar, mijn beste meisjen?’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘“En dan de twee op 't kerkhof nog!</l>
+<l>Want wy zijn met zen achten, weet u?</l>
+<l rend="; 1tab">U ziet die hooge boomen toch?</l>
+<l rend="; 2tab">De twee daaronder, die vergeet u.”’</l>
+<l>&nbsp;</l>
+<pb n="177"/>
+<l rend="; 1tab">‘'k Vergeet ze niet, maar aardig wicht!</l>
+<l>Zoo in de schaduw van die boomen</l>
+<l rend="; 1tab">Een broertjen en een zusjen ligt,</l>
+<l rend="; 2tab">Is 't achttal dan volkomen?’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘“Hun grafjens zijn vlak by elkaâr,</l>
+<l>En o! zoo dicht by moeders huisjen.</l>
+<l rend="; 1tab">Laat zien! Een stap of twalef maar;</l>
+<l rend="; 2tab">Op ieder staat een kruisjen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ik zit er dikwijls, 's morgens vroeg,</l>
+<l>Of tusschen twaleven en tweën;</l>
+<l rend="; 1tab">De kousen, die ik zondag droeg,</l>
+<l rend="; 2tab">Die heb ik dáár gebreën.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">En 's zomers, als het avond wordt,</l>
+<l>In 't hooge gras ter neer gezeten,</l>
+<l rend="; 1tab">Brengt moeder daar mijn tinnen bord</l>
+<l rend="; 2tab">Met al mijn avondeten.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Het eerste stierf mijn zusjen Brech;</l>
+<l>Wat lag ze lang in 't bed te klagen!</l>
+<l rend="; 1tab">God nam op eens haar pijnen weg</l>
+<l rend="; 2tab">Toen werd zy uitgedragen.</l>
+<l>&nbsp;</l>
+<pb n="178"/>
+<l rend="; 1tab">Toen kwam ze op 't kerkhof, kort by 't hek,</l>
+<l>In 't graf; vlak naast een iep, zoo'n dikke;</l>
+<l rend="; 1tab">We speelden dikwijls op den plek,</l>
+<l rend="; 2tab">Mijn broertjen Jan en ikke.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'t Was zomer; maar toen 't winter werd,</l>
+<l>(De sneeuw lag dik op 't doornenhegjen)</l>
+<l rend="; 1tab">Kreeg Jantjen ook de koorts, heel hard,</l>
+<l rend="; 2tab">En ging heel gaauw naar Brechtjen.”’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘Maar daar hy nu naast Brechtjen ligt,</l>
+<l>En nimmermeer met u kan spelen:</l>
+<l rend="; 1tab">Tel nog reis eenmaal, aardig wicht!</l>
+<l rend="; 2tab">Gy zijt - met u hoevelen?’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Het meisjen sloeg haar oogjens neer,</l>
+<l>En stond een poosjen in gedachten;</l>
+<l rend="; 1tab">Maar eensklaps riep ze, als de eerste keer:</l>
+<l rend="; 2tab">‘“Wel heerschap! met zen achten.”’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘Maar zoo Gods englen Brechtje' en Jan</l>
+<l>By Jezus in den hemel brachten?’</l>
+<l rend="; 1tab">‘“Ja, daar praat moeder ook wel van....”’</l>
+<l rend="; 1tab">‘Goed! Met hoevelen blijft gy dan?’</l>
+<l rend="; 2tab">‘“Wel... <hi rend="i">Ik</hi> zou meenen... met zen achten.”’</l>
+</lg>
+<p><hi rend="sc">wordsworth</hi>.</p>
+</div>
+<div type="chapter">
+<pb n="179"/>
+<head rend="h3">Niels Stockfleth,
+<lb/>
+predikant in Finmarken.
+<lb/>
+    (Brief aan een amptsbroeder.)<note n="*" place="foot"><hi rend="sc">Niels joachim christian vibe stockfleth</hi> werd in 't jaar 1787 te Christiansand (in Noorwegen), waar zijn vader stiftproost was, geboren. Hy verloor hem vroeg, en studeerde, sedert 1803, in zeer bekrompen omstandigheden, op kosten van eenige vrienden, en niet zonder grooten tegenzin, te Kopenhagen, in de Rechten. Als later deoorlog in Holstein uitgebroken en een aanstelling van jonge officieren noodig geworden was, meldde hy zich tot de krijgsdienst aan, maar bekwam eerst een luitenantsplaats nadat hy zich by een schrijnwerker aangemeld had, om, tegen een paar uren daags lesgevens aan diens dochter, van hem het handwerk te leeren. In den slag by Sehestedt (10 Dec. 1813) streed hy dapper mede. Na de scheiding van Noorwegen en Denemarken verlangde hy naar zijn vaderland terug te keeren, kreeg, als kapitein, eervol ontslag, en ging in 1814 naar Noorwegen, waar hy in 1818 eene nieuwe aanstelling erlangde. Kort daarop verliet hy echter de krijgsdienst voor goed, en in 1823 vinden wy den voormaligen hoofdman, als student in de godgeleerdheid, te Christiania terug. Hy gevoelde zich sterk naar het Noorden getrokken; en, in 1824 predikant geworden, werd hy in 1825 tot voorganger der gemeente Vadsöe geordend, om toenmaals de eenige predikant van geheel Finmarken te zijn, een kerspel dat zich over 300 vierkante mijlen uitstrekte. Van dien tijd af dagteekent de reusachtige en onvermoeide leeraar- en zendelings-werkzaamheid van dezen getrouwen dienstknecht des Heeren onder de Lappen en Finnen van het hooge Noorden; een arbeid die zich tot in het russische rijk uitstrekte, en waarvan, zoo ik wel onderricht ben, de wakkere grijzaart tot op den huidigen dag nog niet is afgelost.</note></head>
+<lg type="poem">
+<l><hi rend="b">C</hi>ollega, 'k hoor u somtijds zuchten</l>
+<l rend="; 1tab">Dat gy een standplaats hebt,</l>
+<l>Waarin uw ziel, by weinig vruchten,</l>
+<l rend="; 1tab">Nog al mishagen schept.</l>
+<l>De menschen wilt gy niet betichten,</l>
+<l rend="; 1tab">Zy meenen 't wel met u;</l>
+<l>Al zijn ze, om u te kunnen stichten,</l>
+<l rend="; 1tab">Wat onbeschaafd en ruw.</l>
+<l>&nbsp;</l>
+<l>Tien jaren hebt gy reeds gesleten</l>
+<l rend="; 1tab">In wat ik nu en dan</l>
+<l><hi rend="i">Het eind der wareld</hi> hoorde heeten;</l>
+<l rend="; 1tab">Ook heeft het daar wat van.</l>
+<pb n="180"/>
+<l>Want als de klei tot over de ooren</l>
+<l rend="; 1tab">U overdolven heeft,</l>
+<l>Of ge in den vloed zit vastgevroren,</l>
+<l rend="; 1tab">Wie weet er of gy leeft.</l>
+<l>&nbsp;</l>
+<l>Wat my betreft... ‘Gy hebt mooi spreken,’</l>
+<l rend="; 1tab">Voor zie ik dat gy zegt;</l>
+<l>‘Die in zoet Hollands schoonste streken</l>
+<l rend="; 1tab">Uw tent hebt vastgehecht;</l>
+<l>En die vervelen u uw boeken</l>
+<l rend="; 1tab">En boomen al te met,</l>
+<l>En hof- en hoofdstad kunt bezoeken,</l>
+<l rend="; 1tab">En slapen op uw bed.’</l>
+<l>&nbsp;</l>
+<l>'t Is waar; de hemel zij geprezen!</l>
+<l rend="; 1tab">Ik kan licht dankbaar zijn,</l>
+<l>Maar uw vertrooster moeilijk wezen,</l>
+<l rend="; 1tab">Al doet uw lot my pijn.</l>
+<l>Ik spaar u dus mijn wijze lessen</l>
+<l rend="; 1tab">Maar wil, zoo gy 't gehengt,</l>
+<l>Collega Stockfleths werkkring schetsen;</l>
+<l rend="; 1tab">Zie zelf waartoe dit brengt.</l>
+<l>&nbsp;</l>
+<pb n="181"/>
+<l>Collega Stockfleth is te vinden -</l>
+<l rend="; 1tab">Maar wie bezoekt hem ooit?</l>
+<l>In 't woest gebied der noordewinden,</l>
+<l rend="; 1tab">Met enkel sneeuw bestrooid.</l>
+<l>Zijn oog wordt niets dan wildernissen</l>
+<l rend="; 1tab">Met boom noch struik gewaar;</l>
+<l>En moet ook zelfs dit uitzicht missen,</l>
+<l rend="; 1tab">Twee maanden van het jaar.</l>
+<l>&nbsp;</l>
+<l>Want dan vergeet ten eenen malen</l>
+<l rend="; 1tab">De zon dit aaklig oord,</l>
+<l>Waar ze anders nog wat bleeke stralen</l>
+<l rend="; 1tab">Door mist en nevel boort,</l>
+<l>Genoegzaam om te doen gevoelen</l>
+<l rend="; 1tab">Hoe naar het schouwspel zij</l>
+<l>Van grijze rotsen, bruine poelen,</l>
+<l rend="; 1tab">Gemonsterd op een rij.</l>
+<l>&nbsp;</l>
+<pb n="182"/>
+<l>Wie onzer kan zich denkbeeld vormen</l>
+<l rend="; 1tab">Van dien gerekten nacht,</l>
+<l>Als onophoudelijke stormen</l>
+<l rend="; 1tab">Betoonen al hun kracht;</l>
+<l>De jachtsneeuw giert, de stortsneeuw dondert,</l>
+<l rend="; 1tab">En, zij ook 't haardvuur heet,</l>
+<l>Geen mensch zich van de rijp verwondert</l>
+<l rend="; 1tab">Aan deur- en vensterreet!</l>
+<l>&nbsp;</l>
+<l>Dan worden, voor zijn vuur gezeten,</l>
+<l rend="; 1tab">En luistrend naar 't geweld,</l>
+<l>De lange jaren, hier gesleten,</l>
+<l rend="; 1tab">Door Stockfleth nageteld.</l>
+<l>Dan mag hy mijmren aan de dagen</l>
+<l rend="; 1tab">Van 't schoon en drok weleer,</l>
+<l>Die hem den degen voeren zagen</l>
+<l rend="; 1tab">Voor 't vaderland en de eer.</l>
+<l>&nbsp;</l>
+<l>Dan mag hy, als 't uitzinnig tieren,</l>
+<l rend="; 1tab">'t Geraas, 't gejoel, 't gegons,</l>
+<l>Het beurtlings schor en gillend gieren</l>
+<l rend="; 1tab">Hem wakker houdt op 't dons,</l>
+<l>By 't flaauwe lamplicht om zich staren,</l>
+<l rend="; 1tab">Te midden van 't gedruisch,</l>
+<l>En denken aan die vóór hem waren</l>
+<l rend="; 1tab">Bewoners van dit huis,</l>
+<l>&nbsp;</l>
+<pb n="183"/>
+<l>Als hy het heilig ampt bekleedden</l>
+<l rend="; 1tab">Met onbeneveld hoofd,</l>
+<l>Tot eenzaamheid en aakligheden</l>
+<l rend="; 1tab">Hen hadden uitgedoofd;</l>
+<l>En die, als tintelende vonken</l>
+<l rend="; 1tab">In graauwende asch versmoord,</l>
+<l>In zinloosheid zijn weggezonken</l>
+<l rend="; 1tab">In dit afgrijslijk oord.</l>
+<l>&nbsp;</l>
+<l>Collega Niels heeft zijn gemeente,</l>
+<l rend="; 1tab">En toont het metterdaad,</l>
+<l>Voorzeker lief tot op 't gebeente,</l>
+<l rend="; 1tab">Daar hy haar nooit verlaat;</l>
+<l>En 't zegt niet weinig stompe Finnen</l>
+<l rend="; 1tab">En Lappen, vuil en dom,</l>
+<l>Een reeks van jaren te beminnen</l>
+<l rend="; 1tab">In naam van 't christendom.</l>
+<l>&nbsp;</l>
+<l>Collega Stockfleths combinatie</l>
+<l rend="; 1tab">Sluit half een Neêrland in;</l>
+<l>Zijn kudde is een geheele natie,</l>
+<l rend="; 1tab">En alles Lap of Fin.</l>
+<l>Hier hoort men somtijds wel eens klagen:</l>
+<l rend="; 1tab">‘Het huisbezoek kost veel!’</l>
+<l>Maar zoo wy Stockfleths arbeid zagen</l>
+<l rend="; 1tab">Wy hielden 't in de keel.</l>
+<l>&nbsp;</l>
+<pb n="184"/>
+<l>Laat ons hem volgen op die reizen</l>
+<l rend="; 1tab">Van ijskoud oord tot oord.</l>
+<l>Daar zit hy neer in zijn gepeizen;</l>
+<l rend="; 1tab">Het rendier trekt hem voort.</l>
+<l>Reeds gaat de tocht met trage stappen,</l>
+<l rend="; 1tab">Want nacht en duister daalt;</l>
+<l>De grove tent der grove Lappen</l>
+<l rend="; 1tab">Wordt voor den dag gehaald.</l>
+<l>&nbsp;</l>
+<l>Men veegt ter zij de losse vlokken;</l>
+<l rend="; 1tab">Men strooit den grond met rijs;</l>
+<l>Men spant het doek op negen stokken,</l>
+<l rend="; 1tab">Naar Finniaansche wijs.</l>
+<l>In 't midden zal het haardvuur branden;</l>
+<l rend="; 1tab">Reeds maakt de rook begin.</l>
+<l>En Stockfleth kruipt op knie en handen</l>
+<l rend="; 1tab">Den lagen kegel in.</l>
+<l>&nbsp;</l>
+<l>Het reisgezelschap volgt die schreden,</l>
+<l rend="; 1tab">Geen naam van schreden waard,</l>
+<l>En slaat op kruislingsche onderleden</l>
+<l rend="; 1tab">Een cirkel om den haard.</l>
+<l>Straks zal de houten lepel rondgaan,</l>
+<l rend="; 1tab">En, dank zij 't heilig vuur!</l>
+<l>Met vloeibre sneeuw van mond tot mond gaan,</l>
+<l rend="; 1tab">Voor langer dan een uur.</l>
+<l>&nbsp;</l>
+<pb n="185"/>
+<l>Terwijl die nektar zich laat pooien,</l>
+<l rend="; 1tab">Ligt by denzelfden gloed</l>
+<l>Een groot stuk rendiervleesch te ontdooien,</l>
+<l rend="; 1tab">Dat aanstonds dienen moet.</l>
+<l>De kousen<note n="*" place="foot">Eigenlijk de <hi rend="i">komagen;</hi> een soort van wijde laarzen, die tot over de kniën reiken, en met zacht gras gevuld zijn.</note> hangen vast te droogen,</l>
+<l rend="; 1tab">En benglen van hun staak</l>
+<l>Den drinkenden voor neus en oogen;</l>
+<l rend="; 1tab">Maar dat doet niets ter zaak.</l>
+<l>&nbsp;</l>
+<l>Koude en vermoeidheid zijn vergeten,</l>
+<l rend="; 1tab">De dorst in 't eind geboet.</l>
+<l>Men spitst zich slechts op 't keurig eten,</l>
+<l rend="; 1tab">En glimlacht welgemoed.</l>
+<l>‘God zij voor 't warme huis geprezen!’</l>
+<l rend="; 1tab">Roept ieder wel te moê;</l>
+<l>En Stockfleth zegt, met minzaam wezen,</l>
+<l rend="; 1tab">Er bibbrend Amen toe.</l>
+<l>&nbsp;</l>
+<l>De rook, het vuur, 't getrouw betasten,</l>
+<l rend="; 1tab">De tong van 't hondenpaar</l>
+<l>Zal ras een eind doen zien aan 't vasten -</l>
+<l rend="; 1tab">Het oogenblik is daar!</l>
+<pb n="186"/>
+<l>Een Lap neemt aan het vleesch te hakken;</l>
+<l rend="; 1tab">Hy knielt; de bijl rijst op....</l>
+<l>En, eer de grage honden 't pakken,</l>
+<l rend="; 1tab">Vliegt stuk by stuk in 't sop.</l>
+<l>&nbsp;</l>
+<l>Nu doet men 't vuur verdubbeld knappen,</l>
+<l rend="; 1tab">Nu wordt de gloed een hel,</l>
+<l>Tot groot vermaak der kleine Lappen</l>
+<l rend="; 1tab">En van hun vetleêr vel.</l>
+<l>Collega zou 't zich minder troosten,</l>
+<l rend="; 1tab">Zoo wijken mooglijk waar;</l>
+<l>Maar laat in 's hemels naam zich roosten,</l>
+<l rend="; 1tab">Een roemloos martelaar.</l>
+<l>&nbsp;</l>
+<l>Zoo hy maar eens zich om kon wenden,</l>
+<l rend="; 1tab">Zijn gloed was ras gebluscht;</l>
+<l>Dat voelen zijn bevroren lenden,</l>
+<l rend="; 1tab">Waar op het tentdoek rust.</l>
+<l>Maar vleesch en soep zijn naar behooren;</l>
+<l rend="; 1tab">Elk prijst de lekkerny.</l>
+<l>Den Pap<note n="*" place="foot">Predikant.</note> is zelfs een brood beschoren,</l>
+<l rend="; 1tab">Een mes en vork daarby!</l>
+<l>&nbsp;</l>
+<pb n="187"/>
+<l>En is de maaltijd afgeloopen</l>
+<l rend="; 1tab">En Gode dank betaald,</l>
+<l>Dan fluks den pelszak ingekropen,</l>
+<l rend="; 1tab">De deken opgehaald!</l>
+<l>Men strekt zich boogsgewijze neder,</l>
+<l rend="; 1tab">Gelijk gestopte worst,</l>
+<l>En elke Lap legt trouw en teder</l>
+<l rend="; 1tab">'t Hoofd onder buurmans borst.</l>
+<l>&nbsp;</l>
+<l>Zoo slaapt men onder 't dak van lijnen</l>
+<l rend="; 1tab">Gewillig en gerust;</l>
+<l>En laat het flakkrend vuurtjen kwijnen</l>
+<l rend="; 1tab">En uitgaan, naar zijn lust.</l>
+<l>De morgendisch vereischt geen stoken,</l>
+<l rend="; 1tab">Voor d' onverweekten Lap;</l>
+<l>Toch zal men mooglijk nog eens poken,</l>
+<l rend="; 1tab">Ter eere van den Pap.</l>
+<l>&nbsp;</l>
+<l>'t Gebed gedaan, 't ontbijt genoten,</l>
+<l rend="; 1tab">De vrienden maken haast.</l>
+<l>Het rendierspan dient opgestooten,</l>
+<l rend="; 1tab">En <hi rend="i">wie</hi> weet waar het graast?</l>
+<l>Het vee te zoeken staat den Lappen</l>
+<l rend="; 1tab">Op vrij wat zweetverlies;</l>
+<l>De Pap, door heen en weer te stappen,</l>
+<l rend="; 1tab">Zorgt dat hy niet bevriez'.</l>
+<l>&nbsp;</l>
+<pb n="188"/>
+<l>In 't eind, de dieren en de mannen</l>
+<l rend="; 1tab">Staan hijgende in het rond;</l>
+<l>Nu wordt er ijlings ingespannen,</l>
+<l rend="; 1tab">En men vertrekt terstond.</l>
+<l>Door sneeuw- op sneeuwveld gaat het verder</l>
+<l rend="; 1tab">Met klinglend belgeluid,</l>
+<l>Het zweetend schaap, de koude herder,</l>
+<l rend="; 1tab">Elk in zijn beerenhuid.</l>
+<l>&nbsp;</l>
+<l>Maar de Opperherder uit den hoogen,</l>
+<l rend="; 1tab">Ziet op die sledevaart</l>
+<l>Gewis met welgevallige oogen;</l>
+<l rend="; 1tab">Want hem zijn lief en waard</l>
+<l>De liefde, die de sneeuw durft tarten</l>
+<l rend="; 1tab">En in geen ijs bevriest,</l>
+<l>'t Geloof, dat ook in Lappen-harten,</l>
+<l rend="; 1tab">Zijn waarde niet verliest.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="189"/>
+<head rend="h2">Kleinigheden.</head>
+<pb rend="blank" n="190"/>
+<pb n="191"/>
+<head rend="h3">Triomfeerende argumenten.</head>
+<head rend="h4">1.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">D</hi>e ware wijsheid gaat met needrigheid gepaard;</l>
+<l>'k Ben needrig - en dus wijs, dat 's dunkt my klaar bewezen;</l>
+<l>En wien ik voortaan geen orakeltjen mag wezen,</l>
+<l rend="; 1tab">Bewijst zijn domheid klaar en opgeblazen aart.</l>
+</lg>
+<div type="section">
+<head rend="h4">2.
+<lb/>
+Aan een <hi rend="i">geleerden</hi> tegenstander.</head>
+<lg type="poem">
+<l rend="; 2tab">Geleerdheid zal ons niet verbazen;</l>
+<l rend="; 3tab">De eenvoudigste is het meest verlicht.</l>
+<l rend="; 2tab">De kennis, vriend! maakt opgeblazen;</l>
+<l rend="; 3tab">De liefde, alleen de liefde sticht.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">3.
+<lb/>
+Aan een <hi rend="i">gemoedelijken</hi> tegenstander.</head>
+<lg type="poem">
+<l rend="; 2tab">Gemoedlijk, ernstig! 't Kan wel wezen!</l>
+<l rend="; 3tab">Maar, lieve man! houd uw gemak....</l>
+<l rend="; 2tab">Wie weet of gy hebreeuwsch kunt lezen!</l>
+<l rend="; 3tab">En voorts, gy zijt geen <hi rend="i">man van 't vak.</hi></l>
+</lg>
+</div>
+<div type="section">
+<pb n="192"/>
+<head rend="h4">4.
+<lb/>
+Aan een <hi rend="i">hooggeleerden</hi> tegenstander.</head>
+<lg type="poem">
+<l>Collega heeft my niet begrepen:</l>
+<l rend="; 1tab">'k Bedoelde 't juist zoo als hy wil.</l>
+<l>'t Verschil van <hi rend="i">rechte</hi> en <hi rend="i">kromme</hi> streepen</l>
+<l rend="; 1tab">Is, wel bezien, een klein verschil.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">5.
+<lb/>
+Aan een <hi rend="i">jeugdigen</hi> tegenstander.</head>
+<lg type="poem">
+<l><hi rend="i">Laatdunkend</hi> jongling, zoo <hi rend="i">verwaten!</hi></l>
+<l rend="; 1tab">'t Bewijst niet veel wat <hi rend="i">gy</hi> bewijst.</l>
+<l>In zulke dingen meê te praten</l>
+<l rend="; 1tab">Past hoofden slechts, met eer vergrijsd.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">6.
+<lb/>
+Aan een <hi rend="i">grijzen</hi> tegenstander.</head>
+<lg type="poem">
+<l>De grijsheid blijft ons eerbiedwaardig.</l>
+<l rend="; 1tab">Maar, is ze ook al de klus niet kwijt,</l>
+<l>Ze is, wat ze ook zijn moog, eigenaardig</l>
+<l rend="; 1tab">Niet op de hoogte van den tijd.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">7.
+<lb/>
+Aan een <hi rend="i">welsprekenden</hi> tegenstander.</head>
+<lg type="poem">
+<l>Komt ge in uitnemendheid van woorden?</l>
+<l rend="; 1tab">Schrijf recht en slecht, al is 't wat grof!</l>
+<l>Een kleed zoo schittrend om te boorden,</l>
+<l rend="; 1tab">Bewijst niet heel veel voor de stof.</l>
+</lg>
+</div>
+<div type="section">
+<pb n="193"/>
+<head rend="h4">8.
+<lb/>
+Aan een <hi rend="i">zakelijken</hi> tegenstander.</head>
+<lg type="poem">
+<l>Leer eerst uw <hi rend="i">taal</hi> wat beter schrijven!</l>
+<l rend="; 1tab">Gebruik den Siegenbeekschen vijl!</l>
+<l>Uw aanval zal niet lang beklijven;</l>
+<l rend="; 1tab">Hy heeft zijn vonnis in den stijl.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">9.
+<lb/>
+Niet <hi rend="i">aan</hi>, maar <hi rend="i">van</hi> een <hi rend="i">duchtbaren</hi> tegenstander.</head>
+<lg type="poem">
+<l rend="; 1tab">De man is overal weerlegd</l>
+<l rend="; 2tab">Door alle knappe luiden,</l>
+<l rend="; 1tab">En 't beste dat hy schrijft en zegt</l>
+<l rend="; 2tab">Heeft weinig te beduiden;</l>
+<l rend="; 1tab">Ook heeft hy onze weinigheid</l>
+<l rend="; 2tab">Niet enkel aangevallen,</l>
+<l rend="; 1tab">Maar zelfs (met afschuw zij 't gezeid!)</l>
+<l rend="; 2tab">Dien lievling van ons allen!</l>
+<l rend="; 1tab">En zoo het groot publiek eens wist,</l>
+<l rend="; 2tab">Zoo als 't ons is gebleken,</l>
+<l rend="; 1tab">Hoe dikwijls zich die man vergist,</l>
+<l rend="; 2tab">Dien men zoo stout hoort spreken!</l>
+<l rend="; 1tab">Één staaltje': op zeekre pagina,</l>
+<l rend="; 1tab">Staat a + b voor b + a.</l>
+</lg>
+</div>
+<div type="section">
+<pb n="194"/>
+<head rend="h4">10.
+<lb/>
+Aan <hi rend="i">allerlei</hi> tegenstanders.</head>
+<lg type="poem">
+<l rend="; 1tab">Ik ben de liefde zelf, en zoo er iets ontbreekt</l>
+<l>Aan mijn geleerdheid - nu! wie zou zich feilloos prijzen?</l>
+<l>Maar gy zijt zeedlijk slecht. En vraagt gy naar bewijzen?</l>
+<l rend="; 1tab">Dit ééne: dat gy my gedurig tegenspreekt.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Ontboezeming.</head>
+<lg type="poem">
+<l><hi rend="b">O</hi><hi rend="sc">nt</hi>boezeming. Ja; zoo dat waar was! maar ik ducht</l>
+<l rend="; 2tab">Gy zijt er nog geboezemd afgekomen,</l>
+<l rend="; 3tab">En schept alleen een weinig lucht</l>
+<l rend="; 2tab">Om straks op nieuw ons te overstroomen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Scheppend genie.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="b">J</hi>an is geen'middelmatig man,</l>
+<l rend="; 3tab">Maar een genie, dat scheppen kan.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">Welzeker! uit zijn meesters pan.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="195"/>
+<head rend="h3">Germanismen.</head>
+<lg type="poem">
+<l><hi rend="b">G</hi>y hebt my, lieve Buren!</l>
+<l>Uw <hi rend="i">toonstuk</hi> niet te sturen;</l>
+<l rend="; 1tab">Ik zing niet gaarne <hi rend="i">op Duitsch;</hi></l>
+<l>Houdt, daar gy my door 't oor boort</l>
+<l>Met uw afgrijslijk <hi rend="i">voorwoord</hi>,</l>
+<l rend="; 1tab">Uw <hi rend="i">liedertafels</hi> thuis.</l>
+<l>Verlost my van de <hi rend="i">daadzaak</hi>,</l>
+<l>Waarover ik my kwaad maak,</l>
+<l rend="; 1tab">Gewis niet zonder grond;</l>
+<l>En <hi rend="i">wijs</hi>, om my te grieven,</l>
+<l>Niet <hi rend="i">heen</hi> naar de <hi rend="i">omloopsbrieven</hi>,</l>
+<l rend="; 1tab">Die gy my onlangs zondt.</l>
+<l>Och, dat de Nederlanden</l>
+<l>Toch <hi rend="i">sporeloos</hi> verbanden</l>
+<l rend="; 1tab">Wat <hi rend="i">voortgaat</hi> uit uw huis,</l>
+<l>In plaats van <hi rend="i">door te voeren</hi></l>
+<l>Wat burgeren en boeren</l>
+<l rend="; 1tab">Tot schande strekt of kruis.</l>
+<pb n="196"/>
+<l rend="; 2tab">Ons Neerduitsch was welluidend,</l>
+<l rend="; 2tab">Zoo lang gy 't niet <hi rend="i">beduidend</hi></l>
+<l rend="; 3tab">Met valsche klanken schond;</l>
+<l rend="; 2tab">Ons Neerduitsch was verstandig,</l>
+<l rend="; 2tab">Zoo lang men 't niet onhandig</l>
+<l rend="; 3tab">Verplooide naar uw mond;</l>
+<l rend="; 2tab">Ons Neerduitsch zal slechts leven,</l>
+<l rend="; 2tab">Zoo lang wy 't niet vergeven</l>
+<l rend="; 3tab">Met vruchten van uw grond.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Taal-censuur.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">V</hi>erkiesbaar zijt gy naar de wet;</l>
+<l>Dat 's daaglijks in de krant te lezen.</l>
+<l rend="; 1tab">Maar onze taal is naauwgezet,</l>
+<l rend="; 3tab">Dat blijkt in dezen.</l>
+<l rend="; 1tab">Een uitgang maakt een groot verschil:</l>
+<l rend="; 1tab">Wees zoo <hi rend="i">verkiesbaar</hi> als je wil,</l>
+<l><hi rend="i">Verkieslijk</hi> zult ge nimmer wezen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Medebroeder.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i"><hi rend="b">A</hi>mptsbroeder</hi><note n="*" place="foot">Zie bl. 179.</note> - Foei! dat 's stijf en koel!</l>
+<l rend="; 1tab">Slechts <hi rend="i">Medebroeder</hi> toont gevoel.</l>
+<l>Oprechtheid, warmte, liefde, vrede,</l>
+<l>'t Komt alles met dat <hi rend="i">Mede</hi> mede.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="197"/>
+<head rend="h3">Het juiste midden.</head>
+<lg type="poem">
+<l><hi rend="b">J</hi>a, 't juiste midden! Maar waar tusschen? Tusschen dwaling</l>
+<l>En dwaling. 't Mag zoo zijn; maar geldt dit voor bepaling</l>
+<l>Van 't juiste middelpunt der Waarheid? Die dit zeit,</l>
+<l>Geeft haar een lucht-bestaan van loutre onzekerheid,</l>
+<l>Van 't aantal, van de maat der dwalingen afhanklijk,</l>
+<l>En niet bestaande, niet erkenbaar dan door haar.</l>
+<l>De Wijze vrage dan niet langer: Wat is waar?</l>
+<l>Alleen het onderzoek: Hoe dwaalt men? is belangrijk.</l>
+<l>Maar hoe een waarborg uit te vinden, dat 't bescheid</l>
+<l>Geen nieuwe dwaling voegt by de oude onzekerheid?</l>
+<l rend="; 1tab">Neen, wand'laar! zie niet om naar die den weg slechts raden;</l>
+<l>Maar vraag dien eeniglijk aan die hem weet en wijst;</l>
+<l>Betreed hem, leidt hy ook langs onbezochte paden,</l>
+<l>Met onverschilligheid voor die u laakt en prijst.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Anders.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">J</hi>an rekent: ‘Twee maal zes is <hi rend="i">zeven.</hi>’</l>
+<l rend="; 3tab">Maar Piet zegt: ‘<hi rend="i">Zeven</hi> is wat min.’</l>
+<l rend="; 3tab">‘“'t Is <hi rend="i">twalef!</hi>”’ valt er Krelis in;</l>
+<l rend="; 2tab">Maar dit acht Piet ‘weer overdreven.’</l>
+<l rend="; 3tab">En Krelis, die dus overdrijft,</l>
+<l rend="; 3tab">Vergeet dat dwalen menschlijk blijft,</l>
+<l rend="; 2tab">En wil 't maar niet gewonnen geven!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="198"/>
+<head rend="h3">Intuïtie.</head>
+<lg type="poem">
+<l rend="; 1tab">'k <hi rend="b">S</hi>chiet hoenders in de vlucht, en op den aanslag, Jan!</l>
+<l rend="; 1tab">Gy enkel in den zit, en legt een half uur an.</l>
+<l>Nogthands beschouwt ge u zelf met innig welbehagen,</l>
+<l rend="; 2tab">En noemt het <hi rend="i">wetenschaplijk</hi> jagen.</l>
+<l rend="; 3tab">Maar Jantjen! wat is 't mijne dan?</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">‘Het uwe! Durft gy daar naar vragen?’</l>
+<l rend="; 3tab">Daar neemt men geen notitie van.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Prijsvraag.</head>
+<lg type="poem">
+<l><hi rend="b">E</hi>rnst is zwartgalligheid; dat 's duizendmaal verklaard.</l>
+<l>Wat kleur van gal gaat met lichtzinnigheid gepaard?</l>
+<l>Of wel behoort men hen, die de ernstigen verdoemen,</l>
+<l rend="; 2tab">Steeds ‘duifjens <hi rend="i">zonder</hi> gal’ te noemen?</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Arabische menschenhaat.</head>
+<lg type="poem">
+<l>‘<hi rend="b">D</hi>e wareld is een Kreng; die haar begeeren Honden;’</l>
+<l>Zegt de Arabier, die voor geen honden achting heeft.</l>
+<l rend="; 3tab">'t Opzittend soort, dat pootjens geeft,</l>
+<l rend="; 3tab">Wordt zeker niet by hem gevonden.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="ruck005"/>
+</interpGrp>
+<pb n="199"/>
+<head rend="h3">Naar Rückert.</head>
+<head rend="h4">I.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">I</hi>s iets voor uw bereik te hoog,</l>
+<l>Gy moet den blik niet derwaarts keeren,</l>
+<l rend="; 1tab">Ten zij dan met zoo scherp een oog</l>
+<l>Dat u doet zien: ‘Ik kan 't ontberen.’</l>
+</lg>
+<div type="section">
+<head rend="h4">II.</head>
+<lg type="poem">
+<l>Waarheid is het lichtste spel van allen.</l>
+<l rend="; 2tab">Doe u voor gelijk gy zijt;</l>
+<l rend="; 2tab">En vrees geen dan dit verwijt:</l>
+<l rend="; 3tab">Uit uw rol te zijn gevallen.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Zelfkritiek.</head>
+<lg type="poem">
+<l><hi rend="b">D</hi>e zedigheid dient meest bestreden;</l>
+<l>Zy vonnist zonder recht of reden,</l>
+<l rend="; 1tab">Zy geeft een valsch getuigenis....</l>
+<l rend="; 1tab">Toch heeft zy 't altijd juist niet mis.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="200"/>
+<head rend="h3">Maat en toon.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">W</hi>at een lied kan doen behagen</l>
+<l rend="; 3tab">Is de toon,</l>
+<l rend="; 3tab">Is de maat.</l>
+<l rend="; 1tab">Waar die goed zijn aangeslagen,</l>
+<l rend="; 3tab">Is een schoon</l>
+<l rend="; 3tab">Dat volstaat.</l>
+<l rend="; 1tab">Echte Kunst, naar recht en reden,</l>
+<l rend="; 2tab">Dringt op meerder schoonheên aan;</l>
+<l rend="; 1tab">Maar het oor is reeds te vreden,</l>
+<l rend="; 2tab">'t Hart getroffen en voldaan.</l>
+<l rend="; 1tab">Toon en maat doet leêge galmen</l>
+<l rend="; 1tab">Klinken als verheven psalmen;</l>
+<l rend="; 1tab">Zich in toon en maat vergissen</l>
+<l rend="; 1tab">Godentaal haar werking missen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Volkomenheid.</head>
+<lg type="poem">
+<l>'t <hi rend="b">G</hi>enie maakt nog den Kunstnaar niet,</l>
+<l rend="; 2tab">Al grijpt het naar zijn kroon.</l>
+<l>Wien voegt zy dan dien godenzoon,</l>
+<l rend="; 1tab">Die in de Kracht</l>
+<l rend="; 4tab">de maat betracht,</l>
+<l rend="; 2tab">Naauwkeurigheid in 't Schoon.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="201"/>
+<head rend="h3">Navolging.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">G</hi>aat u een meester voor,</l>
+<l rend="; 3tab">Volg, maar blijf vrij!</l>
+<l rend="; 2tab">Treed op zijn weg, maar rij</l>
+<l rend="; 3tab">Niet in zijn spoor.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Keurigheid.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">W</hi>at schoon is moet eenvoudig zijn;</l>
+<l>Maar Eenvoud mag geen ruwheid wezen.</l>
+<l rend="; 1tab">Eenvoudig zij 't gevoel, maar fijn;</l>
+<l>Eenvoudig 't woord, maar uitgelezen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vleugels.</head>
+<lg type="poem">
+<l><hi rend="b">Z</hi>oo gy my boeien wilt en treffen</l>
+<l rend="; 3tab">Door Poëzy,</l>
+<l>Zoo dwing my 't oog omhoog te heffen,</l>
+<l rend="; 3tab">Zweef boven my!</l>
+<l>Van dichters wensch ik liefst te ontmoeten</l>
+<l rend="; 3tab">'t Gevleugeld soort;</l>
+<l>Beleefd wil ik ook de andren groeten,</l>
+<l rend="; 3tab">Maar pak my voort.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="202"/>
+<head rend="h3">Waarschuwingen.</head>
+<lg type="poem">
+<l><hi rend="b">P</hi>luk rozen naar uw lust, en laat het boomtjen snoeien;</l>
+<l>Hoe meer gy snoeit en plukt, te milder zal het bloeien.</l>
+<l>&nbsp;</l>
+<l>Maar laat geen ruwe hand in 't plukken kracht gebruiken;</l>
+<l rend="; 1tab">Want die de wortels ophaalt, doodt de struiken.</l>
+<l>&nbsp;</l>
+<l>En die de struiken doodt, heeft weinig regt tot toornen,</l>
+<l rend="; 1tab">Zoo hy zijn vingers kwetst aan scherpe doornen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Een is noodig.</head>
+<lg type="poem">
+<l rend="; 5tab"><hi rend="b">E</hi>en schoone leest,</l>
+<l rend="; 6tab">Een edel bloed,</l>
+<l rend="; 5tab">Een rijke geest,</l>
+<l rend="; 6tab">Een vroom gemoed,</l>
+<l rend="; 4tab">Alles is hy waard</l>
+<l rend="; 4tab">Die dit samenpaart;</l>
+<l rend="; 2tab">Maar die het laatste alleen bezit,</l>
+<l rend="; 4tab">Heeft ook genoeg aan dit.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Opmerking.</head>
+<lg type="poem">
+<l rend="; 2tab">'t <hi rend="b">V</hi>olledig beeld voldoet niet recht,</l>
+<l rend="; 3tab">En moet voor d' omtrek wijken.</l>
+<l rend="; 2tab">Portretten lijken doorgaans slecht;</l>
+<l rend="; 3tab">De meeste charges lijken.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="203"/>
+<head rend="h3">Zwijgen.</head>
+<lg type="poem">
+<l><hi rend="b">G</hi>y ziet alleen maar moed, waar moedig wordt gesproken.</l>
+<l rend="; 1tab">Leer, Justus! de waardy van 't zwijgen ook vermoên.</l>
+<l>Daartoe heeft menigmaal aan sprekers 't hart ontbroken;</l>
+<l rend="; 1tab">Ook zwijgen is somtijds een spreken en een doen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Geen deel; maar 't geheel.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="b">E</hi>en weinig menschenkennis schaadt,</l>
+<l rend="; 4tab">En werkt verbittring der gemoederen;</l>
+<l rend="; 3tab">Maar hebt gy ze in een volle maat;</l>
+<l rend="; 4tab">Zoo strekt zy tot verbroederen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Geen orgeltoon, maar uw persoon!</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="b">U</hi>w verzen komen tot mijn ooren.</l>
+<l rend="; 3tab">Maar 'k hoor een mond, geen mensch daarin;</l>
+<l rend="; 2tab">o Geef my ook den mensch te hooren,</l>
+<l rend="; 5tab">Opdat ik hem bemin.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="204"/>
+<head rend="h3">Oog en hart.</head>
+<lg type="poem">
+<l><hi rend="b">E</hi>en blik die tot in 't binnenst ziet...</l>
+<l rend="; 1tab">Ach, welk een gaaf voor u en my!</l>
+<l>Mijn Heiland! geef me uw oogen niet</l>
+<l rend="; 1tab">Of geef me uw hart er by.</l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>

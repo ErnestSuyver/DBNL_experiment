@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Iwein van Aelst (1128); Het blijspel van Mevrouw de Caumartin</title>
+               
+               <author>Ph. Blommaert</author>
+               <author>A.L.G. Bosboom-Toussaint</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Iwein van Aelst (1128); Het blijspel van Mevrouw de Caumartin</hi> van Ph. Blommaert en A.L.G. Bosboom-Toussaint uit 1842. De eerste druk van <hi rend="i">Het blijspel van Mevrouw de Caumartin</hi> dateert van 1837.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">blom013iwei01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2016 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Gent, signatuur: Ace 5367, scans van Google Books</idno>
+               </bibl>
+               <p>Ph. Blommaert en A.L.G. Bosboom-Toussaint, <hi rend="i">Iwein van Aelst (1128); Het blijspel van Mevrouw de Caumartin</hi>. L. Hebbelynck, Gent 1842</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Iwein van Aelst (1128); Het blijspel van Mevrouw de Caumartin</title>
+               
+               <author>Ph. Blommaert</author>
+               <author>A.L.G. Bosboom-Toussaint</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Iwein van Aelst (1128); Het blijspel van Mevrouw de Caumartin</title>
+               
+               <author>Ph. Blommaert</author>
+               <author>A.L.G. Bosboom-Toussaint</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2016-07-22</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="1"/>
+<p>IWEIN VAN AELST.</p>
+<p>DOOR</p>
+<p>Jonkheer Ph. Blommaert.</p>
+<p>HET BLYSPEL</p>
+<p>VAN MEVROUW DE CAUMARTIN.</p>
+<p>DOOR</p>
+<p>Jufvrouw A.L.G. Toussaint.</p>
+<p>Gent,</p>
+<p>L. HEBBELYNCK, DRUKKER-UITGEVER,</p>
+<p>Spanjaerdskasteel, 48.</p>
+<p>1842.</p>
+<pb rend="blank" n="2"/>
+<pb n="3"/>
+<p><hi rend="b">IWEIN VAN AELST.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="b">1128.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="sc">door</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="b">Jonkheer Ph. Blommaert.</hi></p>
+<pb rend="blank" n="4"/>
+</div>
+</cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="wijne001"/>
+    <interp type="primair" value="gent_001"/>
+    <interp type="primair" value="aalst003"/>
+</interpGrp>
+<pb n="5"/>
+<q rend="bq">Itaque terra Flandriae divisa est, ut alii adhuc fidem conservantes et hominia comiti Willelmo, cum ipso militarent: alii peroptarent Theodoricum sicut Daniel et Iwan, et Gandenses et Brugenses; alii Arnoldum, sicut illi in S. Andomaro et vicinia illa, alii comitem ex Montibus praeferendum crederent. Igitur in tantâ divisione desolata est terra.
+<lb/>
+<hi rend="sc">Galbertus</hi>, <hi rend="i">Not. Brugensis.</hi></q>
+<pb rend="blank" n="6"/>
+<div type="section">
+<pb n="7"/>
+<head rend="h3">I.
+<lb/>
+Wynendale.</head>
+<head rend="h4">1.</head>
+<p>De verheffing van Willem den Noorman op Vlaenderen's troon was voor het land eene bron van onheilen, tweedragt en burgerkryg. - In de steden werd hy meer door dwang dan gewillig als Vorst erkend en ingehuld; ten platte lande weigerden hem vele Leenhouders den eed van trouw, daer zy hem als hun natuerlyken Heer niet aenzagen: en in hun versterkte sloten trotseerden zy zyne magt. Welhaest stonden verscheidene steden tegen den nieuwelings verhevenen Graef op: in Ypre bad Willem van Loo het gebied in handen gekregen, en trachtte zich door geheel Vlaenderen als Graef te doen aennemen. Arnold de Deen hield zich aen 't hoofd eener gewapende
+<pb n="8"/>magt te Sint Omaers, en gansch de westkant ondersteunde zyne poogingen. Gent, Brugge en de aenzienlykste en magtigste leenheeren waren heimelyk voor Diederik van den Elzas genegen, om dat de graeflyke kroon, volgens regt van opvolging, aen dezen toekwam. Dagelyks verminderde Willem's aenzien, en haest hielden slechts weinigen nog zyne zyde, vooral sinds men zag dat hy Vlaenderen's algemeene staetsbelangen aen zyn eigen hoogmoed en baetzucht wilde slagtofferen.</p>
+<p>Vlaenderen's staetkundige streving was die van Willem regtstreeks tegenover gesteld.</p>
+<p>Willem, door zyn oom van het koningryk Engeland en het hertogdom Normandie onterfd, droeg dezen een onuitwischbaren haet toe, en voedde nog steeds, in het geheimste zyns harten, de hoop van zyne eens ontwrongene bezittingen weder te bekomen.</p>
+<p>Vlaenderen, waer nyverheid en handel reeds hoog waren geklommen, wilde met de naburige landen rust en vrede hebben, voornamentlyk met Engeland: want de betrekkingen tusschen de beide kusten der Noordzee, waren toenmaels als heden zeer levendig.</p>
+<p>By het erkennen van Willem dacht men, dat hy als Graef van Vlaenderen, 's Lands belangen alleen zou betrachten, en handel en nyverheid aldaer zou voorstaen en aenmoedigen; maer het tegenovergestelde greep plaets. Een heimelyke kryg borst tusschen de volken der
+<pb n="9"/>beide landen uit: de handel met Engeland was onderbroken, en, by het stremmen der schipvaert, lag ook de nyverheid aen banden: de bloei der steden verminderde, de landbouw kwynde, en in armoede lag het gansche land gedompeld; de binnenlandsche krygstogten, welke hy tegen zyne wederstrevers ondernam, verdelgden oogst en hoven; de rustige landbouwers, uit hunne woonsten verjaegd, waren gedwongen door de vlugt het gevaer te ontkomen: en by benden zwierven de ongelukkigen in de uitgestrekte bosschen, welke alsdan de hooge heuvelklingen onzes lands nog bedekten.</p>
+<p>Vlaenderen's vruchtbare velden werden nu aen alle slach van verwoestingen en geweldenaryen blootgesteld. Sluimerende veeten ontwaekten, geslachten stonden tegen geslachten over, en afzonderlyke wrok verbitterde den reeds zoo fel woedenden kryg. Noch regt, noch wet werd geëerbiedigd: het geweld alleen had gezag, en zwaeide zyn yzeren scepter over de verdeelde en vyandlyke ingezetenen. Het lot des oorlogs was weifelend en onzeker; heden kwam deze party te boven, morgen verhieven de onderdrukten het hoofd: en wie kon de weêrwraek dezer woedenden beteugelen?</p>
+<p>Jaren lang had de oorlog tegen Willem van Loo voortgeduerd; maer eindelyk werd deze gedwongen Ypre te verlaten, en naer Engeland te vlugten. Hierop volgde de kryg tegen Arnold, die na het overrompelen van
+<pb n="10"/>Veurne zyne regten op Vlaenderen in Willem's handen moest afstaen.</p>
+<p>Willem van Normandie, thans zegevierend te Wynendale terug gekomen, meende dat zyne magt onverwrikbaer was gevestigd, en hy besloot Vlaenderen als een veroverd land aen zynen hoogmoed op te offeren.</p>
+<p>De leenen, wier heeren hem niet erkenden, of by het oproepen des bans in den kryg niet verschenen, verklaerde hy aen de kroon vervallen, en schonk deze aen vreemde krygsoversten, die aen het hoofd van waelsche huerlingen hem in den laetsten togt hadden gediend.</p>
+<p>Hy besloot dezen zoo ontstaetkundigen als geweldigen oorlog met het innemen van de burgt te Orscamp aen te vangen, en dit leen was reeds aen zyn vertrouweling Eustachius van Agen afgestaen. Verder gingen Ghistel, Maldeghem, Pouke en twintig andere kasteelen hetzelfde lot ondergaen, in der voege dat hy Vlaenderen als door een rydend oorlog wilde verwoesten en het verpletterde land aen zyne gunstelingen ten buit geven.</p>
+<p>De vreemde huerbenden, slechts naer buit en plunderingen hygende, vernamen dit besluit met geestdrift; maer geheel anders klonk de mare er van in 't oor der vlaemsche veldoversten, die Willem in zyne togten waren gevolgd.</p>
+<p>Te vergeefs hadden zy den Graef gebeden Philips van
+<pb n="11"/>Orscamp in genade te ontvangen; te vergeefs had Philips zelve een bode afgezonden om hem hulde over het leen aen te bieden. Willem bleef halstarrig by zyn besluit, en de bode werd hoonend weggezonden.</p>
+<p>Dit bragt de misnoegdheid in het land ten top: al de leenhouders waren voor hetzelfde lot beducht, en zy voegden zich by de misgenoegden steden, welke reeds openlyk morden. Ook weigerden zy hem op deze reis te volgen, en dagelyks vernam men het vertrek van de eene of andere vlaemsche banier, die den standaerd van Willem verliet, en de omstreken van 't kasteel van Wynendale, waer men vereenigd was, ontweek. Het was in deze omstandigheid dat Iwein van Aelst eene laetste pooging hy Willem, ten voordeele van den heer van Orscamp, aenwendde; maer zyne bede verworpen ziende, verliet hy insgelyks het kasteel en keerde, kort daerop, met zyne bende naer Aelst terug.</p>
+<div type="section">
+<head rend="h4">2.</head>
+<p>Iwein van Aelst, uit het vermaerde gentsche huis gesproten, blonk onder Vlaenderen's genooten boven allen uit, zoo wel wegens zyne uitgestrekte bezittingen als betrekkingen, maer nog meer door den roem, welken hy als ridder had verworven. Zyne daden waren het geliefde onderwerp der zwervende zangers; geheel het land door
+<pb n="12"/>weêrklonk zyn lof, en werd met geestdrift door zyne vrienden, met eerbied door zyne vyanden vermeld. Zyn naem was wyd ontzien, en zyn oorlogskreet: <hi rend="i">Iwein van Aelst!</hi> joeg de vrees in de vyandlyke drommen, en waer hy verscheen bleef hy steeds overwinnaer.</p>
+<p>In de tyden van Willem's voorzaet bekleedde hy aen Karel's zyde eene voorname plaets, 't zy er kryg ontstond of het land op een dagvaert vereenigd was. Steeds werd zyne stem met aendacht en goedwilligheid aenhoord, en niet zeiden had men zyn raed in netelachtige staetszaken ingeroepen en meermael gevolgd. Thans, eilaes! welke verandering? men gewaerdigt zich nauwelyks zyne vertoogen te aenhooren.</p>
+<p>Ook dit koel onthael en de strenge stem des Graven deden hem het harte rillen, en Willem's laetste woorden klonken hem als het trompet des oordeels in het oor: ‘Orscamps heer stond my tegen, zyne burgt zal te gronde gaen. Ik ben Vorst, heer Burggraef, - ik heb hier te lande geene genooten; allen zyn my onderhoorig: de volgleenen zelve zullen regtstreeks van my gehouden worden. Wee hem die my weêrstreeft!’</p>
+<p>Sinds dit onthael, verliet Iwein Willem's zyde: hy zal een geweldigen vorst den arm niet onderschragen om een scepter te helpen torschen, welke op hem kon nedervallen. Zyn besluit is genomen: hy zal Willem's standaerd verlaten, rond welken slechts vreemde benden zyn ge-<pb n="13"/>schaerd, die, onder 't geleide van Vlaenderen's wapen, Vlaenderen verwoesten en in de uiterste armoede dompelen.</p>
+<p>Wat drukkende gedachten bezwaerden zyn geest, als hy de burgt verliet, waer hy meermael in zyne jeugd onder 't regt vaderlyk bestuer van Karel den Goeden, zoo heerlyk werd bejegend. Traegzaem begaf hy deze stille zalen, en tot Boudewyn van Lede, zyn schildknaep, het woord voerende, sprak hy met ontroerde stem: ‘Hoe is Wynendale veranderd sinds de heugelyke dagen dat Karel hier troonde, Karel, die door de naburige mogendheden geëerbiedigd en door zyn volk bemind werd. Thans omringen vreemden den troon, en vreemde klanken weêrgalmen langs deze gewelven waer eertyds slechts vlaemsche toonen klonken. In Vlaenderen torscht een vreemdeling dekroon, en, van huerlingen omringd, durft hy tegen Vlaenderen te samen spannen: en wy, lafhartigen! wy buigen den nek! - Onder Karel waren Vlamingen alleen rond den troon geschaerd, Vlamingen alleen voerden het bevel over de troepen, en het land stond hoog in welvaert en aenzien, deszelfs landbouw was bloeijend, deszelfs handel en nyverheid in een voorspoedigen staet.</p>
+<p>‘Hoe levendig en vreugdig was dan dit slot: en thans hoe schynt het stil en verlaten. Welke gedenkwaerdige feest, die nooit myn geheugen ontvliegen zal, werd hier
+<pb n="14"/>korts op Karel's inhulding gegeven, en de vervolgde Philips van Orscamp gaf hier by deze gelegenheid een luisterlyk tournoi.’ Met zyn schildknaep de venster nader tredende, en hem het neêrhof wyzende, vervolgde hy, niet zonder aendoening: ‘Het perk was van aen de hoeve tot aen het bosch afgebakend. Een ontelbare menigte bedekte het veld. Hier, voor het kasteel, was het bedekt paviljoen voor den Graef en zyn gevolg; daer over hetgene voor de <hi rend="i">Prinses der schoonheid;</hi> links was de tent der beroepers, regts degene der verweerders. Daer was de graeflyke familie tegenwoordig: Willem van Loo, Arnolf de Deen, Willem van Poelie, Simon van Lorreinen, Diederik van den Elzas, met zyn beminlyke dochter Lauretta, die, tot koningin der feest gekozen, my de verwinnaers-kroon toereikte, en aen wier zyde ik des avonds aen het banket nederzat.’</p>
+<p>Hier zweeg zyne stem, schoon hy mymerend op de zelfde plaets bleef staren. Een stroom van gedachten vloeide hem door het brein, en met benepen hart dacht hy: sinds vyf jaren verliet Lauretta dit land, en zou zy in Lorreinen Vlaenderen niet vergeten hebben! Door deze herinneringen ontsteld, trad hy zwaermoedig en traegzaem uit het slot.</p>
+</div>
+<div type="section">
+<pb n="15"/>
+<head rend="h4">3.</head>
+<p>De benden, die, na het veroveren van Veurne, zegevierend met Willem waren terug gekeerd en onder de vaen werden gehouden om de wederspannige burgten, zoo men ze noemde, te onderwerpen, lagen in de dorpen en hofsteden der omstreken van Wynendale en Thorhout verspreid.</p>
+<p>Waer deze toomlooze drommen verschenen, vlugtten de landbouwers met vee en met have; vele van goed ontbloote Vlamingen zwierven als ballingen in hun eigen land: maer noodlottig was het ner voor den vyand, die in hun handen viel.</p>
+<p>In eene verlaten hoeve, digt by den weg van Wynendale naer Thorhout, was het vaendel troepen van Eustachius van Agen gelegerd, die zich boven allen in woestheid en wreedheid deed uitschynen.</p>
+<p>Het huis, de schuer dienden tot stallingen voor de paerden; op het voorhof waren verscheidene tenten voor de krygers opgeslagen: geschreeuw en gewoel vervingen nu de rust en stilte, welke aldaer nog weinige dagen te voren heerschten. Hier werd voeder aengebragt, hetwelk men op 't veld vóór den oogsttyd afsneed; daer was men met roskammen, ginds met het beslagen der paerden bezig. Voor de tenten maekten de krygers verscheiden groepen uit en kuischten helmen, halsbergen en borstplaten.</p>
+<pb n="16"/>
+<p>Daer by de deur des huizes zaten twee soldaten op de bank neder; een derde stond er naest, en steunde op zyn lang slagzwaerd. Na wat stilzwygend heen- en wederziens, zei deze laetste:</p>
+<p><hi rend="sc">eerste soldaet</hi>.</p>
+<p>Die legeringen ten platten lande zyn vervelend: - waerom ons naer Gent niet gebragt?</p>
+<p><hi rend="sc">tweede soldaet</hi>.</p>
+<p>De Vlamingen willen dat de Graef zyn leger afdanke, en zeggen dat de oorlog een einde heeft genomen by de gevangenneming van Arnold.</p>
+<p><hi rend="sc">eerste soldaet</hi>.</p>
+<p>En gansch 't land is nog vol vyanden; dagelyks wordt de een of de ander onzer gemist, - en waer blyven zy? nu en dan vindt men lyken in een bosch of gracht. Waren wy hier niet, Graef Willem bleef geen week meester in dit helsche land.</p>
+<p>De Graef had al de Vlamingen moeten afdanken, toen die trouwe krygsbenden uit Pikardie hemwaerts kwamen, - en al de burgten en steden bezetten. - Wat heeft zyn Grootheer gedaen, als hy naer Engeland overkwam? De Engelschen wilden met hem redeneeren, en spraken van wetten en gebruiken; maer Willem toonde hun de spits van zyn zwaerd, stiet hun de lans door het lyf te Hastings en stond de leenen aen zyne veldoversten af. Hy kwam te Londen; de borgers spraken hem van vryhe-<pb n="17"/>den en verdragen; maer Willem toonde hun de spits van zyn zwaerd, en noemde zyne mannen tot schepenen der stad. - Waerom volgt de Graef dit voorbeeld niet? Waerom jaegt hy de Vlamingen niet uit zyn leger en leidt hy ons niet naer Gent?</p>
+<p><hi rend="sc">derde soldaet</hi>.</p>
+<p>Hy moest burgt by burgt, stad by stad door geweld dwingen. Verre togten, hevige stryden, stormloopen, plonderen, is myn grootste lust; maer hier zoo op elkander te staen kyken, wat armzalig leven!</p>
+<p><hi rend="sc">tweede soldaet</hi>.</p>
+<p>Waerom zyt gy niet meêgetogen om de levensmiddelen in te zamelen?</p>
+<p><hi rend="sc">eerste soldaet</hi>.</p>
+<p>Zy blyven lang weg; ik vrees voor onheilen; wie weet of zy terug komen! -</p>
+<p>Daer zyn zy, zeide een hunner; want zy hoorden paerdengetrappel op de baen. - Neen, zeide een ander, ik zie een vaendel wapperen: het wapen van Aelst; en allen liepen te samen, en verheugd spraken zy: ‘Thans zal hy ons in den weg niet meer staen met zyne Witvoeters: door hem is ons menige burgt ontvallen, menig dorp te plonderen belet; thans zal onze veldheer de eerste plaets aen Willem's zyde hebben.’</p>
+<p>Nauwelyks was de krygsbende van Iwein voorby, of de uitgezondene makkers trokken met een kalf als in triomf
+<pb n="18"/>de poort binnen. De soldaten ontvingen hen juichend. ‘Gy vertoefde lang, zeide een der thuis geblevenen; wy vreesden dat gy niet meer zoudt terugkeeren en mogelyks in eene hinderlage waert omgekomen.’ Hier op antwoordde het hoofd der stroopersbende (want wat verschil is er tusschen bandieten en diergelyke toomelooze legerscharen?): ‘Wy bekwamen niets zonder vechten. Alle de hoeven, waer wy voorby trokken op meer dan eene uer afstand, waren ontruimd en teenemael ledig, en wy moesten ongeveer twee mylen ver gaen eer wy eene nog bewoonde hofstede aentroffen. Maer toen de boer gewaer werd dat wy naer den stal kwamen en ons bereidden het vee mede te leiden, nam hy dit euvel op. Hy begon te schreeuwen en te tieren. Wy wisten niet wat hy wilde, toen hy met geheel zyn huisgezin met rieken, spaden, vorken, vlegels en ander werktuig in handen, op ons viel, die dit onthael niet verwachtende waren. Hy stiet Guyot de vork door de leden dat deze dood ter aerde viel; maer nu had hy genoeg gewoed. Met onze lans doorstaken wy hem, en de knechten, die hem omringden, vielen gewond en stervende neder: zyne vrouw en dochters meenden zich met gesloten deur in veiligheid; maer met een boom liepen wy de deur open, en haest was het huis door niemand meer bewoond: eer wy vertrokken staken wy hoef en stal in brand.’</p>
+<pb n="19"/>
+<p>Allen juichten en riepen den spreker toe: ‘Zeer goed! zeer goed! zoo moet men de Vlamingen tot ontzag brengen.’ Maer hy vervolgde: ‘Den boer heb ik aen een boom voor zyn hoeve opgehangen, op dat hy tot voorbeeld aen de voorbytrekkenden moge dienen.’</p>
+<p>Hierop zweeg hy, zegevierend rond zich henen ziende; maer zyne makkers waren reeds bezig verscheiden vuren aen te leggen, om er de stukken van het gevierendeeld kalf over te hangen en ze te braden. En daer rondgeschaerd, zat de woeste krygsbende, zwetsende en spottende, neder.</p>
+<p>Welhaest verscheen er een schildknaep, die hun bevel bragt van des avonds te Wynendale, waer Willem zyne magt te samen trok, aen te komen, om 's anderendaegs 's morgens het slot Orscamp te bespringen. Straks was die mare door gansch de bende verspreid, die ze met vrengde vernam. ‘Morgen, zeî de een, nemen wy het noenmael te Orscamp: daer zal ons geen wyn of bier ontbreken!</p>
+<p>- ‘Gedenkt ge u nog, hernam een ander, de burgt te Merchem? Reeds verscheiden dagen lagen wy voor dit slot en begonnen aen de overwinning te twyfelen; want de muren van dat nest waren sterk, de torens hoog en de grachten breed; de bezetting verweerde zich dapper, en haer ontbrak geene levensmiddelen; doch, daer zy aen het ontzet wanhoopte, deed zy voorslagen van overgaef.
+<pb n="20"/>Alle de voorwaerden, stonden wy hun, zonder eenig beding, toe; maer dit belette niet dat wy de gansche bezetting, toen wy meester van 't slot waren, over den trans in den wal wierpen, waer alles omkwam. Wat een vrolyke dag! velen liepen naer de bovenzalen om geld en juweelen te vinden; maer wy, wy drongen in de keuken en kelders, en daer vestigden wy ons kwartier.’</p>
+</div>
+</div>
+</div>
+<div type="chapter">
+    <interpGrp>
+                <interp type="primair" value="gent_001"/>
+            </interpGrp>
+<pb n="21"/>
+<head rend="h3">II.
+<lb/>
+Pouke.</head>
+<p>Iwein had zyne mannen, onder 't geleide van zyn schildknaep, over Deinze en Gaveren naer hunne haerdsteden teruggezonden. Hy zelf was den weg van Winghene ingeslagen, en op een vluggen klepper gezeten, toog hy naer Pouke, om den heer van het slot aldaer, die Graef Willem niet had erkend en nog altyd opentlyk tegenstond, met het gevaer dat hem bedreigde bekend te maken.</p>
+<p>Neêrslachtig en droefgeestig doorreed hy de verlaten en eenzame baen; de zonnestralen beschenen zyn blikkerenden helm en spiegelglad harnas, welke de by elken tred afwisselende landschappen en gezichtpunten duizendwerf weêrkaetsten; even afwisselend waren de gedachten, die elkander in Iwein's bewogen geest opvolgend
+<pb n="22"/>vervingen. Hier zag hy eene verwoeste en verbrande hoeve, daer het veld van deszelfs onrype vruchten ontbloot. By het gezicht van die verpletterde velden, brak hem het harte van verontwaerdiging, en weenend over 't neêrgezonken en verdrukte Vlaenderen zwoer by zyn arm aen 's Lands redding te wyden.</p>
+<p>Doch de weg verkortte onder 't getrappel van zyn paerd, en eer hy het dacht, verscheen hy vroeg in den avond voor de sterke burgt te Pouke.</p>
+<p>Iwein werd in eene zael geleid, waer de heer des slots, Jan van Pouke, met den Voorschepen der stad Gent, Damman, ernstig in gesprek was.</p>
+<p>De heer van Pouke was een deftige en eerbiedwekkende grysaerd; schoon zyne door de jaren verstramde lidmaten zyn gang vertraegd hadden, was zyn geestvermogen in al deszelfs veêrkracht gaef gebleven. Van onder zyne gryze wimpers vonkelde hem het vuer uit de levendige oogen; zyne redenen waren gegrond en krachtig, zyne stem nog helderen zyne wyze van spreken nadrukkend. Niet klein was de roem welken hy, als krygsgezel van Godefried, in zyn togt naer Palestinen had verworven.</p>
+<p>By den moord op Graef Karel gepleegd, stond hy aen het hoofd der vaderlandsche party, die Dirk van den Elzas als opvolger trachtte te bekomen. En schoon de fransche koning, van een magtig leger gevolgd, Willem van Normandie aen het Land voorstelde, en door be-<pb n="23"/>loften van alle slag van vryheden, 't verminderen der tollen en den vryen handel met Engeland en Duitschland, deed aenvaerden en erkennen, bleef Jan van Pouke echter onder de weinige burgtvoogden, die weigerden hem als hun Leenheer aen te nemen. Hy was ook onder de weinigen, die dit zonder gevaer konden doen, daer hy in zyn versterkte burgt den storm van een magtig leger kon trotseeren.</p>
+<p>Iwein, zich tot den heer van Pouke wendende, sprak hem met bewogene stem aldus aen: ‘Ware ik nog met dezelfde gevoelens bezield als wanneer wy ons, nu reeds vier jaren geleden, te Gent aentroffen, en ik in weêrwil van uwe krachtige redenen, den eed van trouw den ingedrongen Graef aflegde, ik zoude hier niet verschynen. Maer uwe voorzeggingen, welke my overdreven, ja schier onuitvoerbaer toeschenen, werden door den Noorman nog ver overtroffen; hy dompelde het land in een poel van onheilen en rampen. - Maer aengezien de Graef de wederzydsche voorwaerden niet nakomt en zyn eed verbreekt, zoo zyn wy ook van alle pligten te hemwaerts ontbonden. Ik voeg my by u om hem te wederstaen, en erken hem niet meer als Vlaenderen's Heer.</p>
+<p><hi rend="sc">de heer van pouke</hi>.</p>
+<p>Wees welkom, Iwein! ik verheug my over uw besluit, en voegden zich eenige burgten by de misnoegde ste-<pb n="24"/>den, haest zagen wy Willem met zyne vreemde huerlingen van Vlaenderen's vryen bodem verdwynen. Thans dat de duitsche keizer de Franschen bevecht, kunnen deze hem in zyne rooftogten niet ondersteunen. Groote rampen moeten door krachtige middelen worden tegengegaen. - De voorschepen der stad Gent, Damman, dien gy voor u ziet, komt van Wynendale terug, waer hy den Graef namens de gentsche gemeente vertoogingen heeft gedaen wegens de steeds vermeerderende tollen, de willekeurige zettingen, maer voornamentlyk over het breken der handelstractaten met Engeland en de Hansesteden. Met verachting werden zyne verzoeken aenhoord en beantwoord!</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">damman</hi>.</p>
+<p>Om een regtstreeksch antwoord te vermyden, zeide hy op een trotschen toon, dat die zaken op de dagvaert te Gent, binnen veertien dagen byeen geroepen, zouden overwogen worden, en dat hy eerlang met Engeland in onderhandeling zou treden. - Maer zyne daden toonen ons beter zyne innige denkwyze, en aen het herstellen van het handelstractaet met Engeland is niet te denken, zoo lang zyn oom, die hem zyne regten ontwrong, te Londen den scepter voert. Hy wil Engeland bestryden, en ziet niet dat de nyverheid, de bron onzer welvaert, hierdoor wordt gestremd; dat dit de oorzaek is der armoede in de steden, waeruit onophoudelyke onlusten en beroerten ontstaen.</p>
+<pb n="25"/>
+<p><hi rend="sc">iwein</hi>.</p>
+<p>De victorie, welke hy te Veurne behaelde, heeft zoodanig zyn geest beneveld, dat hy zich alvermogend in het Land denkt. Nu heeft hy de leenen, die hem nog niet erkenden of zyn standaerd inden laetsten kryg niet volgden, aen hem vervallen verklaerd, om er zyne waelsche veldoversten mede te begiftigen. Morgen zal hy Orscamp bestormen, daerna het slot te Maldegem. Stelt men zyne geweldenaryen geen pael, wie weet waer deze zullen einden; - de wyde grachten en de hooge torens, de sterke muren van Pouke zullen hem niet afschrikken. Hy wil de steden zich onderwerpen, de ambachten en neeringen ontwapenen en zelve de schepenen aenstellen. Hy ziet op Vlaenderen met een verachtend oog neêr, dat hy slechts als eene rampzalige schor, der zee ontwoekerd, beschouwt, nauwelyks waerdig door hem geregeerd te worden; enkel geschikt hem tot aenvalspunt op Engeland te verstrekken, - dit is zyn eenigste doel; maer omdat de Vlaming vrede met Engeland betracht, wil hy door vreemde benden het land onderwerpen, gelyk hy het noemt, - of liever, gelyk wy het verstaen, Vlaenderen te pletter loopen, hetzelve ontvolken en tot een Woud-Zonder-Genade, waer uit het de nyverheid als in een hof veranderde, terug brengen. Zy, die hun vaderland lief hebben, die de vryheid en voorvaderlyke regten niet als loose woorden beschouwen, moeten Vlaenderen's
+<pb n="26"/>volkomen ondergang poogen voor te komen. Verbinden wy ons dan onderling, wapen wy onze onderhoorigen, en eerlang wordt de dwingeland, thans door vreemde zwaerden ondersteund, over 's Lands grenzen terug gedreven.</p>
+<p><hi rend="sc">damman</hi>.</p>
+<p>Hy droomt van zich de steden te onderwerpen, en hy kende nooit de magt onzer steden. Hy weet niet dat Gent eens de vereenigde legerbenden van drie koningen weêrstond, en hen van voor hare muren deed vluchten.</p>
+<p>Hy weet niet dat de steden met ongeduld onder het juk staen, en ongaern den hoogmoed der Hoogbaljuws en Kasteleins en derzelver waelsche wachten verdragen.</p>
+<p>Hy weet niet dat Gent, in gewapende Neeringen of Gilden verdeeld, zich als één man beweegt, en dat de wevers en volders alleen 20.000 man kunnen te velde brengen.</p>
+<p>Hy weet niet dat door zyn willekeurig bestuer 6,000 huisgezinnen in armoede zyn gedompeld, die verlangend het uer der verlossing te gemoet zien.</p>
+<p>Hy treedt de regten 's Lands met den voet; hy verbreekt de voorwaerden welke hy bezwoer; hy is meincedig, en by gevolg heeft hy alle regten, welke hy eens op ons land mogt bezitten, verloren. Geweldige aenvallen mag men door geweld wederstaen, en het diep gezonken land eischt spoedige hulp.</p>
+<pb n="27"/>
+<p><hi rend="sc">de heer van pouke</hi>.</p>
+<p>Dat de dag der dagvaert te Gent de dag der verlossing zy, - niet slechts hier, maer door geheel Vlaenderen!</p>
+<p><hi rend="sc">iwein</hi>.</p>
+<p>Komt Gent in beweging, Daniël van Dendermonde, Razo van Gaveren en gansch het land van Aelst zullen de vaen der groote stad volgen en derzelver poogingen onderschragen. Kortryk en Ypre zullen niet ten achter blyven, als het vryheidminnend Brugge hen te wapen roept.</p>
+<p><hi rend="sc">de heer van pouke</hi>.</p>
+<p>Ware ik nog in den bloei myner jaren, ik zon my met geen werkeloozen tegenstand en ydele woorden, waertoe ik thans gedwongen ben, vergenoegen. Ik zou den neêrgerukten standaerd van Vlaenderen verheffen, de verstrooide Vlamingen op myne stem vereenigen en door onophoudelyke aenvallen den vyand bespringen en verontrusten. Myne oorlogskreet ware: <hi rend="i">Vlaenderen en Diederik!</hi> en haest zou myn leger tot die magt aenwassen, dat Willem's benden er voor verdwynen zouden. -</p>
+<p>Zy namen verdere beramingen om hun bondschap over gansch Vlaenderen uit te breiden, en om op één dag Vlaenderen's vlag op al de torenspitsen te doen wapperen en den vryheidskryg aen te vangen.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="gent_001"/>
+</interpGrp>
+<pb n="28"/>
+<head rend="h3">III.
+<lb/>
+Gent.</head>
+<p>Niet lang na deze byeenkomst had er eene opschudding in Gent plaets, en 's Graven hoogbaljuw werd gedwongen de stad te verlaten.</p>
+<p>In weêrwil van de menigvuldige vertoogen der gentsche burgery, trachtte de baljuw zyne magt over die der schepenen uit te breiden, en dagelyks tergde hy het volk door nieuwe kwellingen en nieuwe belastingen. Graef Willem ondersteunde zyne poogingen, ja zette hem hier toe aen, en thans in weêrwil der misnoegdheid en hoog geklommen woede des volks, was Willem vermetel en stout genoeg om met den verjaegden baljuw op den vastgestelden dag op de landvergadering te Gent te verschynen, met inzicht zynen dienaer in zyn ambt te behouden; maer de dag des landdaegs was de laetste dag van een gehaet bestuer.</p>
+<pb n="29"/>
+<p>De intrede des Graven in de stad voorspelde de grootste gevaren en gaf genoegzaem den geest der bevolking ten zynen opzichte te kennen. Onversierd waren de straten langs waer hy door moest trekken: de huizen waren gesloten, en enkele persoonen, die hem ontmoetten, hadden geene stem om hem te verwellekomen: eene doodsche stilte heerschte alom. Op de Vrydagmerkt gekomen, kon hy met zyne waelsche wacht nauwelyks door de gewapende Neeringen dringen, die aldaer verzameld waren.</p>
+<p>De leenhouders van Vlaenderen en de schepenen der steden waren reeds in het Hoogerhuis vergaderd, toen de Graef aldaer met den baljuw aen zyne zyde verscheen. Nauw was hy op den zetel neêrgezeten, of de vergadering met bitse oogen aenziende, meende hy die streng aen te spreken, als Iwein hem voorkwam en deftig deze woorden toevoerde:</p>
+<p>‘Heer Graef, had Gy de borgery, uwe burgtvoogden en ons, hunne vrienden, naer regte willen behandelen, Gy had geene drukkende lasten en zettingen ingevoerd, maer zoudt onze regten eerbiedigen en ons tegen 's Lands vyanden verdedigen. Nu immers tegen alle regt en beloften, welke wy voor U met eede bevestigden, wegens het afschaffen der tollen, het herstellen der vrede en andere regten, welke de inwoners dezer landen van de goede Graven, uwe voorzaten en van U verkregen, hebt
+<pb n="30"/>Gy-zelve schandelyk verbroken; Gy hebt uwe trouw, en de onze meteenen, daer wy met U zwoeren, verkracht en vernietigd. Het is bekend wat geweld Gy te Ryssel aenregttet en hoe boosaerdig en onregtvaerdig Gy de inwoners van Sint Omaers vervolgde. En thans, ware 't in uwe magt, Gy zoudt de burgers van Gent even slecht behandelen. Als Heer en Graef, dient Gy Vlaenderen regtvaerdig te besturen en niet met willekeur en geweld. Verzamel, zoo Gy wilt, uw opperhof te Ypre, daer die plaets in het midden der Lands gelegen is; dat al uwe genooten aldàer byeenkomen met de ervarendste mannen der geestelykheid en des volks, in vrede, ongewapend, met gerust gemoed, zonder bedrog of kwaedwilligheid, en dat zy uw gedrag daer beoordeelen. Indien Gy dan het Graefschap, tot Vlaenderen's eer, regeert, zal ik er my niet tegen verzetten; maer indien Gy, een roover gelyk, met bedrog, zonder trouw of regt handelt, verlaet dan liever ongedwongen de graeflyke waerdigheid, op dat wy ze een' regtvaerdiger en waerdiger man dan U opdragen. Wy zyn immers bemiddelaers tusschen den Koning en U, op dat Gy niets gewigtigs ondernemet, zonder de eer des Lands in acht te nemen en onzen raed in te roepen; en zie, uwe regeeringwys strydt regtstreeks tegen de goede trouw en den eed den Lande gezworen; meineedig tracht Gy ons door geweld te bedwingen, en zoowel ons, uwe genooten, die voor U
+<pb n="31"/>by den Koning verantwoordden, als de overige burgers gansch willekeurig te besturen.’</p>
+<p>Willem's kleur veranderde verscheiden mael by deze zoo nypende waerheden; verscheiden mael was hy opgerezen als wilde hy het woord opvatten, maer te vergeefs: Iwein vaerde immer voort. Thans dat Iwein zweeg, sprak Willem echter even trotsch, en ver van zyne handelwyze te willen verschoonen en de vergaderde Staten eenige verzekering voor de toekomst aen te bieden, behandelde hy Iwein slechts als zyn eenigen vyand, als een eerloozen verrader en trouwloozen leenman. Door zyne gramschap vervoerd, sprak hy hem eindelyk toe: ‘In weêrwil der trouw, die gy my zwoert, wil ik thans uw genoot worden, en zonder uitstel door een tweestryd bewyzen dat ik naer regt en rede het Land bestuer en regeere.’</p>
+<p>Maer Daniël van Dendermonde deed hem verstaen dat Iwein, niet afzonderlyk, maer als spreker voor de gansche vergadering die klagten had geuit: wilde Hy in geene wys die vertoogen in acht nemen, dan zouden zy allen zich verpligt vinden geweld door geweld te wederstaen.</p>
+<p>Willem door deze woorden in woede gebragt, wierp zyn handschoen te midden der zael, en met een grimmige stem riep hy de vlaemsche Standen toe: ‘Ik weigere den kryg niet: ik ben Heer in den lande, als Heer zal ik regeeren en gebieden, moest Vlaenderen er by vergaen!
+<pb n="32"/>Gy vraegt kryg, gy zult hem hebben; op één wenk volgen duizende krygers myne vaen. Voor myne magt zullen de steden beven, hare trotsche torens en sterke muren ter nedervallen. De kasteelen doe ik plat schieten, en eer zal 't Land in dorre woesteny verkeeren, vóór ik gedoogen zal dat myne magt een vinger breed worde beperkt.’ En dan zich tot Iwein keerende: ‘Het slot Aelst, hoe sterk het ook zy, zal myne wraek niet ontgaen; het zal in gruis en puin onder het gedonder myner blyen verdwynen, en daer waer 't weidsche kasteel nu ryst, zal, eer het jaer verloopen zy, de landman zyn koorn zaeijen’</p>
+<p>Hier op stond hy uit den zetel op. Morrend en met schuinsche oogen aenzag men hem, als hy de zael verliet, en ysselyk klonk hem het wapengeklank ter merkt in het oor. Van zyne wacht omringd, weck hy niet slechts uit de zael, maer ten zelfden tyde trok hy uit de stad, en in dezen togt geleek hy meer eenen banneling dan eenen vorst.</p>
+<p>Na dat de stilte in de zael hersteld was, nam Iwein weder het woord op, en sprak bedaerd en gematigd tot de vergadering: ‘Achtbare genooten, door het geweldig beheer en de willekeurige handelwys van Willem: door het verbreken der landswetten en privilegien, welke hy bezwoer en zoo roekeloos met de voeten treedt; door den vloek welken hy over ons Land zoo even uitsprak, ver-<pb n="33"/>loor hy alle regten, om dit land als heer te blyven regeeren. Wy zyn niet verpligt ongewapend legerscharen af te wachten en in eene onzydige en gevaerlyke houding te blyven; grypen wy het wrekend zwaerd in de hand, dryven wy den dwingeland met zyne waelsche gezellen het land uit, eer wy overrompeld en met onverbreckbre banden gekneld worden; verklaren wy het land van de trouwe los, welke het hem met eede beloofde, en erkennen wy Diederik uit den Elzas, die ons natuerlyke Heer is, tot Graef van Vlaenderen! Hy zal tot onze hulp snellen, en daer hy uit duitschen stam geboren, en in ons land is opgevoed, zal hy onze zeden, onze regten, onze tael eerbiedigen, en Vlaenderen, als onder Karel's regeering, in voorspoed en weldoen herbloeijen!’</p>
+<p>De vergadering door dit voorstel in geestdrift opgetogen, rezen alle de leden te gelyk op, en plegtig verklaerden zy Willem van alle regt, welke hy op Vlaenderen mogt hebben, door zyn meineedig gedrag vervallen, en besloten Diederik als Graef te erkennen.</p>
+<p>De voorschepen der stad Gent, de eerwaerde grysaerd, Damman, gaf dit besluit van uit de pui des Hoogerhuizes aen de Neeringen, die de merkt vervulden, te kennen, welke met herhaelde toejuichingen, dit berigt ontvingen, en, meermael het geroep deden hooren van: ‘Weg met Willem! weg met de Walen! Leve Diederik uit den Elzas, en Vlaenderen den Leeuw!’</p>
+<pb n="34"/>
+<p>Verder werd door 's Lands Standen besloten van Iwein naer den Elzas als him gezant af te zenden, om Graef Diederik van die kens te verwittigen, en hem in naem des volks Vlaenderen's kroon aen te bieden.</p>
+<p>Nauwelyks was de zitting opgeheven, of de gewapende Neeringen stroomden naer 't Gravenkasteel toe, waer de hoogbaljuw verbleef. De waelsche wacht, die het bezette, kon de woede der aenvallers niet wederstaen, die eerlang de sterke poort overmeesterden en vechtender hand tot in de groote zael van de Burgt drongen. Weinige Walen ontsnapten; doch de hoogbaljuw ontkwam het gevaer: in het begin des gevechts had hy zich, in de kleeding van een burger vermomd, op de vlugt begeven.</p>
+<p>Haest zag men Willem's vaendel, waer de fransche lelie op prykte, van den burgtoren neêrgerukt en Vlaenderen's vaendel, den Zwarten Leeuw, er op gehyst.</p>
+<p>Brugge en Ypre volgden weldra het voorbeeld van Gent, en Willem's magt ware op ééne week in Vlaenderen te niet gegaen, had de fransche koning, Lodewyk de Dikke, hem geene versche benden afgezonden, waer mede hy nog een tyd lang het platte land verwoestte en plunderingen aenrigtte.</p>
+</div>
+<div type="chapter">
+<pb n="35"/>
+<head rend="h3">IV.
+<lb/>
+Kasteel Bitsch.</head>
+<head rend="h4">1.</head>
+<p>Dirk van den Elzas, sinds Karel's dood uit Vlaenderen geweken, verbleef te Bitsch, een der voorname leenhoven, na de dood zyns vaders hem ten deele gevallen, daer zyn oudere broeder Sigmond als graef van den Elzas erkend was.</p>
+<p>Tusschen de Moezel en den Rhyn, in de rigting van Diedenhove en Spire, hief het kasteel Bitsch op eene steile rots zyne verhevene tinnen ten hemel. Aen den voet des bergs leidde de Rhor hare wateren heen en vormde daer een meir, wiens oppervlakte, een spiegel gelyk, de sterke kanteelen en hooge torens van de burgt betooverend weêkaetste.</p>
+<p>Daer verbleef ook Diederik's dochter Lauretta, zelfs
+<pb n="36"/>by haer vaders afwezen, wanneer hy op verre togten 's Keizers vanen volgde.</p>
+<p>Lauretta was eene beminnelyke maegd, zoo zacht van karakter als sierlyk van leden. Haer blank voorhoofd omgaven zwarte hairen, die in losse en lange vlechten op heur sneeuwwitten hals nedergolfden: en schoon iets ernstigs in haer oogopslag te merken was, kon men niet ongeroerd het vuer harer blikken doorstaen, die hare blauwe oogen ontschoten.</p>
+<p>De rouw, die heur hart folterde toen zy gedwongen werd Vlaenderen te verlaten en zich van Iwein te verwyderen, had hare gelaetstrekken iets neêrslagtigs bygezet en hare oogen, als het ware, met een nevel overtogen, 't geen echter niets aen hare schoonheid ontnam.</p>
+<p>Jaerlyks in de Pinksterdagen, verscheen zy op de feesten, door den graef van den Elzas gegeven, en daer trok zy de oogen der vereenigde jonglingschap op zich. Zy woonde de ridderspelen, de jagt- en danspartyen by, en toch hield haer steeds dezelfde treurmoedigheid omslagen. Geen zachte lach zweefde meer als voorheen op haren mond; geen vreugdestralen ontschoten nog hare ernstige en weemoedige blikken. De neêrslachtigheid zette hare treffende schoonheid mogelyk iets bekoorlykers by, en hare onverschilligheid en koelheid was voor velen een prikkel tot minbewys; maer by allen bleef heur hart, als door een betooverd schild bedekt, ongekwetst.</p>
+<pb n="37"/>
+<p>In de tornoijen trok zy de algemeene aendacht der strydende ridders op haer, en menig verwinnaer legde zyne zegekransen voor hare voeten neder: ongeroerd echter bleef zy by alle deze eerbetooningen. Nu laetst had de magtige heer van Diedenhove, de jonge Rudolf, haer geene twyfelachtige blyken van liefde gegeven; maer vruchteloos trachtte hy eenige betuigingen van wederliefde te verkrygen.</p>
+<p>Ter jagt dreef zy een klepper, met ongewone behendigheid en onversaegden moed, op het spoor van een hert; want, schoon rank van gestalte, was zy kloek en stout van inborst.</p>
+<p>En wie zag haer ooit in danspartyen de reijen opleiden, en was door hare ongedwongene houding niet ingenomen? in de wals vooral was zy bekoorlyk. Ziet gy haer met heur dansgezel daer heen vliegen; nauwelyks raekt de gevlengelde voet den bodem: - als vluchtige schaduwen, van den last des lichaems verlost, slingeren beiden rond, als elven in de lucht by helder maenlicht. Zy draeijen en wervelen, en weten zich een weg te banen door de dichtste reijen, die als wentelende luchtplaneten voor elkander wyken en elkander verdringen.</p>
+<p>Te Bitsch hield Lauretta zich met borduer- en tapytserywerk onledig, of nam in den bloemenkweek haer vermaek.</p>
+<p>Styfstarend en treurend zat zy soms in haer werk-<pb n="38"/>plaets te denken, en niet zelden ontsnapten er zuchten hare borst. Zy nam voor Swanhilde, eene der deernen die haer omringden, vriendschap op en liet zich soms met haer in gesprekken in. Met haer wandelde zy, by vallenden avond, de breede dreven der warande door, of op een bootje gezeten, zweefde zy den gladden spiegel des meirs op en neêr, en als zy hare zachte stem in zangen liet hooren, keerde zy zich naer 't Westen, naer Vlaenderen toe, en treurige tonnen, als zuchten, weêrgalmden dan langs de omliggende heuvelklingen; doch somwylen meer gemoedig zong zy uit hellere borst:</p>
+<lg type="poem">
+<l>Kent gy het zoet gewest, het zon bekoorlyk land,</l>
+<l>Waer statig eikenwoud en onbeheinde weijen,</l>
+<l rend="; 2tab">En overvruchtbre landvalleijen,</l>
+<l>Zich strekken van den Rhyn tot aen het westerstrand?</l>
+<l>Die beemden, waer de Scheld' langs kronkelende zoomen</l>
+<l rend="; 2tab">Haer zilvren waetren heen doet stroomen,</l>
+<l>En aen den kunstenaer het lieve landschap biedt?</l>
+<l>Hier vloert het groene vlas het veld, daer geelt het koren;</l>
+<l>Daer heft uit donker loof een slot zyn spitsen toren</l>
+<l>Omhoog, en 't blanke dorp klimt op in 't flauw verschiet.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'t Is Vlaendren's vruchtbre lustwarande,</l>
+<l rend="; 1tab">Waer matigheid verwyfdheid bande,</l>
+<l rend="; 1tab">En echte trouw, by reine vreugd,</l>
+<l rend="; 1tab">Nog troont op ouderlyke deugd.</l>
+<l rend="; 1tab">'t Is 't brave land, waer dappre riddren</l>
+<l rend="; 1tab">Voor 't woelend Walenrot niet siddren,</l>
+<l>En waer men 't vlaemsche lied in 't aengenaemst akkoord,</l>
+<l rend="; 1tab">By honderd stemmen aengeheven,</l>
+<l rend="; 1tab">In dichte lind- en benkendreven,</l>
+<l rend="; 1tab">Nog over de akkers klinken hoort.</l>
+</lg>
+<pb n="39"/>
+<p>Doch stilzwygend was het meisje meestal by deze wandelingen, schoon Swanhilde geene gelegenheid liet ontsnappen om hare zwaermoedigheid te verdryven. Slechts scheen zy te ontwaken, als er van Vlaenderen werd gesproken, en zelfs was hare vriendschap met Swanhilde begonnen by het verhalen eener mare uit Vlaenderen.</p>
+<p>Eens 's avonds dat zy te samen de lanen des hofs doorwandelden, en Lauretta treuriger en stilzwygender was dan na gewoonte, waegde Swanhilde het over de oorzaek van hare zwaermoedigheid te spreken:</p>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">swanhilde</hi>.</l>
+<l rend="; 1tab">Treurig waert gy, als uw vader</l>
+<l>Met zyn benden henen trok,</l>
+<l>Onder keizer Siegmond's vanen</l>
+<l>Tegen 't fransche rooversrot.</l>
+<l>Treurig waert gy, als hy keerde,</l>
+<l>Wyd vermaerd door heldendaên,</l>
+<l>En van ridderen omgeven,</l>
+<l>Zegevierend hier verscheen.</l>
+<l>Gy omhelsdet hem met liefde,</l>
+<l>En met vreugde zaegt hem weêr;</l>
+<l>Doch die vreugde was kortstondig,</l>
+<l>En thans geeft uw doove blik</l>
+<l>Geen verzadigd hart te kennen:</l>
+<l>Treurig zyt gy, als voorheen!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Riddren, hoog vermaerde heeren</l>
+<l>Dingen naer uw hart en hand,</l>
+<l>Trachten uwe min te winnen.</l>
+<l>Maer koelmoedig blyft gy steeds.</l>
+<pb n="40"/>
+<l>Sinds uw komste hier te lande</l>
+<l>Zyt gy somber als de nacht.</l>
+<l>Als de nacht, die stil en statig,</l>
+<l>Zonder sterren, zonder licht,</l>
+<l>Henen glydt in neevlig duister.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Zeg my toch wat u beangstigt,</l>
+<l>Giet uw smarten in myn hart.</l>
+<l>Is er hope, 'k zal uw steun zyn:</l>
+<l>En zoo alle hoop verdween</l>
+<l>Dan breng ik u troost en heule</l>
+<l>In uw snerpend harteieed.</l>
+<l rend="speaker"><hi rend="sc">lauretta</hi>.</l>
+<l rend="; 1tab">Vreugde, blydschap, mingenuchten</l>
+<l>Zyn, Swanhild, voor eeuwig heen,</l>
+<l>En de zonne myner blydschap,</l>
+<l>Met den laetsten strael der hoop,</l>
+<l>Is verstervend neêrgezonken,</l>
+<l>En ryst nimmer weder op.</l>
+<l>'k Zal myn smart u openbaren,</l>
+<l>Schoon gy my niet troosten kunt;</l>
+<l>Het herdenken myner droefheid,</l>
+<l>Het verhalen myner pyn</l>
+<l>Zal my strekken tot vertroosting;</l>
+<l>Vrees niet myne wond t'heroopnen,</l>
+<l>Dieper toch kan zy niet zyn.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Vlaendren, Swanhild, lacht my tegen,</l>
+<l>Vlaenderen, dat schoone land,</l>
+<l>Zweeft my steeds in de verbeelding</l>
+<l>Met betooverenden glans.</l>
+<l>'k Droom my nog in Torhout's bosschen</l>
+<l>En te Wyndal in de burgt;</l>
+<pb n="41"/>
+<l>Och! hoe sierlyk was dit burgslot,</l>
+<l>Toen Graef Karel daer verbleef!</l>
+<l>En hoe vrolyk was de jacht niet</l>
+<l>In het onbeperkte woud!</l>
+<l>En hoe prachtig de tornoijen,</l>
+<l>Jaerlyks op het plein gevierd,</l>
+<l>Dat zich uitstrekt van het voorhof</l>
+<l>In een eindeloos verschiet.</l>
+<l>Jaerlyks daegde daer een ridder,</l>
+<l>Dien geen ridder overtrof;</l>
+<l>Driemael bleef hy overwinnaer,</l>
+<l>Driemael bragt hy <hi rend="i">my</hi> zyn kroon.</l>
+<l>Sedert voerde hy myn sluijer,</l>
+<l>Met myn kleuren om den hals;</l>
+<l>Eens zwoer hy my houw en trouwe</l>
+<l>En 'k beloofde hem trouw en houw.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Och! hoe deftig was zyn houding,</l>
+<l>Wen 't kuras zyn heup omsloot,</l>
+<l>En hy met rapier en lanse,</l>
+<l>Dappere ridderen bevocht;</l>
+<l>Of wen hy te paerd gestegen,</l>
+<l>Henentrok in 't woud ter jagt.</l>
+<l>Was er niemand die gezwinder</l>
+<l>Eenig wild vervolgen kon.</l>
+<l>Ook in feest- en danspartyen,</l>
+<l>Als een zyden sierlyk kleed,</l>
+<l>Zonder vouwen, zonder ploijen,</l>
+<l>Nauw en eng zyn leest omving,</l>
+<l>Scheen hy midden zelfs van vorsten,</l>
+<l>Aller Vorst en Heer te zyn.</l>
+<l>'k Denk nog soms zyn treffend wezen</l>
+<l>In myn droomen weêr te zien;</l>
+<l>'k Zie nog soms zyn blonde lokken</l>
+<l>Om zyn schouders nedervliên,</l>
+<pb n="42"/>
+<l>En zyn wangen nauw omzoomen,</l>
+<l>Door een teedren gloed zoo hel.</l>
+<l>'k Denk nog soms zyn blik te ontwaren,</l>
+<l>Welk hy smeltend op wy wierp,</l>
+<l>En zyn zachte stem te hooren,</l>
+<l>Die den dierbren eed ontsloot,</l>
+<l>En hem eeuwig my verbond.</l>
+<l rend="speaker"><hi rend="sc">swanhilde</hi>.</l>
+<l rend="; 1tab">Stil uw weemoed, o Lauretta,</l>
+<l>Stil uw tranen en gezucht;</l>
+<l>Eens nog zult gy hem hervinden.</l>
+<l>Eens nog ziet gy Vlaendren weêr!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'k Weet de goede Grave Karel</l>
+<l>Werd door moorders wreed geslacht,</l>
+<l>En sinds is de rust geweken</l>
+<l>Uit dat eens zoo zalig land.</l>
+<l>Vlaendren zonk steeds diep en dieper,</l>
+<l>In een poel van jamm'ren neêr;</l>
+<l>Burgten stryden tegen burgten,</l>
+<l>Walen ondersteunen Willem.</l>
+<l>Engelschen den graef van Loo,</l>
+<l>En de regte Graef van Vlaendren,</l>
+<l>Dirk, uw vader, wordt miskend.</l>
+<l>Doch die erfelyke scepter</l>
+<l>Glipt zoo licht niet uit zyn hand:</l>
+<l>Eens nog wordt hy ingehuldigd,</l>
+<l>En te Gent als Vorst gekroond.</l>
+<l>En uw minnaer, zyt des zeker,</l>
+<l>Blyft den vlaemschen Leeuw getrouw;</l>
+<l>Wie u minde, mint u immer</l>
+<l>En vergeet u nimmermeer. -</l>
+<pb n="43"/>
+<l rend="; 1tab">Doch, wat Swanhild ook mogt zeggen,</l>
+<l>Bleef Lauretta ongetroosd,</l>
+<l>Want zy wist dat menig burgtvorst</l>
+<l>Hem als Grave had erkend,</l>
+<l>En dat Iwein Willem's vanen</l>
+<l>Had gevolgd in kryg by kryg.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">En zy gingen op en neder</l>
+<l>Driftig door de lanen voort,</l>
+<l>Tot dat de avondklokke luidde</l>
+<l>En haer naer het burgslot noodd'.</l>
+</lg>
+<div type="section">
+<head rend="h4">2.</head>
+<p>De rust is in Duitschland hersteld; de fransche legerbenden zyn verjaegd, vernield: - de vrede heerscht wederom langs Rhyn en Moezelstroom.</p>
+<p>Diederik is te Bitsch terug gekomen: hem vergezellen eenige ridders, die als hy zoo moedig het keizerlyk heir ondersteunden. De gevaerlyke togten worden door vermakelyke jagten vervangen: in het woud, dat Bitsch omringd, nemen zy dagelyks in nieuwe springreizen, nieuwen lust.</p>
+<p>Thans by het vallen van de nacht waren zy in de ridderzael ten avondmale vereenigd. Daer zat Dirk aen het hoofd der tafel, met Rudolf van Diedenhove aen zyne zy', en de overige ridders, Dirk's genooten, zaten daer omheen geschaerd. Talryke dienaren zweefden heen en weêr in de zael; vreugdig ledigden de gasten de bokalen, als Dirk hun, op 't nageregt, een verschynsel, 't welk
+<pb n="44"/>hem de vorige nacht was verschenen, afmaelde: ‘Door een droom bevangen, zeide hy, zag ik Graef Karel in een nevelachtigen gloed voor my verschynen: eene gouden glorie omscheen zynen schedel. - Myn soon, sprak hy, wend uwe oogen naer Vlaenderen, en zie hoe dit land onder 't juk der Walen zucht; en gy, gy slyt uwe dagen in noodelooze jagt, in reizen en weelderige drinkgelagen. - Gord het zwaerd om, snel met uwe benden naer de Scheldezoomen den Vlamingen ter hulp, - ik voorspel u zegen en voorspoed: van uit het hoogste zal ik uw arm bestieren, op dat myn volk uit de slaverny worde verlost. Zet uw helm op en trek naer het Westen! Gy zyt de Graef, de Heer van Vlaenderen!’</p>
+<p>‘Ik heb besloten, vervolgde hy, naer Karel's stem te luisteren, en beloof hem hier, in uwe tegenwoordigheid en op dit zwaerd, welk hy zelf my schonk, van zyn gebod te volgen, en niet te rusten, vóór ik Willem uit Vlaenderen hebbe verjaegd, en de banden, door ontrouwe Walen den Vlamingen opgelegd, verbroken zyn. My volge de gene, die moed in 't harte voelt en alle slach van geweld en overheersching haet!’</p>
+<p>Nauwelyks waren deze woorden uitgesproken, of de aldaer tegenwordig zynde heeren stonden op, en allen deden op het zelfde zwaerd den eed van Diederik in zyn verlossingkryg naer Vlaenderen te volgen.</p>
+<p>Maer eensklaps klinkt het geschal eens hoorns en
+<pb n="45"/>verspreidt eene algemeene stilte door de zael: een bode kondigt een gezant uit Vlaenderen aen, en weldra verschynt Iwein te midden het gezelschap. Hy legde Diederik de reden zyner reis voor de oogen, die, verheugd dat de beweging des volks zyne begeerten was vooruit gesneld, hem alle hulp en bystand beloofde om Vlaenderen ten eenemael van waelsche kluisters los te krygen.</p>
+<p>En luidruchtig en levendig gingen de redekavelingen voort over den togt naer Vlaenderen, en beramingen werden genomen om zoodra mogelyk met eenige hulpbenden daer henen te trekken.</p>
+<p>Weinige dagen slechts waren er noodig om zich reisvaerdig te maken. - Ondertusschen verwylde Iwein te Bitsch, om met Diederik en deszelfs gevolg de afreis te ondernemen.</p>
+</div>
+<div type="section">
+<head rend="h4">3.</head>
+<p>Drukkend was voor Iwein de nachtstilte; geene rust kon by genieten. Het engelbeeld van Lauretta zweefde hem voor den geest, en niet weinig folterde hem de gedachte dat haer huwelyk met den heer van Diedenhove was vastgesteld, gelyk men algemeen te lande verzekerde.</p>
+<p>Zoodra de opryzende zon een twyfelachtig licht in zyne kamer verspreidt, verlaet hy het ledekant en stapt onrustig heen en weêr door zyne slaepplaets; doch
+<pb n="46"/>dezelfde gedachten vervolgen hem steeds en benauwen zyn beangstigden geest. Lauretta alleen heeft voor eene wyl alle andere bekommeringen by hem verschoven, en Vlaenderen's vryheidskryg weegt hem thans minder zwaer op het hart. Hy zweeft de lange gangen door, en dezelfde gedachten vervolgen hem overal. Hy treedt de burgtkapelle binnen, en daer treft zyn ongeloovig oog eene vrouw, welke voor het outer neêrgebogen een luchtgeest in de schemeringen schynt. Poppelend slaet Iwein's harte, bevreesd nadert hy de knielbank, en met een flauwe stem ontsnapt Lauretta's naem zyne lippen. Het is Lauretta, die daer dagelyks haer morgendgebed uitstort. Bedwelmd ziet zy om, bevend en als of zy Iwein's stemme erkende, schokken vrees en blydschap te gelyk heur hart. Zy heft zich op, en wie ziet zy voor haer? 't Is Iwein, die sinds vier jaren dat zy gescheiden zyn nog in haer gedachten leeft. Zy vallen als onwillig elkander in de armen: en welke pen zou het genot dezes oogenbliks kunnen beschryven? wie de gewaerwordingen, die beider gemoederen overstelpen, ontvouwen of ontleden?</p>
+<p>Sprakeloos bleven zy eene wyl op elkander staren: Iwein brak eindelyk deze stilte, en Lauretta's hand in de zyne houdende, sprak hy niet zonder angst: ‘Lauretta, reeds lang zyn wy door 't lot gescheiden, en echter bleeft gy bestendig de beheerscheres myns harten. In rid-<pb n="47"/>spelen of jagtpartyen vloog uw beeld my steeds door de gedachten; en niet zelden bedrogen my myne hersenschimmen, want ik wierp naer gewoonte myne blikken rond my om u te ontdekken: - maer eilaes! ik zogt vruchteloos, en bittere gewaerwordingen vervulden myne ziel. Heviger verontrustten my deze begochelingen, als ik, by verpoozing van kryg, te Wynendale of Aelst eenige rust genoot; dan zweefde uw beeld des nachts in bekoorlyke droomen voor myne zoo aengenaem verraste oogen; en in myne eenzame wandelingen dacht ik soms uw tred te hooren by het ruisschen van de beek, en uw zachte stem te onderkennen in de afwisselende toonen des minds. - Onbeseffelyk was de vreugde die myn geest vervulde als ik deze burgt naderde, waer myn levenszonne gloort, - toen eene mare my roerend trof en als zinneloos in wanhoop bragt, schoon ik het ver van my verwierp en er geen geloof dierf aen hechten... Lauretta mint gy my?</p>
+<p><hi rend="sc">lauretta</hi>.</p>
+<p>Iwein, wat vraegt gy! van vóór ik u zag meende ik u reeds te kennen, en de eerste mael dat myne blikken de uwe ontmoetten, was ik diep gekwetst en verwonnen. Die minnelyke lach, die heldere wangen door die blonde lokken omzoomd, bleven my steeds in de gedachte. - Voor u weigerde ik den hertog van Diedenhove; voor u heb ik de gramschap myns vaders getart, die my aen hem wilde verbinden. En het oogenblik,
+<pb n="48"/>waerop het lot ons by elkander bragt, acht ik voor het gelukkigste myns levens.</p>
+<p><hi rend="sc">iwein</hi>.</p>
+<p>Lauretta, hoe streelen wy deze woorden! wanhopig naderde ik uwe woonst; maer uw levendige stem stort my moed in het harte; het bloed stroomt bruissend door myne aderen: en feller ware ik niet ontroerd, zoo engelenzang myn ooren trof. -</p>
+<p>Zy bleven daer by elkander gezeten, tot de morgenbeê klepte, die hen, als uit een slaep opwekte. En des daegs verhaelde men in de burgt dat de kerkdediende, als hy des ochtends vroeg in de kapelle trad, twee luchtgeesten had zien verdwynen.</p>
+</div>
+</div>
+<div type="chapter">
+    <interpGrp>
+        <interp type="primair" value="aalst003"/>
+    </interpGrp>
+<pb n="49"/>
+<head rend="h3">V.
+<lb/>
+Aelst.</head>
+<head rend="h4">1.</head>
+<p>De haet, welken Willem de Noorman, sinds de dagvaert van Gent, tegen Iwein had opgevat, was zoo hevig dat hy, het koste wat het kosten mogt, eene schitterende wraek over den hoon besloot te nemen: - Iwein in Aelst te overrompelen, het kasteel te verwoesten en ten gronde te slechten, stond by hem vast.</p>
+<p>Maer vóór de waelsche troepen, welke Lodewyk de Dikke hem had beloofd, te S<hi rend="sup">t</hi>-Omaers verzameld waren, was Iwein van Aelst met Diederik van den Elzas reeds in Vlaenderen verschenen, en bereidden zy zich met den uitersten vlyt en werkzaemheid geheel het Land onder de wapens te brengen, op dat het een tweede mael
+<pb n="50"/>niet verwoesd, en de vlaemsche bevolking verraderlyk aengevallen en meêdoogenloos uitgeroeid wierde. Op Diederik's stem kwam gansch het Land, al de steden, de casselryen en de leenhouders in het harnas, en allen volgden met geestdrift Vlaendren's standaerd.</p>
+<p>Vruchteloos trachtte Willem zich meester te maken van Ryssel, en schoon de fransche koning zelf, Lodewyk de Dikke, aen het hoofd van een magtig leger verscheen, werd hy eindelyk tot het opbreken van 't beleg gedwongen; dan wendde by zyne benden, over Ronse en Gerardsbergen, naer Aelst, om Godevaert van Leuven, wien hy het in leen beloofd had, en die de stad omsloten hield, ter hulp te snellen, en om de meineedige leenheeren, zoo hy zeide, eene geduchte les te geven. Maer Iwein was met eene dappere bende reeds in het slot te Aelst aengekomen. dat Godevaert korts nadien omringde en aenviel.</p>
+<p>Het kasteel te Aelst, Gravensteen genaemd, beheerschte het omliggend nederige dorp; deszelfs singelmuer was met zeven hooge torens omzet, en de burgttoren verhief zyne hooge tinne en kanteelen ver boven Sint Maertens-kerk, die daer in de vallei aen den Dender, In het midden eener rei huizen, zich bevond, en toenmaels enkel eene kapel was, daer zy tot de grootte en de sierlykheid, waerin wy ze hedendaegs zien, eerst in viertiende eeuw werd herbouwd.</p>
+<pb n="51"/>
+<p>Die vereeniging van woonsten was, reeds in dit vroege tydstip, door een wyden gracht omspoeld, wiens water in den Dender vloeide. Nauwelyks was Iwein terug gekomen, of hy deed den wal met heiningen en paelwerk versterken, op dat de verrassende aenvallen, waermede Godevaert van Leuven het gehucht gedurig bedreigde, gemakkelyker konden wederstaen en afgeweerd worden. Wakkere krygers bewaekten dag en nacht deze versperringen; de overzyde des dorps was schier ongenaekbaer, en langs dien kant was men voor geene aenrandingen beducht, daer men den Dender had opgehouden en deszelfs waters de omliggende weiden en lage landen overspoelden.</p>
+<p>Door de komst van hun Heer en de versterkingswerken geruster gesteld, waren de inwoners thans voor geene onheilen meer bevreesd. Maer even als de kalmte wel soms een tempeest voorspelt, was deze rustige zekerheid de voorbode van onvoorziene en ysselyke rampen.</p>
+<p>Reeds was de zon ten westen neêrgezonken, de avondklok had reeds op den burgtoren geluid: het nachtduister viel over 't aerderyk neêr, alles rustte: - de wachten alleen, die den wal der stad bewaekten, stoorden de stilte des nachts.</p>
+<p>Maer eensklaps naderen gewapende benden, eensklaps hoort men op de sterke schutselen rameijen, die, door het groot geweld des stormboks welhaest verbroken,
+<pb n="52"/>krakende nedervallen. 't Zyn de krygers van Godevaert, die langs eene doorwaedbare plaets de gracht waren overgekomen. De wachten trekken vereenigd er op aen, en werpen eene bui van pylen op hen neder; - te vergeefs: de versperring ligt verbryzeld, en onder 't geklank des zegehorens stroomen de talryke benden binnen. Iwein's wacht biedt een dapperen wederstand: lang houdt het kleine rot het geweld des vyandelyken legers, met ongehoorden moed, tegen; zy vallen, maer wyken niet: het gedrang wordt schrikkelyk, schrikkelyk het gevecht; de zegekreet, het geklikklak der zwaerden en 't gezucht der stervenden vermengelen zich in de lucht. Het overtal draegt het eindelyk door: de vyandlyke troepen trekken voort, rukken verwoed in Aelst en verspreiden zich dreigend door de stad, welke zy uitplonderen en in kolen leggen. De ontkomen burgery neemt naer de burgt de vlugt; want het vuer slaet door de stroijen daken en in hout getimmerde woonsteden: de vlammen, door den wind getergd, stygen flikkerend ten hemel en werpen eene nu eens schitterende dan eens twyfelachtige helderheid op deze ysselyke overrompeling; maer Iwein-zelf verschynt aen het hoofd zyner mannen: en kan hy Godevaert niet weder uit de stad terug dryven, toch beteugelt hy den euvelmoed der woedende krygsbenden en beschut de vlugtende burgers, die den wyk in het kasteel zoeken.</p>
+<div type="section">
+<pb n="53"/>
+<head rend="h4">2.</head>
+<p>Op een eiland, door de waters van den Dender gevormd. in eene door natuerlyke ligging versterkte plaets, waer heden de berg van Plaisance ryst, bestond reeds vroeg een slot, zoo men wil in de V<hi rend="sup">de</hi> eeuw door de Saksers eerst opgeworpen. Rodolf, zoon van Boudewyn den Yzeren, deed deze versterking met bolwerken voorzien; maer in de X<hi rend="sup">e</hi> eeuw werd ze door Theodorik, die alhier zyn verblyfkwam houden, na dat hy uit Gent was verdreven, op een grooter plan ontworpen, en was alsdan een der sterkste kasteelen van geheel Vlaenderen.</p>
+<p>Het was een hoog, vierkantig en met torens bezet gebouw; geene vensters kwamen langs den buitenkant, en die naekte, duistere muren, met overhellende kanteelen, slechts met lucht- en schietgaten doorkapt, gaven aen het kasteel een somber uitzicht, dat welhaest verdween, zoodra men in het binnenhof kwam, waer de sierlykheid des bouwtrants en 't gedurig gewoel der burgtzaten het oog boeiden.</p>
+<p>De ingang, eene overwelfde poort, waer de wapenen van Gent en Grimbergen op prykten, was door twee vechttorens versterkt, door valpoort en gierbrug voorzien, en by gevolg niet ligt te verwinnen. De grondvest der burgt werd langs den voorkant, welke met eene dreef naer Sint Maertens kerk zag, door den Dender be-<pb n="54"/>spoeld, die het slot tot buitenwal verstrekte. Diepe en wyde binnenwateren omringden het fort langs de drie overige zyden.</p>
+<p>Godevaert was den buitenwal overgekomen, sloot het kasteel nauw in en hield onophoudelyk de bezetting door gevechten in de weer. Uit verscheidene blokhuizen joegen de bleijen met onbeseffelyke kracht de grootste steenen naer de belegerden toe; de draeibassen overdekten de daken met vuer, en duizende pylen vlogen gedurig naer den trans der burgt, die met eene menigte soldaten was bezet.</p>
+<p>Niet min moedig verdedigden zich de belegerden; zy bragten grootere verliezen aen de min beschutte belegeraers toe. Meermael trachtte Godevaert den wal te vollen, om met houten torens en met ladderen de burgt te kunnen bestormen; maer telkens werd hy in zyn voornemen gestut, en door onwederstaenbare uitvallen terug gedreven; doch Iwein's magt was niet groot genoeg om hem tot den aftogt te dwingen. Het kasteel echter was zoo sterk dat het maenden lang een beleg kon uitstaen; maer het was van geene genoegzame levensmiddelen voorzien om nog lang een zoo groot getal personnen, als er zich nu in bevond, te voeden. Nauwelyks was de burgt eene week ingesloten, of men begon reeds eenige schaersheid aen 's levens nooddruft te gevoelen. De krygslieden, door waken en dagelyksche gevechten
+<pb n="55"/>vermoeld, door kwetsuren en derving verzwakt, stelden al hunne hoop in eene haestige hulp van buiten: en steeds hielden zy met ongeduld de oogen naer het verschiet; eens ontwaerden zy eene naderende bende, en zagen welhaest Vlaenderen's standaerd verschynen: zy juichten daer zy meenden dat Diederik van den Elzas ter hunner ontzetting toesnelde; maer was hunne vreugde groot, des te gevoeliger was hunne neêrslachtigheid, als zy, by 't nader bykomen der legermagt, de lelie op het veld des wapenschilds ontdekten, en nu zich verzekerden dat Willem van Normandie Godevaert ter hulp naderde. Velen gaven alle hoop van verlossing op, en twyfelden niet of Diederik's legerschaer had eene volkomene nederlaeg geleden. De moedeloosheid wies meer en meer in 't ronde en steeg welhaest ten top.</p>
+<p>In oogenblikken van algemeen gevaer, wanneer neêrslachtigheid en angst zich door gansch het leger verspreiden, verdwynt daer alle tucht en ontzag. Dan handelt elk voor zich zelven, of de stoutste werpt zich boven de anderen op, en houdt dezen een plan voor, dat eenige hoop van uitkomst aenbiedt, men stelt zich gewillig onder hem en volgt blindelyks zyne bevelen.</p>
+<p>In de netelachtige omstandigheden, waerin de belegerden zich nu bevonden, vervloog alle ontzag voor de oversten. Elk kryger dacht op eigen behoud: eenigen zelfs dorsten opentlyk hunne meening te kennen geven,
+<pb n="56"/>en beweerden dat het tyd geworden was om een verdrag met de belegeraers te maken, of zy zouden, door hongersnood uitgeput, in het kasteel van gebrek sterven, dewyl er schier geen leeftogt overig was; of werd het slot door de belegeraers, wier magt merkelyk was vermeerderd, overrast, dan zouden zy allen eene geweldige dood ondergaen. En inderdaed alle hoop om den vyand van voor hunne muren te verjagen was verdwenen, sinds Willem's benden zich by degene van Godevaert hadden vervoegd: en elk hield voor gewis dat de troepen van Diederik verstrooid en vernietigd waren. De voornaemste aenvoerder van 't oproer was een schutter, die, slechts op buit oogende, het vaendel van dezen of genen heer onverschillig volgde. Woest van aerden kloek van leden werd hy in vredes tyd door gansch het land gevreesd, en overal was hy onder den naem van Yzeren Hans gekend. Hans sprak tot zyne makkers en legde hun voor dat, wilde men aen eene zekere dood of de woede des vyands ontkomen, het eenigste middel van redding was Iwein in Willem's handen over te leveren. ‘Een enkel man, voegde hy er by, heeft het regt niet om tot onzekere behouding van eigen leven, het leven van eene talryke horde in de waeg te stellen: ja, ons allen in zyn onvermydelyken ondergang mede te slepen. Iwein kan de wraek van Willem niet ontsnappen, en indien wy hem byblyven, dan zullen wy zyne
+<pb n="57"/>vermetelheid en onze dwaesheid met de dood beboeten.’</p>
+<p>Hoe groot het gevaer ook was, werd dit stout voorstel echter door slechts weinigen toegejuicht: de anderen, 't zy uit eerbied of verknochtheid aen Iwein weêrhouden, ysden by dezen stouten voorslag; maer ook niet één had den moed het woord op te vatten om er zich tegen te verzetten. Hans den invloed merkende, welken hy op de gemoederen uitoefende, voer driftig voort en riep tot de menigte die hem omringde: ‘Welaen! maken wy ons straks meester van Iwein, en eer één uer verstreken is, zyn wy vry en uit dezen doodskuil verlost.’ Hy zegt en begeeft zich, gevolgd door dezen oproerigen hoop, uit de zael, om Iwein in boeijen te werpen; maer eensklaps gaet de deur open, en wie verschynt er voor hun gezicht? Iwein-zelf, die door zyn getrouwen knaep gewaerschuwd van 't geen er beraemd werd, in de zael verscheen en zich nu regt over den belhamel bevond.</p>
+<p>Door verontwaerdiging opgetogen en in woede ontstoken, wierp Iwein een dreigenden blik rond zich: zyne vergramde oogen schoten vlammen uit, verwilderd scheen zyn hair te berge te stygen. Hans echter dorst hem naderen; maer Iwein joeg met geweld zyn zwaren kling door den helm des oproerlings, die levenloos aen zyne voeten nederstortte.</p>
+<pb n="58"/>
+<p>Op eens was de vervoering gedempd; niet één verhief nog de stem; de vroegere eerbied kwam boven; voor Iwein alleen beefden honderden krygers; - eene doodsche stilte heerschte in de zael. Een blik vol verachting op hen werpende, sprak hy hen met deze woerden aen: ‘Lage zielen, zeide hy, heeft het leven een zoo onweêrstaenbaren trek voor u, dat gy er pligt en eer aen zoudt opofferen? wilt gy het overige uwer dagen met een onuitwisbare vlek van schande op het voorhoofd doorbrengen? welaen, ik stel my in uwe handen; levert uwen bevelheer aen den vyand over; brengt my geboeid in Willem's magt; gaern schenk ik myn leven ter uwer behoudenis. - Maer gy zwygt.... gy schaemt u reeds over uwe snoode pooging... ik zie 't, gy waert misleid, maer zyt uwe pligten niet onbewust. Nemen wy dan een kloek besluit; vertoeven wy hier nog vierentwintig uren, en zoo wy in dien tusschentyd geene hulp outvangen, banen wy ons, den degen in de vuist, eenen weg door de vyandelyke drommen; - de zege volgt bestendig den onverschrokken heldenmoed.’</p>
+<p>Allen juichten by dien voorstel; de neêrslachtigheid was in dapperheid verkeerd; met meer vlyt dan ooit hield men de wacht, en het orde was ten eenemael hersteld.</p>
+</div>
+<div type="section">
+<pb n="59"/>
+<head rend="h4">3.</head>
+<p>In het slot is alles weêr rustig; geen gemor, geen oproerige toonen breken nog door de stilte des nachts: maer de rust heerscht niet in Iwein's harte. Wat uitzicht! hy moet de vaderlyke burgt en alles wat hem dierbaer is verlaten. - De nypendste en grievendste gedachten volgen elkander aenhoudend op - Maer waer vertoeft Diederik, die hem stellig beloofde tot het ontzet van Aelst aen te snellen? - Waer blyft Daniël van Dendermonde? - Werden hunne legerbenden verslagen? Hy moet het veronderstellen: - moeijelyk kan hy dit zich inbeelden, en echter durft hy het tegenovergestelde niet hopen.</p>
+<p>Vruchteloos tracht hy die nacht, de laetste nacht welke hy in het slot zyner voorvaderen overbrengt, een weinig te rusten. Hy is vermoeid, zyn hoofd is gloeijend en zyn hart benepen. De helm drukt hem pynlyk de slapen. Meermael nogtans bragt hy de nacht, aen even groote gevaren blootgesteld, in het harnas slapend over; maer thans schynt de geest zyns geslachts ysselyk rond hem te waren en drukkend hem het harte te folteren. Hy ryst schieiyk op en treedt als een misdadige, nu met trage, dan met verhaeste stappen, door de groote en eenzame zael. Is hy ergens aen zyne pligten te kort gebleven? Neen. - Bezoedelt eene vuige daed zyn onge
+<pb n="60"/>rust geweten? Neen; zyne pligten kwam hy strenglyk na, en hy hield zyne eer ongeschonden. Ook herleeft de hoop welhaest in zyn hart, en naer den hoogen starend, roept hy in geestdrift uit: ‘Neen, ik ben niet verwonnen, ik heb myn schild en degen nog. Ontkom ik behouden uit dit slot, ik zweer het, ik zal Vlaenderen van Clito's geweldenaryen verlossen. Hebben de steden hunne regten en hunne magt vergeten? beven zy op de stem des dwingelands? Nooit zal ik voor hem den schedel buigen; hy overheere gansch het Land, maer my bedwingt by nooit. Dan nog trotseer ik zyne magt, en met myne trouwe mannen blyf ik hem beoorlogen. De ondoordringbare bosschen, die van 't een tot het ander uiterste Vlaenderen overdekken, verstrekken ons tot schuilplaets; daer heerschen wy dan, daer spotten wy met zyne bevelen; van daer verzwakken wy zyne magt door gedurige springreizen en onophoudelyke uitvallen!’</p>
+<p>Zulke en diergelyke gedachten vliegen hem door het brein; onophoudelyk wordt het eene gedacht door het andere verdrongen, gelyk de baren in eene door onweêr getergde zee; de hoop volgt op wanhoop, en na neêrslachtigheid herneemt hy moed.</p>
+<p>En zyne beminde, zyne Lauretta wordt in dit uiterste gevaer niet vergeten. Wat smarte doorgrieft zynen boezem... Mymerend en in deze hevige gedachten verslonden, blyft hy op den grond staren en met saêmgevou-<pb n="61"/>wen armen stil staen, wanneer twee wachten met een ontwapenden ridder voor hem verschynen.</p>
+<p>In een doorwaedbare plaets van den burgwal hadden zy hem aengehouden: maer ook gewillig had hy zich in hunne handen overgegeven, verzekerende met belangryke zaken van wege Diederik voor Iwein belast te zyn. De ridder schoof, als hy Iwein naderde, het vizier op: - het was Steven van Boelare, die met Diederik naer Ryssel trok. Iwein drukt hem driftig de hand, doet hem schild en degen wedergeven en gebiedt met een wenk aen de wachten de zael te verlaten. Dan sprak Steven: ‘Diederik van den Elzas, Vlaenderen's Graef, ons beider heer, nadert ter uwer hulp, en eer twee uren vervlogen zyn, is hy in 't gezicht van het slot. De belegerende troepen worden op eens langs twee kanten aengevallen, en op dat men zeker zy dat gy van hun naderenden togt verwittigd zyt en dat ik het vyandelyk leger ongehinderd doorkwam, bespraken wy een licht op den hoogsten toren te doen ontsteken als men een vuer aen Liekerkebosch zou ontdekken, en dat dit ons tot wederzydsche baken en aenvallingsteeken zou verstrekken.’</p>
+<p>Iwein, by deze blyde mare verrast, kan nauwelyks gelooven hetgeen hy hoort. Diederik, wiens leger hy verwonnen dacht, is in aentogt ter ontzetting van zyne burgt. Hy zendt zyn schildknaep op den toren om te
+<pb n="62"/>zorgen dat het besproken teeken gegeven worde, en doet al de beschikbare mannen zich tot een uitval bereiden. Dit berigt vloog eensklaps van mond tot mond door gansch de burgt; de verflauwde en moedelooze bende herleeft; zy ademt wraek voor geleden hoon; de overwinning alleen biedt nog uitkomst: - zy zullen verwinnen of vergaen.</p>
+<p>Alles is tot den uittogt bereid. De soldaten zyn op het voorhof vergaderd en wachten met ongeduld naer het te geven sein. Iwein en Steven zyn in hun midden, en beider tegenwoordigheid boezemt nog meer moed in het hart der krygers. De tyd schynt hun traegzaem heen te snellen, en elk rigt verlangende blikken naer den toren, waerop het teeken des aenvals moet gegeven worden.</p>
+<p>Iwein verhaelde ondertusschen aen Steven van Boelare het uiterste gevaer, waerin by zich bevonden had. ‘Vroeger tot uwe hulp aen te snellen, antwoordde Steven, was ons onmogelyk. In Ryssel, waer gy ons verliet om ter verdediging van Aelst te komen, hield Willem ons veertien dagen ingesloten. De fransche koning zelf, Lodewyk de Dikke, zakte met een talryk leger ter zyner ondersteuning af; maer onze troepen, door de trouwe burgery geholpen, dwongen hem eerlang tot den aftogt. Dan snelde Willem naer Aelst om Godevaert in het beleg dezer sterkte te ondersteunen. Wy trachtten zyn togt te belemmeren en deze vervoeging te belet-<pb n="63"/>sen. Raso van Gaveren nogtans, die met eene uitgekozene bende hem op de hielden volgde, randde hem eergisteren in de velden van Aspelare en Hasselt aen, doch Willem kon den schok tegenhouden en drong door zyne gelederen heen....’</p>
+<p>Op eens heeft er eene algemeene beweging onder de soldaten plaets: het sein is gegeven! - geen trompetgeklank laet zich hooren, geen fakkellicht flikkert, en nogtans stelt alles zich in goed orde op aentogt, en traegzaem verlaten zy het slot.</p>
+<p>Als Iwein aen het hoofd zyner krygeren de burgt verliet, om den aenval te wagen, vereenigden de vrouwen, de kinders en de gekwetste soldaten, die geen deel aen den uitval nemen noch het slot bewaken konden, zich in de kapel om het ontzet van 't kasteel en Vlaenderen's verlossing van den hemel af te smeeken. Eene lamp hing voor het outer boven de knielbank neêr, en wierp op die bleeke, magere aengezichten eene bevende en flauwe klaerte; daer las de kapelaen, op de knielbank neêrgezeten, de Litanie, welke in de grootste gevaren wordt aengeheven, en het antwoord der omstaenders was meer of min roerend, naermate de vraeg meer of min op hunnen tegenwoordigen toestand toepasselyk was.</p>
+<p>Ondertusschen was Iwein, aen het hoofd zyner spitsbroeders, in de vyandelyke verschansingen doorgedrongen. Zyne manschap had hy in kleinere benden verdeeld,
+<pb n="64"/>die op verscheidene plaetsen te gelyk in de tenten vielen, de pas ontwaekte soldaten afmaekten en alles in brand staken. Op eens gaet een ysselyke kreet door geheel het kamp op: de vlammen klemmen op tien verscheide plaetsen ten hemel. Hier en daer verdedigen de aengevallenen zich dapper, een groot getal vereenigt zich in het kamp en biedt Iwein's magt moedig liet hoofd; maer door Diederik langs den overkant aengerand, moeten zy het eindelyk opgeven: eenigen vechten wanhopig voort, anderen zoeken in de vlugt hunne redding. Iwein trekt als een bliksemstrael, die alles wat hy raekt, verzengt, verbrandt en vernielt, tot in Willem's tente door, en randt hem, reeds in het harnas gehuld en door zyn trouwste ridders omringd, moedig aen. Iwein's zwaerd maekt een wyden kring rond zich heen, - wat hy treft valt neder, en schoon Willem geen moed ontbreekt, is hy door dien schielyken aenval zoo ontroerd dat hy moedeloos te paerd stygt en de vlugt tracht te nemen. Nu spant Iwein zyn boog, de pyl met kracht de pees ontsprongen, dringt door Willem's harnas, en stervende valt de Noorman van zyn paerd ter aerde. Het lyk werd door zyne vlugtende stryd-makkers medegevoerd, en zoo uit de handen der Vlamingen gered.</p>
+<p>Willem was in den stryd gesneuveld; zyne waelsche troepen waren verstrooid, vernield, en Godevaert, met
+<pb n="65"/>een klein overschot zyns legers, trok naer Leuven terug. De overwinning was volkomen; - Aelst was ontzet en Vlaenderen van eenen dwingeland verlost.</p>
+<p>Onbeschryflyk was de vreugde en het gejuich in het kasteel, als met het opgaen des dageraeds, Diederik uit den Elzas, aen Iwein's zyde, met de verwinnende benden er binnen trok.</p>
+<p>Maer hoe zal Diederik de zelfopoffering, den moed van Iwein beloonen, - van Iwein, die goed en leven ter zyner verheffing verpandde, die zyn tegenstrever in het gevecht den doodsteek toebragt? - Ontroerd erkende Diederik opentlyk al hetgeen hy Iwein verschuldigd was, bedankte hem er over en eindigde met deze woorden: ‘Gy vroegt my myn dochters hand, Iwein' - thans schenk ik u Lauretta tot vrouwe; - ik ben trotsch een held als Gy tot zoon te hebben.’ En hy omhelsde den dapperen.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">einde</hi>.</p>
+<pb rend="blank" n="66"/>
+</div>
+</div>
+<div type="chapter">
+    <interpGrp>
+        <interp type="primair" value="frank01"/>
+        </interpGrp>
+<pb n="1"/>
+<head rend="h2">Het Blyspel
+<lb/>
+van mevrouw de Caumartin.
+<lb/>
+1837.
+<lb/>
+Door jufvrouw
+<lb/>
+A.L.G. Toussaint.</head>
+<pb rend="blank" n="2"/>
+<pb n="3"/>
+<head rend="h3">I.</head>
+<p>Te voet en alleen trad een jongman een pad langs, ter zyde van de breede middelbaen in het <hi rend="i">Bois de Bologne,</hi> die trotsche, laetdunkende, aristocratische wandelplaets! want slechts voor den grooten aristocraet onzer eeuw: den rykdom, heeft zy haren grimlach over; de andere magten: den adel, de schoonheid, het genie, erkent zy eerst dan, wanneer zy door rykdom worden opgeluisterd. Het is als of zy het liefst hare lommer schenkt aen dengenen, die in zyn wel overdekt rytuig deze het minst behoeft; zy breidt het gereedst hare effene paden uit voor hem, die ze vertrapt met vurige kleppers van zuiver engelsch ras: en het liefst ziet zy op
+<pb n="4"/>hare donzige grasperken den verfynden schitterglans der eeuw, en de gewettigde barbaerschheid van deze: het tweegevecht.</p>
+<p>En toch was daer myn jongeling, - te voet; want hy had geen rytuig, - want hy had geene afspraek voor een duël; - toch wandelde hy daer op een uer, dat der mode uitsluitend toebehoort, den tyd, waerop de zon van den schoonen zomerdag ten avond neigde.</p>
+<p>Myn jongman was niet <hi rend="i">schoon; bevallig</hi> kon niemand hem noemen: en toch was er iets treffends in zyn diepgebukte, peinzende houding, - en als hy zyn hoofd ophief, dan lag er in geheel dat gelaet iets oorspronkelyks, iets dat den zelfdenker kenmerkte, en dan zetelde er op dat voorhoofd, nevens groeven en voren van smart of zorg, eene vastheid, die zeide: ik wil my zelven behooren! En dan sprak er uit die donker bruine oogen, die voorzeker eenmael geschitterd hadden, hoe dof ze ook nu stonden, iets edels en iets schranders, dat op achting aenspraek maekte; want zyne trekken vormden een dier miskende gezichten, wier diepe ernst stugge norschheid heet, en die men zoo ligt van stompzinnigheid verdenkt, om dat ze niets bewegelyks noch geestigs hebben. Eenzaem, te midden van die schitterende, schaterende, gonzende, spottende menigte, bewoog hy zich, met eene vryheid, als ware er niemand om hem geweest. Tegen eenen boom geleund, scheen
+<pb n="5"/>hy in zyn zakboekje iets aen te teekenen. Maer juist toen naderde hem, stapvoets, ondanks het ongeduld der snuivende rossen, eene smakvolle, sierlyke caleche. Al hadden de ryke tuigen, de trotsche wapens, het breede borduersel der livereijen, niet van den hoogen rang des bezitters getuigd, dan werd dit toch bewezen door de aenmatiging van den koetsier, die onwrikbaer het middelpad hield, en door de drift, waermede zelfs fashionables en dandy's hunne fyne rypaerden of ligte tilbury's ter zyde rukten. Geen wonder, het was voor de schoonheid, den rang en den rykdom in één wezen verpersoonlykt, dat die lieden zich bogen. In dit rytuig zat, in eene byna liggende houding, de barones Zéphirine d'Autaine. Zy was eene dier bevallige blondines, gelyk <hi rend="i">Nederland</hi> ze by honderden oplevert, weinig sprekend, maer veel zacht schoon bezittende, veel blozend inkarnaet, veel schitterend wit. Maer in haren kring was die teedere, zwakke, blauwoogige schoonheid iets zeer éénigs; met hare natuerlyke tinten had zy al de kunsttinten harer gezusters verduisterd. Een zeer tenger jongeling, die ondanks zyne groote jeugd, het geheim bezat om den mannelyken tooi van den <hi rend="i">roi-gentilhomme</hi> na te bootsen, zat tegenover de barones met dat mengsel van gemaekte onachtzaemheid en aenmatiging in houding en gebaren, dat zyn' stand en ouderdom teekende.</p>
+<p>Eindelyk was er nog een heer in dat rytuig: een le-<pb n="6"/>vendig, doordringend oog, scherpe trekken, zilveren haren, iets innemend vriendelyks, by veel deftigs, ziedaer den baron de Breteuil, oom van den jongeren geleider der Dame, met wien deze, op dit oogenblik, in eenen spelenden twist scheen gewikkeld te zyn; want zy voegde hem iets toe met een allerliefst pruilend grimlachje, en hy scheen een antwoord te geven, dat haer in eene ligte verwarring bragt, daer zy zich van hem afwendde, en over de bonte menigte het oog liet heendwalen.</p>
+<p>Zy had onzen wandelaer ontdekt; want met haer bouquet even naer hem heen wyzende, begon zy, als om op een ander onderwerp te komen: ‘Och, Henri! zie toch, zeker een duëllist, die zich in het uer vergist heeft, en al wachtende, zyn grafschrift stelt.’</p>
+<p>Henri nam zyn lorgnet: ‘Vergeving, Zéphirine! duizend andere gissingen zyn waerschynlyker; veeleer is het een bedelaer, een straetroover, een gevallen dagbladschryver, een <hi rend="i">professeur de langues,</hi> of een alchimist. Een duëllist kleedt zich nooit zoo haveloos, om het laetste bedryf te spelen; men is altyd ryk genoeg, om voor een tweegevegt een' goeden rok aen te trekken.</p>
+<p>- ‘Henri heeft gelyk, merkte de baron aen; die man heeft meer van een' geleerde, een' schilder, een' peinzenden dichter.</p>
+<p>- Dan is hy zeker een ultra-klassiek, viel Henri
+<pb n="7"/>in, dien zyne muze billykerwyze met een versleten pak straft. - Duizendmael is die plunje versteld, en scheuren zelf zouden nog fatsoenlyker staen, voegde hy er by, terwyl hy met zyn lorgnet al de <hi rend="i">détails</hi> der kleeding scheen op te nemen.</p>
+<p>- Gy doet my lachen, Henri! maer waerlyk, met uw onafgebroken lorgneeren wordt gy lomp, te lomp zelfs jegens een' bedelaer, zeide Mevrouw d'Autaine, eenigzins scherp.</p>
+<p>- Hy heeft u opgemerkt, Mynheer! voegde de oude baron er met ernst by, gy moet u by hem verontschuldigen; die man kan beter zyn dan de rok, dien hy draegt. En dat is eene achtenswaerdige zeldzaemheid in <hi rend="i">Parys.</hi></p>
+<p>- Als Zéphirine hem in hare bescherming neemt, als Mynheer de Breteuil haer ondersteunt, dan moet ik eindigen met te gehoorzamen, hernam Henri, half beleedigd, half schertsende. - Halt, Pierre!’ De calèche hield stil, en luchtig wegspringende, had de jongeling reeds één' voet op de neêrgeslagene trede.</p>
+<p>- Wat wilt gy? vroegen de oom en de jonge vrouw te gelyk.</p>
+<p>- Den man aenspreken. Ik wil weten wie het is, die het geheim gevonden heeft, om er als een lazaroni uit te zien, en een kwartier lang de aendacht bezig te houden van de schoonste vrouw uit den <hi rend="i">Faubourg S</hi><hi rend="sup">t.</hi> <hi rend="i">Ger
+<pb n="8"/>main;</hi> van den achtenswaerdigsten legitimist, en van den dolsten fashionable der hoofdstad.’</p>
+<p>En als een regte salon-held, die slechts een toehoorder noodig heeft om een gesprek te beginnen, liep hy regtstreeks op het voorwerp van zyne nieuwsgierigheid toe; deze, de onbescheidene blikken moede, zoo, van uit de hoogte, op hem gerigt, keerde zich om, toen hy naderde.</p>
+<p>- ‘Charles! Charles! vind ik u hier, alleen en te voet, terwyl de schoone Elmé u wacht; zy zal woedend zyn: wat wilt gy, dat ik haer zeggen zal?’</p>
+<p>De onbekende zag om.</p>
+<p>- Mynheer! gy vergist u, ik heet niet Charles.</p>
+<p>- O, duizendmael vergiffenis! maer inderdaed, die sprekende gelykheid, die beminnelyke onachtzaemheid, die myn vriend opzettelyk in zyne kleeding aen den dag legt, die houding, dat alles moest tot vergissing medewerken. Gy zult opgemerkt hebben, Mynheer! dat wy u sterk hebben aengezien, dat wy u zelfs hebben toegewenkt?</p>
+<p>- Het eerste is my niet ontgaen. Mynheer! Ik kan niet denken dat gy my verder iets te zeggen hebt, - en zich buigende wilde hy voortgaen.</p>
+<p>- Veel, zeer veel, Mynheer! luister nog een oogenblik. Ik zoude onbegrypelyk veel verpligting aen u hebben, zoo ik weten mogt wie dan toch zoo op myn'
+<pb n="9"/>vriend Charles gelykt: ik ben Roger Henri, markies de T.</p>
+<p>- Welnu, markies! en myn naem is Julius De l'Hôpital, regtsgeleerde.</p>
+<p>- De l'Hôpital! een merkwaerdige naem, inderdaed! misschien een naneef van den grooten kanselier?</p>
+<p>- Het is mogelyk, Mynheer! er bestaet ten minste tusschen ens één punt van overeenkomst.’ En zonder een antwoord af te wachten, vlood hy henen, als de schichtige wilde, die voor het eerst eenen Europeaen ziet.</p>
+<p>- ‘Die man kent evenmin onze tegenwoordige wereld, als wyien zyn overgrootvader, mompelde Henri: l'Hôpital! hm, hm! een naem van slechte beteekenis in deze dagen. Waer zai deze l'Hôpital een' kardinael de Grammont en eene hertogin van Berry vinden, die hem beschermen?’</p>
+</div>
+<div type="chapter">
+<pb n="10"/>
+<head rend="h3">II.</head>
+<p>Des anderen daegs zeide de portier van het huis, waerin Julius De l'Hôpital een schamel vertrek bewoonde, tot dezen: Men heeft voor u dit pakketje gebragt. Julius was niet gewoon iets te ontvangen. Hy had geene bloedverwanten, die hem schreven; geene schuldeischers, die hem konden dagvaerden. Zóó arm was hy. Hy opende dus met eenige drift het pakketje. Hy vond zyn eigen zakboekje en dit briefje:</p>
+<p>&nbsp;</p>
+<p>‘Mynheer!</p>
+<p>Myn neef Roger Henri heeft uw eigendom toevallig gevonden. Wy nemen de vryheid het u terug te zenden.
+<pb n="11"/>Om uw adres te weten, heb ik het moeten inzien. Ik verlang niets vuriger, dan u in persoon daervoor verschooning te vragen, zoo gy my de eer van een bezoek schenken wilt.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Marie Jean</hi>, baron <hi rend="sc">de Breteuil</hi>.’</p>
+<p>&nbsp;</p>
+<p>Er volgde eene aenwyzing van woonplaets, en het uer, waerop de baron te spreken was.</p>
+<p>De l'Hôpital was noch lomp, noch opzettelyk zonderling, noch zoo zeer een natuermensch, of hy vond het raedzaem die aenwyzing te volgen.</p>
+<p>De baron de Breteuil was by weinigen onbekend. Julius vermoedde in hem een' beschermer. Eene bittere grimlach plooide zich om zynen mond. - Nogmaels eene proef genomen! sprak hy, toen hy in des barons kabinet werd binnen geleid.</p>
+<p>De aenzienlyke man ontving hem met de welwillende beleefdheid, waervan sommige grooten zoo zeer den tact hebben, en die by hen opregte hartelykheid byna vergoedt.</p>
+<p>De baron had het zakboekje van Julius ingezien. Hy had, in zyne los daerheen geworpene zinsneden, de vrye uitstorting van een overkropt gemoed, en bovenal den man van talent, herkend. Hy had met zyne vlugge bevatting, verdienste, zielenadel, miskenning, teleurstelling, behoefte gevonden in die pynlyke klagten, in de
+<pb n="12"/>onsamenhangende plannen, in die brandende satyres. Hy had den man willen kennen, die zoo onbekend was, by het bezit van zoo vele bouwstoffen tot verheffing. En dat was het, wat hy Julius zeide.’</p>
+<p>De jonkman antwoordde met vertrouwelykheid:</p>
+<p>- ‘Myne geschiedenis is als die van vele anderen. Brave ouders, die hun klein vermogen hebben uitgeput, om myne studien goed te maken. Een vader, die sterft, en niets nalaet dan eene blinde moeder, die verpleging behoeft, en eene onmondige zuster, die weinig kans op een huwelyk heeft. Vlytige studien, want de arme studeert altyd vlytig. Eindelyk, myne wetenschap meester, zet ik my, vol moed en verwachting, met een eerlyk hart, in myne geboorteplaets, <hi rend="i">Parys,</hi> neder. Ik zal nu de vruchten genieten van lange inspanning; en de liefderyke opofferingen myner aenverwanten met bewyzen betalen. Hersenschimmen! er is voor my geene plaets. Ik troost my. Ik zal toch zaken vinden. Hersenschimmen! Myne onbekendheid en myne armoede trekken tusschen my en de maetschappy een' muer op. Na lang poogen ontmoet ik enkele beschermers. Zy willen my de wegen openen, die tot roem en fortuin leiden. Maer de middelen, die zy aenwyzen, zyn ongeoorloofd; ik zeg het hun, zy halen de schouders op, lachen my uit, en verlaten my. Nóg geef ik geene hoop verloren, ik verbubbel myne moeite. Ik verneder my tot verzoe-<pb n="13"/>ken, tot bidden. Ik bezoek de antichambres der grooten, de voorzalen der ministers. Vergeef het myner gekreukte eerzucht, Heer baron! de magt, die ik huldigen moet, is meestal de ondeugd of de dwaesheid. Ik zie my altyd teruggeduwd door de behendigheid van anderen, of ik stuit op myne eigene beschroomdheid, of op myne weinige toegeeflykheid. De menschen willen gevleid zyn, en het is myn noodlot, dat ik hen hekelen moet. De maetschappy en ik verdregen elkander hoe langer hoe minder: want ik heb zes jaren lang tegen haer geworsteld. Wy hebben geen van beiden gewonnen; maer ik ben den stryd hartelyk moede. Daerby komt nog een huwelyk, eene vrouw, die ik in myne ellende heb medegesleept.</p>
+<p>- Gehuwd? - de baron schudde het hoofd.</p>
+<p>- Niet in overyling, het kon niet anders. Eene jeugdige, ongelukkige weeze, in de magt eener oude, gierige, plaegzieke moei, die eindigde, met haren kamerdienaer tot echtgenoot te nemen, en het meisje zonder eenige andere bescherming te laten dan myne liefde. Sinds onzen trouwdag is myne ellende altyd toegenomen. Ik leef thans van den handen-arbeid dier beide vrouwen!’ Die laetste zinsnede was een diepe wanhoopskreet; de ongelukkige scheen den afstand tusschen hem en den baron te vergeten, en de oogen met de hand bedekkende, zonk hy in eenen armstoel neder.</p>
+<pb n="14"/>
+<p>- ‘Gryp moed! sprak de baron, met medelydenden ernst zyne hand vattende. Ik zou dat lang verhael van zoo veel jammeren niet geëischt hebben, zoo ik troost noch hoop voor u had.’</p>
+<p>De jongeling zag op.</p>
+<p>- ‘Geloof my, sprak de baron ernstig, doch vriendelyk, eene verdienste als de uwe mag niet zoo wegkwynen, of met zelfmoord eindigen, de maetschappy zelve verbiedt dat: zy is regtvaerdiger dan gy denkt; doch zy is als eene vrouw: zy gelooft wel aen zielenadel, aen verhevene hoedanigheden, aen echte kunde; maer zy wil ze zien in een bevallig onkleedsel, zy wil dat ze uitkomen en zichtbaer zyn. Haer verstand wil wel gelooven; maer hare zinnen moeten eerst overtuigd wezen. Gy <hi rend="i">kunt</hi> haer behagen, zoo gy haer behagen <hi rend="i">wilt.</hi> Maer de jeugd is niet toegevend. Zy gevoelt zich sterk en groot; zy heeft het hart vol poëzy, en noemt alle proza des werkelyken levens eene laegheid! De strikte braefheid is te streng; zy beoordeelt alles naer zich zelve, en ziet laeg neder op de zwakheden der wereld, die zy ondeugden noemt. Maer vooral miskende verdienste is weinig inschikkelyk; zy roept wraek over elke onschuldige ydelheid, en vergeet daerby, dat zy zelve ook der ydelheid inwilligt! Dat is geoorlofd aen hem, die onafhankelyk door het leven gaet; maer voor wie een huisgezin, zwakke wezens, in zyn lot deelen doet, is dat
+<pb n="15"/>eene fout, eene groote fout zelfs, om het met geen' sterkeren naem te noemen.’</p>
+<p>De l'Hôpital had in het eerst zuchtend, daerop byna verontwaerdigd, en eindelyk met tranen toegeluisterd.</p>
+<p>De baron had eenen diepen blik geslagen in zyn hart. Het was zoo; hy verweet zich dikwerf, onder bittere zelfkwelling, die norsche deugd, die onverzettelyke strengheld, die wel afgeschrikt, maer geene achting had afgedwongen; en toen hy zich volmaekt vergeten en verlaten zag, had hy wel eens in stilte gewenscht, dat alles nog te herdoen ware. Ook ontglipte hem, by de laetste woorden des edelmans, eene beweging van toestemming, en toen deze er byvoegde: Gy moet meer buigzaem, meer toegevend zyn, wilt gy dat? antwoordde hy snel en besloten: Ja ik wil het!</p>
+<p>Toen deelde de baron hem mede wat hy voor hem doen wilde.</p>
+</div>
+<div type="chapter">
+<pb n="16"/>
+<head rend="h3">III.</head>
+<p>- ‘Loïse! lieve Loïse! riep De l'Hôpital, by zyne vrouw binnentredende, met een minder bewolkt voorhoofd dan zy sedert maenden by hem had opgemerkt. Zy kustte ook zynen laetsten rimpel weg. Zy was zoo gelukkig hem eenmael niet somber te zien. Waer is Mina? vroeg hy, rondziende, en zyne zuster niet vindende.</p>
+<p>- Zy wandelt in het <hi rend="i">Luxembourg,</hi> met onze moeder. De goede oude verlangde zoo zeer naer de zonnewarmte en de vrye lucht.</p>
+<p>- Het is goed, dat ik u alleen vind, trouwe vriendin! wy kunnen zoo beter praten. Bezitten wy nog iets, dat wy ontbeeren kunnen?</p>
+<pb n="17"/>
+<p>- Ontbeeren! herhaelde zy met eenigen schrik; ik weet niet....</p>
+<p>- Ziet ge, ik zal iets noodig hebben. Ik heb weder hoop. Ik heb een' edelen beschermer gevonden, een' man van de wereld, maer toch nog iets beter dan zy. Omdat hy een bekend vriend van het gevallen koningshuis is, kan hy persoonlyk niet veel voor my doen; doch hy zal my inleiden by eene vrouw, die veel magt heeft, en door haer salon heerscht. Ik moet my op nieuw in de samenleving werpen, ging hy in eenen adem voort, op nieuw my bewegen in den kierts van kleingeestigheid en ydelheid. Op nieuw moet ik grimlachen tegen dat masker van onzydige kieschheid, dat de schaemtelooste ondeugd verbergt; op nieuw in den pestwalm....’</p>
+<p>De jonge vrouw vouwde weemoedig de handen: zy kende die zwarte luimen. Zy zag hem smeekend aen.</p>
+<p>- ‘Het is waer, ik moest dit nu niet zeggen, hernam hy kalmer. Wees gerust! weder zullen de vooroordeelen der wereld tegen myne beginselen aenbotsen; maer, in 's Hemels naem! ik zal buigen; gy weet dat ik moed heb voor u, zelfs moed om te bedelen. - Hy verbleekte.</p>
+<p>- Zwyg, om 's Hemels wil! zwyg van dien vreeselyken avond, Julius! sprak zy, terwyl zy hem spoedig met hare kleine vermagerde hand den mond sloot. - En toch, nooit heb ik u meer bemind, nooit heb ik u meer geacht. En nu! ik weet wat gy will: gy moet eene voeg-<pb n="18"/>zame kleeding hebben. Bekommer u niet. Ik.... ik heb nog iets kunnen sparen voor de toekomst.</p>
+<p>- Sparen? vroeg hy verwonderd, wy hadden immers doorgaens gebrek in den laetsten tyd.</p>
+<p>- Omdat ik spaerde.</p>
+<p>- En waervoor dan?</p>
+<p>- Julius! en zy drong zich dichter aen zyne borst, Julius! eene zoete hoop, die wy beiden koesterden, die nieuwe zorgen kan geven, maer ons dubbel verbinden zal, zullen wy verwezentlyk zien.’</p>
+<p>Hy zag haer vragende aen. Zy bloosde.</p>
+<p>- ‘Een zoon! riep hy verrukt, haer met eerbied omhelzende. Een zoon, Loïse! myn' naem, uwe deugden..</p>
+<p>- Een kind! zeide zy zacht, teregtwyzende. Hoor my, Julius! het penningsken, dat ik voor de eerste wieg van myn kind heb weggelegd, geef ik met vertrouwen aen den vader van myn kind: ik weet, hy zal niet lichtzinnig spelen met het laetste uitzicht van zyne geliefden; hy zal zich eenig geweld aendoen, om terug te geven wat zyn' eerstgeborene toebehoort.</p>
+<p>- Dat beloof ik, dat zweer ik, engel des lichts! die de éénige helderheid zyt op myn duister pad. Laet men geene te diepe laegheid eischen, slechts geene misdaed, o myn God!’</p>
+</div>
+<div type="chapter">
+<pb n="19"/>
+<head rend="h3">IV.</head>
+<p>De vrouw, by welke Mynheer de Breteuil zynen beschermeling inleidde, was geheel alleen in haer prachtvol salon, toen zy hen ontving. Dit was eene kiesche voorzorg van den baron, die begreep dat De l'Hôpital zich in een vertrouwelyk gesprek beter zoude doen gelden, dan te midden van eenen spotzieken kring.</p>
+<p>Mevrouw de Caumartin, omtrent De l'Hôpital ingelicht, wist hem met beminnelyke handigheid tot spreken uit te lokken. Daerin bestond haer vernuft, dat zy het vernuft van anderen wist op te wekken: met snelle bevatting ontdekte zy van onder de nevelen der beschroomdheid het gedegen goud van eenen kloeken geest; zy wist
+<pb n="20"/>aen fraeije gedachten door fyne aenmerkingen eene waerde te geven, waerover de spreker zelf zich verwonderde: met één woord, zy was juist de vrouw die Julius op zyne eigene hoogte konde stellen. De stugge zonderling, verbitterd tegen eene samenleving, waerdoor hy zich miskend en waervan hy zich uitgesloten zag, die aen zich zelven begon te twyfelen, omdat niemand hem waerdeerde, begon op eens, als door den tooverslag dier vrouw, de vlerken van zynen geest en genie uit te spreiden. Hy voelde zich begrepen en gekend. Hy was misschien even voldaen over zich zelven, als verrukt door haer. Hy was voor een oogenblik gelukkig.</p>
+<p>De baron grimlachte van een edel genoegen. Toen werd Mevrouw d'Autaine aengediend. Henri geleidde haer.</p>
+<p>Er bestond eene hevige, ofschoon onzichtbare, kampstryd tusschen Zéphirine en de markiezin de Caumartin. De laetste was zonder tegenspraek de eerste schoonheid van het élégant <hi rend="i">Parys,</hi> en daerby de geestigste, de meestbegaefde vrouw van haren kring, die een fyn gevoel aen een goed hart paerde, en wier smaek de mode beheerschte; - maer Mevrouw de Caumartin had reeds lang geheerscht. Zéphirine, de ryke en onafhankelyke erfdochter, vertoonde zich met hare frissche schoonheid en hare twintig jaren, en Mevrouw de Caumartin had er zich twee en dertig laten welgevallen. Het is waer,
+<pb n="21"/>de markiezin had een beroemd <hi rend="i">salon</hi>, en Zéphirine benydde haer dit voordeel; maer Mevrouw de Caumartin was gehuwd geweest, en Zéphirine zoude huwen en een salon hebben; en Mevrouw de Caumartin gevoelde, dat haer in de jonge barones eene geduchte mededingster wachtte. De beide vrouwen zagen elkander altyd, juist omdat zy elkander zoo zeer vreesden. De markiezin, die zich voorgenomen had Julius op den voorgrond te brengen, wilde hem doen spreken, toen Mevrouw d'Autaine gezeten was; maer als door eene plotselinge verbystering getroffen, stond deze onbewegelyk daer: hy had Henri herkend. De <hi rend="i">man</hi> beefde voor den spot van eenen twintigjarigen modejonker. Zéphirine gebruikte haer lorgnet, om den vreemdeling op te nemen, ofschoon hy drie schreden van haer verwyderd was. Mevrouw de Caumartin stelde hem voor, met verbeten ongeduld over zyne verlegene houding.</p>
+<p>Henri, goedhartiger dan zyne ligtzinnige woorden zouden doen vermoeden, sprak Julius als een' onbekende aen. Hy begreep, als by instinkt, dat die man daer was om zyne fortuin te verbeteren, en was menschelyk genoeg, om Zéphirine af te leiden. De l'Hôpital herstelde zich. De baron, die zich overtuigd hield dat Julius de markiezin bewonderde, bragt het gesprek op vrouwelyke schoonheid. Het werd met vuer doorgezet. ‘De éénige volmaekt schoone vrouw, die ik ooit gezien
+<pb n="22"/>heb, zag ik op het zwitsersche gebergte in doodsgevaer, sprak Julius.’</p>
+<p>Henri grimlachte, de baron haelde even de schouders op. Welk eene fout! aen twee vrouwen te zeggen, dat zy de schoonsten van haer geslacht niet zyn! Zephirine beschouwde hare kostbare ringen, de markiezin werd vuerrood; toch sprak zy grimlachende: ‘Wel, Mynheer De l'Hôpital, dat belooft een' roman; Mevrouw d'Autaine brandt van verlangen, om te weten wie schooner kan zyn dan zy.</p>
+<p>- Och neen! antwoordde deze spytig, ik zie haer reeds: eene zwitsersche bergnimf, lomp, boersch, met volle vormen, een bruin geroost gelaet; doch het verhael kan echter romanesk zyn, - Mynheer reddezeker...</p>
+<p>- Ik had geen mensch moeten zyn, om het niet te doen, Mevrouw! maer vergun my te zwygen; dat eerste woord is my ontvallen! myne daed was zeer natuerlyk; slechts by toeval verrigtte ik die; daerenboven was er voor my in de ontknoping van die ontmoeting eene krenking, de eerste, die ik ondervond. De man, die de vader of de gemael van die engelin scheen, wierp my een goudstuk toe, zoo als men een' huer-lakkei een' drinkpenning voor de voeten werpt. Ik behield voor hem eene vrouw, zoo als <hi rend="i">Europa</hi> er geene andere tellen kan; haer leven en myn levensgevaer wilde hy met een goudstuk betalen. Een blik van haer had my zeker
+<pb n="23"/>betaeld; doch zy lag nog bewusteloos, toen zyne belediging my wegdreef. Ik klaeg niet over den man: hy behoefde my geen woord van achting toe te voegen; waerom had hy geen regt my, met myn bestoven' mantel, en zonder ander gevolg dan myn' poedel, voor een bedelaer aen te zien!</p>
+<p>- Door welk toeval bevondt gy u daer? vroeg de markiezin, met eene bewogene stem.</p>
+<p>- De dood van een' bloedverwant riep my naer <hi rend="i">Parys</hi> terug. Ik had in <hi rend="i">Duitschland</hi> myne studiën volbragt; ik was arm, jong en gezond: de beste eigenschappen, om eene voetreis te ondernemen. Ik heb dagen by dagen op de toppen der bergen rondgedoold.</p>
+<p>- Die geredde is dus een ideael, dat voor altyd uw hart houdt gekluisterd? merkte Zéphirine aen.</p>
+<p>- Ik ben nooit een dweeper geweest, en ik weet niet waerom men niet bewonderen kan zonder te begeeren; daerenboven heb ik...</p>
+<p>- Zyn dat de menschen, die uwe geschiedenis weten moeten? fluisterde de baron hem stil en ernstig toe.’</p>
+<p>Julius voleindigde zyne zinsnede niet. Er werden nieuwe bezoekers aengekondigd. Mynheer de Breteuil herinnerde De l'Hôpital, dat zy elders gewacht werden. Hy volgde den baron, die zyn afscheid nam. Toen hy zich voor de markiezin boog, zeide zy hem iets, met
+<pb n="24"/>eenen grimlach, die velen hem benydden. Het was eene uitnoodiging voor den volgenden avond. Zy zoude alleen zyn, zy had hem veel te zeggen. De l'Hôpital gevoelde dat hy ver gevorderd was, ofschoon men hem niets had beloofd; de teedere blik van die vrouw had hem toegeroepen, dat zy met hem was ingenomen. Waerom toch? Hy begon na te denken; een somber mistrouwen maekte zich van hem meester, en toen zyne gade, die hem met pynlyk ongeduld gewacht had, met teedere belangstelling vroeg, of zyne hoop nu verwezentlykt was? antwoordde hy zonder haer aen te zien: Vraeg my dat morgen.</p>
+</div>
+<div type="chapter">
+<pb n="25"/>
+<head rend="h3">V.</head>
+<p>Reeds by het leven van haren gemael leed Mevrouw de Caumartin aen eene kwyning, eene dier langzaem ondermynende ongesteldheden, die de fortuin kunnen zyn van eenen handigen arts; want zy overvallen nooit den arme, maer slechts den zeer ryke en den zeer werkelooze. Die staet, welke geene ziekte is, maer alleen een afzyn van volkomen gezondheid, belette slechts die vermaken, tot welke vermoeijenis of lichaems-inspanning vereischt werden; ook genoot de markiezin het voorregt van niet meer te dansen, van niet noodig te hebben opera's te gaen zien, of zich op modewandel-plaetsen te vertoonen. Zy had de vryheid, nooit van
+<pb n="26"/>haren divan op te ryzen, en, zoo vaek zy wilde, haer gezelschap ongekleed te ontvangen; dat wil zeggen, in een élégant négligé, dat meer gekost had dan de geheele uitzet van een burgermeisje En daer zy <hi rend="i">Parys</hi> niet meer konde bezoeken, liet zy <hi rend="i">Parys</hi> by zich komen in hare kamer.</p>
+<p>Toen ook Julius, in haer <hi rend="i">boudoir</hi> toegelaten, haer daer zag, zittende op hare causeuse van zacht groen fluweel, tusschen bloemen en reukwerken, in de kostbare achteloosheid van dat witte gewaed niet ongelyk aen eene fyne kunstroos opeen mostapyt geworpen, terwyl het onzeker flikkeren van eene enkele waskaers eene schemering om haer heen verspreidde, die luide tot de zinnen sprak, dacht hy onwillekeurig aen de gevaerlyke vrouw, tegen welke Salomo waerschuwde. Somber en met waerdigheid zeide hy:</p>
+<p>- ‘Ik ben gekomen, Mevrouw! omdat gy het gewild hebt, omdat ik geloof aen de verzekeringen van een' achtingwaardig man, en omdat het my niet vrystaet eene pooging te verzuimen, die tot de verbetering van myn lot kan bydragen. Maer ik moet u herinneren, dat ik zes jaren lang tegen de ondeugden der maetschappy geworsteld heb, en dat....’ Zyne verlegenheid dwong hem af te breken.</p>
+<p>Zy grimlachte. - ‘Mynheer De l'Hôpital, sprak zy, gy gelooft dat de maetschappy u lagen legt; o neen, zy
+<pb n="27"/>vergeet u slechts. Wy moeten haer aen u herinneren, en alles zal veranderen.</p>
+<p>- Het wordt tyd inderdaed! Alleen had ik moed; maer myne oude moeder, die blind is, myne jeugdige zuster, die genieten wil, myne engelachtige gade, die stilzwygend lydt, dit alles moet myne nederlaeg voltooijen; want ik zal moeten buigen als hunne blikken my brood vragen, en ik niets te geven heb.</p>
+<p>- Waerlyk, myn vriend! gy hebt te veel kwetsbare plekken, om zoo te kampen; uwe fyne vormen zyn niet geschikt om tegen de golfslagen der ondeugden van onze maetschappy op te roeijen; laet u liever zachtkens op uw rug voortdryven, uwe wieken zal zy niet bezoedelen. Hoor my! gy hebt vele jaren slechts met uwe deugd en uwe grondbeginselen, tegen de wereld geraedpleegd; volg nu eene korte wyl de leiding eener vrouw, die in de wereld leeft. Ik zal u helpen; maer ik heb myne luimen, ik wil gehoorzaemd zyn. Kunt gy gehoorzamen?</p>
+<p>- In alles wat billyk is, ja, Mevrouw!</p>
+<p>- Woordenvitter, luister! Gy hebt eene moeder! dat is eene dwaling; eene zuster! dat is eene fout; eene vrouw! dat is eene misdaed.’</p>
+<p>Zyne donkere oogen rustten uitvorschend en dreigend zelfs op de Markiezin; zy vervolgde:</p>
+<p>- ‘Ja, eene misdaed! een vergryp tegen uwe for-<pb n="28"/>tuin. Gy moet die dwaling, die fout, die misdaed uitwisschen.</p>
+<p>- Gy spreekt de tael der salons, Mevrouw, en gy weet dat ik die niet versta.</p>
+<p>- Om dan duidelyk te wezen: gy moet uwe familie voor eene korte poos verloochenen.</p>
+<p>- Dat zou eene nuttelooze laegheid zyn, antwoordde Julius. - Hy stond op.</p>
+<p>- Gy hadt zachter uitdrukking kunnen kiezen, hernam zy altyd bedaerd; doch dat zyn zoo uwe manieren! ik zal u van het tegendeel overtuigen. Meent gy in ernst, dat het iemand, my zelfs, gelukken zoude, in onzen kring een' man te doen aennemen, dien ik zoude moeten voorstellen als den zoon, broeder en echtgenoot van vrouwen, die niemand kent? als een' regtsgeleerde, die zes jaren lang in de straet <hi rend="i">Tournon</hi> vergeten bleef? Neen, Mynheer! op deze wys komt men niet verder: Julius De l'Hôpital, dien ik voorstel, dien de baron de Breteuil aenbeveelt, moet een ryk, onafhankelyk jongman zyn, op wien de wereld vooruitzichten bouwen kan. Dan eerst zal zy aen uwe verdienste gelooven, en die waerdeeren, als zy zelve er vruchten van meent te plukken. Dan eerst zal de fortuin u opzoeken, als zy denkt dat gy hare gunsten niet noodig hebt. Den armen schenkt zy geen' grimlach, maer zy knielt neder aen de voeten van den ryke. Zy wil niet nederzien
+<pb n="29"/>op den zwakke, die tot haer roept; maer den krachtige en den behendige, die zich tot haer opheft, en die haer by de schouders grypt, zal zy dienen als de slavin haren dwingeland. Heb ik ditmael gelyk?’</p>
+<p>Slechts twee woorden hadden hem getroffen.</p>
+<p>- ‘Ryk, onafhankelyk! een bedrog, waeraen niemand gelooven zal.</p>
+<p>- Men moet toch gelooven, als gy het <hi rend="i">zyn</hi> zult: en hiermede wil ik my belasten.</p>
+<p>- En gy dan, Mevrouw! die de zelfzucht tot in hare fynste berekeningen doorgrondt, waerom wilt gy voor een vreemde zoo veel belangeloos doen? Met welke zonde?....</p>
+<p>- Houd op, sprak de markiezin geraekt: gy zyt bitter en onuitputtelyk in tegenspraek. Ik had u zoo gaerne eene verrassing bespaerd. Gy wilt het niet! welaen! weet dan dat ik slechts betael, en u nooit zoo veel geven kan, om myne schuld by u af te doen. Kent gy dit? - Zy nam eenen doek weg, waeronder iets verborgen lag. Het was een vrouwenportret.</p>
+<p>- Dit kennen? riep hy met vuer, dat is de engelin die....</p>
+<p>- Die gy gered hebt, met waer? Heette zy niet Maria?</p>
+<p>- Maria, ja! zoo noemde haer die man.</p>
+<p>- Die haer echtgenoot was. Een bejaerde echtge-<pb n="30"/>noot, met wien zy in hare teederste jeugd, door den wil van een vader, verbonden werd. Een man zonder hoofd en zonder hart. Een ryke, die dood arm was, die haer.... moet ik nog meer zeggen? zie my aen, Julius!</p>
+<p>- God! kan het waer zyn, gy, gy zelve? het was dus dankbaerheid! ik moet my schamen, diep schamen! ik heb u mistrouwd, zeer verdacht. Kunt gy vergeven?</p>
+<p>- Slechts dit ééne niet, dat gy my zoo verouderd vindt, hernam de markiezin.</p>
+<p>- Ach, Mevrouw! hernam Julius stamelende: in dien tyd was uwe <hi rend="i">teint</hi> anders.</p>
+<p>- Onverbeterlyke waerheidspreker! sprak zy lachende en het hoofd schuddende. Zeg my slechts of gy het thans aenneemt? gy weet, ik heb eene onedele handelwyze goed te maken: gunt gy my dit genoegen? Wilt gy my vertrouwen? wilt gy blindelings volgen? Een korten tyd slechts?</p>
+<p>- Ja, edele vrouw! ik geloof u, ik gehoorzaem u.</p>
+<p>- Geef my daerop de hand, zoo als de man de hand geeft aen zynen vriend. Ik zal toonen dat eene vrouw ook een vriend kan zyn.’</p>
+<p>Hy legde zyne hand in de hare, met het eerlyk oog vertrouwelyk op haer liefelyk wezen gevestigd.</p>
+<p>- ‘Schryf nu wat ik u vóórzeggen zal: het is een afscheid aen uwe geliefde. (Hy zette zich tegenover haer;
+<pb n="31"/>op de tafel vond hy schryfgereedschap en een blad papier). De bewoordingen kunt gy zoo geruststellend en zoo troostend maken als uw hoofd en hart het opgeven, begon de markiezin; de inhoud zy dit:’ Voor korten tyd verlaet ik u en de hoofdstad....</p>
+<p>- ‘Gy zendt my van hier? vroeg hy.</p>
+<p>- Deze kleine inleiding bespaert haer allen vele gissingen en vele vruchtelooze nasporingen... - Blyf vertrouwen, dat ik geen' stap doen zal die niet tot de vestiging van ons aller geluk dienen moet. In uwe tegenwoordige behoefte zal voorzien worden; van my hoort gy niet, dan nadat ik geslaegd ben.</p>
+<p>- Ik kan haer dat beter zeggen dan schryven.</p>
+<p>- Julius! gy zoudt u zelven verraden, gy kunt uwe echtgenoote niet in de oogen zien en verbergen. En dan dat afscheid; gy zoudt kinderen zyn! - volstrekt niet.</p>
+<p>- Het zy zoo! ik ben sterk genoeg, om van de mynen, zelfs zonder eene laetste omhelzing, te scheiden, en myn Loïse is eene moedige vrouw.’</p>
+<p>Hy voltooide zyn briefje. Mevrouw de Caumartin zag het in, en knikte goedkeurend; nu schelde zy.</p>
+<p>- ‘Mynheer De l'Hôpital vraegt zyn rytuig.’</p>
+<p>De bediende boog zich, en vertrok. Daerop kwam de baron de Breteuil.</p>
+<p>- ‘Welnu! vroeg hy met eenen grimlach.</p>
+<pb n="32"/>
+<p>- Het heeft moeite gekost. Ik heb over ieder punt moeten redetwisten. En nu, goede Julius! de baron zal u verder raed geven. Ik ben waerlyk afgemat.’ De paryzer schoone wierp het hoofd terug in de mollige kussens van hare sofa.</p>
+<p>De baron nam De l'Hôpital onder den arm.</p>
+<p>Eene sierlyke calèche wachtte hen.</p>
+<p>Julius vond geene woorden voor zyne gewaerwordingen. De baron zeide hem onder den weg veel, dat hy niet hoorde.</p>
+<p>In de straet <hi rend="i">de la Paix</hi> hielden zy voor een deftig hotel stil.</p>
+<p>‘Mynheer De l'Hôpital vraegt de sleutels van zyne vertrekken, sprak de baron.’</p>
+<p>De portier gaf ze Julius.</p>
+<p>Zy gingen slechts éénen trap op.</p>
+<p>Het was eene eerste verdieping.</p>
+<p>Bevallige kamers, een salon, een kabinet, een slaepvertrek; het huisraed in eenen eenvoudigen, doch deftigen smaek. Op het toilet gevulde flacons; in de cassette goud en bankpapier; voor den spiegel een invitatiekaertje tot een muzikael déjeûner by de markiezin.</p>
+<p>- ‘Ik moet myn woord terug nemen, barstte de jonge man los: zoo veel kan ik nooit vergelden.</p>
+<p>- Rekent gy dan het leven van eene Maria zoo weinig? Die brug over dien afgrond, die onder u kraekte,
+<pb n="33"/>en die gy, zonder aerzelen, overgingt, om eene jammerende onbekende te redden, die zich spelend in doodsgevaer had gewikkeld: mag dat dan ook niet de brug worden tot uwe fortuin? Wees gerust, myn vriend! gebruik alles, alsof gy het altyd bezeten hadt; vergeet voor een' tyd alles wat achter u ligt. Doe slechts geene moeite om uwe denkwyze te verbloemen. Geloof my, men wil de oorspronkelykheid. Gy kunt vry elke ondeugd hekelen. Zorg maer geene daden luid te veroordeelen. Vaerwel! morgen avond breng ik u by Zéphirine.’</p>
+<p>En reeds was de Breteuil op den trap; Julius riep hem toe: ‘En myn huisgezin? - Een weldoende engel waekt over hen!’</p>
+<p>De edelman had zich verwyderd.</p>
+</div>
+<div type="chapter">
+<pb n="34"/>
+<head rend="h3">VI.</head>
+<p>Het muzikael déjeûner by de markiezin was goed afgeloopen. De l'Hôpital had weinigen bevallen; maer men begreep, dat men hem achten moest. Men moest wel eenen jongen belangwekkend vinden, die door Mevrouw de Caumartin werd voorgesteld als eenen naneef van den bekenden kanselier, die zyne studiën te <hi rend="i">Göttingen</hi> voltooid en zich nu eerst te <hi rend="i">Parys</hi> gevestigd had. Zyn ernst schreef men op rekening van zynen grooten voorvader. Men vergaf hem zyne oogenblikken van warm gevoel, in den naem der duitsche <hi rend="i">Schwärmerei.</hi> Men nam hem zoo als hy was; men hield zich overtuigd dat hy zeer ryk, zeer onafhankelyk moest wezen, om zoo
+<pb n="35"/>zonderling te zyn. Die ééne morgen opende hem den toegang tot vele huizen. Zéphirine, welke hy in de opregtheid zyns harten een aerdigheid gezegd had, voelde zich daerdoor meer gevleid dan door duizend fyne vernufts-spelingen. Zy nam hem dien avond met zich naer hare loge in de opera <hi rend="i">Buffa.</hi> Dat was beter dan eene aenbeveling van eenen minister.</p>
+<p>Op dien eigen avond zaten in een klein vertrek, op de derde verdieping van een huis in de straet <hi rend="i">Tournon</hi>, twee jonge vrouwen, wakende, by eene dunne smeerkaers, die ten minste even veel walm als licht om zich heen verspreidde. Matten stoelen, geverwd-houten meubelen, een vloer zonder tapyt, op den achtergrond eene alcove, met wit en blauwe geruite gordynen, die toch niet morsig waren, een eenvoudig thee-servies van grof wit aerdewerk, dat geel geworden was, zonder gebroken te zyn, dit alles, in eene zekere orde en nog met eenige bevalligheid geschikt, getuigde voor eene schuldelooze armoede; want waer geene verwaerloozing heerscht by zoo veel behoefte, kon men veilig een onschuldig lyden onderstellen. Eene kleine boekenkast, met deftige folianten, een laerzentrekker en eene viool, hangende boven eenen antieken kop, in zwart kryt, die zeker eene eigene teekening zyn moest, bewezen dat tot dit gezin een mannelyk lid behoorde. De beide vrouwen werkten yverig voert. De eene had een bleek en lydend uitzicht, maer
+<pb n="36"/>waerover moedig geduldige zachtheid haren glans verspreid had. De andere, eene sprekende brunette met eenen blos, dien zelfs het gebrek nog niet verbleekt had, scheen meer stil te zyn uit eerbied voor de droefheid harer gezellin, dan om eigene zorg; het was zelfs somtyds, als wilde zy haren arbeid door een liedje vervrolyken.</p>
+<p>Maer een' blik op de alcove deed haer dan dadelyk zwygen. Dáér sliep de oude moeder van De l'Hôpital; die vrouw was zyne vrouw, dat meisje was zyne zuster.</p>
+<p>- ‘Dat was het misschien, waerom hy u gisteren niets zeggen wilde, begon Mina weder een gesprek, dat afgebroken scheen. Hy voorzag uwe tranen, by het denken aen eene scheiding.</p>
+<p>- Daerom zoude hy my zyn vaerwel niet onthouden hebben. Myn Julius weet dat ik moed heb, dat ik altyd zyn' wil eerbiedig, en nooit heb afgekeurd wat hy goedvond.</p>
+<p>- Gy verdenkt hem toch niet, dat hy u verlaten zal?</p>
+<p>- Verlaten? neen! een man als hy verlaet zyn huisgezin niet. Maer weet gy wat my zoo angstig maekt? dat goud, dat hy ons gezonden heeft. De Hemel alleen weet wat hem dat kost. O, het is my als kleefde daeraen iets meer dan zyne tranen, als ligt zyne zielrust daerin! Hy is te edel voor de misdaed; maer de vertwyfeling over nieuwe teleurstelling, de zekerheid van onze
+<pb n="37"/>ellende, en bovenal myne eigene dringende woorden, die misschien iets van een verwyt hadden: zie! zy kunnen hem tot eene wanhopige daed hebben aengezet! O! zy drukken my op het hart als eene doodzonde. Altyd nog zie ik hem vóór my, hoe hy, in vlagen van schrikwekkende somberheid, tot my zeide: Loïse! gy bemint den bedelaer, zoudt gy den schurk ook beminnen? en als dan myne tranen en kussen hem den mond sloten, was dan dat niet als eene aenmoediging tot alles? Voorwaer, als myn echtgenoot niet onschuldig is, dan heb <hi rend="i">ik</hi> hem tot het booze gebragt.’</p>
+<p>En de arme hield de handen voor de oogen, en schreide bitter.</p>
+<p>- ‘Is dat ook zich zelve knellen, Loïse! gy houdt voor zeker, dat ons het geld van Julius toekomt, en dat hy zich in het verderf gestort heeft, om het ons te zenden? en ik zeg u, het is niet van hem. Waerom schryft hy dan niet een enkel woord in zyn briefje? en kan dat briefje u dan ook niet troosten, zuster? zeide niet moeder ook toen ik het voorlas, dat God zyn zegel zal hechten aen zyne poogingen? En de portier heeft my verteld dat de bediende, die het pakje bragt, dezelfde was, die vroeger nog iets bezorgd heeft.</p>
+<p>- O, het zakboekje! zoude die hulp ons dan toekomen van den baron?....’ Plotseling hield zy op, en zag verschrikt om zich heen.</p>
+<p>- ‘Hebt gy dat ook gehoord, Mina?</p>
+<pb n="38"/>
+<p>- Wat zou ik gehoord hebben?</p>
+<p>- Een zacht gesnik. Nu hoor ik het voor de tweede mael.</p>
+<p>- Dat was moeder in haren slaep. Gy moest ook gaen rusten. Waertoe zoudt gy zoo aenhoudend arbeiden en waken? Wy hebben immers nu geen gebrek te vreezen.</p>
+<p>- Ach! het is zulk een vreugde voor eene moeder, zelve te werken aen de eerste kleertjes van haer kind. Eilaes! de eenige, die myn geluk zoo innig beseffen zou, is niet meer hier!’</p>
+<p>Op nieuw zag de jonge vrouw ontsteld op.</p>
+<p>- ‘Was dat niet als of men myn' naem noemde? zacht, zeer zacht! o! dat is eene waerschuwing van zyn' dood. Hy heeft my geroepen.’</p>
+<p>Zy zonk bevende op haren stoel neder. Zy had geene kracht om op te staen.</p>
+<p>Mina nam het licht en wilde buiten zien. Loïse klemde zich angstig aen haer vast, en belettede haer voort te gaen. Eindelyk gingen zy te samen; maer niets bewees haer, dat daer iemand kon geweest zyn. En de jonge dagbladschryver, die op dezelfde verdieping woonde en die nu te voorschyn kwam, vroeg verwonderd wat er gebeurde? Hy had niets gehoord.</p>
+<p>- ‘Kinderen! riep de oude vrouw, die wakker geworden was, is Julius terug? Is Julius daer?’</p>
+<p>En Julius was dáér geweest.</p>
+<pb n="39"/>
+<p>Wy moeten de waerheid spreken, hy had zich vermaekt in de Opera; zy schonk hem een dier genoegens, welke hem byna vreemd geworden waren; hy bezat een fyn gevoel voor de muzyk. Men gaf <hi rend="i">de Huguenooten.</hi> Dat groot dramatische zangspel, vol gebed en tranen, vol wilde hartstogten en zachte aendoeningen, uitgedrukt in de meest roerende tael, die de mensch zich scheppen kan, de muzyk: - het <hi rend="i">ware</hi> in de voorstelling, die den aenschouwer overbragt in de 16<hi rend="sup">de</hi> eeuw, en hare vreesselykste worsteling had hem zich zelven en zynen toestand geheel doen vergeten. Hy dacht aen niets. Hy genoot. Toen echter de laetste noten weg gestorven waren, toen het prozaïsch gordyn, dat neder viel, de zestiende eeuw wegtooverde, om snel op de 19<hi rend="sup">de</hi> over te springen, toen zag hy zich weder tot de kleine wezentlykheid van zyn bestaen terug gebragt, en zuchtend herdacht hy aen zyn huisgezin, dat nu wellicht in diepen kommer neder zat. Ook had hy nauwelyks de barones d'Autaine in haer rytuig geleid, of hy snelde naer de straet <hi rend="i">Tournon.</hi> Toen eerst viel het hem in, dat men hem niet zien moest. Hy drukte den hoed diep in de oogen; de smaekvolle kleeding, in welke de portier hem niet vermoedde, deed hem by den half slapende licht voor eenen vreemden bezoeker doorgaen. Men veroorloofde hem den toegang tot de derde verdieping. Zyn geluk wilde dat de deur van het huisvertrek aenstond.
+<pb n="40"/>De kleine reet geeft hem gelegenheid getuige te zyn van het ontroerend schouwspel dier dierbare wezens, die over hem zelven haer beangst hart lucht geeft. Loïse's woorden treffen hem diep, zoo diep, dat hy zich niet meer meester is. Toch herinnert hy zich zyn gegeven woord en den toestand zyner echtgenoot; hy mag niet binnen gaen, haer niet plotseling overvallen. Hy stemt in met hare tranen, door verkropte snikken. Hy ziet dat ze de aendacht wekken. Ylings wykt hy ter zyde op een wel bekend plaetsje, en verwydert zich later, zoo als hy gekomen is. Hy heeft nieuwen moed geschept uit dat tooneel; hy herinnert zich dat hy niet te zwak moet zyn, om het vertrouwen niet te leur te stellen van die armen, die met zoo veel liefde aen hem blyven gelooven, ondanks de zwarte schaduw, waerin hy zich gesteld heeft. Zoo wil hy meermalen zyne geliefde bezoeken.</p>
+</div>
+<div type="chapter">
+<pb n="41"/>
+<head rend="h3">VII.</head>
+<p>Het was nog vroeg in den morgen. De markiezin de Caumartin had zich nog niet gekleed; toch was de baron reeds by haer: zy schenen te samen in een levendig gesprek te zyn. ‘Ik bewonder u, myn vriend! sprak zy zonder spot. Nooit werd er beter ontwerp vlugger en omzichtiger uitgevoerd. Ik ben u veel dank verschuldigd. - Ik geloof niet dat Henri u hetzelfde zeggen zal. In ernst, ik begin voor Zéphirine te vreezen. Zy zoekt De l'Hôpital te zichtbaer. Ik heb haer willen waerschuwen, zy heeft slechts gelachen. ‘Ik wil van dezen Groenlander een' mensch maken? Zy heeft gezegd: Uit dezen ruwen keisteen moeten vonken springen.’ -
+<pb n="42"/>Wie met de rust van anderen spot, zet zyne eigene op het spel, fluisterde ik haer in. - Dan zullen wy den inzet betalen, hernam zy, met eenen grimlach. Myn arme Henri, de mislukking van zyn huwelyk sluit hem den toegang tot hetgeen zy nu een' hof noemen, ik kan hem daer niet helpen.</p>
+<p>- ‘Laet Henri zich troosten. Deze luim van de barones maekt zyn huwelyk zeker. Slechts zal zy een weinig vernederd worden. Het is zonderling hoe alles gunstig voor onzen goeden Julius medewerkt.</p>
+<p>- Zy is eene zachtmoedige engel, die vrouw van...’</p>
+<p>Een snelle uitroep, die der markiezin ontsnapte, deed den edelman zwygen.</p>
+<p>Bleeker kon men zich geen levend mensch voorstellen, dan op dit oogenlik De l'Hôpital, zonder groet of pl gtpleging, binnenstortte. Eerst wierp hy zich op een stoel, daerna viel hy aen de voeten der markiezin. - ‘Om Gods wil, Mevrouw! zeg my waer zy zyn; want het is op uw bevel. O! zoo dat niet ware, zoo gy het niet weet, dan heeft zy zich in de <hi rend="i">Seine</hi> geworpen, en de anderen dolen in troostelooze ellende om; dan ben ik hun moordenaer, de moordenaer myner Loïse! - Loïse! Loïse! In 's Hemels naem, zeg, Maria! wys my haer verblyf, wys my waer zy zich verborgen heeft; want dat kan niet zyn, dat vreeselyke kan niet waer zyn, myne echtgenoote eene zelfsmoordenares!’</p>
+<pb n="43"/>
+<p>Deze woorden, in den schellen toon der wanhoop, in éénen adem, zonder orde of tusschenpoos, daerheen geworpen, schenen noch den baron, noch de markiezin byzonder te treffen; de laetste voegde hem toe: ‘Maer myn goede De l'Hopital! hoe wilt gy nu dat ik iets voege tusschen uwe uitroepingen, die niets anders dan op zyn best bewyzen, dat gy ze zonder nadenken uitspreekt.’</p>
+<p>Die koele ernst werkte op Julius: hy kwam tot meerdere kalmte.</p>
+<p>- ‘Gy hebt gelyk, edele vrouw! gy hebt gelyk. Ik wond de hand die ik knielend kussen moest; maer heb medelyden met my; gy kunt niet weten wat dat zegt voor den ongelukkige, dat huisgezin, dat met hem geleden heeft, en dat hy als een eerlooze heeft verlaten, en dat hy bezoeken wil om zyn hart moed en rust te geven, en dat hy dan niet meer vindt; denk het in, hoe hy zich in de somberste gissingen verdiept, tot krankzinnigheid toe peinst, en zich opwindt.</p>
+<p>- Ja waerlyk, ik vermoed hoe ver gy het brengen kunt in de groote kunst van zelfkwelling. Ik begryp nog iets anders. Gy hebt onze overeenkomst willen verbreken.</p>
+<p>- Dat wilde ik niet. Myn woord is my heilig. En hoe zonderling hard uwe voorwaerde ook wezen mogt, ik ben haer nagekomen. Slechts wilde ik ongemerkt myn geweten geruststellen door haer te zien, myne gade,
+<pb n="44"/>die weldra moeder zal zyn van myn kind. Ik had dat reeds eenmael gedaen. Gisteren avond vond ik haer niet, geen hunner was meerdaer. Vroeg in den ochtend joeg myn doodangst my weder derwaerts; maer te vergeefs! myne geliefden waren niet terug gekeerd, waren spoorloos verdwenen; vreemden bewoonden reeds ons huisvertrek. Is myne gemoedsbeweging te verontschuldigen?</p>
+<p>- Dat is zy niet. Had ik u niet verzekerd, dat een weldoende engel over hen waken zoude? sprak de baron. Was die treurige, bedompte, ongezonde woning een verblyf voor eene vrouw, als de uwe, in haren toestand? Moest gy het natuerlyke niet eerder geloofd hebben dan de ysselykste ongerymdheden? Een man als gy?</p>
+<p>- God zy geloofd, zy zyn in veilige hoede! riep nu De l'Hôpital, in verrukking de oogen opheffende, en weder wierp hy zich aen Maria's voeten.</p>
+<p>- Laet ons er niet meer over spreken, hernam zy vriendelyk. Thans kunt gy zonder afleiding voortgaen op het pad, dat ik u zal aenwyzen. Ik tal u een' talisman geven.’</p>
+<p>Het was een briefje van zyne echtgenoot. Hy las het; daerna riep hy, met hartstogtelyke drift: O myne Loïse! zoo berustend gelaten, zoo vol blyde hoop op eene toekomst, die voor haer nog zoo onbegrypelyk is: de zwakke vrouw is sterker dan ik!’</p>
+</div>
+<div type="chapter">
+<pb n="45"/>
+<head rend="h3">VIII.</head>
+<p>Wy vernemen niet noodig te hebben alle gangen van onzen held, stap voor stap, te volgen.</p>
+<p>Zes weken waren er verloopen, sedert den dag waerop De l'Hôpital het eerst by de markiezin was ingeleid geworden, en reeds was hy gevestigd in de élégante wereld. Zyn uiterlyk zelf had een weinig gedeeld in de verandering van zynen toestand. Zyne houding, gebukt onder vernedering en zorg, had zich opgerigt; zyn hoofd, voorheen peinzend op de borst nedergebogen, had zich opgeheven, sinds men zyne gedachten afleidde, en hem tot spreken uitlokte: en nu eerst zag men hoe zyne oogen konden schitteren; nu eerst ontdekte men
+<pb n="46"/>hoe zacht eenen blos de geestdrift over die bleeke wangen verspreidde, en hoe geestig die mond wist te grimlachen. Zyne manieren waren nooit gedwongen geweest; maer het was de losheid van hem, die zich om niemand bekommert, en die weet dat niemand op hem let; nu was het de gepaste ongedwongenheid van den man, die zich vryelyk beweegt, en die by voorraed van de goedkeuring der anderen verzekerd is. Die zelfbewustheid gaf hem iets fiers en beslissends. En hoe kon dat anders? Het was de arend uit de enge kooi in de ruimte gebragt. Hy zag zich gevleid, gestreeld, toegejuicht. Het is waer, daer was veel damp onder den wierook, en De l'Hôpital was te ryp van geest, om dien niet te onderkennen; maer de bewustheid van, na lange verwaerloozing, gezocht te worden, moet toch op het onbuigzaemste gemoed verzachtend werken, en hy alléén, die zich geheel vry kent van alle ydelheid, werpe den steen op mynen held. Niet dat hy zyne onafhankelykheid verzaekt had; niet dat hy deel nam in den laster of in den boosaerdigen spot, die het heilige aenrandt en het goede belachelyk maekt; niet dat hy toejuicht waer hy moest veroordeelen: maer hy vond eene onschuldige pooging om te behagen geene misdaed meer; hy noemde eene fyne vleijery niet meer bedrog; hy leide iets af van zyne bitterheid; hy plooide zyne rondborstigheid tot mindere scherpte; het was niet meer de deugd van den
+<pb n="47"/>cynischen wysgeer, zich stootende aen elken vorm, maer de verhevene inschikkelykheid van den hoog beschaefden mensch, die liever zwygt dan hekelt, en die liever grimlacht dan wondt. Zéphirine voerde De l'Hôpital in den gemeenzamen kring van eenen minister, en Julius werd de hand gedrukt, met belangstelling aengehoord, naer zyn gevoelen gevraegd en onderscheiden, door denzelfden man, in wiens antichambre hy zoo vele uren achter een gewacht had, zonder éénen blik van opmerking verkregen te hebben.</p>
+<p>Men verbeelde zich toch niet dat Julius zich onder dit alles werkelyk gelukkig gevoelde. De lange werkeloosheid, dat omdolen in het ledige der vermaken, die scheiding vooral voor eene geliefde gade, zonder een bepaeld tydstip van wederzien, dat voortleven van de weldaden eener vrouw, had iets kweliends en drukkends, en pynigends voor zyn gevoel, dat hy alleen verdroeg, omdat zyn gegeven woord hem heilig was. Mevrouw de Caumartin scheen nog immer te aerzelen eenen beslissenden stap te doen, om zyne fortuin te vestigen, hoe dreigend hy haer daertoe ook aenzocht. Hy hield zich overtuigd, dat hem nu voortaen geene gelegenheid zouden ontbreken, om als regtsgeleerde te schitteren: maer de markiezin had de pleitzael verworpen, en Zéphirine had over de ernstige toga gelachen. Hy had zich zelven kunnen helpen, hy had reeds genoeg zynen
+<pb n="48"/>eigenen invloed gepeild; maer hy had beloofd zyne beschermster te laten handelen, en niets gaf hem het regt, om, buiten haer, aen het bittere van zynen valschen toestand een einde te maken.</p>
+<p>Het was dan in eene stemming van somberheid, zoo als hem sinds lang niet had aengegrepen, dat De l'Hôpital op zekeren avond by de markiezin eene dier huiselyke tooneelvoorstellingen bywoonde, door haer in den smaek gebragt, en waertoe zich de bevalligste en geestrykste vrouwen even gaerne leenden als de mannen van erkende talenten en rang.</p>
+<p>By het spel van Mevrouw G... en van den markies de C... ne kon men niet wel onverschillig aenschouwer blyven, en toch had zich Julius zoo zeer in zich zelven verdiept, dat Zéphirine, die hem meermalen had toegesproken, zonder antwoord te verkrygen, hem eindelyk herinneren moest dat het stuk geëindigd was.</p>
+<p>Hy scheen haer niet te begrypen, en slechts toen zy zynen arm nam, volgde hy haer werktuigelyk. Henri en de baron de Breteuil hadden opgemerkt, dat Mevrouw d'Antaine Julius met zich voerde, zoo als men eenen slaepwandelaer of eenen blinde voortleidt. Meerdere leden van het gezelschap hadden zich gelyktydig in de andere zalen verspreid, waer gespeeld of gesproken werd. Velen verdrongen zich rondom de kanapé van de vrouw des huizes. Er werd veel geschertst, veel
+<pb n="49"/>gepraet, en dat duerde zoo eenige minuten voort. Op eens stormt Julius de zael, in sterke gemoedsbeweging, binnen. Hy dringt door de mannen heen, die voor hem plaets maken; hy schuift de vrouwen ter zyde, die zich ergeren en hem uitlachen. Hy nadert Mevrouw de Caumartin. Zy ziet hem aen, en verschrikt over de uitdrukking van zyn gelaet. Zyne lippen beven, zyn voorhoofd gloeit; zyne oogen vonkelen, zyne wenkbrauwen trekken zich samen, en de kalmte zelfs, waertoe hy zich inspant, is het sterkste bewys van eene vlammende drift.</p>
+<p>- ‘Kunt gy die menschen niet verwyderen? ik moet u spreken!’ zegt hy zacht tot de markiezin; maer elk heeft den zin dier woorden geraden uit zyne blikken. Mevrouw de Caumartin was in de hoogste verlegenheid. Eene, zoo weinig passende, uitbarsting van gevoeligheid, eene zoo groote versmading van de yzeren welvoegelykheid, had zy zich van Julius niet meer kunnen voorstellen. Zy gevoelde dat hy verloren moest zyn in de oogen dier menschen, die hem met brandende nieuwsgierigheid aenstaerden, en die zy begreep, dat besloten hadden niet heen te gaen, en die zy wist zonder ergernis niet te kunnen verwyderen. Dat was een oogenblik van vreeselyke spanning; want De l'Hôpital scheen het geduld te verliezen, en op het punt van zyn verzoek luide te herhalen. Daer stond nog meer op het spel dan de fortuin van De l'Hôpital: Maria's goede naem en
+<pb n="50"/>hare stelling in de wereld. Daer trad langzaem en rustig, met den grimlach op de lippen, leunende op den arm van een' man, die onder allen den geachtsten naem voerde, Zéphirine d'Autaine, de zael binnen. Daer was iets van de slang in haer schoon blauw vrouwenoog. Zy scheen Julius niet te zien. - Zy voegde zich by eene vrouw, die zy zelden sprak. - Men verveelt zich hier somtyds, zeide zy, vry luid, ik heb myn rytuig gevraegd. Die vrouw begreep dat zy niet blyven kon, waer de barones zich verveelde. De man, welke die vrouw geleiden zoude, zat digt by de markiezin. Hy nam plotseling zyn afscheid. Een tweede volgde dit voorbeeld. De anderen begrepen dat er iets was voorgevallen, waerom men niet meer by Mevrouw De Caumartin vertoeven kon. En binnen weinige minuten was de zael ledig, volstrekt ledig; slechts de baron de Breteuil bleef. Hy zag Maria treurig aen. ‘Houdt Zéphirine nog terug! daer moet iets gebeurd zyn, riep zy, met snelle tegenwoordigheid van geest.’ Eerst toen de baron henen was, borst zy in tranen uit. Die vrouw, die behoefte had aen de bewondering der menschen, zag zich van de menschen verlaten!</p>
+<p>Hare tranen waren een verwyt voor Julius.</p>
+<p>- ‘Hoor my, Mevrouw! sprak hy, met zachtheid hare hand nemende, ik wil u niet beschuldigen, ik wil niet ylhoofdig zyn, maer hoor my!</p>
+<pb n="51"/>
+<p>- Ik geloof dat ik alles weet. Wy zyn beiden verloren!</p>
+<p>- Verloren! ja, zoo noemt men dat in uwe tael; wees gerust! die lieden zullen by u terug komen; maer de schande, de verachting, het ongeluk, dat eene enkele logen op myn hoofd doet nederdalen, en waerin ik anderen heb medegesleept, neen, dat is niet meer te herstellen!</p>
+<p>- Wat is er gebeurd met Zéphirine?</p>
+<p>- Ik besef thans eerst regt het schandelyke van ons bedrog, nu zy zich daerin verstrikt heeft. Ik wil niet denken dat dit uw doel was, Mevrouw! dat bedrog is thans bekend.</p>
+<p>- Dat wil zeggen?</p>
+<p>- Zéphirine weet dat ik gehuwd ben.</p>
+<p>- Onvoorzichtige! nu verklaer ik my alles! zy kent my als medepligtige, zy heeft zich willen wreken. Waertoe die overyling?</p>
+<p>- Het was geene overyling. Zy moest het weten. De barones, die myne somberheid van dezen avond op hare wyze uitlegde, forceerde een <hi rend="i">tête à tête.</hi> Zy wilde volstrekt weten wat my deerde. Ik zeide haer, dat ik die lange ledigheid moede was. Edelmoedig wilde zy er een eind aen maken. Zy deed my een voorstel, dat.... ach, Maria! het noodzaekte my tot de verklaring, die my
+<pb n="52"/>schaemrood deed staen van zelfverachting voor de vrouw, die ik, onwillens, misleid had.</p>
+<p>- Heeft Zéphirine liefde voor u opgevat? heeft zy het u gezegd? riep de markiezin driftig uit, en byna met eenen glimp van genoegen: dan is er nog niets verloren!</p>
+<p>- Hoe! de rust van een' mensch! Een ongelukkige hartstogt!</p>
+<p>- Herstel u, eene vrouw als deze gevoelt niet zoo diep. Hare ydelheid moge gewond zyn, haer hart is het niet. En nu het verdere?</p>
+<p>- Het verdere? o! dat slaet my juist geheel ter neder. Gy kunt gelyk hebben, die vrouw denkt laeg. Zelfs toen zy myne betrekking kende, is zy niet terug geschrikt voor hetgeen zy liefde noemde! Zy heeft zich zelve van den laster bediend, om my over te halen. Want ik wil nog gelooven dat zy gelasterd heeft. En toch! o myn God! er is schyn van waerheid! zy heeft gezien....</p>
+<p>- Dat wordt ingewikkeld; wees duidelyk, opdat ik u begrype!’</p>
+<p>En hy vervolgde zacht en snel en met bevende lippen:</p>
+<p>- ‘De barones heeft myne echtgenoot gezien met Henri; zy heeft haer nauwkeurig beschreven; zy heeft het gewaegd myne Loïse te noemen eene... neen! neen! dat woord wil niet over myne tong. Het was niet noodig, zeide zy, dat ik eene vrouw trouw bleef, die my
+<pb n="53"/>vergat! O wee my, wee my! ik heb het eerste voorbeeld gegeven! Zou het te verwonderen zyn, dat het bedrog zynen pleger strafte!</p>
+<p>- Goede hemel! dat is een lomp verzinsel; Zéphirine valt my uit de hand. Ik kan toch niet denken dat de baron zynen neef heeft ingewyd! dat zou eene fout zyn....</p>
+<p>- En hebt gy dan niet opgemerkt dat Henri in den laetsten tyd de barones verwaerloosd, en dat hy haer weinig gezocht heeft?</p>
+<p>- Dat is waer, ik moet opheldering hebben. Zy schelde. - Is Mynheer de Breteuil nog daer? - De baron sprak nog zoo even met Mevrouw d'Autaine. - Verzoek hem hier te komen.’</p>
+<p>De edelman trad spoedig binnen. Hy leidde Zêphirine by de hand. Henri volgde hen.</p>
+<p>- ‘Mevrouw d'Autaine is buiten zich zelve van verwondering over het zotte misverstand, dat al die lieden heeft doen vluchten. Zy wenscht de eerste te zyn die terug keert.’ Zoo sprak de baron en wenkte Henri en Julius naer eene andere zyde der zael.</p>
+<p>En Mevrouw d'Autaine naderde met eenen grimlach. En Mevrouw de Caumartin stond op met eenen grimlach. En die beide vrouwen omhelsden elkander. Zy, die elkander als by uitstek haetten, hadden dit elkander nooit anders gezegd dan door eenen grimlach. Twee
+<pb n="54"/>vrouwen uit de middeleeuwen zouden elkander met gif of dolk vervolgd hebben, of hadden, om den voorrang, dappere ridders in het strydperk gestuwd! En dan loochene men nog dat de beschaving de menschen niet zachter maekt! Ook beter? De l'Hôpital kon een gebaer van hooge verwondering niet weêrhouden. Hy ware, by het zien van Zéphirine, zeker spoedig weggevloden, zoo niet, hetgeen volgen konde, hem het sterkste belang had ingeboezemd. Ook luisterde hy met inspanning.</p>
+<p>- ‘Myne lieve vriendin, begon Mevrouw de Caumartin, gy hebt u gevoelig getoond over een klein geheim, even alsof eene onschuldige intrigue niet het zout der samenleving ware, en aen het eentoonige van het leven nog iets belangryks gave. Toch is het natuerlyk dat gy u een weinigje hebt willen wreken op my, die zonder u een' draed hebt vastgeknoopt, waerin gy verward werdt: dat is te begrypen, dat is toe te geven; maer dat gy het zoo onhandig hebt aengevat, vergeef my, lieve! dat was u en my onberaden in de weegschael stellen!’</p>
+<p>De barones moest nu toch de oogen verlegen nederslaen.</p>
+<p>- ‘Want luister, Mevrouw! vervolgde de markiezin, gesteld eens, dat het u gelukt is die lieden van my te verwyderen: dát geeft opspraek in al de salons;
+<pb n="55"/>dát is morgen het groote nieuws van <hi rend="i">Parys;</hi> dát verrukt duizende ledige hoofden; dát is eene prooi waeraen allen zich zullen verzadigen. Maer tevens zal men naer de reden van onze oneenigheid gissen, twyfel daer niet aen; dát zal ook een onderwerp van vurige navorschingen zyn: gy hebt ook uwe vyandinnen. En als het nu eens morgen de dag ware, waerop ik my had voorgesteld den knoop te ontwikkelen; als ik nog eenmael die menschen hier henen lokte; en als ik dan onzen goeden Julius, dien gy tot uwe schaduw gemaekt hebt, dien gy overal hebt ingeleid, dien allen uwen minnaer noemen, aen al die verzamelde lieden voorstelde als een' gehuwd man, en hem verraste met het gezicht van zyne lieftallige vrouw, die niemand kent en die gy ook niet vóór dezen avond gekend hebt, wat dunkt u? zal men dan ook verbindingen maken tusschen uw <hi rend="i">tête à tête</hi> met Julius, zyne gemoedsbeweging en onze plotselinge vriendschapsbreuk?</p>
+<p>- En wilt gy dat werkelyk doen, vroeg de barones met onrust; maer dan werpt gy hem tegelyk omver: hy is immers nog niet gevestigd?</p>
+<p>- Gy kunt dat alles voorkomen! Wilt gy de hand reiken? wilt gy aen de verdienste eener goede daed deel hebben? wilt gy het dubbel voordeel aengrypen, om eene zwakheid te verhelen en bewondering te verdienen? wilt gy dit, Zéphirine?</p>
+<pb n="56"/>
+<p>- Maer, Mevrouw! gy hebt ons allen bedrogen, zal men u dat vergeven?</p>
+<p>- Konde ik dan anders? zoudt gy een geheel huisgezin in uw gevolg genomen hebben?</p>
+<p>- Zeker niet.</p>
+<p>- Konde ik een' man van de derde verdieping uit de straet <hi rend="i">Tournon</hi> in myn salon toelaten?</p>
+<p>- Onmogelyk!</p>
+<p>- En toch moest hy voortgeholpen worden.</p>
+<p>- Waerom stelt gy zoo veel belang juist in dezen jongen man?</p>
+<p>- Herinnert gy u myn reisje naer <hi rend="i">Appenzell</hi>, eenige jaren na myn huwelyk?</p>
+<p>- Dat moet reeds zeven jaren geleden zyn, Lieve! ik was toen nog op de kostschool.</p>
+<p>- Toch moet gy weten, dat men in <hi rend="i">Parys</hi> lang gesproken heeft....</p>
+<p>- Over uwen moed in het beklimmen der bergen, en over den jongeling, die u zoo heldhaftig het leven redde, en dien gy niet kent, en die nooit weder gevonden werd.</p>
+<p>- Welnu! Zéphirine, die jongeling is gevonden.</p>
+<p>- De l'Hôpital!</p>
+<p>- Hy zelf. En meent gy dat ik nu niet ook iets voor hem doen wil, nadat hy zoo veel voor my gewaegd heeft? En meent gy dat ik niet liever al myne vrienden zoude
+<pb n="57"/>opofferen, om dezen éénen niet in den steek te laten? En meent gy dat ik u niet eeuwig dankbaer zal zyn, zoo gy my helpen wilt?’</p>
+<p>De barones was werkelyk getroffen.</p>
+<p>- ‘Maria! ik geloof dat wy elkander te lang miskend hebben, - gy hebt zoo moeten handelen; myn plan was ook goed, want waerlyk, ik wilde hem huwen: men vindt niet meer zulke mannen in onze salons.</p>
+<p>- Het is dus afgesproken, dat gy myne bondgenoote zyt, en dat wy elkander voortaen beminnen zullen. Morgen spreken wy verder.’ En opstaende, wenkte zy Henri om haer te geleiden. In het heengaen wendde zy zich lachende tot Julius:</p>
+<p>- ‘Ik mogt immers wel een weinigje met u schertsen, Mynheer De l'Hôpital?’</p>
+<p>Julius stond als verbysterd. Hy wist hier niet meer gelaet en masker te onderscheiden. ‘Hemel! deze menschen, riep hy luid, als ware hy alleen geweest, zyn zelfs valsch in hunne hartstogten. Hunne liefde kost hun geen zucht, hun haet geen' enkelen rimpel.’ De baron en Mevrouw de Caumartin grimlachten. - ‘En toch moet ik u verzoeken, my nog twee dagen te volgen, sprak de laetste.</p>
+<p>- ‘Twee dagen! dat zy zoo, Mevrouw! maer langer niet, om Gods wil niet: langer kan ik het in uwe wereld niet uithouden.’</p>
+<pb n="58"/>
+<p>En ylings ging hy van daer.</p>
+<p>Terwyl de beide vrouwen vrede maekten, was er ook een woord gewisseld tusschen de mannen. De driftige vragen van De l'Hôpital naer zyne betrekking met eene jonge, blonde vrouw, die men met hem had zien ryden, werden door Henri met een schaterend gelach beantwoord. Toen de baron echter op ernst aendrong, zeide hy:</p>
+<p>- ‘Myn hemel! waertoe dan toch die eeuwige argwaen? Dat zelfs heeft Zéphirine my reeds voor zes weken gevraegd. Verbeeld u, ik ryd voorby <hi rend="i">Saint-Roch,</hi> ik weet niet welken heilige men aengebeden had; maer de mis was geëindigd, de vromen verspreidden zich onder de liefelyke besprenging eener regenbui, die zoo kwaed niet was om de dompige wierooklucht af te koelen. Onder allen valt myn oog op eene jonge vrouw, eenzaem, verlegen, schuchter naer onze schnilplaets omziende. Die jonge vrouw was belangwekkend, en betamelyk, en ernstig genoeg, om haer eene beleefdheid te kunnen bewyzen; ik deed wat alléén een mylord niet zoude gedaen hebben, ik bood haer eene plaets in myne britschka aen; zy aerzelde, maer een blik op de morsige <hi rend="i">trottoirs</hi> haelde haer over, ik bragt haer te huis, <hi rend="i">rue Tournon,</hi> ik weet niet regt meer welk nommer; ik meende binnen te gaen, doch by de deur werd ik, met veel beleefdheid, afgewezen; myne schoone schaemde zich mis-<pb n="59"/>schien hare verdieping, en ik ging terug met de zalige zelfvoldoening van twee fyne voetjes droog gehouden te hebben: ziedaer de gansche geschiedenis! het was slechts myn ongeluk, dat Zéphirine my gezien had. Ik heb veel moeten hooren.</p>
+<p>- Vergeving, Mynheer! myn mistrouwen, myne belangstelling, myne dwaesheid!... die vrouw was <hi rend="i">myne</hi> vrouw!</p>
+<p>- Uwe vrouw? ik maek u myn compliment over de keuze. Gy zyt achtenswaerdiger dan ik dacht: gy hebt u dan wel spoedig een huisgezin geïmproviseerd!’</p>
+<p>Toen wenkte de barones, en alles was gezegd.</p>
+</div>
+<div type="chapter">
+<pb n="60"/>
+<head rend="h3">IX.</head>
+<p>Des anderen daegs had de markiezin een lang en geheim gesprek met de barones d'Autaine en den voornamen heer, dien Zéphirine beheerschte. Iets later kwamen ook de baron de Breteuil en de geneesheer der markiezin. Andere bezoeken werden niet ontvangen. Tegen den middag werd het ruchtbaer dat de markiezin een togtje naer het land voorhad, en dat de barones d'Autaine en Mynheer De.... de invitatie-kaertjes uitdeelden. Ieder wilde daer by zyn; men begreep dat het tooneel van den avond zoude ontraedseld worden, en elk wilde het einde zien.</p>
+<p>De élégante wereld stroomde dus toe op het bepaelde uer van den togt.</p>
+<pb n="61"/>
+<p>Oogverblindend schitterde het ryke vernis der rytuigen en het pleet en zilver der assen, en het glanzige haer der moedige paerden, en de blinkende zyde der vrouwen-kleedingen, en hare heldere oogen en hare zuivere edelgesteenten in de krachtige July-zon. Het scheen een jubelfeest der menschen, waerby de natuer juichte. De berline der markiezin, meer comfortable dan de draegstoel van eenen abbé uit de 17<hi rend="sup">de</hi> eeuw, opende den trein. Haer geneesheer, de baron de Breteuil en de voorname heer waren by haer. Dan volgde Zéphirine's lichte bevallige calèche, met de pracht harer livereijen en paerden. En de arme man, die eens met eenen zoo somberen blik naer dien aenmatigenden glans had opgezien, zat tegenover haer. Slechts teekenden nu zyne trekken meer onrust, en pynlyker was zyn grimlach, en dieper boog zich zyn hoofd. Hy gevoelde zich minder rein. Hy had minder trots. Hy dacht na over de zonderlinge lotswending, die hem in dit zelfde rytuig geplaetst had, waervan vroeger de koetsier met zoo veel verachting op hem had nedergezien. Het ergerde hem, dat hy niet onbezoedeld was gebleven van de smetten der maetschappy. Hy had der lengen en het bedrog de hand geleend. Voortaen mogt hy het hoofd niet meer opheffen tegen de ondeugd, wier medepligtige hy geworden scheen. Eene enkele gedachte hield hem nog staende. Deze toegevendheid was de laetste, welke
+<pb n="62"/>van hem zou gevergd worden. Voortaen zonde hy weder zich zelven behooren, al moest hy ook dat gansche kaertenhuis van die gedroomde fortuin in duigen schoppen, om met zyne gade van lagen handenarbeid te leven.</p>
+<p>Zoodanige overwegingen maekten hem juist niet spraekzaem. De barones moest zich dus te vreden houden met Henri's aerdigheden over hetgeen hy hunne pelgrimaedje naer het Eldorado noemde, waervan Mevrouw de Caumartin de Columbus zyn zoude. Het was toch geen onbekend oord, waerheen zy hen voerde. Ieder kende haer bekoorlyk landhuis in de nabyheid van <hi rend="i">Saint-Cloud,</hi> dat zy nimmer bewoonde, en toen men eene wit gepleisterde façade heenschynen zag door het donker geboomte, was De l'Hôpital misschien de eenige die niet wist, dat men het doel naderde. Men reed de zacht opwaerts hellende laen in. Talryke bedienden liepen toe, en maekten zich meester van de rytuigen, die men verliet. Mevrouw de Caumartin, door Mynheer De.... ondersteund, ging hare gasten voor, naer een breed terras, waer men, op het zachte grastapyt, byna iedere bloemsoort der vier werelddeelen, in sierlyke vazen, vertegenwoordigd zag. Zéphirine nam den arm van Julius. De anderen volgden. By het eerste gedruisch der aenkomenden had zich de breede glazen deur der koele vestibule geopend, en eene jonge vrouw vertoonde zich op den dorpel als vriendelyke godesse der
+<pb n="63"/>herbergzaemheid. Op éénmael klonk er een snelle uitroep: Julius rukt zich los van Zéphirine, en ylde toe op die jeugdige vrouw, en zonk in de armen zyner Loïse!</p>
+<p>- ‘Daer is weder myn spelbreker, sprak Mevrouw de Caumartin: hy kan niet eens wachten tot ik hem voorstel. En nu, myne dames! gy had misschien een landelyk feest verwacht; vergeeft het my, zoo ik u niets anders schenk dan het laetste bedryf van een blyspel. Men had Mynheer De l'Hôpital zyne gade ontschaekt, opdat hy zich vryer in onzen kring zoude kunnen bewegen. De toovergodin van zyn leven geeft hem haer thans in een bloemenpaleis terug. Het is zeker dat hy veel heeft gemord, en van zyne onderwerping zaegt gy een staeltje in myn salon; ook zoude de beproeving nog niet geëindigd zyn, zoo niet de barones d'Autaine en Mynheer De.... myne tooverroede gezegend hadden.</p>
+<p>- Om u dit duidelyk te maken (dus wendde zich Mynheer De.... tot Julius, die, met zyne Loïse aen de hand, byna niet luisterde), neem ik de vryheid, van my zelven te spreken. Voor eenige dagen werd ik benoemd tot gezant aen het B....sche Hof; men liet my de keuze van eenen eersten secretaris. Reeds lang hoorde ik overal uwe verdienste roemen, en de barones betreurde het byzonder, dat uwe talenten ongebruikt bleven. Natuerlyk viel myne eerste gedachte op u; dan, er was eene zwarigheid: gy waert niet gehuwd, en by
+<pb n="64"/>de stemming van het Hof, waerheen wy vertrekken, voegt beter een gevestigd man, dan een jonge salonheld. Toen had de barones de goedheid my in te lichten, en ik twyfel niet, Mynheer! of gy zult de plaets willen innemen, die u toekomt.’</p>
+<p>Julius stond als verplet onder de overmaet van zyn geluk. Twee groote tranen in zyn oog maekten zyne stomme buiging en zyne stamelende woorden goed; zyne Loïse zonk voor hem aen de voeten van den gezant, aen die van Zéphirine, en in de armen van Mevrouw de Caumartin. - ‘Ik breng u meer gasten dan ik u beloofd had, zeide haer deze; maer ik weet dat er welkome onder zyn.’</p>
+<p>Wy kunnen niet meer iederen uitroep, iedere verwondering, iedere dankbaerheid afmalen. Julius, aen de voeten van Mevrouw de Caumartin, vergeefs zoekende naer woorden van dank; Julius in de armen zyner blinde moeder, door den baron en Mina voortgeleidt; de groepen van toejuichende gasten, de hooge blos op de wangen derdeugdzame vrouwen, de blinkende traen in het oog der lieve meisjes; de welwillende grimlach op het gelaet der mannen; ziedaer de hoofdtrekken van een tooneel, dat verder werd afgespeeld in de ruime gezelschapszael; en dan dat edele woord van den baron, die Henri toevoegde, nadat hy gezegd had: - ‘Als ik nu terug denk aen het <hi rend="i">Bois de Bologne</hi>, dan heeft toch de
+<pb n="65"/>luim eener schoone vrouw dat alles gedaen. - De luim eener vrouw! jongeling! misken dan toch niet altyd de hand der Voorzienigheid!’</p>
+<p>En by het terugkeeren naer <hi rend="i">Parys</hi> zeide een der gasten: ‘Als de markiezin van haren divan opryst, dan is het om wel te doen;’ en een ander voegde er by: ‘Men vermaekt zich niet zoo in het <hi rend="i">Théâtre-Français</hi> als by de blyspelen van Mevrouw de Caumartin! - ‘Was dáér voor De l'Hôpital slechts een baron de Breteuil! zuchtte de geneesheer.’</p>
+<p>En die korte woorden verschoonen den lezer van myne toepassingen: hy vinde die zelf uit, en make zelf zyne besluiten op; zoo het mogelyk konde zyn, dater in myne flauwe schetsen iets gevonden werd, dat anderen te denken gaf.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">einde</hi>.</p>
+<pb rend="blank" n="66"/>
+</div>
+</body>
+</text>
+
+</TEI.2>

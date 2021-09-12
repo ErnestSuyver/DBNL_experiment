@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied. Of de verliefde huisvader</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied. Of de verliefde huisvader</hi>, uitgegeven tussen 1795 en 1819.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 2, 3: gedeelten van de tekst zijn slecht leesbaar. In deze digitale editie is [...] geplaatst.</corr>
+                       <corr>p. 2: ‘held en’ → ‘held'ren’ ’: ‘Jy steeld op held'ren dag’.</corr>
+                       <corr>p. 4: ‘ean’ → ‘kan’ ’: ‘Maar 't moet maar gaan zo als 't kan’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie120nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 10072</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied. Of de verliefde huisvader</hi>. J. Wendel, Amsterdam 1795-1819</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied. Of de verliefde huisvader</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied. Of de verliefde huisvader</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-27</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+        <interpGrp><interp type="song" value="_nie120nieu01_0001"/> </interpGrp>
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie120nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section">
+<head rend="h3">Een nieuw lied.
+<lb/>
+Of zamenspraak, tusschen een kok en keukenmeid.</head>
+<head rend="h4">Wys: <hi rend="i">Laat ik eens een Klucht vertellen.</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l rend="speaker"><hi rend="i">Kok.</hi></l>
+<l>Jakomyn, ik zal jou leeren,</l>
+<l rend="; 1tab">Zeg, spreek je kwaad van myn,</l>
+<l>Wil het langer niet probeeren,</l>
+<l rend="; 1tab">Om zo brutaal te zyn,</l>
+<l>Of denk je dat ik 't niet en weet,</l>
+<l>Je steelt toch alles by de vleet,</l>
+<l rend="; 1tab">En dat voor Hein die lekkerbek,</l>
+<l rend="; 1tab">Neen meid, ik ben niet gek.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Ik zag jou laatst wel boter spitten,</l>
+<l rend="; 1tab">Wel meer dan een kwartier,</l>
+<l>Zag ik jou in de kelder zitten,</l>
+<l rend="; 1tab">Jou vryer zat by 't vuur.</l>
+<l>Zo leef jy ook met spek en vleesch,</l>
+<l>Met kaas en brood het allermeest,</l>
+<l rend="; 1tab">En 't vet als of het niets beduid,</l>
+<l rend="; 1tab">Gaat stil de deur maar uit.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Maar 'k moet jou noch eens attrapperen,</l>
+<l rend="; 1tab">In donker met die vent,</l>
+<l>Ik zal hem fiks de ribben smeeren,</l>
+<l rend="; 1tab">Dat kan ik excellent,</l>
+<l>Myn Heer zal 't weeten Jakomyn,</l>
+<l>Jy steelt tot zelfs zyn beste wyn,</l>
+<l rend="; 1tab">Al doe jy 't voor jou schatje lief,</l>
+<l rend="; 1tab">Ik hou jou voor een dief.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l rend="speaker"><hi rend="i">Keukenmeid.</hi></l>
+<l>Zwyg Vetlap durf jy nog spreeken,</l>
+<l rend="; 1tab">Jou Smeerpoes daar jy bent,</l>
+<l>Durf jy met myn je hoofd nog breken,</l>
+<l rend="; 1tab">Daar jy de meester bent,</l>
+<l>Van 't allerergste dievengoed,</l>
+<l>Dat me ooit by jou geslagt ontmoet,</l>
+<l rend="; 1tab">Waar draag jy dat horlogie van?</l>
+<l rend="; 1tab">Zeg eerelyke man.</l></lg>
+    <pb n="2"/>
+    <lg type="poem">
+        <head>5.</head>
+        <l>Haazen, kippen en konynen,</l>
+        <l rend="; 1tab">Verkoop je aan de Polier,</l>
+        <l>Beste worsten by doucynen,</l>
+        <l rend="; 1tab">Die breng jy stil van hier,</l>
+        <l>Ik ken die kommenysman goed,</l>
+        <l>Waar meê jy jou negotie doet,</l>
+        <l rend="; 1tab">En daarom Vetlap snoer je mond,</l>
+        <l rend="; 1tab">Of 'k zeg het myn Heer terstond.</l>
+    </lg>
+    <lg type="poem">
+        <head>6</head>
+        <l>En durf jy op myn vryer smalen,</l>
+        <l rend="; 1tab">'t Is goed dat hy 't niet weet,</l>
+        <l>Hy kan jou wel tot mosterd malen,</l>
+        <l rend="; 1tab">Kyk na jou eigen leed;</l>
+        <l>Die slons, die magre zwavelstok,</l>
+        <l>Die hunkert op een vette brok,</l>
+        <l rend="; 1tab">Die waterslang, die kamenier.</l>
+        <l rend="; 1tab">Ja, breng haar nooit weer hier.</l>
+    </lg>
+    <lg type="poem">
+        <head>7.</head>
+        <l rend="speaker"><hi rend="i">Kok.</hi></l>
+        <l>Brutale heks, wat durf je zeggen,</l>
+        <l rend="; 1tab">Als ik my niet ontzag.</l>
+        <l>Durf jy my zulks te laste leggen,</l>
+        <l rend="; 1tab">Jy steeld op held'ren dag,</l>
+        <l>Ja wist het maar jou vryer Hein,</l>
+        <l>Jy steeld ook voor de brandewyn,</l>
+        <l rend="; 1tab">Jy zuipt de heele morgen lang,</l>
+        <l rend="; 1tab">Bent voor geen pintje bang.</l>
+    </lg>
+    <lg type="poem">
+        <head>8.</head>
+        <l>Durf jy die kommenysman noemen,</l>
+        <l rend="; 1tab">Wyk, of jy krygt een mep,</l>
+        <l>Jy mag nog op je braafheid roemen,</l>
+        <l rend="; 1tab">Jy bent toch aan de flep:</l>
+        <l>Maak niet dat ik al te driftig word.</l>
+        <l>Of ik toon myn gramschap binnen kort,</l>
+        <l rend="; 1tab">Ik steek je wis een ongeluk,</l>
+        <l rend="; 1tab">Want ik houw voet by stuk.</l>
+    </lg>
+    <lg type="poem">
+        <head>9.</head>
+        <l rend="speaker"><hi rend="i">Keukenmeid.</hi></l>
+        <l>durf jy noch al van steeken praten,</l>
+        <l rend="; 1tab">Jou braadspit heeft geen punt,</l>
+        <l>Och wil je gramschap zakken laten,</l>
+        <l rend="; 1tab">Want jy niets doen en kunt;</l>
+        <l>Het brandhout zeker is goed koop,</l>
+        <l>Ik weet wel dat jy leeft op hoop,</l>
+        <l rend="; 1tab">Al van die kaale kamenier,</l>
+        <l rend="; 1tab">dat is een Venus dier.</l>
+    </lg>
+    <lg type="poem">
+        <head>10.</head>
+        <l>Maar 'k wil je toch niet langer plagen,</l>
+        <l rend="; 1tab">Je bent te goed er voor,</l>
+        <l>Kom laaten wy malkaêr verdragen,</l>
+        <l rend="; 1tab">Eer dat het iemand hoord;</l>
+        <l>Neem jy jou Truitje, ik myn Hein,</l>
+        <l>En laaten we 's avonds vrolyk zyn,</l>
+        <l rend="; 1tab">Wy zyn toch alle by niet pluis,</l>
+        <l rend="; 1tab">En kaal gelyk een luis.</l>
+    </lg>
+    <lg type="poem">
+        <head>11.</head>
+        <l rend="speaker"><hi rend="i">Kok.</hi></l>
+        <l>Nou Jakomyn, zal jy het weeten</l>
+        <l rend="; 1tab">Zag nooit myn bro[...] [...]iet</l>
+        <l>[...] 's avonds wel een kliekje eeten,</l>
+        <l rend="; 1tab">Want dat is [...] niet.</l>
+        <l>Ik geef aan Truitje ook wel een snip,</l>
+        <l>Een boutje van een haas of kip,</l>
+        <l rend="; 1tab">Een stukje worst, wat ham of spek</l>
+        <l rend="; 1tab">dat meisje is ook niet gek.</l>
+    </lg>
+    <lg type="poem">
+        <head>12.</head>
+        <l rend="speaker"><hi rend="i">Zamen.</hi></l>
+        <l>Het beste is dus maar stil te zwygen,</l>
+        <l rend="; 1tab">Want ieder draagt zyn bult,</l>
+        <l>Eer dat wy by de schop noch krygen</l>
+        <l rend="; 1tab">dan waren wy gekuld;</l>
+        <l>Als Kok en Keukenmeid toch kyft,</l>
+        <l>dan weet men waar de boter blyft,</l>
+        <l rend="; 1tab">Want ieder een doet toch zyn best,</l>
+        <l rend="; 1tab">En sleept wat in zyn nest.</l>
+    </lg>
+    <p><hi rend="i"><hi rend="spat">EYNDE</hi>.</hi></p>
+</div>
+</div>
+    <div type="chapter">
+        <interpGrp><interp type="song" value="_nie120nieu01_0002"/> </interpGrp>
+<pb n="3"/>
+<head rend="h3"><hi rend="i">Een nieuw lied.</hi> of de verliefde huisvader,</head>
+<head rend="h4">Wys: <hi rend="i">Arm en nedrig is myn Hutje</hi></head>
+<lg type="poem">
+<head>1</head>
+<l>Mag ik myn niet gelukkig noemen</l>
+<l>Daar ik in den morgenstond,</l>
+<l>Uit myn frissche slaap verryzen.</l>
+<l>De Almagt dank met hart en mond,</l>
+<l>Ja, ik zal hem billyk prysen,</l>
+<l>Voor de zorg aan myn betoond,</l>
+<l>Daar hy my met vrouw en kinderen</l>
+<l>Als een Vader mild' beloond.</l>
+</lg>
+<lg type="poem">
+<head>2</head>
+<l>['k] Heb myn handwerk weer begonnen</l>
+<l>Zorgen voor myn Huisgezin,</l>
+<l>daar ik [...] God hem het mog[...],</l>
+<l>Ja tog als myn zelf bemin,</l>
+<l>'k Zal dagelyks vlytig werken,</l>
+<l>Want dat is myn eerste pligt,</l>
+<l>En dan kryg ik zeker zegen,</l>
+<l>Daar ik tog iets goeds verrigt.</l>
+</lg>
+<lg type="poem">
+<head>3</head>
+<l>'s Avonds zit ik by myn wyfje,</l>
+<l>Altoos vrolyk welgemoed,</l>
+<l>'k Geef haar nu en dan een kusje,</l>
+<l>ô Myn wyfje is zo goed,</l>
+<l>'k Zie myn Kind'ren om myn dartlen</l>
+<l>Dansen, Springen in het rond.</l>
+<l>'k Zie hen, ô dat kleine goedje,</l>
+<l>Altyd vrolyk en gezond,</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Is dit leeven niet vernoeglyk,</l>
+<l>'t Is een aardsche zaligheid,</l>
+<l>Als men met elkaar to vreede,</l>
+<l>Alle twist en haat vermeid,</l>
+<l>Wat moet niet die ryk is smaken,</l>
+<l>Schoon hem juist geen geld ontbreekt</l>
+<l>daar hy by zyn daaglyks schrapen,</l>
+<l>Ook zyn zorgen staêg vermeerd.</l>
+</lg>
+<lg type="poem">
+<head>5</head>
+<l>Dat dan nooit geen aardsche schatten</l>
+<l>My van 't, pad der deugd doen gaan</l>
+<l>'k hief dan altoos, vol van vreugde,</l>
+<l>God, myn plechtig danklied aan,</l>
+<l>Hy, hy zy myn trouwe Vader,</l>
+<l>Hy geleid my door zyn hand.</l>
+<l>Als ik eens deez aard zal derven,</l>
+<l>In het Hemels Vaderland.</l>
+</lg>
+<lg type="poem">
+<head>6</head>
+<l>Dit vooruitzigt maakt my vrolyk,</l>
+<l>Troost me in lange tegenspoed,</l>
+<l>Doet my hier den weg bewandelen,</l>
+<l>Naar een meer volmaakter goed,</l>
+<l>Nooit zie ik den yver minderen,</l>
+<l>Voor myn achtingswaardig kroost,</l>
+<l>'t Voorbeeld dat ik hun mogt geven</l>
+<l>Strekt me in 't stervensuur tot troost.</l>
+</lg>
+<p><hi rend="spat">EYNDE</hi>.</p>
+</div>
+    <div type="chapter">
+        <interpGrp><interp type="song" value="_nie120nieu01_0003"/> </interpGrp>
+<pb n="4"/>
+<head rend="h3">Een nieuw lied,
+<lb/>
+Om de Dochters te leeren Vreijen.</head>
+<head rend="h4">Wys: <hi rend="i">Van Nicolaas.</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Meisjes past wel op uw zaaken;</l>
+<l>Al de Jonkmans gaan uit land;</l>
+<l>Ik zal het uw kenbaar maken</l>
+<l>Hoe gy 'er een krygt aan de hand;</l>
+<l>Al is 't dat gy hem zelfs vreid;</l>
+<l>Het is de mode van den tyd,</l>
+<l>Als gy nog wat lang zult wagten;</l>
+<l>Gy zyt hem kwyt, gy zyt hem kwyt.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Gy moet nu niet zyn verleegen;</l>
+<l>Ziet gy eenen Jongman staan;</l>
+<l>Beter gauw als lang gezweegen;</l>
+<l>Spreek hem zelf ten eersten aan;</l>
+<l>En zegt comment vitil Monsieur;</l>
+<l>En houd een praatje aan zyn deur;</l>
+<l>Kond gy hem dan zo bekooren;</l>
+<l>'t Is u bonheur, 't is u bonheur</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Maar gy moet u schoon paleeren</l>
+<l>Van het hoofd tot aan den voet;</l>
+<l>Daar en moet niets aan mankeeren;</l>
+<l>Fraay gekleed maakt alles goed;</l>
+<l>Een paar Kousen van tien oorden;</l>
+<l>Schoenen uit het Magazyn;</l>
+<l>Gy verstaat wel met twee woorden;</l>
+<l>Hoe het moet zyn, hoe het moet zyn.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Eenen Voorschoot met drle plooijen;</l>
+<l>Koop uw Jakjes net van pas;</l>
+<l>Want gy zult toch niet meer groeijen</l>
+<l>Gy blyft zo gy voor deeze was;</l>
+<l>Want alle braave Jonggezellen;</l>
+<l>Doen het zelfs het meeste leed;</l>
+<l>Die zullen het u ras vertellen;</l>
+<l>Gelyk gy weet, gelyk gy weet.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l>Gy moet ook wel zorg dragen;</l>
+<l>Blyft een Jongman by uw staan;</l>
+<l>Van het hem niet af te slagen;</l>
+<l>Als hy spreekt van meê te gaan,</l>
+<l>Want daar staan 'er tien te wagten;</l>
+<l>Tegen dat hy heenen gaat;</l>
+<l>Die na eenen Jongman tragten;</l>
+<l>Marjan en Kaat, Marjan en Kaat.</l>
+</lg>
+<lg type="poem">
+<head>6.</head>
+<l>Gy en moogt niet lang meer wagten</l>
+<l>Maak u werk al was 't van daag;</l>
+<l>Hebt gy 'er een in uw gedachten,</l>
+<l>'t Word tyd dat gy hem dan maar vraag</l>
+<l>Want gy kunt zeer ligt begrypen;</l>
+<l>Ziet een aêr hem in 't verschiet;</l>
+<l>Dan zou gy 't zelfs uw verwyten,</l>
+<l>En gy krygt niet, en gy krygt niet.</l>
+</lg>
+<lg type="poem">
+<head>7</head>
+<l>Een Meisje is thans te beklagen;</l>
+<l>Die zo moet wagten na een Man;</l>
+<l>Het staat wat raar om zelfs te vragen;</l>
+<l>Maar 't moet maar gaan zo als 't kan;</l>
+<l>Want om langer zo te leeven;</l>
+<l>Als een Wyf van zestig Jaar;</l>
+<l>Ik wil my in den Echt begeeven;</l>
+<l>Met een Minnaar, Met een Minnaar,</l>
+</lg>
+<p><hi rend="spat">EYNDE</hi>.</p>
+<p>&nbsp;</p>
+    <cf><p>Gedrukt t' Amsterdam, by J. WENDEL, Boekdrukker, op de Angelersgragt, No. 148.</p></cf>
+</div>
+</body>
+</text>
+
+</TEI.2>

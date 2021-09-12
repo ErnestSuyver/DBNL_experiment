@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Bekroonde volksliederen, uitgegeven door de Maatschappij tot Nut van 't Algemeen</title>
+               <author>Carel Godfried Withuys</author>
+               <author>C.P.E. Robidé van der Aa</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Bekroonde volksliederen, uitgegeven door de Maatschappij tot Nut van 't Algemeen</hi> van Carel Godfried Withuys en C.P.E. Robidé van der Aa uit 1835.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">with003bekr01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 21043</idno>
+               </bibl>
+               <p>Carel Godfried Withuys en C.P.E. Robidé van der Aa, <hi rend="i">Bekroonde volksliederen, uitgegeven door de Maatschappij tot Nut van 't Algemeen</hi>. De erven Hendrik van Munster en Zoon / Johannes van der Hey en Zoon, Amsterdam 1835</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Bekroonde volksliederen, uitgegeven door de Maatschappij tot Nut van 't Algemeen</title>
+               <author>Carel Godfried Withuys</author>
+               <author>C.P.E. Robidé van der Aa</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Bekroonde volksliederen, uitgegeven door de Maatschappij tot Nut van 't Algemeen</title>
+               <author>Carel Godfried Withuys</author>
+               <author>C.P.E. Robidé van der Aa</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-07-19</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+            <text>
+<body>
+<cf><div type="chapter">
+
+<pb n="1"/>
+<p>BEKROONDE VOLKSLIEDEREN.</p>
+<p>UITGEGEVEN DOOR DE MAATSCHAPPIJ:</p>
+<p><hi rend="i">TOT NUT VAN 'T ALGEMEEN.</hi></p>
+<p><figure>
+<p><xptr to="with003bekr01ill01.gif"/></p>
+</figure></p>
+<p><hi rend="i">Te AMSTERDAM</hi>, <hi rend="i">bij</hi></p>
+<p>DE ERVEN HENDRIK VAN MUNSTER EN ZOON</p>
+<p>EN JOHANNES VAN DER HEY EN ZOON.</p>
+<p>1835.</p>
+</div></cf>
+<div type="chapter">
+
+<interpGrp>
+<interp type="primair" value="18350122"/>
+</interpGrp>
+<pb n="3"/>
+<head rend="h3">Voorberigt.</head>
+<p><hi rend="i">In den Jare</hi> 1827 <hi rend="i">besloot de Maatschappij:</hi> Tot Nut van 't Algemeen, <hi rend="i">bij hare overige werkzaamheden</hi>, <hi rend="i">eene proeve te nemen</hi>, <hi rend="i">om</hi>, <hi rend="i">door vereeniging van Dicht- en Toonkunst</hi>, Volksliederen <hi rend="i">te leveren</hi>, <hi rend="i">die in beide opzigten</hi> oorspronkelijk Nederlandsch <hi rend="i">waren. Zij noodigde hiertoe in de eerste plaats de Vaderlandsche Dichters uit</hi>, <hi rend="i">met oogmerk om</hi>, <hi rend="i">bij bekrooning</hi>, <hi rend="i">derzelver voortbrengselen den Vaderlandschen Componisten aan te bieden</hi>, <hi rend="i">tot het vervaardigen van Muzijk daarvoor.</hi></p>
+<p><hi rend="i">Voor de eerstgenoemde bewerking loofde zij den</hi> gouden <hi rend="i">Eereprijs uit aan hem</hi>, <hi rend="i">van wien</hi> zes <hi rend="i">of meer Stukken de goedkeuring zouden wegdragen</hi>, <hi rend="i">en aan hem</hi>, <hi rend="i">van wien een minder getal zoude worden goedgekeurd</hi>, <hi rend="i">den</hi> zilveren. <hi rend="i">Het mogt den Heer</hi> <hi rend="sc">c.g. withuijs</hi> <hi rend="i">gelukken</hi>, <hi rend="i">voor een</hi> zevental <hi rend="i">Stukjes</hi>, <hi rend="i">de</hi> gouden, <hi rend="i">en den Heer Mr.</hi> <hi rend="sc">c.p.e. robidé van der aa</hi>, <hi rend="i">voor een</hi> viertal, <hi rend="i">de</hi> zilveren Medaille <hi rend="i">te behalen; de letters onder elk der Stukjes</hi>, <hi rend="i">hierbij het licht ziende</hi>, <hi rend="i">wijzen de namen der beide Dichters aan.</hi></p>
+<p><hi rend="i">Niet zoo gelukkig staagde de Maatschappij in het tweede gedeelte van hare poging. Van de</hi> 86, <hi rend="i">grootere of kleinere</hi>, <hi rend="i">Verzamelingen Muzijk</hi>, <hi rend="i">op hare uitnoodiging</hi>, <hi rend="i">op de bovengenoemde Dichtstukjes ingekomen</hi>, <hi rend="i">viel niet eene</hi>, als Verzameling, <hi rend="i">volgens de eenstemmige uitspraak van Beoordeelaars</hi>, <hi rend="i">bekrooning ten deel; slechts</hi> één enkel <hi rend="i">Stukje</hi>, <hi rend="i">uit ééne dezer Verzamelingen</hi>, <hi rend="i">behaalde de daarvoor uitgeloofde</hi> zilveren Medaille, <hi rend="i">waarvan</hi>, <hi rend="i">bij het openen van het Naambriefje</hi>, <hi rend="i">bleek Vervaardiger te zijn de Heer</hi> <hi rend="sc">joseph fastré</hi>, <hi rend="i">te</hi> 's Gravenhage.</p>
+<pb n="4"/>
+<p><hi rend="i">Deze</hi>, <hi rend="i">behalve met betrekking tot genoemde Stukje</hi>, <hi rend="i">ongunstige uitslag</hi>, <hi rend="i">in verband met de aanmerkingen der bevoegde Beoordeelaars</hi>, <hi rend="i">deed de Maatschappij besluiten</hi>, <hi rend="i">de genomene proeve als mislukt te beschouwen</hi>, <hi rend="i">en het nemen van nieuwe van dien aard over te laten aan bepaalde Muzikale Inrigtingen of bijzondere personen.</hi></p>
+<p><hi rend="i">Intusschen</hi>, <hi rend="i">volgens hare inrigting en Wetten</hi>, <hi rend="i">verpligt</hi>, <hi rend="i">om van de door haar uitgegevene Stukken een' afdruk aan hare Leden ter hand te stellen</hi>, <hi rend="i">verschijnen hierbij de elf boven vermelde Dichtstukjes</hi>, <hi rend="i">met het</hi> enkele <hi rend="i">bekroonde Muzijkstukje</hi>, <hi rend="i">afzonderlijk</hi>, <hi rend="i">daarbijgevoegd; aan zoodanige bekwame Componisten</hi>, <hi rend="i">als zich hiertoe mogten vinden aangespoord</hi>, <hi rend="i">de gelegenheid latende</hi><note n="(*)" place="foot"><hi rend="i">Hieraan is bereids gevolg gegeven</hi>, <hi rend="i">daar de Heeren</hi>
+<hi rend="sc">withuijs</hi> <hi rend="i">en</hi> <hi rend="sc">van der aa</hi> <hi rend="i">eene overeenkomst hebben gesloten met den Heer</hi> <hi rend="sc">fastré</hi>, <hi rend="i">tot het vervaardigen van Muzijk voor</hi> negen <hi rend="i">van de bijgaande Stukjes</hi> (<hi rend="i">als zijnde</hi>, <hi rend="i">behalve het bekroonde</hi>, <hi rend="i">voor het lied</hi> De Koning <hi rend="i">de Muzijk algemeen bekend en voorhanden</hi>), <hi rend="i">en deze Muzijk verkrijgbaar gesteld bij den Boekhandelaar</hi> <hi rend="sc">g.j.a. beijerinck</hi>, <hi rend="i">te</hi> Amsterdam, <hi rend="i">volgens een</hi>, <hi rend="i">door hen</hi>, <hi rend="i">aan de Departementen der Maatschappij toegezonden Berigt en Lijst van Inteekening.</hi></note>, <hi rend="i">om voor de overige Stukjes geschikte Muzijk te vervaardigen en</hi>, <hi rend="i">des verkiezende</hi>, <hi rend="i">in het licht te geven.</hi></p>
+<p>&nbsp;</p>
+<p>Op last der Maatschappij:
+<figure>
+<p><xptr to="with003bekr01ill02.gif"/></p></figure></p>
+<p><hi rend="i">Amsterdam</hi>, 22 <hi rend="i">Januarij</hi>, 1835.</p>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0001"/> </interpGrp>
+<pb n="5"/>
+<head rend="h3">De koning.</head>
+<lg type="poem">
+<l>Wilhelmus van Nassouwe,</l>
+<l rend="; 1tab">Oranjes fiere Zoon,</l>
+<l>Draagt, Land en volk getrouwe,</l>
+<l rend="; 1tab">De Koninklijke kroon.</l>
+<l>Der Vorsten gids op aarde</l>
+<l rend="; 1tab">En aller volken vreugd,</l>
+<l>Geeft hij dier kroone waarde</l>
+<l rend="; 1tab">Door Koninklijke deugd.</l>
+<l>&nbsp;</l>
+<l>Vast greep hij, in het branden</l>
+<l rend="; 1tab">Der opgeruide zee,</l>
+<l>Het roer van Staat in handen</l>
+<l rend="; 1tab">En bragt de kiel ter reê.</l>
+<l>Nu is het Land na vlagen,</l>
+<l rend="; 1tab">In zoeler lucht en tij,</l>
+<l>Als in Prins Willems dagen,</l>
+<l rend="; 1tab">Met Koning Willem vrij.</l>
+<l>&nbsp;</l>
+<l>Zijn voorbeeld en zijn gunsten</l>
+<l rend="; 1tab">Verheffen wijd en zijd</l>
+<l>De wetenschappen, kunsten,</l>
+<l rend="; 1tab">De nijverheid en vlijt;</l>
+<l>Hij veiligt vrede en handel,</l>
+<l rend="; 1tab">En, op der Vadren spoor,</l>
+<l>Gaat hij, met woord en wandel,</l>
+<l rend="; 1tab">In deugd en Godsvrucht voor.</l>
+<pb n="6"/>
+<l>Geen heir van ruwe wachten</l>
+<l rend="; 1tab">Onttrekt hem aan 't gezigt;</l>
+<l>Hij hoort der armen klagten,</l>
+<l rend="; 1tab">En maakt hen 't nadren ligt.</l>
+<l>Zijn Land en onderdanen</l>
+<l rend="; 1tab">Getrouw in nood en dood,</l>
+<l>Deelt hij der droeven tranen</l>
+<l rend="; 1tab">En geeft den armen brood.</l>
+<l>&nbsp;</l>
+<l>Bewaar, o God! zijn leven</l>
+<l rend="; 1tab">En hou zijn Huis in stand;</l>
+<l>Laat hem uw hoede omzweven,</l>
+<l rend="; 1tab">Tot heil van 't Vaderland!</l>
+<l>Zijn naam blijv' hoog in waarde,</l>
+<l rend="; 1tab">Tot bij den laatsten neef! -</l>
+<l>Laat, God! hem lang op de aarde!....</l>
+<l rend="; 1tab">De goede Koning leev'!</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0002"/> </interpGrp>
+<head rend="h3">Orde en vrijheid.</head>
+<lg type="poem">
+<l>Als er velen 't huis regeren,</l>
+<l rend="; 1tab">Hebben orde en eendragt uit;</l>
+<l>Aan de mot zijn dan de kleeren,</l>
+<l rend="; 1tab">Aan den roest het staal ten buit;</l>
+<l>Ieder drijft zijne eigen plannen;</l>
+<l rend="; 1tab">Allen willen 't hoogste woord;</l>
+<l>Tucht en vrede zijn gebannen,</l>
+<l rend="; 1tab">En de welvaart pakt zich voort.</l>
+<l>&nbsp;</l>
+<l>Zouden vier een vierspan mennen,</l>
+<l rend="; 1tab">Elk een leizeel, elk een paard?</l>
+<l>De een wil stappen, de ander rennen,</l>
+<l rend="; 1tab">Én - de kar stort in de vaart. -</l>
+<l>Baat een roer in twee paar handen?</l>
+<l rend="; 1tab">Dees wil 't ruim en die den wal;</l>
+<l>Tot een bui het schip doet stranden,</l>
+<l rend="; 1tab">Of vergaan met vracht en al.</l>
+<pb n="7"/>
+<l>Moet er orde een woning sieren,</l>
+<l rend="; 1tab">Dan - één hoofd; een wakker man,</l>
+<l>Dien de rede en 't regt bestieren,</l>
+<l rend="; 1tab">Die de tucht bewaren kan.</l>
+<l>Moet een vierspan op de wegen,</l>
+<l rend="; 1tab">Of een kiel op zeeën voort,</l>
+<l>Één koetsier dan opgestegen,</l>
+<l rend="; 1tab">En één schipper dan aan boord.</l>
+<l>&nbsp;</l>
+<l>Zal een Staat in orde duren,</l>
+<l rend="; 1tab">Dan: - een Koning, kloek en vroom,</l>
+<l>Die door stormen heen kan sturen,</l>
+<l rend="; 1tab">En den moedwil houdt in toom.</l>
+<l>Waar een wijs en dapper Koning</l>
+<l rend="; 1tab">Regt en Wetten houdt in stand,</l>
+<l>Veilig dáár zijn lijf en woning,</l>
+<l rend="; 1tab">Dáár is Vrijheid in het Land.</l>
+<l>&nbsp;</l>
+<l>Zoo is <hi rend="i">Neêrland</hi> vrij en veilig</l>
+<l rend="; 1tab">Met een' Koning, wijs en goed;</l>
+<l>Regt en Wetten zijn er heilig,</l>
+<l rend="; 1tab">Heilig dáár zijn goed en bloed;</l>
+<l>Teugels zijn er voor den slechten,</l>
+<l rend="; 1tab">Maar wie 't goede wil, is vrij;</l>
+<l>Nergens heeft men grooter regten,</l>
+<l rend="; 1tab">Vrijer is geen mensch, dan wij.</l>
+<l>&nbsp;</l>
+<l>Moog' die Vrijheid eeuwig blijven,</l>
+<l rend="; 1tab">Nooit verminderd, nooit vergroot;</l>
+<l>Wie haar hooger op wil drijven,</l>
+<l rend="; 1tab">Wenscht het Vaderland den dood.</l>
+<l>Maar ook, mogt een vreemde 't wagen</l>
+<l rend="; 1tab">Handen aan haar' tuin te slaan,</l>
+<l>Eer wij weder boeijen dragen,</l>
+<l rend="; 1tab">Moog' met haar het Land vergaan!</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0003"/> </interpGrp>
+<pb n="8"/>
+<head rend="h3">Vlaggelied.</head>
+<lg type="poem">
+<l>Wat vlagge verheft zich zoo stout in de lucht,</l>
+<l rend="; 1tab">En rolt hare banen er bloot; -</l>
+<l>Die banen, alomme gevierd en geducht,</l>
+<l rend="; 1tab">Van blaauw en van wit en van rood? -</l>
+<l>Zij geven den boezem genot en ontzag;</l>
+<l>Wat vlag kan het wezen? - 't Is <hi rend="i">Nederlands</hi> vlag;</l>
+<l rend="; 1tab">De vlag onzer Vadren! Hoezee!</l>
+<l>&nbsp;</l>
+<l>Van eeuwen af kennen haar 't Noorden en Zuid,</l>
+<l rend="; 1tab">En groeten haar 't Westen en 't Oost;</l>
+<l>Zij golfde op het ijs, dat de polen omsluit,</l>
+<l rend="; 1tab">En 't zand, door den hemel geroost.</l>
+<l>Zij wappert in eere! Wat landzaat haar noem',</l>
+<l>Hij huldigt haar glorie en <hi rend="i">Nederlands</hi> roem;</l>
+<l rend="; 1tab">Den roem onzer Vadren! Hoezee!</l>
+<l>&nbsp;</l>
+<l>Waai uit in de hoogte, gij vlag van ons Land,</l>
+<l rend="; 1tab">Zoo trotsch in uw' golvenden loop!</l>
+<l>Uw kleuren verkonden, van stranden tot strand,</l>
+<l rend="; 1tab">Zijn deugd, zijn geluk en zijn hoop.</l>
+<l>'t Is rijk en is magtig, en weet van geen juk;</l>
+<l>Nog wonen er Vrijheid en rust en geluk;</l>
+<l rend="; 1tab">'t Geluk onzer Vadren! Hoezee!</l>
+<l>&nbsp;</l>
+<l>Waait uit in de hoogte, gij kleuren zoo schoon,</l>
+<l rend="; 1tab">o Beelden van <hi rend="i">Neêrlands</hi> geslacht,</l>
+<l>Dat rein is in hutten en rein op den troon,</l>
+<l rend="; 1tab">Dat laagheid en lafheid veracht!</l>
+<l>'t Is rond en is trouw, daar de wereld van heugt;</l>
+<l>Gevestigd als <hi rend="i">Neêrland</hi>, is <hi rend="i">Nederlands</hi> deugd;</l>
+<l rend="; 1tab">De deugd onzer Vadren! Hoezee!</l>
+<pb n="9"/>
+<l>Waai uit in de hoogte, gij vlagge vol zwier!</l>
+<l rend="; 1tab">Uw blaauw is die hope vol lust,</l>
+<l>Dat <hi rend="i">Neêrland</hi> zal blijven zoo krachtig en fier,</l>
+<l rend="; 1tab">Zoo bloeijend en vrij en gerust.</l>
+<l>Dat eeuwig uw banen, op veld en op vloed,</l>
+<l>Ons wekken tot eendragt en veêrkracht en moed;</l>
+<l rend="; 1tab">Den moed onzer Vadren! Hoezee!</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0004"/> </interpGrp>
+<head rend="h3">Volksvlijt.</head>
+<lg type="poem">
+<l>Kort is 't leven, lang de rust.</l>
+<l rend="; 2tab">Voort met lust,</l>
+<l rend="; 1tab">Vlugtig zijn de dagen.</l>
+<l>Wie zijn lot verheffen wil,</l>
+<l rend="; 2tab">Sta niet stil;</l>
+<l rend="; 1tab">Vlijt zal vruchten dragen.</l>
+<l>Hoe gelukkig is de man,</l>
+<l>Die zijn leden roeren kan!</l>
+<l>&nbsp;</l>
+<l>Druilt een luije, loom van slaap,</l>
+<l rend="; 2tab">Dat hij gaap';</l>
+<l rend="; 1tab">'t Einde draagt de lasten.</l>
+<l>Werken moeten knecht en Heer;</l>
+<l rend="; 2tab">Dat brengt eer,</l>
+<l rend="; 1tab">Dat vult kist en kasten. -</l>
+<l>Zit de traagheid bij 't gezin,</l>
+<l>Spoedig sluipt ook de armoede in.</l>
+<l>&nbsp;</l>
+<l>Waar zou 't heen met stad en Land,</l>
+<l rend="; 2tab">Wierd' de hand</l>
+<l rend="; 1tab">Niet met kracht bewogen?</l>
+<l>'t Ware ellende wijd en zijd;</l>
+<l rend="; 2tab">Burgervlijt</l>
+<l rend="; 1tab">Geeft het Land vermogen.</l>
+<l>Wie zijn taak of arbeid haat,</l>
+<l>Is een kanker in den Staat.</l>
+<pb n="10"/>
+<l>Droomend waakt hij, mat van oog,</l>
+<l rend="; 2tab">Dom en droog,</l>
+<l rend="; 1tab">Stomp van ziel en zinnen,</l>
+<l>Wakker en gespierd zijn zij,</l>
+<l rend="; 2tab">Kloek en blij,</l>
+<l rend="; 1tab">Zij, die d' arbeid minnen.</l>
+<l>Kan er een gezonder zijn?</l>
+<l>Werken is een medicijn.</l>
+<l>&nbsp;</l>
+<l>Wie zijn' tijd met vlijt besteedt,</l>
+<l rend="; 2tab">Heeft van leed,</l>
+<l rend="; 1tab">Noch verveling hinder;</l>
+<l>Altijd bezig met vermaak</l>
+<l rend="; 2tab">Aan zijn taak,</l>
+<l rend="; 1tab">Drukt hem de onspoed minder;</l>
+<l>Vliegend gaan hem de uren rond:</l>
+<l>Werken houdt de ziel gezond.</l>
+<l>&nbsp;</l>
+<l>Klieft een stoomboot ook den stroom</l>
+<l rend="; 2tab">Zonder stoom,</l>
+<l rend="; 1tab">Die het rad doet zwaaijen?</l>
+<l>Geeft een molen lat of deel,</l>
+<l rend="; 2tab">Bloem en meel,</l>
+<l rend="; 1tab">Als geen wieken draaijen? -</l>
+<l>Wie vooruit wil op zijn baan,</l>
+<l>Moet de hand aan 't werken slaan.</l>
+<l>&nbsp;</l>
+<l>Lustig dan de taak volbragt,</l>
+<l rend="; 2tab">Die ons wacht? -</l>
+<l rend="; 1tab">Handen uit de mouwen! -</l>
+<l>Arbeid geeft, bij vlugger bloed,</l>
+<l rend="; 2tab">Geld en goed;</l>
+<l rend="; 1tab">Vlijt kan huizen bouwen;</l>
+<l>Vlijt geeft achting, loon en lust;</l>
+<l>Na het werken smaakt de rust.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0005"/> </interpGrp>
+<pb n="11"/>
+<head rend="h3">Weldadigheid.</head>
+<lg type="poem">
+<l rend="; 1tab">Geven is zoo goed als zoet,</l>
+<l>Mits men toezie, wie ontvangen.</l>
+<l rend="; 1tab">Waar gebrek en tegenspoed</l>
+<l>Zonder schuld den braven prangen,</l>
+<l rend="; 1tab">Tot hij blozend vragen moet,</l>
+<l>Om een bete broods te erlangen,</l>
+<l rend="; 1tab">Daar te geven, dat is goed.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als de zee de dijken scheurt,</l>
+<l>Of in 't oord de vlammen weijen,</l>
+<l rend="; 1tab">En de landman hooploos treurt,</l>
+<l>Die van have en hof moet scheijen,</l>
+<l rend="; 1tab">En zijn kinders, aan zijn' voet,</l>
+<l>Bleek van kou en honger schreijen,</l>
+<l rend="; 1tab">Dan te geven, dat is goed.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Doch wanneer een wijs Bewind,</l>
+<l>En een aantal menschenvrinden</l>
+<l rend="; 1tab">D' armen, die den arbeid mint,</l>
+<l>'t Zuur, maar eerlijk brood doen vinden.</l>
+<l rend="; 1tab">Dan, door giften, 't lui gemoed</l>
+<l>Aan de beedlarij te binden,</l>
+<l rend="; 1tab">Dan te geven, is niet goed.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">o Het weldoen eischt verstand.</l>
+<l>Wie de menschheid wil verpligten,</l>
+<l rend="; 1tab">Schrage, in 't weldoend <hi rend="i">Nederland</hi>,</l>
+<l><hi rend="i">Fredriks Oord</hi> en die gestichten,</l>
+<l rend="; 1tab">Waar men weeuw en weezen voedt,</l>
+<l>En der schaamlen leed doet zwichten;</l>
+<l rend="; 1tab">Hun te geven, dat is goed.</l>
+<pb n="12"/>
+<l rend="; 1tab">Zalig wie, met wijs beleid,</l>
+<l>Door menschlievendheid gedreven,</l>
+<l rend="; 1tab">D' armen dek en disch bereidt,</l>
+<l>En de kranken roept in 't leven!</l>
+<l rend="; 1tab">Hij verheug' zich in 't gemoed!</l>
+<l>Zij, die zonder oordeel geven,</l>
+<l rend="; 1tab">Geven wel, maar doen geen goed.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0006"/> </interpGrp>
+<head rend="h3">De vergenoegde huismoeder.</head>
+<lg type="poem">
+<l>Die zich naar zijn' staat kan voegen,</l>
+<l rend="; 1tab">Ziet zich waar geluk bereid;</l>
+<l>Zielerust en vergenoegen</l>
+<l rend="; 1tab">Schenken hem die zaligheid.</l>
+<l>&nbsp;</l>
+<l>Stil en rustig vloeit mijn leven,</l>
+<l rend="; 1tab">Als een effen beekje, heen;</l>
+<l>'k Smaak, wat God mij heeft gegeven,</l>
+<l rend="; 1tab">Met mijn' stand en lot tevreên.</l>
+<l>&nbsp;</l>
+<l>'k Heb een' man, die weltevreden</l>
+<l rend="; 1tab">Zwoegt en zweet om daaglijksch brood,</l>
+<l>Kloek van inborst, rein van zeden,</l>
+<l rend="; 1tab">Die zijn hand me uit liefde bood.</l>
+<l>&nbsp;</l>
+<l>'k Zag zoo vele steedsche Jonkers</l>
+<l rend="; 1tab">Vroeger fladdren om mij heen;</l>
+<l>'k Nam mijn' man, en vlood die pronkers,</l>
+<l rend="; 1tab">Fraai van tooi, maar los van zeên.</l>
+<l>&nbsp;</l>
+<l>'k Heb noch goud, noch kostbre steenen,</l>
+<l rend="; 1tab">Zoo als vaak de rijkdom biedt;</l>
+<l>Maar ik heb twee lieve kleenen;</l>
+<l rend="; 1tab">Menig rijke heeft die niet.</l>
+<pb n="13"/>
+<l>Wat zou niet mijn buurvrouw geven,</l>
+<l rend="; 1tab">Zoo zij zoon of dochter had!</l>
+<l>Kindren, bloemen van ons leven,</l>
+<l rend="; 1tab">Koopt men niet voor rang of schat.</l>
+<l>&nbsp;</l>
+<l>Spaart de goede God mijn krachten,</l>
+<l rend="; 1tab">Blijven man en kroost mij bij,</l>
+<l>'k Zal dan nooit naar meerder trachten,</l>
+<l rend="; 1tab">Altijd zingen luide en blij:</l>
+<l>&nbsp;</l>
+<l>‘Die zich naar zijn' staat kan voegen,</l>
+<l rend="; 1tab">Ziet zich waar geluk bereid;</l>
+<l>Zielerust en vergenoegen</l>
+<l rend="; 1tab">Schenken hem die zaligheid.’</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">A.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0007"/> </interpGrp>
+<head rend="h3">De spaarzame ambachtsman.</head>
+<lg type="poem">
+<l rend="; 1tab">Mijn besje zeî altijd:</l>
+<l rend="; 1tab">Paar zuinigheid aan vlijt.</l>
+<l>Wat gij dan moogt beginnen,</l>
+<l>Gij zult bestendig winnen,</l>
+<l rend="; 1tab">En hebt iets voor den nood.</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat hand of mond verkwist,</l>
+<l rend="; 1tab">Wordt vaak te laat gemist,</l>
+<l>Als ziekte en leed ons kwellen.</l>
+<l>Gebrek moet dubbel knellen,</l>
+<l rend="; 1tab">Schreit gade of kroost om brood.</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<pb n="14"/>
+<l rend="; 1tab">Ik toog, nog jong en kleen,</l>
+<l rend="; 1tab">Reeds naar de Spaarbank heen;</l>
+<l>Met centen eerst begonnen,</l>
+<l>Heb ik zoo veel gewonnen,</l>
+<l rend="; 1tab">Dat me anders ligt ontschoot.</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ik houd mij in mijn' stand,</l>
+<l rend="; 1tab">Al is het ook de trant,</l>
+<l>Om zich als rijke Heeren</l>
+<l>Te steken in de kleeren.</l>
+<l rend="; 1tab">Sta ik aan spotlust bloot:</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ik doe mijn werk met vlijt,</l>
+<l rend="; 1tab">En, woekrend met mijn' tijd,</l>
+<l>Zag ik mijn' arbeid kroonen,</l>
+<l>En altijd ruim beloonen,</l>
+<l rend="; 1tab">Daar 'k veler gunst genoot.</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">'k Heb lang mijns Meesters kind</l>
+<l rend="; 1tab">In stilte trouw bemind,</l>
+<l>Maar durfde haar niet vragen.</l>
+<l>Ik zie dien wensch nu slagen.</l>
+<l rend="; 1tab">Baas zeî, toen hij 't besloot:</l>
+<l rend="; 3tab">‘Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mijn besje had gelijk,</l>
+<l rend="; 1tab">Want, ben ik al niet rijk,</l>
+<l>Ik heb, door 's Hemels zegen,</l>
+<l>Een ruim bestaan verkregen,</l>
+<l rend="; 1tab">En eet mijn eigen brood.</l>
+<l rend="; 3tab">Sparen</l>
+<l rend="; 2tab">Doet vergaren,</l>
+<l rend="; 1tab">Maakt kleine beurzen groot.</l>
+<l>&nbsp;</l>
+<l rend="; 4tab">A.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0008"/> </interpGrp>
+<pb n="15"/>
+<head rend="h3">Zuinigheid.</head>
+<lg type="poem">
+<l rend="; 1tab">Winnen is genot en vreugd,</l>
+<l>Maar een deugd is in 't bewaren.</l>
+<l rend="; 1tab">Als de winst het hart verheugt,</l>
+<l>Moet men voor de toekomst sparen.</l>
+<l rend="; 1tab">'t Winnen kan niet duurzaam zijn;</l>
+<l rend="; 1tab">Regen komt na zonneschijn.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Menig, die, in d' overvloed,</l>
+<l>Dwaas het sparen heeft vergeten,</l>
+<l rend="; 1tab">Staat, ontbloot van geld en goed,</l>
+<l>Met den kanker in 't geweten; -</l>
+<l rend="; 1tab">Kwisters dragen, vroeg of laat,</l>
+<l rend="; 1tab">Eigen' last en vreemden smaad.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Lieden van den ouden trant</l>
+<l>Staven 't nog in lot en zeden:</l>
+<l rend="; 1tab">Zuinigheid bouwt huis en land;</l>
+<l>Zij bevestte <hi rend="i">Hollands</hi> steden. -</l>
+<l rend="; 1tab">Ligt waar' <hi rend="i">Holland</hi> niets op aard',</l>
+<l rend="; 1tab">Hadden de oudren niet gespaard.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Daarom zuinig; - kloek beleid</l>
+<l>Houdt de woning vrij van schulden.</l>
+<l rend="; 1tab">'t Einde kroont de spaarzaamheid.</l>
+<l>Uit een vijfje kweekt ze een' gulden;</l>
+<l rend="; 1tab">Ook uit koper lokt haar woord,</l>
+<l rend="; 1tab">Ook uit centen vruchten voort.</l>
+<pb n="16"/>
+<l rend="; 1tab"><hi rend="i">Spil</hi> verteerde, wat hij won;</l>
+<l>Maar het denkbeeld trof zijn zinnen,</l>
+<l rend="; 1tab">Of hij ook niet sparen kon,</l>
+<l>En hij trad de Spaarbank binnen; -</l>
+<l rend="; 1tab">Nu heeft <hi rend="i">Spil</hi>, die niets bezat,</l>
+<l rend="; 1tab">In de Spaarbank reeds een' schat.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Doe dan ieder 't min of meer,</l>
+<l>Dat hem toeviel, vruchten dragen.</l>
+<l rend="; 1tab">Zuinigheid geeft rust en eer;</l>
+<l>Zij verhoedt benaauwde dagen.</l>
+<l rend="; 1tab">Zij betaamt aan elken stand: -</l>
+<l rend="; 1tab">Zuinigheid bouwt huis en land.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0009"/> </interpGrp>
+<head rend="h3">De kolonist der maatschappij van weldadigheid.</head>
+<lg type="poem">
+<l>Laat onvernoegden smalen</l>
+<l rend="; 1tab">Op onze Maatschappij,</l>
+<l>'k Zal haar mijn' dank betalen;</l>
+<l rend="; 1tab">Ik leef vernoegd en blij.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid!</l>
+<l rend="; 1tab">Uw vruchtbre takken spreidt,</l>
+<l>Daar wijken angst en kommer;</l>
+<l rend="; 1tab">Daar vliên gebrek en nood:</l>
+<l>In uw beschuttend lommer</l>
+<l rend="; 1tab">Vindt nijvere armoê brood.</l>
+<pb n="17"/>
+<l>Zie ik op 't bang verleden</l>
+<l rend="; 1tab">En 't leed, eens doorgestaan,</l>
+<l>Dan lacht voor mij dit heden</l>
+<l rend="; 1tab">Nog telkens schooner aan.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid! enz.</l>
+<l>&nbsp;</l>
+<l>Ter prooi van bittre ellende,</l>
+<l rend="; 1tab">Verwenschte ik toen mijn lot;</l>
+<l>Nu, daar mijn kommer endde,</l>
+<l rend="; 1tab">Dank ik den goeden God.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid! enz.</l>
+<l>&nbsp;</l>
+<l>Bekrompen was mijn woning,</l>
+<l rend="; 1tab">Gebrek mijn huisgenoot; -</l>
+<l>Het werk vindt hier belooning;</l>
+<l rend="; 1tab">'t Geeft dak en kleed en brood.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid! enz.</l>
+<l>&nbsp;</l>
+<l>Toen was ik bang voor werken;</l>
+<l rend="; 1tab">Traag kroop de loome tijd; -</l>
+<l>Thans heeft hij arendsvlerken,</l>
+<l rend="; 1tab">En spoort mij staâg tot vlijt.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid! enz.</l>
+<l>&nbsp;</l>
+<l>Mijn kroost wies op in smarte;</l>
+<l rend="; 1tab">Rampzalig was hun lot;</l>
+<l>Hier vormt men vroeg hun harte</l>
+<l rend="; 1tab">Voor Vaderland en God.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid! enz.</l>
+<pb n="18"/>
+<l>o Moge ik nooit vergeten,</l>
+<l rend="; 1tab">Als eersten, diersten pligt,</l>
+<l>U, <hi rend="i">Neêrland!</hi> dank te weten</l>
+<l rend="; 1tab">Voor 't goede, hier gesticht.</l>
+<l rend="speaker"><hi rend="i">KOOR.</hi></l>
+<l rend="; 1tab">Waar gij, weldadigheid!</l>
+<l rend="; 1tab">Uw vruchtbre takken spreidt,</l>
+<l>Daar wijken angst en kommer;</l>
+<l rend="; 1tab">Daar vliên gebrek en nood:</l>
+<l>In uw beschuttend lommer</l>
+<l rend="; 1tab">Vindt nijvere armoê brood.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">A.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0010"/> </interpGrp>
+<head rend="h3">De klokluider.</head>
+<lg type="poem">
+<l rend="; 1tab">Mijn klok klinkt hol en dof</l>
+<l>Den sterveling in de ooren:</l>
+<l>‘o Kind, uit stof geboren!</l>
+<l rend="; 1tab">Eens keert gij weêr tot stof!’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mijn Meester is de dood;</l>
+<l>Geen Meester was ooit wreeder;</l>
+<l rend="; 1tab">Hij werpt en klein en groot</l>
+<l>In 't gulzig graf ter neder.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hij knakt de teedre spruit</l>
+<l>In de eerste vaag van 't leven,</l>
+<l rend="; 1tab">En doet de schoone bruid</l>
+<l>Voor 't huwlijksouter sneven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Geen moeder blijft gespaard,</l>
+<l>Hoe 't hulploos kroost moog' kermen;</l>
+<l rend="; 1tab">Hij, dwingeland der aard',</l>
+<l>Kent meêlij, noch ontfermen.</l>
+<pb n="19"/>
+<l rend="; 1tab">Hij telt verstand, noch deugd,</l>
+<l>Spaart bedelaar, noch Koning;</l>
+<l rend="; 1tab">En ouderdom en jeugd</l>
+<l>Bevolken zijne woning.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De bloem des velds valt af;</l>
+<l>De mensch moet eenmaal sterven;</l>
+<l rend="; 1tab">De gravers graven 't graf;</l>
+<l>Mijn klok klinkt voor zijne erven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Zijne erven, die, als hij,</l>
+<l>De magt mijns Meesters staven; -</l>
+<l rend="; 1tab">Geheel de maatschappij</l>
+<l>Is voedsel voor de graven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Klink, klok! dan hol en dof</l>
+<l>Den sterveling in de ooren:</l>
+<l>‘o Kind, uit stof geboren!</l>
+<l rend="; 1tab">Eens keert gij weêr tot stof!’</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">A.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="with003bekr01_0011"/> </interpGrp>
+<head rend="h3">Lied voor de lotelingen der nationale militie.</head>
+<lg type="poem">
+<l>Daar roept ons de Koning tot daden en eer,</l>
+<l rend="; 1tab">Ons knapen, in 't bloeijen der dagen.</l>
+<l>Hoe blikkren die klingen, hoe blinkt dat geweer! -</l>
+<l rend="; 1tab">Wij zullen naast helden ze dragen.</l>
+<l>Dáárhenen! dáár roept ons het heil van den Staat.</l>
+<l>Wie 't Vaderland mint, is geboren soldaat!</l>
+<pb n="20"/>
+<l>Zie opwaarts, o makker! hoe wappert die vaan,</l>
+<l rend="; 1tab">Den vijand ten schrik, op de velden!</l>
+<l>Zij wenkt ons van verre; ras zien wij haar aan,</l>
+<l rend="; 1tab">Geschaard in de rijen der helden.</l>
+<l>Daar wacht ons de glorie; daarheen, kameraad! -</l>
+<l>Wie 't Vaderland mint, is geboren soldaat!</l>
+<l>&nbsp;</l>
+<l>Hoe zouden de vreemden, met schimpende vreugd,</l>
+<l rend="; 1tab">Aan <hi rend="i">Neêrland</hi> de Vrijheid ontrukken,</l>
+<l>Bezat het geen zonen, in krachtige jeugd,</l>
+<l rend="; 1tab">Die liever bezwijken, dan bukken!</l>
+<l>Wij leven en gruwen van keten en smaad.</l>
+<l>Wie 't Vaderland mint, is geboren soldaat!</l>
+<l>&nbsp;</l>
+<l>Gelukkig de brave, die schittert in moed,</l>
+<l rend="; 1tab">Gelukkig de schoot, die hem baarde!</l>
+<l>Hoe worden zijne ouders met eerbied gegroet!</l>
+<l rend="; 1tab">Hoe blinkt hem de boezem van waarde! -</l>
+<l>Ligt dragen ook wij eens de star op 't gewaad.</l>
+<l>Wie 't Vaderland mint, is geboren soldaat!</l>
+<l>&nbsp;</l>
+<l>Wij minnen ons Land, en, dat zweren wij fier,</l>
+<l rend="; 1tab">Ons bloed zal, in nood, er voor stroomen.</l>
+<l>Daar wappert en wenkt zij, die leeuwenbanier,</l>
+<l rend="; 1tab">Daar roepen de trommels.... Wij komen;</l>
+<l>Wij komen! hoe klopt ons het hart op die maat.</l>
+<l>Wie 't Vaderland mint, is geboren soldaat!</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">W.</l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>

@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Beon, koning van Egipte</title>
+               <author>Frans van Steenwijk</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Beon, koning van Egipte</hi> van Frans van Steenwijk uit 1768.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. *2v: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>64</extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>*1v</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">stee033beon01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 4 B 14: 2</idno>
+               </bibl>
+               <p>Frans van Steenwijk, <hi rend="i">Beon, koning van Egipte</hi>. Pieter Meijer, Amsterdam 1768</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Beon, koning van Egipte</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Beon, koning van Egipte</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-16</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="egypt01"/>
+</interpGrp>
+<body>
+<cf><div type="chapter">
+
+<pb n="*1r"/>
+<p>BEON,</p>
+<p>KONING VAN EGIPTE;</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p>DOOR</p>
+<p>F.V. STEENWYK.</p>
+<p><figure>
+<p><xptr to="stee033beon01ill0001.gif"/></p>
+</figure></p>
+<p><hi rend="i">Te AMSTELDAM</hi>,</p>
+<p>By PIETER MEIJER, vooraan op den Vygendam, 1768.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="*2r"/>
+<head rend="h3">Voorbericht.</head>
+<p>Dit treurspel is gedicht in 't jaar 1763. De twee tooneelstukken, Leo en Amosis, sedert uitgekomen, hebben een zekere overeenkomst met het myne, schoon ik geen van beiden heb gekent, eer ze in 't licht zyn verschenen. In Leo bestaat deze overeenkomst in een' enkelen trek; en zy kan daarin niet dan louter toevallig wezen, dewyl de dichteres myn stuk zo min heeft gekent, als ik het hare. In Amosis is deze overeenkomst grooter. De verschyning van dat treurspel is de reden dat deze Beon, dien ik oordeelde nu of nooit het licht te moeten zien, veel eer te voorschyn komt dan myn oogmerk is geweest. Eeninigen myner kunstvrinden weten zyn vroege geboorte; en dat hy na dien tyd de trekken niet heeft ontfangen, waarin Leo en Amosis naar hem zweemen.</p>
+</div>
+<div type="chapter">
+<pb n="*2v"/>
+<head rend="h3"><hi rend="i">Personaadjen.</hi></head>
+<list>
+<item><hi rend="sc">Bi</hi>ó<hi rend="sc">fis</hi>, <hi rend="i">oom van</hi> Béon.</item>
+<item><hi rend="sc">Amessis</hi>, <hi rend="i">dochter van</hi> Biofis, <hi rend="i">en echtgenoote van</hi> Beon.</item>
+<item><hi rend="sc">Beon</hi>, <hi rend="i">opgevoed, onder den naam van</hi> Ámmozis, <hi rend="i">als zoon van den veldheer</hi> Orus.</item>
+<item><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>, <hi rend="i">gunsteling van</hi> Biofis.</item>
+<item><hi rend="sc">Kanope</hi>, <hi rend="i">staatdochter van</hi> Amessis.</item>
+<item><hi rend="sc">Ammon</hi>, } <hi rend="i">oversten der lyfwachten... } van</hi> Biofis.</item>
+<item><hi rend="sc">Menes</hi>, } <hi rend="i">oversten der lyfwachten... } van</hi> Biofis.</item>
+<item><hi rend="sc">Lyfwachten</hi>... } <hi rend="i">van</hi> Biofis.</item>
+</list>
+<p>&nbsp;</p>
+<p><hi rend="i">Het</hi> tooneel <hi rend="i">verbeeld in de drie eerste bedryven de</hi> groote zaal, <hi rend="i">en in de twee laatste de</hi> troonzaal, <hi rend="i">in het koninklyk paleis te</hi> Memfis.</p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Beon,
+
+koning van Egipte;<lb/><hi rend="i">Treurspel.</hi></head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Amessis, Kanope</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Kanope, zou myn ziel zich zo ontydig kwellen?</l>
+<l>Een weinig roekloos volk zo spoedig my ontstellen?</l>
+<l>De moed my zo vergaan? Dit oproer zal gewis</l>
+<l>Zo snel verdwynen als het opgekomen is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Prinses, heeft dan de vorst uw vader niets te vreezen?</l>
+<l>Dat weinig roekloos volk kan hem gevaarlyk wezen:</l>
+<l>De scherpste logentaal belaagt hem in zyn eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Kent hem Egipte niet als wettig' opperheer?</l>
+<l>Bezit hy 't hoog gezag door schandelyke listen?</l>
+<l>Wat logen kan met vrucht zyn erfdeel hem betwisten?</l>
+<l>Is hy Biofis niet, die lang met waren lof</l>
+<l>Den rykstroon heeft bekleed in Memfis heilryk hof?</l>
+<l>Zal deze hoofdstad met haar krygsvolk hem begeven?</l>
+<l>Hoe kan Amessis hart voor zulk een' vader beven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Maar 't groeijend muitgespan vertoont zich in 't gezicht</l>
+<pb n="2"/>
+<l>Der koninklyke vest; en hy word valsch beticht:</l>
+<l>Men zegt, dat hy welëer een' zyner gunstgenooten</l>
+<l>Beval zyn' broeders zoon een' dolk in 't hart te stooten,</l>
+<l>Na bloedige ontrouw wierd van voogd tot vorst verklaard,</l>
+<l>En dat men heimelyk den erfprins heeft gespaart.</l>
+<l>Zo poogt, in schyn van recht, het hoofd der muitelingen,</l>
+<l>Op Beons naam, den vorst gebied en eer t'ontwringen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Die erfprins overleed kort na zyn' vaders dood;</l>
+<l>En 't geeft de boosheid voet: maar d'onschuld lyd geen' nood:</l>
+<l>Een vlek, gelyk men stout myn' vader aan durft wryven,</l>
+<l>Blyft nooit zo lang bedekt, of zal het altoos blyven.</l>
+<l>Wat vreest ge, daar al 't hof d'onwaarheid duidlyk ziet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Men doemt die logen; maar wie ze uitvond weet men niet.</l>
+<l>Ik vrees een' onbekend' en magtig' ryksverrader.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ik hoop op myn' gemaal, en zyn' beroemden vader;</l>
+<l>Op 't vuur der jeugd, en op de gryze ervarenheid.</l>
+<l>Zaagt gy die helden tot een' uitval niet bereid?</l>
+<l>En wil de koning zelf niet meê ten stryde trekken?</l>
+<l>Hun oog, de ziel van 't heir, zal moed en schrik verwekken:</l>
+<l>Ons krygsvolk is het eêlste uit gantsch Egipteland,</l>
+<l>En d'ongetrouwe schaar' niet tegen ons bestand.</l>
+<l>Op dezen dag zyn ons die muiters opgekomen;</l>
+<l>Op dezen zelfden dag zal hen de wraak betoomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>'t Verraad heeft lang gesmeult; ik twyfel daar niet aan:</l>
+<l>De koning heeft gewis den ryksnood lang verstaan:</l>
+<l>Hy zocht, maar zonder vrucht, zyn binnenste gepeinzen,</l>
+<l>Zyn smartelyke zorg voor 't hofgezin t'ontveinzen,</l>
+<l>Van toen af dat de Nyl, door 't óvervloeijend nat,</l>
+<l>Dit jaar het akkerland noch niet bevochtigt had,</l>
+<l>Tot nu toe dat de vloed in d'oevers is geweken,</l>
+<l>En 't muitgespan te veld' de hoofden op kan steken.</l>
+<l>Biofis kwynt; en gy, zyn kroost, zyn zielvriendin,</l>
+<pb n="3"/>
+<l>Weet gy zyn kwelling niet? Hy houd zyn zuchten in,</l>
+<l>Wil door een bly gelaat zyn droef geheim verbergen,</l>
+<l>Verzwaart zyn prangend leed door zich zo veel te vergen,</l>
+<l>Zoekt staag naar d'eenzaamheid, en sluit zich reis op reis</l>
+<l>In hoop van aêmtogt op in 't stilste van 't paleis.</l>
+<l>Zo hy geen reden had, hy zou zo naar niet kwynen:</l>
+<l>Geen lichte ramp ontrust een' moed gelyk den zynen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>De zorgen, naauw vereend aan 't koninklyk gebied,</l>
+<l>Waardoor een bloeijend ryk de gunst der goôn geniet,</l>
+<l>En d'opperheeren zelf een waar genoegen smaken,</l>
+<l>Ziet gy voor angsten aan, die hem rampzalig maken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Zyn ongeluk, prinses, sproot uit Soïfis raad:</l>
+<l>Die gunsteling belaagt de grootsten uit den staat.</l>
+<l>De vorst (vergeef het my,) kan door misleiding dolen.</l>
+<l>Der grooten ongelyk is Memfis niet verholen;</l>
+<l>Hun haat kan veel bestaan; hun magt is niet gering;</l>
+<l>En, schoon hy wettig heerscht, hy is een vreemdeling.</l>
+<l>Ook heugt het Memfis noch hoe door zyn landgenooten,</l>
+<l>Met wie hy herwaarts toog, uit wie ik ben gesproten,</l>
+<l>Wier wreedheid ik verfoei, het ryk wierd overheerd,</l>
+<l>En in een nare zee van bloed en vlam verteerd.</l>
+<l>Wat overrompling was ooit wreeder? ooit verwoeder?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Maar Memfis heugt niet min hoe door Biofis broeder,</l>
+<l>Schoon óók een' Arabier, terstond dat woest geweld</l>
+<l>Gestuit wierd, en het ryk in ouden glans hersteld.</l>
+<l>Myn vader, na dien vorst in 't hoog bewint getreden,</l>
+<l>Hoed, op zyn' broeders spoor, 's lands wetten, kunsten, zeden;</l>
+<l>Duld geen uitheemsche zaak, die 't volk in d'oogen steekt;</l>
+<l>Gebruikt geen andre taal, dan die Egipte spreekt;</l>
+<l>Verwisselde van naam, met al de vreemde scharen;</l>
+<l>Vergunt aan elke stad haar goôn, haar kerkgebaren;</l>
+<l>En geeft, naar d'oude wyz', aan Memfis goôn hun eer:</l>
+<l>Hy is geen vreemdeling; hy was 't voorlang niet meer.</l>
+<pb n="4"/>
+<l>Word hy in 't eind' misleid, en heeft men stof tot muiten,</l>
+<l>De vader van myn' held zal hem 't gezicht ontsluiten.</l>
+<l>Wy zien het dreigend vuur van oproer haast gebluscht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Verneem wat vreemd bevel met reden my ontrust:</l>
+<l>Ik moet, in plaats van u met ydle hoop te vleijen,</l>
+<l>Op last van uw' gemaal tot ramp u voorbereiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Op last van myn' gemaal!.. Zo vreest myn Ammozis!..</l>
+<l>Kanope, is 't u bekend wat ramp te duchten is?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Hy wil u hier, prinses, dat groot geheim ontdekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Moet my d'onzekerheid te feller angst verwekken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Zyn bede is dat ge uw' angst den vorst verholen houd.</l>
+<l>Hy heeft niets verder uw Kanope toebetrouwt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! vreest myn Ammozis, dan heeft hy veel te vreezen.</l>
+<l>ô Droevig morgenüur!.. Zal hy terstond hier wezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Als hy ten stryde gaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 1tab">ô Spoedig ongeluk!</l>
+<l>Op gistren was zyn hart noch vry van allen druk,</l>
+<l>En dat geheim voor hem, gelyk voor my, verborgen.</l>
+<l>Gy weet hoe die gemaal, in weêrwil van de zorgen,</l>
+<l>Verknocht aan 't staatsbewint, waarin hy lofflyk deelt,</l>
+<l>Door zyn gewone vreugd myn liefde heeft gestreelt.</l>
+<l>Die zoete vrucht der deugd in zyn verheven zinnen,</l>
+<l>Die my door 't echtgeluk zo véél geluk deed winnen,</l>
+<l>Die vreugd is dan zo haast in bitterheid verkeerd!</l>
+<l>De koning treurt, en zwygt zyn dochter wat hem deert!</l>
+<l>Myn vader en gemaal zyn niet, dan door bewustheid</l>
+<l>Van 't grootste staatsgevaar, in heimlyke ongerustheid.</l>
+<l>Nooit treffe hen of 't ryk des hemels ongenaê!</l>
+<pb n="5"/>
+<l rend="; 1tab">Waar blyft myn echtgenoot? Ga, myn Kanope, ga,</l>
+<l>Om hem het ongeduld, dat my ontrust, te melden.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Verheven Ammozis, beminlykste aller helden,</l>
+<l>Die d'onderdrukte deugd zo dikwerf hebt verblyd,</l>
+<l>Haar heil in top gevoert, en zelf rampspoedig zyt!</l>
+<l>Ontlast uw bange ziel, door my uw leed te klagen:</l>
+<l>Ik wil, ô myn gemaal! de smart u helpen dragen.</l>
+<l>Hoe groot het onheil zy, dat gy te lang my heelt,</l>
+<l>Het kan niet grooter zyn, dan my de vrees verbeeld.</l>
+<l>Ik zal de tegenheên met moed te boven streven,</l>
+<l>Indien myn echtgenoot en vader veilig leven;</l>
+<l>Zo lang hy min u acht als schoonzoon, dan als vrind;</l>
+<l>En onze liefde u noch met my aan hem verbind.</l>
+<l rend="; 1tab">Myn echtvrind komt noch niet! Hoe! mag ik nóch niet weten</l>
+<l>Wat snoode lagen zich de boosheid durft vermeten?..</l>
+<l>Maar ach! hy nadert met de droefheid in 't gelaat.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Amessis; Beon</hi>, <hi rend="i">onder den naam van Ammozis.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Wat ramp treft myn' gemaal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Een heimlyk staatsverraad.</l>
+<l>Egipte zal zichzelf nu meer dan ooit bevechten:</l>
+<l>Men opent reeds de poort voor Memfis oorlogsknechten:</l>
+<l>De hoofden volgen fluks; ik ga met hen te veld'.</l>
+<l>Verneem, vóór myn vertrek, den angst, die my beknelt;</l>
+<l>'t Geheim, dat ik u wenschte, ô lieve gaê! te helen;</l>
+<l>Den ramp, waarin uw ziel, uw tedre ziel moet deelen:</l>
+<l>Verneem, na veel geluk, een' zwaren tegenspoed:</l>
+<pb n="6"/>
+<l>Maar wapen u vooraf met uw' gewonen moed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Gy tergt myn ongeduld. Wat leed is ons beschoren?..</l>
+<l>Maar hoe! gy zwygt, en zucht! Gaat dan al 't ryk verloren?</l>
+<l>Helaas! zo deze stad haar' vorst en u verried,</l>
+<l>Twee panden, my zo waard,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 2tab">Gy kent uw onheil niet.</l>
+<l>Kan ik staatzuchtig ooit met snooden samenzweeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Durft iemant in Egipte uw hooge deugd ontëeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Gy, myn Amessis, gy, die my zo teêr bemint,</l>
+<l>Denk, denk dat zich myn hart een misdryf onderwind;</l>
+<l>Of doem een' ander, die... Hoe vrees ik hem te noemen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">driftig.</hi></speaker>
+<l>Wie is 't? verklaar u.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">ontsteld.</hi></speaker>
+<l rend="; 1tab">Ach! uw vader.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">schrikkende.</hi></speaker>
+<l rend="; 3tab">Ik hem doemen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Beminlyke echtgenoot, hoe treft me uw ongeluk!</l>
+<l>Maar wyt of hem of my het snoodste gruwelstuk.</l>
+<l>Ik moet, al vreesde ik u van dat geheim te reppen,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Hou op... Vergun me tyd, om ademtogt te scheppen...</l>
+<l>Heb ik u wél verstaan? voert gy, voert myn gemaal,</l>
+<l>Myn dierbare Ammozis deze yselyke taal?</l>
+<l>Wat doodlyk onheil trof ooit gade en dochter wreeder?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Minde ik Amessis, en Amessis my niet teder,</l>
+<l>Ik had voorzeker deze ontdekking niet gedaan.</l>
+<l>Maar Memfis zal 't geheim op dezen dag verstaan;</l>
+<l>En 't loos bedrog, geperst om my myn eer t'ontrooven,</l>
+<l>Zou mooglyk u in 't eerst d'onwaarheid doen gelooven.</l>
+<pb n="7"/>
+<l>Myn liefde duld niet, dat uw hart, een oogenblik</l>
+<l>In twyfel, tusschen my en uwen vader wikk';</l>
+<l>En uw oprechte min, my dag aan dag gebleken,</l>
+<l>Is oorzaak dat ik u van 't hoog verraad durf spreken.</l>
+<l>Biofis schond, helaas! zyn dierverpligte trouw.</l>
+<l>Gelooft ge, dat ik ooit hem valsch betichten zou?</l>
+<l>Wie geeft tot argwaan, hy, of ik, de meeste reden?</l>
+<l>Acht hy zyn' vleijer niet, die gruwelen kan smeden?</l>
+<l>Hield hy geen diep geheim voorlang met angst bedekt?</l>
+<l>De veldheer, om wiens deugd het my tot eer verstrekt</l>
+<l>Dat ik hem vader noem, de vyand aller boosheid</l>
+<l>Ontdekte my dit uur by 't outer die trouwloosheid.</l>
+<l>Als veldheer Orus spreekt, geeft hy de waarheid klem.</l>
+<l>D'aartspriester, dien gy roemt, getuigde neffens hem.</l>
+<l>Dat achtbaar opperhoofd van Memfis offeraren</l>
+<l>Wil, als het tyd zal zyn, zich door bewys verklaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Biofis schoonzoon! wien beticht ge met verraad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ik ly genoeg; verzwaar myn' ramp niet door uw' haat.</l>
+<l>Kan myn Amessis my haar liefde onwaardig keuren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! is 't myzelf bekend wat driften my verscheuren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Verdenk den veldheer niet; geloof het tempelhoofd.</l>
+<l>Biofis heeft alree' van achting zich berooft:</l>
+<l>Eén wreede word beticht door twee oprechte mannen.</l>
+<l>Zyn zy voordezen met misnoegden saamgespannen,</l>
+<l>Wanneer uw vader steeg op vorst Salatis troon?</l>
+<l>Waartoe hem toen beschut? toen stond de kans hen schoon.</l>
+<l>Hun deugd is u bekend; kunt gy hun woord mistrouwen?</l>
+<l>Of zoud ge uw' echtgenoot voor landverrader houên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Helaas! wat vraagt ge my? Gy kent dit teder hart;</l>
+<l>Gy grieft het; en 't bezwykt.</l>
+</sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 3tab">Bedenk wat bittre smart,</l>
+<l>ô Lieve wederhelft! het myne moet verdragen,</l>
+<l>Door zelfs Biofis by Amessis aan te klagen.</l>
+<l rend="; 1tab">'t Gerucht is waar; hy zocht welëer zyn' broeders zoon,</l>
+<l>Dien Beon, dien men eerde als erfgenaam der kroon,</l>
+<l>Toen noch een' zuigeling, moorddadig óm te brengen.</l>
+<l>De veldheer wierd gelast het vorstlyk bloed te plengen,</l>
+<l>Maar heeft het trouw beschut voor die onmenschlykheid,</l>
+<l>En met zyn lyfsgevaar uw' vader stout misleid.</l>
+<l>Men waande u aan den zoon eens moordenaars te huwen;</l>
+<l>Gy wierd het loon...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Hoe doet ge uw echtgenoote gruwen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Zo wreed vergiftigde Biofis ons geluk;</l>
+<l>Zo baart ons huwlyk ons een' eindeloozen druk.</l>
+<l>Ik zou noch ongestoord met u ons echtheil smaken,</l>
+<l>De kennis van myn' ramp my niet elendig maken,</l>
+<l>En 't ryk door tweedragt geen gevaren ondergaan,</l>
+<l>Besloot die wreedaart niet op nieuw tot euveldaên.</l>
+<l>D'Arabische Assan, nu Soïfis, die de zinnen</l>
+<l>Uws vaders wist voorlang door vleijery te winnen,</l>
+<l>En binnen Memfis hem door kleene inschikklykheên</l>
+<l>In achting heeft gebragt by 't lichtverblind gemeen,</l>
+<l>Bedoelt den val der grootste en trouwste Egiptenaren,</l>
+<l>Durft hen in schyn van recht met misdaên valsch bezwaren,</l>
+<l>En hitst zyn' meester aan, die, zonder 't minste blyk</l>
+<l>Van ontrouw, hen vervolgt, tot ondergang van 't ryk.</l>
+<l>Deze opstand is het werk van veel gevluchte grooten,</l>
+<l>En 't heil des vaderlands het doel der eedgenooten.</l>
+<l>De veldheer Orus bleef van 's vleijers list noch vry;</l>
+<l>Maar d'ontrouw, die hem vreest, belaagt ook hem en my.</l>
+<l>Zo moest die held, in hoop van 't ryksbederf te stuiten,</l>
+<l>Terstond tot bystand dier onnoozelen besluiten.</l>
+<l>Het eedgespan wist naauw' hoe wreed uw vader heeft</l>
+<pb n="9"/>
+<l>Salatis zoon verraên, en dat die prins noch leeft,</l>
+<l>Of 't won veel vrinden aan, en dorst den opstand wagen,</l>
+<l>Dien lang Biofis vreesde, in 't wroegend hart geslagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Durf ik 't gelooven, die Biofis dochter ben?</l>
+<l>Kan ik 't in twyfel slaan, die zyn betichters ken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Held Orus, die de deugd my aanprees door betrachting;</l>
+<l>Die wyze Egiptenaar, om zyn verdienste in achting;</l>
+<l>Van wien myn egaê geen bedrog vermoeden kan;</l>
+<l>Is hoeder van den staat, schoon hoofd van 't eedgespan.</l>
+<l>Hy wacht naar my alleen, om uit de vest te trekken.</l>
+<l rend="; 1tab">'k Heb alles u ontdekt wat ik u moest ontdekken:</l>
+<l>Gy kunt, na zo veel licht, het ovrige vermoên.</l>
+<l>'k Verraad Egipte niet; gy zult het my niet doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Gy wilt met Orus..!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 3tab">'k Weet wat angst in u moet werken.</l>
+<l>Uw ramp is groot; uw deugd, noch grooter, zal u sterken:</l>
+<l>Ik wacht den hoogsten moed van uw verheven hart;</l>
+<l>En volg myn' pligt.</l>
+<stage><hi rend="i">Haar omhelzende.</hi></stage>
+<l rend="; 2tab">Vaar wel. 'k Verlaat u,... maar met smart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">hem in haar armen wederhoudende.</hi></speaker>
+<l>Neen, wreede! blyf; en hoor uw echtgenoote kermen:</l>
+<l>Gy zult, zo gy haar mint, u over haar ontfermen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">zich poogende uit haar armen te ontslaan.</hi></speaker>
+<l>Ik min, beklaag u... Maar myn eer roept my te veld'.</l>
+</sp>
+<stage><hi rend="i">Hy ontvlucht haar.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Vertoef... Hy luistert niet!.. Ach! hy is weg gesneld.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4">Vierde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Wat hoorde ik! Leef ik noch? Kan ik myn leed beseffen?</l>
+<l>Wat doodelyke slag kon ooit my feller treffen?</l>
+<l>Waar gaat myn echtgenoot? wie word door hem bestreên?</l>
+<l>Wat zegt my die gemaal? wat al afgryslykheên?</l>
+<l>Egipte zal zichzelf door binnenkryg vernielen;</l>
+<l>Myn vader zocht welëer zyn' koning wreed t'ontzielen;</l>
+<l>De veldheer veinsde hem te dienen in 't verraad;</l>
+<l>Ik ben 't elendig loon der gruwzaamste euveldaad;</l>
+<l>En myn gemaal spant aan met Orus, tot onttroning...</l>
+<l>Hyzelf (ik twyfel niet,) is die verraden koning:</l>
+<l>Door wyze zorgen heeft de veldheer toegelegt</l>
+<l>Om zyn' gewaanden zoon, den ryksprins, door myn' echt</l>
+<l>Ten vaderlyken troon te voeren... Ydle zorgen!</l>
+<l>Dat doodelyk geheim, zo lang getrouw verborgen,</l>
+<l>Daar ik gelukkig was in 't vreeslykst ongeluk,</l>
+<l>Barst eenmaal uit, en stort me in hopeloozen druk.</l>
+<l>Nooit zal ik 't einde zien van myn ondraaglyk lyden:</l>
+<l>'t Is myn gemaal, die fel myn' vader moet bestryden:</l>
+<l>Het geld myn' vader; ach! het geld myn' echtgenoot.</l>
+<l>Mogt hun Amessis hen hereenen door haar dood!</l>
+<l>Biofis, mogt uw kroost uw wreede staatzucht boeten!</l>
+<l rend="; 1tab">Hy zal ten stryde gaan; hy kan my hier ontmoeten;</l>
+<l>Ik ben ontroerd; ik ga... 't Is hem te spaê vermyd;</l>
+<l>Hy komt; zyn vleijer óók!.. Helaas! in welk een' tyd!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Soïfis.</hi></speaker>
+<l>Ik zie myn dochter; ze is ontsteld; ik wil haar spreken.</l>
+<l rend="; 1tab">Amessis, hoe! is u de moed terstond bezweken,</l>
+<pb n="11"/>
+<l>Wanneer een muitend volk my roekloos durft verraên?</l>
+<l>Ik dacht niet, dat u dit met schrik in 't hart zou slaan.</l>
+<l>Gaf ik aan 't bloeijend ryk, door hatelyk regeeren,</l>
+<l>Ooit stof om met den naam van dwingland my t'ontëeren?</l>
+<l>Heb ik, door 't nut gebruik der zorglyke oppermagt,</l>
+<l>Niet altoos 't waar geluk van al myn volk betracht?</l>
+<l>Vleit echter zich een heir verwoede muitelingen</l>
+<l>My nu, als hunn' tiran, het hoog gezag t'ontwringen,</l>
+<l>En dien bedrieger, wien Egipte noch niet kent,</l>
+<l>Te kronen in myn plaats; men zie wiens eer men schend.</l>
+<l>'t Is waar, d'ondankbren zyn ons yllings opgekomen;</l>
+<l>Maar 'k heb hun vloekverbond alree' voorlang vernomen:</l>
+<l>Hun magt, in 't eerst gering, groeit wel by schaar' op schaar'</l>
+<l>Van alle kanten aan; doch zonder groot gevaar:</l>
+<l>'t Geoefend krygsvolk treed die muiters onder d'oogen:</l>
+<l>De veldheer en zyn zoon zyn naar het heir getogen:</l>
+<l>Ikzelf zal volgen; nooit kon 't veiliger geschiên:</l>
+<l>Ik ben van oorlogstuig en wagens wél voorzien;</l>
+<l>Kan op elk krygshoofd, op elk' legerknecht betrouwen;</l>
+<l>En zal, na wisse wraak, welhaast u weêr aanschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Uw vyand blyft bedekt; ik vrees hem in 't gevecht:</l>
+<l>Betrouw, tot gy hem kent, op hoofd noch legerknecht:</l>
+<l>D'één kan uw vyand zyn, en d'ander stil gewonnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ik wil de muiters zien, die 't valsch gerucht verzonnen;</l>
+<l>Ik ga ('t besluit staat vast,) myn eer en wraak voldoen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! dat de goden u, en myn' gemaal behoên!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Wat noopt Amessis toch zo veel gevaar te vreezen?</l>
+<pb n="12"/>
+<l>Hoe! zou myn dochter van 't geheim verwittigd wezen?</l>
+<l>Is 't Orus zoon bekend? en heeft hy 't haar verklaart?..</l>
+<l>Maar Orus heeft welëer den erfprins niet gespaart:</l>
+<l>Men zag den veldheer toen my tot beschermer strekken;</l>
+<l>En zou hy trouwloos nu dat groot geheim ontdekken?</l>
+<l>Denk echter wat gerucht van erfprins Beon loopt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>De veldheer word, ô vorst! door ontrouw niet genoopt:</l>
+<l>Hy meldde u 't snood bestaan van 's ryks gevluchte grooten,</l>
+<l>En gaf u telkens licht omtrent die vloekgenooten.</l>
+<l>Zo waakt zyn trouw voor u; zo waakt ze voor zyn' zoon,</l>
+<l>Uw dochters echtgenoot, en erfgenaam der kroon.</l>
+<l rend="; 1tab">Eer gy Amessis hand hem voor dien zoon beloofde,</l>
+<l>Opdat hy Beon van het levenslicht beroofde,</l>
+<l>Was 't mooglyk dat hy u den troon betwisten zou:</l>
+<l>Maar gy beloofde, ô vorst! en Orus was getrouw.</l>
+<l>Uw beider kroost wies op; gy hebt hen saam' verbonden:</l>
+<l>Hy kent zyn waar belang; zyn trouw blyft ongeschonden.</l>
+<l rend="; 1tab">'t Is waar, uw dochter ducht uw' vyands heimlyk staal:</l>
+<l>Maar ducht een vrouw niet licht voor vader en gemaal?</l>
+<l>Amessis tederheid vreest niets dan schyngevaren.</l>
+<l rend="; 1tab">Ook moet geen blind gerucht u eenige onrust baren:</l>
+<l>Kan 't iemant anders zyn, die dat gerucht verspreid,</l>
+<l>Dan een dier grooten wie de doodstraf was bereid?</l>
+<l>Dan d'oppermuiteling? Wat meld hy? 't Geen voordezen,</l>
+<l>Had gy 't niet stout verricht, door u verricht moest wezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ik zou geruster zyn in d'onrust van den staat,</l>
+<l>Indien myn hart my niet betichtte met verraad:</l>
+<l>Het word door angst op angst gestaag vanëen gereten.</l>
+<l>Wat lyd men jammerlyk door knaging van 't geweten!</l>
+<l>Die angst, die groeijende angst, Soïfis, toont me in 't end'</l>
+<l>Een groote waarheid aan, door u zo lang ontkend:</l>
+<l>Het heilig godendom aanschouwt en straft de boosheid.</l>
+<l>Ik boet in 't wroegend hart myn wreede trouweloosheid.</l>
+</sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>D'ervaarnis, waarde vorst, weêrspreekt die yslykheên,</l>
+<l>Vernuftig uitgedacht, ten teugel van 't gemeen.</l>
+<l>Hoe kan uw groote ziel zich daaraan overgeven?</l>
+<l>Uw kloek beleid heeft u welëer ten troon verheven;</l>
+<l>Gy hebt zo lang de vrucht der veinzery gesmaakt,</l>
+<l>U meester van het hart des dommen volks gemaakt,</l>
+<l>Uw' veldheer en zyn' zoon door hun belang gewonnen,</l>
+<l>En (vry van 's hemels wraak, in 's priesters brein verzonnen,</l>
+<l>Maar door uw hoog vernuft tot noch toe wys veracht;)</l>
+<l>Voor altoos u gevest in d'eer der oppermagt.</l>
+<l>De wroeging moet een hart, als 't uwe, niet ontstellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Kom, ga, ter wisse wraak, naar 't leger my verzellen:</l>
+<l>Myn wroeging, lang weêrstaan, beneemt den moed my niet:</l>
+<l>Zo haar Egipte kent, is 't uit met myn gebied.</l>
+<l>Gy, op wiens raad ik my verstoutte tot regeeren,</l>
+<l>Zie my deze oppermagt met zo veel ernst verweeren,</l>
+<l>En 't ryk zo zeker van het muitgespan ontslaan,</l>
+<l>Dat niemant weêr besluit' my naar de kroon te staan.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="14"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Amessis, Kanope</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Neen, denk niet, dat uw troost myn lyden zal verzagten.</l>
+<l>Wat uitkomst kan ik toch in dezen staat verwachten?</l>
+<l>Besef tot welk een' top Amessis onheil steeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Verzwaar uw kwelling niet, prinses; maar overweeg...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>'t Is d'overweging, die te banger my doet zuchten:</l>
+<l>Hoe meer ik overpeins, hoe meer ik vind te duchten.</l>
+<l>'k Heb u, myn hartvriendin, het groot geheim ontdekt,</l>
+<l>Waarvan de kennis my zo wreed een smart verwekt;</l>
+<l>Gy weet wat yslykheên my tot deze angsten nopen;</l>
+<l>En acht ge my bekwaam om eenig heil te hopen?</l>
+<l>Myn vader gaf welëer bevel tot Beons dood;</l>
+<l>En Beon leeft; hy leeft in mynen echtgenoot:</l>
+<l>Ik heb te veel verstaan, om twyfeling te voeden.</l>
+<l>Wat kan de glori van dien echtgenoot behoeden,</l>
+<l>En zyn onschuldig bloed, zo hy de nêerlaag lyd?</l>
+<l>En is myn vader geen verwinnaar in den stryd,</l>
+<l>Hoe zal hy 't wrekend staal van 't woedend volk ontkomen?</l>
+<l>Heeft Orus tegen hem het zwaard niet opgenomen?</l>
+<l>Zal d'opperpriester zelf, wiens woord zo heilig is,</l>
+<l>De drift niet weêrzyds voên door zyn getuigenis?</l>
+<l>Wat kan vorst Beon met Biofis ooit vereenen?</l>
+<l>Uit myn elendig hart is alle hoop verdwenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Zie Ammon; hoor uit hem wat hy vernomen heeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Wat tyding kan 'er zyn, die hoop op uitkomst geeft?</l>
+</sp>
+<div type="scene">
+<pb n="15"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Amessis, Kanope, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Ik steeg, naar uw bevel, op 't hofdak, in vertrouwen</l>
+<l>Van haast een wisse zege op 't muitgespan t'aanschouwen:</l>
+<l>Maar ach, prinses! men heeft Egipte snood belaagt.</l>
+<l>Vrees echter geen gevaar; de wraak is slechts vertraagd.</l>
+<l rend="; 1tab">Ik zag in 't ruim verschiet, zo verr' myn oog kon staren,</l>
+<l>Den oever van den Nyl bedekt met legerscharen:</l>
+<l>Zo was 't oproerig volk, eerst als gering veracht,</l>
+<l>Nu saamgetrokken tot een talryke oorlogsmagt.</l>
+<l>'t Genaakte, langs den vloed, op Memfis vruchtbre velden,</l>
+<l>Met spoed, in korten tyd ons heir, de bloem der helden,</l>
+<l>Die met geen' mindren spoed den vyand tegentrad.</l>
+<l>Maar toen men naauwelyks den stryd begonnen had,</l>
+<l>Begaf een merklyk deel van onze legergrooten</l>
+<l>Zich op hun wagens aan de zy' der vloekgenooten,</l>
+<l>En lokte velen van ons voetvolk in 't verraad.</l>
+<l>Elk ruiter bleef getrouw: doch 't heir was in dien staat</l>
+<l>Onkundig op wat hoofd, op wien der oorlogsknechten</l>
+<l>Men zich betrouwen kon, en moest al deinzend' vechten.</l>
+<l>Het slaat, by zyn verlies, veel muitelingen neêr;</l>
+<l>En, schoon men vluchtend' sneeft, men sneeft met krygsmans eer.</l>
+<l>De koning trok alree', met eenigen der benden,</l>
+<l>De poort van Memfis in; 't gevecht zal spoedig enden.</l>
+<l>Ik zag hem op den muur zyn wykend heir gebiên:</l>
+<l>Maar door zyn volk geperst zyn lyfsgevaar t'ontvliên,</l>
+<l>Begeeft hy zich naar 't hof. Ik ga, om hem t'ontfangen.</l>
+<l>'k Zag Orus, noch zyn' zoon: maar laat geen vrees u prangen:</l>
+<l>Die helden stryden met Soïfis achteraan;</l>
+<l>En 't wrekend godendom zal d'ontrouw nederslaan.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="16"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Amessis, Kanope</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Zo 't godendom, helaas! het kroonverraad zal straffen,</l>
+<l>Op wien, Kanope, op wien zal 't zich dan wraak verschaffen?</l>
+<l>'t Is dan myn vader zelf, wien 't onheil treffen moet:</l>
+<l>Biofis heeft gedorst naar Beons dierbaar bloed.</l>
+<l>D'een is myn echtgenoot, en d'ander is myn vader.</l>
+<l>Ik ducht voor één' van hen; ik ducht voor hen te gader.</l>
+<l>Hoe droef bevind ik, dat ik gade en dochter ben!</l>
+<l>Kan ik Oziris wel een bede doen voor hen?</l>
+<l>Ach! smeekte ik dat zyn gunst den één' deed triomferen,</l>
+<l>Ik zou 't gewis bederf des anderen begeeren:</l>
+<l>Myn weêrspoed is zo groot, dat ik niet smeeken mag.</l>
+<l>ô Nooitgehoorde ramp! ô vreeselyke dag!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>'t Is zeker, dat de goôn 't vergryp met weêrzin straffen,</l>
+<l>Met lust aan ware deugd een heerlyk loon verschaffen,</l>
+<l>En ooggetuigen zyn van uwe en Beons deugd.</l>
+<l>Zo kan uw druk, hoe fel, haast eindigen in vreugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Neen, alle hoop heeft uit, daar alles is te vreezen:</l>
+<l>De rampspoed, dien ik ducht, kan niet dan yslyk wezen:</l>
+<l>Ik zie myn' vaders hoofd ten doel aan 't wrekend staal,</l>
+<l>En d'ergste staatzucht dingt naar 't bloed van myn' gemaal</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>Zo waant ge, dat de goôn het misdryf nooit vergeven,</l>
+<l>En geen beschermers zyn van hunner vrinden leven?</l>
+<l>Zy hebben duidelyk die waarheid u getoont,</l>
+<l>Het kwaad welëer gestuit, den schuldigen verschoont.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>De hemel duld somwyl het kwaad, om wyze reden;</l>
+<l>Een diep geheim, waarin geen sterveling kan treden:</l>
+<pb n="17"/>
+<l>Maar word, na lang geduld, de schuldige ooit gespaard?</l>
+<l>En ach! de schuldige is een vader, my zo waard.</l>
+<l>Hy zal terstond hier zyn: hoe wenschte ik hem t'ontwyken!</l>
+<l>Ik weet te veel, en 't zal zyn scherpziende oogen blyken:</l>
+<l>Maar hem te myden zou zyn achterdocht...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l rend="; 1tab">Hy komt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Hoe myn gevoelens voor dien schuldigen vermomd?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, Kanope</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Vader! in wat staat moet ik u weêr aanschouwen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Kanope.</hi></speaker>
+<l>Vertrek.</l>
+<stage><hi rend="i">Nadat Kanope vertrokken is.</hi></stage>
+<l rend="; 1tab">Verantwoord u. Mag ik myn kroost betrouwen?</l>
+<l>Heeft geen bedrieger u tot ontrouw noch verleid?</l>
+<l>Of loont myn dochter zelf my met ondankbaarheid?</l>
+<l>In 't heir wierd by myn komst rondöm my heen gemompeld;</l>
+<l>'k Zag my door 't snoodst verraad arglistig overrompeld:</l>
+<l>Myn veldheer, van wiens trouw ik my verzekerd dacht;</l>
+<l>Myn schoonzoon, d'erfgenaam der koninklyke magt,</l>
+<l>Uw echtgenoot, die my noch minder moest verraden;</l>
+<l>Die opperhoofden, door myn gunsten overladen,</l>
+<l>Onttrokken my veel volks in 't zorglykst oogenblik;</l>
+<l>En gy, myn' vyands gaê, zaagt myn vertrek met schrik.</l>
+<l>Had gy van 't staatsverraad reeds eenig licht verkregen?</l>
+<l>En heeft uw laffe min dien gruwel my verzwegen?</l>
+<l>Dan baarde uw zwygen my de wisse nederlaag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">ontsteld.</hi></speaker>
+<l>Gy grieft myn droeve ziel door zulk een harde vraag...</l>
+<l>Zou ik geen laf verraad aan u te kennen geven?..</l>
+<pb n="18"/>
+<l>Ik vreesde voor uw eer; ik vreesde voor uw leven...</l>
+<l>D'ontrouwe, die zyn' pligt omtrent zyn' koning schond,</l>
+<l>Verborg voor my... De schrik sluit telkens my den mond.</l>
+<l>Mogt uw Amessis u van 't groot gevaar bevryden,</l>
+<l>Zy zou de wreedste dood voor u gewillig lyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Het zou my smarten, zo myn dochter my verried.</l>
+<l>Maar is uw echtgenoot myn kroonverrader niet?</l>
+<l>Poogt die onwaardigste van al myn gunstelingen</l>
+<l>Egiptes ryksstaf niet door oproer my t'ontwringen?</l>
+<l>Toont zyn verraad niet klaar wat oogmerk hy bedoelt?</l>
+<l>Ik weet wat sterke drift gy voor elkaêr gevoelt;</l>
+<l>Hy kon, in schyn van vorst, zyn' toeleg u ontleden;</l>
+<l>Gy waart, zyt nóch ontsteld; en geeft myn' argwaan reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Die argwaan voegt u niet (vergeef my deze taal):</l>
+<l>Ik ben te wél bekend by u, by myn' gemaal,</l>
+<l>Dan dat gy billyk my van ontrouw kunt verdenken,</l>
+<l>En hy zich vleijen kan dat ik myn' pligt zou krenken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Bewyst ge uw onschuld dus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Wat blyken heb ik meer?</l>
+<l>Door zulk een achterdocht verkleent ge uw eigen eer.</l>
+<l>Begeert ge, dat men u onschuldig zal verklaren,</l>
+<l>Dan moet ge uw dochter met geen achterdocht bezwaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Durft gy zo stout..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 1tab">Ach, vorst! ik spreek uit hoogen nood.</l>
+<l>Verbeeld ge u, dat ik wist wat myn gemaal besloot?</l>
+<l>Dat hy zyn' aanslag op de kroon my mededeelde,</l>
+<l>En ik, hem noch getrouw, zyn wreed besluit u heelde?</l>
+<l>Maar denkt ge dan metëen niet tot uw' eigen hoon,</l>
+<l>Dat ik u schuldig acht, en hem Salatis zoon?</l>
+</sp>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Vermeetle! deze taal, verr' van u vry te spreken,</l>
+<l>Verschaft my reden om 't vermoeden aan te kweeken.</l>
+<l>Spreek; acht ge my bekwaam tot eenig gruwelstuk?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Verneem, ô vorst! verneem een onverwacht geluk:</l>
+<l>Der muitelingen hoop is yllings hen onttogen;</l>
+<l>Een hoofd van 't vloekgespan is reeds in uw vermogen,</l>
+<l>De grootste vyand van uw' snoodbelaagden troon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Wie is die vyand? wie? De veldheer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l rend="; 3tab">Neen, zyn zoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">ter zyde.</hi></speaker>
+<l>ô Ramp!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Wat vreemde keer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>, <hi rend="i">tegen Biofis.</hi></speaker>
+<l rend="; 2tab">Gy zyt met recht verwonderd.</l>
+<l>Hy, van de menigte in 't vervolgen afgezonderd</l>
+<l>Met weinig krygsvolk, viel ons leger in de zy'.</l>
+<l>Ik zag hem nadren, en schoot toe. 't Gelukte my,</l>
+<l>Eer hy versterking kreeg, hem onverhoeds t'omringen:</l>
+<l>Hy wierd gegrepen, met een deel der muitelingen.</l>
+<l>Hy gaf, wanneer zyn zwaard door 't onze wierd gestuit,</l>
+<l>Zich voor Salatis zoon en wettig' koning uit:</l>
+<l>Hy, wiens ontwapende arm uw heir niet kon bestryên,</l>
+<l>Bevocht uw glori door de stoutste veinzeryen.</l>
+<l>Maar ik, die reeds vooraf zyn oogmerk had voorzien,</l>
+<l>En spoedig werkte op 't hart der weiflende oorlogsliên,</l>
+<l>Belette hem terstond zich voor gevaar te dekken,</l>
+<pb n="20"/>
+<l>En door bedrog uw volk in zyn belang te trekken.</l>
+<l>Men voert hem naar 't paleis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">tegen Biofis.</hi></speaker>
+<l rend="; 2tab">Uw krygsgeluk is groot:</l>
+<l>Maar uw gevangen is uw dochters echtgenoot;</l>
+<l>En door zyn sterven word myn vader niet behouên.</l>
+<l>Zie, zie d'elendigste der dochteren en vrouwen:</l>
+<l>Zy smeekt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Wat smeekt ge toch? Dat ik hem 't leven spaar'?</l>
+<l>My zelven schuldig, en voor Beon hem verklaar'?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Ammon.</hi></speaker>
+<l>Is d'oppermuiter, die gevangen is genomen,</l>
+<l>Die naar de kroon my dingt, in dit paleis gekomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Ik kom u melden, vorst, dat hy, noch even fier,</l>
+<l>Dit hof is ingetreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Breng dien verrader hier.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>En gy, die noch met liefde aan dien gemaal durft denken,</l>
+<l>Hem voorstaan, en 't gezag van vorst en vader krenken;</l>
+<l>Zie toe; ga met uw' pligt, niet met uw drift te raê;</l>
+<l>Of ducht, niet min dan hy, myn wrekende ongenaê.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">op de tederste wyze.</hi></speaker>
+<l>Gy kent uw dochter, die geen ontrouw kan verschoonen;</l>
+<pb n="21"/>
+<l>Die d'onschuld hooger schat, dan al de waereldtronen;</l>
+<l>Die, schoon haar tedre ziel den schuldigen bemint,</l>
+<l>En hem vergeeft, zyn schuld nochtans verfoeilyk vind;</l>
+<l>Die zyn gevaar, doch meest zyn blindheid moet beweenen;</l>
+<l>En, kon 't geschiên, u zou met haar' gemaal herëenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Vertrek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">met een zelfde tederheid.</hi></speaker>
+<l rend="; 1tab">Denk wien gy doemt; denk wie zyn' pligt vergeet;</l>
+<l>En volg uw' broeders deugd, wiens rykstroon gy bekleed.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Heb ik haar wél verstaan? haar taal is dubbelzinnig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Zy weet uw oud geheim, en uit zich loos en vinnig.</l>
+<l>Maar Orus heeft geen blyk, en plengde Beons bloed.</l>
+<l>Had hy welëer dien prins uit blinde deugd behoed,</l>
+<l>Om aan de ryksprinses hem als zyn' zoon te huwen;</l>
+<l>Hy zou van 't muiten nu, als toen van 't moorden gruwen;</l>
+<l>Hy had genoeg verricht voor zynen opperheer:</l>
+<l>Wat naauwgezette deugd eischt van een' dweeper meer?</l>
+<l>Hy veinst. Het zelfbelang is d'enkle deugd der grooten.</l>
+<l>Men poogt door stout bedrog u van den troon te stooten:</l>
+<l>'t Is zeker dat de prins van 't leven wierd beroofd:</l>
+<l>Uw schoonzoon is de zoon van 't listig legerhoofd,</l>
+<l>Dat, ongeduldig om dien zoon te zien regeeren,</l>
+<l>In 't eind' zich niet ontziet uw staten óm te keeren.</l>
+<l>'t Is 't zelfbelang alleen, dat vyand maakt en vriend.</l>
+<l>De deugd is niets dan schyn, waarvan 't vernuft zich dient.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Die waarheid is in zoon en vader my gebleken:</l>
+<l>Meer blyken zyn onnut, daar zulke daden spreken.</l>
+<pb n="22"/>
+<l>Maar ik, die 't veinzend hart dier ongetrouwen ken;</l>
+<l>Die, op den troon, het doel der looze schyndeugd ben;</l>
+<l>Zal toonen, door de wraak... Ik zie myn' kroonverrader.</l>
+<l>Ga; onderzoek en stoor de lagen van zyn' vader.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Biofis, Beon, Ammon</hi>, <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Bedrieger, die zo stout my onder d'oogen treed!</l>
+<l>Ondankbre, die, hoe veel myn vrindschap voor u deed,</l>
+<l>My poogt te bonzen uit den koninklyken zetel!</l>
+<l>Wat dwaas begrip maakt u zo schuldig, zo vermetel?</l>
+<l>Verhief myn gunst u niet tot erfgenaam der kroon?</l>
+<l>Was ik uw vader niet? Ik was 't, maar tot myn' hoon.</l>
+<l>Gy durft (en 't was uw pligt myn staatsgevaar te weeren,)</l>
+<l>Met Orus tegen my baldadig samenz weeren;</l>
+<l>Lokt muiters heimlyk aan, misleid arglistig my,</l>
+<l>Loont myn vertrouwen met de lafste veinzery,</l>
+<l>Onttrekt my in den stryd een deel der legerscharen,</l>
+<l>Stort yllings heir en ryk in d'uiterste gevaren,</l>
+<l>Verklaart u onbeschaamd voor wettig' opperheer,</l>
+<l>En krenkt door logentaal uw' koning in zyn eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Myn onschuld kreunt zich aan geen vinnige betichting;</l>
+<l>En uw onmenschlykheid ontslaat me van verpligting.</l>
+<l>Ach! mogt uw deugd oprecht, uw eer geen enkle schyn,</l>
+<l>Ik u verpligt, en gy myn ware koning zyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Wat blyken hebt ge, die Biofis staan te vreezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Des veldheers hooge deugd, Egipte lang bewezen;</l>
+<l>De braafste grooten, door uw wreedheid fel gesard;</l>
+<l>En, dat noch wisser klemt, uw eigen schuldig hart.</l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Kan Orus veinzery d'ondankbaarheid verschoonen?</l>
+<l>Der grooten snood bestaan eens muiters kroonrecht toonen?</l>
+<l>Een hoofd dier schuldigen zich zuivren door hun schuld?</l>
+<l>En waant ge, dat uw vorst dit vinnig lastren duld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Gy wist voorlang de kunst om uw geheim te dekken.</l>
+<l>Noch Orus veinst, noch ik. Dorst hy uw eer bevlekken,</l>
+<l>Dorst hy bedrieglyk u naar kroon en leven staan;</l>
+<l>Ik zou myn' koning om myn' vader niet verraên.</l>
+<l>Gy dekt uw kroonverraad vergeeft door looze treken:</l>
+<l>De veldheer spreekt; zyn mond kan niets dan waarheid spreken.</l>
+<l>Zyn deugd, die my welëer aan 't lyfsgevaar onttoog,</l>
+<l>Tot heil van 't vaderland hem tot uw' dienst bewoog,</l>
+<l>En myn geboorte my tot nu toe hield verborgen,</l>
+<l>Die deugd verpligt hem weêr voor 't vaderland te zorgen.</l>
+<l>Had gy naar vleitaal min dan naar zyn' raad gehoort,</l>
+<l>Geen nieuwe schuld gevoegt by die van koningsmoord,</l>
+<l>En had Egipte van uw wreedheid niets te vreezen;</l>
+<l>Uw oude gruweldaad zou noch verholen wezen.</l>
+<l>Biofis, die myn volk tot hun bederf misleid!</l>
+<l>Uw hart, uw trouwloos hart kent myn onnoozelheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy gaat in stoutheid myn verwachting verr' te boven.</l>
+<l>Waarmede vleit ge u toch uw' konings eer te rooven?</l>
+<l>'k Vervolgde en strafte alleen wie listig my verried.</l>
+<l>Hoe! blykt der grooten schuld in 't schandlyk muiten niet?</l>
+<l>Ik wil dit oproer streng op myn' gevangen wreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Zie haast hun onschuld en uw' kroonroof klaar gebleken.</l>
+<l>Uw dreigen vrees ik niet, schoon ik gevangen ben,</l>
+<l>En tot myn ongeluk uw wreede staatzucht ken.</l>
+<l>Hoe trouwloos my welëer die staatzucht ook verdrukte,</l>
+<l>Hoe schielyk dezen dag de toeleg my mislukte,</l>
+<l>Hoe hoog myn lyfsgevaar op nieuw geklommen zy;</l>
+<l>Die tegenspoed, hoe groot, baart minder smart in my,</l>
+<pb n="24"/>
+<l>Dan dat myn gade sproot uit zulk een' wreed' verrader:</l>
+<l>Amessis min ik teêr; Biofis is haar vader.</l>
+<l>Dit doodlyk wee verzwaart myn' rampspoed niet alleen;</l>
+<l>Verdrukte Beon lyd de droefste tegenheên:</l>
+<l>Myn naaste bloedverwant wil my den doodsteek geven;</l>
+<l>Salatis broeder dingt Salatis zoon naar 't leven.</l>
+<l>Volgt gy het voorbeeld dus, dat u myn vader gaf,</l>
+<l>Wiens deugd een' ryksstaf won voor eenen herdersstaf,</l>
+<l>En wien 't een glori was, dat hy, zo laag geboren,</l>
+<l>Zichzelv' den hoogen rang van koning had beschoren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>'k Hoor met verbaasdheid aan hoe verre uw stoutheid gaat.</l>
+<l>Ik wyk Salatis niet, in 't zorgen voor den staat.</l>
+<l>Maar zoud gyzelf, die my met bloedschuld durft bezwaren,</l>
+<l>Zo gy hier meester waart, uw egaês vader sparen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ik zou myn pligten, verr' van blinde wraak te voên,</l>
+<l>Als schoonzoon, bloedverwant, en opperheer, voldoen;</l>
+<l>'k Zou tegen euveldaên genoten weldaên stellen;</l>
+<l>En tot het meeste nut in 't kiezen overhellen.</l>
+<l>Wierd gy gedoemd; ik, die geen koning ben in schyn,</l>
+<l>En nu onschuldig ly, zou dan rechtvaardig zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Verban, ô lasteraar! de hoop uit uw gedachten,</l>
+<l>Dat u Egipte zal voor waren koning achten:</l>
+<l>Biofis goede naam is lang in 't ryk bekend.</l>
+<l>Maar deze onnutte twist verveelt uw' vorst in 't end'.</l>
+<l>Kan u de reden geen bekentenis ontwringen,</l>
+<l>De doodschrik zal welhaast uw' overmoed bedwingen:</l>
+<l>Gy zult belyden, dat de listige Ammozis,</l>
+<l>Die naar myn staten dingt, geen ware Beon is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Zou ik myn wettig recht uit doodschrik ooit verzaken?</l>
+<l>Ik, die onschuldig ben, my waarlyk schuldig maken?</l>
+<l>Ikzelf u sterken in 't onwettig ryksgebied?</l>
+<l>Wacht van Salatis zoon zo groot een zwakheid niet.</l>
+<pb n="25"/>
+<l>Gy kunt op 't smartelykst van 't leven my berooven,</l>
+<l>Maar nimmer van myn eer; zy gaat uw magt te boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Elendige!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Verdruk den zoon uws broeders vry;</l>
+<l>Hy kiest de zwaarste elend' voor snoode heerschappy.</l>
+<l>Ik kan, by u beschouwd, niet ongelukkig heeten:</l>
+<l>Ik heb een' grooten troost; ik heb een vry geweten,</l>
+<l>Vind my door moed gesterkt, en sterf uw opperheer:</l>
+<l>Gy lyd uw straf in 't hart, en stort haast schandlyk neêr:</l>
+<l>Men zal van eeuw tot eeuw myn' naam met achting noemen,</l>
+<l>En uw onmenschlykheid met afschrik altoos doemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Vertrek, en wacht uw loon, strafwaardigste onderzaat!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>D'onnoozelheid vreest min, dan 't bloedig ryksverraad.</l>
+</sp>
+<stage><hi rend="i">Einde van het tweede bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="26"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Ja, vorst, van Orus magt heeft Memfis niets te vreezen,</l>
+<l>Zo lang de stad volhard zichzelf getrouw te wezen,</l>
+<l>Zo lang ze in Orus zoon Salatis zoon niet acht.</l>
+<l>Bedwing den booswicht dan; gebruik uw oppermagt:</l>
+<l>Hy zal, tot nut van 't ryk, de waarheid haast ontvouwen,</l>
+<l>Hoe stout hy zyn bedrog u staande heeft gehouên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hy heeft my fel getergt: maar ondanks all' myn' spyt,</l>
+<l>Soïfis, ik beken 't, trof my zyn scherp verwyt.</l>
+<l>Heeft hy, schoon Orus zoon, en van zyn' pligt verbasterd,</l>
+<l>My, die verwyt verdien, door dat verwyt gelastert?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Hoe, vorst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Verneem noch meer. Zyn onvertsaagde taal,</l>
+<l>Van veel gewisser kracht op my, dan 't muitend staal;</l>
+<l>Zyn weêrgaêlooze moed; zyn onbelemmerd wezen,</l>
+<l>Waarin oprechtheid en gerustheid scheen te lezen</l>
+<l>(Twee bronnen van geluk, wier lieflyke invloed my</l>
+<l>Niet streelde, sints ik steeg ter opperheerschappy);</l>
+<l>De trouwe diensten, die voor hem en Orus spreken,</l>
+<l>Waardoor hun yver is voor 't heil van 't ryk gebleken,</l>
+<l>En ik Egipte zag met waar geluk vervuld;</l>
+<l>Dit alles, en noch 't meest de kennis van myn schuld,</l>
+<l>(Een denkbeeld, dat ik nooit verban uit myn gedachten;)</l>
+<l>Is oorzaak dat ik naauw' hun schuld durf zeker achten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Maar, vorst, uw veldheer muit: kan 't met de deugd bestaan?</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ja; myn gevangen wees de mooglykheid my aan.</l>
+<l>Waaruit is toch de zucht tot oproer 't eerst gesproten?</l>
+<l>Uit myn gestrenge wraak omtrent verdachte grooten.</l>
+<l>Hy bragt die strengheid, daar uw raad my toe bewoog,</l>
+<l>Als landverderflyk, my licht billyk onder 't oog.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>'t Had schyn, zo gy dit ryk tirannig onderdrukte,</l>
+<l>Zo 't van uw wys bestier geen rype vruchten plukte,</l>
+<l>En 't land in nood kon zyn, daar vorst Biofis heerscht.</l>
+<l>Geloof uw' vyand niet, of hy bewyz' dit eerst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Indien hy schuldig is aan gruwzame euveldaden,</l>
+<l>Hy is 't niet meer dan ik, die Beon heb verraden.</l>
+<l>Hoe meer ik daaraan denk, hoe meer het my berouwt.</l>
+<l>Ik heb een' prins verraên, wiens erf my was betrouwd;</l>
+<l>Myn' waren opperheer, den zoon van mynen broeder:</l>
+<l>Ik was zyn moordenaar, in plaats van zyn' behoeder.</l>
+<l>Ik, die welëer zo wreed zyn wettig recht verried,</l>
+<l>Moet nu, tot veiliging van eer en ryksgebied,</l>
+<l>Zo hy den moorddolk in zyn kindsheid is ontkomen,</l>
+<l>Gelyk misdadig bloed zyn zuiver bloed doen stroomen,</l>
+<l>En zuchten heimelyk om myn onmenschlykheid.</l>
+<l>Zie daar met wat geluk ik blind my heb gevleit.</l>
+<l>Een gruwelstuk belóóft, maar gééft geen vergenoeging.</l>
+<l>'k Volhard in 't kwaad, uit nood,... maar met de felste wroeging.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Hoe kan uw moedig hart, dat nooit gesiddert heeft,</l>
+<l>Een denkbeeld voeden, dat u stof tot kwelling geeft?</l>
+<l>Zyt gy geen opperheer? geen meester van uw pligten?</l>
+<l>Uw wil is u een wet; gy kunt geen kwaad verrichten.</l>
+<l>Ook hebt ge nooit voorheen met gruwlen u besmet:</l>
+<l>Gy, noch geen koning, waart reeds koning van de wet:</l>
+<l>De naam ontbrak u slechts: om in gezag te blyven,</l>
+<l>Versloegt ge uw' vyand; en 't geluk doet u beklyven.</l>
+<l>Het godendom had u tot nu toe niet gespaart,</l>
+<pb n="28"/>
+<l>Zo 't zich met ons bemoeide, en gy misdadig waart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ik ken myn staatsbelang; ik moet, en zál 't betrachten,</l>
+<l>En in den muiteling geen' waren Beon achten.</l>
+<l>Myn dochter acht het hem; ze ontëert my door haar min;</l>
+<l>Ze ontëert my mooglyk haast voor 't oog van 't hofgezin.</l>
+<l>Ik wil, te lang ontrust, myn wroeging eens verdooven.</l>
+<l>Zo ik niet spoedig waak, zal 't hof, al 't ryk gelooven,</l>
+<l>Dat vorst Salatis zoon zyn erfrecht my betwist.</l>
+<l>Ik, die de magt bezit, bezwyk niet voor de list.</l>
+<l>Laat ons, door schrik op schrik, het hoofd der muitelingen,</l>
+<l>In weêrwil zyner gaê, bekentenis ontwringen;</l>
+<l>Opdat zy 't oog ontsluit', die my noch dierbaar is,</l>
+<l>En ik my veilig wreek' op haren Ammozis.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Ach, vorst! ik ben verpligt een' gruwel u t'ontleden.</l>
+<l>Prinses Amessis, naar de hofwacht toegetreden,</l>
+<l>Voert deze taal tot ons: ô Helden! hoort naar my.</l>
+<l>Gy kent de vruchten van Salatis heerschappy:</l>
+<l>Egipte heeft zyn heil dien koning dank te weten;</l>
+<l>'t Verpligt Egipte kan Salatis nooit vergeten.</l>
+<l>'s Lands groote vader leeft in myn' gemaal, zyn' zoon.</l>
+<l>Wacht blyken. Red uw' prins van lyfsgevaar en hoon.</l>
+<l>Ik ben Biofis kroost; maar Beon is my nader.</l>
+<l>Indien hy heerscht, zyn deugd verzoent hem met myn' vader.</l>
+<l rend="; 1tab">Zo sprak uw dochter tot een merklyk deel der wacht.</l>
+<l>Ik nam, terwyl zy sprak, elks houding naauw in acht,</l>
+<l>En zag, reeds eer zy zweeg, haar zorgelyk vermogen;</l>
+<l>De meesten hoorden haar, ô vorst! met weenende oogen.</l>
+<l>Maar ik, niet twyflende aan de schuld van haar' gemaal,</l>
+<l>Verbrak op 't oogenblik de kracht dier stoute taal,</l>
+<pb n="29"/>
+<l>En gaf, aan elk van hen wier afschrik bleek van 't muiten,</l>
+<l>Bevel haar gaê te slaan, om nieuw gevaar te stuiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Volhard in trouw; uw vorst zal niet ondankbaar zyn.</l>
+<l>Ik wil d'ontäarde zien; dat zy terstond verschyn'.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Zy heeft dan alle schaamte uit haar gemoed verbannen!</l>
+<l>Zy vreest niet tegen my met muiters aan te spannen!</l>
+<l>Zy vreest niet, mede naar het ryksgebied te staan!</l>
+<l>Zy durft haar' vaders kroon, haar' vaders eer verraên?</l>
+<l>Ik, die Amessis noch beminde, dorst niet denken,</l>
+<l>Dat zy zo verr' den pligt van dochter ooit zou krenken:</l>
+<l>Ik hoopte noch op haar; en vind, in plaats van troost,</l>
+<l>De snoodste vloekverwant, Soïfis, in myn kroost.</l>
+<l>Is zy, die my verraad, de minste liefde waardig?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Neen; zy verzaakt natuur: uw gramschap is rechtvaardig.</l>
+<l>Ze is niet onkundig, vorst; zy kent het vloekverbond;</l>
+<l>Haar hart (vergeef het my,) weêrspreekt haar' loozen mond:</l>
+<l>Hoe kan zy Ammozis voor Beon waarlyk houên?</l>
+<l>Hoe kan ze een' muiter op zyn enkel woord betrouwen?</l>
+<l>Zy veinst slechts dat zy hem, wien zy haar' bystand bied;</l>
+<l>Voor geen' bedrieger houd: eischt haar belang dit niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Zy, die myn' val bedoelt, verdient geen gunstbetooning;</l>
+<l>Ik ben geen vader meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l rend="; 1tab">Gy zyt een wrekend koning.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="30"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Amessis, nader my. Uw schuld is my bekend.</l>
+<l>Gy siddert, en met recht, gy, die uw glori schend,</l>
+<l>Myn vaderlyke liefde onwaardig hebt genoten,</l>
+<l>Na zo veel gunst my poogt ten rykstroon af te stooten,</l>
+<l>En met een' valschen vorst uw' opperheer verraad;</l>
+<l>Gy, wie ik 't leven gaf, en die naar 't myne staat.</l>
+<l>Moest gy, door staatzucht blind, tot oproer meê besluiten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Een ándre zucht... Ik kan, ik mág u die niet uiten.</l>
+<l>Van d'oorzaak, die my noopt, zyt gy te wél bewust;</l>
+<l>Een oorzaak, die my 't meest van all' myn' ramp ontrust.</l>
+<l>Gy, die myn onschuld weet, durft my zo wreed betygen!</l>
+<l>Gy, die...! Maar ach! gy zyt myn vader; ik moet zwygen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hoe listiger gy veinst, hoe d'ontrouw grooter is.</l>
+<l>Verklaar het stout bedrog van uwen Ammozis:</l>
+<l>Hier baat geen veinzery; men zal u nooit gelooven;</l>
+<l>Gy zult uw' koning nooit van eer en kroon berooven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Gy weet het wie zyn' vorst berooft van kroon en eer.</l>
+<l>Myn ouderliefde eischt veel, myn' Beons onschuld meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Soïfis! welk een taal!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l rend="; 1tab">ô Vorst! ze is loos bedreven.</l>
+<l>Zy, die u bits de schuld van haar' gemaal durft geven,</l>
+<l>Om wien ze u in uw hof de snoodste lagen leit,...</l>
+<l>Ik ga misschien te verr'; maar 'k heb u nooit gevleit.</l>
+<l>Zy, doelende op uw eer, uw leven, en uw staten,</l>
+<l>Verblind, zo zy volhard, welhaast uw onderzaten.</l>
+</sp>
+<pb n="31"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ontrouwe gunsteling, doortrapt in vleijery!</l>
+<l>U wyt ik, u alleen, de rampen die ik ly;</l>
+<l>U, die de dochter door den vader poogt te deeren;</l>
+<l>U, die de harten van staatzuchtige opperheeren</l>
+<l>Door streelend zielgif kunt verleiden van hunn' pligt;</l>
+<l>U, die het kwaad verfoeit, en niets dan kwaad verricht;</l>
+<l>U, die myn' vader lang, door uw gevloekte treken,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy tart my tot de wraak, door zulk een taal te spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! waartoe dringt men my! ô Vader! zie myn smart;</l>
+<l>Ban alle deernis niet uit uw bedrogen hart:</l>
+<l>Gy kent myn tedre zucht; beroof my niet van d'uwe.</l>
+<l>Met afschrik denkt uw kroost... 't Is billyk, dat ik gruwe.</l>
+<l>Ontsluit uw oog, en zie de boosheid van uw' vrind:</l>
+<l>Het volk word nooit door my, gy zyt door hem verblind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Prinses, het smart me, als een der zwaarste tegenspoeden,</l>
+<l>Dat ik myn' koning voor zyn dochter moet behoeden.</l>
+<l rend="; 1tab">Gy kent, ô vorst! gy kent uw' trouwsten onderdaan.</l>
+<l>Besef hoe gy myn eer als d'uwe voor moet staan,</l>
+<l>Om 't kwaad te stuiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Neen, om 't kwaad ten steun te strekken.</l>
+<stage><hi rend="i">Tegen Biofis.</hi></stage>
+<l>Moet hy, door 't bloed des zoons, des vaders troon bevlekken?</l>
+<l>Dat bloed is, hem ten spyt, voordezen niet gestort;</l>
+<l>En 't zelfde snood belang...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 3tab">Hou op. Uw koning word,</l>
+<l>Ondankbre! door die taal te lang, te fel beleedigd.</l>
+<l>Bedenk wien gy ontëert; bedenk wien gy verdedigt;</l>
+<l>Dat gy Soïfis niet, maar my een bloedschuld wyt;</l>
+<l>En zelf, met uw' gemaal, aan bloeddorst schuldig zyt.</l>
+</sp>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Hoe kan Amessis, nu Soïfis haar durft tergen,</l>
+<l>De drift, die haar bezielt, voor uw gezicht verbergen?</l>
+<l>Hoe kan ik zwygen in myn wanhoop, die hy voed?</l>
+<l>D'ontmenschte, niet vernoegd met Beons dierbaar bloed,</l>
+<l>Dat listig hofserpent dwingt my rondüit te spreken,</l>
+<l>En uit mistroostigheid in gramschap u t'ontsteken,</l>
+<l>Opdat gy wreed besluit het bloed, dat uit u sproot,</l>
+<l>Te storten met het bloed van mynen echtgenoot,</l>
+<l>En ons, al 't overschot van uw getrouwe magen,</l>
+<l>Aan 't eereloos belang eens vleijers op te dragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy hoont, met ieder woord, uw' koning meer en meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach, waarde vader!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Neen, noem my uw' opperheer.</l>
+<l>Gy hebt myn liefde ontëert; gy hebt myn' haat te vreezen:</l>
+<l>Nu gy geen dochter zyt, moet ik geen vader wezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Wees vader, even teêr gelyk ik dochter ben.</l>
+<l>Ik, die de kracht van 't bloed tot myn elende ken,</l>
+<l>Zal nooit myn zucht voor u uit myn gemoed verbannen.</l>
+<l>'k Was met uw' vyand niet misdadig aangespannen:</l>
+<l>Die vyand, voor wiens hoofd ik beef, is myn gemaal</l>
+<l>En koning... Ach! ik moet, door zulk een harde taal,</l>
+<l>Myn overtuiging van zyn onschuld u betoonen,</l>
+<l>En van ondankbaarheid myn zuivre ziel verschoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy, die myn volk bedriegt, die zelve in d'ontrouw deelt,</l>
+<l>En, schoon gy listig veinst, met ydle hoop u streelt;</l>
+<l>Beken, of wacht het loon der snoodste gruwelstukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Neen, gy zult zo wreed uw dochter niet verdrukken,</l>
+<l>Gy, die, hoe verr' misleid, by overtuiging weet,</l>
+<l>Dat ik aan vader en gemaal myn' pligt voldeed;</l>
+<pb n="33"/>
+<l>Dat ik, wanhopig om uw beider tegenspoeden,</l>
+<l>Uw dierbaar leven door het zyne zocht te hoeden.</l>
+<l>Bedenk of gy voorheen door my beleedigd zyt;</l>
+<l>Erinner u hoe teêr uw dochter u altyd</l>
+<l>Haar' pligt bewezen heeft: wien kunt gy trouwer vinden?</l>
+<l>Ken uw Amessis; ken uw' vyand; ken uw vrinden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, So</hi>ï<hi rend="sc">fis, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Wat tyding brengt ge?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l rend="; 1tab">Vorst, uw volk word snood misleid,</l>
+<l>En 't oproer heeft zich reeds tot in de stad verspreid.</l>
+<l>D'aartspriester durft, omringd van krygs- en burgerscharen,</l>
+<l>Uw' schoonzoon opentlyk voor wettig' vorst verklaren;</l>
+<l>En spoort de menigte aan, die hem met eerbied hoort,</l>
+<l>Tot overweldiging van Memfis groote poort,</l>
+<l>Om Orus met zyn heir van trouwlooze onderzaten,</l>
+<l>Onmagtig zonder hulp, oproerig in te laten.</l>
+<l>Zo dra de priester zwygt, weêrgalmt de lucht in 't rond</l>
+<l>Op 't ruime tempelplein; men schreeuwt, en toont terstond</l>
+<l>Zich vaardig, tegen u, voor 't vloekverbond te vechten.</l>
+<l>Zo werkt de tempelier op volk en oorlogsknechten.</l>
+<l>De hoofden stuiten 't fluks; het krygsvolk is gedwee;</l>
+<l>De burgery verstuift, en sleept den priester meê.</l>
+<l>Die snoode toeleg was met Orus afgesproken:</l>
+<l>Men had een teeken uit den tempel opgestoken,</l>
+<l>Waarop die muiter zich, voor d'eigen poort der stad</l>
+<l>Daar d'aanslag was bestemd, ten storm vervaardigt had.</l>
+<l>Uw volk is weêr in rust, het teeken afgenomen,</l>
+<l>En Orus, die noch dreigt, in 't stormen voorgekomen.</l>
+<l>Men spoort den priester na, wiens vlucht noch ramp voorspelt.</l>
+<l>Dit alles heeft aan 't hof een trouwe bo' gemeld.</l>
+</sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">tegen Biofis.</hi></speaker>
+<l>Gy ziet Egipteland gedompeld in elende.</l>
+<l>Zo gy myn' echtgenoot, zo gy zyn deugden kende,</l>
+<l>En uw belang naar eisch u aan het harte ging;</l>
+<l>Zo gy 't gezicht ontsloot, een listig hoveling</l>
+<l>Zou my, zou myn' gemaal, uzelv', en 't ryk niet schaden,</l>
+<l>En Ammons blinde trouw had my vergeefs verraden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy, die hardnekkig voor den zoon van Orus pleit,</l>
+<l>Gy kent uw beider schuld; ken myn rechtvaardigheid.</l>
+<stage><hi rend="i">Tegen Ammon.</hi></stage>
+<l>Bewaar d'ontrouwe; haar vertrek zy haar tot kerker.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Het bloed beweegt u niet! In my was 't nimmer sterker.</l>
+<stage><hi rend="i">Knielende.</hi></stage>
+<l>ô Vader, die noch korts ons beiden hebt bemint!</l>
+<l>Herroep die liefde; troost uw dochter; spaar uw' vrind:</l>
+<l>Hy was 't; hy is het noch; en zal uw wetten eeren,</l>
+<l>Zo 't listig hofgedrocht Egipte niet kan deeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Neen, medestanderes van uwen Ammozis?</l>
+<l>Wees zelve 't middel tot zyn schuldbekentenis:</l>
+<l>Aanschouw zyn lyfsgevaar; en stuit hem in zyn logen:</l>
+<l>Hy leve, zo hy zwicht; of sterve voor uw oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Myn bittre smart...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Vertrek; gy tergt me door uw' druk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">opgestaan zynde.</hi></speaker>
+<l>Gy stort uzelv', met ons, in 't uiterste ongeluk.</l>
+<l>Vermag uw gunsteling dan alles op uw zinnen?</l>
+<l>ô Wreede, op wiens gemoed uw dochter niets kan winnen!</l>
+<l>Ontzie, ontzie in tyds, by 't wagglen van den troon,</l>
+<l>Uw groeijend lyfsgevaar, uw' koning, en de goôn.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="35"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Zou ik myn oud geheim uit laffe vrees verklaren?</l>
+<l>Zou Ammozis de kroon my afstaan? ik hem sparen?</l>
+<l>Ly ik gevaar, of hy? Is hy myn opperheer?</l>
+<l>Wat zou ik vreezen? Niets; myn koning leeft niet meer:</l>
+<l>Nu d'opperpriester muit, is my 't bedrog gebleken:</l>
+<l>Ik ken dien priester nu; ik merk zyn snoode treken:</l>
+<l>Hy stond welëer my voor, uit staatzucht, toen hy dacht</l>
+<l>Met my te deelen in de koninklyke magt;</l>
+<l>Nu werkt hy trouweloos voor Ammozis belangen,</l>
+<l>Om minder van 't gezag eens konings af te hangen.</l>
+<l>Zou ik bedrogen zyn, gelyk 't onwetend volk,</l>
+<l>Door d'ydle taal van dien gewaanden hemeltolk?</l>
+<l>Hyzelf gelooft niet, schoon hy 't andren doet gelooven,</l>
+<l>Dat zich de goôn om ons van hunne rust berooven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>De logen dekt zich meest door 't veilig tempeldak.</l>
+<l>Nu ziet gy duidlyk, vorst, dat ik de waarheid sprak.</l>
+<l>Uw koninklyke ziel, van twyfeling ontheven,</l>
+<l>Zal nu weêr blyk op blyk van ware grootheid geven;</l>
+<l>Geen' stouten logentolk, geen schuldig kroost ontzien;</l>
+<l>En zélf gebieden, daar de góden niet gebiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Myn vyand vreeze voor zyn egaês oog te sterven:</l>
+<l>'k Wil zyn bekentenis door haar geschrei verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Ja, pers, door dat geschrei, zyn' mond de waarheid af:</l>
+<l>Beloof hem wel genaê; maar hoed u door zyn straf.</l>
+<l>Gy weet wat midlen u als vorst en rechter passen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ik zal, zwicht hy noch niet, zyn min op 't strengst verrassen:</l>
+<pb n="36"/>
+<l>Hy zie, zo 't noodig is, Amessis lyfsgevaar.</l>
+<l>Hy beeft niet voor zichzelv'; hy beve dan voor haar.</l>
+<l>Hy moet, het ga hoe 't ga, zyn stout bedrog ontleden:</l>
+<l>Ik ben te verr' gegaan, om ooit terug te treden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Straf zelfs, ontkent hy noch, zyn schuldige echtgenoot,</l>
+<l>Opdat hy 't stuk belyde uit wanhoop om haar dood.</l>
+<l>ô Vorst! elk middel, dat voor d'ontrouw u beveiligt,</l>
+<l>Word door den hoogen rang, dien gy bekleed, geheiligd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>'k Wil zonder tydverzuim hem toetsen, schoon hy stout</l>
+<l>Op 't valsch getuigenis des tempeliers betrouwt.</l>
+<l>Ga; zoek dien priester; neem dien huichelaar gevangen;</l>
+<l>Sla stad en vyand gaê; behartig myn belangen:</l>
+<l>Keer spoedig weêr; en zie, op dezen grooten dag,</l>
+<l>Hoe veel de gramschap van een' opperheer vermag.</l>
+</sp>
+<stage><hi rend="i">Einde van het derde bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="37"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Wat zie ik ramp op ramp zich tegen my vereenen!</l>
+<l>Hoe snel, hoe onvoorziens is al myn heil verdwenen!</l>
+<l>Ik zegende myn lot; ik dacht met eeuwige eer</l>
+<l>Gehuwd te zyn aan 't kroost van mynen opperheer;</l>
+<l>Met myn Amessis was de ryksstaf my beschoren;</l>
+<l>De hemel had, naar 't scheen, haar tot myn bruid verkoren;</l>
+<l>Wy kenden slechts in naam der grooten angst en druk;</l>
+<l>Wy smaakten met elkaêr een ongestoord geluk,</l>
+<l>De liefelyke vrucht van 't weêrzydsch teder minnen,</l>
+<l>De gadelooze vreugd van wélvereende zinnen.</l>
+<l>Maar na zo groot een heil, treft my te feller slag:</l>
+<l>Amessis vader, wien ik 't recht op 't hoog gezag</l>
+<l>Verschuldigd dacht te zyn, is op myn' troon verheven,</l>
+<l>En dong, en dingt noch my, zyn' broeders zoon, naar 't leven;</l>
+<l>En al myn huwlykszoet verkeert in bitterheid.</l>
+<l>Gelukkige onkunde! ach! had ge altoos my misleid!</l>
+<l>Moest ik, tot zo veel ramp, de zoon eens konings wezen?</l>
+<l rend="; 1tab">Maar hoe zal Orus, hoe myn echtgenoote vreezen!</l>
+<l>Ik ken hun zucht voor my en voor het vaderland.</l>
+<l>Hun angst, Egiptes nood ontroert my 't ingewand.</l>
+<l rend="; 1tab">ô Dwingland! moet ik weêr voor uwe vierschaar komen?</l>
+<l>Gy wilt uw' konings bloed in schyn van recht zien stroomen:</l>
+<l>Maar uw verdiende straf volgt u op 't heilloos spoor...</l>
+<l>Amessis komt! wat heeft Biofis met ons voor?</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Amessis, Beon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">hem omhelzende.</hi></speaker>
+<l>ô Beon!</l>
+</sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">onder 't omhelzen.</hi></speaker>
+<l rend="; 1tab">Waarde gade!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">noch onder 't omhelzen.</hi></speaker>
+<l rend="; 3tab">ô Ramp!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 4tab">Zie d'onschuld bukken,</l>
+<l>Terwyl de gruwlen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Denk hoe ze uw Amessis drukken:</l>
+<l>Besef wat felle smart uw egaê heeft geleên,</l>
+<l>Toen gy haar oopning deed van zo veel yslykheên;</l>
+<l>En welk een' wreeden angst myn ziel heeft moeten lyden,</l>
+<l>Sints gy, myn' arm ontvlucht, myn' vader gingt bestryden.</l>
+<l>'k Erkende u in myn hart voor waren opperheer,</l>
+<l>Door hem, uit wien ik sproot, beroofd van kroon en eer;</l>
+<l>Maar dorst in 't eerst uw zy' noch tegen hem niet kiezen,</l>
+<l>Onkundig wie den stryd, my doodlyk, zou verliezen.</l>
+<l>'k Verneem uw ongeluk, kies tegen hem uw zy',</l>
+<l>En hy, van 't stuk bewust, verzekert zich van my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Hy zal u sparen. Maar wat stuk had ge ondernomen?</l>
+<l>Wat stond Biofis van uw heldendeugd te schroomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>'t Verklaren van zyn schuld, het derven van de kroon,</l>
+<l>De hulde van Egipte aan vorst Salatis zoon.</l>
+<l>Ja, prins, 'k heb opentlyk uw wettig recht verdedigt.</l>
+<l>Waar d'aanslag my gelukt, 'k had u met hem bevredigt:</l>
+<l>Ik wachtte meer van u, dan ik van hém verwacht:</l>
+<l>Gy weet dat uwe gade u edelmoedig acht.</l>
+<l>Ik wierd verhinderd u en hem 't gevaar t'onttrekken,</l>
+<l>En my te zuivren van de vaderlyke vlekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Geen vaderlyke vlek heeft immer u besmet:</l>
+<l>Hy volgt zyn blinde drift; uw pligt is u een wet:</l>
+<l>Nooit zal Egipte uw deugd uit zyn geheugen bannen.</l>
+<l>De deugd verdient ontzag, in 't kroost zelfs van tirannen.</l>
+<pb n="39"/>
+<l>Biofis dochter, die Biofis gruwlen wraakt,</l>
+<l>Als Beons echtgenoot voor Beons onschuld waakt,</l>
+<l>En yllings al haar hoop op uitkomst ziet vervlogen,</l>
+<l>Is 't waardig voorwerp van myn liefde en mededoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! meer dan gy noch weet, ben ik uw deernis waard'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ik ken volkomen reeds Biofis wreeden aart:</l>
+<l>Hy wil zyn oud geheim door nieuw bedrog verbergen;</l>
+<l>Hy durft bekentenis van hoog verraad my vergen;</l>
+<l>Hy dreigt me 't schandlykst leed; en zend ons by elkaêr,</l>
+<l>Opdat ik, zwak door u, myzelv' met schuld bezwaar':</l>
+<l>Ik kan, ô lieve gade! ik kan genoeg beseffen</l>
+<l>Hoe zulk een felle ramp uw tedre ziel moet treffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Myn vader eischt van u die schuldbekentenis.</l>
+<l>Maar hoor hoe schuldig die ontmenschte vader is:</l>
+<l>Gy moet, als Orus zoon, van hem genaê verwerven,</l>
+<l>En leven zonder eer, of voor myn oogen sterven.</l>
+<l>Hoe yze ik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 2tab">Welk een proef voor uw verdrukte deugd!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Smart!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Wat wreedheid!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 3tab">ô Verdwenen huwlyksvreugd!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Hoe hoog de boosheid van Biofis zy gerezen,</l>
+<l>Hoe fel zyn staatzucht woed', laat óns niet schuldig wezen.</l>
+<l>Zo wy standvastig zyn in onzen tegenspoed,</l>
+<l>Blyft één geluk ons by, een onbevlekt gemoed,</l>
+<l>Dat, midden in de smart der droevigste ongelukken,</l>
+<l>Het voordeel overtreft, behaald door gruwelstukken.</l>
+</sp>
+<pb n="40"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Zo ik uw dood aanschouw, sterf ik op 't oogenblik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ik vrees de dood niet; maar uw wanhoop baart my schrik.</l>
+<l>Wilt gy betoonen, my op d'eêlste wyz' te minnen,</l>
+<l>En my vertroosten; ban die wanhoop uit uw zinnen:</l>
+<l>Leef, waarde Amessis! leef; voldoe myn laatste beê;</l>
+<l>Betoon de hoogste deugd in 't vinnigst hartewee.</l>
+<l>Biofis kroost, geliefd van Beons onderzaten,</l>
+<l>Moet eenmaal heerschen in myn vaderlyke staten:</l>
+<l>Egipte zal zich haast van dwinglandy ontslaan,</l>
+<l>U kronen, en met vreugd uw wetten ondergaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Zoud gy zo groot een' moed wel van uzelv' vertrouwen,</l>
+<l>Zo gy gedwongen wierd uw egaês dood t'aanschouwen?</l>
+<l>Zoud gy wel leven, zo uw oog die wreedheid zag?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Denk eer wat u betaamt, dan wat myn moed vermag.</l>
+<l>Ik gruw. Gy kent myn min; moet u myn zwakheid blyken?</l>
+<l>Moet Beon schandlyk voor Biofis dwang bezwyken?</l>
+<l>Neen, neen; laat ons niet meer onze eigen kwelling voên,</l>
+<l>En, dien tiran ten spyt, aan onzen pligt voldoen.</l>
+<l>'t Is zeker, dat de goôn zich over ons ontfermen;</l>
+<l>Wanneer 't hun wysheid past, d'onnoozelheid beschermen;</l>
+<l>En dat hun trouwe hulp, als zy geen uitkomst werkt,</l>
+<l>Voor 't minst den zwakken moed van hunne vrinden sterkt.</l>
+<l>Reeds ondersteunt die hulp myn afgematte krachten:</l>
+<l>Het streelt me, dat myn eer herstelling heeft te wachten:</l>
+<l>Myn onschuld blinkt welhaast voor d'oogen van al 't ryk.</l>
+<l>Verneem (dit zy uw troost,) wat onbetwistbaar blyk</l>
+<l>De brave priester...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 1tab">Ach! ik zie myn' wreeden vader.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Beklaag hem meer dan ons.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="41"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Biofis</hi>, <hi rend="i">op den troon</hi>; <hi rend="sc">Beon</hi>, <hi rend="i">aan de ééne, en</hi> <hi rend="sc">Amessis</hi>, <hi rend="i">met</hi> <hi rend="sc">Ammon</hi>, <hi rend="i">aan de andere zyde. Lyfwachten, aan elke zyde.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 2tab">Vermetele verrader!</l>
+<l>Zyt gy bewogen door uw schreijende echtgenoot?</l>
+<l>Wat kiest ge? gunst, of straf? het leven, of de dood?</l>
+<l>Wacht u, hardnekkig my 't geduld te doen verliezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Wat dunkt Amessis, dat haar Beon moet verkiezen?</l>
+<l>Betoon, dat uwe deugd niet voor uw wanhoop zwicht:</l>
+<l>Biofis kent u niet; ontsluit zyn blind gezicht:</l>
+<l>Bewys hem, door uw keur, ten koste van myn leven,</l>
+<l>Dat zyn verwoedheid u niet meer dan my doet beven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Uw leven is my waard; uw dood te moeten zien,</l>
+<l>Is 't bitterst ongelyk, dat ooit my kan geschiên;</l>
+<l>Ik zou, veel meer dan gy, den wreeden doodsteek lyden;</l>
+<l>'k Gevoel de liefde en vrees op 't felste my bestryden:</l>
+<l>Maar myn' gemaal, die zich met ontrouw niet bevlekt,</l>
+<l>Wiens ongemeene deugd my tot een voorbeeld strekt,</l>
+<l>Te nopen om zyn eer... Zoud ge u zo laf vergeten?..</l>
+<l>Ach! zo gy sterven moet, sterf met een vry geweten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>'k Heb van myn echtgenoote een heldenstuk verwacht,</l>
+<l>En hield u groot; gy zyt noch grooter dan ik dacht:</l>
+<l>Uw moed, Amessis, gaat uw ongeluk te boven.</l>
+<l rend="; 1tab">ô Dwingland, die vergeefs myn eer my zoekt t'ontrooven!</l>
+<l>Zie, zie door welk een deugd uw kroost bewogen word;</l>
+<l>En schaam u over 't leed, waarin uw dwang ons stort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Denk, 't is myn vader; en ik poog hem noch te winnen.</l>
+</sp>
+<pb n="42"/>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Herroep dan uwen pligt in uw ontäarde zinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ach! zie uw schreijend kroost weêr voor u neêrgebukt;</l>
+<l>En overweeg met ernst wat vyand gy verdrukt:</l>
+<l>Hy is Salatis zoon, de zoon van uwen broeder,</l>
+<l>En aan uw spruit gehuwd. Wees eenmaal zyn behoeder;</l>
+<l>Herstel uw glori; stuit Soïfis wreede list;</l>
+<l>Bemin den prins; en zie of hy u 't ryk betwist.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Ontróuwe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">tegen Amessis.</hi></speaker>
+<l rend="; 1tab">Staak uw bede.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Ach! laat uw egaê spreken.</l>
+<stage><hi rend="i">Tegen Biofis.</hi></stage>
+<l>Zie zyn geboorte, zo gy twyfelt, klaar gebleken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Dit vinnig lastren, dat myn gramschap meer en meer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Ken uw belangen; ken zyn deugden; ken uw eer.</l>
+<l>Ik smeek u voor uw' zoon; ik smeek u voor uzelven.</l>
+<l>Laat af van ons en u een' jammerpoel te delven.</l>
+<l>Ik ken uw hart; gy word zo wél verraên, als wy.</l>
+<l>Gy kunt, indien gy wilt, gy kunt, met hem en my,</l>
+<l>Op nieuw gelukkig zyn, niet min dan ooit voordezen:</l>
+<l>Gy kunt het zonder ons, wy zonder u niet wezen.</l>
+<l>Herroep uw tederheid: bedrogen vader! ach!</l>
+<l>Erlang uw hoogst geluk, op dezen droeven dag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hoe verr' gaat uw bedrog! Ik ben dit tergen moede:</l>
+<l>'t Is tyd, dat ik myn eer voor deze lagen hoede.</l>
+<l>Een stout bedrieger dingt zyn' koning naar de kroon:</l>
+<l>Gy kent dien muiteling als Orus waren zoon,</l>
+<l>Vergeet wat gunst op gunst gy beiden hebt genoten,</l>
+<l>Belaagt oproerig my, uit wien gy zyt gesproten,</l>
+<pb n="43"/>
+<l>Zyt van uw' hoogen rang en van uw' pligt ontäard,</l>
+<l>En maakt, niet min dan hy, u myn genade onwaard'.</l>
+<l>Gy bant my uit uw hart; ik ban u uit het myne.</l>
+<l>Ondankbre! hoor in 't einde uw vonnis; hoor het zyne.</l>
+<l>Gy waart myn troost voorheen; gy zyt myn afschrik nu.</l>
+<l>Hy sterv', bekent hy niet; hy sterv', maar eerst in u.</l>
+<stage><hi rend="i">Terwyl Amessis opryst.</hi></stage>
+<l>ô Zoon van Orus! kies (het is noch tyd,) genade;</l>
+<l>Of zie dit oogenblik de dood van uwe gade.</l>
+<l>Gy, Ammon, weet myn' last.</l>
+<stage><hi rend="i">Tegen Beon; terwyl Ammon, die by Amessis staat, haar by verrassing 't zwaard voor de borst houd.</hi></stage>
+<l rend="; 3tab">Gy ziet haar groot gevaar;</l>
+<l>En zy verdient haar straf. Beken, of sterf met haar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>ô Waarde Amessis!.. Ach!.. Wat angst..! Wie zou niet gruwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Gy hebt myn' moed gezien; ô Beon! toon den uwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Dit akelig gezicht benevelt my 't verstand...</l>
+<l>Wat heilloos middel!.. Wat onschuldige offerhand'!..</l>
+<l>Uw edelmoedigheid, ô dierbaarste aller vrouwen!</l>
+<l>Vergroot myn liefde. Kan uw Beon u behouên?</l>
+<l>Zo uw gemaal tot die lafhartigheid verviel,</l>
+<l>Hy waar' uw liefde onwaard'; hy kent uw groote ziel.</l>
+<l rend="; 1tab">Biofis, durft gy 't bloed van uwe dochter plengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Verrader, durft ge uw' vorst tot zulk een uiterst' brengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">driftig.</hi></speaker>
+<l>Tiran!...</l>
+<stage><hi rend="i">Zich bedwingende.</hi></stage>
+<l rend="; 2tab">Wat zeg ik?... Uw wanhopige opperheer,</l>
+<l>Salatis zoon stort aan Biofis voeten neêr.</l>
+<l>Hoe wreed gy ons verdrukt, na 't rooven van myn staten,</l>
+<l>'k Zal u myn wettig erf vrywillig overlaten:</l>
+<l>Uw ongelukkig kroost is my dien afstand waard':</l>
+<pb n="44"/>
+<l>'k Vergeef u 't ongelyk, zo gy Amessis spaart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hou my niet op; beken, of alles is verloren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">opgestaan zynde, en zyn oogen van haar afwendende.</hi></speaker>
+<l>Ontmenschte! zo natuur haar stem u niet laat hooren,</l>
+<l>Zo gy u baden wilt in 't bloed dat uit u sproot;</l>
+<l>Grief in uw dochter dan op 't wreedst haar' echtgenoot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hardnekkige! zie toe; 'k heb slechts één woord te spreken.</l>
+<l>Verbeeld ge u, dat ik vrees myn eer op haar te wreken?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Biofis</hi>, <hi rend="i">op den troon</hi>; <hi rend="sc">Amessis, Beon, So</hi>ï<hi rend="sc">fis, Ammon</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>De priester is ontdekt, ô vorst! en in uw magt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Beon.</hi></speaker>
+<l>Uw hoop heeft uit; beken... Gy antwoord niet!.. Myn wacht!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">ziende dat Ammon het zwaard, dat by Amessis noch voor de borst houd, dreigende verheft; spreekt, tegen Biofis.</hi></speaker>
+<l>ô Monster!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Ammon,... Neen; 'k wil strenger wraak verwerven.</l>
+<stage><hi rend="i">Tegen Amessis en Beon.</hi></stage>
+<l>Vertrekt.</l>
+<stage><hi rend="i">Terwyl Ammon het zwaard in de schede steekt.</hi></stage>
+<l rend="; 2tab">Gy beiden zult noch duizend dooden sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Gy zult uw heilloos doel niet treffen; neen, geenszins.</l>
+<stage><hi rend="i">Tegen Amessis, haar omhelzende.</hi></stage>
+<l>Vaar wel, verheven ziel!</l>
+</sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">onder 't omhelzen.</hi></speaker>
+<l>Vaar wel, elendig prins!</l>
+</sp>
+<stage><hi rend="i">Amessis vertrekt naar de eene, en Beon naar de andere zyde, elk van lyfwachten gevolgd.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Biofis, So</hi>ï<hi rend="sc">fis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Hy blyft hardnekkig, schoon de priester is gevangen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Voor 't minst zult ge opening van al 't verraad erlangen:</l>
+<l>De priester had by zich dit sterkbesloten schrift,</l>
+<l>En toonde, toen men 't vond, een hopelooze drift.</l>
+<stage><hi rend="i">Soïfis vervolgt, terwyl Biofis het schrift ontsluit.</hi></stage>
+<l>Hy is in 't hof. Zyn ramp ontstelt de stoutste zinnen;</l>
+<l>En voor d'aanstaande nacht kan Orus niets beginnen.</l>
+<l>'t Geluk begunstigt u... Maar wat verwondering..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Dit is Salatis schrift en onderteekening.</l>
+<l>'k Voorzie de waarheid klaar: myn schoonzoon dicht geen logen;</l>
+<l>Op vorst Salatis last heeft Orus my bedrogen;</l>
+<l>Ik was voordezen by myn' broeder reeds mistrouwd.</l>
+<l>Maar laat ons lezen: hoor wat ons de brief ontvouwt.</l>
+<stage><hi rend="i">Lezende.</hi></stage>
+<l><hi rend="i">Biofis staatzucht is voor Beons hoofd te vreezen:</hi></l>
+<l><hi rend="i">Myn leven loopt op 't einde; ik moet voorzichtig wezen.</hi></l>
+<l rend="; 1tab"><hi rend="i">De zoon van Orus sterft; zyn naam verbergt myn' zoon:</hi></l>
+<l rend="; 1tab"><hi rend="i">Gewaanden Ammozis behoort Egiptes kroon.</hi></l>
+<l><hi rend="i">Men laat, om 't leven van dien erfprins niet te wagen,</hi></l>
+<l><hi rend="i">Een' andren zuigeling den naam van Beon dragen;</hi></l>
+<l rend="; 1tab"><hi rend="i">En deze zuigling word het offer van 't verraad,</hi></l>
+<l rend="; 1tab"><hi rend="i">Indien myn broeder naar zyn' konings leven staat.</hi></l>
+<l><hi rend="i">De priester heeft dit blyk; hy mag het nooit ontsluiten,</hi></l>
+<l><hi rend="i">'t En zy de nood het eisch', om ongeval te stuiten.</hi></l>
+<l rend="; 2tab"><hi rend="i">SALATIS.</hi></l>
+<pb n="46"/>
+<stage><hi rend="i">Na 't lezen, spreekt Biofis.</hi></stage>
+<l>Zie daar nu d'opening, waarmede uw hoop my vleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Wie dacht dat Orus u zo listig had misleid?</l>
+<l>Maar nu de tempelvoogd, verzekerd van 't vertrouwen</l>
+<l>Der opgeruide schaar', dit schrift heeft ingehouên,</l>
+<l>Dat uw bederf zou zyn, zo hy 't ontsloten had;</l>
+<l>Nu gy dit pand bezit, dat Beons hoop bevat;</l>
+<l>Nu kunt ge, in plaats van dit, een ander schrift vertoonen;</l>
+<l>Nu kan uw vyand nooit van ontrouw zich verschoonen;</l>
+<l>Nu kunt ge veilig van dien vyand u ontslaan,</l>
+<l>Amessis blinden, en...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 1tab">Wat nieuwe gruweldaên!</l>
+<l>Hy scheen een muiteling, en zy met hem weêrspannig:</l>
+<l>Maar d'onschuld blykt me klaar; ik vind myzelv' tirannig.</l>
+<l>Amessis was my waard, en haar gemaal myn vrind;</l>
+<l>Hun deugden blonken uit... Wat is de staatzucht blind!</l>
+<l>Ik leer, uit rampen, die verbazend' samenvloeijen,</l>
+<l>Dat zich de goden met den sterveling bemoeijen.</l>
+<l>Wie stortte, tot myn straf, myn' broeder wysheid in?</l>
+<l>Wie treft me in 't hart, in 't heir, in stad en hofgezin?</l>
+<l>Wie, dan die goden, die geen gruwelen gedoogen?</l>
+<l>Ach! op uw' raad heb ik, om 't zorglyk ryksvermogen,</l>
+<l>Myn' opperheer verraên, ben ik een dwingeland,</l>
+<l>En woed ik yslyk op myn eenig huwlykspand.</l>
+<l>Myn hart, myn eigen hart vergunt my geen verschooning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Gy oefende op myn' raad de deugden van een' koning.</l>
+<l>Bewaar uw' goeden naam; herstel uw oud geluk;</l>
+<l>En 't zal bestendig zyn door noch één heldenstuk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Neen, rep van geen geluk, dat my van rust beroofde,</l>
+<l>Dat my de vreugd niet gaf, die ik my dwaas beloofde.</l>
+<l>Gy hebt, uit zelfbelang, arglistig my verleid;</l>
+<l>My 't hoogste heil voorspelt, en 't bitterst leed bereid.</l>
+<pb n="47"/>
+<l>Dit is 't beklaaglyk lot van onbedachte grooten:</l>
+<l>Zy zyn 't staatzuchtig doel van looze gunstgenooten.</l>
+<l>Door u verdien ikzelf den ramp dien Beon lyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Ik hoor met diep ontzag dit smartelyk verwyt.</l>
+<l>Maar kunt ge aan Beon ooit uw vrindschap wedergeven?</l>
+<l>ô Vorst! waak voor uw eer, zo niet voor kroon en leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Myn wroeging pleit voor hem; myn glori eischt zyn dood.</l>
+<l>Had ik hem min getergt, myn eer leed minder nood.</l>
+<l>Zo onze vyandschap in vrindschap kon verkeeren,</l>
+<l>Ten minste zou Egipte als Beons vrind my eeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Wilt gy beproeven, vorst, of hy grootmoedig is?</l>
+<l>Veins dan onttroond te zyn. Dat hy zyn lot besliss';</l>
+<l>Dat hy bewyze of gy, in zyne plaats gevangen,</l>
+<l>Uw eer, uw leven, met zyn vrindschap zoud erlangen.</l>
+<l>Hereent gy u met hem, dan is 't met my gedaan:</l>
+<l>Maar voor myn' koning wil ik alles ondergaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Gy geeft een' goeden raad; ik zal dien raad betrachten:</l>
+<l>Myn schoonzoon zy misleid door myn getrouwste wachten:</l>
+<l>Men veinz' behendig, my te bonzen van den troon;</l>
+<l>Men eere hem in schyn als vorst Salatis zoon.</l>
+<l>Ik heb, word hy myn vrind, niet voor myn eer te vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Maar zo zyn drift u doemt,..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l rend="; 2tab">Dan moet ik dwingland wezen:</l>
+<l>Zo Beon my verwyst, verbied myn glori my,</l>
+<l>Dat ik hem 't leven spaar', en ooit myn schuld bely'.</l>
+<l rend="; 1tab">Gy, wien ik lang vergunde in myn geheim te deelen,</l>
+<l>Wien ik myn raadsbesluit nu min dan ooit durf helen,</l>
+<l>Gevaarlyk dienaar! ducht myn' wensch te wederstaan:</l>
+<l>Gy zoud, verried ge my, niet min uzelv' verraên.</l>
+<l>'k Zal u, zo veel 't my past, myn hoede en gunst verleenen,</l>
+<pb n="48"/>
+<l>Schoon my de goden met myn kinderen hereenen:</l>
+<l>Maar beef, Soïfis! beef, zo gy door snoode list</l>
+<l>My die hereeniging, en myn geluk betwist.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Uw ydel dreigen kan Soïfis niet vertsagen:</l>
+<l>Ik waak voor myn belang, en zal myn hoofd niet wagen.</l>
+<l>Vernoeg uw wroeging vry; beproef hem anderwerf:</l>
+<l>Ik stort hem, door die proef, in zyn gewis bederf.</l>
+</sp>
+<stage><hi rend="i">Einde van het vierde bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="49"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Menes</hi>; <hi rend="i">Lyfwachten, met hem vooraan op het tooneel tredende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Menes</hi>.</speaker>
+<l>Gy wachten, op wier dienst Biofis mag betrouwen!</l>
+<l>Hoort my, naar zyn bevel, u zyn geheim ontvouwen.</l>
+<l>Hy wyt zyn' vyands schuld aan lichtgeloovigheid;</l>
+<l>Hy oordeelt Ammozis door Orus loos misleid;</l>
+<l>Hy wil beproeven of die schoonzoon zich zou kunnen</l>
+<l>Bedwingen in 't geluk, hem 't leven zou vergunnen;</l>
+<l>En zal, uit loutre gunst, Amessis echtgenoot,</l>
+<l>Schoon dinger naar de kroon, niet straffen met de dood,</l>
+<l>Indien 't bedrogen hoofd der blinde muitelingen,</l>
+<l>In schyn als vorst erkend, zo verr' zich kan bedwingen.</l>
+<l>Zo toont de koning, wien men aantast in zyn eer,</l>
+<l>Dat hy geen dwingland is, maar wettig opperheer.</l>
+<l>Ik handel, naar zyn' wil, by zyn gewaande onttroning,</l>
+<l>Biofis als tiran, en Ammozis als koning.</l>
+<l>Gaat; wacht me.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">So</hi>ï<hi rend="sc">fis, Menes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l rend="; 1tab">Heeft de vorst u, Menes, zyn besluit</l>
+<l>Omtrent het hachlyk lot van Ammozis geüit?</l>
+<l>Hy sprak bedekt met u; heeft hy u last gegeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>.</speaker>
+<l>Soïfis, aan myn zorg betrouwt hy kroon en leven:</l>
+<l>'k Ontveins 't u niet, met wien byzelf te rade gaat.</l>
+<pb n="50"/>
+<l>Ik zal myn' pligt voldoen, in schyn van hoog verraad.</l>
+<l>D'ontrouwe, denkt hy, zal te lichter hem verschoonen,</l>
+<l>En op de proef zichzelv' genade waardig toonen,</l>
+<l>Wanneer Amessis weent, en voor haar' vader pleit:</l>
+<l>De vorst belooft zich veel van hare tederheid.</l>
+<l>Zocht ooit een heerscher zo grootmoedig zich te wreken,</l>
+<l>Wanneer men 't ryk verdeelde om hem naar 't hart te steken?</l>
+<l>Dit is de plaats, geschikt tot die gebeurtenis.</l>
+<l>Ik moet my spoên; ik ga, en haal hier Ammozis.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Verblinde koning! tracht myn' vyand vry te sparen;</l>
+<l>Ontwyk en vrees me; stort me in d'uiterste gevaren;</l>
+<l>Welhaast word door een' brief myn ongeluk verhoed.</l>
+<l>Nooit zwicht een vlug vernuft, gesterkt met waren moed.</l>
+<l>Straks word, door listig schrift, die vyand zo verbitterd,</l>
+<l>Dat zyn gewaande deugd, die u in d'oogen schittert,</l>
+<l>Door uw vereeniging my nimmer zal verraên:</l>
+<l>Zyn eigen grimmigheid zal my van hem ontslaan;</l>
+<l>Hy, die u doemen zal, heeft zelf de dood te wachten.</l>
+<l rend="; 1tab">Waar blyft hy? 't ongeduld vermeestert myn gedachten,</l>
+<l>Hoe licht verflaauwt de drift in zyn beleedigd hart,</l>
+<l>Indien 't niet andermaal en tydig word gesard!</l>
+<l>Den loozen brief, waarvan myn welzyn af moet hangen,</l>
+<l>Heeft hy noch niet; dien brief kan hy eerst hier ontfangen;</l>
+<l>En in het eerste woên van zyn getergde drift</l>
+<l>Bestaat alleen de kracht van dat verbittrend schrift.</l>
+<l>Hoe eer hy 't heeft... Hy komt; 'k wil zyn gedachten weten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Beon, So</hi>ï<hi rend="sc">fis, Menes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>.</speaker>
+<l>Gy moet het hard onthaal, uit nood geschied, vergeten.</l>
+<pb n="51"/>
+<l>De vrindschap van den vorst...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 2tab">Ik ken dien dwingeland;</l>
+<l>Ik weet hoe gruwelyk hy pligt en eer verbant;</l>
+<l>Zyn' vorst, zyn' broeders zoon, zyn dochter durft verzaken;</l>
+<l>En onder schyn van recht op 't hoogst zich schuldig maken.</l>
+<l>Amessis vader en myn bloedvrind was my waard;</l>
+<l>Ik zag met deernis hem door u zo snood ontäard:</l>
+<l>Maar 't geld myn echtgenoote; ik heb voor haar te beven;</l>
+<l>Ik gruw van hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">So</hi>ï<hi rend="sc">fis</hi>, <hi rend="i">ter zyde.</hi></speaker>
+<l rend="; 1tab">Die drift, gekoesterd, kost hem 't leven.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Beon, Menes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Menes</hi>.</speaker>
+<l>Het is Biofis wil, dat gy hem hier verwacht.</l>
+<l>Ik heb hem lang gedient; ik heb 't myn' pligt geacht:</l>
+<l>Maar d'opperpriester zelf behartigt uw belangen,</l>
+<l>Noemt u Salatis zoon, en heeft geloof ontfangen.</l>
+<l>Verbeeld u 't grootste deel der wachten op uw zy',</l>
+<l>Elk legerhoofd getrouw voor 't recht der heerschappy,</l>
+<l>Het volk tot nadeel van uw' vyand saamverbonden,</l>
+<l>Met deze maar' een' bode aan Orus afgezonden,</l>
+<l>En u terstond erkend als erfgenaam der kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Hoe, Menes! al myn ramp verdwenen? groote goôn!</l>
+<l>Maar mag ik waarlyk my met die verlossing vleijen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>.</speaker>
+<l>Kan ik myn' waren vorst door logentaal misleiên?</l>
+<l>Wat zou my nopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Niets: uw deugd is my bekend;</l>
+<l>'k Geloof u, op uw woord: de boosheid blykt in 't end';</l>
+<pb n="52"/>
+<l>Gy dient geen' dwingland meer. Maar meld d'omstandigheden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>.</speaker>
+<l>Men zal op 't oogenblik u 't gantsch geheim ontleden.</l>
+<l>Acht u reeds opperheer; en duld, dat ik vertrekk':</l>
+<l>De tyd laat my niet toe, dat ik u meer ontdekk'.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>Gelukkige omkeer! gade en vaderland behouên!</l>
+<l rend="; 1tab">De teêrste liefde moest den wreedsten dwang weêrstaan:</l>
+<l>Ik vreesde Amessis weêr in doodsgevaar t'aanschouwen:</l>
+<l rend="; 1tab">Maar in een oogenblik is al die vrees vergaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Amessis, Beon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Is 't waarheid, Beon! vind d'onnoozelheid ontferming</l>
+<l>By 't magtig godendom?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">'t Vergunt ons zyn bescherming;</l>
+<l>Het stelt, hoe spade, in 't eind' de boosheid aan den dag;</l>
+<l>'t Verlost ons van 't geweld, en schenkt my 't hoog gezag.</l>
+<l>Zo onvoorziens kan 't lot der droevigsten verkeeren.</l>
+<l>Wie op de goôn betrouwt, zal hulp noch heil ontberen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Dierbare echtgenoot! verdien dit groot geluk;</l>
+<l>Verdien der goden hulp, door 't eêlste heldenstuk:</l>
+<l>Gy, die hun voorbeeld volgt, moet schuldigen vergeven:</l>
+<l>Vergeet grootmoedig wat myn vader heeft misdreven.</l>
+<l>Hy, die, met weêrzin wreed, myn leven heeft verschoont;</l>
+<l>Die my dit oogenblik zyn liefde heeft betoont;</l>
+<l>Wien ik zyn tranen zag met myne tranen mengen;</l>
+<l>Heeft slechts uit nood geveinst myn bloed te willen plengen.</l>
+<l>Beschermt hy echter noch 't onwettig ryksgebied,</l>
+<pb n="53"/>
+<l>Hy kent in myn' gemaal zyn' waren koning niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Zo acht gy 't noodig voor uw' vader my te smeeken!</l>
+<l>Kan zich uw echtgenoot op hem lafhartig wreken?</l>
+<l>Het ryk erkent in 't eind' my voor zyn' opperheer;</l>
+<l>'t Verheft, uit leed en hoon, my in gezag en eer;</l>
+<l>'t Verschaft my wraak genoeg, door hem 't gebied t'ontrukken;</l>
+<l>Soïfis kan door hem Amessis niet verdrukken;</l>
+<l>Ik vrees voor u niet meer; al 't onheil is voorby;</l>
+<l>En Beons hart vergeet Biofis dwinglandy.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Amessis, Beon, Kanope</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kanope</hi>.</speaker>
+<l>ô Prins! aan dit geschrift, my heimelyk gegeven,</l>
+<l>Hangt, zo men waarheid spreekt, uw beider dierbaar leven.</l>
+<l>De bode ontweek me fluks, en was my onbekend.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, '<hi rend="i">t geschrift ontsluitende.</hi></speaker>
+<l>Laat ons alleen, Kanope.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Amessis, Beon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Ach! weder nieuwe elend'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">den brief lezende.</hi></speaker>
+<l><hi rend="i">Uw dwingland poogt, ô prins! gewis uw bloed te plengen</hi></l>
+<l rend="; 1tab"><hi rend="i">Voor d' oogen uwer gaê, haar bloed voor uw gezicht,</hi></l>
+<l><hi rend="i">Ja door een lange dood tot wanhoop u te brengen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Opdat gy valsch uzelv' met landverraad beticht.</hi></l>
+<l><hi rend="i">Hy wil u streelen, om te wisser u te treffen;</hi></l>
+<l rend="; 1tab"><hi rend="i">Zyn goedheid is een strik, dien hy uit wreedheid spreid.</hi></l>
+<l><hi rend="i">Een trouwe hulp zal u terstond ten troon verheffen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Verzwyg dit schrift; straf hem; betracht uw veiligheid.</hi></l>
+</sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Myn vader zo geveinsd! Ach! meld men u de waarheid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>De hulp, die reeds ons bleek, vertoont ze in volle klaarheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Hy word op 't snoodst verleid tot zulk een wreed besluit:</l>
+<l>Hy neemt het, maar met smart, en voert het nimmer uit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Neen, vrees, zo lang hy leeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 2tab">Wilt ge u op hem dan wreken?</l>
+<l>Het bloed spreek? u voor hem!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Hoort hy 't voor ons wel spreken?</l>
+<l>Wat dwingeland heeft ooit zo veel als hy verricht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>Hy komt: denk aan myn' angst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 3tab">Ik denk aan mynen pligt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Biofis, Amessis, Beon, Menes</hi>. <hi rend="i">Lyfwachten.
+<lb/>
+Amessis treed aan de eene, en Beon aan de andere zyde van het tooneel, in een peinzende gestalte, en een' schielyken omkeer verwachtende, een weinig achterwaarts. Terwyl spreekt, vooraan op het tooneel getreden</hi>,</stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">ter zyde.</hi></speaker>
+<l>ô Hagchelyke proef, daar 't all' van af moet hangen!</l>
+<stage><hi rend="i">Tegen Amessis en Beon.</hi></stage>
+<l>Treed toe.</l>
+<stage><hi rend="i">Tegen Beon.</hi></stage>
+<l rend="; 1tab">'k Zocht dreigende uw bekentenis t'erlangen:</l>
+<pb n="55"/>
+<l>Maar 'k was noch vader; 'k had noch liefde voor myn bloed:</l>
+<l>Die liefde heeft uw gade, en u met haar behoed.</l>
+<l>Met welk een vreemde list my Orus hebb' bedrogen,</l>
+<l>Uw toestand, waarde zoon! verdient myn mededoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ik heb, helaas! beproeft hoe verre uw ontrouw gaat.</l>
+<l>Gy voegt het wreedst bedrog by 't schandlykst kroonverraad.</l>
+<l>Gy laat d'onmenschlykheid naar goedheid listig zweemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>, <hi rend="i">toegetreden, met een' der lyfwachten, die op dit oogenblik met Beons geweer is uitgekomen, spreekt tegen Biofis.</hi></speaker>
+<l>Ik, die myn' koning dien, moet u 't geweer ontnemen.</l>
+</sp>
+<stage><hi rend="i">Menes ontneemt het geweer aan Biofis, en geeft het aan den wachter, die hem dat van Beon geeft, en naar zyn plaats keert. Intusschen spreekt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Menes.</hi></speaker>
+<l>Hoe! dient ge uw' koning? Neen, ô neen! verblinde wacht!</l>
+<l>Gy waant dat gy den pligt van onderdaan betracht,</l>
+<l>Maar dient den valschen, en veracht den waren koning.</l>
+<l>Wat blyken hebt ge toch? wat wettigt myn onttroning?</l>
+<l>Gy kent uw' vorst niet, neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>, <hi rend="i">tegen Biofis.</hi></speaker>
+<l rend="; 2tab">Ik, die hem waarlyk ken,</l>
+<l>Volvoer gerust den pligt, dien ik hem schuldig ben.</l>
+<stage><hi rend="i">Tegen Beon.</hi></stage>
+<l>Hy, die zyn' opperheer staatzuchtig dorst belagen,</l>
+<l>En waant dat hof en heir zich yvrig voor hem wagen,</l>
+<l>Zal ondervinden, dat de vorstlyke erfenis</l>
+<l>Met haren eigenaar volkomen veilig is.</l>
+<stage><hi rend="i">Hy geeft het geweer aan Beon, tegen wien by knielende spreekt.</hi></stage>
+<l>Laat my (dit eischt myn pligt,) u nedrig hulde toonen,</l>
+<l>Als mynen Koning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l rend="; 1tab">Rys. Ik zal uw' dienst beloonen.</l>
+</sp>
+<stage><hi rend="i">Menes keert terug naar de lyfwachten</hi>,</stage>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Nu 't wuft geluk u streelt, Amessis echtgenoot!</l>
+<l>Verwys, indien gy durft, haar' vader vry ter dood:</l>
+<l>Wees wreed; misduid in my een teder mededoogen;</l>
+<l>En werk uw' eigen val, door 't vleijend ryksvermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>My, die uw veinzen ken, bedriegt ge door geen' schyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">knielende.</hi></speaker>
+<l>Verbitterde gemaal! zoud ge óók onmenschlyk zyn,</l>
+<l>En 't bloed vergieten van den vader uwer gade?</l>
+<l>Verdien, ô Beon! nooit des hemels ongenade.</l>
+<l>Ach! dat uw groote ziel haar grimmigheid bedwing',</l>
+<l>En u op hém niet wreek', maar op zyn' gunsteling.</l>
+<l>Deze edelmoedigheid zal 't hart myns vaders winnen:</l>
+<l>Hy hééft u teêr bemint; hy zál u teêr beminnen.</l>
+<l>Zoud gy gelukkig zyn, zo ik 't met u niet waar'?</l>
+<l>Zo gy uw egaê mint, ontferm u over haar;</l>
+<l>Herstel ons echtheil, by 't verkrygen uwer staten;</l>
+<l>Dwing uw Amessis niet, u doodelyk te haten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">haar opheffende.</hi></speaker>
+<l>Beminlyke egaê, rys; ontroer myn ziel niet meer.</l>
+<l>Gy spreekt als dochter; maar ik waak als opperheer.</l>
+<l>Besef zyn oud verraad; besef zyn nieuwe treken.</l>
+<l>Had ik geen ander leed dan eigen leed te wreken,</l>
+<l>En kon men veilig zich verlaten op zyn trouw;</l>
+<l>'t Is zeker dat ik hem het leven sparen zou.</l>
+<stage><hi rend="i">Tegen Biofis.</hi></stage>
+<l>Amessis echtgenoot moet zich uw' rechter toonen;</l>
+<l>Gy dwingt me 'er toe; ik wil, maar kán u niet verschoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>Zo durft ge..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l rend="; 1tab">Wreed gemaal, die onverbidlyk zyt!</l>
+<l>Deert u de doodsangst niet, dien uwe gade lyd?</l>
+<l>Welaan, is 't uw besluit, den vader óm te brengen,</l>
+<l>Laat dan niet na, het bloed der dochter óók te plengen:</l>
+<pb n="57"/>
+<l>Dan is de kortste dood de beste dood voor my.</l>
+<l>Myn vader, dien gy doemt, is niet zo wreed als gy:</l>
+<l>Gy durft, niet meer gedreigd in kroon, in eer, of leven,</l>
+<l>Uw kermende echtgenoote in hem den doodslag geven;</l>
+<l>Daar hy, op 't snoodst misleid, geperst door hoogen nood,</l>
+<l>En fel gewroegd, op nieuw tot tiranny besloot.</l>
+<l>Ontzeg my niet, de list eens vleijers na te sporen;</l>
+<l>Dan zult ge in 't grimmig hart uw drift uit deernis smooren.</l>
+<l>Ontzie de kracht van 't bloed; ontzie de huwlyksmin;</l>
+<l>Of ken in uwe gade uw grootste vyandin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Ach! moet ge, feller dan uw vader, my verdrukken?</l>
+<l>Uw wanhoop smart my meer, dan al myn ongelukken.</l>
+<stage><hi rend="i">Tegen Biofis.</hi></stage>
+<l>Gy hebt uw' vorst welëer verraên om 't hoog gezag;</l>
+<l>Gy hebt uw schuld verzwaart op dezen droeven dag;</l>
+<l>Gy waart dit oogenblik van d'eigen wreedheid zwanger;</l>
+<l>De brave veldheer spreekt; de priester zwygt niet langer;</l>
+<l>Die mannen, zo oprecht, getuigen wie ik ben;</l>
+<l>Salatis, ja uw hart getuigt het neffens hen;</l>
+<l>Ik heb het wettigst recht om my op u te wreken:</l>
+<l>Maar 'k hoor myn echtgenoote in wanhoop voor u spreken;</l>
+<l>Ik ben een teêr gemaal, die haar van u ontfing;</l>
+<l>Ik ben uw' broeders zoon, en 's veldheers voedsterling:</l>
+<l>Ik wil Soïfis voor myn' hoofdverrader houên,</l>
+<l>In hoop dat u in 't einde uw wreedheid zal berouwen.</l>
+<l>Leef, leef gelukkig; poog, na nutte tegenheên,</l>
+<l>Op 't heilryk glorispoor uw' broeder na te treên:</l>
+<l>Zo zal Biofis, die Salatis kroon moet derven,</l>
+<l>Egiptes achting met myn vrindschap weêr verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Waard gemaal!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Beon.</hi></speaker>
+<l rend="; 1tab">Gy spreekt ons beider vonnis uit.</l>
+<l>Verneem een nut bedrog; verneem een groot besluit.</l>
+<pb n="58"/>
+<stage><hi rend="i">Tegen Menes.</hi></stage>
+<l>Bewys wie magt heeft om te sparen, of te doemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Menes</hi>, '<hi rend="i">t geweer aan Biofis wedergevende.</hi></speaker>
+<l>Gy zyt onze opperheer.</l>
+</sp>
+<stage><hi rend="i">Menes keert terug naar de lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Beon.</hi></speaker>
+<l rend="; 2tab">Ik kan 't my nóch beroemen;</l>
+<l>Het veinzen van myn wacht is op myn' last geschied;</l>
+<l>De magt, die my beschermt, zwicht noch voor d'uwe niet;</l>
+<l>Ik kan op 't oogenblik myzelven wraak verschaffen,</l>
+<l>Den dinger naar het ryk als landverrader straffen,</l>
+<l>En leven, eer, en kroon behoeden voor gevaar:</l>
+<l>Maar ik ben schuldig, en de misdaad weegt me zwaar.</l>
+<l>Salatis heimlyk schrift heeft my uw recht bewezen;</l>
+<l>'k Erken u voor zyn' zoon, tot myn geluk verrezen.</l>
+<l>Gy, in uw jeugd, ô prins! gestreeld door kroon en staf,</l>
+<l>Vergeeft uw' vyand meer, dan iemant ooit vergaf;</l>
+<l>Toont u, na 't vinnigst leed, op d'eêlste wyz' bevredigd:</l>
+<l>Gy zyt, als bloedverwant en koning, wreed beleedigd;</l>
+<l>Noch wreeder in uw eer en dierbare echtgenoot;</l>
+<l>En bied me uw vrindschap aan: uw ziel is waarlyk groot.</l>
+<l>Myn staatzucht, loos gevleid, vermeesterde myn zinnen;</l>
+<l>Uw voorbeeld leert me in 't eind' myzelven overwinnen.</l>
+<stage><hi rend="i">Knielende.</hi></stage>
+<l>Ontfang Biofis hulde, als wettig opperheer:</l>
+<l>Uw dwingland, noch in staat, herstelt u in uw eer.</l>
+<l>Uw deugd kon, wreed verdrukt, my wel genaê betoonen;</l>
+<l>Zy zal, naar eisch erkend, niet minder my verschoonen.</l>
+<l>ô Beon! ken in my uw' trouwsten onderdaan,</l>
+<l>Geneigd om neffens u naar waren roem te staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>.</speaker>
+<l>ô Blydschap!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>, <hi rend="i">den knielenden Biofis omhelzende, en vervolgens hem opheffende.</hi></speaker>
+<l rend="; 1tab">Broeder van Salatis! waarde vader!</l>
+<l>Hoe valsch beschuldigde u een listig hofverrader!</l>
+<pb n="59"/>
+<l>Een onbekende hand ontstak, door logenschrift,</l>
+<l>Bedekt my toegeschikt, my tegen u in drift.</l>
+<l>Wie, dan Soïfis, heeft my 't lasterschrift gezonden?</l>
+<l>Hoe wys ontwykt ge in 't end' zyn gruwelyke vonden!</l>
+<l>Had my dat vloekgedrocht op u niet aangesart,</l>
+<l>Ik had geen ydle wraak gekoestert in myn hart;</l>
+<l>En, zo ik eenigzins uw' inkeer had geweten,</l>
+<l>Terstond het ongelyk vergeven en vergeten.</l>
+<l>Ik zal 't bewyzen. Gy, tot hooge deugd bekwaam,</l>
+<l>Verdient ontzag: regeer; 'k vernoeg me als erfgenaam.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>.</speaker>
+<l>ô Neen, geliefde zoon! u past, niet my, die luister.</l>
+<l>Onthef myn zuchtend hart van zyn vergulde kluister;</l>
+<l>Onthef my van myn' ramp; en wreek u niet op my,</l>
+<l>ô Beon! door 't geschenk der opperheerschappy.</l>
+<l>'k Verlaat een' troon, waarop de wroeging my deed beven.</l>
+<l>Ach! mogt my 't godendom, zo wel als gy, vergeven!</l>
+<l>'t Aanschouwt het groot berouw, dat waarlyk my bezielt;</l>
+<l>Het kent den hoveling, die dit berouw weêrhield;</l>
+<l>Den vleijer, zonder wien gy nimmer waart verraden;</l>
+<l>Den booswicht, die de vrees van wraak voor euveldaden</l>
+<l>Verbande uit myn gemoed; reeds in myn eerste jeugd</l>
+<l>Het veinzend zelfbelang my aanprees als een deugd;</l>
+<l>Toen ik uw onschuld wist, uw dood op nieuw my vergde;</l>
+<l>En u, zo fel getergd, door logens feller tergde,</l>
+<l>Opdat ik, radeloos, my weêr aan hem verbond.</l>
+<l>'t Zal duidlyk blyken, dat hy 't lasterschrift u zond:</l>
+<l>Geen ander had belang om ons vanëen te scheiden.</l>
+<l>Straf dien bedrieger; wreek de goden; wreek ons beiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">tegen Biofis.</hi></speaker>
+<l>Ach! dat ik u omhelz'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">in de armen van Amessis.</hi></speaker>
+<l rend="; 1tab">Myn wreedheid...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amessis</hi>, <hi rend="i">onder 't omhelzen.</hi></speaker>
+<l rend="; 2tab">Staak die taal:</l>
+<l>Myn vader is in deugd gelyk aan myn' gemaal.</l>
+<pb n="60"/>
+<stage><hi rend="i">Haar' echtgenoot omhelzende.</hi></stage>
+<l>ô Beon! wat geluk voor myn ontroerde zinnen!</l>
+<l>Uw edelmoedigheid kan alle harten winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beon</hi>.</speaker>
+<l>Besef hoe zich myn liefde om uw geluk verblyd.</l>
+<stage><hi rend="i">Tegen Biofis.</hi></stage>
+<l>Hoe meer gy 't ryk versmaad, hoe meer gy 't waardig zyt.</l>
+<l>'t Is voor den stervling veel, het eerspoor nooit te missen;</l>
+<l>Maar u noch meer, uw schuld grootmoedig uit te wisschen.</l>
+<l rend="; 1tab">De boosheid zy gestraft, d'onwetendheid verschoond,</l>
+<l>En d'ongeveinsde trouw door u en my beloond.</l>
+<l>Wy zyn volmaakt hereend, door vrindschap en belangen.</l>
+<stage><hi rend="i">Tegen de lyfwachten.</hi></stage>
+<l>Getrouwe dienaars, neemt Soïfis fluks gevangen.</l>
+</sp>
+<stage><hi rend="i">Menes vertrekt, met twee der lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Biofis</hi>, <hi rend="i">tegen Beon.</hi></speaker>
+<l>Ik heb, om 't waar geluk, het schyngeluk verzaakt;</l>
+<l>En meer genoegen in dit oogenblik gesmaakt,</l>
+<l>Dan in den langen tyd van 't rusteloos regeeren.</l>
+<l>'k Erken 't bestier der goôn, die my door d'uitkomst leeren,</l>
+<l>Dat niemant ooit met recht gelukkig word geacht,</l>
+<l>Dan die den hemel vreest, en zynen pligt betracht.</l>
+<l rend="; 1tab">Laat ons, ô waarde prins! by 't angstig volk verschynen;</l>
+<l>De poort ontsluiten voor uw vrinden, nu de mynen;</l>
+<l>Oprechte dankbaarheid betuigen aan de goôn;</l>
+<l>En 't ryk gelukkig zien, door vorst Salatis zoon.</l>
+</sp>
+<stage><hi rend="i">EINDE.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

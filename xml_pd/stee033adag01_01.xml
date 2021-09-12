@@ -1,0 +1,3353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Ada, gravin van Holland en Zeeland</title>
+               <author>Frans van Steenwijk</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Ada, gravin van Holland en Zeeland</hi> van Frans van Steenwijk uit 1754.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 47: een aantal in het origineel slecht leesbare tekens zijn hier weergegeven tussen vierkante haken.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="pi">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>*1v, *2v</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">stee033adag01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 4 B 14: 1</idno>
+               </bibl>
+               <p>Frans van Steenwijk, <hi rend="i">Ada, gravin van Holland en Zeeland</hi>. Izaak Duim, Amsterdam 1754</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Ada, gravin van Holland en Zeeland</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Ada, gravin van Holland en Zeeland</title>
+               <author>Frans van Steenwijk</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-30</date>
+               <respStmt>
+                   <name type="person">AS</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="dordr001"/>
+</interpGrp>
+<body>
+<div type="chapter">
+    <pb n="π1"/>
+<p><figure>
+<p><xptr to="stee033adag01ill0006.gif"/></p>
+</figure></p>
+<pb n="*1r"/>
+<p><figure>
+<p><xptr to="stee033adag01ill0001.gif"/></p>
+</figure></p>
+<cf>
+<pb n="*2r"/>
+<p>ADA,</p>
+<p>GRAVIN van HOLLAND en ZEELAND;</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p><figure>
+<p><xptr to="stee033adag01ill0002.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By Izaak Duim, Boekverkooper op den hoek van den Voorburgwal en Stilsteeg, 1754. <hi rend="i">Met Privilegie.</hi></p>
+</cf>
+
+<div type="section">
+<pb n="*3r"/>
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland doen te weten: alzo Ons te kennen is gegeven by de Regenten van het Wees-en Oude Mannenhuys der Stad Amsterdam, en in die qualiteyten te samen Eygenaars, mitsgaders Regenten van den Schouwburg aldaar, dat zy Supplianten eenige Jaaren hadden gejoüisseert van 't Octrooy of Privilegie by hen van Ons op den 27. May 1728 geobtineert, waar by Wy aan hun Supplianten goedgunstelyk hadden geaccordeert, en geoctroyeert, om, geduurende den tyd van vyftien doen eerst agter een volgende Jaaren, de Werken, die ten dienste van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het licht gebragt, en ten Toneele gevoert zouden mogen werden alleen te mogen drukken, doen drukken, uytgeeven ende verkoopen, en bevonden dat de Jaaren, by 't voorsz. Octroy of Privilegie genoemt, op den 27 May 1743, stonden te expireeren, en dewyle zy Supplianten ten meesten dienste van den Schouburg, waar van hunne respective Godshuyzen onder andere mede moeten worden gesustenteert, de voorgenoemde Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, die reets gedrukt, en ten Toneele gevoert waren, of in toekomende gedrukt, en ten Toneele gevoert zoude mogen werden, gaerne alleen, gelyk voorheen, zouden blyven drukken, doen drukken, uitgeven en verkopen, ten einde dezelve Werken, door het nadrukken van andere, haar luister, soo in taal, als in spelkonst, niet mogten komen te verliesen: en dewyle sulx haar Supplianten na de expiratie van 't bovengemelte Octroy, niet gepermitteert was, zoo keerden zy Supplianten haar tot Ons, reverentelyk verzoekende, dat Wy aan hun Supplianten in kwaliteyten voorsz. geliefden te verleenen prolongatie van het voorsz. Octroy of Privilegie, om de voorsz. Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, reets gemaakt, en ten Toneele gevoert, of als nog in het ligt te brengen, en ten Toneele te voeren, den tyd van Vyftien eerstkomende, en agtereen volgende Jaaren, alleen te mogen drukken,
+en Verkoopen, of te doen drukken, en verkopen, met verbod aan alle andere op seekere hooge Feene by Ons daar tegens te Statueeren, SOO IS 't, dat Wy, de Saake, ende 't voorsz. verzoek overgemerkt hebbende, ende geneegen weezende ter bede van de Supplianten uyt Onze regte wetenschap, Souveraine Magt ende Authoriteyt, deselve Supplianten geconsenteert, geaccordeert, en geoctroyeert hebben, consenteeren, accordeeren, en octroyeeren hen by dezen, dat Zy, geduurende den tyd van Vyftien eerst Agte teenvolgende Jaaren, de voorsz. Werken, die ten diensten van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het ligt gebragt, en ten Toneele gevoert zouden mogen werden, in diervoegen, als zulx by de Supplianten is verzogt, en hiet vooren uytgedrukt staat, binnen den voorsz. Onzen Landen alleen zullen mogen Drucken, doen Drucken, uytgeven ende verkopen, verbiedende daarom me alle ende eenen ygelyken dezelve Werken, in 't geheel, ofte ten deele te Drucken, naar te Drukken, te doen Naardrukken, te Verhandelen, of te Verkopen, ofte elders Naargedrukt binnen den selven Onzen Landen te brengen, uyt te geven, of te Verhandelen en Verkopen, op Verbeurte van alle de nagedrukte, ingebragte, verhandelde of verkogte Exemplaren, ende een boete van drie duysend guldens daar en boven te verbeuren, te Appliceeren een derde part voor den Officier, die de Galange doen
+<pb n="*3v"/>zal, een derde part voor den Armen der plaatzen daar het Casus voor vallen zal, ende het resteerende derde part voor de Supplianten, ende dit t' elkens zoo meenigmaal, als dezelve zullen werden agterhaalt, alles in dien verstande, dat Wy de Supplianten met dezen onzen Octroye alleen willende gratificeeren tot verhoedinge van hunne schade door het Nadrucken van de voorsz. Werken, daar door in geenigen deele verstaan, den innehouden van dien te autoriseeren, ofte te Advouëten, ende veel min dezelve onder onze protextie, ende bescherminge, eenig meerder Credit, aanzien ofte reputatie te geeven, nemaar de Supplianten in cas daar inne iets onbehoorlyks zoude influëren, alle het zelve tot hunne Lasten zullen gehouden weezen te verantwoorden, tot dien eynde wel Expresselyk begerende, dat by aldien zy dezen onzen Octroye voor dezelve Werken zullen willen stellen, daar van geene geäbbrevieerde ofte gecontraheerde mentie zullen mogen maken, nemaar gehouden wezen, het zelve Octroy in 't geheel; en zonder eenige ommissie daar voor te drucken, of te doen drucken, ende dat zy gehouden zullen zyn, een Exemplaar van de voorsz. Werken, op Groot Papier, gebonden en wel geconditioneert te brengen in de Bibliotheek van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat zy Supplianten dezelve Werken zullen hebben beginnen uyt te geeven, op een boete van zes hondert guldens, na expiratie der voorsz. zes Weeken, by de Supplianten te verbeuten ten behoeve van de Nederduytse Armen van de plaats alwaar de Supplianten wonen; voorts op peene van met 'er daad versteeken te zyn van het effect van dezen Octroye. Dat ook de Supplianten, schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz. Onse Bibliotheek, by zoo verte zy geduurende den tyd van dit Octroy deselve Werken zouden willen herdrucken met eenige Observatiën, Noten, Veranderingen, Correctiën, Vermeerderingen of anders, hoe genaamt, of ook in een
+ander formaat, gehouden zullen zyn wederom een ander Exemplaar van dezelve Werken, geconditioneert als voren, te brengen in de voorsz. Bibliotheek, binnen deselve tyd, en op de boete en penaliteyt, als voren. Ende ten eynde de Supplianten desen onsen Consente ende Octroye mogen genieten als naar behooren, lasten wy allen ende een yegelyk, die 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laten, ende gedogen, rustelyk, vredelyk, ende volkomentlyk genieten ende gebruyken, cesseerende alle belet ter contrarie. Gegeven in den Hage, onder onzen Grooten Zegele hier aan doen hangen op den zesden December, in 't Jaar onzes Heeren en Zaligmakers duysend zevenhonderd tweeënveertig.</p>
+<p>J.H.V. Wassenaar.</p>
+<p>(Onder stond,) ter Ordonnantie van de Staten,</p>
+<p>(Was getekent) WILLEM BUYS.</p>
+<p>(Lager stond,)</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gestelt by Extract Authenticq, haar Ed.Gr.Mog. Resolutien van den 18. Juny, 1715, en 30. April, 1728, ten einde om zig daar na te reguleeren,</p>
+<p>De Regenten van het Wees-en Oude Mannenhuis hebben, in hunne voorsz qualiteit, het techt van deze Privilegie, alleen voor den tegenwoordigen druk, van <hi rend="i">Ada, Treurspel</hi>, vergunt aan <hi rend="i">Izaak Duim. In Amst. den</hi> 4. <hi rend="i">Jan.</hi> 1754.</p>
+</div></div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="feit003"/>
+<interp type="primair" value="stee033"/>
+</interpGrp>
+<pb n="*4r"/>
+<head rend="h3">Toewying aan den heere Sybrand Feitama.</head>
+<lg type="poem">
+<l>Geoefende yveraar voor Neêrlands poëzye!</l>
+<l rend="; 1tab">Gy staat uw' kunstzoon dan in 't einde gunstig toe,</l>
+<l>Dat zyne erkentnis u de treurende Ada wye,</l>
+<l rend="; 1tab">En aan uw' grooten naam zo klein een hulde doe!</l>
+<l>Wie kan my, meer dan gy, voor lasterschichten dekken?</l>
+<l>Myn voedstervader zal myn' trouwen schutsheer strekken.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ik wacht niet dat uw gunst, uit blinde eenzydigheid,</l>
+<l>Myn treurspel eenigzins van feilen vry zal spreken,</l>
+<l rend="; 1tab">Zo 't kunstrecht tegen my met oordeel word bepleit:</l>
+<l>Neen, strenge <hi rend="sc">Feitama</hi>! neen, vyand der gebreken!</l>
+<l rend="; 1tab">Bescherm myn lettervrucht, daar Momus Midas sterkt,</l>
+<l rend="; 1tab">En de afgunst tot bederf des zangbergs medewerkt.</l>
+<l>&nbsp;</l>
+<l>Zo mag ik veilig u myn' arbeid aanbevelen.</l>
+<l rend="; 1tab">'t Gaat zeker dat uw naam, by kundigen beroemd,</l>
+<l>Dit offer, hoe gering, een' luister meê zal deelen,</l>
+<l rend="; 1tab">Zolang het dichterdom dien naam met eerbied noemt,</l>
+<l>Uw vaerzen 't eêlste blyk van treurtooneelkunst geven,</l>
+<l>En grooten Henrik met Telemachus doen leven.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab"><hi rend="i">F.V. STEENWYK.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="*4v"/>
+<head rend="h3"><hi rend="i">Voorrede.</hi></head>
+<p>De byzondere omstandigheden in de gebeurtenis der gravinne Ada, die my duister voorkwamen toen ik dit treurspel dichtte, vond ik sedert veel opgehelderd door den schryver der Vaderlandsche Historie, waarom ik, myn werk daaraan toetsende, noodig heb geoordeeld vele verbeteringen te maken. De zulken, die in de tooneelpoëzy ervaren zyn, zullen eenige poëtische vryheden, die de geschiedenis betreffen, en by die verbeteringen niet zyn uitgemonsterd, onder myne kunstfeiten niet tellen. Om voor te komen dat echter iemant, onkundig van de noodzakelyke voorrechten der tooneelpoëzye, maar in onze Nederlandsche gebeurtenissen bedreven, zich te onrecht aan myne behandeling stoote; acht ik het niet ondienstig iets tot myne verdediging by te brengen.</p>
+<p>De grootste tooneeldichters hebben, om hunne oogmerken te bereiken, onbeschroomd van die poëtische voorrechten gebruik gemaakt, in het verschikken der zaken en veranderen der omstandigheden hunner onderwerpen. Zy zyn daartoe gewettigd door de reden en door de ervarenis, de eenige uitvinderessen der gelukkige tooneelregelen. De ervarenis onderwyst hoe men kan, en de reden leert hoe men op eene betamelyke wyze moet behagen. Hierdoor word een vermaak, dat by
+<pb n="*5r"/>velen door misbruik in verachting is, niet alleen eene oorbare, maar ook eene nutte uitspanning, waardoor men, onder het roeren der driften, den aanschouwer edelmoedige neigingen spelende inboezemt. De kunstregels, dat heilzaam oogmerk bedoelende, zyn in groote menigte. Wat onderwerp is dan tot een treurspel bekwaam, indien men te werk gaat als een getrouw historieschryver? Deze heeft andere inzigten dan een dichter. Men zou de schoonste onderwerpen, waaruit de nutste leere is te trekken, niet met eenen goeden uitslag ten tooneele kunnen voeren, indien men in een treurspel verbonden ware aan de juiste orde der tyden, en aan elke omstandigheid.</p>
+<p>Het is my bekend, dat men de poëtische vryheden niet te verre mag uitbreiden. Adelheide en Willem mogen wel als grootmoedigen, maar niet zonder staatzucht, en Ada moet als eene ongelukkige voorgesteld worden. De begeerte van den grave Diederik om voor zyne dood zich met zynen broeder te verzoenen, zyn laatste wil ten opzigte van het voogdyschap, de vreemde toeleg der moeder, de misslag der misleide dochter, de baatzuchtige bystand des Utrechtschen bisschops, de ingewikkelde hulp van deszelfs leenman Gysbrecht van Amstel, de tegenstand veler misnoegde edelen, en eindelyk de uitslag der bloedige tweespalt tusschen Willem en Lodewyk; alle die bekende waarheden zyn, gelyk ik my durf vleijen, door geene tegenstrydige byverdichtselen in dit tooneelstuk misvormd. Myne genomen vryheden,
+<pb n="*5v"/>die de historie betreffen, en niet zyn uitgemonsterd, bestaan wel in de verschikking van sommige zaken, maar, zo verre my bekend is, in geene verandering, dan ten aanzien van eenige omstandigheden, waarvan de voornaamste deelen dezer geschiedenisse niet afhangen.</p>
+<p>Ik oordeel hier genoeg bygebragt te hebben tot verdediging en bepaling der poëtische voorrechten. Men zal my toestaan, dat ze niet zyn te verwerpen, indien ze, zonder de wezendlyke deelen eener bekende gebeurtenisse aan te tasten, een leerzaam vermaak bedoelen. Alle dichters hebben zich dat oogmerk niet voorgestelt: men ziet in vele tooneelstukken, de ondeugden geblanket; valsche eer, onverzadelyke staatzucht, onverzoenlyke haat, en bloedige wraak, komen daarin voor als ware heldendeugden: men roert de driften; men koestert de kwade neigingen; de dichter behaagt; en de tooneelpoëzy word gelasterd, door velen die hare echte-schoonheden niet kennen. Ik heb getracht die klippen te vermyden.</p>
+<p>Uit welgestelde treurspelen behoort men altoos te leeren ‘Dat iemant, boven anderen in staat uitmuntende, niet boven zynen pligt is verheven; maar dat men, dien verzuimende, zyne wezendlyke belangen verwaarloost.’ Dit vloeit uit het onderwerp van myn treurspel; dit ziet men in de ongelukkige Ada, schoon eer een teder medelyden, dan eene gestrenge berisping verdienende; dit ziet men in de staat-<pb n="*6r"/>zuchtige Adelheide. Uit de rampen, door misslagen veroorzaakt, zyn heilzame leeringen te trekken, en bovenal wanneer men deel neemt in de belangen der genen die de misslagen begaan. Om tot dat einde de vorstelyke weduw niet te schuldig voor te stellen, vertoont men hier de hatelykheid van haren toeleg inzonderheid in het gedrag des bisschops van Utrecht, aan wien den aanschouwer minder is gelegen dan aan de moeder van Ada.</p>
+<p>Deze bisschop was Diederik Vander Are. Ik heb, in de lyst der personaadjen en elders, zynen voornaam achterwege gelaten, opdat men dezen Diederik niet verwarre met den Hollandschen grave Diederik, in dit tooneelstuk dikwyls genoemd. Het graafschap Oostergo en Westergo, het voornaamste gedeelte van ons Vriesland uitmakende, noem ik Oostvriesland, dewyl hetzelve, ten tyde der gebeurtenisse van dit treurspel, in 't gemeen onder dezen naam was bekend.</p>
+</div>
+<div type="chapter">
+<pb n="*6v"/>
+<head rend="h3">Personaadjen.</head>
+<list>
+<item><hi rend="sc">Adelheide</hi>, weduw van den grave Diederik den zevenden.</item>
+<item><hi rend="sc">Ada</hi>, gravin van Holland en Zeeland, dochter van Diederik en Adelheide.</item>
+<item><hi rend="sc">Willem</hi>, graaf van Oostvriesland, broeder van Diederik.</item>
+<item><hi rend="sc">Lodewyk</hi>, graaf van Loon.</item>
+<item><hi rend="sc">Vander Are</hi>, bisschop van Utrecht.</item>
+<item><hi rend="sc">Gysbrecht van Amstel</hi>, de eerste van dien naam.</item>
+<item><hi rend="sc">Hildegaard</hi>, staatjuffer van Adelheide.</item>
+<item><hi rend="sc">Reinoud</hi>, hoofdman der lyfwachten.</item>
+<item><hi rend="sc">Gevolg</hi> van den grave Willem.</item>
+<item><hi rend="sc">Lyfwachten</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>Het TOONEEL is te DORDRECHT, in het graaflyk hof.</p>
+<pb n="t.o. *6v"/>
+<p><figure>
+<p><xptr to="stee033adag01ill0003.gif"/></p>
+</figure></p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Ada, gravin van Holland en Zeeland;
+<lb/>
+<hi rend="i">treurspel.</hi></head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Het aklig sterflot heeft graaf Diedrik ons onttogen,</l>
+<l>En gy, zyn weduw, voor myn smeeken onbewogen,</l>
+<l>Verdubblende in myn ziel den kinderlyken rouw,</l>
+<l>Begeert een huwlyksfeest, een schandelyke trouw!</l>
+<l>Een moeder noopt haar kroost (hoe doet uw eisch my gruwen!)</l>
+<l>By 't onbegraven lyk eens vaders laf te huwen!</l>
+<l>Voegt Diedriks droeve wees de vreugd der huwlyksmin?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>U past een groot bestaan, als Hollands erfgravin.</l>
+<l>Laat ons, uit hoogen nood, eene ydle droefheid smooren.</l>
+<l>Bedenk wien Diederik tot landvoogd heeft verkoren.</l>
+<l>Myn dochter, koos hy niet zyn' broeder, die ons haat,</l>
+<l>Oostvrieslands trotsen graaf, die naar uw erfdeel staat?</l>
+<l>Moet gy dien wrevlen oom als uwen voogd erkennen?</l>
+<l>Moet Willem aan zyn wet voor altoos u gewennen?</l>
+<l>Uw minderjarigheid vereischt een echtverbond.</l>
+<pb n="2"/>
+<l>Heeft Diedrik, myn gemaal, niet met zyn' veegen mond</l>
+<l>My vruchteloos gesmeekt dien broeder hier te ontbieden,</l>
+<l>Ten zoen der oude wraak, in 't vorstlyk huis aan 't zieden?</l>
+<l>Heb ik, uit zorg voor u, myn' waarden echtgenoot</l>
+<l>Doof uitstel niet belet, op 't nadren van zyn dood,</l>
+<l>Tot Willem 't laatst vaarwel zieltogende uit te spreken?</l>
+<l>En eischt gy tot uw' voogd dien graaf, die zich zou wreken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Helaas! die vreemde zorg van uw gevoelloos hart</l>
+<l>Is oorzaak dat ik zucht in onvergeetbre smart.</l>
+<l rend="; 1tab">Myn dierbre vader, die, verhinderd door myn moeder,</l>
+<l>U niet in 't uiterste uur verzoende met uw' broeder!</l>
+<l>Hoe deerlyk was uw lot! hoe bant men allen troost</l>
+<l>Voor eeuwig uit de ziel van uw elendig kroost!</l>
+<l>Uwe Ada, waarlyk droef, zal deze treurgewaden</l>
+<l>Niet wisslen, u ten schimp, voor blyde feestsieraden.</l>
+<l rend="; 1tab">Vorstin, wat heilzaam eind' bedoelt uw wreede dwang?</l>
+<l>Wat nut belooft myn echt voor 't wigtig staatsbelang?</l>
+<l>Gy hoont Oostvrieslands graaf en de eedlen myner landen.</l>
+<l>Geef hen, naar Diedriks wil, het hoog bestier in handen,</l>
+<l>Totdat een ryper jeugd my veste in 't erflyk recht.</l>
+<l>Hoe durf ik Lodewyk, door dien gevreesden echt,</l>
+<l>Naar uw geheim besluit tot Hollands graaf verheffen?</l>
+<l>Zou hun getergde wraak dien vreemdeling niet treffen,</l>
+<l>En my niet dwingen, my, met oneer overlaên,</l>
+<l>By 't breken myner trouw 't voogdyschap te ondergaan?</l>
+<l>Gy zult, na ryp beraad, myn weigring billyk keuren.</l>
+<l>Laat dit gevoelig hart myn' vaders dood betreuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Ik treur, om 't zwaar verlies, met u. Maar ach! ontslaat</l>
+<l>Die smart my van de zorg voor uw' gedreigden staat?</l>
+<l rend="; 1tab">Wie, van 't geheim bewust, misleid uw zwakke zinnen?</l>
+<l>'k Wist Meerhem, met een deel der edelen, te winnen:</l>
+<l>Stemt Altena, Leerdam, en Voorne heimlyk niet</l>
+<l>In uw' gewenschten echt en 's bruîgoms landgebied?</l>
+</sp>
+<pb n="3"/>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Zal hun gewonnen stem myn' voogd, graaf Willem, stuiten,</l>
+<l>En all' den adel in uw' toeleg doen besluiten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Gy doemt, uit ydle vrees, uit onervarenheid,</l>
+<l>Uit wantrouw, die my hoont, een heilzaam staatsbeleid.</l>
+<l>'t Is noodig dat myn zorg uw tedre jeugd bestiere,</l>
+<l>En Dordrecht dezen dag uw vorstlyk huwlyk viere.</l>
+<l>De Stichtsche bisschop zelf, in uw belang gebragt,</l>
+<l>En ieder oogenblik uit Utrechts wal verwacht,</l>
+<l>Zal in de hofkapel de plegtigheid voltrekken,</l>
+<l>En door zyne achtbaarheid ons voor misnoegden dekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Dat Amstel u 't gevaar van 't heilloos huwlyk toon'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Geen vrees weêrhoud u; neen: gy haat den graaf van Loon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ach! haat ik Lodewyk? Kan zich myn min verbergen?</l>
+<l>Gy, die myn zwakheid weet, moet gy myn driften tergen,</l>
+<l>Opdat myn teder hart, naar uw begeerte, in 't end'</l>
+<l>Myne eer, myn' kinderpligt, myn' vaders glorie schend'?</l>
+<l>Myn boezem voelt een' stryd van vyandlyke togten:</l>
+<l>Myne eerzucht had voor my de zege reeds bevochten,</l>
+<l>Indien uw bystand voor de liefde, die my blaakt,</l>
+<l>Myne overwinning niet bezwaarlyk had gemaakt.</l>
+<l rend="; 1tab">Zie, zie uwe Ada voor uw voeten neêrgebogen;</l>
+<l>Betoon myn zwakke jeugd een gunstig mededoogen;</l>
+<l>Geef my bewyzen van een moederlyk gemoed;</l>
+<l>Hernieuw in my de kracht van 't vorstlyk heldenbloed.</l>
+<l>Dat bloed, in my gevloeid uit u en uit myn' vader,</l>
+<l>Bewege uw straffe ziel voor hem en my te gader!</l>
+<l>Zo blyk' dat gy zyn' wil, zyn' laatsten wil ontziet!</l>
+<l>Herdenk zyn min tot u; verdruk zyn dochter niet;</l>
+<l>Laat af meer voedsel aan myn' liefdegloed te geven.</l>
+<l>Indien gy wreed volhard, berooft ge my van 't leven.</l>
+</sp>
+<pb n="4"/>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Wat gaat u aan? Rys op. Myn toeleg is een blyk</l>
+<l>Der moederlyke zucht. Ik wacht hier Lodewyk:</l>
+<l>Hy spreke u. Zou zyn min uw glorie niet betrachten?</l>
+<l>Hy deelt in onzen rouw, en zal uw' druk verzagten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Neen; Hollands erfgravin, onkreukbaar in haar' pligt,</l>
+<l>Ontwykt met bittre smart voor eeuwig zyn gezigt.</l>
+<l>Geef hem geen hoop, vorstin; gy zoud vergeefs hem vleijen.</l>
+<l>Het voegt geen droeve wees te huwen, maar te schreijen.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Adelheide, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Het deert my, Hildegaard, in haar' gepasten rouw,</l>
+<l>En in myn zwaar verlies, tot die bestemde trouw</l>
+<l>Myn eenig huwlykspand zo wreed te moeten nopen:</l>
+<l>Maar buiten 't echtverbond heeft Ada niets te hopen.</l>
+<l>Uit Amstels ydlen schroom spruit al haar tegenstand.</l>
+<l>Ik vrees, in 't nut bestaan, noch ongeval noch schand':</l>
+<l>De graaf, voor Diedriks kroost tot bruîgom uitgelezen,</l>
+<l>Begaafd met moed en deugd, is waard' myn zoon te wezen:</l>
+<l>Dit billykt, in 't gevaar, myn zeldzaam heldenstuk;</l>
+<l>Dit moedigt, dit vertroost een weduw in haar' druk;</l>
+<l>En noopt myn ziel, in spyt van Adaas angstig smeeken,</l>
+<l>Van Willems trotsen haat op 't vinnigst my te wreken.</l>
+<l>Wat ben ik veel verpligt aan 't hoofd van Utrechts kerk!</l>
+<l>Die bisschop, my getrouw, voor Willem veel te sterk,</l>
+<l>Leert my wat meest betaamt aan moederlyke zinnen.</l>
+<l>Hy zal de onnutte vrees in Adaas geest verwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>Mevrouw, 't is u bekend hoeveel de min vermag.</l>
+<l>Zy werkt in de erfgravin voor 't wettig landgezag.</l>
+<l>De liefde van uw kroost zal wonderen verrichten,</l>
+<pb n="5"/>
+<l>Op dezen grooten dag den ydlen rouw doen zwichten,</l>
+<l>En, Willems wrok ten spyt, de vorstelyke bruid</l>
+<l>Doen stemmen, zonder dwang, in 't heilryk echtbesluit.</l>
+<l>Ik heb, sints Diedriks krankte u voor zyn erf deed vreezen,</l>
+<l>Van uw geheim bewust, myn' bystand u bewezen,</l>
+<l>Met list een nutte zege op Adaas hart behaalt,</l>
+<l>Den jongen Lodewyk behaaglyk afgemaalt,</l>
+<l>En, deelende in haar smart, in zuchten, tranen, klagten,</l>
+<l>Een hevig minnevuur verwekt in haar gedachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Uw hulp, myn Hildegaard, uw list komt my te staê.</l>
+<l>Verzel myn dochter; sterk de ontvonkte liefde; ga.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Ik zal, nu meer dan ooit, op Willem triomferen.</l>
+<l>Hier moet een magtloos graaf door Adaas echt regeeren,</l>
+<l>En, tot haar veiligheid in alles my getrouw,</l>
+<l>Zyn' naam verleenen aan de wetten van een vrouw.</l>
+<l>Ik wil, om niet in schande en slaverny te leven,</l>
+<l>Aan myn beschroomde kunne een loflyk voorbeeld geven.</l>
+<l>Myn deugd, door schyn misleid, heeft reeds te lang gestreên.</l>
+<l rend="; 1tab">ô Diedrik! zou die daad myn' roem verduistren? Neen;</l>
+<l>Uw fiere weduw moet, om haar gezag te schragen,</l>
+<l>Tot heil van kroost en land een' stouten toeleg wagen.</l>
+<l>Al eisch ik Adaas echt, noch schrei ik om uw dood:</l>
+<l>Myn hart vergeet u niet: zy huwe uit hoogen nood!</l>
+<l>Hoe kan uwe Adelheide uw' laatsten wil volbrengen?</l>
+<l>Hoe kan ze Oostvrieslands graaf in 't hoog bestier gehengen?</l>
+<l>Die wrevle streed weleer onwettig om 't gebied;</l>
+<l>En ik, die hem verjoeg, zwicht noch voor Willem niet.</l>
+<l rend="; 1tab">ô Staatzucht! voed myn' haat, om 't graaflyk huis te dekken...</l>
+<l>Maar Lodewyk genaakt; ik zal 't besluit voltrekken.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="6"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Lodewyk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Mevrouw, heeft uwe zorg de droevige erfgravin,</l>
+<l>Naar uw belofte, alreê verzekert van myn min?</l>
+<l>Wat zegt haar schoone mond? zal ik gelukkig wezen?</l>
+<l>Wat heeft myn blakend hart te hopen? wat te vreezen?</l>
+<l>Hoeveel een versche rouw haar tedre ziel beklemm',</l>
+<l>Hoe noode uw droeve spruit tot huwlyksblydschap stemm',</l>
+<l>Uw zeldzaam staatsbesluit is echter niet te doemen;</l>
+<l>Men moet, in 't landgevaar, uw nutte voorzorg roemen.</l>
+<l>Zoud gy, indien uit nood geen staatsheil wierd bedoeld,</l>
+<l>Zoud gy, graaf Diedriks weeûw, die 't zwaarst verlies gevoelt,</l>
+<l>Vóór Diedriks uitvaart wel een plegtig huwlyk vieren?</l>
+<l>Maar zal Oostvrieslands graaf als voogd dit land bestieren,</l>
+<l>Dat die staatzuchtige begeert in eigendom?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Neen; Holland zy voor u, voor Adaas bruidegom!</l>
+<l rend="; 1tab">Hoop alles, Lodewyk: uw bruid, niet onverschillig</l>
+<l>Voor uw doorluchte min, zal dezen dag vrywillig,</l>
+<l>Tot heil van hof en volk, naar 't huwlyksouter treên:</l>
+<l>Ja, schoon ze onmatig kwynt in zuchten, in geween,</l>
+<l>En, voor myn aanzoek doof, zichzelf bestryd in 't minnen;</l>
+<l>Verwacht een wisse zege op hare ontstelde zinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zy mint my!.. Ach! wat baat die neiging van haar hart,</l>
+<l>Indien ze uw' aanslag doemt in de overmaat van smart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Nu my de wreedste slag het waardste pand doet missen,</l>
+<l>Nu gy door heldenmoed myn tranen af moest wisschen,</l>
+<l>Maakt u de onnutte rouw der zwakke bruid bevreesd!</l>
+<l>Hoe! deert my 't onheil minst? trest Diedriks dood haar meest?</l>
+<pb n="7"/>
+<l>Ik treur, maar poog metëen myn' vyand voor te komen.</l>
+<l>Ik had, in 't groot verlies, geen' toeleg ondernomen,</l>
+<l>Indien natuur, bezorgd voor 't erfrecht van myn bloed,</l>
+<l>Geen sterke pooging deed op myn beklemd gemoed.</l>
+<l>Maar u, dien 't landgezag als graaf word opgedragen,</l>
+<l>Met Adaas hand en hart, u voegt het niet te klagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>'k Waardeer dat landgezag, 'k waardeer haar harten hand.</l>
+<l>Denk echter dat haar druk het zoet der min verbant,</l>
+<l>En haar beletten zou in myn geluk te stemmen,</l>
+<l>Indien de hoogste nood uwe echtkeur niet deed klemmen.</l>
+<l>Uw moed is groot, vorstin: gy red haar erfgebied,</l>
+<l>En zwygt, in all' uw' rouw, den schimp dien gy voorziet.</l>
+<l>Hare eer, 't is my bekend, kan 't noodig huwlyk lyden;</l>
+<l>Maar zal de onnoozle bruid de lastertaal vermyden?</l>
+<l>Ik voed, in die gedachte, een pynlyk voorgevoel.</l>
+<l>Zy zal, aan wreeden smaad en bitsen hoon ten doel,</l>
+<l>Al smelt ze om haar verlies in ongeveinsde tranen,</l>
+<l>Misdadig zyn in 't oog van rustlooze onderdanen.</l>
+<l>Ik noem uw dier geschenk de bron van myn geluk;</l>
+<l>Maar de oorzaak van myn heil is de oorzaak van myn' druk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Uwe Ada zal niet lang by 't volk misdadig wezen.</l>
+<l>Men heeft in 't nut bestaan geen' hinderpaal te vreezen,</l>
+<l>Nu Willems afgezant, met recht by my verdacht,</l>
+<l>Na 't heimlyk huwen eerst in Holland word verwacht.</l>
+<l rend="; 1tab">Bemin haar glorie vry; toon u haar liefde waardig,</l>
+<l>Opdat uw groote ziel myn keur alom rechtvaardig',</l>
+<l>En all' de harten van uwe onderdanen winn'!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Lodewyk, Reinoud</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Hoe, Reinoud! stoort gy ons?</l>
+</sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l rend="; 1tab">Op Amstels beê, vorstin.</l>
+<l>Hy schynt in 't heimelyk van zorgen ingenomen,</l>
+<l>En wenscht op 't spoedigste u te spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l rend="; 2tab">Laat hem komen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Lodewyk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Hy waakt, ô Lodewyk! voor uw aanstaand gezag.</l>
+<l>Gy, die omzigtig u, vóór dezen huwlyksdag,</l>
+<l>In Holland hield bedekt, kent noch niet all' uw vrinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ontziet zich Amstel niet dat stuk zich te onderwinden?</l>
+<l>Durft hy zyn open land zo wagen? hoe, mevrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Ik heb een' wissen borg voor zyn verdachte trouw:</l>
+<l>Zyn leenheer, die hem noopt in ons belang te deelen,</l>
+<l>Die hem in dwang houd door beloften en bevelen,</l>
+<l>Het geestlyk hoofd van 't Sticht verzekert ons van hem.</l>
+<l>Gy weet des bisschops hulp. Hy geeft myn' toeleg klem,</l>
+<l>Bedoelt met my 't behoud van Adaas veege slaten,</l>
+<l>En 't waar geluk der Zeeuwsche en Hollandsche onderzaten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Adelheide, Lodewyk, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Treed nader, Amstel. Zie, in Adaas bruidegom,</l>
+<l>Een deugd, die haar verdient met al haar eigendom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Ach! mogt zy nooit, mynheer, met u haar' val beweenen!</l>
+<pb n="9"/>
+<l rend="; 1tab">Oostvrieslands afgezant, vorstin, is reeds verschenen;</l>
+<l>Hy is dit oogenblik gesneld in Dordrechts wal.</l>
+<l>Wacht fluks zyn aanzoek om gehoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Wat ongeval!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Wat doet dien afgezant zo driftig herwaarts spoeden</l>
+<l>Vóór zyn' bestemden dag? Dit baart me een vreemd vermoeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zou hy verwittigd zyn van 't heimlyk echtbesluit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Verraad een valsche tong de vorstelyke bruid?</l>
+<l>Moet ik, nu Diedriks dood my doet als weduw zuchten,</l>
+<l>Bedekte vyanden en oproerstichters duchten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Het is noch tyd, vorstin, van 't opzet af te staan,</l>
+<l>'t Vermyde landbestier van Willem te ondergaan,</l>
+<l>Te zorgen dat geen twist het graaflyk erf verniele,</l>
+<l>De burger, opgehitst, den burger niet ontziele,</l>
+<l>Ja dat het woest geweld, dat geen gezag erkent,</l>
+<l>Uw eigen hoofd niet treffe in algemeene elend',</l>
+<l>En Adaas dierbaar bloed by 't uwe niet doe stroomen:</l>
+<l>Het is noch tyd, mevrouw, die rampen voor te komen.</l>
+<l>Vrees min graaf Willem in bepaalde landvoogdy,</l>
+<l>Dan 't onbedwingbaar volk in dolle muitery.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Schoon my geen laffe schrik in 't groot bestaan doet vreezen,</l>
+<l>Ik zonder Adaas echt niet kan gelukkig wezen,</l>
+<l>En 't groeijend minnevuur eene onverdraagbre smart,</l>
+<l>By 't mindren van myn hoop, verwekt in 't jeugdig hart;</l>
+<l>Ik zou, tot heil der bruid, myn liefde en staatzucht wraken,</l>
+<l>Indien ons trouw verbond haar zou rampzalig maken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Ik weet noch midlen tot verhindring van 't verraad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Men kent uw' moed, vorstin, uit menig dappre daad:</l>
+<pb n="10"/>
+<l>Gy hebt den toeleg van graaf Willem doen verdwynen,</l>
+<l>Toen hy, die 't heilig land in 't bloed der Sarazynen</l>
+<l>Zeeghaftig had geverft, moest vluchten voor uw staal:</l>
+<l>Heldin, den landzaat heugt uw groote zegepraal:</l>
+<l>Maar de adel, toen vereend om Willem af te keeren,</l>
+<l>Zal in 't voogdyrecht nu hun eigen recht verweeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Niet allen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Ada beve, indien men 't erfdeel stelt</l>
+<l>In de eensverwonnen magt van dien getergden held!</l>
+<l>Word die staatzuchtige ooit, vorstin, met u bevredigd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Wy achten wederzyds te vinnig ons beleedigd.</l>
+<l rend="; 1tab">Vermeetle vyand! wierd Oostvriesland niet ten leen'</l>
+<l>Door Diedrik u vergund? Voldoet het u? ô Neen!</l>
+<l>En zou de landvoogdy u meer voldoening geven?</l>
+<l>Ding weêr naar de oppermagt; 'k zal eeuwig u weêrstreven.</l>
+<l rend="; 1tab">De looze Hugo is Oostvrieslands afgezant:</l>
+<l>Schoon hy nooit hier verscheen, men kent zyn scherp verstand.</l>
+<l>Hy kan, door logentaal, het wufte volk doen muiten,</l>
+<l>Indien hy weet waartoe de nood my deed besluiten.</l>
+<l>Maar 't weinige oorlogsvolk, gelegd in Dordrechts wal,</l>
+<l>Beveiligt ons genoeg voor nadrend ongeval,</l>
+<l>Zolang de hoofden van die bende en van myn wachten,</l>
+<l>Door logens niet misleid, hunn' dieren eed betrachten.</l>
+<l>Myn wil is dat men fluks alom 't geheim ontdekk',</l>
+<l>En in dit eigen uur het echtverbond voltrekk':</l>
+<l>My lust den afgezant van Willem voor te komen,</l>
+<l>Opdat soldaat en wacht, niet snood vooringenomen,</l>
+<l>Niet blind voor 't waar belang van hof en onderdaan,</l>
+<l>Volharden 't graaflyk huis in tweespalt by te staan!</l>
+<l>Intusschen dat men hier op 't plegtigst Hugo leide.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Gy geeft my 't leven weêr, heldhaftige Adelheide!</l>
+<l>Uw moed vertoont zich meest op dezen grooten dag.</l>
+</sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Indien myn trouwe raad noch iets op u vermag,</l>
+<l>Vorstin,...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">tegen Amstel.</hi></stage>
+<l rend="; 1tab">Weêrspreek my niet; laat ons niet schandlyk vreezen.</l>
+<stage><hi rend="i">Tegen Lodewyk.</hi></stage>
+<l>Gy, die myn gunst verdient, gy zult gelukkig wezen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Lodewyk, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Gy vleit u zonder grond, indien gy waant, mynheer,</l>
+<l>Dat Adaas nutlooze echt, nadeelig voor hare eer,</l>
+<l>Gevaarlyk voor haar volk, ja voor uw' beider leven,</l>
+<l>U 't vreedzaam eigendom van 't graaflyk erf zal geven.</l>
+<l>Uw groote ziel verdient een edeler geluk,</l>
+<l>Verwin uzelv'; verricht een zeldzaam heldenstuk.</l>
+<l>Ach! weet gy hoe de Zeeuw, Oostvrieslands graaf genegen,</l>
+<l>Terstond al 't Hollandsch volk tot oproer kan bewegen?</l>
+<l>Dat roeklooze Adelheide, in ydle hoop misleid,</l>
+<l>'t Onwettig landbestier uit staatzucht u bereid,</l>
+<l>Ja de eedlen dwingt hun recht met Willems hulp te wreken?</l>
+<l>Ik, op uw deugd gerust, durf onbewimpeld spreken.</l>
+<l>Verwerf, ô Lodewyk! de lofspraak van 't heelal,</l>
+<l>Door 't afstaan van uw bruid; of ducht uw' beider val.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Hoe werken hoop en vrees in myn bestreden zinnen!</l>
+<l>ô Min! zal 't Adelheide... ô eer! zal 't Amstel winnen?</l>
+<l>ô Wreede liefde! vlie; verscheur my langer niet.</l>
+<l>Hoe! poogt zich Diedriks weeûw te vesten in 't gebied?</l>
+<l>Te heerschen op myn' naam? durft ze Ada roekloos wagen?</l>
+<l>En zou het vorstlyk erf my tot dien prys behagen?</l>
+<pb n="12"/>
+<l>Graaf Willem, neem bezit van uwe landvoogdy:</l>
+<l>Natuur weêrhoude uw ziel van woeste tyranny!..</l>
+<l>Neen; die staatzuchtige zou 't erfrecht ondermynen;</l>
+<l>Myn hart, myn minnend hart in wanhoop stervend' kwynen;</l>
+<l>En myn vorstin, beroofd van al haar eigendom,</l>
+<l>Haar plagen wyten aan haar' laffen bruidegom.</l>
+<l>Verlegen Lodewyk! wat lot staat u te kiezen?</l>
+<l>Zy zal, indien zy huwt, het graaflyk erf verliezen;</l>
+<l>En zo men 't hoog bewint haar' voogd in handen stelt,</l>
+<l>Zal hy zyn wettig recht verkeeren in geweld.</l>
+<l>ô Doodelyke keur! ô angstige oogenblikken!</l>
+<l>Hoe spoedig weet men my van 't huwen af te schrikken!..</l>
+<l>Maar Diedriks weeûw doelt niet arglistig op 't gezag:</l>
+<l>Zy wil verhindren, door een moederlyk gedrag,</l>
+<l>Dat zich een wrokkend voogd bedekt op Ada bloedig...</l>
+<l>Afgryslyk denkbeeld!... Ach! myn liefde, hoe rampspoedig,</l>
+<l>Hoe zorglyk, triomfeert: een gruwelstuitende echt,</l>
+<l>Die 't hoog gezag my geeft, stryd tegen eer noch recht...</l>
+<l>Wat zeg ik?.. Droeve bruid! wat staat u meest te vreezen?</l>
+<l>Zal echt of landvoogdy voor u gevaarlykst wezen?</l>
+<l>Doe zelve een wyze keur in dezen hoogen nood:</l>
+<l>Ik wacht van uw besluit myn leven, of myn dood.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste bedryf.</hi></stage>
+<pb n="t.o. 12"/>
+<p><figure>
+<p><xptr to="stee033adag01ill0004.gif"/></p>
+</figure></p>
+</div>
+</div>
+<div type="act">
+<pb n="13"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>'t Is veel gewaagd, mynheer, de listigste aller vrouwen,</l>
+<l>De wrokkende Adelheide in dit paleis te aanschouwen,</l>
+<l>In schyn van afgezant haar' toeleg gaê te slaan,</l>
+<l>En onder Hugoos naam 't gevaar ten doel te staan.</l>
+<l>Ons heugt hoe fel de twist in 't vorstlyk maagschap woedde.</l>
+<l>Wat ramp, zo 't hofgezin den minsten argwaan voedde,</l>
+<l>En in den afgezant graaf Willem wierd gewaar!</l>
+<l>Hoe licht word gy bekend! uw leven loopt gevaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Geen vrees beklemt myn hart, nu myn getrouwe vrinden</l>
+<l>Voor 't algemeen belang zich alles onderwinden,</l>
+<l>En my bewegen tot eene eedle veinzery.</l>
+<l>Kent my dit hofgezin? kent Adelheide my?</l>
+<l>Na 't proefstuk myner jeugd in 't land der Sarazynen,</l>
+<l>Deed eertyds my de twist in Holland weêr verschynen,</l>
+<l>Maar met een heir, en by verdachten onbekend.</l>
+<l>Verraad men echter my, zie, tot een heilryk end',</l>
+<l>De magtigste eedlen in myn voordeel zich verklaren.</l>
+<l>Uit zucht voor 't heilig recht hebt gy den Wassenaren,</l>
+<l>Egmonden, Banjaarden en Teilingen ontdekt</l>
+<l>Hoe Diedriks trotse weeûw haar' ouden roem bevlekt:</l>
+<l>Die bloem des adels, die, zoveel als ik beleedigd,</l>
+<l>My de ontrouw openbaarde, en Diedriks wil verdedigt,</l>
+<l>Spant heimlyk aan met my: terwyl gyzelf, mynheer,</l>
+<l>Geen slaaf van uw belang, maar waakzaam voor uwe eer;</l>
+<l>Gy, 's bisschops leenman, schuw voor snoode staatsbevelen,</l>
+<l>Grootmoedig my belooft in 't nut bestaan te deelen.</l>
+</sp>
+<pb n="14"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>De rust van Holland is 't belang van Amstelland:</l>
+<l>Zo toont men veilig my den graaf in zyn' gezant.</l>
+<l>Ik roem de heldendeugd van Diedriks grooten broeder!</l>
+<l>Gy, Adaas voogd, ontziet geen staatzucht van haar moeder</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>De nood, de hooge nood vereischt een heldendaad.</l>
+<l>Zie, zie de jonge bruid gewikkeld in 't verraad,</l>
+<l>Hare onervaren jeugd in zorglyke oogenblikken</l>
+<l>Met huwlyksvreugd gestreeld, verward in minnestrikken,</l>
+<l>En haar verheven deugd, die voor myn recht noch pleit,</l>
+<l>En luistert naar uw' raad, haast jammerlyk verleid.</l>
+<l>Ik heb uit deernis haar een duurzaam heil beschoren.</l>
+<l>Die taal is u verdacht; het klinkt u vreemd in de ooren,</l>
+<l>Dat Willem, die weleer om 't graaflyk staatsbewint</l>
+<l>Onwettig streed, zo teêer die erfgravin bemint:</l>
+<l>Maar oordeel of ik toen, van oorlogsdrift bewogen,</l>
+<l>By 't bloedig krygsgeweer in Syrië opgetogen,</l>
+<l>Kon denken, in myn jeugd, dat ooit met wapenkracht</l>
+<l>Een held onwettig dingt naar de eer der oppermagt.</l>
+<l>In later tyden is myn doling my gebleken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Uwe openhartigheid doet my vrymoedig spreken.</l>
+<l>Zo gy 't voltrekken van 't gevaarlyk trouw verbond</l>
+<l>Niet edelmoedig tot uw nadeel wederstond,</l>
+<l>Maar Adaas erf land poogde uit staatzucht om te keeren;</l>
+<l>Uw heldenkling zou niet op de eedlen triomferen.</l>
+<l>Belet, op Hugoos naam, den voorgenomen echt;</l>
+<l>Bevestig Diedriks wees in haar geboorterecht;</l>
+<l>En geef aan de edelen hun deel der landvoogdye.</l>
+<l>Zo hope uw deugd op 't heil der nutte veinzerye!</l>
+<l>'t Gaat wel: reeds, op uw komst, verdwynt de zwarte rouw,</l>
+<l>Verklaart men 't groot geheim der opgestemde trouw,</l>
+<l>Doet Diedriks fiere weeûw de ontstelde burgers gruwen,</l>
+<l>Dwingt ze Ada, maar vergeefs, in aller yl te huwen,</l>
+<l>En tergt ze al 't morrend volk, ja sterkt zo uw wyze list.</l>
+</sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>In 't kort zy 't oud krakkeel in 't graaflyk huis geslist,</l>
+<l>De spoorlooze echt belet, myn' broeders kroost gehuldigd,</l>
+<l>En de erfgravin haar heil aan myn voogdy verschuldigd!</l>
+<l rend="; 1tab">ô Ja, misleide bruid! de neiging van het bloed,</l>
+<l>Uw moeder onbekend, weêrstreeft in myn gemoed</l>
+<l>De staatzucht, die my noopt u 't wettig erf te ontrukken.</l>
+<l>Zou ik, die u beklaag, u trouwloos onderdrukken?</l>
+<l>ô Neen! hoeveel de drift tot hoogen staat vermag,</l>
+<l>Ik min uw' welstand meer dan 't onbepaald gezag.</l>
+<l rend="; 1tab">ô Diedrik, die, verraên door listige Adelheide,</l>
+<l>In 't sterfüur vruchteloos om Willems byzyn schreide,</l>
+<l>En door uw' laatsten wensch, aan my te spade ontdekt,</l>
+<l>In myn geheugenis een' lieven broeder strekt!</l>
+<l>Versterk de kracht van 't bloed in myn bewogen zinnen.</l>
+<l>Ik heb u fel gehaat; ik wil uw spruit beminnen;</l>
+<l>Ik ben, naar uw begeerte, en zuchtende om uw dood,</l>
+<l>Een vader voor uw wees, een toevlucht in haar' nood.</l>
+<l rend="; 1tab">U, Amstel, heel ik niet, dat teder medelyden</l>
+<l>En woeste staatzucht in myn ziel elkaêr bestryden.</l>
+<l>Indien ik laf bezweek voor 't vleijend zelfbelang,</l>
+<l>En tot myne oneer doelde op Adaas ondergang,</l>
+<l>Ik zou dit hartsgeheim u niet te kennen geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Het past den grootsten held naar de opperste eer te streven.</l>
+<l>Maar in myn afzyn word uwe Ada licht verleid.</l>
+<l>Vaarwel. Verdien myn hulp door edelmoedigheid.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>ô Staatzucht! wreede drift! uw werkend zielvermogen</l>
+<l>Verdoofde in my misschien natuur en mededoogen,</l>
+<l>Zo gy met beter kans, tot nadeel van myne eer,</l>
+<l>Naar 't hoog bewint mogt staan. ô Glorie! triomffer...</l>
+<l>Wie nadert? 't Vorstlyk kleed, haar jeugd, met smart beladen,</l>
+<l>Toont Ada. Zou myn drift de onnoozelheid verraden?</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="16"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Ada, Willem, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>In 't bitterste ongeluk zoekt Diedriks angstig kroost</l>
+<l>By Willems afgezant een' ongemeenen troost.</l>
+<l>Uw graaf, wiens magt ik vrees, wiens haat men wil vermyden,</l>
+<l>ô Hugo! kan alleen my van geweld bevryden.</l>
+<l>Zie hier, uit vreemden dwang, in billyk harteleed,</l>
+<l>Het rouwgewaad verkeerd in 't prachtig bruiloftskleed,</l>
+<l>'t Paleis weêr opgesierd, my tot een' echt verwezen,</l>
+<l>Die Ada schandlyk is, die Willem staat te vreezen.</l>
+<l>Verhoed myn' ondergang: ik stem dat huwlyk niet,</l>
+<l>Maar wacht in ryper jeugd op 't wettig landgebied.</l>
+<l>Ik meld myne onschuld u met ongeveinsde tranen.</l>
+<l>Zoud gy, om tot myn' rang uw' graaf een' weg te banen,</l>
+<l>In koelen moede zien dat Ada schandlyk huw'?</l>
+<l>Dat ik, gedwongen tot een misdaad,..? Ach! ik gruw</l>
+<l>Zo hem geen snood belang myn' val heeft doen besluiten'</l>
+<l>Zult gy dien echt, die bron van bloedig oproer, stuiten.</l>
+<l>Verdenk geen treurend hart van looze veinzery;</l>
+<l>Heb deernis met myn jeugd; besef wat smart ik ly.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">ter zyde.</hi></stage>
+<l>Natuur! verraad my niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Gy peinst! Wat doet u zwygen?</l>
+<l>Zal de onschuld, zwaar verdrukt, by niemant troost verkrygen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy zegt my veel, mevrouw. Vlie de u gedreigde schand';</l>
+<l>En wacht een wonderstuk van Willems afgezant.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="17"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Ada, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Wat antwoord, Hildegaard! 't vergroot myn wreede kwelling;</l>
+<l>'t Verzwakt myn kranke hoop. Ach! moest ik, tot herstelling</l>
+<l>Van myn' geschonden roem, onwetend' my verraên?</l>
+<l>Ik smeek den afgezant, en hits de tweedragt aan:</l>
+<l>Ik poog, verbeeld hy zich, hem listig uit te hooren.</l>
+<l>Word my, door Hugoos komst, een beter lot beschoren?</l>
+<l>Of wekt hy, tot myn' ramp, des lands aêlouden twist?</l>
+<l>Ik terg hem, hoe 't ook zy, door myn gewaande list.</l>
+<l rend="; 1tab">Myn moeder! moest ik u met wreeden dwang betichten,</l>
+<l>En by dien afgezant niets tot myn heil verrichten?</l>
+<l>Vergeef my 't stout bestaan; het is uit nood geschied.</l>
+<l>'k Wil u gehoorzaam zyn, maar tot myn schande niet.</l>
+<l>Al kan myn droefheid niets op uwe wreedheid winnen,</l>
+<l>Noch pleit natuur voor u in myne ontstelde zinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>Men oogt op uw gebied; nu blykt het klaar, mevrouw:</l>
+<l>En gy, noch willens blind, verfoeit een nutte trouw!</l>
+<l>Gy kunt uw weigring nu met reden niet verschoonen.</l>
+<l>Hoe durft uw fiere jeugd een tedre moeder hoonen,</l>
+<l>Die schyn van oneer lyd om uw gedreigd belang?</l>
+<l>Verkiest gy roekeloos een' wissen ondergang,</l>
+<l>Terwyl uw minnend hart, gevleid door haar bevelen,</l>
+<l>Met jongen Lodewyk uw erfrecht wenscht te deelen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Verzwaar myn kwelling niet; verdryf uit myn gemoed,</l>
+<l>Door uw' getrouwen raad, een' dwazen minnegloed,</l>
+<l>Een zielverteerend vuur, de grootste myner plagen.</l>
+<l>Hier durft een moeder my door fellen dwang vertsagen,</l>
+<l>Daar dreigt my 't staatsgevaar; nu vrees ik Willems magt,</l>
+<l>Dan de onuitwischbre schand' van myn beroemd geslacht;</l>
+<l>En onophoudlyk zweeft voor myn bekreten oogen</l>
+<pb n="18"/>
+<l>Het beeld eens vaders, wien de dood my heeft onttogen:</l>
+<l>Noch moet myn teder hart, by de yslykste ongeneugt',</l>
+<l>De liefde wederstaan in 't bloeijen myner jeugd,</l>
+<l>Ja, tegen 't moederlyk bevel, een min verzaken,</l>
+<l>Die, met myn' pligt vereend, my zou gelukkig maken.</l>
+<l>Ik ken myn' vaders wil, zyn' broeders recht, myne eer.</l>
+<l>Natuurpligt! sterk myn deugd: dat Ada triomfeer'!</l>
+<l>Zou Diedriks weenend kroost uit laffe drift gehengen..?</l>
+<l>Maar Lodewyk verschynt; ik zal myn' pligt volbrengen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Ada, Lodewyk, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Vorstin, verbeeld u niet, by 't nadrend oogenblik</l>
+<l>Van 't zeldzaam echtverbond, terwyl ik hoop en schrik,</l>
+<l>Daar u de kracht van 't bloed een' vader doet beschreijen,</l>
+<l>Dat u myn tedre min met bruiloftsvreugd zal vleijen:</l>
+<l>ô Neen! dit aklig feest eischt tranen; 'k ween met u:</l>
+<l>Nooit leed uw bruidegom zo groot een smart als nu:</l>
+<l>En echter, zo myn hart niet mogt naar 't uwe dingen,</l>
+<l>Ik zou de droefste zyn van alle stervelingen.</l>
+<l>Vergunt gy dat ik vraag', in uw' gepasten rouw,</l>
+<l>Of gy myn liefde duld, en stemt in onze trouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Uw groote ziel, mynheer, voldoet aan myn verwachting:</l>
+<l>Uwe edelmoedigheid verdient eene eindlooze achting,</l>
+<l>Een eedler hart dan 't myne, en 't opperste gebied.</l>
+<l>Nu gy myn smart gevoelt, betaamt my 't haten niet.</l>
+<l>Hoe! zou zich Ada met ondankbaarheid bevlekken?</l>
+<l>Maar kan ik ooit met u myn huwelyk voltrekken?</l>
+<l>Dat schandlyk trouwverbond, uw zuivre min onwaard',</l>
+<l>Besloten in een drift die 't heilig recht niet spaart,</l>
+<l>Is heilloos voor myn land, en doodlyk voor ons beiden.</l>
+<l>Hoop nooit uw droeve bruid naar 't echtaltaar te leiden.</l>
+</sp>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>ô Harde taal!.. Vorstin, vrees Willems landvoogdy;</l>
+<l>Ducht zyne ontzinde wraak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Myne onschuld pleit voor my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zyn staatzucht...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Neen, mynheer; ik zal geen' Willem duchten,</l>
+<l>Wanneer ik u niet vrees... 'k Wil niet in schande zuchten.</l>
+<l>Verbeeld u echter niet, dat ik, die u beklaag,</l>
+<l>Die uwe deugden roem, u wederliefde draag,</l>
+<l>En door een teêr vaarwel, uit dwaze min gesproten,</l>
+<l>By 't weigren van myn hand, uw kwelling zal vergrooten:</l>
+<l>Neen, Lodewyk, denk eer: ‘Dat Ada van my scheid,</l>
+<l>‘Bewyst haar' bruidegom hare ongevoeligheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zoud gy, aan my verloofd, noch haat noch liefde kweeken?</l>
+<l>ô Wreede! uw afkeer is my duidelyk gebleken.</l>
+<l>Ach! gy bedekt uw' haat met Willems heilloos recht, roemen?</l>
+<l>Opdat ik afstand doe van myn' besloten echt</l>
+<l>Mevrouw, moet gy myn deugd uit wantrouw veinzend'</l>
+<l>Neen; ducht van my geen' dwang, die groote zielen doemen;</l>
+<l>Denk niet dat Lodewyk, van u gehaat, veracht,</l>
+<l>Zich ooit bedienen zal van Adelheides magt;</l>
+<l>Beken vry dat uw hart door afkeer word bewogen,</l>
+<l>Schoon ik, met hoop gevleid, en jammerlyk bedrogen,</l>
+<l>De smartelykste dood voor uw verachting kies,</l>
+<l>Die my de ziel verscheurt, noch meer dan uw verlies.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Veracht ik u, myn heer? Helaas! hoe kunt gy 't wanen?</l>
+<l>Wat hartstogt my beweegt, bewyzen u myn tranen.</l>
+<l>Is dit u haten? is dit wreedheid? Word myn jeugd</l>
+<l>Niet fel genoeg bestreên? belaagt gy óók myn deugd?</l>
+<l>Ik, door myn' vaders dood elendig, door zyn' broeder</l>
+<l>Met dwinglandy gedreigd, door myne ontaarde moeder</l>
+<l>In dieper wee gestort, en in de zwaarste smart</l>
+<pb n="20"/>
+<l>Verpligt te stryden met de neiging van myn hart;</l>
+<l>Ik, dus ten doel gesteld aan 't woeden myner plagen,</l>
+<l>Moet noch, van troost ontbloot, uw bits verwyt verdragen</l>
+<l>ô Onverwachte ramp! ô dubbel zielverdriet!</l>
+<l>Ken, ken my, Lodewyk: uwe Ada haat u niet;</l>
+<l>Zy mint u... Moest die taal my in myn'rouw ontglippen?.</l>
+<l>Ach! zo geen strenge pligt... De schaamte sluit myn lippen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Neen; bloos niet; neen, mevrouw: myn hart, in zegepraal,</l>
+<l>Zal niet ondankbaar zyn voor zulk een lieve taal:</l>
+<l>Ik wil, van u bemind, veeleer van liefde sterven,</l>
+<l>Dan, levende in uw' haat, uw waarde hand verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ik ken den graaf van Loon aan die grootmoedigheid.</l>
+<l>Gy ziet vorst Diedriks wees, die haar verlies beschreit,</l>
+<l>De tranen van natuur en liefde samenvoegen.</l>
+<l>Laat die bekentenis voor altoos u vernoegen;</l>
+<l>Ontvlie voor eeuwig my; bedwing zo verre uw min.</l>
+<l>Nooit zal uwe Ada, nooit zal Hollands erfgravin</l>
+<l>Haar' bruîgom als tyran in Diedriks erfdeel lyden:</l>
+<l>Ik wil, ô Lodewyk! zo groot een schande myden,</l>
+<l>Geen' adel, geen gemeente ooit, tot myn' ondergang,</l>
+<l>Doen treden, tegen my, in Willems wreed belang.</l>
+<l>Stort my dan 't onheil neêr, durft hy zyn' pligt vergeten,</l>
+<l>Ik zal met roem vergaan, en met een vry geweten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Gy mint, en voert die taal! Dat glorieryk besluit,</l>
+<l>Waardoor myn liefde groeit, terwyl 't ons huwlyk stuit,</l>
+<l>Heeft Amstels wyze raad gewis u ingegeven.</l>
+<l>Maar ach! uw hooge deugd is moeilyk na te streven,</l>
+<l>En stort myn blakend hart in eindeloozen druk,</l>
+<l>Na 't vleijend denkbeeld van myn ingebeeld geluk.</l>
+<l rend="; 1tab">Ik zie, mevrouw, ik zie wat deugden ons betamen:</l>
+<l>Uw min tot Lodewyk behoeft ge u nooit te schamen:</l>
+<l>Ik wil, terwyl uw pligt het huwen ons ontzegt,</l>
+<l>Uw liefde waardig zyn; ik staaf een wettig recht;</l>
+<l>'k Verzaak myn hoogst geluk, eer 't u gedy' tot schande,</l>
+<pb n="21"/>
+<l>En doe voor Adaas heil de erbarmlykste offerhande.</l>
+<l rend="; 1tab">Vaarwel in eeuwigheid... Wy zien elkaêr nooit weêr;</l>
+<l>Gy zult uw' bruidegom vergeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Neen, mynheer:</l>
+<l>Myn afgematte geest, hoeveel 't myn rust zal krenken,</l>
+<l>Wil onophoudelyk uwe eedle min herdenken.</l>
+<l>'t Is noodig, tot myn' troost, dat gy myn zwakheid weet,</l>
+<l>Opdat myn bruîgom nooit zyn droeve bruid vergeet'!..</l>
+<l>Myn moeder nadert ons. Laat Ada nu aanschouwen</l>
+<l>Hoe veilig zich haar hart op 't uwe mag betrouwen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Lodewyk, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Mevrouw, zie hier een blyk van ware dankbaarheid.</l>
+<l>Een minnaar, door uw gunst in al zyn hoop gevleid,</l>
+<l>By wien myn beden meer dan liefde en heerszucht baten,</l>
+<l>Doet afstand van myn' echt, en van myn hooge staten;</l>
+<l>Zyn edelmoedig hart kiest, deelende in myn' druk,</l>
+<l>De glorie van zyn bruid voor 't zorglyk echtgeluk:</l>
+<l>'t Is hem bekend wat ramp uit onze trouw kan spruiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Hoe weet uw strenge deugd myn liefste drift te sluiten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Is 't mooglyk, Lodewyk, indien gy waarlyk mint,</l>
+<l>Dat u, niet laf van aart, eene ydle vrees verblind?</l>
+<l>Schep moed; ontfang een bruid, u door myn gunst beschoren.</l>
+<l>Uit uw' besloten echt word al ons heil geboren.</l>
+<l>Geloof my, tot bewys van uwe erkentenis;</l>
+<l>Of denk dat Lodewyk geene Ada waardig is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Hoe! zou myn moed, vorstin, uit laffe vrees bezwyken?</l>
+<l>Waar moet, tot Adaas heil, myn trouwe liefde blyken?</l>
+<l>Hoe voed uw bits verwyt myn felle minnepyn!</l>
+<pb n="22"/>
+<l>Moet ik door huwlyksdwang myn schoone onwaardig zyn?</l>
+<l>ô Neen! ik wil myn bruid op de eêlste wyz' beminnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Volhard, ô Lodewyk! uzelven te overwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Misleide minnaar! vrees de gramschap van een vrouw,</l>
+<l>Die, schoon ze in 't heimlyk treurt, in 't openbaar den rouw</l>
+<l>In 't prachtig feestgewaad uit nooddwang moet verbergen.</l>
+<l>Gy zult myn zuchtend hart niet lang door weigring tergen.</l>
+<l>Een ander bruidegom, bezield met eedler min,</l>
+<l>Zal 't waardig voorwerp zyn...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Wat zegt gy?.. Ach, vorstin!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Uwe Ada zal haar ziel met ontrouw nooit besmetten:</l>
+<l>Myn pligt, myne eer, uw mui zal 't huwen my beletten.</l>
+<l rend="; 1tab">Ontäarde moeder, die myn hartewee vergroot,</l>
+<l>My tot een misdryf noopt, myn wis verderf besloot!</l>
+<l>Uw wreedheid wettigt my 't verpligt ontzag te breken.</l>
+<l>Ik wil in 't vry gemoed geen strafbre liefde kweeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Vermeetle! welk een taal!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 3tab">Vergeef my die, mevrouw:</l>
+<l>Myn ongelukkig hart is aan zyn' pligt getrouw.</l>
+<l>Ach! dwing my langer niet met weerzin u te hoonen.</l>
+<l>Ik wil, als dochter, u gehoorzaamheid betoonen:</l>
+<l>Maar weiger my niet meer uw' moederlyken troost,</l>
+<l>En eisch geene enveldaad van uw elendig kroost.</l>
+<l rend="; 1tab">Vaarwel, myn bruidegom! Ik zal dien naam u geven,</l>
+<l>Zolang gy waardig zyt in echt met my te leven.</l>
+<l>Uw droeve bruid ontvlied voor eeuwig uw gezigt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Voor eeuwig!.. Wreed besluit!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 4tab">ô Al te strenge pligt!</l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Hoe kan ik scheiden? hoe myne Ada eeuwig derven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Gy moet, ô Lodewyk! dit op uw hart verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>ô Weêrgaêloos verlies!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">ô Doodlyke ongeneugt'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">Ada ombelzende.</hi></stage>
+<l>Vaarwel; denk aan myn liefde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Ik denk aan uwe deugd.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Adelheide, Lodewyk, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Betoon uw schreijend kroost de deernis van een moeder;</l>
+<l>Hoor Willems afgezant; bevredig Diedriks broeder.</l>
+<l>Beproef, mislukt het u, beproef myn' moed, vorstin;</l>
+<l>En zie de heldendaên der hopelooze min.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Adelheide, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Verliefden! moet ge om stryd, in weêrwil uwer harten,</l>
+<l>Uit haat tot uw geluk, een tedre moeder tarten?</l>
+<l>Daar u myn gunst vereent, tot wanhoop overslaan?</l>
+<l>My tergen met verwyt? myn nutte zorg vermaên?</l>
+<l>Gy noopt myn grimmigheid uw wrevle drift te doemen;</l>
+<l>En dwingt my teffens u, grootmoedigen! te roemen.</l>
+<l rend="; 1tab">Beklaag, myn Hildegaard, beklaag hun ongeluk.</l>
+<l>Zaagt gy dat teêr vaarwel? zaagt gy hunn' fellen druk?</l>
+<l>En echter zien wy hen, om smaad en schimp te weeren,</l>
+<pb n="24"/>
+<l>Op 't hevig mingeweld doorluchtig triomferen.</l>
+<l>Zo heb ik vruchteloos, op uwen vreemden raad,</l>
+<l>Den zwarten rouw verkeert in 't blinkend feestgewaad,</l>
+<l>Opdat men 't jeugdig hart der droevige Ada vleide.</l>
+<l>Haar fierheid... Maar die past aan 't kroost van Adelheide.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>Verbreekt gy dan, mevrouw, uw loflyk staatsbesluit?</l>
+<l>Verydelt gy myn zorg, die in de jonge bruid</l>
+<l>Een krachtig liefdevuur behendig heeft ontstoken?</l>
+<l>Zie, zie Oostvrieslands graaf eerlang op 't felst gewroken</l>
+<l>Door uwer vrienden dood, en in uw vorstlyk bloed.</l>
+<l>Betoont gy Ada dus een moederlyk gemoed?</l>
+<l>Verraad ons allen niet door ydel mededoogen;</l>
+<l>Geef nooit aan Willems haat een doodlyk staatsvermogen;</l>
+<l>Voltrek de nutte trouw: uw afstand is te laat;</l>
+<l>Men weet uw' toeleg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l rend="; 1tab">Spaar uw' vruchteloozen raad:</l>
+<l>Ik weet wat my betaamt, en zal 't besluit niet breken.</l>
+<l>Maar help my Lodewyk in feller liefde ontsteken;</l>
+<l>Beweeg de droeve bruid te stemmen in haar' echt;</l>
+<l>Vertoon haar al 't geluk dat haar word toegezegd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>Zy sprak den afgezant. 'k Moest dat gesprek niet stuiten:</l>
+<l>'k Verzelde haar; hy had geheimen kunnen uiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Getrouwe, heel my niets. De bisschop, in 't paleis</l>
+<l>Reeds aangekomen, sterk' myn' moederlyken eisch!</l>
+<l>'t Hardnekkig paar ontzie dien geestelyken vader!</l>
+<l>'k Zal my met hem beraên. Ken Adelheide nader;</l>
+<l>Zie of ik afstand doe. Niets valt myn' moed te zwaar:</l>
+<l>Dit hart wint nieuwe kracht in 't wassend landgevaar.</l>
+</sp>
+<stage><hi rend="i">Einde van het tweede bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="25"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Hoe doet een wreede min myn hart wanhopend' blaken!</l>
+<l>Ik moet (ô streng bevel!) al myn geluk verzaken.</l>
+<l>ô Akelig paleis, waarheen ik juichend' toog!</l>
+<l>Uw vorstlyk feestsieraad is haatlyk in myn oog...</l>
+<l>Elendige erfgravin! hoe kan ik u verlaten?</l>
+<l>Gy zyt in hoogen nood... Zal u myn byzyn baten?..</l>
+<l>Ik wil hier waken voor uw wettig eigendom;</l>
+<l>Ik wil beletten, dat een ander bruidegom...</l>
+<l>Verwoede minnenyd! vlie, viie uit myn gedachten;</l>
+<l>Ik buig voor Adaas wil. ô Wanhoop! geef my krachten.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Lodewyk, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Verwinnaar van uw hart! uwe edelmoedigheid,</l>
+<l>Gevreesd van Adelheide, en door uw bruid verbreid,</l>
+<l>Zal u, die meer bedoelt dan talryke onderdanen,</l>
+<l>Ontwyfelbaar den weg ter eeuwige achting banen.</l>
+<l>Volhard; behoed uzelv' en uw gedreigde bruid.</l>
+<l>De bloem des adels barst in eedle gramschap uit,</l>
+<l>En wil, eer Ada huw' naar Adelheides wetten,</l>
+<l>De blinde tyranny door nut geweld beletten.</l>
+<l>Die raadslag is noch niet aan Diedriks weeûw gemeld.</l>
+<l>Zy, die uw liefde kent, en veel betrouwen stelt</l>
+<l>In bisschop en soldaat, wil 't opzet noch voltrekken,</l>
+<l>Eer Dordrechts morrend volk een oproer kan verwekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Neen, Amstel; neen: ik dien my nimmer van haar' dwang:</l>
+<pb n="26"/>
+<l>Myn glorie triomfeert op liefde en staatsbelang.</l>
+<l>Die zege staat my dier. Hoe Ada best beveiligd?</l>
+<l>Ach! Utrechts bisschop zelf, den kerkdienst toegeheiligd,</l>
+<l>Verbittert Adaas voogd, uit wrok, door snoode list;</l>
+<l>Ontvonkt, uit zelfbelang, het moordvuur van den twist;</l>
+<l>Verdrukt graaf Diedriks wees, verhard een tedre moeder.</l>
+<l>Wie zal de onnoozelheid beschermen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l rend="; 2tab">Diedriks broeder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Graaf Willem?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l rend="; 1tab">Ja, mynheer: hy gruwt van tyranny,</l>
+<l>En doelt grootmoedig op de wettige voogdy:</l>
+<l>Zyn afgezant heeft last voor Adaas heil te waken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>ô Wonder!.. Poogt men u geen logens diets te maken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Graaf Willems groote ziel, ontlast van allen haat,</l>
+<l>Is Diedriks weenend kroost een wisse toeverlaat:</l>
+<l>Gy zult zyn hooge deugd niet lang in twyfel trekken:</l>
+<l>Hy mint zyn droeve nicht. Ik mag niets meer ontdekken.</l>
+<l>Toon zelf den afgezant uwe edelmoedigheid;</l>
+<l>Pleeg raad met Hugo; steun op zyn getrouw beleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Die taal verbaast my. Zal graaf Willem haar behoeden?</l>
+<l>En zou ik oorzaak zyn van all' haar tegenspoeden?</l>
+<l>'t Voogdyrecht schenden? hem verraden? Neen, mynheer:</l>
+<l>Myn min, op u gerust, mistrouwt dien held niet meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Wacht Hugo, die terstond hier zal gehoor verbeiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ach, Ada! uw belang vereischt een eeuwig scheiden.</l>
+<l>Te zuchten, verr' van u, in doodelyken druk,</l>
+<l>Is alles wat ik hoop... Erbarmelyk geluk!</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>De bisschop nadert ons.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">Ik ken zyn looze treken;</l>
+<l>Ik schuw hem.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Vander Are, Lodewyk, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 1tab">Blyf, mynheer; vergun my u te spreken.</l>
+<l>Gy weigert Adaas hand, in weêrwil uwer min,</l>
+<l>Op de onbedachte beê dier weenende gravin;</l>
+<l>Gy zyt grootmoedig in uw driften te overheeren,</l>
+<l>Maar overweegt niet wat die schoone meest kan deeren.</l>
+<l>Verdoolde! zaagt gy niet waaruit haar weêrstand sproot?</l>
+<l>Zy smoort haar wederliefde uit smart om 's vaders dood.</l>
+<l>Haar hart stemt in haar' echt: zyzelf zal u bevelen</l>
+<l>Met haar te heerschen, in haar huwlyksmin te deelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Stemt Ada 't echtverbond? ô Neen! 't is my bewust</l>
+<l>Hoe Adelheides wil haar droeve ziel ontrust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Haar hart, haar minnend hart vind all' zyn' troost in 't uwe,</l>
+<l>En Hollands hooge nood verpligt haar dat zy huwe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>In tegendeel, mynheer, vereischt het landgevaar,</l>
+<l>Dat Hollands erfgravin met Lodewyk niet paar'.</l>
+<l>Vergeef my dat ik pleit voor Adaas veege staten,</l>
+<l>Nu reeds een talryk deel der graaflyke onderzaten</l>
+<l>Durft spreken voor het recht der landvoogdye.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 2tab">Ik weet</l>
+<l>Hoe Dordrechts morrend volk ontzag en pligt vergeet.</l>
+<l>Hoe! zal men 't graaflyk huis, naar hun gevloekt behagen,</l>
+<pb n="28"/>
+<l>Aan Willems ouden haat en dolle staatzucht wagen?</l>
+<l>Schend zelf geen rechten, gy, die voor de rechten pleit:</l>
+<l>Uw wettig leenheer spreekt; betoon gehoorzaamheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Myn pligt is my bekend; uw rechten zyn my heilig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Denk; zo gy Willem vreest, dat ik uw' echt beveilig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zo Ada 't huwen stemt, is 't enkel uit ontzag.</l>
+<l>Ik weet hoeveel een hoofd van Utrechts kerk vermag</l>
+<l>Op de onbedreven jeugd, op lichtverleide vrouwen,</l>
+<l>Die op de geestlykheid zich bundeling betrouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Wat lastring!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Ach, mynheer! de wanhoop spreekt in my:</l>
+<l>Die drift verstoore u niet! bedenk wat smart ik ly.</l>
+<l>Ik dacht in eigendom eene erfgravin te ontfangen:</l>
+<l>ô Ydle hoop! ik moet die schoone, om haar belangen,</l>
+<l>Voor eeuwig vlieden, jeugd en liefde wederstaan,</l>
+<l>Al bied een moeder zelf die waarde bruid my aan,</l>
+<l>Al poogt uw wreed gezag de zege my te ontrukken.</l>
+<l>ô Gruwel! moet ik ook graaf Diedriks kroost verdrukken?</l>
+<l>Hoe beeft myn teder hart in 't groeijend staatsgevaar</l>
+<l>Der kwynende vorstin! Wie, wie verdedigt haar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Indien de nood haar treft, het is aan u te wyten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Aan my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 1tab">Aan u alleen, die, wanende u te kwyten</l>
+<l>Voor Adaas hoog belang, door 't weigren van haar hand</l>
+<l>Aan Willem tyd verleent... Wie stoort ons?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l rend="; 3tab">De afgezant.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="29"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Vander Are, Lodewyk, Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>'t Is voor 't gemeen belang, mynheer, een gunstig teeken,</l>
+<l>Dat Hugo 't achtbaar hoofd van Utrechts kerk mag spreken,</l>
+<l>Terwyl uwe eigen eer, zowel als Willems recht,</l>
+<l>Gevaar loopt door 't besluit van Adaas vreemden echt.</l>
+<l rend="; 1tab">Men mompelt (zou die taal in my geloof verwekken?)</l>
+<l>Dat gy door 't geestlyk kleed een misdryf poogt te dekken;</l>
+<l>De vorstelyke wees, uit eerlooze eigenbaat,</l>
+<l>Van Diedriks laatsten wil, ja van haar' pligt ontslaat;</l>
+<l>En waant een wrekend volk door uw gezag te stuiten.</l>
+<l>Gy weet wat ongeval uit Adaas echt kan spruiten,</l>
+<l>Dat kerklyke achtbaarheid in oproer niets vermag,</l>
+<l>Graaf Willems treffend staal nooit zwicht uit blind ontzag,</l>
+<l>En dat uw hulp niet past by dat vermetel huwen.</l>
+<l>Toon Dordrechts burgery hoe de echtdwang u doet gruwen;</l>
+<l>Belet, door uw gezag, een schaadlyk trouwverbond;</l>
+<l>En sluit den lasteraar op 't glorierykst den mond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Uw yver voor myne eer zou mooglyk my behagen,</l>
+<l>Indien ik noodig dacht by u om raad te vragen.</l>
+<l>'t Is my genoeg bekend wat my betaamt, mynheer;</l>
+<l>En 't lust my buiten u te zorgen voor myne eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy zoud, indien gy wist wat daden u betamen,</l>
+<l>En zorgde voor uwe eer, dier bitse tale u schamen.</l>
+<l>Ik zie hoe Dordrechts volk, in zyn verwoede spyt,</l>
+<l>Uw listige eigenbaat rechtvaardig u verwyt.</l>
+<l>Zult ge altoos Willems wraak, gelyk weleer, ontvluchten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Mynheeren, voed geen' twist.</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">ô Jammerlyke vruchten</l>
+<l>Van 't heilloos trouwbesluit! Vorstin, hoe groeit uw nood!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l>Gy hoont myne achtbaarheid! Uw roekloosheid is groot.</l>
+<l>Dat Willems afgezant zo stout een taal durft voeren,</l>
+<l>Bewyst hoe Willem zelf gantsch Holland zou beroeren,</l>
+<l>Ja luistren naar beklag, natuurpligt, eer noch wet,</l>
+<l>Indien zyn aanslag niet voorzigtig wierd belet.</l>
+<l>Gy durft een heldenstuk (ô smaad!) een misdryf noemen!</l>
+<l>Men dingt naar Adaas erf; myn hulp is niet te doemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Mag Hollands graaflyk huis, om schyngevaar te ontgaan,</l>
+<l>Van Diedriks laatsten wil vermetel zich ontslaan,</l>
+<l>Weêrspannig 't hoog gezag der achtbre voogden schenden,</l>
+<l>En storten 't vaderland in eindelooze elenden?</l>
+<l>Neen, looze bisschop! neen; geen landzaat is hier slaaf.</l>
+<l>Het opperstaatsbewint behoort wel aan den graaf,</l>
+<l>Maar geeft geen vrye magt tot onrechtvaardigheden.</l>
+<l>Geen loflyk opperhoofd kwetst ooit zyn dierbre leden.</l>
+<l>De Hollandsche gravin verliest haar heerschappy,</l>
+<l>Indien ze uw lessen volgt, en stemt tot dwinglandy.</l>
+<l>Besef wat zwaren slag uwe Ada heeft te schroomen,</l>
+<l>En dat ikzelf, niet gy, haar' val poog voor te komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l>De reden toont, mynheer, aan myn bestreden deugd,</l>
+<l>Hoe verre ik was verdoold door onervaren jeugd;</l>
+<l>En dwingt myn hooploos hart, door wreede min aan 't blaken,</l>
+<l>Helaas! u meester van myn droevig lot te maken;</l>
+<l>U, die myn liefde doemt; u, die myn' echt weêrstaat.</l>
+<l>Ken Adaas bruidegom, die 't pynlyk leven haat,</l>
+<l>Zyn minnedrift bedwingt; zie hem tot afstand vaardig,</l>
+<l>Niet schuldig by uw' graaf, maar Willems deernis waardig.</l>
+<l>Geen schandelyke vrees ontwringt my deze taal:</l>
+<l>Uw vorst, hoeveel geducht door zyn gelukkig staal,</l>
+<l>Hoe moedig op zyn' roem, in 't heilig land verkregen,</l>
+<pb n="31"/>
+<l>Zou nooit myn staatzucht, nooit myn tedre min bewegen</l>
+<l>Van Adaas heerschappy en huwlyk af te staan;</l>
+<l>Hy vond hier nieuwe stof tot zeldzame oorlogsdaên;</l>
+<l>Zo de eer my niet verbood de landvorstin te dwingen,</l>
+<l>En, tot haar ongeluk, naar 't graaflyk erf te dingen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Mynheer, uw groote ziel red uw doorluchte bruid.</l>
+<stage><hi rend="i">Tegen den bisschop.</hi></stage>
+<l>Gy, neem een voorbeeld aan zyn loffelyk besluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Zie Adelheide. Denk hoe zwaar gy ons beleedigt.</l>
+<l>Graaf Willem word misschien door die vorstin bevredigd.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Vander Are, Lodewyk, Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l>Eer ik u hoor', mynheer, is 't noodig dat u blyk'</l>
+<l>Of Willem nadeel lyd, al heerscht hier Lodewyk.</l>
+<stage><hi rend="i">Tegen Vander Are, Lodewyk, en Amstel.</hi></stage>
+<l>En gy, mynheeren, weest getuigen hoe myn zinnen,</l>
+<l>Voor 't algemeen geluk, den ouden haat verwinnen.</l>
+<stage><hi rend="i">Tegen Willem.</hi></stage>
+<l>Het leen Oostvriesland zy uw' graaf ten eigendom,</l>
+<l>Indien hy 't huwlyk stemt van Adaas bruidegom,</l>
+<l>Het vorstlyk paar in rust haar erfdeel laat regeeren,</l>
+<l>En de oude vyandschap in vriendschap doet verkeeren.</l>
+<l>Die held, alom beroemd door moedig krygsbeleid,</l>
+<l>Verwerve een' nieuwen lof door edelmoedigheid!</l>
+<l>Hy strekke een' toeverlaat voor hof en onderdanen!</l>
+<l>Dit eischt zyn waar belang; dit eischen Adaas tranen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy schenkt Oostvriesland hem! Vorstin, is 't in uw magt?</l>
+<pb n="32"/>
+<l>'t Is Adaas erf. Hy zou, indien hy 't oorbaar dacht,</l>
+<l>Uw minderjarig kroost niet van een deel berooven,</l>
+<l>Maar all' de staten van zyn' broeder zich beloven.</l>
+<l>Denk niet dat Willem zich met zulk een grootheid vlei'.</l>
+<l>Is u zyn vrindschap waard, zo geef hem vrygelen'</l>
+<l>Op Diedriks uitvaart; schroom zyn droeve nicht te dwingen,</l>
+<l>En 't zorglyk trouwverbond vermetel door te dringen;</l>
+<l>Voldoe zyn recht; en zie, tot heil van all' den staat,</l>
+<l>In Adaas trouwen voogd een' wisten toeverlaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Bedwing uw stoute tong. Hoe! zou ik laf gedoogen,</l>
+<l>Dat Ada zich begeve in Willems trots vermogen?</l>
+<l>Dat hy, in dollen haat, met muitren zich vereen'?</l>
+<l>De ontveinsde staatzucht wreed den teugel viere ô Neen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Ach! dat geen hevigheid het twistvuur weêr ontsteke!</l>
+<l>Vorstin, 't is noodig, dat Oostvrieslands graaf u spreke.</l>
+<l>Men kieze tyd en plaats tot onder handeling;</l>
+<l>Men geve gyzelaars; men make een nut verding.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ik, yvrig om myn bruid aan ramp op ramp te onttrekken,</l>
+<l>Vorstin, wil by dien graaf uw' gyzelaar verstrekken,</l>
+<l>U toonen hoe myn ziel de hulplooze Ada mint.</l>
+<l>Wat heil, indien die schoone een wenschlyke uitkomst vind,</l>
+<l>En ik, gevonnisd haar in eeuwigheid te derven,</l>
+<l>Tot haar beveiliging mag vlieden, kwynen, sterven!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Mevrouw, stort Ada niet in dieper staatselend'.</l>
+<l>'t Vermetel trouwbesluit is Willem reeds bekend.</l>
+<l>Gy weet niet wie met hem zich tegen u verbinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>ô Spyt! ik ben verraên door myn gewaande vrinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Het puik der eedlen waakt voor 't recht der landvoogdy;</l>
+<l>Ja zou, in Adaas erf, eer hooge heerschappy,</l>
+<l>Indien 't zyn aandeel in 't voogdyschap moest verliezen,</l>
+<pb n="33"/>
+<l>Eer Diedriks broeder, dan een' vreemdeling, verkiezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l>Die vreemdeling ontziet de glorie van zyn bruid.</l>
+<l rend="; 1tab">Mevrouw, gy kent myn drift voor uw doorluchte spruit;</l>
+<l>Gy weet wat smart ik ly met vruchtloos haar te minnen:</l>
+<l>Maar de invloed van haar' pligt op haar verheven zinnen,</l>
+<l>De tranen die zy stort, de luchten die zy loost,</l>
+<l>'t Verdubbeld staatsgevaar van uw beminlyk kroost;</l>
+<l>Ach! alles dwingt my, haar in eeuwigheid te schuwen:</l>
+<l>Ik heb gehoopt, vorstin; nu doet die hoop my gruwen.</l>
+<l>Vernoeg Oostvrieslands graaf, den adel, Adaas deugd;</l>
+<l>Behoed haar vorstlyk erf, haar glorie, hare jeugd;</l>
+<l>En overweeg met erust hoeveel haar rampen groeijen.</l>
+<l>Gy peinst! ik zie uw' druk! Laat vry uw tranen vloeijen;</l>
+<l>Verberg die droefheid niet; die smart strekt u tot eer:</l>
+<l>Geef, geef aan Diedriks wees een tedre moeder weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Ik zweeg te lang. Vorstin, wees uw belang indachtig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>ô Wreede!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Adelheide.</hi></stage>
+<l rend="; 2tab">Maakt een list uw groote ziel neêrslagtig?</l>
+<l>Geeft moedige Adelheide, uit zwakheid, tot haar schand',</l>
+<l>Een zorgelyk geloof aan Willems afgezant?</l>
+<l>En zult gy, ongewoon in 't grootst gevaar te beven,</l>
+<l>Uw dierbaarst pand, uit schrik, dien wreker overgeven?</l>
+<l>Mistrouw een' vyand, die uw vrinden valsch beticht,</l>
+<l>Alleen opdat uw hart voor ydel dreigen zwicht',</l>
+<l>Of, in de onzekerheid op wien 't zich mag verlaten,</l>
+<l>De hulp dier vrinden derv' voor Adaas veege staten.</l>
+<l>Ziedaar het oogmerk van 't gezantschap. Kies, mevrouw,</l>
+<l>Of wraak van ouden haat, of hulp van ware trouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Gy opent myn gezigt. Ik zal, in spyt dier lagen,</l>
+<l>Niet aan Oostvrieslands wrok 't geluk van Holland wagen.</l>
+<l>Hoe listig poogt men my, uit veinzend zelfbelang,</l>
+<pb n="34"/>
+<l>Te lokken in den strik, tot Adaas ondergang!</l>
+<l>Hoe blaakt eene eedle spyt in myn getergde zinnen!</l>
+<l>'t Is eertyds my gelukt graaf Willem te overwinnen:</l>
+<l>Hy stryde; ik vrees hem niet, ô neen! 'k wacht andermaal,</l>
+<l>In myn gerechte zaak, een wisse zegepraal:</l>
+<l>Die wrevle vyaad zie myn' moed, gelyk voordezen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Rampspoedige erfgravin! gy zyt ten val verwezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Nochtans, indien uw vorst myn aanbod niet veracht,</l>
+<l>En tot behoeder strekt van zyn verdrukt geslacht,</l>
+<l>Zo wil hem Adelheide onfeilbaar noch doen blyken,</l>
+<l>Dat haar gesarde wraak voor 't staatsbelang moet wyken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Hy zal, verwittigd hoe de bisschop u misleid,</l>
+<l>Verzuchten om uw' ramp, uit mededoogendheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Ontzinde!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l rend="; 1tab">Uw trotsheid is te hoog in top gesteigerd.</l>
+<l>Ontdek myn aanbod hem. Hy beve, indien hy 't weigert!</l>
+</sp>
+<stage><hi rend="i">Zy vertrekt met den bisschop.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">baar volgende.</hi></stage>
+<l>Vorstin, verhoor myn beê.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l rend="; 1tab">Hoe groeit de tweedragt aan!</l>
+<l>Ach, vorst! wat nu verricht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 2tab">Ik smeed een groot bestaan.</l>
+<l>Vooreerst zy Lodewyk door ydle hoop bedrogen.</l>
+<l>Het deert my: maar de nood verwint myn mededoogen.</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Hy keert, en zoekt uw hulp.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 1tab">Versterk een nutte list.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Lodewyk, Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Belet, ô afgezant! belet een' wreeden twist,</l>
+<l>Een bloedig staatskrakkeel; en acht myn bruid onschuldig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Verwacht dat Willem u tot graaf van Holland huldig'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Wat zegt gy? Deze taal verbystert my 't verstand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Uw deugd verdient zyn gunst met Adaas erf en hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Wat noopt u veinzend' my met ydle hoop te vleijen?</l>
+<l>Durft Willems afgezant my looze strikken spreiên?</l>
+<l>Verleent gy nieuwe kracht aan myn verwonnen min,</l>
+<l>Opdat ik roekloos huwe aan de angstige erfgravin,</l>
+<l>Uw vorst zich door den kryg een' ryken buit belove,</l>
+<l>En haar met schyn van recht het wettig erf ontroove?</l>
+<l rend="; 1tab">ô Vaderlooze wees! barst uit in bittren rouw:</l>
+<l>Uw moeder mint u niet; uw voogd bezit geen trouw;</l>
+<l>De ontveinsde heerszucht doelt arglistig op uw staten,</l>
+<l>En vleit zich met de stem der morrende onderzaten.</l>
+<l rend="; 1tab">Doorslepen afgezant! ik weet wat hoop my voegt.</l>
+<l>Naar Diedriks laatsten wil zy Adaas voogd vernoegd</l>
+<l>Met zyn bepaald gezag, totdat zyzelf regeere;</l>
+<l>Opdat da eedlen magt de snoode staatzucht weere!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy hoont haar' trouwsten vrind. Zy vreeze u meer dan hem;</l>
+<l>Zy vreeze uw liefde alleen. Ik vlei u met zyn stem,</l>
+<pb n="36"/>
+<l>Opdat een blinde drift u niet in echt vereene,</l>
+<l>Eer hy, als voogd erkend, aan u die stem verleene.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Ik heb met zekerheid zyn deugd u reeds gemeld.</l>
+<l>Verwacht geen laf besluit van dien doorluchten held.</l>
+<l>Gy zult, indien uw liefde op hem zich durft betrouwen,</l>
+<l>Eerlang de ontruste bruid in veiligheid aanschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Geef Adelheide hoop dat Willem, die den val</l>
+<l>Van Diedriks huis niet wenscht, in de echtkeur stemmen zal.</l>
+<l>Hy, die haar vrindschap eischt, heeft lang zyn' haat vergeten.</l>
+<l>'t Voordeelig aanbod zal ik yllings hem doen weten.</l>
+<l>Ik ken hem als myzelv', en wacht op wissen grond,</l>
+<l>Nu ik vergeefs voor hem naar 't landvoogdyschap stond,</l>
+<l>Nu zy hare ooren sloot voor dreigen, voor gebeden,</l>
+<l>Dat hy, alleen in staat om de eedlen te overreden,</l>
+<l>Voor Ada hen voldoende, een noodig wonderstuk</l>
+<l>Teêrhartig zal bestaan voor 't vluchtend landgeluk.</l>
+<l>Maar wacht zyn antwoord af: 't zou hem ten hoon verstrekken,</l>
+<l>Zo gy te schielyk durfde uw' grooten echt voltrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l>Hoe teêr ik Ada min, hoeveel ik Amstel acht,</l>
+<l>Uwe onverwachte taal is echter my verdacht.</l>
+<l>Is 't my vergund, of niet, naar myn geluk te dingen?</l>
+<l>ô Nare onzekerheid! ô wreede twyfelingen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Uwe Ada zal u haast van ydle vrees ontslaan.</l>
+<l>Ik wil een groot geheim terstond haar doen verstaan.</l>
+<l>Hoe wenschte ik spoedig haar te spreken! Mag ik 't hopen?</l>
+<l>En zult gyzelf daartoe die schoone in stilte nopen?</l>
+<l>Dat niemant haar verzell'! Verwacht, na dat gesprek,</l>
+<l>Dat ze u de zekerheid van 't nadrend heil ontdekk'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Gy zult haar zien, mynheer; en meer en meer beseffen,</l>
+<l>Dat nooit graaf Willem haar in deugd kan overtreffen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="37"/>
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Willem, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>My blykt uw opzet, vorst. Ik roem uw veinzery.</l>
+<l>Hoe listig poogt gy tyd te winnen! Maar zult gy,</l>
+<l>De hoop van 't kwynend land, uw dreigende gevaren</l>
+<l>Verdubblen, door uw' naam aan Ada te openbaren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Ik zal noch meer bestaan in Hollands hoogen nood.</l>
+<l>Hoor, Amstel, wat myn moed voor die gravin besloot.</l>
+<l rend="; 1tab">Gy zaagt de grimmigheid der wrokkende Adelhelde,</l>
+<l>Dat Utrechts kerklyk hoofd arglistig haar misleidde,</l>
+<l>Door onze tweedragt doelde op Hollands veegen staat,</l>
+<l>En wat gehoor zy gaf aan 's kerkvoogds eigenbaat.</l>
+<l>Zy zou, met ydle hoop niet lang door my bedrogen,</l>
+<l>Door 's bisschops looze tong tot woesten dwang bewogen,</l>
+<l>Geholpen door de min van 't ongelukkig paar,</l>
+<l>Myn zorg verydlen voor 't ontheiligd echtaltaar.</l>
+<l>Zolang de bruid hier blyft, is 't huwelyk te duchten.</l>
+<l>Ik wil by duisternis van hier met Ada vluchten.</l>
+<l rend="; 1tab">Gy schrikt; ik zie dat reeds uw bystand u berouwt.</l>
+<l>Maar laat een scherpe wacht, door de edelen betrouwd,</l>
+<l>De vluchtende Ada naar een veilig oord verzellen,</l>
+<l>Waar de adel haar verberg' totdat ik borg zal stellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Wat heldendeugd!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 2tab">Ik vlie met haar de aanstaande nacht.</l>
+<l>Gy weet, verrast men my, wat sterke hulp ik wacht.</l>
+<l>Zal Lodewyk geen' dag den vreemden echtdwang stuiten?</l>
+<l>Zal Ada tot de vlucht uit wanhoop niet besluiten?</l>
+<l>Men koop' de lyfwacht om: gyzelf hebt my gemeld,</l>
+<l>Dat Adaas droevig lot haar trouwe wacht ontstelt.</l>
+</sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Het algemeen geluk, uit zulk een vlucht te hopen,</l>
+<l>Verdient dat gy besluit een groot gevaar te loopen.</l>
+<l>Wat eeuwige eer voor u, die, ondanks uw belang,</l>
+<l>De zuchtende erfgravin behoed voor ondergang!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Haar staatsbelang is 't myne: ik moet haar huwlyk vreezen,</l>
+<l>Al schynt die bron van twist myn staatzucht nut te wezen:</l>
+<l>Ik zou, verstoken van de hoop der landvoogdy,</l>
+<l>Vergeefs my wapenen om de opperheerschappy.</l>
+<l>Zou 't edelmoedig paar, dat met verliefde zinnen</l>
+<l>Een eeuwig scheiden koos, niet alle harten winnen?</l>
+<l>Hoeveel een krygsmagt zy, zo hoog een deugd is meer.</l>
+<l>Zie, zie myn waar belang vereenigd met myne eer,</l>
+<l>En oordeel hoe men zich op Willem mag betrouwen.</l>
+<l>Ga myn geheim besluit aan de edelen ontvouwen.</l>
+<l>ô Ada! Lodewyk! vergeeft my 't loos beleid;</l>
+<l>Maar overtreft my niet in edelmoedigheid.</l>
+</sp>
+<stage><hi rend="i">Einde van bet derde bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="39"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Lodewyk, Reinoud</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Deze onverwachte taal verbystert myn gedachten.</l>
+<l>Hoe! zou ik heimlyk iets besluiten met de wachten?</l>
+<l>Wat zou myn doelwit zyn? vleit Willems afgezant</l>
+<l>Myn hoop in 't einde niet met Adaas erf en hand?</l>
+<l>Smeed ik een' aanslag? ik?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l rend="; 1tab">Mynheer, waartoe te veinzen?</l>
+<l>Verlaat u op myn trouw; ontdek my uw gepeinzen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Wat hoor ik! durft gy..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l rend="; 2tab">Ja, grootmoedig bruidegom!</l>
+<l>Ik beef, niet min dan gy, voor Adaas eigendom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Is u bevolen my te toetsen? Welke treken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>Noch eens, ontveins my niets; my is genoeg gebleken.</l>
+<l>De wachten momplen van een loffelyk bestaan,</l>
+<l>En twisten of men 't my, hunn' hoofdman, voor zal slaan.</l>
+<l>Men heeft (dit hoorde ikzelf,) de aanstaande nacht verkoren;</l>
+<l>Uwe Ada wierd genoemd. Wat lot is haar beschoren?</l>
+<l>Wie zou iets groots bestaan, tot heil van die gravin,</l>
+<l>Dan gy, die haar beschermt tot nadeel van uw min?</l>
+<l>Moet gy uit achterdocht myn trouwe hulp versmaden?</l>
+<l>Of bleek u de aanslag niet? word die vorstin verraden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ja, 't is verraad. Ik schrik. Ach! niets is my bekend.</l>
+<l>Hoe ras, doorluchte bruid! treft ons een nieuwe elend'!</l>
+<pb n="40"/>
+<l>Uw trouwe minnaar, die, gevleid in 't hevig blaken,</l>
+<l>Om uw gedreigd belang zyn liefde moest verzaken;</l>
+<l>Uw tedre bruidegom, die, op zyn' huwlyksdag,</l>
+<l>Moest afstaan van uw' echt en Hollands erfgezag;</l>
+<l>Die hier ontboden wierd, om in uw min te deelen;</l>
+<l>Maar die zyn hoogst geluk versmaadde op uw bevelen,</l>
+<l>En duizend smarten leed in 't krachtigst vuur der jeugd;</l>
+<l>Ziet weêr een' straal van hoop, wanneer (ô korte vreugd!)</l>
+<l>Een heimlyk vloekgespan, gereed op u te woeden,...</l>
+<l>Verraders! kende ik u! mogt ik dien slag verhoeden!..</l>
+<l>Hoe beef ik!.. Dierbaar pand! men werkt uw' ondergang.</l>
+<l rend="; 1tab">Myn klagt is vruchteloos; dit marren duurt te lang.</l>
+<l>Laat ons dat mompelen aan Adelheide ontdekken,</l>
+<l>Om uit de ontrouwe wacht het snood geheim te trekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>Zie Ada.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Reinoud, volg; verzuim geen oogenblik.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Ada, Lodewyk, Reinoud</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Mynheer, ontvlucht ge my?.. Gy beeft! wat baart u schrik?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Weêrhou my niet, vorstin; myn liefde moet u blyken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Wat hevig ongeduld! Zo driftig my te ontwyken!</l>
+<l>Ik weet genoeg hoe groot zyn liefde t' my waarts is.</l>
+<l>Ik vrees een nieuw gevaar in zyne ontsteltenis.</l>
+<l>Wat lotverwisseling! Dit is een droevig teeken.</l>
+<l>Noch vleit ons de afgezant! hy wil alleen my spreeken!</l>
+<pb n="41"/>
+<l>Ach! mogt zyn deernis my van twyfeling ontslaan,</l>
+<l>En myn beklemde ziel haar duister lot verstaan!</l>
+<l>ô Liefde, weêr ontvonkt in myne ontroerde zinnen!</l>
+<l>Hoe smartlyk zou 't my zyn u nochmaal te overwinnen!</l>
+<l>Hoe pynigt my de vrees, terwyl de hoop my vleit!</l>
+<l>Natuur! tref Willems hart met mededoogendheid.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Ada, Willem</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Troost Diedriks droeve spruit, ô Hugo! Wil zyn broeder</l>
+<l>Grootmoedig zich in 't eind' verzoenen met myn moeder?</l>
+<l>Zou myn doorluchte voogd, door 't afstaan van zyn recht,</l>
+<l>Ook de yvrende edelen doen stemmen in myn' echt,</l>
+<l>En tegen 't zelfbelang, uit gunstryk medelyden,</l>
+<l>Een vaderlooze wees van 't smartlykst lot bevryden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Mevrouw, hy schept geen' lust in uwen tegenspoed;</l>
+<l>Hy leent een gunstig oor aan de inspraak van het bloed,</l>
+<l>Is vreemd van eigenbaat, en tot uw' bystand vaardig.</l>
+<l>Uwe ongemeene deugd is dier bescherming waardig.</l>
+<l>Maar gy, met hoop gevleid in uw verliefde jeugd,</l>
+<l>Zoud gy, naar 't voorschrift van uw weêrgaêlooze deugd,</l>
+<l>Indien uw bruîgom hier niet veilig kon regeeren,</l>
+<l>Uwe eensverwonnen min ten tweedemaal verheeren?</l>
+<l>Schaam u dier liefde niet, na de eêlste zegepraal.</l>
+<l>Men zorgt voor uw geluk: schep moed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">ô Duistre taal!</l>
+<l>Ach, Lodewyk! uw ziel had reden zich te ontstellen.</l>
+<l>Wat moet ik, ginds en weêr geslingerd, my voorspellen?</l>
+<l>Mynheer, wat eischt uw vorst van zyne ontruste nicht?</l>
+<l>Spreek duidlyk. Niets is my zo dierbaar als myn pligt.</l>
+<l>Men mag myn zwakke jeugd verliefd, rampzalig heeten;</l>
+<pb n="42"/>
+<l>Maar nooit zal Diedriks kroost een misdryf zich vermeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Verheven deugd!.. Vorstin, wees tot een daad bereid,</l>
+<l>Die...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Red my spoedig, wreede! uit deze onzekerheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Durft gy volkomen op graaf Willem u verlaten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ik geef in zyn bestier myn leven en myn staten...</l>
+<l>Gy zwygt!.. Naar Amstels raad heb ik, ô afgezant!</l>
+<l>Een vast betrouwen op myn' waarden bloedverwant.</l>
+<l>Verdenk my niet. Wat troost is buiten hem te wachten?</l>
+<l>Verleid geen moeder my?.. ô Sporelooze klagten!</l>
+<l>Zyzelf, misleid, verraên,... Zy is zo schuldig niet.</l>
+<l>Ik zou, wat ongelyk myn zuchtend hart geschied',</l>
+<l>Voor haar, die my bemint, vry willig kunnen sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Vergeet uw' bruidegom: hy zal u nooit verwerven;</l>
+<l>'s Lands welzyn duld het niet: verheer noch eens uw min.</l>
+<l>Hoe deel ik in uw' druk, verraden erfgravin!</l>
+<l>Wie kent uw zuivre deugd, uwe onverdiende plagen,</l>
+<l>En moet uw deerlyk lot niet ongeveinsd beklagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Gy deelt, ô afgezant! grootmoedig in myn smart!</l>
+<l>Ach! trof myn ongeluk niet min graaf Willems hart!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Het treft hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 3tab">Hoe, mynheer! Kan hy myn rampen weten?</l>
+<l>Ziet hy door stryd op stryd dit hart vanëen gereten?</l>
+<l>Weet Adaas trouwe voogd haar droeve zege? ô Neen!..</l>
+<l>Meld hem, dat ik den hoon, hem aangedaan, beween;</l>
+<l>Meld...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">ter zyde.</hi></stage>
+<l rend="; 2tab">ô Natuur!</l>
+</sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Gy zucht! gy weent!.. Is dit een teeken..?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy dwingt my, dierbaar pand! tot u rondüit te spreken.</l>
+<l>De ware toeverlaat van uw beroemd geslacht,</l>
+<l>Uw tedre bloedverwant, graaf Willem, in wiens magt</l>
+<l>Zich uw gedreigde jeugd kloekmoedig wil begeven,</l>
+<l>Verlaat zich óók op u, betrouwt u óók zyn leven,</l>
+<l>Om u te rukken uit de wreedste dwinglandy,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Wat vreemd geheim!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 2tab">Mevrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 4tab">Vaar voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 6tab">Zie hem in my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Is 't mooglyk! gy die vorst! graaf Willem zelv' te aanschouwen!</l>
+<l>ô Wonder!.. En hy durft op Ada zich betrouwen!..</l>
+<l>Gy!.. Amstels duistre taal verborg een heuglyk licht.</l>
+<l>Wat voerde u hier ter hulp?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 3tab">Het bloed, uw deugd, myn pligt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Waar ben ik?.. Blyde dag!.. Is Willems hart zo teder?</l>
+<l>ô Ada! klaag niet meer; gy vind uw' vader weder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Myn dochter! dat ik u omhelze!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 5tab">ô Groot geluk!..</l>
+<l>Hoe onvoorziens verzagt uw blyde komst myn' druk!</l>
+<l>Ik schrei, maar 't is van vreugd; ik juich in al myn lyden.</l>
+<l>Gy weet myn staatselende, en hoe myn hart moet stryden:</l>
+<l>Myn broze jeugd verliest een' vader... Wreede slag!.,</l>
+<l>Gy vleit myn dwaze min en doemt ze, op éénen dag.</l>
+<pb n="44"/>
+<l>Wie zou, na zoveel wee, zich 't minst geluk beloven?</l>
+<l>En echter deze vreugd gaat al myn smart te boven.</l>
+<l>Maar ach! uw lyfsgevaar verwekt my nieuwe stof</l>
+<l>Tot vrees... Wist Adelheide..! Ontwyk dit doodlyk hof:</l>
+<l>ô Myn beschermer! vlie; ducht hier de wreedste slagen.</l>
+<l>Moest gy, tot Adaas hulp, uw dierbaar leven wagen?</l>
+<l>Hoe stoort myn angst de vreugd van 't lieflykst oogenblik!</l>
+<l>Ei vlíe; verlos myn ziel van haar' gerechten schrik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>ô Ja! 't is myn besluit: maar gy zult mede vlieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ik vluchten? hoe, mynheer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 1tab">Vorstin, het móet geschieden.</l>
+<l>Uw groote ziel vreez' niets dan Adelheides dwang.</l>
+<l>Een deel der wachten, dat, getrouw voor uw belang,</l>
+<l>Zich aanbied zyn gravin dien wreeden dwang te ontrukken,</l>
+<l>Zal ons de aanstaande nacht dat vlieden doen gelukken.</l>
+<l>Beveilig door uw' moed 's lands heil, uw' rang, uwe eer.</l>
+<l>Zult gy myn tedre zucht mistrouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Neen, mynheer.</l>
+<l>Myn rampen zyn te groot, dan dat ik laf zou vreezen.</l>
+<l>Doorluchte toeverlaat! gy wilt myn vader wezen;</l>
+<l>Gy eischt een nutte vlucht: uw dochter is bereid;</l>
+<l>Ik zal gehoorzaam zyn. Ach! waar' die tederheid,</l>
+<l>Die u aan 't akligst lot het uwe doet verbinden,</l>
+<l>Tot myn vertroosting by een moeder óók te vinden!</l>
+<l>Myn vader! wreek u niet; wyt haar vermeetle daad</l>
+<l>Aan 't hoofd van Utrechts kerk, den smeeder van 't verraad;</l>
+<l>Verdryf myn' bittren angst; verpligt haar u te minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Uw deugd kan haat en wraak in myn gemoed verwinnen.</l>
+<l>Men spill' geen' nutten tyd in vruchteloos gesprek.</l>
+<l>Maak alles vaardig tot uw heimelyk vertrek.</l>
+<l>Intusschen veins met my, opdat men Adelheide</l>
+<pb n="45"/>
+<l>Gelukkig met de hoop op uwen echt misleide,</l>
+<l>De moederlyke dwang u dezen dag niet paar',</l>
+<l>En ik u tydig redde uit al uw staatsgevaar!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Ada, Willem, Reinoud</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>Men smeed verraad, vorstin; de bisschop legt u lagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>ô Ramp!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l rend="; 1tab">Wees op uw hoede; u dreigen felle slagen.</l>
+<l>Ik weet, ô myn gravin! ik weet wat pligt my past.</l>
+<l>Men kerkert menig wacht, op Adelheides last;</l>
+<l>De bisschop hitst haar aan; ze is tegen u verbolgen;</l>
+<l>Ik moet, met nieuwe wacht, all' zyn bevelen volgen;</l>
+<l>Op zyn begeerte is hier den uitgang naauw bewaard</l>
+<l>Door 't krygsvolk, aan de poort van dit paleis geschaard.</l>
+<l>'t Is my gevaarlyk u dit oogenblik te spreken:</l>
+<l>Maar Diedrik was myn vorst; myn trouw blyft onbezweken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Ada, Willem</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Myn hielzaam opzet is uw moeder aangebragt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>ô Doodlyk ongeval! Ik heb vergeefs getracht</l>
+<l>Te vlieden; al myn hoop op uitkomst is verdwenen:</l>
+<l>Ik moet myn' eigen ramp en uw gevaar beweenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Wat oproer, woede en moord voorzie ik! Ween, mevrouw...</l>
+<l>Maar neen, heldin, uw moed zy grooter dan uw rouw!</l>
+<pb n="46"/>
+<l>Ontveins uw bittre smart; mislei uw looze moeder;</l>
+<l>Hoop op de vlucht Vaarwel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">hem weder houdende.</hi></stage>
+<l rend="; 1tab">Ik sterf met myn' behoeder:</l>
+<l>'k Verlaat u niet, ô neen! uw lot zy ook het myn'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy vreest het ergst: wie weet of wy verraden zyn?</l>
+<l>Ten minste laat uw' schrik myn doelwit niet ontdekken;</l>
+<l>Laat dit byeenzyn u geen' nieuwen ramp verwekken.</l>
+<l>Hou my niet langer op... De bisschop nadert!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Bedwing u.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Ada, Vander Are, Willem</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">tegen Ada.</hi></stage>
+<l rend="; 2tab">Wacht in 't kort een' blyden bruiloftsdag;</l>
+<l>Vergeet uw' vaders dood; laat u de liefde streelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Mynheer, is 't my vergund in uw gesprek te deelen?</l>
+<l>Ik hoor met welk een hoop gy Adaas liefde vleit.</l>
+<l>Zal Hollands hofgez in de aanstaande plegtigheid</l>
+<l>Van 't vorstlyk echtverbond in Dordrechts wal aanschouwen?</l>
+<l>Of moet het edel paar in Willems graafschap trouwen?</l>
+<l>Begeert gy dat ik mede in uw geheimen dring'?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Uwe ongepaste vraag baart my verwondering.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Mynheer, wat inzigt..? Kunt gy denken..? Uit u nader.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Ge ontstelt u niet alleen om 't missen van een' vader.</l>
+<l rend="; 1tab">Gy, Hugo, veinst vergeefs: het is my reeds bekend</l>
+<pb n="47"/>
+<l>Tot wat gewigtig einde u hier graaf Willem zend.</l>
+<l>'t Is Ada met vergund in Dordrechts wal te huwen;</l>
+<l>Oostvriesland wacht die eer. Maar hoe! den dag te schuwen,</l>
+<l>De nacht te kiezen, om die vorstelyke bruid</l>
+<l>Te leiden naar uw' graaf! wat ongerymd besluit!</l>
+<l>'t Verbazend meesterstuk van Willems heldendaden</l>
+<l>Bleek duidlyk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Ydle hoop!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 2tab">Ik ben op 't snoodst verraden.</l>
+<l>Onwaardig kerkvoogd! beef.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 3tab">Hoe! zou ik beven? Neen,</l>
+<l>Bedrieger! sidder zelf de vrees voegt u alleen.</l>
+<l>Gy wacht! genaak.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Ada, Vander Are, Willem, Reinoud</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l rend="; 3tab">Gy durft het recht der volken krenken!</l>
+<l>Gy hoont een' afgezant!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 4tab">Het past u niet te denken</l>
+<l>Aan 't ampt dat gy ontëert... Men gryp' hem aan.</l>
+<stage><hi rend="i">Reinoud treed toe met de lyfwachten.</hi></stage>
+<l rend="; 1tab"><hi rend="sc">Willem</hi>, <hi rend="i">zyn' degen aan Reinoud overgevende.</hi></l>
+<l rend="; 5tab">ô Spyt!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Vermeetle wachten, die myne onderdanen zyt!</l>
+<l>Laat af.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 2tab">M[a]n l[e]i' hem weg; men poog', door pynigingen,</l>
+<pb n="48"/>
+<l>Al 't overig verraad op 't spoedigst hem te ontwringen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Onlydbre hoon!.. Tyran!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Afgryslyk oogenblik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Ontzinde! ken myn' naam; zie Willem zelv'; en schrik.</l>
+<l>Vreest gy geen' afgezant door pyniging te hoonen?</l>
+<l>Gy zult ten minste ontzag aan Diedriks broeder toonen.</l>
+<l>Zie hier uw' vyand, die op de eedlen zich verlaat,</l>
+<l>En hier noch meer vermag dan Utrechts eigenbaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Gy Willem!.. Wat geluk uw snood geheim te ontdekken!</l>
+<l>Uwe ydle grimmigheid kan my geen vrees verwekken.</l>
+<l>Gy wachten! staat my in voor uw' gevangen. Ga,</l>
+<l>Verleider! 'k geef u tyd; verdien uw lyfsgenaê.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Wee, Holland! vrees myn wraak; myn goedheid is ten ende:</l>
+<l>Men dompelt roekloos u in gadelooze elende.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Ada, Vander Are</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Weêrspannige! moet gy, trouwhartig bygestaan,</l>
+<l>Uw tedre moeder by dien dwingeland verraên?</l>
+<l>Gehoorzaam; 't is noch tyd u van uw' pligt te kwyten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Schynheilige! u alleen is al myn ramp te wyten.</l>
+<l>Een moeder zou haar kroost, ter onuitwischbre schand',</l>
+<l>Niet dwingen, had uw list...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 1tab">Uw lot is in myn hand,</l>
+<l>En 't lot uws bruidegoms. Gy zult zyn dood beweenen,</l>
+<l>Of dezen dag met hem voor 't outer u vereenen.</l>
+<l>Gy zult uw moeder niet aanschouwen; neen. Besluit.</l>
+<pb n="49"/>
+<l>Gy mint hem: wacht hem hier, en spreek zyn vonnis uit</l>
+<l>Men zal, zo gy niet huwt, u niet lafhartig smeeken,</l>
+<l>Maar op den graaf van Loon uw weigring bloedig wreken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel</head>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Hoe yslyk is myn lot! hoe beeft myn teder hart!</l>
+<l>Geliefde bruidegom! verwoede minnesmart!</l>
+<l>Verfoeilyk staatsbelang! ô wreedheid! felle slagen!</l>
+<l>Hoe kan ik leven? hoe myn ongeluk verdragen?</l>
+<l>Gedreigde Lodewyk! waartoe verwyst men my!</l>
+<l>Myn pligt stemt in uw dood; myn liefde spreekt u vry.</l>
+<l>Moet ik (ô strenge pligt! vereischt gy gruwelstukken?)</l>
+<l>Voor 't onrechtvaardig staal 't onschuldig hoofd doen bukken?</l>
+<l>Of moet ik, wreede min! myn' eedlen stam ten smaad,</l>
+<l>My schuldig maken aan lafhartig staatsverraad?</l>
+<l>Aan bloedig oproer? aan verwoesting myner landen?</l>
+<l>Myn angst voorspelt my niets dan woeden, moorden, branden.</l>
+<l>Waar vind ik uitkomst? wie verlost my uit den nood?</l>
+<l>Graaf Willem is gehoond; hy dreigt: myn' vaders dood</l>
+<l>Doet my de teêrheid van een waarde moeder derven.</l>
+<l>Mogt ik haar spreken, ach! myn bruîgom zou niet sterven...</l>
+<l>Hy sterven? Neen, hy leve!... ô Vaderland! ô eer!..</l>
+<l>Myn' minnaars doodsgevaar... Ik overweeg niet meer;</l>
+<l>Ik wil zyn dierbaar hoofd van dat gevaar bevryden.</l>
+<l>ô Nood! ontschuldig my. ô Holland! zie myn lyden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">Ada, Lodewyk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Verzaker van uw min! grootmoedig bruidegom!</l>
+<l>Kent gy 't arglistig hoofd van Utrechts priesterdom?</l>
+<l>Dien schandelyken slaaf van snoode zelf belangen?</l>
+<pb n="50"/>
+<l>Weet gy zyn wreedheid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">Ja: graaf Willem is gevangen,</l>
+<l>Uw nutte vlucht belet, al 't hofgezin ontsteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Het smartlykste ongeluk is u noch niet gemeld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Staat Utrechts dwingeland naar Willems heldenleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Noch dreigt ons feller wee.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">Hoe doet uw angst my beven!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Men dreigt uw dierbaar hoofd; gy zyt in lyfsgevaar.</l>
+<l>Stort neêr voor 't moordend staal, of streef naar 't echtaltaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ik, die geen dood ontzie, in wanhoop ongeduldig,</l>
+<l>Wacht uit uw' lieven mond myn vonnis. Ik ben schuldig;</l>
+<l>Ik zelf, door drift misleid, heb u verraden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ik heb graaf Willem aan des bisschops dwinglandy</l>
+<l>Onwetend' blootgestelt. Ik dacht u, door 't ontdekken</l>
+<l>Van heimelyk verraad, een wis bederf te onttrekken.</l>
+<l>Ik yverde u ten val. Hoe was myn ziel beducht!</l>
+<l>De wachten, omgekocht tot uw besloten vlucht,</l>
+<l>Maar door myn blinde drift beschuldigd by uw moeder,</l>
+<l>Verklaarden uw geheim, verrieden uw' behoeder:</l>
+<l>En ik, myn misdaad ziende; ik, roekloos, ongetrouw,</l>
+<l>Verwoed gepynigd door een vruchtloos naberouw,</l>
+<l>Ja 't wroegend leven moede, en uw genade onwaardig,</l>
+<l>Ducht 's bisschops woede niet: verwys my; wees rechtvaardig.</l>
+<l>Myn wanhoop eischt de dood in uw' verdienden haat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Neen, gy verdient myn min; gy stemde in geen verraad.</l>
+<pb n="51"/>
+<l>Ik wil u dezen dag tot echtgenoot verkiezen,</l>
+<l>En door geen wreede dood myn' bruidegom verliezen.</l>
+<l>Myn keur is reeds gedaan; men dwingt my. Ach! verwin</l>
+<l>Die felle wanhoop; denk hoe teêr ik u bemin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Myne Ada mint my noch!.. Ik zou gelukkig sterven,</l>
+<l>Zo gy den bystand van graaf Willem niet moest derven.</l>
+<l>Hy is in hechtenis; hy word gedreigd, gehoond,</l>
+<l>Zyne edelmoedigheid met snoode wraak beloond;</l>
+<l>En u, doorluchte wees! is alle hulp onttogen.</l>
+<l>Vrees, Holland! vrees; voorzie oneindige oorelogen,</l>
+<l>Verwoede weêrwraak, en uw' wissen ondergang.</l>
+<l>Ikzelf, geliefde bruid! verried uw dier belang!</l>
+<l>ô Gruweldaad! ik wrocht ontelbare yslykheden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>'k Vergeef u alles. Laat myn liefde u overreden.</l>
+<l>Ach! dat ons echtverbond den wreedsten slag weêrhou'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Begeert gy dat ik leve, en uwen val aanschouw'?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Begeert gy dat men u voor 't moordend staal doe bukken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Wyt, wyt aan my alleen uw doodlyke ongelukken.</l>
+<l>Ik haat, verfoei myzelv'. Men pleng' myn schuldig bloed!</l>
+<l>Ik ly de felste smart in 't wroegende gemoed.</l>
+<l>Ik vrees geen strenger wraak dan in die pyn te leven.</l>
+<l>Zo gy myn wanhoop wist, gy zoud my niets vergeven.</l>
+<l>Uw gunst, uw liefde, die myn hartewee vergroot,...</l>
+<l>Vaarwel, mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Vertoef. Waar vliegt gy heen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Ter dood.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="52"/>
+<head rend="h4">Twaalfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Hy vlucht!... Ontmenschte!.. Moest myn ongeluk noch groeijen?</l>
+<l>Hy ziet (ô bittre smart!) vergeefs myn tranen vloeijen!</l>
+<l>Ik smeek hem vruchteloos! hy doemt myn min!.. Welaan,</l>
+<l>Ik volg uw wet, ô pligt!.. Maar ach! zal hy vergaan?</l>
+<l>Neen, hy verhoor' myn beê! myn doodsangst duld geen wetten.</l>
+<l>Verblinde bruidegom! ik wil uw dood beletten.</l>
+<l>ô Liefde! sterk myn taal; geef, geef myn zuchten klem;</l>
+<l>Beweeg myn Lodewyk; of, Ada! sterf met hem.</l>
+</sp>
+<stage><hi rend="i">Einde van het vierde bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="53"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Amstel, Reinoud</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Wat nieuwe staatsorkaan is yllings opgekomen?</l>
+<l>Is Diedriks broeder hier in hechtenis genomen?</l>
+<l>En dreigt men Lodewyk vermetel met de dood,</l>
+<l>Zo hem zyn droeve bruid niet kiest tot echtgenoot?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>In uwe afwezendheid is Willems eer geschonden;</l>
+<l>En 's bisschops dreigement, den wreedsten aller vonden,</l>
+<l>Verneemt men uit de klagt der angstige erfgravin.</l>
+<l>Zy, eerst verwinnares van haar getergde min,</l>
+<l>Poogt nu met Lodewyk in echtverbond te treden,</l>
+<l>En tegen Diedriks wil dien bruîgom te overreden.</l>
+<l>Voor Adaas hoog belang bied hy zyn leven aan:</l>
+<l>Maar kan zyn teder hart haar wanhoop lang weêrstaan?</l>
+<l>Hoeveel zyn moed vermag, noch is de liefde sterker.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Verlos Oostvrieslands graaf op 't spoedigst uit zyn' kerker;</l>
+<l>Betoon uw zuivre trouw; betoon uw' heldenmoed;</l>
+<l>En zie de onnoozelheid voor dwinglandy behoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>Mag Ada zich gerust op Willems deugd verlaten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>'s Lands adel, haar getrouw tot heil der onderzaten,</l>
+<l>Verliet zich op dien graaf in haar bestemde vlucht.</l>
+<l>Gy voed eene ydle vrees, zo gy den landvoogd ducht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinoud</hi>.</speaker>
+<l>Uw woord is my genoeg; ik zal myn' pligt betrachten.</l>
+<l>Maar 't is een stout bestaan; 't paleis heeft nieuwe wachten;</l>
+<l>De looze bisschop waakt...</l>
+</sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Amstel</hi></speaker>
+<l rend="; 1tab">Ga, Reinoud; spil geen' tyd...</l>
+<l>'k Zie Adelheide. Ik rust op uw getrouwe vlyt.</l>
+<stage><hi rend="i">Terwyl Reinoud vertrekt, vervolgt Amstel.</hi></stage>
+<l>My lust door stoute taal den nood haar voor te dragen:</l>
+<l>Ik heb te veel gewaagt, om niet noch meer te wagen.</l>
+<l>Men zie wat best van twee onz' aller heil bereid',</l>
+<l>Of Reinouds heldenstuk, of haar grootmoedigheid.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Adelheide, Amstel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Gy, die met leden uit den adel hebt gesproken,</l>
+<l>Verklaar my hun besluit. Word noch 't ontzag verbroken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Ze erkennen dat ontzag niet als een' pligt van staat,</l>
+<l>Maar noemen Adaas echt heerszuchtig landverraad.</l>
+<l rend="; 1tab">Ik moet, vorstin, ik moet, in 't veinzen onbedreven,</l>
+<l>De waarheid in het einde aan u te kennen geven.</l>
+<l>Graaf Diedriks laatste wil word inderdaad verkracht.</l>
+<l>Men werkt uw' ondergang, door 't misbruik uwer magt;</l>
+<l>Verdeelt, verzwakt al 't land; en maakt uwe Ada schuldig,</l>
+<l>Opdat een twistend volk noch haar noch Willem huldig'.</l>
+<l>Kan zy, indien zy huwt, zyn strenge wraak ontgaan?</l>
+<l>De bloem der edelen spant waarlyk met hem aan.</l>
+<l>Verdrukte onnoozelheid noopt my tot mededoogen.</l>
+<l>Herroep uwe oude deugd; ontsluit intyds uwe oogen;</l>
+<l>Vergun Oostvrieslands graaf de wettige voogdy;</l>
+<l>En de adel veilige u voor wraak en tyranny!</l>
+<l>'k Laat u alleen; besluit: uw lot is in uw handen:</l>
+<l>Verkies den roem der deugd, of't loon der dwingelanden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="55"/>
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">alleen.</hi></stage>
+<l>Men wyt, my hoog verraad; en, tot myn bittre spyt,</l>
+<l>Myn hart, myn wroegend hart verdient dat bits verwyt:</l>
+<l>'k Heb Utrechts kerklyk hoofd te veel gehoor gegeven.</l>
+<l>Hy dwingt de ontstelde bruid! hy dreigt haar' minnaars leven!</l>
+<l>Is dit, verdrukten, die grootmoedig my beschaamt!</l>
+<l>Een lot dat gy verdient? een dwang die my betaamt?</l>
+<l>Gelooft niet, dat ik ook onschuldig bloed zou plengen;</l>
+<l>'t Is veinzen... Maar te wreed; ik moet, noch wil 't gehengen.</l>
+<l>Uw rampspoed baart myn ziel eene onverdraagbre smart.</l>
+<l rend="; 1tab">ô Willem! Adelheide, in 't groot gevaar verward,</l>
+<l>Gaf u, naar Diedriks wil, 't voogdyschap zyner staten,</l>
+<l>Indien ze veilig op uw woord zich mogt verlaten.</l>
+<l>Maar neen; onze oude haat, die gruwzaam heeft gewoed,</l>
+<l>Die Holland tranen kost en dierbaar burgerbloed,</l>
+<l>Ontzegt, ô vyand! u dat vreeslyk staatsvermogen:</l>
+<l>Ik kan uw wraakzucht nooit in 't landbestier gedoogen.</l>
+<l rend="; 1tab">Myn angstig kroost! schepmoed; ik doem des bisschops dwang.</l>
+<l>Graaf Willem is verrast; hy zal, uit staatsbelang,</l>
+<l>Uw' onvermydbren echt in 't einde moeten stemmen:</l>
+<l>In zynen kerker zal myn aanbod beter klemmen:</l>
+<l>Oostvriesland, hem beloofd, zy noch zyn eigendom!</l>
+<l>Zyn stem winne ieders hart voor uwen bruidegom!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Vander Are, Lodewyk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andelheide</hi>.</speaker>
+<l>Myn dochter, wees getroost; 'k wil u den dwang ontrukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ach! durft gy spotten met myn hooplooze ongelukken?</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Adelheide.</hi></stage>
+<l>Men heeft de plegtigheid verricht voor 't echtaltaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Wat zegt gy? hoe! verricht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">ô Schaamte! ô groot gevaar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Uw wreede gunst, vorstin, schenkt myn verliefde zinnen</l>
+<l>Een onwaardeerbaar pand, de schoonste der gravinnen:</l>
+<l>Maar, in dat vreemd geluk, stelt gy myne echtgenoot,</l>
+<l>Uzelve, en 't gantsche land, aan wraak en woede bloot.</l>
+<l>Van dit ontydig feest zal Holland eeuwig gruwen.</l>
+<l>Wat blindheid! schandlyk door bedreiging ons te huwen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Zo spoedig voor 't altaar de plegtigheid verricht!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Myn moeder, zie myn smart met deernis: 'k heb gezwicht;</l>
+<l>De ontmenschte bisschop heeft het middel uitgevonden,</l>
+<l>Waardoor ik, tegen dank, myn glorie heb geschonden.</l>
+<l>Ik wilde u smeeken; 't is tyrannig my belet.</l>
+<l>Gy had, myn wanhoop ziende, ons uit den nood gered.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Uw echt behoed uw land; uw min heeft niets misdreven.</l>
+<l>Moest gy, ontrouwe! uw lot in Willems handen geven?</l>
+<l>Ondankbre! zorg ik niet voor uw bestreên geluk?</l>
+<l>Verfoeit gy 't nut bestaan geyk een gruwelstuk?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>ô Looze dwingeland! ô bronaêr onzer plagen!</l>
+<l>'t Voegt u dien wreeden roem op snoode hulp te dragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Verleidend hoofd der kak! doortrapte huichelaar!</l>
+<l>'t Ontbreekt u aan geen' glimp...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Adelheide.</hi></stage>
+<l rend="; 2tab">Bedwing hun tong.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l rend="; 3tab">Barbaar!</l>
+<pb n="57"/>
+<l>Was 't Adelheides wil door doodschrik hen te dwingen,</l>
+<l>En, eer men Willem sprak, den toeleg door te dringen?</l>
+<l>Gelooft gy dat uw taal, na 't misbruik van 't gezag</l>
+<l>Dat ik u hier verleende, op my noch iets vermag?</l>
+<l>Is hun verhaaste trouw een nut bestaan te noemen?</l>
+<l>Hun weigring was gegrond; uw wreedheid is te doemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ik vind, maar ach! te spaê, myn waarde moeder weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>,</speaker>
+<stage><hi rend="i">tegen Adelheide.</hi></stage>
+<l>Gy scheld en lastert my, terwyl ik 't onheil keer!</l>
+<l>Besef uw dwaling, die myne achtbaarheid ontheiligt;</l>
+<l>Zie 't graaflyk huis, door my, voor Willems haat beveiligd,</l>
+<l>Zyn' trotsen moed gefnuikt, zyn leven in uw magt,</l>
+<l>En all' de muiters tot gehoorzaamheid gebragt.</l>
+<l>Zy beven voor zyn hoofd: vergroot hunn' schrik door dreigen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Ik wil door weldaên tot erkentenis hem neigen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Doe meer; betrouw ons lot aan Willems gloriezucht.</l>
+<l>Ach! waagt men ooit te veel, wanneer men alles ducht?</l>
+<l>Vertoon hem de eeuwige eer der ware heldenstukken;</l>
+<l>Tracht Ada door hemzelv' aan zyne wraak te onttrukken;</l>
+<l>Men onderwerp' zich aan zyn' wil!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 2tab">Wat onbescheid!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">tegen Adelheide.</hi></stage>
+<l>Stel alles aan zyn deugd en edelmoedigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Natuur vereischt myn zorg voor uw gedreigde staten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Behoort my 't erfdeel noch?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 1tab">Hier kan geen kennen baten.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="58"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Vander Are, Lodewyk, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Wat jaagt u angstig hier?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l rend="; 4tab">De hooge nood, vorstin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Wat nood?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 1tab">Hoe beef ik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l rend="; 3tab">Spreek. Verraad my 't hofgezin?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>Men brengt de maar' van één der yslykste euveldaden.</l>
+<l>Uw hoofdman Reinoud zelf heeft vluchtende u verraden,</l>
+<l>De rustelooze stad door muitery beroert,</l>
+<l>Ja Willem, loos vermomd, uit dit paleis gevoert.</l>
+<l>Uw vyand, reeds bekend, het morrend volk genaderd,</l>
+<l>Ontdekt aan 't muitgespan, dat meer en meer vergadert,</l>
+<l>'t Voltrekken van den echt. Men roept,, Graaf Willem leev'!</l>
+<l>‘Dat Adelheide met haar vloekverwanten beev'!</l>
+<l>Zo schreeuwt men. De eedlen, in dat oproer toegeschoten,</l>
+<l>Verleenen Willem hulp, als laffe deelgenooten</l>
+<l>Van zyn geheim verraad; zy voeren krygsvolk aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Erbarmlyk echt!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l rend="; 2tab">Men moet dat woelend rot weêstaan,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>,</speaker>
+<stage><hi rend="i">tegen den bisschop.</hi></stage>
+<l>Ziedaar de bittre vrucht...</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l rend="; 1tab">Laat ons geen' tyd verspillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Vander Are</hi>.</speaker>
+<l>Ik zal, door myn gezag, de muitelingen stillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>ô Lodewyk! bescherm uw nieuwe heerschappy:</l>
+<l>Gy hebt óók helden uit den adel op uw zy'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Ik zal, myn waarde bruid! uw vorstlyk erf verweeren:</l>
+<l>Oostvrieslands graaf zal nooit dan bloedig triomferen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Myn wanhoop, die ons huwde, elendige echtgenoot!</l>
+<l>Ontziet noch staal noch woede; ik streef met u ter dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Mistroostige! vertoef. Stuit uw gravin, gy wachten!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Ada</hi>. <hi rend="i">Lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Myn moeder! Lodewyk!.. Men hoort niet naar myn klagten.</l>
+<l>Hoe klopt my 't angstig hart!.. ô Doodlyk oogenblik!..</l>
+<l>Geliefde panden! ach! uwe Ada sterft van schrik.</l>
+<l>Myn bruîgom! moest myn liefde u tot een misdryf dwingen?</l>
+<l>Ik spaarde uw dierbaar hoofd voor 't staal der muitelingen.</l>
+<l>Oproerig volk! is dit uw hulde? uw trouw?.. Ik dwaal,</l>
+<l>Beleedigden! gy voert met recht het dreigend staal;</l>
+<l>Gy wilt, eer tot uw' val de landgevaren groeijen,</l>
+<l>Gewettigd tot de wraak, het schuldig bloed doen vloeijen.</l>
+<l>Maar, wist gy 's bisschops dwang, die wreed ons heeft verleid,</l>
+<l>Uw woede wierd verkeerd in mededoogendheid.</l>
+<l>Wat aklig krygsgeschreeuw!... Myn burgers! myn soldaten!</l>
+<l>Rechtplegende yveraars! verraden onderzaten!</l>
+<l>Zoekt hier uwe offerhande; en wreekt, alleen op my,</l>
+<l>Graaf Diedriks laatsten wil en 't recht der landvoogdy.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="60"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada</hi>. <hi rend="i">Lyfwachten.
+<lb/>
+Op den wenk van Adelheide, vertrekken de lyfwachten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Gy keert, vorstin! gy leeft! Is 't volk met u bewogen?</l>
+<l>Of zal u de overmagt ontzielen voor myne oogen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Myn krygsgeluk verkeert; ik wyk voor de eerste reis.</l>
+<l rend="; 1tab">Men staat in slagörde aan de poorten van 't paleis,</l>
+<l>Om 't uitgelaten volk, dat aangroeit, in te toomen.</l>
+<l>De woeste burgerschaar' heeft naauwlyks ons vernomen,</l>
+<l>Of roept, daar ze om uw' echt van heete gramschap zied:</l>
+<l>‘Treft Adelheide; treft den bruîgom; spaart hen niet.</l>
+<l>Ik, reeds met pyl en kling gedreigd door die ontzinden,</l>
+<l>Word in 't paleis gerukt door myne ontstelde vrinden;</l>
+<l>En 't hoofd der kerk beproeft of 't bisschoplyk gezag</l>
+<l>Noch iets op 't grimmig hart van 't muitend volk vermag.</l>
+<l>Men ziet, by wapenlooze en onbedreven scharen,</l>
+<l>Een Zeeuwsch gewapend volk, in oorlogskunde ervaren,</l>
+<l>Geleid door Willem. U beken ik, u alleen,</l>
+<l>Dat ik geene uitkomst zie in all' deze yslykheên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Op mynen huwlykdag, den laatsten van myn leven,</l>
+<l>Doet myn verraden min gemaal en moeder sneven.</l>
+<l>Licht sterft myn bruîgom reeds in dit afgryslyk uur.</l>
+<l>ô Doodlyke echt! ô min! ô glorie! ô natuur!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Myn voorbeeld moedige u: men geve Dordrecht blyken,</l>
+<l>Dat groote zielen nooit in tegenspoed bezwyken.</l>
+<l>Duld niet dat Willems haat zich in uw wanhoop vlei';</l>
+<l>Verdien, op 't glorierykst, dat Holland u beschrei';</l>
+<l>Bedenk wat deugden, als myn dochter, u betamen.</l>
+<l>Laat ons den dwingeland in onzen val beschamen.</l>
+</sp>
+<pb n="61"/>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Vergroot myn wanhoop niet: uwe ongevoeligheid</l>
+<l>Is 't smartlykst ongeluk waarom uwe Ada schreit.</l>
+<l>Helaas! was 't niet genoeg, door 't zielbedroevend sterven,</l>
+<l>Een' vader, die my minde, in eeuwigheid te derven?</l>
+<l>In myn bestreden jeugd myzelf te wederstaan?</l>
+<l>Uit dwang te stemmen tot myn' echt, tot euveldaên?</l>
+<l>Is 't noch te weinig, by 't verliezen myner landen,</l>
+<l>De wraak ten doel te staan met all' myn waardste panden?</l>
+<l>Een moeder, wreeder dan de wrekende overmagt,</l>
+<l>Versmaad myn tedre zucht, en stuit en doemt myn klagt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Gy weet niet hoe myn hart in 't heimlyk heeft te stryden;</l>
+<l>Gy weet niet wat ik ly in uw onschuldig lyden.</l>
+<l>Ik zie myn waar belang; en 't smart my dat niet eer...</l>
+<l>Die taal vernoege u; verg myn' fieren geest niet meer.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>ô Bloedige overmoed! ô gruwzaamste aller dagen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Begon men reeds de stryd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Ik ducht de wreedste plagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hildegaard</hi>.</speaker>
+<l>De muiteling volhard in 't schenden van zyn' pligt.</l>
+<l rend="; 1tab">Vorstin, men had u naauw' gerukt uit zyn gezigt,</l>
+<l>Of de aangegroeide magt der trouwlooze onderzaten</l>
+<l>Borst uit ten aanval op uw bevende soldaten.</l>
+<l>Fluks word men handgemeen. Het ramlend moordgeweer,</l>
+<l>Op helm en schild beproefd, slaat vriend en vyand neêr,</l>
+<l>Terwyl, by 't naar gekerm, en onder 't hevig morren</l>
+<l>En dreigen, in de lucht ontelbre schichten snorren.</l>
+<l>Men ziet de ruime markt bedekt met stroomend bloed.</l>
+<pb n="62"/>
+<l>De bisschop, Lodewyk, en hun getrouwe stoet,</l>
+<l>Geneigd te sterven, of de muiters te overheeren,</l>
+<l>Zyn magtloos 't groot getal dier wreeden af te keeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>My wierd, ô bittre spyt! my wierd de stryd ontzegd!..</l>
+<l>Dat niemant my weêrhou' te sterven in 't gevecht!</l>
+<l>Verraden kroost! vaarwel in eeuwigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">Adelheide wederhoudende.</hi></stage>
+<l rend="; 1tab">Myn moeder!</l>
+<l>Bedwing uw'ydlen moed; maak Dordrecht niet verwoeder.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Amstel, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Vorstin, blyf in 't paleis; ontzie, in 't groot gevaar,</l>
+<l>De woedende overmagt, de ontzinde burgerschaar',</l>
+<l>Die vorstlyke offers dreigt uit blinde wraak te slachten.</l>
+<l>Hoor de uitkomst van den stryd. De wanhoop gaf ons krachten:</l>
+<l>Men moest de onnoozle bruid van 't muitend volk ontslaan,</l>
+<l>Verwinnen tegen hoop, of glorieryk vergaan.</l>
+<l>Zo wierd Oostvrieslands graaf in 't eerst met vrucht bestreden,</l>
+<l>Ja van de Zeeuwsche hulp door de onzen afgesneden.</l>
+<l>Hy geeft een teeken; elk, rondom hem heen, houd stil:</l>
+<l>Wy nadren, en hy spreekt: ‘Ik streed voor Diedriks wil;</l>
+<l>Maar de uitslag van 't gevecht doet Lodewyk regeeren;</l>
+<l>Hy wint myn stem.’ Die list doet Willem triomferen:</l>
+<l>Zy stuit uwe oorlogsbende, en geeft zyn Zeeuwen tyd;</l>
+<l>Men rukt hem uit ons oog; hyzelf hervat den stryd;</l>
+<l>Uw deinzend krygsvolk werpt de wapens uit de handen;</l>
+<l>Uw vyand word erkend als graaf van Diedriks landen;</l>
+<l>Zyn staatzucht dient zich nu van 't voordeel zyner kling;</l>
+<l>En de adel stemt uit nood. U stond geen muiteling</l>
+<l>Te duchten; de onderdaan zou noch voor Ada leven,</l>
+<l>Zo gy 't bepaald gezag den landvoogd had gegeven.</l>
+</sp>
+<pb n="63"/>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Is Lodewyk ontzield?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l rend="; 1tab">Ik bleef, by 't woest geweld,</l>
+<l>Onkundig van zyn lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Hoe is my 't hart bekneld!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>De muiter, noch verhit, doet alles bloedig bukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Men kan my 't leven wel, maar nooit den moed, ontrukken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Lodewyk, Amstel, Hildegaard</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Gy leeft, rampzalig held! myn dierbare echtgenoot!..</l>
+<l>Wat kunt gy hopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">U te omhelzen vóór myn dood,</l>
+<l>Een vruchtelooze hulp mistroostig u te zweeren,</l>
+<l>Zolang ik adem schep uw moorders af te keeren,</l>
+<l>En hier te sneven aan uw voeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Welk een schrik</l>
+<l>Verscheurt my 't hart! Myn ramp groeit ieder oogenblik.</l>
+<l>Indien het wrekend staal my 't leven niet doet derven,</l>
+<l>Dan zal natuur en liefde en wroeging my doen sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>In Adaas doodsgevaar, verwoede burgery!</l>
+<l>Getergde Willem! wreekt myn angst u streng op my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Die wreede zal zyn' haat tot walgens toe verzaden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>ô Felle ramp! ik heb myne erfgravin verraden,</l>
+<pb n="64"/>
+<l>Haar nutte vlucht gestuit, haar dier geheim ontdekt,</l>
+<l>En in myn blind bestaan haar' ondergang verwekt.</l>
+<l>Ik moet van schaamte en spyt het aklig daglicht schuwen.</l>
+<l>Ik heb, (ô snood bedryf!) door myn vermetel huwen,</l>
+<l>Gedreigde landvorstin! uw' grootsten toeverlaat</l>
+<l>Verwekt tot vyandschap en onverzoenbren haat:</l>
+<l>Ik heb den muiter stof tot dolle wraak gegeven:</l>
+<l>Ikzelf beroof myn bruid van glorie, staat, en leven:</l>
+<l>Ik schenk, doorluchte vrouw! u tot een huwlyksgift,</l>
+<l>In myn verraste liefde, in onverschoonbre drift,</l>
+<l>Op 't heilloos bruiloftsfeest, gevierd in bloed en tranen,</l>
+<l>Den doodelyken vloek der moordende onderdanen.</l>
+<l>Hunne onbedachte wraak geeft niemant lyfsgenaê.</l>
+<l>De wanhoop, die my grieft, is zonder wedergaê.</l>
+<l>Ik zou de wreedste dood vernoegd in 't oproer lyden,</l>
+<l>Indien ik stervende u van 't onheil kon bevryden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>Men hoor' met wat geschreeuw het toomloos Dordrecht woed,</l>
+<l>En smeek' den nieuwen graaf om hulp voor 't vorstlyk bloed!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Het volk is in 't paleis!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">'t Zal woedende u vernielen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>'t Zal niet, dan in myn' arm, myn' bruidegom ontzielen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">Adelheide, Ada, Willem, Lodewyk, Amstel, Hildegaard, Reinoud</hi>. <hi rend="i">Gevolg van edelen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">na zyn gevolg uitkomende, tegen 't volk, dat zich niet vertoont.</hi></stage>
+<l>Zeeghafte burgers! keert; betrouwt aan my de wraak;</l>
+<l>Gehoorzaamt: 'k weet myn' pligt in uw gerechte zaak.</l>
+</sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Zie hier uw vyandin, verwoede! in uw vermogen;</l>
+<l>Maar in haar nederlaag zo fier, zo onbewogen,</l>
+<l>Als toen ze uw staatzucht dwong door 't alvernielend staal,</l>
+<l>En 't juichend Holland haar begroette in zegepraal.</l>
+<l>Myn onverzetbre moed beveiligt my voor schande.</l>
+<l>Voldoe den muiteling; geef my ter offerhande;</l>
+<l>Vernoeg uw' ouden haat; en wyt, uit staatsbelang,</l>
+<l>Myn dood aan 't grimmig volk, aan onvermydbren dwang.</l>
+<l>Maar denk, indien uw wraak zich vader uit wil strekken,</l>
+<l>Dat Ada zich niet poogde aan uw voogdy te onttrekken,</l>
+<l>Dat zy, dat Lodewyk verdient die wraak te ontgaan.</l>
+<l>Verzuimt gy echter hen in 't oproer by te staan,</l>
+<l>Dan zal dit zelfde volk, na't onbezonnen woeden,</l>
+<l>Ten zoen van 't vorstlyk kroost uw dwinglandy bevroeden,</l>
+<l>En, toornig op uw blinde en bloedige eigenbaat,</l>
+<l>De onnoozle wreken op den roover van haar' staat.</l>
+<l>Zo past het Adelheide, in plaats van laf te smeeken,</l>
+<l>Voor Diedriks dochter u van lyfsgenaê te spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>Gy durst my dreigen! gy!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">tegen Willem.</hi></stage>
+<l rend="; 2tab">Indien een ware deugd</l>
+<l>U dezen dag bewoog voor myn verleide jeugd,</l>
+<l>Des bisschops dwang myn' echt by 't volk niet kan verschoonen,</l>
+<l>En Willem noch zyn liefde aan Ada wil betoonen;</l>
+<stage><hi rend="i">Knielende.</hi></stage>
+<l>Myn dierbre bloedverwant! myn vader! sta dan toe,</l>
+<l>Dat ik eene offerkeur voor Hollands wrekers doe.</l>
+<l rend="; 1tab">Graaf Diedriks laatste zucht was voor zyn' waarden broeder:</l>
+<l>Voldoe zyn dochter, door 't behouden van haar moeder;</l>
+<l>En spaar myn' echtgenoot. Zo hen de wraak vernielt,</l>
+<l>Word Diedriks eenig kroost in hen op't wreedst ontzield.</l>
+<l rend="; 1tab">Noch smeekt uwe Ada voor uw muitende onderdanen:</l>
+<l>Ik haat die wrekers niet; ik stort voor hen óók tranen.</l>
+<l>Weêrhou dat woedend volk, eer 's bisschops hoon of dood</l>
+<pb n="66"/>
+<l>Voor hen eene oorzaak zy van zwaren oorlogsnood.</l>
+<l rend="; 1tab">Vergun, doorluchte held! my, op myn laatste bede,</l>
+<l>Dat ik, de dood getroost, hen onder de oogen trede,</l>
+<l>Eene eedle deernis by de oproetigen verwerv',</l>
+<l>Of voor myn' bruidegom en voor myn moeder sterv'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Zond gy, by 't razend volk uw dierbaar leven wagen?</l>
+<l>Ik stoorde uw vlucht; men woede op de oorzaak uwer plagen!</l>
+<stage><hi rend="i">Knielende.</hi></stage>
+<l>ô Willem! hoor naar my; denk wie u smeekt. Ik ben 't,</l>
+<l>Uw vyand, reeds door u als Hollands graaf erkend,</l>
+<l>Maar door uw list misleid. Zult ge op myn beê beletten,</l>
+<l>Dat zich de oproerigen met Adaas bloed besmetten?</l>
+<l>Behoed gy Diedriks weeûw? Ik sta dan 't graafschap af;</l>
+<l>En, eischt de muiter wraak, ik ben bereid ter straf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">tegen Lodewyk.</hi></stage>
+<l>Zal 't volk zich over u, als over my, ontsermen?</l>
+<stage><hi rend="i">Tegen Willem.</hi></stage>
+<l>Wat zal uw groote ziel verrichten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>,</speaker>
+<stage><hi rend="i">Ada omhelzende.</hi></stage>
+<l rend="; 3tab">U beschermen.</l>
+<l>Myn kinders, ryst. Uw deugd, die met uw plagen groeit,</l>
+<l>Verrukt myn teder hart, en hield myn tong geboeid.</l>
+<l rend="; 1tab">Kloekmoedige Adelheide! uw haat heeft my beleedigt,</l>
+<l>Uw ramp heeft my ontroert, uw kroost heeft my bevredigt.</l>
+<l rend="; 1tab">Myn vrinden, Dordrecht eischt, in woeste muitery,</l>
+<l>Uw leven: maar gy ziet uw' toeverlaat in my.</l>
+<l>De bisschop, zwaar gewond, is reeds de woede onttogen.</l>
+<l>Schoon 't volk met tegenzin hem stelde in myn vermogen,</l>
+<l>Schoon 't u dolzinnig dreigt, vreest echter geen gevaar:</l>
+<l>Gy zyt min schuldig dan de bisschop, die barbaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Myn vader! kan uw deugd al 't ongelyk vergeven?</l>
+<l>Gy zyt myn erfdeel waard'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Moest u myn staal weêrstreven!</l>
+</sp>
+<pb n="t.o. 66"/>
+<p><figure>
+<p><xptr to="stee033adag01ill0005.gif"/></p>
+<figDesc>ADA.</figDesc>
+</figure></p>
+<pb n="67"/>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Myn moeder! Lodewyk! wat onverwacht geluk!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Gy red uw vyandin door 't eêlste heldenstuk,</l>
+<l>Verbant den ouden haat, ja dwingt my u te minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l>Uw deugd, gehoonde vorst! kan meer dan staten winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Amstel</hi>.</speaker>
+<l>ô Gadelooze held! uw moed, uw roemryk staal</l>
+<l>Verwierf in 't heilig land nooit zulk een zegepraal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Willem</hi>.</speaker>
+<l>'t Verzuim van tyd kan ons een nieuw gevaar bereiden.</l>
+<l>Ik wil den muiteling door hoop op wraak misleiden,</l>
+<l>Totdat myn vrinden, aan een veilig oord gebragt,</l>
+<l>Geen wraakzucht vreezen van die woedende overmagt.</l>
+<l rend="; 1tab">Getrouwe ridderschap! help my die vlucht bedekken:</l>
+<l>Gy wilt met vorstlyk bloed myn glorie niet bevlekken:</l>
+<l>U deert het ongeluk der afgetreurde bruid:</l>
+<l>Die rampspoed wischt de schuld in 't graaflyk stamhuis uit.</l>
+<l rend="; 1tab">Gy, Amstel, die met smart my wederstand moest bieden!</l>
+<l>Bescherm, op myn begeerte, uw vrinden onder 't vlieden;</l>
+<l>Volg nu, oprechte held! volg nu, met eedle vreugd,</l>
+<l>Tot veiliging dier vlucht, het voorschrift van uw deugd.</l>
+<l rend="; 1tab">Myn dochter, dat men u naar 't eiland Tessel voere,</l>
+<l>Eer iemant, tot uw wraak, het wufte volk beroere:</l>
+<l>Ja streef naar Engelland; verstrek my daar tot borg</l>
+<l>Voor de algemeene rust; weêrspreek geen nutte zorg.</l>
+<l>Gy zult in blyder tyd uw vryheid weêr erlangen.</l>
+<l>Ik houde uw moeder noch uw' bruidegom gevangen.</l>
+<l>Gy zult, na dezen togt op nieuw met hen vereend,</l>
+<l>U troosten in den ramp, dien gy met hen beweent.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l>Ik derf myn' vader wel, maar vind in u zyn' broeder.</l>
+<stage><hi rend="i">Zy omhelst Lodewyk, en vervolgt:</hi></stage>
+<l>Vaarwel, myn Lodewyk!</l>
+</sp>
+<pb n="68"/>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 1tab">Myn bruid!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>,</speaker>
+<stage><hi rend="i">Adelheide omhelzende.</hi></stage>
+<l rend="; 3tab">Vaarwel, myn moeder!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>.</speaker>
+<l>Myn ongelukkig kroost!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lodewyk</hi>.</speaker>
+<l rend="; 2tab">Wat valt dit scheiden hard!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Adelheide</hi>,</speaker>
+<stage><hi rend="i">tegen Ada.</hi></stage>
+<l>Gy zult ons wederzien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ada</hi>.</speaker>
+<l rend="; 2tab">Die troost verzagt myn smart.</l>
+</sp>
+<p><hi rend="i">EINDE.</hi></p>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

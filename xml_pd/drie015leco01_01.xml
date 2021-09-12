@@ -1,0 +1,3874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Leçons élémentaires et pratiques de langue flamande. Lecture, grammaire, lexicologie</title>
+                <author>Emmanuel van Driessche</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de tweede, herziene druk van <hi rend="i">Leçons élémentaires et pratiques de langue Flamande. Lecture, grammaire, lexicologie</hi> van Emmanuel van Driessche uit 1868. De eerste druk dateert waarschijnlijk eveneens uit 1868.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 12: in het origineel staat de kop ‘Suite’ ondersteboven afgedrukt. In deze digitale versie is dat verbeterd.</corr>
+                        <corr>p. 62: L.P. → J.P.: ‘<hi rend="i">J.P. Heije</hi>’</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <publicationStmt>
+                <idno type="titelcode">drie015leco01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2017 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">eigen exemplaar DBNL</idno>
+                </bibl>
+                <p>Emmanuel van Driessche, <hi rend="i">Leçons élémentaires et pratiques de langue flamande. Lecture, grammaire, lexicologie</hi>. H. Manceaux, Brussel 1868 (2de, herziene druk)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Leçons élémentaires et pratiques de langue flamande. Lecture, grammaire, lexicologie</title>
+                <author>Emmanuel van Driessche</author>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <idno type="nur"></idno>
+            <availability>
+                <p></p>
+            </availability>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Leçons élémentaires et pratiques de langue flamande. Lecture, grammaire, lexicologie</title>
+                <author>Emmanuel van Driessche</author>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <idno type="nur"></idno>
+            <availability>
+                <p></p>
+            </availability>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2017-02-23</date>
+                <respStmt>
+                    <name type="person">AS</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="1"/>
+<p>LEÇONS</p>
+<p>DE</p>
+<p><hi rend="b">LANGUE FLAMANDE.</hi></p>
+<pb n="2"/>
+<p>Déposé aux termes de la loi.</p>
+<pb n="3"/>
+<p>LEÇONS</p>
+<p>élémentaires et pratiques de</p>
+<p>LANGUE FLAMANDE</p>
+<p>Lecture, Grammaire, Lexicologie,</p>
+<p>PAR</p>
+<p>E. VAN DRIESSCHE,</p>
+<p>PROFESSEUR A L'ATHÉNÉE ROYAL DE BRUXELLES.</p>
+<p>Ouvrage dont l'emploi est autorisé dans les établissements. d'instruction moyenne inspectés par l'État.</p>
+<p>2<hi rend="sup">e</hi> Édition, revue et corrigee.</p>
+<p>BRUXELLES</p>
+<p>H. MANCEAUX, IMPRIMEUR-LIBRAIRE,</p>
+<p>rue de l'Étuve, 20.</p>
+<p>1868</p>
+<pb rend="blank" n="4"/>
+</div>
+</cf>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="manc007"/></interpGrp>
+<pb n="5"/>
+<head rend="h3">Préface.</head>
+<p>Le <hi rend="i">Cours théorique et pratique de langue flamande</hi> du prof. Van Driessche est aujourd'hui entre les mains des élèves des principaux établissements d'instruction publique où le flamand est enseigné à l'aide du français; il a ainsi obtenu un succès qui dépasse toutes les espérances de l'auteur. On a toutefois, et avec beaucoup de raison, fait observer à M. Van Driessche que son livre imprime, pour les commençants, une marche trop rapide et une direction trop philologique à l'étude de la langue flamande, et qu'il ne peut, par conséquent, servir utilement qu'aux élèves qui ont déjà fait un cours préparatoire.</p>
+<p>Cette raison nous a porté à publier textuellement les <hi rend="i">Leçons élémentaires et pratiques</hi> telles que M. Van Driessche les donne depuis nombre d'années dans la <hi rend="i">classe préparatoire</hi> à l'Athénée royal de Bruxelles.</p>
+<p>Sa longue expérience lui a démontré qu'un cours élémentaire, pour répondre à sa véritable destination, doit nécessairement comprendre:</p>
+<p>1<hi rend="sup">o</hi> <hi rend="i">La bonne lecture, avec accentuation raisonnée, et une parfaite connaissance de la valeur des lettres flamandes.</hi></p>
+<p>A cet effet, il distingue dans l'alphabet flamand:</p>
+<list>
+<label><hi rend="i">a</hi>)</label><item>Les sons composés (diphthongues) qui se prononcent autrement en flamand qu'en français;</item>
+<label><hi rend="i">b</hi>)</label><item>Les sons non usités en français;</item>
+<pb n="6"/>
+<label><hi rend="i">c</hi>)</label><item>Les voyelles longues et les voyelles brèves;</item>
+<label><hi rend="i">d</hi>)</label><item>Les consonnes qui s'articulent autrement en français qu'en flamand;</item>
+<label><hi rend="i">e</hi>)</label><item>Les consonnes étrangères à la langue française.</item></list>
+<p>Le tout appuyé d'exemples et d'exercices de lecture, avec traduction mot à mot. Il donne en outre la prononciation figurée <hi rend="i">la plusrapprochée</hi>, pour aider la mémoire de l'élève.</p>
+<p>&nbsp;</p>
+<p>2<hi rend="sup">o</hi> <hi rend="i">Le sens grammatical et logique de la proposition, c'est-à-dire l'intelligence de l'expression.</hi></p>
+<p>Pour arriver à la connaissance de cette matière, indispensable même dans un cours tout à fait élémentaire, il exclut rigoureusement tout ce que lagrammaire offre d'abstractions, ou d'<hi rend="i">inutilités</hi>, comme dit le ministre Duruy; il n'admet que les procédés simples et rationnels: l'élève forme lui-même des propositions et des phrases, et arrive ainsi, en fort peu de temps, à une connaissance, pour le moment, suffisante des trois genres et des quatre cas, ce qui constitue en flamand la base du sens grammatical et logique, et conduit pratiquement à l'orthographie.</p>
+<p>&nbsp;</p>
+<p>3<hi rend="sup">o</hi> <hi rend="i">La composition et la décomposition des mots, ponr saisir l'exacte signification de ceux-ci.</hi></p>
+<p>La langue flamande s'alimente à ses propres sources; les radicaux sont connus, les préfixes et les terminaisons ont une acception définie et régulière; or, les exercices lexicologiques, qui dans les langues dérivées sont extrêmement difficiles, doivent être en flamand à la portée des élèves les moins avancés; dans les langues mères, les enfants composent et décomposent les mots du moment qu'ils commencent à balbutier, et, l'on en conviendra, c'est bien là la clef de l'intelligence de la langue.</p>
+<p>MM. les instituteurs remarqueront que dans l'application des principes énoncés, l'auteur a constamment cherché à être simple et méthodique: les mots sont choisis dans le vocabu-<pb n="7"/>laire usuel; une leçon nouvelle est toujours basée sur une leçon précédente; l'élève reprend lui-même les mots qu'il a déjà appris, et, par cotte répétition pratique, il est obligé de les graver dans sa mémoire. Les trois principes fondamentaux: <hi rend="i">Lecture, Grammaire</hi> et <hi rend="i">Lexicologie</hi>, ainsi coordonnés, donnent à l'élève une somme de connaissances pratiques toujours utilement acquises, et qui, s'il continue l'étude de la langue flamande, lui permettent d'en surmonter, en peu de temps, toutes les difficultés syntaxiques et littéraires.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">L'éditeur,</hi></p>
+<p>H. <hi rend="sc">Manceaux</hi>.</p>
+<p>&nbsp;</p>
+<p>Bruxelles, 1867.</p>
+<pb rend="blank" n="8"/>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="taalkunde" value="fon"/>
+</interpGrp>
+<pb n="9"/>
+<head rend="h2">Leçons de langue flamande.</head>
+<head rend="h3">Première partie.
+<lb/>
+Lecture.</head>
+<head rend="h4">Première leçon.</head>
+<p><hi rend="i">Deux sons composés, dont la prononciation est toute différente en flamand et en français.</hi></p>
+<div type="section">
+<head>OU (comme <hi rend="i">au</hi> dans f<hi rend="i">au</hi>te).</head>
+<p>Ex.: Fout - <hi rend="i">faute;</hi> zout - <hi rend="i">sel;</hi> kous - <hi rend="i">bas;</hi> hout - <hi rend="i">bois;</hi> koud - <hi rend="i">froid</hi>.</p>
+</div>
+<div type="section">
+<head>UI (comme <hi rend="i">eu</hi> dans p<hi rend="i">eu</hi>r).</head>
+<p>Ex.: Huis - <hi rend="i">maison;</hi> muis - <hi rend="i">souris</hi>; uil - <hi rend="i">hibou</hi>; duif - <hi rend="i">pigeon</hi>; druif - <hi rend="i">raisin.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">ou - ui</hi>).</head>
+<p>De groote fout. - Het zout is gezond. - De kous is
+<lb/>
+<hi rend="i">La grande faute. - Le sel est sain. - Le bas est</hi>
+<lb/>
+wit. - Het hout is droog. - Het metaal is koud. - Het
+<lb/>
+<hi rend="i">blanc. - Le bois est sec. - Le métal est froid. - La</hi>
+<lb/>
+huis is hoog. - De muis is een dier. - De uil is een
+<lb/>
+<hi rend="i">maison est haute. - La souris est un animal. - Le hibou est un</hi>
+<lb/>
+vogel. - De duif is ook een vogel. - De druif is rijp.
+<lb/>
+<hi rend="i">oiseau. - Le pigeon est aussi un oiseau. - Le raisin est mûr.</hi></p>
+</div>
+<div type="section">
+<head rend="h4">Deuxième leçon.</head>
+<p><hi rend="i">Une voyelle simple et six sons composés non usités en français.</hi></p>
+<div type="section">
+<head>IJ (comme <hi rend="i">ai</hi> dans l<hi rend="i">ai</hi>ne).</head>
+<p>Ex.: Lijn - <hi rend="i">ligne</hi>; wijn - <hi rend="i">vin</hi>; fijn - <hi rend="i">fin</hi>; mijn - <hi rend="i">mine</hi>; cozijn - <hi rend="i">cousin.</hi></p>
+</div>
+<div type="section">
+<pb n="10"/>
+<head>OE (comme <hi rend="i">ou</hi> dans <hi rend="i">nous</hi>).</head>
+<p>Ex.: Hoed - <hi rend="i">chapeau</hi>; moed - <hi rend="i">courage</hi>; bloed - <hi rend="i">sang</hi>: stoel - <hi rend="i">chaise</hi>; roem - <hi rend="i">gloire.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">ij - oe</hi>).</head>
+<p>De lijn is recht. - De wijn is goed. - Het fijn en het
+<lb/>
+<hi rend="i">La ligne est droite. - Le vin est bon. - Le fin et le</hi>
+<lb/>
+grof. - De mijn is diep. - Onze cozijn is jong. - De
+<lb/>
+<hi rend="i">gros. - La mine est profonde. - Notre cousin est jeune. - Le</hi>
+<lb/>
+hoed is rond. - De moed van den man. - Ons bloed is
+<lb/>
+<hi rend="i">chapeau est rond. - Le courage de l' homme. - Notre sang est</hi>
+<lb/>
+rood. - Neemt eenen stoel. - De roem van het vaderland.
+<lb/>
+<hi rend="i">rouge. - Prenez une chaise. - La gloire de la patrie.</hi></p>
+</div>
+<div type="section">
+<head>OEI (à peu près comme <hi rend="i">oui</hi>, i un peu plus faible).</head>
+<p>Ex.: Koei - <hi rend="i">vache</hi>; groei - <hi rend="i">croissance</hi>; bloei - <hi rend="i">splendeur</hi>; moei - <hi rend="i">tante</hi>; schoeisel - <hi rend="i">chaussure.</hi></p>
+</div>
+<div type="section">
+<head>OOI (sans équivalent: <hi rend="i">o</hi> long suivi de <hi rend="i">i</hi> faible.)</head>
+<p>Ex.: Hooi - <hi rend="i">foin</hi>; plooi - <hi rend="i">pli</hi>; tooi - <hi rend="i">parure</hi>; strooi - <hi rend="i">paille</hi> kooi - <hi rend="i">cage.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">oei - ooi</hi>).</head>
+<p>De koei is nuttig. - De groei van de plant. - De</p>
+<p><hi rend="i">La vache est utile. - La croissance de la plante. - La</hi>
+<lb/>
+bloei van de nijverheid. - De zuster van mijne moeder
+<lb/>
+<hi rend="i">splendeur de l' industrie. - La soeur de ma mère</hi>
+<lb/>
+is mijne moei. - Mijn schoeisel is van leder. - Het hooi is
+<lb/>
+<hi rend="i">est ma tante. - Ma chaussure est de cuir. - Le foin est</hi>
+<lb/>
+een goed voeder. - De plooi in uw boek. - De deugd is
+<lb/>
+<hi rend="i">un bon fourrage. - Le pli dans votre livre. - La vertu est</hi>
+<lb/>
+een schoone tooi. - Het strooi is nuttig. - Een vogel
+<lb/>
+<hi rend="i">une belle parure. - La paille est utile. - Un oiseau</hi>
+<lb/>
+in de kooi.
+<lb/>
+<hi rend="i">dans la cage.</hi></p>
+</div>
+<div type="section">
+<head>AAI (sans équivalent: <hi rend="i">a</hi> long suivi de <hi rend="i">i</hi> faible).</head>
+<p>Ex.: Baai - <hi rend="i">flanelle</hi>; kraai - <hi rend="i">corneille</hi>; fraai - <hi rend="i">joli</hi>; papegaai - <hi rend="i">perroquet.</hi></p>
+</div>
+<div type="section">
+<pb n="11"/>
+<head>EEU (sans équivalent: <hi rend="i">e</hi> long, <hi rend="i">u</hi> presque nul, étant suivi de <hi rend="i">w</hi>).</head>
+<p>Ex.: Leeuw - <hi rend="i">lion</hi>; meeuw - <hi rend="i">mouette</hi>; eeuw - <hi rend="i">siècle</hi>; sneeuw - <hi rend="i">neige.</hi></p>
+</div>
+<div type="section">
+<head>IEU (sans équivalent: <hi rend="i">i</hi> long, <hi rend="i">u</hi> presque nul, étant suivi de <hi rend="i">w</hi>).</head>
+<p>Ex.: Nieuw - <hi rend="i">nouveau</hi>; kieuw - <hi rend="i">branchie</hi> (des poissons).</p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">ooi - eeu - ieu</hi>).</head>
+<p>Een kleed van baai. - Zwart als eene kraai. -
+<lb/>
+<hi rend="i">Une robe de flanelle. - Noir comme une corneille.</hi> -
+<lb/>
+De bloem is fraai. - De papegaai kan spreken. De leeuw
+<lb/>
+<hi rend="i">La fleur est jolie. - Le perroquet sait parter. - Le lion</hi>
+<lb/>
+is een schoon dier. - De meeuw is een vogel. - Eene
+<lb/>
+<hi rend="i">est un bel animal. - La mouette est un oiseau. - Un</hi>
+<lb/>
+eeuw duurt honderd jaren. - De sneeuw is wit. - Mijn
+<lb/>
+<hi rend="i">siècle dure cent ans. - La neige est blanche. - Mon</hi>
+<lb/>
+hoed is nieuw. - De visch heeft aan elke zijde van den
+<lb/>
+<hi rend="i">chapeau est neuf. - Le poisson a de chaque côté de la</hi> kop eene kieuw.
+<lb/>
+<hi rend="i">tête une branchie.</hi></p>
+</div>
+</div>
+<div type="section">
+<head rend="h4">Troisième leçon.</head>
+<p><hi rend="i">Les voyelles</hi> aa, ee, oo, uu, ie, <hi rend="i">ne sont que des</hi> à, é, ô, û, î <hi rend="i">longs.</hi></p>
+<p>Ex.: Daad - <hi rend="i">action</hi>; kwaad - <hi rend="i">mal</hi>; taal - <hi rend="i">langue</hi>; staat - <hi rend="i">état</hi>; knaap - <hi rend="i">garçon.</hi></p>
+<p>Beet - <hi rend="i">morsure</hi>; spleet - <hi rend="i">fente</hi>; veel - <hi rend="i">beaucoup</hi>; steen - <hi rend="i">pierre</hi>; neen - <hi rend="i">non.</hi></p>
+<p>Boog - <hi rend="i">arc</hi>; oom - <hi rend="i">oncle</hi>; boom - <hi rend="i">arbre</hi>; schoon - <hi rend="i">beau</hi>; groot - <hi rend="i">grand.</hi></p>
+<div type="section">
+<head>Lecture (<hi rend="i">aa - ee - oo</hi>).</head>
+<p>Eene goede daad. - Het kwaad is schadelijk. - De taal
+<lb/>
+<hi rend="i">Une bonne action. - Le mal est nuisible. - La langue</hi>
+<pb n="12"/>van ons land. - Destaat van mijne gezondheid. - Die knaap
+<lb/>
+<hi rend="i">de notre pays. - L' état de ma santé. - Ce garçon</hi>
+<lb/>
+is beleefd.
+<lb/>
+<hi rend="i">est poli.</hi></p>
+<p>De beet is diep. - De spleet van de pen. - Wel doen
+<lb/>
+<hi rend="i">La morsure est profonde. - La fente de la plume. - Bien faire</hi>
+<lb/>
+is veel doen. - De steen is zwaar. - Antwoord ja of
+<lb/>
+<hi rend="i">est beaucoup faire. - La pierre est lourde. - Répondez oui ou</hi>
+<lb/>
+neen. - Ik heb eenen goeden boog. - Mijn oom is rijk. -
+<lb/>
+<hi rend="i">non. - J' ai un bon arc. - Mon oncle est riche.</hi> -
+<lb/>
+De boom is groot. - De hond is schoon. - Het paard is
+<lb/>
+<hi rend="i">L'arbre est grand. - Le chien est beau. - Le cheval est</hi>
+<lb/>
+groot.
+<lb/>
+<hi rend="i">grand.</hi></p>
+</div>
+<div type="section">
+<head>Suite</head>
+<p>Ex.: vuur - <hi rend="i">feu</hi>; muur - <hi rend="i">muraille</hi> huur - <hi rend="i">loye</hi>; - uur - <hi rend="i">heure</hi>; gebuur - <hi rend="i">voisin.</hi></p>
+<p>Wiel - <hi rend="i">roue</hi>; dier - <hi rend="i">animal</hi>; bier - <hi rend="i">bière</hi>; iever - <hi rend="i">zèle</hi>; mier - <hi rend="i">fourmi.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">uu - ie</hi>).</head>
+<p>Het vuur kan alles verslinden. - De muur omringt den hof.
+<lb/>
+<hi rend="i">Le feu peut tout dévorer. - Le mur entoure le jardin.</hi>
+<lb/>
+- De huur van het huis. - De school begint om één uur.
+<lb/>
+- <hi rend="i">Le loyer de la maison. - La classe commence à une heure.</hi>
+<lb/>
+- Wij hebben eenen goeden gebuur. - Het wiel van het rijtuig.
+<lb/>
+- <hi rend="i">Nous avons un bon voisin. - La roue de la voiture.</hi>
+<lb/>
+- Het paard is een schoon dier. - Het bier is een goede drank.
+<lb/>
+- <hi rend="i">Le cheval est un bel animal. - La bière est une bonne boisson.</hi>
+<lb/>
+- Dit kind toont eenen grooten iever. - De mier is zeer
+<lb/>
+- <hi rend="i">Cet enfant montre un grand zèle. - La fourmi est très</hi>
+<lb/>
+werkzaam.
+<lb/>
+<hi rend="i">laborieuse.</hi></p>
+</div>
+</div>
+<div type="section">
+<pb n="13"/>
+<head rend="h4">Quatrième leçon.</head>
+<p>Six consonnes qui ont une articulation autre en français qu'en flamand.</p>
+<div type="section">
+<head>G <hi rend="i">initial</hi> (comme dans <hi rend="i">goût, garde</hi>, etc.).</head>
+<p>Ex.: Goud - <hi rend="i">or;</hi> gans - <hi rend="i">oie;</hi> geel - <hi rend="i">jaune</hi>; geluk - <hi rend="i">bonheur</hi>; gunst - <hi rend="i">faveur.</hi></p>
+</div>
+<div type="section">
+<head>G <hi rend="i">final</hi> (plus faible - <hi rend="i">gué</hi>).</head>
+<p>Ex.: Vraag - <hi rend="i">question;</hi> ploeg - <hi rend="i">charrue</hi>; genoeg - <hi rend="i">assez</hi>; brug - <hi rend="i">pont</hi>; weg - <hi rend="i">chemin.</hi></p>
+</div>
+<div type="section">
+<head>NG <hi rend="i">final</hi> (comme <hi rend="i">nque - banque</hi>).</head>
+<p>Ex.: Zang - <hi rend="i">chant</hi>; lang - <hi rend="i">long</hi>; jong <hi rend="i">-jeune</hi>; koning - <hi rend="i">roi</hi>; stelling - <hi rend="i">échafaudage.</hi></p>
+</div>
+<div type="section">
+<head>NG dans le corps des mots, suivi d'une muette, mouillé à la façon de <hi rend="i">gn</hi> dans <hi rend="i">digne, montagne</hi>, etc.</head>
+<p>Ex.: Zangen - <hi rend="i">chants</hi>; lange - <hi rend="i">longs</hi>; jonge - <hi rend="i">jeunes;</hi> koningen - <hi rend="i">rois;</hi> stellingen - <hi rend="i">échafaudages.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">g - ng</hi>).</head>
+<p>Het goud is geel. - De pen van de gans - Het geluk van
+<lb/>
+<hi rend="i">L' or est jaune - La plume de l' oie. - Le bonheur de</hi>
+<lb/>
+den mensch. - De gunst van God. - Eene vraag en een
+<lb/>
+<hi rend="i">l' homme. - La grâce de Dieu. - Une question et une</hi>
+<lb/>
+antwoord. - De ploeg en het paard. - Genoeg is altijd veel.
+<lb/>
+<hi rend="i">réponse - La charrue et le cheval. - Assez est toujours beaucoup.</hi>
+<lb/>
+- De brug over de Maas. - De weg naar de stad. -
+<lb/>
+- <hi rend="i">Le pont sur la Meuse. - Le chemin vers la ville.</hi> -
+<lb/>
+De zang van den vogel. - Die stelling is lang. - Een
+<lb/>
+<hi rend="i">Le, chant de l' oiseau. - Cet échafaudage est long. - Un</hi>
+<lb/>
+gedicht in zes zangen. - De lange stellingen. De jonge
+<lb/>
+<hi rend="i">poëme en six chants. - Les longs échafaudages. - Les jeunes</hi>
+<lb/>
+koningen.
+<lb/>
+<hi rend="i">rois.</hi></p>
+</div>
+<div type="section">
+<head>H (toujours aspiré).</head>
+<p>Ex.: Hond - <hi rend="i">chien;</hi> hoed - <hi rend="i">chapeau</hi>; huis - <hi rend="i">maison</hi>; hand - <hi rend="i">main;</hi> hoop - <hi rend="i">espoir.</hi></p>
+</div>
+<div type="section">
+<pb n="14"/>
+<head>J (comme y dans <hi rend="i">yacht</hi>).</head>
+<p>Ex: Jaar - <hi rend="i">année</hi>; jacht - <hi rend="i">chasse</hi>; - jeugd <hi rend="i">- jeunesse</hi>: Jan - <hi rend="i">Jean</hi>; ja - <hi rend="i">oui.</hi></p>
+</div>
+<div type="section">
+<head>R (sourde comme dans <hi rend="i">perle</hi>).</head>
+<p>Ex. Ster - <hi rend="i">étoile</hi>; verte - <hi rend="i">lointain</hi>; smert - <hi rend="i">douleur;</hi> kerk - <hi rend="i">église</hi>; sterkte - <hi rend="i">force.</hi></p>
+</div>
+<div type="section">
+<head>CH (très-guttural).</head>
+<p>Ex.: Lichaam - <hi rend="i">corps</hi>; lachen - <hi rend="i">rire</hi>; gevecht - <hi rend="i">combat</hi>; glimlach - <hi rend="i">sourire</hi>; lucht - <hi rend="i">air.</hi></p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">h - j - r - ch</hi>).</head>
+<p>De hond is een trouwe vriend. - De hoed is rond. -
+<lb/>
+<hi rend="i">Le chien est un fidèle ami. - Le chapeau est rond.</hi> -
+<lb/>
+Ik woon in een schoon huis. - De hand op het hart.
+<lb/>
+<hi rend="i">Je demeure dans une belle maison. - La main sur le coeur.</hi>
+<lb/>
+- De hoop versterkt. - Een jaar heeft twaalf maanden. -
+<lb/>
+<hi rend="i">L'espoir fortifie. - Une année a douze mois.</hi> -
+<lb/>
+De jacht is eene goede oefening. - Men moet leeren in zijne
+<lb/>
+<hi rend="i">La chasse est un bon exercice. - On doit apprendre dans sa</hi>
+<lb/>
+jeugd. - Jan zegt ja en Jacob zegt neen. - Ik zie eene
+<lb/>
+<hi rend="i">jeunesse. - Jean dit oui et Jacques dit non. - Je vois une</hi>
+<lb/>
+ster. - Men ziet de sterren in de verte. - Eene kerk is een
+<lb/>
+<hi rend="i">étoile. - On voit les étoiles dans le lointain. - Une église est un</hi>
+<lb/>
+groot gebouw. - De sterkte van den olifant is groot. -
+<lb/>
+<hi rend="i">grand édifice. - La force de l' éléphant est grande.</hi> -
+<lb/>
+Ons lichaam is sterfelijk. - Lachen is dikwijls onbetame-
+<lb/>
+<hi rend="i">Notre corps est mortel. - Rire est souvent inconve</hi>-
+<lb/>
+lijk. - Een schrikkelijk gevecht. - Een glimlach op de lippen.
+<lb/>
+<hi rend="i">nant. - Un terrible combat. - Un sourire sur les lèvres.</hi>
+<lb/>
+- De lucht is noodig om te leven.
+<lb/>
+- <hi rend="i">L' air est nécessaire pour vivre.</hi></p>
+</div>
+</div>
+<div type="section">
+<pb n="15"/>
+<head rend="h4">Cinquième leçon.</head>
+<p>Quatre consonnes non usitées en français.</p>
+<div type="section">
+<head>K (comme <hi rend="i">que</hi> dans <hi rend="i">coque</hi>).</head>
+<p>Ex.: Kok - <hi rend="i">cuisinier;</hi> stuk - <hi rend="i">morceau;</hi> tak - <hi rend="i">branche;</hi> klok - <hi rend="i">cloche</hi>; koek - <hi rend="i">gâteau</hi>.</p>
+</div>
+<div type="section">
+<head>W (sans équivalent).</head>
+<p>Ex.: Wil - <hi rend="i">volonté;</hi> verwijt - <hi rend="i">reproche;</hi> bewijs - <hi rend="i">preuve;</hi> waarheid - <hi rend="i">vérité;</hi> woord - <hi rend="i">parole</hi>.</p>
+</div>
+<div type="section">
+<head>KW (comme <hi rend="i">qu</hi> dans <hi rend="i">équateur</hi>).</head>
+<p>Ex.: Kwaad - <hi rend="i">mal;</hi> kwakkel - <hi rend="i">caille;</hi> kwakzalver - <hi rend="i">charlatan;</hi> kwijtschrift - <hi rend="i">quittance</hi>.</p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">k</hi> - <hi rend="i">w</hi> - <hi rend="i">kw</hi>).</head>
+<p>De kok braadt het vleesch. - Een stuk voor den arme.
+<lb/>
+<hi rend="i">Le cuisinier rôtit la viande</hi>. - <hi rend="i">Un morceau pour le pauvre</hi>.
+<lb/>
+- De vogel op den tak. - De klok in den toren van
+<lb/>
+- <hi rend="i">L’oiseau sur la branche</hi>. - <hi rend="i">La cloche dans la tour de</hi>
+<lb/>
+de kerk. - De koek van het kind. - De goede wil van
+<lb/>
+<hi rend="i">l'église</hi>. - <hi rend="i">Le gâteau de l'enfant</hi>. - <hi rend="i">La bonne volonté de</hi>
+<lb/>
+den leerling. - Ik doe een verwijt aan mijnen broeder. -
+<lb/>
+<hi rend="i">l'elève</hi>. - <hi rend="i">Je fais un reproche à mon frère</hi>. -
+<lb/>
+Geeft mij een bewijs van vriendschap. - Wij zeggen altijd de
+<lb/>
+<hi rend="i">Donnez-moi une preuve d'amitié</hi>. - <hi rend="i">Nous disons toujours la</hi>
+<lb/>
+waarheid. - Zegt het woord duidelijk. - Het goed en het
+<lb/>
+<hi rend="i">vérité</hi>. - <hi rend="i">Dites le mot clairement</hi>. - <hi rend="i">Le bien et le</hi>
+<lb/>
+kwaad. - De kwakkel is een vogel. - De kwakzalver
+<lb/>
+<hi rend="i">mal</hi>. - <hi rend="i">La caille est un oiseau</hi>. - <hi rend="i">Le charlatan</hi>
+<lb/>
+bedriegt de onwetenden. - De koopman geeft een kwijtschrift.
+<lb/>
+<hi rend="i">trompe les ignorants</hi>. - <hi rend="i">Le marchand donne une quittance</hi>.</p>
+</div>
+<div type="section">
+<head>Suite.</head>
+<p><hi rend="i">Sch</hi> (très-guttural, au commencement des mots).</p>
+<p>Ex.: Schaap - <hi rend="i">brebis;</hi> school - <hi rend="i">école;</hi> schip - <hi rend="i">navire;</hi> schepsel - <hi rend="i">créature;</hi> schoonheid - <hi rend="i">beauté</hi>.</p>
+<pb n="16"/>
+<p><hi rend="i">Sch</hi> (comme <hi rend="i">s</hi> simple, à la fin des mots radicaux).</p>
+<p>Ex.: Mensch - <hi rend="i">homme;</hi> musch - <hi rend="i">moineau;</hi> flesch - <hi rend="i">bouteille;</hi> gedruisch - <hi rend="i">bruit;</hi> bosch - <hi rend="i">forêt</hi>.</p>
+</div>
+<div type="section">
+<head>Lecture (<hi rend="i">sch</hi> initial - <hi rend="i">sch</hi> final.)</head>
+<p>Het schaap is zacht. - Wij gaan naar de school. - Een
+<lb/>
+<hi rend="i">La brebis est douce</hi>. - <hi rend="i">Nous allons à l'école</hi>. - <hi rend="i">Un</hi>
+<lb/>
+schip vaart op net water - Ik ben een schepsel van God. -
+<lb/>
+<hi rend="i">navire navigue sur l'eau</hi>. - <hi rend="i">Je suis une créature de Dieu</hi>. -
+<lb/>
+De ware schoonheid bestaat in de deugd. - De mensch heeft
+<lb/>
+<hi rend="i">La vraie beauté eonsiste dans la vertu</hi>. - <hi rend="i">L'homme a</hi>
+<lb/>
+eene ziel en een lichaam. - De musch vangt de vliegen. -
+<lb/>
+<hi rend="i">une âme et un corps</hi>. - <hi rend="i">Le moineau prend les mouches</hi>. -
+<lb/>
+Eene flesch van glas is breekbaar. - Ik hoor net gedruisch
+<lb/>
+<hi rend="i">Une bouteille de verre est fragile</hi>. - <hi rend="i">J'entends le bruit</hi>
+<lb/>
+van de zee. - De hooge boomen van het groote bosch.
+<lb/>
+<hi rend="i">de la mer</hi>. - <hi rend="i">Les hauts arbres de la grande forêt</hi>.</p>
+</div>
+</div>
+<div type="section">
+<head rend="h4">Sixième leçon.</head>
+<head>Répétition - Application.</head>
+<p><table>
+<row>
+<cell>Ik ben,</cell>
+<cell><hi rend="i">je suis</hi>,</cell>
+<cell>Ik heb,</cell>
+<cell><hi rend="i">j'ai</hi>,</cell>
+</row>
+<row>
+<cell>Gij zijt,</cell>
+<cell><hi rend="i">tu es</hi>,</cell>
+<cell>Gij hebt,</cell>
+<cell><hi rend="i">tu as</hi>,</cell>
+</row>
+<row>
+<cell>Hij is,</cell>
+<cell><hi rend="i">il est</hi>,</cell>
+<cell>Hij heeft,</cell>
+<cell><hi rend="i">il a</hi>,</cell>
+</row>
+<row>
+<cell>Wij zijn</cell>
+<cell><hi rend="i">nous sommes</hi>,</cell>
+<cell>Wij hebben,</cell>
+<cell><hi rend="i">nous avons</hi>,</cell>
+</row>
+<row>
+<cell>Gij zijt,</cell>
+<cell><hi rend="i">vous êtes</hi>,</cell>
+<cell>Gij hebt,</cell>
+<cell><hi rend="i">vous avez</hi>,</cell>
+</row>
+<row>
+<cell>Zij zijn,</cell>
+<cell><hi rend="i">ils sont</hi>.</cell>
+<cell>Zij hebben,</cell>
+<cell><hi rend="i">ils ont</hi>.</cell>
+</row>
+</table></p>
+<div type="section">
+<head>Lecture et version.</head>
+<p>(Aucun changement dans la construction. - Tous les mots employés se trouvent dans les leçons précédentes.)</p>
+</div>
+<div type="section">
+<head>1.</head>
+<p>Het zout is wit. Ik heb eenen vogel. De boom is hoog. Eene muis is een klein dier. Mijn broeder heeft eene schoone duif. Uw cozijn is werkzaam. Ik heb mijnen stoel. Neemt uwen hoed. Ons vaderland is klein, maar schoon. Het bloed van den mensch is rood.</p>
+</div>
+<div type="section">
+<pb n="17"/>
+<head>2.</head>
+<p>Het hout is nuttig. De leeuw is de koning van de dieren. Uwe moei is de zuster van uwe moeder of van uwen vader. De nijverheid van den mensch. Eene koei is een zeer nuttig dier. De deugd is een rijke tooi voor de kinderen. Wij hebben eene ziel en een lichaam.</p>
+</div>
+<div type="section">
+<head>3.</head>
+<p>Uw vriend heeft eenen hoed van strooi. Ik heb eenen papegaai in eene kooi; hij kan spreken. De kraai is een vogel. Wij hebben een schoon kleed. Gij hebt veel bloemen in uwen hof. De visch leeft in het water, en de vogel in de lucht. Een schip vaart op het water.</p>
+</div>
+<div type="section">
+<head>4.</head>
+<p>De staat van uwe gezondheid is goed. Die leerling is beleefd en werkzaam. Een paard is een sterk en nuttig dier. Wij hebben eenen grooten en schoonen hond. De vriend van uwen vader is een koopman. Doet goed, gij doet veel. Dit kind heeft eenen schoonen boog.</p>
+</div>
+<div type="section">
+<head>5.</head>
+<p>Een leeuw heeft meer moed dan een paard. Wij hebben schoone planten in onzen hof. De muren van dit huis zijn hoog. Onze school begint om twee ure. Uw gebuur is een beleefde man. Het wiel is rond en sterk. Het bier is goed voor de gezondheid. Die soldaat toont veel moed.</p>
+</div>
+<div type="section">
+<head>6.</head>
+<p>De gans is een vogel. Ik heb eene pen van eene gans. Het geluk is de vrucht van de deugd. God geeft zijne gunsten aan den mensch. Gij hebt genoeg gespeeld. Gij hebt veel gespeeld. Het paard gaat vóór den ploeg. De brug op den weg naar de stad. Die vogel heeft eenen schoonen zang.</p>
+</div>
+<div type="section">
+<pb n="18"/>
+<head>7.</head>
+<p>De zieke is genezen. De hand op het hart, en zeg de waarheid. De menschen gaan naar de kerk. De kerk is een groot gebouw Het schrikkelijk gevecht van Waterloo. Mijn vriend heeft altijd eenen glimlach op de lippen. Een olifant is een zeer sterk en zeer groot dier. Jan en Jacob zijn mijne vrienden; zij zijn beleefd en werkzaam.</p>
+</div>
+<div type="section">
+<head>8.</head>
+<p>Al de menschen zijn sterfelijk. Gij lacht altijd en dat is onbetamelijk. Dit kind heeft eenen koek van zijnen oom. De kok braadt den vogel. Geeft een stuk van uwen koek aan de arme vrouw. Deze leerling toont veel goeden wil. Ik doe een verwijt aan dien leerling: hij heeft eene groote fout gemaakt. Zegt mij altijd de waarheid; dat is een bewijs van goede vriendschap.</p>
+</div>
+<div type="section">
+<head>9.</head>
+<p>Ik ken het goed en het kwaad. Zegt duidelijk al uwe woorden. Die kwakzalver bedriegt de menschen. Wij hebben eenen weêrwijzer (<hi rend="i">baromètre</hi>). Het kwik rijst en daalt in den weêrwijzer. Die kinderen gaan gaarne naar de school. Het schip van den koopman vaart op de zee. De menschen en de dieren zijn schepselen van God.</p>
+</div>
+<div type="section">
+<head>10.</head>
+<p>De deugd is altijd eene ware schoonheid. Het water is een goede drank voor de gezondheid. Het glas is breekbaar. De vliegen zijn kleine diertjes. Ik heb eene jonge musch in eene kooi. Ik hoor mijnen vader en mijne moeder; zij spreken van mij. Men ziet hooge boomen in de groote bosschen. Mijn broeder gaat op de jacht met zijnen hond. Wij zijn werkzaam wij leeren alle dagen onze les.</p>
+</div>
+</div>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="taalkunde" value="syn"/>
+</interpGrp> 
+<pb n="19"/>
+<head rend="h3">Deuxième partie.
+<lb/>
+Grammaire.</head>
+<head rend="h4">Septième leçon.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Imparfait et passé défini</hi>.</cell>
+</row>
+<row>
+<cell>Ik was,</cell>
+<cell><hi rend="i">j'étais, je fus</hi>.</cell>
+</row>
+<row>
+<cell>Gij waart,</cell>
+<cell><hi rend="i">tu étais</hi>.</cell>
+</row>
+<row>
+<cell>Hij (zij) was,</cell>
+<cell><hi rend="i">il (elle) était</hi>.</cell>
+</row>
+<row>
+<cell>Wij waren,</cell>
+<cell><hi rend="i">nous étions</hi>.</cell>
+</row>
+<row>
+<cell>Gij waart,</cell>
+<cell><hi rend="i">vous étiez</hi>.</cell>
+</row>
+<row>
+<cell>Zij waren,</cell>
+<cell><hi rend="i">ils</hi> (<hi rend="i">elles</hi>) <hi rend="i">étaient</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Passé indéfini</hi>.</cell>
+</row>
+<row>
+<cell>Ik ben geweest,</cell>
+<cell><hi rend="i">j'ai été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zijt geweest,</cell>
+<cell><hi rend="i">tu as été</hi>.</cell>
+</row>
+<row>
+<cell>Hij is geweest,</cell>
+<cell><hi rend="i">il a été</hi>.</cell>
+</row>
+<row>
+<cell>Wij zijn geweest,</cell>
+<cell><hi rend="i">nous avons été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zijt geweest,</cell>
+<cell><hi rend="i">vous avez été</hi>.</cell>
+</row>
+<row>
+<cell>Zij zijn geweest,</cell>
+<cell><hi rend="i">ils ont été</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. L'<hi rend="i">imparfait</hi> traduit aussi le <hi rend="i">passé défini</hi>. Les temps composés, tels que le <hi rend="i">passé indéfini</hi>, ne se conjuguent pas, comme en français, à l'aide de l'auxiliaire <hi rend="i">avoir-hebben: ik ben geweest</hi> signifie littéralement: <hi rend="i">je suis été</hi>.</p>
+<p><hi rend="sc">Règle</hi>. Les adjectifs qui se rapportent au verbe <hi rend="i">être--zijn</hi> sont appelés <hi rend="i">attributifs;</hi> ces mots sont invariables en fiamand comme les adverbes en français.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez l'<hi rend="i">imparfait</hi> et le <hi rend="i">passé indéfini</hi> du verbe <hi rend="i">zijn-être</hi> en ajoutant à chaque personne un des adjectifs attributifs suivants:</p>
+<pb n="20"/>
+<p><table>
+<row>
+<cell>Klein, <hi rend="i">petit</hi>.</cell>
+<cell>Stout, <hi rend="i">méchant</hi>.</cell>
+</row>
+<row>
+<cell>Jong, <hi rend="i">jeune</hi>.</cell>
+<cell>Oplettend, <hi rend="i">attentif</hi>.</cell>
+</row>
+<row>
+<cell>Leerzaam, <hi rend="i">studieux</hi>.</cell>
+<cell>Vuil, <hi rend="i">sale</hi>.</cell>
+</row>
+<row>
+<cell>Vlijtig, <hi rend="i">zélé</hi>.</cell>
+<cell>Zuiver, <hi rend="i">propre</hi>.</cell>
+</row>
+<row>
+<cell>Gezond, <hi rend="i">bien portant</hi>.</cell>
+<cell>Koppig, <hi rend="i">entêté</hi>.</cell>
+</row>
+<row>
+<cell>Groot, <hi rend="i">grand</hi>.</cell>
+<cell>Lui, <hi rend="i">paresseux</hi>.</cell>
+</row>
+</table></p>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>Ik was klein,</cell>
+<cell><hi rend="i">j'étais petit</hi>.</cell>
+</row>
+<row>
+<cell>Ik ben stout geweest,</cell>
+<cell><hi rend="i">j'ai été méchant</hi>.</cell>
+</row>
+</table></p>
+<div type="section">
+<head rend="h4">Huitième leçon.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Plus-que-parfait et passé antérieur</hi>.</cell>
+</row>
+<row>
+<cell>Ik was geweest,</cell>
+<cell><hi rend="i">j'avais été, j'eus été</hi>.</cell>
+</row>
+<row>
+<cell>Gij waart geweest,</cell>
+<cell><hi rend="i">tu avais été</hi>.</cell>
+</row>
+<row>
+<cell>Hij was geweest,</cell>
+<cell><hi rend="i">il avait été</hi>.</cell>
+</row>
+<row>
+<cell>Wij waren geweest,</cell>
+<cell><hi rend="i">nous avions été</hi>.</cell>
+</row>
+<row>
+<cell>Gij waart geweest,</cell>
+<cell><hi rend="i">vous aviez été</hi>.</cell>
+</row>
+<row>
+<cell>Zij waren geweest,</cell>
+<cell><hi rend="i">ils avaient été</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Le <hi rend="i">plus-que-parfait</hi> traduit aussi le <hi rend="i">passé antérieur;</hi> de sorte que: <hi rend="i">ik was geweest</hi> signifie à la fois: <hi rend="i">j'avais été</hi>; et <hi rend="i">j'eus été</hi>.</p>
+<p><hi rend="sc">Règle</hi>. La forme, interrogative se construit comme en français: on place le sujet après le verbe, mais on ne fait pas usage du trait d'union.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez interrogativement le <hi rend="i">plus-que-parfait</hi> (<hi rend="i">passé antérieur</hi>) en ajoutant à chaque personne un des adjectifs attributifs suivants:</p>
+<p>&nbsp;</p>
+<list>
+<item>Rijk, <hi rend="i">riche</hi>.</item>
+<item>Zuinig, <hi rend="i">sobre</hi>.</item>
+<item>Arm, <hi rend="i">pauvre</hi>.</item>
+<item>Gulzig, <hi rend="i">gourmand</hi>.</item>
+<item>Spaarzaam, <hi rend="i">économe</hi>.</item>
+<item>Geduldig, <hi rend="i">patient</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>D'après le modèle:</p>
+<p><table>
+<row>
+<cell>Was ik rijk geweest?</cell>
+<cell><hi rend="i">avais-je été riche?</hi></cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<pb n="21"/>
+<head rend="h4">Neuvième leçon.</head>
+<head>1<hi rend="sup">er</hi> Futur.</head>
+<p><table>
+<row>
+<cell>Ik zal zijn,</cell>
+<cell><hi rend="i">je serai</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult zijn,</cell>
+<cell><hi rend="i">tu seras</hi>.</cell>
+</row>
+<row>
+<cell>Hij zal zijn,</cell>
+<cell><hi rend="i">il sera</hi>.</cell>
+</row>
+<row>
+<cell>Wij zullen zijn,</cell>
+<cell><hi rend="i">nous serons</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult zijn,</cell>
+<cell><hi rend="i">vous serez</hi>.</cell>
+</row>
+<row>
+<cell>Zij zullen zijn,</cell>
+<cell><hi rend="i">ils seront</hi>.</cell>
+</row>
+</table></p>
+<div type="section">
+<head>2<hi rend="sup">d</hi> Futur.</head>
+<p><table>
+<row>
+<cell>Ik zal geweest zijn,</cell>
+<cell><hi rend="i">j'aurai été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult geweest zijn,</cell>
+<cell><hi rend="i">tu auras été</hi>.</cell>
+</row>
+<row>
+<cell>Hij zal geweest zijn,</cell>
+<cell><hi rend="i">il aura été</hi>.</cell>
+</row>
+<row>
+<cell>Wij zullen geweest zijn,</cell>
+<cell><hi rend="i">nous aurons été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult geweest zijn,</cell>
+<cell><hi rend="i">vous aurez été</hi>.</cell>
+</row>
+<row>
+<cell>Zij zullen geweest zijn,</cell>
+<cell><hi rend="i">ils auront été</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Le 1<hi rend="sup">er</hi> <hi rend="i">futur</hi> n'est pas, comme en français, un temps simple: il est composé à l'aide de l'infinitif <hi rend="i">zijn</hi>. Le 2<hi rend="sup">d</hi> <hi rend="i">futur</hi> a le participe <hi rend="i">geweest</hi> et l'infinitif <hi rend="i">zijn</hi>.</p>
+<p><hi rend="sc">Règle</hi>. La forme négative se fait à l'aide du mot <hi rend="i">niet</hi> qui traduit les deux particules négatives <hi rend="i">ne pas</hi> du français.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez négativement le 1<hi rend="sup">er</hi> et le 2<hi rend="sup">d</hi> <hi rend="i">futur</hi> en ajoutant à chaque personne un des adverbes suivants:</p>
+<p>&nbsp;</p>
+<list>
+<item>Hier, <hi rend="i">ici</hi>.</item>
+<item>Daar, <hi rend="i">là</hi>.</item>
+<item>Ginder, <hi rend="i">là-bas</hi>.</item>
+<item>Te vroeg, <hi rend="i">trop tôt</hi>.</item>
+<item>Te laat, <hi rend="i">trop tard</hi>.</item>
+<item>Te veel, <hi rend="i">de trop</hi>.</item>
+<item>Lang, <hi rend="i">longtemps</hi>.</item>
+<item>Gewoonlijk, <hi rend="i">habituellement</hi>.</item>
+<item>Dagelijks, <hi rend="i">journellement</hi>.</item>
+<item>Jaarlijks, <hi rend="i">annuellement</hi>.</item>
+<item>Schielijk, <hi rend="i">subitement</hi>.</item>
+<item>Te dikwijls, <hi rend="i">trop souvent</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>Ik zal hier zijn,</cell>
+<cell><hi rend="i">je serai ici</hi>.</cell>
+</row>
+<row>
+<cell>Ik zal lang geweest zijn,</cell>
+<cell><hi rend="i">j'aurai été longtemps</hi>.</cell>
+</row>
+</table></p>
+</div>
+</div>
+<div type="section">
+<pb n="22"/>
+<head rend="h4">Dixième leçon.</head>
+<p><hi rend="i">Conditionnel</hi>.</p>
+<div type="section">
+<head>Présent.</head>
+<p><table>
+<row>
+<cell>Ik zou zijn,</cell>
+<cell><hi rend="i">je serais</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt zijn,</cell>
+<cell><hi rend="i">tu serais</hi>.</cell>
+</row>
+<row>
+<cell>Hij zou zijn,</cell>
+<cell><hi rend="i">il serait</hi>.</cell>
+</row>
+<row>
+<cell>Wij zouden zijn,</cell>
+<cell><hi rend="i">nous serions</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt zijn,</cell>
+<cell><hi rend="i">vous seriez</hi>.</cell>
+</row>
+<row>
+<cell>Zij zouden zijn,</cell>
+<cell><hi rend="i">ils seraient</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head>Passé.</head>
+<p><table>
+<row>
+<cell>Ik zou geweest zijn,</cell>
+<cell><hi rend="i">j'aurais été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt geweest zijn,</cell>
+<cell><hi rend="i">tu aurais eté</hi>.</cell>
+</row>
+<row>
+<cell>Hij zou geweest zijn,</cell>
+<cell><hi rend="i">il aurait été</hi>.</cell>
+</row>
+<row>
+<cell>Wij zouden geweest zijn,</cell>
+<cell><hi rend="i">nous aurions été</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt geweest zijn,</cell>
+<cell><hi rend="i">vous auriez été</hi>.</cell>
+</row>
+<row>
+<cell>Zij zouden geweest zijn,</cell>
+<cell><hi rend="i">ils auraient été</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Les deux temps du mode conditionnel sont, comme les deux <hi rend="i">futurs</hi>, formés à l'aide de l'auxiliaire <hi rend="i">zijn</hi>, et, par conséquent, deux temps composés.</p>
+<p><hi rend="sc">Règle</hi>. La forme interrogative et négative ensemble se fait à l'aide du mot <hi rend="i">niet</hi> et de l'inversion du verbe et du sujet.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez le <hi rend="i">présent</hi> et le <hi rend="i">passé</hi> du <hi rend="i">conditionnel</hi> interrogativement et négativement ensemble, en ajoutant à chaque personne un des <hi rend="i">adjectifs attributifs</hi> suivants, accompagné d'un <hi rend="i">adverbe:</hi></p>
+<p><table>
+<row>
+<cell>Zeer geleerd,</cell>
+<cell><hi rend="i">très instruit</hi>.</cell>
+</row>
+<row>
+<cell>Zoo wijs,</cell>
+<cell><hi rend="i">aussi sage</hi>.</cell>
+</row>
+<row>
+<cell>Eerder genezen,</cell>
+<cell><hi rend="i">plus tôt guéri</hi>.</cell>
+</row>
+<row>
+<cell>Ten minste zoo groot,</cell>
+<cell><hi rend="i">au moins aussi grand</hi>.</cell>
+</row>
+<row>
+<cell>Reeds hoovaardig,</cell>
+<cell><hi rend="i">déjà orgueilleux</hi>.</cell>
+</row>
+<row>
+<cell>Altijd gehoorzaam,</cell>
+<cell><hi rend="i">toujours obéissant</hi>.</cell>
+</row>
+<row>
+<cell>Weldra redelijk,</cell>
+<cell><hi rend="i">bientôt raisonnable</hi>.</cell>
+</row>
+</table></p>
+<pb n="23"/>
+<p><table>
+<row>
+<cell>Dikwijls gedienstig,</cell>
+<cell><hi rend="i">souvent serviable</hi>.</cell>
+</row>
+<row>
+<cell>Zelden onbeleefd,</cell>
+<cell><hi rend="i">rarement impoli</hi>.</cell>
+</row>
+<row>
+<cell>Altijd beleefd,</cell>
+<cell><hi rend="i">toujours poli</hi>.</cell>
+</row>
+<row>
+<cell>Nooit onbetamelijk,</cell>
+<cell><hi rend="i">jamais inconvenant</hi>.</cell>
+</row>
+<row>
+<cell>Voortaan onberispelijk,</cell>
+<cell><hi rend="i">désormais irréprochable</hi>.</cell>
+</row>
+</table></p>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>Zou ik niet zeer geleerd zijn?</cell>
+<cell><hi rend="i">ne serais-je pas très instruit?</hi></cell>
+</row>
+<row>
+<cell>Zou ik niet weldra redelijk geweest zijn?</cell>
+<cell><hi rend="i">n'aurais-je pas été bientôt raisonnable?</hi></cell>
+</row>
+</table></p>
+</div>
+</div>
+<div type="section">
+<head rend="h4">Onzième leçon.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Impératif</hi>.</cell>
+</row>
+<row>
+<cell>Zij <hi rend="i">ou</hi> wees,</cell>
+<cell><hi rend="i">sois</hi>.</cell>
+</row>
+<row>
+<cell>Zijt <hi rend="i">ou</hi> weest,</cell>
+<cell><hi rend="i">soyez</hi>.</cell>
+</row>
+<row>
+<cell>Zijn wij <hi rend="i">ou</hi> wezen wij,</cell>
+<cell><hi rend="i">soyons</hi>.</cell>
+</row>
+<row>
+<cell>Laat ons zijn <hi rend="i">ou</hi> laat ons wezen,</cell>
+<cell><hi rend="i">soyons</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Les infinitifs <hi rend="i">zijn</hi> et <hi rend="i">wezen</hi> sont synonymes; or, les formes <hi rend="i">zij</hi> - <hi rend="i">wees; zijt</hi> - <hi rend="i">weest</hi> le sont aussi. Au pluriel, <hi rend="i">zijn wij</hi> - <hi rend="i">wezen wij</hi> expriment l'idée du commandement, et <hi rend="i">laat ons zijn</hi> - <hi rend="i">laat ons wezen</hi> plutôt celle de la supplication, de la prière.</p>
+<p><hi rend="sc">Règle</hi>. La négation se rend aussi par le mot <hi rend="i">geen</hi> (pluriel <hi rend="i">geene</hi>), pas de, pas un, lorsque l'attribut est un substantif.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez l'impératif: 1<hi rend="sup">o</hi> affirmativement avec un adjectif attributif et un adverbe à choisir dans les leçons précédentes; 2<hi rend="sup">o</hi> négativement avec le mot <hi rend="i">geen</hi> suivi d'un des substantifs:</p>
+<list>
+<item>Luiaard, <hi rend="i">paresseux</hi>.</item>
+<item>Spelers, <hi rend="i">joueurs</hi>.</item>
+<item>Leugenaars, <hi rend="i">menteurs</hi>.</item>
+<item>Bedriegers, <hi rend="i">trompeurs</hi>.</item>
+</list>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>Zij altijd <hi rend="i">ou</hi> wees altijd redelijk,</cell>
+<cell><hi rend="i">sois toujours raisonnable</hi>.</cell>
+</row>
+<row>
+<cell>Zij geen luiaard <hi rend="i">ou</hi> wees geen luiaard,</cell>
+<cell><hi rend="i">ne sois pas un paresseux</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<pb n="24"/>
+<head rend="h4">Douzième leçon.</head>
+<head>Subjonctif.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Présent</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik zij,</cell>
+<cell><hi rend="i">que je sois</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij zijt,</cell>
+<cell><hi rend="i">que tu sois</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij zij,</cell>
+<cell><hi rend="i">qu'il soil</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij zijn,</cell>
+<cell><hi rend="i">que nous soyons</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij zijt,</cell>
+<cell><hi rend="i">que vous soyez</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij zijn,</cell>
+<cell><hi rend="i">qu'ils soient</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Imparfait</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik ware,</cell>
+<cell><hi rend="i">que je fusse</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij waret,</cell>
+<cell><hi rend="i">que tu fusses</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij ware,</cell>
+<cell><hi rend="i">qu'il fût</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij waren,</cell>
+<cell><hi rend="i">que nous fussions</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij waret,</cell>
+<cell><hi rend="i">que vous fussiez</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij waren,</cell>
+<cell><hi rend="i">qu'ils fussent</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Passé</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik geweest zij,</cell>
+<cell><hi rend="i">que j'aie été</hi>, etc.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Plus-que-parfait</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik geweest ware,</cell>
+<cell><hi rend="i">que j'eusse été</hi>, etc.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Le <hi rend="i">présent</hi> forme le passé, et l'<hi rend="i">imparfait</hi> le <hi rend="i">plus-que-parfait</hi> par la simple adjonction du participe <hi rend="i">geweest</hi>. Ici, comme aux temps de l'<hi rend="i">indicatif</hi>, l'auxiliaire <hi rend="i">hebben-avoir</hi> n'entre pas dans les temps composés: <hi rend="i">Dat ik geweest zij, dat ik geweest ware</hi> signifie littéralement: <hi rend="i">que je sois été, que je fusse étc</hi>. Comparez, au reste, le <hi rend="i">présent</hi> et l'<hi rend="i">imparfait</hi> du subjonctif au <hi rend="i">présent</hi> et à l'<hi rend="i">imparfait</hi> de l'indicatif (6<hi rend="sup">e</hi> et 7<hi rend="sup">e</hi> leçons).</p>
+<p><hi rend="sc">Rêgle</hi>. Lorsque la proposition commence par la conjonction <hi rend="i">dat</hi>, le verbe, c'est-à-dire le mot conjugué, est rejeté à la fin.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez: 1<hi rend="sup">o</hi> le <hi rend="i">présent</hi> affirmativement, en ajoutant à chaque personne un adjectif attributif, à choisir
+<pb n="25"/>dans la 7<hi rend="sup">e</hi> leçon. - 2<hi rend="sup">o</hi> l'<hi rend="i">imparfait</hi> négativement, en rattachant à chaque personne un adverbe, à prendre dans la 9<hi rend="sup">e</hi> leçon. - 3<hi rend="sup">o</hi> le <hi rend="i">passé</hi> affirmativement, avec un adverbe et un adjectif pour chaque personne, à choisir dans la 10<hi rend="sup">c</hi> leçon. - 4<hi rend="sup">o</hi> le <hi rend="i">plus-que-parfait</hi> négativement, en ajoutant à chaque personne un des substantifs suivants, précédé du négatif <hi rend="i">geen</hi> (fém. et pl. <hi rend="i">geene</hi>).</p>
+<list>
+<item>Leerling, <hi rend="i">élève</hi>.</item>
+<item>Werker, <hi rend="i">travailleur</hi>.</item>
+<item>Spotter, <hi rend="i">railleur</hi>.</item>
+<item>Loopers, <hi rend="i">coureurs</hi>.</item>
+<item>Twisters, <hi rend="i">querelleurs</hi>.</item>
+<item>Scholieren, <hi rend="i">écoliers</hi>,</item>
+</list>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>1<hi rend="sup">o</hi> Dat ik klein zij,</cell>
+<cell><hi rend="i">que je sois petit</hi>.</cell>
+</row>
+<row>
+<cell>2<hi rend="sup">o</hi> Dat ik hier niet ware,</cell>
+<cell><hi rend="i">que je ne fusse pas ici</hi>.</cell>
+</row>
+<row>
+<cell>3<hi rend="sup">o</hi> Dat ik zeer geleerd geweest zij,</cell>
+<cell><hi rend="i">que j'aie été très instruit</hi>.</cell>
+</row>
+<row>
+<cell>4<hi rend="sup">o</hi> Dat ik geen leerling geweest ware,</cell>
+<cell><hi rend="i">que je n'eusse pas été un élève</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Treizième leçon.</head>
+<head>Répétition.</head>
+<p><hi rend="sc">Application générale</hi>. Conjuguez en entier le verbe <hi rend="i">zijn-être</hi>:</p>
+<p>1<hi rend="sup">o</hi> affirmativement, avec un seul adjectif convenable pour chaque temps (7<hi rend="sup">e</hi> et 10<hi rend="sup">e</hi> leçons);</p>
+<p>2<hi rend="sup">o</hi> négativement, avec un seul adverbe, convenable pour chaque temps (9<hi rend="sup">e</hi> et 10<hi rend="sup">c</hi> leçons);</p>
+<p>3<hi rend="sup">o</hi> interrogativement, avec un adverbe et un adjectif attributif pour chaque temps (10<hi rend="sup">e</hi> leçon). - Il va de soi que les modes <hi rend="i">impératif</hi> et <hi rend="i">subjonctif</hi> ne sauraient être conjugués interrogativement ni interrogativement et négativement ensemble;</p>
+<p>4<hi rend="sup">o</hi> interrogativement et négativement ensemble, avec le négatif <hi rend="i">geen</hi> et un substantif convenable pour chaque temps (11<hi rend="sup">e</hi> et 12<hi rend="sup">e</hi> leçons).</p>
+<p>&nbsp;</p>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>1<hi rend="sup">o</hi> Ik ben klein,</cell>
+<cell><hi rend="i">je suis petit</hi>.</cell>
+</row>
+<row>
+<cell>2<hi rend="sup">o</hi> Ik ben hier,</cell>
+<cell><hi rend="i">je suis ici</hi>.</cell>
+</row>
+</table></p>
+<pb n="26"/>
+<p><table>
+<row>
+<cell>3<hi rend="sup">o</hi> Ben ik zeer geleerd?</cell>
+<cell><hi rend="i">Suis-je très instruit?</hi></cell>
+</row>
+<row>
+<cell>4<hi rend="sup">o</hi> Ben ik geen luiaard?</cell>
+<cell><hi rend="i">Ne suis-je pas un paresseux?</hi></cell>
+</row>
+<row>
+<cell>(<hi rend="i">pl</hi>.) Zijn wij geene luiaards?</cell>
+<cell><hi rend="i">Ne sommes-nous pas des paresseux?</hi></cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Quatorzième leçon.</head>
+<head>Hebben-avoir.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"/>
+<cell role="header"><hi rend="i">Indicatif</hi>.</cell>
+<cell role="header" cols="3"/>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header" cols="3"/>
+<cell role="header"><hi rend="i">Imparfait</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Ik heb, <hi rend="i">j'ai</hi>.</cell>
+<cell/>
+<cell cols="3">Ik had, <hi rend="i">j'avais</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Gij hebt, <hi rend="i">tu as</hi>.</cell>
+<cell/>
+<cell cols="3">Gij hadt, <hi rend="i">tu avais</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Hij heeft, <hi rend="i">il a</hi>.</cell>
+<cell/>
+<cell cols="3">Hij had, <hi rend="i">il avait</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Wij hebben, <hi rend="i">nous avons</hi>.</cell>
+<cell/>
+<cell cols="3">Wij hadden, <hi rend="i">nous avions</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Gij hebt, <hi rend="i">vous avez</hi>.</cell>
+<cell/>
+<cell cols="3">Gij hadt, <hi rend="i">vous aviez</hi>.</cell>
+</row>
+<row>
+<cell cols="2">Zij hebben, <hi rend="i">ils ont</hi>.</cell>
+<cell/>
+<cell cols="3">Zij hadden, <hi rend="i">ils avaient</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"/>
+<cell role="header" cols="3"><hi rend="i">Passé indéfini</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell/>
+<cell cols="2">Ik heb gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">j'ai eu</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell cols="2">Gij hebt gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">tu as eu</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell cols="2">Hij heeft gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">il a eu</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell cols="2">Wij hebben gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">nous avons eu</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell cols="2">Gij hebt gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">vous avez eu</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell cols="2">Zij hebben gehad,</cell>
+<cell/>
+<cell cols="2"><hi rend="i">ils ont eu</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. L<hi rend="i">imparfait</hi> et le <hi rend="i">passé défini</hi> ne font en flamand qu'un seul temps (7<hi rend="sup">e</hi> leçon). Le <hi rend="i">participe passé</hi> est toujours énoncé à la fin de la proposition.</p>
+<p><hi rend="sc">Règle</hi>. Il y a en flamand trois genres: le <hi rend="i">masculin</hi>, le <hi rend="i">féminin</hi> et le <hi rend="i">neutre</hi>. On peut aisément reconnaître le genre des substantifs par la terminaison des mots déterminatifs (articles et adjectifs) qui précèdent les substantifs à l'accusatif (complément direct): devant un substantif masculin, on écrit le déterminatif avec la terminaison <hi rend="i">en</hi>, devant un substantif féminin avec la terminaison <hi rend="i">e</hi>, et devant un substantif neutre le déterminatif reste invariable, c'est-à-dire, qu'il n'a que ses seules lettres radicales. Par exemple: masculin, een<hi rend="i">en</hi>; fémi-<pb n="27"/>nin, een<hi rend="i">e;</hi> neutre, een. Et ainsi de même pour tous les mots déterminatifs.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez affirmativement: le <hi rend="i">présent</hi>, l'<hi rend="i">imparfait</hi> et le <hi rend="i">passé défini</hi> en ajoutant à chaque personne du 1<hi rend="sup">er</hi> temps un substantif masculin, à chaque personne da 2<hi rend="sup">d</hi> temps un substantif féminin et à chaque personne du 3<hi rend="sup">e</hi> temps un substantif neutre, précéde de l'article <hi rend="i">eenen, eene</hi> ou <hi rend="i">een</hi>, selon le genre à marquer.</p>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Masculin</hi>.</cell>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Féminin</hi>.</cell>
+</row>
+<row>
+<cell>Vogel, <hi rend="i">oiseau</hi>.</cell>
+<cell/>
+<cell>Fout, <hi rend="i">faute</hi>.</cell>
+</row>
+<row>
+<cell>Hoed, <hi rend="i">chapeau</hi>.</cell>
+<cell/>
+<cell>Muis, <hi rend="i">souris</hi>.</cell>
+</row>
+<row>
+<cell>Stoel, <hi rend="i">chaise</hi>.</cell>
+<cell/>
+<cell>Duif, <hi rend="i">pigeon</hi>.</cell>
+</row>
+<row>
+<cell>Visch, <hi rend="i">poisson</hi>.</cell>
+<cell/>
+<cell>Bloem, <hi rend="i">fleur</hi>.</cell>
+</row>
+<row>
+<cell>Steen, <hi rend="i">pierre</hi>.</cell>
+<cell/>
+<cell>Taal, <hi rend="i">langue</hi>.</cell>
+</row>
+<row>
+<cell>Boom, <hi rend="i">arbre</hi>.</cell>
+<cell/>
+<cell>Gunst, <hi rend="i">faveur</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Neutre</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell/>
+<cell>Kleed, <hi rend="i">habit</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Huis, <hi rend="i">maison</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Geluk, <hi rend="i">bonheur</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Stuk, <hi rend="i">morceau</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Woord, <hi rend="i">parole</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Schaap, <hi rend="i">brebis</hi>.</cell>
+<cell/>
+</row>
+</table></p>
+<p>D'après les modèles:</p>
+<p>
+<table>
+<row>
+<cell>1. Ik heb een<hi rend="i">en</hi> vogel,</cell>
+<cell><hi rend="i">j'ai un oiseau</hi>.</cell>
+</row>
+<row>
+<cell>2. Ik had eene fout,</cell>
+<cell><hi rend="i">j'avais une faute</hi>.</cell>
+</row>
+<row>
+<cell>3. Ik heb een kleed gehad.</cell>
+<cell><hi rend="i">j'ai eu un habit</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Quinzième leçon.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Plus-que-parfait</hi>.</cell>
+</row>
+<row>
+<cell>Ik had gehad,</cell>
+<cell><hi rend="i">j'avais eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij hadt gehad,</cell>
+<cell><hi rend="i">tu avais eu</hi>.</cell>
+</row>
+<row>
+<cell>Hij had gehad,</cell>
+<cell><hi rend="i">il avait eu</hi>.</cell>
+</row>
+<row>
+<cell>Wij hadden gehad,</cell>
+<cell><hi rend="i">nous avions eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij hadt gehad,</cell>
+<cell><hi rend="i">vous aviez eu</hi>.</cell>
+</row>
+<row>
+<cell>Zij hadden gehad,</cell>
+<cell><hi rend="i">ils avaient eu</hi>.</cell>
+</row>
+</table></p>
+<pb n="28"/>
+<p><table>
+<row>
+<cell role="header" cols="2">1<hi rend="sup">er</hi> <hi rend="i">futur</hi>.</cell>
+</row>
+<row>
+<cell>Ik zal hebben,</cell>
+<cell><hi rend="i">j'aurai</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult hebben,</cell>
+<cell><hi rend="i">tu auras</hi>.</cell>
+</row>
+<row>
+<cell>Hij zal hebben,</cell>
+<cell><hi rend="i">il aura</hi>.</cell>
+</row>
+<row>
+<cell>Wij zullen hebben,</cell>
+<cell><hi rend="i">nous aurons</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult hebben,</cell>
+<cell><hi rend="i">vous aurez</hi>.</cell>
+</row>
+<row>
+<cell>Zij zullen hebben,</cell>
+<cell><hi rend="i">ils auront</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2">2<hi rend="sup">d</hi> <hi rend="i">futur.</hi></cell>
+</row>
+<row>
+<cell>Ik zal gehad hebben,</cell>
+<cell><hi rend="i">j'aurai eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult gehad hebben,</cell>
+<cell><hi rend="i">tu auras eu</hi>.</cell>
+</row>
+<row>
+<cell>Hij zal gehad hebben,</cell>
+<cell><hi rend="i">il aura eu</hi>.</cell>
+</row>
+<row>
+<cell>Wij zullen gehad hebben,</cell>
+<cell><hi rend="i">nous aurons eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult gehad hebben,</cell>
+<cell><hi rend="i">vous aurez eu</hi>.</cell>
+</row>
+<row>
+<cell>Zij zullen gehad hebben,</cell>
+<cell><hi rend="i">ils auront eu</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Le <hi rend="i">plus-que-parfait</hi> rend aussi le <hi rend="i">passé antérieur</hi>. Les deux <hi rend="i">futurs</hi> sont des temps composés; au 2<hi rend="sup">d</hi> futur l'infinitif <hi rend="i">hebben</hi> se trouve après le participe <hi rend="i">gehad</hi>.</p>
+<p><hi rend="sc">Règle</hi>. Le mot <hi rend="i">geen</hi> signifie <hi rend="i">niet een, pas un, pas de</hi>, et exprime par conséquent la négation sans le concours du mot <hi rend="i">niet</hi>.</p>
+<p><hi rend="sc">Application</hi>. - Conjuguez négativement le <hi rend="i">plus-que-parfait</hi>, le 1<hi rend="sup">er</hi> et le 2<hi rend="sup">d</hi> <hi rend="i">futur</hi> en ajoutant à chaque personne, pour le 1<hi rend="sup">er</hi> temps un substantif masculin, pour le 2<hi rend="sup">d</hi> un substantif féminin et pour le 3<hi rend="sup">e</hi> un substantif neutre, respectivement précédés de l'adjectif déterminatif, <hi rend="i">geen</hi>en, <hi rend="i">geene</hi> ou <hi rend="i">geen</hi>, selon le genre du substantif suivant:</p>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Masculin</hi>.</cell>
+<cell role="header"><hi rend="i">Féminin</hi>.</cell>
+<cell role="header"><hi rend="i">Neutre</hi>.</cell>
+</row>
+<row>
+<cell>Hof, <hi rend="i">jardin</hi>.</cell>
+<cell>Pen, <hi rend="i">plume</hi>.</cell>
+<cell>Boek, <hi rend="i">livre</hi>.</cell>
+</row>
+<row>
+<cell>Hond, <hi rend="i">chien</hi>.</cell>
+<cell>Gans, <hi rend="i">oie</hi>.</cell>
+<cell>Dier, <hi rend="i">animal</hi>.</cell>
+</row>
+<row>
+<cell>Boog, <hi rend="i">arc</hi>.</cell>
+<cell>Vrucht, <hi rend="i">fruit</hi>.</cell>
+<cell>Hout, <hi rend="i">bois</hi>.</cell>
+</row>
+<row>
+<cell>Vriend, <hi rend="i">ami</hi>.</cell>
+<cell>Deugd, <hi rend="i">vertu</hi>.</cell>
+<cell>Water, <hi rend="i">eau</hi>.</cell>
+</row>
+<row>
+<cell>Koek, <hi rend="i">gâteau</hi>.</cell>
+<cell>Kamer, <hi rend="i">chambre</hi>.</cell>
+<cell>Schip, <hi rend="i">vaisseau</hi>.</cell>
+</row>
+<row>
+<cell>Wil, <hi rend="i">volonté</hi>.</cell>
+<cell>School, <hi rend="i">école</hi>.</cell>
+<cell>Paard, <hi rend="i">cheval</hi>.</cell>
+</row>
+</table></p>
+<pb n="29"/>
+<p>D'après les modèles:</p>
+<list>
+<label>1.</label><item>Ik had geen<hi rend="i">en</hi> hof gehad, <hi rend="i">je n'avais pas eu de jardin</hi>.</item>
+<label>2.</label><item>Ik zal geen<hi rend="i">e</hi> pen hebben, <hi rend="i">je n'aurai pas de plume</hi>.</item>
+<label>3.</label><item>Ik zal geen boek gehad hebben, <hi rend="i">je n'aurai pas eu de livre</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Seizième leçon.</head>
+<head><hi rend="i">Conditionnel</hi>.</head>
+<p><table>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik zou hebben,</cell>
+<cell/>
+<cell><hi rend="i">j'aurais</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt hebben,</cell>
+<cell/>
+<cell><hi rend="i">tu aurais</hi>.</cell>
+</row>
+<row>
+<cell>Hij zou hebben,</cell>
+<cell/>
+<cell><hi rend="i">il aurait</hi>.</cell>
+</row>
+<row>
+<cell>Wij zouden hebben,</cell>
+<cell/>
+<cell><hi rend="i">nous aurions</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt hebben,</cell>
+<cell/>
+<cell><hi rend="i">vous auriez</hi>.</cell>
+</row>
+<row>
+<cell>Zij zouden hebben,</cell>
+<cell/>
+<cell><hi rend="i">ils auraient</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Passé</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik zou gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">j'aurais eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">tu aurais eu</hi>.</cell>
+</row>
+<row>
+<cell>Hij zou gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">il aurait eu</hi>.</cell>
+</row>
+<row>
+<cell>Wij zouden gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">nous aurions eu</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">vous auriez eu</hi>.</cell>
+</row>
+<row>
+<cell>Zij zouden gehad hebben,</cell>
+<cell/>
+<cell><hi rend="i">ils auraient eu</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Impératif</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Heb, <hi rend="i">aie</hi>.</cell>
+<cell>Hebben wij,</cell>
+<cell><hi rend="i">ayons</hi>.</cell>
+</row>
+<row>
+<cell>Hebt, <hi rend="i">ayez</hi>.</cell>
+<cell>Laat ons hebben,</cell>
+<cell><hi rend="i">ayons</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Les deux temps du <hi rend="i">conditionnel</hi> sont, comme les deux futurs, des temps composés. A la 1<hi rend="sup">re</hi> personne du pluriel de l'<hi rend="i">impératif</hi>, la forme <hi rend="i">hebben wij</hi> exprimele commandement, et <hi rend="i">laat ons hebben</hi> une idée de supplication (10<hi rend="sup">e</hi> leçon).</p>
+<p><hi rend="sc">Règle</hi>. Les formes de l'article défini pour les trois genres à l'accusatif sont: <hi rend="sc">den</hi>, <hi rend="i">masculin;</hi> <hi rend="sc">de</hi>, <hi rend="i">féminin;</hi> <hi rend="sc">het</hi>, <hi rend="i">neutre</hi>.</p>
+<p><hi rend="sc">Application</hi>. Conjuguez affirmativement les trois temps précédents en ajoutant, à chaque personne du <hi rend="i">présent</hi>, un substantif masculin; à chaque personne du <hi rend="i">passé</hi>, un substantif féminin; à chaque forme de l'<hi rend="i">impératif</hi>, un substantif neutre, précédé de l'article <hi rend="sc">den, de ou het</hi>, selon le genre.</p>
+<pb n="30"/>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Masculin</hi>.</cell>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Féminin</hi>.</cell>
+</row>
+<row>
+<cell>Appel, <hi rend="i">pomme</hi>.</cell>
+<cell/>
+<cell>Plaats, <hi rend="i">place</hi>.</cell>
+</row>
+<row>
+<cell>Stok, <hi rend="i">bàton</hi>.</cell>
+<cell/>
+<cell>Goedheid, <hi rend="i">bonté</hi>.</cell>
+</row>
+<row>
+<cell>Bal, <hi rend="i">balle</hi>.</cell>
+<cell/>
+<cell>Stoutheid, <hi rend="i">hardiesse</hi>.</cell>
+</row>
+<row>
+<cell>Prijs, <hi rend="i">prix</hi>.</cell>
+<cell/>
+<cell>Vreugd, <hi rend="i">joie</hi>.</cell>
+</row>
+<row>
+<cell>Moed, <hi rend="i">courage</hi>.</cell>
+<cell/>
+<cell>Droefheid, <hi rend="i">douleur</hi>.</cell>
+</row>
+<row>
+<cell>Papegaai, <hi rend="i">perroquet</hi>.</cell>
+<cell/>
+<cell>Gelegenheid, <hi rend="i">occasion</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Neutre</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell/>
+<cell>Woord, <hi rend="i">parole</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Genoegen, <hi rend="i">satisfaction</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Besluit, <hi rend="i">résolution</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Voordeel, <hi rend="i">avantage</hi>.</cell>
+<cell/>
+</row>
+</table></p>
+<p>D'après les modèles:</p>
+<list>
+<label>1.</label><item>Ik zou <hi rend="i">den</hi> appel hebben, <hi rend="i">j'aurais la pomme</hi>.</item>
+<label>2.</label><item>Ik zou <hi rend="i">de</hi> plaats gehad hebben, <hi rend="i">j'aurais eu la place</hi>.</item>
+<label>3.</label><item>Heb <hi rend="i">het</hi> woord, <hi rend="i">aie la parole</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Dix-septième leçon.</head>
+<head><hi rend="i">Subjonctif</hi>.</head>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Présent</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik hebbe,</cell>
+<cell><hi rend="i">que j'aie</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij hebbet,</cell>
+<cell><hi rend="i">que tu aies</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij hebbe,</cell>
+<cell><hi rend="i">qu'il ait</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij hebben,</cell>
+<cell><hi rend="i">que nous ayons</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij hebbet,</cell>
+<cell><hi rend="i">que vous ayez</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij hebben,</cell>
+<cell><hi rend="i">qu'ils aient</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Imparfait</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik hadde,</cell>
+<cell><hi rend="i">que j'eusse</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij haddet,</cell>
+<cell><hi rend="i">que tu eusses</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij hadde,</cell>
+<cell><hi rend="i">qu'il eût</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij hadden,</cell>
+<cell><hi rend="i">que nous eussions</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij haddet,</cell>
+<cell><hi rend="i">que vous eussiez</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij hadden,</cell>
+<cell><hi rend="i">qu'ils eussent</hi>.</cell>
+</row>
+</table></p>
+<pb n="31"/>
+<p><table>
+<row>
+<cell role="header" cols="2"><hi rend="i">Passé</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik gehad hebbe,</cell>
+<cell><hi rend="i">que j'aie eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij gehad hebbet,</cell>
+<cell><hi rend="i">que tu aies eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij gehad hebbe,</cell>
+<cell><hi rend="i">qu'il ait eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij gehad hebben,</cell>
+<cell><hi rend="i">que nous ayons eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij gehad hebbet,</cell>
+<cell><hi rend="i">que vous ayez eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij gehad hebben,</cell>
+<cell><hi rend="i">qu'ils aient eu</hi>.</cell>
+</row>
+<row>
+<cell role="header" cols="2"><hi rend="i">Plus-que-parfait</hi>.</cell>
+</row>
+<row>
+<cell>Dat ik gehad hadde,</cell>
+<cell><hi rend="i">que j'eusse eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij gehad haddet,</cell>
+<cell><hi rend="i">que tu eusses eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat hij gehad hadde,</cell>
+<cell><hi rend="i">qu'il eùt eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat wij gehad hadden,</cell>
+<cell><hi rend="i">que nous eussions eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat gij gehad haddet,</cell>
+<cell><hi rend="i">que vous eussiez eu</hi>.</cell>
+</row>
+<row>
+<cell>Dat zij gehad hadden.</cell>
+<cell><hi rend="i">qu'ils eussent eu</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. La conjonction <hi rend="i">dat</hi> rejette le verbe (<hi rend="i">hebbe, hadde</hi>) à la fin de la proposition. Le <hi rend="i">passé</hi> et le <hi rend="i">plus-que-parfait</hi> sont respectivement formés du <hi rend="i">présent</hi> et de l'<hi rend="i">imparfait</hi> par l'adjonction du participe <hi rend="i">gehad</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Règle</hi>. Tous les mots déterminatifs, tels que les <hi rend="i">adjectifs ossessifs, démonstratifs, indéfinis</hi>, etc., prennent, comme les mots <hi rend="i">eenen, eene, een; geenen, geene, geen; den, de, het</hi>, employés dans les trois leçons précédentes, pour le <hi rend="i">masculin</hi> la terminaison <hi rend="i">en</hi>, pour le <hi rend="i">féminin e</hi>, et restent invariables au neutre.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Application</hi>. Conjuguez affirmativement: 1<hi rend="sup">o</hi> le <hi rend="i">présent</hi> avec le substantif masculin <hi rend="i">vriend - ami</hi>, et le déterminatif <hi rend="i">zulken, un tel;</hi> 2<hi rend="sup">o</hi> l'<hi rend="i">imparfait</hi> avec le substantif féminin <hi rend="i">goedheid - bonté</hi>, et le même déterminatif <hi rend="i">zulke, une telle;</hi> 3<hi rend="sup">o</hi> le <hi rend="i">passé</hi> avec le substantif neutre <hi rend="i">geluk - bonheur</hi>, et le même déterminatif <hi rend="i">zulk, un tel;</hi> et 4<hi rend="sup">o</hi> le <hi rend="i">plus-que-parfait</hi> avec deux substantifs masculins, deux féminins et deux neutres, précédés des déterminatífs <hi rend="i">mijnen</hi>, <hi rend="i">mijne</hi>, <hi rend="i">mijn</hi> (<hi rend="i">mon</hi>, <hi rend="i">ma</hi>). Choisissez les substantifs dans les leçons précédentes.</p>
+<pb n="32"/>
+<p>D'après les modèles:</p>
+<p><table>
+<row>
+<cell>1. Dat ik zulk<hi rend="i">en</hi> vriend hebbe,</cell>
+<cell><hi rend="i">que j'aie un tel ami.</hi></cell>
+</row>
+<row>
+<cell>2. Dat ik zulk<hi rend="i">e</hi> goedheid hadde,</cell>
+<cell><hi rend="i">que j'eusse une telle bonté.</hi></cell>
+</row>
+<row>
+<cell>3. Dat ik zulk geluk gehad hebbe,</cell>
+<cell><hi rend="i">que j'aie eu un tel bonheur.</hi></cell>
+</row>
+<row>
+<cell>4. Dat ik mijn<hi rend="i">en</hi> prijs gehad hadde,</cell>
+<cell><hi rend="i">que j'eusse eu mon prix.</hi></cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Dix-huitième leçon.</head>
+<head>Répétition.</head>
+<p><hi rend="sc">Application générale</hi>. Conjuguez en entier le verbe <hi rend="i">hebbenavoir:</hi> 1<hi rend="sup">o</hi> affirmativement avec un seul substantif pour chaque temps; pour le <hi rend="i">présent</hi> un <hi rend="i">masculin</hi>, pour l'<hi rend="i">imparfait</hi> un <hi rend="i">féminin</hi>, pour le <hi rend="i">passé défini</hi> un <hi rend="i">neutre</hi>, et ainsi de suite, alternativement avec l'article indéfini à l'accusatif <hi rend="i">eenen, eene</hi>, <hi rend="i">een;</hi> 2<hi rend="sup">o</hi> négativement de la même manière, c'est-à-dire, en prenant successivement pour chaque temps, un substantif <hi rend="i">masculin</hi>. un <hi rend="i">féminin</hi> et un <hi rend="i">neutre</hi>, avec le négatif <hi rend="i">geenen, geene, geen</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">Dix-neuvième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. Tous les substantifs ajoutés (dans les leçons précédentes) au verbe <hi rend="i">hebben-avoir</hi> sont des <hi rend="i">compléments directs:</hi> ils répondent à la question <hi rend="i">qui?</hi> ou <hi rend="i">quoi?</hi></p>
+<p><hi rend="sc">Règle</hi>. Il y a en flamand <hi rend="i">quatre cas</hi>, savoir: 1. le <hi rend="i">nominatif;</hi> 2. l'<hi rend="i">accusatif;</hi> 3. le <hi rend="i">génitif;</hi> 4. le <hi rend="i">datif</hi>.</p>
+<p>Les mots varient dans leurs terminaisons, <hi rend="i">selon le cas auquel ils se trouvent</hi>.</p>
+<p>L'<hi rend="i">accusatif</hi> correspond au complément direct français. Nous connaissons donc ce <hi rend="i">cas</hi> pour l'avoir écrit, <hi rend="i">aux trois genres</hi> dans toute la conjugaison précédente.</p>
+<p>&nbsp;</p>
+<p>Le <hi rend="i">nominatif</hi> est le <hi rend="i">sujet</hi>.</p>
+<p>&nbsp;</p>
+<p>Nous allons apprendre à écrire <hi rend="i">tous les déterminatifs</hi> flamands au <hi rend="i">nominatif</hi> pour les trois genres:</p>
+<pb n="33"/>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Masculin</hi>.</cell>
+<cell role="header"><hi rend="i">Féminin</hi>.</cell>
+<cell role="header"><hi rend="i">Neutre</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Deze,</cell>
+<cell>Deze,</cell>
+<cell>Dees,</cell>
+<cell><hi rend="i">ce...ci</hi>: <hi rend="i">celle..ci</hi>.</cell>
+</row>
+<row>
+<cell>Die,</cell>
+<cell>Die,</cell>
+<cell>Dit,</cell>
+<cell><hi rend="i">ce</hi>; <hi rend="i">cette</hi>.</cell>
+</row>
+<row>
+<cell>Gene,</cell>
+<cell>Gene,</cell>
+<cell>Geen,</cell>
+<cell><hi rend="i">ce...là</hi>; <hi rend="i">cette...là</hi></cell>
+</row>
+<row>
+<cell>Welke,</cell>
+<cell>Welke,</cell>
+<cell>Welk,</cell>
+<cell><hi rend="i">quel</hi>; <hi rend="i">quelle</hi>,</cell>
+</row>
+<row>
+<cell>Zulke,</cell>
+<cell>Zulke,</cell>
+<cell>Zulk,</cell>
+<cell><hi rend="i">tel</hi>; <hi rend="i">telle</hi>.</cell>
+</row>
+<row>
+<cell>Onze,</cell>
+<cell>Onze,</cell>
+<cell>Ons,</cell>
+<cell><hi rend="i">notre</hi>.</cell>
+</row>
+</table></p>
+<p>Tous ces mots sont parfaitement semblables au <hi rend="i">masculin</hi> et au <hi rend="i">féminin</hi>; au neutre ils restent invariables, comme dans les exercices précédents.</p>
+<p>Les suivants sont semblables au <hi rend="i">masculin</hi> et au <hi rend="i">neutre</hi>; au féminin, ils sont, comme les précédents, terminés en <hi rend="i">e</hi>.</p>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Masculin</hi>.</cell>
+<cell role="header"><hi rend="i">Féminin</hi>.</cell>
+<cell role="header"><hi rend="i">Neutre</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Geen,</cell>
+<cell>Geene,</cell>
+<cell>Geen,</cell>
+<cell><hi rend="i">aucun</hi>, <hi rend="i">aucune</hi>.</cell>
+</row>
+<row>
+<cell>Mijn,</cell>
+<cell>Mijne,</cell>
+<cell>Mijn,</cell>
+<cell><hi rend="i">mon</hi>, <hi rend="i">ma</hi>.</cell>
+</row>
+<row>
+<cell>Uw,</cell>
+<cell>Uwe,</cell>
+<cell>Uw,</cell>
+<cell><hi rend="i">votre</hi>.</cell>
+</row>
+<row>
+<cell>Zijn,</cell>
+<cell>Zijne,</cell>
+<cell>Zijn,</cell>
+<cell><hi rend="i">son</hi>, <hi rend="i">sa</hi>.</cell>
+</row>
+<row>
+<cell>Hun,</cell>
+<cell>Hunne,</cell>
+<cell>Hun,</cell>
+<cell><hi rend="i">leur</hi>.</cell>
+</row>
+</table></p>
+<div type="section">
+<head>applications. - Conjuguez:</head>
+<p>1<hi rend="sup">o</hi> Affirmativement, à la 3<hi rend="sup">e</hi> personne du singulier seulement, les <hi rend="i">six</hi> premiers temps (jusqu'au <hi rend="i">futur antérieur</hi>) du verbe <hi rend="i">hebben-avoir</hi>, en prenant pour <hi rend="i">sujet-nominatif</hi> un <hi rend="i">substantif masculin</hi> précédé successivement d'un des <hi rend="i">six</hi> déterminatifs du 1<hi rend="sup">er</hi> tableau, et pour <hi rend="i">complément-accusatif</hi> un substantif également <hi rend="i">masculin</hi>, mais précédé successivement‘d'un’des <hi rend="i">six</hi> déterminatifs du 2<hi rend="sup">d</hi> tableau.</p>
+<p>2<hi rend="sup">o</hi> Les mêmes temps (les six premiers) <hi rend="i">interrogativement</hi> avec un <hi rend="i">sujet-nominatif masculin</hi> précédé successivement d'un des <hi rend="i">six</hi> déterminatifs du 2<hi rend="sup">d</hi> tableau, et un <hi rend="i">complément-accusatif</hi> également <hi rend="i">masculin</hi>, mais précédé successivement d'un déterminatif du 1<hi rend="sup">er</hi> tableau. (Choisir les substantifs à volonté dans les leçons précédentes.)</p>
+<p>D'après les modèles:</p>
+<list>
+<label>1<hi rend="sup">o</hi></label><item><hi rend="i">Deze vader</hi> heeft <hi rend="i">geenen zoon. Ce père n'a aucun fils</hi>.</item>
+<label>2<hi rend="sup">o</hi></label><item>Heeft <hi rend="i">geen</hi> leerling <hi rend="i">dezen</hi> inktpot? <hi rend="i">Aucun élève n'a-t-il cet encrier</hi>? etc.</item>
+</list>
+</div>
+</div>
+<div type="section">
+<pb n="34"/>
+<head rend="h4">Vingtième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. Dans les leçons précédentes, nous avons appris deux cas; dans la présente leçon, nous apprendrons le <hi rend="i">génitif-complément indirect</hi>.</p>
+<p><hi rend="sc">Regle</hi>. Le <hi rend="i">génitif</hi> peut s'exprimer par deux formes, l'une <hi rend="i">simple</hi>, l'autre <hi rend="i">contractée</hi>.</p>
+<p>La forme <hi rend="i">simple</hi> est en tout semblable à <hi rend="i">l'accusatif</hi> précédé de la préposition <hi rend="i">van</hi>. Dans la forme contractée, cette préposition n'est pas exprimée, elle est confondue avec l'article.</p>
+<p>Les substantifs <hi rend="i">masculins</hi> et <hi rend="i">neutres</hi> prennent un <hi rend="i">s</hi> au génitif contracté, les <hi rend="i">féminins</hi> ne varient pas.</p>
+<div type="section">
+<head><hi rend="i">Exemples</hi>.</head>
+<p><hi rend="sc">Masculin</hi>: <hi rend="i">Van den man</hi> ou <hi rend="i">des mans</hi>, de l'homme.</p>
+<p><hi rend="sc">Féminin</hi>: <hi rend="i">Van de vrouw</hi> ou <hi rend="i">der vrouw</hi>, de la femme.</p>
+<p><hi rend="sc">Neutre</hi>: <hi rend="i">Van het kind</hi> ou <hi rend="i">des kinds</hi>, de l'enfant.</p>
+<p>De même pour tous les déterminalifs:</p>
+<p><table>
+<row>
+<cell role="header"/>
+<cell role="header">Masculin.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van dezen</hi> ou <hi rend="i">dezes</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van dien</hi> ou <hi rend="i">diens</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van onzen</hi> ou <hi rend="i">onzes</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van eenen</hi> ou <hi rend="i">eens</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van mijnen</hi> ou <hi rend="i">mijns</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van zijnen</hi> ou <hi rend="i">zijns</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van uwen</hi> ou <hi rend="i">uws</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="i">Van hunnen</hi> ou <hi rend="i">huns</hi>.</cell>
+<cell/>
+</row>
+<row>
+<cell role="header">Féminin.</cell>
+<cell role="header"/>
+<cell role="header">Neutre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van deze</hi> ou <hi rend="i">dezer</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van dees</hi> ou <hi rend="i">dezes</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van die</hi> ou <hi rend="i">dier</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van dit</hi> ou <hi rend="i">diens</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van onze</hi> ou <hi rend="i">onzer</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van ons</hi> ou <hi rend="i">onzes</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van eene</hi> ou <hi rend="i">eener</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van een</hi> ou <hi rend="i">eens</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van mijne</hi> ou <hi rend="i">mijner</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van mijn</hi> ou <hi rend="i">mijns</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van zijn</hi> ou <hi rend="i">zijner</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van zijn</hi> ou <hi rend="i">zijns</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van uwe</hi> ou <hi rend="i">uwer</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van uw</hi> ou <hi rend="i">uws</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="i">Van hunne</hi> ou <hi rend="i">hunner</hi>.</cell>
+<cell/>
+<cell><hi rend="i">Van hun</hi> ou <hi rend="i">huns</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">application</hi>: Conjuguez les huit premiers temps (jusqu'au
+<pb n="35"/>passé du conditionnel), les trois personnes du pluriel seulement, du verbe <hi rend="i">hebben-avoir</hi>, en ajoutant à la 1<hi rend="sup">re</hi> personne <hi rend="i">un accusatif-complément direct</hi> et un <hi rend="i">génitif-complément indirect,</hi> tous deux du genre masculin; pour la 2<hi rend="sup">e</hi> personne idem, mais du genre féminin; et pour la 5<hi rend="sup">e</hi> personne idem, mais du genre neutre. Mettez devant l'<hi rend="i">accusatif</hi> l'article défini <hi rend="i">den, de, het</hi> et devant le <hi rend="i">génitif</hi>, successivement pour chaque temps, un des <hi rend="i">huit déterminatifs</hi> donnés ci-dessus.</p>
+</div>
+<div type="section">
+<head><hi rend="i">D'après les exemples</hi>:</head>
+<list>
+<label>1.</label><item><hi rend="i">Wij hebben den prijs van dezen leerling</hi> ou <hi rend="i">dezes leerlings</hi>; nous avons le prix de cet élève.</item>
+<label>2.</label><item><hi rend="i">Gij hebt de achting van deze vrouw</hi> oú <hi rend="i">dezer vrouw</hi>; vous avez l'estime de cette femme.</item>
+<label>3.</label><item><hi rend="i">Zij hebben het boek van dees kind</hi> ou <hi rend="i">dezes kinds</hi>. Ils ont le livre de cet enfant..</item>
+<label>4.</label><item><hi rend="i">Wij hadden den stok van dien man</hi> ou <hi rend="i">diens mans</hi>; nous avions la canne de cet homme.</item>
+<label>5.</label><item><hi rend="i">Gij hadt de vriendschap van die moeder</hi> ou <hi rend="i">dier moeder</hi>; vous aviez l'amitié de cette mère.</item>
+<label>6.</label><item><hi rend="i">Zij hadden het vertrouwen van dit volk</hi> ou <hi rend="i">diens volks</hi>; ils avaient la confiance de ce peuple.</item>
+</list>
+</div>
+</div>
+<div type="section">
+<head rend="h4">Vingt et unième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. En français la contraction de l'article est de rigueur: ainsi, l'on ne pourrait pas dire: <hi rend="i">de le cheval</hi> pour <hi rend="i">du cheval, à les fleurs</hi> pour <hi rend="i">aux fleurs</hi>, etc.</p>
+<p>En flamand la contraction est <hi rend="i">facultative</hi>, c'est-à-dire que l'on <hi rend="i">peut</hi> contracter, mais on ne <hi rend="i">doit</hi> pas contracter.</p>
+<p><hi rend="sc">Règle</hi>. Le <hi rend="i">datif-complément indirect</hi> a également deux formes; la forme simple est aussi parfaitement semblable à <hi rend="i">l'accusatif</hi>, mais précédé de la préposition <hi rend="i">aan</hi>. La forme contractée confond la préposition avec le déterminatif, et le substantif neutre prend un <hi rend="i">e</hi>.</p>
+<pb n="36"/>
+<p>Masc. <hi rend="i">Aan den man</hi> ou <hi rend="i">den man</hi>, à l'homme.</p>
+<p>Fém. <hi rend="i">Aan de vrouw</hi> ou <hi rend="i">der vrouw</hi>, à la femme.</p>
+<p>Neutre. <hi rend="i">Aan het kind</hi> ou <hi rend="i">den kinde</hi>, à l'enfant.</p>
+<p><hi rend="sc">Application</hi>. Écrivez les phrases suivantes dans la forme contractée, en portant le <hi rend="i">datif</hi> avant <hi rend="i">l'accusatif</hi>.</p>
+<p><hi rend="i">Ik geef dezen appel aan den jongen</hi>; je donne cette pomme au garçon.</p>
+<p><hi rend="i">Gij geeft die naald aan de meid</hi>; vous donnez cette aiguille à la servante.</p>
+<p><hi rend="i">Hij geeft dit brood aan het kind</hi>; il donne ce pain à l'enfant.</p>
+<p><hi rend="i">Wij geven eenen koek aan onzen vriend</hi>; nous donnons un gâteau à notre ami.</p>
+<p><hi rend="i">Gij geeft eene les aan uwe zuster</hi>; vous donnez une leçon à votre soeur.</p>
+<p><hi rend="i">Zij geven een geschenk aan hunnen broeder</hi>; ils donnent un cadeau à leur frère.</p>
+<p><hi rend="i">Ik zend uwen brief aan mijnen vader</hi>; j'envoie votre lettre à mon père.</p>
+<p><hi rend="i">Gij zendt eene duif aan uwen vriend</hi>; vous envoyez un pigeon à votre ami.</p>
+<p><hi rend="i">Hij zendt zij a kleed aan den kleêrmaker</hi>; il envoie son habit au tailleur.</p>
+<p><hi rend="i">Wij zenden ons boek aan den meester</hi>; nous envoyons notre livre au maître.</p>
+<p><hi rend="i">Gij zendt geen geld aan den soldaat</hi>; vous n'envoyez pas d'argent au soldat.</p>
+<p><hi rend="i">Zij zenden hun graan aan den koopman</hi>; ils envoient leur grain au marchand.</p>
+<div type="section">
+<head>D'après les modèles:</head>
+<p><hi rend="i">Ik geef den jongen dezen appel</hi>; je donne cette pomme au garçon.</p>
+<p><hi rend="i">Ik zend mijnen vader uwen brief</hi>; j'envoie votre lettre à mon père.</p>
+</div>
+</div>
+<div type="section">
+<pb n="37"/>
+<head rend="h4">Vingt-deuxième leçon.</head>
+<head>Verbes réguliers.</head>
+<head>Modèle de conjugaison.</head>
+<p><table>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="sc">leeren</hi>, <hi rend="i">apprendre</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell role="header"><hi rend="sc">Indicatif</hi>.</cell>
+<cell role="header"/>
+<cell role="header"><hi rend="sc">Subjonctif</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik leer, <hi rend="i">j'apprends</hi>.</cell>
+<cell/>
+<cell>(Dat) ik leer<hi rend="i">e</hi>, <hi rend="i">que j'apprenne</hi>.</cell>
+</row>
+<row>
+<cell>Gij leer<hi rend="i">t</hi>,</cell>
+<cell/>
+<cell>Gij leer<hi rend="i">et</hi>,</cell>
+</row>
+<row>
+<cell>Hij leer<hi rend="i">t</hi>,</cell>
+<cell/>
+<cell>Hij leer<hi rend="i">e</hi>,</cell>
+</row>
+<row>
+<cell>Wij leer<hi rend="i">en</hi>,</cell>
+<cell/>
+<cell>Wij leer<hi rend="i">en</hi>,</cell>
+</row>
+<row>
+<cell>Gij leer<hi rend="i">t</hi>,</cell>
+<cell/>
+<cell>Gij leer<hi rend="i">et</hi>,</cell>
+</row>
+<row>
+<cell>Zij leer<hi rend="i">en</hi>.</cell>
+<cell/>
+<cell>Zij leer<hi rend="i">en</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Imparfait</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik leer<hi rend="i">de, j'apprenais</hi>.</cell>
+<cell/>
+<cell>(Dat) ik leer<hi rend="i">de, que j'apprisse</hi>.</cell>
+</row>
+<row>
+<cell>Gij leer<hi rend="i">det</hi>,</cell>
+<cell/>
+<cell>Gij leer<hi rend="i">det</hi>,</cell>
+</row>
+<row>
+<cell>Hij leer<hi rend="i">de</hi>,</cell>
+<cell/>
+<cell>Hij leer<hi rend="i">de</hi>,</cell>
+</row>
+<row>
+<cell>Wij leer<hi rend="i">den</hi>,</cell>
+<cell/>
+<cell>Wij leer<hi rend="i">den</hi>,</cell>
+</row>
+<row>
+<cell>Gij leer<hi rend="i">det</hi>,</cell>
+<cell/>
+<cell>Gij leer<hi rend="i">det</hi>,</cell>
+</row>
+<row>
+<cell>Zij leer<hi rend="i">den</hi>.</cell>
+<cell/>
+<cell>Zij leer<hi rend="i">den</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Passé indéfini</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik heb geleerd, <hi rend="i">j'ai appris</hi>.</cell>
+<cell/>
+<cell>(Dat) ik hebbe geleerd, <hi rend="i">que j'aie appris</hi>.</cell>
+</row>
+<row>
+<cell>Gij hebt geleerd,</cell>
+<cell/>
+<cell>Gij hebbet geleerd,</cell>
+</row>
+<row>
+<cell>Hij heeft geleerd,</cell>
+<cell/>
+<cell>Hij hebbe geleerd,</cell>
+</row>
+<row>
+<cell>Wij hebben geleerd,</cell>
+<cell/>
+<cell>Wij hebben geleerd,</cell>
+</row>
+<row>
+<cell>Gij hebt geleerd,</cell>
+<cell/>
+<cell>Gij hebbet geleerd,</cell>
+</row>
+<row>
+<cell>Zij hebben geleerd,</cell>
+<cell/>
+<cell>Zij hebben geleerd,</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Plus-que-parfait</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Ik had geleerd,</cell>
+<cell/>
+<cell>(Dat) ik hadde geleerd,</cell>
+</row>
+<row>
+<cell><hi rend="i">j'avuis appris</hi>.</cell>
+<cell/>
+<cell><hi rend="i">que j'eusse appris</hi>.</cell>
+</row>
+</table></p>
+<pb n="38"/>
+<p><table>
+<row>
+<cell>Gij hadt geleerd,</cell>
+<cell>Gij haddet geleerd,</cell>
+</row>
+<row>
+<cell>Hij had geleerd,</cell>
+<cell>Hij hadde geleerd,</cell>
+</row>
+<row>
+<cell>Wij hadden geleerd,</cell>
+<cell>Wij hadden geleerd,</cell>
+</row>
+<row>
+<cell>Gij hadt geleerd,</cell>
+<cell>Gij haddet geleerd,</cell>
+</row>
+<row>
+<cell>Zij hadden geleerd,</cell>
+<cell>Zij hadden geleerd,</cell>
+</row>
+<row>
+<cell role="header">1<hi rend="sup">er</hi> <hi rend="i">futur</hi>.</cell>
+<cell role="header">2<hi rend="sup">e</hi> <hi rend="i">futur</hi>.</cell>
+</row>
+<row>
+<cell>Ik zal leeren,</cell>
+<cell>Ik zal geleerd hebben,</cell>
+</row>
+<row>
+<cell><hi rend="i">j'apprendrai</hi>.</cell>
+<cell><hi rend="i">j'aurai appris</hi>.</cell>
+</row>
+<row>
+<cell>Gij zult leeren,</cell>
+<cell>Gij zult geleerd hebben,</cell>
+</row>
+<row>
+<cell>Hij zal leeren,</cell>
+<cell>Hij zal geleerd hebben,</cell>
+</row>
+<row>
+<cell>Wij zullen leeren,</cell>
+<cell>Wij zullen geleerd hebben,</cell>
+</row>
+<row>
+<cell>Gij zult leeren,</cell>
+<cell>Gij zult geleerd hebben,</cell>
+</row>
+<row>
+<cell>Zij zullen leeren,</cell>
+<cell>Zij zullen geleerd hebben,</cell>
+</row>
+</table></p>
+<div type="section">
+<head>Conditionnel.</head>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header"><hi rend="i">Passé</hi>.</cell>
+</row>
+<row>
+<cell>Ik zou leeren,</cell>
+<cell>Ik zou geleerd hebben,</cell>
+</row>
+<row>
+<cell><hi rend="i">j'apprendrais</hi>.</cell>
+<cell><hi rend="i">j'aurais appris</hi>.</cell>
+</row>
+<row>
+<cell>Gij zoudt leeren,</cell>
+<cell>Gij zoudt geleerd hebben,</cell>
+</row>
+<row>
+<cell>Hij zou leeren,</cell>
+<cell>Hij zou geleerd hebben,</cell>
+</row>
+<row>
+<cell>Wij zouden leeren,</cell>
+<cell>Wij zouden geleerd hebben,</cell>
+</row>
+<row>
+<cell>Gij zoudt leeren,</cell>
+<cell>Gij zoudt geleerd hebben,</cell>
+</row>
+<row>
+<cell>Zij zouden leeren,</cell>
+<cell>Zij zouden geleerd hebben,</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head>Impératif.</head>
+<p><table>
+<row>
+<cell>Leer, <hi rend="i">apprends</hi>.</cell>
+<cell>Leer<hi rend="i">en</hi> wij, <hi rend="i">apprenons</hi>.</cell>
+</row>
+<row>
+<cell>Leer<hi rend="i">t</hi>, <hi rend="i">apprenez</hi>.</cell>
+<cell>Laat ons leer<hi rend="i">en, apprenons</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head>Infinitif.</head>
+<p><table>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Leeren,</cell>
+<cell>te leeren,</cell>
+<cell>om te leeren,</cell>
+</row>
+<row>
+<cell><hi rend="i">Apprendre</hi>.</cell>
+<cell><hi rend="i">à apprendre</hi></cell>
+<cell><hi rend="i">pour apprendre</hi>.</cell>
+</row>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="i">Passé</hi>.</cell>
+<cell role="header"/>
+</row>
+<row>
+<cell>Geleerd hebben,</cell>
+<cell>geleerd te hebben,</cell>
+<cell>om geleerd te hebben.</cell>
+</row>
+<row>
+<cell><hi rend="i">Avoir appris</hi>.</cell>
+<cell><hi rend="i">d'avoir appris</hi>.</cell>
+<cell><hi rend="i">pour avoir appris</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<pb n="39"/>
+<head>Participes.</head>
+<p><table>
+<row>
+<cell role="header"><hi rend="i">Présent</hi>.</cell>
+<cell role="header"><hi rend="i">Passé</hi>.</cell>
+</row>
+<row>
+<cell>Leer<hi rend="i">ende</hi>, <hi rend="i">apprenant</hi>.</cell>
+<cell>Geleer<hi rend="i">d</hi>, <hi rend="i">appris</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Remarque</hi>. Dans la conjugaison des verbes, on distingue les lettres radicales et les lettres finales; <hi rend="i">leeren</hi> a pour radical <hi rend="i">leer;</hi> or, toutes les lettres qui suivent la lettre <hi rend="i">r</hi> dans le cours de la conjugaison sont des finales.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Règle</hi>. L'<hi rend="i">imparfait</hi> prend la terminaison <hi rend="i">te</hi> au lieu de <hi rend="i">de</hi> dans tous les verbes qui ont pour dernière lettre radicale une des consonnes fortes: <hi rend="i">f, k, p, s, t, ch</hi>. Tels sont: <hi rend="i">straffen</hi>, <hi rend="i">werken, kappen, dansen, groeten, lachen</hi>, etc.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Application</hi>. Conjuguez affirmativement, négativement, interrogativement, et négativement et interrogativement ensemble quelques verbes réguliers sur le modèle donné, en y ajoutant des compléments variés d'après les exercices des leçons précédentes.</p>
+</div>
+</div>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="taalkunde" value="lex"/>
+</interpGrp> 
+<pb n="40"/>
+<head rend="h3">Troisième partie.
+<lb/>
+Lexicologie.</head>
+<head rend="h4">Vingt-troisième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. En flamand il y a beaucoup de mots <hi rend="i">composés</hi>. Pour les comprendre facilement et pour en saisir exactement le sens, il faut les <hi rend="i">décomposer</hi>.</p>
+<p><hi rend="sc">Règle</hi>. On fait des substantifs composés:</p>
+<p>1<hi rend="sup">o</hi> De deux substantifs.</p>
+<p>Ex.: <hi rend="i">Huisdeur; deur</hi>, porte, <hi rend="i">huis</hi>, maison - porte de maison.</p>
+<p><hi rend="i">Boomblad; blad</hi>, feuille; <hi rend="i">boom</hi>, arbre - feuille d'arbre.</p>
+<p><hi rend="i">Wijnglas; glas</hi>, verre, <hi rend="i">wijn</hi>, vin - verre à vin.</p>
+<p>Note: Des deux substantifs flamands, le second exprime l'idée principale; c'est pourquoi on l'explique avant le premier.</p>
+<p>2<hi rend="sup">o</hi> D'un substantif et d'un adjectif.</p>
+<p>Ex.: <hi rend="i">Nieuwjaar; jaar</hi>, an; <hi rend="i">nieuw</hi>, nouveau - nouvel an.</p>
+<p><hi rend="i">Grootvader; vader</hi>, père; <hi rend="i">groot</hi>, grand - grand-père.</p>
+<p><hi rend="i">Schoonmoeder; moeder</hi>, mère; <hi rend="i">schoon</hi>, belle - belle-mère.</p>
+<p>3<hi rend="sup">o</hi> D'un substantif et de la partie radicale d'un verbe:</p>
+<p>Ex.: <hi rend="i">Looppaard; paard</hi>, cheval; <hi rend="i">loopen</hi>, courir - cheval de course.</p>
+<p><hi rend="i">Trekpaard; paard</hi>, cheval; <hi rend="i">trekken</hi>, tirer - cheval de trait.</p>
+<p><hi rend="i">Schrijfpen; pen</hi>, plume; <hi rend="i">schrijven</hi>, écrire - plume à écrire.</p>
+<p>4<hi rend="sup">o</hi> D'un substantif et d'un mot invariable.</p>
+<p>Ex.: <hi rend="i">Overkleed; kleed</hi>, habit; <hi rend="i">over</hi>, au-dessus - pardessus, paletot.</p>
+<p><hi rend="i">Voorwacht; wacht</hi>, garde; <hi rend="i">voor</hi>, avant - avant-garde.</p>
+<p><hi rend="i">Binnenweg; weg</hi>, chemin; <hi rend="i">binnen</hi>, intérieur - chemin intérieur.</p>
+<pb n="41"/>
+<p><hi rend="sc">Application</hi>. Décomposez tous les composés suivants et expliquez-en le sens exact.</p>
+<p>D'après les modèles:</p>
+<list>
+<label>1.</label><item><hi rend="i">Boomstam; stam</hi>, tronc; <hi rend="i">boom</hi>, arbre - tronc d'arbre.</item>
+<label>2.</label><item><hi rend="i">Kleinzoon; zoon</hi>, fils; <hi rend="i">klein</hi>, petit - petit-fils.</item>
+<label>3.</label><item><hi rend="i">Speelbal; bal</hi>, balle; <hi rend="i">spelen</hi>, jouer - balle pour jouer.</item>
+<label>4.</label><item><hi rend="i">Ingang; gang</hi>, allée; <hi rend="i">in</hi>, dedans - entrée, etc.</item>
+</list>
+<div type="section">
+<head><hi rend="i">a</hi> - Deux substantifs.</head>
+<p><table>
+<row>
+<cell><hi rend="i">Lentedag</hi>;</cell>
+<cell>printemps, jour.</cell>
+</row>
+<row>
+<cell><hi rend="i">Boomschors;</hi></cell>
+<cell>arbre, écorce.</cell>
+</row><row>
+<cell><hi rend="i">Maanlicht;</hi></cell>
+<cell>lune, lumière.</cell>
+</row>
+<row>
+<cell><hi rend="i">Veldbloem;</hi></cell>
+<cell>champ, fleur.</cell>
+</row>
+<row>
+<cell><hi rend="i">Waterplant;</hi></cell>
+<cell>eau, plante.</cell>
+</row>
+<row>
+<cell><hi rend="i">Merktplaats;</hi></cell>
+<cell>marché, place.</cell>
+</row>
+<row>
+<cell><hi rend="i">Werkdag</hi>;</cell>
+<cell>travail, jour.</cell>
+</row>
+<row>
+<cell><hi rend="i">Zielkracht</hi>;</cell>
+<cell>âme, force.</cell>
+</row>
+<row>
+<cell><hi rend="i">Penmes</hi>;</cell>
+<cell>plume, couteau.</cell>
+</row>
+<row>
+<cell><hi rend="i">Manshoed</hi>;</cell>
+<cell>homme, chapeau.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head><hi rend="i">b</hi> - Un substantif et un adjectif.</head>
+<p><table>
+<row>
+<cell><hi rend="i">Schoonzoon</hi>;</cell>
+<cell>beau, fils.</cell>
+</row>
+<row>
+<cell><hi rend="i">Kleindochter</hi>;</cell>
+<cell>petit, fille.</cell>
+</row>
+<row>
+<cell><hi rend="i">Jongman</hi>;</cell>
+<cell>jeune, homme.</cell>
+</row>
+<row>
+<cell><hi rend="i">Zoethout</hi>;</cell>
+<cell>doux, bois.</cell>
+</row>
+<row>
+<cell><hi rend="i">Zuurkool</hi>;</cell>
+<cell>aigre, choux.</cell>
+</row>
+<row>
+<cell><hi rend="i">Blauwbaard</hi>;</cell>
+<cell>bleu, barbe.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head><hi rend="i">c</hi> - Un substantif et un verbe.</head>
+<p><table>
+<row>
+<cell><hi rend="i">Schrijfpapier</hi>;</cell>
+<cell>écrire, papier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Leesboek</hi>;</cell>
+<cell>lire, livre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Brandhout</hi>;</cell>
+<cell>brûler, bois.</cell>
+</row>
+<row>
+<cell><hi rend="i">Draagstoel</hi>;</cell>
+<cell>porter, chaise.</cell>
+</row>
+<row>
+<cell><hi rend="i">Slaapkamer</hi>;</cell>
+<cell>dormir, chambre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Drukpapier</hi>;</cell>
+<cell>imprimer, papier.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head><hi rend="i">d</hi> - Un substantif et un mot invariable.</head>
+<p><table>
+<row>
+<cell><hi rend="i">Bijnaam</hi>;</cell>
+<cell>sur (auprès), nom.</cell>
+</row>
+</table></p>
+<pb n="42"/>
+<p><table>
+<row>
+<cell><hi rend="i">Achterwacht</hi>;</cell>
+<cell>arrière, garde.</cell>
+</row>
+<row>
+<cell><hi rend="i">Uitgang</hi>;</cell>
+<cell>hors (dehors), allée.</cell>
+</row>
+<row>
+<cell><hi rend="i">Weldaad</hi>;</cell>
+<cell>bien, action (fait).</cell>
+</row>
+<row>
+<cell><hi rend="i">Tegenslag</hi>;</cell>
+<cell>contre, coup.</cell>
+</row>
+<row>
+<cell><hi rend="i">Doorloop</hi>;</cell>
+<cell>par (à travers), cours.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Vingt-quatrième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. Il y a aussi des adjectifs composés et, naturellement, des verbes composés. On les décompose et on les explique comme les substantifs composés.</p>
+<p><hi rend="sc">Règle</hi>. Les adjectifs composés sont formés d'un adjectif qui exprime l'idée principale et d'un substantif ou d'un autre adjectif qui détermine l'idée principale.</p>
+<p>Ex.: <hi rend="i">Vuurrood</hi>, <hi rend="i">rood</hi>, rouge; <hi rend="i">vuur</hi>, feu - rouge comme du feu.</p>
+<p><hi rend="i">Bleekgroen, groen</hi>, vert; <hi rend="i">bleek</hi>, pâle - vert pâle.</p>
+<p>Les verbes composés sont formés d'un verbe, qui est l'idée principale, et d'un adverbe, quelquefois d'un substantif, qui modifie le verbe.</p>
+<p>Ex.: <hi rend="i">Voorgaan</hi>, <hi rend="i">gaan</hi>, aller; <hi rend="i">voor</hi>, avant - aller avant, précéder.</p>
+<p><hi rend="i">Handhaven</hi>, <hi rend="i">haven</hi> (<hi rend="i">houden</hi>), tenir; <hi rend="i">hand</hi>, main - tenir la main, maintenir.</p>
+<p><hi rend="sc">Application</hi>. Expliquez le sens exact des adjectifs et des verbes suivants:</p>
+<div type="section">
+<head>D'après les modèles:</head>
+<p>1) <hi rend="i">Sneeuwwit</hi>, <hi rend="i">wit</hi>, blanc; <hi rend="i">sneeuw</hi>, neige - blanc comme (la) neige.</p>
+<p><hi rend="i">Donkerbruin</hi>, <hi rend="i">bruin</hi>, brun; <hi rend="i">donker</hi>, fonce - brun foncé.</p>
+<p>2) <hi rend="i">Voorzien</hi>, <hi rend="i">zien</hi>, voir; <hi rend="i">voor</hi>, d'avance - voir d'avance, prévoir.</p>
+<p><hi rend="i">Middagmalen</hi>, <hi rend="i">malen</hi>, prendre un repas; <hi rend="i">middag</hi>, midi - prendre le repas de midi, diner.</p>
+<p><table>
+<row>
+<cell>a) <hi rend="i">Koolzwart</hi>;</cell>
+<cell>charbon, noir.</cell>
+</row>
+<row>
+<cell><hi rend="i">Loodzwaar</hi>;</cell>
+<cell>plomb, lourd</cell>
+</row>
+</table></p>
+<pb n="43"/>
+<p><table>
+<row>
+<cell><hi rend="i">Pluimlicht;</hi></cell>
+<cell>plume, léger.</cell>
+</row>
+<row>
+<cell><hi rend="i">Yskoud;</hi></cell>
+<cell>glace, froid.</cell>
+</row>
+<row>
+<cell><hi rend="i">Honigzoet;</hi></cell>
+<cell>miel, doux.</cell>
+</row>
+<row>
+<cell><hi rend="i">Vogelvrij;</hi></cell>
+<cell>oiseau, libre.</cell>
+</row>
+<row>
+<cell>b) <hi rend="i">Buitenloopen;</hi></cell>
+<cell>au dehors, courir.</cell>
+</row>
+<row>
+<cell><hi rend="i">Tegenspreken;</hi></cell>
+<cell>contre, parler.</cell>
+</row>
+<row>
+<cell><hi rend="i">Doorsnijden;</hi></cell>
+<cell>à travers, couper.</cell>
+</row>
+<row>
+<cell><hi rend="i">Overloopen;</hi></cell>
+<cell>pardessus, courir (couler).</cell>
+</row>
+<row>
+<cell><hi rend="i">Omkeeren;</hi></cell>
+<cell>à l'envers, tourner.</cell>
+</row>
+<row>
+<cell><hi rend="i">Omwerpen;</hi></cell>
+<cell>à l'envers, jeter.</cell>
+</row>
+<row>
+<cell><hi rend="i">Doorboren;</hi></cell>
+<cell>à travers, forer.</cell>
+</row>
+<row>
+<cell><hi rend="i">Overvaren;</hi></cell>
+<cell>pardessus (à travers), naviguer.</cell>
+</row>
+<row>
+<cell><hi rend="i">Voorzeggen;</hi></cell>
+<cell>d'avance, dire.</cell>
+</row>
+<row>
+<cell><hi rend="i">Voldoen;</hi></cell>
+<cell>plein, faire.</cell>
+</row>
+<row>
+<cell><hi rend="i">Misverstaan;</hi></cell>
+<cell>mal, comprendre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Wederkomen;</hi></cell>
+<cell>de retour, venir.</cell>
+</row>
+<row>
+<cell><hi rend="i">Zegevieren;</hi></cell>
+<cell>victoire, célébrer.</cell>
+</row>
+<row>
+<cell><hi rend="i">Beeldhouwen;</hi></cell>
+<cell>images (figures), tailler.</cell>
+</row>
+<row>
+<cell><hi rend="i">Steendrukken;</hi></cell>
+<cell>pierre, imprimer.</cell>
+</row>
+</table></p>
+<p>Il résulte des exercices précédents que, dans tout mot composé, l'idée principale est exprimée par la dernière partie du mot.</p>
+<p>Expliquez les composés suivants, en tenant compte du principe énoncé ci-dessus.</p>
+</div>
+<div type="section">
+<head>D'après les modèles:</head>
+<p><hi rend="i">Veldbloem; bloem</hi>, fleur; <hi rend="i">veld</hi>, champ - fleur des champs.</p>
+<p><hi rend="i">Bloemenveld, veld</hi>, champ; <hi rend="i">bloemen</hi>, fleurs - champ de fleurs.</p>
+<p><table>
+<row>
+<cell><hi rend="i">Vensterglas</hi>,</cell>
+<cell><hi rend="i">glasvenster</hi>,</cell>
+<cell>fenêtre, vitre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Bouwland</hi>,</cell>
+<cell><hi rend="i">landbouw</hi>,</cell>
+<cell>culture, terre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Bergvuur</hi>,</cell>
+<cell><hi rend="i">vuurberg</hi>,</cell>
+<cell>montagne, feu.</cell>
+</row>
+<row>
+<cell><hi rend="i">Appelboom</hi>,</cell>
+<cell><hi rend="i">boomappel</hi>,</cell>
+<cell>pomme, arbre.</cell>
+</row>
+<row>
+<cell><hi rend="i">Veldslag</hi>,</cell>
+<cell><hi rend="i">slagveld</hi>,</cell>
+<cell>champ, bataille.</cell>
+</row>
+<row>
+<cell><hi rend="i">Pluimhoed</hi>,</cell>
+<cell><hi rend="i">hoedpluim</hi>,</cell>
+<cell>plume, chapeau.</cell>
+</row>
+<row>
+<cell><hi rend="i">Bergzand</hi>,</cell>
+<cell><hi rend="i">zandberg</hi>,</cell>
+<cell>montagne, sable.</cell>
+</row>
+</table></p>
+</div>
+</div>
+<div type="section">
+<pb n="44"/>
+<head rend="h4">Vingt-cinquième leçon.</head>
+<p><hi rend="sc">Remarque</hi>. Les mots subissent aussi des modifications par l'adjonction d'une suffixe. Les mots auxquels on a ajouté une terminaison s'appellent <hi rend="i">mots dérivés</hi>.</p>
+<p><hi rend="sc">Règle</hi>. Les terminaisons les plus usuelles, et les plus régulières dans leur acception, sont: <hi rend="i">aar</hi>, <hi rend="i">er</hi>, <hi rend="i">aard</hi>, <hi rend="i">heid</hi>, <hi rend="i">ing</hi>, <hi rend="i">baar</hi>, <hi rend="i">lijk</hi>, <hi rend="i">zaam</hi>, <hi rend="i">achtig</hi>, etc.</p>
+<p>Exemples:</p>
+<p><table>
+<row>
+<cell><hi rend="sc">Aar</hi>: bedelen,</cell>
+<cell><hi rend="i">mendier</hi>,</cell>
+<cell>bedel<hi rend="i">aar</hi>,</cell>
+<cell><hi rend="i">mendiant</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Er</hi>: lezen,</cell>
+<cell><hi rend="i">lire</hi>,</cell>
+<cell>lez<hi rend="i">er</hi>,</cell>
+<cell><hi rend="i">lecteur</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Aard</hi>: lui,</cell>
+<cell><hi rend="i">paresseux</hi> (adj.)</cell>
+<cell>lui<hi rend="i">aard</hi>,</cell>
+<cell><hi rend="i">paresseux</hi> (subst.)</cell>
+</row>
+<row>
+<cell><hi rend="sc">Heid</hi>: schoon,</cell>
+<cell><hi rend="i">beau</hi>,</cell>
+<cell>schoon<hi rend="i">heid</hi>,</cell>
+<cell><hi rend="i">beauté</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Ing</hi>: binden,</cell>
+<cell><hi rend="i">lier</hi>,</cell>
+<cell>bind<hi rend="i">ing</hi>,</cell>
+<cell><hi rend="i">liaison</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Baar</hi>: schijn,</cell>
+<cell><hi rend="i">apparence</hi>,</cell>
+<cell>schijn<hi rend="i">baar</hi>,</cell>
+<cell><hi rend="i">apparent</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Lijk</hi>: eer,</cell>
+<cell><hi rend="i">honneur</hi>,</cell>
+<cell>eer<hi rend="i">lijk</hi>,</cell>
+<cell><hi rend="i">honorable</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Zaam</hi>: deugd,</cell>
+<cell><hi rend="i">vertu</hi>,</cell>
+<cell>deugd<hi rend="i">zaam</hi>,</cell>
+<cell><hi rend="i">vertueux</hi>.</cell>
+</row>
+<row>
+<cell><hi rend="sc">Achtig</hi>: wit,</cell>
+<cell><hi rend="i">blanc</hi>,</cell>
+<cell>wit<hi rend="i">achtig</hi>,</cell>
+<cell><hi rend="i">blanchâtre</hi>.</cell>
+</row>
+</table></p>
+<p><hi rend="sc">Application</hi>. Définissez les mots suivants de la 5<hi rend="sup">e</hi> colonne:</p>
+<p><table>
+<row>
+<cell>Lasteren,</cell>
+<cell><hi rend="i">calomnier</hi>,</cell>
+<cell>laster<hi rend="i">aar</hi>,</cell>
+</row>
+<row>
+<cell>Babbelen,</cell>
+<cell><hi rend="i">babiller</hi>,</cell>
+<cell>babbel<hi rend="i">aar</hi>,</cell>
+</row>
+<row>
+<cell>Brussel,</cell>
+<cell><hi rend="i">Bruxelles</hi>,</cell>
+<cell>Brussel<hi rend="i">aar</hi>,</cell>
+</row>
+<row>
+<cell>Loopen,</cell>
+<cell><hi rend="i">courir</hi>,</cell>
+<cell>loop<hi rend="i">er</hi>,</cell>
+</row>
+<row>
+<cell>Spelen,</cell>
+<cell><hi rend="i">jouer</hi>,</cell>
+<cell>spel<hi rend="i">er</hi>,</cell>
+</row>
+<row>
+<cell>Spreken,</cell>
+<cell><hi rend="i">parler</hi>,</cell>
+<cell>sprek<hi rend="i">er</hi>,</cell>
+</row>
+<row>
+<cell>Gierig,</cell>
+<cell><hi rend="i">avare</hi> (adj.),</cell>
+<cell>gierig<hi rend="i">aard</hi>,</cell>
+</row>
+<row>
+<cell>Grijs,</cell>
+<cell><hi rend="i">gris</hi> (<hi rend="i">vieux</hi>),</cell>
+<cell>grijs<hi rend="i">aard</hi>,</cell>
+</row>
+<row>
+<cell>Gulzig,</cell>
+<cell><hi rend="i">gourmand</hi> (adj.),</cell>
+<cell>gulzig<hi rend="i">aard</hi>,</cell>
+</row>
+<row>
+<cell>Zuiver,</cell>
+<cell><hi rend="i">propre</hi>,</cell>
+<cell>zuiver<hi rend="i">heid</hi>,</cell>
+</row>
+<row>
+<cell>Goed.</cell>
+<cell><hi rend="i">bon</hi>,</cell>
+<cell>goed<hi rend="i">heid</hi>,</cell>
+</row>
+<row>
+<cell>Traag,</cell>
+<cell><hi rend="i">lent</hi>,</cell>
+<cell>traag<hi rend="i">heid</hi>,</cell>
+</row>
+<row>
+<cell>Verzenden,</cell>
+<cell><hi rend="i">expédier</hi>,</cell>
+<cell>verzend<hi rend="i">ing</hi>,</cell>
+</row>
+<row>
+<cell>Verlengen,</cell>
+<cell><hi rend="i">prolonger</hi>,</cell>
+<cell>verleng<hi rend="i">ing</hi>,</cell>
+</row>
+<row>
+<cell>Vrijven,</cell>
+<cell><hi rend="i">frotter</hi>,</cell>
+<cell>vrijv<hi rend="i">ing</hi>,</cell>
+</row>
+</table></p>
+<pb n="45"/>
+<p><table>
+<row>
+<cell>Scheiden,</cell>
+<cell><hi rend="i">séparer</hi>,</cell>
+<cell>scheid<hi rend="i">baar</hi>,</cell>
+</row>
+<row>
+<cell>Lezen,</cell>
+<cell><hi rend="i">lire</hi>,</cell>
+<cell>lees<hi rend="i">baar</hi>,</cell>
+</row>
+<row>
+<cell>Eten,</cell>
+<cell><hi rend="i">manger</hi>,</cell>
+<cell>eet<hi rend="i">baar</hi>,</cell>
+</row>
+<row>
+<cell>Doen,</cell>
+<cell><hi rend="i">faire</hi>,</cell>
+<cell>doen<hi rend="i">lijk</hi>,</cell>
+</row>
+<row>
+<cell>Koning,</cell>
+<cell><hi rend="i">roi</hi>,</cell>
+<cell>konink<hi rend="i">lijk</hi>,</cell>
+</row>
+<row>
+<cell>God,</cell>
+<cell><hi rend="i">Dieu</hi>,</cell>
+<cell>godde<hi rend="i">lijk</hi>,</cell>
+</row>
+<row>
+<cell>Voeden,</cell>
+<cell><hi rend="i">nourrir</hi>,</cell>
+<cell>voed<hi rend="i">zaam</hi>,</cell>
+</row>
+<row>
+<cell>Vrede,</cell>
+<cell><hi rend="i">paix</hi>,</cell>
+<cell>vreed<hi rend="i">zaam</hi>,</cell>
+</row>
+<row>
+<cell>Acht,</cell>
+<cell><hi rend="i">attention</hi>,</cell>
+<cell>acht<hi rend="i">zaam</hi>,</cell>
+</row>
+<row>
+<cell>Koper,</cell>
+<cell><hi rend="i">eniere</hi>,</cell>
+<cell>koper<hi rend="i">achtig</hi>,</cell>
+</row>
+<row>
+<cell>Zwart,</cell>
+<cell><hi rend="i">noir</hi>,</cell>
+<cell>zwart<hi rend="i">achtig</hi>,</cell>
+</row>
+<row>
+<cell>Yzer,</cell>
+<cell><hi rend="i">fer</hi>,</cell>
+<cell>yzer<hi rend="i">achtig</hi>.</cell>
+</row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Modèle d'application aux sujets de lecture.</head>
+<head>Lecture. - Lisez correctement et couramment:</head>
+<p>Een wijze meester wil zijnen leerlingen bewijzen dat men het kwaad vroeg moet bestrijden.</p>
+<p>De meester gaat met zijne leerlingen in den hof; hij zegt tot éénen leerling:</p>
+<p>Ziedaar eene jonge plant; ontwortel die.</p>
+<p>De leerling ontwortelt de plant. Zij is nog zeer klein.</p>
+<p>De meester wijst eene grootere plant. Ontwortel die ook, zegt hij.</p>
+<p>De leerling kan niet; de plant is reeds te groot. Een andere leerling moet hem helpen.</p>
+<p>De meester staat voor een boomken; het heeft reeds dikke wortelen. Hij spreekt: Kunt gij dit met u tweeën uitroeien?</p>
+<p>De leerlingen kunnen niet.</p>
+<p>De meester eindigt, zeggende:</p>
+<p>Men kan het kwaad ook niet meer uitroeien, zoodra het dikke wortelen heeft.</p>
+<div type="section">
+<pb n="46"/>
+<head>Lexicologie. - Définissez les mots composés et dérivés du texte.</head>
+<p><hi rend="i">Leerlingen - leeren</hi>, apprendre; <hi rend="i">leerling</hi>, celui qui apprend: <hi rend="i">leerlingen</hi>, ceux qui apprennent - élèves.</p>
+<p><hi rend="i">Bewijzen - wijzen</hi>, montrer; <hi rend="i">bewijzen</hi>, démontrer.</p>
+<p><hi rend="i">Bestrijden - strijd</hi>, lutte, combat, <hi rend="i">strijden</hi>, lutter, combattre; <hi rend="i">bestrijden</hi>, lutter contre, combattre.</p>
+<p><hi rend="i">Ontwortel - wortel</hi>, racine; <hi rend="i">ontwortelen</hi>, déraciner; <hi rend="i">ontwortel</hi>, déracine (impératif).</p>
+<p><hi rend="i">Grootere - groot</hi>, grand; <hi rend="i">grootere</hi>, plus grand (comparatif).</p>
+<p><hi rend="i">Boomken - boom</hi>, arbre; <hi rend="i">boomken</hi>, petit arbre (diminutif).</p>
+<p><hi rend="i">Tweeën - twee</hi>, deux; <hi rend="i">met tweeën</hi>, à deux.</p>
+<p><hi rend="i">Uitroeien - roeien</hi>, jeter; <hi rend="i">uit</hi>, dehors; <hi rend="i">uitroeien</hi>, jeter dehors - extirper, arracher.</p>
+<p><hi rend="i">Eindigt - einde</hi>, fin; <hi rend="i">eindigen</hi>, finir; <hi rend="i">eindigt</hi>, finit - termine.</p>
+</div>
+<div type="section">
+<head>Application. - Faites le mot à mot du texte.</head>
+<p>Een wijze meester wil zijnen leerlingen bewijzen dat men het
+<lb/>
+<hi rend="i">Un sage maître veut à ses élèves démontrer que l'on le</hi>
+<lb/>
+kwaad vroeg moet bestrijden.
+<lb/>
+<hi rend="i">mal de bonne heure doit combattre</hi>.
+<lb/>
+De meester gaat met zijne leerlingen in den hof; hij
+<lb/>
+<hi rend="i">Le maître va avec ses élèves dans le</hi> (<hi rend="i">au</hi>) <hi rend="i">jardin; il</hi>
+<lb/>
+zegt tot éénen leerling:
+<lb/>
+<hi rend="i">dit à un élève:</hi>
+<lb/>
+Ziedaar eene jonge plant; ontwortel die.
+<lb/>
+<hi rend="i">Voilà une jeune plante; déracine la</hi>.
+<lb/>
+De leerling ontwortelt de plant: zij is nog zeer klein.
+<lb/>
+<hi rend="i">L'élève déracine la plante</hi>: <hi rend="i">elle est encore très-petite</hi>.
+<lb/>
+De meester wijst eene grootere plant; ontwortel die ook,
+<lb/>
+<hi rend="i">Le maître montre une plus grande plante; déracine la aussi</hi>,
+<lb/>
+zegt hij.
+<lb/>
+<hi rend="i">dit-il</hi>.</p>
+<pb n="47"/>
+<p>De leerling kan niet: de plant is reeds te groot;
+<lb/>
+<hi rend="i">L' élève peut ne pas: la plante est déjà, trop grande;</hi>
+<lb/>
+Een andere leerling moet hem helpen.
+<lb/>
+<hi rend="i">Un autre élève doit l' aider</hi>.
+<lb/>
+De meester staat voor een boomken; het heeft reeds
+<lb/>
+<hi rend="i">Le maître se trouve devant un petit arbre; il a déjà</hi>
+<lb/>
+dikke wortelen. Hij spreekt: Kunt gij dit met u tweeën
+<lb/>
+<hi rend="i">grosses racines Il dit: Pouvez-vous le à vous deux</hi>
+<lb/>
+uitroeien?
+<lb/>
+<hi rend="i">arracher?</hi>
+<lb/>
+De leerlingen kunnen niet.
+<lb/>
+<hi rend="i">Les élèves savent ne pas</hi>.
+<lb/>
+De meester eindigt, zeggende:
+<lb/>
+<hi rend="i">Le maître termine, disant:</hi>
+<lb/>
+Men kan het kwaad ook niet meer uitroeien, zoodra het
+<lb/>
+<hi rend="i">On sait le mal non plus ne plus extirper, aussitôt qu'il</hi>
+<lb/>
+dikke wortelen heeft.
+<lb/>
+<hi rend="i">grosses racines a</hi>.</p>
+<p>TRADUCTION. - Un sage maître veut démontrer à ses élèves que l'on doit combattre le mal de bonne heure.</p>
+<p>Le maître va au jardin avec ses élèves; il dit à un élève:</p>
+<p>Voilà une jeune plante; déracine-la.</p>
+<p>L'élève déracine la plante; elle est encore très-petite.</p>
+<p>Le maître montre une plus grande plante; déracine-la aussi, dit-il.</p>
+<p>L'élève ne le peut pas, la plante est déjà trop grande. Un autre élève doit l'aider.</p>
+<p>Le maître se trouve devant un petit arbre; il a déjà de grosses racines. Il dit: Pourriez-vous l'arracher à vous deux?</p>
+<p>Les élèves ne le peuvent pas.</p>
+<p>Le maître termine, disant:</p>
+<p>On ne peut plus non plus extirper le mal aussitôt qu'il a de grosses racines.</p>
+<p>GRAMMAIRE. - Analysez, c'est-à-dire indiquez le cas, le genre et le nombre des substantifs accompagnés de leurs déterminatifs:</p>
+<pb n="48"/>
+<p><table>
+<row>
+<cell><hi rend="i">Een wijze meester</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Zijnen leerlingen</hi>,</cell>
+<cell>datif,</cell>
+<cell>masculin,</cell>
+<cell>pluriel.</cell>
+</row>
+<row>
+<cell><hi rend="i">Het kwaad</hi>,</cell>
+<cell>accusatif,</cell>
+<cell>neutre,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">De meester</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Den hof</hi>,</cell>
+<cell>accusatif (forme),</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Eenen leerling</hi>,</cell>
+<cell>accusatif (forme),</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Eene jonge plant</hi>,</cell>
+<cell>accusatif,</cell>
+<cell>féminin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">De leerling</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">De plant</hi>,</cell>
+<cell>accusatif,</cell>
+<cell>féminin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Eene grootere plant</hi>,</cell>
+<cell>accusatif,</cell>
+<cell>féminin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">De plant</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>féminin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Een andere leerling</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>masculin,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Een boomken</hi>,</cell>
+<cell>accusatif (forme),</cell>
+<cell>neutre,</cell>
+<cell>singulier.</cell>
+</row>
+<row>
+<cell><hi rend="i">Dikke wortelen</hi>,</cell>
+<cell>accusatif,</cell>
+<cell>masculin,</cell>
+<cell>pluriel.</cell>
+</row>
+<row>
+<cell><hi rend="i">De leerlingen</hi>,</cell>
+<cell>nominatif,</cell>
+<cell>masculin,</cell>
+<cell>pluriel.</cell>
+</row>
+</table></p>
+<p>Note. Les mots, qui reviennent <hi rend="i">exactement dans les mêmes conditions grammaticales</hi>, ne doivent pas être analysés une seconde fois.</p>
+</div>
+</div>
+<div type="section">
+<head rend="h4">Thème.</head>
+<p><table>
+<row>
+<cell>On doit de bonne heure combattre le mal.</cell>
+<cell>Men moet vroeg het kwaad bestrijden.</cell>
+</row>
+<row>
+<cell>Un maître veut démontrer cette vérité à ses élèves.</cell>
+<cell>Een meester wil zijnen leerlíngen die waarheid bewijzen.</cell>
+</row>
+<row>
+<cell>Le maître va au jardin avec ses élèves.</cell>
+<cell>De meester gaat in den hof met zijne leerlingen.</cell>
+</row>
+<row>
+<cell>Un élève déracine une jeune plante.</cell>
+<cell>Een leerling ontwortelt eene jonge plant.</cell>
+</row>
+<row>
+<cell>Un autre élève doit l'aider pour déraciner une plus grande plante.</cell>
+<cell>Een andere leerling moet hem helpen om eene grootere plant te ontwortelen.</cell>
+</row>
+<row>
+<cell>Un petit arbre a déjà de grosses racines.</cell>
+<cell>Een boomken heeft reeds dikke wortelen.</cell>
+</row>
+<row>
+<cell>On ne peut plus extirper le mal aussitôt qu'il a de grosses racines.</cell>
+<cell>Men kan het kwaad niet meer uitroeien zoodra het dikke wortelen heeft.</cell>
+</row>
+</table></p>
+</div>
+</div>
+<div type="chapter">
+<pb n="49"/>
+<head rend="h3">Lecture.</head>
+<head rend="h4">Applications générales.</head>
+<head>1. Slecht gezelschap.</head>
+<p>Een vader ontmoette (<hi rend="i">rencontra</hi>) zijnen zoon in gezelschap met eenige jongelingen.</p>
+<p>Die jongelingen waren gekend voor hun slecht gedrag.</p>
+<p>De zoon bloosde (<hi rend="i">rougit</hi>) van schaamte (<hi rend="i">honte</hi>).</p>
+<p>De vader sprak:</p>
+<p>Goed, mijn zoon; gij zijt beschaamd; gij hebt dus eerbaarheid; dit verheugt (<hi rend="i">réjouit</hi>) mij. Maar het zou mij oneindig meer verheugen, mochte ik u in gezelschap zien met jongelingen over welke gij niet moét blozen.</p>
+<div type="section">
+<head>2. De noot.</head>
+<p>Twee knapen vonden (<hi rend="i">trouvèrent</hi>) eene noot.</p>
+<p>De eene sprak: Zij is voor mij: ik heb ze eerst gezien.</p>
+<p>De andere zegde: Het is de mijne: ik heb ze opgeraapt.</p>
+<p>Zij twistten (<hi rend="i">se disputèrent</hi>), en vochten (<hi rend="i">se battirent</hi>) eindelijk.</p>
+<p>Een voorbijganger (<hi rend="i">passant</hi>) kwam het geschil (<hi rend="i">différend</hi>) vereffenen (<hi rend="i">aplanir</hi>).</p>
+<pb n="50"/>
+<p>Hij kraakte (<hi rend="i">cassa</hi>) de noot, en zegde:</p>
+<p>De eene schelp (<hi rend="i">coquille</hi>) is voor hem die de noot eerst heeft gezien, de andere voor dengenen die ze heeft opgeraapt, en ik houd den kern (<hi rend="i">amande</hi>) voor mij.</p>
+<p>Zoo worden alle twisters bedrogen.</p>
+</div>
+<div type="section">
+<head>3. Onwetendheid.</head>
+<p>Een onwetende zegde tot eenen zijner gezellen:</p>
+<p>Men spreekt altijd van nieuwe manen; maar als de manen oud zijn, wat doet men er mede?</p>
+<p>Hoe, antwoordde de andere, weet gij dat niet? Wel, God snijdt de oude manen in stukken om er sterren van te maken.</p>
+<p>Onwetende menschen hechten geloof (<hi rend="i">ajoutent foi</hi>) aan alle soorten van dwaasheden.</p>
+</div>
+<div type="section">
+<head>4. Leonidas.</head>
+<p>Het leger der Persen was nabij de Thermopylen.</p>
+<p>Men kwam aan Leonidas, veldheer (<hi rend="i">général</hi>) der Spartiaten, het volgende bericht brengen:</p>
+<p>De vijanden zijn zoo talrijk dat zij de zon met hunne pijlen en werpspiesen (<hi rend="i">javelots</hi>) zullen verduisteren.</p>
+<p>Leonidas antwoordde:</p>
+<p>Goed, dan zullen wij in de schaduwe (<hi rend="i">ombre</hi>) vechten.</p>
+<p>De ware moed kent geen gevaar.</p>
+</div>
+<div type="section">
+<head>5. Zedigheid.</head>
+<p>De kanselier Bacon was zoo zedig (<hi rend="i">modeste</hi>) als verdienstelijk (<hi rend="i">distingué</hi>).</p>
+<p>De koningin Elisabeth deed eens eene rondreize(<hi rend="i">tournée</hi>) door hare provinciën; zij wist dat de kanselier een
+<pb n="51"/>klein en nederig (<hi rend="i">humble</hi>) veldhuis bewoonde; zij wilde den grooten man juist daar bezoeken.</p>
+<p>- Uw huis is wel klein, heer Kanselier, zegde de koningin.</p>
+<p>- Mevrouw, antwoordde Bacon, mijn huis is groot genoeg voor mij, maar het is uwe Majesteit die mij te groot heeft gemaakt voor mijn huis.</p>
+</div>
+<div type="section">
+<head>6. De ezel verrader.</head>
+<p>Een boer ging eens (<hi rend="i">un jour</hi>) bij zijnen buurman om eenen ezel te leenen (<hi rend="i">préter</hi>).</p>
+<p>De buurman was niet goed gesteld (<hi rend="i">disposé</hi>) om zijnen ezel te leener, en zegde:</p>
+<p>Het spijt mij, vriend, dat gij niet vroeger gekomen zijt; ik heb daareven (<hi rend="i">il n'y a qu'un instant</hi>) mijnen ezel aan eenen anderen buurman geleend.</p>
+<p>Terwijl de man aldus sprak, begon de ezel te balken (<hi rend="i">braire</hi>).</p>
+<p>Ho, riep de boer, ik hoor de stem van uwen ezel; het beest is op stal (<hi rend="i">à l'écurie</hi>).</p>
+<p>Hoezoo, hervatte (<hi rend="i">reprit</hi>) de buurman, en gij zoudt liever (<hi rend="i">plutct</hi>) de stem van mijnen ezel dan de mijne gelooven?</p>
+</div>
+<div type="section">
+<head>7. De verkwisting.</head>
+<p>Door nuttelooze pracht (<hi rend="i">vain luxe</hi>) en zotte verkwisting (<hi rend="i">folle dissipation</hi>), maakt men zich zelven bespottelijk (<hi rend="i">ridicule</hi>).</p>
+<p>De verkwisters (<hi rend="i">dissipateurs</hi>) meenen dat zij bewonderd worden en zij worden beklaagd (<hi rend="i">plaints</hi>).</p>
+<p>Twee verkwisters schenen in strijd (<hi rend="i">lutte</hi>) om te zien
+<pb n="52"/>wie van beiden (<hi rend="i">lequel des deux</hi>) de meeste nuttelooze uitgaven (<hi rend="i">dépenses</hi>) zou doen.</p>
+<p>Een wijze man zegde:</p>
+<p>Mij dunkt (<hi rend="i">il me semble</hi>) dat zij twisten om te weten wie van beiden eerst in het gasthuis (<hi rend="i">hospice</hi>) zal komen.</p>
+</div>
+<div type="section">
+<head>8. De hongerige Arabier.</head>
+<p>Een Arabier was verdwaald (<hi rend="i">égaré</hi>) in de woestijn (<hi rend="i">désert</hi>). Hij had niets geëten sedert twee dagen.</p>
+<p>Hij komt aan eene waterbron (<hi rend="i">source</hi>) en vindt daar een lederen zakje (<hi rend="i">petit sac de cuir</hi>).</p>
+<p>Hij raapt het op (<hi rend="i">le ramasse</hi>), bevoelt het (<hi rend="i">le tâte</hi>) en roept uit:</p>
+<p>Ho, er zijn dadels (<hi rend="i">dattes</hi>) of noten in!</p>
+<p>Hij opent het zakje, en zegt op droevigen toon:</p>
+<p>Helaas, het zijn maar perelen!</p>
+<p>Voor eenen hongerige (<hi rend="i">affamé</hi>) is eene bete broods (<hi rend="i">une bouchée de pain</hi>) meer waard dan al het goud der aarde.</p>
+</div>
+<div type="section">
+<head>9. Het kind en de kat.</head>
+<p>Een kind hield (<hi rend="i">tenait</hi>) eenen koek (<hi rend="i">gâteau</hi>) in de hand. Eene kat rook (<hi rend="i">sentait</hi>) den koek; zij streelde (<hi rend="i">caressait</hi>) het kind om den koek te krijgen (<hi rend="i">avoir</hi>).</p>
+<p>Ei, wat lief beestje! riep het kind uit, en gaf een groot stuk van zijnen koek aan de kat.</p>
+<p>De kat nam het stuk koek, en liep weg.</p>
+<p>Ho, ho! sprak nu het kind, het was maar mijn koek die u zoo vriendelijk maakte (<hi rend="i">rendait</hi>); mij bemindet gij niet.</p>
+<p>Men moet nooit de vleiers (<hi rend="i">flatteurs</hi>) betrouwen.</p>
+</div>
+<div type="section">
+<pb n="53"/>
+<head>10. Dwaling eens pachters.</head>
+<p>Een pachter (<hi rend="i">fermier</hi>) bracht (<hi rend="i">apporta</hi>) eenen korf peren (<hi rend="i">panier de poires</hi>) naar het kasteel van zijnen Heer.</p>
+<p>Op den trap ontmoette hij twee apen, die als kinderen gekleed waren; zij hadden eenen hoed op den kop en eenen degen (<hi rend="i">épée</hi>) aan de zijde.</p>
+<p>Die vermakelijke dieren namen de peren en aten er (<hi rend="i">en</hi>) een groot deel (<hi rend="i">partie</hi>) van op.</p>
+<p>De pachter kwam bij den Heer.</p>
+<p>De Heer vroeg:</p>
+<p>Waarom is uw korf niet vol peren?</p>
+<p>De pachter verontschuldigde zich (<hi rend="i">s'excusa</hi>) zeggende:</p>
+<p>Hij was vol, mijn waarde Heer, maar uwe lieve zoontjes hebben er een groot deel van opgeëten. De peren smaakten hun goed, en ik heb ze hun niet willen weigeren (<hi rend="i">refuser</hi>).</p>
+</div>
+<div type="section">
+<head>11. Lafitte.</head>
+<p>De jonge Jaak Lafitte kwam naar Parijs om er eene plaats te zoeken.</p>
+<p>Hij bood zich aan (<hi rend="i">se présenta</hi>) bij den bankier Perregaux. Het was voor het oogenblik (<hi rend="i">moment</hi>) onmogelijk hem in de bureelen werk te geven.</p>
+<p>Lafitte ging mistroostig het huis uit. Hij vond eene speld (<hi rend="i">épingle</hi>), raapte ze op, en stak ze zorgvuldig (<hi rend="i">soigneusement</hi>) op de mauw (<hi rend="i">manche</hi>) van zijn kleed.</p>
+<p>De Heer Perregaux had dit gezien en oordeelde dat de jonge verzoeker (<hi rend="i">solliciteur</hi>) met den geest van orde en spaarzaamheid (<hi rend="i">économie</hi>) moest begaafd (<hi rend="i">doué</hi>) zijn.</p>
+<pb n="54"/>
+<p>Hij liet Lafitte terugroepen (<hi rend="i">rappeler</hi>) en gaf hem eene plaats in zijne bureelen.</p>
+<p>Dit was de eerste stap (<hi rend="i">pas</hi>) van Lafitte naar de overgroote (<hi rend="i">immense</hi>) fortuin tot welke hij later kwam.</p>
+</div>
+<div type="section">
+<head>12. Wijs antwoord.</head>
+<p>Tijd en geld, aan het onderwijs (<hi rend="i">instruction</hi>) besteed, (<hi rend="i">employé</hi>) zijn altoos wel besteed.</p>
+<p>Een Heer vroeg aan zijnen pachter wat hij met zijn geld (<hi rend="i">argent</hi>) deed.</p>
+<p>Ik besteed mijn geld in drie deelen, antwoordde de pachter:</p>
+<p>Met het eerste deel betaal ik mijne schulden (<hi rend="i">dettes</hi>)<hi rend="i">;</hi> het tweede deel dient (<hi rend="i">sert</hi>) tot onderhoud (<hi rend="i">entretien</hi>) mijns huisgezins (<hi rend="i">famille</hi>)<hi rend="i">;</hi> en het derde deel plaats ik op grooten intrest.</p>
+<p>Wat verstaat gij door grooten intrest, vroeg de Heer.</p>
+<p>Hoor, verklaarde (<hi rend="i">expliqua</hi>) de pachter, ik gebruik het derde deel om mijne kinderen te laten onderwijzen (<hi rend="i">instruire</hi>).</p>
+<p>De Heer bekende dat de pachter gelijk had; want wel opgekweekte (<hi rend="i">bien élevés</hi>) kinderen kunnen later hunne ouders rijkelijk voor de onderwijskosten (<hi rend="i">frais d'instruction</hi>) vergoeden (<hi rend="i">indemniser</hi>).</p>
+</div>
+<div type="section">
+<head>13. Groote leugens.</head>
+<p>Een reiziger (<hi rend="i">voyageur</hi>) vertelde (<hi rend="i">raconta</hi>) dat hij de vijf werelddeelen bezocht (<hi rend="i">visité</hi>) en wonderen (<hi rend="i">merveilles</hi>) gezien had, waarvan (<hi rend="i">dont</hi>) de beste schrijvers geen gewag maken (<hi rend="i">ne font pas mention</hi>).</p>
+<pb n="55"/>
+<p>Hij had, zoo beweerde (<hi rend="i">prétendait</hi>) hij, onder ander, eene kool (<hi rend="i">chou</hi>) gezien, die zoo groot was dat vijftig ruiters (<hi rend="i">cavaliers</hi>) gemakkelijk onder hare bladeren konden rondrijden (<hi rend="i">circuler à cheval</hi>).</p>
+<p>Een der aanwezigen (<hi rend="i">assistants</hi>) vond die leugen al te grof en vilde derzelver (<hi rend="i">en</hi>) belachelijkheid (<hi rend="i">ridicule</hi>) doen uitschijnen (<hi rend="i">mettre en relief</hi>).</p>
+<p>Ik ook heb gereisd, zeide hij, en ik heb in Japonië meer dan drie honderd ketelaars (<hi rend="i">chaudronniers</hi>) aan éénen ketel zien werken.</p>
+<p>Ho, ho! hervatte (<hi rend="i">reprit</hi>) de reiziger, en wat wilde men met zulk eenen overgrooten ketel doen?</p>
+<p>Wel, antwoordde de tweede, er de kool in zieden (<hi rend="i">y bouillir</hi>) waarover gij zooeven(<hi rend="i">tout à l'heure</hi>)spraakt.</p>
+</div>
+<div type="section">
+<head>14. Het paard van den landheer.</head>
+<p>Een Landheer (<hi rend="i">seigneur</hi>), alom gekend voor zijne weldadigheid (<hi rend="i">charité</hi>), zond eens een zijner bedienden naar de stad om eene haastige boodschap (<hi rend="i">commission</hi>) te doen.</p>
+<p>Om des te vlugger over den weg te komen, liet hij den bediende zijn eigen paard bestijgen (<hi rend="i">monter</hi>).</p>
+<p>Toen de bediende terugkwam, zegde hij tot zijnen meester:</p>
+<p>Edele Heer, indien gij mij nogmaals met uw paard uitzendt, moet gij mij ook uwe beurs medegeven; want het goede dier blijft bij iederen armen mensch staan, en wil maar niet voort, zoolang de arme niets gekregen heeft.</p>
+</div>
+<div type="section">
+<head>15. De verzorgde boomen.</head>
+<p>Op eenen schoonen lentedag <hi rend="i">(jour de printemps</hi>),
+<pb n="56"/>ging een huisvader met zijnen kleinen jongen in eenen fraaien hof wandelen (<hi rend="i">se promener</hi>). Het kind bewonderde (<hi rend="i">admirait</hi>) de hooge boomen en de lieve bloemen.</p>
+<p>- Hoe komt het toch, vader, vroeg de kleine, dat sommigen dier boomen zoo recht en anderen zoo krom opgegroeid zijn?</p>
+<p>De vader antwoordde:</p>
+<p>- Omdat men die rechte boomen van jongsaf wel opgepast en wel gekweekt heeft, terwijl men de andere zoo maar wild, zonder zorg, heeft laten opschieten (<hi rend="i">grandir</hi>).</p>
+<p>- En die bloemen? sprak de knaap verder, zie, zij zijn reeds geheel ontloken (<hi rend="i">écloses</hi>), terwijl die daar, van dezelfde soort, nog maar in botten staan!</p>
+<p>- Dat komt insgelijks (<hi rend="i">également</hi>) door de verzorging, mijn kind, zegde de vader.</p>
+<p>- Zoo, hervatte de jongen, dan hangt (<hi rend="i">dépend</hi>) in eenen hof alles van de verzorging af?</p>
+<p>- Ja, hernam de vader, en daaruit kunnen wij voor u eene nuttige les trekken:</p>
+<p>Gij gelijkt volkomen aan eenen boom of aan eene plant; als ik u maar wild liet opgroeien, zoudt gij verkeerd groeien, maar als ik u verzorg, dat is te zeggen, als ik u nuttige lessen geef, en u dwing om gehoorzaam en onderdanig (<hi rend="i">soumis</hi>) te wezen, dan zult gij kloek opgroeien en, even als de bloemen, lief en aangenaam worden.</p>
+</div>
+<div type="section">
+<head>16. De gramschap.</head>
+<p>Een Heer had de slechte gewoonte zich aan de hevigste gramschap (<hi rend="i">colère</hi>) over te laten. Zijn knecht moest het dan dikwijls bezuren (<hi rend="i">payer cher</hi>). Eens
+<pb n="57"/>kwam de meester, zeer kwaadgezind, naar huis om het middagmaal te nemen; en het eten moest te koud of te warm wezen, want hij wierp telloor, lepel en vork het venster uit. De knecht nam met de grootste koelbloedigheid wat er nog op tafel stond en wierp alles, tot het tafellaken toe, den hof in.</p>
+<p>- Wat doet gij nu, ongelukkige (<hi rend="i">malheureux</hi>)! schreeuwde de meester, terwijl hij van gramschap raasde.</p>
+<p>- Mijnheer, antwoordde de knecht zeer bedaard, verschoon mij, zoo ik uwe inzichten (<hi rend="i">intentions</hi>) niet wel heb geraden(<hi rend="i">deviné</hi>), want ik meende dat gij vandaag in den hof wildet elen.</p>
+<p>De heer was over het gedrag van den knecht zeer verwonderd; doch, hij begreep de les, en maakte ze zich zoo goed ten nutte, dat hij zijne gramschap volkomen afleerde (<hi rend="i">se corrigeait de</hi>).</p>
+</div>
+<div type="section">
+<head>17. Brief van Franklin.</head>
+<p><hi rend="i">Veel goeds met weinig gelds</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Mijnheer</hi>,</p>
+<p>&nbsp;</p>
+<p>Ik heb uwen brief van vijftienden dezer ontvangen. Uw toestand (<hi rend="i">position</hi>) bedroeft mij; ik zend u hierbij tien kronen. Ik mag u die som niet schenken (<hi rend="i">donner comme cadeau</hi>), ik kan ze u enkel leenen. Wanneer gij naar uw land zult wederkeeren, kan het niet missen of gij zult, met een goed gedrag, uit de eene of andere onderneming, voordeel weten te trekken en u in staat stellen al uwe schulden te betalen. In dit geval, zoo gij eenen eerlijken man ontmoet, die zich in nood (<hi rend="i">besoin</hi>) bevindt, zoo als gij nu, dan zult gij mij betalen
+<pb n="58"/>met hem die tien kronen te leenen, en gij zult hem de voorwaarde (<hi rend="i">condition</hi>) stellen later zijne schuld op dezelfde wijze te kwijten (<hi rend="i">acquitter</hi>). Ik hoop dat de tien kronen, indiervoege, (<hi rend="i">de cette façon</hi>) door vele handen zullen gaan, eer zij in die eens onrechtvaardigen mans zullen vallen. Ik gebruik zulke list (<hi rend="i">ruse</hi>) om veel goeds met weinig gelds te doen. Ik ben niet rijk genoeg om veel aan goede werken te besteden, ik moet dus met overleg te werk gaan om zoo veel mogelijk met zoo weinig mogelijk te verrichten (<hi rend="i">réaliser</hi>).</p>
+<p>Aanvaard, Mijnheer, mijne vriendelijke groetenissen.</p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="beer008"/>
+<interp type="primair" value="wate041"/>
+<interp type="primair" value="duss002"/>
+<interp type="primair" value="lede003"/>
+<interp type="primair" value="hass001"/>
+<interp type="primair" value="drie015"/>
+<interp type="primair" value="heij007"/>
+</interpGrp>
+<pb n="59"/>
+<head rend="h3">Mémoire. - Récitation.</head>
+<head rend="h4">1. Mijne Ouders.</head>
+<lg type="poem">
+<l rend="; 3tab">Mijn Ouders lieven, dienen, eeren,</l>
+<l rend="; 3tab">Dat is, voorwaar, mijn eerste plicht.</l>
+<l rend="; 3tab">Wat hebben zij m' al goeds gesticht!</l>
+<l rend="; 3tab">Ik mag veel nutte dingen leeren;</l>
+<l rend="; 2tab">Door hen in deugd en braafheid opgeleid,</l>
+<l rend="; 2tab">Word ik tot eer en welstand voorbereid,</l>
+<l rend="; 4tab">Gestadig zijn hun zorgen,</l>
+<l rend="; 4tab">Voor heden en voor morgen,</l>
+<l rend="; 3tab">En 't is gewis hun duurste wensch</l>
+<l rend="; 3tab">Dat ik eens word' een nuttig mensch.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">'k Wil dus, uit al mijn kracht,</l>
+<l rend="; 4tab">Uit al mijn macht,</l>
+<l rend="; 3tab">Mijn Ouders lieven, dienen, eeren!</l>
+<l rend="; 3tab">Van hen te weeren druk en pijn,</l>
+<l rend="; 3tab">Hun heil op aarde te vermeêren,</l>
+<l>Zal immer 't hoogste doel mijns levens zijn!</l>
+</lg>
+<div type="section">
+<head rend="h4">2. Vrienden.</head>
+<lg type="poem">
+<l rend="; 3tab">Mijn vrienden beschouw ik als schatten,</l>
+<l rend="; 3tab">Als schatten de duursten in waard',</l>
+<l rend="; 3tab">Die tevens al 't goede bevatten</l>
+<l rend="; 3tab">Den menschen geschonken op aard'!</l>
+<l>&nbsp;</l>
+<l rend="; 3tab">En immers, wat gaat er te boven</l>
+<l rend="; 3tab">'t Verheven gevoel van den vriend?</l>
+<l rend="; 3tab">Wat glansen vermogen te dooven</l>
+<l rend="; 3tab">Den glans van het hart dat bemint!</l>
+<l>&nbsp;</l>
+<pb n="60"/>
+<l rend="; 2tab">Mijn vrienden beschouw ik als schatten,</l>
+<l rend="; 2tab">Als schatten van eer en van deugd,</l>
+<l rend="; 2tab">Die tevens al 't nutte bevatten</l>
+<l rend="; 2tab">Tot siering der achtbare jeugd.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Geen vrienden aldus die verderven,</l>
+<l rend="; 2tab">Geen vrienden der zonde verkleefd...</l>
+<l rend="; 2tab">Maar vrienden wier deugden wij erven,</l>
+<l rend="; 2tab">Wier vriendschap ons achtbaarheid geeft!</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">3. Werken.</head>
+<lg type="poem">
+<l rend="; 1tab">Eten, lekker eten! taarten, koeken, massepijn?</l>
+<l rend="; 3tab">Kan er wel iets lust'ger zijn?</l>
+<l>Elken dag, de tafel vol, van 't smaaklijkst uitgezocht...</l>
+<l rend="; 1tab">Ho, ik wilde dat ik altijd eten mocht!</l>
+<l>&nbsp;</l>
+<l>Spelen, lustig spelen! met gezellen groot en klein!</l>
+<l rend="; 3tab">Kan er wel iets pret'ger zijn?</l>
+<l>Heel den dag, op school en straat en veld, in vollen tocht.</l>
+<l rend="; 1tab">Ho, ik wilde dat ik altijd spelen mocht!</l>
+<l>&nbsp;</l>
+<l>Slapen, rustig slapen! op een donzig beddelijn!</l>
+<l rend="; 3tab">Kan er wel iets zoeter zijn?</l>
+<l>Slapen, gansche dagen, zonder zorg of achterdocht...</l>
+<l rend="; 1tab">Ho, ik wilde dat ik altijd slapen mocht!</l>
+<l>&nbsp;</l>
+<l>Eten, spelen, slapen is, ja, lustig, prettig, zoet!...</l>
+<l rend="; 3tab">Maar, is dat bestendig goed?</l>
+<l>Wordt men ziek van gulzig eten, en van spelen dom,</l>
+<l rend="; 1tab">En van slapen lui... zoo valt mijn stelling om!</l>
+<l>&nbsp;</l>
+<l>Werken scherpt den lust tot eten en tot slapen wel,</l>
+<l rend="; 3tab">En vergunt ook recht tot spel!...</l>
+<l>Dus, den kostbren tijd der jeugd naar rechten eisch verdeeld:</l>
+<l rend="; 1tab">Eerst gewerkt vóór dat men eet, of slaapt of speelt!</l>
+</lg>
+</div>
+<div type="section">
+<pb n="61"/>
+<head rend="h4">4. Het Bloemeken.</head>
+<lg type="poem">
+<l rend="; 2tab">O, bloemken-lief, wat zijt gij schoon!</l>
+<l rend="; 2tab">Uw kelk is als een koningskroon;</l>
+<l rend="; 2tab">Gij staat daar in den tuin te pronken</l>
+<l rend="; 2tab">En als een hemelstar te lonken...</l>
+<l rend="; 2tab">O, bloemken-lief, naar allen schijn,</l>
+<l rend="; 2tab">Moet gij volstrekt gelukkig zijn!</l>
+<l rend="; 2tab">O ja, sprak 't lieve bloemken zacht,</l>
+<l rend="; 2tab">Volstrekt gelukkig!... ja, maar wacht,</l>
+<l rend="; 2tab">Weldra verslenst mijn koningskrone.</l>
+<l rend="; 2tab">Want broos is al het aardsche schoone:</l>
+<l rend="; 2tab">Wat heden prijkt met glans en lof,</l>
+<l rend="; 2tab">Is morgen smet en nietig stof!</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">5. Om beter te worden.</head>
+<lg type="poem">
+<l rend="; 3tab">Soms drijft lichtzinnigheid mij aan</l>
+<l rend="; 3tab">Om eenig misdrijf te begaan;</l>
+<l rend="; 3tab">Dan denk ik eventjes wat na,</l>
+<l rend="; 3tab">En ga 't gezond verstand te râ;</l>
+<l rend="; 3tab">Ik vind mij daar steeds 't beste bij:</l>
+<l rend="; 3tab">Ik laat het misdrijf zoo ter zij':</l>
+<l rend="; 3tab">Ik word allengskens wijs en groot,</l>
+<l rend="; 3tab">En stel mij aan geen' straffen bloot.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">6. Vaderlandsch lied.</head>
+<lg type="poem">
+<l>Komt, knapen en meisjes, verheft nu in choor</l>
+<l rend="; 1tab">Den grond, die uw' wieg heeft gedragen;</l>
+<l>Uw lied klink' de velden van 't Vaderland door,</l>
+<l rend="; 1tab">Dat de oogen op u houdt geslagen.</l>
+<l>Dat Vaderland eert en verheerlijkt gij nu,</l>
+<l rend="; 1tab">Eens, hopen wij, eens zal het fier zijn op u! -</l>
+<pb n="62"/>
+<l>In moed en in kennis, in vroomheid en deugd,</l>
+<l rend="; 1tab">Was 't eenmaal het sieraad der aarde;</l>
+<l>Die glorie verbleekte... maar 't wacht van uw' jeugd,</l>
+<l rend="; 1tab">Dat gij het herstelt in zijn waarde.</l>
+<l>Dan - als gij het eert en verheerlijkt als nu, -</l>
+<l rend="; 1tab">Dan moge dat Vaderland fier zijn op u!...</l>
+</lg>
+<p><hi rend="i">J.P. Heije</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">7. Het Broêrken.</head>
+<lg type="poem">
+<l rend="; 2tab">Zij zeggen, gij woont in den Hemel,</l>
+<l rend="; 2tab">In een huis van diamant</l>
+<l rend="; 2tab">Met gouden poorten, en hoven</l>
+<l rend="; 2tab">Vol suikeren bloemen geplant.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Zij zeggen, daar trekken u de engeltjes</l>
+<l rend="; 2tab">Langs henen der zonnen baan,</l>
+<l rend="; 2tab">Naast Jezuken in een wagentje</l>
+<l rend="; 2tab">Met starrenwielen aan.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Zij zeggen, gij zelve zijt nu</l>
+<l rend="; 2tab">Een engeltje, met een paar</l>
+<l rend="; 2tab">Sneeuwwitte vleugels; - maar, broêrken,</l>
+<l rend="; 2tab">Dat is gelogen, niet waar?</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Niet waar, als gij kont vliegen,</l>
+<l rend="; 2tab">Gij liet me niet zoo alleen,</l>
+<l rend="; 2tab">Maar kwaamt, dwars door de wolken,</l>
+<l rend="; 2tab">Snel tuimelend naar beneên?</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">Nog laatst, toen ik, met nieuwjaar,</l>
+<l rend="; 2tab">Dat lekker en speelgoed kreeg,</l>
+<l rend="; 2tab">Maar, zonder het aan te roeren,</l>
+<l rend="; 2tab">In mijn hoeksken zat en zweeg.</l>
+<l>&nbsp;</l>
+<pb n="63"/>
+<l>Hadt gij toen kunnen vliegen,</l>
+<l>Wat zoudt ge op een, twee, drij,</l>
+<l>Ontsnapt zijn uit uwen Hemel,</l>
+<l>Om te komen deelen met mij!</l>
+<l>&nbsp;</l>
+<l>Want, gij weet het wel, geen lekker</l>
+<l>En smaakt me dat gij niet deelt;</l>
+<l>Geen speelgoed maakt me blijde</l>
+<l>Als broêrken niet medespeelt.</l>
+<l>&nbsp;</l>
+<l>Mijn broêrken, och, mijn broêrken!</l>
+<l>Waarom toch gingt gij heên?</l>
+<l>Waarom toch liet ge uw broêrken</l>
+<l>Op eens zoo droef alleen!</l>
+<l>&nbsp;</l>
+<l>Wij sliepen in ons beddeken</l>
+<l>Zoo warm te zamen; en nu -</l>
+<l>Zoo koud is 't in ons beddeken,</l>
+<l>Waar ik altijd droom van u!</l>
+<l>&nbsp;</l>
+<l>Mijn broêrken, och, kom weder!</l>
+<l>Of, zoo men dat nimmer gedoogt,</l>
+<l>Vraag Jezuken of ge mij dan</l>
+<l>Naar den Hemel ook halen moogt!</l>
+</lg>
+<p><hi rend="i">J. Van Beers</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">8. Sint-Nikolaasdag.</head>
+<lg type="poem">
+<l>Jantje, Mietje, komt toch spoedig,</l>
+<l>Gauw, ons mandeken bereid,</l>
+<l>Om het in de schouw te zetten</l>
+<l>Met wat hooi daarin geleid.</l>
+<l>&nbsp;</l>
+<l>Sint-Niklaas gaat op zijn ronde,</l>
+<l>Zeker komt hij dezen nacht;</l>
+<l>Gaan wij spoedig dan te bedde</l>
+<l>En hem stil daar afgewacht.</l>
+<l>&nbsp;</l>
+<pb n="64"/>
+<l>Ho, wat zal die nacht toch duren!</l>
+<l>Ieder uur schijnt mij een jaar...</l>
+<l>En hoe zal mijn hartje kloppen,</l>
+<l>'k Wenschte dat reeds morgen waar!</l>
+<l>&nbsp;</l>
+<l>Overjaar, 'k zal 't nooit vergeten,</l>
+<l>Bracht hij zooveel lekkers meê,</l>
+<l>Dat ons Mietje 't niet kon dragen,</l>
+<l>Dat ze mij haar helpen deê.</l>
+<l>&nbsp;</l>
+<l>Heel haar korfken was geladen:</l>
+<l>Wieg en pop met krinolien,</l>
+<l>Bankskes, stoeltjes, potjes, pannen,</l>
+<l>Al wat men in huis kan zien.</l>
+<l>&nbsp;</l>
+<l>Jantje had een koppel paarden,</l>
+<l>Eenen schoonen printenboek,</l>
+<l>Eene doos vol chocolade</l>
+<l>En een' grooten lekkerkoek!</l>
+<l>&nbsp;</l>
+<l>Ik, ik kreeg twee pakken suiker</l>
+<l>In een schip van massepijn</l>
+<l>Vijgen, mokken, spekken, ruimen,</l>
+<l>Al wat lekker was en fijn</l>
+<l>&nbsp;</l>
+<l>Morgen zal 't niet minder wezen,</l>
+<l>Want wij hebben heel het jaar</l>
+<l>Wel gedaan in schrijven, lezen,</l>
+<l>Altoos was ons schoolwerk klaar.</l>
+<l>&nbsp;</l>
+<l>Sint-Niklaas zal ook wel weten</l>
+<l>Dat wij, eer we slapen gaan,</l>
+<l>Ons gebed met aandacht zeggen</l>
+<l>En gerust naar 't bedde gaan.</l>
+<l>&nbsp;</l>
+<pb n="65"/>
+<l>Laten wij dan dankbaar wezen,</l>
+<l>Leeren, werken, zoetjes zijn;</l>
+<l>Als we zulke schoone dingen</l>
+<l>Van den Heere waardig zijn.</l>
+</lg>
+<p><hi rend="i">P. Waterschoot</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">9. Het vliegje.</head>
+<lg type="poem">
+<l rend="; 1tab">Hoe vlug is het vliegje,</l>
+<l rend="; 2tab">Hoe fladdert het rond!</l>
+<l rend="; 1tab">Het zet zich op stoelen,</l>
+<l rend="; 2tab">Op tafel en grond.</l>
+<l rend="; 1tab">Het zweeft naar den zolder</l>
+<l rend="; 2tab">En loopt tegen glas</l>
+<l rend="; 1tab">En spiegel, als of het</l>
+<l rend="; 2tab">Een laddertje was.</l>
+<l rend="; 1tab">Het reinigt zijn vlerkjes</l>
+<l rend="; 2tab">Van stofjes en smet,</l>
+<l rend="; 1tab">En kapt zich het hoofdje</l>
+<l rend="; 2tab">En de oogjes zoo net,</l>
+<l rend="; 1tab">Gelijk wij met handen</l>
+<l rend="; 2tab">En water dit doen;</l>
+<l rend="; 1tab">Het rept zich zoo vaardig,</l>
+<l rend="; 2tab">Als moest het zich spoên</l>
+<l rend="; 1tab">Dus strekt mij dit diertje</l>
+<l rend="; 2tab">Tot voorbeeld en les,</l>
+<l rend="; 1tab">En 't past mij te volgen</l>
+<l rend="; 2tab">Deez' leermeesteres.</l>
+<l rend="; 1tab">Tot reinheid en orde,</l>
+<l rend="; 2tab">Vermaant mij een dier;</l>
+<l rend="; 1tab">En zweeft het zoo vrolijk,</l>
+<l rend="; 2tab">Na ginder dan hier,</l>
+<l rend="; 1tab">Het leert mij te werken</l>
+<l rend="; 2tab">Met lust en met vreugd,</l>
+<pb n="66"/>
+<l rend="; 1tab">En wijst mij al zwevend,</l>
+<l rend="; 2tab">Hoe arbeid verheugt.</l>
+</lg>
+<p><hi rend="i">P.J. Dusseau</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">10. Lofzang van het kind bij zijn ontwaken.</head>
+<lg type="poem">
+<l>O Vader, mijnes vaders hoeder,</l>
+<l>Gij, dien men knielend noemen moet,</l>
+<l>Wiens naam, zoo vreeslijk en zoo zoet,</l>
+<l>Het hoofd doet buigen mijner moeder!</l>
+<l>&nbsp;</l>
+<l>Men zegt dat deze zon vol gloor</l>
+<l>Maar speeltuig is in uwe vingren;</l>
+<l>En dat zij voor uw' troon moet slingren,</l>
+<l>Gelijk een lamp voor 't heilig choor!</l>
+<l>&nbsp;</l>
+<l>Men zegt dat gij in veld en wouden</l>
+<l>De kleine vooglen scheppen kunt,</l>
+<l>En dat ge een' ziel aan kindren gunt,</l>
+<l>Opdat zij vroeg u kennen zouden.</l>
+<l>&nbsp;</l>
+<l>Men zegt dat Gij alleen het weet</l>
+<l>Van waar de kleur komt op de rozen,</l>
+<l>En dat geene applen zouden blozen,</l>
+<l>Zoo Gij den boom niet groeien deedt.</l>
+<l>&nbsp;</l>
+<l>De gaven door u toegemeten</l>
+<l>Zijn al 't geschapen voorgezet,</l>
+<l>En aan des levens feestbanket</l>
+<l>Wordt zelfs geen enkle worm vergeten.</l>
+<l>&nbsp;</l>
+<l>Het ooilam plukt de grasbeemd kaal,</l>
+<l>De geit herkauwt de klavertopjes</l>
+<l>En 't vliegje zuigt de witte dropjes</l>
+<l>Der melk, van 't boordje mijner schaal!</l>
+<l>&nbsp;</l>
+<pb n="67"/>
+<l>De leeuwrik heeft het graan tot voeder,</l>
+<l>Dat uit de halmen valt in 't zand,</l>
+<l>De kwikstaart volgt den ploeg door 't land</l>
+<l>En kindren kleven aan hun' moeder.</l>
+<l>&nbsp;</l>
+<l>En om die gaven al te zaam</l>
+<l>Te erlangen van uw' vaderzorgen,</l>
+<l>Bij middag, avond en bij morgen,</l>
+<l>Noemt ieder eens uw' heilgen naam!</l>
+<l>&nbsp;</l>
+<l>O God! ik mag dien naam ook noemen,</l>
+<l>Die 't Englendom met schrik vervult;</l>
+<l>Een kinderstem wordt meêgeduld</l>
+<l>In chooren die uw' grootheid roemen!</l>
+<l>&nbsp;</l>
+<l>Men zegt dat het hem dikwijls lust</l>
+<l>Aan ons gebed gehoor te geven,</l>
+<l>Ter oorzaak van ons schuldloos leven,</l>
+<l>Waarvan wij zelf niet zijn bewust!</l>
+<l>&nbsp;</l>
+<l>Men zegt dat Hij ons liefdeblijken</l>
+<l>Veeleer ontvangt dan ijdlen schijn,</l>
+<l>Dat de Englen in den Hemel zijn,</l>
+<l>En dat we aan Engelen gelijken.</l>
+<l>&nbsp;</l>
+<l>Zoo 't waar is dat Hij, van zoo wijd,</l>
+<l>De stemmen hoort die hem behagen,</l>
+<l>Dan wil ik onophoudlijk vragen</l>
+<l>Al wat de schepslen 't meest behaagt:</l>
+<l>&nbsp;</l>
+<l>Mijn God! geeft water aan de stroomen</l>
+<l>En zachte pluimpjes aan de mos</l>
+<l>En aan het lam een' wollen dosch,</l>
+<l>En groente en lommer aan de boomen;</l>
+<l>&nbsp;</l>
+<l>Verleen den kranken heul in nood,</l>
+<l>En vrijheid den geboeiden slave;</l>
+<pb n="68"/>
+<l>Verleen der weeze een huis en have,</l>
+<l>Den bedelaar een stukje brood!</l>
+<l>&nbsp;</l>
+<l>Aan Vaders, die uw' naam belijden,</l>
+<l>Verleen een talrijk kroost vol deugd;</l>
+<l>Verleen mij wijsheid, en een jeugd</l>
+<l>Die mijne moeder moog' verblijden!</l>
+<l>&nbsp;</l>
+<l>Al ben ik klein, geef mij een zacht</l>
+<l>Gemoed, gelijk dat heilig kindje,</l>
+<l>Dat aan mijn' bedsponde, uit het printje,</l>
+<l>Zoo zoet des morgends op mij lacht!</l>
+<l>&nbsp;</l>
+<l>Leg op mijn lippen reine waarheid,</l>
+<l>En in mijn harte een bron van recht;</l>
+<l>Dat steeds mijn geest, aan u gehecht,</l>
+<l>Uw woord verneem in volle klaarheid!</l>
+<l>&nbsp;</l>
+<l>En dat mijn stem ten Hemel renn'</l>
+<l>Als wierook, die, in tempelwanden,</l>
+<l>U toegezwaaid wordt, door de handen</l>
+<l>Van kleine kinders, als ik ben....</l>
+</lg>
+<p>(<hi rend="i">Naar de Lamartine.</hi>)</p>
+<p><hi rend="i">K. Ledeganck</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">11. Drie kinders in het woud.</head>
+<lg type="poem">
+<l>Daar bleven eens drie kinders staan,</l>
+<l>In plaats van naar de school te gaan;</l>
+<l>Zij peinsden dit, zij peinsden dat,</l>
+<l>En stonden zoo op 't eenzaam pad.</l>
+<l>&nbsp;</l>
+<l>Toen spraken zij met licht gemoed:</l>
+<l>‘Mijn God, waarvoor zijn scholen goed!</l>
+<l>Het leeren is vervelend naar,</l>
+<l>En boeken zijn, als lood, zoo zwaar.</l>
+<l>&nbsp;</l>
+<pb n="69"/>
+<l>De dieren zijn in 't bosch zoo vrij,</l>
+<l>Ja, veel gelukkiger dan wij.</l>
+<l>Zij spelen, zonder zorg of maat,</l>
+<l>Van 's morgends vroeg tot 's avonds laat.’</l>
+<l>&nbsp;</l>
+<l>Zoo sprekend drongen ze in het woud;</l>
+<l>Daar vloog een bietje door het hout.</l>
+<l>Toen bleven ze alle drie daar staan,</l>
+<l>En ieder sprak het bietjen aan:</l>
+<l>&nbsp;</l>
+<l>- ‘Kom bietje-lief, het weêr is hel;</l>
+<l>Wij zoeken hier een lustig spel;</l>
+<l>Het spelen maakt het hart zoo blij,</l>
+<l>Kom, bietje-lief, en speel met mij.’</l>
+<l>&nbsp;</l>
+<l>- ‘O, kinders-lief, wat denkt gij wel,’</l>
+<l>Zei 't bietjen, ‘ik en ken geen spel.</l>
+<l>Ik moet honig zoeken, wijd en zijd,</l>
+<l>Mijn voorraad voor den wintertijd.’</l>
+<l>&nbsp;</l>
+<l>Zij drongen verder in het woud,</l>
+<l>Daar schoot een sijske door het hout.</l>
+<l>Toen bleven ze alle drie daar staan,</l>
+<l>En ieder sprak het sijsken aan:</l>
+<l>&nbsp;</l>
+<l>- ‘Kom, sijske-lief, het weêr is hel;</l>
+<l>Wij zoeken hier een lustig spel;</l>
+<l>Het spelen maakt het hart zoo blij,</l>
+<l>Kom, sijske-lief, en speel met mij.’</l>
+<l>&nbsp;</l>
+<l>- ‘O, kinders-lief, wat denkt ge wel?’</l>
+<l>Zei 't sijsken, ‘ik en ken geen spel.</l>
+<l>Wie heeft zijn plicht op aarde niet?</l>
+<l>Ik bouw mijn nest, zoo als ge ziet.’</l>
+<l>&nbsp;</l>
+<l>Zij drongen verder in het woud,</l>
+<l>Daar kroop een miertje door het hout.</l>
+<pb n="70"/>
+<l>Toen bleven ze alle drie daar staan,</l>
+<l>En ieder sprak het miertjen aan:</l>
+<l>&nbsp;</l>
+<l>- ‘Kom, miertje-lief, het weêr is hel;</l>
+<l>Wij zoeken hier een lustig spel;</l>
+<l>Het spelen maakt het hart zoo blij,</l>
+<l>Kom, miertje-lief, en speel met mij.’</l>
+<l>&nbsp;</l>
+<l>- ‘O, kinders-lief, wat denkt ge wel?’</l>
+<l>Zei 't miertjen, ‘ik en ken geen spel.</l>
+<l>Gij ziet hoe 'k werk hier naast mijn hol;</l>
+<l>Ik breng mijn leed'ge kelders vol.’</l>
+<l>&nbsp;</l>
+<l>Zij drongen verder in het woud;</l>
+<l>Daar vloot een beekje door het hout.</l>
+<l>Toen bleven ze alle drie weêr staan,</l>
+<l>En ieder sprak het beekjen aan:</l>
+<l>&nbsp;</l>
+<l>- ‘Kom, beekje-lief, het weêr is hel;</l>
+<l>Wij zoeken hier een lustig spel;</l>
+<l>Het spelen maakt het hart zoo blij;</l>
+<l>Kom, beekje-lief, en speel met mij.’</l>
+<l>&nbsp;</l>
+<l>- ‘O, kinders-lief, wat denkt ge wel?’</l>
+<l>Zei 't beekjen, ‘ik en ken geen spel.</l>
+<l>'k Moet vlieten, kinders, anders, ziet,</l>
+<l>En draaide ginds de molen niet.’</l>
+<l>&nbsp;</l>
+<l>Toen zagen eerst, in hunnen zin,</l>
+<l>De kinders deze waarheid in:</l>
+<l>Dat alles wat op aarde leeft,</l>
+<l>Zijn' plichten te vervullen heeft.</l>
+<l>&nbsp;</l>
+<l>Zij namen deze les ook aan,</l>
+<l>En spoedden zich naar school te gaan;</l>
+<l>En ieder van hen schreef en las</l>
+<l>Toen 't najaar aangekomen was.</l>
+</lg>
+<p><hi rend="i">A. Van Hasselt</hi>.</p>
+</div>
+<div type="section">
+<pb n="71"/>
+<head rend="h4">12. Kinderspelen.</head>
+<head>I.</head>
+<lg type="poem">
+<l rend="; 1tab">Het spel is het voorrecht der jeugd:</l>
+<l rend="; 2tab">Na werk hoeft er vreugd!</l>
+<l rend="; 1tab">De tijd is zoo rechtig verdeeld,</l>
+<l>Eens moedig gewerkt en eens lustig gespeeld.</l>
+<l>Ja, scheppen we in 't schoon van onz' jaren genoegen,</l>
+<l rend="; 1tab">Voor later dan kommer en zwoegen;</l>
+<l>Dewijl ons de zorgen des mannes verwachten,</l>
+<l>Zoo willen we lustig onz' plichten betrachten!</l>
+</lg>
+<div type="section">
+<head>II.</head>
+<lg type="poem">
+<l rend="; 5tab">Daar rollen</l>
+<l rend="; 4tab">De marmeren bollen</l>
+<l rend="; 4tab">Op 't effene plein;</l>
+<l rend="; 3tab">Die 't juiste kan knippen,</l>
+<l rend="; 3tab">En 't verste kan wippen,</l>
+<l rend="; 4tab">Zal winnaar zijn!...</l>
+<l rend="; 5tab">Daar rollen</l>
+<l rend="; 4tab">De marmeren bollen,</l>
+<l rend="; 4tab">Tot al de speelgenoten</l>
+<l rend="; 4tab">Zijn doodgeschoten;</l>
+<l rend="; 3tab">En 't recht van 't spel is zoo,</l>
+<l rend="; 3tab">Dan zet men weêr in d'O!</l>
+</lg>
+</div>
+<div type="section">
+<head>III.</head>
+<lg type="poem">
+<l rend="; 4tab">Ziet dit topje,</l>
+<l rend="; 4tab">Op zijn knopje,</l>
+<l rend="; 4tab">Daar eens zwaaien</l>
+<l rend="; 4tab">En eens draaien!</l>
+<pb n="72"/>
+<l rend="; 1tab">Hoe 't kan pronken</l>
+<l rend="; 1tab">En kan ronken!</l>
+<l rend="; 1tab">Ziel dit topje</l>
+<l rend="; 1tab">Op zijn knopje,</l>
+<l rend="; 1tab">In mijn hand</l>
+<l rend="; 1tab">Houden stand,</l>
+<l>Tot het eindlijk uitgevierd!</l>
+<l>Weder in de koorde zwiert!</l>
+</lg>
+</div>
+<div type="section">
+<head>IV.</head>
+<lg type="poem">
+<l rend="; 1tab">Strekt nu de leden!</l>
+<l rend="; 1tab">Eens duchtig gestreden!</l>
+<l rend="; 1tab">In dichte kringen</l>
+<l rend="; 1tab">Willen we springen;</l>
+<l>Tot al de vijanden gevangen zijn!</l>
+<l rend="; 1tab">Strekt nu de leden!</l>
+<l rend="; 1tab">Eens duchtig gestreden,</l>
+<l rend="; 1tab">Elk op zijn post,</l>
+<l rend="; 1tab">Geen vijand gelost!</l>
+<l rend="; 1tab">Ja, vlug, zonder dralen,</l>
+<l>Wij zullen de zege behalen!</l>
+</lg>
+<p><hi rend="i">E. Van Driessche</hi></p>
+<p>&nbsp;</p>
+<p>FIN.</p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

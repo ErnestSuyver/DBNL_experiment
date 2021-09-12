@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een Schoolmeester naar de IJszee. Vertelling van een oud-Zeeman</title>
+               <author>Jan Zwanenburg</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een Schoolmeester naar de IJszee. Vertelling van een oud-Zeeman</hi> van Jan Zwanenburg uit ca. [1850]. Er is gebruik gemaakt van een door Stichting Vrijwilligersnetwerk Nederlandse Taal o.l.v. Nicoline van der Sijs en Hans Beelen aangeleverd bestand.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>
+                           p. 17: opgeschen → Opgeheschen: ‘De tweede beer werd aan den nok der groote ra van ons schip opgeheschen’.
+                       </corr>
+                           <corr> 
+                                p. 24: zelzaam → zeldzaam ‘zelfs gewone lampolie werd zeldzaam gebezigd’
+                       </corr>
+                       <corr>
+                           p. 3: de kop is tussen vierkante haken toegevoegd.
+                       </corr>
+                       <corr> Bij het allereerste aanhalingsteken openen op p. 3 ontbreekt het aanhalingsteken sluiten, deze is aangevuld na het laatste woord ‘vertrokken’ op p. 31</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">zwan012scho01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2020 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Erfgoedbibliotheek Hendrik Conscience Antwerpen, signatuur: 760419</idno>
+               </bibl>
+               <p>Jan Zwanenburg, <hi rend="i">Een Schoolmeester naar de IJszee. Vertelling van een oud-Zeeman</hi> C. de Boer Jr., Den Helder ca. [1850]</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een Schoolmeester naar de IJszee. Vertelling van een oud-Zeeman</title>
+               <author>Jan Zwanenburg</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een Schoolmeester naar de IJszee. Vertelling van een oud-Zeeman</title>
+               <author>Jan Zwanenburg</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2020-06-11</date>
+               <respStmt>
+                   <name type="person">VB</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+<pb n="voorplat" ed=""/>
+<figure> <p><xptr to="zwan012scho01voorkant.gif"/></p></figure>
+<pb rend="blank" n="binnenkant voorplat" ed=""/>  
+<pb n="1"/>
+<p>EEN SCHOOLMEESTER NAAR DE IJSZEE.</p>
+<p>Vertelling van een oud zeeman</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">door</hi></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>KAPITEIN WILLIAM.</p>
+<p>&nbsp;</p>
+<p>H<hi rend="sc">elder.</hi></p>
+<p>C. DE BOER J<hi rend="sc">r</hi>.</p>    
+<pb rend="blank" n="2"/>
+</div></cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">[Een Schoolmeester naar de IJszee. 
+<lb/> Vertelling van een oud-Zeeman]</head>
+<p>Tot de gezelligste bewoners van ons dorp mocht ook Janbaas gerekend worden, die in zijne jongelingsjaren een paar tochten met een zoogenaamden walvischvaarder had gemaakt.</p>
+<p>Als hij van die reizen vertelde, luisterden wij altijd gaarne toe, te meer omdat wij overtuigd waren, dat hij nooit iets zou mededeelen wat in stijd met de waarheid was.</p>
+<p>In de hoop dat ook gij, waarde lezers en lezeressen, met de eenvoudige vertelling van Janbaas gaarne kennis zult willen maken, geef ik hem zelven 't woord.</p>
+<p>‘Zooals 't wel eens meer gaat als de ouders voor den zoon een werkkring zoeken tegen zijn zin, is 't ook mij gegaan.</p>
+<p>Vooral mijn vader stond er op: ik moest en ik zou schoolmeester worden.</p>
+<p>Die betrekking was in mijn jeugd lang zoo niet in eere als in onzen tijd.</p>
+<p>Ik werd dan op een der stadsscholen geplaatst als kweekeling, studeerde op aanhoudend verlangen van mijnen vader zoo ijverig ik kon, deed examen en behaalde diploma als onderwijzer vierde rang.</p> <pb n="4"/>
+<p>Met een salaris van honderd gulden per jaar kon ik nu dag in dag uit mij uitslooven om de lieve jeugd 't a, b, in te pompen. Veel ambitie had ik voor 't baantje niet.</p>
+<p>Maar altijd trok de zee mij aan en ik kon die bekoring geen weerstand bieden.</p>
+<p>Ik wil u niet vervelen met de opsomming van alles wat mijn vader in 't midden bracht om mij tot andere gedachten te brengen.</p>
+<p>'t Baatte den goeden man niets en ten slotte wist ik 't zoover te krijgen, dat ik voor mijne betrekking bedankte en niet langer zou schoolmeesteren, doch eene reis naar de IJszee zou medemaken.</p>
+<p>'t Was omstreeks in het midden van Maart, van het jaar 1848, dat ik mij als lichtmatroos verhuurde op de bark ‘Spitsbergen.’</p>
+<p>Nadat al de vaten tot berging der lading traan, die wij uit het spek van robben en walvisschen hoopten te verkrijgen, aan boord waren, en 't schip overigens voor de reis geheel was uit- en toegerust, verlieten wij de haven van Harlingen en ankerden, wegens min gunstige gelegenheid, op de Vliereede.</p>
+<p>Spoedig daarna geraakten wij in zee.</p>
+<p>Het schip was aan weerszijden voorzien van drie sloepen, benevens nog eene heksloep, die allen aan stevige houten davits gesjord waren.</p>
+<p>De bemanning, uit 52 koppen bestaande en meerendeels onbevaren volk, werd verdeeld in de wacht, en zoo ving onze reis onder gunstige omstandigheden aan.</p>
+<p>Het tusschendek was over de geheele lengte, zoowel aan stuurboord als bakboord verdeeld, in onder- en </p>
+
+<pb n="5"/>
+    <figure> <p><xptr to="zwan012scho01ill0005.gif"/></p> <figDesc>Eene reis naar de IJszee zou medemaken. - <hi rend="i">Bldz. 4.</hi></figDesc></figure>
+
+<pb n="6"/>
+<p>bovenkooien, die ons tot slaapplaats moesten dienen. Vlak voor die kooien waren onze kleerkisten vastgesjord.</p>
+<p>In de midscheeps stonden groote, lange kisten vastgesjord, met allerlei gereedschap er in voor de walvischvangst en robbenjacht.</p>
+<p>'s Morgens te 4 ure werd de wacht uitgepord door het zingen van een oud zeemanslied, en maakten de kok en diens maat aanstalten om gort te koken, die te 8 ure kon worden genuttigd.</p>
+<p>Eene gemetselde kookplaats was het heiligdom van den kok. Die stookplaats bevond zich ook al tusschendeks.</p>
+<p>Men moest wel tot de vriendjes van den kok behooren, om eens voor eenige oogenblikken in zijne verblijfplaats te mogen schuilen. Trouwens kon de man in de ruimte, die zeer beperkt was, maar moeilijk de handen roeren, als er volk in de kombuis zat.</p>
+    <p>Nadat het gortschaften was afgeloopen, ving, op 't slaan van acht glazen aan de scheepsklok, eene andere wacht aan.</p>
+<p>Het bevel over ons schip werd gevoerd door een Duitscher, die commandeur werd genoemd. Drie stuurlieden waren hem behulpzaam bij het besturen van de ‘Spitsbergen.’</p>
+<p>Ook bevond zich een scheepsdokter aan boord.</p>
+<p>Voorts was er voor elke sloep een officier. Nog bevonden zich onder de bemanning een eerste- en een tweede-timmerman.</p>
+<p>De overige manschappen waren belast met het verrichten van alle scheepswerk.</p>
+<p>Spoedig bereikten wij de IJszee.</p> <pb n="7"/>
+<p>Reeds op 67 à 68 graden Noorderbreedte zagen wij hier en daar ijs.</p>
+<p>Het spoedig of later ontmoeten van ijs hangt veel af van de windrichting, die in de wintermaanden in die streken 't meest heeft gewaaid.</p>
+<p>De koude, die eerst nogal dragelijk was, vermeerderde met den dag, terwijl de dagen al langer en langer werden, naarmate wij verder in het Noorden voortzeilden.</p>
+<p>Onze voeding aan boord mocht uitstekend heeten, ofschoon het menu weinig afwisseling bood.</p>
+<p>Ieder onzer ontving per week 1 pond boter, terwijl men zooveel scheepsbeschuit of hard brood kon gebruiken, als men zelf verkoos.</p>
+<p>'s Maandags bestond ons middagmaal uit erwtensoep, waarin voor elk een half pond spek werd gekookt.</p>
+<p>Op Dinsdag: grauwe erwten met een pond vleesch voor ieder.</p>
+<p>Woensdag: witte boonen-soep met een half pond spek per man.</p>
+<p>'s Donderdags: zakkoek met 1 pond vleesch.</p>
+<p>Op Vrijdag: aardappelen met zuurkool en een pond spek.</p>
+<p>Des Zaterdags: dezelfde kost als 's Maandags en 's Zondags als Donderdags.</p>
+<p>Van al deze gerechten vond de zakkoek den meesten aftrek, maar van de overige spijzen kwam ook 's avonds gewoonlijk nog eene flinke hoeveelheid op den bak, zooals wij aan boord onze tafels noemden.</p>
+<p>Eindelijk waren wij gevorderd tot op 72 graden Noorderbreedte en hadden het eiland Jan Mayen in 't gezicht, welks hooge bergen en klippen zich op een afstand van twintig à dertig zeemijlen nog lieten zien. </p> <pb n="8"/>
+<p>Dit eiland is niet door menschen bewoond, doch wemelt letterlijk van ijsberen en is bevolkt door duizenden zeevogels.</p>
+<p>Door al de blinde klippen, die het eiland omringen, is het steeds een groot waagstuk om er aan wal te gaan. Sommigen, alleen op voordeel bedacht, beproeven wel eens eene landing, die dan ook meermalen met gelukkig gevolg volbracht wordt.</p>
+<p>Niet alleen de klippen om het eiland leveren groote gevaren op, maar de snelle weersverandering in die streken, zoowel plotselinge stormen als dikke mist, kunnen mede zeer gevaarlijk zijn bij eene landing.</p>
+<p>Ons schip kwam al meer en meer in het ijs, dat niet heel zwaar was en door de IJszee-vaarders potjes en pannetjesijs genaamd wordt.</p>
+<p>Wij pasten er echter wel op, om niet al te ver in dat ijs door te dringen.</p>
+<p>Dewijl de koude zeer was toegenomen, werd bevolen alle zeilen, tot op de onderzeilen na, te bergen.</p>
+<p>'t Was trouwens nu niet meer noodig om veel zeil te voeren, uit hoofde dat men toch niet weet of men oost- of westwaarts moet zeilen tot het opsporen van robben (zeehonden) of walvisschen.</p>
+<p>Door bijkomende omstandigheden van wind of storm, geraakt men niet zelden min of meer in bezetting van zwaar ijs, dat somwijlen ernstige gevolgen heeft.</p>
+<p>Daardoor kan een schip geheel verloren gaan, of zoodanig invriezen, dat alle uitzicht om weer los te komen voor geruimen tijd kan opgegeven worden.</p>
+<p>Bovendien is zulk eene insluiting vreeselijk vervelend, omdat men dan niets kan uitrichten.</p>
+
+<pb n="9"/>
+    <figure> <p><xptr to="zwan012scho01ill0009.gif"/></p>	<figDesc>Ons Schip kwam meer en meer in het ijs. - <hi rend="i">Bldz. 8.</hi> </figDesc></figure>
+
+<pb n="10"/>
+<p>Onafzienbare ijsvelden van vademen en voeten dikte, benevens kleine en groote schollen, bedekten de wateren van de Noordelijke IJszee.</p>
+<p>Nu en dan wordt men bergen en heuvels gewaar van de grilligste vormen.</p>
+<p>Men spant zich echter altijd in, om niet te dicht in de nabijheid van zulk zwaar ijs te komen.</p>
+<p>De robben, waarop daar vooral jacht wordt gemaakt, liggen dikwerf in ontelbare menigte op de laagste ijsvelden.</p>
+<p>Zoodra men dit van het schip gewaar wordt, geeft de commandeur last, de sloepen te strijken.</p>
+<p>Iedere sloepofficier zorgt er voor, dat de vaste bemanning zijner boot zich inscheept, waarop koers gezet wordt naar de zeehonden.</p>
+<p>De noodige manschappen tot het besturen van het schip blijven aan boord.</p>
+<p>Elke sloep is voorzien van een kompas, een grooten zak met droge kleederen, een zak brood en eene kruik met sterken drank.</p>
+<p>De scholen robben neemt men meestentijds waar als het zonnetje schijnt, omdat zich de beesten dan welbehagelijk op het ijs uitstrekken. In den regel zijn het jonge robben, die zich zoo koesteren.</p>
+<p>Zelden zijn zulke dieren meer dan zes of acht weken oud.</p>
+<p>Een stoot of slag voor den neus der dieren is voldoende om hen bewusteloos te maken of te dooden.</p>
+<p>Zoo snel mogelijk worden ze dan opgeraapt en op en door elkaar in de sloep geworpen. Denkt de officier dat er genoeg lading in de boot is, dam wordt de terugreis naar het schip aanvaard. </p> <pb n="11"/>
+<p>Moet echter naar robben gezocht worden, dan kunnen de sloepen uren ver van 't schip verwijderd, tusschen het drijfijs rondzwalken, om troepjes van vier, vijf robben te bemachtigen.</p>
+<p>Meestentijds is de zeespiegel er zeer vlak en effen, zoodat men naar gelang der gelegenheid, roeiende of zeilende door het ijs werkt. Vaak worden de gedoode robben op een ijsveld in de nabijheid van het schip uitgelost, om afgeboft te worden.</p>
+<p>Dat afboffen bestaat daarin, dat de daartoe aangewezen personen den buik van een rob openen en wel zoodanig, dat de huid, met het daaraan verbonden spek, in eenige rukken van den romp kan worden getrokken. Spek en huid worden daarna weer in de sloep geworpen, terwijl de romp blijft liggen tot prooi van andere dieren, die zich in deze streken ophouden.</p>
+<p>Is men nu zoo gelukkig de sloep, na herhaaldelijk geboft te hebben, vol spek en huiden te krijgen, dan vangt in vroolijke stemming de reis naar boord aan.</p>
+<p>'t Is gemakkelijk te begrijpen, dat dan ook de kruik nogal eens veelvuldig rondgaat.</p>
+<p>Het medenemen van sterken drank geschiedt vooral daarom, dewijl men geen ander vocht tot lessching van den dorst kan medenemen, daar 't spoedig zou bevriezen.</p>
+<p>Dat men overigens bij den arbeid goed in de warmte kan blijven, verhindert niet dat handen, voeten en ooren veel van de koude hebben te lijden.</p>
+<p>Zoodra de sloep weer bij het schip komt, gaat men tot lossen over, en worden al de afgebofte, vellen door 't boven- en tusschendeksluik voorshands in 't ruim geborgen. Begint daar de ruimte te kort te schieten, dan <pb n="12"/> worden planken in 't tusschendek op zoodanige wijze geplaatst, dat de officieren, die met lange messen gewapend zijn, gemakkelijk de vellen van 't spek kunnen ontdoen, dat in lange reepen gesneden wordt.</p>
+<p>Daartoe zijn de vellen in schuine richting aan de opgestelde planken bevestigd.</p>
+<p>Het spek, reeds eenigszins vloeibaar en tranig, wordt in groote kuipen (balies) opgevangen en zoo weer naar 't ruim gebracht.</p>
+<p>Dan opent men de groote vaten, die daar vol zout water liggen. Het water laat men wegvloeien en pompt het vervolgens uit het schip.</p>
+<p>Daarna doet men spek en traan in die vaten en sluit deze, zoodra zij geheel gevuld zijn.</p>
+<p>Een en ander is een recht smerig werkje, waarbij de onaangename traanlucht het geheele schip doordringt.</p>
+<p>Als dan de bottelier een keer meer rondgaat dan gewoonlijk, wordt over dat alles door de bemanning niet geklaagd.</p>
+<p>Ook verricht zij gaarne het vuile werk, omdat ieder der opvarenden er belang bij heeft veel te vangen, dewijl elk zeker aandeel in de winst verkrijgt.</p>
+<p>Oude robben, die ook somwijlen bij troepen op het ijs liggen, om zich in den zonneschijn te koesteren, worden hoogst zelden buitgemaakt.</p>
+<p>'t Is ook niet zonder gevaar hen te bemachtigen.</p>
+<p>Meestal liggen de oude robben langs den rand van groote ijsvelden.</p>
+<p>Hier en daar zijn wachters geplaatst door de zeehonden. Bij den minsten onraad maken die wachters gerucht en wekken daardoor de slapenden, die zich in een <pb n="13"/> oogwenk van het ijs in zee laten vallen en terstond uit het gezicht verdwijnen.</p>
+<p>Komen zij daar in open water al eens te voorschijn, dan is 't toch nagenoeg onmogelijk er een te verschalken.</p>
+<p>Bij ons aan boord werd in den regel 's Zondags geen jacht op zeehonden gemaakt.</p>
+<p>'s Voormiddags had dan godsdienstoefening plaats, die te 11 ure afliep.</p>
+<p>Eigenaardig mag 't heeten, dat terstond na afloop dier godsdienstoefening de bottelier rondging, om elk der manschappen op een oorlam te onthalen. De godsdienstoefening zelf bestond in het voorlezen van stichtelijke leerredenen en een gebed, door den commandeur.</p>
+<p>Toen het Mei geworden was, hadden wij al heel wat robben gedood.</p>
+<p>Wij bevonden ons op ongeveer 76 graden Noorderbreedte, en zagen de zon dag en nacht boven de kimmen. Derhalve hadden wij voortdurend daglicht.</p>
+<p>Voor mij, die voor de eerste maal deze streken bezocht, was het eene zonderlinge verschijning de duisternis in het geheel niet te zien vallen.</p>
+<p>Het weer was echter zeer afwisselend. Soms had men in één etmaal mooi weer, hevige koude, zware mist of vreeselijke regenbuien.</p>
+<p>Ook woei het meermalen zeer hard, terwijl groote hoeveelheden sneeuw neervielen.</p>
+<p>Tot bedekking en verwarming van 't tusschendek, werd de sneeuw op het scheepsdek in het geheel niet opgeruimd.</p>
+<p>Werd de oppervlakte van die sneeuw soms te glad, <pb n="14"/> dan werd er zaagsel gestrooid. Zoo ontstond er een min of meer heuvelachtig terrein op het dek.</p>
+<p>Waren er geen robben in 't gezicht of was de gelegenheid om uit jagen te gaan niet gunstig, dan vermaakten wij ons met allerlei spelen op het dek, hoofdzakelijk met het doel warm te blijven.</p>
+<p>Nu en dan lag het schip aan zware ijsklompen vastgemeerd, en wanneer dat het geval was, sprongen en dansten wij ook weleens op het ijs rond. Wie de wacht te kooi had, deed daaraan niet mee, want ieder wilde gaarne op zijne beurt van die wacht genieten.</p>
+<p>Boven in de bramzaling, aan 't eind van den grooten mast, was een kolossaal vat bevestigd, waarin de manschappen uur op uur op uitkijk zaten.</p>
+<p>Van dit verheven punt moest scherp worden uitgekeken of er ook robben op het ijs te ontdekken waren, of dat er eenig spoor van walvisschen kon worden waargenomen.</p>
+<p>Die ton, van een groot uitkijkgat voorzien en van een schermpje, dat naar de windzijde kon opgesteld worden, werd het kraaiennest geheeten.</p>
+<p>Eens klonk vanuit dat kraaiennest het geroep, dat er drie ijsberen in 't gezicht waren.</p>
+<p>Aanstonds werd ‘val’ gecommandeerd, hetwelk beteekende, dat de sloepen gestreken moesten worden.</p>
+<p>Spoedig was dit bevel ten uitvoer gebracht en roeiden wij voort in de richting, waar de beren op een groot ijsveld gezien waren.</p>
+<p>Wij hadden op dat oogenblik ongeveer twintig schepen van verschillende natiën in onze nabijheid.</p>
+<p>Ook van eenige andere schepen scheen men de ijs-<pb n="15"/>beren ontdekt te hebben, want tal van sloepen roeiden weldra van verschillende richtingen op het ijsveld toe. Dewijl wij iets op de vreemde sloepen voor waren, spanden wij alle krachten in, om het eerst het ijsveld te bereiken.</p>
+<p>Ons doel was om te trachten, een der beren levend te vangen.</p>
+<p>Aan boord van de ‘Spitsbergen’ was daartoe een ijzeren hok medegenomen, dat nu wellicht dienst zou kunnen doen.</p>
+<p>Ik moet ronduit erkennen, dat ik mij bij dat jachtavontuur volstrekt niet op mijn gemak bevond en heimelijk wenschte, dat maar een der vreemde sloepen ons voor mocht zijn.</p>
+<p>Rondom het ijsveld dreef veel klein ijs, dat een groot beletsel was om snel de schots te naderen, waarop de ijsberen zich bevonden.</p>
+<p>Onze officier verzekerde, dat het een oude berin met twee jongen was.</p>
+<p>Uit een der vreemde sloepen werd een schot gelost en dit was een sein om van alle kanten aan te vallen.</p>
+<p>Evenwel leverde het schieten op de beren, die zich midden op het ijsveld bevonden, ook voor de bemanningen der sloepen gevaar op, doordien de schoten uit alle richtingen werden gelost.</p>
+<p>Een der jongen werd door een kogel getroffen en nu was 't een treffend gezicht, hoe de oude beer met de vier pooten over haar jong ging staan als om het te beschermen en een ontzettend gebrul deed hooren.</p>
+<p>Ik beken eerlijk, dat mij op dat oogenblik het hart in de schoenen zonk.</p>
+
+<pb n="16"/>
+    <figure> <p><xptr to="zwan012scho01ill0016.gif"/></p>	<figDesc>Schepen van verschillende natiën in onze nabijheid. - <hi rend="i">Bldz. 14.</hi></figDesc></figure>
+
+<pb n="17"/>
+<p>Alles was zoo ongewoon voor mij en daarbij kon onze toestand niet zonder gevaar worden geacht.</p>
+<p>Meer en meer drongen wij voorwaarts naar de oude beer toe.</p>
+<p>Woedend brulde het groote dier, toen onze officier het in een zijner pooten trof. Zij lekte daarna de wonde en nam toen ijlings de vlucht.</p>
+<p>Ik herademde, toen ik zag, dat de berin naar de andere zijde van het ijsveld vluchtte.</p>
+<p>Een welgemikt schot van onzen officier stelde den gewonden jongen beer geheel buiten gevecht. Ook het andere jong werd door een kogel getroffen en stortte niet ver van den eerst gedooden beer neer.</p>
+<p>Ofschoon de dieren nog niet geheel dood waren, maakten wij er ons meester van en sleurden ze naar onze sloep.</p>
+<p>Alvorens de beren in te laden werden zij voor goed afgemaakt.</p>
+<p>Onder een luid hoera verlieten wij het ijsveld en roeiden met krachtige slagen naar ons schip terug.</p>
+<p>Omdat onze officier slechts een der beren had gedood en wij niet wisten door wien de andere getroffen was, volgde men een oud gebruik, dat bij alle walvischvaarders in zwang scheen te zijn.</p>
+<p>De tweede beer werd aan den nok der groote ra van ons schip opgeheschen, ten bewijze, dat wij geen eigendomsrecht op hem meenden te hebben, en als uitnoodiging voor den rechthebbende om het dier te komen halen.</p>
+<p>'t Duurde dan ook niet lang, of een bemande sloep van een Engelschman kwam langs zijde van ons schip om den beer op te eischen. </p> <pb n="18"/>
+<p>Het volk kwam over, werd op een en ander onthaald en na eenig gekout vertrokken de Engelschen weer naar hun schip met den beer, als hun eigendom, in de sloep.</p>
+<p>Niet zoozeer om het spek of vleesch worden de ijsberen gevild, maar om de huid, die gedroogd wordt, als een zeldzaamheid te kunnen medenemen.</p>
+<p>De huiden der robben worden, na ontdaan te zijn van 't spek, gezouten, in pakjes gevouwen en daarna in massa weer gezouten tegen 't bederf.</p>
+<p>Later, aan wal, worden ze dan opnieuw verwerkt en tot velerlei doeleinden gebezigd.</p>
+<p>De kleur der huiden is meestal donkergrijs, doch somwijlen treft men ook witte en zelfs donker gespikkelde robben aan.</p>
+<p>Zijn zulke robben buitgemaakt, dan worden de huiden om de zeldzaamheid aan boord getouwd, gelooid en van alle vetdeelen ontdaan, waarna ze gebezigd kunnen worden tot het vervaardigen van sierlijke vloermatjes.</p>
+<p>Is 't weer zeer kalm en zijn er schepen in de nabijheid, hetzij Engelsche, Duitsche, Noorsche, Zweedsche, Deensche, enz., dan bezoekt dikwijls de commandeur van het eene schip dien van het andere.</p>
+<p>Hij, die dan 't eerst meent de terugreis te kunnen aanvaarden, belast zich met het medenemen van brieven van anderen naar het vaderland.</p>
+<p>Zulke bezoeken waren ook voor de sloeperlieden, die hunne commandeur roeiden, een buitenkansje, aangezien zij dan op het vreemde schip werden onthaald op het beste, wat daar aan boord was.</p>
+<p>Een Deensch jacht maakte jaarlijks eene reis naar de IJszee, uitsluitend geladen met sterke dranken, zooals <pb n="19"/> kummel, cognac, rum, enz., welke zaken tegen billijke prijzen verkrijgbaar waren.</p>
+<p>De orde aan boord der walvischvaarders was over het geheel zoo goed, dat dronkenschap onder de manschappen niet voorkwam. Het zoogenaamde drankschip maakte in den regel voordeeliger reis dan de meeste der walvischvaarders.</p>
+<p>Wanneer er geen robben in het gezicht waren en er naar gezocht moest worden, was de vangst doorgaans schraal.</p>
+<p>Overigens wemelt de zee in die streken op sommige punten van allerlei reusachtige dieren, zooals walvisschen, noordkapers, walrussen, enz. enz.</p>
+<p>De walvisch houdt zich 't meest op tusschen zwaar ijs, in de open watervlakken.</p>
+<p>Wordt er uit de ton in de bramzaling ‒ het kraaiennest ‒ een walvisch ontdekt, dan is de opschudding algemeen.</p>
+<p>De sloepen, die onder de doften voorzien zijn van lange kisten, waarin lijnen van ongeveer 1 duim middellijn en ter lengte van honderden vademen, worden daarop afgezonden.</p>
+<p>Niet zoodra komt men in de nabijheid van den visch, die doorgaans in een bocht gekromd aan de oppervlakte van het water sluimert, of de harpoenier werpt hem met kracht een harpoen in 't lichaam.</p>
+<p>De walvisch verdwijnt dan in de diepte, 't welk niet zelden een gevaarlijk oogenblik is voor sloep en bemanning.</p>
+<p>Men viert nu de lijn, die aan den harpoen bevestigd zit, zoo schielijk mogelijk en neemt eindelijk een rondslag om de pol, een recht opstaand rond hout voor in <pb n="20"/> de sloep, totdat de visch, èn door vermoeidheid èn uit behoefte om adem te halen, weer boven komt voor eenige oogenblikken.</p>
+<p>Zijn nu andere sloepen zoo gelukkig om in de nabijheid te zijn, dan wordt de walvisch weer door een harpoen getroffen, en andermaal duikt hij naar omlaag, om even later weer te voorschijn te komen.</p>
+<p>Dan ontvangt hij, zoo mogelijk, nog een harpoen in 't lichaam.</p>
+<p>Het gebeurt meermalen, dat drie à vier sloepen vastzitten aan denzelfden visch, die eindelijk, uitgeput door bloedverlies, enz., voor goed boven komt en dan verder wordt afgemaakt.</p>
+<p>Nu is de blijdschap groot en in triomf werkt men, met behulp van al de andere sloepen, steeds boegseerende, naar boord, langs zijde van het schip.</p>
+<p>Daar worden groote ijzeren enterhaken in het lichaam van den visch gedreven, en met behulp van zware jijnblokken en jijns, de visch eenigszins opgeheven, door middel van kaapstanden, die daartoe op het dek zijn geplaatst.</p>
+<p>Men stelle zich een walvisch voor van 60 tot 80 voet lengte en naar evenredigheid dik.</p>
+<p>Insnijdingen in de huid, met zeer lange messen, die zeer scherp geslepen zijn, verdeelen nu den romp in reepen, welke reepen spek, met vierloopers aan boord worden geheschen en in groote vaten gekuipt.</p>
+<p>Na de vulling worden de vaten terstond in het benedenruim geborgen.</p>
+<p>Gewoonlijk hebben zulke vaten eene inhoudsruimte van 1200 liter.</p>
+
+<pb n="21"/>
+    <figure> <p><xptr to="zwan012scho01ill0021.gif"/></p> 	<figDesc>Die vogels zijn eene zeer welkome verversching. - <hi rend="i">Bldz. 22.</hi> </figDesc> </figure>
+
+<pb n="22"/>
+<p>Naarmate nu de visch ontdaan wordt van het spek, zet men de jijns door en wordt de visch gekenterd, om hem zoodoende geheel te kunnen ontleden.</p>
+<p>De baleinen uit den bek vertegenwoordigen ook een aanzienlijke waarde.</p>
+<p>De gebogen kaakbeenderen, soms ter lengte van twintig of meer voeten, worden aan boord geheschen, schoongemaakt en rechtop geplaatst bij het fokken- of groote want, met de benedeneinden in een groote kuip, voor 't uitlekken van de traan die er in aanwezig is.</p>
+<p>Die kaakbeenderen worden meer om de zeldzaamheid medegenomen, dan wel om de waarde die zij vertegenwoordigen.</p>
+<p>'t Gebeurt evenwel, dat er aan het vangen van een walvisch grootere bezwaren zijn verbonden.</p>
+<p>Zoekt de aangeschoten visch den weg naar of onder 't zware ijs, dan is al de moeite van de sloepen, al de inspanning tevergeefsch, de hoop verdwenen.</p>
+<p>Men ziet zich dan genoodzaakt, door middel van een scherpen bijl, die steeds voorhanden ligt, al de lijnen te kappen, waarbij deze natuurlijk verloren gaan.</p>
+<p>Ook de visch kan dan in de meeste gevallen voor de schepelingen verloren geacht worden.</p>
+<p>Ontmoedigd en gedrukt zijn dan de wakkere lieden, die zoo bitter teleurgesteld werden. Is het dan nog maar mooi weer, dan zoekt men afleiding door eens op de jacht te gaan met de sloepen, ten einde vogels te schieten.</p>
+<p>Die vogels zijn eene zeer welkome verversching.</p>
+<p>Het aanhoudend gebruik toch van zooveel gezouten vleesch en spek wordt op 't laatst vervelend, en schijnt zelfs de gevreesde scheurbuik te bevorderen. </p> <pb n="23"/>
+<p>'t Gebeurde ook wel eens, dat wij tot verversching een stuk vleesch van den romp van een rob afsneden. Die versnapering werd dan eerst in water gezet, om er de traan te laten uittrekken.</p>
+<p>Daarna werd het vleesch gebraden en met uien opgedischt. Menigeen liet het zich dan goed smaken.</p>
+<p>Velen van de manschappen der ‘Spitsbergen’ gebruikten hart en lever der robben als een lekkernij en beweerden vaak, dat dit gerecht geen verschil maakte met dezelfde lichaamsdeelen van een varken.</p>
+<p>Een fraaie vogel, ter grootte van een eend, Groenlandsche papegaai genoemd, is nog al eens 't mikpunt der jagers.</p>
+<p>Ook worden gaarne duikers geschoten, die, wanneer ze gekookt zijn, een heerlijke soep opleveren en aan de manschappen een lekker middagmaal verschaffen.</p>
+<p>Een ander soort zwemvogels, door de schepelingen malmokken geheeten, zijn daar zeer tam en in menigte voorhanden.</p>
+<p>Men vangt die vogels, dewijl ze zeer gulzig zijn,'t gemakkelijkst door middel van een vischhoek met spek, bevestigd aan een lijntje, welke lijntjes met hoeken, in handen van de bemanning over boord hangen, als 't schip zacht voortzeilt en niet meer dan een mijl of twee drie loopt.</p>
+<p>Zoo slepende over 't water gaan de aasjes zacht mede en worden door de vogels nagezwommen en ingeslikt, als wanneer ze opgehaald en aan dek geworpen worden.</p>
+<p>Men denke hierbij aan een vogel, ter grootte van onze rotganzen.</p>
+<p>Zij kunnen moeielijk op de wieken komen. </p> <pb n="24"/>
+<p>Eens vingen wij zoo in een paar uren zes-en-vijftig van die ‘malmokken’.</p>
+<p>Schreeuwend liepen zij langs het dek rond en maakten een oorverdoovend geraas.</p>
+<p>De vogels waggelden van stuurboord naar bakboord, van het stuurrad naar het ankerspil, zonder van boord te kunnen komen.</p>
+<p>Telkens als er een wilde beproeven weg te vliegen, stuitte hij tegen de verschansing en viel terug op het dek, alvorens op de wieken te kunnen komen.</p>
+<p>Aan dit eigenaardig schouwspel werd evenwel spoedig een eind gemaakt, omdat de kok den grooten ketel reeds in de kombuis te vuur had.</p>
+<p>Dien dag en een paar dagen later deden wij ons bij herhaling aan het vleesch der gevangen vogels te goed.</p>
+<p>Van verwarming tusschendeks was geen sprake in dien tijd. Wij ademden in ons logies niet zelden onfrisschen tamelijk bedorven lucht in, doch bleven gelukkig vrij gezond.</p>
+<p>Door de zware voedzame kost, en misschien ook wel tengevolge van de koude, zagen wij er meerendeels zeer welgedaan en flink uit.</p>
+<p>De verlichting in het tusschendeks liet veel te wenschen over, vooral op de uitreis, want petroleum was destijds nog niet in gebruik; zelfs gewone lampolie werd zeldzaam gebezigd. Onze groote tuitlampen werden gevoed met traan.</p>
+<p>Dat deze een stinkenden walm verspreidden, is zeer begrijpelijk. Voor onze gezondheid was dit alles stellig niet zeer bevorderlijk, en toch werd op de geheele reis geen onzer ziek. </p> <pb n="25"/>
+<p>Zeeziekte mag hier buiten bespreking blijven. Onder de offers van die ziekte was ik een der ergsten. Dagen lang leed ik er aan.</p>
+<p>Vooral was ik vreeselijk zeeziek toen ons een storm beliep, die steeds in hevigheid toenam. In weerwil dat alle zeilen gereefd of gedeeltelijk weggenomen werden, werkte ons schip verschrikkelijk.</p>
+<p>Het werd door de ontzaglijke golven deerlijk gebeukt en heen en weer gezweept. De bulderende windvlagen deden de dichtgereefde marszeilen in rafels vliegen en rukten al het doek uit de lijken.</p>
+<p>Zoo lensden wij twee etmalen voor den woedenden Zuidwester storm, die ons nochthans een flink eind naar de IJszee had doen vorderen.</p>
+<p>De hoeveelheden gezouten spek en vleesch, die wij op den duur der reis naar binnen werkten, waren oorzaak dat wij zoo dikwijls reikhalsden naar verversching, zooals ik bereids heb verteld.</p>
+<p>Vooral waren wij gedurig belust op vogels, en lieten geen gelegenheid voorbijgaan, waarop wij ze machtig konden worden.</p>
+<p>Het robbenvleesch, dat wij bij gebrek aan vogels voor verversching gebruikten, zag er vrij wel uit als kalfsvleesch. Daar wij boter in overvloed hadden, konden wij dat vleesch smakelijk genoeg bereiden.</p>
+<p>Onze kok of zijn maat had voortdurend heet water te vuur. Er werd gestookt met hout, want de steenkolen werden toen op die vaart nog niet zoo algemeen gebezigd.</p>
+<p>Ieder moest zichzelf voorzien van koffie, en wanneer men dan lust had, ging men maar met zijn koffieketeltje naar den kok om kokend water.</p>  <pb n="26"/>
+<p>Melk ontbrak natuurlijk, doch sommigen voorzagen in dat gemis, door er wat suiker, die daartoe was meegenomen, aan toe voegen.</p>
+<p>Elk onzer was bovendien in het bezit van een eigen lepel, vork en blikken bord. Was 't geen tijd voor koffie en had men dorst, dan was er ruimschoots gelegenheid dien te lesschen.</p>
+<p>Vóór den grooten mast, tusschendeks, lag een groot vat bier. Een vat water stond er bij. Deze vaten waren voorzien van kranen en mokken, zoodat men steeds keus had wat men wilde drinken.</p>
+<p>'t Leven op zulk eene reis is overigens zeer eentonig en vervelend, daar men nimmer aan wal komt en steeds op en in 't ijs allerlei gevaren moet doorworstelen.</p>
+<p>Begint 't ijs te kruien en te werken, dan is 't zaak om ruim baan te kiezen als men dat nog kan, en is 't niet meer gemakkelijk te doen, dan moet men trachten door allerlei hulpmiddelen uit de engte te geraken.</p>
+<p>Gelukt dit niet, dan wordt 't gevaar steeds dreigender, want geraakt 't schip langs zijde tegen zwaar ijs aan, en komen van den anderen kant ook op dat tijdstip zware velden aandrijven, dan is de ondergang onvermijdelijk, want 't sterkste schip wordt in elkaar geknepen als een luciferdoosje.</p>
+<p>Begint echter 't ijs aan de loefzijde onder 't schip op te werken, en te kruien in schuinsche richting, dan gebeurt 't niet zelden dat 't geheele schip daardoor in de hoogte wordt gewerkt, een hellende of schuinsche richting aanneemt en dan meestal, door het omhoog werken, behouden blijft.</p>
+<p>Lijdelijk moet men dan echter afwachten, dat het ijs <pb n="27"/> door verschillende omstandigheden weer losraakt of splijt. Eerder kan het schip niet uit zijne insluiting bevrijd geraken.</p>
+<p>Uit verveling en om den tijd te verdrijven, maakt Janmaat van stukjes robbevel, die van de pooten of den staart worden afgestroopt, tabakszakjes. Die stukken vel worden eerst met zaagsel bewerkt om ze van de vetdeelen te ontdoen, en daarna met een mooi rood bandje omzoomd.</p>
+<p>Een groote kuip met zaagsel en een met zand, staat steeds aan dek, om zooveel mogelijk terstond alle gladheid te kunnen tegengaan door bestrooiing, waar dat noodig is.</p>
+<p>Dat men in die koude alle mogelijke zeilen bergt en slechts voor zeer klein zeil vaart, komt daarvan, dat men het loopende touwwerk volstrekt niet kan gebruiken, uit hoofde de vorst het te hard maakt. Het schip is vóor op dek,en ook rondom buiten boord, vaak met een aangevroren ijskorst bedekt van voeten dik.</p>
+<p>In 't laatst van Juli of begin Augustus worden aanstalten gemaakt voor de terugreis, indien men niet eerder eene volle lading heeft en spoediger kan vertrekken.</p>
+<p>Is dat t' geval dan wordt de steven zoo snel mogelijk naar 't vaderland gericht.</p>
+<p>Men berekende in die dagen de voordeelen, die een rob opleverde, op vijf gulden gemiddeld. Ving een schip dus tien à twaalfduizend robben, dat enkele malen gebeurde, dan was de besomming van een tocht naar de IJszee, in ruim vijf maanden verworven, zeker niet onaanzienlijk.</p>
+<p>'t Was echter dikwijls anders, want van lieverlede <pb n="28"/> werden de vangsten minder, zoodat, in weerwil van allerlei opofferingen, deze schepen ten slotte werden afgedankt en voor andere vaarwaters in gebruik kwamen.</p>
+<p>Zoodra een walvischvaarder binnenkwam met robbe- of walvischspek, begon men de vaten te lossen, welker inhoud nu geheel uit traan bestond.</p>
+<p>Het spek was verteerd.</p>
+<p>Die traan nu werd naar de kokerijen gevoerd, gekookt, gezuiverd en verder tot allerlei doeleinden in den handel gebracht.</p>
+<p>De schepen worden dan afgetuigd en de overgeschoten mondvoorraad in pakhuizen gebracht, om bij een volgend jaar weer aan boord te worden gescheept voor de bemanning.</p>
+<p>Daardoor liet de kost weleens wat te wenschen over, want zoodoende at men bijna elke reis overoud en overzout vleesch en spek, dat ook uit een oogpunt van gezondheid zeker niet was aan te prijzen.</p>
+<p>Evenwel kon 't moeilijk anders, tenzij men de overgebleven zaken voor een appel en een ei van de hand deed.</p>
+<p>De schepen werden op hun reis altijd van dubbel rantsoen provisie voorzien, met 't oog op de kans van invriezen, waardoor overwintering zou kunnen worden veroorzaakt, wat echter uiterst zeldzaam voorviel.</p>
+<p>Toch is dit met een der Groenlandvaarders van Harlingen in deze eeuw geschied.</p>
+<p>Het schip van den commandeur K. Hoekstra werd ingesloten en de kans op redding van het vaartuig werd met den dag geringer.</p>
+<p>Daarom zag de koene gezagvoerder zich verplicht om met de zijnen het schip te verlaten in eenige sloepen. ></p> <pb n="29"/>
+<p>Men bevond zich op vele dagen afstands van land.</p>
+<p>Toch trok men over en door het ijs, verloor op den tocht eenige manschappen, maar behield den moed.</p>
+<p>Eindelijk, na veel zwervens en allerlei ontberingen, kwam men behouden bij de eskimo's aan.</p>
+<p>Op onze reis was het verste punt, dat door ons bereikt werd, ruim 78 graden Noorderbreedte, in 't gezicht van Spitsbergen.</p>
+<p>Wanneer wij tusschen ijs zaten en er volstrekt geen gevaar bestond, terwijl er evenmin kans was iets te vangen of om te jagen, gingen wij wel eens versch water zoeken.</p>
+    <figure><p><xptr to="zwan012scho01ill0029.gif"/></p><figDesc>Versch water zoeken. - <hi rend="i">Bldz 29.</hi></figDesc></figure>
+<p>Sommige bevarenen onder ons, wisten maar flink de schotsen op te sporen, die een bekken met versch water in zich bevatten.</p>
+<p>Dat ijs vormt zich volgenderwijze.</p>  <pb n="30"/>
+<p>Wanneer groote schollen door en tusschen fijn of papijs kruien, komen als vanzelf op de kanten van die schotsen hoogten, die steeds hooger en hooger worden bij aanhoudend kruien.</p>
+<p>Zoo ontstaat van lieverlede een dijkje, somtijds wel 8 à 10 voeten hoog, rondom de schots.</p>
+<p>Binnen dat dijkje ligt dan natuurlijk een klein dal of eene vallei.</p>
+<p>Veranderlijk als de weersgesteldheid in die streken is, wordt zulk eene vallei bij hevigen regen spoedig gevuld en drijft dan zoo tusschen het andere ijs rond.</p>
+<p>Vriest het kort na zulk eene bui weder, dan is het versche water aan de oppervlakte weldra van een ijskorst voorzien.</p>
+<p>'t Kan in die streken soms zoo ontzettend regenen, als ik hier bij de hevigste stortbuien nooit heb gezien.</p>
+<p>Komt men bij zulk verschwater ijs, dat voor ingewijden aan de kleur is te herkennen, dan vindt men vaak het onderste gedeelte van het bekken nog in vloeibaren toestand.</p>
+<p>Bij gebrek aan drinkwater, dat echter zelden voorkomt op walvischvaarders, weten echter de meest bevarenen van zoodanige schollen partij te trekken. De bovenkorst wordt dan verbroken, waarna men zich voorzien kan van het versche water, dat dikwijls eenige voeten onder de oppervlakte staat.</p>
+<p>Dat niet alle opvarenden evenzeer gehard zijn tegen de koude, is licht te begrijpen.</p>
+<p>Ik herinner mij echter, dat onze zoogenaamde speksnijder, de hoofdofficier, die zijne 32e reis deed naar die streken, bijkans nimmer zijne handen dekte. </p> <pb n="31"/>
+<p>Was er soms iemand onder ons, die eene verdachte plek, witachtig geel op de wang kreeg, door bevriezing veroorzaakt, dan wist die oude zeerob raad.</p>
+<p>Met een ouden wollen doek of want gewapend, doorweekt van water en gedoopt in zand, ving de behandeling van den patiënt aan. De oude ijsbeer, zoo werd deze hardhandige dokter wel genoemd, wreef met dat schuurgerij de min of meer bevroren plek tot bloedens toe. Nog eens nat gemaakt en dan met zaagsel nagewreven, was de patiënt al spoedig klaar, maar over de zachtzinnigheid van den ouden zeeman onder die behandeling zou niemand roemen.</p>
+<p>Dezelfde kuur werd toegepast, indien men aan handen of voeten dergelijke plekken ontdekte, en steeds had de behandeling het gewenschte gevolg.</p>
+<p>'t Beste geneesmiddel tegen scheurbuik in die dagen was, dat wij order kregen om, in stede van tabak, rauwe aardappelen te kauwen. 't Middel was wel niet smakelijk, maar toch goed.</p>
+<p>Onze terugreis was tamelijk voorspoedig.</p>
+<p>Met eene behoorlijke hoeveelheid traan liepen wij in het begin van Augustus te Harlingen binnen.</p>
+<p>Ik heb na die eerste reis nog eene tweede reis medegemaakt, op welke ik geen bijzondere avonturen beleefde.</p>
+    <p>Na de terugkomst had ik genoeg van de IJszee. Toch had ik evenmin lust naar de school terug te keeren en zocht daarom aan wal eene andere betrekking. Misschien is er na mij niemand meer uit de school naar de IJszee vertrokken.’</p>
+<pb rend="blank" n="32"/>    
+<pb rend="blank" n="binnenkant achterplat"/>
+<pb rend="blank" n="achterplat"/>
+</div>
+</body>
+</text>
+</TEI.2>

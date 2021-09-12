@@ -1,0 +1,2791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Mithridates, koning van Pontus</title>
+               <author>Jean Baptiste Racine</author>
+               <editor role="translator">Thomas Arents</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Mithridates, koning van Pontus</hi> van Jean Baptiste Racine, in een vertaling van Thomas Arents uit 1729. De eerste druk dateert uit 1679.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 6: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">raci001mith01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 13: 4</idno>
+               </bibl>
+               <p>Jean Baptiste Racine, <hi rend="i">Mithridates, koning van Pontus</hi> (vert. Thomas Arents). Erven Jacob Lescailje en Dirk Rank, Amsterdam 1729 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Mithridates, koning van Pontus</title>
+               <author>Jean Baptiste Racine</author>
+               <editor role="translator">Thomas Arents</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Mithridates, koning van Pontus</title>
+               <author>Jean Baptiste Racine</author>
+               <editor role="translator">Thomas Arents</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-23</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>MITHRIDATES,</p>
+<p>KONING van PONTUS;</p>
+<p><hi rend="i">TREURSPEL</hi>.</p>
+<p>Uit het Fransch van den Heer <hi rend="sc">Racine</hi> Vertaald;</p>
+<p>DOOR</p>
+<p>T. ARENDS.</p>
+<p>
+<figure>
+<p><xptr to="raci001mith01ill0001.gif"/></p></figure></p>
+<p>t' Amsteldam,</p>
+<p>By d'Erfgen: van <hi rend="sc">Jacob Lescailje</hi> en <hi rend="sc">Dirk Rank</hi>, op de Beurssluis 1729.</p>
+<p>Met Privilegie.</p></div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="aren001"/>
+</interpGrp>
+<pb n="3"/>
+<head rend="h3">Aan den edelen achtbaaren heer Kornelis Valkonier, raad der stad Amsterdam, enz.</head>
+<p><hi rend="i">MYN HEER</hi>,</p>
+<p>&nbsp;</p>
+<p><hi rend="b">D</hi>Oor dien ik van goeder hand weet, dat Uw Ed. Achtb. niet alleen groote liefde tot de Dichtkonst in 't algemeen, maar ook een byzondere achting heeft voor de Werken van een Konstgenootschap, 't welk de latynsche woorden <hi rend="sc">Nil Volentibus Arduum</hi> tot Zinspreuk voerd, zo neem ik de vrymoedigheid deezen <hi rend="sc">Mithridates</hi>, uit het Fransch van den Heer <hi rend="i">Racine</hi> vertaald, aan Uwe Ed. Achtb: op te draagen, met die hoop, dat het Uwe Ed. Achtb: niet geheel mishaagen zal; te meêr, om dat ik daar toe aangemoedigd ben door zommige der leeden van dat Konstgenootschap, die my hebben willen doen gelooven, dat niemand van hen zich zoude behoeven te schaamen zulk eene overzetting gemaakt te hebben. Ik ben
+<pb n="4"/>evenwel in die waan niet dat het de eer van Uw. Ed. Achtb. bescherming, of ander gunstiger onthaal verdiend, maar het geschied met inzigt, om hier na, als ik noch eenige tyd besteed, en vlyt aangewend zal hebben met het overzetten van deftige Tooneelstukken der voornaamste Fransche Dichters, die nu de waare Meesters in de kunst zyn, eens te beproeven, wat ik in eene eigene vindinge zal konnen uitwerken, en als dan wederom de zelfde stoutheid neemende, Uwe Ed. Achtb. te doen zien, en van desselfs oordeel te verneemen hoe veel ik gevorderd zal hebben. Ondertusschen blyf ik, met alle behoorlyke eerbiedigheid,</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Myn Heer</hi>,</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Uw Ed. Achtbaarheids</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Ootmoedige Dienaar</hi>,</p>
+<p>&nbsp;</p>
+<p>T. <hi rend="sc">Arends</hi>.</p></div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">Aan den leezer.</head>
+<p><hi rend="b">O</hi><hi rend="i">M dat ik in deeze vertaalde</hi> Mithridates, <hi rend="i">eenige meerder Personaadjen invoer, dan in het Fransch de Heer</hi> Racine <hi rend="i">doet, wien ik anders in de stelling geheel, en in den zin, zo veel my mooglyk is, navolg; en dat het misschien van zommige zoude geduid worden, als of ik dien voortreffelyken meester zoude meenen te overtreffen, zo heb ik goed gedacht, alleen tot myne ontschuldiging, te zeggen, dat zulks geschied is, eensdeels, om den meesten hoop der aanschouweren, die hier te Lande niet heel doorzichtig zyn, wat meér speelens voor de oogen te geeven op ons groot, en ruim Schouw-Tooneel; ten anderen op het aanraaden van eenige myner vrinden, om de veelheyd der Tooneelspeelers te gemoet te komen met dezelve, zo verre het de gevoeglykheid hier in lyden kan, eenig werk te geeven</hi>. Vaar wel.</p></div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Vertoonders.</head>
+<list>
+<item><hi rend="sc">Mithridates</hi>, Koning van Pontus, en verscheidene andere Koningryken.</item>
+<item/>
+<item><hi rend="sc">Monima</hi>, Ondertrouwd met Mithridates, en reeds voor Koninginne verklaard.</item>
+<item/>
+<item><hi rend="sc">Pharnaces</hi>, } Zoons van Mithridates, doch van verscheidene Moeders.</item>
+<item/>
+<item><hi rend="sc">Xiphares</hi>, } Zoons van Mithridates, doch van verscheidene Moeders.</item>
+<item/>
+<item><hi rend="sc">Arbates</hi>, Vertrouweling van Mithridates, en Slotvoogd binnen Nimpheüm.</item>
+<item/>
+<item><hi rend="sc">Phedina</hi>, Vertrouwde van Monima.</item>
+<item/>
+<item><hi rend="sc">Orontes</hi>, Een der Oversten onder Mithridates.</item>
+<item/>
+<item><hi rend="sc">Arcas</hi>, Hofdienaar van Mithridates.</item>
+<item/>
+<item>1. 2. <hi rend="sc">Staat juffers</hi> van Monima.</item>
+<item/>
+<item>1. 2. 3. <hi rend="sc">Lyfwachten</hi>.</item></list>
+<p>&nbsp;</p>
+<p>Het Tooneel is te Nimpheüm, in de Cimmerische Bosphorus, anders genaamd het Taurische Chersonesus.</p></div>
+<div type="act">
+<pb n="7"/>
+<head rend="h2">Mithridates, <hi rend="i">treurspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Xiphares, Arbates</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l><hi rend="b">M</hi>En heeft ons niet misleid, Arbates; het verhaal</l>
+<l rend="; 2tab">Van vaders nederlaag, en Romens zegepraal</l>
+<l rend="; 2tab">Is waar; hy wierd omtrent de Euphrates overvallen</l>
+<l>In 't donker van den nacht. Hier hielp hem niet met allen</l>
+<l>Zyn krygsvoorzigtigheid, 't volk kweet zich lange tyd;</l>
+<l>Maar wierd op 't laast verstrooid, hy sneuvelde in den stryd.</l>
+<l rend="; 1tab">elf heeftmen, tot bewys dat vader is verslagen,</l>
+<l>Zyn zwaard, en tulband aan Pompéus opgedraagen.</l>
+<l>Dus sturf die groote vorst, die veertig jaar alleen</l>
+<l>De Romers heeft gekeerd, hunn' Helden afgestreên,</l>
+<l>Hunne oorlogslust vaak door zyn kloekheid doen verkouden,</l>
+<l>In 't Oosten hun geluk in tegenwicht gehouden,</l>
+<l>En de algemeene zaak der vorsten tot zyn dood</l>
+<l>Bepleit, nalaatende twee zoons, van magt ontbloot,</l>
+<l>En van verdeelden zin om zyne dood te wreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wat inzigt, Heer, wat drift beweegt u dus te spreeken?</l>
+<l>Heeft staatzucht broederliefde in 't hart zo zeer verkoud,</l>
+<l>Dat gy Prins Pharnaces reeds voor uw vyand houd?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Neen, waarde Arbates, neen, myn haat zal hem niets deeren;</l>
+<l>Ik zou het overschot des Ryks geensins begeeren,</l>
+<l>Tot zulk een snooden prijs. 'k Wil 't recht niet overtreên.</l>
+<pb n="8"/>
+<l>Dat zyn geboort' hem geeft. 'k Ben met myn deel te vreên.</l>
+<l>'k Zal zonder ongeneugt zien vallen in zyn handen</l>
+<l>'t Geen hem de gunst belooft der Roomsche dwingelanden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Zou Romen vriendschap doen aan Mithridates zoon?</l>
+<l>Hoe kan dat weezen, Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 2tab">'t Is waar. Hy wacht het loon</l>
+<l>Van zyn verraadery, nu vader is verslagen.</l>
+<l>Hy heeft lang in zyn hart tot Romen gunst gedraagen;</l>
+<l>Maar 't myne, meêr als ooit, verbitterd op dien staat,</l>
+<l>Houd tegen Romen steeds een doodelyke haat.</l>
+<l>Doch weet, myn haat, en 't geen hy van hun gunst mag beiden</l>
+<l>Zyn wel de minste reên om ons van een te scheiden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wat kan toch buiten dat verdeelen uwe zin?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Gy zult verwonderd staan. Die schoone Koningin,</l>
+<l>Die Monima, die zo myn vader kon behaagen,</l>
+<l>Daar Pharnaces nu ook zyn trouw aan op wil draagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Myn Heer!</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Die min ik, en verberg 't niet, nu 'k bevind,</l>
+<l>Dat Pharnaces alleen haar nevens my bemind.</l>
+<l>'k Zie, gy verwachte niet zulks uit myn mond te hooren;</l>
+<l>Maar 't is van gistren niet, dat ik haar heb verkooren.</l>
+<l>Al lang heb ik haar, schoon stilz wygende, aangebeên,</l>
+<l>En in myn hart geknield voor haar bekoorlykheên,</l>
+<l>Die 'k hooger schattede, dan al myns vaders kroonen.</l>
+<l>Ach! kon ik u de kracht van myne min vertoonen!</l>
+<l>Myn eerste zuchten, en myn laatste smerten! maar</l>
+<l>De wankelende staat, en 't dreigende gevaar</l>
+<l>En laaten my niet toe die hartstocht as te maalen.</l>
+<l>'t Is nu geen tyd om u myn liefde te verhaalen;</l>
+<l>'t Zy u genoeg gezegt, tot myn verdediging,</l>
+<l>Dat ik haar 't eerste zag, en zy my 't eerste ving</l>
+<pb n="9"/>
+<l>In haar aanloklykheên. 'k Heb Monima verkooren,</l>
+<l>Eer dat myn vader ooit haar naam had noemen hooren.</l>
+<l>Hy zag haar, doch daar hy zich aan die schoone vrouw</l>
+<l>Had hooren wettelyk te binden door de trouw,</l>
+<l>Dacht hy, dat hy genoeg voldeê met haar te minnen,</l>
+<l>En zy dus schand'lyk zich zou laaten overwinnen.</l>
+<l>Gy weet wat vonden hy al heeft in 't werk gestelt</l>
+<l>Om haar te buigen, doch haar deugd behield het veld.</l>
+<l>Zints voelde hy zyn borst in 't afzyn zelfs vol wonden,</l>
+<l>En heeft haar door uw hand op 't laast de kroon gezonden.</l>
+<l>Nu oordeel van myn smart, en droef heid, op 't verstaan</l>
+<l>Van 's Vorsten liefde en van het geen hy had gedaan;</l>
+<l>Dat hy het bruidsbed reeds voor Monima deê spreiden,</l>
+<l>En dat hy haar, als Bruid, ging naar Nimpheum leiden.</l>
+<l rend="; 1tab">Noch kwam my het gerucht ter ooren in dien tyd</l>
+<l>Van deeze kwelling, dat myn moeder, 't zy uit spyt,</l>
+<l>Om haar misnoegen aan myn vader te betuigen,</l>
+<l>Of om het Roomsche Hoofd tot myne gunst te buigen,</l>
+<l>Den Koning had verraân; het slot, en al den schat</l>
+<l>Die haar was toevertrouwd, zelf aan Pompéus had</l>
+<l>Geleverd. Hoe stond ik op deeze maar verslagen!</l>
+<l>Ik kon myn vader toen geen minnenyd meêr draagen;</l>
+<l>Zo wierd door vaders liefde in my myn min gesmoord.</l>
+<l>Dit kwam geduurig voor myne oogen, dies ik voort</l>
+<l>Met myn getrouwste volk den vyand ging besptingen:</l>
+<l>Daar zag myn moeder my door hunne benden dringen,</l>
+<l>En geen gevaar ontzien, om eerlyk en vol moet</l>
+<l>Te sterven, of dien hoon te wasschen in myn bloed.</l>
+<l>De plaats bleef ons, de vloed Euxinus, als voor deezen</l>
+<l>Geveiligd, wy hersteld. Geenvyand was te vreezen</l>
+<l>Voor onze Vlooten, dan slegts de ongestuimigheên</l>
+<l>Der baaren; maar hier was myn hart niet meê te vreên.</l>
+<l>Ik wilde verder gaan. Arbates; 'k ruk myn benden</l>
+<l>Heen naar de Euphrates; maar helaas! 'k versta in 't wenden</l>
+<l>De nederlaag, en dood van Mithridates. Ach!</l>
+<l>Wat gaf zyn ongeval myn ziel een zwaaren slag!</l>
+<pb n="10"/>
+<l>De schoone Monima kwam my in my gedachten</l>
+<l>In 't midden myner druk, en 't hevigst myner klagten;</l>
+<l>Een ongemeene schrik bevong myn ziel, en zin,</l>
+<l>Wanneer ik overdacht myns vaders wreede min.</l>
+<l>Gy weet, hoe menigmaal hy u heeft last gegeeven,</l>
+<l>Om zyn bemindens niet na hem te laaten leeven.</l>
+<l>'k Vloog naar Nimpheum toe, en met een droef gemoed</l>
+<l>Zag Pharnaces met zyn gevolg rondom de voet</l>
+<l>Van deeze vest verspreid; 't was my een heiloos teken.</l>
+<l>Ge ontfingt ons beide, en voorts is 't ov'rige u gebleeken.</l>
+<l>Gy weet, hoe Pharnaces, naar zyn gewoonte en aard,</l>
+<l>Straks vol verwaandheid heeft zyn min geopenbaard</l>
+<l>Aan Monima; ja heeft, gelyk gy hoorde, Arbates,</l>
+<l>De Koningin verhaald, de dood van Mithridates;</l>
+<l>Gy kend hem, 't geen hy zegt, wil hy volbrengen; maar</l>
+<l>Ik zal hem, op myn beurt, ook toonen, dat ik haar</l>
+<l>Bemin veel meer, als hy. 't Ontzag, dat ik voor deezen</l>
+<l>Aan Mithridates, als myn vader, heb beweezen,</l>
+<l>Is uit met zyne dood. 'k Zal Pharnaces gantsch niet</l>
+<l>Ontzien; maar toonen, dat zyn hoogmoet my verdriet.</l>
+<l>Indien my Monima niet zelve wederstreeven,</l>
+<l>En af wil slaan het hart, dat ik aan haar wil geeven,</l>
+<l>Zo zal ik, wat my ook voor ongeval ontmoet,</l>
+<l>Haar niet verlaaten, als ten koste van myn bloed.</l>
+<l>Zie daar 't geheim, dat ik u hadde te openbaaren.</l>
+<l>Kies nu, met wien van ons gy uw geluk wilt paaren.</l>
+<l>Zeg, wie uw trouw verdiend, en wie myns vaders kroon,</l>
+<l>De slaaf van 't Roomsche volk, of wel uws konings zoon?</l>
+<l>Misschien zal Pharnaces op Romen zich vertrouwen,</l>
+<l>En in Nimpheum my als zynen dienaar houwen;</l>
+<l>Maar binnen deeze plaats vrees ik zyn hoogmoed niet,</l>
+<l>'t Ryk Pontus is het zyn, 'k ben hier in myn gebied.</l>
+<l>Want Kolchos, zynde my tot erfdeel toegevallen,</l>
+<l>Weet dat ik meester ben, en Heer van deeze wallen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Gebied my, als myn vorst, voor wien ik u erken,</l>
+<l>Myn keur is al gedaan, Vorst Xiphares; ik ben</l>
+<pb n="11"/>
+<l>Alleen tot uwen dienst. Zo trouw, als ik voor deezen</l>
+<l>Uw vader ben geweest, zal ik aan u ook weezen.</l>
+<l>Gy weet, hy had dit slot gegeeven in myn magt;</l>
+<l>Ik heb 't ook trouw bewaard; noch Pharnaces geacht,</l>
+<l>Noch u; maar ik wil u niet langer wederstreeven.</l>
+<l>Gelyk als ik 't ontfing, zal ik 't u overgeeven.</l>
+<l>Uw vyand zy de myne; ik zie myn dood te moet,</l>
+<l>Zo gy me niet beschermt, uw broeder zou in 't bloed,</l>
+<l>Als hy hier meester was, elendig my doen smooren,</l>
+<l>Om dat ik nimmermeer na hem heb willen hooren.</l>
+<l>'k Verzeker u van 't hart, en de genegentheên,</l>
+<l>Der Koninginne, en kan ik hier, gelyk voorheên,</l>
+<l>Gebieden, zo zal hy dit land u niet ontrukken;</l>
+<l>Maar elders gaan de vrùcht der Roomsche gunsten plukken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Wat ben ik u verpligt voor zulk een eed'le trouw!</l>
+<l>'k Hoor iemand komen; ga, Arbates, 't is Mevrouw.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Monima, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>MYn Heer, ik kom tot u, als myn beschermer, loopen;</l>
+<l rend="; 1tab">Indien gy my verlaat, op wien zal ik dan hoopen?</l>
+<l>'k Ben eenzaam, en vol vrees, ik heb hier vriend, noch maag.</l>
+<l>En of ik schoon de naam van Koninginne draag,</l>
+<l>'k Ben een gevangene, en een weduw daar beneven,</l>
+<l>Schoon ik nooit man had. Dit is 't minste, dat my 't leeven</l>
+<l>Verdrietig maakt; maar die my 't meeste leed aandoet,</l>
+<l>'k Schrik hem te noemen; doch ik hoop, uw grootsch gemoed</l>
+<l>Myn traanen niet en zal om zynent wil verachten,</l>
+<l>Noch uw verwantschap 't oor u stoppen voor myn klagten.</l>
+<l>Myn Heer, nu weet gy wel, 'k heb u genoeg gezeid,</l>
+<l>Dat Pharnaces het is, die vol vermetelheid,</l>
+<l>Als met geweld, my wil met hem in de echt verbinden;</l>
+<l>Maar ik zal in de dood, hoe wreed, meer zoetheid vinden</l>
+<pb n="12"/>
+<l>Als in zyn trouw. O Goôn! wat vyandlyker ster</l>
+<l>Heeft myn geboortestond bescheenen! 'k ben dus ver</l>
+<l>Gesleept, om zonder liefde, en te ens dank te trouwen,</l>
+<l>En naauwlyks mag ik my in vryheid weêr aanschouwen,</l>
+<l>Verlost van zulk een juk, en in een beter staat,</l>
+<l>Of 'k word weêr aangezocht van een, die 'k doodlyk haat.</l>
+<l>Misschien behoorde ik hier myn fierheid wat te breeken,</l>
+<l>En in te binden, wyl zyn broeder my hoord spreeken:</l>
+<l>Maar 't zy de reden, 't zy myn noodlot, of myn haat</l>
+<l>Met Romen hem vermengd, waar op hy zich verlaat,</l>
+<l>Geen ramp dunkt my zo groot, geen kwaad zo zeer te vreezen,</l>
+<l>Geen dood dunkt my zo straf, als deeze min te weezen.</l>
+<l>Ach! Xiphares, zo u myn schreijen niet ontroerd,</l>
+<l>Ach! lyd ge dat men my met hem ten Tempel voerd;</l>
+<l>Voor 't outer zultge my, in 't aanzien van de goden,</l>
+<l>Om eeuwig vry te zyn van hem, my zelf zien dooden.</l>
+<l>Gy zult my 't hart dat hy zo wreedlyk wil gebiên,</l>
+<l>En dat ik niemand ooit en schonk, doorstoten zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Mevrouw, stel u gerust, hier zal u niemant deeren,</l>
+<l>Gy moogt in deeze plaats volkomentlyk regeeren,</l>
+<l>Myn broeder, zo hy wil gebiên, mag elders gaan;</l>
+<l>Maar al uw ongeval hebt gy noch niet verstaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Waar meê wil my op nieuws de straffe hemel plaagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Indien 't een misdaad is u liefde toe te draagen,</l>
+<l>Is Parnaces alleen niet schuldig: ik voel my</l>
+<l>Veel schuldiger, als hem.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Hoe gy, myn Heer, hoe gy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Ja, wil dit ongeval vry by uw zwaarste stellen;</l>
+<l>Eisch aan den Hemel wraak, van ons, om u te kwellen</l>
+<l>Alleen gebooren, en tot uw verderf en straf,</l>
+<l>Wyl noch de vader, noch de zoons ooit lieten af</l>
+<pb n="13"/>
+<l>U te vervolgen. Maar wat smert het u doet voelen,</l>
+<l>Nu gy myn liefde hoord, die nimmer zal verkoelen:</l>
+<l>Ja, hoe, myn stoute min u kweld, hoeze u verdriet,</l>
+<l>Mevrouw, verzeker u, het heeft by 't lyden niet,</l>
+<l>Dat ik geleeden heb, toen ik ze wou verbergen.</l>
+<l>Doch vrees niet, dat ik iets uws ondanks u zal vergen,</l>
+<l>Gelyk als Pharnaces, of in zyn plaats wil treên,</l>
+<l>En ik my daarom dus gedienstig veins, ô neen!</l>
+<l>Gy wilt in vryheid zyn, 'k heb u myn woord gegeeven;</l>
+<l>Gy hoeft met hem, Mevrouw, noch ook met my te leeven.</l>
+<l>Indien het u mishaagd. Maar als gy zyt voldaan,</l>
+<l>En vergenoegt naar wensch, waar heen zult gy dan gaan?</l>
+<l>Zal 't ver van hier zyn? en, Mevrouw, als gy zult scheiden,</l>
+<l>Zal 't my geoorloft zyn u derwaarts te geleiden.</l>
+<l>Zult gy zyn misdaad zien, en myne onnozelheid</l>
+<l>Met een gelyk gezigt, en zonder onderscheid?</l>
+<l>Zult gy ook my de straf, die hy verdiend, doen boeten?</l>
+<l>En zal ik als gy vlugt voor hem, u missen moeten?</l>
+<l>Zal ik tot loon, dat ik u zo getrouwlyk dien,</l>
+<l>Besluiten moeten u na deezen nooit te zien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Wat zegtge, Xiphares?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Ach! schoone Koninginne!</l>
+<l>Indien de tyd iets deê tot voordeel myner minne,</l>
+<l>'k Zou dan myn voordeel doen met dat geluk, Mevrouw,</l>
+<l>En zeggen, dat ik 't eerst u zag, en 't eerst myn trouw</l>
+<l>U opgeofferd heb, zelf in uwe eerste jaaren,</l>
+<l>Toen uw bekoorlyk heên noch in haar groeijen waaren,</l>
+<l>En aan myn vader en myn broeder onbekend;</l>
+<l>Toen stonden zy al vast in myn gemoed geprent.</l>
+<l>En, als door vaders last ik van u af moest scheijen,</l>
+<l>Gedenkt u niet, hoe gy toen Xiphares zaagt schreijen:</l>
+<l>Hoe dat hy treurde, toen de nood dwang, om zyn pligt</l>
+<l>In acht te neemen, hem ontroofde uw lief gezigt!</l>
+<l>Ach! welk een bittren rouw had my het hart bezeeten,</l>
+<l>Toen ik myn afscheid nam! Mevrouw, is 't u vergeeten?</l>
+<pb n="14"/>
+<l>My heugt het noch te wel. 't Schynt u een droom, die nu</l>
+<l>Uit uw gedachten is. Helaas! terwyl ik u</l>
+<l>Afweezend minde; kost myn vader u behaagen,</l>
+<l>En dacht niet eens, wat ik om u al moest verdraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Helaas!</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Hebt gy myn ramp een oogenblik beweend.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Misbruik de magt niet, Prins, die u 't geluk verleend.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Misbruiken? goede Goôn! terwyl ik u verdedig,</l>
+<l>Niets verg; niets afeisch; noch in 't allerminst beleedig;</l>
+<l>Wat wiltge meêr, Mevrouw? hebt gy me niet verpligt</l>
+<l>Te zweeren, voor altoos te vliên uit uw gezigt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gy hebtme meêr beloofd, als gy zult kunnen houwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Wel hoe, Mevrouw! durft gy myn eeden niet vertrouwen,</l>
+<l>Of vreest gy, nu ge zyt in myne magt gesteld,</l>
+<l>Dat ik my tegens u zal dienen van geweld?</l>
+<l>'k Hoor iemand komen; ei, Mevrouw, wilt my verblyden,</l>
+<l>Een woord.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">Gy moet my voor uws broeders min bevryden,</l>
+<l>Geweld behoeftge niet te doen, noch myn gezigt</l>
+<l>Te vlien, indienge my voor deeze gunst verpligt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Mevrouw!</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">Uw broeder komt.</l></sp></div>
+<div type="scene">
+<head rend="h4">Darde tooneel.</head>
+<stage><hi rend="sc">Monima, Pharnaces, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l rend="; 3tab">HOe lang noch wiltge beiden</l>
+<l>Na vader, daar zo veel getuigen, en bescheiden</l>
+<pb n="15"/>
+<l>U overtuigen van zyn dood. Vertrek met my,</l>
+<l>Uit dit barbaarsch gewest, daar gy in slaverny</l>
+<l>Uw leeven doorbrengt, en uw dood licht zal ontmoeten.</l>
+<l>Gy zult een minzaam volk zien buigen voor uw voeten;</l>
+<l>Een heugelyker lucht, een aangenamer licht</l>
+<l>Zal u een beeter land, vertoonen voor 't gezigt.</l>
+<l>'t Ryk Pontus heeft u lang erkend voor Koninginne;</l>
+<l>De Koninglyke kroon, het teiken van de minne</l>
+<l>Myns vaders, die hy heeft doen stellen op uw hoofd,</l>
+<l>Heeft u, gelyk een pand, dat Koninkryk beloofd;</l>
+<l>En, nu ik in dat Ryk tot Vorst ben aangenomen,</l>
+<l>Is 't myne pligt de wil myns vaders na te komen.</l>
+<l>Maar noodig is 't, dat wy vertrek ken uit dit Ryk,</l>
+<l>Mevrouw, en datwe onze echt op 't spoedigst te gelyk</l>
+<l>Verhaasten: ik zal u aanstonds met vreugd geleiden</l>
+<l>Van 't outaar naar myn vloot; waar toe hier lang te beiden,</l>
+<l>Mevrouw? het volk verlangt hun Koningin te zien;</l>
+<l>Komt, daar gy hen, daar gy de baaren kunt gebiên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Myn Heer, de groote gunst, die gy my komt betoonen,</l>
+<l>Ben ik niet magtig u naar waarde te beloonen;</l>
+<l>Maar wyl gy antwoord eischt, van my, en kort besluit,</l>
+<l>Vergunt ge my, dat ik u myn gedachten uit?</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Zo 't u belieft, Mevrouw hoeft niet beschroomd te weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gy weet myn Heer ik ben gebooren van Ephezen,</l>
+<l>Daar ik gesprooten ben uit het doorluchtig bloed,</l>
+<l>'t Zy gy die Vorsten noemt, of Helden, om hun moed</l>
+<l>In Grieken eertyds meer, als Koningen, verheeven.</l>
+<l>Daar zag uw vader my in 't bloeijenst van myn leeven,</l>
+<l>Toen heel Ioniä noch aan zyn magtig ryk</l>
+<l>Behoorde, en zond me op trouw dit vorstelyke blyk;</l>
+<l>Myn vader was 't een wet, en my gedwonge minne;</l>
+<l>Ik moest gehoorzaam zyn, dus wierd ik tot slaavinne,</l>
+<l>Schoon met een kroon op 't hoofd. Men zond my herwaards, om</l>
+<pb n="16"/>
+<l>Uw vader te voldoen, die my als bruidegom</l>
+<l>Verwachte midden in den schoot van al zyn Ryken;</l>
+<l>Maar 't noodlot dwong hem, eer ik kwam, van daar te wyken,</l>
+<l>En elders heen te gaan, daar hem zyn oorlogslust</l>
+<l>Naar toe riep. Hy liet my hier brengen, om gerust,</l>
+<l>Zo lang die krygsstorm duurde, in dit gewest te leeven:</l>
+<l>Hier ben ik van dien tyd tot deezen dag gebleeven;</l>
+<l>Maar deez' beklaaglyke eer stond mynen vader dier:</l>
+<l>Het eerst slagtoffer der Romeinen, aan het vier</l>
+<l>Van hunne wraaklust, als verwinnaars, opgedraagen,</l>
+<l>Was Philopemen, daar ik eeuwig om zal klaagen;</l>
+<l>Wyl hy, om mynent wil, door hen is omgebragt.</l>
+<l>Dit is 't, myn Heer, dat ik u te openbaaren dacht.</l>
+<l>Schoon geen gerechte wraak myn gramschap heeft ontsteeken,</l>
+<l>Ik vind my in geen staat om zyne dood te wreeken;</l>
+<l>'t Ontbreekt my aan de magt; wat kan een vrouw bestaan?</l>
+<l>Ik heb geen heir in 't veld, om tegens hen te slaan;</l>
+<l>Maar ik heb moet, myn Heer. Kan ik geen wraak verwerven,</l>
+<l>'k Wil hem niet ontrouw zyn, noch myne handen verven</l>
+<l>In zyn onschuldig bloed. En wat zou 't zyn, o smart!</l>
+<l>Ontfing ik uwe trouw, die Romen mind in 't hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Ik weet niet, wat Mevrouw beweegt aldus te spreeken.</l>
+<l>Is tusschen Rome, en my verbintenis gebleeken?</l>
+<l>'k Bid, zegme, wie heeft u dus kwaalyk onderrecht?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe! loochend gy 't, myn Heer? gy hebt het zelf gezegt.</l>
+<l>Zoud gy een Koninkryk, dat door hen is gewonnen,</l>
+<l>En noch in hun geweld, aan my op draagen konnen,</l>
+<l>Zo gy niet zeker waard, dat gy door hen, tot loon</l>
+<l>Van uw verraad, gesteld zult worden op den troon?</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Ik zoude u van die zaak wel reeden kunnen geeven,</l>
+<l>Zo gy, Mevrouw, steeds door een andre zucht gedreeven,</l>
+<pb n="17"/>
+<l>Uw woorden niet en had vermengd met veinzery;</l>
+<l>Maar uwes harten grond oprecht verklaard aan my.</l>
+<l>Na zo veel stribbeling begin ik eens te ontdekken,</l>
+<l>Waar uwe ontschuldiging, en weig'ring heen wil strekken,</l>
+<l>Ik weet, wat u beweegt; 'k zie klaar in uw gemoed,</l>
+<l>Dat u een ander, als myn vader, spreeken doed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>De reden, die Mevrouw tot dit verwyt beweegen,</l>
+<l>En wederlegt ge niet, maar toond u zelfverleegen.</l>
+<l>Doch zo ge aan 't Roomsche volk, als ik, u wreeken wilt,</l>
+<l>Wat martge? waar toe dus een oogenblik verspild?</l>
+<l>Hoe! zal men tot de wraak van vader langzaam treeden,</l>
+<l>En vaardig weezen om zyn zetel te bek leeden?</l>
+<l>Is fierheid, eer en trouw, in ons heel uitgeblust?</l>
+<l>Hy is wel dood, maar weetge, of hy in de aarde rust?</l>
+<l>Wie weet, terwyl uw ziel zich zelfvermaakt in 't minnen,</l>
+<l>En gy het zoet der trouw voeld speelen door uw zinnen,</l>
+<l>Of hy, die als een zon, in 't oost te brallen plag,</l>
+<l>Dien Aziën met recht den laatsten noemen mag</l>
+<l>Van haare koningen, noch heden onbegraaven</l>
+<l>Niet licht op 't veld, ten prooi van gieren en van raaven:</l>
+<l>Of in een kuil versmoord; wie weet, ô welk een hoon!</l>
+<l>Of hy, om zulk een smaad verbitterd, aan de goôn</l>
+<l>Geen wraak eischt van zyn zoons, die hem niet durven wreeken.</l>
+<l>Hoe! zullen wy ons, in dit woest gewest versteeken?</l>
+<l>Indien 'er ergens noch een Vorst op aarde leeft,</l>
+<l>Die de allerminste zucht tot zyne vryheid heeft,</l>
+<l>Hy zal zich zekerlyk met onze magt verbinden.</l>
+<l>De Parthen, Scyten, en Sarmaaten, onze vrinden,</l>
+<l>Daar moeten wy naar toe, daar worden wy genood,</l>
+<l>Dan toonen wy, het zy in leeven, 't zy in dood,</l>
+<l>Dat wy de zoonen zyn van zulk een grooten vader;</l>
+<l>Schoon ons de liefde streeld, het raakt ons vry wat nader</l>
+<l>Voor 't Ryk te zorgen, ons te vryden van het juk,</l>
+<l>Als dat men 't hart, 't geen niet te winnen is, verdruk.</l></sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Mevrouw, hy kend uw hart. Heb ik my nu bedroogen?</l>
+<l>Dit is de vader, die uw ziel dus heeft bewoogen;</l>
+<l>Dit is het Roomsche volk, dat u my haaten doet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Ik kon zo diep, als gy, nooit zien in haar gemoed:</l>
+<l>Maar ik verzeker u, 'k zou haar niet wederstreeven,</l>
+<l>Kon ik van haaren zin zo goede reden geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Gy zoud zeer wel doen; maar 't geen ik doe, staat me vry;</l>
+<l>En 't voorbeeld, dat gy geeft, is hier geen wet voor my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>'k Weet niet, dat iemand hier, 'k zeg niemand uitgenomen,</l>
+<l>Zou weig'ren myn geboôn, en wetten na te komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Deez' reden voegde u licht, zo gy te Kolchos waard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>'k Gebie in deeze plaats zo wel, als daar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l rend="; 1tab">Ei! spaart</l>
+<l>Die redenen, gy vond u zekerlyk bedroogen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Monima, Pharnaces, Xiphares, Phedima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>DE Zee, ô Prinsen, is met scheepen overtogen.</l>
+<l rend="; 1tab">'t Gerugt is valsch geweest; 't is Mithridates vloot;</l>
+<l>Zyn wederkomst betuigt de onwaarheid van zyn dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe! Mithridates?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 2tab">Goon! mijn Vader!</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l rend="; 3tab">Welke maaren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>De lichte scheepen, die voor uit gesteeken waaren,</l>
+<pb n="19"/>
+<l>Zyn binnen; en Arbaat, die reeds zyn pligt voldoet,</l>
+<l>Is diep in zee den Vorst gevaaren in 't gemoed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Wat gaat ons aan!</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Vaar wel; ik ga ontstelt naar binnen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Pharnaces, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>ACh! Mithridates keerd! wat zal ik nu beginnen!</l>
+<l rend="; 1tab">Myn leeven, en myn min die loopen bei gevaar,</l>
+<l>'t Roomsch Leger komt te laat; Goon! welk een droeve maar!</l>
+<l>Wat zal ik doen?</l>
+<stage><hi rend="i">Tegen Xiphares</hi>.</stage>
+<l rend="; 2tab">Myn Heer, 'k hoor u in't heimlyk zuchten;</l>
+<l>'k Zag, toen Mevrouw vertrok, uwe, en haar ongenugten;</l>
+<l>Maar stellen wy dit uit. Een grooter zwaarigheid</l>
+<l>Is u, zo wel, als my, door 't noodlot toebereid.</l>
+<l>De Koning keerd, en zal ligt onverbidlyk weezen;</l>
+<l>Hoe ongelukkiger, hoe meer hy is te vreezen.</l>
+<l>'t Gevaar is grooter, als gy meend, of denken kont.</l>
+<l>Byd' zyn wy schuldig, en gy kend zyns harten grond.</l>
+<l>Gy weet zyn gramschap die ontziet noch spaard geen vrinden;</l>
+<l>Zyn kinders kunnen geen verschooning by hem vinden;</l>
+<l>Wy hebben zelf gezien, hoe hy, niet lang geleên,</l>
+<l>Twee zoons heeft omgebragt, en dat om mind're reên.</l>
+<l>Ons staat voor u, voor my, en Monima te vreezen;</l>
+<l>'k Beklaag haar, want zyn min zal haar licht dood'lyk weezen.</l>
+<l>Zyn liefde is ongemeen, zyn minnenyd verwoed,</l>
+<l>Maar liefde heerscht veel min, als haat, in zyn gemoed,</l>
+<l>Vertrouw niet op zyn gunst, schoon zy u is gebleeken;</l>
+<l>Zy zal zyn gramschap nu slechts vinniger ontsteeken.</l>
+<l>Bedenk u, Heer, gy hebt het krygsvolk in uw magt.</l>
+<pb n="20"/>
+<l>Ik weet, al zeg ik niets, van waar ik hulp verwacht.</l>
+<l>Indienge my geloofd, laat ons van deeze wallen</l>
+<l>Ons meester maaken, eer wy worden overvallen;</l>
+<l>Op dat hy niets gebiede aan zyne zoons, als 't geen</l>
+<l>Ons aanstaat, en behaagd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Neen, Pharnaces, ô neen!</l>
+<l>Ik weet myn misdaad wel, ook ken ik mynen vader;</l>
+<l>'k Waar schuldiger als gy, wierd ik ook een verraader,</l>
+<l>Wyl ik myn moeders schuld zou voegen by de myn;</l>
+<l>Wanneer myn vader komt, zal ik gehoorzaam zyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Laat ons ten minsten dan niets van malkander spreeken,</l>
+<l>Myn min is u bekend, en de uwe is my gebleeken:</l>
+<l>Hy, die zeer listelyk zyn haat uitwendig smoord,</l>
+<l>Zal zich te zyner tyd van 't allerminste woord</l>
+<l>Bedienen tegens ons. Met schyn van tederheden</l>
+<l>Is hy gewoon zyn nyd bedrieg'lyk te bekleeden.</l>
+<l>Wyl ik u volgen moet, ik ben bereid; wel aan,</l>
+<l>Maar laat ons evenwel malkander niet verraân.</l></sp></div></div>
+<div type="act">
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Monima, Phedima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>MEvrouw, hoe wandeld gy alleen door deeze zaalen,</l>
+<l rend="; 1tab">Nu ieder heen is om den Koning in te haalen?</l>
+<l>Wat houd u hier, Vorstin? wat is 'er, dat u deerd;</l>
+<l>En, als gy schynt te gaan, maakt dat gy weder keerd?</l>
+<l>Zult gy hier door een vorst, die u bemind, niet hoonen?</l>
+<l>Hy is uw bruidegom.....</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Myn staat zal my verschoonen,</l>
+<pb n="21"/>
+<l>Het voegt niet, dat ik hem ontmoet, maar hier verwacht;</l>
+<l>Dewyl onze echt noch niet volkomen is volbragt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Men mag met vorsten niet, als and're minnaars, leeven,</l>
+<l>Gedenk, uw Vader heeft u aan den Vorst gegeeven;</l>
+<l>Gy hebt een heilig pand tot teeken van zyn min,</l>
+<l>Dat zal voor 't outer u, als zyne Koningin,</l>
+<l>Met hem vereenigen. Ai, ga den Vorst begroeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ach! ben ik nu in staat om Mithridaat te ontmoeten?</l>
+<l>Zie, Phedima, zie dit beschreid gelaat, ei! verg</l>
+<l>My niet, dat ik hem zoek, maar dat ik my verberg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Wat zegt Mevrouw? ô goon!</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Wat baard zyn komst my pynen!</l>
+<l>Rampzalige! zal ik voor Mithridaat verschynen</l>
+<l>Met zyne kroon op 't hoofd, en 't hart... ô ziels verdriet!</l>
+<l>Myn Phedima, helaas! nu gy me bloozen ziet,</l>
+<l>Kunt gy me niet verstaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l rend="; 2tab">Gy valt dan weêr in 't lyden,</l>
+<l>Dat u in Griekenland zoo dikmaal kwam bestryden?</l>
+<l>En Xiphares komt u weêr woelen door het hart?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gy weet myn ramp niet heel; 'k voel nu een dubb'le smart.</l>
+<l>In Grieken minde ik hem om zyn manhafte daaden,</l>
+<l>Als een doorluchtig vorst, gekroond met lauwerblaaden,</l>
+<l>En om zyn deugden; maar helaas! ik dacht geensins,</l>
+<l>Dat ik op 't hoogst bemind wierd van zo braaf een Prins.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Hoe, gy bemind van zulk een held, en zeegeryken....</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ja, hy behoeft voor my in liefde niet te wyken,</l>
+<l>Noch in rampzaligheid. O ja, terwyl ik hier</l>
+<l>Verbrand, gevoeld hy in zyn hart het zelve vier.</l></sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Weet hy, of gy zyn min met wedermin zult loonen;</l>
+<l>Weet hy, dat gy hem mind?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">'k Heb 't hem niet willen toonen,</l>
+<l>De goden gunden my, dat my geen moed ontbrak:</l>
+<l>En dat tot hem myn hart niet, als ten halven, sprak.</l>
+<l>Wist gy, met welk een pyn ik heb my zelf bedwongen,</l>
+<l>Toen my de schaamte, en min gelykelyk besprongen;</l>
+<l>Hoe moeijelyk 't my viel hem wederstand te biên!</l>
+<l>Indien 't my mooglyk is, ik wil hem nooit meer zien.</l>
+<l>Ach Phedima! hoe ik my zelf ook wil bedwingen,</l>
+<l>Als ik zyn smart zag, zou my die licht iets ontwringen</l>
+<l>Van myn verborge min. Hy zelf zal 't licht eerlang</l>
+<l>My doen ontdekken, maar 't zal hem ten ondergang</l>
+<l>Gedyen, en 't was hem veel beter al zyn leeven</l>
+<l>Van myne min te zyn onweetende gebleeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>De Koning komt, Mevrouw, wat zultge doen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">'k Ga heên;</l>
+<l>Ik wil hem dus ontsteld niet in 't gemoed gaan treên.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Mithridates, Pharnaces, Xiphares, Arbates, Lyfwacht</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>WAt gy my ook, ô zoons, voor redenen moogt geeven,</l>
+<l>'k Weet echter dat uw pligt u hier niet heeft gedreeven.</l>
+<l>Verlaat gy Pontus, en gy Kolchos, die ik u</l>
+<l>Had beiden toevertrouwd, in zulk een tyd, als nu?</l>
+<l>Doch ik wil u als Vorst niet rechten, maar verschoonen,</l>
+<l>Als vader, om aan u myn liefde te betoonen.</l>
+<l>Myn zoons, gy hebt te licht gelooft myns doods gerucht,</l>
+<l>Dat ik-zelf had gestrooid, om niet in mynen vlugt</l>
+<l>Te worden achterhaald, Gy zult onschuldig weezen,</l>
+<pb n="23"/>
+<l>Om dat ge 't wenscht te zyn. Den Hemel zy gepreezen,</l>
+<l>Dat wy ons wederom te samen zien gebragt.</l>
+<l>En schoon ik jammerlyk moest buigen voor de magt</l>
+<l>Van Romen, ja myn val onmyd'lyk zie voor oogen,</l>
+<l>'k Zal my nochtans voor 't laatst aan haar te wreeken poogen,</l>
+<l>En u noch deezen dag myn aanslag heel ontkleên.</l>
+<l>Nu gaat, en laat my hier een oogenblik alleen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Arbates</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>NA ruim een jaar ziet gy my wederom, Arbates;</l>
+<l rend="; 1tab">Niet dien gelukkigen, dien grooten Mithridates,</l>
+<l>Die tegens Romen om des waerelds heerschappy</l>
+<l>Heb veertig jaar gestreên, en tusschen haar, en my</l>
+<l>Het lot onzeker hield. 'k Ben wederom geslaagen.</l>
+<l>Pompeus heeft by nacht de zege weggedraagen:</l>
+<l>'k Ben overwonnen, wyl een dikke duisterheid</l>
+<l>Heeft vruchteloos gemaakt 's volks moed, en myn beleid.</l>
+<l>'t Was hen niet mooglyk hun geled'ren te bewaaren,</l>
+<l>Wyl zy half naakt, vol vrees, en ongewapend waren.</l>
+<l>Helaas! wat kon ik doen in zulk een overval?</l>
+<l>Het krygsvolk liep als woest, de schrik was overal,</l>
+<l>De een doode de ander, en het roepen, 't kermen, 't zuchten</l>
+<l>Weêrgalmde van 't gebergt; al 't leger raakte aan 't vlugten;</l>
+<l>'t Veld lag met doôn bedekt; ik zelf was omgebragt,</l>
+<l>Had ik in zulk een nood geen list voor my bedacht.</l>
+<l>'k Liet strooijen dat ik in 't gevecht was omgekomen;</l>
+<l>Dus redde ik my ter vlugt langs velden, en door stroomen,</l>
+<l>Tot ik my eindlyk aan den Kaucazus bevond,</l>
+<l>Doch zonder lang verblyf begaf ik my terstond</l>
+<l>'t Scheep op Euxinus; en, aan de overzy gevaaren,</l>
+<l>Ging ik 't verstrooide heir straks weêr by een vergaâren.</l>
+<l>Door zo veel rampen heen geworsteld, vinde ik hier</l>
+<pb n="24"/>
+<l>Noch grooter ongeval, 'k voel noch het minnevier.</l>
+<l>Myn hart, met bloed gevoed, verhard in 't oorelogen,</l>
+<l>Dat steeds van heerschzucht brand, buigt noch voor min vermoogen,</l>
+<l>En 't beeld van Monima geduurig met zich draagt,</l>
+<l>In spyt van de ouderdom, en 't noodlot dat my plaagt,</l>
+<l>Ach! 't heeft geen vyanden, die 't minder kan gedoogen,</l>
+<l>Als myn ondankb're zoons; die 'k hier zie voor myn oogen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Uw zoons, myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Die zyn 't: maar hoe myn toornigheid</l>
+<l>My 't brein bedwelmt, ik maak noch echter onderscheid.</l>
+<l>'k Heb nimmer Xiphares myn wil zien wederstreeven:</l>
+<l>Hy haat myn haaters, ik heb hem een proef zien geeven</l>
+<l>Van zyne kloekheid en de liefde die hy my,</l>
+<l>Als zynen vader, draagt: en de verraadery</l>
+<l>Zyns moeders door zyn trouw, en wakkerheid verdoemen:</l>
+<l>Dies strekt haar schande hem tot stof, om op te roemen.</l>
+<l>En ik geloof noch niet, ja durf niet denken, dat</l>
+<l>Die braave zoon zich met trouw loosheid heeft beklad.</l>
+<l>Maar echter weet ik niet, wat zy hier beide maaken.</l>
+<l>Of heeft hen Monima doen beide in liefde blaaken?</l>
+<l>Zeg my, met wien zy 't houd, wien 't meest is toegedaan:</l>
+<l>Op dat ik weet, hoe ik met haar te werk moet gaan.</l>
+<l>Hoe zeer wy Monima verlangen te begroeten,</l>
+<l>Gy zult me eerst rek'ning van hun harten geeven moeten.</l>
+<l>Wat is hier omgegaan? wat zaagtge al? en wanneer</l>
+<l>Liet gy myn zoons hier in de vesting? spreek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 2tab">Myn H<figure rend="inline"><p><xptr to="raci001mith01fi0001.gif"/></p></figure>r,</l>
+<l>Prins Pharnaces is hier een week geleên gekomen.</l>
+<l>'t Gerucht van uwe dood, dat ik reeds had vernoomen,</l>
+<l>Heeft hy bevestigd, en wou hier straks meester zyn.</l>
+<l>Maar ik, die my nooit liet verblinden door de schyn</l>
+<pb n="25"/>
+<l>Van valsche maaren, had hem nimmer willen hooren,</l>
+<l>Had Xiphares, die in zyn traanen scheen te smooren</l>
+<l>Om uwe dood, my niet verzekerd van 't gerucht,</l>
+<l>Min door zyn redenen, als zyn bedroefd gezucht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Wat deên zy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Pharnaces, myn Heer, was naauwlyks binnen,</l>
+<l>Of straks verk laarde hy de Koningin te minnen,</l>
+<l>Ontdekte haar zyn liefde, en wilde voor de Goôn</l>
+<l>Doen stellen op haar hoofd de koninklyke kroon,</l>
+<l>Die zy ontfangen had voorheen van u, zyn vader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Mogt zy myn assche niet beschreijen, O verraader!</l>
+<l>En haaren pligt voldoen? en Xiphares?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 2tab">Tot nu</l>
+<l>Heeft hy geen zucht getoond te draagen, als tot u.</l>
+<l>Zyn hart, met u vereend, scheen van geen vier ontsteek en</l>
+<l>Als om op 't Roomsche volk uw droeve dood te wreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Wat voerd hem even wel uit Kolchos herwaards aan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Myn Heer, dereden zultge eens vroeg, of laat verstaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Neen, spreek: 'k gebied het u, geef my van alles reden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Al 't geen ik weeten kon, en zien, ô Vorst, tot heden,</l>
+<l>Is dat hy deeze plaats, die gy my hebt vertrouwd,</l>
+<l>En 't landschap na uw dood, als voor het zyne houd:</l>
+<l>En meer betrouwende op zyn moed, als op de wetten,</l>
+<l>Heeft hy met magt zich in zyn erfdeel willen zetten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>O dit is 't minst, dat hy te wachten heeft van my,</l>
+<l>Zo my de Hemel gund, dat ik myn zaaken vry</l>
+<l>Beschikken mag. 'k Beken, ik was voor hem verlegen;</l>
+<l>Maar nu voel ik myn ziel van vreugde zich beweegen.</l>
+<pb n="26"/>
+<l>'k Schep weder adem: ach! ik vreesde dat die zoon,</l>
+<l>Die dus lang heeft geweest een stut van mynen troon,</l>
+<l>Myn medeminnaar was: laat Pharnaces my hoonen,</l>
+<l>Ik zweer, ik zal dien schelm naar zyn verdiensten loonen,</l>
+<l>Hy heeft my lang gekweld en menigmaal gesard;</l>
+<l>Wanneer ik zien moest, dat hy Romen in zyn hart</l>
+<l>Begunstigde, en verhief: dit bleek uit al zyn daaden.</l>
+<l>Maar heeft my Monima om zynent wil verraaden?</l>
+<l>Gunt zy hem 't hart, dat my voor deezen was beloofd?</l>
+<l>Wee hem! die my myn bruid zo schelms, en stout ontroofd;</l>
+<l>Wee dien ontaarden! dien ontrouwen! dien verrader!</l>
+<l>Mind zy hem ook?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Myn Heer, de Koningin komt nader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>O goon, die myn gemoed, en myne liefde ziet,</l>
+<l>Zend my geen meerder leed, belet tog, dat ik niet</l>
+<l>Moog vinden, 't geen ik zoek. 't is nu genoeg, Arbates.</l>
+<l>Laat my alleen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Monima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">MEvrouw, hier ziet gy Mithridates.</l>
+<l>De Goden hebben my hier wederom gebragt,</l>
+<l>En reeds myn ongeval door deeze gunst verzacht,</l>
+<l>Dat ik myn Koningin mag wederom aanschouwen,</l>
+<l>Veel schoonder noch als ooit. De dag om u te trouwen</l>
+<l>Vermoede ik niet, Vorstin, dat zo laat daagen zou,</l>
+<l>Noch dat ik u, helaas! met myne komst, Mevrouw,</l>
+<l>Meer tekens van myn ramp, als van myn min zou geeven.</l>
+<l>'k Ben herwaarts heen alleen door uwe min gedreeven,</l>
+<l>Om u alhier te zien; ja 'k vind myn leed verzoet,</l>
+<l>Zo slechts myn komst geen leed verwekt in uw gemoed,</l>
+<l>Die gy met smarten lang had hooren te verwachten.</l>
+<pb n="27"/>
+<l>Mevrouw, ik zeg genoeg, indien ge'er op wilt achten.</l>
+<l>Gy draagt, gelykge weet, het teken van myn woord,</l>
+<l>Het welk u dag'lyks zegt, dat gy my toebehoord.</l>
+<l>Wel aan dan, binden wy die trouw met vaster banden;</l>
+<l>Myn grootheid roept ons bei van hier naar andre landen;</l>
+<l>Ons diend geen tyd verzuimd: myn aanslag is te groot:</l>
+<l>En morgen moed ge my verzellen op myn vloot.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Myn Heer, doet watge wilt: want zy, wien ik myn leeven</l>
+<l>Moet danken, hebben my in uwe magt gegeeven;</l>
+<l>En wat gy me ook gebied, ik ben altoos bereid:</l>
+<l>'k Zal niet antwoorden, als door myn gehoorzaamheid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Gy toont u willig om u onder 't juk te vleijen:</l>
+<l>Maar laat nochtans u als een offer heen geleijen</l>
+<l>Naar 't outer: gy bemind my min, als gy me ontziet;</l>
+<l>En schoon geu geeft aan my, weet, gy verpligt me niet.</l>
+<l>Mevrouw, hoe zultge my op zulk een wys ontfangen?</l>
+<l>En mind my Monima nu slechts als myn gevangen;</l>
+<l>Uit liefde niet, maar dwang? dat had ik niet verwacht.</l>
+<l>Of maakt myn ongeval my in uw oog veracht?</l>
+<l>O! schoon ik alles, wat ik noch bezit, moest derven,</l>
+<l>En als een balling gaan langs vreemde stranden zwerven;</l>
+<l>Al had my 't bars geval gebragt in zulk een nood,</l>
+<l>Dat ik alom vervolgt, van raad, en magt ontbloot,</l>
+<l>Moest van den buit, gelyk een snoode roover, leeven,</l>
+<l>En niets dan mynen naam my over was gebleven:</l>
+<l>Zo weet, dat wie den naam van van Mithridates hoord,</l>
+<l>Met diepe eerbiedigheid zou knielen op dat woord;</l>
+<l>Ja dat geen vorst op aard, hoe hoog in top verheven,</l>
+<l>Indien hy 't waardig is, aldus met my te leeven,</l>
+<l>Zou weigeren, en my, die veertig jaaren lang</l>
+<l>Met Romen heb gestreên, zo schoonen ondergang</l>
+<l>Niet zou benyden. Gy zoudme ook meer eer bewyzen,</l>
+<l>Mogt in uw hart een drop van 't heldlyk bloed verryzen.</l>
+<l>En nu gy eindelyk met my naar 't outer moet,</l>
+<l>O! 't zou zeer eerlyk staan voor u, en voor uw bloed,</l>
+<pb n="28"/>
+<l>U, volgens u wen pligt, gehoorzaamlyk te voegen,</l>
+<l>En myn genegentheid volkomen te vernoegen,</l>
+<l>My te vertroosten, en te bannen uit myn hart</l>
+<l>Het misvertrouwen, dat my meer, als alles, smart.</l>
+<l>Wel hoe, Mevrouw, hebt gy geen antwoord my te geeven?</l>
+<l>Wat maakt u dus ontsteld! waar is uw spraak gebleeven?</l>
+<l>Hoe gy my ziet ontroerd, gy zwygt, en antwoord niet?</l>
+<l>Maar 't oog, dat schreijen wil, toond klaar uw zielsverdriet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ik schreijen: neen, myn Heer: verwacht van my geen traanen.</l>
+<l>'k Gehoorzaam u, waar toe my verder aan te maanen?</l>
+<l>Kunt gy me niet verstaan? is 't niet genoeg?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 2tab">O neen 't.</l>
+<l>Doch ik versta u wel, en beter, als gy meent.</l>
+<l>Men heeft my waar gezegd, en ik ben door dit spreeken</l>
+<l>Noch krachtiger, als ooit, in minnenyd ontsteeken.</l>
+<l>Myn trouwelooze zoon, door uw gezigt bek oord,</l>
+<l>Heeft u zyn min ontdekt, en gy hebt hem gehoord.</l>
+<l>Gy schrikt reeds, naar ik zie, nu dat gy hem hoord melden.</l>
+<l>Bemin hem vry; maar 'k zweer, dat ik 't hem zal vergelden,</l>
+<l>Mevrouw, indien ik hier, als eertyds, kan gebiên,</l>
+<l>'k Verzeker u, gy zult hem nimmer weder zien.</l>
+<l>Roept Xiphares.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">O goon! myn Heer, wat zal dit weezen?</l>
+<l>Hoe! Xiphares?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Die hoeft myn gramschap niet te vreezen;</l>
+<l>Hy heeft my niet verraân, en 't is vergeefs, dat gy</l>
+<l>Dien braaven zoon verdacht te maaken zoekt by my.</l>
+<l>Mevrouw, kon Xiphares, die 't waard is, u behaagen,</l>
+<l>'t Waar u vry minder schand, my lichter te verdraagen;</l>
+<l>Maar een verraader, een trouw loozen zoon, wiens hart</l>
+<l>Van 't myne zo vervreemd, my hoond, my tergt, en sart;</l>
+<l>Die nooit iets deugdelyks, of loflyks heeft bedreeven,</l>
+<pb n="29"/>
+<l>In een woord Pharnaces, Mevrouw, uw hart te geeven,</l>
+<l>Dien schelm te minnen, en my schandlyk te versmaân....</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Monima, Mithridates, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>KOm hier, myn zoon, kom hier, uw vader is verraân.</l>
+<l>Uw snoode broeder heeft myn ondergang gezwooren;</l>
+<l>Onteerd my, zoekt myn dood, en komt myn aanslag stooren.</l>
+<l>Hy mind de Koningin, behaagd haar, en ontroofd</l>
+<l>Me een hart aan my verpligt, my van de Goôn beloofd.</l>
+<l>Gelukkig evenwel, dat ik van zulk een boosheid</l>
+<l>De schuld moet geeven aan uw broeders trouweloosheid;</l>
+<l>Dat niet aan uwe ziel uw's moeders ontrouw kleeft,</l>
+<l>En Pharnaces vergeefs u een k waad voorbeeld geeft;</l>
+<l>O ja, myn zoon, op u alleen mag ik vertrouwen;</l>
+<l>Op u alleen durf ik myn hoop, en aanslag bouwen.</l>
+<l>'k Heb u tot metgezel, en waardige erfgenaam</l>
+<l>Verkoren van myn ryk; voor alles, van myn faam.</l>
+<l>Myn min, noch Pharnaces, die my dus hoond en geeven</l>
+<l>Myn ziel alleen geen werk, 'k word elders heen gedreeven,</l>
+<l>En de aanslag, die ik heb, vereischt myn zorg, en vlyt;</l>
+<l>Ja alles roept om my in deez' verwarden tyd.</l>
+<l>Op dat myn scheepsvloot, en myn volk moog vaardig weezen,</l>
+<l>Zy my gehoorzaamheid betoonen, als voor dezen.</l>
+<l>Gy onderwyl, myn zoon, blyf hier, op dat ik mag</l>
+<l>Gerust zyn, en dat my geen onverwachte slag</l>
+<l>Myn bruid ontroov'. Gy moet uw's broeders min beletten;</l>
+<l>Blyf by de Koningin, en zoek haar om te zetten,</l>
+<l>Op dat zy myne min met wedermin beloon;</l>
+<l>Voor al draag zorg, dat zy my noch niet verder hoon.</l>
+<l>Wees steeds onzydig, engy zult haar licht ver winnen;</l>
+<l>Want zo zy verder gaat, in plaats van haar te minnen,</l>
+<l>Myn min wierd raazerny, waar van het naberouw</l>
+<l>My, na genome wraak, wel licht eerst treffen zou.</l></sp></div>
+<div type="scene">
+<pb n="30"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Monima, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>WAt zal ik zeggen? hoe versta ik deeze reden?</l>
+<l rend="; 1tab">Mevrouw, gy hebt gehoord het geen de Koning heden</l>
+<l>My heeft bevoolen. Zou 't wel waar zyn, groote goôn!</l>
+<l>Is Pharnaces, helaas! dan de oorzaak dezer hoon,</l>
+<l>Die hem zo zeer ontsteld, en hebt gy hem verkooren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe! Pharnaces? die 'k haat. O goôn, wat moet ik hooren!</l>
+<l>Het is dan niet genoeg, dat deeze droeve dag</l>
+<l>My eeuwig scheid van u! ô doodelyke slag!</l>
+<l>En dat ik, laas! verpligt als een flaavin te leeven,</l>
+<l>Aan eindeloos verdriet my zelf moet overgeeven;</l>
+<l>Men voegd noch by myn leed dit schandelyk verwyt,</l>
+<l>Dat ik om Pharnaces zou schreijen, wat een spyt!</l>
+<l>Ik haat hem als de dood; zou ik hem liefde toonen?</l>
+<l>Den Koning, wien de toorn verblind, kan ik verschoonen.</l>
+<l>Hy kend myn hart niet, noch genoot ooit gunst van my;</l>
+<l>Maar gy, myn Heer, zult gy my dus bejeg'nen? gy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Mevrouw, vergeef het my; de liefde doet my dwaalen.</l>
+<l>De dwang zet myne min, zo wel, als de uwe, paalen;</l>
+<l>'k Durf my niet wreeken, schoon ik alles missen moet;</l>
+<l>Maar wat te denken van den Vorst, die, als verwoed,</l>
+<l>Klaagt, dat een ander hem het hart u komt ontrooven;</l>
+<l>Wat heilryk minnaar mag zich zulk een gunst belooven?</l>
+<l>Wie is 't, Mevrouw?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">Schept gy vermaak in uw verdriet,</l>
+<l>Beklaag uw ongeval, maar ach! vergroot het niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Ik weet wel wat een smart dat ik my zelf ga brouwen,</l>
+<l>Gering is 't, dat ik u zie met myn vader trouwen;</l>
+<l>Maar noch te lyden dat een ander de eer geniet</l>
+<l>Van uwe traanen, baard my 't grootste zielverdriet.</l>
+<pb n="31"/>
+<l>Doch 'k zoek myn lyden door myn wanhoop te vergrooten;</l>
+<l>Wie heeft, Mevrouw, 't geluk van uwe gunst genooten?</l>
+<l>Doe my de gunst, en zegme, ei! zegme, wie het is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Is 't u zo moeijelyk om deez' geheimenis</l>
+<l>Te ontdekken? toen ik zocht uw's broeders hand te ontkomen,</l>
+<l>Tot wien, myn Heer, heb ik myn toevlugt toch genomen?</l>
+<l>Wie klaagde ik myne nood? wie gaf me toen zyn woord?</l>
+<l>Wiens min heb ik, als de uwe, ooit gunstig aangehoord?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>O hemel! zonde ik my hier op betrouwen mogen?</l>
+<l>Mevrouw, ben ik het die gy zaagt met gunstige oogen?</l>
+<l>En is 't om mynent wil, dat gy deez' traanen schreid?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ja, Prins, om uwent wil. 'k Hiel myn geneegentheid</l>
+<l>Met smart een lange tyd in myn gemoed verhoolen;</l>
+<l>En 't zwygen voegd my noch; maar 't vuur, zo lang verschoolen,</l>
+<l>Barst uit, hoe 't wierd verdrukt, 't wierd echter nooit versmoord;</l>
+<l>Doch nu hebt gy myn min voor 't eerst, en 't laatst gehoord.</l>
+<l>Gy schepte al overlang in myne min behaagen,</l>
+<l>En ik heb lange tyd u liefde toegedraagen.</l>
+<l>Herdenk dien droeven dag, 't begin van uwen druk,</l>
+<l>Toen eerst uw ziel door my gebragt wierd onder 't juk.</l>
+<l>Denk aan 't vermaak, myn Heer, zo weinig tyds genooten,</l>
+<l>En hoe dat u de liefde uws vaders heeft verdrooten,</l>
+<l>Toen gy uw ongeval en zyn geluk moest zien,</l>
+<l>En toen gy tegens dank van Monima moest vliên.</l>
+<l>Als gy dit overweegt, myn Heer, in uw gedachten,</l>
+<l>Gy zult myn traanen steeds vermengt zien met uw klagten:</l>
+<l>Ik leê, al wat gy leed; 'k heb 't heden aangehoord:</l>
+<l>Myn hart antwoorde 't uw', myn Heer, op ieder woord.</l>
+<l>Rampzaal'ge liefde, die wy niet volbrengen moogen!</l>
+<l>Schoone overeenkomst, die het lot niet wil gedoogen!</l>
+<pb n="32"/>
+<l>Ach! wreede hemel! die ons geeft een ziel, en zin,</l>
+<l>Waarom verhinderd gy 't volbrengen onzer min!</l>
+<l>Want hoe myn hart tot u, myn Heer, ook is genegen,</l>
+<l>Weet echter, dat myn pligt myn min moet overwegen;</l>
+<l>Die roept my naar 't altaar, door 't recht der Majesteit,</l>
+<l>En daar beloof ik u het zwygen. 'k Zie gy schreid;</l>
+<l>Ik hoor, gy zucht: gy ziet, hoe 't lot my is verbolgen:</l>
+<l>Ik kan uw bruid niet zyn: maar moet uw vader volgen.</l>
+<l>Gy zelf moet nu de hand my bieden, schoon 't u smart,</l>
+<l>En helpen my om u te bannen uit myn hart,</l>
+<l>'k Verwacht voort 't minst, dat gy me uw heuschheid zult doen blyken;</l>
+<l>En waar gy my ontmoet, myn byzyn steeds ontwyken.</l>
+<l>'k Heb u genoeg gezegt, om u gantsch te overreên,</l>
+<l>Dat gy u wachten moet deez' wet ooit te overtreên.</l>
+<l>En zo uw hart my ooit heeft waare min gedraagen,</l>
+<l>Myn Heer, zo Monima u immer kon behaagen,</l>
+<l>Zo komt na deezen nooit ter plaats, daar gy haar ziet,</l>
+<l>Helaas! want zonder dat acht ik uw liefde niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Goôn! welk een liefde! maar wat mag uw gunst my baaten,</l>
+<l>O straffe Hemel! die haar dwingt my te verlaaten,</l>
+<l>Gy stoot my van den top van vreugd en van geluk</l>
+<l>In eenen jammerpoel van eindeloozen druk.</l>
+<l>Hoe heb ik dan uw ziel in liefde doen ontvonken,</l>
+<l>En zal een ander nu met u, myn bruid, gaan pronken,</l>
+<l>En rooven my een hart, dat my was toegezeid?</l>
+<l>Wreê vader! ruim zo straf, als vol rampzaligheid.</l>
+<l>Mevrouw, waarom wilt gy, dat ik van u zal vlieden?</l>
+<l>Weet gy niet wat de Vorst my daadlyk kwam gebieden?</l>
+<l>Wat zal hy zeggen...</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Gy moet my gehoorzaam zyn,</l>
+<l>Zet uwen vader om door de een of de andre schyn.</l>
+<l>Dit zal de grootste zyn van uw doorluchte daaden.</l>
+<l>Ja, Prins, gy moet om my uw lusten zelfs versmaaden.</l>
+<l>Ach! gy zyt wreed, zo gy my hier in niet voldoet,</l>
+<pb n="33"/>
+<l>En voerd my in myn dood, 'k mistrouw myn teêr gemoed;</l>
+<l>Ik ken myn zwakheid, en ik loop gevaar van 't leeven;</l>
+<l>Als ik uw droefheid zag, zou my de moed begeeven;</l>
+<l>'t Herdenken uwer min zou myn genegentheid</l>
+<l>Doen zuchten; en myn hart, dat van de liefde, en spyt</l>
+<l>Verscheurd word, zou terstond uit zyne boeijens springen,</l>
+<l>En vliegen naar u toe; des komt ge my te dwingen</l>
+<l>Tot die uitspoorigheid, zo schaad'lyk aan myn eer,</l>
+<l>Dat iemand u om my hoord zuchten, weet, myn Heer,</l>
+<l>Gy zuld my evenwel in 't minste niet beletten</l>
+<l>De schand dier heugenis my zelfs betaald te zetten;</l>
+<l>Ik zal u rukken uit myn hart, en met myn bloed</l>
+<l>Die hoon afwasschen van myn grootsch onteerd gemoed.</l>
+<l>Maar, ach! wat zeg ik? schoon ik van u af wil scheiden,</l>
+<l>Een doodelyk vermaak doet my noch echter beiden;</l>
+<l>'k Voel dat myn hart, door u te spreeken, en te zien,</l>
+<l>Met lust verlengt 't gevaar, waar voor 't behoord te vliên.</l>
+<l>'t Moet echter zyn. Om niet geheelyk te vertreeden</l>
+<l>'t Klein overschot, helaas! van myn stantvastigheden,</l>
+<l>Zo vliede ik; en betrouwme op uw gehoorzaamheid,</l>
+<l>Verdien, Prins, dat ge word van Monima beschreid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Mevrouw.... Zy vlugt, en wil my geen gehoor verleenen.</l>
+<l>Rampzaal'ge Xiphares! wat loopt gy? ach! waar heenen?</l>
+<l>Gy zyt bemind, en word gebannen. Ach! gy ziet</l>
+<l>Dat uwe pligt, zo wel als haare, 't u gebied.</l>
+<l>Kom, dood, verlos myn ziel uit deez' rampzaligheden!</l>
+<l>Maar zal dan Pharnaces myn plaats by haar bekleeden?</l>
+<l>Neen: moet het zyn, dat my een minnaar haar ontruk,</l>
+<l>'k Gun, stervend, niemand, als myn vader, dat geluk.</l></sp></div></div>
+<div type="act">
+<pb n="34"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Mithridates, Pharnaces, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>NU komt, gy Princen, komt; het uur is nu gekomen,</l>
+<l rend="; 1tab">Dat gy moet weeten wat wy hebben voorgenomen.</l>
+<l>'t Schynt, dat zich alls tot myn aanslag gunstig wend,</l>
+<l>En daar niets aan ontbreekt, als datze u zy bekend.</l>
+<l>'k Ben vlugtig, 't bars geval heeft my toch hier gedreeven.</l>
+<l>Maar gy weet al te wel het tydboek van myn leeven</l>
+<l>Om ooit te denken, dat ik my in deezen hoek</l>
+<l>Verbergen zal, tot dat de vyand my bezoek.</l>
+<l>Het oorlog geeft zo wel geluk, als ongelukken;</l>
+<l>De Bosphoor heeft my meêr, als eens, te rug zien rukken</l>
+<l>Met nieuwe benden uit het diepst van zyn moeras,</l>
+<l>Terwyl de vyand door myn vlugt bedroogen was,</l>
+<l>Als overwinner scheen van my te zegepraalen,</l>
+<l>Zyn zegetekens in het koper deede maalen,</l>
+<l>En reeds myn ryken, als met ketens, had geboeid,</l>
+<l>Wanneer ik, als een stroom, die alles overvloeid,</l>
+<l>Hem op het onvoorziens kloekmoedig kwam bespringen,</l>
+<l>En door myn dapperheid de zege weêr ontwringen:</l>
+<l>Hem dreef uit Azien, als met een donderslag,</l>
+<l>En 't werk eens heelen jaars vernielde in eenen dag.</l>
+<l>Nu is 't een and'ren tyd: 't heel Oosten zucht in banden:</l>
+<l>'t Verdubbelde geweld der Roomsche dwingelanden</l>
+<l>Is niet te wederstaan. De landen zyn bedekt</l>
+<l>Met Romers, die de hoop van winning herwaards trekt.</l>
+<l>Dat roofziek volk, 't welk zich verrykt door 't ooreloogen,</l>
+<l>Komt herwaarts door 't gerucht van onzen schat bewoogen:</l>
+<l>Malkander nydig om den buit, daar elk naar tracht,</l>
+<l>Zoekt ieder om het zeerst 't geluk, terwyl 't hem lacht,</l>
+<pb n="35"/>
+<l>Te vatten. Dit doet hen met hoopen overkomen:</l>
+<l>Hun land ontblooten, om het onze te overstroomen.</l>
+<l>Geen Vorst, die wederstand hen bied, als ik alleen,</l>
+<l>Myn vrienden helpen my zo trouw niet, als voorheên.</l>
+<l>Elk een keerd my de nek: en wenscht van my ontslagen</l>
+<l>Te weezen: and'ren reeds het juk des vyands draagen.</l>
+<l>Pompéus naam alleen verzekerd zyn gezag.</l>
+<l>Hy is 't, die zich den schrik van 't Oosten noemen mag.</l>
+<l>Ik meen in Azien hem niet meêr aan te vallen:</l>
+<l>Maar zelfs myn heir te slaan om Romens trotsche wallen.</l>
+<l>Deeze aanslag dunkt u vremd, gy denkt misschien, dat zy</l>
+<l>Uit dulle wanhoop spruit, of wel uit raazerny.</l>
+<l>'k Vergeef het u. Ik weet eerst moet men de uitslag wachten,</l>
+<l>Dewyl men zelden eer een aanslag goed durf achten.</l>
+<l>Denkt niet, myn zoons, dat ons van Romen de natuur</l>
+<l>Gescheiden heeft met een onoverwinb'ren muur.</l>
+<l>O neen! ik ben gantsch niet in deeze zaak verlegen:</l>
+<l>Dit land is my bekend, ook weet ik al de wegen</l>
+<l>Daar door ik trekken moet, en by aldien de dood</l>
+<l>Myn aanslag niet, met my te vellen, om en stoot,</l>
+<l>Zo zult gy haast de vrucht aanschouwen van myn woorden,</l>
+<l>En eer drie maanden staan op 's Tybers trotsche boorden.</l>
+<l>Hoe! weet gy niet myn zoons, dat my de Euxinus brengt</l>
+<l>In een twee daagen tyd, daar zich de Donau mengt</l>
+<l>Met zyne wateren? of vreest gy, dat de Scyten,</l>
+<l>Zich van hunne eeden niet getrouw'lyk zullen kwyten,</l>
+<l>Of sluiten my den weg naar Romen? neen, ô neen!</l>
+<l>Hun lot is met het myn', 't myn' met het hunn' gemeen.</l>
+<l>Ik weet, zy zullen vol van vreugde, en met genoegen,</l>
+<l>In hunne havens my ontfangen, en zich voegen</l>
+<l>By onze krygsmagt, die geduurig groeijen zal,</l>
+<l>Waar wy ons leger slaan: 'k verwacht een groot getal</l>
+<l>Van Dacers, Pannoniers, en kloeke Duitsche mannen:</l>
+<l>Zy wachten slechts een hoofd, om tegen die tierannen,</l>
+<l>De Romers aan te gaan: de Spanjaarts vol van moed,</l>
+<l>En Gaulers boven al, die hebben my het bloed</l>
+<l>Ontsteeken, om met hen 't fier Romen te bespringen,</l>
+<pb n="36"/>
+<l>Dat hun voorouders eer alleen wel konde dwingen;</l>
+<l>Zy porren my tot wraak, en bieden my de hand</l>
+<l>Door hun gezanten, die my zelfs in Griekenland,</l>
+<l>Gelyk u is bekend, te zamen kwamen vinden,</l>
+<l>Verzoekende, dat ik my met hen zou verbinden.</l>
+<l>Zy weeten, dat, als my die zwaare waterval</l>
+<l>Verslonden heeft, hy hen ook overstroomen zal.</l>
+<l>Gy zult hen, om den loop dier vloed, hoe zeer verbolgen,</l>
+<l>Te stuiten, aanstonds zich my met hun benden volgen.</l>
+<l>Italien zal 't meest van allen u doen zien,</l>
+<l>Hoe zeer een ieder wenscht het Roomsche juk te ontvliên,</l>
+<l>Gy zult het over al elendiglyk zien rooken</l>
+<l>Van 't lykvier, dat het voor zyn vryheid heeft ontstooken.</l>
+<l>O Prinsen, 't is alleen niet aan des waerelds end</l>
+<l>Dat Romens dwinglandy, en wreedheid is bekend?</l>
+<l>Zy leggen 't z waarste juk op hunne naaste buuren.</l>
+<l>Uw grootste vyand is rondom uwe eigen muuren,</l>
+<l>O Romen! hebben zy eertyds om dat geweld</l>
+<l>Té ontgaan een slechten slaaf tot hoofd van 't heir gesteld,</l>
+<l>En Spartakus tot hun beschermer aangenoomen;</l>
+<l>Ja roovers zelfs gevolgd, om zich aan 't heilloos Romen</l>
+<l>Te wreeken, ô! hoe vol van blydschap zullen zy</l>
+<l>Te samen spannen, en zich voegen nevens my:</l>
+<l>Die zulk een Koning ben, zo loffelyk van daaden,</l>
+<l>Zo groot van naam, zo vaak gekroond van lauwerbladen.</l>
+<l>En die gesprooten ben uit Cyrus edel bloed.</l>
+<l>'k Zie hen al juichchende my komen in 't gemoed.</l>
+<l rend="; 1tab">Maar zeg my, in wat staat meend gy die stad te vinden?</l>
+<l>Van binnen zonder volk, van buiten zonder vrinden,</l>
+<l>Hoe! zal, terwyl zy hier dus yvren naar myn val</l>
+<l>Het weêrloos vrouwevolk my keeren van hun wal?</l>
+<l>Laat ons dan in hun schoot het oorlog overvoeren,</l>
+<l>Terwyl hun raazerny al 't aardryk gaat beroeren:</l>
+<l>Bespringen wy met magt die wolven in hun nest,</l>
+<l>Op dat zy op hun beurt ook beeven voor hunn' vest,</l>
+<l>En haartsteên. Hannibal heeft ons voorzegt voor dezen,</l>
+<l>Dat nergens 't Roomsche volk zou te overwinnen weezen,</l>
+<pb n="37"/>
+<l>Als binnen hunnen wal; dies laat ons in hun bloed</l>
+<l>Hen smooren, 't Kapitool verteeren door den gloed</l>
+<l>Des viers, terwyl het hoopt van my te zegepraalen.</l>
+<l>Doen wy zyn hoogmoed in een zee van schande daalen,</l>
+<l>En als zyn heerlykheid verdwynen in de rook.</l>
+<l>Laat ons de Vorsten hoon, en licht myne eigene ook,</l>
+<l>Uitwisschen: ja, doen wy verstuiven met de vonken,</l>
+<l>De naamen, daar het dacht voor eeuwig meê te pronken.</l>
+<l>Myn roem, en de uwe zal dan tot de starren gaan:</l>
+<l>Wy pronken met een kroon van eeuw'ge lauwerblaân.</l>
+<l rend="; 1tab">Hier ziet ge de eerzucht, daar myn hart mede is bezeten;</l>
+<l>Denk echter niet; dat ik zal Aziën vergeeten,</l>
+<l>Of vredig laaten in de magt van Romen, neen!</l>
+<l>Ik zal 't bescherremers verwekken: ik alleen</l>
+<l>Ben hunne vyand niet; men moet van alle kanten,</l>
+<l>Terwyl dat ik myn heir rondom hunn' wal zal planten,</l>
+<l>Hen fel bespringen, op dat Romen, als 't zich ziet</l>
+<l>Beknellen, te vergeefs Pompéus hulp ontbied.</l>
+<l>De Vorst der Parthen, als zo zeer voor hen te vrezen,</l>
+<l>Als ik, zal in den kryg hier myn navolger weezen,</l>
+<l>Hy is geneegen, ja hy staat reeds vaardig, om</l>
+<l>Met my te sluiten, ook heeft hy tot bruidegom</l>
+<l>Van zyne dòchter een van myne zoons verkooren,</l>
+<l>Die eer hoord u, ô Prins; 'k heb u die bruid beschooren;</l>
+<l>Ga heen, myn Pharnaces; daar u 't geluk zo lacht;</l>
+<l>Ga, daar men u, myn zoon, als bruidegom verwacht.</l>
+<l>'k Hoop morgen, eer de Zon zyn hoofd heft uit de baaren,</l>
+<l>Reeds met myn gantsche vloot in volle zee te vaaren;</l>
+<l>Zie, dat ge door uw vlyt verdienen moogt myn keur.</l>
+<l>Vaar wel; myn zoon, en maak, dat ik uwe yver speur.</l>
+<l>Keer, als gy deeze trouw volbragt hebt, naar de Euphrates,</l>
+<l>En toon aan Aziën een and'ren Mithridates.</l>
+<l>Maak, dat den vyand beeft; verstoor zyn dwinglandy,</l>
+<l>Op dat daar van 't gerucht te Romen kom by my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>'k Ben in verwondering door 't hooren opgetoogen</l>
+<pb n="38"/>
+<l>Van zulk een aanslag; maar ik kan ook voor uw oogen</l>
+<l>Niet veinzen. Ik beken, ze is heerelyk, en groot;</l>
+<l>'k Denk niet; dat ooit een vorst, geparst door hooge nood,</l>
+<l>Stoutmoediger bedacht, om zich voor 't laast te wreeken.</l>
+<l>Maar zo ge my vergund vrymoediglyk te spreeken,</l>
+<l>Hebt gy deez' aanslag wel ter deegen overdacht?</l>
+<l>En zyt gy reeds tot zulk een uitterste gebragt?</l>
+<l>Waar toe zo ver uw heil te zoeken? 't is geen reden,</l>
+<l>Wyl gy noch meester zyt van zo veel sterke steden,</l>
+<l>Waarom steekt gy u zelf in rampen zonder end?</l>
+<l>Dat paste wel een hoofd van ballingen, gewend</l>
+<l>Te zwerven; maar geen Vorst van dertig Koningryken.</l>
+<l>Voor wien noch onlangs al de Waereld scheen te wyken,</l>
+<l>Te buigen voor zyn staf, van daar de dageraad</l>
+<l>De morgenzon begroet, tot daar zy onder gaat.</l>
+<l>Het overschot, myn Heer, van uw voorleede staaten</l>
+<l>Is nog een magtig ryk, te waard om te verlaaten.</l>
+<l>Gy hebt noch magts genoeg, na veertig jaaren stryd,</l>
+<l>Te worst'len met het lot, uw haateren ten spyt.</l>
+<l>Onzoenbaar zytge voor het moedig volk van Romen;</l>
+<l>De zoetheid van de rust kan in uw hart niet komen;</l>
+<l>Maar teld gy ieder van uw mannen voor een held?</l>
+<l>En zullen zy, die nu noch beeven voor 't geweld</l>
+<l>Des Roomschen Adelaars, daar voor zy korts met schanden</l>
+<l>Hen gaven op de vlugt, met u in vreemde landen</l>
+<l>Gaan loopen in hun dood? ja dat noch erger is,</l>
+<l>Ontelb re moeilykheên verdraagen? neen gewis:</l>
+<l>'t Zal u ontschieten. Moede, en afgemat geslaagen,</l>
+<l>Zal hen zo zwaar een togt, zo vol gevaar, behaagen?</l>
+<l>Zal elders 't volk, dat hier hem niet kon wederstaan,</l>
+<l>Hun overwinnaar op zyn eigen grond verslaan?</l>
+<l>Zal hy min vreeslyk zyn voor hen om aan te vallen</l>
+<l>In 't binnenst' van zyn stad, in 't midden van zyn wallen?</l>
+<l>En min onwinnelyk in 't aanzien van zyn goôn?</l>
+<l>De Parth bood u de hand, en eischte wel uw zoon</l>
+<l>Voor zyne dochter, toen gy noch waard in uw staaten,</l>
+<l>En ieder 't met u hield; nu elk ons heeft verlaaten,</l>
+<pb n="39"/>
+<l>Zal hy ons aanzien met den nek; meend gy, dat hy</l>
+<l>Nauwe nederlaag noch denkt om u, of my?</l>
+<l>Meend gy, dat hy me nu als schoonzoon zal onthalen?</l>
+<l>Zal ik alleen, als een verschooveling, gaan dwaalen,</l>
+<l>Zyn ontstantvastigheid beproeven, en tot loon</l>
+<l>Van myn verwaande min verstrekken, welk een hoon,</l>
+<l>Voor u, en my, een spot van al zyn Hovelingen?</l>
+<l>Indien de nood vereischt, dat we onze moed bedwingen,</l>
+<l>Zo 't weezen moet, dat wy om hulp tot iemant gaan:</l>
+<l>Maak u van mindere, als gy zyt, geen onderdaan,</l>
+<l>Noch verg my niet de Parth op myne kniên te smeeken.</l>
+<l>Maar laat ons, om dien hoon te ontgaan, van vrede spreeken</l>
+<l>Met Romen, dat ons zag heel minnelyk, en bly.....</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Hoe! broeder, Romen? goôn! wat drift! wat raazerny?</l>
+<l>Hoe! zou de Koning dus zyn grootsch gemoed verzaaken,</l>
+<l>En in een dag zyn naam, en roem te schande maaken,</l>
+<l>Zich geeven in de magt van die tierannige aard,</l>
+<l>En buigen onder 't juk, het welk hy met zyn zwaard</l>
+<l>Heeft veertig jaar geweerd? volhard in 't ooreloogen;</l>
+<l>Heer vader; schoon 't geval u schendig heeft bedroogen;</l>
+<l>De kryg is u alleen een toevlugt in den nood;</l>
+<l>Aan Romen, dat u haat, moet gy tot in den dood</l>
+<l>Uw vyandschap doen zien, en onverzoenbaar weezen,</l>
+<l>Die meêr, als Hannibal, voor Romen zyt te vreezen.</l>
+<l>Gy rookt noch van hun bloed, door uwen arm gestort,</l>
+<l>Ik bid u, doe voor 't laast uw grootheid niet te kort.</l>
+<l>Zo gy naar vrede hoord met hen, zyt gy verlooren,</l>
+<l>Gewis, zy zullen u doen in uw bloed versmooren</l>
+<l>Tot weerwraak van hun volk, toen in een enklen dag</l>
+<l>Men honderdt duizend man door u ontzielen zag.</l>
+<l>Doch spaar het overschot, myn Heer, van zo veel kroonen;</l>
+<l>Ga u van land tot land aan ieder niet vertoonen,</l>
+<l>Op dat uw groote naam by 't volk, dat u niet kend,</l>
+<l>Door 't zien uws ongevals onteerd werd, noch geschend.</l>
+<pb n="40"/>
+<l>Rechtvaardig is uw wraak, men moet hen gaan verrasscu.</l>
+<l>Verbrand het Kapitool, maak Romen vry tot asschen.</l>
+<l>Het is genoeg, dat ge ons de weg wyst naar dat Land,</l>
+<l>Maar 't voeren van dat vuur vereischt een jonger hand.</l>
+<l>Terwyl myn broeder hen in Aziën zal keeren,</l>
+<l>Bid ik, dat gy my met die nieuwe last wilt eeren.</l>
+<l>Gebied slechts, en laat ons, van uwen naam verzeld,</l>
+<l>Betoonen dat wy zyn de zoons van zulk een held.</l>
+<l>Steekt door ons in den brand het oosten en het westen,</l>
+<l>Vervul het heele rond, en blyfhier; laat die pesten,</l>
+<l>De Romers, van uw zoons alom vervolgd om stryd,</l>
+<l>U vinden overal, en twyff'len waar gy zyt.</l>
+<l>'k Bid, datge myn vertrek noch heden wilt gebieden.</l>
+<l>'t Weêrhoud u alles hier, daar alles my doet vlieden.</l>
+<l>Indien de last van 't werk myn kracht te boven gaat,</l>
+<l>Zo komt wel overeen myn wanhoop met myn staat;</l>
+<l>Als ik zo sneuvel, zal ik my gelukkig achten.</l>
+<l>Ik ga; myns moeders ongetrouwheid zal ik trachten</l>
+<l>Te boeten. 'k Bloos van schaamt', Heer Vader, en beken,</l>
+<l>Voor uwe voeten, dat ik uws niet waardig ben,</l>
+<l>O ja, 'k zal in myn bloed die zwarte smet versmooren,</l>
+<l>En stervend toonen, dat ik ben van u gebooren.</l>
+<l>Laat Romen, de oorzaak van myn haat, en van myn hoon,</l>
+<l>Verstrekken tot een graf van Mithridates zoon.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>, <hi rend="i">opstaande</hi>.</speaker>
+<l>Spreek my niet meêr, myn zoon, van moeders trouwloosheden,</l>
+<l>Ik ken uw vroom gemoed: uw vader is te vreden.</l>
+<l>Gy zult u in geen nood begeeven zonder my;</l>
+<l>En wat u overkomt, zal ik ook draagen; gy</l>
+<l>Zult met my gaan, ik wil niet, dat ons iets zal scheiden.</l>
+<l>Gy, Pharnaces, gy zult vertrekken zonder beiden.</l>
+<l>De schepen zyn gereed, ik zelf heb al het geen</l>
+<l>U noodig is bestelt, dies gaat vrymoedig heen.</l>
+<l>'t Gevolg, en toestel is al by der hand. Arbates</l>
+<l>Zal u geleiden, als den zoon van Mithridates,</l>
+<pb n="41"/>
+<l>En my berichten, hoe gy u in alles kwyt.</l>
+<l>Houd uwen stam in acht. Vaar wel, myn zoon, 't is tyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Heer Vader....</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Zoon, myn wil moet u vernoeging geeven,</l>
+<l>Gehoorzaam, 't is genoeg: waar toe dit tegenstreeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Is uw vergenoeging dan gelegen in myn val?</l>
+<l>Wel aan, myn Heer, ik wil zelf de eerste zyn, en zal</l>
+<l>Niet wyken. Laat my slechts deez' gunst van u verwerven,</l>
+<l>Dat ik ook strydende mag voor uwe oogen sterven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>'k Wil dat gy gaat, of.... kunt ge my noch niet verstaan?</l>
+<l>Prins, antwoord my niet meêr, of 't is met u gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Myn Heer, myn leeven staat geheel in uwe handen;</l>
+<l>Maar om een bruid te gaan in onbekende landen,</l>
+<l>'k Sterf liever duizend doôn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 2tab">Ha, schelm! daar wilde ik zyn,</l>
+<l>Trouwlooze! maar ik zweer, dat gy my door geen schyn</l>
+<l>Verblinden zult: ik weet, wat u die reis doet haaten:</l>
+<l>'t Valt u te moeijelyk uw Monima te laaten:</l>
+<l>Zy is 't, die u weêrhoud. Gy dacht haar door de trouw</l>
+<l>Terukken van my af, te maaken tot uw vrouw,</l>
+<l>Verraader, daar gy wist, hoe zeer ik ben ontsteeken</l>
+<l>In haare min. Haar kroon, myns mins geheiligt teken,</l>
+<l>Noch deeze plaats, daar in men haar voor my bewaard,</l>
+<l>Noch myn gerechte toorn maakt u niet eens vervaard.</l>
+<l>Hoe! was het niet genoeg voor u, dat gy, verraader,</l>
+<l>Zo klaar begunstigde den vyand van uw vader?.</l>
+<l>Ontbrak deez' vuile min noch aan uw schelmery,</l>
+<l>Om eeuwiglyk een plaag, een schrik te zyn voor my?</l>
+<l>Ook kan ik klaar genoeg bespeuren uit uwe oogen,</l>
+<l>Dat gy door geen berouw, maar wanhoop, word bewoogen.</l>
+<pb n="42"/>
+<l>Ik ken uw snood gemoed; 'k weet, hoe uw hart steeds brand</l>
+<l>Om my te leveren in der Romeinen hand,</l>
+<l>En u door hunne gunst in myne plaats te zetten;</l>
+<l>Maar ik verzeker u, dat ik 't u zal beletten.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Mithridates, Pharnaces, Xiphares, Lyfwacht</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>MYn Lyfwacht.</l></sp>
+<sp>
+<speaker>1. <hi rend="sc">Lyfwacht</hi>.</speaker>
+<l rend="; 2tab">Wat begeerd van ons zyn Majesteit?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Dat gy terstond de Prins steld in verzekerheid.</l></sp>
+<sp>
+<speaker>2. <hi rend="sc">Lyfwacht</hi>.</speaker>
+<l>Myn Heer!</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Waar wachtgy na?</l></sp>
+<sp>
+<speaker>3. <hi rend="sc">Lyfwacht</hi>.</speaker>
+<l rend="; 5tab">Uw Zoon?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 6tab">Wat zal dit weezen?</l>
+<l>Doe 't geen ik u gebied.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l rend="; 3tab">Gy hoefd me niet te vreezen;</l>
+<l>Volvóer myns vaders last.</l></sp>
+<sp>
+<speaker>1. <hi rend="sc">Lyfwacht</hi>.</speaker>
+<l rend="; 4tab">Prins Pharnaces, verschoon</l>
+<l>Ons, die het smart, dat....</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 3tab">Vertrekt met hem. De hoon</l>
+<l>Die gy my hebt gedaan, zal ik op 't vinnigst wreeken:</l>
+<l>Verraader!</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l rend="; 1tab">Eer ik ga....</l></sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Ha schelm! durft gy noch spreeken?</l>
+<l>'k Wil u niet hooren; gaat, trouwanten, volgt myn last;</l>
+<l>Gaat, sluit hem op; 'k beveel, dat gy wel op hem past.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pharnaces</hi>.</speaker>
+<l>Wel aan dan, 'k wil my op myn onschuld niet beroemen;</l>
+<l>'k Ontken myn liefde niet; recht hebt gy my te doemen</l>
+<l>Ter straf; maar Xiphares heeft u 't niet al gezegt.</l>
+<l>Ik min haar, ja gy zyt getrouw'lyk onderrecht:</l>
+<l>Doch dit is 't minste, dat hy u had te openbaaren;</l>
+<l>Want die getrouwe zoon moest u met een verk laaren,</l>
+<l>Dat hem een zelve zucht het hart in vlamme jaagt;</l>
+<l>Dat hy Mevrouw bemind, en zy hem liefde draagt.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Xiphares</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>ZUlt gy gelooven, Heer, dat ik de trouweloosheid...</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Neen, Prins, in 't minste niet, ik ken uws broeders boosheid.</l>
+<l>Ik heb in 't minst geen kwaad vermoên, dat gy, myn zoon,</l>
+<l>Myn wel doen loonen zoud met zulk een batse hoôn.</l>
+<l>Dat gy, die steeds de vreugd geweest zyt van myn dagen,</l>
+<l>Zoud trachten my een hart, u toebetrouwd, te ontdraagen,</l>
+<l>'k Geloof het nimmermeer. Ga, weest gerust; myn hart</l>
+<l>Is nu meêr in den kryg, als in de min verwart.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<sp>
+<speaker>[<hi rend="sc">Mithridates</hi> <hi rend="i">alleen</hi>].</speaker>
+<l>IK 't niet gelooven! ach, waar toe myn smart te ontveinzen,</l>
+<l rend="; 1tab">'k Geloof 't maar al te wel! hoe kweld gy my, gepeinzen!</l>
+<l>Hoe Xiphares myn bruid beminnen! zy myn zoon</l>
+<l>Verkiezen? en my dus bedriegen? welk een hoon!</l>
+<l>Ach! waar ik heene zie met myn rampzalige oogen,</l>
+<l>'k Vind nergens trouw; ô goôn! 'k word overal bedroogen.</l>
+<pb n="44"/>
+<l>'t Verlaat my elders al, 't verraad hier alles my;</l>
+<l>Myn vrienden, Pharnaces, myn bruid, en gy, ook gy,</l>
+<l>Myn zoon, die door uw deugd my trooste in myn elenden.</l>
+<l>Maar die verraader zoekt zyns broeders eer te schenden,</l>
+<l>Hoe! ken ik Pharnaces niet meêr? wat zwakkigheên!</l>
+<l>Zal ik gelooven een ontzinde, die alleen</l>
+<l>Uit nyd of wanhoop spreekt? en, om zich te verschoonen,</l>
+<l>My wil gelooven doen, dat andere ook my hoonen?</l>
+<l>Neen, ik geloofhem niet; en eer wy verder gaan,</l>
+<l>Laat ons op 't allerscherpst de zaak eens onderstaan.</l>
+<l>Maar wie helpt my hier uit? van waar zal ik beginnen?</l>
+<l>De Hemel stort my daar iets listigs in de zinnen.</l>
+<l>Men roept de Koningin. Ja, zonder lang beraad</l>
+<l>Wil ik haar hooren, dit 's myn naaste toeverlaat.</l>
+<l>Als liefde word gevleid, zal zy door 't veinzen breeken.</l>
+<l>Wie kan zo klaar, als zy, van haar verwinnaar spreeken.</l>
+<l>Nu zal ik zien, wie dat van beide schuldig zy,</l>
+<l>Deez' strik zyn zy wel waard, schoon 't weinig past aan my.</l>
+<l>'k Verraâ wie my verraad, geen middel moet men schroomen,</l>
+<l>Om een verraader... maar, 'k zie Monima daar komen;</l>
+<l>Ik zal my veinzen, en haar zachtlyk ondergaan,</l>
+<l>Om door behendigheid de waar heid te verstaan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Monima</hi>.</stage>
+<l>MEvrouw, 'k zie eindelyk, dat aan u op te draagen,</l>
+<l rend="; 1tab">Een hart, vol van verdriet om zo veel zwaare plaagen,</l>
+<l>Een lichaam, afgemat door ouderdom, en pyn,</l>
+<l>Te droef een offer zoude aan uwe schoonheid zyn.</l>
+<l>Dus lang, dewyl 't geluk het aan zicht my kwam toonen,</l>
+<l>Heb ik myn gryze kruin bedek met dertig kroonen:</l>
+<l>Maar die tyd is verby; toen heerschte ik, en nu moet</l>
+<l>Ik vlugten; al myn roem legt nu als met de voet</l>
+<l>Vertreeden, en myn hoofd, geschonden door de jaaren,</l>
+<pb n="45"/>
+<l>Dekt met het siersel nu niet meêr zyn gryze haaren.</l>
+<l>Noch smeede ik in myn hart aanslagen zonder end.</l>
+<l>Myn volk gaat weder scheep, 't gerucht is u bekend.</l>
+<l>Ik kom nauw van de zee, of moet weêr op de baaren.</l>
+<l>Wat tyd gunt my 't geval om my met u te paaren?</l>
+<l>Mevrouw, hoe maak ik u myn bruid, en echtgenood,</l>
+<l>Nu ik alleenlyk zoek het oorlog, en myn dood?</l>
+<l>Doch Pharnaces moet gy verbannen uit uw zinnen:</l>
+<l>Als ik my zelfverwin, moet gy u ook verwinnen:</l>
+<l>Ik zal nooit lyden, dat hy, die my zo veel spyt</l>
+<l>Gedaan heeft, die ik wil verbannen voor altyd,</l>
+<l>Bezittende dat hart, dat my heel wil verzaaken,</l>
+<l>U tot een bondvriendin van 't Roomsche volk zou maaken.</l>
+<l>Myn troon is u beloofd, en, ver van dat het my</l>
+<l>Berouwd, wil ik, eer ik van hier vertrek, dat gy.</l>
+<l>Als Koningin zult zyn op mynen stoel verheven,</l>
+<l>Mits datge uw hand een zoon, die ik bemin, zult geeven.</l>
+<l>Ik wil, dat Xiphares, Mevrouw, in 't kort gezeid,</l>
+<l>My aan u kwyt, en straf zyn broeders trouwloosheid.</l>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe, Xiphares, myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">O ja, die moet het weezen.</l>
+<l>Maar wat ontsteltenis komt in uw ziel gereezen</l>
+<l>Op 't hooren van dien naam? mishaagd hy u? of is</l>
+<l>Hy u niet waardig? of is 't een geheimenis,</l>
+<l>Die gy niet melden durft? O ja, 't is met dien braaven</l>
+<l>Dien zeegenryken zoon, versierd met zoo veel gaven,</l>
+<l>Die 'k als myn zelf bemin, in wien myn beeld herleefd,</l>
+<l>Dien vyand des Romeins, diên held, die steunsel geeft</l>
+<l>Aan 't ryk, en aan myn naam, die 'k in hem zie herbooren;</l>
+<l>En schoon gy in uw hart een ander hebt verkooren,</l>
+<l>Ik geef aan niemand u, Mevrouw, als aan dien zoon.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Wat zegt ge? zoud ge my verhooren, groote goôn!</l>
+<l>Waarom, myn Heer, wilt gy myn liefde dus beproeven?</l>
+<l>Wilt een rampzaalige, helaas! niet meêr bedroeven.</l>
+<pb n="46"/>
+<l>Ik weet dat my het lot geschikt heeft om uw vrouw</l>
+<l>Te wezen, alles is gereed tot onze trouw;</l>
+<l>En de offerhanden zyn op 't outer reeds ontsteeken.</l>
+<l>Kom, gaanwe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 2tab">'k Zie wel dat uw hart niet is te breeken;</l>
+<l>'k Zie Pharnaces bezit geheel uw ziel; my doet</l>
+<l>Gy niet als smaad, die ook myn zoon gevoelen moet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Veracht ik Xiphares?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 3tab">'k Zal daar niet meêr van spreeken.</l>
+<l>Volvoer uw snoode min, my klaar genoeg gebleeken;</l>
+<l>Terwyl ik met myn zoon zal treeden op myn vloot,</l>
+<l>En zoeken ver van hier een heerelyke dood.</l>
+<l>Gy onderwyl, blyfhier, en leefd met een verraader:</l>
+<l>Verkoop aan Romen 't bloed van uw vermoorden vader:</l>
+<l>Ja, Monima, ik weet geen wreeder straf voor uw</l>
+<l>Versmaaden, als dat ik u aan dien slaafschen huuw.</l>
+<l>En, zonder langer voor uw eer meêr zorg te draagen,</l>
+<l>Wil ik u te eenemaal verbannen: 'k houme ontslaagen,</l>
+<l>Van u. Nu kom, Mevrouw: ik zal u met diên zoon</l>
+<l>Verbinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Neen, myn Heer, 'k sterf liever duizend doôn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Gy wederstreefd vergeefs; kom, waar toe meêr te schroomen?</l>
+<l>'k Weet wel, wat dit beduit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 4tab">Waar ben ik toe gekomen:</l>
+<l>'k Geloof u eindelyk, en denk niet, dat ge my</l>
+<l>Dus lang beproeven zoud door snoode veinzery.</l>
+<l>De goôn zyn tuigen, 'k dacht met u alleen te leeven;</l>
+<l>Myn ziel had zich geheel aan 't noodlot opgegeeven;</l>
+<l>Doch zo ooit zwakkigheid ontroeren kon myn ziel,</l>
+<l>Hoewelze altyd met kracht die tochten wederhiel;</l>
+<l>Denk niet, dat Pharnaces myn hart ooit heeft bewoogen,</l>
+<pb n="47"/>
+<l>Of de allerminste traan gekost heeft aan myn oogen.</l>
+<l>Die zegeryke zoon, die tweede Mithridaat,</l>
+<l>Die u gelykt in moed, in daaden, en gelaat,</l>
+<l>Die held, die Romen haat, met onverzoenb're zinnen;</l>
+<l>In 't kort, die Xiphares, die gy me wilt doen minnen....</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Bemind gy hem?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Had my 't lot niet met u gevoegt,</l>
+<l>Met zulk een bruidegom hield zich myn ziel vernoegt.</l>
+<l>Eer ik uw trouw ontfing, beminden wy malkand'ren.</l>
+<l>Myn Heer, gy schynt ontsteld. Wat doet u dus verand'ren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Geensins, Mevrouw, 't is wel. Verwacht hem straks by u.</l>
+<l>Ga, 'k heb myn tyd van doen, en zal gerust zyn, nu</l>
+<l>Ik Monima heb tot gehoorzaamheid bewoogen.</l>
+<l>Ik ben vernoegd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi> <hi rend="i">weggaande</hi>.</speaker>
+<l rend="; 2tab">O goôn! heb ik my ook bedroogen?</l></sp></div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>ZY mind hem, en hy haar; men hoond my dus? wel aan</l>
+<l rend="; 1tab">Ondankb're Xiphares, gy zult voor alle staan,</l>
+<l>En sneuv'len; gy hebt door 't gerucht van uwe daaden</l>
+<l>Myn leger opgemaakt, my schandelyk verraaden;</l>
+<l>Maar trouwelooze, ik zal my wreeken door uw dood.</l>
+<l>Ik zal, om zekerder te gaan, terstond myn vloot</l>
+<l>Met de ongestuimigste doen van den oever vaaren,</l>
+<l>En myn getrouwste volk hier nevens my bewaaren.</l>
+<l>Ik ga, en veins myn toorn, en myn ontsteltenis,</l>
+<l>Op dat ik 't werk volvoer, gelyk 't begonnen is.</l></sp></div></div>
+<div type="act">
+<pb n="48"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Monima, Phedima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>IN aller goden naam doe toch myn welbehaagen,</l>
+<l rend="; 1tab">Ga, Phedima, ga zien, hoe 't zich al toe mag draagen;</l>
+<l>En breng my straks bescheid. Hoe is myn hart ontstelt!</l>
+<l>Het scheurd van zorg, en angst, helaas! waar blyft myn held?</l>
+<l>Waar toeft myn Xiphares! en wat mag hem weêrhouwen,</l>
+<l>Nu zelf zyn vader wil, dat ik met hem zal trouwen.</l>
+<l>De Koning zei my wel: verwacht myn zoon terstond;</l>
+<l>Maar wie weet, of het hart geweest is, als de mond.</l>
+<l>Hy veinsde licht, en ik, door myne min gedreeven....</l>
+<l>O goôn! hebt gy my ook in dit gevaar begeeven?</l>
+<l>Heb ik ook te onbedacht hem onze min gemeld,</l>
+<l>En Xiphares ten doel van zyne wraak gesteld?</l>
+<l>Ach! Prins, toen gy op 't hoogste in liefde waard ontsteeken,</l>
+<l>En my op 't minlykst kwaamt om wederliefde smeeken,</l>
+<l>Heb ik gestadig my te wreed geveinst voor u,</l>
+<l>'k Heb u gestraft, als gy me uw min ontdekte, en nu</l>
+<l>Uw vader, lichtelyk door wantrouw aangedreeven....</l>
+<l>Wat zeg ik: nu 't misschien u kosten zal uw leeven,</l>
+<l>Nu spreek ik, en, te licht hem leenende het oor,</l>
+<l>Zal ik zelf de oorzaak zyn, dat hy u 't hart doorboor'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Mevrouw, gy moet de Vorst zo trouweloos niet achten.</l>
+<l>Zou zulk een magtig Heer, zo snood een vond betrachten?</l>
+<l>Wat zou hem vergen zulk een omweg in te slaan?</l>
+<l>Gy waard bereid met hem naar 't outer toe te gaan;</l>
+<l>Zou hy een zoon, die hy zo zeer bemind, verraaden?</l>
+<l>Ik weet geen reên waarom uw hart dus is belaaden,</l>
+<l>Hy heeft u zelf gezegt, dat hy een aan slag heeft,</l>
+<l>En morgen scheid van hier: Mevrouw, die aanslag geeft</l>
+<pb n="49"/>
+<l>Zyn gantsche zinnen werk. Hy zelf om voort te spoeijen,</l>
+<l>Gaat overal, ja schynt hem nergens meê te moeijen,</l>
+<l>Als met die tocht alleen; en waar hy heenen gaat</l>
+<l>Volgt Xiphares hem na, en diend hem met zyn raad.</l>
+<l>Zou hy zich, als de nyd zyn hart bezat, zo draagen?</l>
+<l>En kunt ge wel met reên van ontrouw hem beklaagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Prins Pharnaces, door hem gesteld in hechtenis,</l>
+<l>Voeld hoe zyn minnenyd, en haat te vreezen is.</l>
+<l>Helaas! zal Xiphares van hem meêr gunst ontmoeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Die straf moet Pharnaces tot wraak van Romen boeten,</l>
+<l>Daar hy 't meê houd; de min maakt hem het minst verdacht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gy hebt myn droefheid door uw' woorden wat verzacht.</l>
+<l>Ik zoek my zelf zo veel my mooglyk is te toomen;</l>
+<l>Maar evenwel ik zie myn Xiphares niet komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>De liefde werkt in u, gelyk zy doorgaans doet.</l>
+<l>Verliefden meenen, dat het alles wyken moet,</l>
+<l>Voor hunne driften; 't minst belet kan hen versteuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Myn Phedima, wat hoop, dat my dit zou gebeuren!</l>
+<l>Dat ik, die twee jaar heb geleefd in zulk een rouw,</l>
+<l>Als u bekend is, noch eens adem scheppen zou!</l>
+<l>Hoe! zal ik aan myn Prins myn hart vry overgeeven,</l>
+<l>En zullen wy gerust te zaamen moogen leeven?</l>
+<l>Zal hy my, zonder dat hy in zyn pligt misdoed,</l>
+<l>Dan trou wen moogen, ik hem uiten myn gemoed,</l>
+<l>En dagelyks hem doen verzek'ring myner minne?</l>
+<l>Ach, waarom komt hy niet by zyne Koninginne?</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Monima, Xiphares, Phedima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>MYn Heer, ik sprak van u. Myn ziel verlangde alreê</l>
+<l rend="; 1tab">Om u, myn Xiphares, te zien op deeze steê,</l>
+<pb n="50"/>
+<l>En u.....</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, ik moet u heden gaan begeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe! gy myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 2tab">O ja, en dat voor al myn leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Wat hoor ik? heeft men my... Maar ach! ik ben verraân.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>'k Weet niet, wat vyand ons dit leed heeft aangedaan,</l>
+<l>Wie dat hem het geheim van onze min ontdekte;</l>
+<l>Wie ons verraadende des Vorsten haat verwekte?</l>
+<l>Maar Mithridates, die noch Pharnaces terstond</l>
+<l>Niet wou gelooven, kend nu onzes harten grond.</l>
+<l>Hy veinst, hy vleitme, en schynt in 't minste niet bewoogen;</l>
+<l>Maar ik, als in zyn schoot van jongs af opgetoogen;</l>
+<l>Ik, die zyn hart wel ken, zie klaar uit zyn gelaat,</l>
+<l>Dat zyn ontsteld gemoed met wraakzucht zwanger gaat;</l>
+<l>Hy veinst zich, en hy zend voor af zyn beste benden,</l>
+<l>Vermits hy vreest, dat zy zich zouden tot my wenden,</l>
+<l>Zo hy my iets misdeed. Hy weet wel, dat myn smart</l>
+<l>Een raazende yver zoude ontsteeken in hun hart.</l>
+<l>Doch ik kan al te klaar zyn valsche goedheid merken;</l>
+<l>Arbates kwam myn vrees straks met een woord versterken</l>
+<l>Al weenende sprak hy dus tot my met een zucht:</l>
+<l>Men weet het alles, Heer; gy zyt verraaden; vlugt.</l>
+<l>Dat woord heeft my voor u, myn Koningin, doen beeven.</l>
+<l>En dat is de oorzaak die my her waards heeft gedreeven.</l>
+<l>Ik vrees alleen voor u, en bid u op myn knien,</l>
+<l>Dat gy toch, myn Princes, dit onweêr wilt ontvliên.</l>
+<l>Heb deernis met u zelf. 'k Weet wat u staat te vreezen;</l>
+<l>Ik ken myn vader wel, en weet, hoe hy voor deezen</l>
+<l>Gewoed heeft, als hy wierd door minnenyd ontroerd,</l>
+<l>En tot wat wreedheid zy wel eer hem heeft vervoerd.</l>
+<l>Misschien ben ik 't alleen, die hy nu wil verderven;</l>
+<l>Misschien zult gy van hem vergiffenis verwerven.</l>
+<pb n="51"/>
+<l>In aller Goden naam, 'k bid, dat gy hem voldoed;</l>
+<l>Maak door uw weigering hem toch niet meêr verwoed.</l>
+<l>Schoon gy hem haat, Mevrouw, ai! tracht hem te beminnen,</l>
+<l>Ai! veins, en zoek uw hart met kracht toch te overwinnen,</l>
+<l>Gedenk, hy is myn Vorst, en Vader, ai! gun my,</l>
+<l>Dat ik u vry moog' zien voor zyne raazerny,</l>
+<l>En aan uw liefde niet moog' kosten, als uw traanen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ach! ik heb u verraân!</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 2tab">Waar van moogt gy vermaanen,</l>
+<l>Grootmoedige Princes; wyt u myn onheil niet;</l>
+<l>'t Wreed noodlot is alleen de bron van myn verdriet;</l>
+<l>Dat heeft van my gekeerd myn vaders ziel, en zinnen;</l>
+<l>Dat heeft my u, de bruid myns vaders, doen beminnen,</l>
+<l>Myn moeder ook verleid, en ons in zulken staat</l>
+<l>Gebragt, dat ik niet weet, wie ons dus schelms verraad.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe, Heer, kend gy noch niet, hem die u heeft verraaden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>O neen, Mevrouw; mogt ik myn lust aan hem verzaaden,</l>
+<l>'k Hield my gelukkig; ja, ik sturf met minder smart,</l>
+<l>Mogt ik hem booren door 't verraaderly ke hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Wel aan, myn Heer, ik zal hem toonen voor uwe oogen.</l>
+<l>Ach! zoek hem elders niet; ik, ik heb u bedroogen;</l>
+<l>Ik heb uw min ontdekt, stoot toe, verschoon my niet;</l>
+<l>Straf my alleen! ik ben 't alleen die u verried.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Gy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Ach, myn Prins! wist gy, met welke looze streeken</l>
+<l>Die wreede my verleide, en 't hart recht uit deê spreeken,</l>
+<l>Wat liefde hy aan u te draagen scheen; hoe hy</l>
+<l>Verlangde om u, zyn zoon, getrouwd te zien met my;</l>
+<l>Wie had het niet geloofd? maar ach! 'k had moeten peinzen,</l>
+<pb n="52"/>
+<l>Dat hy u schaaden, en zyn hart my kon ontveinzen.</l>
+<l>'k Heb driemaal, door de goôn ontroerd in mynen geest,</l>
+<l>Uw min ontkend; helaas! waar 't voor altoos geweest!</l>
+<l>'k Had my in zulk een zaak behooren te beraaden,</l>
+<l>En zulk een last niet op myn minnaars hals te laaden?</l>
+<l>Te vreezen voor 't vergif, dat in zyn giften steekt;</l>
+<l>Maar 'k zal my straffen, Prins, zo gy u zelf niet wreekt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Mevrouw, ben ik door u, en uwe min gestooten</l>
+<l>In deeze jammerpoel? hoe is myn ramp gesprooten</l>
+<l>Uit zulk een lieve bron? beklaagt ge u, dat ge my</l>
+<l>Gelukkig hebt gemaakt. Ik sterf getrouw, en bly,</l>
+<l>Dewyl ge my bemind. Wat kon ik meêr verhoopen,</l>
+<l>Prinses? de weg ten troon staat heden voor u open</l>
+<l>Kant u niet tegen 't lot, dat u de kroon beloofd;</l>
+<l>Omhels de trouw, die ze u verzeeg'len zal op 't hoofd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hoe wiltge dat ik een tierannig Vorst zal trouwen,</l>
+<l>Die de oorzaak is, dat ik u nooit meêr zal aanschouwen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l>Gedenk, Mevrouw, dat hy noch korts uw' ziel bezat,</l>
+<l>En dat ge my geheel van u verbannen had.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ach! kende ik toen, als nu, de wreedheid zyner zinnen?</l>
+<l>En wiltge dat ik zyn verwoedheid zal beminnen?</l>
+<l>Wilt gy, dat ik met hem, ter liefde van een kroon,</l>
+<l>Ten Tempel ga, om in het aanzien van de Goôn</l>
+<l>Aan dien tierannigen, als hy u heeft doen sneeven,</l>
+<l>Noch rookend van uw bloed, myn hand, en hart te geeven?</l>
+<l>Ik bid u, spil geen tyd in my te raaden, laat</l>
+<l>Die zorgen; zorg voor u; ik zal in deezen staat</l>
+<l>My met de Goôn beraân- De tyd eischt af te breeken.</l>
+<l>Goôn! wat zou 't weezen, zag ons iemand t' samen spreeken!</l>
+<l>Ik hoor iets. Vlied, myn Prins, leef, bid ik, tot der tyd,</l>
+<l>Dat gy volkomen van myn lot verzekerd zyt.</l></sp></div>
+<div type="scene">
+<pb n="53"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Monima, Phedima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>MEvrouw, in welk gevaar heeft zich de Prins gesteeken!</l>
+<l rend="; 1tab">Het is de Vorst; doch hy is noch by tyds ontweeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Ga, help hem uit, ga heen, en zeg, dat hy zyn end</l>
+<l>Toch niet verhaaste voor hem 't myne zy bekend.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Monima</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>KOm, ga met my, Mevrouw; 'k zal u naar 't outer leiden.</l>
+<l rend="; 1tab">Een groot geheim verbied aan my het langer beiden.</l>
+<l>Terwyl myn volk om my te volgen zich bereid,</l>
+<l>En naar de scheepen gaat, vol van gehoorzaamheid,</l>
+<l>Zal ik myn trouw, en myn beloften gaan volvoeren,</l>
+<l>My binden, voor de Goôn, aan u met eeuw' ge snoeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Met u, myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 2tab">Hoe durft gy wankelen, Mevrouw?</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hebt gy me niet verboôn te denken aan uw trouw?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Toen had ik reên daar toe: nu heb ik and're zinnen:</l>
+<l>Dies voeg u te eenemaal om my alleen te minnen.</l>
+<l>Weet, dat uw hart aan my verloofd is voor altyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gy hebt me vry gesteld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 3tab">Waar toe diend dit verwyt?</l>
+<l>Speeld myn ondankb're zoon geduurig voor uwe oogen?</l>
+<l>En meend gy.....</l></sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Hoe! myn Heer, hebt gy me dan bedroogen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Ontrouwe, past het u aldus te spreeken? gy?</l>
+<l>Dorst gy, terwyl ik u verkoor, om nevens my</l>
+<l>Te heerschen, en u dacht tot Koningin te kroonen,</l>
+<l>Een ander minnen, my verraaden? my dus hoônen?</l>
+<l>Ondankb're, die my meêr, als al de Romers, haat:</l>
+<l>Heugt u niet meêr, van welk een heerelyken staat</l>
+<l>Ik my geboogen heb, om u ten troon te haalen,</l>
+<l>Daar gy trouwlooze vrouw, nooit naar had durven taalen?</l>
+<l>Zie my niet aan, als een verwonnen, zonder magt,</l>
+<l>Maar als ver winnaar, en alom geëerd, geacht.</l>
+<l>Gedenk, hoe ik wel eer, toen gy te Ephezen woonde,</l>
+<l>Myn liefde u opdroeg, en wel honderd Vorsten hoônde,</l>
+<l>Die my hun kinderen aanbooden, hoe 'k hun haat</l>
+<l>Behaalde, om dat ik u verhief tot zulk een staat.</l>
+<l>Indien het hart ut oen in andre liefde blaakte,</l>
+<l>Voor myn geneegentheid u ongevoelig maakte,</l>
+<l>Waarom kwaamd gy dus ver dan zoeken een, die u</l>
+<l>Mishaagde? zeg, waarom zo lang gez weegen, nu</l>
+<l>My 't roekeloos geval heeft te eenemaal verlaaten,</l>
+<l>Nu my de vyand heeft beroofd van al myn staaten:</l>
+<l>Nu my niet overschiet als gy, ik niets behiel</l>
+<l>Als uwe min, de troost van myn bedroefde ziel?</l>
+<l>Hoewel ik zulk een hoôn verban uit myn gedachten,</l>
+<l>En myn ontrust gemoed ook zelf zoek te verzachten,</l>
+<l>Zyt gy 't die voor myn oog dien smaad op nieuw vertoond;</l>
+<l>Ja, gy beschuldigt my, schoon gy my hebt gehoond;</l>
+<l>Ik zie dat een verraâr uw ziel heeft ingenomen.</l>
+<l>O Mithridates! Goôn! waar ben ik toe gekomen?</l>
+<l>Welk een verborgen drift houd myn ontroerd gemoed</l>
+<l>Zo binnen, dat het niet, gelyk als eertyds, woed.</l>
+<l>Het is myn liefde, die uw misdaad wil verschoonen:</l>
+<l>Dien u daar van, Mevrouw, wil u gehoorzaam toonen;</l>
+<l>Weêrstreef niet Ianger my, dien gy niet kunt ontvliên,</l>
+<pb n="55"/>
+<l>Om een ondankb'ren zoon, die gy nooit weêr zult zien,</l>
+<l>Schoon u de liefde van dien snooden heeft bezeeten,</l>
+<l>Gy zyt aan my verloofd, en moet hem gantsch vergeeten,</l>
+<l>Erken de goedheid, die ik noch aan u betoon:</l>
+<l>En maak u waard der gunst die u word aangeboôn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>De erkentenis, die ik ben schuldig al myn leeven</l>
+<l>Aan u, tot dankbaarheid van uwe gunst, te geeven,</l>
+<l>Vergat ik nooit, hoe eêl, hoe machtig, en hoe hoog</l>
+<l>Myn ouders zyn geweest; die glans heeft nooit myn oog</l>
+<l>Verblind. En ben ik uit doorluchtig bloed gebooren,</l>
+<l>Ik weet, toen gy my hebt tot uwe bruid verkooren,</l>
+<l>Dat ik niet waardig was te draagen uwe kroon;</l>
+<l>'k Heb ook van dien tyd af, hoe zeer ik uwen zoon</l>
+<l>Bemind heb; hoe myn ziel met hem was ingenoomen,</l>
+<l>Al myn genegentheên kloekmoedig kunnen toomen,</l>
+<l>Ja beide hebben wy, myn Heer, met ziel en zin</l>
+<l>Ons zelfs vermeesterd, u geofferd onze min.</l>
+<l>Hy is op myn bevel uit myn gezigt geweeken,</l>
+<l>Om door de afwezendheid het vier, in ons ontsteeken,</l>
+<l>Te blussen. Schoon het lot aan myn verliefd gemoed</l>
+<l>Zo zwaaren slag gaf, 'k vond die rykelyk vergoed;</l>
+<l>En had geen reden my daar over te beklaagen,</l>
+<l>Vermits ik zulk een held, als gy zyt, kon behaagen.</l>
+<l>Maar gy hebt my weerom doen wank'len, en myn hart,</l>
+<l>Recht uit doen spreeken door uw listigheid. O smart!</l>
+<l>Gy hebt het vier, dat ik zo kloek konde overwinnen,</l>
+<l>Die liefde, die ik had gebannen uit myn zinnen,</l>
+<l>Wier oorzaak zelf ik had doen vliên uit myn gezigt,</l>
+<l>Door uw bedrog ontdekt; en my, die u te licht</l>
+<l>Geloofde, zelf aan u myn min doen openbaaren.</l>
+<l>Ik hebze aan u bekend, en zal, wat voor gevaaren</l>
+<l>My dreigen, nimmermeer ontveinzen myne min.</l>
+<l>Vergeefs band gy daar van 't geheugen uit uw zin;</l>
+<l>Dat gy dus schandelyk, en snood my hebt bedroogen,</l>
+<l>Zal my, zo lang ik leef, steeds speelen voor myne oogen,</l>
+<l>En, steeds gedenkende wie my dus heeft verleid,</l>
+<pb n="56"/>
+<l>Zoud gy nooit zeker zyn van myn getrouwigheid.</l>
+<l>Ja, 't nare graf, myn Heer, zal ik veel minder vreezen,</l>
+<l>Als op de bruiloftskoets met u verëend te weezen;</l>
+<l>Wyl gy my hebt gebragt in eindeloos verdriet,</l>
+<l>Toen gy, ô wreede, my zo trouweloos verried;</l>
+<l>Wanneer gy listelyk my hebt, tot myner schande,</l>
+<l>Doen bloozen van een vier, dat voor u niet en brande.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Is dit u antwoord dan? en weigerd gy, wat hoon!</l>
+<l>Te ontfangen op uw hoofd de koninklyke kroon?</l>
+<l>Bedenk u wel, naar dat gy spreekt zal ik my schikken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Vergeefs zoekt gy my door uw dreigen te verschrikken;</l>
+<l>Ik ken u wel; en weet, wat my te wachten staat;</l>
+<l>Wat ongelukken ik verwek door uwe haat;</l>
+<l>Maar ik heb by my zelf een vast besluit genomen,</l>
+<l>Daar van ik nimmer wyk, wat me ook mag overkomen.</l>
+<l>En dit is de oorzaak, dat ik dus vrymoedig spreek,</l>
+<l>Myn ingetogentheid dus onbeschroomd verbreek,</l>
+<l>Gelyk 't ontzag aan u dus lange toegedraagen.</l>
+<l>Gy hebt u wreedelyk, dit zal my eeuwig knaagen,</l>
+<l>Van myne hand gediend, ô duldelooze smart!</l>
+<l>Om myn beminde 't staal te drukken in zyn hart.</l>
+<l>'k Weet, ik verried hem, toen ik u zyn min ontdekte,</l>
+<l>'t Was zyn verderf, toen ik in u de wraak verwekte;</l>
+<l>Hy zal uw raazerny besterven, maar myn hand</l>
+<l>Geef ik tot loon van dit bedrog geen dwingeland.</l>
+<l>Nu doe wat u behaagd; beroof me vry van 't leeven;</l>
+<l>En dien u van de magt u over my gegeeven;</l>
+<l>'k Verwacht myn vonnis, en ik bid om geen genaâ;</l>
+<l>'k Verzoek alleen van u, eer dat ik van u ga,</l>
+<l>Geloof toch, dat ik u alleen maar heb bedroogen.</l>
+<l>Tot deez' bekentenis heeft de onschnld my bewoogen</l>
+<l>Van uw getrouwen zoon. Gy, deede ik naar zyn zin,</l>
+<l>Genoot eerlang naar wensch de vrugt van uwe min.</l></sp></div>
+<div type="scene">
+<pb n="57"/>
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>ZY gaat! hoe laat zich dus myn grootsch gemoed onteeren?</l>
+<l>Haar trotsheid schynt myn hart in 't minste niet te deeren.</l>
+<l>'t Scheeld weinig, dat het niet en held aan haare zy,</l>
+<l>En my, wat gaat my aan, beticht van dwinglandy.</l>
+<l>Hoe, ben ik Mithridaat? zou 't Monima wel weezen?</l>
+<l>Neen, neen, de ondankb're sterf; 'k voel weêr de wraak verrezen</l>
+<l>In myn manhafte ziel, nu weet ik wie ik ben:</l>
+<l>De gramschap maakt, dat ik my zelf nu weder ken.</l>
+<l>'k Zal drie ondankb're t'saam doen myne straf gevoelen,</l>
+<l>En met hun heilloos bloed myn brandend hart verkoelen,</l>
+<l>Door zulk een offerhand, eer dat ik trek te veld,</l>
+<l>Moet ik der Goden gunst verkrygen, om 't geweld</l>
+<l>Van Romen door myn arm te doen ten gronde daalen.</l>
+<l>Ik moet, en kan het doen: waar langer toe te draalen?</l>
+<l>Zy zyn in myn geweld, en zonder onderstand,</l>
+<l>Hunne aanhang heb ik reeds doen steeken van het land.</l>
+<l>Wel aan, ik zie niet aan wie 'k haat, of mag beminnen:</l>
+<l>Ik zal van Xiphares het allereerst beginnen.</l>
+<l>Maar waar voerd my de toorn? wat zeg ik? groote goôn!</l>
+<l>Wie wiltge sterven doen, rampzaalige uwen zoon,</l>
+<l>Daar Romen zo voor vreest, die my van haar kan wreeken,</l>
+<l>En wiens getrouwheid, my zo dik wils is gebleeken?</l>
+<l>Waarom wil ik het bloed vergieten van myn kind,</l>
+<l>Dat my zoo noodig is? hoe ben ik dus ontzind!</l>
+<l>Heeft my dan 't noodlot, my beroovend' van myn staaten,</l>
+<l>Te veele vrienden in myn rampspoed naargelaaten?</l>
+<l>'t Zal beter zyn, dat ik my met myn zoons verzoen:</l>
+<l>Ik heb een wreeker, maar ik heb geen bruid van doen.</l>
+<l>Hoe is 't niet beter, wylze alleen met hem wil leeven,</l>
+<pb n="58"/>
+<l>Haar aan myn Xiphares gewilliglyk te geeven?</l>
+<l>Wel aan dan. Maar 't is my niet mooglyk, ik bevind</l>
+<l>Myn hart hier toe te zwak, schoon ik 't my onderwind</l>
+<l>Te buigen. Ach! ik kan die schoone niet verlaaten!</l>
+<l>Ik brand, ik bid haar aan, en, ver van haar te haaten....</l>
+<l>Maar ik wil niet te min haar straffen, wylze my,</l>
+<l>En myn grootmoedigheid dus lang in slaaverny</l>
+<l>Gehouden heeft; ik wil myn zoon zyn schuld vergeeven,</l>
+<l>En die trouwlooze alleen berooven van het leeven,</l>
+<l>Tot loon, van dat ze my dus stoutlyk durft versmaân.</l>
+<l>Bedwing u zelf een wyl, myn hart, op dat voortaan</l>
+<l>Gy haar niet vreest. Wat mag myn ziel doch wederhouden?</l>
+<l>Wat bloôheid doet het vier van myne wraak verkouden?</l>
+<l>Ik heb voor deezen, om vry minder kwaad, te straf</l>
+<l>Myn eigen kinderen doen daalen in het graf.</l>
+<l>O Monima! ô Zoon! maar gy hebt niet te vreezen,</l>
+<l>Myn gramschap heeft geen kracht. Hoe vrolyk zoudge weezen,</l>
+<l>Romeinen, wat was dit voor u een zegepraal,</l>
+<l>Deed iemand u van myn bedroefden staat verhaal!</l>
+<l>Ging iemand van myn volk myn leed u openbaaren!</l>
+<l>En al myn zwakheên, en myn rampen u verklaaren!</l>
+<l>Ik heb voor deezen, om vry voor verraad te zyn,</l>
+<l>My zelf, naar veele moeite, en arbeid, voor senyn,</l>
+<l>Hoe doodelyk 't ook was, wel weeten te bevrijen;</l>
+<l>Maar had ik, het berâan, voor mins lief kozerijen</l>
+<l>Myn ziel gewapend, dien gevaarlyken gloed,</l>
+<l>En dat vergiftig vier geweerd uit myn gemoed</l>
+<l>Ik, die van ouderdom myn bloed reeds vol verkoelen,</l>
+<l>Zou zulk een bitt're smart nu in myn ziel niet voelen.</l>
+<l>Hoe raak ik eindelyk hier uit? of aan wat kant....</l></sp></div>
+<div type="scene">
+<pb n="59"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Mithridates, Arbates, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>MYn Heer, het krygsvolk wil nu langer niet van land</l>
+<l rend="; 1tab">Door Pharnaces bestier; hy heeft hen gaan ontdekken</l>
+<l>Dat gy genegen zyt naar Romen toe te trekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithtridates</hi>.</speaker>
+<l>Hoe! Pharnaces?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 3tab">Myn Heer, Orontes is terstond</l>
+<l>Gekomen uit het heir; gy kunt zelf uit zyn mond</l>
+<l>Verstaan, zo 't u beliefd, hoe 't zich heeft toegedraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Ei spreek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l rend="; 2tab">De Prins, uit zyn gevangenis ontslaagen:</l>
+<l>Door zyn bewaarders, kwam in 't leger met een sleep</l>
+<l>Van vrienden, doende 't volk, dat zich alreê te scheep</l>
+<l>Met vreugd begeeven had, straks weêr te rugge komen,</l>
+<l>Wat dulheid, riep hy, heeft u zinnen ingenomen,</l>
+<l>Dat gy dus yv'rig zyt te loopen in uw val?</l>
+<l>Weet gy wel waar de Vorst u heenen voeren zal?</l>
+<l>Naar Romen, om u daar in rampen te begraaven;</l>
+<l>Dit zal het loon zyn van uw trouwheid, en uw slaaven;</l>
+<l>De gramschap maakt hem blind; de wanhoop dryft hem aan;</l>
+<l>Hy wil zich wreeken, of in zynen wraak vergaan,</l>
+<l>Ten koste van uw bloed, dat hy meêr hoorde te achten;</l>
+<l>Nu denkt, wat al verdriet, en moeite u staat te wachten;</l>
+<l>O mannen! overweegd, in welk een groot gevaar</l>
+<l>Ge u gaat begeeven; of het niet veel beter waar</l>
+<l>De vreê te omhelzen, die ons Romen aan komt bieden,</l>
+<l>En door dat middel u gewis verderf te ontvlieden.</l>
+<l>Door dit verhaal heeft hy al 't leger opgemaakt;</l>
+<l>De naam van Romen elk met schrik in 't harte raak</l>
+<l>Elk staat verwonderd, ja zy zyn als opgetogen,</l>
+<pb n="60"/>
+<l>En zien alom de dood verschynen voor hun oogen.</l>
+<l>Die noch te lande zyn, die vlieden van het strand;</l>
+<l>En die reeds zyn gescheept, die willen weêr naar land.</l>
+<l>Zy werpen zich in zee, of dreigen 't hoofd te pletten</l>
+<l>Aan 't bootsvolk, dat hen wil in hunne vlugt beletten.</l>
+<l>'t Is overal verward, zy geeven geen gehoor,</l>
+<l>En roepen alle om vreê; de Prins die gaat hen voor;</l>
+<l>En, door zyn trouwloosheid verleid, en aangedreeven,</l>
+<l>Wil yder zich om 't seerst aan Romen overgeeven.</l>
+<l>Ik, die myn Vorst bemin, en liever sterven wou,</l>
+<l>Als hun vervloekt besluit navolgen, en myn trouw</l>
+<l>Verbreeken, ben, hoewel met groot gevaar van 't leeven,</l>
+<l>Ontvlugt, myn Heer, om u hier kennis van te geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi> <hi rend="i">tegen</hi> <hi rend="sc">Arbates</hi>.</speaker>
+<l>O dien verraader! roep zyn broeder, dat hy my</l>
+<l>Te hulp kome, en my voor de dolle raazerny</l>
+<l>Van Pharnaces bescherm'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 2tab">'k Heb hem niet lang geleeden</l>
+<l>Met groote naarstigheid van 't slot naar 't strand zien treeden;</l>
+<l>Hy was verzeld met een aanzienelyken stoet.</l>
+<l>Maar 'k weet de reden niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l rend="; 2tab">De Prins is my ontmoed;</l>
+<l>Hy scheen ontsteld; ik zag de traanen in zyn oogen,</l>
+<l>Zy zyn al t'samen naar de haven toegetoogen.</l>
+<l>Dit is al dat ik weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 1tab">Goôn, wie had dit gedacht!</l>
+<l>Trouwlooze, ik heb te lang met myne wraak gewacht;</l>
+<l>Maar ik zal u, noch uw vermeetenheid niet vreezen;</l>
+<l>Ik weet, 't oproerig volk zal vlieden voor myn wezen,</l>
+<l>Ik zal 't maar zien: en voor hunne oogen, schoon 't hen smart,</l>
+<l>Myn godvergeeten zoons 't staal booren door het hart.</l></sp></div>
+<div type="scene">
+<pb n="61"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Mithridates, Arbates, Arkas, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arkas</hi>.</speaker>
+<l>WY zyn verlooren, wyl de wederspannelingen,</l>
+<l rend="; 1tab">Met Roomsche magt gesterkt, dit slot geheel omringen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Met Roomsche magt!</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 3tab">O ja, zy staan in groot getal</l>
+<l>Op 't strand, en zullen haast verschynen voor de wal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Goôn! gaan we der waarts.</l>
+<stage><hi rend="i">Tegen Arkas</hi>.</stage>
+<l rend="; 2tab">Hoor. Van 't leed dat my komt drukken,</l>
+<l>Ontrouwe Monima zult gy geen vruchten plukken.</l></sp></div></div>
+<div type="act">
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Monima, Twee Staatjuffers</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Eerste Staatjuffer</hi>.</speaker>
+<l>LAat af, laat af, Mevrouw: ô Goôn! wat gaat u aan?</l>
+<l rend="; 1tab">Help Phedima.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 3tab">Vertrekt van hier: laat my begaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tweede Staatjuffer</hi>.</speaker>
+<l>De Goôn behoeden u, dat gy u zelf het leeven</l>
+<l>Verkorten zoud.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">De Goôn die hebben my begeeven.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Monima, Phedima, Twee Staatjuffers</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>MEvrouw, waar loopt gy heen? hoe zytge dus verblind,</l>
+<l rend="; 1tab">Dat gy u eigen zelf te ontzielen onderwind;</l>
+<pb n="62"/>
+<l>Wel hoe! wat wreedheid kon uw ziel zoo ver vervoeren:</l>
+<l>Dat gy een strop maakt van uw koninglyke snoeren?</l>
+<l>Ziet gy niet, dat de Goôn zelf dien gewyden band</l>
+<l>Uit mededoogentheid verbraken in uw hand</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Waarom vervolgt ge my? waar door word gy gedreeven,</l>
+<l>Dat gy me tegen dank wild houden in het leeven?</l>
+<l>Myn Prins en leeft niet meêr: de Vorst, in deeze nood</l>
+<l>Wanhoopende, wacht zelf niet als een wisse dood.</l>
+<l>Wat vrucht beloofd gy u van my dus stout te kwellen?</l>
+<l>Wild gy me aan Pharnaces dan zelve in handen stellen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Ai, wacht ten minste, tot dat gy verzekerd zyt</l>
+<l>Van uws bemindes dood. In deez' verwarde tyd</l>
+<l>Kan lichtelyk het oog in 't onderzoeken dwaalen:</l>
+<l>Gy weet, men heeft ons eerst, als zeker gaan verhaalen</l>
+<l>(Toen hem de lastertong met snoô verraadery</l>
+<l>Betichte) dat hy zich gevoegd had aan de zy</l>
+<l>Der wederspannigen: nu hebben zy hem 't leeven</l>
+<l>Benoomen, zegt men, door hun dolheid aangedreeven.</l>
+<l>Gy ziet wel, 't eerst komt met het laast niet over een:</l>
+<l>Stryk 't oordeel zelf, Mevrouw, van deez' mismoedigheên.</l>
+<l>Ai, wil u zonder nood niet ongelukkig maaken:</l>
+<l>Bedaar, Prinses en wil uw doodlyk opzet staaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Myn Xiphares is dood: ik twyffel daar niet aan:</l>
+<l>'k Heb al te wel gedacht, dat hy 't niet zou ontgaan.</l>
+<l>Schoon my de droeve maar verborgen was gebleeven,</l>
+<l>Genoegzaam konden my getuigenisse geeven</l>
+<l>Van zyne dood, zyn moed, en naam, te zeer gevreest</l>
+<l>Van 't Roomsche volk. Helaas! myn Prins, gy zyt geweest,</l>
+<l>O Romen, dat zo lang naar 't eind van zyne daagen</l>
+<l>Verlangd hebt, nu hebt gy de zege weggedraagen!</l>
+<l>Uw bloeddorst is gebluscht: vry zyt ge voor 't geweld</l>
+<l>Des onverwinb'ren arms van dien gevreesden held!</l>
+<pb n="63"/>
+<l>Maar waar vervoeren my myn treurige gepeinzen?</l>
+<l>Rampzaalige, waarom wilt gy uw schuld ontveinzen!</l>
+<l>Kunt gy, kunt gy niet zien, dat gy 't alleene zyt,</l>
+<l>Die hem geworpen hebt in deeze elende? ô spyt!</l>
+<l>'k Ben oorzaak dat myn Prins zyn leeven heeft verlooren:</l>
+<l>Ik heb hem in een poel van rampen doen versmooren,</l>
+<l>Toen ik zyn liefde zelf zyn vader heb ontdekt.</l>
+<l>Wat heb ik tegens hem al moordenaars verwekt!</l>
+<l>Schoon hy de Romers, en zyn broeder was ontkomen,</l>
+<l>Zyn wreede Vader had zyn dood reeds voorgenomen.</l>
+<l>Ik ben 't, die hem heb vol van minnenyd gemaakt,</l>
+<l>En 't vier ontsteeken, 't welk nu zo afgryslyk blaakt;</l>
+<l>Ik ben de bron dier twist, tot hun verderf gebooren</l>
+<l>Uit de afgrond van de hel; een roê van 's hemels tooren.</l>
+<l>En leef ik noch? wacht ik, tot Pharnaces aan my</l>
+<l>Zyn vreugd komt toonen, om dat hy zyn schelmery</l>
+<l>Volbragt heeft, ja het bloed zyns vaders zelf vergooten!</l>
+<l>Zal ik hem zien, verzeld van zyne bondgenooten,</l>
+<l>Van myn dood vyanden? neen, die geen dood ontziet,</l>
+<l>Vind altyd midd'len om te sterven. 't Is om niet,</l>
+<l>O wreede, dat ge my beletten wilt te sneeven,</l>
+<l>'k Zalme in uw armen zelf berooven van het leeven.</l>
+<l rend="; 1tab">En gy, onzalig snoer, gy heilloos hoofdsieraad,</l>
+<l>Waar door ik ben gebragt in deeze droeve staat;</l>
+<l>O band, die 'k duizendmaal gedoopt heb in myn traanen,</l>
+<l>Waar van myn hart niet kan, als schreijende, vermaanen!</l>
+<l>Ach! kost gy my, om my te helpen uit myn pyn,</l>
+<l>Deeze oogenblik alleen niet eens behulpzaam zyn?</l>
+<l>Wyl gy me voor het laatst dus schandig hebt bedroogen,</l>
+<l>Wil ik u nimmer weêr aanschouwen met myne oogen.</l>
+<l>'k Zal and're middelen gebruiken, als dien band,</l>
+<l>Vervloekt zy de eerste dag, vervloekt de wreede hand,</l>
+<l>Die u, ô bron van al myn leed, en ongelukken,</l>
+<l>My eertyds tegen dank bestond op 't hoofd te drukken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eerste Staatjuffer</hi>.</speaker>
+<l>Ei! matig uw verdriet, 'k hoop, dat in korten tyd</l>
+<l>Uw Xiphares hier weêr zal weezen.</l></sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">'k Ben hem kwyt,</l>
+<l>En zal hem nooit weêr zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l rend="; 1tab">Ai! stel dit uit uw zinnen,</l>
+<l>Mevrouw, en tracht, wat meêr op uw gemoed te winnen,</l>
+<l>Ter liefde van uw Prins; gedenk eens, welk een smart</l>
+<l>Vond hy uw leevenloos, hem snyden zou door 't hart.</l>
+<l>Indien gy hem bemind, Mevrouw, en zo zyn leeven</l>
+<l>U waard is, moet gy u der reden overgeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Mag ik myn Xiphares niet volgen in het graf?</l>
+<l>Zyn goon, en menschen my dan even wreed, en straf?</l>
+<l>Waar tot my dus noch met een ydle hoop te kwellen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tweede Staatjuffer</hi>.</speaker>
+<l>Mevrouw, wy willen in het sterven u verzellen,</l>
+<l>Als gy verzekerd zyt van u bemindes dood,</l>
+<l>Als gy gekomen zyt in 't uiterst van de nood:</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Rampzaalige, waar zultge u in dit onweêr wenden!</l></sp>
+<sp>
+<speaker><hi rend="sc">Eerste Staatjuffer</hi>.</speaker>
+<l>Ik hoop, de hemel zal u haast een uitkomst zenden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>'k Hoor iemand. Arkas komt. Ik hoop, dat hy uw smart</l>
+<l>Verzachten, en de rouw zal bannen uit uw hart.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Monima, Phedima, Twee Staatjuffers, Arkas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>HOe! Arkas, is 't verricht? heeft Pharnaces het leeven....</l></sp>
+<sp>
+<speaker><hi rend="sc">Arkas</hi>.</speaker>
+<l>'k Bid, vraag me niet, Mevrouw; de last, aan my gegeeven,</l>
+<l>Bedroefd my al te zeer; het is u wel bekend,</l>
+<l>Tot welk een einde dit de Koning aan u zend.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Rampzaalige Prinses!</l></sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 3tab">Wat vreugd komt my bestraalen!</l>
+<l>Hier is het tegengift van al myn leed, en kwaalen.</l>
+<l>Hier, Arkas, hier; ga, zeg den Koning, die 't my geefd,</l>
+<l>Dat al de gaaven, die zyn gunst my eertyds heeft</l>
+<l>Geschonken, niet in 't minst by deeze gift zyn te achten;</l>
+<l>Niets aangenaamer konde ik ooit van hem verwachten.</l>
+<l>Nu schep ik eindlyk aâm. De Hemel maakt me vry</l>
+<l>Van alle moeilykheid, van zyne dwinglandy;</l>
+<l>En wil my eenmaal van myn lot meestresse maaken.</l>
+<l>Om voor myn dood het zoet der vryheid noch te smaaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Phedima</hi>.</speaker>
+<l>Helaas!</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">Ai, schrei toch niet, om niet door uw geween</l>
+<l>Deez' lieff'lyke oogenblik, zo vol bekoorlykheên,</l>
+<l>Te onteeren. Eertyds had gy reden om te klaagen,</l>
+<l>Toen my deez' haatlyke eer het eerst wierd opgedraagen;</l>
+<l>En toen men uw meestres uit 't weelig Griekenland</l>
+<l>Vervoerde, tegen dank, aan deze woeste strand.</l>
+<l>Keer weder, Phedima, na die gelukkige oorden,</l>
+<l>Wiens heugelyk gezigt my eertyds zo bekoorden,</l>
+<l>En zo myn naam noch leefd in 's volks geheugenis,</l>
+<l>Verhaal hen wat my hier al wedervaaren is.</l>
+<l>Ga, zeg hen, 't geen gy zaagt; van myn rampzaalig leeven,</l>
+<l>En jammerlyke dood moet gy hen kennis geeven.</l>
+<l rend="; 1tab">En gy, die van dit hart, dat u beminde, altyd</l>
+<l>Door 't nydig noodlot, dat ons haat, gescheiden zyt,</l>
+<l>Myn held, met wien ik na het einde van myn dagen</l>
+<l>Niet hoopen durf, wanneer men my ter aard zal draagen,</l>
+<l>Te rusten in een graf; myn waarde Xiphares,</l>
+<l>Ontfang tot offerhand de ziel van uw Prinses.</l>
+<l>Ach! mogt ik met myn bloed zyn schim te vreden stellen.</l></sp></div>
+<div type="scene">
+<pb n="66"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Monima, Arbates, Phedima, Twee Staatjuffers, Arkas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>HOud, houd, Mevrouw!</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">Waar toe my op een nieuw te kwellen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arkas</hi>.</speaker>
+<l>Wat maaktge, Arbates?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 2tab">'k Volg myn last.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 4tab">Laat my begaan.</l>
+<l>Arbates, stoor my niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi> <hi rend="i">'t Vergif weg werpende</hi>.</speaker>
+<l rend="; 3tab">Ik bid u, laat u raân.</l>
+<l>Laat af, Mevrouw, laat af, gun, dat ik moog volbrengen</l>
+<l>De last des Konings; 'k zal uw sterven nooit gehengen.</l>
+<l>Blyf leeven. Arkas, vlieg naar Mithridates, en</l>
+<l>Verhaal hem, dat ik noch in tyds gekomen ben.</l></sp></div>
+<div type="scene">
+<head rend="h3">Vyfde tooneel.</head>
+<stage><hi rend="sc">Monima, Arbates, Phedima, Twee Staatjuffers</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>O Wreede Arbates! zeg, waarom komt gy me plaagen?</l>
+<l rend="; 1tab">Is myne straf te licht? moet ik noch zwaarder draagen?</l>
+<l>Benyd de Koning my dan noch een korten dood?</l>
+<l>Is Mithridates dan zo wreed? zyn haat zo groot,</l>
+<l>Dat hy me meêr als eens van 't leeven wil berooven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Gy zult hem zien, Mevrouw, en 'k durf het my belooven,</l>
+<l>Beschreijen nevens my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 2tab">De Vorst!</l></sp>
+<pb n="67"/>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Ja, zyn gezigt</l>
+<l>Ziet slegts een glinster noch van 't lieve leevenslicht.</l>
+<l>Ik heb hem, zwaar gewond, zieltogende gelaaten</l>
+<l>In de armen van zyn wacht, omringd van zyn Soldaaten,</l>
+<l>By Xiphares, die hem al weenende verzeld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Wie? Xiphares? ô goôn! hoe is myn hart ontsteld:</l>
+<l>Ik weet nauw of ik waak: 'k mistrouw myn eigene ooren.</l>
+<l>Hoe! Xiphares, die ik geacht heb als verlooren,</l>
+<l>Die ik zo heb beschreid, die leefd noch?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 2tab">Ja, Mevrouw,</l>
+<l>Hy leefd vol roem en eer, maar teffens vol van rouw.</l>
+<l>'t Gerucht van zyne dood door al de stad gevloogen,</l>
+<l>Prinses, heeft u het hart alleene niet bewoogen:</l>
+<l>De Romers hebben ons door deezen vond misleid,</l>
+<l>En door die droeve maar des krygsvolks moedigheid</l>
+<l>Doen flaauwen. Dit bedrog heeft zelf den Vorst doen weenen.</l>
+<l>Hy heeft zyn droeve dood beklaagd, en ook met eenen</l>
+<l>Wanhoopende aan 't geluk der wapenen voortaan,</l>
+<l>Van Pharnaces zo schelms, en schandelyk verraân,</l>
+<l>Van alle kant geparst door menigte van benden,</l>
+<l>Geweeten uitkomst, raad, noch hoop in zyne elenden.</l>
+<l>Des ziende aan de eene kant de slaaverny, de dood</l>
+<l>Aan de andre, en 't welk zyn smart noch allermeest vergroot,</l>
+<l>Den Roomschen adelaar ziet by zyn vaanen zweeven,</l>
+<l>Heeft hy, door bitt're haat en wanhoop aangedreeven,</l>
+<l>Gezocht zich zelven van des leevenslast te ontslaan,</l>
+<l>Om door dien weg de hand van 't Roomsche volk te ontgaan.</l>
+<l>In 't eerste zag men hem, vol moed, zyn leeven trachten</l>
+<l>Door doodelyk venyn te korten: maar de krachten</l>
+<l>Van 't vinnigste vergif bevond hy zonder kracht.</l>
+<l><hi rend="i">Vergeefs</hi>, <hi rend="i">riep hy</hi>, <hi rend="i">heb ik ontzet van u verwacht</hi>;</l>
+<pb n="68"/>
+<l><hi rend="i">Ik heb u al te zeer gevreesd</hi>, <hi rend="i">ik heb voor deezen</hi></l>
+<l><hi rend="i">My tegens u gehard</hi>, <hi rend="i">dit doet u hulploos weezen</hi>,</l>
+<l><hi rend="i">Welaan</hi>, <hi rend="i">myn ziel</hi>, <hi rend="i">wel aan</hi>, <hi rend="i">betoon voor 't laatst uw moed:</hi></l>
+<l><hi rend="i">Verkoop op 't aller dierst aan Rome uw dierbaar bloed</hi>.</l>
+<l>Met daagt hy 's vyands volk, en steld de poorten open;</l>
+<l>Waar op in groot getal zy binnen komen loopen.</l>
+<l>Hy treed hen in 't gemoet, en in een oogenblik,</l>
+<l>Op 't zien van 't fier gelaat, dat duizendmaal de schrik</l>
+<l>Door hunne benden joeg, de stoutste vaak deê schroomen,</l>
+<l>Loopt elk om 't zeerst te rugg', niets kon hun vlugt betoomen,</l>
+<l>Ja zelfs de onsteltenis was onder hen zo groot,</l>
+<l>Dat zy zich overhoop begaaven op hun vloot.</l>
+<l>Maar Pharnaces, ô schand! heeft hen weêr moed gegeeven,</l>
+<l>En hunne dapperheid doen in hun hart her leeven;</l>
+<l>'t Gedenken aan hun vlugt maakt hen gelyk verwoed,</l>
+<l>Om hun geleeden hoôn te wasschen in ons bloed.</l>
+<l>Dus zagmen hen te rug naar Mithridates keeren,</l>
+<l>Die ik met weinig volk noch trachte te verweeren.</l>
+<l>'t Is my niet mogelyk te zeggen, hoe dien held</l>
+<l>Zich zelf noch voor het laast, in spyt van al 't geweld</l>
+<l>Des vyands, deed ontzien, met welke zwaare slagen</l>
+<l>Zyn arm den vyand trof; dus heeft de Vorst zyn dagen</l>
+<l>Beslooten, en zyn roem in 't uiterst niet verzaakt,</l>
+<l>Maar zyn gevreesde naam onsterfelyk gemaakt.</l>
+<l>Doch na dat hy vermoeid, bebloed, met 's vyands lyken</l>
+<l>(Gevoelende zyn kracht, maar niet zyn moed, bezwyken)</l>
+<l>Zich zelf bebolwerkt had, zag hy een varssche hoop</l>
+<l>Romeinen komen, die met eene volle loop</l>
+<l>Hun spiessen velden op de borst van Mithridates;</l>
+<l>Toen zeid hy tegens my; <hi rend="i">'t Is nu genoeg</hi>, <hi rend="i">Arbates</hi>;</l>
+<l><hi rend="i">'k Ben door myn hevig bloed alreê te ver gebragt:</hi></l>
+<l><hi rend="i">'k Wil my niet leevendig voor al zien in hun magt</hi>.</l>
+<l>En daar op heeft hy zich doorstooten met zyn degen:</l>
+<l>Maar 't scheen, de dood liet noch zyn groote ziel verlegen.</l>
+<l>Dus viel hy in myn arm gantsch kracht'loos, en bebloed:</l>
+<l>En was op 't hoogst verstoord, dat hem de dood zo zoet,</l>
+<pb n="69"/>
+<l>En langzaam overkwam; ja gram om 't weinig leeven,</l>
+<l>Dat hem noch overschoot, heeft hy zyn hand geheven,</l>
+<l>En wees me al stervende de plaats noch van zyn hart,</l>
+<l>Als of hy my beval, dat ik, om van zyn smart</l>
+<l>Een eind te maaken, hem een wisser wond zou geeven.</l>
+<l>Terwyl ik, mede door de wanhoop aangedreeven,</l>
+<l>Om deez'rampzaligheid, my zelf te ontzielen dacht;</l>
+<l>Hoorde ik een groot geschreeuw, dat my heel onverwacht</l>
+<l>Deede omzien, en (wie dacht, dat zulks ooit zou geschieden!)</l>
+<l>'k Zag Pharnaces, en 't volk van Romen schandig vlieden</l>
+<l>Naar hunne schepen toe, vol schrik; de winnaar wend</l>
+<l>Zich naar het slot, en maakt ons Xiphares bekend.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Gerechte Goôn!</l></sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">De Prins, die scheen gelyk verreezen,</l>
+<l>Was reeds van 't muitend volk, die voor zyn kloekheid vreezen,</l>
+<l>Zyn yver kennen, heel omsingeld, als om stryd.</l>
+<l>Maar, hy uit dit gevaar ontworsteld, en in spyt</l>
+<l>Der wederspannigsten, de trouwste door de reden</l>
+<l>Bewoogen hebbende weêr tot hun pligt te treeden,</l>
+<l>Keerd weder naar het slot, en streefd, gelyk verwoed,</l>
+<l>Vol ed'le grimmigheid, zyn vader in 't gemoet</l>
+<l>Door duizend dooden heen: maar toen hy voor zyn oogen</l>
+<l>Dit deerlyk treurspel zag, wierd hy in 't hart bewoogen</l>
+<l>Met zulk een droef heid, dat hy met zyn eigen hand</l>
+<l>Zich zelf het gladde staal had in zyn borst geplant,</l>
+<l>Zo 't hem niet was belet. Met zag my Mithridates</l>
+<l>Weemoedig aan, en sprak schier buiten aam; <hi rend="i">Arbates</hi>,</l>
+<l><hi rend="i">'k Beveelu</hi>, <hi rend="i">dat gy u op 't vaar digst heen begeefd</hi>,</l>
+<l><hi rend="i">Naar Monima</hi>, <hi rend="i">en zo de Koning in noch leefd</hi>,</l>
+<l><hi rend="i">Maak dat zy nevens u hier datelyk moog komen</hi>.</l>
+<l>Dit woord heeft my voor u, en Xiphares doen schroomen,</l>
+<l>Ik dacht wel, dat de Vorst iets heimlyks had besteld,</l>
+<l>Om u te dooden door vergif, of door geweld.</l>
+<pb n="70"/>
+<l>Hoe moede ik was, nochtans door yver aangedreeven,</l>
+<l>Gevoelde ik, dat de schrik my nieuwe kracht kwam geven,</l>
+<l>Die onder zo veel ramp my zeer gelukkig acht,</l>
+<l>Dat ik noch keer den slag, die licht u beide dacht</l>
+<l>Te dooden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l rend="; 1tab">'k Ben verschrikt door zulke zwaare slagen,</l>
+<l>En moet de rampspoed van dien grooten Vorst beklaagen.</l>
+<l>Ach hemel! had ik toch aan zyn rampzalig end</l>
+<l>Geen deel gehad, en was my de oorzaak onbekend!</l>
+<l>Ach! was ik slechts een ooggetuigen van zyn smarte,</l>
+<l>En voelde ik, schreiende, geen knaaging in myn harte!</l>
+<l>Hy komt. Wat baaren my al onrust, groote Goôn,</l>
+<l>Het bloed des vaders, en de traanen van den zoon!</l></sp></div>
+<div type="scene">
+<head rend="h4">Laatste tooneel.</head>
+<stage><hi rend="sc">Mithridates, Monima, Xiphares, Arbates, twee Staatjuffers, Arkas</hi>, 1.2.3. <hi rend="sc">Lyfwacht</hi>, <hi rend="i">die Mithridates ondersteunen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>WAt zie ik Vorst, helaas! waar zyt ge toe gekomen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Houd op, ik wil, dat gy uw traanen in zult toomen:</l>
+<l>Ik eisch van uwe liefde, en zyn genegentheid</l>
+<l>Heel and're tekenen, als dat ge my beschreid.</l>
+<l>Myn roem, die yder een verwonderlyk moet achten,</l>
+<l>Moet gy niet schandelyk onteeren door uw klagten:</l>
+<l>'k Heb my, en yder een gewrooken van 't geweld</l>
+<l>Der Romers, tot dat my de dood heeft neêrgeveld.</l>
+<l>Ik vyand van dat volk, en van hun wreede daaden,</l>
+<l>Heb hun te schandig juk nooit op my willen laaden:</l>
+<l>Ja 'k beeld my in, dat nooit een Koning heeft geleefd,</l>
+<l>Die dierder het geluk aan die tierannen heeft</l>
+<l>Verkoft, als ik, schoon hy hen even zeer mogt haaten,</l>
+<l>Noch grooter eernaam in hun boeken nagelaaten.</l>
+<pb n="71"/>
+<l>Maar 't heeft den Hemel niet beliefd, dat ik, Mevrouw,</l>
+<l>Myn aanslag, die ik had begost, volbrengen zou:</l>
+<l>En ik, na Romens val, in haaren schoot zou rusten.</l>
+<l>Doch stervende voel ik myn ziel zich noch verlusten,</l>
+<l>Wyl ik myn handen met hun bloed geverwd mag zien,</l>
+<l>En myn gebrooken oog myn vyand heeft zien vliên.</l>
+<l rend="; 1tab">Myn Xiphares moet ik hier van al de eere geeven;</l>
+<l>Hy heeft dat haat'lyk volk uit myn gezigt gedreeven,</l>
+<l>Toen ik zieltogend lag. Ach! mogt ik hem, tot loon</l>
+<l>Van zulk een grooten dienst, hersteld zien op myn troon.</l>
+<l>Gy zyt myn ryk, myn kroon; 'k heb u alleen behouwen.</l>
+<l>Mevrouw, vergunme, dat ik u met hem moog trouwen,</l>
+<l>Geef hem uw hart, dat my voorheen was toegezeid,</l>
+<l>En stel op Xiphares al uw genegenheid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Myn Heer, ik bid u, leef, op dat gy moogt bevinden,</l>
+<l>Hoe wy steeds ons geluk aan 't uwe zullen binden,</l>
+<l>Leef, Heer, en straf hen, die uw arm verwonnen heeft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l>Het is met my gedaan, Mevrouw, ik heb geleefd.</l>
+<l>Myn zoon, bedenk, wat u te doen staat; gy moet vlieden,</l>
+<l>Denk niet, dat ge al dat volk zult weêrstand kunnen bieden.</l>
+<l>Eerlang zal 't Roomsche heir, om zyn verlies verstoord,</l>
+<l>Van alle kanten u weêr komen fel aan boord.</l>
+<l>Verspil den tyd niet, die hun vlugt u komt te geeven,</l>
+<l>In 't bouwen van een graf ter eeren van myn leeven.</l>
+<l>'k Onsla u van die zorg; wyl zulk een groot getal</l>
+<l>Romeinen, door myn hand verslaagen overal,</l>
+<l>Myn asch genoegzaam eerd; gy moet de Goôn niet tergen;</l>
+<l>Verschuil u voor een tyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Hoeik, ik my verbergen?</l>
+<l>En Pharnaces zou niet gestraft zyn in zyn kwaad!</l>
+<l>Ik 't zegepraalend volk van Romen mynen haat</l>
+<l>Niet haast doen voelen?</l></sp>
+<pb n="72"/>
+<sp>
+<speaker><hi rend="sc">Mithridates</hi>.</speaker>
+<l rend="; 2tab">Neen, myn zoon, gy moet my hooren,</l>
+<l>'k Verbied het u. ik weet wat straf hem is beschooren;</l>
+<l>Die zal het Roomsche volk volbrengen. Noch voor 't laast</l>
+<l>Ik bid u, Xiphares, dat ge uw vertrek verhaast.</l>
+<l>De Parth alleen heeft magt zich tegens hen te weeren;</l>
+<l>Tot noch toe heeft hy zich niet laaten overheeren:</l>
+<l>'t Schynt, dat hy word bewaard ter laatster zegepraal;</l>
+<l>Doch 't is een dapper volk, gebooren onder 't staal,</l>
+<l>Onkreukbaar van gemoed. Ga, voegd by hunne krachten</l>
+<l>'t onzaglyk overschot van myn gevreesde magten.</l>
+<l>Ik hoop, ja ik voorzie in korten te gemoet,</l>
+<l>Dat langs hun velden heen zal stroomen 't Roomsche bloed.</l>
+<l>Zo ooit de hemel wraak wil neemen van myn sterven,</l>
+<l>'k Zal van hun dapperheid die gunst alleen verwerven.</l>
+<l>Maar ik gevoel, dat my myns leevenskracht begeefd;</l>
+<l>Ik sterf; nu kom, myn zoon, in wien myn beeld herleefd,</l>
+<l>Omhels my voor het laatst: de dood komt my al nader,</l>
+<l>Myn Xiphares, ontfang de ziel van uwen vader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Monima</hi>.</speaker>
+<l>Hy sterft!</l></sp>
+<sp>
+<speaker><hi rend="sc">Xiphares</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, laat ons, verëend in deezen nood,</l>
+<l>Omzoeken overal na wreekers van zyn dood.</l></sp>
+<p><hi rend="spat">EINDE</hi>.</p></div></div>
+</body>
+</text>
+
+</TEI.2>

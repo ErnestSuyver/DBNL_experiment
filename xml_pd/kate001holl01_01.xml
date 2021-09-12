@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Holland's muze</title>
+               <author>J.J.L. ten Kate</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Holland's muze</hi> van J.J.L. ten Kate uit 1843.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">kate001holl01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2017 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>unicode</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: 9216 E 17, scans van Google Books</idno>
+               </bibl>
+               <p>J.J.L. ten Kate, <hi rend="i">Holland's muze</hi>. C. van der Post Jr., Utrecht 1843</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Holland's muze</title>
+               <author>J.J.L. ten Kate</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Holland's muze</title>
+               <author>J.J.L. ten Kate</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2017-03-09</date>
+               <respStmt>
+                   <name type="person">AvN</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="π1"/>
+<p>HOLLANDS MUZE.</p>
+<p>EEN WOORD TOT IEDER,</p>
+<p>WIEN HET VADERLAND EN DE KUNST</p>
+<p>TER HARTE GAAN.</p>
+<p><hi rend="i">Het vleyen is een gunst van doodelijck gerief: Ick spaer de roede niet: ick heb het Kind te lief.</hi></p>
+<p>Constanter.</p>
+<p>TE UTRECHT,</p>
+<p>BY C. VAN DER POST Jr.</p>
+<p>1843.</p>
+<pb rend="blank" n="π2"/>
+</div>
+</cf>
+<div type="chapter">
+<pb n="I"/>
+<head rend="h3">Voorbericht.</head>
+<p><hi rend="i">Het huidige dichtstuk is het aanwezen verschuldigd aan een verschijnsel op het gebied der Letterkunde ook ònzes Vaderlands</hi>, <hi rend="i">'twelk geen oplettend oog ontgaan kan.</hi></p>
+<p><hi rend="i">Wy bedoelen de zich meer en meer openbarende onverschilligheid des grooten Publieks voor de eens zoo gevierde Poëzy</hi>, <hi rend="i">een onverschilligheid die gelijken tred schijnt te houden met de groeiende geestdrift voor haar zuster de Toonkunst</hi>, <hi rend="i">de Koningin onzer dagen</hi><note n="(1)" place="foot">Aller lezens waardig zijn <hi rend="sc">klikspaans</hi> opmerkingen omtrent deze laatste in zijn meesterlijke type: <hi rend="i">sempre crescendo.</hi></note>.</p>
+<p><hi rend="i">Reeds voor eenige jaren schreef de beroemde en beruchte</hi> <hi rend="sc">heinrich heine</hi> <hi rend="i">uit</hi> Parijs, <hi rend="i">en ditmaal gevoelde de zoon van 't</hi> jonge Duitschland<note n="(2)" place="foot">God lof! nu ook reeds weêr verouderd en stervend.</note>
+<hi rend="i">juist:</hi></p>
+<p>‘<hi rend="i">Sedert eenigen tijd verzet zich iets in mij tegen al wat gebonden stijl is</hi>, <hi rend="i">en zoo als ik hoore</hi>, <hi rend="i">ontwaakte by menigen tijdgenoot een gelijke tegenzin. Wellicht vindt die daarin zijn oorzaak</hi>, <hi rend="i">dat er in schoone vaerzen al te veel gelogen is geworden</hi>, <hi rend="i">en de waarheid nu bang is</hi>, <hi rend="i">in een metrisch gewaad te verschijnen.</hi>’<note n="(3)" place="foot">In de voorrede van zijn <hi rend="i">Buch der Lieder</hi> (Hamburg, 1837); een doorgaand lied des Ongeloofs, vol van de beurtelingsche bitterheid en spotterny, weemoed en sarcasme der wanhoop.</note></p>
+<p><hi rend="i">Immers zoo de laatste gissing wat algemeen</hi>, <hi rend="i">wat</hi> vague <hi rend="i">daar heen geworpen zij</hi>, <hi rend="i">toch is het onmiskenbaar</hi>, <hi rend="i">dat gezond gevoel en waarheid in onze huidige vaerzen</hi>, en masse, <hi rend="i">meest al vergeefs gezocht worden. - Men is tegen het voetstuk van groote mannen op geklommen; men heeft zich af gemarteld</hi>, <hi rend="i">om</hi>, <hi rend="i">aan de voeten der reusachtige standbeelden</hi>, <hi rend="i">hunne</hi> pose <hi rend="i">na te bootsen</hi>, <hi rend="i">hunne uitdrukking na te wringen. Men heeft</hi>, <hi rend="i">met veronachtzaming</hi>, <hi rend="i">met verwoesting van eigen</hi> subjectiviteit, (<hi rend="i">zoo er die al ware</hi>) <hi rend="i">die van anderen de zijne gehuicheld</hi>, <hi rend="i">met al de oppervlakkigheid en al de onverstandige keuze der navolging. Men heeft vergeten</hi>, (<hi rend="i">om niet te zeggen men heeft niet geweten</hi>) <hi rend="i">dat het streven van den echten Kunstenaar daar heen strekt</hi>, <hi rend="i">om zich-zelf en geheel zich-<pb n="II"/>zelf te zijn by</hi> (<hi rend="i">men vergeve ons het geparodiëerde kunstwoord</hi>, <hi rend="i">maar het drukt onze bedoeling krachtigst en duidelijkst uit</hi>), <hi rend="i">by de grootste</hi> objectiviteit.</p>
+<p><hi rend="i">Zoo heeft men ten onzent</hi>, (<hi rend="i">iets later dan by onze naburen</hi>, <hi rend="i">want ook het</hi> festina lente <hi rend="i">deelt by ons tegenwoordig in de verkeerde toepassing</hi>, <hi rend="i">waaronder veel voortreffelijks van ouden en nieuwen adel gebukt gaat</hi>) <hi rend="i">om ons by een drietal te bepalen</hi><note n="(1)" place="foot">En om vooral van het bastert-minnedicht <hi rend="i">à la</hi> <hi rend="sc">moore</hi> niet te gewagen.</note>, <hi rend="sc">lamartine, hugo</hi> <hi rend="i">en</hi> <hi rend="sc">byron</hi>, <hi rend="i">met den tegenovergesteldsten wil</hi>, <hi rend="i">geparodiëerd.</hi></p>
+<p><hi rend="i">Men heeft in het lood van den eerste goud gezien</hi>, <hi rend="i">in zijn onbestemde sentimentaliteit waarachtig gevoel</hi>, <hi rend="i">in zijn godsdienstigheid Christendom</hi>, <hi rend="i">in zijn mystieke duisternis diepte! Zelfs de</hi> <hi rend="sc">jocelyn</hi>
+<hi rend="i">en de</hi> Chûte d'un Ange, <hi rend="i">latere en meer ontwikkelde manifestatiën van het gedrochtelijk stelsel van den Franschman</hi>, <hi rend="i">hebben by ons</hi> fureur <hi rend="i">gemaakt</hi>, <hi rend="i">vertalers en navolgers gewekt. Slechts enkele</hi> stemmen (<hi rend="i">stemmen βοῶντος ἐν νῇ ἐϱήμ<figure rend="inline"><p><xptr to="kate001holl01fi0001.gif"/></p></figure></hi>, <hi rend="i">want de Mode moest uit woeden en heeft het</hi>, <hi rend="i">God lof!</hi>) <hi rend="i">verhieven zich tegen de eerdienst van een onchristelijken en onnationalen</hi> Genius. <hi rend="i">Onze Poëetendrom middelerwijl juichte met een onzer begaafdste jongeren hem toe als:</hi></p>
+<q rend="bq">‘Den vromen Pelgrim onzes tijds,’</q>
+<p><hi rend="i">en niemand hunner had een oog voor de Oostersche zinnelijkheid en het Mahomethaansch fatalisme</hi>, <hi rend="i">welke reeds lang dat dichterlijk bestaan hadden vernietigd</hi>, <hi rend="i">waar nu niets meer in woont dan godvruchtlooze aanbidding</hi>, <hi rend="i">openbaringlooze godsdienst</hi>, <hi rend="i">doodsch pantheïsme!</hi></p>
+<p><hi rend="i">Evenzeer</hi>, <hi rend="i">ja erger</hi>, <hi rend="i">heeft men ook</hi> <hi rend="sc">victor hugo</hi> <hi rend="i">en vooral</hi>
+<hi rend="sc">byron</hi> <hi rend="i">op den pedestal der navolging geheeschen. Men heeft er niet aan gedacht</hi>, <hi rend="i">dat deze</hi>, <hi rend="i">by al hun gebreken</hi>, <hi rend="i">toch de deugd der</hi> individualiteit <hi rend="i">bezaten; dat er</hi>, <hi rend="i">midden in hun dwalingen</hi>, <hi rend="i">waarheid was</hi>, <hi rend="i">omdat zy schreven wat ze gevoelden</hi>, <hi rend="i">zich schilderden gelijk ze waren. Men heeft vergeten</hi>, <hi rend="i">dat juist hierin het</hi> piquante, <hi rend="i">ik mag zeggen de</hi> magneet, <hi rend="i">ligt</hi>, <hi rend="i">die hen door alle eeuwen</hi>, <hi rend="i">zoo geen bewondering</hi>, <hi rend="i">ten minste belangstelling</hi>, <hi rend="i">tot zich zal doen trekken. Men heeft zich</hi>, <hi rend="i">met aanmatiging van al de aanmatigingen van den Genie</hi>, <hi rend="i">maar zonder ééne zijner gaven</hi>, <hi rend="i">te midden eener valsche</hi>, <hi rend="i">verdraaide</hi>, <hi rend="i">elders afgeziene levensbeschouwing</hi>, <hi rend="i">op den throon gezet; men heeft</hi> geacteerd (<hi rend="i">want anders mag het niet heeten</hi>) <hi rend="i">voor een miskende grootheid</hi>, <hi rend="i">voor verraden vriend</hi>, <hi rend="i">belogen minnaar</hi>, <hi rend="i">bedrogen gade</hi>, <hi rend="i">voor menschenhater</hi>, <hi rend="i">ja</hi>, <hi rend="i">des noods voor renegaat en</hi> mauvais sujet. <hi rend="i">En die autheurs waren dikwijls de te vredenste menschen</hi>, <hi rend="i">die</hi>, <hi rend="i">zonder kreun</hi>, <hi rend="i">een Hollandsch stil-leventjen leiden en te goedhartig waren om een dier</hi>, <hi rend="i">laat staan een mensch leed te doen. Dikwijls zelfs waren ze méér</hi>, <hi rend="i">en vonkelde er werkelijk een sprank der echte Muze in hun aderen. Maar alle handen droegen meê naar het altaar der Mode. Het vervelendste</hi>, <hi rend="i">het nietigste harer kinderen</hi>, het berijmd Verhaal, 
+<hi rend="i">ontstond en kroop</hi>, <hi rend="i">onder daverend handgeklap</hi>, <hi rend="i">al onze zoogenaamd kunstlievende en letter-<pb n="III"/>kundige genootschappen</hi><note n="(1)" place="foot">Wanneer toch verdwijnen eens deze nakleefsels van den zuurdeessem uit de laatste helft der vorige eeuw?</note> <hi rend="i">rond. - Intusschen moest die belangstelling by 't groote Publiek</hi>, (<hi rend="i">die niet veel meer was dan onze bekende zucht voor al wat vreemd en uitheemsch is</hi>) <hi rend="i">toen de prikkel der nieuwheid begon te verstompen</hi>, <hi rend="i">weldra haar toppunt bereiken. Dat Publiek ontsloot meer de oogen</hi>, <hi rend="i">naarmate de wansmaak toenam</hi>, <hi rend="i">en een jonge</hi>, <hi rend="i">krachtvolle</hi> (<hi rend="i">zij het dan soms eenzijdige</hi>) <hi rend="i">kritiek haar stem verhief. En dat kon niet anders:</hi> ‘<hi rend="i">kunst is weelde</hi>, <hi rend="i">en ons volk een verstandig volk: van daar zijn keurigheid op alles</hi>, <hi rend="i">wat niet tot de volstrekte behoeften behoort. Er is nog iets: men moet ten onzent zeer geniaal zijn</hi>, <hi rend="i">om langer op de versleten</hi> hobby horses <hi rend="i">der poëeten te mogen rijden; om een luisterend oor te vinden voor de klachten over de ellenden der wareld; voor de verkondiging van het besef hoe hoog de Dichter boven deze verheven is; voor de ontboezeming der smart over verloren</hi>, <hi rend="i">gestorven of verflaauwde idealen.</hi>’<note n="(2)" place="foot"><hi rend="sc">De gids</hi>, Boekbeoord. 1838, bladz. 111.</note></p>
+<p><hi rend="i">Zoo zijn dan nu de modegenres der laatste twintig jaren volkomen verouderd en versleten; en de onverschilligheid</hi>, <hi rend="i">waarvan we in het begin dezer regelen spraken</hi>, <hi rend="i">wint met elken dag veld.</hi></p>
+<p><hi rend="i">En nu onze Dichters? Zien zy den veel beteekenenden wenk? Begrijpen zy de eischen van den tijd? Gevoelen zy</hi>, <hi rend="i">welke snaar aangeslagen moet worden</hi>, <hi rend="i">om by de meer en meer</hi> practische <hi rend="i">richting onzer dagen</hi>, <hi rend="i">de poëzy uit haar verval op te beuren? Is er reactie</hi>, <hi rend="i">is er kracht</hi>, <hi rend="i">is er wil</hi>, <hi rend="i">is er bewustheid? Helaas</hi>, <hi rend="i">de talrijke dichtbondels en de talrijker almanakmengelingen geven telkens een bedroevender andwoord. Het is waarlijk verbazend</hi>, <hi rend="i">hoe een byna dagelijks aangroeiend heirleger van halve</hi>, <hi rend="i">vierde</hi>, <hi rend="i">achtste en zestiende poëeten</hi>, <hi rend="i">alle op hetzelfde aanbeeld slaande</hi>, <hi rend="i">er in schijnen te wedijveren</hi>, <hi rend="i">om de apathie der menigte tot tegenzin</hi>, <hi rend="i">tot walging te doen overslaan. By al die eentonigheid is er een volslagen gebrek aan dat vaste doel en beginsel</hi>, <hi rend="i">aan die gemeenschappelijke basis</hi>, <hi rend="i">aan die hoogere éénheid</hi>, <hi rend="i">die we</hi>, <hi rend="i">by de grootste verscheidenheid</hi>, <hi rend="i">overal en altijd daar ontmoeten</hi>, <hi rend="i">waar de Letteren heur hoogsten bloei bereikten</hi>, <hi rend="i">en zonder welke alle kunst moet vervallen</hi><note n="(3)" place="foot">Heerlijk is deze gedachte ontwikkeld door den geloovigen en veel begaafden <hi rend="sc">g. de felice</hi> in zijn <hi rend="i">Beroep van een Christen</hi>, <hi rend="i">aan de letterkundigen onzer dagen gericht</hi>, waarvan verleden jaar, onder toezicht van den WelEerw. Heer <hi rend="sc">lublink weddik</hi>, door den Boekverkooper <hi rend="sc">portielje</hi>, te <hi rend="i">Amsterdam</hi>, een vloeiende vertaling bezorgd is. O mocht die hemelsche stem tot ieders ooren komen, in ieders harte dringen! Zy kan niet genoeg gehoord worden.</note>. 
+<hi rend="i">Die éénheid zoû</hi>, <hi rend="i">naar de behoefte ook ónzer eeuw! niets anders kunnen wezen</hi>, <hi rend="i">dan een waarachtig geloovig Christendom.</hi> Gö<hi rend="sc">the</hi> <hi rend="i">zelfs</hi> (<hi rend="i">de</hi> Spinozist, <hi rend="i">het in zaken van openbaring eeuwig ijskoude</hi> Weltkind, <hi rend="i">zoo als de vroome</hi> <hi rend="sc">lavater</hi> <hi rend="i">hem noemde</hi>,) <hi rend="i">gevoelde de kracht van dat Christendom</hi>, <hi rend="i">als hy</hi>, <hi rend="i">zich-zelf ten spijt</hi>, <hi rend="i">bekennen moest</hi>, <hi rend="i">dat</hi> ‘<hi rend="i">de Christelijke religie een zelfstandige macht is</hi>, <hi rend="i">waaraan de gezonken en lijdende Menschheid zich altijd
+<pb n="IV"/>weder van tijd tot tijd opgericht heeft</hi>’<hi rend="i">; en met hoeveel recht kunnen wy deze waarheid toepassen op een der schoonste gaven</hi>, <hi rend="i">dier Menschheid van boven geschonken: de Poëzy! de</hi>, <hi rend="i">helaas! gezonken en lijdende Poëzy! - Dat Christendom</hi> (<hi rend="i">we spreken hier niet van zedelijkheid</hi>, <hi rend="i">die het Heidendom ook bezit</hi>, <hi rend="i">noch van gemoedelijkheid</hi>, <hi rend="i">die op lang na geen Geloof is</hi>), <hi rend="i">dat echte Christendom</hi>, <hi rend="i">waarvan</hi> <hi rend="sc">christus</hi> <hi rend="i">Zoendood het eenige middenpunt uitmaakt</hi>, <hi rend="i">dàt juist is het</hi>, <hi rend="i">wat der Dichtkunst onzer dagen ontbreekt. En doet nu al de echte Muze een enkelen maal de welluidende vleugelen als ter hemelvlucht ruischen</hi>, <hi rend="i">de Menigte hoort het niet</hi>, <hi rend="i">de Menigte wil het niet hooren: zy is over verzadigd</hi>, <hi rend="i">zy wendt zich om en ze neuriet een aria</hi>, <hi rend="i">en ze roept:</hi> ‘<hi rend="i">Muzyk!</hi>’ <hi rend="i">en ze zet de Opera op de triumfkar</hi>, <hi rend="i">en ze lauwriert een</hi> <hi rend="sc">lizt</hi> <hi rend="i">om een vioolgalm en afgodeert een</hi> <hi rend="sc">strauss</hi>
+<hi rend="i">om een wals! - Zoo is de eerste tred gedaan tot ontzenuwing eener natie</hi>, <hi rend="i">die eenmaal</hi>, <hi rend="i">krachtig naar ziel en lichaam</hi>, <hi rend="i">een muskel was van</hi> Europa; <hi rend="i">zoo wordt ze voortgetrokken naar de wieling dier machtige eeuw</hi>, <hi rend="i">die zich</hi> ‘<hi rend="i">al levende en strevende</hi>, <hi rend="i">al redeneerende</hi>, <hi rend="i">al fabriceerende</hi>, <hi rend="i">al musiceerende</hi>, <hi rend="i">al stroomende en droomende ontwikkelt.</hi>’<note n="(1)" place="foot"><hi rend="sc">Da costa</hi>, Voorlezingen over de vier Evangeliën, 1840, 1e Deel, blz. 10.</note></p>
+<p><hi rend="i">O welkom dan</hi>, <hi rend="i">driemaal welkom elke verstandige poging om het rad in zijn eerste beweging terug te houden</hi>, <hi rend="i">eer het</hi>, <hi rend="i">wervelend uitgerold</hi>, <hi rend="i">niet meer te stuiten is. Die poging moge dan de lier of de harp</hi>, <hi rend="i">den spiegel der satyre of den geessel der kritiek te baat nemen</hi>, <hi rend="i">zy moge zich</hi> <hi rend="sc">gids</hi> <hi rend="i">noemen of</hi> <hi rend="sc">braga</hi>, onderzoek en fantazy <hi rend="i">of</hi> een stem uit de woestijne, <hi rend="i">zoo zy het Ware en Goede waarachtig wil en krachtig zoekt</hi>, <hi rend="i">zal zy niet vruchteloos blijven voor de Kunst en het Vaderland!</hi> -</p>
+<p><hi rend="i">Al deze overdenkingen doen my niet langer aarzelen</hi>, <hi rend="i">dit blad in de wareld te zenden. Wel ben ik my mijner zwakheid meer dan iemand bewust; maar wellicht wordt er een welsprekender door opgewekt om zijn stem te verheffen</hi>, <hi rend="i">een krachtiger om zich in het wapen te gorden. Vruchtbare</hi> sympathie, <hi rend="i">al ware het by éénen! meer durf</hi>, <hi rend="i">meer mag ik niet hopen.</hi></p>
+<p><hi rend="i">En hiermede den lezer heil!</hi></p>
+<p>&nbsp;</p>
+<p>January/April 1843.</p>
+<p>&nbsp;</p>
+<p>Nach Wahrheit forschen,</p>
+<p>Schönheit lieben,</p>
+<p>Gutes wollen,</p>
+<p>Das Beste thun.</p>
+<p><hi rend="sc">Mendelsohn</hi>'s Wahlspruch.</p>
+</div>
+<div type="chapter">
+<pb n="1"/>
+<head rend="h2">Een stem uit de woestijne.</head>
+<head rend="h3">I.</head>
+<lg type="poem">
+<l><hi rend="b">O</hi> Hollands Muze! schoon, blaauwoogig Kind van 't Noorden,</l>
+<l rend="; 1tab">Met lokken, blond als 't goudgeel strand,</l>
+<l>Met lippen, louter zang, met Englenharpakkoorden, -</l>
+<l rend="; 1tab">Beschermgeest eens van 't Vaderland!</l>
+<l>Wààr zijt Ge?... O zoete droom: nog ziet mijn ziel u zweven,</l>
+<l rend="; 1tab">Zoo als Ge, voor twee honderd jaar,</l>
+<l>De vingers op de harp, den blik tot God geheven,</l>
+<l rend="; 1tab">Ons dektet met uw vleuglenpaar!</l>
+<l>Daar wandelt Ge op de zee... hoort d'ijzren vuurmond klateren!</l>
+<l rend="; 1tab">Ziet hoe de Luipaard neder stort!</l>
+<l>De Zeeleeuw brult triumf, Monarch der wijde wateren,</l>
+<l rend="; 1tab">Waar iedre golf Uw hymne wordt! -</l>
+<l>Daar licht Gy 't slagveld langs, en balsemt met uw kussen</l>
+<l rend="; 1tab">De heidenlijken waar Ge waakt:</l>
+<l>Dan kroont Gy ze; en Euroop strooit lauwerblaâren tusschen</l>
+<l rend="; 1tab">De wonden die Ge onsterflijk maakt! -</l>
+<pb n="2"/>
+<l>Daar glimlacht Ge aan den haard, waar Ge alles glans komt geven,</l>
+<l rend="; 1tab">En altijd bede en lofzang vindt,</l>
+<l>En, kern van hoofd en hart, en ziel van 't huislijk leven,</l>
+<l rend="; 1tab">Om wieg en sterfbed rozen windt!...</l>
+<l>Waar zijt Ge?... Op aard gestort!... De kleedren die u gordden,</l>
+<l rend="; 1tab">Zijn vuil van schuim en stof en slijk!</l>
+<l>Gy vielt, ontvleugeld, blind, en sterveling geworden,</l>
+<l rend="; 1tab">Uw vroegre schaâuw-zelfs niet gelijk!</l>
+<l>Geen daden roepen u tot zangen meer: 't Verleden</l>
+<l rend="; 1tab">Kleurt u van schaamte gloeiend rood;</l>
+<l>Dor, glansloos, werkloos, leêg, slaapdronken is het Heden:</l>
+<l rend="; 1tab">Gy overleeft uw eigen dood!</l>
+<l>Gy wierdt een bedelkind, met kakelbonte lompen</l>
+<l rend="; 1tab">En kopren franjes opgefraaid,</l>
+<l>Dat, hunkrende om een duit en bibbrende in de klompen,</l>
+<l rend="; 1tab">Het jankend kermisorgel draait! -</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">II.</head>
+<lg type="poem">
+<l><hi rend="b">H</hi>oort rustloos, dag aan dag, de zwangre persen kraken!</l>
+<l rend="; 1tab">De hoefbron ritselt overal.</l>
+<l>Maar - is dat de ambrozijn, die vuurgloed op de kaken,</l>
+<l rend="; 1tab">Weelde in de zielen toovren zal?</l>
+<l>Zijn dàt de zangen, die, in onze lucht geboren,</l>
+<l rend="; 1tab">Vol melody en hemelvlam,</l>
+<l>Tot òns zich richten en òns harte toe behooren,</l>
+<l rend="; 1tab">Gelijk de bloesem aan heur stam?</l>
+<l>Waar 't volkskarakter in weêrspiegelt? die 't behoeden</l>
+<l rend="; 1tab">Als met een vaas van kristalijn?</l>
+<l>De Natie streelen en veredelen en voeden,</l>
+<l rend="; 1tab">Wijl zy der Natie waarheid zijn?....</l>
+<l>Ach, wat er opgaat uit die wit satijnen bladen,</l>
+<l rend="; 1tab">Met glans en klatergoud getooid,</l>
+<l>Zijn leêge galmen, die hun nietigheid verraden,</l>
+<l rend="; 1tab">Eer zelfs hun muggenvlerk ontplooit!</l>
+<l>'t Zijn noten, Gal en Brit angstvallig af geluisterd,</l>
+<l rend="; 1tab">Slaafsch, doelloos, willoos na gebaauwd,</l>
+<pb n="4"/>
+<l>Waaruit, zich-zelf ten spijt, des zangers armoê fluistert,</l>
+<l rend="; 1tab">Waarop het zweet der onmacht daauwt!</l>
+<l>'t Zijn kreeten over niets, 't zijn mijmringen en klachten,</l>
+<l rend="; 1tab">Waar hartstocht blaakt noch teêrheid schreit;</l>
+<l>Wanschepsels zonder geest, die naar hun einde smachten,</l>
+<l rend="; 1tab">Dat de onlust hoorens moê verbeidt! -</l>
+<l>Helaas, wàt zagen wy?... in koude rijmen liegen:</l>
+<l rend="; 1tab">Een <hi rend="sc">scott</hi>, een <hi rend="sc">byron</hi> nagebootst!</l>
+<l>Een matten schemerschijn van ijdle glintwormvliegen,</l>
+<l rend="; 1tab">En ach! één lichtstraal uit het Oost!...</l>
+<l>Diè zonk in wolken weg! - Neen, God zij lof! weêr blinkt hy!</l>
+<l rend="; 1tab">Hy gloeit, hy bliksemt waar hy gaat:</l>
+<l>Een stroom van hemelsch vuur, een Noorderlicht, omringt hy</l>
+<l rend="; 1tab">De nachtkim met een dageraad!</l>
+<l><hi rend="sc">Da costa</hi>! laatste zoon van 't Koninklijk Geslachte,</l>
+<l rend="; 1tab">Dat Holland Dichter heeft gekroond!</l>
+<l>Zie, u omzweeft zy nog, de onsterflijke Gedachte,</l>
+<l rend="; 1tab">Die eens aan d' Aemstel heeft gewoond!</l>
+<l>Op u slaan we allen 't oog, van heilverwachting zwanger,</l>
+<l rend="; 1tab">Uit wanklank, zwakte en schemering!</l>
+<l>God gaf de Liefde u, Mensch!.. God u 't Genie, o Zanger!..</l>
+<l rend="; 1tab">God u 't Geloof, o Christen!... <hi rend="sc">Zing</hi>! -</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">III.</head>
+<lg type="poem">
+<l><hi rend="b">G</hi>enie, Liefde, en Geloof! Gaaf boven alle gaven!</l>
+<l rend="; 1tab">Drup die de lichtzee Gods ontviel!</l>
+<l>Hoogst, zuiverst, langst genot dat sterflijken kan laven,</l>
+<l rend="; 1tab">Drieëenheid van de Dichtrenziel!</l>
+<l><hi rend="sc">Gy</hi> zijt het die ontbreekt in deze onze ijzren dagen!</l>
+<l rend="; 1tab">Of - in wat boezem klopt gy nu?...</l>
+<l>'t Onheilge heeft de hand aan 't Heilige geslagen:</l>
+<l rend="; 1tab">De lier wil zingen zonder u!</l>
+<l>Zy hebben 't lichtgewaad der Poëzy geschonden,</l>
+<l rend="; 1tab">Verscheurd den krans der Poëzy!</l>
+<l>Zy hebben 't groot geheim, de tooverkunst gevonden,</l>
+<l rend="; 1tab">De kunst- der vaerzensmedery!</l>
+<l>Het godlijke wierd spel van ledige oogenblikken,</l>
+<l rend="; 1tab">Ontspanning, kunstgreep, beuzelkraam!</l>
+<l>Gelijk zich andren om 't geruite schaakbord schikken,</l>
+<l rend="; 1tab">Gaan zy en - weven rijmen saam'!...</l>
+<l>Is 't dan, helaas! zoo zoet, in wierookwalm te baden,</l>
+<l rend="; 1tab">Door tafelschuimers toe gezwierd?</l>
+<pb n="6"/>
+<l>Zoo zoet, te sluimren op de valsche lauwerbladen,</l>
+<l rend="; 1tab">Waar dwaze vriendschap meê lauwriert?</l>
+<l>Zoo zoet, aan d'oeverkant te floddren in de stroomen,</l>
+<l rend="; 1tab">Waar dwars door 't diep de zwemmer drijft?</l>
+<l>Zoo zoet, zich als Poëet de onsterflijkheid te droomen,</l>
+<l rend="; 1tab">Terwijl men naauwlijks proze schrijft?...</l>
+<l>O blindende eigenwaan, die 't menschenkroost doet blaken!</l>
+<l rend="; 1tab">'t Slaat nachtuiloogen naar de zon!</l>
+<l>Het wil al 't groote klein, of zich als 't groote maken,</l>
+<l rend="; 1tab">Ja, God' gelijk zijn, zoo het kon! -</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="7"/>
+<head rend="h3">IV.</head>
+<lg type="poem">
+<l><hi rend="b">Z</hi>ie, 'k wil 't gelooven: soms verrijzen zwarte tijden:</l>
+<l rend="; 1tab">De dichtzon helt ten ondergang;</l>
+<l>Mat schijnt heur laatste straal ten boezem af te glijden;</l>
+<l rend="; 1tab">Verdroogd ligt de ader van den zang.</l>
+<l>Zoo ook is deze onze eeuw, die, rustloos voortgedreven,</l>
+<l rend="; 1tab">De stoomkar naar heur beeldtnis schiep:</l>
+<l>Ze tobt, ze zweet, ze zwoegt: zy wil 't werkdadig leven:</l>
+<l rend="; 1tab">‘Vooruit! door hoog en laag en diep!</l>
+<l>Beweging! goud! vooruit op wervelende raderen</l>
+<l rend="; 1tab">Der alvermeestrende industrie!’</l>
+<l>Zoo klopt haar levenspols, zoo bruist het door heur aderen,</l>
+<l rend="; 1tab">Vooruit! voor haar geen Poëzie!</l>
+<l>Voor haar geen stil gepeins, geen smeltend Englenfluisteren,</l>
+<l rend="; 1tab">Geen afgetrokken zielevlucht;</l>
+<l>En wil ze al naar de stem van een der Kunsten luisteren,</l>
+<l rend="; 1tab">'t Zij 't daverend Muzykgerucht!</l>
+<l>Dat zij zoo! Want ik weet: de Sabbathsrust zàl keeren,</l>
+<l rend="; 1tab">Als weêr de ware zangstroom vliet:</l>
+<pb n="8"/>
+<l>Dan rijst de Poëzy, en schudt de zilvren veêren,</l>
+<l rend="; 1tab">En zingt: ‘Gods gaven sterven niet!’ -</l>
+<l>Maar - dat een domme hoop zijn ongewijde handen</l>
+<l rend="; 1tab">Aan de ingeslapen harp wil slaan,</l>
+<l>Zich Dichter noemen durft en walglijke offers branden</l>
+<l rend="; 1tab">In zelfaanbiddende' eigenwaan,</l>
+<l>Dat schrijvers zonder ziel en roeping zangen braken,</l>
+<l rend="; 1tab">Elk oogenblik ten rijm gereed,</l>
+<l>Den afkeer voên by 't Volk, Gods gaav' belachlijk maken,</l>
+<l rend="; 1tab">Ziet daar wat Heiligschennis heet!...</l>
+<l>Een doode is heilig! gaat heur zerk uw rouw bewijzen,</l>
+<l rend="; 1tab">Maar scheurt de bleeke 't graf niet uit,</l>
+<l>Om, dansend met haar lijk, bacchantisch rond te krijschen:</l>
+<l rend="; 1tab">‘Hoe heerlijk zingt een doode Bruid!’ -</l>
+</lg>
+<pb rend="blank" n="9"/>
+<cf>
+<pb n="10"/>
+<p><figure>
+<p><xptr to="kate001holl01ill0001.gif"/></p>
+</figure></p>
+<p>(GEDRUKT BIJ K.J. GIEBEN.)</p>
+</cf>
+</div>
+</body>
+</text>
+
+</TEI.2>

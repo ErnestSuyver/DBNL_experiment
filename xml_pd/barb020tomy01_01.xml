@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Tomyris, of De dood van Cyrus</title>
+               <author>Marie-Anne Barbier</author>
+               <editor role="translator">Izaak Bilderdijk</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Tomyris, of De dood van Cyrus</hi> van Marie-Anne Barbier, in een vertaling van Izaak Bilderdijk uit 1763.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 54: Derde → Zesde: ‘Zesde tooneel.’</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>E1v, 72</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">barb020tomy01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 B 10: 4</idno>
+               </bibl>
+               <p>Marie-Anne Barbier, <hi rend="i">Tomyris, of De dood van Cyrus</hi> (vert. Izaak Bilderdijk). Izaak Duim, Amsterdam 1763</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Tomyris, of De dood van Cyrus</title>
+               <author>Marie-Anne Barbier</author>
+               <editor role="translator">Izaak Bilderdijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Tomyris, of De dood van Cyrus</title>
+               <author>Marie-Anne Barbier</author>
+               <editor role="translator">Izaak Bilderdijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-24</date>
+               <respStmt>
+                   <name type="person">AS</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="iran_01"/>
+</interpGrp>
+<body>
+<cf><div type="chapter">
+
+<pb n="E1r"/>
+<p>TOMYRIS,</p>
+<p>of de DOOD van</p>
+<p>CYRUS;</p>
+<p><hi rend="i">TREURSPEL</hi>.</p>
+<p>Gevolgd naar het Fransche van Mejuffrouwe</p>
+<p><hi rend="i">BARBIER</hi>.</p>
+<p>
+<figure>
+<p><xptr to="barb020tomy01ill0001.gif"/></p></figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By Izaak Duim, Boekverkooper, op den hoek van den Voorburgwal en Stilsteeg, 1763. <hi rend="i">Met Privilegie</hi>.</p></div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="stra028"/>
+</interpGrp>
+<pb n="E2r"/>
+<head rend="h3">Den weledelen gestrengen heere M<hi rend="sup">r</hi>. Matthys Straalman,
+<lb/>Heere van Duist, de Haar en Zevenhuizen, <hi rend="i">raad en schepen der stad Amsterdam, &amp;c.</hi></head>
+<lg type="poem">
+<l rend="; 1tab">De Stichter van de tweede Monarchy,</l>
+<l>De Uitvoerder des besluits van 't Alvermogen,</l>
+<l>De Breeker van der Jooden slaverny,</l>
+<l>Door 's Hemels geest en invloed zelfs bewoogen;</l>
+<l>Vorst Cyrus, die, gevoed in wysheids school,</l>
+<l>Den Lydiër, van geen vermaan te raaken,</l>
+<l>Door 't glinst'rend zand verblind van den Pactool,</l>
+<l>Zyn dwaasheid leerde erkennen en verzaaken;</l>
+<l>De Held vol roems, met Majesteit bekleed,</l>
+<l>Stapt ten Toneel; maar ach! geheel ontluisterd:</l>
+<l>De hand, die straks het Oosten schudden deed,</l>
+<l>Word door een Vrouw ontwapend en gekluisterd:</l>
+<l>Hy stort zyn bloed, dat overédelbloed,</l>
+<l>Met schimp belaân, mishandeld van Barbaaren:</l>
+<l>Den Waereldheer, wien alles viel te voet,</l>
+<l>Mag in zyne asch geen stille rust wêervaaren.</l>
+<l rend="; 1tab">Onzekerheid, ô hoe vervult gy 't al!</l>
+<l>Wie zal op 't slib van Aardschen voorspoed bouwen?</l>
+<l>Wie op den lach van 't troetelend Geval</l>
+<l>Zich eenen dag, een enkel uur vertrouwen?</l>
+<pb n="E2v"/>
+<l>Een oogenblik: daar legt een Dwingeland,</l>
+<l>Die duizend op één' grammen wenk deed beeven.</l>
+<l>Daar breekt een storm de rykste kiel op 't strand,</l>
+<l>Daar word der vlamme een Koningsschat gegeeven.</l>
+<l>Daar maakt één koorts het schoonste lyf mismaakt,</l>
+<l>Of dryft de kracht uit forsgespierde leden:</l>
+<l>De zetel van 't verstand word uitgeblaakt,</l>
+<l>En strekt een graf voor de onbegrypb're reden.</l>
+<l>Volzeker is des Wyzen uitspraak dan;</l>
+<l>[Onze Ydelheid, vergeefsch wilt gy 't verbloemen.]</l>
+<l>Zoo waar is, <hi rend="i">dat men geenen Sterv'ling kan</hi>,</l>
+<l><hi rend="i">Zoo lang de dag hem licht, gelukkig noemen!</hi></l>
+<l>Nochtans, hoe waar en onbetwistbaar blyft,</l>
+<l>Dat alles hier op vleugelen van winden,</l>
+<l>Op lossen vloed van ongestaâgheid dryft;</l>
+<l>Ja, ook geen stip, dat steun geeft, is te vinden,</l>
+<l>De Deugd staat vast, is een onroofbaar goed,</l>
+<l>By haar alleen kan geen verand'ring koomen,</l>
+<l>Zy, zy veracht den schicht der Tegenspoed,</l>
+<l>Noch word ooit haar' Bezitteren ontnoomen:</l>
+<l>Die, zelfs als hen de boosheid onderdrukt,</l>
+<l>Nog schrikken doen op hun vervolgers daalen;</l>
+<l>En toonen, daar hun hart gewillig bukt,</l>
+<l>Dat ze op de magt des Nooddwangs zegepraalen.</l>
+<l rend="; 1tab">Dus toegerust durft Cyrus voorwaarts treên,</l>
+<l>En zich aan elkt, 't gewettigd oordeel waagen.</l>
+<l>Zou 't daarom gunstig zyn? Kan 't kiesch Gemeen</l>
+<l>Fen feil...? Wie mag zoo onbescheiden vraagen?</l>
+<l>Maar schoon het verre is, dat hy word' gevleid,</l>
+<pb n="E3r"/>
+<l>By u, myn Heer, wien hy word opgedraagen;</l>
+<l>By wien Zy, en onwraakbaar, voor hem pleit,</l>
+<l>Mag 't zyn; ja meer, te twyff'len zou mishaagen.</l>
+<l>Gy kent den prys... Maar myne Poëzy</l>
+<l>Zwaait hier geen' rook u toe noch offergeuren,</l>
+<l>Die de afgunst ligt deed gaan voor vleiery;</l>
+<l>En gy, 't welk zeker is, niet goed zoud keuren.</l>
+<l>Het is de Lof niet, vaak verkeerd gestrooid,</l>
+<l>En meesttyds met te ruim een hand geschonken,</l>
+<l>Dien, <hi rend="sc">Straalman</hi>, gy te wachten hebt: neen, nooit</l>
+<l>Moet gy met goed, zoo dubbelzinnig, pronken.</l>
+<l>Een vrye ziel, een wel bewust gemoed,</l>
+<l>Standvastigheid in 's Waerelds wentelingen,</l>
+<l>Genoegen, dat het weldoen smaaken doet,</l>
+<l>Zie daar het al, waar naar u voegt te dingen.</l>
+<l>Dit blyve 't Eind, 't Beweegrad uwer daân:</l>
+<l>[De laster smet niet meer dan de opperkleêren]</l>
+<l>Dit doe uw' naam en huis in achting staan,</l>
+<l>By allen, die Deugd kennen en waardeeren!</l>
+<l>Gun, daar ik de eer van uwe vriendschap roem';</l>
+<l>En 't u gelust te luist'ren naar myn zangen,</l>
+<l>Myn' <hi rend="sc">Cyrus</hi>, dat hy u Beschermer noem'.</l>
+<l>Wil hem hier op van myne hand ontfangen.</l></lg>
+<p><hi rend="i">J. BILDERDYK, M.D.</hi></p></div>
+<div type="chapter">
+<pb n="E3v"/>
+<head rend="h3">Copye van de previlegie.</head>
+<p>DE Staten van Holland ende Westvriesland doen te weeten: alzo ons te kennen is gegeeven by de Regenten van het Wees-en Oude Mannenhuys der Stad Amsterdam, en in die qualiteiten te samen Eygenaars, mitsgaders Regenten van den Schouwburg aldaar; dat zy Supplianten, eenige Jaaren hebben gejouisseert van 't Octroy by ons den 27 May van den Jaare 1728. als meede van de prolongatie van dien den 6 December 1742. aan de Supplianten verleent, waar by wy aan de Supplianten goedgunstiglyk hadden geaccordeert en geoctroyeert, om nog voor den tyd van ryftien agter een volgende Jaaren, de Werken, die ten dienste van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het licht gebragt, en ten Tooneele gevoert zonden mogen werden, alleen te mogen drukken, doen drukken, uitgeeven en verkopen, dat de Jaren, by de voorsz. prolongatie van 't gemelde Octroy of Privilegie vervat op den 6 December van deezen Jaare 1757 stond te expireeren; en dewyl zy Supplianten ten meesten dienste van de Schouwburg, (waar van hunne respective Godshuyzen onder andere meede moeten werden gesustenteert, de voornoemde Werken, zo van Treurspellen, Blyspellen, Klugten, als anders, die reets gedrukt, en ten Toneele gevoert zyn, of in het toekoomende gedrukt, en ten Toneele gevoert zouden moogen werden, gaarne alleen, gelyk voorheenen, zouden blyven drukken doen drukken, uitgeeven en verkopen, ten einde dezelve Wer, ken, door het nadrukken van anderen, haar luister, zoo in taale als spelkonst, niet mogten komen te verliesen, en dewyle haar Supplianten zulks na de expiratie van de voornoemde prolongatie van 't voorsz. Octroy, niet gepermitteert was; zoo keerden de Supplianten haar tot Ons, reverentelyk verzoekende; dat Wy aan de Supplianten, in haar voorsz. qualiteyt, geliefden te verleenen prolongatie van het voorsz Octroy, om de voorsz. Werken, zoo van Treurspellen, Blyspellen, Kluchten, als anders, reets gemaakt, en ten Toneele gevoert, of als nog in het ligt te brengen, en ten Toneele te
+voeren, nog voor den tyd van Vyftien eerstkomende, en agter een volgende Jaaren, alleen te mogen drukken, en verkoopen, of te doen drukken, en verkopen, met verbod aan alle anderen op zeekere hooge Poene by Ons daar tegens te statueeren, daar van te verleenen Octroy in forma; ZO is 't dat Wy, de Zaake ende 't voorsz. verzoek overgemerkt hebbende, ende genegen wezende, ter beede van de Supplianten, uit Onze regte weetenschap, Souveraine magt en authoriteit, dezelve Supplianten geconsenteert, geaccordeerd en geoctroyeert hebben, consenteeten, accorderen ende octroyeren haar by deeze, dat zy, geduurende den tyd van nog Vyftien eerst achter een volgende Jaaren, de voorsz Werken, indiervoegen, als zulks by de Supplianten is verzogt, en hier vooren uitgedrukt staat, binnen den voorsz. Onzen Lande alleen zullen mogen drukken, doen drukken, uitgeeven ende verkopen, verbiedende daaromme alle en een iegelyken de voorsz. Werken, in 't geheel ofte ten decle te drukken, na te drukken, te doen nadrukken, te verhandelen, of te verkoopen, ofte elders nagedrukt, binnen den zelven Onzen Lande te brengen, uit te geven of te verhandelen en verkoopen, op de verbeurte van alle de nagedrukte, ingebragte, verhandelde of verkogte Exemplaren, ende een boete van drie duyzend guldens daar en boven, te verbeuren, te Appliceren een derde part voor
+<pb n="E4r"/>den Officler, die de Calange doen zal, een derde part voor den Armen der plaatsen daar het Casus voorvallen zal, ende het resteerende derde part voor de Supplianten, en dit relkens zo meenigmaal als dezelve zullen worden agterhaalt, alles in dien verstande, dat Wy de Supplianten met dezen Onzen Octroye alleen willende gratificeeren tot verhoedinge van hunne schade door het nadrukken van de voorsz. Werken, daar door in genigen deele verstaan den innehoude van dien te autoriseren, ofte, te advouëren, en veel min, dezelve, onder onze protextie en bescherminge, eenig meerder credit, aansien, of reputatie te geeven, nemaar de Supplianten in cas daarinne iets oubehoorlyks zoude influëren, alle het zelve tot hunnen laste zullen gehouden wezen te verantwoorden, tot dien einde wel expresselyk begeerende, dat byaldien zy dezen onzen Octroye voor dezelve Werken zullen willen stellen, daar van geene geabbrevieerde of gecontraheerde mentie zullen mogen maken, nemaar gehouden weezen, het zelve Octroy in 't geheel, en zonder eenige omissie, daar voor te drukken, of te doen drukken, en dat zy gehouden zullen zyn, een Exemplaar van de voorsz Werken, op Groot Papier, gebonden en wel geconditioneert, te brengen in de Bibliotheek van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat de Supplianten dezelve Werken zullen hebben beginnen uit te geeven, op een boete van zes hondert gulden, na expiratie der voorsz. zes Weeken, by de Supplianten te verbeuren ten behoeve vande Nederduitse Armen van de plaats alwaar de Supplianten woonen, en voorts op poene van met 'er daad versteeken te zyn van het effect van deezen Octroye, dat ook de Supplianten, schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz. Onse Bibliotheek, by zoo verre zy geduurende den tyd van dit Octroy dezelve Werken zouden willen herdrukken met eenige Observatien, Noten, Vermeerderingen, Veranderingen, Correctien, of anders, hoe genaamt, of ook
+in een ander formaat, gehouden zullen zyn wederom een ander Exemplaar van dezelve Werken, geconditioneert als voren, te brengen in de voorsz. Bibliotheek, binnen denzelven tyd, en op de boeten en poenaliteit, als vooren. En ten einde de Supplianten deezen onzen Consente ende Octroye mogen genieten als naar behooren, lasten wy allen en een iegelyken, dien het aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laaten en gedogen, rustelyk, vredelyk en volkomentlyk genieten en gebruiken, cesleerende alle belet ter contrarie. Gedaan in den Hage, onder onzen Grooten Zegete, hier aan doen hangen op den agtsten November, in 't Jaar onzes Heeren en Zaligmakers duizend zevenkonderd-zeven-en-vystig.</p>
+<p>P. STIN.</p>
+<p>Ter Ordonnantie van de Staten,</p>
+<p>C. BOEY.</p>
+<p>Lager stond.</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gestelt by Extract Authenticq, haar Ed Gr. Mog. Resolutien van den 28. Juny, 1715, en 30. April. 1728, ten einde om zig daar na te reguleeren.</p>
+<p>De Regenten van het Wees- en Oude Mannenhuis hebben, in hunne voorsz. qualiteit, het recht van deze Privilegie, alleen voor den tegenwoordigen Druk, van <hi rend="spat">TOMYRIS</hi>, <hi rend="sc">of de</hi> <hi rend="spat">DOOD</hi> <hi rend="sc">van</hi> <hi rend="spat">CYRUS</hi>, <hi rend="i">Treurspel</hi>, vergund aan <hi rend="sc">Izaak Duim</hi>.</p>
+<p><hi rend="i">Amsteldam, den</hi> 12. <hi rend="i">Augustus</hi>, 1763.</p></div>
+<div type="chapter">
+<pb n="E4v"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Tomyris</hi>, <hi rend="i">Koningin der Massageten</hi>.</item>
+<item/>
+<item><hi rend="sc">Cyrus</hi>, <hi rend="i">Koning van Perzië</hi>.</item>
+<item/>
+<item><hi rend="sc">Ariantes</hi>, <hi rend="i">Koning der Issedónen</hi>, <hi rend="i">zoon van Tomyris</hi>.</item>
+<item/>
+<item><hi rend="sc">Mandane</hi>, <hi rend="i">Prinses van Medië</hi>.</item>
+<item/>
+<item><hi rend="sc">Artabazes</hi>, <hi rend="i">Afgezant van Cyrus</hi>.</item>
+<item/>
+<item><hi rend="sc">Aripithes</hi>, <hi rend="i">Hoofdman der Lyfwacht van Tomyris</hi>.</item>
+<item/>
+<item><hi rend="sc">Orontes</hi>, <hi rend="i">Overste der Issedónen, vertrouweling van Ariantes</hi>.</item>
+<item/>
+<item><hi rend="sc">Gelonide</hi>, <hi rend="i">Vertrouwde van Tomyris</hi>.</item>
+<item/>
+<item><hi rend="sc">Cleone'</hi>, <hi rend="i">Vertrouwde van Mandane</hi>.</item>
+<item/>
+<item><hi rend="sc">Lyfwachten</hi> <hi rend="i">van Tomyris</hi>.</item></list>
+<p>&nbsp;</p>
+<p><hi rend="i">Het TOONEEL is in SCYTIË, in de TENT van TOMYRIS</hi>.</p></div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Tomyris, of de dood van Cyrus.
+<lb/><hi rend="i">Treurspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Tomyris, Aripithes, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ja, hoe de droefheid my vervoer', laat ons verstaan,</l>
+<l>Wat Cyrus wil zy; en hoe verr' zyne eischen gaan.</l>
+<l>Zyn Afgezant verzoekt gehoor: 'k Wil hem verbeiden.</l>
+<l>Aripithes, ga heen, gy zult hem binnen leiden.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Kan 't weezen! Cyrus, na hy ons verwonnen heeft,</l>
+<l>Breekt zynen trots! Hy is 't, die ons den vrede geeft!</l>
+<l>Myn heete wenschen zyn in 's Hemels gunst ontfangen!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Jaag door uw wenschen my geen bloozen op de wangen.</l>
+<l>Ja, hy verwon my. Des Araxes snelle vloed</l>
+<l>Zag van myn vluchtend heir zyn'stroom geverft metbloed;</l>
+<l>En deeze legerplaats, omringd door 's Vyands magten,</l>
+<l>Doet, Scytië ydel, in zyn wanhoop, uitkomst wachten.</l>
+<l>Doch 't hart van Tomyris, schoon ik myn' ondergang</l>
+<pb n="2"/>
+<l>Onkeerbaar zie, word nooit geboogen door den dwang.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Ach! word dat hart, Mevrouw, nog fierder door de slagen,</l>
+<l>En kan de gantsche val des Staats het niet vertsaagen?</l>
+<l>Ten minste deel' het in den doodelyken rouw,</l>
+<l>Hoor' onze zuchten in den bangen nood, beschouw'</l>
+<l>Al 't bloed voor u gestort, all' die geplengde traanen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Vaar voort, en wil my van den dood myns Zoons vermaanen.</l>
+<l>Versterk myn gramschap door zyn uitvaart, pas volbragt;</l>
+<l>Vertoon my 't lykmisbaar, de naarheid van deez' nacht;</l>
+<l>Wys my de houtmyt, die, getuige myner rampen,</l>
+<l>Myn zuchten opwaarts zond, gemengd met zwarte dampen.</l>
+<l>Dat graf, die asch, helaas! die doodsche lykbus is</l>
+<l>Het al, dat me overbleef van myn Spargapizis!</l>
+<l>Myn waarde Zoon!</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, men moet dien slag verzetten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ik moet hem wreeken, of die slag my meê verpletten.</l>
+<l>Men beeft voor Cyrus: maar hy beeve zelf. Ik acht,</l>
+<l>Nu ik het voorwerp van zyn min hebbe in myn magt,</l>
+<l>Genoeg in staat te zyn, (hy moog dan triomfeeren)</l>
+<l>Dat ik de wet hem stelle, en noodzaake om die te eeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Ach! dat hy liever met Mandane keer', Mevrouw,</l>
+<l>d'Araxes oversteeke, Ecbatané beschouw.'</l>
+<l>Voorkoom ons wis bederf, en stil zyn' toorn: zyn slagen</l>
+<l>Zyn al te zwaar, te veel alreê door ons gedraagen.</l>
+<l>De naam van Cyrus is alleen de schrik der aard':</l>
+<l>Hy zwaaie verr' van hier 't ontzachlyk oorlogsz waard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Hoe zwaare rampen gy my voorstelt, my verwachten,</l>
+<l>'t Berouwt me in 't minst niet, dat ik dorst myn' plicht betrachten.</l>
+<l>Ligt haalde ik op my zelv dit onweer: maar gy weet,</l>
+<pb n="3"/>
+<l>Welk een bekommering my Cyrus lyden deed.</l>
+<l>Ik zag zyn wenschen tot Mandanes huuwlyk strekken.</l>
+<l>Dit huuwlyk moest in my gegronde vrees verwekken:</l>
+<l>Cyaxares, zoo naauw met Cyrus door dien band</l>
+<l>Vereenigd, wierd te sterk, te magtig voor myn land.</l>
+<l>Gy weet, wy worden van den Meder afgescheiden</l>
+<l>Door den Araxes, die zyn' vloed dryft tusschen beiden.</l>
+<l>Wat zou die Nagebuur, eens met den Perziaan</l>
+<l>Verbonden, nu is hy te ontzachlyk, niet bestaan?</l>
+<l>De vryheid was altoos by ons het dierst. Geen keten</l>
+<l>Voege immer aan de hand van strydb're Massageten.</l>
+<l>'k Voorzag, en, Gelonide, ik dacht, het ongeval</l>
+<l>Moest voorgekoomen zyn. 't Begunstigde my all'.</l>
+<l>De Koning Krezus bragt, door yverzucht gedreeven,</l>
+<l>Heel Azië te been, om Cyrus te weêrstreeven.</l>
+<l>Dit gunstig ty dstip nam ik waar, 'k vergaarde een vloot,</l>
+<l>Ik deed een magtig heir aan boord gaan, en gebood</l>
+<l>Spargapizis, om met de hem vertrouwde benden</l>
+<l>Den steven door d'Euryn naar Sinopé te wenden.</l>
+<l>Hy land. Cyaxares, ontzenuwd door de rust,</l>
+<l>Word van dien linksen slag des lots welhaast bewust:</l>
+<l>Maar krachtloos, zonder volk, wat zou hy toch beginnen?</l>
+<l>Hy vlucht dan, ziende niets door tegenstand te winnen,</l>
+<l>Zorgt voor zich zelv', en laat, door schrik gejaagd, zyn land,</l>
+<l>Zyn kroost en Ryksprinses in 's overwinnaars hand.</l>
+<l>Deeze Erfopvolgster van zo uitgestrekte Staaten</l>
+<l>Werd dus myn' krygsbuit, dien 'k my heb verzeek'ren laaten;</l>
+<l>De zorg myns Zoons heeft uit haar hof haar hier gebragt;</l>
+<l>En 'k heb met haar het lot van Azië in myn magt.</l>
+<l>Nu eischt haar Cyrus door de wapens; doch hy beeve,</l>
+<l>Zoo ik gedwongen word, dat ik haar wedergeeve.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Gy kunt...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Het is genoeg: ligt word ge in 't kort geleerd,</l>
+<l>Wat Tomyris vermag, door wanhoop geregeerd.</l>
+<pb n="4"/>
+<l>Het is de gloriezucht alleen niet, daar 'k door brande:</l>
+<l>Dat Cyrus my versmaad'; ik heb myne offerhande.</l>
+<l>'k Betuig hier by uw' glans, ô Fakkel van 't Heelal,</l>
+<l>Dat haar de dood, de dood alleen verlossen zal!</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>Mevrouw, 'k zie d'Afgezant van Cyrus herwaarts koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Hy nader'.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide, Artabazes</hi>, <hi rend="i">gevolg</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l rend="; 2tab">Enkel door zyn goedheid ingenoomen</l>
+<l>Toont de Overwinnaar zich gereed, om af te staan</l>
+<l>Van 't recht der zege; ja, Mevrouw, hy bied u aan</l>
+<l>Om zelve nog Meestres van 't lotuws Volks te weezen.</l>
+<l>Gy weet tot hoe verre u Vorst Cyrus is te vreezen.</l>
+<l>Maar schoon zyn arm u kan verpletten, houd hy dien</l>
+<l>Te rug, om u den Vreê, grootmoedig, aan te biên.</l>
+<l>Wil slechts, herstellende het geen 'er is misdreeven,</l>
+<l>Cyaxares terstond zyn dochter wédergeeven:</l>
+<l>Zoo wend gy al den ramp van uw' gedreigden Staat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy spreekt van misdryf. Ai, myn Heer, met welk gelaat</l>
+<l>Kunt gy my roemen op uws Overwinnaars goed heid?</l>
+<l>Dien Overwinnaar, die geen maat kent van verwoedheid,</l>
+<l>Noch geen verzadiging van bloeddorst; over de Aard'</l>
+<l>Door 't heilloos klaat'ren van zyn euveldaân verm aard.</l>
+<l rend="; 1tab">Hoe nu, kan hy Mandane in onze magt niet lyden?</l>
+<l>Hy, die het recht van Goôn en menschen durft bestryden;</l>
+<pb n="5"/>
+<l>Zyn' troon op wrakken bouwt, en 't deerlyk overschot</l>
+<l>Van Koningkryken? Moet niet Sardis 't haatlykst lot,</l>
+<l>Zoo wel als Babel in zyn slaverny verduuren?</l>
+<l>En heeft zyn woede hem by all' de Nagebuuren,</l>
+<l>Ja zelfs tot voor den wal van Memfis niet gevoerd,</l>
+<l>Terwyl hy 't overal door schrik en angst beroert?</l>
+<l>Waar zyn in Azië nog Vorsten, welker Staaten</l>
+<l>Hy voor 't verwoestend staal heeft overig gelaaten?</l>
+<l>Hy sleept een twintig tal Gevangenen, wier hoofd</l>
+<l>Hy 't wettig Rykssieraad, moedwillig heeft ontroofd,</l>
+<l>Aan zyne zegekar; en zonder te overweegen</l>
+<l>Waar door hy 't recht op die rampzaal'gen heeft verkreegen,</l>
+<l>Nu klaagt, beschuldigt hy, veroordeelt, en ontvouwt</l>
+<l>Gelyk een misdaad, dat men hier Mandane houd:</l>
+<l>Terwyl hy, zelf niets doende als Koningen vertreeden,</l>
+<l>Zich Heldendaaden maakt van vloekb're gruuwzaamheden.</l>
+<l rend="; 1tab">Wenscht hy de Ryksprinses, die hy zo hevig mint,</l>
+<l>Te ontsangen van de hand, waar in zy zich bevind,</l>
+<l>Hy staa vrywillig af van de overheerde troonen:</l>
+<l>Dat hy zelf eerst durve een grootmoedig voorbeeld toonen,</l>
+<l>Om ons te wekken; en 'k beloof, wen hy het doet,</l>
+<l>Te zullen zien, myn Heer, of ik hem volgen moet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l>Ik staa versteld, Mevrouw, en, schoon ik my bedwinge,</l>
+<l>Ik kan niet zwygen op 't geweld der lasteringe,</l>
+<l>Waarmeê een Vorst, alom geëerbied,word gehoond,</l>
+<l>Zyn deugd nochtans, in spyt der driften, die gy toont,</l>
+<l>Blonk veel te wyd, om u bedekt te zyn gebleeven.</l>
+<l>Doch 'k moet, geperst, om aan zyn glorie recht te geeven,</l>
+<l>Daar van 't geheugen hier vernieuwen. Ken den Held,</l>
+<l>Die by zyn Vaderen der Goden Meester telt;</l>
+<l>Voor zyn' geboortestond de Koningen deed beeven,</l>
+<l>Geheel het Oosten hulde als aan zyn' meester geeven;</l>
+<l>En om wiens grootheid te verkondigen de glans</l>
+<l>Des Gods, die ons verlicht, bez week aan 's Hemels trans.</l>
+<pb n="6"/>
+<l>'k Zwyg van Astyages, zyn onnatuurlyk woeden,</l>
+<l>De teedre zorg der Gôon, het wonderbaar behoeden,</l>
+<l>En hoe hunne Achtb're hand hem hebb' ten troon gevoerd.</l>
+<l rend="; 1tab">Die Vorst, die de Aarde in zyn geboorte had beroerd,</l>
+<l>Deed in zyn Heerschappy een' lieven Vreê beleeven;</l>
+<l>Tot hem 't hoogmoedig Hoofd der Lydiërs, gedreeven,</l>
+<l>Om 't Raadsbesluit te doen vervullen van de Goôn,</l>
+<l>Bestookte; en ylings zag verbryz'len zynen troon.</l>
+<l>Nitocris zoon, gezweept door de eigen Razernyen,</l>
+<l>Kreeg binnen Babel haast zyn deel aan Krezus ly'en.</l>
+<l>Dus was 't noodlottig eind van dat verbondschap. All',</l>
+<l>Die volgden, wierden slechts gesleept door hunnen val:</l>
+<l>Terwyl Vorst Cyrus, door zyn aangenaam regeeren,</l>
+<l>Zyne Onderdaanen vond in zoo veel Opperheeren,</l>
+<l>Als Azië voorheen den Scepter voeren zag.</l>
+<l>Cyaxares alleen, wien de algemeene slag</l>
+<l>Verschoont, ziet Cyrus roem met geene afgunstige oogen,</l>
+<l>Wraakt 's Vaders dwaaling zelf, erkent het Alvermogen</l>
+<l>Der Goden, dat zoo klaar den Perzen de Oppermagt</l>
+<l>Van Medië opdraagt; en, vernoegd in zyn geslacht</l>
+<l>Te blyven heerschen, maakt zich tot den afstand vaardig,</l>
+<l>Schikt Cyrus, ziende hem 't gebied van 't Oosten waardig,</l>
+<l>Zyn' troon, en te gelyk zyn Dochter, hem ter Bruid.</l>
+<l>Dus voegt zich eind'lyk 't all' naar 't Opperste besluit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>En ik alleen dan, ik zal dat besluit beletten.</l>
+<l>Zoo, om te Ecbatané hem op den troon te zetten,</l>
+<l>Mandanes echt hem moet verheffen, weet, dat hy</l>
+<l>Zyn wenschen vrucht'loos streelt met de Opperheerschappy.</l>
+<l>Liet ik twee Ryken, nu zoo magtig, zich verbinden,</l>
+<l>'k Zou myn Tyrannen haast in myn Gebuuren vinden.</l>
+<l>'k Ben vry: en eer ik my tot slaverny begaf,</l>
+<l>Verloore ik 't Leven met den Koningklyken staf.</l></sp>
+<pb n="7"/>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l>Neen; Cyrus, vaardig om den loop der Krygsbedryven</l>
+<l>Te stuiten, laat, Mevrouw, u Kroon en Scepter blyven:</l>
+<l>Hy acht uw leven hoog; en schenkt u zelf den Vreê.</l>
+<l>Aanvaard dien: haal op u geen verder Oorlogsweê.</l>
+<l>Gy hebt, met naar den raad myns Konings niet te hooren,</l>
+<l>In 't barnen van den storm reeds eenen zoon verlooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>En dat ontsteekt my op den Wreedaard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l rend="; 2tab">Rekent gy,</l>
+<l>Dat 's Noodlots strafheid aan een 'mensch ter misdaad zy?</l>
+<l>De hand van Cyrus bragt uw' zoon niet om het leven;</l>
+<l>Toen hy hem zag, had hem de geest alreê begeeven.</l>
+<l>Wat toch vermogt hy meer dan 't geen hy heeft betracht?</l>
+<l>Hy zond hem herwaarts met een Vorstelyke pracht;</l>
+<l>Om 't moederlyke hart, en de uitvaart te gehengen,</l>
+<l>En troost van traanen met zyneasch te mogen mengen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Yd'le achting! haat'lyke eer! Ach! 'k moet hem straffen. Kan</l>
+<l>Myn gramschap langer zyn bedwongen! De Tyran</l>
+<l>Heeft zorg gedraagen haar onbluschbaar te doen brauden.</l>
+<l>Vergeefsch jaagt hy zyn' naam met schrik door alle landen;</l>
+<l>Vergeefsch denkt hy my door gewigt van mogenheid</l>
+<l>Te plett'ren: dat hy beev', zoo hy hier langer beid'.</l>
+<l rend="; 1tab">Op straffloos misbruik van zyne overmagt hovaardig,</l>
+<l>Verwaand op dapperheid, den naam van wreedheid waardig,</l>
+<l>Braveert hy me, en bespot myn droefheid. Mynen Zoon</l>
+<l>Zend die Ontmenschte my, maar in een doodkist! Goôn!</l>
+<l>Dat hy me ontvliede; of, om zyn trotsheid te verneêren,</l>
+<l>Zal ik Mandane doen in de eige doodkist keeren.</l>
+<l>Ze is levenloos, wen hy zich hierop durft beraân;</l>
+<l>En hy alleen doemt haar de doodstraf te ondergaan.</l></sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l>Wat hoore ik? Hemel! Vrees, Vorstin, myn's Konings tooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Zeg my niets meer; maar breng myn antwoord hem ter ooren.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Ach! wat bestaat gy? Dat dit dreigen niet in 't kort</l>
+<l>Een schrik'lyk onweêr op ons hoofd ter neder stort!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Wel hoe! gelooft gy dan, dat Cyrus, onbezonnen</l>
+<l>Een' aanslag, vol gevaars zou onderneemen konnen;</l>
+<l>Waar door Mandanes dood verhaast wierd? Neen, veel eer</l>
+<l>Legt hy de wapens, om haar te behouden, neêr.</l>
+<l>Zyn aftocht zal wel haast u in uw klachten stuiten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Wat vonnis voor zyn min! waar toe moet hy besluiten!</l>
+<l>Hy ziet zyn Minnaares geprangd in ketens, maar</l>
+<l>Verlaat haar trouweloos; of word haar Moordenaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Beklaagt gy hem? 'k Verdien veel meer beklaagd te weezen</l>
+<l>Dan hy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l rend="; 2tab">Het stond alleen aan u om niets te vreezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Helaas!</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l rend="; 1tab">Had de eerzucht niet, Vorstin, tot deezen dag,</l>
+<l>Op uw verheeve ziel alleen maar het gezag?</l>
+<l>En kan 't verlies eens zoons u nu zoo verr' vervoeren?</l>
+<l>Zie Ariantes u...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Ja, hy kan my ontroeren.</l>
+<pb n="9"/>
+<l>'k Mogt in Spargapizis, gehoorzaamheid gewoon,</l>
+<l>Altoos een' Onderdaan beschouwen met een' zoon;</l>
+<l>Daar Ariantes, trots, niets doet dan my weêrstreeven:</l>
+<l>Zyn hoogmoed word op nieuw door 's broeders dood gesteeven.</l>
+<l>'k Gaf hem Issédons kroon; 't is vrucht'loos, hy eischt meer,</l>
+<l>Noch is voldaan, tenzy hy over my regeer'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Mevrouw, hy is hier tot uw' onderstand gekoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>'k Heb nader het geheim van zyne ziel vernoomen.</l>
+<l>Hy dekk' zich, zoo hy wil, voor ons; het is om niet:</l>
+<l>Dewyl myn yv'rig oog, dat door zyn veinzen ziet,</l>
+<l>My klaar vertoont, tot welk een' prys wy hem verkreegen.</l>
+<l>Hy leent my zynen arm en hulp, doch ongeleegen;</l>
+<l>Daar hy voor de oogen van Mandane kwynt, myn' haat</l>
+<l>Bedwingt, en myn besluit verydelt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l rend="; 3tab">Ik verstaa 't,</l>
+<l>Mevrouw; gy ducht, dat hy haar Koningin zal maaken;</l>
+<l>En dat, Cyaxares eens stemmende in zyn blaaken,</l>
+<l>Hy u den Scepter uit de hand doe vallen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Neen.</l>
+<l>'k Bekommer my niet om ontwerpen, buiten reên.</l>
+<l>Behaagde het den Goôn, dat Ariantes liefde</l>
+<l>Mandanes borst voor hem met minder afkeer griefde;</l>
+<l>Dat zy zich voor zyn' echt verklaarde! Ik wierd veel meer</l>
+<l>Gevleid in myne hoop, en lag myn gramschap neêr:</l>
+<l>'k Zou Cyrus zien verraân; en my genoeg gewrooken.</l>
+<l rend="; 1tab">Maar, Gelonide, ik heb alreê te veel gesprooken;</l>
+<l>'t Is tyd, dat zich myn hart geheel u openbaar'?</l>
+<l>Dat hart schynt u zoo fier, en onbeweeglyk; maar</l>
+<l>Gelooft gy, dat dat hart, op Cyrus dus verbolgen,</l>
+<l>Hem haat, wanneerge my hem ziet gestreng vervolgen?</l></sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Mevrouw...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">De liefde maakt myn allerz waarste pyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Wat hoore ik? Goden! Hoe! zou Cyrus 't voorwerp zyn?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy weet, dat ik hem heb gezien. ô Myne zinnen!</l>
+<l>Behoefdet gy iets meer, om deezen Held te minnen?</l>
+<l>Een enkel opslag van zyne oogen wrocht myn vlam.</l>
+<l rend="; 1tab">U, Gelonide, heugt den dag, toen hy hier kwam,</l>
+<l>En 't overwinnend heir, langs deeze onzalige oorden</l>
+<l>Zich uitbreidde, als een stroom, gezwollen uit zyn boorden.</l>
+<l>My wierd een mondgesprek gebooden; 'k nam het aan;</l>
+<l>Waar van myn ziel tot nu zoo fel is aangedaan.</l>
+<l>Myn hart, terstond verslaafd aan de eedle Heldentrekken,</l>
+<l>Kon geenen Vyand meer in dien Monarch ontdekken.</l>
+<l>Hy eischte de Prinses weêrom: maar was ik toen</l>
+<l>Niet min dan ooit in staat, om hem deez' dienst te doen?</l>
+<l>Gy weet, wat de uitkomst is geweest van 't samenspreeken;</l>
+<l>En dat wy onvoldaan weêr van elkand'ren weeken:</l>
+<l>Want Cyrus vroeg te veel; daar ik niets toe wouw staan.</l>
+<l>Doch 't vuur der liefde glom in 't heim'lyk feller aan.</l>
+<l>'k Had onophoudelyk die trekken voor myne oogen;</l>
+<l>Myn ziel was diep gewond; en all' myn rust vervloogen.</l>
+<l rend="; 1tab">Men bood aan Cyrus met myn' Scepter myne hand:</l>
+<l>Ik dekte dus door die gewoonte van ons Land</l>
+<l>Mynzwak; en de eerzucht sprak voor myne tederheden.</l>
+<l>Maar wat was de uitkomst? Dat ik weig'ring heb geleeden.</l>
+<l>De ondankb're Cyrus loont myn goedheid op deez wyz'!</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Dat de eedle fierheid van uw ziel nu weêr verryz'.</l>
+<l>Straf Cyrus, wreek u door uw minnevlam te dooven:</l>
+<l>Vergeet hem.</l></sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Kan ik wel? En kunt gy dan gelooven,</l>
+<l>Dat myne liefde zy te smooren op één' dag:</l>
+<l>Om dat zoo kort een tyd haar' gloed ontsteeken zag?</l>
+<l>Hoe weinig weet gy 't! Maar, in 't geene ik thans beginne,</l>
+<l>Weet ik, ik zelv wel, of ik haate, en of ik minne?</l>
+<l>Weet ik wel, of de drift, de ontroering van myn bloed</l>
+<l>Den naam van liefde, dan van dolheid draagen moet?</l>
+<l rend="; 1tab">Ach! daar ik onderneeme, om Cyrus af te scheiden</l>
+<l>Van zyne Minnaares, wreek ik my aan hen beiden;</l>
+<l>Maar met een wraak, die voor myn liefde dood'lyk is.</l>
+<l>Myn hart zal klaagen: 'k zie, ik weet het voor gewis.</l>
+<l>Myn Medeminnaares nochtans zal met my klaagen;</l>
+<l>Myn straf min yslyk zyn, als ik haar ze ook zie draagen:</l>
+<l>En hier in zelfs zal ik gelukkig zyn, dat 'k haar</l>
+<l>En ongelukkig zie, en heb gemaakt. Zie daar</l>
+<l>All' wat my van 't vertrek van Cyrus staa te hoopen.</l>
+<l>Maar dat hy straks besluit'; deez' dag niet laat verloopen:</l>
+<l>'t Is morgen reeds te laat. Myn gramschap lyd geweld,</l>
+<l>En 't is met smerte, dat zy nog worde uitgesteld.</l>
+<l>De Ondankb're haast' zich; of Mandane gaat verlooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Mevrouw, vrees, als den Vorst uw' zoon dit koom' ter ooren...</l>
+<l>Gy weet, hoe weinig hy zich aan uw wetten bind:</l>
+<l>Wat zal hy niet bestaan voor 't heil van die hy mint.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Hy zelf hebb' voor zyn hoofd, vermeet hy 't zich, te schroomen.</l>
+<l>Doch ik bedwing my in zyn byzyn, 'k zie hem koomen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes, Gelonide, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Wat wreede rampspoed word, Mevrouw, my hier bereid?</l>
+<pb n="12"/>
+<l>Indien ik het gerucht vertrouwe, alom verbreid,</l>
+<l>Tracht my uw wraaklust met een wis bederf te treffen:</l>
+<l>Want ik aanbid Mandane; en des kunt gy beseffen,</l>
+<l>Dat, als men toelegt op het storten van haar bloed,</l>
+<l>'t Staal, dat haar 't leven rooft, myn hart doorbooren moet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Hoe! waarom hebt ge u myn doodvyandin verkooren?</l>
+<l>Ben ik verplicht, uw min te will', myn' haat te smooren?</l>
+<l>Staat me eind'lyk 't wreeken van den dood eens zoons niet vry,</l>
+<l>Als tot zoo verr', dat het zyn' broeder aang'naam zy?</l>
+<l>Of is, om dat ik u tot Koning heb verheeven,</l>
+<l>Het recht van Koningin my langer niet gebleeven?</l>
+<l>Leg vry die trotsheid, Prins, zy voegt u geenszins, af.</l>
+<l>Bedenk, dat myne hand den staf aan de uwe gaf;</l>
+<l>Ik hier wil heerschen; en naar myne wet doen leeven.</l>
+<l>Gebie te Issédon; daar moogt gy bevelen geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Zoo dat de Scepter, dien myn Vader my voorheen</l>
+<l>Had toegeschikt, Mevrouw, my als een gift alleen</l>
+<l>Der goedheid toekoomt van myn moeder? 'k Moet dan denken,</l>
+<l>Dat gy me uw goed gaaft; niets verschuldigd waart te schenken?</l>
+<l>Een zoon, die trotser was dan ik, zou u misschien</l>
+<l>In antwoord zeggen, dat hy hier zelfs mogt gebiên:</l>
+<l>En dat zyn Vader, door 't benoemen van twee zoonen,</l>
+<l>Na 's broeders dood, al 't recht hem gaf op beider troonen.</l>
+<l>Maar neen; regeer, en zwaai, 'k stem daar volkoomen in,</l>
+<l>Der Massageten staf, zoo lang gy leeft, Vorstin.</l>
+<l>Zorg ondertusschen, dat geen te ongerechte wetten,</l>
+<l>Terwyl ik Koning ben, my zoon te zyn beletten:</l>
+<l>Noch dreig het leven der Prinses; op dat myn arm,</l>
+<l>Bestierd door zoo veel min, 't niet tegen u bescherm'.</l></sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Schoon ik de stem van myn rechtmatig ongenoegen</l>
+<l>Alleen te hooren hebbe, om my naar haar te voegen,</l>
+<l>'k Vergeef het misdryf van een' Minnaar echter ligt</l>
+<l>Aan mynen zoon. Nu hoor, wat gy my zyt verplicht.</l>
+<l>'k Heb meer voor u gedaan dan gy had wachten mogen:</l>
+<l>En, zoo my de uitkomst niet te leur stelt in myn poogen,</l>
+<l>Is u 't bezit van uw Mandane haast bereid.</l>
+<l rend="; 1tab">Vaar wel; maar doe voortaan, door meer gehoorzaamheid,</l>
+<l>Het geen de erkentenis op u vermag beschouwen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Wat moet ge, Orontes, die dit hoort, en ziet, vertrouwen?</l>
+<l>Zy breekt voor de eerstemaal haar' trots. Kan myn gemoed</l>
+<l>Verzekerd zyn voor my, en 't voorwerp van myn' gloed?</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>'k Ben door verwond'ring, ik beken het, opgetoogen:</l>
+<l>En 't hart der Koningin had my altoos bedroogen,</l>
+<l>Zoo die verandering my niet verbaasde, Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Het is van heden niet dat ik het kennen leer,</l>
+<l>Orontes: 'k Weet te veel, om dit niet klaar te ontdekken:</l>
+<l>'k Bespeur zyn goedheên, en waar toe my die verstrekken.</l>
+<l>Myn moeder veinst. Hoe meer verzeek'ring zy my deed,</l>
+<l>Hoe 'k meer te duchten heb voor 't geen ze inwendig smeed.</l>
+<l>Heb ik haar, dorstende naar bloed, niet honderdmaalen</l>
+<l>Het geen zy voornam door haar woede zien bepaalen!</l>
+<l>Wees ze, alles off 'rende aan haar achterdocht, het spoor</l>
+<l>Van bloed haar Kroost niet aan! En ging zy 't zelv' niet voor!</l>
+<l rend="; 1tab">'k Ys voor de gruuwlen, door myn' geest my opgegeeven...</l>
+<pb n="14"/>
+<l>Maar moet ik beeven, zy zal op haar beurt ook beeven.</l>
+<l>'k Bezit de fierheid reeds des bloeds van Tomyris:</l>
+<l>Wen 'k eens haar wreedheid neem; en 't spoor tot zóó verr' mis,</l>
+<l>Dat 'k, om haar stappen na te volgen, my vervaardig',</l>
+<l>Dan zal 'k een zoon zyn, zoo barbaarsch een moeder waardig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Zorg voor u zelven toch, myn Heer, ontzie, te ras</l>
+<l>Iets aan te vangen, dat wel ligt u dood'lyk was.</l>
+<l>Gy kont haar gramschap, die, vol woestheid in 't verheffen...</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Ach! laat die gramschap, zoo verschrikkelyk my treffen,</l>
+<l>Als zy 't gevoeligste van myne ziel niet raakt!</l>
+<l>'k Weet, dat ik, minnende, en in myne min gewraakt,</l>
+<l>Met minder yver my moest voor Mandane kwyten.</l>
+<l>'k Zeg meer; 'k voorzie, dat ik my zelv' eens zal verwyten,</l>
+<l>Behoed te hebben eene Ondankb're; op dat zy my</l>
+<l>Tot loon verachte, en voor myn' Medeminnaar zy.</l>
+<l rend="; 1tab">Maar eind'lyk, welk een lot my ook mooge overkoomen,</l>
+<l>'k Aanbid haar; haare dood is 't ergst, my 't meest te schroomen;</l>
+<l>En 'k zou geen meester van myn drift zyn, zoo 'k vernam,</l>
+<l>Dat van myn Moeders hand de slag haar overkwam:</l>
+<l>Niets zou myn hart, gebragt tot wanhoop, overweegen.</l>
+<l>'k Ben op deez' plaats zoo hoog in magt, als zy, gesteegen.</l>
+<l>Haar volk, waar in ik klaar een zucht voor my beschouw,</l>
+<l>Ontfangt met wederzin de wetten van een Vrouw.</l>
+<l>'k Ben zelfs getoetst: men wist my heimelyk te melden,</l>
+<l>Dat, wilde ik 't slechts, men hier myn rechten zou doen gelden.</l>
+<l>Terwyl aan d'and'ren kant, een eedle Hel denmoed</l>
+<l>Myn Issedoonen noopt, die honderdmaal hun bloed,</l>
+<l>Om my in mynen rang te stellen, zullen waagen:</l>
+<l>Zoo dat zich Tomyris in 't eind des zou beklaagen;</l>
+<l>En door de baaren, die zy branden deed, misschien</l>
+<pb n="15"/>
+<l>Haar' eigen hoogmoed op een klip gebryzelt zien.</l>
+<l>Zy heeft niet noodig woede in myn' gemoed te wekken,</l>
+<l>Te veel reeds ... Maar wat koomt Aripithes ontdekken?</l></sp></div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>Ach, Heer! spoed u ter hulp de Scyten, doodsch ontsteld,</l>
+<l>Zyn langer niet bestand voor 't Perziaansch geweld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Wat zegt gy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l rend="; 1tab">Cyrus heeft ons onverwacht besprongen,</l>
+<l>En is tot midden in de tenten doorgedrongen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Goôn! Cyrus midden in de tenten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Arifithes</hi>.</speaker>
+<l rend="; 2tab">Aan den gloed</l>
+<l>Van zyne Wapens is hy kenbaar uit den stoet;</l>
+<l>Maar zyne slagen, daar hy alles voor doet buigen,</l>
+<l>Zyn klaarder blyken, en die zeker overtuigen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Orontes volg my; dit gevaar lyd geen beraân:</l>
+<l>'k Moet dien Meêminnaar myn Prinses betwisten gaan.</l></sp>
+<stage><hi rend="i">Einde van het eerste Bedryf.</hi></stage></div></div>
+<div type="act">
+<pb n="16"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Neen, wil de hevigheid van myn gemoed niet wraaken,</l>
+<l>Noch doem een' toorn, die zoo rechtmatig my doet blaaken.</l>
+<l>Maar, Tomyris, vergeefsch weêrhield gy my: ik zal</l>
+<l>Myn' Broeder wreeken, nu het gunstige geval</l>
+<l>Zyn' wreeden Moorder heeft gesteld in onze handen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Vernoeg u, Heer, dat gy een' Koning sloegt in banden,</l>
+<l>Die 't gansch Heelal dit lot bereidde; en smaak het zoet</l>
+<l>Van een verwinning, die uw' roem en Heldenmoed</l>
+<l>Zoo hoog doet klimmen als uw wenschen strekken konnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Myn Medeminnaar is door mynen arm verwonnen;</l>
+<l>Maar zoo hy 't licht niet derft, heb ik het al bestaan</l>
+<l>Voor mynen roem, en niets voor myne min gedaan.</l>
+<l>Gy kent zyn dapperheid; hoe hooger ze is te roemen,</l>
+<l>Hoe myne veiligheid hem meer ter dood moet doemen.</l>
+<l>Ja, 'k moet hem slachten, wyl ik 't eind'lyk doen kan; en</l>
+<l>Ik vrees hem nog, geheel Verwinnaar als ik ben.</l>
+<l>Gy zaagt hem nevens my. Wat moed! Hoe veeler leven</l>
+<l>Heeft hy zyn moordend staal ter offerhand gegeeven!</l>
+<l>'t Viel alles neder voor de slagen, die hy bragt:</l>
+<l>Zy kwaamen van een meer dan menschelyke kracht.</l>
+<l>'k Herdenk ze zelf niet zonder schrik. Op duizend klingen</l>
+<l>Heb ik dien Oorlogsheld kloekmoedig in zien dringen:</l>
+<l>Vervaarlyk, heel bedekt met stof en bloed, vloog hy,</l>
+<l>Zich baanende overal een' weg, van ry tot ry.</l>
+<l>De afgry sely ke dood ging voor hem. Schoon de schaaren,</l>
+<l>Die hem verzelden, reeds geheel verwonnen waaren,</l>
+<pb n="17"/>
+<l>Hy, onverwin'lyk, dwong de zege; en 't was gedaan</l>
+<l>Geweest, Mandane zou in vryheid heden staan,</l>
+<l>Waar 't niet verhinderd door myn dappere Issedónen.</l>
+<l>Goôn! Konden zy hun trouw my ooit volmaakter toonen!</l>
+<l>De kracht van Cyrus, in het eind door 't groot getal</l>
+<l>Onnut, verried hem in het aakligst ongeval.</l>
+<l>Maar 'k achtte 't weinig hem te kluisteren; verwoeder</l>
+<l>Viel 'k op zyn leven aan, en zonder myne Moeder,</l>
+<l>Had ik, Orontes, hem myn Broedersschim ten zoen</l>
+<l>Geslagt. Myn Moeder zelv weêrhield me in 't eerste woên:</l>
+<l>Zy, zy verbood my hem den slag des doods te geeven.</l>
+<l>Wat reden heeft zy om te zorgen voor zyn leven?</l>
+<l>Acht zy haar wraakzucht niet genoeg te zyn gedaan,</l>
+<l>Als zy dien vyand ziet in haaren haat vergaan,</l>
+<l>En door een' enk'len slag ten afgrond nederdaalen?</l>
+<l>Noch kan zy de ys'lykheid van haare ziel bepaalen,</l>
+<l>Ten zy het offer, streng gefolterd, neder stort';</l>
+<l>En met zyn bloed het graf haars zoons bezoedeld word'?</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Neen, zy is minder wreed, myn Heer, en durfde ik denken,</l>
+<l>Om, zonder de eerbied voor een Koningin te krenken,</l>
+<l>Te mogen dringen in haar hart, ik zou misschien</l>
+<l>Min blyk daar in van haat dan teedre liefde zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Hoe! zou myn Moeder voor myn' Medeminnaar blaaken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Ja, Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Die liefde moet zyn noodlot zeker maaken,</l>
+<l>Maar kan ik 't denken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l rend="; 2tab">Hoe! Gy zelf, gy zaagt dan niet,</l>
+<l>Wat drift haar preste, en welk een' angst zy blyken liet,</l>
+<l>Toen gy den dolk, gereed om Cyrus hoofd te treffen,</l>
+<l>En voor altoos u van de vrees voor hem te ontheffen;</l>
+<pb n="18"/>
+<l>Alleen had neêr te slaan? <hi rend="i">Laat of</hi>; dus riep ze u toe,</l>
+<l><hi rend="i">Vervolg niet verder</hi>; <hi rend="i">dat uw hand hem niet misdoe</hi>:</l>
+<l><hi rend="i">Of maak u vaardig</hi>, <hi rend="i">om het licht met hem te missen</hi>.</l>
+<l>Dit woord, myn Heer, ontslipte aan haar geheimenissen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Ik heb dat woord gehoord, en wederhield den slag!</l>
+<l>Ach! 'k open eindelyk myne oogen, Haar gedrag</l>
+<l>Is my oprecht verhaald door ongeveinsde vrinden:</l>
+<l>Men zei, dat zy zich trachtte aan Cyrus te verbinden;</l>
+<l>Dat haare on myne kroon hem zou gebooden zyn.</l>
+<l>'k Verwierp het als een valsch gerucht: Want welk een schyn,</l>
+<l>Wat reden toch, om van een Koningin te denken,</l>
+<l>Dat zy haar glorie zou tot hier toe kunnen krenken?</l>
+<l>ô Hemel! Cyrus moet myn mededinger dan</l>
+<l>In alles weezen, wat myn ziel bekooren kan!</l>
+<l>Maar 't zy hy toelegg', om my myn Priases te ontrooven;</l>
+<l>Het zy zyn staatzucht hem myn 'Scepter durv' belooven,</l>
+<l>Hy 's even schuldig; en myn hand zal hem gewis</l>
+<l>Des wegen straffen, nu 't in haar vermogen is.</l>
+<l>'t Wil 't alles, alles dringt me, om daar toe te besluiten.</l>
+<l>Ja, 'k zal den loop van al zyn groote ontwerpen stuiten:</l>
+<l>Al zou myn Moeder met geheel haar razerny,</l>
+<l>Ten koste van myn bloed, zich waap'nen tegen my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Vrees dat haar razerny zich storte op liever leven;</l>
+<l>Schroom voor uw Minnaares.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Helaas! Dit doet my beeven.</l>
+<l>'k Waar zonder zorg, myn vriend, waare ik slechts zonder min,</l>
+<l>En zou, in weêr will van de vlyt der Koningin,</l>
+<l>Myn' vyand midden in zyn' kerker ligt bekoomen;</l>
+<l>Daar 'k in den wellust van zyn bloed te laaten stroomen,</l>
+<l>Myn' onverzoenb'ren haat wel haast gebluscht zou zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Bedwing die gramschap, zoo gevaarelyk. Indien</l>
+<l>Gy wilt voorzichtig zyn, moet gy uw Moeder leeren,</l>
+<pb n="19"/>
+<l>Dat zy haar hand weêrhouwe, om uwe hand te keeren,</l>
+<l>Dus zal ze altoos, eer zy besluit om toe te slaan,</l>
+<l>Uit eige veiligheid zich eerst met u beraân:</l>
+<l>En gy zult beiden, voor het geen gy mint vol zorgen,</l>
+<l>Elkand'ren strekken tot verzekeraars en borgen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Goôn! Zal ik dan gestaag niet moeten sidd'ren? Maar</l>
+<l>'k Zie Tomyris: Men berg' zyn zielsgeheim voor haar.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Wie gaf u recht op 't lot van Cyrus? Welke reden</l>
+<l>Voor die vermetelheid? Ai, wil my dit ontleeden.</l>
+<l>Ik zie myn achtbaarheid en hoog gezag versmaân,</l>
+<l>Terwyl gy voor myn oog hem durft naar 't leven staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Hoe! Waar op bouwt ge een' toorn, zoo redenloos, myn Moeder?</l>
+<l>Heeft Cyrus u geen' Zoon ontrooft, my geenen broeder?</l>
+<l>En kan, nu 't Godendom hem in myn handen gaf,</l>
+<l>Het my verbooden zyn, dat ik den moorder straff'?</l>
+<l>Spargapizis, wien die Barbaar het licht doet missen,</l>
+<l>Zwerft langs den oever nog van 't ryk der duisternissen!</l>
+<l>'t Is door dit offer, dat zyn schim haar rust verwacht.</l>
+<l>Daar nu ons hart, Mevrouw, een' zelfden plicht betracht,</l>
+<l>Kan 't iets verscheelen, of uw zoon het van zyn moeder,</l>
+<l>Dan of myn broeder het ontfang' van zynen broeder?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Hem off'ren?... Hemel! en bedenkt gy wat gy zegt?</l>
+<l>Weet gy, hoe vast de grond van Cyrus zetel legt?</l>
+<l>Den zeekren ondergang, voor onzen Staat te wachten?</l>
+<l>'t Getal der Vorsten? De vereeniging dier magten?</l>
+<l>Ja, hoe veel armen, die men ydel weêrstand bood</l>
+<l>Zich zouden wapenen ter wraake van zyn' dood?</l>
+<l>Wat zegge ik? 't Heir alleen van Cyrus is te schroomen:</l>
+<pb n="20"/>
+<l>'s Volks woede en ongeduld is hoog genoeg gekoomen</l>
+<l>Door 't enkel honden van hun opperhoofd: en schoon</l>
+<l>De kans ons gunstig was, de Perziaanen vloôn,</l>
+<l>En eenigen van hun door onze slagen vielen,</l>
+<l>Zy zyn nog magtig om ons allen te vernielen.</l>
+<l rend="; 1tab">Veel beter zy hy met voorzichtigheid bewaard:</l>
+<l>Op dat, wanneer op nieuw een storm zich openbaart,</l>
+<l>We een middel hebben, om 't gevaar van ons te weeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Het is myn plicht, Vorstin, uw hooge wetten te eeren.</l>
+<l>Maar dorst ik zeggen, 't geen ik vrees...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Spreek, 't staat u vry;</l>
+<l>En openbaar my, wat van uwe zorgen zy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Wel, wyl 't my vrystaat, zal ik 't ongeveinst doen hooren.</l>
+<l>Myn vrees is, eens den tyd te zullen zien gebooren,</l>
+<l>Dat door uw keur, hy, dien wy thans gevangen zien,</l>
+<l>Wel zoo veel magt verkryg', om ook my te gebiên.</l>
+<l>Ik weet uw rechten op een' zoon; eer hun vermogen;</l>
+<l>Maar kan de grootheid van myn' vyand, met geene oogen,</l>
+<l>Geheel van achterdocht bevryd, beschouwen: en</l>
+<l>Indien ik wel bericht, van 't geen gy voornaamt, ben,</l>
+<l>Kan 'k naauwlyks op dit stuk genoeg bekommerd weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Men diende u wel. Maar zy, die in myn' boezem Ieezen,</l>
+<l>En u geheimen, die aldaar geschreeven staan,</l>
+<l>Getrouw verkondigen, terwyl zy my verraân,</l>
+<l>Zyn zy wel tot den grond gedrongen met hunne oogen?</l>
+<l>En weeten zy, dat hen myn hart niet hebb' bedroogen?</l>
+<l rend="; 1tab">Gy weet, hoe Cyrus door de heerschzucht word bestierd.</l>
+<l>Zoo ooit door d'echt Mandane aan hem verbonden wierd,</l>
+<l>Zou by 't vermogen van den Perziaan niets haalen,</l>
+<l>Nog magtig zyn, om zyn ontwerpen te bepaalen:</l>
+<l>En 'k heb, zal 'k op myn beurt u niets verbergen, Zoon,</l>
+<l>Tot weering van deez' echt myn huuwlyk aangeboôn.</l>
+<pb n="21"/>
+<l>Maar kost gy my bekwaam tot zoo veel laagheid vinden,</l>
+<l>Dat ik zou willen, door een schandelyk verbinden,</l>
+<l>Aan 't voor werp van myn' haat my zelve leevren? Neen;</l>
+<l>Ik zocht Cyaxares en Cyrus slechts van een</l>
+<l>Te scheiden; hen, in 't geen zy hadden voorgenoomen,</l>
+<l>Door myn voorzichtigheid (waar 't mooglyk) voor te koomen;</l>
+<l>Het te veryd'len, ons te redden, en niet meer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Mevrouw, vergeef, zoo myn geslingerd hart, te zeer....</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ik moest u straffen, om 't bespieden myner daaden.</l>
+<l>Doch hoe weêrspannig ge ook myn wetten moogt versmaaden,</l>
+<l>Hoe min gehoorzaamheid gy my bewyst, gy zyt</l>
+<l>Myn Zoon; dit kan ik niet vergeeten. Ja in spyt</l>
+<l>Van uwe koelheid, die vergeefsch my poogt te ontsteeken,</l>
+<l>Voel ik het moeders hart, en hoor de liefde spreeken:</l>
+<l>Ja, 'k wil u dwingen, dat gy 't zelf gevoelen moet.</l>
+<l>Ik zie met weêrzin, dat de tederheid van 't bloed</l>
+<l>In uwen boezem word gesmoord door staatsbelangen:</l>
+<l>Gy word op al myn doen van achterdocht bevangen.</l>
+<l>Wel aan, men moet iets meer tot uwe rust bestaan,</l>
+<l>En u verheffen, dat geen storm u neêr kan slaan.</l>
+<l>Zoo lang als gy my vreest zult gy my niet beminnen:</l>
+<l>Want weldaân zelve, verr' van 't hart te kunnen winnen,</l>
+<l>Wen zy verdacht zyn met den allerminsten schyn,</l>
+<l>Doen niets dan, die ze ontfangt te meer ondankbaar zyn.</l>
+<l>Ik wil dan, om uw ziel uit d'argwaan heel te slaaken,</l>
+<l>U van Mandane door haar' echt verzekerd maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Goôn! Van Mandane! Met wat hoop word ik vervuld?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ja, 'k zegge u toe, dat gy haar Bruîgom weezen zult.</l>
+<l>Bedenk, hoe hoog ge als dan ziet uw vermogen ryzen;</l>
+<l>Hoe veele staaten u gehoorzaamheid bewyzen!</l></sp>
+<sp>
+<pb n="22"/>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Acht gy dat de Prinses zal stemmen?...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Yd'le waan:</l>
+<l>Gy hebt naar haaren troon, niet naar haar hart te staan.</l>
+<l>Op deezen prys zal ik het hoofd van Cyrus zetten.</l>
+<l>Zy mint hem, dit 's genoeg; zy zal zyn' dood beletten.</l>
+<l>Doch zoo zy haare hand hovaardig u ontzeid,</l>
+<l>Verr' dat ik u weêrstreeve in uw gevoeligheid,</l>
+<l>Ga ik, om uwe wraak volkoomen te vernoegen,</l>
+<l>My tot haars minnaars val beneven u vervoegen.</l>
+<l>Vertrek.</l>
+<stage><hi rend="i">Tegen de Lyfwachten</hi>.</stage>
+<l rend="; 1tab">Myn Wachten, maakt, dat Cyrus straks verschyn'.</l>
+<l>Voor alles, dat wy hier alleen, en veilig zyn.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l>Myn Overwinnaar zal dan weder voor myne oogen</l>
+<l>Verschynen. Groote Goôn! Hoe word myn ziel bewoogen!</l>
+<l>Aan welke ontroering, wat gety staat zy ten doel!</l>
+<l>Is 't haat? Is 't liefde? Of zyn zy 't beide, die ik voel?</l>
+<l>'k Verlange, en vreeze, ik zoeke, en wensche hem te ontvluchten;</l>
+<l>Myn leden beeven, en myn hart loost bange zuchten.</l>
+<l>Het is die Cyrus, van wiens trotse weigering</l>
+<l>Ik zoo gevoelig een belediging ontfing.</l>
+<l>Ik wil hem spreeken; maar waar over onderhouwen?</l>
+<l>Zal 'k voor zyn oog een min, die ik my schaame, ontvouwen?</l>
+<l>Word dus de fierheid van myn ziel door my geschraagt?</l>
+<l>Neen, trotse Tomyris, dat 's u te zeer verlaagt.</l>
+<l>'t Is strafs genoeg, dat gy u ééns hebt zien verachten:</l>
+<l>Voorkoom een' tweeden hoon, die zeker is te wachten.</l>
+<pb n="23"/>
+<l>De onbuigb're Cyrus zou, tot overmaat van schand,</l>
+<l>Uw hart versmaaden, na 't versmaaden uwer hand.</l>
+<l>Gy, ô myn toorn, verschyn; u voegt hier te over winnen;</l>
+<l>Barst uit, en maak alleen u Meester van myn zinnen.</l>
+<l>Dat Cyrus word' geslagt... Geslagt? Goôn! welk een woord!</l>
+<l>Hoe! Ik, ik zelve zou besluiten tot dien moord?...</l>
+<l>Ach! Is 't niet beter, dat Mandane 't licht verlieze?</l>
+<l>Wat straf is zwaarder, die 'k voor myn' ondankbre kieze?</l>
+<l>Maar 'k zie hem zelv'. Myn hart, dat deernis nu verd wyn':</l>
+<l>Gy kunt naauw streng genoeg in hem te straffen zyn.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Waarom ontbied men my? Kan u myn ramp vermaaken?</l>
+<l>En is de wellust, dien myn neêrlaag u doet smaaken,</l>
+<l>Nog onvolkoomen? Word uw hoogmoed niet voldaan,</l>
+<l>Ten zy gy my, geboeit ziet schand'lyk voor u staan?</l>
+<l>Of wacht gy moog'lyk, dat me een laffe vrees voor 't sterven</l>
+<l>Werpe aan uw voeten, om genade te verwerven?</l>
+<l>Neen, vlei u niet, dat 'k ooit zoo verr' vernederd word'.</l>
+<l>'k Hou in den rampspoed, daar my 't Lot in heeft gestort,</l>
+<l>Nog moeds genoeg, dat ik zyn' wrevel durv' braveeren:</l>
+<l>'t Heeft my verraaden; maar het kan my niet onteeren.</l>
+<l>Want schoon ik bukken moest voor d'allerwreedsten dood.</l>
+<l>Myn hart zal nimmer my verraaden in den nood.</l>
+<l>'k Ben zoo verr' in uw magt dat'gy van de oogenblikken</l>
+<l>Myns levens kunt, Mevrouw, naar uw gevallen schikken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Terg de vervoeringen van myne ziel niet meer;</l>
+<l>Staak my te hoonen door een nieuwe trotsheid, Heer.</l>
+<l>'t Is reeds te veel voor my, dat ik een' zoon moet wreeken.</l>
+<l>U voegt het deeze drift, die my gebied, te breeken.</l>
+<l>Gy weet, zyn bloed roept om een offer, hem ten zoen.</l>
+<l>'k Wil geene aanbieding van myn trouw u verder doen:</l>
+<pb n="24"/>
+<l>Neen, myns Gevangens hand moet naar die eer niet dingen;</l>
+<l>Ze is my onwaard. Zie, Prins, hoe van uw weigeringen</l>
+<l>'t Geval my wreekt. Maar daar 't my door uw voorbeeld leert,</l>
+<l>Dat ik ligt op myn beurt ook weder word verneerd;</l>
+<l>En ik verplicht ben dit, zoo veel ik kan, te stuiten,</l>
+<l>Moet gy tot afstand van Mandanes echt besluiten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ik van Mandanes echt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Wel hoe dan! Beeld ge u in,</l>
+<l>Dat 'k u haar geeven zal, nu, daar ik overwin;</l>
+<l>Terwyl ik moedig haar ontzeide aan uw begeeren,</l>
+<l>Eer 't zeker was, wie in den slag zou triomfeeren?</l>
+<l>'k Heb u voorheen gezegt, dat wy de slaverny</l>
+<l>Als 't z waarst ontvliên. De magt des Nagebuurs zien wy,</l>
+<l>Word zy te groot voor ons, met zorg en misvertrouwen.</l>
+<l>Het huwelyk, waar meê gy word gevleid, beschouwen</l>
+<l>Wy als een klip, die voor de vryheid van ons Land</l>
+<l>Zon dood'lyk worden. Neen, hoop niet op deezen band.</l>
+<l>'k Zeg meer; Mandane is in myn magt, ik ken de liefde</l>
+<l>Van Ariantes; hy aanbid haar, die hem griefde:</l>
+<l>'k Wil zorgen voor myn volk, en vind verzekering</l>
+<l>Voor een' standvasten vreê in hun vereeniging.</l>
+<l>Ja, dat myn Zoon haar trouwe en de oorlogsfakkel doove.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Haar trouwen! Dat hy my veelêer het leven roove.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Zyn hand had, zonder my, al rede dit bestaan;</l>
+<l>De wraak zyns broeders, en van zyne min voldaan:</l>
+<l>Ja, hy verweet my hier nog straks in heeten bloede,</l>
+<l>Dat ik het offer had ontrukt aan zyne woede.</l>
+<l>Hy dwaalt nogtans, en 'k wil, dat hy deez' dag bely',</l>
+<l>Dat, als men straffen moet, ik beter tref dan hy.</l>
+<l>'k Laat and're harten naar gewoone wraak zich voegen:</l>
+<l>Uw bloed te storten zou geenszins my vergenoegen:</l>
+<pb n="25"/>
+<l>Een hart als 't myne, zoo gevoelig, en zoo groot,</l>
+<l>Weet zwaarder straffen uit te denken dan den dood.</l>
+<l>De staatzucht dryft u, en de liefde doet u blaaken:</l>
+<l>Ach! door dees beiden wil ik u rampzalig maaken,</l>
+<l>En leveren ten prooje aan foltering, waar van</l>
+<l>'t Gevoelen voor uw ziel geen weêrgâ hebben kan;</l>
+<l>Als gy beschouwen zult uwe allerdierste panden,</l>
+<l>Meestres en Scepter in eens Medeminnaars handen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Die Medeminnaar voed geen liefde, of 'k heb geen' schroom,</l>
+<l>Dat hy, aanbiddende Mandane ooit hier toe koom',</l>
+<l>Om haar te dwingen. Maar, Mevrouw ik wil eens denken,</l>
+<l>Dat hy 't ontzag vergat, zyn' plicht bestond te krenken,</l>
+<l>En wetteloos geweld gebruikte op myn Prinses.</l>
+<l>Wat ook zyn oogmerk waat': waant hy Cyaxares</l>
+<l>Door zoo onwaard een daad te zullen overreeden,</l>
+<l>Dat hy een' vreemde laat op zynen zetel treeden?</l>
+<l>Indien zyn mond zich heeft verklaard voor myne vlam,</l>
+<l>'t Geschied, om dat ik spruit met hem uit d'eigen stam:</l>
+<l>Of haake ik, dat men my te Ecbatané zie kroonen,</l>
+<l>Ik streef daar naar niet door Cyaxares te hoonen,</l>
+<l>Maar grond myn rechten op zyn dochters hart alleen:</l>
+<l>Dat is onwrikbaar, en ik ben gerust, dat geen</l>
+<l>Meêminnaar, wie hy zy, deez' schat my kan doen derven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Het aanzien van de Dood, de naad'ring tot het sterven</l>
+<l>Is schrikkelyk genoeg, (schoon gy u zeker acht)</l>
+<l>Dat zoo een hart daar door aan 't wank'len word gebragt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>ô Goden!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Gy, myn Heer, moet haar hier toe bereiden,</l>
+<l>Of kiezen, om haar van het leven te zien scheiden:</l>
+<l>Te veel verwoedheid voert tot haar verderf my aan.</l>
+<l>Ja, zy zou sterven.</l></sp>
+<sp>
+<pb n="26"/>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 1tab">Hoe! Wat heeft zy dan misdaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Om haar belang zie ik een' waarden zoon verslaagen;</l>
+<l>En nog durft gy, Barbaar, wat zy misdaan heeft, vraagen:</l>
+<l>Dring my niet, meer daar van te zeggen; en beef vry,</l>
+<l>Wanneer me één woord ontslipt, voor myne razerny.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Barst uit, Ontmenschte, ik zal u hooren zonder schroomen;</l>
+<l>Maar spaar Mandane, en doe al 't onheil op my koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Neen; 't is met moeite dat ik myne hand weêrhouw'.</l>
+<l>Voor 't laatst, zy schikke zich tot Ariantes trouw.</l>
+<l>Gy, wees gedachtig, Heer, als 'k u laat by haar blyven,</l>
+<l>Dat gy gelast zyt, om haar hier toe aan te dryven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Gerechte Hemel!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">'k Weet de grootheid uwer straf;</l>
+<l>Maar sta veel ligt voor u gewenschter offer af:</l>
+<l>Zoo fel een' haat, als ik haar toedraag, te verdooven,</l>
+<l>En van 't genoegen van haar' dood my te berooven,</l>
+<l>Dit is niet zonder smart. Doch, eind'lyk, 't moet geschiên.</l>
+<l>Gy zult op deeze plaats terstond haar by u zien,</l>
+<l>En weet genoeg, dat in dees weinige oogenblikken</l>
+<l>Het aan u staat, om van haar levenslot te schikken;</l>
+<l>En hoe hoognodig 't is, dat gy haar overreedt.</l>
+<l>Wend alles daar toe aan: zorg, dat gy niets vergeet:</l>
+<l>Neem by haar, moet het zyn, de schandelyke naamen</l>
+<l>Van Ongetrouwen, van Ondankb'ren, zonder schaamen.</l>
+<l>Vaar wel; neem toch den tyd tot haar behoud in acht;</l>
+<l>En denk, dat ik haar met ontblooten zabel wacht.</l></sp></div>
+<div type="scene">
+<pb n="27"/>
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l>Verbaast, ontsteld, en van een' doodschen schrik bestreeden,</l>
+<l>Op 't hooren van dien last, zoo vol afgryslykheden,</l>
+<l>Blyf ik gevoelloos voor alle and're rampen; en</l>
+<l>'k Vergeet byna, dat ik voor 't eerst ver wonnen ben.</l>
+<l>Hoe broos zyn, groote Goôn! de sterfelyke Magten!</l>
+<l>Dat Opperheerschers, hoe verheeven, hun gedachten</l>
+<l>Geduurig vesten op een' schrikkelyksten val!</l>
+<l>Ik heb myn' naam gevoerd aan de einden van 't Heelal:</l>
+<l>'k Heb groote Koningen voor myn gezicht doen beeven,</l>
+<l>Hun staaten omgekeert, niets kon myn 'wensch weêrstreeven;</l>
+<l>En 'k vinde in 't einde my verwonnen door een vrouw.</l>
+<l>Nog is 't het minst, dat ik me in ketenen beschouw:</l>
+<l>Die vrouw, na zy my heeft verwonnen, doet my schrikken.</l>
+<l>'k Voel door haar woede myn' gevesten moed verwrikken;</l>
+<l>Myn reden dwaalt; ik ben verbysterd in 't verstand.</l>
+<l>Wat of ik zoeken kwam in dit barbaarsche Land?</l>
+<l>ô Gy, naar welker bloed men tracht, zoo ongeduldig,</l>
+<l>Aan geene misdaad als myn droeve liefde schuldig!</l>
+<l>Koome ik van zóó verr', en met zoo een groot gerucht;</l>
+<l>Voert de yver my hier heen, dryft my de teêrste zucht,</l>
+<l>Om, nu ik eindelyk u wederom beschouwe,</l>
+<l>U niets te zeggen als, ik wankele in myn trouwe?</l>
+<l>En echter 't moet. Ik heb 't herroep'loos woord verstaan;</l>
+<l>Het staal is vaardig, en men wacht om toe te slaan:</l>
+<l>Ik mag niet twyf'len, of besluit om u te dooden.</l>
+<l>Maar 'k hoor gerucht; men koomt. Ontzachelyke Goden!</l>
+<l>Zy is het zelv! 't Is dus dat ik haar weder vind!</l>
+<l>Wie kan ooit droeviger ontmoeten 't geen hy mint?</l></sp></div>
+<div type="scene">
+<pb n="28"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Cyrus, Mandane, Cleone</hi>', <hi rend="i">Wachten</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Het is dan waar; en ik zie Cyrus voor myne oogen!</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ja, 'k ben het zelf, Mevrouw, van 't krygsgeluk bedroogen:</l>
+<l>En 't Lot, op wiens gelaat men eer vertrouwen dorst,</l>
+<l>Toont u den droefsten, voor den zegeryksten Vorst.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Daar 't zoo veel strengheid u betoont, kan ik niet klaagen,</l>
+<l>Noch morren, dat ik meê gevoel hebb' van zyn slagen.</l>
+<l>Held Cyrus ketens doen myn boeien ligter zyn:</l>
+<l>Hy, zoo rampspoedig, geeft verzachting aan myn pyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Gy kent, Mevrouw, noch niet volkoomen de yslykheden,</l>
+<l>Waar meê wy worden door 't verbitterd Lot bestreeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Hoe 't zy, myn ziel bravecrt zyn' allerwaarsten flag;</l>
+<l>Gy kunt alleen...</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 2tab">Helaas! Wat is 't, dat ik vermag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>My te beminnen: en dit kan myn' wensch volmaaken.</l>
+<l>Vernieuwen we ons den gloed, de kracht van 't eerste blaaken;</l>
+<l>Herroepen we ons die trouw, zoo heilig aangegaan;</l>
+<l>Die liefde, door geen' tyd, noch rampspoed neêr te slaan;</l>
+<l>Dien echt, die eenmaal voor altoos ons moest vereenen.</l>
+<l>Zoo'n lief herdenken dryft alle onheil voor zich heenen!</l>
+<l>Maar hoe! gy wend uw oog naar elders: gy ontstelt:</l>
+<l>Gy zwygt!</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 1tab">ô Hemel! Welk een nooddwang! Wat geweld!</l></sp>
+<sp>
+<pb n="29"/>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ach! Hoe beroert gy my, myn Heer! Wat moet ik vreezen?</l>
+<l>Verklaar u: blaakt uw hart voor my niet als voor deezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Mevrouw, ach!...</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 3tab">Spreek, en stel myn ziel niet langer uit,</l>
+<l>Die, ongeduldig, niet...</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 4tab">Wees Ariantes bruid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ik Ariantes bruid! En moet ik deeze rede</l>
+<l>Van u verstaan! Gy dan, gy zyt het, ach! te wreede!</l>
+<l>Die my het kiezen van een' and 'ren bruîgom raadt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>'k Weet, dat gy tot myn' echt geschikt zyt: maar wat baat</l>
+<l>De trouw, die gy my hebt geschonken, en zoo teder</l>
+<l>Een min?... Myn hart....</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 5tab">Voleind.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 6tab">Neem uw belofte weder.</l>
+<l>Ja, ik verdien niet, dat uw boezem brand voor my.</l>
+<l>Ontroof me uw liefde; denk, dat ik doemwaardig zy:</l>
+<l>Verban me, als voorwerp van uw' haat, uit uw gedachten:</l>
+<l>Ik ben....</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 1tab">Vervolg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 2tab">ô Goôn!.. Dat men my wegbreng', Wachten.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Mandane, Cleone</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Waar ben ik, Cleoné, waar ben ik toegeraakt?</l>
+<l>Wat lot is 't myne, en wat is my bekend gemaakt?</l>
+<pb n="30"/>
+<l>ô Heilloos onderhoud! ô dood'lyk samenspreeken!</l>
+<l>Die Cyrus, dien ik hiet verwachtte om my te wreeken,</l>
+<l>Die Cyrus, die in al myn' rampspoed, smaad en leed,</l>
+<l>Myn laatste troost bleef, die alleen my hoopen deed,</l>
+<l>Om wien ik riep, en smeekte, en, ligt, de Goôn verstoorde,</l>
+<l>Die Cyrus koomt in 't einde; op dat hy my vermoorde!</l>
+<l>Gy hebt, wat hy ten dienst eens Medeminnaars ried,</l>
+<l>Gehoord. Wat wilde hy, wanneer hy my verliet,</l>
+<l>Toch doen verstaan? Hy is... Waarom dus afgebrooken?</l>
+<l>Ai my! de Wreede heeft ten halve slechts gesprooken.</l>
+<l>'t Is buiten twyfel, dat hy gruuwde voor den slag,</l>
+<l>Dien hy my toebragt. Maar zyn zwygen, zyn gedrag,</l>
+<l>Ja alles toont, hoe ik dit onderhoud beschouwe,</l>
+<l>My niet dan al te klaar 't verbreeken zyner trouwe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cleone</hi>'.</speaker>
+<l>Mevrouw, verschoon my, zoo ik zeggen durv', dat gy</l>
+<l>Te ras dien Vorst beticht van snoô verradery,</l>
+<l>Op enkele achterdocht. Neen, geenszins is te schroomen,</l>
+<l>Dat in zyn hart zoo vuil een misdaad op kan koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ontschuldig hem niet. Ach! Zyn misdryf is te klaar.</l>
+<l>Hebt gy dan zelve niet gezien, hoe koel hy waar',</l>
+<l>Toen myn standvaste vlam wierd voor zyn oog beleeden?</l>
+<l>Zyn heim'lyk wroegen bleek in de afgebrooken reden:</l>
+<l>Ik kan niet twyf'len, dat hy my verraad'. Hy is</l>
+<l>Voor my nog wreeder dan ontmenschte Tomyris.</l>
+<l>ô Ja, myn Cleoné, hy wil... Maar welk vermoeden,</l>
+<l>Wat denkbeeld treft myn' geest, en voert dien aan tot woeden!</l>
+<l>Zoo 'k Ariantes woord geloof, bied de Vorstin</l>
+<l>Haar hand en Ryksstaf den ontrouwe, dien ik min.</l>
+<l>Zou hy ze aanvaarden?...Kan ik twyf'len? Groote Goden!</l>
+<l>Het hart van Cyrus kent noch min, noch haar geboden?</l>
+<l>'t Is enk'le staatzucht, die hem alles doet bestaan.</l>
+<l>Voert hy zyn heirmagt uit het hart van Azië aan,</l>
+<l>En rukt hy herwaarts, om myn boeien te verbreeken,</l>
+<l>Hy voelt zich door den gloed van myne kroon ontsteeken:</l>
+<pb n="31"/>
+<l>Dit noopte hem, die prys docht hem der moeite waard.</l>
+<l>Doch nu het Lot, gekeerd, zich tegen my verklaart,</l>
+<l>Acht Cyrus zekerst, zich aan deezes zy te voegen,</l>
+<l>En, my verlaatende, zyn staatzucht te vernoegen.</l>
+<l>De ondank're mint niet, neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cleone</hi>.</speaker>
+<l rend="; 1tab">Zeg eer, dat zyne trouw</l>
+<l>Nooit heerelyker blonk, dan op deez' dag, Mevrouw:</l>
+<l>Dat hy een liefde, die u zeker zou verpletten,</l>
+<l>Versmoort; u afstaat, om den bloeddorst paal te zetten.</l>
+<l>Bewust, al wat de woede op Tomyris vermag,</l>
+<l>Wykt hy, genoodzaakt, voor den storm, en stuit den slag,</l>
+<l>Dien hy van 't onheil ziet op u te zullen vallen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Waarom spaart hy my toch? hy zelf, het wreedst van allen!</l>
+<l>Waant by, dat ballingschap, gevangenis en pyn,</l>
+<l>Ja de akelige dood gelyk te stellen zyn</l>
+<l>Aan 't onheil, van het geen wy minnen te verliezen?</l>
+<l>Denkt hy, dat niet myn hart oneindig zou verkiezen</l>
+<l>Alle ander noodlot dan dit eene te ondergaan?</l>
+<l>Ach! Kan hy 't denken, nooit deed teedre min hem aan.</l>
+<l>Maar vrucht'loos neemt gy voor, myn hoop weêr op te beuren:</l>
+<l>Zyne onverschilligheid was duid'lyk te bespeuren.</l>
+<l>Gewis, de ondankb're schenkt zyn hart, geheel zyn min</l>
+<l>Aan Tomyris. Ik zwigt voor myne vyandin.</l>
+<l>En moog'lyk dat deez 'dag...Neen, dat wy hen verkloeken;</l>
+<l>Dat wy 't niet lyden. Vlieg, ga Ariantes zoeken.</l>
+<l>Hy toon' zyn' yver in my straks te koomen zien,</l>
+<l>En, mint hy my, dat hy me op myn begeeren dien'.</l>
+<l>Ach! zoo hy Tomyris van Cyrus af durft scheuren,</l>
+<l>Hoop hy vry; tot deez' pryz'mag hem myn hand gebeuren.</l></sp>
+<stage><hi rend="i">Einde van het tweede Bedryf</hi>.</stage></div></div>
+<div type="act">
+<pb n="32"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Ja, Heer, door my maakt u de Koningin bekend,</l>
+<l>Dat Cyrus zelf zyn vlyt voor u hebbe aangewend;</l>
+<l>En dat hy, veinzende in zyn plichten te bezwyken,</l>
+<l>(Op dat Mandane mogt den slag des doods ontwyken)</l>
+<l>Uw liefde heeft gedient by zyne Minnaares!</l>
+<l>Terwyl uw Moeder de vertwyf'ling der Prinses,</l>
+<l>Die, om verlicht te zyn, verzocht heeft haar te spreeken,</l>
+<l>Gebruikte, om d'argwaan in haar'boezem aan te kweeken.</l>
+<l>Zoo dat gy Tomyris wel haast bedanken zult,</l>
+<l>Wanneer uw wenschen door haar zorgen zyn vervuld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Mag ik me op 't geen gy zegt, Orontes, wel vertrouwen;</l>
+<l>En myne hoop op die belofte weder bouwen?</l>
+<l>Maar zou ik kunnen?.. Ach! Wat is myn hart bereid</l>
+<l>Zich te bedriegen! Zoo het Lot my heden vleit,</l>
+<l>'t Geschied alleen, om my gevoeliger te treffen.</l>
+<l>'t Wil my, op dat myn val afgryslyk zy, verheffen:</l>
+<l>En 't goed, waar meê 't my streelt, die liefelyke waan</l>
+<l>Zal in een oogenblik, gelyk een droom, vergaan.</l>
+<l>Myn Medeminnaar, in geluk... Dit doet my yzen!</l>
+<l>Myn hoop dwingt, stervende, myn woede te verryzen.</l>
+<l>Dit is de hardste van uw slagen, wreed Geval!</l>
+<l>'k Stond door gewoonte voor myn rampen reede pal.</l>
+<l>Maar moet ik van een goed, dat 'k my niet dorst belooven,</l>
+<l>Zoo na daar eind'lyk by, my weder zien berooven,</l>
+<l>Dan storte 't onheil op myn' Medeminnaar neêr!</l>
+<l>Doch iemand nadert ons.</l></sp>
+<div type="scene">
+<pb n="33"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l rend="; 1tab">Vorst, Cyrus wacht op de eer</l>
+<l>Van voor een oogenblik gehoor by u te erlangen:</l>
+<l>'t Verlof der Koningin hier toe heeft hy ontfangen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>'t Is wel, Aripithes, hy koom'.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Wat word myn hart</l>
+<l>Beroerd! Gerechte Goôn! Eene onbeschryfb're smart</l>
+<l>Verscheurt me, Orontes. Ach! Hoe zal ik zonder beeven</l>
+<l>Hem zien, daar de enkle naam myn wraakzucht doet herleeven?</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Cyrus, Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Gy triompheert, myn Heer, terwyl ge u Meester ziet</l>
+<l>Van eenen Koning, die, eer hem het Lot verried,</l>
+<l>En door de zege, daar gy heden meê moogt praalen,</l>
+<l>Deed van den steilen top der glorie nederdaalen,</l>
+<l>De grootste Koningen zyn wetten eeren deed.</l>
+<l>Maar schoon u dees triomf met luister heeft bekleed,</l>
+<l>'t Vergramt geval doet u, in myn vernederingen,</l>
+<l>Een' nieuwen vinden, daar gy zelfs niet naar dorst dingen:</l>
+<l>Ja, het verlaagt my tot zoo verr', dat ik u smeek'.</l>
+<l>Ik word gedwongen, dat ik myne trotsheid breek';</l>
+<l>En met dit oogmerk heb ik herwaarts my begeeven.</l>
+<l rend="; 1tab">Ik smeek u om 't behoud, gy weet van welk een leven.</l>
+<pb n="34"/>
+<l>Gy kent het dreigen van een woedende Vorstin:</l>
+<l>Mandane moet vergaan, of stemmen in uw min:</l>
+<l>Zy moet verkiezen, zich voor een van beiden uiten,</l>
+<l>Of tot den dood, of tot uw huwelyk besluiten.</l>
+<l>'k Voorzie haar weigering; 'k voorzie de wraak daar van;</l>
+<l>En gy, myn Heer, moet haar beschermen: want ik kan</l>
+<l>My niet verbeelden, dat haar Minnaar en Tyrannen,</l>
+<l>Om haar te moorden, zich te samen zullen spannen.</l>
+<l>Zelfs, wen het schriklyk beeld des onvermydb'ren doods</l>
+<l>Haar ziel verraste, en haar, in 't uiterste des noods,</l>
+<l>Zich deed verklaaren voor een huuwlyk, haar ter schande,</l>
+<l>'k Durf my verzeek'ren, dat, al had die offerhande,</l>
+<l>Al had dat dierbaar goed nog duizendmaalen meer</l>
+<l>Aantrekk'lykheên voor u, gy niet zult willen, Heer,</l>
+<l>Dat een doorluchtige Prinses zich kunn' beklaagen</l>
+<l>Van u, als schuldig aan den rampspoed haarer dagen;</l>
+<l>En als bezitter door geweld van eene hand,</l>
+<l>Die u haar hart ontzeide, en elders was verpand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>En waarom waant gy, dat myn trouw haar moet mishaagen;</l>
+<l>Of dat, my geevende haar hand, haar hart zal klaagen?</l>
+<l>Ben 'k haar onwaardig, om den troon, daar 'k meê verschyn?</l>
+<l>Kan myne liefde haar niet ongetrouw doen zyn?</l>
+<l>Of wierd al 't geen ik deed tot redding van haar leven</l>
+<l>Te duur betaald, met my haar tederheid te geeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Kan 't moog'lyk weezen, dat Mandane wank'len zou!</l>
+<l>Ik ken haar al te wel, dan dat men 't ooit vertrouw'.</l>
+<l>Zy mint haar' roem, en zal haar eeden wel bewaaren.</l>
+<l>Haar hart te missen zou me ook weinig onrust baaren,</l>
+<l>Indien 't kon zyn, dat zy tot zoo verr' zich vergat,</l>
+<l>Dat ik, zelfs haare min voor u, te vreezen had.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>En gy, tot welk een' trap durft gy u zelf vergeeten?</l>
+<l>Gy, heel met ketenen bedekt... Goôn! Hoe vermeeten!..</l>
+<l>Hoe verregaand een blyk van hoogmoed toont gy hier?</l>
+<pb n="35"/>
+<l>Gy heft uw hart, zelfs tot verachting, niet min fier,</l>
+<l>Schoon gy verwonnen wierd. Wat zoud gy meerder konnen;</l>
+<l>Of stouter spreeken, als gy ons had overwonnen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Als 't Lot de zege my op u had toegestaan,</l>
+<l>Myn hart had zich verkleind, van allen trots ontdaan;</l>
+<l>En verr' van dat gy voor myn' hoogmoed had te vreezen,</l>
+<l>Zou de overwinning my doen' nederiger weezen.</l>
+<l>Geloof dit. Koningen als Cyrus, zyn, wanneer</l>
+<l>Men hen verwonnen heeft, het meeste fier, myn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Maar weet gy wel, myn Heer, dat gy door my te hoonen,</l>
+<l>En eene trotsheid, zoo ontydig, te vertoonen,</l>
+<l>Myn' haat ligt dwingen kost, om uit te barsten; en</l>
+<l>Dat ik gevaarlyk in getergde gramschap ben?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ja 'k weet, myn gantsche lot, te schikken van myn leven</l>
+<l>Is in uw magt, en die der Koningin gegeeven.</l>
+<l>Maar kan het eigenste Geval de magt, die 't u</l>
+<l>Thans over my geeft, my niet schenken over u?</l>
+<l>Waar zyn Verwinnaars, waar zyn Koningen te noemen,</l>
+<l>Die op het vesten van hunn' voorspoed konden roemen?</l>
+<l>Zoo lang het Licht des daags den Sterv'ling nog bestraalt,</l>
+<l>En boven zyne kruin zich went'lend, ryst en daalt,</l>
+<l>Zoo lang nog wankelt zyn geluk en grootheid tevens:</l>
+<l>Ons lot hangt enkel af van 't uiterst uur des levens.</l>
+<l>Gyzelf, gy weet, myn Heer, dat een hovaardig Vorst,</l>
+<l>Die de eigenzinnigheid des Lots trotseeren dorst,</l>
+<l>Voor myn gezicht, byna, om zyn vermetelheden</l>
+<l>Gestreng gestraft, een' dood vol schande had geleeden.</l>
+<l rend="; 1tab">Maar strekt u Cyrus niet ten voorbeeld op deez' dag?</l>
+<l>Myn val is grooter, hoe men my verheev'ner zag:</l>
+<l>En 't allerlaatste der my treffende ongelukken</l>
+<l>Bewyst onfeilbaar, dat het Lot met my te drukken</l>
+<l>Slechts heeft gewacht; op dat het allerhevigst woed',</l>
+<l>My dus verneedrend', dat ik voor u bukken moet.</l></sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>'t Gaat eindelyk te verr': dit onverdraagbaar hoonen...</l>
+<l>Doch een te groot belang verplicht me u te verschoonen.</l>
+<l>'k Verwyl myn wraak: en gy, dank uw behoudenis</l>
+<l>Der goedheên t'uwaart en der gunst van Tomyris:</l>
+<l>Het leven der Prinses verknocht zy aan uw leven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ach! Op dit woord moet al myn fierheid my begeeven.</l>
+<l>Mandane zal vergaan, tenzy gy haar behoed;</l>
+<l>En 't is tot u, dat ik my eind'lyk wenden moet.</l>
+<l>Welaan; gy zyt, myn Heer, my een' ge erkent'nis schuldig:</l>
+<l>Wyl ik voor de Prinses myn liefde zoo zorgvuldig</l>
+<l>Verborg, dat toen ik van uw hand haar sprak, myn hart</l>
+<l>Zyn zuchten inhield, niets ontdekte van myn smart.</l>
+<l rend="; 1tab">Zie daar, hoe ik voor u my zelven heb verraaden.</l>
+<l>'k Wist, dat men trachtte met haar bloed zich te verzaaden:</l>
+<l>Een woord, een enk'le wenk der oogen, 't onbedacht</l>
+<l>Ontglippen van een' zucht had haar ter dood gebragt.</l>
+<l>Ik veinsde me ongetrouw, 'k besloot om haar te derven;</l>
+<l>Op dat gy, gy alleen, myn Heer, haar kost verwerven:</l>
+<l>'t Staat niet door my, dat zy niet de uwe word'. Doch is</l>
+<l>Haar hart, braveerende den haat van Tomyris,</l>
+<l>Gereed, het graf voor een' geschuuwden echt te kiezen,</l>
+<l>Denk dan, dat gy haar mint, schoon gy haar moet verliezen;</l>
+<l>Dat zy rampspoedig is; en dat, in deezen nood,</l>
+<l>Gy maar alleen haar kunt bevryden van den dood:</l>
+<l>Gy zyt, uw liefde is 't al, wat haar is bygebleeven.</l>
+<l>Maar 'k zie de Koningin, myn Heer, 'k moet u begeeven.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus, Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>, <hi rend="i">Cyrus wederboudende</hi>.</speaker>
+<l>Vertoef, ontvlucht my niet, noch vrees myn' haat, myn Heer.</l>
+<l>Wy leggen onzen twist voor eeuwig heden neêr.</l>
+<l>Mandane doet ons 't eind van 't bloedig krygen vinden.</l></sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Wat hoore ik!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Zy zal zich aan mynen zoon verbinden,</l>
+<l>En met dit huuwlyk neemt de vrede zyn begin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Stemt dit Mandane toe?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 3tab">Zy stelt haare eer daar in.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Met welke een nieuwen schicht, Goôn, grieft gy my het harte!</l>
+<stage><hi rend="i">Tegen Tomyris</hi>.</stage>
+<l>Ontmenschte triomfeer, verheug u in myn smarte,</l>
+<l>Vernoeg uw wreedheid met het gruwelyk vermaak,</l>
+<l>Dat ik het bitterste der zielsverdrieten smaak.</l>
+<l>Ik heb Mandane zelf verplicht my te verlaaten;</l>
+<l>Door al te groote min, helaas! haar my doen haaten:</l>
+<l>Ik heb haar meer dan ik gewild heb overreed,</l>
+<l>En voor uw razerny myn vlyt zoo wel besteed,</l>
+<l>Dat ik met eige hand een huuwlykstoorts doe blaaken,</l>
+<l>Waar voor ik yze, en die my moet rampzalig maaken.</l>
+<l>Volbreng uw heilloos werk. In een zoo naare straf</l>
+<l>Schiet my niets over dan de dood; 'k vraage u dien af.</l>
+<l>Myn Medeminnaar is gelukkig; dat ik sterve:</l>
+<l>Laat ik niet zyn gedoemd, nu ik Mandane derve,</l>
+<l>Dat ik, afgunstig haar in zynen arm beschouw'!</l>
+<l>Myn dood is nodig voor u beiden: Ja, Mevrouw,</l>
+<l>Stel dien vooral niet uit, gy moogt hem niet ontbeeren.</l>
+<l>Een oogenblik kan 't lot voor u en my doen keeren.</l>
+<l rend="; 1tab">Ik gaa en laat u hier op denken; maar beraad</l>
+<l>U wel: vrees, zoo uw drift myne onmagt thans versmaad,</l>
+<l>Dat honderdduizenden, verzuimt gy u te wreeken,</l>
+<l>Gewapend, met geweld mvn ketens zullen breeken.</l></sp></div>
+<div type="scene">
+<pb n="38"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Nu hoort gy klaar, Mevrouw, dat onze veiligheid</l>
+<l>Zyn straf noodzaak'lyk maakt, en hem genaè ontzeit.</l>
+<l>Dat hy dan, om 't gevaar geheel te doen verdwynen,</l>
+<l>Om al die duizenden, eer zy ter hulp verschynen,</l>
+<l>Te wederhouden, toch ten eerste zy geslagt,</l>
+<l>En dat zyn hoofd worde in zyn legerplaats gebragt.</l>
+<l>Zoo zullen wy uit zoo veel volken, als geboogen,</l>
+<l>Hem thans versterken in zyn wetteloos vermogen,</l>
+<l>Verr' van te duchten, dat zy tot de wraak zich spoên,</l>
+<l>Zoo veele vyanden voor hem verschynen doen:</l>
+<l>Die ons voor 't breeken van hun keet'nen danken zullen;</l>
+<l>Veel eer dan, 't geen zyn trots u dreigde, te vervullen.</l>
+<l>Stel dan zyn' dood niet uit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Gy word door waan misleid:</l>
+<l>Vrees alles van het vuur der eerste oplopenheid.</l>
+<l>Die volken alle zyn tot slaverny gebooren:</l>
+<l>En als men eens 't gebruik der vryheid heeft verlooren,</l>
+<l>Verliest het hart allengs het waare beeld daar van,</l>
+<l>En 't is de tyd alleen die 't weêr vernieuwen kan:</l>
+<l>Dit is het werk niet van zoo weinig oogenblikken.</l>
+<l>De troon van Cyrus is niet ligt'lyk te verwrikken.</l>
+<l>Zoo wys in staatsbestier, als onvertsaagt in 't veld,</l>
+<l>Heeft hy zyn weldaân zich ten grond van magt gesteld.</l>
+<l>Ik zelv heb hem gezien in 't midden zyner Vorsten,</l>
+<l>Van twintig Koningen omringd, die Scepters torsten.</l>
+<l>Wat achting! Welk een blyk van zuiv're tederheên.</l>
+<l>Vertoonde zich! Hy word van allen aangebeên.</l>
+<l>Ik geef zyn' luister dit getuigenis met smarten:</l>
+<l>Maar Cyrus goedheid, diep geprent in hunne harten,</l>
+<l>Zal zyn gedachtenis doen heilig zyn. En word</l>
+<pb n="39"/>
+<l>Zyn dierb're levensdraad door onze hand gekort,</l>
+<l>Hoe yslyk zal het bloed hier alles overstroomen!</l>
+<l>Welhaast zal 't Perziesch heir, vol woede, ons overkoomen,</l>
+<l>[Gelyk ik u reeds zeide, en allerzekerst is]</l>
+<l>Om wraak te vord'ren van zyn' hoon en hechtenis.</l>
+<l>Al myn gevangenen, voor hem my aangebooden,</l>
+<l>Heb ik geweigerd. Thans is ons op 't hoogst van noden,</l>
+<l>Om 't onheil te verhoên, 't welk ons het Lot verwekt,</l>
+<l>Dat gy met de Prinses uw' echt terstond voltrekt.</l>
+<l>Ze is minnenydig, en begeerig u te spreeken:</l>
+<l>'t Is buiten twyfel, dat de hoop van zich te wreeken,</l>
+<l>Wyl zy door Cyrus zich gehoond acht, haar bestiert;</l>
+<l>En 't staat aan u slechts, dat uw liefde zegeviert</l>
+<l>'k Durf, als haar mond zich eens voor u verklaart, verwachten,</l>
+<l>Dat Cyrus trotsheid haar verkiezing hem doe achten:</l>
+<l>Of liever, dat hy voor altoos zyn min verzaak',</l>
+<l>En de enk'le grootheid van zyn ziel bezitster maak'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Neen, vleien we ons niet, met dus ligt ons te belooven,</l>
+<l>Dat zyne glorie hem der liefde zal ontrooven.</l>
+<l>Dit kan met de oogen van Mandane niet bestaan:</l>
+<l>Ontsteekenze eens een vuur, daar is geen blusschen aan.</l>
+<l>De wreede toont aan my dit al te klaar, myn zinnen</l>
+<l>Nog dwingend', na al heur versmaading, haar te minnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Wel, straf haar dan voor die versmaading, nu gy kont,</l>
+<l>En wreek daar van u door een spoedig echtverbond.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Veel eer moet myne wraak een' Medeminnaar treffen,</l>
+<l>Die tegen myn geluk alleen zich kan verheffen.</l>
+<l>Zoo lang hy 't licht beschouwt is 't niets, wat ik ook hoop;</l>
+<l>En 'k streel my vrucht'loos met een vasten huuwlyksknoop.</l>
+<l>Hy kan nog veel te veel bestaan om my te hinderen;</l>
+<l>En zelfs zyn ketens doen zyn'hoogmoed niet verminderen.</l>
+<pb n="40"/>
+<l>Voorzeker zal hy, wen men immer hem ontslaat,</l>
+<l>Het alles off'ren aan zyn' minnenyd en haat.</l>
+<l>'k Moet hem verderven, of ik ga gewis verlooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy doed u, Prins, gelyk een Medeminnaar hooren,</l>
+<l>Maar ik moet hand'len als 't een Koningin betaamt.</l>
+<l>Indien ik toeliet, dat gy tot uw oogmerk kwaamt,</l>
+<l>En dien vermogenden Gevangen bragt om 't leven,</l>
+<l>Myn gansche volk wierd hem eerlang ten zoen gegeeven.</l>
+<l>'k Zie ondertusschen, dat ik kwalyk ben berâan;</l>
+<l>Wyl ik, op dat gy wordt in uwen wensch voldaan,</l>
+<l>My min als Koningin dan Moeder wil gedraagen.</l>
+<l>Myne Onderdaanen geeve ik reden van te klaagen,</l>
+<l>Dat ik voor uwe min hun heil ter zyde zet:</l>
+<l>'t Word tyd dan, dat ik eens op hun behoud'nis lett'.</l>
+<l>Ik kan hun' ondergang niet dan door vrede stuiten.</l>
+<l>Bedenk tot welk een' prys men dien zal moeten fluiten.</l>
+<l>De grond moet weg zyn van het wederzyds geweld:</l>
+<l>Mandane, in 't einde, moet in vryheid zyn gesteld.</l>
+<l>Heeft zich uw hart nu wel bereid om dit te kiezen;</l>
+<l>En kan het zonder schrik al wat het mint verliezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>ô Goôn! Waar toe zou ik besluiten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Om uw hart</l>
+<l>Te trekken uit den strik, waar in het is verwart;</l>
+<l>Een' Medeminnaar dienst te doen in het verwerven</l>
+<l>Van die gy mint; zyn vlam te kroonen, en te sterven:</l>
+<l>Vermits gy zelf, te laf, niet durft gelukkig zyn.</l>
+<l>'k Had myn voorzichtigheid, ter hulp van uwe pyn,</l>
+<l>Zoo wel bestierd, dat, om uw liefde te zien kroonen,</l>
+<l>Gy niets behoefde dan een weinig magt te toonen.</l>
+<l>Gy hebt zulks niet gewild. Welaan, wyl gy 't begeert,</l>
+<l>Kwyn, zucht, en klaag, dat ge uw geliefde bruid outbeert;</l>
+<l>En zie een' ander', daar gy ze u door laat ontrukken,</l>
+<l>Van zynen minnegloed gewenschte vruchten plukken:</l>
+<pb n="41"/>
+<l>Maar geef u zelven dan alleen hier by de schuld,</l>
+<l>Wanneer een echt, die u in 't graf sleept, word vervuld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Ik zelf, ik zou een' echt, dien 'k vloek, verwekken konnen!</l>
+<l>Het is gedaan; gy hebt my eindelyk verwonnen.</l>
+<l>Eens Medeminnaars heil te aanschouwen is voor my</l>
+<l>Van alle rampen verr' de wreedste. Laaten wy</l>
+<l>Ons werk voleinden; ja geen oogenblik vertraagen:</l>
+<l>'k Wil alles, op dat ik gelukkig worde, waagen.</l>
+<l>En gy, volhard toch in uw goedheid voor altyd,</l>
+<l>Mevrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">'k Toon u die meer, dan gy wel waardig zyt.</l>
+<l rend="; 2tab">Gy zult Mandane hier door myn bevel beschouwen:</l>
+<l>Versterk haare achterdocht; vergroot het misvertrouwen,</l>
+<l>Het welk ik in haar ziel verwekt heb en gevoed;</l>
+<l>Draag haar den hoon, die haar van Cyrus is ontmoet,</l>
+<l>Op 't haatelykste voor, als zonder wedergade;</l>
+<l>Verbeeld haar, hoe hy niet alleen heur hand versmaadde;</l>
+<l>Maar dat hy, tot meer spyt, haar, zoo trouwloos als laf,</l>
+<l>Een' Medeminnaar met genoegen overgaf.</l>
+<l>Draag boven alles zorg, dat haare ontroerde zinnen,</l>
+<l>Waar in de minnenyd het veld begint te winnen,</l>
+<l>Gevoelen, dat hy my bemint; en, zoo het al</l>
+<l>Moet zyn, zeg haar dan ook, dat hy my trouwen zal.</l>
+<l>'k Deed in haar' kerker dit gerucht haar reeds genaaken:</l>
+<l>Koom myne zorg te hulp, gy zult de vruchten smaaken.</l>
+<l>Doch ik begeeve u, 'k zie haar naadren.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Ariantes, Mandane</hi>, <hi rend="i">Wachten</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Ach! Mevrouw,</l>
+<l>Mag 't zyn, dat ik de vreugd, die my verrukt, vertrouw?</l>
+<l>En zou ik, daar men u hier trouwloos durft beledigen,</l>
+<l>Wel zoo gelukkig zyn, dat ik u moog' verdedigen?</l></sp>
+<pb n="42"/>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>ô Ja, myn Heer, de hoon is dood'lyk, dien ik ly',</l>
+<l>En 'k wacht van uwen moed, dat ik gewrooken zy.</l>
+<l rend="; 1tab">Het my onteerende gerucht, dat Cyrus heden</l>
+<l>Zich vaardig maakt, om hier den Rykstroon te betreeden,</l>
+<l>Word my, terwyl ik in myn' kerker ben, gebragt.</l>
+<l>'t Blykt, dat de ondankb're my om Tomyris veracht.</l>
+<l>Maar gy, myn Heer, kunt gy zyn heerschappy gedoogen?</l>
+<l>Zult gy aanschouwen, dat, ten trots van uw vermogen,</l>
+<l>Een Mededinger zich in eenen rang, waar toe</l>
+<l>Gy maar alleen het recht bezit, verheffen doe?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Zyne onderneeming zou my weinig kommer baaren,</l>
+<l>Als ik dees plaats alleen moest tegen hem bewaaren:</l>
+<l>Maar ach! myn lot is veel afgryslyker, zoo hy</l>
+<l>My, en uw hart ontrooft, en myne Heerschappy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Myn hart! En hoe kunt gy my deeze taal doen hooren?</l>
+<l>Neen, nooit is hem zoo grootsch een zegepraal beschooren.</l>
+<l>'k Verberg u geenszints, dat myne eerste Liefdevlam</l>
+<l>Voorhem uit d'achtb'ren wil myns Vaders oorsprong nam:</l>
+<l>Noch ook, dat Cyrus door roemruchtige oorlogsdaaden,</l>
+<l>Door duizend Lauwren, daar zyn kruin meê wierd belaaden,</l>
+<l>Dien gloed tot heden toe heeft aan doen wassen. Doch</l>
+<l>Zou 'k hem nog minnen na zyn snood en laf bedrog!</l>
+<l>'k Ben niet bekwaam tot zoo onedele gedachten,</l>
+<l>Noch kan hem anders dan myn' afkeer waardig achten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Is 't waarheid? Hemel! hoe verzekerd is zyn straf!</l>
+<l>Zyn bloed...</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 2tab">Bedaar; sta van dat driftig opzet af:</l>
+<l>Het waar' hem spaaren, hem den slag des doods te geeven.</l>
+<l>Dat hy, gekluisterd in uw keetnen blyve leeven:</l>
+<l>En, op dat hy een straf, zyn misdaad waardig, ly',</l>
+<l>Een eind'loos offer voor zyn wroegend harte zy.</l></sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>En haat gy hem?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 2tab">Of ik hem haate! Kunt gy 't vraagen?</l>
+<l>Heeft hy wel iets verzuimt, dat hem kost doen mishaagen?</l>
+<l>Doch 'k zie, myn Heer, myn hart heeft zich vergeefsch gevleid,</l>
+<l>Toen 't van uw liefde my myn wraak heeft toegezeid:</l>
+<l>En 'k wierd, my al te zeer op 't krachteloos vermogen</l>
+<l>Van kleine aantreklykhêen verlaatende, bedroogen,</l>
+<l>Toen 'k dacht...</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Rechtvaarde Goón! Ik minne u dan niet! Ach!</l>
+<l>Beschouw, of ik u ook beminne, uit myn gedrag.</l>
+<l>Heeft van het oogenblik af aan, dat deeze liefde</l>
+<l>Myn ziel zoo dood'lyk door uw dwingende oogen griefde,</l>
+<l>Al uw gestrengheid, uw verachting, 't zielsverdriet,</l>
+<l>'t Welk iemand smaakt, die 't heil eens Medeminnaars ziet,</l>
+<l>Dit alles, heeft dit wel het vuur, dat my doet blaaken,</l>
+<l>Het gift, dat my verteert, min hevig kunnen maaken?</l>
+<l>Heb ik myn Moeder niet weêrhouden, toen haar woên</l>
+<l>Op u waare uitgestort, myn broeders bloed ten zoen;</l>
+<l>En al haar gramschap op myn eigen hoofd gedreeven?</l>
+<l>Helaas! hoe menigmaal dwongt gy my niet te beeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Welaan, bemint gy my, durf alles dan bestaan;</l>
+<l>Verkryg u 't recht, dat men u weêr niets af durv' slaan.</l>
+<l>Is u myn hand zoo waard, dit zy ten loon mag strekken,</l>
+<l>Verstout u, Cyrus die van Tomyris te onttrekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Goôn! wat beveelt gy my?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 3tab">Gy overweegt het dan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>ô Wreede! indien myn dood bewys verstrekken kan</l>
+<pb n="44"/>
+<l>Van mynen yver; dat die proef straks word' genoomen:</l>
+<l>Myn bloed is vaardig; spreek, 't verlangt voor u te stroomen.</l>
+<l>Maar wie toch staat my voor uw dierbaar leven in?</l>
+<l>Is alles niet van een getergde Koningin</l>
+<l>Te schroomen? Waar toe zal haar woede niet besluiten,</l>
+<l>Besta ik, tegen haar, deez' dag voor u my te uiten?</l>
+<l>Verhaasten we ons slechts niet: 'k heb and're midd'len, daar</l>
+<l>Ik, zonder dat ik stelle uw hoofd in dit gevaar,</l>
+<l>Uw ketens mede kan verbryz'len. Ja, vertraagen</l>
+<l>Wy onze wraak, om daar te wisser in te slaagen.</l>
+<l>'k Heb myn Vertrouwden tot in uw gevangenis;</l>
+<l>En haast, wen de uitkomst aan de zorgen gunstig is</l>
+<l>Van myne vrienden, zal my alles mooglyk weezen.</l>
+<l>Voor u verzekerd heb ik nergens voor te vreezen.</l>
+<l>'k Zal door geweld myn recht vervord'ren; en gy zult,</l>
+<l>Mevrouw, volkomen uw verlangen zien vervuld;</l>
+<l>Wanneer ik Cyrus dwing zyn hoop te laaten vaaren</l>
+<l>Op eene kroon, die ik moet plaatzen op uw haaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Wat straf voor hem! Ik smaak alreede het vermaak,</l>
+<l>Het welk myn hart verwacht van zoo gewenscht een wraak.</l>
+<l>Alleen ontbreekt 'er, dat men 't hem te kennen geeve:</l>
+<l>Want kon het zyn, dat hy hier van on weetend bleeve,</l>
+<l>'k Waare al de vrucht kwyt van zo heerlyk eene daad.</l>
+<l rend="; 1tab">Welk een triomf voor my, na de aangebragte smaad,</l>
+<l>Wanneer de ondankb're weet, dat hy aan myn bedryven</l>
+<l>Den slag, die hem verplet, alleen hebb' toe te schryven!</l>
+<l>Dat hy 't toch wel begryp'. Wel aan, ik zelv wil, eer</l>
+<l>Hy zy gestraft, voor 't laatst hem onderhouden, Heer;</l>
+<l>En in dit onderhoud zoo groot een' haat bewyzen,</l>
+<l>Dat hy my de oorzaak kenn', waar uit zyn rampen ryzen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Gy wilt hem, zegt gy.... Neen, dat gy hem niet beschouwt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Wat vreest gy? Of wat is 't, dat u bekommerd houd?</l></sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>'k Vrees uw bekoorlykheên. 'k Weet, dat zy 't al vermogen;</l>
+<l>En Cyrus wierd voorheen te veel door haar bewoogen.</l>
+<l>Zoo 't eerste vuur herglom.... zich voor uw oog... wel eer</l>
+<l>Wierd gy daar door geraakt. Ligt minde gy hem weêr.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ik? is 't wel mooglyk, dat ik hem zou konnen minnen!</l>
+<l>Neen, oordeel beter van de fierheid myner zinnen.</l>
+<l>Laat hy verschynen: dat uw oog getuigen zy;</l>
+<l>Hoe myne gramschap...</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l rend="; 1tab">Neen, Mevrouw, onschuldig my:</l>
+<l>Om wraak naar wensch van een' ondankb're te verkrygen</l>
+<l>Is niets zoo zeker als het allerdiepste zwygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>'k Eisch dan vergeefsch, dat myn verlangen word' voldaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Tot veel te duur een' prys wierd u het toegestaan.</l>
+<l>Kan ik, bewust, dat gy, ten koste van uw leven,</l>
+<l>Dit doodsch vermaak begeert, u vergenoeging geeven?</l>
+<l>'t Bekommert me alles; en ik vreeze, in deezen staat,</l>
+<l>Niet minder dan uw min, Mevrouw, myn Moeders haat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Neen, door die yd'le reên laat ik my niet verblinden:</l>
+<l>Uw konstig veinzen zelf doet my uw weigring vinden.</l>
+<l>Doch, eindelyk, gy weet, wat ik van u begeer:</l>
+<l>Doe my dan Cyrus zien: of gy, zie my nooit weêr.</l></sp></div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l>Wat slag, ô Hemel! doet myn hoop weêrom verdwynen!</l>
+<l>ô! Van te groot een heil bedriegelyk verschynen!</l>
+<l>ô! Aak'lige omkeer, daar myn geest voor stil blyft staan!</l>
+<l rend="; 1tab">Gaanwe ons met Tomyris op deezen ramp beraân.</l></sp>
+<stage><hi rend="i">Einde des Derden Bedryfs</hi>.</stage></div></div>
+<div type="act">
+<pb n="46"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Neen, dat men nimmer, iets, zoo vol gevaars, begin'.</l>
+<l>Zulk een byeenkomst waar' noodlottig voor uw min,</l>
+<l>En zou in eeuwigheid u uw Prinses doen derven.</l>
+<l>Schoon ik haar stem wist voor uw huuwlyk teverwerven,</l>
+<l>Eene openbaaring zou het alles om doen slaan,</l>
+<l>En Cyrus overwon: 't is tyd, hy moet vergaan.</l>
+<l>Wil my de zorg van hem te straffen toevertrouwen.</l>
+<l rend="; 1tab">Doch 't Perziaansche heir kost ligt zyn' dood weerhouwen.</l>
+<l>Ga, dat uw dappere arm het breidele in zyn woên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Dat wy 't ontzach'lyk hoofd van hun slechts vallen doen.</l>
+<l>Het gansche heir is min dan hy alleen te vreezen:</l>
+<l>En, zeker van zyn' Dood, zal 'k onverwin'lyk weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ga heen ten stryde, en keer verwinnaar wederom;</l>
+<l>En ik, ik zweere u by het achtbaar Godendom,</l>
+<l>Gy zult hier langer voor geen' Medeminnaar schroomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Maar...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Haastu; want de tyd eischt waar te zyn genoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Welaan, Mevrouw, ik vlieg naar 't Krygsvolk. [<hi rend="i">ter zyde</hi>] Myn gemoed,</l>
+<l>Verheug u mid'lerwyl in het beloofde goed.</l></sp>
+<div type="scene">
+<pb n="47"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>'t Is dan bepaald, Mevrouw; gy zult uw' Minnaar slagten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Stryk juister oordeel van myn hart in uw gedachten,</l>
+<l>Myn hand zal druipen, ja, maar van een haatlyk bloed.</l>
+<l>Doch wyl ik mynen zoon van hier verwyd'ren moet,</l>
+<l>Is my de veinzery daar toe te hulp gekoomen.</l>
+<l>Thans is 'er niemand, dien myn woede heeft te schroomen:</l>
+<l>En niets beschermt in 't eind myn Medeminnaares.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Wat moogt gy hoopen na het sneuv'len der Prinses?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy weet, wat driften myn verslaafde ziel beroeren;</l>
+<l>Dat liefde en razerny haar even zeer vervoeren.</l>
+<l>Door die Tyrannen, die daar heerschen, beurt om beurt,</l>
+<l>Word ik, en zonder maat, en zonder eind verscheurd.</l>
+<l>Doch moet ik, daar zy elk om de overheersching stryden,</l>
+<l>Wie van hun beiden 't wint, u ongeveinst belyden,</l>
+<l>'k Gevoele, dat de woede 't sterkste is. Ja, de min</l>
+<l>Moog' spreeken, 'k hoor haar niet; en sta u zelfs niet in,</l>
+<l>Dat Cyrus leven, hoe ik hem ook wensch te spaaren,</l>
+<l>Zal veilig blyven in het branden der gevaaren.</l>
+<l>Men maake een' aanvang met Mandane te off'ren, die</l>
+<l>Door hem gedoemd word tot dit strenge noodlot. Zie,</l>
+<l>Zie uit het onderhoud, het welkze ons af durft vraagen,</l>
+<l>Of ook de Ondankb're nog haare oogen kan behaagen:</l>
+<l>En, hoe hy haar hebb' tot den echt myns Zoons bereid.</l>
+<l>'k Wil ondertusschen, dat een schyn van billykheid,</l>
+<l>En recht myn doen bekleede; en dat zy, eer zy sneeve,</l>
+<l>My zelve reden, om haar te verderven, geeve.</l>
+<l>Dat Ariantes zy bedroogen, ik verraân:</l>
+<l>Zy spanne, my ten hoon, hier toe met Cyrus aan:</l>
+<pb n="48"/>
+<l>En als zy beiden zyn van misdaad overwonnen,</l>
+<l>Dan zal myn woede zich het offer kiezen konnen.</l>
+<l rend="; 1tab">Mandane zal hier straks verschynen met den Held:</l>
+<l>'k Gaf last, dat zy, van geen getuigen vergezeld,</l>
+<l>Elkandren spreeken. Ja, in weinige oogenblikken,</l>
+<l>Zal dees byeenkomst van hun lot, en 't myne schikken.</l>
+<l>Mandane wilde 't, en zy zal zich zien voldaan.</l>
+<l>Maar, doodelyk vermaak, hoe duur zult gy haar staan!</l>
+<l>Die vergenoeging zal het leven haar doen missen.</l>
+<l>Ik zie haar; smooren wy nog die geheimenissen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Mandane, Cleone</hi>'.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Een zoon, Mevrouw, die voor u neêr knielt, vergt my af,</l>
+<l>Dat ik al 't recht, het welk my Cyrus op zich gaf,</l>
+<l>Stelle in de waagschaal, om uw bede te vernoegen.</l>
+<l>Ik zwichte, en wil my wel naar zyn begeeren voegen.</l>
+<l>Ik vlei me ook niet: ik weet myn voordeel loopt gevaar;</l>
+<l>'k Verlies het ligt, tenzy myn hand het stutte: en 't waar'</l>
+<l>Voor my voorzichtigst, eerst myn huuwlykstoorts te ontsteeken,</l>
+<l>Voor u te gunnen met den Perziaan te spreeken.</l>
+<l>Nochtans, gy zult hem zien. Toon, mint gy hem, geen spyt:</l>
+<l>Bezwaar zyn ziel ook niet met vruchteloos verwyt:</l>
+<l>Zyne ontrouw te uwaart doet hem straf genoeg verwerven;</l>
+<l>En hy vind niet in my, dat hy in u moet derven.</l>
+<l>Draag boven alles zorg, Mevrouw, dat uwe klagt</l>
+<l>Zyne uitgedoofde hoop niet weêr te ontvonken tracht.</l>
+<l>Ik ken hem, 'k weet, hy laatdoor de eerzucht zich betoveren:</l>
+<l>Dat de enk'le grootheid hem verblind, en kan veroveren;</l>
+<l>En dat hy zekerlyk u al het voordeel gaf,</l>
+<l>Indien uw Scepter wierd gewoogen by myn' staf.</l>
+<l>Maar denk, dat hy, en d'een' en d'and'ren kwyt zou raaken;</l>
+<l>En gy niets meer bezit, dat hem kan grooter maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ach! staak, Mevrouw, u te bekomm'ren zonder reên.</l>
+<pb n="49"/>
+<l>Kunt gy gelooven, dat myn ziel zich dus verkleen,</l>
+<l>Of hulp zoek' by den glans van Grootheên; om de zinnen</l>
+<l>Door haar te blinden, en dus harten te verwinnen?</l>
+<l>'t Is waar, dat Cyrus my voorheen behaagd heeft, en</l>
+<l>'k Geloofd heb, dat hy my beminde; ja, 'k beken,</l>
+<l>Die dwaaling was my waard. Maar wylik ben bedroogen,</l>
+<l>Bevryd myn hart zich met het oop'nen myner oogen</l>
+<l>En word thans enkel van myn glorie aangedaan.</l>
+<l>Doch Cyrus kon nog zyn gedreeven door den waan,</l>
+<l>Dat ik hem minn'. Men moet hem uit zyn dooling trekken:</l>
+<l>Ik moet, myn mond voor al moet zelf hem dit ontdekken.</l>
+<l>En met dit oogmerk is 't, dat ik hem wacht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Ik zou</l>
+<l>Of zeer bedroogen zyn, Prinses, of ik beschouw</l>
+<l>Door 't midden van die spyt een overblyfzel breeken</l>
+<l>Der vlam, niet recht gedoofd, en ligt'lyk weêr te ontsteeken</l>
+<l>Door 't voorwerp, dat haar heeft gewrocht. Neen, zie hem niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Gy schroomt voor Schipbreuk, daar ge u in de haven ziet.</l>
+<l>'k Heb, om d'Ondankb're weêr aan my te doen gedenken,</l>
+<l>Na eens te zyn versmaad, geen kroon, als gy, te schenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Zeer ligt schonkt gy hem een rampzaal'ge min; waar door't</l>
+<l>Gebeuren konde, dat gy beiden 't licht verloort.</l>
+<l>Ducht eene wraak, waar toe myne eer my zou verplichten:</l>
+<l>Denk, dat hier alles moet voor myn vermogen zwichten;</l>
+<l>Dat ik gevoelig ben voor hoon; en, hoe 't ook zy,</l>
+<l>Dat ik... Maar Cyrus koomt.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus, Mandane, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 1tab">Wat vordert gy van my?</l>
+<l>Dat ik 't verbreeken van myn trouw als noch herhaale?</l>
+<pb n="50"/>
+<l>Waar toe het geen my kwetst gevergd ten tweeden maale?</l>
+<l>Hebt gy dan 't woord niet der Prinsese?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Zy, myn Heer,</l>
+<l>Wenschte u te spreeken; en, verr' dat myn Zoon het weer'</l>
+<l>Door minnenyver, stemt hy 't toe. Gy ondertusschen</l>
+<l>Volvoer, 't verslindend vuur des oorlogs uit te blusschen.</l>
+<l>Gy weet van welk een bloed ik de aarde kleuren zag.</l>
+<l>'k Wil 't wel vergeeten; laat ons denken aan 't verdrag:</l>
+<l>'t Is alles vaardig, 'k ga aan 't outer u verbeiden;</l>
+<l>Verspil geen' tyd.</l>
+<stage><hi rend="i">tegen Mandane</hi>.</stage>
+<l rend="; 1tab">Myn Zoon zal derwaarts u geleiden;</l>
+<l>Stel zyne teed're hoop niet langer uit, Mevrouw.</l>
+<stage><hi rend="i">tegen Cyrus</hi>.</stage>
+<l>Gy, Vorst, weet uw belofte, en waar ik op vertrouw.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Cyrus, Mandane</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Gy gaat dan haaren Zoon in zynen wensch vernoegen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi></speaker>
+<l>Ik zal me, als gy, naar al wat ik beloofd heb, voegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ik wilde 't, en heb des geen reden tot beklag,</l>
+<l>Mevrouw. Maar nu ik vry en dwangloos spreeken mag,</l>
+<l>Belvde ik u, myn hart dorst heim'lyk, dat dit scheien</l>
+<l>Voor 't minst niet gantsch vernoegd geschied zou zyn, zich vleien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi></speaker>
+<l>Hoe! En waar op had gy deeze yd'le hoop gegrond?</l>
+<l>Was ik u trouw verplicht, na ge uw verbint'nis schond?</l>
+<l>En streelde, ô wreed vermaak! het denkbeeld van de smarte,</l>
+<l>Die om uw' afstand my zou treffen, u het harte?</l>
+<l>Ach! Van uw offer trokt gy dus te zoet een vrucht;</l>
+<l>En ik waar' doemenswaard, dat ik de teed're zucht</l>
+<pb n="51"/>
+<l>Eens Minnaars, of veel eer eens Bruigoms, beter waardig</l>
+<l>Een zuiver hart dan gy, vergold zoo onrechtvaardig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>ô Hemel! 't Is dan waar, dat uw ontrouw gemoed</l>
+<l>Voor myn'Meêminnaar blaakt door eenen nieuwen gloed!</l>
+<l>Wat zegge ik, nieuwen gloed? Een liefde, zoo volkoomen,</l>
+<l>Heeft in een' enk'len dag uw hart niet ingenoomen.</l>
+<l>Myn Medeminnaar... Goôn! Nooit had ik zulks verwacht.</l>
+<l>Ik had geloofd uwe eer te kwetsen, wen ik dacht,</l>
+<l>Dat, daat ik op 't gerucht der banden, die u drukken,</l>
+<l>Verachtte om Lauweren, voor my gereed, te plukken:</l>
+<l>Daar ik het zeegryk veld, den roem, die my omscheen,</l>
+<l>Triomf en krygsgeluk verliet om u alleen:</l>
+<l>Op dat ik hier myn bloed en leven u mogt schenken,</l>
+<l>Gy, onstandvastig uw gegeeve trouw kost krenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Wat raakte uw drift, en wat verplichtte uw yver my?</l>
+<l>Had ik te weinig aan de rampen, die ik ly',</l>
+<l>Tenzy de gruuwzaamheên van 't breeken uwer eeden,</l>
+<l>En uw verradery zich met de afgrys'lykheden</l>
+<l>Van myn gevangenis vereenden? Waarom liet</l>
+<l>Gy me in de slaverny, hoe zwaar ze ook drukte, niet?</l>
+<l>Ik had my zelve dan met streelende gedachten</l>
+<l>Bedriegen konnen, en myn hartewee verzachten;</l>
+<l>'k Had me overreed, dat de eer van me uit myn boei te ontslaan</l>
+<l>Het laatst wierd uitgesteld, als grootste van uw daân:</l>
+<l>Of dat uw hart [voor 't minst waar my die troost gebleeven]</l>
+<l>De min alleen vergat, om voor den roem te leeven.</l>
+<l>Maar neen, gy koomt, ja vliegt. En waarom? Ach! alleen,</l>
+<l>Om uw verachting my te toonen, herwaarts heen:</l>
+<l>En schenkt me uwe ongenâ oneindig, niet te vrede,</l>
+<l>Tenzy my leev'rende aan een' Medeminnaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 1tab">Wreede!</l>
+<l>Moest ik, moest myne hand u dan geleiden, daar</l>
+<l>Een heilloos staal u zou ter neêrslaan voor 't altaar?</l>
+<pb n="52"/>
+<l>Een wreede Koningin, vervoerd van Helsche woede,</l>
+<l>Waart gy tot offerhand geschikt. Dat ik u hoed'de</l>
+<l>Is myne misdaad. Ja, gebracht tot deezen nood,</l>
+<l>Van u te moeten zien in de armen van den dood,</l>
+<l>Of eens Meêminnaars, heb ik my geenszins beraaden.</l>
+<l>ô Ysselyke straf! ô Foltering! Belaaden</l>
+<l>Om u een huwelyk, my dood'lyk, voor te slaan,</l>
+<l>Moest ik my zelv', myn hart verzaaken. U te raân,</l>
+<l>U te overreeden had ik als myn wit te aanschouwen.</l>
+<l>'k Heb dit volbracht. Gy gaat aan Ariantes trouwen;</l>
+<l>Ik sterf gewillig. Maar, daar ik het licht verlies,</l>
+<l>En om uw leven te verzeekren 't graf verkies,</l>
+<l>Vergun aan mynen geest, het denkbeeld meè te draagen,</l>
+<l>Dat ik niet zy gedoemd, kunt gy my niet beklaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Wat hoor ik? Groote Goôn! hoe zwaar heb ik misdaan!</l>
+<l>Ik heb den braassten Held met valsche schuld belaân!</l>
+<l>En hem verdacht, zelfs op den stond, dat hy zyn leven</l>
+<l>Opoffert om my proef van zyne trouw te geeven!</l>
+<l rend="; 1tab">Ach, Heer! is ooit uw hart voor my ontvonkt geweest;</l>
+<l>Kent gy de ontemb're kracht der liefde op onzen geest,</l>
+<l>Verschoon een dwaling, maar alleen uit haar gereezen.</l>
+<l>Een hart, dat teêr is, word gescheurd door eind'loos vreezen.</l>
+<l>'k Waar min gevallen, had ik minder min gehad.</l>
+<l>'k Bekenne, nooit had ik gelooven moeten, dat</l>
+<l>Een Held, wien zoo veel roem tot heden toe bedekte,</l>
+<l>Den luister zyner daân met trouwloosheid bevlekte.</l>
+<l>Maar was 't wel mooglyk, dat ik u verloor, en niet</l>
+<l>De reden te gelyk my in dien staat verliet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ach! 't is te veel, ik ben volkoomen overwinnaar:</l>
+<l>Bezitter van uw hart trots ik myn' Medeminnaar.</l>
+<l>Dat Ariantes nu uw dierb're trouw geniet';</l>
+<l>Hy zelf moet nydig zyn als hy myn' heilstaat ziet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Hy! Zoude ik door een' echt, meer dan den dood te schuuwen,</l>
+<pb n="53"/>
+<l>Aan 't voor werp van myn' haat voor altoos kunnen huuwen!</l>
+<l>Gy 't lyden kunnen, Heer? 'k Word by 't altaar gewacht,</l>
+<l>En ga daar daadlyk heen; maar om te zyn geslagt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Geslagt! Wat gruuwzaam woord!</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 2tab">Gelukkig nog, bevredigt</l>
+<l>Myn bloed het zuiverst hart, te roekeloos beledigd!</l>
+<l>Kan ik, dien hoon aldus uitwissende, daar van</l>
+<l>Te veel vergieten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l rend="; 1tab">Ach! wat deed ik wreedaard dan!</l>
+<l>Had ik niet, zonder ooit het stilzyn te verbreeken,</l>
+<l>Van myn bezweeke trouw uw' argwaan moeten kweeken?</l>
+<l>'k Was schuldig zwygende, en stak uwe trouwtoorts aan:</l>
+<l>Gy legt uw dwaaling af, om naar het graf te gaan.</l>
+<l>Neen, moet ik tot dien prys uwe achting wederkrygen,</l>
+<l>Herneem uw dwaaling, laat ik schuldig zyn, en zwygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Hebt gy geloofd, dat ik my haastte naar 't altaar,</l>
+<l>En van myn vyanden den wreedsten koos; om daar,</l>
+<l>'t Onzaalig offer van 's Lots eigenzinnigheden,</l>
+<l>Een hand, aan u voorlang verpand, dien te besteeden?</l>
+<l>Verlaat deez' waan, myn Heer. Door eedlen yver vlood</l>
+<l>En zocht ik aan den voet van Tomyris den dood.</l>
+<l>Dit was het offer, 't welk ik aanbood haarer woede.</l>
+<l>Klaag dan niet langer, als ik naar de strafplaats spoede,</l>
+<l>Dat gy der dwaling my ontrukt, maar tevens 't graf.</l>
+<l>Ten prooje geeft. Gy neemt den schrik daar voor my af.</l>
+<l>Ja, 'k voelde eene yzing, Heer, waar by geen smart kan haalen,</l>
+<l>Myn Mededingster ziende al sneevend' zegepraalen.</l>
+<l>'k Sterf echter: maar myn lot is overschoon; wyl ik</l>
+<l>Met my uw hart voer in het uiterst oogenblik.</l></sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Gy wilt dan sterven, en durft u verbeelden, Wreede,</l>
+<l>Niets dan myn hart met u in 't eind'loos duister mede</l>
+<l>Te voeren? Hoop dit niet. 'k Zal voor u derwaarts gaan,</l>
+<l>En Tomyris myn bloed terstond...</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 1tab">Welk een bestaan,</l>
+<l>ô Hemel! Neen... Myn Heer...</l></sp></div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus, Mandane</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>, <hi rend="i">tegen Tomyris</hi>.</speaker>
+<l rend="; 2tab">Ach! uit het spoor der reden</l>
+<l>Gerukt door wanhoop, die zyn ziel heeft afgestreeden,</l>
+<l>Wil hy zich zelv' by u, Mevrouw, betichten. maar</l>
+<l>Hy zoekt den dood, op dat hy my het leven spaar'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Goôn! Wat verneeme ik?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 1tab">'t Is op my, dat ge u moet wreeken:</l>
+<l>'k Ben onverbiddelyk gebleeven voor zyn smeeken.</l>
+<l>Indiengy had gehoord, wat poogingen hy deed;</l>
+<l>Hoe hy, ten dienst uws Zoons, naar uwen wensch zich kweet...</l>
+<l>Neen, hy kon zyn belofte onmooglyk beter houwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>, <hi rend="i">tegen Tomyris</hi>.</speaker>
+<l>Laat ik nu meê myn zwak en misdryf u ontvouwen.</l>
+<l>Ik ben het, wien alleen het u te straffen voegt.</l>
+<l>Mandane waar gereed; uw Zoon wierd vergenoegd:</l>
+<l>Maar 't naadrend heil van een' Meêminnaar deed myn lippen</l>
+<l>Verwytingen, in spyt van myn belofte, ontslippen.</l>
+<l>Gy ziet daar van 't gevolg: wreek u, doe my vergaan.</l>
+<l>Myn dood alleen kan haar van haar belofte ontslaan.</l></sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ja, 'k zal my wreeken van uw trouwloosheid. Myn Wachten.</l>
+<l>Beef, trotze Vyandin: zie, hoe 'k my laat verachten.</l>
+<l>'t Is tyd, besluit. Uw lot hang' van uw woorden af.</l>
+<l>Doe keuze in 't einde van myn' Zoon, of van het graf</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Men doe my sterven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">Wel; uw val is vast bezwooren.</l>
+<stage><hi rend="i">Tegen de Lyfivacht</hi>.</stage>
+<l>Men slagte in d'uitgang van dees plaats haar aan myn' tooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ontmenschten, blyft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Draagt zorg, dat ik gehoorzaamd zy.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Barbaarsche Koningin! En Goden, gy, die my</l>
+<l>Verraadt! Zyt gy, als ik, geboeid en zonder krachten,</l>
+<l>Dat gy de onnozelheid laat door het misdryf slagten?</l>
+<l>Wat wacht gy? Wreekt my, wreekt uzelv': 't worde al vergruisd</l>
+<l>Door uwen donder, by gebrek van myne vuist!</l>
+<l>Maar ach! zy hooren niet: en 't voorwerp myner minne</l>
+<l>Word ligt dit oogenblik..! Hoe yze ik..! ô Vorstinne,</l>
+<l>Ik smeek, herroep een' last, zoo schrikkelyk en wreed.</l>
+<l>Wat vordert gy van my? Beveel, ik ben gereed.</l>
+<l>Myn Perzen, moet het zyn, staan af van hun Laurieren,</l>
+<l>Zy trekken daadlyk weg, en doen u zegevieren.</l>
+<l>Slaak myn Prinses, en maak myn boei nog eens zoo zwaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy wilt haar Helper zyn, en zyt haar Moordenaar.</l>
+<pb n="56"/>
+<l>Die gloed van liefde ontsteekt het wraakvuur in myne ader.</l>
+<l>Doch eind'lyk, 't is gedaan; Aripithes treed nader.</l></sp></div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>Mevrouw, de Vorst uw Zoon...</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 3tab">Wel nu, verklaar u.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l rend="; 4tab">Ach!</l>
+<l>Hy kwam, en hy ontrukte ons offer aan den slag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Vermogend Godendom!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 2tab">En wat heeft u doen wachten,</l>
+<l>Om hem, tot loon van zoo veel stoutheid, zelv' te slachten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>'k Had mooglyk hem gestraft door de eerste drift verheerd:</l>
+<l>Maar al myn pooging werd veryld, hy triomfeert.</l>
+<l rend="; 1tab">Mandane bukte alreê voor 't wreekend lemmer neder;</l>
+<l>Men wacht den slag: een schreeuw dringt door en stuit dien weder:</l>
+<l>De Prins vertoont zich, maakt een' weg door 't krygsvolk, stelt</l>
+<l>Voor de Prinses zich, en ontwringt haar met geweld</l>
+<l>Den dood. 't Is vruchteloos, dat myn getrouwe Wachten,</l>
+<l>Door myne zorg geschaard, voor u 't gevaar verachten;</l>
+<l>Hun yver gaat te leur, gelyk my de uitkomst toont,</l>
+<l>Die uw weêr spann'gen Zoon met de over winning kroont.</l>
+<l>In één woord, uw Gevange is thans in zyne hoede.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Men offer' dien verraâr aan myn gerechte woede...</l>
+<l>Doch zyn verwatenheid kon verder overslaan.</l>
+<pb n="57"/>
+<stage><hi rend="i">tegen Aripitbes</hi>.</stage>
+<l>Vertrek: doe Cyrus weêr in zyn verzeekring gaan.</l>
+<stage><hi rend="i">tegen Cyrus</hi>.</stage>
+<l>Gy, denk niet, dat zy nu myn wraak niet hebb' te schroomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Goôn! die haar hebt behoed, ô! maakt uw werk volkoomen!</l></sp></div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Neen, vlei u daar niet meê... Maar nodigst is, dat wy</l>
+<l>Dien wederspanneling Mandane ontrukken: hy...</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Mevrouw, daar is hy zelf.</l></sp></div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Wat durft ge u al vermeeten?</l>
+<l>Regeert gy reeds myn volk, in myne plaats gezeeten?</l>
+<l>Hergeef my myn Gevange; of door myn ongeduld</l>
+<l>Wordze u ontrukt, en 't al met doodschen schrik vervuld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Hoe! kan my grooter schrik, wat ook gebeur', bevangen?</l>
+<l>'k Heb haar, die ik aanbidde, in d'arm des doods zien prangen.</l>
+<l>ô Moeder, kan uw haat dan nooit zyn afgelegd!</l>
+<l>Rampzaal'ge zoon! Dit was de my verzekerde echt?</l>
+<l>'t Was niets dan veinzen. Dat uw goedheên my verblydden</l>
+<l>Was, om met meer gevoel, me op 't wreedst door 't hart te snyden.</l>
+<l>Ach! 't is in 't eind te veel; en dit trouwloos bestaan</l>
+<pb n="58"/>
+<l>Doet al myn tederheid voor u geheel vergaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Wat raakt me uw tederheid, of haat? Welke is verwoeder,</l>
+<l>Ondankb're? Zie in my slechts eene ontmenschte Moeder.</l>
+<l>Gy zyt myn Zoon niet meer. Het staal had, wreede spyt!</l>
+<l>My, zonder u, van myn Meêminnaares bevryd.</l>
+<l>Meêminnaares! ô Goôn! wat zeide ik!.. Moet myn lippen</l>
+<l>De schaamte, dat de min my overwon, ontslippen?</l>
+<l>Die droeve min was steeds een diep geheim. Barbaar,</l>
+<l>Gy dwingt haar, dat zy zich den dag vertoone. Maar</l>
+<l>Ik zal u straffen voor myn schuldbelydenisse,</l>
+<l>Als ik die smet in 't bloed van uw Prinsesse afwisse.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Gy wilt haar' dood dan: 'k zie, daar is geen keeren aan.</l>
+<l>Aan 't Noodlot, dat haar drukt, dient men haar af te staan.</l>
+<l>Wat is 't ook, dat my moet tot haar bescherming noopen?</l>
+<l>Zwoege ik niet, eindeloos veracht? Wat mag ik hoopen?</l>
+<l>Myn vyand, dien haar hart verkiest, zal t'een 'gen tyd</l>
+<l>De vruchten plukken van myn teêr betoonde vlyt.</l>
+<l>Welaan: doch laaten we ons in 't straffen samenvoegen:</l>
+<l>Dien myne gramschap, ik zal uwe wraak vernoegen:</l>
+<l>Weêrstreeven we onderling ons niet in 't billyk woên.</l>
+<l>'k Leev're u Mandane, slagt gy Cyrus my ten zoen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Weet Ariantes, waar hy zich toe gaat verplichten?</l>
+<l>Myn haat, verbeeld gy u, zal voor myn liefde zwichten.</l>
+<l>Gy dwaalt. Ik ga naar myn' Ondankb're; dat hy kiez',</l>
+<l>Myn' scepter aanneem', of het levenslicht verliez'.</l>
+<l>Wraakt hy myn goedheên, en kan hem het graf behaagen,</l>
+<l>Zoo koome ik u 't voldoen van uw belofte vraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Gy zoud het voorwerp van uw liefde konnen doôn?</l>
+<l>Aan welk een Moeder ben ik 't licht verschuldigd, Goôn!</l>
+<l>'k Geloofde, van myn' gloed besluitende tot d' uwen,</l>
+<l>Dat ge op het uiten van den naam des offers gruuwen,</l>
+<l>En myn Prinses, ter gunst van Cyrus, spaaren zoud.</l>
+<pb n="59"/>
+<l>Doch nu al myne zorg niets baat tot haar behoud,</l>
+<l>Zoo weet: Mandane, door myn tederheid te wraaken,</l>
+<l>Wil vrucht'loos my zoo rel van haat, als min, doen blaaken.</l>
+<l>Een straal van haar gezicht vermurwt me: en zag ik, dat</l>
+<l>Zy door u sneuvelde... Weet ik... Ach! Moeder, wat</l>
+<l>In razerny...? Kan ik haar hevigheid bepaalen?</l>
+<l>'t Bloed van alle and'ren zou dat dierbaar hoofd betaalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>'k Moet u dan noopen, om te treeden op myn spoor.</l>
+<l>Wel; 'k ga u, met het geene ik min te slagten, voor.</l>
+<l>Zoo leere ik u, u van een wreede schoonheid wreeken.</l>
+<l>Maar als de laffe drift, waar voor gy zyt bezweeken,</l>
+<l>My haar daar na onthoud, dan zal myn hand, gesard,</l>
+<l>My haar doen vinden in het binnenst van uw hart.</l></sp></div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l>Wreedaartig voorbeeld!... Ben ik magtig 't naar te streeven?</l>
+<l>Ach! dat me uw hand veel eer beroove van het leven!</l>
+<l>Onbuigb're Moeder, paai uw raazende yslykheên,</l>
+<l>Koom, en ontruk uw' zoon Mandane, en 't hart met een.</l>
+<l>Maar ben ik nog uw zoon, daar, zonder ute ontroeren,</l>
+<l>Bloeddorstige, ge u laat tot kindermoord vervoeren?</l>
+<l>Hoe gruuwzaam een ontwerp smeedge in uw wreed gemoed!</l>
+<l>Doof voor de stem der min, gelyk voor die van 't bloed,</l>
+<l>Acht gy geen paalen, door Natuur gesteld, geheiligd,</l>
+<l>In 't woestste hart erkend, geëerbied en beveiligd.</l>
+<l>Voorkoomen wy de ontmenschte, en laat ons, eer zy 't wacht...</l></sp></div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage><hi rend="sc">Ariantes, Orontes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Orontes</hi>.</speaker>
+<l>Een hevigste aanval, Heer, van 's vyands gansche magt</l>
+<l>Heeft schielyk 't al in schrik en wanorde als gedompeld.</l>
+<pb n="60"/>
+<l>Men vlood: het leger word bestormd en overrompeld.</l>
+<l>Ach! vlieg ter hulpe; of stel u voor, dat binnen kort,</l>
+<l>En Cyrus en Mandane aan ons ontweldigd word.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>.</speaker>
+<l>Goôn! zoudt gy myne ziel zoo wreed een' slag doen lyden!</l>
+<l>Welaan, ik ga, bezield van woede en liefde, stryden:</l>
+<l>En keer, indien myn moed door de uitkomst word verraân,</l>
+<l>Om myn' Meêminnaar op dees plaats te doen vergaan.</l></sp>
+<stage><hi rend="i">Einde des Vierden Bedryfs</hi>.</stage></div></div>
+<div type="act">
+<pb n="61"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>'k Ben eind'lyk overheerd; en 't Noodlot, wreed verbolgen,</l>
+<l>Maalt my op elk een' tred den dood, dien 't my doet volgen.</l>
+<l>Myn oog verneemt, daar ik den scepter heb gez waaid,</l>
+<l>Slechts stervenden en doôn, aan allen kant gezaaid.</l>
+<l>En niets, niets kan my aan de rampen, die my drukken,</l>
+<l>Als een roemruchte val, daar 't al van waagt, ontrukken.</l>
+<l>Het is by Cyrus, dat ik dien verwachten ga.</l>
+<l>Het overwinnend heir ontruk' hem my, 't besta</l>
+<l>Te naderen, het waag' te dringen door de schaaren,</l>
+<l>Die ik den toegang tot zyn' kerker doe bewaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Stel, bidde ik, u toch niet aan 's krygsvolk woede bloot;</l>
+<l>Berg u: Issédon bied u bystand in den nood.</l>
+<l>Vertrek met Cyrus; laat uw Zoon u vergezellen:</l>
+<l>Ligt kunt gy, wykende 't vervallen nog herstellen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ach! dat myn vyanden veel eer my doen vergaan!</l>
+<l>Hoe! zoude ik daar myn Zoon gebied, als Onderdaan</l>
+<l>Verschynen? ik, die 't recht van zyn geboort' vertreede;</l>
+<l>Op dat ik hier den troon, die hem behoort, bekleede?</l>
+<l>Neen, voor myne eerzucht waar dit noodlot veel te straf:</l>
+<l>'k Leefde op den zetel, en de dood werp' my daar af.</l>
+<l rend="; 1tab">Weet ondertusschen, dat myn val, niet te vermyden,</l>
+<l>De zwaarste smart niet is, die myne ziel moet lyden.</l>
+<l>'k Laat twee Gelieven, op het hoogste vergenoegd:</l>
+<l>Zie daar myn wreedste pyn, en wat my yslyk wroegt.</l>
+<l>Verwoede wanhoop! Dwang des Noods! Te moeten sneeven,</l>
+<pb n="62"/>
+<l>En myn Meêminnaares den doodsteek niet te geeven!</l>
+<l>De Trotse triomfeert, braveert myn' toorn. Wat hoon!</l>
+<l>Aan mynen wrok ontrukt door myn' gehaaten Zoon.</l>
+<l>Koom, zegevieren we ook. Haar Minnaars bloed te plengen</l>
+<l>Is meer dan voor de helft haar zelv ter slachting brengen.</l>
+<l>Men offer' Cyrus. 'k Ga hem vinden daar hy is:</l>
+<l>Hy zy het, die zyn lot, en tevens 't myn besliss'.</l>
+<l>'k Wierd door zyn oog verrast, en myner ondanks teder:</l>
+<l>Maar wen ik 't ooit belyd' tot zoo verr' my verneder,</l>
+<l>En hy me in 't eind veracht, dan zie hy, my ter wraak,</l>
+<l>Dat ik een' toegang tot zyn hart door 't staal my maak'.</l>
+<l>Hy koomt. Alziende Goôn, die weet, wat ik moet lyden,</l>
+<l>Wilt van eene offerhand, zoo dierbaar my bevryden!</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Tomyris, Cyrus, Gelonide</hi>, <hi rend="i">Gevolg</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>De zege toont zich, Heer, voor u. Denk echter niet,</l>
+<l>Dat gy my immer, laf voor u geboogen ziet.</l>
+<l>Het bloed myn 's Volks dekt de aard; hun droeve schimmen wachten,</l>
+<l>Dat myn rechtvaardigheid u' voor haar rust doe slagten:</l>
+<l>Ja, 't uwe word geëischt voor dat vergooten bloed.</l>
+<l>Laat ik niet zyn genoopt, nu ik my wreeken moet:</l>
+<l>Want, in het uiterste, waartoe ik ben gekoomen,</l>
+<l>Het meest wanhoopende ben ik het meest te schroomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Wat doet u tot zoo naar een wanhoop overslaan?</l>
+<l>Men dwingt u niet om van den Rykstroon af te gaan.</l>
+<l>Nooit wierd ik door myn' wensch naar uwe kroon gedreeven:</l>
+<l>Schenkt my het krygslot haar, ik zal ze u wedergeeven.</l>
+<l>Het is haar glans niet, die myn oog hier treft. ô Neen:</l>
+<l>'k Verlaat dit oord terstond, geef my Mandane alleen.</l></sp>
+<pb n="63"/>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Neen; tot wat tegenspoed ons 't Lot verwyzen kunne,</l>
+<l>Geloof niet, dat men ooit Mandane u weêr vergunne.</l>
+<l>Doch de oogenblikken zyn te duur: des hoor in 't kort,</l>
+<l>Hoe 't hart van Tomyris voor u ontwapend word.</l>
+<l>Uw volk ontruime straks dees tenten, en myn landen:</l>
+<l>Ruk mynen Onderdaan uit hun bebloede handen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Ik zou myn stem?.. Waar heen laat ge uw gedachten gaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Nog eens, zy wyken; of het is met u gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Kent gy my wel, als gy door deeze dreigementen</l>
+<l>U voorstelt in myn ziel de vrees te zullen prenten?</l>
+<l>'k Zocht honderd werven in 't gevaar den dood, Mevrouw:</l>
+<l>'k Zag dien te na dan dat hy my verbaazen zou.</l>
+<l>'t Is waar, dat ik onlangs gevreest heb voor uw woeden:</l>
+<l>'t Gevaar trof toen te waard een hoofd; 'k moest het behoeden:</l>
+<l>Mandane was gedoemd; myn hart bezweek van schrik;</l>
+<l>'k Verbleekte, ik sidderde in dat gruuwzaam oogenblik.</l>
+<l>Maar ze is gered; en 't zyn myns Medeminnaars zorgen</l>
+<l>Die voor uwe afgunst my haar leven nu verborgen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Die Medeminnaar is myn eigen bloed, en word</l>
+<l>Zeer ligt my heel gelyk, als hem myn voorbeeld port.</l>
+<l>Stel dat zoo waardig hoofd niet bloot aan die gevaaren:</l>
+<l>De tyd zal mogelyk myn gramschap doen bedaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Neen, yd'le hoop, dat zich uw woede still'. Heb ik</l>
+<l>Nog straks niet zelf gehoord, gy, Goden, zaagt myn' schrik!</l>
+<l>Uit een' ontmenschten mond 't herroep'loos vonnis koomen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Gy denkt, ondankb're, aan 't geen myn haat heeft ondernoomen,</l>
+<l>En rekent niets, het geen myn liefde heeft verricht:</l>
+<pb n="64"/>
+<l>'t Is u vergeeten, dat gy 't licht haar zyt verplicht.</l>
+<l>Met welk een koude en schrik zag ik het staal geheeven!</l>
+<l>Hoe wierd ik tusschen u en mynen Zoon gedreeven!</l>
+<l>Zeg, Wreede, heeft myn hart een oogenblik gestaan,</l>
+<l>Of zich op d'eisch des bloeds, en dien der min beraân?</l>
+<l>Maar wat besta ik? Goôn! Ik kan zyn' haat beschouwen,</l>
+<l>En zondet bloozen, dat ik hem beminne ontvouwen!</l>
+<l>Ik breng my zelve tot de wanhoop, yslyk wreed,</l>
+<l>Dat ik 't geene ik my schaame, en vruchteloos, beleed!</l>
+<l>Wil op uw zege vry, zy is volkoomen, boogen:</l>
+<l>Zie Tomyris, haar' trots bez weeken voor uwe oogen:</l>
+<l>Maar schroom een wraak, waar toe ik oversla. Welaan,</l>
+<l>Alleen een woord nog: wilt gy leeven, of vergaan?</l>
+<l>Die keus is wichtig: wik dan wel voor 't overhellen,</l>
+<l>En zeg my 't vonnis voor, het welk my slaat te vellen.</l>
+<l>Spreek, 't is te lang, dat ik myn gramschap wederhouw'.</l></sp>
+<sp>
+<speaker><hi rend="sc">Cyrus</hi>.</speaker>
+<l>Indien myn lot door u bepaald moet zyn, hoe zou</l>
+<l>Ik kunnen kiezen, en myn' roem niet schand'lyk krenken?</l>
+<l>'k Wacht van de Goôn, dat zy de zege of dood my schenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>En ondanks deeze Goôn schikke ik uw lot. Ga heen,</l>
+<l>Keer in uw' kerker, en verwacht den dood alleen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ja, sterven zult gy; hoop op geen vergiffenisse:</l>
+<l>'t Is nodig, dat uw bloed de schande van my wisse.</l>
+<l>Koom eedle wanhoop, koom, gy opent my 't gezicht,</l>
+<l>Verdryf de onwaarde min, hergeef my aan myn' plicht!</l>
+<l>Maar 'k zie Aripithes. Helaas! wat moet ik vreezen</l>
+<l>Uit eene ontroering, klaar op zyn gelaat te leezen?</l></sp></div>
+<div type="scene">
+<pb n="65"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>Mevrouw, ik kondige u een' droeven omkeer aan;</l>
+<l>'t Geweld staat Cyrus boei te breeken; 't is gedaan.</l>
+<l>Zyn wacht weêrstaat, maar moet voor de overmagt wel bukken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Wat kieze ik, Hemel! in deez' drang van ongelukken?</l>
+<l>Koom, volg my vaardig... Wat vertooning..! Groote Goôn!</l>
+<l>Wien zien myne oogen? Myn' ter dood gewonden Zoon!</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Ariantes, Orontes, Aripithes, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ariantes</hi>, <hi rend="i">door Orontes ondersteund</hi>.</speaker>
+<l>Vorstin, denk op u zelv; de Perziaanen spoeden,</l>
+<l>En maaken haast met u een einde van hun woeden.</l>
+<l>Geen uwer Zoonen heeft vermogt hun staal te ontgaan;</l>
+<l>Niets meer ontbreekt hen dan de Moeder neêr te slaan.</l>
+<l>Myn min heeft tegen my uw gramschap aangedreeven,</l>
+<l>Laat nu myn dood me uw hart van Moeder wedergeeven.</l>
+<l>Wreek my, wreek u, wreek heel het menschelyk geslacht:</l>
+<l>'t Is 't bloed van Cyrus, dat ik in den afgrond wacht.</l></sp>
+<stage><hi rend="i">Hy sterft</hi>.</stage></div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide, Aripithes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l>Ja, wacht het. 'k Zweer u by den Hemel, 'k zal 't u geeven;</l>
+<l>Ons allen wreeken: 't bracht al mynen om het leven.</l>
+<l>Gy Goden, die my hoort, wen ik myn' eed verbreek,</l>
+<pb n="66"/>
+<l>Dat uw verachting op myn hoofd zich daad'lyk wreek'!</l>
+<l>Zou ik den blikzem zien in uwe handen wetten,</l>
+<l>Myn' troon vergruizen, en geheel myn volk verpletten;</l>
+<l>Ik zelv gespaard zyn; en, ondraagelyke druk!</l>
+<l>Zou ik Mandane zien met Cyrus in geluk!</l>
+<l rend="; 1tab">Maar draalen wy niet, nu 't op 't uiterst is gekoomen;</l>
+<l>Indien ik wachte word myn offer my ontnoomen.</l>
+<l rend="; 1tab">Aripithes, hoewel ik my van uwe trouw',</l>
+<l>Door vaak betoonde vlyt genoeg verzekerd houw',</l>
+<l>Nochtans, wyl 'k nodig heb, tot mind'ring myner smarte,</l>
+<l>By een getrouwe hand een onverschrokken harte,</l>
+<l>Strekt zich uw yver tot zoo verre, en wacht ik van</l>
+<l>Uw' moed een grootsch bestaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l rend="; 2tab">Beveel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 3tab">Dood Cyrus dan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aripithes</hi>.</speaker>
+<l>'k Bedenk my niet, gy zult uw' wil zien naargekoomen.</l>
+<l>Ja, 't bloed van Cyrus, schoon 't het myne kost', zal stroomen.</l>
+<l>Myn drift baant my een' weg tot by hem: en, Vorstin,</l>
+<l>Myn hart staat voor de trouw van myne hand u in.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Tomyris, Gelonide</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Wat last gaaft gy daar!</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Door myn glorie voorgeschreeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gelonide</hi>.</speaker>
+<l>Hoe! de Overwinnaar heeft dan niets dat u doet beeven?</l>
+<l>Ach! dat dat doodsch bevel toch wederroepen zy:</l>
+<l>Om uwe goedheên, om uw eigen heil! Zoo gy</l>
+<l>Als niets kunt achten, dat ge u zelve gaat verderven,</l>
+<pb n="67"/>
+<l>Denk welk een gruuwel, dien men mint, dien te doen sterven!</l>
+<l>Hoor naar uw liefde.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<l rend="; 1tab">Zou ik hooren naar een' gloed,</l>
+<l>Dien 'k als een monster in myn hart versmooren moet!</l>
+<l>Een liefde, wreeder dan een Helsche Rasernyë!</l>
+<l>Myn bloed schreeuwt, Gelonide, en eischt, dat ik my vryë.</l>
+<l>Doch staakenwe yd'le reên: my rest een korte tyd:</l>
+<l>Dees zy geheel aan myn gevoeligheid gewyd.</l>
+<l>Dat boven alles haar Mandanes straf vernoege:</l>
+<l>'t Is tyd dat myne hand die Minnaars samen voege.</l>
+<l>De dood myns Zoons zy ons voor 't minst van een'ge vrucht:</l>
+<l>Hy wederstreeft niet meer... Wat hoor ik? Welk gerucht?</l>
+<l>Myn grootste Vyandin vertoont zich voor myne oogen!</l>
+<l>Word myn geliefdste wraak me, ô Goôn! door u onttoogen?</l></sp></div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Tomyris, Mandane, Gelonide, Cleone</hi>'.</stage>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>De goede Hemel heeft in 't eind myn beê verhoort:</l>
+<l>'t Geroep, dat door de lucht aan alle zyden boort,</l>
+<l>De schrik, de vlucht der Wacht, de vryheid myner gangen,</l>
+<l>Het zegt my alles, dat ik niet meer ben gevangen.</l>
+<stage><hi rend="i">tegen Tomyris</hi>.</stage>
+<l>Mevrouw, kan ik door u den Overwinnaar zien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi>.</speaker>
+<stage>*<hi rend="i">ter zyde</hi>.</stage>
+<l>Ach, Hemel!.. *Maar myn hart moet myne drift gebiên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Beledig Cyrus niet door ongegrond te vreezen:</l>
+<l>Hy kent geen' vyand, die niet wil gewapend weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tomyris</hi></speaker>
+<l>Hoe edelmoedig hy ook zy, 'k misdeed te veel,</l>
+<pb n="68"/>
+<l>Dan dat ik my met hoop op zyne goedheid streel'.</l>
+<l>Nochtans, om 't grootsch gemoed te neigen tot vergeeven,</l>
+<l>Herstelde ik reeds de helft van 't geene ik heb misdreeven;</l>
+<l>En binnen kort zal u niets meer te duchten staan.</l>
+<l>'k Heb last gegeeven uit zyn boeien hem te ontslaan:</l>
+<l>Aripithes, wiens vlyt en yver my behaagen,</l>
+<l>Heb ik de zorg van die verrichtinge opgedraagen.</l>
+<l>Doch wyl men toeft, ga ik, en dring, dat het geschied'.</l>
+<l>Vaar wel; wacht dat ge eerlang uw' Minnaar wederziet.</l></sp></div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Mandane, Cleone</hi>'.</stage>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Hem weerzien! Cleoné, dat woord doet my verbleeken;</l>
+<l>Myn bloed bevriest, ik beef, myn tong bez wykt in 't spreeken.</l>
+<l>Wat gaat zy dringen? wat, dan zyne dood alleen?</l>
+<l>Ach wreede! ontmenschte!.. Gaan we, en volgen wy haar schreên.</l>
+<l>Niets kan de ontroerenis van myne ziel verwinnen.</l>
+<l>Koom, en verlaat my niet...</l></sp>
+<sp>
+<speaker><hi rend="sc">Cleone</hi>'.</speaker>
+<l rend="; 1tab">Wat wilt gy gaan beginnen,</l>
+<l>Mevrouw? Wat zoeken in den algemeenen schrik?</l>
+<l>Ontzie 's Volks woede in hun wanhoopigst oogenblik.</l>
+<l>Vertoef; uw Held zal zelf verschynen aan uw voeten;</l>
+<l>En 't is op deeze plaats, dat wy hem wachten moeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Is 't mooglyk! Kan een hart, dat zoo veel liefde draagt,</l>
+<l>Den doodelyken angst verduuren, die het jaagt?</l>
+<l>Ik ys voor Cyrus lot! Wat heeft men voorgenoomen?</l>
+<l>De ontmenschte Tomyris doet alles van haar schroomen.</l>
+<l>Maar Artabazes koomt... Behoedt my, groote Goôn!</l>
+<l>De ramp, dien 'k vrees, staat op zyn droef gelaat ten toon.</l></sp></div>
+<div type="scene">
+<pb n="69"/>
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Mandane, Artabazes, Cleone</hi>'.</stage>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l>Ja, 'k breng de droefste maar der grootste tegenspoeden.</l>
+<l>Vorst Cyrus...</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l rend="; 2tab">Hemel! Hy is dood!</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l rend="; 3tab">Verhard in 't woeden</l>
+<l>Sloot wreede Tomyris voor eeuwig zyn gezicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ach! Ondersteun my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l rend="; 2tab">Kon de Fakkel, die ons licht,</l>
+<l>Een' gruuwel, daar Natuur verstomd voor staat, bestraalen?</l>
+<l>En kan ik het tafreel dier yslykheid u maalen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Spaar, Artabazes, my in 't minste niet, vaar voort:</l>
+<l>'k Wil Cyrus natreên in der Schimmen aak'lig oord.</l>
+<l>Ik heb hem doen vergaan; my rest niet dan te sneeven,</l>
+<l>En 'k zoek in dit verhaal het einde van myn leven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l>En ik, Mevrouw, moest naar de grootheid myner smart,</l>
+<l>Voor myne stem myn bloed doen spreeken uit myn hart.</l>
+<l rend="; 1tab">De zege toonde zich aan onze zy' volkoomen:</l>
+<l>Gy waart reeds veilig, en uw Wacht was weggenoomen;</l>
+<l>Wanneer ik Tomyris zie van een' and'ren kant</l>
+<l>Naar Cyrus ylen, met een pook in haare hand.</l>
+<l>Ik sidder, volg den stoet, die raazend haar vertelde;</l>
+<l>En tegen my zich voor des kerkers ingang stelde.</l>
+<l>Men vegt, een bloedstroom vloeit langs de aarde op' oogenblik:</l>
+<l>'k Dring in, de Scyten vliên, bevangen van den schrik.</l>
+<l>Ik nader eind'lyk met een ziel, door vrees bewoogen.</l>
+<pb n="70"/>
+<l>Wat voorwerp, groote Goon! vertoont zich aan myne oogen!</l>
+<l>Myn volk blyft staan en geeft een schreeuw, die yslyk is.</l>
+<l>Een troep Barbaaren sluit een' kring om Tomyris,</l>
+<l>Die driewerf, door 't geroep verhinderd noch getroffen,</l>
+<l>Doet in een vat, vol bloeds een hoofd ter nederploffen;</l>
+<l>En zegt op elk een reis, uit een geprangde borst,</l>
+<stage><hi rend="i">Verzadig u met bloed, waar naar gy bebt gedorst</hi>.</stage>
+<l>Elk rilt, elk siddert op die rede; en oogenblik'lyk</l>
+<l>Bevangt een doodsche stilte 't al, niet min verschrik'lyk.</l>
+<l>De Zon, als met een kleed van duisternis bedekt,</l>
+<l>Doet denken, dat zy dier vertooning zich onttrekt.</l>
+<l>Zelfs Tomyris, altoos tot wreedheid aangedreeven,</l>
+<l>Voelt op deez' stond heur' aart en woede haar begeeven:</l>
+<l>En doemende naar 't schynt, een zoo ontmenschte daad,</l>
+<l>Wend zy haare oogen af van 't geen haar hand bestaat.</l>
+<l>Wat oogen zouden ook dit deerlyk aanzien veelen?</l>
+<l>Wat hart zou willens in die misdaad kunnen deelen?</l>
+<l>'t Gelaat uw 's Minnaars, zich verbergende in het bloed,</l>
+<l>Toont niets dan ééne wonde aan myn ontsteld gemoed;</l>
+<l>Dat, vol gerechten schrik, daar vrucht'loos poogt de trekken</l>
+<l>Des Helds, die Azië verwonnen heeft, te ontdekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Ach! vliegen wy ter wraak.</l></sp>
+<sp>
+<speaker><hi rend="sc">Artabazes</hi>.</speaker>
+<l rend="; 1tab">Uw wenschen zyn vervuld.</l>
+<l>Het bloed der Scyten heeft gestroomd voor hunne schuld;</l>
+<l>En Tomyris zou zelv niet zyn verschoond gebleeven,</l>
+<l>Maar Cyrus schim ten zoen, aan onze wraak gegeeven:</l>
+<l>Doch, slaande een oog van zich, het welk den dood veracht,</l>
+<stage><hi rend="i">Te schikken van myn lot staat in myn eige magt</hi></stage>
+<l>Roeptze uit; en door de drift, die in haar heerscht, gedreeven,</l>
+<l>Grypt ze eene pook, treft zich, en eindigt straks haar leven.</l></sp>
+<pb n="71"/>
+<sp>
+<speaker><hi rend="sc">Mandane</hi>.</speaker>
+<l>Die Wreede! Zy ontwykt een welverdiende straf.</l>
+<l>My voegt niets als dat ik myn' Minnaar volge in 't graf.</l>
+<l>Om myne liefde moet hy 't roemryk leven derven:</l>
+<l>Myn trouw moet eeuwig ons vereenen door myn sterven.</l></sp>
+<stage><hi rend="spat">EINDE</hi>.</stage></div></div>
+</body>
+</text>
+
+</TEI.2>

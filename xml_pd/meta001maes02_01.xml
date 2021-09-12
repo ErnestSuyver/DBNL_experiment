@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Maes-Sluysche compas</title>
+                <author>Frank A. Metaal</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Maes-Sluysche compas</hi> van Frank A. Metaal in de zesde vermeerderde druk uit 1693. Het jaar van uitgave van de eerste druk is onbekend. 
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. A4v: Inweonders → Inwoonders :'Inwoonders van Maes-sluys die veel op de baren'</corr>
+                        <corr>p. 41: vreeseij → vreesen: 'Mogen u aenmercken met vreesen.'</corr>
+                        <corr>p. 49: Boor → Door: 'Door stormen ende vlagen.'</corr>
+                        <corr>p. 86: het foutieve strofenummer 6 is verbeterd in 9.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">meta001maes02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2012 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar universiteitsbibliotheek Leiden, signatuur: 1194 H 39</idno>
+                </bibl>
+                <p>Frank A. Metaal, <hi rend="i">Maes-Sluysche compas</hi>. Weduw de Groot, Amsterdam 1693 (zesde druk)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Maes-Sluysche compas</title>
+                <author>Frank A. Metaal</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Maes-Sluysche compas</title>
+                <author>Frank A. Metaal</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2012-09-10</date>
+                <respStmt>
+                    <name type="person">SW</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+        <body><cf><div type="chapter">
+
+        <pb ed="fol." n="A1r"/>
+<p>F.A.Metael, Maes-Sluysche Compas, Versien met veele aengename Liedekens, als mede eenige andere schoone Gedichten. Den sesden Druck vermeerdert en verbetert. t’Amsterdam, by de Weduwe de Groot, Anno 1693.</p>
+        </div></cf>
+<div type="chapter">
+
+    <pb ed="fol." n="A1v"/>
+<head rend="h3"><hi rend="i">Aen den goethertigen Leser ofte Sanger</hi></head>
+<p><hi rend="i">Beminde Leser ofte Sanger, wy brengen u liede te voorschyn dit tegenwoordige Liedt of Sangh-boeksken dat wy den naem hebben gegen van het Maes-Sluysche Compas, gy weet (ick spreeck tot die voornamelyck die veel op Zee varen.) hoe dat een Compas voor u hooghnoodigh is om u reyse wel te voltrecken, soo mede weet gy dat een mensch hobbelende en tobbelende door de onstuymige Zee van de Werelt oock yet dient dat hem strecke tot een Compas ende Noort-sterre om sijn</hi>
+    <pb ed="fol." n="A2r"/>
+<hi rend="i">leven handel en wandel daer na te schicken ende te reguleren, hoe men sich moet dragen in droefheyt en hoe men oock hem selven moet betonen in blytschap, want doch alle dingh heeft sijnen tydt het treuren ende het lagchen, het eerste daer toe wert ons in dese woeste Zee van de Werelt wel meest occasie  gegeven. Edoch alsoo nochtans den mensch t’eeniger tyd reden gevoelt om te verheugen (want het niet altydt even quaet en is) en het wel soo gaet dat men dan geern yet vermakelick en stichtelyck leest of singt na de bequaemheyt valt van de personen. Soo ist, dat UL. dit wercksken wert gepresenteert, wattet is in sich selven sulje best konnen oordeelen als gy het eens sult hebben doorloopen, en soo daer yet is dat UL. dient, gebruyckt het tot uwen besten ende Vaert wel.</hi></p>
+</div>
+<div type="chapter">
+
+    <pb ed="fol." n="A2v"/>
+<head rend="h3"><hi rend="i">Tot den Leser.</hi></head>
+<lg type="poem"><l><hi rend="i">Wie dat my wil doorsien, en dat met scherpe sinnen,</hi></l>
+<l><hi rend="i">Die sal in mijn gewis, seer veel fauten vinnen,</hi></l>
+<l rend="; 1tab"> <hi rend="i">Doch even niet te min, geen mensche sonder fout,</hi></l>
+<l rend="; 1tab"><hi rend="i">Wat dat hy neemt ter handt, wat dat hy stelt of bout,</hi> </l>
+<l><hi rend="i">Daer zijnder die altijdt het werrick sullen laecken,</hi></l>
+<l><hi rend="i">Tot nadeel van de geen die geerigh is te maecken.</hi></l>
+<l rend="; 1tab"> <hi rend="i">Ick die oock geerig was te maken Zang en Liet,</hi></l>
+<l rend="; 1tab"><hi rend="i">Te brengen in het licht, maer tot mijn eere niet.</hi></l>
+<l><hi rend="i">Gy weet dat een Compas is dienstig voor den mensch</hi></l>
+<l><hi rend="i">Die hem begeeft op Zee, om varen na sijn wensch,</hi></l>
+<l rend="; 1tab"> <hi rend="i">Hy heeft somtijts oock wel verdriet en swarigheden.</hi></l>
+    <pb ed="fol." n="A3r"/>
+<l rend="; 1tab"> <hi rend="i">Wanneer de groote God sijn boden sent beneden</hi></l>
+<l><hi rend="i">Den Zee-man komt somtijds oock weder vreughden aen,</hi></l>
+<l><hi rend="i">Wanneer de groote storm en t’onweer is gedaen,</hi></l>
+<l rend="; 1tab"> <hi rend="i">Hy soeckt terstont ’t Compas om weer den koers te stellen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Waer door den Schipper krijgt vrolijcke Bootsgesellen,</hi></l>
+<l><hi rend="i">Den Stierman geeft haer last wel neerstigh acht te slaen,</hi></l>
+<l><hi rend="i">Op het Compas, om niet uyt haren koers te gaen.</hi></l>
+<l rend="; 1tab"> <hi rend="i">Wel dan gy Man te roer past neerstigh op u saken</hi></l>
+<l rend="; 1tab"><hi rend="i">En stiert met zangh en lust den Schipper tot vermaken,</hi> </l>
+<l><hi rend="i">Soo sal hy dencken dat is noch een geestigh quant,</hi></l>
+<l><hi rend="i">Die heeft de Kolder-stock met yver in de hant,</hi></l>
+    <pb ed="fol." n="A3v"/>
+<l rend="; 1tab"> <hi rend="i">Ick mag op so een man myn stellen om te rusten,</hi></l>
+<l rend="; 1tab"><hi rend="i">Want hy is wacker gaeu, en stiert met sangh en lusten,</hi></l>
+<l><hi rend="i">Dit is en myn begeer, die op ’t Compas wil stieren,</hi></l>
+<l><hi rend="i">Het  geen ick hem voorstel, dat hy hem myt van gieren,</hi></l>
+<l rend="; 1tab"> <hi rend="i">Set u zeyl niet te hoogh, maer gebruyck reen en maet,</hi></l>
+<l rend="; 1tab"><hi rend="i">Houdt oock het Compas droogh dat u voor oogen staet, </hi></l>
+<l><hi rend="i">Het zeyl dat is u stem, die moet gy wel gebruycken,</hi></l>
+<l><hi rend="i">Op dat wanneer gy singt, ’t mag tot u eer gelucken,</hi></l>
+<l rend="; 1tab"> <hi rend="i">En geeft my oock geen schult, wanneer gy vint een fout,</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer draeght het met gedult, en my ten besten houdt.</hi> </l>
+</lg><p><hi rend="i">Frans Arentsz. Metael.</hi></p>
+</div>
+<div type="chapter">
+
+    <interpGrp>
+        <interp type="primair" value="maass001"/>
+    </interpGrp>
+    <pb ed="fol." n="A4r"/>
+<head rend="h3"><hi rend="i">’t Lof van Maes-sluys.</hi> </head>
+<lg type="poem"><l><hi rend="i">Maes-sluys u siet men nu floreren,</hi></l>
+<l><hi rend="i">Door u Vis-vaert ende hanteren,</hi></l>
+<l><hi rend="i">Want geen plaets in ’t gantsche Landt</hi></l>
+<l><hi rend="i">Die van u de kroone spant!</hi></l>
+<l><hi rend="i">Gy hebt den zegen bevonden,</hi></l>
+<l><hi rend="i">Van Godt dies u heeft gesonden,</hi></l>
+<l><hi rend="i">Anders kon het niet geschien.</hi></l>
+<l><hi rend="i">Het welck wy dagelycks sien:</hi></l>
+<l><hi rend="i">Want gy spyst aen allen kant</hi></l>
+<l><hi rend="i">De menschen seer veelerhant,</hi></l>
+<l><hi rend="i">’t Zy wanneer het wesen mach,</hi></l>
+<l><hi rend="i">’s Winters en oock Somer-dach:</hi></l>
+<l><hi rend="i">Geeft hier van alleen de eer</hi></l>
+<l><hi rend="i">Onsen grooten Godt en Heer.</hi></l>
+</lg><p><hi rend="i">Franck Arentsz. Metael.</hi></p>
+</div>
+<div type="chapter">
+
+    <pb ed="fol." n="A4v"/>   
+<head rend="h3"><hi rend="i">Op het Maes-Sluysche Compas,</hi></head>
+<lg type="poem"><l>Inwoonders van Maes-sluys die veel op de baren</l>
+<l>Van ’t Vride Nephtunus komt te zeylen of te varen,</l>
+<l rend="; 1tab"> Hier is voor u wat nieuws soo ghy de zangh bemint,</l>
+<l rend="; 1tab">Hier is het  Sluyscompas dat u een goeden vrient, </l>
+<l>Een van u mede-maets u gunstigh gaet vereeren,</l>
+<l>Wel neemt dit maer in danck, meer sal hy niet begeeren:</l>
+<l rend="; 1tab"> Vindt ghy somtijds u geest tot vreughden aengeport,</l>
+<l rend="; 1tab">Siet hier, koopt maer dit stuck dat hier geveylet wort,</l>
+<l>Ghy sult soo nu en dan daer noch wel wat in vinden,</l>
+<l>Dat u vermaken kan, ’t zy eensaem of by vrienden,</l>
+<l rend="; 1tab"> Houdt altijdt door vast, hier is meer nieuwigheyt,</l>
+<l rend="; 1tab">Als van hier ter plaets sal worden nu geseyt, </l>
+<l>En sooie bent bewust om seker dit te weten</l>
+<l>Doorleest eerst eens dit werck,  doorsiet  wilt niet vergeten,</l>
+<l rend="; 1tab">Het geen ten goed u dient, want dat ’s altijdt bequaem,</l>
+<l rend="; 1tab">En ’t goet ’t zy wie het seyt moet ons zijn aengenaem,</l>
+<l>Ey dan wie dat gy zyt die dit sult komen lesen</l>
+<l>Denckt altijdt dat een Vriendt is weert te zijn gepresen,</l>
+<l rend="; 1tab"> Die sijn bereydtheyt toont om yemant dienst te doen,</l>
+<l rend="; 1tab">Onnoodigh meer geseyt gy kont dit wel bevroen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0001"/> </interpGrp>
+    <interpGrp>
+        <interp type="primair" value="maass001"/>
+    </interpGrp>
+<pb n="1"/>
+<head rend="h3"><hi rend="i">Lof Over Maes-Sluys.</hi></head>
+<div type="section">
+<head rend="h4">Op de Wijse: <hi rend="i">Van den 8. Psalm.</hi></head>
+<lg type="poem">
+<l>Maes-sluys, Maes-sluys, u lof moet ick verklaren,</l>
+<l>Om datter van u veele Schepen varen,</l>
+<l>Want geen plaetse in ’t gantsche Nederlant,</l>
+<l>Denckt my die nu de kroon boven u spant.</l>
+<l rend="; 1tab">2.  U siet men nu in vroolickheyt vermeeren,</l>
+<l>Dies kom ick u nu met een Lied vereeren,</l>
+<l>Want mijn gemoet dat streckte daer heel na,</l>
+<l>Uwen lof te singen vroegh ende spa.</l>
+<l rend="; 1tab">3. Want siet de Hoeckers varen met haer alle</l>
+<pb n="2"/>
+<l>Van u, over de hondert in getalle,</l>
+<l>En dan hier toe noch menigh Haringh-boot,</l>
+<l>Soo dat u getal van Schepen is groot.</l>
+<l rend="; 1tab">4. Dewelcke door Godes heylige gaven,</l>
+<l>Komen uyt Zee om u Maes-sluys te laven,</l>
+<l>Des Winters hebt gy Vis vers en zout,</l>
+<l>Door den Zee-man die de Zee altyd bouwt.</l>
+<l rend="; 1tab">5. Dus siet men binnen u seer vele menschen,</l>
+<l>Die na haer lust hebben al wat sy wenschen,</l>
+<l>Is’t niet een zegen van den Heer vermaert?</l>
+<l>Die hy u nu ten vollen openbaert.</l>
+<l rend="; 1tab">6. Siet Godt die heeft binnen u laten komen,</l>
+<l>Leeraers bequaem ende Herders seer vromen,</l>
+<l>Om u in ordre te houden seer goet,</l>
+<l>Hier toe hebt gy noch meer Regeerders vroet.</l>
+<pb n="3"/>
+<l rend="; 1tab">7. Oorelof nu Maes-sluys hoogh van waerden,</l>
+<l>Geeft Godt de eer van Hemel en van Aerden,</l>
+<l>Op dat hy u mach onderhouwen goet:</l>
+<l>Dies al te saem na synen wille doet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0002"/> </interpGrp>
+<head rend="h3"><hi rend="i">Nieuw Liedt, gemaeckt op den Zeeman van Maes-sluys, tot lof van den selven, en hier na op den Land-man.</hi></head>
+<div type="section">
+<head rend="h4">Wijse: <hi rend="i">Aenmerckt ô Aerdsch geslacht.</hi></head>
+<lg type="poem"><l><hi rend="i">G</hi>y Doggenaertjes fier,</l>
+<l>Al van Maes-sluys eerbare,</l>
+<l>Die met een goet playsier,</l>
+<l>Op bracke stroomen varen:</l>
+<pb n="4"/>
+<l>Heën en weer na u begeert,</l>
+<l>Die gronden gaen besoecken,</l>
+<l>Om Vis te vangen jent ,</l>
+<l>Met Netten of met hoecken:</l>
+<l>U tot het goede wendt,</l>
+<l>Godt sal u zijn omtrent.</l>
+<l rend="; 1tab">2. Want door Godts macht seer groot,</l>
+<l>Soo brenght gy hier te Lande,</l>
+<l>Veel Cabeljau minjoot,</l>
+<l>Oock Schelvis veelderhande,</l>
+<l>Vleet, Roch en Poon, oock Ballick schoon,</l>
+<l>Schol, Schar, en Heyl-bot goedigh,</l>
+<l>Spieringh en Mackereel,</l>
+<l>Oock Haringh overvloedigh,</l>
+<l>Leng’, Pieterman oock veel,</l>
+<pb n="5"/>
+<l> Komter al in ’t geheel.</l>
+<l rend="; 1tab">3. Soo dat gy Sluysche-dal,</l>
+<l>Spijst veelderhande menschen,</l>
+<l>In Holland over al,</l>
+<l>In Brabant mee na wenschen:</l>
+<l>Oock in Vranckrijck en te Danswijck,</l>
+<l>Doet gyse voeren vaerdigh,</l>
+<l>Met schepen groot en kleyn,</l>
+<l>Om te spijsen seer aerdigh,</l>
+<l>Veel menschen in ’t gemeyn,</l>
+<l>Door Godes zegen reyn.</l>
+<l>4. Want het moet alles van</l>
+<l>Des Heeren zegen komen,</l>
+<l>Soo dat hem niemant kan</l>
+<l>Op den zegen beromen:</l>
+<l>Want yder leeft, van’t geen Godt geeft,</l>
+<pb n="6"/>
+<l>Door sijn milde-handt krachtigh:</l>
+<l>Dies laten wy met vlijt</l>
+<l>Hem prijsen al eendrachtigh,</l>
+<l>Om te wesen verblijt,</l>
+<l>Al in den laetsten tijt.</l>
+</lg></div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lof op den Lant-man.</hi></head>
+<lg type="poem"><l rend="; 1tab">5. Den Landt-man excellent,</l>
+<l>Moet ick oock lof af singen,</l>
+<l>Hy brenght ons seer bekent,</l>
+<l>Veele leefbare dingen:</l>
+<l>Mellick seer soet, oock Boter goet,</l>
+<l>Kaes, Kooren, Eyers, Koeyen,</l>
+<l>Verckens en Eende-bout,</l>
+<l>Appels, Quee-peeren groeyen</l>
+<pb n="7"/>
+<l>By hem seer menighfout.</l>
+<l>Tot ’s menschen onderhout,</l>
+<l rend="; 1tab">6. Doch hy moet evenstaegh,</l>
+<l>Hem met het wercken moeyen,</l>
+<l>Die Vrijsters ick beklaegh,</l>
+<l>Want sy moeten de koeyen,</l>
+<l>In ’t natte gras, gaen melcken ras,</l>
+<l>’s Morgens en ’s avonts late,</l>
+<l>In onweer, storm en wint,</l>
+<l>Dus wilt den Boer-man late,</l>
+<l>En kiest een Vissers kint,</l>
+<l>Wert ghy daer van bemint.</l>
+<l rend="; 1tab">7. Wel Vrijsters wie gy zijt,</l>
+<l>Mach u een Visscher beuren</l>
+<l>Die op eer en deught vrijt,</l>
+<pb n="8"/>
+<l>En is van goed’humeuren,</l>
+<l>Wilt hem voortaen, niet fel afslaen,</l>
+<l>Doch wat weyg’righ wesen,</l>
+<l>Want het is maegden eer,</l>
+<l>Al is’t een groote vreese,</l>
+<l>En doet de knechts hertseer,</l>
+<l>’t Komt ten lesten wel weer.</l>
+</lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0003"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de Wijse: <hi rend="i">Nu leef ick in ’t verdriet.</hi></head>
+<lg type="poem"><l><hi rend="i">A</hi>Enhoort doch Visschers al,</l>
+<l>En Landt-lieden te saem,</l>
+<l>Die woonen in het dal,</l>
+<l>Al van Maes-sluys bequaem,</l>
+<l>Het geen daer ick af spreeck,</l>
+<pb n="9"/>
+<l>Is van de Visschery,</l>
+<l>Daerom, daerom, daerom</l>
+<l>Wilt eens toe-hooren bly.</l>
+<l rend="; 1tab">2. Wy die ons generen</l>
+<l>Al met de Visschery,</l>
+<l>En in de soute Zee,</l>
+<l>Al t’samen varen bly,</l>
+<l>Op Godts genade uyt;</l>
+<l>Om Vis te vangen fijn,</l>
+<l>Laet ons, laet ons, laet ons</l>
+<l>Doch altijt danckbaer zijn.</l>
+<l rend="; 1tab">3. Als wy varen van ’t Landt,</l>
+<l>Om ons Neeringh te doen,</l>
+<l>By Noorden of aen ’t Sant,</l>
+<l>Soo wy dan best vermoen,</l>
+<pb n="10"/>
+<l>Met halen, schieten goet</l>
+<l>Wy ons generen fris:</l>
+<l>Al om, al om, al om,</l>
+<l>d’Ele levende is.</l>
+<l rend="; 1tab">4. Als ’t stormt en als ’t waeyt,</l>
+<l>Soo doen wy sulcks niet,</l>
+<l>De kabels wort gepaeyt,</l>
+<l>Elck loopt om laegh met vliet,</l>
+<l>Om soo bevrijt te zijn,</l>
+<l>Van ’t water wreet en fel,</l>
+<l>Dat dan, dat dan, dat dan,</l>
+<l>Loopt over ’t schip rebel.</l>
+<l rend="; 1tab">5. Dus siende wy de doot,</l>
+<l>Voor oogen t’aller tijt,</l>
+<l>Want de Zee is seer groot,</l>
+<pb n="11"/>
+<l>Oock hoogh en daer toe wijt.</l>
+<l>Ons scheepken is seer kleyn,</l>
+<l>Van hout en yser t’saem,</l>
+<l>Als dan, als dan, als dan,</l>
+<l>Soo roepen wy bequaem.</l>
+<l rend="; 1tab">6. O Heere Godt van waert,</l>
+<l>Siet ons aen in den noot,</l>
+<l>Wy bennen heel beswaert,</l>
+<l>Het onweer is te groot !</l>
+<l>Dit bidde duert soo langh</l>
+<l>Als ’t stormt ende raest,</l>
+<l>Soo dat, soo dat, soo dat,</l>
+<l>Wy zijn geheel verbaest.</l>
+<l rend="; 1tab">7. Maer soo haest als de Heer</l>
+<l>Het weer vervallen laet,</l>
+<pb n="12"/>
+<l>Een yeder even seer</l>
+<l>Van vuyle dingen praet:</l>
+<l>Het onweer is uyt ’t hooft,</l>
+<l>Den Heer wert niet geacht!</l>
+<l>En soo, en soo, en soo</l>
+<l>Wert den tijd door-gebracht.</l>
+<l rend="; 1tab">8. Als nu de reys voortaen</l>
+<l>Op ’t eynde loopt eerbaer,</l>
+<l>Soo komt den Stier-man staen</l>
+<l>Al by sijn volck seer klaer,</l>
+<l>En seyt wel mannen siet</l>
+<l>De wint is goet confuys,</l>
+<l>Souden, souden, souden</l>
+<l>Wy niet zeylen na huys.</l>
+<l rend="; 1tab">9. Dus slaen sy t’saem den raet</l>
+<pb n="13"/>
+<l>Het volck en den Stierman,</l>
+<l>Valt het uyt goet of quaet</l>
+<l>Daer spreeckt men dan niet van:</l>
+<l>Het zeyl wert opgeset,</l>
+<l>De koers die wert geset,</l>
+<l>En daer, en daer, en daer</l>
+<l>Moet wesen op-gelet.</l>
+<l rend="; 1tab">10. Als wy dan komen</l>
+<l>Op Maes-sluys na ons wil,</l>
+<l>Stracks in de Brandewijn,</l>
+<l>Men staet niet lange stil:</l>
+<l>Men denckt niet op de daedt</l>
+<l>Die Godt bewesen heeft,</l>
+<l>Die ons, die ons, die ons</l>
+<l>Een behouden reys geeft.</l>
+<pb n="14"/>
+<l rend="; 1tab">11. Och het kan niet bestaen</l>
+<l>Met ons Visschers gelijck,</l>
+<l>Dus in de kroegh te gaen,</l>
+<l>Men denckt niet op Godts Rijck!</l>
+<l>Dat ons seer noodigh is:</l>
+<l>Och laet ons daer na spoen!</l>
+<l>En doch, en doch, en doch,</l>
+<l>Altijdt het beste doen.</l>
+<l rend="; 1tab">12. Siet dat wy t’saem dit deen,</l>
+<l>Als de reys komt uyt Zee,</l>
+<l>Met bidden en geween</l>
+<l>Ons selven maeckten ree:</l>
+<l>En met een danckbaer hert,</l>
+<l>Besochte Godes Huys,</l>
+<l>Gewis, gewis, gewis,</l>
+<pb n="15"/>
+<l>’t Sou beter gaen op Sluys.</l>
+<l rend="; 1tab">13. En als de Heere goet</l>
+<l>Ons geeft een moye reys,</l>
+<l>Wilt den armen met spoet</l>
+<l>Mee deelen na den eys:</l>
+<l>Soo wie dit niet en doet</l>
+<l>Noch nimmermeer betracht,</l>
+<l>Die sal, die sal, die sal,</l>
+<l>Van Godt werden veracht.</l>
+<l rend="; 1tab">14. Want als den lesten dagh</l>
+<l>Voor ons menschen komt aen,</l>
+<l>Dat wy met droef geklagh</l>
+<l>Sullen voor ’t oordeel staen,</l>
+<l>Dan sal de Heere goet,</l>
+<l>Spreecken met goet verstant,</l>
+<pb n="16"/>
+<l>Tot sijn, tot sijn, tot sijn</l>
+<l>Uytverkoren valjant.</l>
+<l rend="; 1tab">15. Komt mijn gezegende,</l>
+<l>In dese wooningh schoon,</l>
+<l>Het is voor u alree,</l>
+<l>Des levens gulde kroon:</l>
+<l>Dewelck u was bereyt,</l>
+<l>Van den beginne aen,</l>
+<l>Nu sult, nu sult, nu sult</l>
+<l>Ghy ’t Hemelrijck ontfaen.</l>
+<l rend="; 1tab">16. En tot de geene die</l>
+<l>Daer staen ter slincker zy,</l>
+<l>Sal hy met woorden straf,</l>
+<l>Toespreecken alsoo vry,</l>
+<l>Dat sy van schrick en vrees</l>
+<l>Niet wetende waer heen:</l>
+<pb n="17"/>
+<l>Al van, al van, al van</l>
+<l>Des Heeren straffe reen.</l>
+<l rend="; 1tab">17. Ick heb dorstigh geweest</l>
+<l>Gy gaeft my niet tot baet,</l>
+<l>En hongerigh bevreest,</l>
+<l>Gy hebt mijn niet verzaet:</l>
+<l>Oock gaeft gy mijn geen kleedt,</l>
+<l>Want ick was naeckt en bloot,</l>
+<l>Daerom, daerom, daerom</l>
+<l>Ick u geheel verstoot.</l>
+<l rend="; 1tab">18. O Heer wy hebben u,</l>
+<l>In armoed’ noyt gesien!</l>
+<l>Daerom verhoort ons nu/</l>
+<l>En laet het niet geschien</l>
+<l>Dat wy souden vergaen:</l>
+<pb n="18"/>
+<l>In droefheyt anghst en pijn!</l>
+<l>Maer Heer, maer Heer, maer Heer,</l>
+<l>Wilt ons genadigh zijn.</l>
+<l rend="; 1tab">19. Hier en is geen genaed’</l>
+<l>Voor u in desen staet,</l>
+<l>Den tijdt die komt te spaed’</l>
+<l>Soo dat het is te laet:</l>
+<l>Dus gaet in ’t helsche vyer</l>
+<l>Ick heb u noyt gekent,</l>
+<l>Daer sult, daer sult, daer sult,</l>
+<l>Ghy lijden veel ellent.</l>
+<l rend="; 1tab">20. Oorlof nu al-gemeen,</l>
+<l>Laten wy op dees tijt,</l>
+<l>Ons selven gaen bereen,</l>
+<l>En nemen geen respijt,</l>
+<pb n="19"/>
+<l>Want de Heere komen sal</l>
+<l>Als een dief in der nacht,</l>
+<l>Als wy, als wy, als wy</l>
+<l>Daer minst zijn op verdacht.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0004"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">O soete versamen.</hi></head>
+<lg type="poem"><l>O Heer Almachtigh,</l>
+<l>Ghy die zijt krachtigh</l>
+<l>Om ons al t’samen te bewaren,</l>
+<l>Wy die nu op de Zee gaen varen:</l>
+<l>Wilt ons altijdt bystaen,</l>
+<l>Op dat wy niet vergaen,</l>
+<l>Wanneer wy zijn belaen,</l>
+<l>Al van de baren.</l>
+<l rend="; 1tab">2. Wilt ons bevrijden,</l>
+<pb n="20"/>
+<l>In quade tijden,</l>
+<l>Heer wilt doch altijt met ons wesen!</l>
+<l>Op dat wy u te rechten vreesen:</l>
+<l>Wanneer gy al ontbint,</l>
+<l>En dat de stercke wint,</l>
+<l>Ons schijnt t’hebben verslint</l>
+<l>Door groote vreese.</l>
+<l rend="; 1tab">3. Wy die nu scheyen,</l>
+<l>En ons bereyen,</l>
+<l>Om op de baren te sweven,</l>
+<l>Heer behout ons gesont in ’t leven:</l>
+<l>Op dat wy al te saem</l>
+<l>Aenroepen Heer bequaem,</l>
+<l>Uwen Heyligen Naem,</l>
+<l>Seer hoogh verheven.</l>
+<pb n="21"/>
+<l rend="; 1tab">4. Men vint ‘er geene,</l>
+<l>Dan ghy alleene,</l>
+<l>Die ons in ’t minste kan vertsagen,</l>
+<l>Dus Heer wilt alle quaet verjagen:</l>
+<l>Geeft oock een danckbaer hert,</l>
+<l>Dat ghy gepresen wert,</l>
+<l>In voorspoet of in smert,</l>
+<l>Na u behagen.</l>
+<l rend="; 1tab"> 5. Oorelof voor ’t leste,</l>
+<l>Heer schickt ten besten,</l>
+<l>Brenght ons weder gesont te Lande,</l>
+<l>Op dat wy met gesamer hande,</l>
+<l>U singen lof en danck,</l>
+<l>Met treffelijck geklanck,</l>
+<l>En dat ons leven lanck,</l>
+<l>Met goet verstande.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0005"/> </interpGrp>
+<pb n="22"/>
+<head rend="h3"><hi rend="i">Een Nieuw Lied.</hi></head>
+<div type="section">
+<head rend="h4">Wijse: <hi rend="i">Doet u oogjens open, &amp;c. </hi></head>
+<lg type="poem"><l>Och wat swaerder pijne,</l>
+<l>Komt mijn nu in ’t hert,</l>
+<l>Want geen Medicijne,</l>
+<l>Vind’ ick voor de smert,</l>
+<l>Dan tot u ô Heere!</l>
+<l>Te komen in desen noodt:</l>
+<l>Want ghy wilt wel keeren</l>
+<l>Droeven anghst ende aenstoot.</l>
+<l rend="; 1tab">2. Dus ô Heere goedigh!</l>
+<l>Maeckt u dienaer bly,</l>
+<l>Ende helpt mijn spoedigh;</l>
+<l>Uyt dees droeve ly:</l>
+<l>Want ick ben vol quelle,</l>
+<l>Om een Dochter seer belaen.</l>
+<pb n="23"/>
+<l>Heer wilt dit doch stelle!</l>
+<l>Dat het mach ten besten gaen.</l>
+<l rend="; 1tab">3. Och wat heeft het minnen,</l>
+<l>By my nu al in,</l>
+<l>Dat ick niet mach winnen,</l>
+<l>Die ick heb in ’t sin:</l>
+<l>Mocht ick haer verkrijgen,</l>
+<l>Van den Heer tot een schenckaet,</l>
+<l>‘k Wou van droefheyt swijgen,</l>
+<l>En toonen een bly gelaet.</l>
+<l rend="; 1tab">4. Och of sy oock mede</l>
+<l>Tot mijn liefde droegh,</l>
+<l>Soo waer ick in vrede,</l>
+<l>En had vreught genoegh,</l>
+<l>Maer moet ickse derven,</l>
+<l>En mijn liefde van haer slaen,</l>
+<pb n="24"/>
+<l>Rouw sal mijn doen sterven,</l>
+<l>Of geduerigh quijnen gaen.</l>
+<l rend="; 1tab">5. Dus mijn Lief gepresen,</l>
+<l>Eerbaerlijck en goet,</l>
+<l>Hoe meught gy dus wesen,</l>
+<l>Tegens mijn verwoedt,</l>
+<l>Daer ick soeck te leven</l>
+<l>Met u maer in eerbaerheyt,</l>
+<l>Soo als ick lestleden</l>
+<l>Tegen u heb geseyt.</l>
+<l rend="; 1tab">6. Of ben ick belogen</l>
+<l>Van quaklappers reen,</l>
+<l>Die niet leyen mogen</l>
+<l>Dat wy twee zijn een,</l>
+<l>Wilt doch bescheyt geven,</l>
+<pb n="25"/>
+<l>Waerom dat gy mijn versmaet?</l>
+<l>Of heb ick bedreven,</l>
+<l>Dat mijn eere te nagaet.</l>
+<l rend="; 1tab">7. Oorlof voor het leste,</l>
+<l>Lief in deughden rijck,</l>
+<l>Laten wy het beste</l>
+<l>Doen sonder af-wijck:</l>
+<l>En den Heer oock vreesen,</l>
+<l>Nu in onse jonge jeught,</l>
+<l>Om by een te wesen,</l>
+<l>Hier na bey in ’s Hemels vreught.</l>
+<l><hi rend="i">Wie wil minnen, moet met sinnen, te werck gaen,</hi></l>
+<l><hi rend="i">Want in ’t vryen, is geen med’lyen, als de liefde is gedaen.</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0006"/> </interpGrp>
+<pb n="26"/>
+<head rend="h3"><hi rend="i">Een Nieuw Liedt.</hi> </head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Lestmael  ginck ick ter Jacht, &amp;c.</hi></head>
+<lg type="poem"><l>Hoort toe Visschers gelijck,</l>
+<l>Die de Noort-zee beminnen;</l>
+<l>’t Zy arrem ofte rijck,</l>
+<l>Wilt het met Godt beginnen:</l>
+<l>Laet den Heer leggen in u hert,</l>
+<l>Wijckt doch van hem niet alsoo vart,</l>
+<l>Of anders naeckt u smart.</l>
+<l rend="; 1tab">2. Want gy moet heen en weer</l>
+<l>Door seer veel woeste baren</l>
+<l>Met kommer en hert-seer</l>
+<l>In uwe Schepen varen.</l>
+<pb n="27"/>
+<l>Siet dat gy den Heer krijght te baet,</l>
+<l>Op dat hy u in nood bystaet,</l>
+<l>Als het u qualijck gaet.</l>
+<l rend="; 1tab">3. Gy hebt oock veel aen-stoot</l>
+<l>Van Zee ende Vyanden,</l>
+<l>Die met haer krachten groot</l>
+<l>U dickmael fel aenranden:</l>
+<l>En gy en hebt gantsch geen geweer,</l>
+<l>Dus neemt u toe-vlucht tot den Heer,</l>
+<l>In al u groot hart-seer.</l>
+<l rend="; 1tab">4. Past wel op ’t gety</l>
+<l>Om op geen droogh te raecken,</l>
+<l>Siet toe wel voor de ly,</l>
+<l>Op dat gy meught genaecken</l>
+<l>In een gewenste haven soet,</l>
+<pb n="28"/>
+<l>Danckt dan den Heer met groot ootmoet,</l>
+<l>Voor ’t goet dat hy doet.</l>
+<l rend="; 1tab">5. Wel dan gy Visser-man,</l>
+<l>Zijt oprecht in u saecken,</l>
+<l>Als gy uyt Zee komt an,</l>
+<l>En dat de Koop-luy naecken,</l>
+<l>U Visch te koopen met bescheyt,</l>
+<l>Dan dient de waerheyt wel geseyt,</l>
+<l>Dus geen leugens uytbreyt.</l>
+<l rend="; 1tab">6. Waer dat gy u dan keert,</l>
+<l>O Visschers seer loofwaerdigh,</l>
+<l>Daer sult gy zijn ge-eert,</l>
+<l>Van veel menschen seer aerdigh:</l>
+<l>Want gy wert gesien en geacht,</l>
+<l>Om ’t geen dat van u wert  gebracht,</l>
+<pb n="29"/>
+<l>Uyt Zee door Godes macht.</l>
+<l rend="; 1tab">7. O Princen Godt eerbaer,</l>
+<l>Wilt den Visschers bewaren!</l>
+<l>Voor allerley gevaer,</l>
+<l>Als hy tijdt op de baren,</l>
+<l>En oock ons menschen hier te Landt,</l>
+<l>Geeft uwen zegen abondant,</l>
+<l>Door uwe milde handt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0007"/> </interpGrp>
+<head rend="h3"><hi rend="i">Nieuw Lied, gemaeckt op den Luyaert.</hi></head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Yets moet ick u Laura vragen.</hi></head>
+<lg type="poem"><l><hi rend="i">E</hi>en Liedt moet ick u verklaren,</l>
+<l>Al van veel Luyenaren,</l>
+<l>Die in dese Werelt bly</l>
+<pb n="30"/>
+<l>Genoegh werden sy gevonden,</l>
+<l>En sy soecken t’allen stonden</l>
+<l>Van het werck te wesen vry.</l>
+<l rend="; 1tab">2. Sy bedreven veele listen,</l>
+<l>Oock kijven en vechten, twisten</l>
+<l>Dat al om het snoode gelt:</l>
+<l>En om machtelijck te leven,</l>
+<l>Sy haer selven gaen begeven,</l>
+<l>Het moet u eens zijn vertelt.</l>
+<l rend="; 1tab">3. Oock seer veel slimme lagen,</l>
+<l>Om het wercken te verjagen,</l>
+<l>Sy soecken te werden rijck</l>
+<l>Met haer prachten en haer pralen,</l>
+<l>Siet men haer veel quaets behalen,</l>
+<l>O! het is een snoo practijck,</l>
+<pb n="31"/>
+<l rend="; 1tab">4. Want een luy mensche verachtigh,</l>
+<l>Is oock voor den Duyvel krachtigh,</l>
+<l>Een oorkussen seer bequaem,</l>
+<l>Soo wy in de Schriftuer lesen,</l>
+<l>Wie en souder niet voor vresen,</l>
+<l>Van alsulck een quade faem.</l>
+<l rend="; 1tab">5. Siet den Satan seer boos-aerdigh,</l>
+<l>Gaet een luy mensche vaerdigh,</l>
+<l>En spant sijn boogh ende net,</l>
+<l>Om haer daer t ‘saem in te vangen,</l>
+<l>Heeft hy een seer groot verlangen,</l>
+<l>Maer u tegen hem doch set.</l>
+<l rend="; 1tab">6. Ey siet doch eens op de Mieren,</l>
+<l>Hoe dat dese kleyne dieren,</l>
+<l>t’Saem des Somers alsoo koen,</l>
+<pb n="32"/>
+<l>Met arbeyt spijse vergaren,</l>
+<l>En de selve gaen bewaren,</l>
+<l>Om ‘s Winters haer mee te voen.</l>
+<l rend="; 1tab">7. Wel laet dan den rijckdom varen,</l>
+<l>Wilt u schatten gaen vergaren</l>
+<l>Hier boven in Godes Rijck,</l>
+<l>En bidden, wilt my ô Heere,</l>
+<l>Hier maer geven kost en kleere,</l>
+<l>En hier na het koninckrijck.</l>
+<l rend="; 1tab">8. Oorlof wilt yverigh wesen,</l>
+<l>En den Heer met errenst vresen,</l>
+<l>Doet doch altijt hier u best,</l>
+<l>Om het leven te be-erven,</l>
+<l>Denckt dat gy doch eens moet sterven,</l>
+<l>Niet een, maer oock al de rest.</l>
+<pb n="33"/>
+<l><hi rend="i">Luy en traegh is niemendal,</hi></l>
+<l><hi rend="i">Die soo is bereyt sijn val.</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0008"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Liedt.</hi> </head>
+<div type="section">
+<head rend="h4">Op de Wijse: <hi rend="i">Nera schoonste van u geburen.</hi></head>
+<lg type="poem"><l>Hoort toe menschen die zijt beladen,</l>
+<l>Met sonden veel groot ende swaer,</l>
+<l>Set u vertrouwen vroegh en spade,</l>
+<l>Op uwen Godt en Heer eerbaer.</l>
+<l rend="; 1tab">2. Wilt ’t Harnas aen u leden setten,</l>
+<l>Neemt schilt en swaert al in u handt,</l>
+<l>Het selve oock wel scherp wetten,</l>
+<l>Hout u dan fris ende constant.</l>
+<l rend="; 1tab">3. Want den Satan vol boosheden,</l>
+<pb n="34"/>
+<l>Gaet om gelijck een Leeuwe fel,</l>
+<l>Soeckt soo onse arme leden,</l>
+<l>Te brengen in een droef gequel.</l>
+<l rend="; 1tab">4. Maer wilt u van hem niet vertsagen</l>
+<l>Al schijnt hy vreesselijck van aert,</l>
+<l>Maer met u hert en mont verknagen,</l>
+<l>Soo sult gy wesen seer vermaert.</l>
+<l rend="; 1tab">5. Denckt eens hoe dat hy met afgrijse,</l>
+<l>Quam besoecken den Heer subijt,</l>
+<l>En dat al op driederley wijse,</l>
+<l>Met een alle soo fellen strijt.</l>
+<l rend="; 1tab">6. Siet Christus hadde veele dagen</l>
+<l>Gevast, wel veertigh in ’t gemeyn:</l>
+<l>En hem hongerde met behagen,</l>
+<l>Doen quam den Satan tot hem treen.</l>
+<pb n="35"/>
+<l rend="; 1tab">7. En sprack indien gy zijt Gods Soone,</l>
+<l>Soo seght dat dese steenen zijn,</l>
+<l>Dat sy brooden worden schoone,</l>
+<l>En het sal na u wille zijn.</l>
+<l rend="; 1tab">8. Maer Christus sprack al sonder beven,</l>
+<l>Den mensche die sal van nu voortaen,</l>
+<l>Met den Broode alleen niet leven,</l>
+<l>Maer met woorden die uyt God gaen.</l>
+<l rend="; 1tab">9. Doe ginck de Satan Christus leyden,</l>
+<l>Na de Heylige Stadt eerbaer,</l>
+<l>En voort al sonder langh te beyden,</l>
+<l>Op de Tinne des Tempels klaer.</l>
+<l rend="; 1tab">10. Sprack doen zijt gy Gods Soon verheven</l>
+<l>Soo werpt u neer naer ’t aertsche-dal,</l>
+<l>Want daer staet klaerlijck geschreven,</l>
+<pb n="36"/>
+<l>Dat Gods Engelen bevelen sal.</l>
+<l rend="; 1tab">11. Om u als dan soo te bewaren,</l>
+<l>Dat gy u aen geen steen en stoot,</l>
+<l>Maer Christus ginck hem openbaren,</l>
+<l>En sprack met woorden klaer en bloot.</l>
+<l rend="; 1tab">12. Daer staet geschreven klaerlijcken,</l>
+<l>Gy sult den Heer versoecken niet,</l>
+<l>En al die beminnen sijn Rijcke,</l>
+<l>Metter herten groote vlijt.</l>
+<l rend="; 1tab">13. Weder nam hem de Satan mede,</l>
+<l>Op een seer hoogen Bergh siet,</l>
+<l>Stelde hem voor veel heerlijckheden,</l>
+<l>Om hem te brengen in ’t verdriet.</l>
+<l rend="; 1tab">14. Hy sey wilt gy hier nedervallen,</l>
+<l>En my aenbidden nu terstont,</l>
+<pb n="37"/>
+<l>Soo sal ick u dan geven alle,</l>
+<l>Wat gy siet voor u oogen ront.</l>
+<l rend="; 1tab">15. Doe sprack Christus seer hoog van waerde,</l>
+<l>Gaet wegh gy Satan boos en fel,</l>
+<l>Want in Hemel op der Aerde,</l>
+<l>Men eenen Godt aenbidden sel.</l>
+<l rend="; 1tab">16. Doe is de Satan wegh geweecken,</l>
+<l>En Christus die verwon den strijt,</l>
+<l>En Satans machten gaen verbreecken,</l>
+<l>Waer door dat wy al zijn bevrijt.</l>
+<l rend="; 1tab">17. Oorlof menschen wilt hier op dencken,</l>
+<l>Strijt vroom met Christo en sijn Woort,</l>
+<l>Om Satans macht alsoo te krencken,</l>
+<l>Dat hy van stonden aen moet voort.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0009"/> </interpGrp>
+<pb n="38"/>
+<head rend="h3"><hi rend="i">Een nieuw Bruylofts-Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Verblijt u nu gy Abrahams zaet,</hi></head>
+<p>ofte: <hi rend="i">Puer natus in Bethlehem.</hi></p>
+<lg type="poem"><l>Een Bruylofts-liedt een blijde zangh,</l>
+<l>Moet ick nu eens vangen an,</l>
+<l>En dichten met een blijden geest:</l>
+<l>Dus singht met my al op dees Feest.</l>
+<l rend="; 1tab">2. Want onsen Bruydegom seer klaer,</l>
+<l>Heeft gevonden sijn Lief eerbaer,</l>
+<l>Dus singht nu alle minst en meest,</l>
+<l>Op dese blijde Bruylofts-feest.</l>
+<l rend="; 1tab">3. En wenst geluck dit jonge paer,</l>
+<l>Dat Godt altijt wil geven haer,</l>
+<pb n="39"/>
+<l>Geluck in voorspoet onbevreest,</l>
+<l>Dies singht nu alle op dees Feest.</l>
+<l rend="; 1tab">4. Dies laten wy nu vallen aen,</l>
+<l>Malkand’ren tot den zangh bystaen,</l>
+<l>Sie daer ick sal nu zijn de eerst,</l>
+<l>Singht oock met my op dese Feest.</l>
+<l rend="; 1tab">5. Bruydegom en weest meed’ niet stil,</l>
+<l>Gy hebt hier uwen rechten wil,</l>
+<l>En gy zijt langh in smart geweest,</l>
+<l>Dus singht met ons op dese Feest.</l>
+<l rend="; 1tab">6. Vrouw Bruyt gy moet oock niet stil zijn,</l>
+<l>Ick brengh u eens een roemer wijn,</l>
+<l>Weest voor dit nachtjen niet bevreest,</l>
+<l>Maer singht met ons op dese Feest.</l>
+<l rend="; 1tab">7. Want God de Heer wel toelaet,</l>
+<pb n="40"/>
+<l>Als het geschiet op reen en maet,</l>
+<l>Soo hy te Cana heeft geweest,</l>
+<l>Laet ons oock zijn op dese Feest.</l>
+<l rend="; 1tab">8. Oorlof nu Bruylofts-genoot,</l>
+<l>Hier dient wel een goede Piloot,</l>
+<l>Die ’t Gebedt na de maeltijt leest,</l>
+<l>En dan weer singht op dese Feest.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0010"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een nieuw Lied voor den Zeeman, wanneer hy tijdt op Zee met Hoecker ofte Boot.</hi></head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Als Christus hoort Johannes doodt.</hi></head>
+<lg type="poem"><l>O Heere Godt van machten groot!</l>
+<l>Wiens lof niet is om te volprijsen,</l>
+<l>Gy die verlost uyt angst en noot,</l>
+<pb n="41"/>
+<l>Alle die u eere bewijsen.</l>
+<l rend="; 1tab">2. Siet wy gaen nu ter Zeewaert in,</l>
+<l>Om goede handel te plegen,</l>
+<l>Geeft doch Heer voorspoet en gewin,</l>
+<l>En leyt ons in bequame wegen.</l>
+<l rend="; 1tab">3. Wy die nu kruyssen heen en weer,</l>
+<l>Over golven en zee-baren,</l>
+<l>Wilt onsen Leyts-man wesen Heer!</l>
+<l>En door u stercke hand bewaren.</l>
+<l rend="; 1tab">4. Want sonder u Heer zijn wy niet,</l>
+<l>Daerom wilt onws bystandigh wesen,</l>
+<l>Op dat wy in noot en verdriet,</l>
+<l>Mogen u aenmercken met vreesen.</l>
+<l rend="; 1tab">5. Den Donder en den Blixem fel!</l>
+<l>Die gy ons dickwils stelt voor oogen, </l>
+<pb n="42"/>
+<l>Om dat wy niet zouden rebel</l>
+<l>Zijn, maer na sijnen wil ons gaen bogen.</l>
+<l rend="; 1tab">6. Wy die somtijts in het onweer</l>
+<l>Gebruycken wel treuren en weenen,</l>
+<l>En roepen met een groot begeer,</l>
+<l>Heer wilt ons u hulpe verleenen.</l>
+<l rend="; 1tab">7. Soo haest de Heer ons dan verhoort,</l>
+<l>En dat de Zee staet geheel stille,</l>
+<l>Soo doen wy niet al na sijn woort,</l>
+<l>Maer volgen onsen eygen wille.</l>
+<l rend="; 1tab">8. Och, ’t is tijd om te beklagen wel,</l>
+<l>Dat wy hier aldus sondigh leven,</l>
+<l>Daer den tijd vlieght henen seer snel,</l>
+<l>Die God ons niet weder sal geven.</l>
+<l rend="; 1tab">9. Oorlof laet dit nu zijn bedacht,</l>
+<pb n="43"/>
+<l>En gebruyckt doch den tijd bequame</l>
+<l>En vreest den Heer dagh ende nacht,</l>
+<l>Al is het weer heel aengename.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0011"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een nieuw Liedeken.</hi></head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Als ick de gulden dageraet.</hi></head>
+<lg type="poem"><l><hi rend="i">A</hi>Enhoort doch Vissers al gelijck</l>
+<l>Die varen van Maes-sluys,</l>
+<l>Het zy al arrem ofte rijck,</l>
+<l>Draeght gewilligh u kruys:</l>
+<l>Doch of den Heer met overvloet</l>
+<l>U zegende eenpaer,</l>
+<l>En wilt dan met geen hoogh gemoet</l>
+<l>U geneeren seer klaer!</l>
+<pb n="44"/>
+<l>Maer weest nederigh in u doen,</l>
+<l>Op Landt of Zee,</l>
+<l>Wilt doch altijt na ’t beste spoen,</l>
+<l>Leeft met malkaer in vree.</l>
+<l rend="; 1tab">2. Siet als gy dan vaert van het Lant,</l>
+<l>Op Godts genade heen,</l>
+<l>Met Netten en met het Hoeck-want,</l>
+<l>En maeckt doch geen geween,</l>
+<l>Slaet u oogh ten Hemel-waert,</l>
+<l>Bidt Godt met groot ootmoet,</l>
+<l>Behoedt ons Heer op dese vaert,</l>
+<l>Wanneer ons quaet ontmoet,</l>
+<l>Want gy maeckt veele menschen vry,</l>
+<l>Die zijn in noodt,</l>
+<l>En maakt haer droevigh herte bly,</l>
+<pb n="45"/>
+<l>Door uwe liefde groot.</l>
+<l rend="; 1tab">3. Want gy moet door een woeste Zee,</l>
+<l>Somtijts geheel ontstelt,</l>
+<l>Oock staet den boosen vyand ree,</l>
+<l>Om u met sijn gewelt</l>
+<l>Te brengen in een droef gequel,</l>
+<l>Staet hy altijt bereyt:</l>
+<l>Doch schrickt u niet al schijnt hy fel,</l>
+<l>Maer dan niet langh en beyt,</l>
+<l>Om te doen kloecken wederstant,</l>
+<l>Waer dat gy zijt,</l>
+<l>Soo wel in Zee als op het Landt,</l>
+<l>Neemt geen uytstel van tijdt.</l>
+<l rend="; 1tab">4. Dit sal u troost toebringen al,</l>
+<l>Wanneer u quaet ontmoet,</l>
+<pb n="46"/>
+<l>God sal vermeeren het getal</l>
+<l>Van vis in overvloet,</l>
+<l>Wilt hem maer met een danckbaer hert</l>
+<l>Trouwelijck roepen aen:</l>
+<l>Maeckt dat gy niet en raeckt verwart</l>
+<l>Op Satans vuyle baen,</l>
+<l>Maer kiest den wegh engh en smal,</l>
+<l>Om door te gaen,</l>
+<l>Als Christus voor ons menschen al</l>
+<l>Met smerten heeft gedaen.</l>
+<l rend="; 1tab">5. Met smerten moeten wy oock mee</l>
+<l>Christus soo volgen na,</l>
+<l>Want hy besit de beste Ree</l>
+<l>En wacht ons vroegh en spa:</l>
+<l>Dus laten wy het alles klaer,</l>
+<pb n="47"/>
+<l>Maecken tot ons profijt,</l>
+<l>En dan de goe wind nemen waer;</l>
+<l>Hier toe dient geen respijt:</l>
+<l>Stierman slae ’t zeyltjen aen de Ree,</l>
+<l>Neemt ’t Compas waer</l>
+<l>Om te komen in rust en vree</l>
+<l>By de Hemels-schaer.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0012"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Liedt op het Compas. </hi></head>
+<div type="section">
+<head rend="h4">Wijse: <hi rend="i">Het Vosje was ‘er ontbonden.</hi></head>
+<lg type="poem"><l>O Visser-man seer aerdigh!</l>
+<l>Wilt dit Liedt nemen aen,</l>
+<l>En acht het niet onwaerdigh,</l>
+<l>Het dient u tot vermaen:</l>
+<l>Gy moet het veel gebruycken</l>
+<pb n="48"/>
+<l>Waer dit op is gestelt,</l>
+<l>’t Kan anders niet gelucken,</l>
+<l>Te ploegen ’t ruyme velt.</l>
+<l rend="speaker"><hi rend="i">Zee-man.</hi></l>
+<l rend="; 1tab">2. Het is een aerdigh Compas</l>
+<l>Het welck ick hebben moet,</l>
+<l>Want dit gebruyck ick seer ras,</l>
+<l>Veel meer dan eenigh goet,</l>
+<l>Waer na ick moet bezeylen,</l>
+<l>De Zee op ende neer,</l>
+<l>Dan hier en daer aen peylen,</l>
+<l>In storm ende onweer.</l>
+<l rend="speaker"><hi rend="i">Christelijcke Vrager.</hi></l>
+<l rend="; 1tab">3. Ick moet u Zee-man vragen</l>
+<l>Waerom gy zijt belaen?</l>
+<pb n="49"/>
+<l>Door stormen ende vlagen,</l>
+<l>Die u veel randen aen,</l>
+<l>Oock klippen ende stranden,</l>
+<l>Die gy schout t’aller tijdt,</l>
+<l>Bancken en uyt zanden,</l>
+<l>Werden van u gemijt.</l>
+<l rend="speaker"><hi rend="i">Zee-man.</hi></l>
+<l rend="; 1tab">4. Om te ontgaen de tijden,</l>
+<l>Van ’s lichaems prijck’len fel,</l>
+<l>Die wy dan soude lijden,</l>
+<l>Hier toe gebruyck ick wel,</l>
+<l>Compas, Boogh  ende Kaerte,</l>
+<l>En noch meer Instrument,</l>
+<l>Om niet op vreemde vaerte,</l>
+<l>Te wesen onbekent.</l>
+<pb n="50"/>
+<l rend="speaker"><hi rend="i">Vrager.</hi></l>
+<l rend="; 1tab">5. ’t Is wonder boven maten,</l>
+<l>Hoe kan dit doch geschien?</l>
+<l>Dat gy niet soeckt te haten,</l>
+<l>Het quaetste te ontvlien,</l>
+<l>Het welcke is den storrim</l>
+<l>Van Godes toorenigheyt,</l>
+<l>Want door swaerder gekorrim,</l>
+<l>Is voor de ziel bereyt.</l>
+<l rend="; 1tab">6. Oock den Satans boosaerdigh,</l>
+<l>Brenght blinde klippen voort,</l>
+<l>Met sijn Engelen vaerdigh,</l>
+<l>Komt hy u fel aenboort,</l>
+<l>Al om u arme ziele!</l>
+<l>Te brengen in ’t gequel,</l>
+<pb n="51"/>
+<l>Want hy soeckt te vernielen,</l>
+<l>Den mensch met boos opstel.</l>
+<l rend="; 1tab">7. Wilt u doch prepareeren,</l>
+<l>Haeckt na u ziels profijt,</l>
+<l>En wilt den Satan weeren,</l>
+<l>Want hy soeckt niet dan strijt:</l>
+<l>Wilt oock u hart bereyen,</l>
+<l>Hem kloeck te wederstaen,</l>
+<l>Al eer dat gy moet scheyen,</l>
+<l>En u de dood komt aen.</l>
+<l rend="speaker"><hi rend="i">Vrager.</hi></l>
+<l>  8. Wilt oock ’t Compas bewaren,</l>
+<l>Wanneer gy u oock gaet spoen,</l>
+<l>Te tyen op de baren</l>
+<l>Om u profijt te doen:</l>
+<pb n="52"/>
+<l>Wilt het doch wel onthouwen,</l>
+<l>Door nat en vochtigheyt,</l>
+<l>Op dat u geen benouwen,</l>
+<l>Van God wert toebereyt.</l>
+<l rend="; 1tab">9. Oorlof Zee-man wilt letten,</l>
+<l>Neemt op elcken streeck acht,</l>
+<l>Op uwe koers te setten,</l>
+<l>Al met een goet voordacht:</l>
+<l>Op dat gy meugt bekomen</l>
+<l>Eene gewenste Ree,</l>
+<l>Dient God met herten vrome,</l>
+<l>En wandelt in sijn vree.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">’t Compas of ’s menschen hert, dat stel ick hier op een,</hi></l>
+<pb n="53"/>
+<l><hi rend="i">Want waer de voorstreeck wijst, daer moet het ander heen:</hi></l>
+<l><hi rend="i">Waer dat oock ’s menschen hert somtijdts is toe genegen,</hi></l>
+<l><hi rend="i">Daer moet den heelen mensch, hem selven toe bewegen.</hi></l>
+<l rend="; 1tab"><hi rend="i">’t Compas het welcke is het herte van een Schip,</hi></l>
+<l rend="; 1tab"><hi rend="i">Waer door men soeckt bevrijt te zijn van Zant of Klip,</hi></l>
+<l><hi rend="i">Door ’t herte moet den mensch het Hemelrijck bekomen,</hi></l>
+<l><hi rend="i">Als hy sijn schult en plicht in als heeft waer genomen:</hi></l>
+<l rend="; 1tab"><hi rend="i">Door ’t Compas soeckt den mensch te vinden een goe Ree,</hi></l>
+<pb n="54"/>
+<l><hi rend="i">Maer als hy daer van dwaelt, vervalt hy in groote wee,</hi></l>
+<l><hi rend="i">Oock wanneer ’s menschen hert, dwaelt in verkeerde sinnen,</hi></l>
+<l><hi rend="i">So dat hy niet en weet den rechten wegh te vinnen.</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0013"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een nieuw Liedt,</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Adieu seer wel gelegen.</hi></head>
+<lg type="poem"><l><hi rend="i">O </hi>Menschen wilt niet dwalen,</l>
+<l>Van ’t Geestelijck Compas,</l>
+<l>Maer laet het in u stralen</l>
+<l>Als een blinckende glas,</l>
+<l>Dat noyt verdorven was.</l>
+<l rend="; 1tab">2. Al om niet te verzeylen,</l>
+<pb n="55"/>
+<l>Op de Steen-klippen quaet,</l>
+<l>Weest neerstigh in het peyle,</l>
+<l>Op wat hooghte en graet,</l>
+<l>Dat gy wandelen gaet.</l>
+<l rend="; 1tab">3. Want siet in dese werelt,</l>
+<l>Leggen veel uytzande,</l>
+<l>Die schoon schijnen beperelt,</l>
+<l>Met goe Havens en Ree,</l>
+<l>Doch baren niet dan wee.</l>
+<l rend="; 1tab">4. Hier moet gy wel op letten,</l>
+<l>En naerstigh nemen acht,</l>
+<l>Wilt u Hucker niet setten,</l>
+<l>In dees Havens veracht,</l>
+<l>Maer weest beter bedacht.</l>
+<l rend="; 1tab">5. En altijt by u sinnen,</l>
+<pb n="56"/>
+<l>Nuchteren ende goet,</l>
+<l>Om goe Reeden te vinnen,</l>
+<l>Gebruyckt uyt liefde soet,</l>
+<l>Gebeden met ootmoet.</l>
+<l rend="; 1tab">6. Soo sal u Godt geleyen,</l>
+<l>Uyt de drooghte seer quaet,</l>
+<l>Wilt u tot hem bereyen,</l>
+<l>Den ruymen wegh niet gaet,</l>
+<l>Maer kiest de smalle paet.</l>
+<l rend="; 1tab">7. Want daer zijn maer twee wegen,</l>
+<l>Een die tot ’t leven leyt,</l>
+<l>Den breeden is gelegen</l>
+<l>Tot seer groote droefheyt,</l>
+<l>En sal werden beschreyt.</l>
+<l rend="; 1tab">8. Oorlof al te samen,</l>
+<pb n="57"/>
+<l>Menschen wie dat gy zijt,</l>
+<l>Wandelt in ’s Heeren Name,</l>
+<l>Met lust yver en vlijt,</l>
+<l>Neemt geen uytstel van tijdt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0014"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Als ’t begint.</hi></head>
+<lg type="poem"><l>De grootste vreught wort minst gesocht,</l>
+<l>Van ’t volck op der Aerden,</l>
+<l>Daer wert soo weynigh na gedocht,</l>
+<l>Den mensch seer kleyn van waerden,</l>
+<l>Die soeckt meer aerd’ en slijck,</l>
+<l>Dan ’t Hemels koninckrijck:</l>
+<l>O! ’t is om te beklagen,</l>
+<pb n="58"/>
+<l>Dat wy dus zijn vergart,</l>
+<l>En in ’t quade verwart,</l>
+<l>Daer soo snel korten onse dagen.</l>
+<l rend="; 1tab">2. Den Oppersten van dese vreught,</l>
+<l>Die nood ons dick ten hoven,</l>
+<l>Doch wy gebruycken weynigh deught</l>
+<l>Om desen Helt te loven</l>
+<l>Hoewel hy dickmaels seyt,</l>
+<l>Komt al het is bereyt,</l>
+<l>De Bruyloft die is rede,</l>
+<l>Daer is bequame stee,</l>
+<l>Maeckt u doch haestigh ree,</l>
+<l>Wilt uwen tijt doch wel besteden.</l>
+<l rend="; 1tab">3. Op dat gy niet te laet en komt,</l>
+<l>Als de vijf dwase Maeghden,</l>
+<pb n="59"/>
+<l>Die door traegheyt waren verdoemt,</l>
+<l>Hoewel sy dapper klaeghden,</l>
+<l>En riepen overluyt,</l>
+<l>Siet onse lampen branden:</l>
+<l>Wy zijn nu wel versien,</l>
+<l>Heere laet het geschien,</l>
+<l>Dat wy werden van u gesanden.</l>
+<l rend="; 1tab">4. Doch God die sprack ick ken u niet,</l>
+<l>Daerom wilt van hier trecken,</l>
+<l>En gaet naer ’t eeuwigh verdriet</l>
+<l>Met al u snoode blecken,</l>
+<l>Gy hebt te traegh geweest</l>
+<l>Te komen op mijn Feest,</l>
+<l>U klagen mach niet baten,</l>
+<pb n="60"/>
+<l>De Poort is toe-gedaen,</l>
+<l>Sy sal niet weer op-gaen,</l>
+<l>Voor u: want het nu te late.</l>
+<l rend="; 1tab">5. O mensch neemt hier exempel aen,</l>
+<l>Houdt goe wacht t’aller uuren,</l>
+<l>Op dat gy meught in vreughden gaen,</l>
+<l>Die eeuwighlijck sal dueren:</l>
+<l>Siet de bequame tijdt,</l>
+<l>Die wert gy te met quijt,</l>
+<l>Daerom wil jonck beginnen,</l>
+<l>Den Heer te volgen na,</l>
+<l>Dus slaet sijn leer wel ga,</l>
+<l>Op dat gy meught in vreught gaen binnen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0015"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Hoe strengh wildy rechten.</hi></head>
+    <pb n="61"/><lg type="poem">
+<l><hi rend="i">O</hi>  Wat  grooter vreughden,</l>
+<l>Heeft God toe-geleyt,</l>
+<l>Al die gaen in deughden</l>
+<l>Met nederigheyt,</l>
+<l>Hy schrijft haer tot loone,</l>
+<l>Toe heerlijckheyt vermaert:</l>
+<l>Want God seyt,</l>
+<l>Haer ’s bereyt</l>
+<l>Een kroone in eeuwigheyt.</l>
+<l rend="; 1tab">2. Koningen der aerden</l>
+<l>Dragen kroone fijn,</l>
+<l>Die seer groot van waerden</l>
+<l>By de menschen zijn,</l>
+<l>Doch sy zijn al t’samen,</l>
+<l>Seer verganckelijck eenpaer,</l>
+<pb n="62"/>
+<l>En moete,</l>
+<l>Oock al mee,</l>
+<l>In de aerdt nemen haer stee.</l>
+<l rend="; 1tab">3. Wat een groot verscheele</l>
+<l>Is de kroon by God,</l>
+<l>Die hy soeckt te deelen,</l>
+<l>Den mensch tot een lot,</l>
+<l>Die sal eeuwigh dueren</l>
+<l>Ende nimmermeer vergaen,</l>
+<l>Tracht hier na,</l>
+<l>Vroegh en spa,</l>
+<l>Slaet des Heeren Leer wel ga.</l>
+<l rend="; 1tab">4. Om alsoo een Koninck</l>
+<l>Te werden bekent,</l>
+<l>In des Hemels Wooninck,</l>
+<pb n="63"/>
+<l>Daer men sonder ent</l>
+<l>Eeuwigh sal regeeren,</l>
+<l>Met God over dood en hel,</l>
+<l>En oock mee,</l>
+<l>In de vree,</l>
+<l>Leven sonder eenigh wee.</l>
+<l rend="; 1tab">5. Haer lichaem sal schijnen</l>
+<l>Als de Sonne doet,</l>
+<l>En oock noyt verdwijnen,</l>
+<l>Maer altijt seer goet:</l>
+<l>Vrye Burgers blijven,</l>
+<l>In’t Nieuwe Jerusalem,</l>
+<l>En sulle</l>
+<l>God kenne</l>
+<l>In volkomen kennisse.</l>
+<pb n="64"/>
+<l rend="; 1tab">6. Siet al waren t’samen</l>
+<l>Nu by een vergadert,</l>
+<l>Al des Konincks namen</l>
+<l>Op de gantsche Aerdt:</l>
+<l>Soo sou het verschele</l>
+<l>Meer zijn, dan ick spreecken kan,</l>
+<l>Aerd’en slijck,</l>
+<l>By Gods Rijck,</l>
+<l>Dit schrijft Paulus publijck.</l>
+<l rend="; 1tab">7. Wel laet ons dan trachten,</l>
+<l>Om het goet te doen,</l>
+<l>Al’t Werelts verachten,</l>
+<l>En na ’t Hemels spoen,</l>
+<l>Dewijl ’t kan geschieden,</l>
+<l>En Gods gracy open staet,</l>
+<pb n="65"/>
+<l>Neemt den tijt</l>
+<l>Waer met vlijt,</l>
+<l>Al te saem wie dat gy zijt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0016"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Van den 103. Psalm.</hi></head>
+<lg type="poem"><l><hi rend="i">M</hi>Yn ziele wilt u tot den Heer begeven,</l>
+<l>Hoewel gy geen voorspoet hebt in dit leven,</l>
+<l>Toont hem evenwel doch een danckbaer hert</l>
+<l>Al hebt gy hier verdriet en tegenheden,</l>
+<l>Valt aen tot God en dient hem met gebeden,</l>
+<l>Hy is een kender van u droeve smert.</l>
+<l rend="; 1tab">2. Al hebt gy Heer den zegen my ontnomen,</l>
+<l>Evenwel ben ick schuldigh u te roemen,</l>
+<l>Want u komt toe alle lof prijs en eer,</l>
+<pb n="66"/>
+<l>Gy hebt mijn naeckt ter werelt laten komen,</l>
+<l>Gy gaeft mijn eerst en hebt oock weer genomen,</l>
+<l>Uwe wercken zijn rechtveerdigh Heer.</l>
+<l rend="; 1tab">3. Alsoo spreeckt Job in al sijn tegen-varen</l>
+<l>Hoewel dat God hem toesent veel beswaren,</l>
+<l>Hy weeck niet af in al sijn groot hartseer,</l>
+<l>God heeft hem daer na weer veel meer gegeven,</l>
+<l>Dan hy te vooren hadde by sijn leven,</l>
+<l>Van al in overvloet na sijn begeer.</l>
+<l rend="; 1tab">4. Dus hoop ik Heer sult gy het rat omdrayen,</l>
+<l>En my met vreught oock mee eens laten mayen,</l>
+<l>Hier  doch hier namaels lieven Vader goet,</l>
+<l>Want wat is ’t doch of gy den menschen zegent,</l>
+<l>Hier op der aerd’en namaels quaet bejegent?</l>
+<l>Niet dan een vloeck en tijdelijck voorspoet.</l>
+<pb n="67"/>
+<l rend="; 1tab">5. Geeft my alleen ö Heer! maer kost en kleren</l>
+<l>En laet my sulcks op aerden niet ontberen,</l>
+<l>Dit bid ick u, en ’t is mijn hooghste wensch,</l>
+<l>Bestiert mijn hert dat het tot u mach keren,</l>
+<l>Op dat ick mach daer door u vreese leeren,</l>
+<l>En niet en leeft als een onreed’lijck mensch.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0017"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Geestelijck Liedt, bequaem voor den Zee-man wanneer hy soeckt  t’zeyl te gaen.</hi></head>
+<div type="section">
+<head rend="h4">Stemme:<hi rend="i">Onse Vader in Hemelrijck,&amp;c.</hi></head>
+<lg type="poem"><l><hi rend="i">O </hi>God seer goedertier in al,</l>
+<l> Ick een Zee-man u te voet val,</l>
+<l>En bid u nu ootmoedelijck,</l>
+<l>Bevrijd mijn voor druck anghst en schrick,</l>
+<pb n="68"/>
+<l>Want ick my nu na Zee gae spoen,</l>
+<l>Heere schickt doch alles te goen.</l>
+<l rend="; 1tab">2. Beware ons vrienden al te saem,</l>
+<l>Vrouw, kinders, broers, susters bequaem,</l>
+<l>Dat wy malkander sien gesont,</l>
+<l>En u loven met hert en mont,</l>
+<l>Wanneer wy komen weer by een,</l>
+<l>Dus geeft voorspoet in ’t zeylen heen.</l>
+<l rend="; 1tab">3. Geeft goeden wint in ’t uyt-zeyle,</l>
+<l>En laten wy doch wel peyle,</l>
+<l>Al op het uytterlijck Compas,</l>
+<l>Om alsoo te ontkomen ras,</l>
+<l>De bancken en uyt zanden quaet,</l>
+<l>Hier toe ô God! komt ons te baet,</l>
+<l rend="; 1tab">4. Heer boven dien bewaert ons doch,</l>
+<pb n="69"/>
+<l>Voor Satans drooghte die ons noch</l>
+<l>Veelmeerder schade soude doen,</l>
+<l>Dan wy Zee-luy t’samen bevroen,</l>
+<l>Sterckt ons hier in ô Vader goet,</l>
+<l>Dat wy die drucken onder voet.</l>
+<l rend="; 1tab">5. Op dat ons ziel geen schade lijdt,</l>
+<l>Door droeve inwendigen strijt,</l>
+<l>Geeft doch in tegenspoet gedult,</l>
+<l>Of Heer ons met u zegen vult:</l>
+<l>Geleyt ons in u soete vree,</l>
+<l>Wanneer wy komen op de Zee.</l>
+<l rend="; 1tab">6. Oorlof voor ’t lest ô Vader goet,</l>
+<l>Ons in alle tijden behoet,</l>
+<l>Laet over ons niet komen Heer,</l>
+<l>Benaeuwtheyt door storm en onweer,</l>
+<pb n="70"/>
+<l>Dit bidden wy vroegh ende spa,</l>
+<l>Voor al schenckt ons u Rijck hier na.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0018"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedt, bequaem voor een Jonghman dewelck hem soeckt te begeven aen een goet partuer.</hi></head>
+<div type="section">
+<head rend="h4">Stemme:<hi rend="i"> Godt Vader van den Throon.</hi></head>
+<lg type="poem"><l><hi rend="i">D </hi>E droeve eensaemheyt,</l>
+<l>Begin ick voor u te vreesen,</l>
+<l>Want ick ben nu bereyt,</l>
+<l>Om met mijn t’ween te weesen,</l>
+<l>Stiert gy by my,</l>
+<l>Een goet partuer,</l>
+<l>Om u Heer te dienen bly.</l>
+<l rend="; 1tab">2. Ick kom tot u om raet,</l>
+<pb n="71"/>
+<l>O Heer met knien gebogen,</l>
+<l>Ick soeck den Echten-staet,</l>
+<l>Wilter my doch in vogen.</l>
+<l>Stiert gy, Ec.</l>
+<l rend="; 1tab">3. ‘k Heb hier en daer verkeert,</l>
+<l>Om ’t Houwelijck te vinde,</l>
+<l>Gy hebt noch niet begeert,</l>
+<l>Dus ô Heer mijn beminde.</l>
+<l>Stiert gy,Ec.</l>
+<l rend="; 1tab">4. Want sonder u is ’t quaet,</l>
+<l>’t Huwelijck aen te vaerden,</l>
+<l>Dus ick niet af en laet,</l>
+<l>Te bidden Heer van waerden.</l>
+<l>Stiert gy,Ec.</l>
+<l rend="; 1tab">5. Op dat het mach tot mijn,</l>
+<pb n="72"/>
+<l>Glucksaligheyt gedyen,</l>
+<l>Dus Heer en Medecijn,</l>
+<l>Weest met my in het vryen,</l>
+<l>Stiert gy, Ec.</l>
+<l rend="; 1tab">6. Op dat ick mach ô Heer!</l>
+<l>U lof en eere geven,</l>
+<l>In ’t goe meer ende meer,</l>
+<l>Toe-nemer in dit leven,</l>
+<l>Stiert gy,Ec.</l>
+<l rend="; 1tab">7. Oorlof, ô Princen God!</l>
+<l>Met u wil ick beginnen,</l>
+<l>Geeft mijn doch een goet lot,</l>
+<l>Regeert en stiert mijn sinnen,</l>
+<l>Stiert gy,Ec.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0019"/> </interpGrp>
+<pb n="73"/>
+<head rend="h3"><hi rend="i">Een Nieuw Bruylofts-Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Cupido Heere fel.</hi></head>
+<lg type="poem"><l><hi rend="i">S </hi>Inght nu doch allegaer,</l>
+<l>Alle gy Bruylofts-knapen,</l>
+<l>Ter eeren ’t jonge Paer,</l>
+<l>Wilt hier niet langh op slapen,</l>
+<l>Maer vreught rapen in dees staet,</l>
+<l>Want sou men niet vrolijck wesen,</l>
+<l>Daer de Heer het selfs toelaet,</l>
+<l>En ’t Huwelijck niet versmaet.</l>
+<l rend="; 1tab">2. Bruydegom nu geluck,</l>
+<l>Wensch ick u met u beyde,</l>
+<l>Dat God alle u druck,</l>
+<pb n="74"/>
+<l>In vreughde sal bereyden,</l>
+<l>En u leyde na sijn Geest,</l>
+<l>Dus wilt malkander aenhangen,</l>
+<l>In de vreese Godes meest,</l>
+<l>Met malkander vredigh leeft.</l>
+<l rend="; 1tab">3. Vrouw-bruyd u Man sult gy</l>
+<l>U leven niet beswaren,</l>
+<l>Maer hem trouw blijven by,</l>
+<l>Sijn eer wel bewaren</l>
+<l>Gelijck Sara heeft gedaen,</l>
+<l>Want sy noemt haer Man een Heere,</l>
+<l>Wilt dit mede nemen aen,</l>
+<l>Met hem in deugden voortgaen.</l>
+<l rend="; 1tab">4. Soo sal u God de Heer,</l>
+<l>In overvloet toesenden,</l>
+<pb n="75"/>
+<l>Sijn zegen meer en meer,</l>
+<l>Tot uwer geluck wenden,</l>
+<l>Nu bekende allebey,</l>
+<l>Wilt desen raet niet versmaden,</l>
+<l>Maer neemt doch een goet geley,</l>
+<l>In dees wereltsche contrey.</l>
+<l rend="; 1tab">5. Siet nu om dese Feest,</l>
+<l>Wat meerder te vermaken,</l>
+<l>Ellick nu vrolijck weest:</l>
+<l>Wilt tot den zangh genaken,</l>
+<l>Om te raken blijdelijck,</l>
+<l>Met malkander in de vreughde,</l>
+<l>Nu Speelnootjes al gelijck,</l>
+<l>Weest doch in deughden rijck.</l>
+<l rend="; 1tab">6. Want de Heer heeft oock mee,</l>
+<pb n="76"/>
+<l>Een Bruyloft gaen vereeren,</l>
+<l>Te Cana op een stee,</l>
+<l>Daer hy dede verkeeren,</l>
+<l>Water in bequame wijn,</l>
+<l>Want sy waren heel verlegen,</l>
+<l>Christus sprack geeft de kruyck mijn,</l>
+<l>Op dat het goe wijn mach zijn.</l>
+<l rend="; 1tab">7. Oorlof nu al te saem,</l>
+<l>Wilt den Heer niet vergeten,</l>
+<l>Maer loven sijnen Naem,</l>
+<l>Waer dat gy zijt geseten:</l>
+<l>Gy moet weten dat hy is</l>
+<l>Onsen opper-Heer der vromen,</l>
+<l>Die voor ons gestorven is,</l>
+<l>Aen het kruys vol droeffenis.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0020"/> </interpGrp>
+<pb n="77"/>
+<head rend="h3"><hi rend="i">Een Nieuw Bruylofts-Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Amaril die door u soet gelaet.</hi></head>
+<lg type="poem"><l><hi rend="i">V</hi>alt nu aen, gy jonge lieden t’saem,</l>
+<l>En wilt den Echt aenvaerden,</l>
+<l>Want het is een wet,die God heeft ingestelt</l>
+<l>Soeckt met vreught,een Lief tot u baet,</l>
+<l>Om te leven op aerden, in de vreese Gods,</l>
+<l>Dus u niet langh en quelt,</l>
+<l>Maer nu metter spoet,</l>
+<l>Grijpt een nieuwe moet,</l>
+<l>Soeckt een dochter eerlijck en goet</l>
+<l rend="speaker"><hi rend="i">Speel-knechts.</hi></l>
+<l rend="; 1tab">2. Als ons Bruydegom nu heeft gedaen,</l>
+<pb n="78"/>
+<l>By dagen en by nachten,</l>
+<l>Om sijn soete Lief, te krijgen tot sijn Vrouw,</l>
+<l>Heeft hy haer soo dickmael aengeweest,</l>
+<l>Met minnelijcke klachte, en op deught en eer</l>
+<l>Geboon sijn Echte-trouw,</l>
+<l>Hier op sey sy ja,</l>
+<l>Nam hem in gena,</l>
+<l>Hy mach met haer slapen vroegh en spa.</l>
+<l rend="speaker"><hi rend="i">Speel-meysjes.</hi></l>
+<l rend="; 1tab">3. Noch soo niet wy moeten dese Bruyt</l>
+<l>Tusschen ons noch wat houden,</l>
+<l>Onsen Bruydegom die heeft sijn wil soo niet</l>
+<l>Al het welck wy weten wel,</l>
+<l>Den naem van een getrouwde,</l>
+<l>Seght eerst wat gy ons beyde daer voor biet,</l>
+<pb n="79"/>
+<l>Want wy houden haer,</l>
+<l>Nu in grooter waer,</l>
+<l>Ja al was ’t een koningin rebel.</l>
+<l rend="speaker"><hi rend="i">Speel-knecht.</hi></l>
+<l rend="; 1tab">4. Doet een eysch en stelt het redelijck,</l>
+<l>Wilt niet te hoogh waerdeeren,</l>
+<l>Opdat wy hier na u de penningh gunnen weer,</l>
+<l>Geeft de Bruyd aen onsen Bruydegom,</l>
+<l>Op dat hy haer mach leeren, Hier te dienen God</l>
+<l>Al met een groot begeer,</l>
+<l>Om haer by te staen,</l>
+<l>Laet hy doch ontfaen</l>
+<l>Dese Bruyd, Om in Gods vrees te gaen.</l>
+<l rend="speaker"><hi rend="i">Speel-meysjes.</hi></l>
+<l rend="; 1tab">5. ’t Is te vroegh te spreken van dit werck,</l>
+<pb n="80"/>
+<l>Wy konnen noch niet scheyden,</l>
+<l>Van de soete maeght sy is ons lief en waert:</l>
+<l>Houd u rust Speel-knechtjes allebey,</l>
+<l>Wilt u tot vreught bereyden, en denckt ’t is genoeg</l>
+<l>Sy zijn doch al gepaert.</l>
+<l rend="speaker"><hi rend="i">Speel-knechjes.</hi></l>
+<l>’t Sal dus slecht niet gaen,</l>
+<l>Sy moet daer van daen,</l>
+<l>Eyst, of grest, wy vallen op u aen.</l>
+<l rend="; 1tab">6. Oorlof Speel-nootjes al te saem,</l>
+<l>Wilt vrolijckheyt hanteren</l>
+<l>En nu blijdelijck wesen op dese Feest,</l>
+<l>En nu met een lieffelijcken zangh,</l>
+<l>U selven generen, want het mach bestaen,</l>
+<l>Met een vreedsamen Geest,</l>
+<pb n="81"/>
+<l>Soo sal ons dan Godt,</l>
+<l>Geven een goet lot,</l>
+<l>Voor het lest onderhout ’s Heeren gebodt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0021"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedt.</hi></head>
+<div type="section">
+    <head rend="h4">Stemme: <hi rend="i">Antwerpen Rijck.</hi></head>
+    <lg type="poem">
+<l><hi rend="i">M</hi>Ensch t’wijl gy mach,</l>
+<l>Weest neerstigh in het vieren,</l>
+<l>Den Sabbath-dagh:</l>
+<l>Met lust en goe manieren,</l>
+<l>Houd af van ’t werck, Ey hoort na het verklare,</l>
+<l>In Godes kerck,</l>
+<l>’t Woort van sijn trou dienare:</l>
+<l>U hier doch na bereyt,</l>
+<pb n="82"/>
+<l>Hoort wat daer wert geseyd,</l>
+<l>Veel wonderlijcke dingen,</l>
+<l>Oock lieffelijck en soet, Voor een die singen moet,</l>
+<l>Een hooghst daer op gaet dringen.</l>
+<l>Een hooghst daer op gaet dringen.</l>
+<l rend="; 1tab">2. Desen dagh siet, Zegende God almachtigh,</l>
+<l>Als hy uyt niet, ’t Al had geschapen krachtigh,</l>
+<l>Doen rusten hy, Hiel op van ’t arbeyden,</l>
+<l>Dus moeten wy, Ons hier oock na bereyden,</l>
+<l>Want God het straf gebied, Dat wy het sullen niet</l>
+<l>Na-laten tot sijn eere, En ons tot saligheyt,</l>
+<l>Want hy heeft selfs geseyt,</l>
+<l>Dient my ick ben de Heere.</l>
+<l rend="; 1tab">3. Dus laten wy, Ons selven gaen begeven,</l>
+<l>Desen dagh vry, In heyligheyt te leven,</l>
+<pb n="83"/>
+<l>Op dat daer geen, Plagen over ons komen,</l>
+<l>Want veel geween, Heeft men daer door vernomen</l>
+<l>Va n menschen die altijt, Arbeyden om profijt,</l>
+<l>Al op den dagh des Heere, Exempels zijnder veel,</l>
+<l>Waer van ick u een deel, Verhalen wil tot leere.</l>
+<l rend="; 1tab">4. Een Meulenaer, Op den Sabbatdag maelde,</l>
+<l>Het viel hem swaer, Want siet den Meule straelde</l>
+<l>Stracks in den brant, En is geheel bedurven,</l>
+<l>Door Godes hand, Den Man is oock gesturven,</l>
+<l>Dus wert den Heer vergramt,</l>
+<l>Soo dat de Meule vlamt,</l>
+<l>Schrick’lijck om te aenschouwen,</l>
+<l>Hoe veel men daer toe dee, ’t Geschiede al tot wee,</l>
+<l>Den brant  wou niet op-houwen.</l>
+<l rend="; 1tab">5. Een vrou oock mee, Den Sonnedag onteerde,</l>
+<pb n="84"/>
+<l>En gingh met vree, In ’t velt daer sy verkeerde,</l>
+<l>Want seer veel vlas, Had God daer op doen wasse</l>
+<l>’t Wellick haer was, Dus gingh sy daer op passe</l>
+<l>Met al haer huysgesin, Trat sy met lust daer in,</l>
+<l>Hoort wat Godt haer toe-sende,</l>
+<l>’t Vyer van den Hemel af, Viel in ’t vlas tot haer straf</l>
+<l>Doch het nam weer een ende.</l>
+<l rend="; 1tab">6. Den Sonnedag, Daer aen sy wou niet merke,</l>
+<l>En als sy plag, Weder gegaen in ’t wercke,</l>
+<l>’t Geschiede ras, Den Heere liet weer vallen,</l>
+<l>’t Vyer in het vlas, Seer vele in ’t getalle,</l>
+<l>Het wert weer uytgeblust, De vrou hier mee niet rust/</l>
+<l>Sy wil nog niet aflaten, Maer is gegaen al weer</l>
+<l> Doen vergramt hem de Heer,</l>
+<l>Schricklijck boven maten.</l>
+<pb n="85"/>
+<l rend="; 1tab">7. Den Heere liet, den brant in’t vlas weer komen</l>
+<l>Een groot verdriet, Heeft men terstont vernomen</l>
+<l>Want het liep voort, Het geheele velt over,</l>
+<l>God was verstoort: Want hy maecktent nog drover</l>
+<l>De vrou kost niet ontvlien,</l>
+<l>Sy moest den brant aensien, daer in haer leve<hi rend="i">n</hi> laten</l>
+<l>Haer dienstmaegde oock mee: Verbranden op die stee</l>
+<l>Menschen hulp kost niet baten.</l>
+<l rend="; 1tab">8. Door Gods gena: een kint wert noch behoude,</l>
+<l>De menschen dra, Gods wonderen aenschoude,</l>
+<l>Sy waren meest, Bedroeft en seer verslagen,</l>
+<l>Ontroert van geest, Die dit wonder aensagen,</l>
+<l>Broeders wie dat gy zijt,</l>
+<l>Neemt geen uytstel van tijt, Schort op alle u leden</l>
+<l>En wilt des Heeren dag, doorbrengen als men plag</l>
+<pb n="86"/>
+<l>Met Moses tijden deden.</l>
+<l rend="; 1tab">6. Moses die liet, Op Saterdage luyden,</l>
+<l>Een klock met vliet, Het welcken beduyden,</l>
+<l>Dat al de lien, Haer arbeyt soude laten,</l>
+<l>Dit most geschien tot order ende mate;</l>
+<l>Om den Sabbatdag goet, Beter al met ootmoet,</l>
+<l>Met neerstigheyt te vieren, Wel laten wy ook mee</l>
+<l>Desen dagh heylige, Om namaels te playsieren.</l>
+<l><hi rend="i">O menschen wilt den dagh des Heeren altijt vieren</hi></l>
+<l><hi rend="i">Met lust en neerstigheyt, met blijtschap en maniere.</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0022"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw-Jaers Liedt.</hi></head>
+<div type="section">
+<head rend="h4">Op de wijse: <hi rend="i">Adieu Blomkens Rosiere.</hi></head>
+<lg type="poem"><l><hi rend="i">O </hi>Mensch wilt traegheyt vlieden,</l>
+<l> En neemt met lust ter handt,</l>
+<pb n="87"/>
+<l>’t Geen ick u sal bedieden,</l>
+<l>Al met een kleyn verstant,</l>
+<l>Van Christus ons Heylant,</l>
+<l>Hoe dat hy is verresen,</l>
+<l>Waer door wy zijn genesen,</l>
+<l>Al van der sonden bandt.</l>
+<l rend="; 1tab">2. Siet in een stal verkoren</l>
+<l>Is Gods Sone gebaert,</l>
+<l>Uyt Maria geboren,</l>
+<l>Soo ons de Schrift verklaert:</l>
+<l>Heeft geen menschen aert,</l>
+<l>Want hy is sonder sonden,</l>
+<l>In een kribbe gevonden,</l>
+<l>Van Herders wijt vermaert.</l>
+<l rend="; 1tab">3. Hy komt ons vry te maken,</l>
+<pb n="88"/>
+<l>Ons van de sonden swaer,</l>
+<l>Dus laet ons tot hem naken,</l>
+<l>Want ’t is nu sijn wil eerbaer,</l>
+<l>Om suyver ende klaer,</l>
+<l>Hier op aerden te wesen,</l>
+<l>Waer door hy is verresen,</l>
+<l>In ‘t Saligh Nieuwe-Jaer. </l>
+<l rend="; 1tab">4. Hy heeft voor ons geleden,</l>
+<l>Aen ’t kruys veel sware pijn,</l>
+<l>Des duyvels macht vertreden,</l>
+<l>En roept hy komt tot mijn,</l>
+<l>Alle menschen die zijn</l>
+<l>Belast ende beladen:</l>
+<l>Hier is voor u genaden,</l>
+<l>Wilt mijn gehoorsaem zijn.</l>
+<pb n="89"/>
+<l>5. Men heeft die in voortijden, lange geprofenteert</l>
+<l>Dat Christus soude lijden,</l>
+<l>Voor ons menschen onweert,</l>
+<l>Wy waren overheert, Van duyvels sware bande</l>
+<l>Moet nu zijn sy tot schande, wel dese helt vermeert</l>
+<l rend="; 1tab">6. Siet liefde gaet hier blijcke,</l>
+<l>Van God uyt ’s Hemels Throon,</l>
+<l>Dat hy sijn soon seer rijke, om onsent wil liet doon,</l>
+<l>O overgrooten loon, Die wy van God verkrijge,</l>
+<l>Dus wilt sijn lof niet swijge,</l>
+<l>Maer stellen staegh ten toon.</l>
+<l>7. Oorlof laet ons gelijcken, Christus vollege naer</l>
+<l>Niet van’t geloof afwijke, maer houde het eenpaer</l>
+<l>In ons herten eerbaer, Om ’t eeuwige te winnen,</l>
+<l>So laet ons nu beginnen, in ’t salig Nieuwe Jaer.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0023"/> </interpGrp>
+<pb n="90"/>
+<head rend="h3"><hi rend="i">Een nieuw Liedt gemaeckt op de Sluysche Jeught.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Mijn wensch is dat haer meeste vreught, Geschiet altijd in eer en deught.</hi></head>
+<head>Stemme: <hi rend="i">Hoe leg ick hier in dees ellende, &amp;c.</hi></head>
+<lg type="poem"><l><hi rend="i">O</hi> Sluysche Jeught wilt doch aenmercken,</l>
+<l>Het geen ick u voor oogen stel,</l>
+<l>En laet het u tot leeringh strecken,</l>
+<l>Al ben ick mee een jongh gesel,</l>
+<l>Ick denck niet dan ’t sal dienstigh wesen,</l>
+<l>Voor al die dit singen ofte lesen.</l>
+<l rend="; 1tab">2. Voor eerst, ô jonckheyt wilt aflaten,</l>
+<l>Van al u pracht en hoovaerdy,</l>
+<l>Die gy gebruyckt langes de straten,</l>
+<pb n="91"/>
+<l>Met koorde, kant, silver op zy,</l>
+<l>Oock huyfde mutsen kostelicke,</l>
+<l>Met binne-werck ende gesticke.</l>
+<l rend="; 1tab">3. Men kentse bey niet voor malkander,</l>
+<l>Rijck, arrem wie het wesen mach,</l>
+<l>Den eenen die volght stracks den ander,</l>
+<l>Met prachten, pralen nacht en dagh:</l>
+<l>O! waerom gaet gy ’t lichaem cieren,</l>
+<l>Het welck is voor kruypende Dieren.</l>
+<l rend="; 1tab">4. Men siet vercierde Testamenten,</l>
+<l>Met silver om en weer,</l>
+<l>Men slaet sijn sin met op de prenten,</l>
+<l>Het binnenste, ja Godes leer,</l>
+<l>Wert dan daer door geheel vergeten,</l>
+<l>Als men in Gods huys is geseten.</l>
+<pb n="92"/>
+<l rend="; 1tab">5. De vromen niet te na gesproocken,</l>
+<l>Het gaet alsoo met veele lien,</l>
+<l>Dat sy de hoovaerdy meest soecken,</l>
+<l>Dan om deselve te ontvlien:</l>
+<l>O ’t is een grouwel voor den Heere!</l>
+<l>Want hy schrijft haer toe groot hertseere.</l>
+<l rend="; 1tab">6. Al beyt God langh hy sal eens komen,</l>
+<l>Wanneer den lesten dagh komt aen,</l>
+<l>Dat wy met schrick beven en schromen,</l>
+<l>Voor ’t heyligh Oordeel sullen staen:</l>
+<l>Daer God als Rechter sal uytspreecken,</l>
+<l>En yder sondaer sijn gebreecken.</l>
+<l rend="; 1tab">7. Daerom, ô jonckheyt wilt af-keeren,</l>
+<l>Van al u sware sonden boos,</l>
+<l>En dient aldus den Heer der Heeren,</l>
+<pb n="93"/>
+<l>Met een hert verslagen altoos:</l>
+<l>Het sal God aengenamer wesen,</l>
+<l>En gy sult eeuwigh zijn gepresen.</l>
+<l rend="; 1tab">8. Oorlof nu Speelmaets voor ’t leste,</l>
+<l>Ick en ben mijn selven niet vry,</l>
+<l>Daerom soo houd het mijn ten beste,</l>
+<l>Want ick ben gelijck ls gy,</l>
+<l>Belast belaen met hoovaerdye,</l>
+<l>Door ’s Duyvels aenlock en bestrye.</l>
+<pb n="94"/>
+<l><hi rend="i">V</hi>Aert wel, ô Sluysche Jeught,</l>
+<l>Reynight al u gedachten,</l>
+<l>Aenneemt de ware deught,</l>
+<l>Niet in geprael en prachten:</l>
+<l>Komt tot Gods heylich Woort,</l>
+<l>Komt doch vrymoedigh treen,</l>
+<l>Aenmerckt ende hoort,</l>
+<l>Rustigh WALZENUS reen:</l>
+<l>Een wijs verstandigh Man, </l>
+<l>Nootwendigh voor ons allen,</l>
+<l>Siet hy oock geven kan,</l>
+<l>Een les tot wel-gevallen:</l>
+<l>Mee Staveren bekent:</l>
+<l>Een Visscher-man des mens.</l>
+<pb n="95"/>
+<l>Treet voor in ’t goet exlent,</l>
+<l>Als Harder na ons wens:</l>
+<l>Eert dan den grooten Godt,</l>
+<l>Leert aen dees wijse mannen;</l>
+<l>Volbrenght ’s Heeren Gebodt,</l>
+<l>Waeckt eer u komt aenrannen,</l>
+<l>Gespoock van dood en hel,</l>
+<l>Voor haer een droef geschal,</l>
+<l>Die altijdt soeckt rebel,</l>
+<l>Te leven in dit dal.</l>
+<l>Maer gy ô Jonckheyt soet,</l>
+<l>Wilt u hier toe begeven,</l>
+<l>Te dienen God met spoet,</l>
+<l>Al in u jonge leven,</l>
+<l>Naeckt dan soo den Heer,</l>
+<pb n="96"/>
+<l>Dewijl het kan geschien:</l>
+<l>Reyn door bequame leer,</l>
+<l>Die Godt u komt aenbien,</l>
+<l>Soo sal u Godt hier namaels geven,</l>
+<l>Voorspoet en vreughden hoogh verheven,</l>
+<l>Hierom voor ’t lest,</l>
+<l>Doet doch u best,</l>
+<l>Alle de rest,</l>
+<l>Om saligh met den Heer te leven.</l>
+</lg></div>
+</div>
+<div type="chapter">
+
+<pb n="97"/>
+<head rend="h3">Een vermaeckelijck wonderlijck Verhael van een Burgermeesters Dochter tot Amstelredam.</head>
+<lg type="poem"><l><hi rend="i">E</hi>En wonderlick verhael en een seer vremde saeck,</l>
+<l>Stel ick u in gedicht, tot jonge Liens vermaeck,</l>
+<l>Ick bid u neemt de saeck doch eens in u gedachte,</l>
+<l>En let op het vermaeck en oock eens op de klachte:</l>
+<l>Het gaet de jonge lien ten deele oock wat aen,</l>
+<l>Dus leest of luystert toe, neemt het voor waerheyt aen:</l>
+<l>Om hier in kort te gaen en tot propoost te komen,</l>
+<l>Soos al ick u de saeck wat duydelijcker noemen</l>
+<l>Siet binnen Amsterdam, daer woont een machtig Heer,</l>
+<pb n="98"/>
+<l>Van staet en qualiteyt, als daer oock zijn veel meer</l>
+<l>Dees man die had een kint:een dochter uytgelesen,</l>
+<l>Haer schoonheyt en haer glans, wiert van den mensch gepresen;</l>
+<l>Om dese dochter quam so menig vroom jongman,</l>
+<l>Sijn min en trouwe bien als men wel denken kan,</l>
+<l>Doch hare Ouders bey wouden het niet toelaten</l>
+<l>Dat sy met een jongman vermaeck had om te praten</l>
+<l>Soo datter al de knechts ongetroost mosten gaen,</l>
+<l>Waerom de dochter ook met droefheyt was belaen</l>
+<l>Het scheen dat haer natuer was me als vele maegde</l>
+<l>En dat haer een jonghman in ’t herte wel behaeghde</l>
+<l>Dus ging sy quijnen heen,met droefheyt en gequel</l>
+<l>En dacht den meesten tijt, al om een jongh-gesel,</l>
+<l>Het was haer groote pijn dat sy niet mochte pare,</l>
+<pb n="99"/>
+<l>Het scheen het bloempje was het steeltje veel te sware;</l>
+<l>Ten lesten heeft sy dus de sake overdacht,</l>
+<l>Te blijven uyt den huys een gantsche lange nacht,</l>
+<l>Sy spreeckt haer Vader aen of hy het wil toelaten,</l>
+<l>Dat sy eens tot haer nicht mocht gaen om wat te praten,</l>
+<l>De Vader die seyt ja, mijn kint bewaer je wel,</l>
+<l>En doet gelijck gy seght, en weest doch niet rebel,</l>
+<l>Sy had een bly gelaet, maer siet het herte weende!</l>
+<l>Sy gaet ten huyse uyt, niet soo de Vader meende,</l>
+<l>Sy spreeckt haer nicht niet aen gelijck sy had belooft</l>
+<l>Sy gaet de stad straks uyt en was geheel bedrooft,</l>
+<l>Sy gaet al heen en weer met droefheyt speculeren,</l>
+<l>En dacht of haer de saek ten besten wel sou keeren:</l>
+<pb n="100"/>
+<l>Den dagh die neemt een end’ den avont die komt aen,</l>
+<l>Siet daer een Jonghman komt juyst na de stad toe gaen,</l>
+<l>Die had te kouwer-kerk hem wat wese vermaken</l>
+<l>Hy komt heel hart aengaen om in de stad te raken</l>
+<l>Hy komt de Dochter na en bietse goeden dagh,</l>
+<l>Sy hem oock wederom so lieflick alsse mag,</l>
+<l>Sy seit jongman van waer komt gy dus postig treden,</l>
+<l>En blijft een weynig staen, verhaelt my dog de reden</l>
+<l>Want ik leef in ’t verdriet, mijn hert is seer beklept</l>
+<l>Ick bid ootmoedelick meelijden met my hebt,</l>
+<l>En wilt my van de nacht doch wat geselschap houde,</l>
+<l>Misschien wat avontuer dit voor u wesen soude.</l>
+<pb n="101"/>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Juffrou ’t geen gy my segt en kan ik niet verstaen</l>
+<l>Dus bid ick u laet my doch na de stadt toe gaen,</l>
+<l>Want siet de Son is wech men sal  poorten sluyten,</l>
+<l>Dus laet ik henen gaen om niet te blijven buyten,</l>
+<l>Ick hoop van desen nacht in Amsterdam te zijn,</l>
+<l>Dus Juffrou en sult gy geen troost vinden by mijn</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Zijt gy een vry persoon? Wat is’er aen gelegen</l>
+<l>Of gy zijt in de stadt of oock op ander wegen:</l>
+<l>Geeft my maer goet bescheyt of gy van als zijt vry</l>
+<l>En gaet niet in de stad, maer blijft my troulijk by.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Juffrou bedenckt u wel en siet wat dat gy praet,</l>
+<l>Ick ben een Boots-gesel en gy van hoogen staet,</l>
+<pb n="102"/>
+<l>My dunckt in dese saeck is vry al wat gelegen:</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Neen’t is u groot geluk dat gy my dus komt tegen</l>
+<l>Wilt gy maer van de nacht wesen tot mijn gerijf,</l>
+<l>Misschien of ick hier na noch word’ u Echte wijf,</l>
+<l>Dit segh ick voor gewis,het sal u wel gelucken,</l>
+<l>Denckt op geen valschen schijn of and’re snoode stucken.</l>
+<l rend="speaker"><hi rend="i">Jonghman</hi>.</l>
+<l>Heeft dit een goeden gront soo laten wy dan gaen,</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Hoe anders jonck gesel,siet my daer niet voor aen,</l>
+<l>Dat ick kom op bedrogh of and’re listighede.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Maer Juffrou hoe dan dus? Verhaelt my eens de reden,</l>
+<pb n="103"/>
+<l>Waerom gy zijt bedroeft en jammerlick belaen?</l>
+<l>’t Is boven mijn verstant ik kan het niet verstaen.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>De oorsaek van mijn smart sal ick u wel verklaren</l>
+<l>’t Is jongman dat ick niet eerelijck mach paren,</l>
+<l>Mijn Ouders alle bey die zijn heel machtigh rijck,</l>
+<l>So datter geen jongman schier komt na haers gelijk</l>
+<l>Want siet daer komter veel op deugt en eerbaerheden,</l>
+<l>Oock rijck van gelt en goet en wel begaeft van leden,</l>
+<l>So rijk maer met een knecht sta eerelijck en praet,</l>
+<l>Sy spreken hem straks toe dat hy weer henen gaet</l>
+<l>Sy seggen tegen my daer sal wel beter komen,</l>
+<l>Gy zijt noch al te jong,dus heb ick voor-genomen</l>
+<l>Te tyen uyt de Stadt,te soecken avontuer,</l>
+<pb n="104"/>
+<l>En niet te komen weer voor ick had een partuer:</l>
+<l>Hier hebt gy nu verstaen de oorsaek van mijn klagen</l>
+<l>Die ick vrymoedelick u hebbe voor-gedragen.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Ick heb nu al genoegh van u ô Juffrou goet,</l>
+<l>Ick wensch dat ghy noch sult werden mijn naeste bloet,</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Wel jongman ick moet u ten vollen gunstig prijsen</l>
+<l>En seght waer sullen wy van dese nacht logijsen?</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Siet daer leyt Kouwer-kerck,daer is goet logement,</l>
+<l>Maer lief,een dingh moet ick u maken noch bekent,</l>
+<l>Het welcke nu mijn hert met droefheyt komt besteken,</l>
+<pb n="105"/>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ey swijght geen ding voor my maer wilt vrymoedigh spreecken,</l>
+<l>En openbaert het stracks het gene u bedroeft,</l>
+<l>Ick sal het voeren uyt, seght maer wat gy behoeft.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>De oorsaek van het geen het wellik my komt quellen</l>
+<l>Sal ick u dragen voor en in het kort vertellen,</l>
+<l>Siet lief ick heb geen gelt want mijne beurs is leeg</l>
+<l>En dit quelt mijn gemoet waer door ick heb geen deegh.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>’t Is niet te pijne waert om van droefheyt te spreken</l>
+<l>Het sal nu van de nacht ons aen geen gelt ontbreken</l>
+<l>Port alle droefheyt wech en toont een bly gelaet,</l>
+<pb n="106"/>
+<l>Op dat gy komen meught in een vrolicken staet,</l>
+<l>Ick sal nu voor ons bey het alles wel betalen,</l>
+<l>Al de’en wy van de nacht Prince of Heere malen.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Maer lief hoe sullen wy ’t te nacht best leggen an?</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Seght dat ick ben u wijf en gy mijn echte man,</l>
+<l>Hier is in ’t minste geen verdriet of swarigheden,</l>
+<l>Wy zijn doch alle bey noch onbeslapen leden.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Siet lief daer staet de waert al voor sijn eygen huys</l>
+<l>Laten wy dat dees nacht gaen nemen voor ons t’huys.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Hier benne wy nu by in stilheyt op een kamer,</l>
+<l>Al de’en wy Minne-spel ’t geschiet niet als met Thamer.</l>
+<pb n="107"/>
+<l>Doe Ammon haren Broer sijn wille had gedaen,</l>
+<l>So moest sy heel geschent straks uyt de kamer gaen</l>
+<l>De banden tusschen ons die most men vaster maken</l>
+<l>Door een getrouwen eed dat sy niet los en raken.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>De saeck tusschen ons bey die dient wel overdacht,</l>
+<l>Ick heb een reys voor hant die moet eerst zijn volbracht,</l>
+<l>Want ick ben al verhuert om na de straet te varen.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Seght uwen dienst weer op,en schout de bracke baren,</l>
+<l>En slaept by my van d’nacht,so mach ‘t ook meer geschien,</l>
+<l>Wanneer wy door den Trou gekomen zijn tot ien,</l>
+<l>‘tMoet evenwel gewaegt nu sijn tussen ons beyde,</l>
+<pb n="108"/>
+<l>Wilt gy het maer bestaen en u daer toe bereyde,</l>
+<l>En siet ick wort bevrucht met een onnoosel kint,</l>
+<l>So sult gy noch veel meer van my werden bemint.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Siet lief ick wil my nu geheel wel tot u wenne,</l>
+<l>Maer als ick weer kom t’huys gym y dan wel kenne?</l>
+<l>En met my in den Echt in Godes weese gaen,</l>
+<l>En my voor uwen Man in liefde nemen aen?</l>
+<l>Hier moet gy van de nacht een goet bescheydt van geven,</l>
+<l>Opdat ick in de saeck gerustigh mochte leven.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Dit sta ick met u toe,dit wil ick niet afslaen,</l>
+<l>Siet wilt nu desen ring in trouwigheyt ontfaen,</l>
+<pb n="109"/>
+<l>Op dat gy meught tot my een vaste liefde stellen</l>
+<l>Dus voegt u in de saek en wilt u doch niet quellen.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Siet mijn gemoet verquickt ick krijg een vast vertrouw,</l>
+<l>Waer door ick nu geheel laet varen mijnen rouw:</l>
+<l>Nu eer den dagh komt aen soo laten wy nu beyde</l>
+<l>Ons geven tot de reys en na het slapen scheyde.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Mijn liefstelief ontwaeckt,den dagh die komt nu aen,</l>
+<l>Siet het is tijd voor ons om na de stadt te gaen,</l>
+<l>Siet daer is noch wat gelt ick sal nu eerst vertrecke</l>
+<l>Om alsoo dese saeck geen menschen te ontdecke,</l>
+<l>Doch soo het u beliefe in ’t Huwelijck te treen,</l>
+<pb n="110"/>
+<l>Soo staeckt de straetse reys en tijt nu met my heen.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Dit sal niet anders zijn de reys moet ik volbrengen</l>
+<l>Doch ick beloof u dit ick salse niet verlengen,</l>
+<l>Maer weder komen t’huys so haestig als ick mach</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Was ick so luckigh eens t’aenschouwen deses dagh</l>
+<l>Doch mach het nu niet zijn soo is dit mijn begeren,</l>
+<l>Dat gy u oeffent om Godsaligheyt te leeren,</l>
+<l>Verloopt u selven niet in brassen en oneer</l>
+<l>Op dat mijn Vader u mach stellen tot een Heer,</l>
+<l>Want ’t is een losse vaert daer gy u gaet begeven,</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Siet ick beloof u dit te leyden een goet leven,</l>
+<l>Stelt maer u hert gerust wanneer ick henen vaer,</l>
+<pb n="111"/>
+<l>Ick sal mag het geschien weer komen binnen ’t jaer</l>
+<l>Den tijt die valt te kort,om meer aenspraek te maken,</l>
+<l>Ick wensch u goeden dagh,doet wel in alle saken</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ick wensch u mede toe geluck en vree bequaem.</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Adieu mijn liefstelief gaet in des Heeren Naem.</l>
+<l><hi rend="i">De Dochter bedroeft sijnde, wandelt na de Stadt, en spreeckt in haer selven aldus:</hi></l>
+<l>Wat sal mijn Vader nu van dit uytblijven seggen?</l>
+<l>Ick dien nu dese saeck by my te overleggen,</l>
+<l>Spreeck ick weer van mijn Nicht dat ick daer heb geweest,</l>
+<l>Misschien sal hy daer gaen vragen het ten eerst,</l>
+<pb n="112"/>
+<l>Ick kan mijn selven hier geen raet of daet in geven</l>
+<l>Dat is een saeck die ick goetwilligh heb bedreven,</l>
+<l>Hoe rasser dat ick ga hoe ’t eer sal zijn gedaen,</l>
+<l>Ick sie mijn Vaders huys met droeve oogen aen.</l>
+<l><hi rend="i">De Vader toornigh sijnde, spreekt tot de Dochter.</hi></l>
+<l>Wat is dit voor een werk,wat gaet gy nu beginnen</l>
+<l>Wel dogter wilt gy ons gants helpe buyten sinnen</l>
+<l>Waer hebt gy van de nacht soo stoutelick geweest?</l>
+<l>U Moeder en ick oock die waren seer bevreest,</l>
+<l>Het is geen eerlick werck so uyt den huys te blijven</l>
+<l>Gy hebt immers genoegh by ons tot u gerijven,</l>
+<l>Of zijt gy Minne-graegh seght uyt ritsige teef?</l>
+<l>Gy maeckt mijn gramschap groot dat ick daer schier van beef,</l>
+<l>Ick seg so ’t weer geschiet dat ick nu heb bevonden</l>
+<pb n="113"/>
+<l>Dat gy dan van ons bei sult werden heen gesonden</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Wat Man het is genoegh,ey staeckt u felle reen,</l>
+<l>De fout die is byna een half jaer geleen,</l>
+<l>So hier maer rijsen uyt voor ons geen droever saken</l>
+<l>Ick sal dan noch dit werck van haer also niet laken</l>
+<l>Maer laes! Ick sorge dat sy nu bevrucht sal wesen,</l>
+<l>Want sy soeckt staegh alleen in stilligheyt te wesen.</l>
+<l rend="speaker"><hi rend="i">De Vader.</hi></l>
+<l>Och vrou! wat segt gy daer bevrugt al sonder man</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Ja ick nu anders niet aen haer bespeuren kan:</l>
+<l>Dus bid ick u wilt haer wat sachter doch aenspreken,</l>
+<l>Op dat sy niet en valt in meerder qua gebreken,</l>
+<pb n="114"/>
+<l>Want so een mensch behoeft wel troost,maer geen gekijf.</l>
+<l rend="speaker"><hi rend="i">De Vader.</hi></l>
+<l>Ick stelle geen geloof in u mal praten wijf.</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Of gy ’t gelooft of niet de tijd sal het leeren,</l>
+<l>Het geen sy heeft gesmaeckt en sal sy niet verteren,</l>
+<l>Ick sal haer t’avond eens aenspreken sagt en goet</l>
+<l>Al in een stilligheyt met woorden heus en soet,</l>
+<l>Op dat ick mach alsoo de rechte oorsaeck weten,</l>
+<l>Waerom dat sy dus treurt en niet en lust te eten.</l>
+<l rend="speaker"><hi rend="i">De Vader.</hi></l>
+<l>Ja Vrouw doet gy alsoo en ondertast de saeck,</l>
+<l>En siet of sy niet schept uyt u eenigh vermaeck.</l>
+<pb n="115"/>
+<l><hi rend="i">De Moeder spreeckt de Dochter aen als ’t volgt.</hi></l>
+<l>Wel kint hoe treurt gy so, hoe bent gy dus verslagen?</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ey Moeder swijght hier van en wilt my doch niet vragen,</l>
+<l>Want ik ben soo bedroeft inwendigh in mijn hert,</l>
+<l>Dat ick ten vasten niet uytspreken kan mijn smert.</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Bedroeft u niet te seer,vertelt my eens u smerte,</l>
+<l>En segt wat datter schuylt in’t binnenst van u herte</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>De droefheyt is so groot dat ick’t nau seggen kan,</l>
+<l>Doch evenwel om hier een end te maken van</l>
+<l>Soo sal ick u de saeck in ’t korte eens verklaren,</l>
+<pb n="116"/>
+<l>Het is geschiet ontrent nu over ’t half jare,</l>
+<l>Dat ick ben uyt de stadt gegaen met veel droefheyt</l>
+<l>Daer my een jongman moet,die ick heb toegeseyt</l>
+<l>Mijn trou,so hy het wou bestaen met my te paren</l>
+<l>Hy sey hy woude eerst de Straetsche reys bevaren.</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Nu hoor ick wel hoe ’t is al segje niet veel meer,</l>
+<l>Voorseker met u wil zijt gy ontset van d’eer.</l>
+<l>Wat schant is dit voor u,en ons,wie kan ’t uytspreken?</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ey lieve moeder sacht! mijn herte schijnt te breken,</l>
+<l>En kijft doch niet op my die saeck die is geschiet,</l>
+<l>Ick konde soo eensaem doch langer leven niet,</l>
+<l>Gy hebt my al te kort van Vrijers willen houwen</l>
+<l>En niet begeert dat ick in eerbaerheyt sou trouwen</l>
+<pb n="117"/>
+<l>Nu heb ick dit bestaen,en soo daer heen gewaeght,</l>
+<l>Misschien of noch de saeck ten besten sig toedraegt.</l>
+<l rend="speaker"><hi rend="i">Moeder.</hi></l>
+<l>Ick speure ’t is so ’t is en niet so ’t hoort te wesen,</l>
+<l>Maer hoe sal Vader u soo als ick vrees belesen,</l>
+<l>Hoe sal hy zijn ontstelt en in den geest gestoort,</l>
+<l>Als hy dit altemael verstaet en van u hoort.</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ach lieve Moeder! wilt de sake doch verschoonen,</l>
+<l>Op dat hy niet te hart aen my hem komt te toonen</l>
+<l>Gy weet het selve wel door eyg’ ervarentheyt,</l>
+<l>Hoe dat de sake met de jonge Vrijsters leyt.</l>
+<l><hi rend="i">De Moeder spreeckt de Vader aen in absentie van de Dochter.</hi></l>
+<l>Wel Man ick heb dit stuck haer naeu gaen ondervragen,</l>
+<pb n="118"/>
+<l>En ’t is gelijck ick docht,hoe sal men hier in dragen</l>
+<l rend="speaker"><hi rend="i">De Vader.</hi></l>
+<l>Stoot dese vuyle hoer van ons ten huyse uyt,</l>
+<l>s’Is waert dat men de deur haer voor den hoofde sluyt,</l>
+<l rend="speaker"><hi rend="i">De Moeder.</hi></l>
+<l>Maer man al heeft sy haer dus verre nu vergrepen</l>
+<l>’t Is evenwel ons kint al heeft sy vuyle strepen,</l>
+<l>En als ick ’t overlegh,’t is u en mijne schult,</l>
+<l>Dus laet ons dese saeck verdragen met gedult,</l>
+<l>Wy hebben haer te lang met onverstant weerhouwen,</l>
+<l>Wy konden haer wel eer met eere laten trouwen,</l>
+<l>Ick hebbe nu en dan dit onheyl wel gevreest,</l>
+<l>Want sy is over langh al vlugh en rijp geweest:</l>
+<l>Wanneer de peere rijpt soo wilse veeltijts vallen;</l>
+<pb n="119"/>
+<l>En als de Vrijster rijpt soo wilse veeltijds mallen,</l>
+<l>Wy waren al te wijs, wy sagen al te hoogh,</l>
+<l>Wy spanden al te hart (gelijck men seyt) den boog</l>
+<l>Nu ’t is soo ’t blijven moet,men soud wel anders wenschen,</l>
+<l>Maer doch de fouten zijn veelvuldigh by de menschen,</l>
+<l>De boosheyt hangt van jonghs doch alle menschen aen,</l>
+<l>Soo datse menighmael verkeerde wegen gaen,</l>
+<l>De Vader hoort dit aen, hy swijght op dese reden,</l>
+<l>Een ruyme wijle stil,en gaet wat eensaem treden,</l>
+<l>En na dat hy de saeck had grondigh overleyt,</l>
+<l>Soo docht hy ’t is wel waer,gelijck mijn huysvrouw seyt,</l>
+<pb n="120"/>
+<l>Hy koelt sijn herten moet en leyt den tooren neder,</l>
+<l>Hy denckt en overdenckt de sake dickmaels weder,</l>
+<l>Het is hem wel een smert,een droefheyt in ’t gemoet</l>
+<l>Maer doch het is sijn kint, sijn eygen vlees en bloet</l>
+<l>De Vrijer onderwijl gaet sich op reys begeven,</l>
+<l>Maer heeft veel ongeluck, veel ramp en tegen-streven,</l>
+<l>In plaetse dat de reys een jaertje was gegist,</l>
+<l>Soo lijter juyst wel vijf, de meningh is gemist:</l>
+<l>De Dochter onderwijl die is vol swarigheden</l>
+<l>Gelijck men dencken kan en dat niet sonder reden.</l>
+<l>De negen maenden gaen,sy krijgt een jonge soon,</l>
+<l>Een kint gelijk een beelt,van aensien glat en schoon</l>
+<l>Maer dit ist altemael hier is geen vaer voor handen,</l>
+<l>Want die is wegh gereyst in verr’gelegen Landen,</l>
+<pb n="121"/>
+<l>Sy hoopt wel dat hy haest sal komen binnen ’t jaer</l>
+<l>Maer siet den tijt verloopt,hy wert niet openbaer,</l>
+<l>Dan grijptse somtijts moet en denckt hy sal haest komen,</l>
+<l>Dan is haer wederom de hope gantsch benomen,</l>
+<l>Den tijdt die duert te langh,haer hope die vergaet</l>
+<l>Dies leeftse vast in druck en in bedroefden staet:</l>
+<l>Haer kindt wort by het volck een hoere-kindt geheten,</l>
+<l>En ’t wort haer wel gegunt en somtijts oock verweten,</l>
+<l>Na ’t eynde van vijf jaer soo komt den Bootsman weer,</l>
+<l>Die schier vergeten was men dogt na hem niet meer</l>
+<l>Hy komt tot Amsterdam tot eene van de bueren,</l>
+<l>Die by de dogter woont,men vraegt van avonture</l>
+<pb n="122"/>
+<l>Soo overweer en weer,hy hout hem eerst wat slegt</l>
+<l>Maer heeft eyd’lick den buyr de sacke uytgelegt,</l>
+<l>Hoe hy de jongman was,dat kint sijn eygen vader</l>
+<l>Na dat hy eerst de saeck had onderstaen wat nader</l>
+<l>En dat hy uyt den buyr soo vele had verstaen,</l>
+<l>Dat hem docht dat hy niet sou op ’t onseker gaen,</l>
+<l>Men maeckt een kort besluyt,deVrijster wert ontboden,</l>
+<l>Hy openbaert de saeck,sy bleeck gelijck de dooden,</l>
+<l>En valt daer van haer self,van schrick gantsch in onmacht,</l>
+<l>Maer na een weynigh tijts sy krijght weer nieuwe kracht,</l>
+<l>Hy toont haer vast bescheyt,dat sy kan seker houwen,</l>
+<l>Dat hy de jongman is hy haer belooft te trouwen,</l>
+<pb n="123"/>
+<l>Den ring die wijstet uyt,daer is geen twijffel aen,</l>
+<l>Dies wert de dogter weer met blijtschap aengedaen</l>
+<l>De Vader van gelijck en oock de Moeder mede,</l>
+<l>Die zijn hier in verheugt en dat niet sonder rede:</l>
+<l>Haer dochter die dus langh een hoere was geacht,</l>
+<l>Die wort nu onverwacht ter eeren noch gebracht,</l>
+<l>Het kint wort oock ge-eert,men gaet te samen trouwen</l>
+<l>En een bequame Feest en blyde Bruyloft houwen</l>
+<l>De saeck valt noch op ’t lest ten alderbesten uyt,</l>
+<l>Want siet de bootsman krijgt een schone rijke bruit</l>
+<l>De dochter en het kint die worden by de menschen</l>
+<l>Geagt,en weer gesien als yemant konde wenschen</l>
+<l>Hy die een Bootsman was die gaet nu als een Heer</l>
+<l>Een man van slegten staet die krijgt noch grote eer</l>
+<l>Hy krijgt een ampt van eer en aensien by de lieden,</l>
+<pb n="124"/>
+<l>Hy draeght hem wijs en wel gelijck het moet geschieden.</l>
+<l>“  Het geen hier is verhaelt kan dienen tot een leer,</l>
+<l>“  Voor Ouders datse doch wel gade slaen wanneer</l>
+<l>“  Sy speuren ende sien dat haer Dochters hellen,</l>
+<l>“  En haken na den man, dat sy niet uyt en stellen</l>
+<l>“  De saecke veel te lang, maer komt het taem’lick by,</l>
+<l>“  Dat sy haer kinders dan den wille laten vry:</l>
+<l>“  De Dochters van gelijck kan dit een lesse wesen</l>
+<l>“  Dat sy voorsichtigh zijn en onheyl leeren vreesen</l>
+<l>“  Al beurtet dat somtijts de saeck ten besten koomt</l>
+<l>“  Het quade dient al mee ten hooghsten voorgeschroomt,</l>
+</lg></div>
+<div type="chapter">
+
+<pb n="125"/>
+<head rend="h3"><hi rend="i">Van het perijckel der Zee-varende Luyden, en hoe sy haer behooren te dragen.</hi></head>
+<lg type="poem"><l>Wat heeft een Zee-man al verdriet en swarigheden?</l>
+<l>Wat komt hem smerte toe en droefheyt in sijn leden</l>
+    <l rend="; 1tab">Wanneer hy soeckt sijn kost te winnen op het Meer,</l>
+<l rend="; 1tab">Hoe menigh wonder-werck siet hy van God den Heer!</l>
+<l>Door storm en tempeest,door blixem,hagel,donder</l>
+<l>Het denckt my op het hooghst te wesen een groot wonder,</l>
+<pb n="126"/>
+<l rend="; 1tab">Dat hy noch op de zee het varen heeft bestaen,</l>
+<l rend="; 1tab">Daer menig Zeemans-kint met droefheydt is vergaen,</l>
+<l>Daer menig zeemans-kint sijn leven heeft verloren</l>
+<l>Daer menig zeemans-kint de baren deen versmoren</l>
+<l rend="; 1tab">Daer menigh zeemans-kint de dood heeft wegh gehaelt,</l>
+<l rend="; 1tab">Daer menig zeemans-kint leyt tot den gront gedaelt,</l>
+<l>Daer menigh zeemans-kint leyt tot den gront gesmeten,</l>
+<l>Daer menigh zeemans-kint wert van den vis gegeten</l>
+<l rend="; 1tab">Daer menig zeemans-kint sijn leven heeft ge-ent</l>
+<l rend="; 1tab">Daer ist dat hy hem noch heel onbedagt na went</l>
+<l>Ja vaert somtijts van ’t lant wel dapper vol gesopen</l>
+<l>Soo dat hy naeu een woort kan tot sijn Schepper ropen:</l>
+<pb n="127"/>
+<l rend="; 1tab">Ja is somtijts in Zee dat hy het niet en weet,</l>
+<l rend="; 1tab">Dus wert den goeden tijd van velen soo besteet:</l>
+<l>Dus vaert men van het Lant men komt op’t bracke water,</l>
+<l>Terstont is d’eene mensch den anderen sijn hater,</l>
+<l rend="; 1tab">Ja acht of seven man besloten t’saem by een,</l>
+<l rend="; 1tab">En konnen nau een teelt of reyse zijn te vreen,</l>
+<l>Maer veeltijts gater twist en haet aldaer in swangen,</l>
+<l>Wanneer men wenscht en soeckt den zegen Godts t’ontfangen,</l>
+<l rend="; 1tab">Dan hoort men menigmael dat vloecken en gesweer,</l>
+<l rend="; 1tab">Dan hoort men menigmael een onbeschofte leer</l>
+<l>Dan hoort men menigmael dat slimme argueren,</l>
+<l>Dan hoort men menigmael den name Gods onteren</l>
+<pb n="128"/>
+<l rend="; 1tab">Dan hoort men menighmael dat d’een den aer belieght,</l>
+<l rend="; 1tab">Dan hoort men menighmael dat d’een den aer bedrieght,</l>
+<l>Dan hoort men menighmael malkander stout toespreken,</l>
+<l>Dan hoort men menighmael de spot met vroome steken,</l>
+<l rend="; 1tab">Dan hoort men menighmael gekijf,twist,tweedracht,haet,</l>
+<l rend="; 1tab">Dan hoortmen menigmael een goddeloose praet</l>
+<l>Dan hoortmen menigmael een beest’lijck deuntjen singen,</l>
+<l>Dan hoortmen menigmael on-Christelijke dingen</l>
+<l rend="; 1tab">Dan hoortmen menigmael ik sien dat mede wel</l>
+<l rend="; 1tab">Soo gy my hebt gedaen ick u vergelden sel</l>
+<pb n="129"/>
+<l>Dan hoort men menighmael den zegen schier vervloecken,</l>
+<l>Dan hoort men menighmael dat quaet-doen wert gewroken,</l>
+<l rend="; 1tab">Dan hoortmen menigmael qua dingen stellen voor</l>
+<l rend="; 1tab">Dan sietmen menigmael de Vissers buiten spoor,</l>
+<l>dan hoortmen menigmael malkander toenaem geven</l>
+<l>dan sietmen menigmael d’een staen na d’anders leven</l>
+<l rend="; 1tab">Dan siet men menighmael het goet met quaet beloont,</l>
+<l rend="; 1tab">Dog hier in moeten nu de vrome zijn verschoont</l>
+<l>Want ’t waer te veel geseyt sy zijn so t’samen alle,</l>
+<l>Daer zijn noch Vissers veel die God te voete valle,</l>
+<l rend="; 1tab">Daer zijn noch Vissers veel die grouwelen hier af,</l>
+<l rend="; 1tab">Daer zijn nog Vissers veel die vresen Godes straf</l>
+<pb n="130"/>
+<l>Daer zijn noch Visschers veel die dese dingen hate,</l>
+<l>Daer zijn noch Visschers veel die dese dingen late,</l>
+<l rend="; 1tab">Daer zijn noch Visschers veel oprecht vroom van gemoet,</l>
+<l rend="; 1tab">Die stel ick hier niet in,maer al die sulcks doet,</l>
+<l>Die op Godt niet en denckt of’t moet een storrem waeyen,</l>
+<l>Dan siet men haer gemoed in droefheydt ommedraeyen,</l>
+<l rend="; 1tab">Dan sietmen somtijts in haer een bedroefden geest</l>
+<l rend="; 1tab">Dan denktmen menigmael og! hoe heb ik geweest</l>
+<l>So roek’loos van gemoet,so onbedagt van sinnen</l>
+<l>Den Satan laet hem straks by sulke mensen binnen</l>
+<l rend="; 1tab">Die maekt haer meer bedroeft,die brenght haer in gedacht,</l>
+<l rend="; 1tab">Hoe dat sy haren tijd al hebben door gebracht,</l>
+<pb n="131"/>
+<l>Veel sonden grof en groot,seyt hy,hebt gy bedreven,</l>
+<l>Nu isset al te laet om u tot God te geven:</l>
+<l rend="; 1tab">U sonden zijn te groot God geeft u geen gena,</l>
+<l rend="; 1tab">’t Is al te laet berou den tijd die komt te spa.</l>
+<l>Wilt gy u nu tot God in desen storm begeven,</l>
+<l>Te voren hebt gy noyt na sijn woort willen leven,</l>
+<l rend="; 1tab">Gy moet hier nu vergaen u tijt heeft hier een ent</l>
+<l rend="; 1tab">In eeuwigheyt sult gy van God niet zijn gekent</l>
+<l>De hoop van saligheyt is voor u toe-gesloten,</l>
+<l>Want gy hebt veel gedaen dat Gode heeft verdroten</l>
+<l rend="; 1tab">God sal u senden weg wanneer het oordeel komt</l>
+<l rend="; 1tab">In eeuwigheyt sult gy van hem werden verdomt</l>
+<l>Dan siet men dat den mens bedroeft is en verslagen</l>
+<l>Ja ’t hert kan niet opregt tot sijnen schepper klagen</l>
+<pb n="132"/>
+<l rend="; 1tab">Dus zijn sy heel ontstelt en schrickelik verbaest,</l>
+<l rend="; 1tab">Wanneer sy hooren dat de Zee geweldigh raest,</l>
+<l>Dan doet men wel somtijts beloften aen den Heere</l>
+<l>O God stilt gy den wint! ick sal my dan bekeere:</l>
+<l rend="; 1tab">Ick sal u dit of dat op-offeren bequaem,</l>
+<l rend="; 1tab">Och! Noyt en sa lick weer onyheyligen u naem,</l>
+<l>Soo ras als Godt dan neemt de droefheydt van de menschen,</l>
+<l>En dat onweer stilt na haer gelief en wenschen</l>
+<l rend="; 1tab">Hoe weynig hout men dan den storrim in gedagt</l>
+<l rend="; 1tab">Hoe roeck’loos wort den tijt dan weder door gebragt,</l>
+<l>Soo ras als God de reys behouwen laet vol-enden</l>
+<l>Dan siet men haer terstont tot gulsigheden wenden</l>
+<l rend="; 1tab">Ja ’t beurt somwijle wel soo ras men komt aen lant,</l>
+<pb n="133"/>
+<l rend="; 1tab"> Dat men hem self berooft van wijsheyt en verstant,</l>
+<l>Het is een droeve saeck,op aerden veel gebleken,</l>
+<l>Wanneer een mensch van jonghs geen tael heeft om te spreken,</l>
+<l rend="; 1tab">Maer ’t is noch droeviger voor die de gaef wel heeft,</l>
+<l rend="; 1tab">Dat hy sijn spraeck  berooft die Godt van jonghs hem geeft,</l>
+<l>Het zijn maer moordenaers van haer eygen zielen</l>
+<l>Die door den dronck de doodt dus trecken op haer hielen,</l>
+<l rend="; 1tab">Wee! wee! roept de Propheet die geen die helden zijn,</l>
+<l rend="; 1tab">Om drincken stercken dranck,van bier of oock van wijn,</l>
+<pb n="134"/>
+<l>Godt schrijft haer toe een straf die eewighlick sal dueren,</l>
+<l>Voorseker sal den dronck veel pijn en smart besueren,</l>
+<l rend="; 1tab">God kan ’t verdragen niet al in sijn suyver oogh</l>
+<l rend="; 1tab">Hy siet het alles wel al woont hy veer om hooch</l>
+<l>Hy kent des menschen doen,hy kent des menschen harte,</l>
+<l>Wel waerom dan de Heer dus gruwelick gaen tarte,</l>
+<l rend="; 1tab">Waerom den goeden tijt onnuttelick verquist?</l>
+<l rend="; 1tab">En willens Godes gunst en goetheyt na gemist</l>
+<l>O mensche denckt dit na! wilt gy niet namaels beven,</l>
+<l>So schickt u doch in tijds tot deughden te begeven,</l>
+<l rend="; 1tab">Die vroom en heylighlijck hier doorgaens heeft geleeft,</l>
+<pb n="135"/>
+<l rend="; 1tab">Ook midden inde dood een vast vertrouwen heeft</l>
+<l>Wel aen dan Sluysche Jeugt en alderhande menschen,</l>
+<l>Die hier een goeden strijdt en namaels vreede wenschen,</l>
+<l rend="; 1tab">Wilt gy de sond’ontgaen en ’t eeuwigh ongeval,</l>
+<l rend="; 1tab">Soo denckt tot allertijd dat eens gebeuren sal,</l>
+<l>Bysonder die ‘r op Zee in prijckel veel begeven,</l>
+<l>En daer met Visschery of anders moeten leven,</l>
+<l rend="; 1tab">Doet altijd vroom en wel, en vlied doch van het quaet,</l>
+    <l rend="; 1tab">Denckt dat God over al het boose wesen haet,</l>
+    <l>Dit doende sal gewis den zegen op u komen,</l>
+    <l>En rampen, plaegh, en straf sal werden wech-genomen,</l>
+    <l rend="; 1tab">Geluckigh is de mensch die dit alsoo verstaet,</l>
+    <pb n="136"/>
+    <l rend="; 1tab">En ongeveynst altijt in Godes wegen gaet,</l>
+    <l>Hy sal sich met sijn werck en handel wel generen,</l>
+    <l>En niet van dagh tot dagh ten achter langer teren:</l>
+    <l rend="; 1tab">In ’t korte met een woort,die na behooren doet,</l>
+    <l rend="; 1tab">Soo een kan met goe gront verwachten veel voorspoet.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0024"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Geestelijck Liedeken, op ’t zeyl-gaen van de Visschers. </hi></head>
+            <div type="section">
+                <head rend="h4">Op de wijse: <hi rend="i">De fiere Nachtegale.</hi> </head>
+                <lg type="poem">
+                    <l>Wy die ter zee gaen varen,</l>
+                    <l rend="; 1tab">O Heer wilt ons bewaren,</l>
+                    <l rend="; 1tab">Voor stormen ende baren,</l>
+<pb n="137"/>
+<l>Die ons soude doen beven,</l>
+<l>Wilt noyt ons hert besware,</l>
+<l>Maer in gesontheyt spare,</l>
+<l>Neemt wech de droeve mare,</l>
+<l>Door uwe macht verheven,</l>
+<l>O Heer ons doch geleyt,</l>
+<l>Want wy zijn nu bereyt,</l>
+<l>Tot Visschen met bescheyt,</l>
+<l>Op ’t water wijt en breyt,</l>
+<l>Wilt ons doch niet verlate,</l>
+<l>Maer komt ons Heer te bate,</l>
+<l>Want wy zijn swacke vate,</l>
+<l>Sonder u niet,ja brooser dan een riet.</l>
+<l rend="; 1tab">2. Geleyt ons in u wegen,</l>
+<l>Op dat wy recht terdegen,</l>
+<pb n="138"/>
+<l>Het Visschen mogen plegen</l>
+<l>Na u wil en behage,</l>
+<l>Want ’t is hier aen gelegen,</l>
+<l>Goe wercken te plegen,</l>
+<l>Wert zegen door verkregen,</l>
+<l>Soo de Schrift doet gewagen,</l>
+<l>Geeft ons ô Vader goet,</l>
+<l>Visschen in overvloet,</l>
+<l>Op dat wy vol en soet,</l>
+<l>Komen te Landen met spoet,</l>
+<l>Alwaer wy uwen Name</l>
+<l>Sullen loven bequame,</l>
+<l>Na het rechte betame,</l>
+<l>Al op Maes-sluys,Heer in u heyligh huys.</l>
+<l rend="; 1tab">3. Doet ons dan die genade,</l>
+<pb n="139"/>
+<l>Dat wy wel neerstigh gade</l>
+<l>Slaen op u woort en dade</l>
+<l>Die u dienaers verkonde:</l>
+<l>U woort laet zijn als zade,</l>
+<l>In ons hart vroegh en spade,</l>
+<l>Doet opwassen als blade,</l>
+<l>Dat wy goet zijn bevonden</l>
+<l>Voor u heyligh aenschijn,</l>
+<l>Geeft gy ons Medicijn,</l>
+<l>Bevrijt ons van de pijn</l>
+<l>Die eeuwighlijck sal zijn,</l>
+<l>Laet ons gaen niet verloren,</l>
+<l>Dat wy in sonden smooren,</l>
+<l>Maer maeckt ons nieuw herboren,</l>
+<l>Met uwen Geest,geduerigh by ons weest.</l>
+</lg></div></div> 
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0025"/> </interpGrp>
+    <interpGrp>
+        <interp type="primair" value="maass001"/>
+    </interpGrp>
+<pb n="140"/>
+    
+<head rend="h3"><hi rend="i">Byvoeghsel, Een Nieuw Lof-Liedt, gemaeckt over den uytmuntenden Zegen, aengaende de Visserye binnen Maeslants-Sluys.</hi> </head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Ick gingh op eenen Morgen.</hi> </head>
+<lg type="poem"><l><hi rend="i">M</hi>Aeslandt-sluys groot van waerden,</l>
+<l>Gelegen in Hollandt,</l>
+<l>Noyt uws gelijck op Aerden,</l>
+<l>Ick in Europa vant,</l>
+<l>Van Visschery in overvloet,</l>
+<l>Gelijck ick lest aenschouwde:</l>
+<l>’t Welck my nu singen doet.</l>
+<pb n="141"/>
+<l>2.</l>
+<l rend="; 1tab">Voor eerst veel hondert zielen,</l>
+<l>Soo t’samen groot en kleen,</l>
+<l>Die door malkander krielen,</l>
+<l>Rijck,arm en oock gemeen,</l>
+<l>Daer onder menigh nobel geest,</l>
+<l>Wanneer sy t’zeewaert wenden,</l>
+<l>Het schijnt sy gaen ter feest.</l>
+<l>3.</l>
+<l rend="; 1tab">De Maes sy uyt braveren,</l>
+<l>Het schijnt een heele vloot,</l>
+<l>Komt na de Noort-zee keeren,</l>
+<l>Van Hoeckers meenigh Boot,</l>
+<l>Hondert vijftigh omtrent getelt,</l>
+<l>Die met haer houte kielen,</l>
+<pb n="142"/>
+<l>Door-ploegen ’t Golve-velt.</l>
+<l>4.</l>
+<l rend="; 1tab">Over Nepthunis baren,</l>
+<l>Varen sy wel gemoet,</l>
+<l>En uyt de Zee vergaren,</l>
+<l>En al haer schat en goet,</l>
+<l>Wanneer den Heer sijn zegen geeft,</l>
+<l>Dan singht den vromen Visscher,</l>
+<l>’t Schijnt daer geen blijder leeft.</l>
+<l>5.</l>
+<l rend="; 1tab">Te Land sy weder komen,</l>
+<l>Met Schelvis, Cabeljauw,</l>
+<l>Oock Haringh uytgenomen,</l>
+<l>d’Vent-jagers komen gaen,</l>
+<l>Van Leyden,en noch Steden meer,</l>
+<pb n="143"/>
+<l>De Vissers waer af halen,</l>
+<l>Brengen ’t dan heen en veer.</l>
+<l>6.</l>
+<l rend="; 1tab">O Sluysenaers verheven,</l>
+<l>Door hulp van Godes handt,</l>
+<l>Soo spijst gy in dit leven,</l>
+<l>Verscheyde Steden,want</l>
+<l>Waer datmen komt in Hollandt wis,</l>
+<l>In Vranckrijck of in Spanjen,</l>
+<l>Vint men noch Sluysse Vis.</l>
+<l>7.</l>
+<l rend="; 1tab">Wie sou het al verhalen,</l>
+<l>Den Neeringh die hier is,</l>
+<l>Nu oock te recht af-malen,</l>
+<l>Dus swijgh ick eer ick mis;</l>
+<pb n="144"/>
+<l>Schiedam,Vlaerdingh,bidt allegaer,</l>
+<l>Dat Godt u voortaen zegent,</l>
+<l>Gelijck den Sluysenaer.</l>
+<l>8.</l>
+<l rend="; 1tab">Hoe hoort men alle dagen,</l>
+<l>Ter Veer en Zirrick-zee,</l>
+<l>De Visschers droevigh klagen,</l>
+<l>Op and’re plaetsen mee,</l>
+<l>En hier op Sluys is ’t na begeer,</l>
+<l>Daer voor moet yder dancken,</l>
+<l>Alleen den Opper-Heer.</l>
+<l>9.</l>
+<l rend="; 1tab">Waer vint men uws gelijcken,</l>
+<l>Want Wijck ende Zantvoort,</l>
+<l>Noortwijck moet voor u wijcken,</l>
+<pb n="145"/>
+<l>En Katwijck soo ’t behoort,</l>
+<l>Met Schevelingh,en oock de Hey,</l>
+<l>Sluys spant deKroone van alle,</l>
+<l>Rontom aen dees Contrey.</l>
+<l>10.</l>
+<l rend="; 1tab">Godts Woort siet men hier bloeyen,</l>
+<l>Als in een Lust-prieel,</l>
+<l>En oock in deught op-groeyen,</l>
+<l>De jonge Jeught seer veel,</l>
+<l>Een Hemels Lust-hof en voorwaer,</l>
+<l>De Luyden veel hier woonen,</l>
+<l>Drie dubbelt by malkaer.</l>
+<l>11.</l>
+<l rend="; 1tab">De Kruys-kerck hoogh vermeten,</l>
+<l>Heel cier’lijck wel gemaeckt,</l>
+<pb n="146"/>
+<l>En dient oock niet vergeten,</l>
+<l>Waer in dat doorgaens blaeckt,</l>
+<l>Des Heeren Woort,en oock sijn Wet,</l>
+<l>Waer op den Visscher vreugdigh</l>
+<l>Al sijn vertrouwen set.</l>
+<l>12.</l>
+<l rend="; 1tab">Oorlof Sluysenaers moedigh,</l>
+<l>Ey neemt dit doch in danck,</l>
+<l>Want door een yver spoedigh,</l>
+<l>Maeckten ick dit gesanck,</l>
+<l>Na Godes wil weest staegh bereyt:</l>
+<l>En leeft in rust,brenght vrede,</l>
+<l>In alle eeuwigheyt.</l>
+</lg><p><hi rend="i">JACOBUS BRUGGE.</hi></p>
+</div>
+</div>
+<div type="chapter">
+
+    <interpGrp>
+        <interp type="primair" value="wael007"/>
+    </interpGrp>  
+<pb n="147"/>
+<head rend="h3"><hi rend="i">Aen Gods zegen, Is ’t al gelegen.</hi> </head>
+<lg type="poem"><l><hi rend="i">Den zegen van den Heer die kan te recht rijck maecken,</hi></l>
+<l><hi rend="i">Oock sonder arrebeyt,ô wonderlijcke saken!</hi></l>
+<l rend="; 1tab"><hi rend="i">’t Gaet dick en menighmael verr’boven ons verstandt,</hi></l>
+<l rend="; 1tab"><hi rend="i">En soo verborgen als met het gewas van ’t Landt</hi></l>
+<l><hi rend="i">Wanneer men stille staet en dat so komt t’aenschouwen,</hi></l>
+<l><hi rend="i">Men wert geen lenght gewaer, en nochtans als wy wouwen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Verwachten so wat tijd,het groote onderscheyt</hi></l>
+<l rend="; 1tab"><hi rend="i">Is yder soo bekent dat ’t niet en hoeft geseyt,</hi></l>
+<l><hi rend="i">Soo isset  oock gestelt,soo gaet ‘et met Gods zegen,</hi></l>
+<pb n="148"/>
+<l><hi rend="i">Daer mee is ’t even dus gelijck wy sien gelegen,</hi></l>
+    <l rend="; 1tab"><hi rend="i">Die waer neemt sijn beroep,met lust en vrolickheyt,</hi></l>
+<l><hi rend="i">Voor die is overvloet en welvaert toe bereyt.</hi></l>
+<l><hi rend="i">Wel aen dan Christen-ziel,wilt Godt u saeck vertrouwen,</hi></l>
+<l><hi rend="i">En maeckt u aen ’t gebruyck der midd’len vast te houwen,</hi></l>
+<l rend="; 1tab">Dit doende zijt gerust op Gods voorsienigheyt,</l>
+<l rend="; 1tab">Soo salder grooten troost voor u zijn toe bereyt.</l>
+</lg><p><hi rend="i">Een boven al.</hi></p>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="meta001maes02_0026"/> </interpGrp>
+<pb n="149"/>
+<head rend="h3"><hi rend="i">Godes Lof.</hi></head>
+<head rend="h4">Stemme: <hi rend="i">Nerea schoonste, &amp;c</hi></head>
+<p>Of,<hi rend="i">Van de thien Geboden. Heft op u hert.</hi></p>
+<lg type="poem"><l>Indien de mensch sich selven kende,</l>
+<l>Hy streefde na het hooghste goet,</l>
+<l>Hy soud’alleen tot Godt sich wenden,</l>
+<l>Want daer is ’t al in overvloet.</l>
+<l rend="; 1tab">2. De Schepsels en oock alle dingen,</l>
+<l>Die’er zijn in Hemel,Zee en Aerd,</l>
+<l>Uyt Godt,als uyt haer oorspronck,springen,</l>
+<l>Daer Godes Lof door wert verklaert.</l>
+<l rend="; 1tab">3. Wilt ghy dan tot den Schepsels keeren,</l>
+<l>Gy keert tot onvolkomentheyt:</l>
+<l>Maer keert gy u tot Godt den Heere,</l>
+<l>Gy krijght volmaeckt al wat hy seyt.</l>
+<pb n="150"/>
+<l rend="; 1tab">4. Wilt geene Schepsels dan aenhangen,</l>
+<l>Noch wat u schoon voor oogen schijnt,</l>
+<l>Stelt daer op troost noch oock verlangen,</l>
+<l>Want buyten God het al verdwijnt.</l>
+<l rend="; 1tab">5. Wie dan de werelt wil beminnen,</l>
+<l>Die soo onrustigh is en loos,</l>
+<l>Die quelt sijn ongeruste sinnen,</l>
+<l>’t Gaet in de werelt al te boos.</l>
+<l rend="; 1tab">6. Want daer is geen volmaeckte vreughde,</l>
+<l>(Hoe seer dat men oock na ’t aertsche haeckt)</l>
+<l>Noch saligheyt noch ware deughde,</l>
+<l>In God alleen is ’t al volmaeckt.</l>
+</lg><p><hi rend="i">EYNDE</hi></p>
+</div>
+<div type="chapter">
+
+<pb n="151"/>
+<head rend="h3"><hi rend="i">Register.</hi></head>
+<head rend="h4"><hi rend="i">Van ’t Maes-sluysche Compas Liedt-boeckje.</hi></head>
+<head rend="h4"><hi rend="i">A</hi></head>
+<table>
+    <row><cell>Aenhoort doch Visschers al.</cell><cell><hi rend="i">Pag.8</hi></cell></row>
+    <row><cell>Aenhoort doch Visschers al gelijck.</cell><cell><hi rend="i">43</hi></cell></row>
+</table>
+<div type="section">
+<head rend="h4"><hi rend="i">D</hi>.</head>
+<table>
+    <row><cell>De grootste vreught.</cell><cell><hi rend="i">57</hi></cell></row>
+    <row><cell>De droeve eensaemheyt.</cell><cell><hi rend="i">70</hi></cell></row>
+    <row><cell>Den zegen van den Heer.</cell><cell><hi rend="i">147</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">E.</hi></head>
+<table>
+    <row><cell>Een Liedt moet ick u verklaren.</cell><cell><hi rend="i">29</hi></cell></row>
+    <row><cell>Een Bruylofts-liedt een blijde zangh.</cell><cell><hi rend="i">38</hi></cell></row>
+    <row><cell>Een wonderlick verhael.</cell><cell><hi rend="i">97</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">G.</hi></head>
+<table>
+    <row><cell>Gy Doggenaertjes fier.</cell><cell><hi rend="i">3</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">H.</hi></head>
+<table>
+    <row><cell>Hoort toe Visschers al gelijck.</cell><cell><hi rend="i">26</hi></cell></row>
+    <row><cell>Hoort toe mensche die zijt beladen.</cell><cell><hi rend="i">33</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">I.</hi></head>
+<table>
+    <row><cell>Indien den mensch sich selven kende.</cell><cell><hi rend="i">149</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">M.</hi></head>
+<table>
+    <row><cell>Maes-sluys,Maes-sluys u lof.</cell><cell><hi rend="i">1</hi></cell></row>
+    <row><cell>Mijn ziel wilt u tot den Heer.</cell><cell><hi rend="i">65</hi></cell></row>
+</table>
+<pb n="152"/>
+<table>
+    <row><cell>Menschen t’wijl gy mach.</cell><cell><hi rend="i">81</hi></cell></row>
+    <row><cell>Maeslant-sluys groot van waerden.</cell><cell><hi rend="i">140</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">O.</hi></head>
+<table>
+    <row><cell>O Heer Almachtigh.</cell><cell><hi rend="i">19</hi></cell></row>
+    <row><cell>Och wat swaerder pijne,</cell><cell><hi rend="i">22</hi></cell></row>
+    <row><cell>O Heer God van machten groot,</cell><cell><hi rend="i">40</hi></cell></row>
+    <row><cell>O Visserman seer aerdigh.</cell><cell><hi rend="i">47</hi></cell></row>
+    <row><cell>O menschen wilt niet dwalen.</cell><cell><hi rend="i">54</hi></cell></row>
+    <row><cell>O wat grooter vreughden.</cell><cell><hi rend="i">61</hi></cell></row>
+    <row><cell>O God seer goedertier in al.</cell><cell><hi rend="i">67</hi></cell></row>
+    <row><cell>O mensch wilt traegheyt vlieden.</cell><cell><hi rend="i">86</hi></cell></row>
+    <row><cell>O Sluysche Jeught.</cell><cell><hi rend="i">90</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">S.</hi></head>
+<table>
+    <row><cell>Singht nu doch allegaer.</cell><cell><hi rend="i">73</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">V.</hi></head>
+<table>
+    <row><cell>Vaert wel ô Sluysche Jeught.</cell><cell><hi rend="i">94</hi></cell></row>
+    <row><cell>Valt aen gy jonge lieden.</cell><cell><hi rend="i">77</hi></cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">W.</hi></head>
+<table>
+    <row><cell>Wat heeft een Zeeman al.</cell><cell><hi rend="i">125</hi></cell></row>
+    <row><cell>Wy die ter Zee gaen varen.</cell><cell><hi rend="i">136</hi></cell></row>
+</table>
+<p>EYNDE.</p>
+</div>
+</div>
+    </body>
+</text>
+</TEI.2>

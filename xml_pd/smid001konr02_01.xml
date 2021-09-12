@@ -1,0 +1,3907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Konradijn</title>
+               <author>Ludolph Smids</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Konradijn</hi> van Ludolph Smids uit 1736. De eerste druk dateert uit 1686.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 12: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="*1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>*2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">smid001konr02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 41: 4</idno>
+               </bibl>
+               <p>Ludolph Smids, <hi rend="i">Konradijn</hi>. Isaak Duim, Amsterdam 1736 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Konradijn</title>
+               <author>Ludolph Smids</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Konradijn</title>
+               <author>Ludolph Smids</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-13</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<interpGrp>
+<interp type="primair" value="itali01"/>
+</interpGrp>
+<body>
+
+<cf>
+<div type="chapter">
+    <pb n="1"/>
+<p>KONRADYN,</p>
+<p>KONING VAN</p>
+<p>NAPELS en SICILIËN.</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p><figure>
+<p><xptr to="smid001konr02ill0002.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By Isaak Duim, Boekdrukker en Boekverkooper, bezuiden het Stadhuis, 1736.</p>
+<p>Met Privilegie.</p>
+
+</div>
+</cf>
+<div type="chapter">
+            <pb n="*1"/>
+        <p><figure>
+            <p><xptr to="smid001konr02ill0001.gif"/></p>
+        </figure></p>
+    <div type="section">
+        <pb n="3"/>
+    
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland doen te weten: alzo Ons te kennen is gegeven by de tegenwoordige Regenten van het Wees- en Oude Mannenhuis der Stad Amsterdam, en in die qualiteyten te samen Eygenaars, mitsgaders Regenten van den Schouburg aldaar, dat zy Supplianten eenige Jaaren hadden gejoüisseert van 't Octroy of Privilegie by hen van Ons op den 23. May 1714. geobtineert, waar by Wy aan hun Supplianten goedgunstelyk hadden geaccordeert, en geoctroyeert, om, geduurende den tyd van vyftien doen eerst agter een volgende Jaaren, de Werken, die ten dienste van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het licht gebragt, en ten Toneele gevoert zouden mogen werden, alleen te mogen drukken, doen drukken, uytgeeven ende verkoopen, en bevonden dat de Jaaren, by het voorsz. Octroy of Privilegie genoemt, op den 22. May 1729 stond te expireeren; ende dewyle zy Supplianten ten meesten dienste van den Schouburg, waar van hunne respective Godshuysen onder andere mede moeten werden gesustenteert, de voorengemelte Werken, zoo van Treurspellen, Blyspellen, Kluchten, als anders, die reets gedrukt, en ten Toneele gevoert zyn, of in toekomende gedrukt, en ten Toneele gevoert zouden mogen werden, geerne alleen, gelyk voorheen, zouden blyven drukken, uytgeven en verkoopen, ten eynde dezelve Werken door het nadrukken van andere haar Luyster, so in taal, als in spelkonst, niet mogte komen te verliesen, en dewylen sulx haar Supplianten na de expiratie van 't bovengemelte Octroy, niet gepermitteert was, zoo keerden zy Supplianten haar tot Ons, onderdaniglyk versoekende, dat Wy aan hun Supplianten, in kwaliteiten voorsz. geliefden te verleenen, prolongatie van het voorsz. Octroy of Privilegie, om de voorsz. Werken, zoo van Treurspellen, Blyspellen, Kluchten als anders, reets gemaakt en ten Tooneele gevoert, of als nog in het ligt te brengen, en ten Tooneele te voeren, den tyd van vyftien eerst komende, en achtereenvolgende Jaaren, alleen te mogen
+drukken en verkopen, ofte doen drukken en verkoopen, met verbod aan alle andere op seekere hooge peene, by Ons daar tegen te Statueeren, SOO IS 't dat Wy, de Saeke, ende 't voorsz verzoek overgemerkt hebbende, ende geneegen weezende, ter bede van de Supplianten uyt Onze rechte wetenschap, Souveraine Magt en Autoriteyt, deselve Supplianten Geconsenteert,
+<pb n="4"/>Geaccordeert, en Geoctroyeert hebben, Consenteren, Accordeeren en Octroyeren haar by deezen, dat Zy, geduurende den tyd van Vyftien eerst Agtereenvolgende Jaaren de voorsz. Werken, die ten diensten van het Tooneel reets waren gedrukt, en van tyd tot tyd nog verder in het ligt gebragt, en ten Tooneele gevoert zouden mogen werden, in diervoegen, als zulx by de Supplianten is verzogt, en hier vooren uytgedrukt staat, binnen de voorsz. Onzen Landen alleen zullen mogen Drukken, doen Drukken, uytgeven en verkoopen, verbiedende daaromme allen ende eenen ygelyken, dezelve Werken, in 't geheel ofte ten deele te Drucken, naar te Drukken, te doen Naardrucken, te Verhandelen ofte Verkopen, ofte elders naar gedruckt, binnen den selven Onzen Landen te brengen, uyt te geven, ofte Verhandelen en Verkopen, op Verbeurte van alle de nagedrukte, ingebragte, verhandelde ofte verkogte Exemplaren, ende een boete van drieduisend guldens daar en boven te verbeuren, te Appliceeren een derde part voor den Officier, die de Calange doen zal, een derde part voor den Armen der plaatzen daar het Casus voorvallen zal, ende het resterende derde part voor de Supplianten, ende dit t' elkens zoo meenigmaal, als dezelve zullen werden agterhaalt, alles in dien verstande, dat Wy de Supplianten, met dezen onzen Octroye alleen willende Gratificeren tot verhoedinge van hunne Schade door het Nadrukken van de voorsz. Wercken, daar door in genigen deele verstaan den innehouden van dien te Autoriseren, ofte te Advouëren, ende veel min dezelve onder onze protexie, ende bescherminge, eenig meerder Credit, aanzien, of reputatie te geeven, nemaar de Supplianten in cas daar inne iets onbehoorlyks zoude influëren, alle het zelve tot haren Lasten zullen gehouden wezen te Verantwoorden, tot dien eynde wel Expresselyk begeerende, dat by aldien zy dezen Onzen Octroye, voor dezelve Werken zullen willen stellen, daar van geene geabbrevieerde ofte gecontraheerde mentie zullen mogen maken, nemaar
+gehouden wezen, het zelve Octroy in 't geheel en zonder eenige Omissie, daar voor te drucken, of te doen drukken, ende dat zy gehouden zullen zyn, een Exemplaar van de voorsz, Wercken, op Groot Papier, gebonden en wel geconditioneert te brengen in de Bibliotheecq van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat zy Supplianten dezelve Werken zullen hebben uyt te geeven, op een boete van zes hondert guldens, na expiratie der voorsz. zes Weken, by de Supplianten te verbeuren ten behoe-<pb n="5"/>ve van de Nederduitse Armen van de plaats alwaar de Supplianten wonen; en voorts op peene van met 'er daad versteeken te zyn van het effect van dezen Octroye. Dat ook de Supplianten schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz Onse Bibliotheek, by zo verre zy geduurende den tyd van dit Octroy deselve Werken zouden willen herdrucken met eenige vermeerderingen of anders, hoe genaamt, of ook in een ander formaat, gehouden zullen zyn wederom een ander Exemplaar van de gemelde Werken, Geconditioneert als vooren, te brengen in de voorsz. Bibliotheek, binnen de selve tyd, en op <hi rend="i">d</hi>e boete en penaliteit, als voren. Ende ten eynde de Supplianten van dezen Onzen Consente, ende Octroye mogen genieten, als naar behooren, Lasten wy allen ende eenen ygelyken, dien het aangaan mag, dat zy de Supplianten van den inhouden van dezen doen, Laten, ende gedogen, Rustelijk, vredelyk, ende Volkomentlijk genieten ende gebruyken; Cesserende alle belet ter Contrarie. Gegeven in den Hage, onder onzen Groten zegele hier aen doen hangen op den zevenentwintigste Mey, in 't Jaar onzes Heere en Zaligmakers duisend zeven hondert agtentwintig.</p>
+<p>J.G.V. Boetzelaar.</p>
+<p>Onder stond ter Ordonnantie van de Staten, was getekent</p>
+<p><hi rend="sc">Willem Boys</hi>,</p>
+<p>Lager stond,</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gesteld by Extract Authenticq, haar Ed. Gr. Mog. Resolutien van den 28. Juny, 1715, en 30 April 1728, ten einde om zig daar na te reguleeren.</p>
+<p>&nbsp;</p>
+<p>De Regenten van het <hi rend="sc">Wees</hi>- en <hi rend="sc">Oude Mannenhuis</hi> hebben in hunne voorsz. qualiteit, het Recht der hovenstaande Privilegie, alleen voor den tegenwoordigen druk, van <hi rend="sc">Konradyn, Koning van Napels en Sicilien</hi>, <hi rend="i">Treurspel</hi>, vegund aan <hi rend="sc">Izaak Duim</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">In Amsteldam den eersten Juny</hi>, 1736.</p>
+    </div>
+    </div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="16860220"/>
+</interpGrp>
+<pb n="6"/>
+<head rend="h3">Aan den heer, P.F.N.</head>
+<lg type="poem">
+<l>Het valsch<note n="(1)" place="foot"><hi rend="i">Karel.</hi></note> <hi rend="i">Bedrog</hi> en de onmeêdogende<note n="(2)" place="foot"><hi rend="i">Beatrix</hi></note> <hi rend="i">Hovaardy</hi>,</l>
+<l>(Al te opgeblaazen door haar staat en heerschappy)</l>
+<l>Doen hier de zuivre<note n="(3)" place="foot"><hi rend="i">Konradyn.</hi></note> <hi rend="i">Deugd</hi> in ysre boeijens treuren,</l>
+<l>Om opentlyk haar op 't schavot van een te scheuren.</l>
+<l>&nbsp;</l>
+<l>Wat raad? zy ziet eens naar den hemel, en zy schreid,</l>
+<l>Noch leunende op den erm van de<note n="(4)" place="foot"><hi rend="i">Frederik.</hi></note> <hi rend="i">Edelmoedigheid</hi>,</l>
+<l>Die, spyt den<note n="(5)" place="foot"><hi rend="i">Robert Bar.</hi></note> <hi rend="i">Achterklap</hi> (de booste vyandinne)</l>
+<l>Meê torst de ramp van haar onnoosle halsvrindinne.</l>
+<l>&nbsp;</l>
+<l>En schoon dit schouwspel 't hart der dwingelanden raakt,</l>
+<l>En hunn'<note n="(6)" place="foot"><hi rend="i">Klotilde.</hi></note> <hi rend="i">Geweeten</hi> zelf 's <hi rend="i">Deugds</hi> minnaaresse maakt,</l>
+<l>Men wil de voorspraak van haar liefde niet aanhooren;</l>
+<l>Gereed die vlam met bloed te stikken en te smooren.</l>
+<l>&nbsp;</l>
+<l>De <hi rend="i">Deugd</hi> legt dan haar hals, gelyk een witte zwaan,</l>
+<l>Op 't offerblok. Hou op, ô beul! wil noch niet slaan!</l>
+<l>'k Zie haar verlosser; 'k hoor 't volk schreeuwende om genade.</l>
+<l>Zy leeve! neen, dit smeekt vergeefs; die komt te spade.</l>
+<l>&nbsp;</l>
+<l>Wel aan. Het overschot ten minsten nu gebergd.</l>
+<l>Hoogachtbaare <hi rend="sc">Heer</hi>, ly dat myn stoutheid u dit vergd;</l>
+<l>Vergun my dat ik 't aan uw voeten nederzette,</l>
+<l>Op dat een Dichtharpy haar strooje noch besmette.</l>
+<pb n="7"/>
+<l>Ontfang gebeente en asch (getrokken uit het vyer)</l>
+<l>In deze lykbus, niet van aard; maar van papier!</l>
+<l>Laat KONRAAD onder 't loof van uw geslachtboon duiken,</l>
+<l>Als onder een gewelf van onverwelkb're struiken.</l>
+<l>&nbsp;</l>
+<l>Ik wensch, terwyl, dat die geslachtboom tierig groey,</l>
+<l>Myn <hi rend="sc">Heer</hi>, en nooit vergif aan haaren wortel vloey!</l>
+<l>Uw huis de <hi rend="i">Deugd</hi> altoos verstrekke tot een tempel!</l>
+<l>En de Eer, haar gezellin, nooit wyke van haar drempel.</l>
+</lg>
+<p><hi rend="sc">Ludolph Smids</hi>.</p>
+<p><hi rend="i">Vulnere pulchrior.</hi></p>
+<p>&nbsp;</p>
+<p>Amsterdam, den 20.</p>
+<p>February, 1686.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="brui008"/>
+</interpGrp>
+<pb n="8"/>
+<head rend="h3">Aan den heere Lud. Smids <hi rend="i">M.D.</hi> Op 't vertoonen van zyn Ed: Treurspel Konradyn.</head>
+<lg type="poem">
+<l>Gy zaagt, de nyd ten trots, na 't opgaan der gordynen,</l>
+<l>Uw Konradyn, Heer Smids, op 't hoog tooneel verschynen,</l>
+<l>Die, lang gedoemt, in 't einde eens uit zyn graf verryst,</l>
+<l>Tot vreugd voor elk, die keur van schoone dichten pryst.</l>
+<l rend="; 1tab">Wien rukt dit Treurspel, door beweeg'lyk mededoogen,</l>
+<l>Geen zuchten uit het hert, geen traanenyloed uit de oogen?</l>
+<l>Die Keizer Konraads zoon met zynen halsvriend, ziet</l>
+<l>Gedompelt in een nacht van weergaloos verdriet,</l>
+<l>Uit Napels kerker naar de ruime markt geleiden,</l>
+<l>Daar Karels slagtbyl 't hoofd zal van het lichaam scheiden.</l>
+<l>ô Glans van kroon en staf! wat is uw toeverlaat?</l>
+<l>Wanneer gy 's morgen praalt, en 's avonds ondergaat.</l>
+<l>Wat kan de staatzucht niet al leed en jammer baaren,</l>
+<l>Ontziende in haar geweld, noch rechtbank, noch altaren?</l>
+<l>Maar deeze hofslang, die in 't hart der Vorsten wroet,</l>
+<l>Heeft haar verwoede drift noch nauwelyks geboet,</l>
+<l>Of gaat haar minnaars aan de knaaging overgeeven,</l>
+<l>Die hen doet walgen van het ryksgezag en 't leeven,</l>
+<l>Een voorspel van de wraak, en 's Hemels strenge straf,</l>
+<l>Die op de misdaad volgt. Wist ooit tiran hier af,</l>
+<l>De bastaart Koning, die dit moortfeit heeft beslooten,</l>
+<l>Wierd haast een spiegel van de droeve val der Grooten;</l>
+<l>Wanneer hy overkropt van weelde, op 't onvoorzienst</l>
+<l>Zyn ryk moest derven, in Palermoos Avond dienst,</l>
+<l>Toen Arragon, wiens haat, om 't vonnis, vinnig blaakte,</l>
+<l>Zich van Siciliën en Napels meester maakte.</l>
+<pb n="9"/>
+<l rend="; 1tab">Maar gy, ô Helden! die in 's leevens dageraad,</l>
+<l>Met eenen slag den last van 's Waerelds ramp ontgaat,</l>
+<l>Hoe moedig stapt ge 't wreed schavot op met verblyden!</l>
+<l>Uw vyand, zonder rust, moet u die dood benyden.</l>
+<l>ô Swabens laaste telg, ô roem van Oostenryk!</l>
+<l>Elkander in de deugd en vriendschap zo gelyk:</l>
+<l>Laat vry Anjou zich met uw dierbaar bloed bevlekken,</l>
+<l>En uw geheugenis met eenen zerk bedekken,</l>
+<l>Terwyl Beatrix, door haar woede en wraak verblind,</l>
+<l>In weêrwil van Klotilde, uw ondergang bemind,</l>
+<l>Geen nood: Heer Smids heeft u gemaalt met schoone verven,</l>
+<l>Op dat uw luister na uw sterven, nooit zou sterven.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab"><hi rend="sc">Cl: Bruin</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="tijs003"/>
+</interpGrp>
+<pb n="10"/>
+<head rend="h3">Op het treurspel Konradyn,
+<lb/>
+door den heer Lud. Smids, M.D.</head>
+<lg type="poem">
+<l>Schoon u de wreedheid doemd, doorlugte Konradyn!</l>
+<l>Om voor haar Staatzugt, 't ligt op 't moordtóneel te derven,</l>
+<l rend="; 1tab">Gy wint door zulk een dood, gy leefd door zulk een sterven,</l>
+<l>Wyl <hi rend="sc">Smids</hi> geleerde Pen u, als een zonneschyn,</l>
+<l rend="; 1tab">Doet door de nevels van veel jaren weêr herléven,</l>
+<l>Om met uw Boezemvrind op Amstels Schouwtóneel,</l>
+<l>Te spreken voor uw regt; schoon dat u 't staatskrakeel,</l>
+<l rend="; 1tab">Ontbloot van Kroon, het staal heeft door den hals gedréven.</l>
+<l>Hier leefd gy weêr op nieuw: hier toond uw Frederik</l>
+<l rend="; 1tab">Een spiegel van de deugd, en zuiv're vrindschaps banden;</l>
+<l rend="; 1tab">Hier twyffeld Karel om uwe onschuld aan te randen,</l>
+<l>Want, zittende in uw Troon, besterft hem 't hart van schrik,</l>
+<l rend="; 1tab">Wanneer hy overweegd in 't wroegende geweten</l>
+<l>Zyn Onregt, en uw Regt tot Napels Heerschappy.</l>
+<l>De<note n="*" place="foot"><hi rend="i">Beatrix vrouw van Karel.</hi></note> Staatzugt hitst hem op, de laffe<note n="†" place="foot"><hi rend="i">Robbert Bar.</hi></note> Vleijery</l>
+<l rend="; 1tab">Dringt u, door Karels stem, zo pligt als eervergéten,</l>
+<l>Naar 't bloedig moordschavot. Maar Robbert wagt uw hoofd!</l>
+<l rend="; 1tab">Des Konings Schoonzoon zal deez' wreedheid aan u wréken;</l>
+<l rend="; 1tab">'t Gaat wel; 'k zie u op 't lyk van Konradyn doorstéken,</l>
+<l>En in uw heiloos bloed zyn wraakvuur uitgedoofd.</l>
+<l rend="; 1tab">Maar ach! te laat; de draad uws lévens is doorsneden,</l>
+<l>En 't bloed van dézen Schelm geeft u geen leven weêr;</l>
+<l>Doch 't troost u, dat gy sterft met onverwelkbáre eer,</l>
+<l rend="; 1tab">Om namaals zo volmaakt weêr in het ligt te tréden.</l>
+<pb n="11"/>
+<l rend="; 1tab">Wie hoord, ô Konradyn! u en uw Boezemvrind;</l>
+<l>Op Amstels Schouwtóneel uw, ongeval verhálen,</l>
+<l>Die niet geraakt word door een drang van zo veel kwálen</l>
+<l rend="; 1tab">Als u bestormen? daar gy u verláten vind</l>
+<l>Van alle hulp en troost, in náre duisternissen</l>
+<l rend="; 1tab">Gekerkert, die gy niet verwisseld met het ligt,</l>
+<l rend="; 1tab">Dan om voor eeuwiglyk te sluiten uw gezigt,</l>
+<l>En met uw Boezemvrind des lévens glans te missen.</l>
+<l rend="; 1tab">Bedank den schrand'ren <hi rend="sc">Smids</hi>, die uit den duist'ren nagt,</l>
+<l>En eeuw'ge slaap der dood u weder op kwam wekken;</l>
+<l>Gy zult 's Mans glorie tot een zegeteken strekken,</l>
+<l rend="; 1tab">Waar op de tyd vergeefs zyn alverslinb're kragt</l>
+<l>En seis zal wetten, want zyn Digtgeest, zo bedréven</l>
+<l rend="; 1tab">Op 't merg der Poëzy, deed u in Nederland</l>
+<l rend="; 1tab">Verschynen, tot een proef van zyn geleerd verstand,</l>
+<l>Dies zult gy staâg door hem, hy weêr door u herléven.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">G. <hi rend="sc">Tysens</hi>.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="12"/>
+<head rend="h3">Personaadjen.</head>
+<list>
+<item><hi rend="sc">Konradyn</hi>, gebooren koning van Napels en Siciliën.</item>
+<item><hi rend="sc">Frederik</hi>, Aartshertog van Oostenryk.</item>
+<item><hi rend="sc">Karel</hi>, graaf van Anjou, regerend koning van Napels.</item>
+<item><hi rend="sc">Beatrix</hi>, zyn Gemaalin.</item>
+<item><hi rend="sc">Klotilde</hi>, zyn dochter.</item>
+<item><hi rend="sc">Reinoud</hi>, Stalmeeester, en afgezant van Elizabeth, de moeder van Konradyn, zich ophoudende aan het hof van haar broeders, in Beijeren.</item>
+<item><hi rend="sc">Robert Bar</hi>, Griffier.</item>
+<item><hi rend="sc">Alfonsus</hi>, Hofmeester } van Klotilde.</item>
+<item><hi rend="sc">Konstance</hi>, zyn Zuster, Staatjuffer } van Klotilde.</item>
+<item><hi rend="sc">Ernesto</hi>, Hoofdman van des koning lyfwacht.</item>
+<item><hi rend="sc">Oktavio</hi>, Kamerdinaar.
+<lb/>
+<hi rend="i">Zwygende.</hi></item>
+<item><hi rend="sc">Blanche</hi>, Staatjuffrouw van de koningin.</item>
+<item><hi rend="sc">Biechtvaders</hi>, Hofstoet, Lyfwacht.</item>
+</list>
+<q rend="bq">Het Tooneel verbeeld het hof van Napels.</q>
+</div>
+<div type="act">
+<pb n="13"/>
+<head rend="h2">Konradyn, koning van Napels en Siciliën.
+<lb/>
+<hi rend="i">Treurspel.</hi></head>
+<head rend="h3">Eerste bedryf.</head>
+<stage><hi rend="i">Het Tooneel verbeeld een Kerker.</hi></stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Konradyn, Frederik</hi>, <hi rend="i">beide zittende blootshoofds, slecht gekleed, en geboeid. Wacht ter zyden.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>OPrechte halsvriend! en myn eenigste! verbie,</l>
+<l>Verbie my 't zwygen niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">O Konradyn! ik zie</l>
+<l>Dat dit verkroppen van uw klachten, en die stilten,</l>
+<l>Van dagh tot dagh, u doen verteeren, en versmilten, </l>
+<l>Verborgen droefheid knaagd den taajen hartâer af. <stage><hi rend="i">opryzende.</hi></stage></l>
+<l>Gryp moed. Braveer uw lot, gevangenis, en graf.</l>
+<l>Of voeltge uw ziel te zwak om meerder leet te dragen,</l>
+<l>Verlicht haar arbeid eens met jammeren en klagen:</l>
+<l>Want, zuure elende maakt men, met zyn klachten, zoet.</l>
+<l>Door 't weenen geeft gy lucht aan uw benaaud gemoed.</l>
+<l>Suf slechts niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">opstaande.</hi></speaker>
+<l rend="; 1tab">Frederik! uw dor en treurig weezen</l>
+<l>Doet my verstommen; daar 'k myn vonnis in kan leezen,</l>
+<l>Terwyl 't een spiegel aan myn teêr geweeten strekt;</l>
+<pb n="14"/>
+<l>En, op het leevendigst vertoond 't geen haar bevlekt.</l>
+<l>Uw wangen schynen my, geduurig, te verwyten,</l>
+<l>Dat ik hun bloeisel, en hun schoonheid, doe verslyten,</l>
+<l>Meend gy dat dit myn hart niet raakt; dat ik (ô Neef!)</l>
+<l>Uit Oostenryk, u naar dit wrokkend Napels dreef,</l>
+<l>En nu myn hand aan uw belangens niet kan leenen?</l>
+<l>Deze onmagt is 't alleen, dat my geeft stof tot steenen:</l>
+<l>O jonge Hertog! want uw minnelyken aart</l>
+<l>Was wel een beter lot, ja beter woonplaats waard.</l>
+<l>Wat toond zich alles hier vervaarlyk, wreed, en bloedig!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Spreek doch zo laf niet. Wees wat meerder édelmoedig.</l>
+<l>Volg my na. Ik vergeet ook alle smart, en rouw, <stage><hi rend="i">omhelst hem.</hi></stage></l>
+<l>Zo lang ik Konradyn dus in myn ermen hou'.</l>
+<l>Uw byzyn minderd myn verdriet, en myn elenden,</l>
+<l>Door alles, 't geen hier bang en wreed schynt, om te wenden,</l>
+<l>En, van dit kerkerhol, te maaken een paleis.</l>
+<l>Als ik myn ketens roer, dan hoor ik, reis op reis,</l>
+<l>(Uw boeijensziende) een harp, of zoete citer, klinken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>‘Gy kend den alsem niet, dien my de min doet drinken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Ja. zo misschien zich iets bedekt houd in het hart,</l>
+<l>'t Geen, met een stille zucht, u melden mocht myn smart,</l>
+<l>Het is de vrees dat u de vorst van my zal rukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Hoe zwoeg ik onder een gewicht van ongelukken!</l>
+<l>Myn vrind! zie! zie my eens met ernstige oogen aan.</l>
+<l>Hoe troond my Karel! wat word my niet aangedaan?</l>
+<l>Dit schynt de Py noch, die ik 't leven eens betroude,</l>
+<l>Gewisseld voor myn kleed, styf van gesteente, en goude.</l>
+<l>O ruuwe py, zo duur gekocht! gy waart meêr waard,</l>
+<l>Had gy my wel gedekt! had ik my wat bedaard,</l>
+<l>En neêrgezet (nu maakt de schade en schand my wyzer!)</l>
+<l>Ik zag myn vuisten niet, gedoodverft, in dit yzer</l>
+<l>Beneepen; maar verguld met Napels ryke staf,</l>
+<pb n="15"/>
+<l>Die 't wild geweld, zo mild, aan Karel overgaf.</l>
+<l rend="; 1tab">O kerker! doch hy laat het niet by dezen kerker;</l>
+<l>Zyn smaat, zyn schimpscheut, en zyn dreiging, drukt vry sterker.</l>
+<l>'k Blyf evenwel, ook in deze hechtenisse, een vorst;</l>
+<l>'t Zaat van een keizer: en het treft een eed'le borst,</l>
+<l>In 't veld, en staf, en kroon, en purper, te verliezen,</l>
+<l>En hier te went'len op een slordigh bed van biezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Gy klaagd, daar 't woest geval in ons niets nieuws vertoond.</l>
+<l>Hoe dikwils heeftze wel een akkerman gekroond,</l>
+<l>Terwylze een brave vorst verzond in ballingschappen!</l>
+<l>Een koniog is haar spel. Zy leid hem, langs veel trappen,</l>
+<l>Ten troon: maar om weêr af te rollen als een bal.</l>
+<l>Geen zaak vertroostme meêr als de algemeene val.</l>
+<l>Hoe kan ons doch de moed, in deze ramp bezwyken,</l>
+<l>Wanneer ons koningen, myn heer, daar in gelyken.</l>
+<l>Neen. Als me een ongeluk beschreijen zal, en moet,</l>
+<l>Dan is 't gezelschap, in 't beschreijen, wonder zoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Maar uw gezelschap valt my zuur. Men laate u keeren</l>
+<l>Na Oostenryk. dit zoet is 't wit van myn begeeren:</l>
+<l>Want, uw verlossing maakt een eind van myn misbaar.</l>
+<l>Als me u bevryd, men zet my weder, noch een jaar.</l>
+<l>Dan zal ik troost en heul by and're vrinden zoeken,</l>
+<l>Wien 't toegelaaten is te koomen tot deze hoeken. <stage><hi rend="i">zit neder.</hi></stage></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Het eenigste heul, waar meê de wrede vorst betoond,</l>
+<l>Dat mededogen ook in yz're harten woond;</l>
+<l>Doch schoon hy my alleen bevryde, ik wil niet leven,</l>
+<l>'t En zy de vryheid ook, myn heer, u word gegeven.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Alfonsus, Konradyn, Frederik</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>O hoogeboorene! verschrikt niet, voor een vrind,</l>
+<l>Die uwe elend beklaagd, en uwe deugd bemind.</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">tegen Frederik, misnoegt.</hi></speaker>
+<l>Waarom mocht hem de wacht den toegang niet beletten?</l>
+<l>'t Verveeldme.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>, <hi rend="i">tegen Konradyn.</hi></speaker>
+<l rend="; 1tab">Prins!... 't geval myn heer zich neêr te zetten:</l>
+<l>Schoon ik geen reden weet, gy maakt myn hart verblyd?</l>
+</sp>
+<stage><hi rend="i">Alfonsus weigerd te zitten.</hi></stage>
+<sp>
+<l>Gy komt zo laat niet, om, met boert of met verwyt,</l>
+<l>De troostelooze te bedroeven, en te plagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Ik kom om uw verdriet een weinig te onderschragen,</l>
+<l>Met myn gezelschap: die zyn ongeval beschreid</l>
+<l>Die past een bly gesprek, geen stilte, of eenzaamheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Wel wil uw blyheid dan met onze droefheid paaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Doorluchtige, wil my uw neêrlage eens verklaaren.</l>
+<l>'k Verzoek, ootmoedig, een verhaal van al uw druk;</l>
+<l>Een ruuw ontwerp van 't zwaar en deerlyk ongeluk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Is dat hier onbekend? zag Napels my gevangen,</l>
+<l>En heeft het, van myn lot, de maare nooit ontfangen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Prins! ik weet nergens af. 'k Ben een Siciliaan,</l>
+<l>En quam, ten dienst van 't hof, hiervoor een maand eerst aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Wel aan. Den hertog moet myn heer daar in behagen.</l>
+<l>Herroep 't geheugen eens van onze nederlagen.</l>
+<l>Beschryf Kampanien, dat ons verwonnen zag;</l>
+<l>Wanneer Vesuvius verschrikte, op haar geklag,</l>
+<l>En, met een dikke smook, en zwarte wolk, betogen,</l>
+<l>Te treuren scheen, om dat zyn erfheer was bedrogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>, <hi rend="i">tegen Konradyn.</hi></speaker>
+<l>Prins! doe my die genaâ dat ik 't hoor uit uw mond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Neen. door 't vertellen valt de roof weêr van de wond,</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>, <hi rend="i">neêrzittende.</hi></speaker>
+<l>Voldoe dien heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">neêrzittende.</hi></speaker>
+<l rend="; 2tab">Neem plaats. 'k zal by 't begin niet blyven;</l>
+<l>Noch, zeer naaukeurig, hunn en onze macht beschryven:</l>
+<l>Maar, slechts den oorlogslist, waar door wy zyn verraân.</l>
+<l rend="; 1tab">Naauw rieden tyd en plaats de Geulfen om te slaan,</l>
+<l>Of Karel zond aanstonds, twee troepen na beneden,</l>
+<l>Hol, na de konst, gezet in rygen en geleden.</l>
+<l>Een derde bleef te rug, van het gebergt gedekt,</l>
+<l>'t Geen by de Fuzinus, zo breed legt uitgestrekt.</l>
+<l>Zy wierden van Montfort geleid. Men zag hem pryken</l>
+<l>In 's konings kleding, om juist Karel wel te lyken.</l>
+<l rend="; 1tab">Ik deelde meê myn heir in tweên; en val fors aan,</l>
+<l>Breek door, verscheur zyn macht, maak onze een ruime baan.</l>
+<l>Montfort moest zelf de dood, in Karels schyn bezuuren:</l>
+<l>Doch, als myn volk hem zag, het liet, ter quader uure,</l>
+<l>De schilden rollen, smeet ter zyde het geweer,</l>
+<l>En viel, te plonderziek, op 's vyands rykdom, neêr.</l>
+<l>Ik bad, ik riep, ik schold, en dreigde met den degen:</l>
+<l>Maar kon, met dreigen, noch met bidden, hen bewegen.</l>
+<l>Waar op zich Karel dan, gezond en fris, ontdekt,</l>
+<l>Die, met dien derden troep, rondsom die plond'raars trekt.</l>
+<l>Myn tonge is veel te zwak om meêr hier af te spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Ik zal 't verhaalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>, <hi rend="i">tegen Frederik.</hi></speaker>
+<l rend="; 3tab">Hy blyft in zyn reden steken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Dus heeft de krygskans zich naar Karels zin gedraaid.</l>
+<l>'t Veld rookte van het bloed. 't gebergte lag bezaaid</l>
+<l>Met Gibellinen, door gehouwen, en geschoten,</l>
+<l>Gekneust, gescheurd, verminkt, verplettert, en doorstooten,</l>
+<l>Met spiets en heirbyl, knods en sabel, haak en bout.</l>
+<l rend="; 1tab">Ik heb de Fucinus, met grooten schrik, beschoud.</l>
+<l>Dat glazig meir beklom de peil van zyne boorden,</l>
+<pb n="18"/>
+<l>Gezwollen van het brein en bloed, gestort in 't moorden.</l>
+<l>Eerst golfde 't helder! nu scheen 't drabbig stil te staan.</l>
+<l rend="; 1tab">'k Zag ook, van verre (helaas!) den overwinnaar aan:</l>
+<l>De wrede Karel stond als of hy was bedrogen.</l>
+<l>Hy overzag het veld, en mat, met brandende oogen,</l>
+<l>Den droeven oegst van zoo veel lyken, schoon hy 't ziet,</l>
+<l>Hy schrikt, geloofd zyn oog, en eig'ne handen niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Prins! sla dit over: 't quetst uw boezem, en zyn ooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>My lust alleen den ramp van Konradyn te hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Wel. 't heir viel, of verstoof: die vluchten kon die vlucht.</l>
+<l>Ik zag op Frederik. deze antwoord met een zucht.</l>
+<l>Vergeefs. wy vloden ook; doch ruilden onze kleêren</l>
+<l>(Ach!) tegen slecht gewaad, op dat me ons niet mocht keeren.</l>
+<l>Drie dagen zworven wy door dal, en wildernis,</l>
+<l>Vermoeid en hongerig. dan dokenwe in het lis</l>
+<l>Der droge meiren, en dan in bemoschte kuilen.</l>
+<l>Tot dat ons eens verdroot dit doolen, en dit schuilen,</l>
+<l>En dit lang worst'len met des aardryks ongenaâ.</l>
+<l rend="; 1tab">Wy zochten dan de zee, en 't boschryk Astura,</l>
+<l>En dongen naar een pink, die ons van daar zou brengen:</l>
+<l>Maar, 't scheen de hemel wouwdit vluchten niet gehengen.</l>
+<l>Wy zeilden naaulyks, of de honger kreet om brood,</l>
+<l>En 't was 'er niet; het geld ontbrak ook in die nood.</l>
+<l>Nood! die geen arg denkt, die verblind den aldersnootsten.</l>
+<l>Gy Frederik! gy naamt (in moedigheid de grootste)</l>
+<l>Uw zusters laatste gift, dien schoonen diamant,</l>
+</sp>
+<stage><hi rend="i">Hy wend zyn hooft ter zyden, verzuchtende.</hi></stage>
+<sp>
+<l>En zond den visscher, met dat duur juweel aan land.</l>
+<l>Die toond en veild dien ring men vraagdhem na ons wezen</l>
+<l>En kleed. Hy keerd. De spys maakt yder als verrezen.</l>
+<l>Wy dreven voort: doch zien, ontrent den middernacht,</l>
+<l>Ons agterhalen van een witgevleugeld jacht;</l>
+<l>Dat sleept den pink te rug, en dwingt ons weêr te landen.</l>
+<l rend="; 1tab">Daar zagen wy ons in eens bitt'ren vyands handen.</l>
+<pb n="19"/>
+<l>Men schud ons uit; en vind de wapens onder 't kleed.</l>
+<l>De slotvoogt doet zyn heer hier af terstond de weet.</l>
+<l>Die komt, veel sneller als een havik, aangevloogen;</l>
+<l>Belegert Asture, en doekt dus Europe de oogen;</l>
+<l>En wint het slot, en brengt des keizers Konraads zoon</l>
+<l>Gevangen in de schaâuw van zyne ontrukte troon;</l>
+<l>Verwonnen! daar men my moest na de rykstad dragen,</l>
+<l>Door staatzybogen, op een gulden zegewagen,</l>
+<l>Als overwinnaar, met een krans van lauwerblaên,</l>
+<l>En Karel, streng geboeid, doen voor myn paarden gaan.</l>
+<l>Het word een jaar, dat ik, met hem, hier ben gekomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Haast ziet de kerker u de ketens afgenomen.</l>
+<l>Dit ongeluk maakt u noch een gelukkig mensch,</l>
+<l>Indien uw wil omhelst myns meesters hartewensch:</l>
+<l>Want, schoon dat Robert Bar de koningin verbitterd,</l>
+<l>En dat de haat den vorst in 't gloeijende aanzicht schitterd,</l>
+<l>Ja, dat de Guelfer zyn vergif, en gal, uitbraakt,</l>
+<l>Daar is een aan het hof, wiens oog steeds voor u waakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ik ken de kroonzucht van Graaf Karel, en zyn vrouwe,</l>
+<l>En yders wrok: Wie zou het met ons durven houwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Verdiende die niet wel een plaats in 's prinsen hart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Spreek uit. Wie denkt, ten hove, om ons, en onze smart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Voor my, myn heer, 'k verzoek van niemand medelyden,</l>
+<l>Indien ik niet, met my, den hertog zie bevryden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>'k Geloof dat deze u is een welbeproefde vrind:</l>
+<l>Maar ook dat de andere, u veel driftiger bemind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Dat is onmogelyk. Wie zou myn liefde tarten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>, <hi rend="i">tegen Konradyn.</hi></speaker>
+<l>Die, die uw vryheid, op het hoogste, neemt ter harten.</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Dat zich die vrind eens in dees kerker deede zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>'k Heb last, myn heer, om u zyn dienst, en hart, te biên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ken ik zyn naam?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>, <hi rend="i">Alfonsus vastboudende.</hi></speaker>
+<l rend="; 2tab">Waar heen? hoe! zoekt ge nu verschoning?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Neen: 'k zal haar noemen: 't is de dochter van de koning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Gy boert met ons. nu blykt uw schyndeugd al te klaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Het is Klotilde, 't is de ryksprinses.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Is 't waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>'k Zweer dat Klotilde mind, en zal 't u klaarder zeggen,</l>
+<l>Met u myn staat, en rang, naar waarheid, voor te leggen.</l>
+<l rend="; 1tab">'k Ben haar hofmeester; die, dien zy zo waardig houd,</l>
+<l>Dat zy dit groot geheim alleen hem toebetroud:</l>
+<l>Haar dienaar, in het kort, door woord en eed verbonden,</l>
+<l>En, ô doorluchtige! nu tot u afgezonden</l>
+<l rend="; 1tab">Verschoon myn stoutheid, heb ik wat te lang gewacht,</l>
+<l>En, naar behooren, niet terstond myn last volbracht.</l>
+<l>De kust was onbekend, my docht ik moest eerst peilen,</l>
+<l>Om niet, te reukloos, op een blinde klip te zeilen.</l>
+<l>Gy zucht, maar de afkeer is de bronaêr van die zucht,</l>
+<l>Myn heer! ik bid u, doet, met deze droefheid, vrucht.</l>
+<l>'k Verzeker u van 't hart van die 't my gaf in handen,</l>
+<l>Om, met diens zuiv're vlam, te doen uw boezem branden.</l>
+<l>Zeg slechts, beliefd het u, aan haar getrouwe slaaf,</l>
+<l>Dat deze boodschap u gevalt, en deze gaaf.</l>
+<l rend="; 1tab">Hoe! 't is geen dertelheid; het is geen wulpsche lafheid.</l>
+<l>Men heeft, al lang, gezocht des konings woede en strafheid</l>
+<l>Te breid'len met de band van echt, en met uw trouw.</l>
+<l>De Graaf van Vlaanderen wil datze worde uw vrouw;</l>
+<pb n="21"/>
+<l>Een zeker toeval deed hem haare liefde merken:</l>
+<l>Hy smeekt den koning, en hy vleid de koningin,</l>
+<l>(Niet meldende evenwel die wel gezette min)</l>
+<l>Zo dat de vader naar het huuwlyk schynt te hellen:</l>
+<l>Besluit dan, laat uw gal wat minder opwaarts wellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>O wond're zaak! hoe durft Klotilde dit bestaan?</l>
+<l>Zy heeft, met haar ons aan te bieden, zeer misdaan:</l>
+<l>Gevangens, veel te laag, van het geval, gestoten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>‘Helaas! prinses!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Zy heffe haar hart om hoog, op grooten,</l>
+<l>Van elk geëerd, gediend, onthaald, en aangebeên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Hoor doch, is 't mogelyk, ô prins! hoor naar myn reên.</l>
+<l>Gy blyft, ook in de laagte, een hoog geboren Koning.</l>
+<l>Een vorst ontleend zyn glans niet van een gulde wooning.</l>
+<l>Ik prys die liefde. Myn prinses is niet misleid;</l>
+<l>Zy kend een diamant, zelfs in de donkerheid.</l>
+<l>Gun haar, doorluchtige, gun haar uw wederminne;</l>
+<l>Zo zal 't geluk weêr van een huuwlyksvuur beginnen.</l>
+<l>Al bliksemd Karel uit den hemel van uw troon;</l>
+<l>Dat onweer helderd op, als hy u noemd zyn zoon.</l>
+<l>Voeg u...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 1tab">Het is genoeg. Ga, boodschap dit Klotilde:</l>
+<l>Dat deze kuil, vol stanks, (schoon ik al minnen wilde)</l>
+<l>Niet dulden kan, dat hier de dertelheid treed in,</l>
+<l>Als zynde een tegengif voor 't fel vergif der min.</l>
+<l>Men weet, dat geen gebrek dien dwazen hertstocht teelde,</l>
+<l>Myn heer! maar datze sproot uit overvloed en weelde,</l>
+<l>En voeg daar by, dat ik geen liefde kan verstaan</l>
+<l>Van haar, wiens vader my dede in de ketens slaan.</l>
+<l>Ik zal Klotilde nooit.....</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l rend="; 2tab">Myn heer, 'k hoor iemand komen.</l>
+<l>Ach! dat haar reine min noch wierde in acht genomen.</l>
+<l>Ik ga; en ben niet graag van yder hier gezien.</l>
+<l>Vaar wel.</l>
+</sp>
+<stage><hi rend="i">Alfonsus binnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 1tab">Het huuwelyk, met haar, zal nooit geschiên.</l>
+<l>Neen, Frederik! ik wil, aan Karel, liever 't leven,</l>
+<l>Als myn genegentheid aan zyne dochter geven.</l>
+<l>Myn ziel gruwd voor dien echt. Hoe kon de Gibellyn</l>
+<l>Zyn stamtelg vlechten in de doornen van Urzyn?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Frederik, Reinout, Konradyn</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>, <hi rend="i">terwyl Reinout naderd.</hi></speaker>
+<l>Het is de Beijersche afgezant, die, tot ons voordeel,</l>
+<l>Hier alles gaâslaat: 't is die man, wiens schrander oordeel</l>
+<l>Geduurig werkt, en weerd al 't geen ons heil belaagd,</l>
+<l>Terwyl hy voeld, wat zucht de ontstelde rykspols jaagd.</l>
+<l>Wat troost, heer Reinout, brengt gy de gevangens mede?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Men mompeld, in het hof, van een getroffe vrede.</l>
+<l>De rechtsgeleerden zyn nu van een and'ren zin,</l>
+<l>En neigen tot genaê, medogenheid, en min.</l>
+<l>Ik zie de keizerin vast in 't gemoet, uw moeder;</l>
+<l>Zy naderd Napels: maar het hof maakt my niet vroeder</l>
+<l>In uw belangens; 't zegt, dat ik, te driftig, pleit,</l>
+<l>In spyt van 't vloekgespan, voor uwe onnozelheid.</l>
+<l>Dit heb ik uit de graaf van Vlaanderen gekregen,</l>
+<l>Met uw gevangenis bekommerd, en verlegen;</l>
+<l>Doch, tot uw schade licht, gaat hy weêr na zyn land.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Helaas! wanneer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">Terstond.</l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 2tab">Houd gy met hem verstand,</l>
+<l>Ga, spreek hem heimelyk. hy moet noch niet vertrekken,</l>
+<l>Maar eerst den koning tot barmhartigheid verwekken.</l>
+<l>Bid, dat hy noch wat tyds in deze stad verbeid.</l>
+<l>Gebruik, gebruik, myn heer, eens uw welsprekenheid.</l>
+<l>Beweeg den Graaf, hy zal den koning haast bewegen.</l>
+<l>Een teder woord heeft vaak der vorsten gunst verkregen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Vergeefsche moeiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 1tab">Prins! vaar wel; ik neem dit aan,</l>
+<l>En zal terstond, 't geen ik verwerf, u doen verstaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Frederik, Konradyn</hi>. <hi rend="i">Wacht.</hi></stage>
+<sp>
+<l>'k Zorg noch voor onrust. ga te raade met uw zinnen.</l>
+<l>Gy moet, myn heer, gy moet de ryksprinses beminnen.</l>
+<l>'t Is immers een prinses ja, 't is van kunne een vrouw,</l>
+<l>Die, krygtze van haar gunst, en liefde, naberouw,</l>
+<l>Met doller driften woed als tygers, of leeuwinnen,</l>
+<l>En breinloos haat, gelyk zy breinloos plag te minnen.</l>
+<l>Ai, blus uw haat, op dat uw hart ontfonke in min.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ach! kwam myn moeder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">Prins! dat ik niets op u wie.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Myn moeder zal het hart van Karel best bewegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Misschien verharden: zyn wy nu malkand'ren tegen</l>
+<l>In deze liefdestryd, te vooren nooit verdeeld</l>
+<l>In droefheid of in vreugde, in armoede of in weeld?</l>
+<l>Hoe graag was ik om my van u te laaten leiden,</l>
+<l>Schoon 't hard viel, ik beken 't, van Agnes afte scheiden,</l>
+<pb n="24"/>
+<l>Myn waarde Zuster.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Die my zo teêr bemind,</l>
+<l>En echter, in dat uur, moest wyken voor een vrind.</l>
+<l>Wees nu meê vaardig, om, 't geen ik verzoek, te horen.</l>
+<l>Ontmoet de ryksprinses, met liefde, naar behooren:</l>
+<l>Ja, haat haar vader niet, al praald hy met uw staf:</l>
+<l>Maar liever die, die dat schoon rykssieraad hem gaf,</l>
+<l>En daar meê nodigde om in Latium te komen.</l>
+<l>Het doelwit van uw haat zit op den stoel van Romen;</l>
+<l>Niet op die van dit ryk, die, 't geen me schonk, nam aan.</l>
+<l rend="; 1tab">Al konde uw stamzon ook niet beter ondergaan,</l>
+<l>Als met uw dood, laat hem doch ryzen met het leven</l>
+<l>Van die van Hohenstauf slechts over is gebleven.</l>
+<l>Draag, draag doch achting voor uw keizerlyk geslacht,</l>
+<l>Wiens op en ondergang staan beide in uwe macht;</l>
+<l>Geef aan Klotilde uw woord: met die prinses te paren,</l>
+<l>Is 't eêlste middel om het leven te bewaren.</l>
+<l>Hoort gy na my niet? hoor na grootvaârs dor gebeent',</l>
+<l>Dat, in zyn lykbus, om zyns nevens trotsheid steend.</l>
+<l rend="; 1tab">Gy spreekt niet? laat gy u, van my, niet overreden?</l>
+<l>Veins u dan slechts verliefd op haar bekoorlykheden:</l>
+<l>Al is die schyn een vuile en lasterlyke daad,</l>
+<l>Indien zy voordeel geeft, 't is een noodwendig kwaad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Neen, bertog! waare deugd, zoekt geen geleende verven:</l>
+<l>'k Zou, met die schyn, de glans van ons geslacht bederven:</l>
+<l>Doch ik verschoon de raad van eenen die bemind,</l>
+<l>En, door de zorg voor het beminde, is gantsch verblind.</l>
+<l>Neen. Karel mag ons wel verdichtsels op doen dringen,</l>
+<l>Als: dat ik hem een pook in 't hart heb willen wringen;</l>
+<l>Dat ik de Kerk heb, in haar zoete rast, gestoord;</l>
+<l>Dat ik een naam gebruik die my niet toe behoord;</l>
+<l>Dat ik dit sluim'rend ryk, als vyand', aan kwam tasten:</l>
+<l>Maar nooit zal hy me, met het gruwelstuk, belasten,</l>
+<pb n="25"/>
+<l>Dat ik zyn kroost heb, met een schyn van min, verleid.</l>
+<l>Daar komt Ernesto, met de lyfwacht. 't is bepleit.</l>
+<l>Wy zullen sterven, doch (myn broeder) met malkandren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Wat 's dit? gy schrikt, hou moet, 'k zie uw gelaat verand'ren,</l>
+<l>En wit besterven. hou doch moed! daar is geen nood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Myn halsvriend, ach! dit doet de vreeze voor uw dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Dit vreezen komt te vroeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 1tab">Wat zal hier dan gebeuren?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Ernesto, Frederik, Konradyn, Oktavio</hi>, <hi rend="i">een Pagie met klederen over den arm, Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Doorluchtige! ziet hier een einde van uw treuren.</l>
+<l>Ik neem, uit 's konings last, de boeijens van uw hand:</l>
+<stage><hi rend="i">Tegen Oktavio.</hi></stage>
+<l>Maak gy ze los. werpt gy dat haatlyk tuig aan kant.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Oktavio</hi>.</speaker>
+<l>Vergun, ô prins! dat ik dit kleed u uit mag trekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">Wil ons den zin doch van dit werk ontdekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>De koning wil, dat gy, met alle eerbiedigheid,</l>
+<l>Van my, zult worden, in een hofvertrek, geleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Oktavio</hi>.</speaker>
+<l>Laat los.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 1tab">Laat blyven. 'k zal my, met dit kleed vernoegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Dit ryk gewrocht gewaad zal Prinssen beter voegen.</l>
+<pb n="26"/>
+<l>De koning is gepaaid. hy roept u uit den stok,</l>
+<l>En zend u, tot een blyk van vrindschap, deze rok.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Hy doet te veel: schoon ik niet laaten kan te schroomen,</l>
+<l>Dat, na die zonneschyn, een hagelbui zal koomen,</l>
+<l>Die my verplett'reu zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">Men ly dit, Konradyn.</l>
+<l>Men noemd ons lam'ren, laat ons toonen dat we 't zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Rust, prinssen. wilt de gunst des Konings niet verachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ik vrees men zal haast de opgepronkte lam'ren slachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>, <hi rend="i">ziende datze beide, t'elkens, weigeren de klederen te verwisselen, tegen Konradyn.</hi></speaker>
+<l>Prins! gaan we. treê voor uit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Waar heen doch?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 4tab">Na 't paleis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Wel aan. ach! dit is eerst een schandelyke reis!</l>
+<l>Myn vaders hof word dan myn kerker!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 3tab">Wild niet schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Afgryflyk hol! ik hoop nooit weêr in u te koomen.</l>
+</sp>
+<stage><hi rend="i">Einde van het Eerste Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="27"/>
+<head rend="h3">Tweede bedryf.</head>
+<stage><hi rend="i">Het Tooneel verbeeld een Galereije.</hi></stage>
+<div type="scene">
+<head rend="h4">Eertste tooneel.</head>
+<stage><hi rend="sc">Klotilde, Alfonsus, Konstance</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Hy gaat dan, die voor 't heil der prinssen heeft gestreên,</l>
+<l>Hoe zeer ik, om een dag, gevraagd heb, en gebeên.</l>
+<l><hi rend="i">Myn tegenwoordigheid is hier niet meêr van noden,</hi></l>
+<l>Zo sprak hy, <hi rend="i">want men zal nu Konradyn niet dooden.</hi></l>
+<l><hi rend="i">Ziet gy niet, dat de vorst gehoor geeft aan myn raén?</hi></l>
+<l><hi rend="i">Heeft hy de prinssen uit den kerker niet doen gaen?</hi></l>
+<l><hi rend="i">Is hen niet een vertrek, in het paleis, gegeven?</hi></l>
+<l><hi rend="i">Is die verand'ring geen verzek'ring van hun leven?</hi></l>
+<l><hi rend="i">Ik reis, gerust, en bly, met dit myn heerlyk werk,</hi></l>
+<l><hi rend="i">Om wien 't gerucht myn naam zal voeren boven 't zwerk,</hi></l>
+<l><hi rend="i">Geheel Europe my, met lauwertakken, kroonen.</hi></l>
+<l rend="; 1tab">Oprechte Graaf! men moet uw zuiv're deugd verschoonen;</l>
+<l>Met logens en bedrog te hand'len ongewend,</l>
+<l>Die noch de boosheid van de reên van staat niet kend.</l>
+<l>Het blykt, dat gy niet weet, dat me, in der vorsten hoven,</l>
+<l>('t Geen treurig is) meêr moet aanhoren als geloven:</l>
+<l>Dewyl het veinzen hunn' gemoederen bezit,</l>
+<l>Dat nooit doet zien, maar wel gevoelen, 't fel gebit;</l>
+<l>Dat, voor een poos, de klaauw bedekt met zachte veeren,</l>
+<l>En dat zich buigt voor dien, wiens staat het om wil keeren.</l>
+<l>Maar, wilde Konradyn niet luist'ren naar uw reên,</l>
+<l>Alfonsus? wierd hy niet een weinig zachter?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l rend="; 2tab">Neen.</l>
+<l>Ik heb myn best gedaan: maar alles was verlooren.</l>
+<l>Noch hoop van leeven, noch van min, kon hem bekooren.</l>
+<l><hi rend="i">Zeg</hi>, sprak de Prins, <hi rend="i">dat ik geen liefde kan verstaan</hi></l>
+<l><hi rend="i">Van haar, wiens vader my dede in de ketens staan.</hi></l>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Men moet die fierheid den verachten kerker wyten.</l>
+<l>'t Hos zal, door haar vermaak, en luister, dien wel slyten;</l>
+<l>Waar in hy beter rust, en meêr onthaal geniet,</l>
+<l>En, om zyn armen, geen gehaate keten ziet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l>Had gy hem nooit gezien! gy moet het my vergeven:</l>
+<l>Ik vrees, ik vrees, prinses, die liefde kost u 't leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Waarom?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l rend="; 1tab">Ik weet het niet, en evenwel, helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Raad my Konstance dan te deinzen? is zy dwaas?</l>
+<l>Neen, neen. Hofmeester! hy zal nu wel om my denken,</l>
+<l>En licht geloven dat ik hem, in plaats van krenken,</l>
+<l>Dit voordeel geef.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l rend="; 2tab">Prinses, daar komt de Koning aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Dan treed hy voort, en dan blyft hy een weinig staan.</l>
+<l>Die vrengd gevalt me niet, waar meê 'k hem weêr zie komen</l>
+<l>Van daar de vroome Graaf zyn afscheid heeft genomen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Reinout, Karel, Beatrix, Klotilde, Ernesto, Robert, Blanche, Konstance, Alfonsus</hi>, <hi rend="i">Hofstoet, Lyfwacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Een wond, ontfangen van een oorlogsbliksemslag,</l>
+<l>Geneest men veiligst met den balsem van verdrag.</l>
+<l>Wat ongewoone vreugd zal Konradyn ontmoeten,</l>
+<l>Als hy zyn dankbaarheid zal oss'ren aan uw voeten,</l>
+<l>Genadigste! neem doch des Graven raad in acht.</l>
+</sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ik heb, ten deele, myn beloften al volbracht,</l>
+<l>En zal het pleitgeschrift terstond in 't vuur verbernen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Heer koning! houd u doof, wat ook het bits Salerne,</l>
+<l>Het brieschend Napels, en 't wraakzuchtig Kapua,</l>
+<l>U blazen in het oor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">Ik luister na genaâ.</l>
+<l>'k Veracht die steden, gy zaagt dat ik hen verweerden,</l>
+<l>Zelf tegen 't spits der omgekochte rechtsgeleerden.</l>
+<l>'k Vloek hun eenzydigheid, en ben het schelden moê.</l>
+<l>'k Stem al het geen ik aan den Graaf beloofde, toe.</l>
+<l>'k Wil 't hartzeer, met de vreugd eens huuwelyks, verzachten,</l>
+<l>En voorts verdryven uit zyn zinnen, en gedachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Volvoer, volvoer, met ernst, het eens gegeven woord;</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Maar, zo myn dochter na dit huuwelyk niet hoord:</l>
+<l>Want, buiten twyfel, zal het moedig hart zich belgen,</l>
+<l>Dat gy haar aan een stam wilt hechten, met wiens telgen</l>
+<l>De Roomsche stoel zo lang geworsteld heeft. Myn heer!</l>
+<l>Zy zucht. Het spyt haar dat men kwetst haar tedere eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Ik durf het stellen aan haar kennis, en haar oordeel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Prinsessen zyn niet voor haar zelven: maar tot voordeel</l>
+<l>En tot welvaaren, van een bloeijend koningryk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Dit huuwelyksverbond is zeer onreedelyk.</l>
+<l>Men moet zich regelen naar ordens, en naar rangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>'t Is zo. Geef toch uw kind niet weg aan een gevangen,</l>
+<l>Toef, tot een koning koom, en ons, om haar, begroet.</l>
+<l>Cier uw geslacht, doch met vermaard, en eerlyk bloed.</l>
+<l>Niet met eens rovers, waard om voor de byl te bukken.</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ik zwoer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 1tab">Licht met de mond alleen. Breek de eed in stukken,</l>
+<l>Gemaal, zy quetst uw eer en opperste gezag.</l>
+<l>Men houd zyn woord niet, alsme, in oude tyden, plag.</l>
+<l>Men weet nu beter. Hoe! wat vorst zou de eetbreuk vrezen,</l>
+<l>Als zy hem tot een trap van hooger macht kan wezen.</l>
+<l>De Graaf is weg. Ik wensch hem voorspoed in zyn reis;</l>
+<l>Doch blyf, hoe gy me poogd te ontslippen, by myn eisch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>De koning is, door hem gepaaid, door my bewoogen:</l>
+<l>Ziet gy ook Konradyn eens aan met andere oogen.</l>
+<l>Heeft hy, te reukloos, een strafwaardig stuk begaan,</l>
+<l>'t Langduurig kwynen heeft uw majesteit voldaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Gy zult haast zien of ik zal by myn woorden blyven.</l>
+<l>Gaat. spreek de Prinssen. Ziet wat dat ze nu bedryven.</l>
+<l>En onderhoud hen, met een vriendelyke taal.</l>
+<stage><hi rend="i">Reinout binnen.</hi></stage>
+<l>En gy, volg onvoorziens; let op de groote zaal;</l>
+<l>Pas op, dat de afgezant niet by zyn prins kan komen,</l>
+<l>Voor dat hy, dien 'k terstond zal zenden, word vernomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>‘O snood bedrog!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Beatrix, Karel, Klotilde, Ernesto, Robert, Blanche, Konstance, Alfonsus</hi>, <hi rend="i">Hofstoet, Lyfwacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 1tab">Wanneer verwacht ik eens het hoofd,</l>
+<l>'t Geen my, zo dikmaals, is geschonken en beloofd?</l>
+<l>Zal ik het tergen, of zal, ik 't verachten noemen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Mevrouw! ik wil het voor den Beijer noch verbloemen.</l>
+<pb n="31"/>
+<l>Die wel wil wreken, en niet missen, die ga zacht,</l>
+<l>En dek zich met een vosse en met een schape vacht,</l>
+<l>Hy zou myn meening aan myn schoonzoon konnen brengen,</l>
+<l>En die zou keeren, en den manslag niet gehengen.</l>
+<l>Wacht, tot den Graaf is uit het oog van Napels.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Heer?</l>
+<l>Gy schenkt my somtyds veel: maar neemt het telkens weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Meent gy dat ik hen los zal laten? en doen trouwen?</l>
+<l>Geloof myn woord, gy zult het tegendeel aanschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Elizabeth maakt, met haar komst, ons ongerust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>'t Vuur, in myn hart, door u gestookt, word niet gebluscht.</l>
+<l>Des Graven afzyn maakt my zonder mededogen.</l>
+<l>Laat zy vry komen, met haar schatten, voor myn oogen,</l>
+<l>'k Neem geen juweelen, 'k neem geen goud voor Konradyn.</l>
+<l>'k Zond Robert naar den Paus, doch met een schoonen schyn,</l>
+<l>Op dat hy, mogelyk, met Konradyn verlegen,</l>
+<l>Niet willens wachte en toeve, op de allernaaste wegen,</l>
+<l>En vlytig oppasse of ik hem bevryde of niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Hy zal haast keeren zo hy zich bedrogen ziet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Hy zal zich spoên om aan de Tyberboord te komen,</l>
+<l>En zyn gewaande vreugd te brengen binnen Romen,</l>
+<l>Dewyl de vader graag de Prins had uit de band.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Zo bied zyn heiligheid nu Konradyn de hand?</l>
+<l>Met welk een nadruk heeft hy laatst zyn stem gegeven,</l>
+<l>Om dezen jongeling te rukken uit het leven,</l>
+<l>De pauzen draejen..</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">Rust. Paus Klement heeft geen schuld.</l>
+<l>Ernesto! zeg, is 't geen ik had belast, vervuld?</l>
+<l>Zyn zy verkleed? 't is wel. Wat doen de jongelingen?</l>
+<pb n="32"/>
+<l>Wat is hun tydverdryf in die veranderingen?</l>
+<l>Spreek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 1tab">Frederik zit, wel te vreden, en vernoegd,</l>
+<l>En schryft, of leest, en draagt zich als een hertog voegd:</l>
+<l>Maar, Konradyn, steeds in zyn hartzeer onverduldig,</l>
+<l>Stapt langs de zaal, en roept: <hi rend="i">indien men ons houd schuldig</hi>,</l>
+<l><hi rend="i">Men vel het vonnis eens; waar na zo lang getoefd?</hi></l>
+<l><hi rend="i">Onschuldig; waarom maakt me ons schrikkig, en bedroefd,</hi></l>
+<l><hi rend="i">Met nieuwe kerkers, ach! zoo baatlyk aan myn oogen?</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Is Frederik dan niet met Konradyn bewoogen?</l>
+<l>Klaagd die niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 2tab">Yder wierd verrukt door dit geween.</l>
+<l>Ik voelde zelf, dat ik geen yzer was, nog steen:</l>
+<l>Ja, steen, of yzer, zou zich over hen erbermen,</l>
+<l>Toen Frederik hem greep, en drukte met zyn ermen,</l>
+<l>En hy zyn ermen om des hertogs schouders sloeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>‘Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">mymerende.</hi></speaker>
+<l rend="; 1tab">Ernesto! zwyg van haar. 't is al genoeg:</l>
+<l>En 't is my leet, dat al dat klaagen niet zal baaten.</l>
+<l>Zy moeten sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 3tab">Maar, dat draalen moet ik haaten.</l>
+<l>Waaromze, voor een jaar, (ô bloodaard! veel te zacht!)</l>
+<l>Niet, uit het schip, gesleept, en op 't schavot gebracht.</l>
+<l>Had gy hen toen onthalst, zy waaren nu vergeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Mevrouw, hoe dikmaals word my dit van u verweten!</l>
+<l>Wel aan. Ernesto, breng de ruiters in 't geweer,</l>
+<l>En zet het voetvolk by de poort van 't voorhof neêr</l>
+<l>Ga: doe terstond de trom, door alle straten, roeren.</l>
+<l>Dan zult gy 't grootschavot na 't merktveld laten voeren,</l>
+<l>En 't met fluweel alom bekleên tot op de grond.</l>
+</sp>
+<stage><hi rend="i">Ern. binn.</hi></stage>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>, <hi rend="i">tegen Robert.</hi></speaker>
+<l>Dus paait men my. 'k Heb 't meer gehoord uit deze mond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">tegen Robert.</hi></speaker>
+<l>En gy, Griffier, gaat daar de beide zyn gevangen,</l>
+<l>Op dat ze, in aller yl, het vonnis eerst ontfangen:</l>
+<l>En dan zal.... maar.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Karel, Ernesto, Beatrix, Robert, Klotilde, Blanche, Konstance, Alfonsus</hi>, <hi rend="i">Hofstoet, Lyfwacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">Wat jaagd Ernesto dus verbaast?</l>
+<l>Zeg op. Wat brengt gy ons met zulken grooten haast?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Genadigste! daar is een bode van Bohemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Die komt om Frederik. Laat ons geen uitstel neemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Van Ottokar, myn lief! gy hebt het wel geraân.</l>
+<l>Hy zal my tot de doot des Hertogs porren aan,</l>
+<l>Om in 't bezit van al 't geroofde land te blyven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Ja, de eigenbaat is slechts de grondslag van zyn schryven.</l>
+<l>'t Wit 't ingenomen deel van Oostenryk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 2tab">Gun, heer!</l>
+<l>Gun, dat hy leeve, het land bewaar met zyn geweer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Wat had ik met de dood van Konradyn gewonnen,</l>
+<l>Indien ik Frederik het leven wilde gonnen?</l>
+<l>Een vyand, die niet eer zou rusten, voor dat ik,</l>
+<l>Gestort met al myn volk, lag in zyn oorlogsstrik?</l>
+<l>Neen. gaanwe Ernesto. 'k wil de bode zelven spreeken.</l>
+<l>Mevrouw'!</l>
+</sp>
+<stage><hi rend="i">biedende haar zyn hand, om weg te leiden.</hi></stage>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>, <hi rend="i">aarzelende.</hi></speaker>
+<l rend="; 3tab">Ik volg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 4tab">'k Zal nu de zaak niet laten steeken.</l>
+<l>Geloostme.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Ik volg u, met dien schranderen Grissier,</l>
+<l>Myn lief! ik spreek hem slechts een woord, ga. Blyf gy hier.</l>
+</sp>
+<stage><hi rend="i">tegen Klotilde.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Beatrix, Robert, Klotilde, Alfonsus, Blanche, Konstance</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Mevrouw! de koning heeft het halsgerecht besloten;</l>
+<l>Want uw verwyting heeft hem, eindelyk verdrooten.</l>
+<l>Hy ging verbolgen weg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 5tab">Dat is wel meêr geschied,</l>
+<l>Tot myn bekommering, en tot myn zielsverdriet.</l>
+<l>Wanneer de zon vertrekt, van 's hemels roode kimmen,</l>
+<l>Dan schynt hy, vrolyk, zyn slaapkamer op te klimmen,</l>
+<l>Zo lang ik by hem ben: maar vind hy zich alleen</l>
+<l>Zo klaagd hy dat hy van gedróchten word beltreên.</l>
+<l>Dan houd hy zich gekleed, en vloekt de duist're nachten;</l>
+<l>Dan wil, dan durft hy die gevonniste niet slachten,</l>
+<l>Als of Europe hem weêr zou bonzen uit zyn troon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Gy zyt, zo lang hy leeft, niet zeker van de kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Ik konde, een zuster van drie fiere koninginnen,</l>
+<l>Op kroonegoud verhit, den Grave nooit beminnen</l>
+<l>Met die verachte naam: myn man moest koning zyn,</l>
+<l>Een scepter zwaajen als een nazaat van Pipyn.</l>
+<l rend="; 1tab">Ik heb het dag en nacht, gewenscht, en ook verkregen,</l>
+<l>Wanneer de Paus Urbaan hem riep, om, met den degen,</l>
+<pb n="35"/>
+<l>Den broedermoorder weg te dryven uit het veld.</l>
+<l>De kroon is dan op 't hoofd, doch niet zo vast gesteld,</l>
+<l>Of Konradyn heeft kracht om die daar af te rukken;</l>
+<l>Ten zy men hem, by tyds, doe voor den rechtbyl bukken.</l>
+<l>Sterft hy niet, zo sterf ik, dewyl ik liever derf</l>
+<l>De vreugd van 't zonlicht, als 't gezicht van deze verf.</l>
+<l>Om 't schoone purper kan my 't leven slechts vermaaken.</l>
+<l>O staat zy klederen! uw gloeijen, en uw blaaken,</l>
+<l>Ontsteekt myn hart, en zet haar arends vleuglen by,</l>
+<l>Vervoerende myn ziel, met uwe tovery.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>De vorst sprak gist'ren noch van spaaren en erbermen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Uw wysheid moet daarom het ryksgezag beschermen.</l>
+<l>Ga. toon hem dat de glans van 't purper haast verslyt,</l>
+<l>Indien men 't nimmer weêr eens in versch purper smyt.</l>
+<l>Hier is nu 's Prinssen bloed, dat hy 't daar in doe doopen.</l>
+<l rend="; 1tab">Voorts, waarschuw hem wat deur hy voor gevaar zet open,</l>
+<l>Indien zyn dwaasheid den gevangen prins hersteld.</l>
+<l>Door begenadigden is vaak een vorst geveld,</l>
+<l>Gedwongen, om zyn hals die ketenen te dragen,</l>
+<l>Waar van hy zelf (helaas!) zyn vyand had ontslagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l><hi rend="i">'t Is billyk dat ik hem de boeijen stryk van 't been,</hi></l>
+<l>(Zo sprak hy) <hi rend="i">want toen my den sterken Zarazeen</hi></l>
+<l><hi rend="i">Aleer, kreeg in de stryd, met Lodewyk gevangen,</hi></l>
+<l><hi rend="i">Deê diens meêlyden ons niet met de boeijen prangen;</hi></l>
+<l><hi rend="i">Maar liet ons beiden los.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Dat was een and're zaak.</l>
+<l>De Zarazeen was niet bezorgt voor wederwraak.</l>
+<l>Hy liet de Prinssen los, als zynde buiten schroomen</l>
+<l>Dat zy eens mochten om den groenen tulband komen:</l>
+<l>Maar, deze woudslang, deez' vervloekte Gibellyn,</l>
+<l>Zou nimmermeer, als moe van wraak, te vreden zyn.</l>
+<l rend="; 1tab">Dus is 't uw plicht, myn heer, hem haatlyk af te maalen,</l>
+<l>Met ook de feiten van zyn vader op te haalen:</l>
+<pb n="36"/>
+<l>'t Was keizer Konraad, die onmenschlyk, wreed, en straf,</l>
+<l>Het schoone Napels, aan zyn krygsmacht, overgaf,</l>
+<l>En, nevens Kapua, ontgorde van haar muuren,</l>
+<l>En sloopte, en schond, tot schrik der treurige gebuuren;</l>
+<l>Terwyl hy 't kop'ren paard het toom wrong in de bek,</l>
+<l>En Napels aanwees, hoe hy zat op haaren nek.</l>
+<l>Gaa heen, en laat hem eens 's ryks jaarregisters lezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Ik weet uw oogwit, en zal u behulpzaam wezen.</l>
+<l>Die steden morren noch om Konraads rovery,</l>
+<l>En dulden nooit dat nu de zoon zal raken vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Getrouwe vrind! gy zult een hooger ampt verwerven,</l>
+<l>'k Beloof het u, zo dra de jongeling zal sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Getrouw te zyn, dat is myn plicht, ik ben vereerd</l>
+<l>Als ik iets doen mag 't geen uw majesteit begeerd.</l>
+<l>'k Zal alles poogen, en het wit in zwart verscheppen,</l>
+<l>En 't geen vergeten, en verhoolen is, weêr reppen.</l>
+<l>De rechtsgeleerde ding' na 't hoofd van Konradyn,</l>
+<l>En geeve een nadruk aan de stem van Hugolyn,</l>
+<l>Ik zal den bangen vorst een staatles openbaaren,</l>
+<l>En toonen, hoe de staf en 't staal te zamen paaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>'t Is wel, myn Heer, ik laat dit op uw wysheid staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Mevrouw! gun dat ik eerst mag na de Prinssen gaan,</l>
+<l>En haar het vonnis...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 1tab">Gaat gy eerst den koning spreken.</l>
+<l>Let of zyn wraaklust, door Bohemen, is ontsteken;</l>
+<l>En, of Elizabeth ook iets gezonden heeft.</l>
+<l>'k Verwacht u weder hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 2tab">Uw slaaf, zo lang hy leeft.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="37"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Beatrix, Klotilde, Alfonsus, Blanche, Konstance</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Gy zyt verzet, en van verwond'ring opgetogen,</l>
+<l>Myn kind, aanschouwende al dit veinzen, al dit pogen,</l>
+<l>En al dit woelen, om een vyand neêr te treên,</l>
+<l>Van wien het hoog gezag heeft overlast geleên.</l>
+<l>Maar, dwingt de plicht my niet om voor myn kroost te waken,</l>
+<l>Daar ik uw vader zie zoo weinig werks af maken?</l>
+<l>Had hy prins Konradyn niet, voor een ruimen tyd,</l>
+<l>Hersteld, en van de last der ketenen bevryd,</l>
+<l>Indien myn hand de kroon niet hield? dien hy moet missen,</l>
+<l>Zo deze wreker raakt uit zyn gevangenissen:</l>
+<l>Want, of uw zwager dien wil paajen met een trouw,</l>
+<l>'k Denk niet dat Konradyn Klotilde minnen zou;</l>
+<l>Maar wel versloten; als hy door den Duitschen degen</l>
+<l>Den staf van Napels weêr had in de vuist gekregen,</l>
+<l>De voet op 't hart gezet van my, myn man, en zoon,</l>
+<l>En licht een Spaansche bruid genodigd op den troon.</l>
+<l rend="; 1tab">Zo lang ik leef, hoeft gy niet, voor die schand, te schromen,</l>
+<l>Neen, neen, dat ongeluk zal u nooit overkomen.</l>
+<l>Treur niet. 'k zal zorgen dat zyn wraak vuur word gebluscht.</l>
+<l>Myn liefste kint! vaar wel, en stel uw hart gerust.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Klotilde, Alfonsus, Konstance</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Helaas! helaas! ik voel myn boezem opgereten,</l>
+<l>Wyl ik dat treurig uur, met zwygen, heb versleten.</l>
+<l>Smart! hartzeer! droefheid, komt, en myd Alfonsus niet.</l>
+<l>Hy, en zyn zuster, zyn myn heul in al 't verdriet.</l>
+<pb n="38"/>
+<l>Wie van u zal myn ziel meest pynigen, en plagen,</l>
+<l>En evenwel den last der rampen helpen dragen?</l>
+<l>Hartstochten! ik begeer niet dat ge my verschoond,</l>
+<l>Maar, op het teêrste, my myn deerlyk lot vertoond.</l>
+<l>En gy, Konstance, zult myn klachten niet beletten,</l>
+<l>Het lust me nu my, tot een doel, haar voor te zetten.</l>
+<l rend="; 1tab">O los geval! waar toe ben ik, van u, gebracht?</l>
+<l>Van u, te vinnig, en te wreed, op ons geslacht,</l>
+<l>Zo teêr en zwak van aart gelyk van ledematen?</l>
+<l>Zeg, onbezuisde, wat is 't voorwerp van uw haaten?</l>
+<l>De schoonheid? ach! dan word die gaaf aan vrouw natuur</l>
+<l>Wel dier betaald; die gaaf zo bros en kort van duur.</l>
+<l>Wie was dan liever niet mismaakt, en onbesneden,</l>
+<l>Als eeuwig, zonder hoop van rust, door u, bestreden?</l>
+<l>Wat my belangd, 'k ben moê. De traanen zyn alreê,</l>
+<l>Waar mede ik smeeken wil om stilstand, en om vreê.</l>
+<l rend="; 1tab">Wat hoorde ik? heet men dat dan met de prinse trouwen?</l>
+<l>Hem, zonder hoofd, en op den doodbaar, aan te schouwen?</l>
+<l>Zyn romp te raken? en te roeren in zyn bloed?</l>
+<l>En is 't myn moeder die my deze vrindschap doet?</l>
+<l>Is 't mogelyk? het zet myn hairen overende!</l>
+<l>Het jaagd me 't zweet uit, wat gedaan in deze elende?</l>
+<l>Het handewringen is, voorwaar, hier niet genoeg!</l>
+<l rend="; 1tab">O deugdelyke Graaf, waar heen? gy gaat te vroeg.</l>
+<l>Blyf by de koning! blyf aan 't hof! waar zyn uw zinnen?</l>
+<l>'t Schynt dat de kroonzucht eerst haar treurspel zal beginnen?</l>
+<l>Het bitter voorspel, vol van schyndeugd, en bedrog,</l>
+<l>Met eigenbaat vermengd, klinkt in myn ooren noch.</l>
+<l rend="; 1tab">O Konradyn! gy moet myn onmacht my vergeven.</l>
+<l>Myn hart is vaardig om te stryden voor uw leven;</l>
+<l>Maar, ach! myn hand is niet bekwaam tot krygsgeweer;</l>
+<l>Myn oogen konnen u beschreijen, en niet meêr.</l>
+<l>Ontfang hun traanen dan, waar in ze zich verdrenken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l>Rampzalige prinses! gy zult uw welvaart krenken.</l>
+<l>Hou dog eens op. Wat wint gy met die jammerklacht?</l>
+</sp>
+<pb n="39"/>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>'t Is waar, Konstance, 'k schrei niet meer. 'k heb my bedacht.</l>
+<l>Kom.</l>
+<stage><hi rend="i">tegen Alfonsus.</hi></stage>
+<l rend="; 1tab">Was de prins dan geenzins te bekooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Prinses! hy zeide, dat (hoe vaak wild gy dit hooren?)</l>
+<l>De kerker 't minnen, door zyn ongemak, belet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Alfonsus! was het hart, gelyk, de plaats, verzet!</l>
+<l>De kerker is verruild voor marmersteene daken,</l>
+<l>'t Verachtlyk oud gewaad voor prachtig zilver laken.</l>
+<l>Hy proefd de zoetheid van het koninglyk gezag,</l>
+<l>Ter plaatse, alwaar, wel eer, zyn strenge vader plag</l>
+<l>Zyn willekeuren aan het ryk te laaten hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Let op; die plaats zal hem ontroeren, nooit bekoren.</l>
+<l>Een prins, of koning, word nooit heviger getergt</l>
+<l>Dan, dat men hem iet schoons noch aanteschouwen vergd,</l>
+<l>'t Geen hen 't geval ontrok, en wegschonk aan een ander.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Myn noodvrindin! in aart gelyken we malkander.</l>
+<l>Wat zoud gy doen? ik zal het volgen. Geef me raad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l>De min vergeten: want zy komt noch veel te laat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>De zwarte lyktoorts doofd de witte bruiloftstoortzen.</l>
+<l>En alles word bereid om deze minnekoortzen</l>
+<l>Te doen verand'ren in doodsnikken. Had men eêr</l>
+<l>Uw liefde ontdekt, misschien...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 2tab">Helaas! zeg my niet meer.</l>
+<l>Het is een misslag; doch niet reukeloos te doemen.</l>
+<l>Ik weigerde aan myn ziel het hart verliefd te noemen,</l>
+<l>Zo lang ik merkte dat my niemand bood de hand;</l>
+<l>En dekte 's minnaars naam met die van bloedverwand.</l>
+<l>Maar nauwlyks heeft de Graaf van 't echtverbond gesproken,</l>
+<l>Of myn geboeide min is schielyk losgebroken;</l>
+<pb n="40"/>
+<l>'k Weêrhiel die tocht niet, en zo dit een misslag is,</l>
+<l>Ik twyfel, of ik wel begeer vergiffenis.</l>
+<l rend="; 1tab">Doch 'k voeg me naar den tyd, en naar dit schroomlyk weder,</l>
+<l>Ja. 'k leg het weezen van een minnaresse neder,</l>
+<l>Mits ik niets hoopen durf van deeze onvruchtb're min:</l>
+<l>Maar hou het hart van een standvastige vrindin.</l>
+<l>Alfonsus! 'k zal den Graaf een snelle boden zenden,</l>
+<l>Met wien hy zich, terstond, weêr na dit hof zal wenden,</l>
+<l>(Hy kan niet ver zyn van de stad) indien hy keerd,</l>
+<l>Zie ik den byl wel haast van 's prinsen hals geweerd,</l>
+<l>In spyt des konings, en zyn trotse gemaalinne.</l>
+<l rend="; 1tab">Dan zal ik zeggen dat ik Konradyn beminne,</l>
+<l>En noemen (van de Graaf gestyfd) ons huuwelyk</l>
+<l>Een bolwerk, en een muur, van dit bouvallig ryk.</l>
+<l>Kom. Gaanwe. 'k wil dat gy my by de prins zult brengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Hoe?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l rend="; 2tab">Maar de lyfwacht zal den toegang niet gehengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Men houd nu niemand uit de zaal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l rend="; 3tab">Prinses! ik zou...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Zwyg. Helpme liever dat ik eens de prins aanschouw.</l>
+</sp>
+<stage><hi rend="i">Einde van het Tweede Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="41"/>
+<head rend="h3">Derde bedryf.</head>
+<stage><hi rend="i">Het Tooneel verbeeld een Slaapkamer.</hi></stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Konradyn</hi>, <hi rend="i">half leggende op het bed</hi>, <hi rend="sc">Frederik</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>'k Zie dat de aanloksels van het hof uw ziel bekooren,</l>
+<l rend="; 1tab">O Konradyn! en dat dit bed u slapen doet.</l>
+<l>Gy wachters! wild de vreugd van deze slaap niet stooren;</l>
+<l rend="; 1tab">Zy zalfd de wonden van het afgestreên gemoed.</l>
+<l>Zy jaagt de zorgen weg met aangenaame droomen,</l>
+<l rend="; 1tab">En zet, misschien, hem op den elpenbeenen troon,</l>
+<l>En doet Siciliën, en Napels, voor hem komen,</l>
+<l rend="; 1tab">Als voor hun erfheer, en des keizers Konraads zoon.</l>
+<l>Ik ondertusschen, ik blyf wakker, vol gedachten;</l>
+<l rend="; 1tab">Maar, die schavot, en beul, hier schild'ren aan de wand,</l>
+<l>En storten, in myn oor, myn zusters jammerklachten,</l>
+<l rend="; 1tab">Die 't brein ontsteeken, en beslommeren 't verstand.</l>
+<l>Hoe noode liet zy me uit de boeijens van haar ermen!</l>
+<l rend="; 1tab">Wat tranen deedze by dat allerlaatste woord!</l>
+<l>Hoe zal zy schreijen! ach! hoe zal Agnes kermen,</l>
+<l rend="; 1tab">Als zy myn deerlyk, en ontydig, sterven hoord!</l>
+<l>Zo jong te sterven, in de lente van myn leven!</l>
+<l rend="; 1tab">Hoe! sterven? daar wy uit de kerker zyn gebrocht?</l>
+<l>Daar deze zaal ons schynt de vryheid weêr te geven?</l>
+<l rend="; 1tab">Helaas! de elendige zyn steeds vol achterdocht.</l>
+<l>Doch, laat dit sierzel my verschrikken, of verleiden,</l>
+<l rend="; 1tab">'t Beschouwen van dien vrind neemt alle droefheid weg;</l>
+<l>Die, willig, op myn lyk, zich zal ter dood bereiden;</l>
+<l rend="; 1tab">Gelyk ik by zyn hoofd het myne, ook willig leg.</l>
+<l>Hy roert zich. ach! hy ryst. Ik heb te luid gesproken,</l>
+<l>En, met myn droefheid, zyn verheuging afgebroken.</l>
+</sp>
+<pb n="42"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Was dit een droom? of hoorde ik spooken? ach! myn vrind,</l>
+<l>Staat gy daar? en ik rust?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">Hier staat hy, die u mind,</l>
+<l>En nooit verliet, zelfs in het barnen der gevaaren.</l>
+<l>Wild my den inhoud van uw droom eens openbaaren;</l>
+<l>Doch, zo ge licht niet aan het eind gekomen zyt,</l>
+<l>Vergeef het my, 'k heb u dat rusten niet benyd;</l>
+<l>Maar, 't was myn tyd de borst te ruimen, uit te klagen,</l>
+<l>En, in dit oogenblik, myn lot alleen te dragen.</l>
+<l>Een zoetheid, waar door ik ook, te eenemaal, vergat,</l>
+<l>Dat Konradyn, zo na by my, gevangen zat.</l>
+<l>Kom, prins, verhaal me uw... maar; 'k zie iemand tot ons komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>De stookebrand van 't hof? men spreekt nu van geen droomen,</l>
+<l>Ziet hier de waarheid zelf, ô neef! het is gedaan.</l>
+<l>Die booswicht komt om ons de dood te zeggen aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Myn broeder! ach! gy moet, gy moet zoo ras niet vreezen.</l>
+<l>Want, kon zyn boodschap niet een blyde boodschap weezen?</l>
+<l>Misschien werd Konradyn, van dien griffier geleid,</l>
+<l>Daar hem de koning, met de koningin, verbeid,</l>
+<l>Om hunnen bloed verwant, op 't vriendelykst, te onthaalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Men zal die vrindlykheid, op 't dierst, my doen betaalen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Robert, Frederik, Konradyn, Ernesto, Reinout</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Indien u, door myn komst, het bloed bevriest in 't hart,</l>
+<l>Weet, dat het ongeluk uw dienaar mede smart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Spreek uit, myn heer, hier is dien omweg niet van nooden;</l>
+<l>Zeg met een woord, uw last.</l>
+</sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Vraag niet. Men zal ons dooden.</l>
+<l>Dit is de boodschap van dit hatelyk gedrocht,</l>
+<l>Dat, met zyn snoode tong, my steeds te krenken zocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Dus hevig niet. De prins moet my ten minsten hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>U schelm? ik leenen, uw verradery, myn ooren?</l>
+<l>U, snode hofslaaf van een nydige Gravin)</l>
+<l>Ha! wat verwaandheid neemt uw booze boezem in!</l>
+<l>Dat gy een koning durfd een stouten rover noemen,</l>
+<l>En een, die 't zyne hier met de wapens zocht, verdoemen?</l>
+<l>Zeg, wie myn rechter is? en wie heeft heerschappy,</l>
+<l>Zeg, over dien, die zich niet minder acht als hy?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Prins! uw oplopendheid zal ons niet konnen baaten.</l>
+<l>En gy, myn heer, 'k verzoek, en bid, wild ons verlaaten.</l>
+<l>'t Is billyk dat men zich naar een gevangen voeg.</l>
+<l>Uw tegenwoordigheid (helaas!) zegt ons genoeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>, <hi rend="i">vinnig.</hi></speaker>
+<l>Geensins. Ik weet myn last, en zal u die verklaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Wel aan, gy kond die, met een woord, dan openbaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>, <hi rend="i">tegen Reinout.</hi></speaker>
+<l>Dit schouwspel (ach! myn heer) zo vreemd en ongemeen,</l>
+<l>Wringd de ingewanden om, en scheurd myn hart van een.</l>
+<l>'k Vertrek.</l>
+</sp>
+<stage><hi rend="i">binnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Robert</hi>, <hi rend="i">met papieren.</hi></speaker>
+<l rend="; 1tab">'t Is konings wil, dat gy zult beiden sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Het is genoeg. Hy doe slechts ons een uur verwerven,</l>
+<l>Op datwe ons tot de dood bereiden, door 't gebed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>'k Weet uur nog tyd, voor dat zyn majesteit die zet.</l>
+<l>Vaar wel, en zyt getroost.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="44"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Frederik, Reinout, Konradyn</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 2tab">Maar, wat is dit te zeggen,</l>
+<l>Heer Reinout? zullen wy nu 't hoofd noch nederleggen,</l>
+<l>Op dat de zwaare byl het van de schouders sny'?</l>
+<l>'k Dacht, dat we waren door uw voorspraak, los en vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Helaas! geen voorspraak brengt het hof tot mededogen.</l>
+<l>De Graaf van Vlaand'ren is geblindoekt met een logen.</l>
+<l>Hy ging uit Napels, met een konings eed te vreên,</l>
+<l>Die, zoo ze schaadlyk is, met voeten word getreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Is hy vertrokken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">Doch, de vorst deed hem gelooven,</l>
+<l>Dat hy de prinssen niet van 't leven zou berooven:</l>
+<l>Maar in het tegendeel de ryksprinses aan....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">heen en weder over de kamer gegaan hebbende.</hi></speaker>
+<l rend="; 4tab">Och!</l>
+<l>Myn vrind! rampzalig, door onze onderling verdrag!</l>
+<l>Wat hebt gy reên om, met scheld woorden, my te ontmoeten!</l>
+<l>'k Omhels uw kniën: en 'k val neder aan uw voeten.</l>
+<l>Vergeef, vergeef, vergeef 't een dwazen jongeling,</l>
+<l>Dat hy de kling op de onervaren heupen hing,</l>
+<l>En deze lieve borst besloot in ys're plaaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>'k Verdroeg dit van uw hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 3tab">Wilt gy me dan niet haaten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Waarom?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 1tab">Heb ik niet een prinses haar broêr ontroofd?</l>
+<pb n="45"/>
+<l>Is 't niet alleen myn schuld, dat hy nu word onthoofd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Myn boezemvrind! gy moet myn dood zo niet beklagen.</l>
+<l>'k Ben sterk genoeg om myne, en uwe smart te dragen.</l>
+<l>Het hoofd verliezen is een lichte, en korte straf.</l>
+<l>Ik zal niet klagen, schoon me een zwaarder vonnis gaf:</l>
+<l>De wreedheid mag aan ons al 't ysselykste plegen:</l>
+<l>'k Zal noch steeds luisteren, met Konradyn verlegen,</l>
+<l>En my verblyden, in de duldelooste pyn,</l>
+<l>Als ik zyn dood (helaas!) den zachtsten hoor te zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>'k Omhels u.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">‘Ach! wat heeft de vrindschap al vermoogen.</l>
+<l>‘Hoe 'k my bewaar, zy drukt de traanen uit myn oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Myn broeder! 't is geen man die bang voor sterven is.</l>
+<l>Men ga na 't moordschavot als na een bruiloftsdisch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Dat kan ik doen, indien men u laat in het leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Ik zal u voorgaan. 'k zal myn halsvrind nooit begeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Gy voorgaan, Frederik? neen. neen. Het raakt my meest.</l>
+<l>Ik ben de dader, gy myn hulper slechts geweest.</l>
+<l>O Karel! schen uw hand niet aan myn bondgenooten.</l>
+<l>Ik heb, ik heb alleen het harnas aangeschooten,</l>
+<l>Om u te jagen van myns vaders gulden troon.</l>
+<l>Is dit een misdaad, straf dien onvertsaagden zoon:</l>
+<l>Doch laat de Aartshertog na zyn land, en zuster, keeren,</l>
+<l>Die nooit u, noch uw ryk, zocht met het staal te deeren;</l>
+<l>Maar my slechts volgde uit liefde, en uit genegenheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>De dood is aangenaam. Hy dwaald die haar beschreid:</l>
+<l>Dewylze een einde maakt van treuren, en van kwynen,</l>
+<l>En alle kwellingen doet, met haar komst, verdwynen.</l>
+<l rend="; 1tab">'k Geef, voor het leven, nu niet eenen enk'len zucht:</l>
+<pb n="46"/>
+<l>Neen: komen wy weêr in de vryë en open lucht,</l>
+<l>Zo zal het leven toch ons evenwel verlaten,</l>
+<l>Die, zo veel maanden, in dien engen kerker zaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>O staatzucht! zyt ge zo bedriegelyk, en vals!</l>
+<l>Gy zwaait het slachtmes, en gy speeld noch met myn hals?</l>
+<l>Baldadige! gy deed my dan zo prachtig kleeden,</l>
+<l>(O spyt!) om koninglyk op uw tooneel te treeden?</l>
+<l>Ben ik uw tydverdryf en spel, terwyl ik sterf?</l>
+<l>Wie kan 't verdraagen? 'k scheur dit af!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Hoe menigwerf</l>
+<l>Zyn wy een spel geweest aan Karel, en zyn knechten.</l>
+<l>Men zwyge, en dulde het, want hier is niet uit te rechten</l>
+<l>Met schelden; 'k zie dat een die scheld zich zelven wond.</l>
+<l rend="; 1tab">Kom, gaanwe zitten, met de vinger op den mond,</l>
+<l>Om hem, in zyne wrok, en wreedheid, te beklagen,</l>
+<l>Waar af hy 't wroegen, al zyn leven, zal verdragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>En daarom hoopte ik wel wat meêr zachtzinnigheid</l>
+<l>In Karel, die nu word getorst, gevierd, gevleid,</l>
+<l>Van 't lachende geluk. Zy doet hem staan en blinken;</l>
+<l>Doch op die plaats, daar wy nu vallen en verzinken.</l>
+<l>Al 't geen aan ons gebeurd, kan aan zyn kroost geschiên.</l>
+<l>Zyn zoon, prins Karel, kan ook uit een veldslag vliên.</l>
+<l>Men kan hem vangen, ook in eenen kerker storten,</l>
+<l>En, met den zelfde byl, zyn levensdraad verkorten,</l>
+<l>O Frederik! die hy, tot onzen nek bereid.</l>
+<l rend="; 1tab">'t Is hem bewust dat myn vrouw moeder word verbeid;</l>
+<l>Nu moest hy denken by zich zelf: <hi rend="i">'k ben ook een vader</hi>,</l>
+<l><hi rend="i">Zy smeekt my voor haar zoon, geen rover noch verrader,</hi></l>
+<l><hi rend="i">'t Is billyk dat ik hem den moeder weder gees.</hi></l>
+<l><hi rend="i">Wie weet of ik mee niet dit voorval eens beleef:</hi></l>
+<l>Maar neen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">Ach! Konradyn! hoe moogt ge u dus vermoeijen!</l>
+<l>Zwyg doch, om mynent wil; zie, hoe myn oogen vloeijen.</l>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Heer Reinout, ach! myn dood zal waar zyn; niet verzierd,</l>
+<l>Als toen myn uitvaart van Manfredus wierd gevierd,</l>
+<l>Door 't gantsche ryk, nu met een valsche maare en logen,</l>
+<l>Dan, met lykstaatzy, en met rouwgewaad, bedrogen.</l>
+<l rend="; 1tab">Ach! had myn oom het niet versierd, en 't moordfenyn,</l>
+<l>In Beijeren, 't werktuig van zyn kroonzucht mogen zyn,</l>
+<l>Ik was, ô moeder, op uw zachte schoot gestorven!</l>
+<l rend="; 1tab">Wy hadden van Monfort, ook schoonder dood verworven,</l>
+<l>Als deze, zo men zich niet deerlyk had misleid,</l>
+<l>En, met de losse hoop van beter kans gevleid,</l>
+<l>Ontvliedende den rook om in dit vuur te springen.</l>
+<l rend="; 1tab">Onnooste wieg! ô wieg! wat al veranderingen</l>
+<l>In achttien jaaren; zint ik eerst het zonlicht zag,</l>
+<l>En blyde, en dartel, en voorspoedig, in u lag!</l>
+<l>Wat geeft die korte tyd al ruime stof tot zuchten!</l>
+<l>Neêrlagen! ketens! wrange en bittere oorlogsvruchten!</l>
+<l>Wat zytge een moeijelyke, en wat een zwaare dracht</l>
+<l>Aan my, de laatste telg van myn beroemd geslacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Hoe juigte Duitsland, toen zy uit haar heldestammen,</l>
+<l>Met uw geboorte, zag twee oorlogsbliksemvlammen</l>
+<l>Opryzen! mannen, wiens geluk, met kracht gepaard,</l>
+<l>Zich 't fiere Swaben bloed zou maken dubbel waard.</l>
+<l>Van wiens verdiende lof Europe zou verstommen,</l>
+<l>Wanneer zy klonk tot aan Alcides strandkolommen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Dit sterven zal noch meêr vereeuwigen hun naam,</l>
+<l>Myn heer, terwyl die, op de vleugels van de faam,</l>
+<l>Gedragen word zelfs tot in 's weerelds uiterste hoeken.</l>
+<l rend="; 1tab">Men zal haar teekenen in honderd wyze boeken:</l>
+<l>Wat prins of koning, leest dan dit vermaard geval,</l>
+<l>Dien 't niet behagen, en met een bedroeven, zal.</l>
+<l>Ja; 't mededogen schynt zyn boezem door te sny'en,</l>
+<l>Wanneer hy zien zal, op zyn hostapeetseryen</l>
+<l>Gemaald, daar Konradyn zyn hals komt bieden aan:</l>
+<l>En daar ik nederkniel om nooit weêr op te staan.</l>
+<pb n="48"/>
+<l rend="; 1tab">Wat mart de beul om ons onsterfelyk te maken?</l>
+<l>Kom. Breng ons weg?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 3tab">Helaas! ik hoor de zaaldeur kraken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Het is de hofmeester van de ryksprinsesse.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 5tab">O smart!</l>
+<l>Wat schielyke angst bezet myn borst, en sluit myn hart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>'k Zal u verlaaten, en den strengen koning spreken.</l>
+<l>En noch eens proeven, of ik 't steenen hart kan breken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Alfonsus, Frederik, Konradyn</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Myn heeren, 't is my leet: 'k zie dat ik u belet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Geenzins.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l rend="; 2tab">De ryksprinses, wiens min niet word verzet,</l>
+<l>Verzoekt, door my, verlof om in de zaal te komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Hoe?...,, ach! myn ziel! wat stryd!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Zy kom vry, zonder schroomen,</l>
+<l>Tot ons, rampzalige.</l>
+<stage><hi rend="i">Tegen Konradyn.</hi></stage>
+<l rend="; 3tab">'k Vrees dat de spyt de maagd,</l>
+<l>Om zich (helaas!) op u te wreken, herwaarts jaagd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Laat zy zich in myn angst, en doodschrik, eens verblyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Verblyden, prins! zy quynd, zy sterft van medelyden,</l>
+<l>En liefde: denk geen erg van dit bezoek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 4tab">Wel aan.</l>
+<pb n="49"/>
+<l>ô Frederik! ik weet geen raad om dit te ontgaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Geheng, dat zy u spreek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 3tab">Ik moet het wel gehengen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Vaart wel; ik ga dan heene om haar by u te brengen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Konradyn, Frederik</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Wat of Klotilde toch beweegd om ons te zien?</l>
+<l>Helaas! indien het in myn macht waar haar te ontvliên,</l>
+<l>Hoe zoude ik.. maar, ik moet hier blyven, en haar hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>En minnen, Konradyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Ach! was ik nooit gebooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Gebruik de tyd. Zy zal hier haast zyn. Waarde vrind!</l>
+<l>Beraad u noch, en min om dat Klotilde u mind.</l>
+<l>Ook is 't een huwelyk van staat; waar in uw oogen,</l>
+<l>O ryksprinsessen, 't hart heel zelden eerst bewoogen;</l>
+<l>Al noemd de wereld haar bekoorelyk, en schoon,</l>
+<l>Men spiegeld zich eerst in de peerlen van haar kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ik heb geen liefde tot de kroon, noch tot het leven,</l>
+<l>Zo ik myn hart haar moet voor een van beiden geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Ach! onbedachte, maar, myn halsvriend, Konradyn,</l>
+<l>Mind gy me?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">verwonderd.</hi></speaker>
+<l rend="; 1tab">Wel, myn heer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Zo zal de proef dan zyn,</l>
+<pb n="50"/>
+<l>Uw afkeer van de ryksprinses te laaten vaaren,</l>
+<l>Alleen, om dien gemind, in 't leven te bewaaren.</l>
+<l>Waar zit de teêrheid van uw vriendschap nu? gy deinst,</l>
+<l>Gy wend het hoofd om; en gy meend het is geveinst.</l>
+<l>'t Is waar, 't geen ik verzoek; maar gy staat noch te draalen.</l>
+<l>Ga! ga (zo gy me mind) Klotilde zelven haalen.</l>
+<l>Geef my myn vrydom, haar uw liefde, tot rantsoen.</l>
+<l>Verlosme nu, myn vriend! gy weigerd dit te doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ik kan niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 1tab">Hoe! waarom? spreek, en laat dit omermen,</l>
+<l>Die band van vriendschap kan myn leven niet beschermen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Het is uw zuster, die my kwetste, met haar oog.</l>
+<l>En die myn hart, in 't net van haare aanloksels, toog.</l>
+<l>Vriend! Agnes heeft het, ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Ik schrik. Wie zou dit denken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Het geen me ontroofd is kan ik dat een ander schenken?</l>
+<l>Neen. In den tempel van myn boezem staat haar beeld;</l>
+<l>Dat duld geen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 2tab">Mind gy dan myn zuster?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 4tab">Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 5tab">Gy streeld,</l>
+<l>(Gelyk gy meend) maar kwetst myn ziel met deze reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Ik voel myn hart ontlast. Wat heeft dat al geleden!</l>
+<l>Hoe deerlyk is het, van 't verhoolen vuur, geknaagd,</l>
+<l>En, door 't verkroppen van myn treurigheid, geplaagd!</l>
+<l>Wyl ik myn hartkwetzuur niet dacht aan u te ontblooten,</l>
+<l>Voor dat ik Karel, met myn degen, had doorstooten,</l>
+<l>Zyn heir gedreeven uit het Palentynsche veld,</l>
+<pb n="51"/>
+<l>En my weêr aan het roer van 't koningryk gesteld:</l>
+<l>Doch, dit is my mislukt. Dus heb ik (hier gezeten)</l>
+<l>Myn Agnes nooit genoemd, maar, dikmaals, om de keten,</l>
+<l>Gesteend, gezucht, geschreid. die keten, die myn ziel</l>
+<l>En niet die 't lichaam, met haar kop'ren schakels, hiel.</l>
+<l rend="; 1tab">'t Was ook geen haat, die my vervreemde van Klotilde;</l>
+<l>Neen 't was de liefde die dat niet verdraagen wilde;</l>
+<l>Die brocht het vriendlyk beeld van Agnes voormyn oog.</l>
+<l>Zo dra de flikkering des scepters my bewoog</l>
+<l>Om na de klachten van de ryksprinses te luist'ren.</l>
+<l>Zo doet de zon 't gesternt verflaauwen, en verduist'ren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Verschoon me. Ik twyfel noch aan 't geen gy zegt, myn heer!</l>
+<l>Mind gy myn zuster?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Ja. 'k min haar. Zy mind my weer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>'k Beken, ik moet, maar kan 't noch zwarelyk geloven;</l>
+<l>Want uw verkropte min gaat myn begryp te boven:</l>
+<l>Doch, of myn zuster, met haar heuschheid, u verwon,</l>
+<l>Zy is een avondstar by deze middagzon,</l>
+<l>Die reê staat, om den mist des kerkers weg te jagen;</l>
+<l>En, met een blyde straal, uw droefheid af te vagen.</l>
+<l rend="; 1tab">Heb dan, heb met u zelf een weinig deerenis,</l>
+<l>Verwerp die minnares, schoon zy myn zuster is:</l>
+<l>U past Klotilde. laatze uw hand, en hart, verwerven,</l>
+<l>Zo zy den vorst beweegd, en u behoed voor sterven.</l>
+<l>'k Bid, een en anderwerf, doe naar myn raad, en les.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>'k Doe 't geen my Agnes raad. Daar is de ryksprinses.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Klotilde, Alfonsus, Konradyn, Frederik, Konstance</hi>, <hi rend="i">Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>, <hi rend="i">aan de ingang van de kamer.</hi></speaker>
+<l>Alfonsus! ik bezwyk. Het is te stout. Men keere.</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l>Gy kond niet deinzen als met kwetsing van uw eere.</l>
+<l>Treê voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 1tab">Toef. Hy mocht zien dat ik zyn smart beween.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>, <hi rend="i">tegen Konradyn.</hi></speaker>
+<l>Wat is te ontroerd myn heer! zy schreid. Waar wil dit heen?</l>
+<l>Gy stryd, zo wel als zy, met uw verwarde tochten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Neen. Neen. Ik voel me van uw zuster slechts bevochten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Myn vriend! zy naderd: denk, denk wat Klotilde u biedt.</l>
+<l>Zy heeft uw vryheid in haar handeu, Agnes niet.</l>
+<l>Ik ga ter zyden af.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 2tab">O prins! myn vochtige oogen,</l>
+<l>En natte Wangen, die ge, in 't afgaan af zaagt droogen,</l>
+<l>Verzek'ren u, dat ik, niet door nieuwsgierigheid,</l>
+<l>Maar door meêlyën, in de kamer ben geleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">ontroerd.</hi></speaker>
+<l>'k Geloof uw traanen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 3tab">Wat is dit? gy u ontstellen?</l>
+<l>Ik kom hier geensins om uw ziel noch meêr te kwellen,</l>
+<l>Gebliksemd, door de slag van de onvoorziene maar</l>
+<l>Des vonnis: ik kom om u, uit het doodsgevaar,</l>
+<l>Benevens Frederik, te redden, en te bergen:</l>
+<l>Want die de naauheid van de bloedknoop scheen te vergen;</l>
+<l>Die bloedknoop, die uw stamme aan ons geslachtboom bind,</l>
+<l>Trotserende het geweld van eenen oorlogswind,</l>
+<l>Die, met een ruk, haar van malkander dreigd te scheuren,</l>
+<l>Herstel uw weezen. Hef het hoofd op. Staak dit treuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Prinses, ach! daar de dood ons aangrynst, en vervaard!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>'t Recht en de vreê zyn, in des konings hert, gepaard,</l>
+<l>Om, op de olyveblaân, den twist in slaap te sussen,</l>
+<pb n="53"/>
+<l>Elkaâr ontmoetende met zusterlyke kussen.</l>
+<l rend="; 1tab">Hy wend zyn aanzicht van de scherpe slachtbyl af;</l>
+<l>En noemd zich zelven te onverbiddelyk en straf;</l>
+<l>En schuifd al de adders weg, die aan zyn ooren hangen,</l>
+<l>En 't gif uitspuuwen op de onnos'le krygsgevangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Bedrieg u niet, prinses! uw vader keerd, en draaid:</l>
+<l>Terwyl de hofhaan met zyn vleugels klept en kraaid,</l>
+<l>Zyn sporen slypende om myn hertsêr op te suyën,</l>
+<l>En. met de sprenkels van myn bloed, zich te verblyën:</l>
+<l>Zyn gramschap ryst en daald, en heeft zyn eb en vloed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>'k Ontken het niet, helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Hy koele, aan my, zyn moed,</l>
+<l>En voere het vonnis uit. Ik ben getroost te sterven.</l>
+<l>Maar, ô prinses, indien gy, van hem, kond verwerven,</l>
+<l>Dat hy 't bebloede lyk myn moeder niet onthield,</l>
+<l>Gy zoud...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>, <hi rend="i">ontsteld.</hi></speaker>
+<l rend="; 1tab">Zwyg! zwyg! ik word, door deze bede, ontzield.</l>
+<l>Gy zult niet sterven. Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Wie schenkt me dan het leven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>'t Is van de koning u beloofd. Hy zal 't ook geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Zoo word de Beyersche afgezant van hem misleid,</l>
+<l>En ieder, die zich met ons moeid, of voor my pleit.</l>
+<l>De graaf van Vlaenderen was, met myn ramp bewogen;</l>
+<l>Maar (ach!) men heeft hem, met een schoone glimp, bedrogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>'t Is waar; myn broeder ging, en wist ook anders niet,</l>
+<l>Als dat men, heden, u van hier vertrekken liet,</l>
+<l>Gelyk 't hem was beloofd: dus zal hy vader dwingen</l>
+<l>Zyn woord te houden, en niet weêr te rug te springen,</l>
+<l rend="; 1tab">'k Verwagt hem weder in de stad, en in 't paleis,</l>
+<pb n="54"/>
+<l>Op dat hy 't leven der twee prinsen van hem eisch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Zo weet hy wat 'er schort? het veinzen van uw vader?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Ja. Door myn boden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">knielende.</hi></speaker>
+<l rend="; 2tab">Laat my toe, dat ik u nader,</l>
+<l>Beleefdheids voorbeeld, en de zoom kus van uw kleed.</l>
+<l>Ach! 't was te veel, 't geen gy voor een gevangen deed.</l>
+<l>Prinses, ik ken, ik ken my deze daad onwaardig;</l>
+<l>Zy zet me in diepe schuld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 4tab">‘Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 5tab">Spreek. Ik ben vaardig.</l>
+<l>Ach! wat begeerd ge van uw dienaar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 7tab">Dankbaarheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">weder knielende.</hi></speaker>
+<l>Prinses! ik beef. Aanvaard my zelf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 6tab">O prins! gy vleid,</l>
+<l>Gy geeft te veel. Het zal, misschien, u haast berouwen.</l>
+<l>Uw mildheid is te groot, ik durf dien niet betrouwen.</l>
+<l>'t Is licht gezegt: <hi rend="i">aanvaard my zelf</hi>: doch, hoe gering,</l>
+<l>Dit woord is, het besluit, in zynen ommekring,</l>
+<l>Iets kostelyk, het geen maar eens is weg te schenken.</l>
+<l>Wat zegt gy, Konradyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 4tab">Prinses! wat zal ik denken,</l>
+<l>Uw rêen zyn duister.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 3tab">Ach! gy wilt me niet verstaan.</l>
+<l>Alfonsus heeft...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l rend="; 2tab">Daar komt des konings lyfwacht aan.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="55"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Klotilde, Ernesto, Konradyn, Frederik, Alfonsus, Konstance</hi>, <hi rend="i">Pagien, Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Ernesto! wel, wat is uw last?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 2tab">Om deze beiden</l>
+<l>(Helaas) de tyd en uur te melden van te scheiden.</l>
+<l>Myn heeren! 't smart me dat ik weêr uw smart verwek;</l>
+<l>De geestlykheid verwacht u in dit zy' vertrek,</l>
+<l>Om u te troosten, en te sterken met gebeden.</l>
+<l>Prinses! 't behaag u dat zy derwaarts, met my, treden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Is vader wederom verandert van besluit?</l>
+<l>Kom; gaanwe, Alfonsus: want dat hollen diend gestuit.</l>
+<l>Ik wil myn ouders zelfs eens onder de oogen stappen,</l>
+<l>Om sors, in hun gezicht, dien bloetwel toe te trappen.</l>
+<l rend="; 1tab">‘Ach! is dit niet al te onmeêdogend', streng, en stuur,</l>
+<l>‘O liefde! daar men een misdaader legt aan 't vuur,</l>
+<l>‘En, door een heete gloed gepynigd, dwingt te zeggen</l>
+<l>‘Wat in den afgrond van zyn hart, gesmoord bleefleggen,</l>
+<l>‘Brand zy me vinniger, op dat ik melde 't geen</l>
+<l>‘Gy zelfbrocht in myn hart, en 't geen gy weet alleen?</l>
+<l rend="; 1tab">Prins! deze orkaan, die weêr zo schriklyk opkomt steeken</l>
+<l>Verdryft myn schaamte, en wil dat ik eens uit zal spreeken.</l>
+<l>Zie dan, in 's vyands hof, uw grootste lotvrindin,</l>
+<l>Getroffen van een fiere, en ongemeene min:</l>
+<l>Want, deed gy andere prinsessen hevig branden,</l>
+<l>Toen 't juichend Romen u droeg op haar hart, en handen,</l>
+<l>Na 't hooge kapitool, en noemde haar heer, en vorst,</l>
+<l>De straal van uw geluk doorgriefde hunn' trotse borst:</l>
+<l>Maar ik, ik wierd verliefd op u, een krygsgevangen,</l>
+<l>Gesleept, geschopt, beschimpt, met ketenen omhangen,</l>
+<pb n="56"/>
+<l>En, binnen Napels, voor myn vader, neêrgesteld.</l>
+<l>Ik heb my, met uw ramp, en ongeluk, gekweld;</l>
+<l>Ja wenschte dikmaals, om u beter te behagen,</l>
+<l>Meê ketens, om myn erm, en schouderen, te dragen,</l>
+<l>En schold steeds op Anjous geslachtnaam, als een smet,</l>
+<l>Die, met een glimp van eer, in 't minnen my belet.</l>
+<l rend="; 1tab">Doch schynt u deze drift een ydel medelyden,</l>
+<l>Zy doet zich klaarder zien met nu, voor u, te stryden;</l>
+<l>En, met een grootsch bestaan, te stooren 't halsgerecht,</l>
+<l>Eer een van u zich op den slachtbank nederlegt.</l>
+<l>En, zo misschien de wraak niet voor myn min mocht stryken:</l>
+<l>Maar, midden in het werk, zyn krachten deê bezwyken,</l>
+<l>Sterf met dat ziel vermaak, dat u uw 's vyands kind</l>
+<l>Niet op den troon, maar in den kerker, heeft bemind.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Frederik, Konradyn, Ernesto</hi>, <hi rend="i">Pagien, Wacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>‘Hy zwygt, en zy vertrekt. Klotilde is al geweeken,</l>
+<l>O Konradyn! wil tot uw trouwe vriend eens spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l rend="; 3tab">Ja! 't is te zwaar datge in uw boezem lyd:</l>
+<l>Doch, maak de ryksprinses verwinster in dien stryd;</l>
+<l>Dat Agnes wyke.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 4tab">Neen. Die geeft het nooit verlooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>Klotildes grootsheid moest u evenwel bekooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>'k Beken, haar liefde is 't hart eens konings dubbel waard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 2tab">Prins! 'k verzoek dat gy uw verd're reden spaard.</l>
+<pb n="57"/>
+<l>'t Word laat. Ly dat wy u na die gebeêcel brengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Frederik</hi>.</speaker>
+<l>‘Ach! ach! myn zuster! 't Wreed uitstellen en verlengen</l>
+<l>Van onze sterfdag, heer, is eindelyk gedaan.</l>
+<l>Kom Laat ons, hand aan hand, het moordschavot opgaan;</l>
+<l>Met naakte schouders, en met opgebonden hairen,</l>
+<l>Den byl braverende als twee marmere pilaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Zie nu! zie nu, wat dat een vorstlyk leven is.</l>
+<l>De Kerker heeft ons lang, met zyne duisternis,</l>
+<l>Gedekt, het hof kan ons niet eenen dag beschutten.</l>
+<l>O Frederik! ach! wilt me een weinig onderstutten;</l>
+<l>'k Schyn tot de knyen, door een berg van zand te treên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<stage><hi rend="i">binnen.</hi></stage>
+<l>Hoe prangd me dit! daar gaan de jongelingen heen.</l>
+<l>Hofdienaars! neemt terstond al 't siersel van de wanden,</l>
+<l>Het geen gy, met zyn goud, hier gloeijen ziet, en branden,</l>
+<l>Op dat de gantsche zaal worde in den rouw gekleed.</l>
+<l>Zet ook het toortslicht, aan de buitendeur, gereed,</l>
+<l>Om haar te ontsteken, als hier de uitslag word vernomen,</l>
+<l>En deze prinsen, op doodbaaren, wederkomen.</l>
+</sp>
+<stage><hi rend="i">Einde van 't Derde Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="58"/>
+<head rend="h3">Vierde bedryf.</head>
+<stage><hi rend="i">Het Tooneel verbeeld een Troonzaal.</hi></stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Karel, Robert, Beatrix, Blanche</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>. <hi rend="i">binnen tredende.</hi></speaker>
+<l>'k Zie my niet veiliger in deze zaal, Mevrouw,</l>
+<l>Voor de yz're roê van 't al doordringend' naberouw.</l>
+<l>Waar berg ik my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Bedaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 3tab">Heeft deze ruime woning</l>
+<l>Niet een vertrek, en niet een rustplaats voor zyn koning?</l>
+<l>Daar zy zo veel gemak zelf aan een dienaar geeft?</l>
+<l>Wat baat het dan een vorst, dat hy paleizen heeft,</l>
+<l>Wiens gulden schalydak de sterren poogd te raken,</l>
+<l>Als hem dat grootsch beslag niet zorgeloos kan maken.</l>
+<l>Kom gaan we. Hier ryst de troon. Zy baeud myn zuchten na,</l>
+<l>En lacht, om dat ik dus omzwerven moet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 4tab">Ai, sta!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">'k Spreek met de koningin: wat maakt u dus vermetel,</l>
+<l>Griffier, ik staan omtrent der Barbarossen zetel,</l>
+<l>Waar op hy blinken moest, die heden ondergaat</l>
+<l>In purp're wolken, met zyn levens dageraat?</l>
+<l>O Konradyn! mocht gy me, uw vyand, dus zien woelen,</l>
+<l>Wat zoude uw kwynend hart een kitteling gevoelen!</l>
+<l>Hoe dertel zoud gy na 't schavot gaan! ach! hoe bly!</l>
+<l>Neen. neen Ontfang die stoel veel liever weêr van my,</l>
+<l>Gy zult niet sterven met die vreugd, blyf. Gy zult leven.</l>
+<pb n="59"/>
+<l>En hier regeeren. 'k wil de staf u wedergeven:</l>
+<l>Neem deze mantel ook (hoe schoon zy plooid en zwaaid)</l>
+<l>Van Napels purper, met myn leliën bezaaid;</l>
+<l>Zy weegd myn schouders in.</l>
+</sp>
+<stage><hi rend="i">dezelve op de tafel leggende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 1tab">Wat hoor 'k den koning zeggen?</l>
+<l>Wild gy dit kleed, die kroon, dien scepter,nederleggen?</l>
+<l>En schoppen, reukeloos, de rykstroon met de voet?</l>
+<l>Neen: zet haar, staatzelos, eer vast in 's prinsen bloed:</l>
+<l>Dit klevende ciment verstrekt de marmere trappen,</l>
+<l>Om, zonder wagg'len, die groothartig op te stappen.</l>
+<l>Hoe kan die zetel u, met haar bekoorlykheên,</l>
+<l>Ontrusten, en een schrik doen vliegen door uw leên?</l>
+<l>Is zy geroofd, myn heer, dat moet u niet verschelen,</l>
+<l>Als gy, van haar omermd, slechts moogt uw staatrol spelen.</l>
+<l>Urbanus schonkze aan u: de nyd toon haar gebit,</l>
+<l>En laster deze daad, verheug u in 't bezit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Myn hart legt op den troon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Maar op geen zachter kussen</l>
+<l>Als 't hoofd van Konradyn. Ik ben niet eer te sussen</l>
+<l>Voor dat ik 't op de grond, zie gaapen. Vorst! gemaal!</l>
+<l>Wat doet u suffen? wat verwerd uw zinnen? draal,</l>
+<l>Draal toch niet langer met het vonnis; 't is geschreven,</l>
+<l>En, in 't uitvoeren, zal uw vrouw u niet begeven.</l>
+<l>Herroep, herroep die zucht, die 't graaflyk hert innam,</l>
+<l>Toen de opgedragen kroone u stelde in vuur, en vlam;</l>
+<l>Een vuur, dat koningen alleen ontsteekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">krankzinnig.</hi></speaker>
+<l rend="; 3tab">Wiens vonken</l>
+<l>My slaan in 't aangezicht... 'k heb u genaa geschonken,</l>
+<l>Onnoosle prins; ik hou my zuiver van uw bloed,</l>
+<l>Hoe zeer de haat van uw betichters raast en woed.</l>
+<l>Gy zyt geen roover, maar een eerlyk krygsgevangen,</l>
+<l>Dien de overwinnaar, met beleefdheid, moest ontfangen,</l>
+<pb n="60"/>
+<l>En, voor rantsoen, of op een borge, laaten gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Myn heer! ik zie u, met verwond'rende oogen, aan.</l>
+<l>De prins onnozel? die de grenzen dezer landen</l>
+<l>Dorst, met zyn oorlogstoorts, in hunne rust, aanranden?</l>
+<l>Die 's konings naam misbruikt? die naar uw gordel steekt?</l>
+<l>Die, in zyn boezem, zo veel twist, en oproer, kweekt,</l>
+<l>'k Versta u. Ja. Gy wild de koningin beproeven,</l>
+<l>Of, naar gewoonte ('t geen zy niet verdiend) bedroeven.</l>
+<l>‘O staatzorg! dwing die vorst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Hy grenst ons ook te na</l>
+<l>In bloedverwantschap, om zyn aadlyk bloed te plengen.</l>
+<l>'t Hart klopt me. Ik kan, ik kan het halsrecht niet gehengen.</l>
+<l>Hofdienaars!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>, <hi rend="i">hem ophoudende.</hi></speaker>
+<l rend="; 1tab">Blyf. De troon ziet naar geen maagschap om.</l>
+<l>Als de eerste ryst, en spreekt, dan zit de twede stom.</l>
+<l>De scepterzucht let noch op vaders, noch op broeders;</l>
+<l>Zy trapt de lenden in van zusters en van moeders,</l>
+<l>En all' die, zich alleen betrouwende op die band,</l>
+<l>Naar 't purper grypen, met een krachtelooze hand.</l>
+<l>Zo zag de Nyl, om 't goud der trotse diademen,</l>
+<l>De Ptolomeën hunn' bloedvrienden 't leven nemen,</l>
+<l>Of 't ryk uitjagen, met een koninglyken haat;</l>
+<l>Alleen vermaagdschap aan de nutte reên van staat.</l>
+<l>De reên van staat moet ook alleen uw zyd' bekleeden.</l>
+<l>Hy sterve. Steltme toch, ja, stel u zelf te vreden.</l>
+<l>'t Eens uitgesproken woord sta vast gelyk een muur.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Neen. neen, ik koop de staf met 's prinsen bloed te duur!</l>
+<l>Trauwanten! laatme los. Ik wil hem zien, en hooren:</l>
+<l>Zyn tegenwoordigheid, Mevrouw, zal my bekooren,</l>
+<l>Of roerloos maken. Hoe! gy schud het hoofd. Gy schreid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Zou ik niet schreijen om uw onvoorzichtigheid.</l>
+<pb n="61"/>
+<l>Myn ongeduld zal...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">neêrgezeten beneden de verheven stoel, tot de stoet.</hi></speaker>
+<l rend="; 4tab">Laat Ernesto herwaarts komen.</l>
+<l>Zit neêr, Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>, <hi rend="i">aarzelende.</hi></speaker>
+<l rend="; 3tab">O smart! hoe kan ik my betoomen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ernesto zal de prins eens haalen, met zyn vrind:</l>
+<l>'k Moet zien of Konradyn zyn leven haat, of mind;</l>
+<l>Of hy met nedrigheid, genade zal begeeren;</l>
+<l>Of hy gereed is om den scepter af te zweeren;</l>
+<l>En, of hy waarlyk, tot verdrag held, en tot vreê.</l>
+<l>Indien hy 't wrokkend staal wil steeken in de scheê,</l>
+<l>En nooit myn leliën, met oorlogs onweêr, moeijen;</l>
+<l>Maar laten haar, in 't ryk van Napels, weeldrig groeijen.</l>
+<l>'k Geef hem zyn vryheid. Hoe? bereik ik niet myn wit?</l>
+<stage><hi rend="i">opryzende.</hi></stage>
+<l>En is 't niet strafs genoeg, dat hy my smeekt, en bid?</l>
+<l>Wat eischt gy meêr?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Dat gy me een pook, in 't hart, zult dryven;</l>
+<l>Op dat ik sterf, indien hy zal in 't leven blyven;</l>
+<l>Vaar wel. Herstel u met die vreugd. Weêrhou my niet.</l>
+<l>'k Moet u verlaaten, of bezwyken van verdriet.</l>
+<l>O pyn! ô smart! zal my myn man dus ringelooren?</l>
+<l>Zwyg! zwyg! 'k wil niet een woord meêr van de prinsen hooren.</l>
+<l>Kom, volg me Blanche.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Karel, Robert</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">neêrgezeten.</hi></speaker>
+<l rend="; 1tab">Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 2tab">Zo 't my geoorloofd is...</l>
+</sp>
+<pb n="62"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ja. Spreek, en sterk myn ziel, in haar ontsteltenis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>, <hi rend="i">ter zyde staande.</hi></speaker>
+<l>Bestrafme, indien ik uw geduld te veel mogt vergen.</l>
+<l>Een koning moet voor een gevangen zich verbergen:</l>
+<l>Als die zyn aanzicht aan den schuldigen ontdekt,</l>
+<l>Het is een teken 't geen tot heil, en welvaard, strekt;</l>
+<l>Want, dat schynt nergens als met straalens van genade.</l>
+<l rend="; 1tab">Ik bid, heer koning, ga nu met u zelf te rade.</l>
+<l>Geloofd gy dat de prins met logens is beticht?</l>
+<l>En, dat deze aanklacht gantsch verzierd is, en verdicht?</l>
+<l>Mistrouwt gy 't oordeel van de waardige geleerden,</l>
+<l>Die zich, zo langsaam, tot den strengen rechtbyl keerden?</l>
+<l>Kond gy ontkennen 't geen uw eigen oog aanzag?</l>
+<l>Kwam Konradyn niet, in het harnas voor den dag,</l>
+<l>Om, met een ys're vuist, u van dien stoel te rukken,</l>
+<l>En Napels paard een toom weêr in den muil te drukken?</l>
+<l>Was deze stad niet aan zyn heir geweest tot buit,</l>
+<l>Indien gy hem niet had, by Fucinus, gestuit?</l>
+<l rend="; 1tab">Was 't nu gebeurd dat hy verwinnaar bleef in 't stryën,</l>
+<l>Had gy dan, van uw paard, niet moeten nederglyen?</l>
+<l>En vallen op uw kniën? en werpen uw geweer,</l>
+<l>Helm, beukelaar, en kling, aan 's prinsen voeten neêr?</l>
+<l>Genadigste! had gy mede uw zaamgevouwen handen</l>
+<l>Niet uitgesteeken in het slot der koop're banden?</l>
+<l>Had Konradyn de byl niet op uw nek gezet?</l>
+<l>En blyft hy niettemin, noch zonder lastersmet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">opschietende.</hi></speaker>
+<l>Waar toefd Ernesto? 'k zie de zaal, aan alle kanten,</l>
+<l>Vol zorgen. Jaagdze weg, myn hofstoet! myn trauwanten,</l>
+<l>Ontzet myn angstig hart!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kobert</hi>.</speaker>
+<l rend="; 2tab">Heer koning! niet één woord?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Hervat uw reden; want ik heb die niet gehoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Gy spreekt van Konradyn de vryheid op te dragen,</l>
+<pb n="63"/>
+<l>Zo hy de kroon afzweerd, en stuit alle oorlogs plagen;</l>
+<l>Dat zal hy willig u beloven: maar, ô vorst!</l>
+<l>Een ingekropte spyt blyft in een grootsche borst.</l>
+<l>Hy zal het lemmer nooit eer in de schede steken,</l>
+<l>(Vertrouw 't hem niet) voor hy verzadigt is van 't wreken.</l>
+<l>De wraak verminderd het gevoelen van de smaat;</l>
+<l>Gy zyt verlooren, zo de prins na Bey'ren gaat.</l>
+<l>Al is hy nu verzwakt, hy zal haast wederkomen,</l>
+<l>Met nieuwe krachten, met de legers van twee oomen.</l>
+<l>Is nu de slagveêr van dien adelaar gekort,</l>
+<l>Heer koning, wacht uw hoofd, zo hy weêr vluchtig word.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ik zal dat ondier dan bewaaren in een kerker.</l>
+<l>Hy blyft hier zitten, met zyn vriend en medewerker.</l>
+<l>En slyt zyn leven in de boeijens.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 2tab">Ja, bewaar,</l>
+<l>Bewaar een prins eens in een kerker? schoon die waar</l>
+<l>Van louter yzer t'zaam geklonken, of gegooten,</l>
+<l>Noch word haar deur, met list of met geweld, ontslooten:</l>
+<l>Best, dat men hem ontziel, het lyk in 't aardryk delf,</l>
+<l>En deze kerker, met een grafzark overwelf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ten minsten laat my toe de moeder te verwachten,</l>
+<l>Die herwaarts aantrekt: want zy zal, met nare klachten,</l>
+<l>Dit hof vervullen, en my vloeken, sterft de zoon</l>
+<l>Eer zy, om hem, zich heeft gebogen voor myn troon:</l>
+<l>En, schoon ik geensins, in den eisch, haar zal vernoegen,</l>
+<l>Ik wil haar hooren. 't werk zal my te minder wroegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Maar, vreest gy Romen niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Ik vrees Europe meêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>Die vloekt en band.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">En die grypt licht na krygsgeweer.</l>
+</sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l>'k Zie hier uw aanhang haast versmelten, en verdwynen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Daar 't zamenrotten van de droeve Gibellynen,</l>
+<l>Die, knarzetandende, op het merktveld, vaardig staan</l>
+<l>Om toe te schieten als de slag zal zyn gedaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi></speaker>
+<l>'t Ryk zal hem echter (schoon gy daar wild tegen stry'en)</l>
+<l>Doen, in een holle zee van oproer, schipbreuk ly'en.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi></speaker>
+<l>'t Ryk zal my dwingen met haar driften? my gebiên?</l>
+<l>Haar wil my geven tot een voorschrift? 'k moet dat zien.</l>
+<l>Eer zal die scepter uit...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 2tab">Genade! heb ik misdreven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Daar komt de hoofdman. 't word u deze maal vergeven.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Ernesto, Karel, Robert</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Waar in kan u myn dienst behagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 4tab">Door te gaan</l>
+<l>Naar Konradyn, en hem te brengen herwaarts aan,</l>
+<l>Met Frederik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 1tab">De vorst hoor my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 3tab">Maar met dit marren,</l>
+<l>Ernesto, zoud gy licht myn heete gramschap sarren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Is 't my geoorloofd, dat ik spreek, genadigste heer?</l>
+<l>Den hertog is al heene; of wild gy dat hy keer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Al heene, om met zyn bloed, dat outer te besprengen,</l>
+<pb n="65"/>
+<l>'t Geen myn oplopendheid te ras voor 't hof liet brengen,</l>
+<l>Toen dit slagtoffer my, zo bits, wierd afgevraagd,</l>
+<l>Van wiens onnozelheid, en waarde, Europe waagd?</l>
+<l>Gy leide hem weg! helaas! en heb ik 't u geboden?</l>
+<l>Zal ik, zal ik dan nu de prinssen laaten dooden?</l>
+<l>De koningin zegt ja; maar, myn geweeten neen.</l>
+<l>Verëen u, twisters, of gy scheurd myn hart van één!</l>
+<l>Het beefd! het krimt! het swoegd; en kan dit niet verdragen.</l>
+<l>Rust, myn gemoed; 'k zal u Mevrouw, 'k zal u behaagen!</l>
+<l>U beiden? neen. Dat dan de een voor den and'ren stryk.</l>
+<l>Maar wie? zeg, wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 2tab">'t Is best, dat dan 't geweeten wyk,</l>
+<l>Dewyl 't misleid word door verkeerde zinnebeelden,</l>
+<l>Die de herssens vaak, in hunne ontsteltenissen, teelden,</l>
+<l>De waarheid smoorende in een mist van schyn, en waan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Hy ging dan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 1tab">Als een leeuw, en zag een ieder aan,</l>
+<l>Op 't hoogst vernoegd, dat hem het recht van meerder jaaren</l>
+<l>De voortocht gaf om, door zyn bloed, van hier te vaaren</l>
+<l>Tot in de haven, daar hy eeuwig rust geniet,</l>
+<l>Naar zo veel arbeid, vry van kommer en verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Kon hy van Konradyn, zyn boezemvriend, wel schei'en?</l>
+<l>Beschryftme het afscheid eens.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 3tab">Vorst! ziet gy my niet schreijen?</l>
+<l>Ach! laat u dan voldoen dat ik 't alleen beschryf.</l>
+<l>Met traanen, die 'k van myn benevelde oogen wryf.</l>
+<l>Hoe spreek ik krachtiger van hunne laatste reden,</l>
+<l>Vol ted're naamen, en ootnoedige gebeden;</l>
+<l>Van kussen, drukken, en omhelzen, ondersteund!</l>
+<pb n="66"/>
+<l>Een felle zielstorm, daar de zaal af heeft gedreund.</l>
+<l>Gelyk een wind, wiens kracht geen wolk meêr op kan schorten,</l>
+<l>Komt, ongestuimig, in een bergspelonk afstorten,</l>
+<l>Zo donderde 't vaarwel, of eer een groote kreet,</l>
+<l>Die Konradyn ontglipte, en door onze ooren sneed,</l>
+<l>Toen de hertog van hem ging.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Reinout, Karel, Robert, Ernesto</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>, <hi rend="i">schielyk toeschietende, en knielende.</hi></speaker>
+<l rend="; 2tab">Heer koning! ach! heer koning!</l>
+<l>Gerade! ik bid...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">hem opheffende.</hi></speaker>
+<l rend="; 1tab">En ik begeer van u verschoning,</l>
+<l>Dat ik niet blyf by myn belofte, en eed, en woord;</l>
+<l>Een vorst doet niet altyd gelyk hy wel behoord;</l>
+<l>De staf dwingt hem, somtyds, te dwalen met zyn oordeel,</l>
+<l>En 't goed te noemen, 't geen tot nut strekt, en tot voordeel,</l>
+<l>Hoe goddeloos, en schelms het de onervaar'ne schynt.</l>
+<l>Voorts weet, gezant, dat my dit halsgerecht zoo pynd,</l>
+<l>Dat ik niet anders wensch als hen te mogen spaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>, <hi rend="i">weder knielende.</hi></speaker>
+<l>Erbarm! erbarm! erbarm u toch, met hunne jaaren.</l>
+<l>'t Zyn jongelingen, ach! 't zyn bloemen, te onvolgroeid,</l>
+<l>Om heden, van den steel, te worden afgesnoeid.</l>
+<l>Zie my niet aan gelyk hunn' voorspraak, en behoeder,</l>
+<l>O vorst! denk dat hier kruipt een troosteloze moeder,</l>
+<l>Wiens afgezant ik ben, de droeve Elizabeth.</l>
+<l>Indien myn ootmoed, en myn bede, u niet verzet,</l>
+<l>Toef, toef tot dat zy zelfs kan voor uw voeten vallen;</l>
+<l>Een halve dagreis brengt haar binnen deze wallen.</l>
+</sp>
+<pb n="67"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Rys op. Het is me leet, dat ik niet toeven mag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Helaas! ten minsten gun hen 't leven dezen dag.</l>
+<l>Hecht dezen dag noch aan de schakels van die dagen,</l>
+<l>Waarinze, steeds vol angst, in uwe kerker lagen.</l>
+<l>Ontfang de tranen van een weduw, voor haar zoon.</l>
+<l>'t Zyn diamanten aan een vorstelyke kroon.</l>
+<l>Een machtig vorst kan met geen schoonder siersels pronken,</l>
+<l>Als met de naamen van die 't leven zyn geschonken,</l>
+<l>Door zyn mildadigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 3tab">Mocht ik zo mild zyn! maar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>'k Beken, 't vergeven valt een overwinnaar zwaar,</l>
+<l>Als hy den degen op zyns vyands hart mag stellen:</l>
+<l>Maar, is 't niet grootsch, wanneer hy, onder 't nedervellen,</l>
+<l>Het staal te rug trekt, eer 't noch in den boezem glyd,</l>
+<l>En dus hem 't leven schenkt, en van de dood bevryd?</l>
+<l>Wees toch verbiddelyk, heer koning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 4tab">Of uw smeeken</l>
+<l>Myn toorn al nederzet, ik voel ze weêr ontsteeken</l>
+<l>Door 's koninginnes komst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">‘Haar komst speld my niet goeds.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Sta op.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>, <hi rend="i">opryzende.</hi></speaker>
+<l rend="; 1tab">‘Wat hofgedruis (ach!) om een hand vol bloeds.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="68"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Beatrix, Karel, Ernesto, Robert, Reinout, Blanche</hi>, <hi rend="i">Hofsloet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>'k Vrees oproer, en verraad, indien gy noch uw ooren</l>
+<l>Naar uitstel neigd, myn heer, wy zyn gewis verlooren.</l>
+<l>O duldeloze smaat! hoe kan het moog'lyk zyn!</l>
+<l>Klotilde mind! en bid, en stryd, voor Konradyn.</l>
+<l>Ja, dreigd, door borgers en soldaaten heen te dringen,</l>
+<l>En, met haar eigene hand, de prins den beul te ontwringen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Dit is het dat me lag, gelyk een steen, op 't hert.</l>
+<l>Ik zocht, in myn gemoed, de bronäer van myn smert,</l>
+<l>En meende dat de rust gestoord wierd door haar knagen:</l>
+<l>Maar, 't is Klotildes min, die my dit deê verdragen,</l>
+<l>Die spookte hier binnen... zy hem rukken van 't schavot?</l>
+<l>Myn dochter? neen. <hi rend="i">tot Beatrix.</hi> ik maak u meester van zyn lot.</l>
+<l>Verhaast, verhaast zyn dood. Ook het geringste teeken</l>
+<l>Van gonst is, door die maare, uit myn gemoed, geweeken.</l>
+<l>Ga heen. Voer 't vonnis, naar uw welgevallen, uit.</l>
+<l>Ik zal het aanzien. Ja, Mevrouw, dit 's myn besluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Wel aan. 't verheugd my dat gy u eens wild bevryën</l>
+<l>Van 't geen 't uitstellen van de straf u steeds doet lyën.</l>
+<l>Griffier!</l>
+</sp>
+<stage><hi rend="i">Zy luistert Robert iets in.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 1tab">'t Is wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Ik geef dit halsrecht in uw hand.</l>
+<l>Ga. Spoede u na de merkt; help Frederik van kant;</l>
+<l>En dan den Prins.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Robert</hi>.</speaker>
+<l rend="; 3tab">Mevrouw! 'k zal uw bevelen volgen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="69"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Karel, Beatrix, Reinout, Ernesto, Blanche</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Die liefde scherpt myn haat, en maakt my weêr verbolgen:</l>
+<l>Doch, is 't al waar, Mevrouw, dat zy de prins bemind?</l>
+<l>Is 't ook een laster? of een waan, die u verblind?</l>
+<l>Wie weet het? 'k twyffel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Hier staan de oog en oorgetuigen,</l>
+<l>Klotilde kwam zich voor myn voeten nederbuigen</l>
+<l>In myn vertrek, daar ik myn toorn wat aêmtocht gaf.</l>
+<l>De traanen biggelden van haare wangen af:</l>
+<l><hi rend="i">Vrouw moeder</hi>, sprak 't gedrocht, <hi rend="i">vrouw moeder, 'k ben bewoogen</hi></l>
+<l><hi rend="i">Met Konradyn, en kom u bidden om meêdoogen;</hi></l>
+<l><hi rend="i">Help 't recht opschorten; ai, bedwing uw overmoed!</hi></l>
+<l rend="; 1tab">Ik brak haar reden af, en stampte met de voet,</l>
+<l>En beet, van gramschap, op myn lippen: maar de ontzinde</l>
+<l>Voer voort: <hi rend="i">ô wrede! daar 'k geen menschen hart in vinde,</hi></l>
+<l><hi rend="i">Wat wroet ik in uw borst en zoek naar 's moeders hart.</hi></l>
+<l><hi rend="i">Ik kom slechts om myn min te melden, die u tart.</hi></l>
+<l><hi rend="i">'k Min Konradyn, en zal (gy moogt my wederstreeven)</hi></l>
+<l><hi rend="i">Hem niet verlaaten op den oever van zyn leven.</hi></l>
+<l><hi rend="i">'k Heb hem beschreid, bezocht, getroost, myn liefde ontdekt,</hi></l>
+<l><hi rend="i">En, zelf met traanen, in zyn hart, een brand verwekt,</hi></l>
+<l><hi rend="i">Die straks daar 't ys versmolt, en tot my hoog zyn zinnen;</hi></l>
+<l><hi rend="i">Schoon gy niet denken kost dat my de prins zou minnen.</hi></l>
+<l><hi rend="i">Geloofd gy 't niet? 'k zal u doen zien...</hi> hier komt zy aan.</l>
+<l>Hoor toe. Nu zult gy 't, uit haar eigen mond, verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>De vorst geef my verlof, dat ik hem mag verlaaten,</l>
+<l>Dewyl myn klagten, en gebeden, hier niet baaten.</l>
+</sp>
+<pb n="70"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ga.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 1tab">Laat my toe dat ik de prins gezelschap hou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ga heen. Blyf Konradyn, tot in den dood, getrouw.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Karel, Klotilde, Beatrix, Konstance, Ernesto, Blanche</hi>, <hi rend="i">Hofstoet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Klotilde! is 't waar, dat gy, verbasterd van uw stamme,</l>
+<l>U laat ontsteeken van een lasterlyke vlamme?</l>
+<l>Mind gy de prins?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 2tab">Ja, 'k min. Hebt gy 't niet toegestaan?</l>
+<l>Naamt gy myn min niet, in 't verbond, voor gys'laar aan?</l>
+<l>Blyfby uw woord, geveinsde, uw zoon, den graaf gegeven,</l>
+<l>En laat myn bruigom, en zyn halsvriend, in het leven.</l>
+<l>Maar hoe! myn voorbeê maakt de koning meê verwoed.</l>
+<l>Gy dorst dan niet alleen naar dit doorluchtig bloed?</l>
+<l>Men zal het evenwel, zoo lang ik leef niet storten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Ik zie u krachteloos om 't vonnis op te schorten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>‘Waarom belet gy my, natuur, dat ik die kling</l>
+<l>‘Dien wederspannigen niet in de boezem wring!</l>
+<l>Gy my noch tergen? gy? die stoutheid moet ik minderen.</l>
+<l>De prins zal sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 4tab">Maar ik zal zyn dood verhinderen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Vermetele!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Dat toch dit ondier word gesluit.</l>
+</sp>
+<pb n="71"/>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ernesto! 'k wil dat gy, haar in 'er kamer, sluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>Hoe, my? ‘helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Men moest u, met den kerker, dwingen,</l>
+<l>Dan zoude uw trotsheid ons niet voor de scheenen springen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Sla haar wel gade; en hou haar hofpoort in het slot,</l>
+<l>Tot dat prins Konradyn onthalst legt op 't schavot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>‘O liefde!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 1tab">Gaan wy naar den marmersteenen toren,</l>
+<l>By 't nederhof; men kan, van daar, hem zien en hooren.</l>
+<l>Myn heer! ik moet zyn dood aanschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 6tab">Boet uw lust:</l>
+<l>Terwyl zoek ik, in myn vertrek, een weinig rust.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Klotilde, Konstance, Ernesto</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 3tab">Myn tranen! rold den graaf te moed:</l>
+<l>Zegt, dat het tyd is; dat de byl word opgeheven,</l>
+<l>Om Konradyn, (helaas!) den fellen slag te geven:</l>
+<l>Hy moet die stutten, of men stort dat kostlyk bloed.</l>
+<l>Maar gy, ô Hemel! laat een nacht op 't aardryk daalen,</l>
+<l rend="; 5tab">Zo hy te lang mogt draalen;</l>
+<l rend="; 1tab">Doof 't daglicht uit; werp hagelsteenen neêr;</l>
+<l rend="; 4tab">Meng die met bliksemslaagen;</l>
+<l rend="; 1tab">En help ons, met dit schroomelyk geweêr,</l>
+<l rend="; 1tab">De beul, en Bar, van 't wreet schavot verjagen!</l>
+</sp>
+<pb n="72"/>
+<sp>
+<speaker><hi rend="sc">Konstance</hi>.</speaker>
+<l>Ernesto wenkt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 1tab">Ik volg. Konstance! deze dag</l>
+<l>Zal ik het hof doen zien wat liefde en trouw vermag.</l>
+</sp>
+<stage><hi rend="i">Einde van het Vierde Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="73"/>
+<head rend="h3">Vyfde bedryf.</head>
+<stage><hi rend="i">Het Toneel verbeeld een Rouwkamer.</hi></stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Ernesto, Reinout</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>, <hi rend="i">komende van het lyk van Fredrik, aan het einde van de zaal staande, met eenige lichten omringd.</hi></speaker>
+<l>Neen, neen, heer afgezant: gy moet de vorst verschoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Ach! zou hy Konradyn noch met dit schouwspel hoonen?</l>
+<l>Daar me een halsschuldige troost, moedigd, en verkwikt,</l>
+<l>Verbergende alles, waar zyn bange ziel voor schrikt.</l>
+<l>Of is 't een gunst? 'k beken, hier is geen byl van nooden;</l>
+<l>Want deze toestel is genoeg om hem te dooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Terwyl de prins te lang in die gebeêcel beid,</l>
+<l>Is 't lyk hier neêrgezet, uit haat en bitterheid.</l>
+<l>De koning heeft zyn vrouw, ten vollen, macht gegeven,</l>
+<l>De prinssen, buiten hem, te rukken uit het leven:</l>
+<l>Dus is dit, door haar last, van Robert uitgewerkt,</l>
+<l>Met wiens boosaartigheid zy steeds haarwraakzucht sterkt.</l>
+<l>Helaas! 'k doe my gewelt, myn heer; myn hart moet splyten,</l>
+<l>Nu my myn ampt verbied eens luidkeels uit te kryten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Zyn wreedheid houd geen maat; hy tergd, en kweld, en plaagd,</l>
+<l>Myn prins; alleen om dat dit zyn vorst in behaagd.</l>
+<l>Met welke omstandigheên zaagt gy den hartog sterven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Myn heer, die fierheid is, met woorden noch met verven,</l>
+<l>Te schilderen, waar meê dien braven jongeling</l>
+<l>'t Schavot, al om bespreid met rood fluweel, opging.</l>
+<pb n="74"/>
+<l>Zo klimt een krygsheld, langs een scheur, in 's vyands werken;</l>
+<l>En vliegt, gelyk een draak, met saamgeklapte vlerken,</l>
+<l>Den puinhoop op, en plant, terwyl hem niemand stuit,</l>
+<l>Het vliegend vaandel op een omgerukt afuit.</l>
+<l>De omstander, gantsch verbaast, ziet dit groothartig treden,</l>
+<l>By 't onberisp'lyk schoon der welgeschikte leden,</l>
+<l>Met zek're twysling aan; dewyl hy niet geloofd,</l>
+<l>Dat deze is een van twee, die missen moet zyn hoofd:</l>
+<l>Doch, eind'lik (als hy Bar hem 't vonnis voor hoord leezen)</l>
+<l>Zo zegt hy: <hi rend="i">ja, die fiere is tot den byl verweezen</hi>!</l>
+<l>En zwaaid hem 't wierook toe van zyn genegenheid,</l>
+<l>Terwyl hy de oogen sluit, en, in zyn boezem, schreid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>‘O prins! ik vrees, gy zult mistroostig zyn, en blyven.</l>
+<l>Vaar voort, heer hoofdman, en voleindig dit beschryven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Als Frederik de last gehoord had van den vorst,</l>
+<l>Zoo deed hy 't kleed los, en ontbloote hals en borst</l>
+<l>Met eigene handen, op dat niemand zou genaken,</l>
+<l>En 't zuiver elpenbeen van nek, en schouders, raken;</l>
+<l>Wat zag de hemel toen al schoons! hoewel de zon</l>
+<l>(Als of hy zyn gezicht daar niet op houden kon)</l>
+<l>Zich wende, en dekte met een slip van wolkgordynen,</l>
+<l>En slechts een bleeke straal liet, over 't merk veld, schynen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Hy strekt, met dit geduld, een wonder aan onze eeuw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Dus, met de naakte hals, zoo blank als versche sneeuw,</l>
+<l>Slaat hy zyn oogen op de geestelyke vaders,</l>
+<l>En bid hen om een woord, gehaald uit de heil'ge bladers,</l>
+<l>Het geen hem stutten mogt, en sterken, in 't gebed:</l>
+<l>Waar op een ieder op zyn knie, zich nederzet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Maak kort. Ik hoor gerucht in 't zy vertrek. Zy koomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Het yverig gebed had naaauw een eind genomen,</l>
+<pb n="75"/>
+<l>Of de hertog ryst; en wenkt de sidderende beul,</l>
+<l>En eischt een wisse slag: die zegt hem toe dien heul,</l>
+<l>Meêr met gebeerden als met woorden, stom van vreezen;</l>
+<l>Zo trof hem de helderheid van dit bezadigd wezen!</l>
+<l>Hy knield dan weêr, betast het blok, of 't zich verwrikt,</l>
+<l>Of 't van een stoot, of slag, ook waggeld, en verschrikt.</l>
+<l>Maar neen; 't staat al te wel; dus strykt hy d'hoofddoek neder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Zwyg 't overige: want myn ziel, helaas, te teder!</l>
+<l>Gevoeld die snede in 't hart, die 't hooft van 't lichaam scheid.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Konradyn, Reinout, Ernesto</hi>, <hi rend="i">twee Biechtvaders.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">komende uit het zyvertrek, tot de Geestelyken.</hi></speaker>
+<l>Eerwaardste, neen: ik steun op myn onnozelheid;</l>
+<l>Ben, daar en boven ook verschoonbaar om myn jaaren,</l>
+<l>Die, maar, ach!</l>
+</sp>
+<stage><hi rend="i">hy schiet toe, en valt by 't lyk neder.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>, <hi rend="i">tegen Ernesto.</hi></speaker>
+<l rend="; 1tab">Zie, myn heer, dit moest hier wedervaaren.</l>
+<l>Men richt hem weder op. Prins! prins! wat zal het zyn?</l>
+<l>Ai, laat de doodbaar los!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 3tab">O Frederik! ô pyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Rys op, myn heer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Myn vrind!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">Uw rouw kan hem niet baaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>O Frederik!</l>
+</sp>
+<pb n="76"/>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 3tab">Myn heer, wilt toch dit lyk verlaaten,</l>
+<l>Dat te ongevoelyk is om...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 5tab">Prins! best dat men wyk!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>, <hi rend="i">opstaande.</hi></speaker>
+<l>Keerd gy dus weder, praal en roem van Oostenryk?</l>
+<l>Keerd gy dus weder? en misgund men noch myn oogen</l>
+<l>U aan te schouwen? dat dit kleed worde afgetoogen;</l>
+<l>Dit deksel weggerukt!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>, <hi rend="i">hem belettende.</hi></speaker>
+<l rend="; 4tab">Myn heer! 't mag niet geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Verbiedme my, myn vrind (helaas!) uw lyk te zien?</l>
+<l>Uw hoofd te leggen op de doodbaar van myn ermen?</l>
+<l>Uw ziel te wekken, door uw ooren, met myn kermen?</l>
+<l>Uw mond te drukken met myn lippen, nat beschreid?</l>
+<l>O Frederik! 'k versmelt van rouw, en treurigheid.</l>
+<l>Ach! dat myn vyanden my deze troost noch gaven,</l>
+<l>Dat ik uw waarde leên mogt, in myn hart, begraven:</l>
+<l>Uw leên, met stof en zand bemorst, met bloed bespat!</l>
+<l>Wat zoude ik bly zyn met die kostelyke schat!</l>
+<l>Doch! 'k zal, gelyk de byl is, door uw nek, gedreven,</l>
+<l>(Dit trooste u) meê myn hals aan haar ten besten geven.</l>
+<l rend="; 1tab">Siciliën was, met zyn wreedaarts, niet vernoegd,</l>
+<l>O booze Anjou! hadge u, by deze, niet gevoegd,</l>
+<l>En Oostenryk ontrukt dien treffelyken parel,</l>
+<l>En, met de voet, vertrapt: doch, ik onschuldig Karel,</l>
+<l>En klaag my zelven aan, ik heb geplengt dit bloed;</l>
+<l>Ik ben zo wreed geweest op deze, en zo verwoed;</l>
+<l>Ik brocht den hartog op de slachtbank.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 6tab">Zyt te vreden,</l>
+<l>Myn Prins!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 2tab">Myn heer! 't word tyd om na demerkt te treden.</l>
+</sp>
+<pb n="77"/>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>'k Ben reê. Hoor eerst, wat my verbaastmaakt, en verstomd,</l>
+<l>Heer afgezant! indien myn moeder heden komt,</l>
+<l>En my niet vind; maar wel myn romp hier zal ontmoeten;</l>
+<l>Verbeeld, verbeeld u eens, hoe zy die zoon zal groeten!</l>
+<l>Ach! zy geeft geen geluid: maar ziet het lyk slechts aan;</l>
+<l>En blyft, gelyk een beeld van schreijend marmer, staan.</l>
+<l rend="; 1tab">Was zy nu hier! mogt ik haar spreeken, en dan scheiden!</l>
+<l>Ja. Mogt zy meê gaan, en my, tot de slag bereiden;</l>
+<l>Ik liet haar hand niet los, in deze laatste nood,</l>
+<l>Voor dat de wreeee byl myn hoofd smeet in haar schoot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>'t Believe u, datwe gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l rend="; 2tab">Wees gy dan de behoeder,</l>
+<l>En schutsheer van die te beklagelyke moeder;</l>
+<l>En ondersteun de weêuw, op reis. Dit drukt te zwaar.</l>
+<l>Verwerft zy 't zielloos lyk van den geweldenaar,</l>
+<l>Breng 't by myn oomen: maar, hoe zullen die dit wreeken:</l>
+<l>En, voor een luttel bloeds, noch eens geheelen beeken</l>
+<l>Doen vloeijen, door dit ryk!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l rend="; 2tab">'k Volg uw bevel, myn heer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Klotilde! ik sterf uw vrind; uw wanhoop doet my zeer,</l>
+<l>Myn vrindschap dwongt gy me af; hoewel het krank vermogen</l>
+<l>Niet evenaaren kon uw werkend' mededogen,</l>
+<l>Dat met een vader kampte, en met een moeder streed,</l>
+<l>Terwyl 't de waare deugd zocht onder 't purp'ren kleed.</l>
+<l>Ik ben gevonnist naar de richtsnoer van de grooten;</l>
+<l>Myn bloedschuld is te zyn, uit have, en erf, gestooten;</l>
+<l>'k Heb, met een wedereisch, dit ryk te kort gedaan.</l>
+<l>Dus zal ik, vaardig, ook daarom ter slachtbank gaan.</l>
+<l>Doof, ondertusschen, uit het vuur, dat u deê branden,</l>
+<l>Op dat het, met myn dood, uw achting niet doe stranden,</l>
+<l>En dryven, op een klip van buitenspoorigheid;</l>
+<pb n="78"/>
+<l>'t Geen naderhand, van u, nooit wierd genoeg beschreid.</l>
+<l>Maar, ö myn ziel, zoude u de doodschrik wel berooven</l>
+<l>Van Agnes beeld, en haar gedachtenis verdooven?</l>
+<l>Of durft gy, by dit lyk, niet denken aan die maagd,</l>
+<l>En is 't haar broeders bloed dat in u wroegd en knaagd?</l>
+<l>Of moet men juist haar naam, op blyde plaatzen, roemen,</l>
+<l>En mag men Agnes, by geen droeve doodbaar, noemen?</l>
+<l>Myn Agnes! ach! gy ziet uw bruigom weêr te moet,</l>
+<l>En vreest niets minder als het plengen van zyn bloed.</l>
+<l>Gy maakt, misschien, u al gereed, om ons te onthaalen,</l>
+<l>Wanneer wy keeren, en van Karel zegepraalen,</l>
+<l>En brengen u de staf van Napels, onzen buit:</l>
+<l>U! ach! zyn zuster; u, myn uitverkooren bruid!</l>
+<l>Gy meend twee koningen van Napels aan te schouwen;</l>
+<l>De een' broêr te noemen; met den anderen te trouwen;</l>
+<l>Maar deze vreugd word u wel deerelyk ontroofd:</l>
+<l>Gy zietze zonder kroon: gy zietze zonder hoofd.</l>
+<l>Schrei niet, myn lief! ai, wilt uw klederen niet scheuren:</l>
+<l>Het koude bloed raakt weêr aan 't zieden, door dit treuren,</l>
+<l>'t Hart weêr aan 't kloppen op de naam van Konradyn;</l>
+<l>Hou op! hou op! en kwel haar met geen nieuwe pyn.</l>
+<l rend="; 1tab">Wel aan. Zo 't u behaagd, gy kond my buiten leiden.</l>
+<l>Ik voel my nu gehard te sterven; en te scheiden.</l>
+<l>O Frederik! vaar wel! vaar wel, ô Frederik!</l>
+<l>'k Ga van u, voor altyd: neen, voor een oogenblik;</l>
+<l>Ik zal me spoeden. Toef, myn halsvrind! ik kom weder.</l>
+<l>Ernesto, zetme dan, dicht aan zyn zyde, neder:</l>
+<l>Vergun de liefde toch het uiterste vermaak,</l>
+<l>En die twee lyken hun verhoolen zamenspraak.</l>
+<l>Vaar wel, heer Reinoud! troost myn moeder. Dit is 't laatste.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Reinout</hi>.</speaker>
+<l>Indien ge ooit Reinout in uw zuiv're boezem plaatste,</l>
+<l>Sta toe, dat hy u ook in 't uiterst' by mag staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Konradyn</hi>.</speaker>
+<l>Wie loond u deze trouw! eerwaardste, laat ons gaan!</l>
+<l>Vaar wel, o Frederik! ik zal myn hert hier laaten.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="79"/>
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>, <hi rend="i">aleen.</hi></speaker>
+<l>Een koning na 't schavot? hoe worden hooge staaten</l>
+<l>Geslingerd heen en weêr, van haat en twist en hoon!</l>
+<l>Ach! hoe veranderd, vaak, een vorstelyke kroon!</l>
+<l>Men ziet, op 't onvoorzienst, haar flikkering verdwynen;</l>
+<l>Haar held're peerlen, en haar gloeijende robynen</l>
+<l>Versmelten, in een uur, tot traanen, en tot bloed.</l>
+<l>Maar... 't is de vorst. Hy had de prins hier haast ontmoet.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Ernesto, Karel</hi>, <hi rend="i">Hofsioet.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Zie hier uw vyanden, heer koning! die nu geven,</l>
+<l>Aan u, met hunne dood, een aangenaamer leven.</l>
+<l>Ontfang nu, met vermaak, de...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Waar is Konradyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Genadigste! zyn lyk zal hier ook daadlyk zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>'k Hoor, dat men deze baar gevoerd heeft in de kamer,</l>
+<l>Eer hy vertrokken was!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l rend="; 1tab">'t Is waar, men had bekwamer.</l>
+<l>En beter tyd verwacht: 't geschiede door 't bestier...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>, <hi rend="i">met een wenk zyn Hofstoet doende vertrekken.</hi></speaker>
+<l>Zwyg. 'k merk de boosheid van myn vrouw, en myn griffier.</l>
+<l>Zal zy den prins verby den hertog laaten lyden?</l>
+<l>Hier pynigen, voor 't hof het werktuig doen bereiden,</l>
+<l>Waar meê de dood zyn ziel van 't lichaam scheiden zal?</l>
+<l>Ernesto, merkt gy 't niet? 't berouwd me. 's prinsen val.</l>
+</sp>
+<pb n="80"/>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Genadigste, verschoon...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">Neen. 'k zet op u myn zinnen:</l>
+<l>Oprechtigheid, en trouw, Ernesto, doen me u minnen.</l>
+<l>'k Heb mededogendheid, in al uw doen bespeurd,</l>
+<l>En deze deugd, hoe zeer ik grimde, goedgekeurd.</l>
+<l>Gy deed me, onwetende, in uw naar, en treurig weezen;</l>
+<l>Des prinsen onschuld, en myn grove misdaad leezen.</l>
+<l>Ernesto, 't is me leet. Ach! wat heb ik gedaan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Is 't my geoorloofd, dat ik na de markt mag gaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Hou my gezelschap. Laat uw koning niet verlegen,</l>
+<l>Gy zyt myn lyfwacht, ik betrouw me op uwen degen;</l>
+<l>En slaap, terwyl gy waakt. Ontzet my nu. Waar heen?</l>
+<l>Blyf staan, en laat my toch niet, by dit lyk, alleen.</l>
+<l>De doodbus kraakt. Ik beef. Ik zie den hertog nad'ren;</l>
+<l>Het gudzend bloed spruit uit zyn doorgekorven ad'ren.</l>
+<l>En hier, (waar berg ik my!) hier komt de prins ook aan,</l>
+<l>Gelyk een schaduwe by 't scheem'ren van de maan.</l>
+<l>Laat af, o Konradyn, laat af om my te waaren!</l>
+<l>Hy grimd. Hy knarsetand. 'k zie 't ryzen van zyn hairen.</l>
+<l>Ach! revel ik? wat is 't? is 't waan, of spokery?</l>
+<l>'t Is waan. Voel ik de schim niet zwerven aan myn zy?</l>
+<l>Neen. Hoor ik 't ram'len niet van boeijen, en van keten?</l>
+<l>Ai my! 'k bezwyk. Myn brein word van malkaâr gereeten.</l>
+<l>My dunkt, het blikzemd van den hemel, op my gram,</l>
+<l>En deeze kamer staat, alom, in vuur en vlam.</l>
+<l>Voeg u toch weer by een, o worstelende zinnen!</l>
+<l>O wanhoop! laat u van myn klachten overwinnen!</l>
+<l>O naberouw! verhoor myn zuchten! myn gebeên.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="81"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Beatrix, Karel, Ernesto, Blanche</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Daar legt het kieken van den adelaar vertreên,</l>
+<l>De dart'le ryksleeuw speel nu met zyn hoofd en pluimen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Is 't met de prins gedaan? wil dan myn boezem ruimen,</l>
+<l>O knagende hartworm! gun myn ziel...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 3tab">Gy zyt ontsteld.</l>
+<l>Wat staatzorg is 't, myn heer, die u noch plaagd, en kweld?</l>
+<l>Vertrek! laat ons alleen!</l>
+</sp>
+<stage><hi rend="i">tegen Ernesto en Blanche.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Ernesto, treê na buiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Men stier den hoofdman om Klotildes hof te ontsluiten:</l>
+<l>Haar dolle liefde kan ons nu niet schadlyk zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Ga heen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Karel, Beatrix, Blanche</hi>, <hi rend="i">ter zyde.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">‘Zy zegepraald, en juigd, terwyl ik kwyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Wat kweldge u? laat Europe ons lasteren, en schelden.</l>
+<l>'t Is onze schuld niet dat de kroon zo veel moet gelden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Maar hoe ging hy ter dood? bezadigd en gerust?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Hoor, 't geen ik heb gezien met groot vermaak, met lust.</l>
+<pb n="82"/>
+<l>Den Beyer, die, zo 't scheen, niet van zyn prins kon scheiden,</l>
+<l>Quam hem de trappen van het wreekschavot opleiden;</l>
+<l>Zyn oogen droopen weg; zyn wangen, onlangs rood,</l>
+<l>En bloeijend', vielen in, zoo paars, en bleek, als lood.</l>
+<l>Hy beefde, en jammerde, en wrong, deerelyk, zyn handen,</l>
+<l>Den toestel ziende tot de staat-slachtofferhande.</l>
+<l>In deze ontroer'nis viel hy schielyk, 't zy zyn voet</l>
+<l>Uitspattede, in een plas gezet van 's hertogs bloed:</l>
+<l>Of 't zy de schrik zyn hart en boezem toe kwam nypen,</l>
+<l>Eer hy den beul zag naar den staalen rechtbyl grypen.</l>
+<l>Maar eind'lyk, rees hy, en bleef by den Beyer staan,</l>
+<l>En hoorde 't vonnis, doch zeer ongeduldig, aan,</l>
+<l>Steeds vallende in de reên van Robert, onder 't lezen,</l>
+<l>Die dikmaels sweeg, als of 't ontzag hem noch deê vreezen;</l>
+<l>Maar, 'k zie dat dit verhaal u, meêr en meêr, bedroefd,</l>
+<l>Myn heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Ach! ja, 't is of myn hart word toegeschroefd,</l>
+<l>Had ik hem heimelyk, (en niet voor ieders oogen,</l>
+<l>Op 't schandelyk schavot) onthalst! het mededoogen</l>
+<l>Der volgende eeuwen hou die daad, hoe wel bepleit,</l>
+<l>Daarom voor boos, en vloekt myn onrechtvaardigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>'t Recht eischt zyn plaats: dit is, uit grooten nood, bedreven,</l>
+<l>En niet uit haat. Men moest verzek'ren kroon en leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Verzet, met deze troost, zyn moeders ongeval,</l>
+<l>Die, zo men zegt, hier noch deze avond wezen zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Gy zult Elizabeth, met heulcheid, tegentreden,</l>
+<l>En daar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 1tab">De lastersmet noch, met een schyn, bekleeden,</l>
+<l>Myn hart bedriegende? met een verbloemde spraak.</l>
+<l>Neen. Geen bewimpeling verdedigd deze zaak.</l>
+<pb n="83"/>
+<l>Haar tegentreên? ik durf haar woede niet verwachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Men zet de vrouw dan af. Wat raaken ons haar klachten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Het is een konings weêuw. Men moet, om reên van staat,</l>
+<l>Haar wel onthaalen, niet bejegenen met smaat.</l>
+<l>Zy heeft veel vrinden, die op dezen handel loeren.</l>
+<l>Indien zy 't lyk eischt, om naar Beyeren te voeren,</l>
+<l>'k Zal 't geven; en indien zy Konraads graf begeerd,</l>
+<l>'t Word toegestaan; want me een gestorven vyand eerd;</l>
+<l>En 't zielloos lichaam, met rourslaatzy, brengt ter aarde,</l>
+<l>Terwyl hy met zich sleept al 't geen ooit onrust baarde.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Ernesto</hi>, <hi rend="i">met een pook</hi>, <hi rend="sc">Karel, Beatrix, Blanche, Alfonsus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>'k Bezocht, ter goeder uur, de ryksprinses, Mevrouw!</l>
+<l>Zie hier het staal, (waar meê zy zich doorsteken wouw)</l>
+<l>Haar, met geweld ontrukt, en uit de vulst gewrongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Waar was Alfonsus? <stage><hi rend="i">tegen Alfonsus.</hi></stage> Hoe, zyt zy niet toegesprongen,</l>
+<l>Om dit....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alfonsus</hi>.</speaker>
+<l rend="; 1tab">Ik zag geen pook voor dien de glans verriedt</l>
+<l>In de opgeheven hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Is zy gewond of niet?</l>
+<l>Gy twyfeld, hoofdman? die verwoedheid doet my schroomen.</l>
+<l>Myn lief! wat zal ons van dit mensch noch overkoomen!</l>
+<l>‘O faam! die 't all' verteld, en niets verborgen houd,</l>
+<l>‘Ach! dat gy van myn kind Klotilde zwygen woud;</l>
+<l>‘Of myd dit hof; of dek uw oogen, stop uw ooren,</l>
+<l>‘Zo zal de wereld van deze euveldaad nooit hooren.</l>
+</sp>
+<pb n="84"/>
+<sp>
+<speaker><hi rend="sc">Ernesto</hi>.</speaker>
+<l>Zy volgd ons; maar als een getergde tygerin,</l>
+<l>Den band ontworsteld, en den keten, koningin;</l>
+<l>Zy komt. haar aanzicht brand; het vuur springt uit haar oogen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Klotilde, Beatrix, Karel, Blanche, Konstance, Alfonsus, Ernesto</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>, <hi rend="i">tegen Alfonsus se Ernesto.</hi></speaker>
+<l>'k Bedank u geenzints voor dit avrechtsch mededoogen.</l>
+<l>Vergeefs hebt gy de pook me ontroofd; de steek gestuit;</l>
+<l>Wat doet gy meêr als dat gy slechts myn dood steld uit?</l>
+<l>'k Wil sterven. is 't my nu mislukt; 't zal eens gelukken.</l>
+<l>Geeft my de wacht geen tyd om 't staal in 't hart te drukken,</l>
+<l>De wanhoop lokt myn ziel met heet, en snel fenyn,</l>
+<l>Dat (eer men 't achterhaald) haar voerd by Konradyn.</l>
+<l rend="; 1tab">Wat zeg ik? Konradyn, myn heer, is noch in 't leven;</l>
+<l>Dit hart, dit hart is hem tot een verblyf gegeven;</l>
+<l>Gy wild hem doden? dat uw kling myn borst ontsluit'.</l>
+<l>Op dat hy smoore in 't bloed van zyn verloofde bruidt,</l>
+<l>Gy zwygt noch? ja, gy deinst, en poogd my nu te ontvluchten?</l>
+<l>Beraad u niet: stoot toe. verslyt geen tyd met zuchten:</l>
+<l>Straf, met uw degen, straf de wederspannigheid</l>
+<l>Van die, zo stout, voor uw gezicht, de prins beschreid.</l>
+<l>Gy darteld in 't vermaak van op de baar te aanschouwen</l>
+<l>Een jongeling, dien gy het hoofd hebt af doen houwen;</l>
+<l>Geniet die vreugd ook in myn dood; ben ik uw kind,</l>
+<l>'k Ben 's prinsen minnares. zo gy my noch bemind,</l>
+<l>Verban die zucht: ik kan natuur, en 't bloed verzaaken,</l>
+<l>En gy, gy koud uw borst niet onbeweeglyk maaken.</l>
+<l>Wat houd dat lemmer op? steek. sluit uw oogen toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Indien myn hand...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 2tab">Vertreck. hy word dit sarren moê.</l>
+</sp>
+<pb n="85"/>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l>O moeder! (neen, ik vrees dat ik die naam bevlekte,</l>
+<l>Gas ik ze aan u, die hier die staatorkaan verwekte)</l>
+<l>Het is uw beurt. wilt hier scherprechteresse zyn,</l>
+<l>Of vrees een huuw'lyk met een andren Konradyn.</l>
+<l>Doch meend gy, met zyn dood, de liefde in my te smooren?</l>
+<l>'k Veracht uw vlyt; dit vuur brand feller als te vooren,</l>
+<l>Schoon ik myn voorwerp mis. maar. ‘dit beduit wat goeds;</l>
+<l>‘Die dienaar komt vergeefs hier niet met zo veel spoeds!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Oktavio, Karel, Beatrix, Klotilde, Blanche, Konstance, Alfonsus, Ernesto</hi>..</stage>
+<sp>
+<speaker><hi rend="sc">Oktavio</hi>.</speaker>
+<l>Heer koning! wat al bloed ziet me heden nederstroomen,</l>
+<l>Van 't hoog schavot! de graaf is in de stad gekomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Myn schoonzoon? is het waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Oktavio</hi>.</speaker>
+<l rend="; 2tab">Hy heeft, met eigene hand,</l>
+<l>Den degen in de borst van Robert Bar geplant.</l>
+<l><hi rend="i">Daar</hi> sprak hy, <hi rend="i">dit 's de loon der listige amptenaaren,</hi></l>
+<l><hi rend="i">Die woord en eed, naar baat, en niet naar recht verklaaren.</hi></l>
+<l><hi rend="i">En 't oor misbruiken van de koningen</hi>! Mevrouw,</l>
+<l>Hy liet de beul (op dat hy nimmer roemen zou</l>
+<l>Dat zulk doorluchtig bloed gestord was door zyn handen)</l>
+<l>Ook dadelyk van een schavottrauwant aanranden;</l>
+<l>Die, met een spiets, op 't lyk van Bar wierd neêrgeveld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Dit is uw doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klotilde</hi>.</speaker>
+<l rend="; 1tab">'t Gaat wel. ja: 't is door my besteld.</l>
+<l>Schoon hy te laat komt, ik heb hem te rug ontboden.</l>
+<l>Gy schrikt: maar veel te vroeg: hier is meer moeds van noden.</l>
+<pb n="86"/>
+<l>Indien uw boezem dit gety niet uit kan staan;</l>
+<l>Hoe hard 't zy, stuifd de zee noch zwaarder op haar aan;</l>
+<l>Wiens golven, omgerold, en op en neer gesmeeten,</l>
+<l>Uit de afgrond loeijen, en van geen bedaaren weeten.</l>
+<l>Ik zie, terwyl men slechts van heerschappyen droomd',</l>
+<l>Van deze springvloed hier haast alles overstroomd!</l>
+<l>Wat ongelukken (ach! myn wenschen doen my beven!)</l>
+<l>Zult gy noch, om de prins, in dit paleis, beleeven.</l>
+<l>Waar uit de blydschap, en 't geluk, voor eeuwig vliên,</l>
+<l>Hoe deerlyk gy die, met natte oogen, na mogt zien!</l>
+<l>En, bleef het onheil in 't paleis! 't zal zich verdeelen</l>
+<l>Door 't gantsche koningryk, en stooken staatkrakeelen</l>
+<l>En krygsgeschillen, die nooit neêr te leggen zyn.</l>
+<l>Zo straft de bittre wraak de moord van Konradyn!</l>
+<l rend="; 1tab">O leliën van ons geslacht! 'k zie u al bloozen,</l>
+<l>En, door 't vergooten bloed, veranderen in roozen.</l>
+<l>Gy kwynd, helaas! gy sterfd uw bladers vallen af:</l>
+<l>Dus is 't myn tyd. Ik zal u voorgaan naar het graf</l>
+</sp>
+<stage><hi rend="i">zy vertrekt.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l>Konstance, Alfonsus, ik beveel u beide haar leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l>Men straftze.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Karel</hi>.</speaker>
+<l rend="; 2tab">Ik kan haar die krankzinnigheid vergeven,</l>
+<l>Gaan wy, Mevrouw, de graaf eens spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Beatrix</hi>.</speaker>
+<l rend="; 3tab">Zie noch zoon,</l>
+<l>Noch dochter aan; maar pas alleen op staf en kroon.</l>
+</sp>
+<stage><hi rend="i">Einde van 't Vyfde en laatste Bedryf.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

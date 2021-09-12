@@ -1,0 +1,4439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Verzameling van oude en nieuwe gezangen voor alle hoogtyden des jaars</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Verzameling van oude en nieuwe gezangen voor alle hoogtyden des jaars</hi> in de eerste druk uit 1799.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken aangegeven.</corr>
+                       <corr>p. 72, 72: Ten behoeve van de leesbaarheid is de volgorde van de tekst enigszins gewijzigd ten opzichte van het origineel.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="fol2">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>A1v</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_ver062verz01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2013 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>ebook</note>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: UBM: Toonkunst  207-D-32</idno>
+               </bibl>
+               <p><hi rend="i">Verzameling van oude en nieuwe gezangen voor alle hoogtyden des jaars</hi>. F.J. van Tetroode, Amsterdam 1799</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Verzameling van oude en nieuwe gezangen voor alle hoogtyden des jaars</title>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Verzameling van oude en nieuwe gezangen voor alle hoogtyden des jaars</title>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2013-10-24</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+
+
+<pb n="A1r"/>
+<p>VERZAMELING</p>
+<p>VAN OUDE EN NIEUWE</p>
+<p>GEZANGEN</p>
+<p>VOOR ALLE DE HOOGTYDEN DES JAARS, en eenige</p>
+<p><hi rend="i">LOFZANGEN</hi></p>
+<p>VOOR DE FEESTDAGEN DER</p>
+<p>HEILIGEN,</p>
+<p>TEN DIENSTE DER ROOMSCH-CATHOLYKE ZANGEREN EN ZANGERESSEN,</p>
+<p><hi rend="i">op gemaklyke, zo oude als nieuwe, Zangwyzen gesteld.</hi></p>
+
+<p><hi rend="i">Te AMSTELDAM,</hi></p>
+<p>By F.J. van TETROODE, Boekverkooper in de Kalverstraat, in de Berg Kalvariën.</p>
+<p>M D C C X C I X.</p>
+</div>
+</cf>
+<div type="chapter">
+
+<pb n="A2r"/>
+<head rend="h3"><hi rend="i">Voorrede.</hi></head>
+
+<p><hi rend="b">O</hi>nder de menigvuldige nederduitsche Gezangen, welëer tot eene Godsdienstige tydbesteeding voor Roomsch-Catholyke huisgezinnen in 't licht gebragt, zyn 'er veelen, die, volgens eene alöude gewoonte, op de Hoogtyden en Feestdagen, ook somtyds op Zondagen, na den heiligen Dienst en Vespers, in de Kerk zyn gebruikt geworden. De oude, verbasterde, schier onverstaanbaare, of, om slegts te rymen, niets betekenende woorden, en onoverwoogene uitdrukkingen, daar in gebezigd, zyn, vooräl in deeze dagen, waar in de Taal en Dichtkunst zo aanmerklyk van die onzer voorouderen verschillen, niet zelden het voorwerp van bespotting geworden, terwyl sommige wanluidende Zangwyzen het zelfde lot ondergingen, aangezien zy, zonder voorschrift van nooten gezongen, door het geschreeuw van onkundigen veeläl op wildzang uitliepen; waarom dan ook verscheiden derzelven sedert eenigen tyd buiten gebruik zyn gebleeven.</p>
+<p>Om zulke ongerymdheden, is 't mogelyk, geheel voortekomen, en de stigting en Godvrugt, zo in het byzonder als openbaar gebruik te bevorderen, hebben eenige Liefhebbers van Zang- en Dichtkunst een klein doch genoegzaam getal, deels oude Gezangen verbeterd, deels nieuwe vervaardigd, uit andere taalen ontleend, of uit bekende werken overgenoomen: al het<hy>-</hy><pb n="A2v"/>welk, met behouding van ieders gewoone spelling, in dit werkje verzameld, en op gemaklyke, zo oude als nieuwe, Zangwyzen gesteld, den Zangkunstminnenden ter beoeffeninge wordt aangebooden, in die hoop en verwagting, dat de bescheidene en eerbiedwekkende voorstelling der heilige Geloofsgeheimen (eene eigenschap, die in veele oude Gezangen ontbreekt) niet vrugtloos zal ondernomen zyn.</p>
+<p>Na aldus de reden en het oogmerk der gedaane pooging bygebragt te hebben, zal, <hi rend="i">voor Roomsch- Catholyken</hi>, niet noodig zyn hier by te voegen, dat de hulp, in sommige Gezangen aan de Heiligen toegeschreeven, alleenlyk ziet op het vermogen hunner voorspraak by God, die daar door, ook in zyne Heiligen, geëerd wordt.</p>
+<p>Indien de Zangwyzen aan de algemeene verwagting moogen beantwoorden, zal men op de Zangkooren, alwaar de musiekmaat nog onbekend is, wel eenige moeite, zo vertrouwd wordt, willen aanwenden, om de vereischte kunde te verkrygen: en het is ten gevalle van deezen, dat hier agter gevoegd is eene uitlegging der Zangtekenen, welken niet algemeen bekend zyn,</p>
+<p>De gewoone <hi rend="i">Ut-Fa-</hi> en <hi rend="i">Sol</hi>-sleutels zyn hier enkelyk gebruikt, zonder eenige andere <hi rend="i">kruissen</hi> of <hi rend="i">mollen</hi> daar by te plaatsen, die, behalven dat zy buiten het bestek van den Gregoriaanschen Zang gaan, dikwerf den Zangger misleiden. Nogtans zyn de toevallige <hi rend="i">kruissen</hi> en <hi rend="i">mollen</hi> behoorlyk gekenmerkt; zo dat men in alle andere toonen de natuurlyke Zangladder moet volgen. De Zangwyzen zyn ook tot eene bekwaame hoogte
+<pb n="A3r"/>gebragt, door middel der <hi rend="i">Transpositie</hi>, die by de sleutels staat uitgedrukt: waar door nogtans den Organist de vryheid niet benomen wordt, van uit andere toonen te speelen.</p>
+<p>Ter onderscheidinge der Zangwyzen, die overeenkomst met het <hi rend="i">Choraal</hi> of Koorzang hebben, van dezulken, waar in een musikaale smaak vereischt wordt, is boven de eerstgemelden het woord <hi rend="i">Koorzang</hi> geplaatst, en boven de laatstgenoemden het <hi rend="i">Tempo</hi>, of de beweeging der maat uitgedrukt, welke nogtans langzaamer, dan men anders gewoon is, behoort ingesteld te worden.</p>
+<p>De mingeoeffende Organisten en Leerlingen van het Clavier zullen zig met vrugt kunnen bedienen van de afzonderlyke <hi rend="sc">Orgelparty</hi>, (mede my den Drukker deezes te bekomen waar in de Zangwyzen, opzettelyk met een zeer eervoudig, edoch voldoende, <hi rend="i">Accompagnement</hi> voorzien, in Musieknooten gedrukt zyn.</p>
+<p>Eindelyk: indien, ondanks alle mogelyke voorzorg, eenige drukfeilen ontdekt wierden, zal de bescheidene leezer die zelf wel willen verbeteren.</p>
+
+</div>
+<div type="chapter">
+
+<pb n="A3v"/>
+    <head rend="h3">Uitlegging der zangtekenen.</head>
+    <figure>
+        <p><xptr to="_ver062verz01ill0003.gif"/></p>
+    </figure>
+
+</div>
+<div type="chapter">
+
+<head rend="h3">Goedkeuring.</head>
+<p><hi rend="b">D</hi>eeze <hi rend="i">Verzameling van oude en nieuwe Gezangen</hi>, die door sommige Liefhebbers van zang- en dichtkunst byeengebragt, en op zangnooten gesteld zyn, heb ik naauwkeurig nagezien, en dewyl daar in niets heb ontmoet, dat of tegen het heilig Catholyk Geloof strydig, of aan de goede zeden ontstichtig zoude zyn, oordeel ik, dat ze vry in het licht gegeeven, en zelfs in onze Kerken, het zy voor of na den Godsdienst, tot lof van God en tot stichting der vergaderde Geloovigen gezongen mogen worden.</p>
+<p><hi rend="i">Amsterdam den</hi> 20 <hi rend="i">November</hi> 1799.</p>
+<p>H.F. <hi rend="sc">ten Hulscher</hi>, <hi rend="i">Aartspriester.</hi></p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0001"/></interpGrp>
+<pb n="1"/>
+<head rend="h2">Gezangen in den Advent.</head>
+<p></p>
+<div type="section">
+<head rend="h3">N<hi rend="sup">o</hi>. I.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0013.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">O</hi> p! Zondaar, die niet schreit,</l>
+    <l>Maak u door rouw be- reid</l>
+    <l>Ter komste van Gods Zoon,</l>
+    <l>Die neêrdaalt uit zyn' troon:</l>
+    <l>Hy komt, Hy komt Ons zoe-ken te-derlyk;</l>
+    <l>Doe met ootmoed nu waare boet',</l>
+    <l>Zo schenkt hy u zyn Ryk.</l>
+<pb n="2"/>
+
+<l rend="; 2tab">2.</l>
+<l>Verlaat het zondepad,</l>
+<l>Gaa tot het reine bad,</l>
+<l>Leg af den waereldlust,</l>
+<l>En geef uw ziele rust:</l>
+<l rend="; 1tab">Dees tyd, dees tyd,</l>
+<l>Diene u ter boete en beê,</l>
+<l>Nu God de Heer komt tot u neêr,</l>
+<l>En biedt u zynen vreê.</l>
+<l rend="; 2tab">3.</l>
+<l>Ontwaak dan, mensch, ontwaak</l>
+<l>Uit uwe zonde, en haak</l>
+<l>Naar uwen Vredevorst,</l>
+<l>En lesch uw' zieledorst:</l>
+<l rend="; 1tab">Ontwaak! ontwaak</l>
+<l>In deez' genadetyd;</l>
+<l>Volbreng uw' plicht, wyl 't hemelsch Licht</l>
+<l>U roept ten zondestryd.</l>
+<l rend="; 2tab">4.</l>
+<l>De Heer en Vorst van all'</l>
+<l>Gaat daalen in dit dal,</l>
+<l>Voor ons, die door 't venyn</l>
+<l>Der sl[a]ng' verdorven zyn.</l>
+<l rend="; 1tab">Het Woord, het Woord</l>
+<l>Des Vaders is gereed,</l>
+<l>Voor die gewond zyn door de zond'</l>
+<l>Van Adams boomvrugtsbeet.</l>
+<l rend="; 2tab">5.</l>
+<l>Reeds naakt de blydste dag,</l>
+<l>Dien ooit het schepsel zag:</l>
+<l>De dag, die 't menschdom redt,</l>
+<l>En 't helsch serpent verplet.</l>
+<l rend="; 1tab">ô Mensch! ô mensch!</l>
+<l>Treed toe, de tyd is kort;</l>
+<l>Op dat ge, in nood, door d'eeuw'gen dood</l>
+<l>Niet overvallen wordt.</l>
+<pb n="3"/>
+<l rend="; 2tab">6.</l>
+<l>Dus, Catholyke Schaar,</l>
+<l>Neemt deezen tyd wel waar;</l>
+<l>Valt met een' diep' ootmoed</l>
+<l>Den Vredevorst te voet,</l>
+<l rend="; 1tab">En bidt, en bidt,</l>
+<l>Dat, door zyn' liefdebrand,</l>
+<l>Hy u bereid', en zo geleid'</l>
+<l>In 't hemelsch Vaderland.</l>
+</lg>
+
+</div></div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0002"/></interpGrp>
+<pb n="4"/>
+<head rend="h3">II.
+<lb/>
+<hi rend="i">Getrokken uit de groote Antiphoonen van den Advent, genaamd</hi> O.</head>
+<q rend="bq"><hi rend="i">Tederlyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0015.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Wysheid, uit God zelv' gebooren!</l>
+    <l>Die al-les in uw weegschaal wikt,</l>
+    <l>Voorziet, bezorgt, en zagt beschikt,</l>
+    <l>Ei kom! wy wenschen u te hooren.</l>
+    <l>Ja kom, en wil ons kragtig leeren</l>
+    <l>Den weg, die naar den Hemel leidt,</l>
+    <l>En maaken on- ze ziel bereid,</l>
+    <l>Om zig oprechtlyk te be- kee- ren.</l>
+
+<pb n="5"/>
+
+<l rend="; 2tab">2.</l>
+<l>ô God, die Isrels Volk geleidde,</l>
+<l rend="; 1tab">Aan Moises in het vuur verscheen,</l>
+<l rend="; 1tab">Uw Wet schreeft in den harden steen,</l>
+<l>En 't met uw gunsten overspreidde:</l>
+<l>Ach! wil tot ons ook nederkomen,</l>
+<l rend="; 1tab">Verlos ons door uw sterke hand,</l>
+<l rend="; 1tab">En voer ons naar 't beloofde Land,</l>
+<l>Dat overvloeit van vreugdestroomen.</l>
+<l rend="; 2tab">3.</l>
+<l>ô Bloem, uit Jesses stam te wagten!</l>
+<l rend="; 1tab">Op wien de Vorsten zullen zien.</l>
+<l rend="; 1tab">Tot wien het Heidendom zal vliên,</l>
+<l>En zig door u gelukkig achten.</l>
+<l>ô Heilbloem! wil voor ons ontspruiten,</l>
+<l rend="; 1tab">Laat ons beschouwen uwe kleur,</l>
+<l rend="; 1tab">Inädemen uw' zoeten geur,</l>
+<l>En werp het slangegif naar buiten.</l>
+<l rend="; 2tab">4.</l>
+<l>ô Gy! die zult den scepter voeren,</l>
+<l rend="; 1tab">Den sleutel draagen, die ontsluit,</l>
+<l rend="; 1tab">Wiens magt door niemand wordt gestuit;</l>
+<l>Wiens ryk ook niemand kan ontroeren:</l>
+<l>Wil toch, ô Magtige, verschynen!</l>
+<l rend="; 1tab">Verbreek de ketenen der geen',</l>
+<l rend="; 1tab">Die door benaauwdheid en geween</l>
+<l>In hun gevangenisse kwynen.</l>
+<l rend="; 2tab">5.</l>
+<l>ô Heillicht! dat eens op moet daagen,</l>
+<l rend="; 1tab">ô Glans van 't eeuwig schittrend Licht!</l>
+<l rend="; 1tab">ô Zuivre Zon! wiens aangezigt</l>
+<l>Niets ongerechtigs kan verdraagen.</l>
+<l>Ei! kom te voorschyn uit de kimmen,</l>
+<l rend="; 1tab">Bestraal de geenen, die, ontbloot</l>
+<l rend="; 1tab">Van licht, thans, uit het land der dood,</l>
+<l>Verlangen tot u opteklimmen.</l>
+<pb n="6"/>
+<l rend="; 2tab">6.</l>
+<l>ô Vorst der volken, hun verlangen!</l>
+<l rend="; 1tab">ô Hoeksteen, die de harten bindt</l>
+<l rend="; 1tab">Van Jood en Heiden, hoogst verblind:</l>
+<l>Zy zullen uwe Wet ontvangen.</l>
+<l>Kom dan, ô Heiland aller menschen!</l>
+<l rend="; 1tab">Uw liefde zy aan hun besteed;</l>
+<l rend="; 1tab">Ze zyn door U uit leem gekneed;</l>
+<l>Vervul hun zugten en hun wenschen.</l>
+<l rend="; 2tab">7.</l>
+<l>ô God! die eens met ons zult woonen,</l>
+<l rend="; 1tab">Wiens Wetten zullen zyn betragt,</l>
+<l rend="; 1tab">Wiens komst het Heidendom verwagt,</l>
+<l>Ei! kom, en wil uw aanschyn toonen:</l>
+<l>Wil, ô Emmanuël, afdaalen,</l>
+<l rend="; 1tab">Om in den nood ons bytestaan,</l>
+<l rend="; 1tab">Te redden, en van schuld te onstlaan.</l>
+<l>Wil ons met uwe gunst bestraalen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0003"/></interpGrp>
+<head rend="h3">III.</head>
+<q rend="bq"><hi rend="i">Langzaam.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0016.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>'k Groet U, Ma- ri- a, Maagd van God ver- he- ven;</l>
+    <l>Gy zyt ge- ze- gend boven alle vrouwen;</l>
+<l>Gy zyt de Moeder, die ons brengt het</l>
+</lg>
+<pb n="7"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0017.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>leeven.</l>
+    <l>en doet be- trou- wen.</l>
+
+<l rend="; 1tab">2.</l>
+<l>Veele genaden hebt Ge, ô Maagd! bekomen,</l>
+<l>God is met u, ja, gy kunt hem behaagen;</l>
+<l>Hy doet zyn gunsten in u overstroomen,</l>
+<l rend="; 2tab">uw leevensdagen.</l>
+<l rend="; 1tab">3.</l>
+<l>Hoor! welk een boodschap Gabriël by deezen</l>
+<l>U van Gods troon brengt! Gy, ô Hemelschoone!</l>
+<l>Gy zult ontvangen, en de Moeder weezen</l>
+<l rend="; 2tab">van eenen Zoone.</l>
+<l rend="; 1tab">4.</l>
+<l>De naam, ô Maagd, dien gy aan hem zult geeven,</l>
+<l>Die naam is <hi rend="spat">JESUS</hi>: hy zal onze wenschen</l>
+<l>Voldoen, en schenken zaligheid en leeven</l>
+<l rend="; 2tab">aan alle menschen.</l>
+<l rend="; 1tab">5.</l>
+<l>Hoor ons, Maria! zeg: de Heer gebiede;</l>
+<l>Laat deezen Bode spoedig opwaarts keeren;</l>
+<l>Zeg: 'k ben zyn dienstmaagd, zeg: dat my geschiede</l>
+<l rend="; 2tab">naar 't woord des Heeren.</l>
+<l rend="; 1tab">6.</l>
+<l>Laat nu, ô Heem'len! ja laat nu afdouwen,</l>
+<l>Gy Wolken! regent ons den Uitverkooren,</l>
+<l>Die, om ons, uit de nedrigste der vrouwen</l>
+<l rend="; 2tab">wil zyn gebooren.</l>
+<l rend="; 1tab">7.</l>
+<l>Lof zy den Vader, Lof den Zoone mede;</l>
+<l>Lof zy den heil'gen Geest, in alle tyden:</l>
+<l>Lof u, Maria, dat we ons eens in vrede</l>
+<l rend="; 2tab">met u verblyden,</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0004"/></interpGrp>
+<pb n="8"/>
+<head rend="h3">IV.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0018.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Eeuwige en al- magtig,</l>
+    <l>U, God! aanroepen wy;</l>
+    <l>Wil on- zer zyn gedagtig,</l>
+    <l>Maak Jacobs huis eens bly':</l>
+    <l>Wil den Messi- as zen- den,</l>
+    <l>Die ons verlossen zal</l>
+    <l>Van al- le ziel- ë- lenden,</l>
+    <l>Gewrocht door Adams val.</l>
+
+<pb n="9"/>
+
+<l rend="; 2tab">2.</l>
+<l>Ach! mogt' myn oog aanschouwen</l>
+<l rend="; 1tab">Die reine Hemelmaagd,</l>
+<l>Deeze edelste aller vrouwen,</l>
+<l rend="; 1tab">Die God' zo heeft behaagd,</l>
+<l>Dat zy eens zal ontvangen</l>
+<l rend="; 1tab">Den Heilvorst, 't eeuwig Goed,</l>
+<l>Hem, die steeds ons verlangen</l>
+<l rend="; 1tab">Naar 't heilgoed steig'ren doet.</l>
+<l rend="; 2tab">3.</l>
+<l>'k Bemin van gantscher harte</l>
+<l rend="; 1tab">Dees Maagd, dees Deugdenzon,</l>
+<l>Die 's menschdoms vyand tartte,</l>
+<l rend="; 1tab">Wyl zy Gods gunsten won:</l>
+<l>Want zy is uitgeleezen</l>
+<l rend="; 1tab">Van in der eeuwigheid,</l>
+<l>Om Moeder eens te weezen</l>
+<l rend="; 1tab">Van Zyne Majesteit.</l>
+<l rend="speaker"><hi rend="i">De Engel.</hi></l>
+<l rend="; 2tab">4.</l>
+<l>Ik groet u, vol genade,</l>
+<l rend="; 1tab">Gezegend zyt Ge my;</l>
+<l>De Heer is vroeg en spade</l>
+<l rend="; 1tab">Gantsch met u, blyft u by:</l>
+<l>Hy heeft u uitverkooren;</l>
+<l rend="; 1tab">Hem zyt gy toegewyd:</l>
+<l>Uit u zal zyn gebooren</l>
+<l rend="; 1tab">Gods Zoon, die 't al verblydt.</l>
+<l rend="speaker"><hi rend="i">Mariae.</hi></l>
+<l rend="; 2tab">5.</l>
+<l>Wil my uw woord verklaaren,</l>
+<l rend="; 1tab">Zeg my den zin daar van:</l>
+<l>Hoe zou ik kunnen baaren,</l>
+<l rend="; 1tab">Ik kende nooit een' man?</l>
+<l>Geen man kwam my ontrusten</l>
+<l rend="; 1tab">In myne zuiverheid;</l>
+<l>In God zyn myne lusten,</l>
+<l rend="; 1tab">'k Blyf tot zyn' dienst bereid.</l>
+<pb n="10"/>
+<l rend="speaker"><hi rend="i">De Engel.</hi></l>
+<l rend="; 2tab">6.</l>
+<l>God wil uw' lof verbreiden,</l>
+<l rend="; 1tab">Daarom, wees niet bevreesd;</l>
+<l>Hy zal, ô Maagd, u leiden,</l>
+<l rend="; 1tab">En zenden zynen Geest:</l>
+<l>Diens kragt zal u omschynen,</l>
+<l rend="; 1tab">Daar gy, van hem vervuld,</l>
+<l>Maagd blyvend', zonder pynen</l>
+<l rend="; 1tab">Gods Moeder worden zult.</l>
+<l rend="speaker"><hi rend="i">Maria.</hi></l>
+<l rend="; 2tab">7.</l>
+<l>Gods wil is my gebleeken,</l>
+<l rend="; 1tab">'k Heb zyn besluit gehoord;</l>
+<l>'k Zal nu vol blydschap spreeken,</l>
+<l rend="; 1tab">'t Geschied' my naar uw woord.</l>
+<l>Myn ziel maakt-groot den Heere;</l>
+<l rend="; 1tab">Myn geest springt op van vreugd;</l>
+<l>Ik zing ter zyner eere</l>
+<l rend="; 1tab">Door zo veel gunst verheugd.</l>
+<l rend="; 2tab">8.</l>
+<l>Laat ons nu blyde toonen</l>
+<l rend="; 1tab">Aanheffen tot haare eer;</l>
+<l>Haar voorspraak doe ons woonen</l>
+<l rend="; 1tab">By God, haar' Zoon en Heer.</l>
+<l>Maria! doe ons praalen</l>
+<l rend="; 1tab">In 't zuiver goud der deugd;</l>
+<l>Op dat we in 's Hemels zaalen</l>
+<l rend="; 1tab">Meêdeelen in uw vreugd.</l>
+</lg>
+
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0005"/></interpGrp>
+<pb n="11"/>
+<head rend="h2">Gezangen in den Kerstyd.</head>
+<head rend="h3">V.</head>
+<q rend="bq"><hi rend="i">Maatig Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0021.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Verheugt u, Christenschaar!</l>
+    <l>Wilt juichend looven Hem,</l>
+    <l>die van bo- ven Komt,</l>
+    <l>en maakt den heilweg klaar.</l>
+    <l>De vreugdryke Englenstem</l>
+    <l>Dryft ons naar Bethlehem,</l>
+    <l>Alwaar gebooren is het Kind,</l>
+    <l>Gods Zoon, die ons be- mint.</l>
+
+<pb n="12"/>
+
+<l rend="; 2tab">2.</l>
+<l>Hy komt van 't Hemelhof,</l>
+<l rend="; 1tab">En brengt ons mede</l>
+<l rend="; 1tab">Den zielevrede;</l>
+<l>Hem zy hartedank en lof!</l>
+<l rend="; 1tab">Treedt aan, valt hem te voet;</l>
+<l rend="; 1tab">Hy is ons hoogste Goed;</l>
+<l>Hy boet voor ons, en maakt ons vry</l>
+<l rend="; 1tab">Van zondeslaaverny.</l>
+<l rend="; 2tab">3.</l>
+<l>In eene reine Maagd</l>
+<l rend="; 1tab">Wierdt hy ontvangen;</l>
+<l rend="; 1tab">Al ons verlangen</l>
+<l>Was hy, die onze elend' draagt.</l>
+<l rend="; 1tab">Zyn goddelyke gloed</l>
+<l rend="; 1tab">Ontvonke ons kil gemoed,</l>
+<l>Doe ons, met lofzang en gebeên,</l>
+<l rend="; 1tab">Tot hem ten stalle intreên.</l>
+<l rend="; 2tab">4.</l>
+<l>Minryke Vredevorst!</l>
+<l rend="; 1tab">Verhoor ons smeeken:</l>
+<l rend="; 1tab">Lesch uit uw beeken</l>
+<l>Onzen heil- en hemeldorst.</l>
+<l rend="; 1tab">Laat uit uwe ootmoedszugt</l>
+<l rend="; 1tab">Ons trekken deeze vrugt:</l>
+<l>Dat we u (verleen ons die genaê!)</l>
+<l rend="; 1tab">Steeds volgen vroeg en spaê.</l>
+</lg>
+<p></p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0006"/></interpGrp>
+<pb n="13"/>
+<head rend="h3">VI.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0023.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>ô Kersnagt! een der langste nag- ten,</l>
+<l>Des Hemels licht breekt door met kragten</l>
+    <l>Regt midden in de duisterheid;</l>
+    <l>De glans der starren in het dui- ster</l>
+    <l>Verbaast de Herders door zyn' lui- - - - ster,</l>
+<l>Als 's waerelds vreê hun wordt verbreid.</l>
+
+<pb n="14"/>
+
+<l rend="; 2tab">2.</l>
+<l>Een Englenrei verkondigt vrede,</l>
+<l>Een helder licht wyst hun de stede,</l>
+<l rend="; 1tab">Alwaar de Godmensch nederligt:</l>
+<l>In eenen stal was, by twee beesten,</l>
+<l>In eene kribb' den Allermeesten</l>
+<l rend="; 1tab">Op 't hooi een ligplaats toegerigt.</l>
+<l rend="; 2tab">3.</l>
+<l>Op 't hooi! gewonden, ja, in doeken,</l>
+<l>Ligt hy Verlosser, die de vloeken</l>
+<l rend="; 1tab">Van 's menschdoms welverdiende straf</l>
+<l>Op zyne schoudren hier moest draagen,</l>
+<l>En zo, door lyden, pyn en slagen,</l>
+<l rend="; 1tab">Moest door den dood gaan in het graf.</l>
+<l rend="; 2tab">4.</l>
+<l>Om ons met hem te doen verryzen,</l>
+<l>En eeuwig hem door zang te pryzen,</l>
+<l rend="; 1tab">Voor zyne liefde, die hem leidt,</l>
+<l>Om neêr te daalen van hier boven,</l>
+<l>En zo op de aard' te zyn verschooven,</l>
+<l rend="; 1tab">Om aller menschen zaligheid.</l>
+<l rend="; 2tab">5.</l>
+<l>ô Minryk Kind, en God te gader!</l>
+<l>Een met den heil'gen Geest en Vader,</l>
+<l rend="; 1tab">Die is, die was, die weezen zal:</l>
+<l>Van wien, in wien, door wien wy leeven;</l>
+<l>Wil ons toch die genade geeven,</l>
+<l rend="; 1tab">Dat wy u kennen Een en Al.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0007"/></interpGrp>
+<pb n="15"/>
+<head rend="h3">VII.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Christe Redemptor,</head>
+<q rend="bq"><hi rend="i">Langzaam.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0025.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Jesus! Vleeschge worden Woord,</l>
+    <l>De Morgen- star, die elk be- koort,</l>
+    <l>Des Va- ders Zoon van eeuwig- heid,</l>
+    <l>Ge- lyk met hem in Majes- teit.</l>
+    <l>in Majes- teit. in Majes- teit.</l>
+
+<l rend="; 1tab">2.</l>
+<l>ô Heiland! glans van 't eeuwig licht,</l>
+<l>Tot u blyft onze hoop gerigt,</l>
+<l>Verhoor 't geroep van onze beê,</l>
+<l>Verleen genaê, schenk uwen vreê.</l>
+<l rend="; 1tab">3.</l>
+<l>'t Heeft immers U, ô Heer! behaagd,</l>
+<l>Te daalen in den schoot der Maagd,</l>
+<l>Om 's menschen heil en zaligheid</l>
+<l>Te worden Vleesch, zo lang voorzeid.</l>
+<pb n="16"/>
+<l rend="; 1tab">4.</l>
+<l>Dees dag, waar op elk Christen juicht,</l>
+<l>Dees blyde dag uw komst getuigt</l>
+<l>Als Engel, dien de Vader zondt,</l>
+<l>En Middelaar van 't nieuw verbond.</l>
+<l rend="; 1tab">5.</l>
+<l>Waar zag m' ooit zulk een' liefdegloed!</l>
+<l>Wees welkom, Jesus! wees gegroet;</l>
+<l>Wat hemel, aarde, en zee bewoont,</l>
+<l>Zyn blydschap thans door lofzang toont.</l>
+<l rend="; 1tab">6.</l>
+<l>Van ons, bevryd van 't helsch gebroed,</l>
+<l>Door 't vloeijen van uw dierbaar Bloed,</l>
+<l>Zal, Heer, zo nu als na deez' tyd,</l>
+<l>U eer, en lof zyn toegewyd.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0008"/></interpGrp>
+<head rend="h3">VIII.</head>
+<q rend="bq"><hi rend="i">Maatig Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0026.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Aangenaam en lief- lyk duister,</l>
+    <l>Door der starren glans verlicht,</l>
+    <l>Gy voorspelt een' mor- genluister,</l>
+    <l>Waar de schoonste dag voor zwicht:</l>
+</lg>
+<pb n="17"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0027.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Wyl Mes si- as dee- zen nacht</l>
+    <l>Zynen Hemeltroon ver- laat,</l>
+    <l>Voor het menschelyk ge- slacht,</l>
+<l>Dat in de erfschuld treuren gaat.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Hy komt het den vrede schenken,</l>
+<l rend="; 1tab">Dien 't verloor door Adams val:</l>
+<l>Heilryk lot! wie durfde denken,</l>
+<l rend="; 1tab">Dat de Godheid in een' stal</l>
+<l rend="; 1tab">Zou verschynen als een Kind,</l>
+<l rend="; 1tab">Nedrig, in 't verborgen groot,</l>
+<l rend="; 1tab">Dat, daar 't willige armoeê mint,</l>
+<l rend="; 1tab">Rust zoekt in een' maagdeschoot.</l>
+<l rend="; 2tab">3.</l>
+<l>Want Maria, die in 't leven</l>
+<l rend="; 1tab">Nooit door blinde drift bezield,</l>
+<l>Maar door hemelmin gedreeven,</l>
+<l rend="; 1tab">'s Waerelds schynschoon dwaasheid hield,</l>
+<l rend="; 1tab">Blyft nog Maagd, schoon Moeder Gods,</l>
+<l rend="; 1tab">Daar zich 't Englenheir verheugt</l>
+<l rend="; 1tab">In dees heil- en deugdenrots,</l>
+<l rend="; 1tab">Zoo voor ouderdom als jeugd.</l>
+<pb n="18"/>
+<l rend="; 2tab">4.</l>
+<l>Welk een vreugd! wat zielsgenoegen</l>
+<l rend="; 1tab">Word ons zoekend hart gewaar,</l>
+<l>Als we in Bethlem ons vervoegen,</l>
+<l rend="; 1tab">En den Albeheerscher daar,</l>
+<l rend="; 1tab">Op den schoot der Moedermaagd,</l>
+<l rend="; 1tab">Zien in 't kleed der sterflykheid,</l>
+<l rend="; 1tab">Hem, die 't beeld der Godheid draagt,</l>
+<l rend="; 1tab">Ons ten heil zo lang voorzeid.</l>
+<l rend="; 2tab">5.</l>
+<l>Bied ge u aan (om ons te winnen)</l>
+<l rend="; 1tab">Tot dat smartlyk oogenblik,</l>
+<l>Sterk dan, Jesus! onze zinnen,</l>
+<l rend="; 1tab">Om te ontgaan des vyands strik,</l>
+<l rend="; 1tab">Die ons waar geluk benyd:</l>
+<l rend="; 1tab">Maar, de Hemel zy geloofd!</l>
+<l rend="; 1tab">'t Heillicht, dat gy voor ons zyt,</l>
+<l rend="; 1tab">Heeft zyn dwaallicht uitgedoofd.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0009"/></interpGrp>
+<head rend="h3">IX.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0028.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Zalig heilig Bethle- hem!</l>
+    <l>Van duizend' steden uitverkooren;</l>
+    <l>Vereerd meer dan Jerusalem,</l>
+    <l>Want Jesus is in u ge- boo- ren.</l>
+
+<pb n="19"/>
+
+<l rend="; 2tab">2.</l>
+<l rend="; 1tab">ô Bethlehem! wel kleine stad,</l>
+<l>Klein van begrip, maar groot van waarde:</l>
+<l rend="; 1tab">Gy zyt dat allereêlste vat,</l>
+<l>En de allerrykste stad der aarde.</l>
+<l rend="; 2tab">3.</l>
+<l rend="; 1tab">Verheugt u dan, ô Israël!</l>
+<l>Hoe mogte u meerder heil omringen?</l>
+<l rend="; 1tab">Tot u treedt- in Emmanuël,</l>
+<l>Wilt uit den zondenslaap opspringen.</l>
+<l rend="; 2tab">4.</l>
+<l rend="; 1tab">ô Vorst Messias, wondergroot!</l>
+<l>Hoe wordt gy hier aldus gevonden</l>
+<l rend="; 1tab">Op hooi en stroo, in zulk een' nood,</l>
+<l>In arme doekjes teêr gewonden?</l>
+<l rend="; 2tab">5.</l>
+<l rend="; 1tab">Gy hebt het Firmament gemaakt,</l>
+<l>Alwaar u looven 's Hemels Geesten;</l>
+<l rend="; 1tab">Maar hier, in armoê en schier naakt,</l>
+<l>Ligt Ge onder d'adem van twee beesten.</l>
+<l rend="; 2tab">6.</l>
+<l rend="; 1tab">Gy wordt gebooren in een' stal,</l>
+<l>Geen' mensch bekend, by nagt, in 't stille;</l>
+<l rend="; 1tab">Maar de Englen zingen met geschal:</l>
+<l>Vrede aan den mensch' van goeden wille!</l>
+<l rend="; 2tab">7.</l>
+<l rend="; 1tab">ô Magtig God, ons opperst' Goed!</l>
+<l>Wat liefde heeft u dus getrokken,</l>
+<l rend="; 1tab">Dat gy aanneemt ons vleesch en bloed?</l>
+<l>'t Is om den mensch tot u te lokken.</l>
+<l rend="; 2tab">8.</l>
+<l rend="; 1tab">Kom dan tot hem, gy, Adams kind:</l>
+<l>Hoe kunt gy nog de waereld minnen?</l>
+<l rend="; 1tab">Daar Jesus zig aan u verbindt,</l>
+<l>Draag aan hem op, hart, ziel en zinnen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0010"/></interpGrp>
+<pb n="20"/>
+<head rend="h3">X.</head>
+<q rend="bq"><hi rend="i">Gemaatigd.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0029.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Die de zon haar licht kwam geeven,</l>
+    <l>Ligt hier in den duistren nacht;</l>
+    <l>Die al 't schepsel schenkt het leven,</l>
+    <l>Word van veelen hier veracht:</l>
+    <l>Hy, de Heer van 't groot heel- äl,</l>
+    <l>Die het alles kleed en voed,</l>
+    <l>Ligt hier naakt in d' armen stal.</l>
+<l>Ziet eens wat zyn liefde doet.</l>
+
+<pb n="21"/>
+
+<l rend="; 2tab">2.</l>
+<l>Hy, hy ligt hier zelf in banden,</l>
+<l rend="; 1tab">Die de vryheid baaren zou,</l>
+<l>Die de Seraphs doet ontbranden,</l>
+<l rend="; 1tab">Ligt en trilt hier zelf van kou':</l>
+<l rend="; 1tab">Hy, voor wien de Hemel beeft,</l>
+<l rend="; 1tab">Die al de aard' met vuur beschonk,</l>
+<l rend="; 1tab">En met all', wat op haar leeft,</l>
+<l rend="; 1tab">Ligt hier zonder vuur of vonk.</l>
+<l rend="; 2tab">3.</l>
+<l>Die aan 't voglenheir de veêren,</l>
+<l rend="; 1tab">'t Vee en vacht en deksel gaf:</l>
+<l>De Oppervorst, de Heer der heeren,</l>
+<l rend="; 1tab">Krygt zelf maar een' herders staf</l>
+<l rend="; 1tab">Van de herdren, arme liên,</l>
+<l rend="; 1tab">Voor zyn kribbe stroo en hooi:</l>
+<l rend="; 1tab">Daar zy hem, ten voedzel, biên</l>
+<l rend="; 1tab">De offers van hun schaamle kooi.</l>
+<l rend="; 2tab">4.</l>
+<l>'t Eeuwig Woord ligt zonder spreeken,</l>
+<l rend="; 1tab">Kom nu, zondaar! spreek, 't is tyd:</l>
+<l>Boet uw zondige gebreken;</l>
+<l rend="; 1tab">Maak ze u aan zyn kribbe kwyt:</l>
+<l rend="; 1tab">Spreek hem nu ootmoedig aan,</l>
+<l rend="; 1tab">En belyd hem uwe schuld;</l>
+<l rend="; 1tab">Daar gy van uwe euveldaân</l>
+<l rend="; 1tab">'t Vol ontslag verkrygen zult.</l>
+<l rend="; 2tab">5.</l>
+<l>Bied hem dan uw hart en leven,</l>
+<l rend="; 1tab">Zeg, Heer! dit 's voor u alleen;</l>
+<l>'k Zal het aan het vleesch niet geeven,</l>
+<l rend="; 1tab">Noch de waereld: neen, ô neen.</l>
+<l rend="; 1tab">'k Zal het nooit ten dienste biên</l>
+<l rend="; 1tab">Aan het geen my van u scheid;</l>
+<l rend="; 1tab">Maar aan u, dat het u dien',</l>
+<l rend="; 1tab">Nu en in alle eeuwigheid.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0011"/></interpGrp>
+<pb n="22"/>
+<head rend="h3">XI.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0030.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Myn ziel, gewekt door de Englenstem,</l>
+    <l>Spoedt zig, verrukt, naar Bethle- hem,</l>
+    <l>Om daar te aanbidden 't nieuwge- booren Kind,</l>
+    <l>Waar in, vol vreugd, zy haar' Ver- losser vindt.</l>
+
+<l rend="; 1tab">2.</l>
+<l>ô Kind van eindelooze magt!</l>
+<l>Eeuw in eeuw uit met smert verwagt:</l>
+<l>Gedoog, dat ik voor u hier nederkniel',</l>
+<l>Voor u, die komt tot heil van myne ziel.</l>
+<l rend="; 1tab">3.</l>
+<l>Daar 'r Godlyk Licht met de aarde paart,</l>
+<l>Een Hemelheir by-een geschaard</l>
+<l>U looft, wie juicht thans niet, wiens hart zwygt stil?</l>
+<l>Daar gy brengt vreê den mensch' van goeden will'.</l>
+<pb n="23"/>
+<l rend="; 1tab">4.</l>
+<l>Ik zing dan ook met de Englenrei</l>
+<l>Uw' lof, terwyl ik met u schrei</l>
+<l>Om myne schuld, die U in 't aardsche dal</l>
+<l>Uit liefd' doet komen, U, myn God, myn Al!</l>
+<l rend="; 1tab">5.</l>
+<l>Bezit myn ziel, ô Hemelvorst!</l>
+<l>Gy Heer, naar wien zy snakt en dorst:</l>
+<l>Ontvang haar' traanenvloed en haar gebeên;</l>
+<l>Wyl gy om haar komt daalen hier beneên.</l>
+<l rend="; 1tab">6.</l>
+<l>Bestier myn hart, myn ziel en zin;</l>
+<l>En geef, dat ik, uit wedermin,</l>
+<l>U byblyv', steeds tot uwen dienst bereid,</l>
+<l>Om u te looven, Heer, in de eeuwigheid.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0012"/></interpGrp>
+<pb n="24"/>
+<head rend="h3">XII.</head>
+<q rend="bq"><hi rend="i">Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0031.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>ô Welk een schittring, welk geflonker,</l>
+    <l>Ontwaar 'k in 't donker! -</l>
+    <l>Des Heilands komst wordt hier ge- meld.</l>
+    <l>Het heir van God, den Hartontvonker,</l>
+    <l>Met een he- mel- licht ver- zeld,</l>
+<l>Brengt dees ty- ding Brengt dees ty- ding</l>
+    <l>Aan de her- ders op het veld.</l>
+    <l>Aan de</l>
+</lg>
+<pb n="25"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0032.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>her- - - - - ders op het veld.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Gods Afgezant zegt: wilt niet vreezen,</l>
+<l>Maar vrolyk weezen;</l>
+<l rend="; 1tab">Mvn boodschap geeft u stof tot vreugd:</l>
+<l>De Zaligmaaker nooit volpreezen,</l>
+<l rend="; 1tab">De oorsprong van uw zielgeneugt',</l>
+<l rend="; 1tab">Is gebooren,</l>
+<l rend="; 1tab">Is gebooren,</l>
+<l rend="; 1tab">Gaat, begroet hem, weest verheugd. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">3</l>
+<l>Men hoort terstond de Hemellingen</l>
+<l>Verruklyk zingen</l>
+<l rend="; 1tab">Een bly gezang tot Godes eer:</l>
+<l>De herders, die dees maare ontvingen,</l>
+<l rend="; 1tab">Gaan ten stalle in, knielen neêr;</l>
+<l rend="; 1tab">Zy aanbidden</l>
+<l rend="; 1tab">Zy aanbidden</l>
+<l rend="; 1tab">Jesus, hunnen Opperheer. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">4.</l>
+<l>Mvn ziel! kom in deez' stal vernagten,</l>
+<l>Wil daar betragton</l>
+<l rend="; 1tab">Gods liefde tot den sterveling,</l>
+<l>En loof hem uit alle uwe kragten;</l>
+<l rend="; 1tab">Hy zoekt uwe zaliging;</l>
+<l rend="; 1tab">Ja hy leidt u</l>
+<l rend="; 1tab">Ja hy leidt u</l>
+<l rend="; 1tab">In der uitverkoornen kring. <hi rend="i">bis.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0013"/></interpGrp>
+<pb n="26"/>
+<head rend="h3">XIII.</head>
+<q rend="bq"><hi rend="i">Gemaatigd.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0033.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Wat wonder- ly- ke dingen,</l>
+    <l>Wat een ongewoon gezigt!</l>
+    <l>'k Hoor hier de Englen vro-lyk zingen,</l>
+    <l>'k Zie by nagt het hemelsch licht.</l>
+    <l>Ach! wat groote wonder- heden</l>
+    <l>Vind ik in een' beesten- stal!</l>
+<l>'k Zie een Kind, dat hier- be- neden</l>
+<l>Vreê brengt, Kind, doch Heer van all',</l>
+
+<pb n="27"/>
+
+<l rend="; 2tab">2.</l>
+<l>De Eeuwige wordt nu gebooren;</l>
+<l rend="; 1tab">Die niet lyden kan, lydt pyn;</l>
+<l>'t Woord heeft zyne spraak verlooren,</l>
+<l rend="; 1tab">En de Zon is zonder schyn:</l>
+<l>De Almagt is in slegte doeken;</l>
+<l rend="; 1tab">Wysheid zelf schuilt in dit Kind;</l>
+<l rend="; 1tab">De Englen komen God daar zoeken,</l>
+<l rend="; 1tab">Waar 't onnozel W6icht zig vindt.</l>
+<l rend="; 2tab">3.</l>
+<l>Wie kan dit ooit agterhaalen,</l>
+<l rend="; 1tab">Dat het is geweest een stal,</l>
+<l>Om den luister te bepaalen</l>
+<l rend="; 1tab">Van den Koning van 't Heeläl!</l>
+<l>Daar Gods Zoon zig komt vertoonen</l>
+<l rend="; 1tab">In de diepste nedrigheid!</l>
+<l>By de beesten wil hy woonen</l>
+<l rend="; 1tab">In de plaats hem toebereid.</l>
+<l rend="; 2tab">4.</l>
+<l>Weg dan, rykdom, pragt en eeren!</l>
+<l rend="; 1tab">Liever ben ik nedrig, rein;</l>
+<l>Daar ik zie den Heer der heeren,</l>
+<l rend="; 1tab">Arm, verlaaten, zwak en klein.</l>
+<l>Beter in den stal te blyven</l>
+<l rend="; 1tab">By Maria en haar' Zoon,</l>
+<l>Dan de wetten voor te schryven</l>
+<l rend="; 1tab">Op Herodes trotschen troon.</l>
+<l rend="; 2tab">5.</l>
+<l>By de kribbe is myn genoegen;</l>
+<l rend="; 1tab">'t Is de stal, die my behaagt;</l>
+<l>'k Zal my hier by Jesus voegen,</l>
+<l rend="; 1tab">En by de allerreinste Maagd.</l>
+<l>Vrugtloos is het optezoeken</l>
+<l rend="; 1tab">Schatten, hoogen staat en eer:</l>
+<l>Alles vindt men in dees doeken,</l>
+<l rend="; 1tab">In dit kind, myn' God en Heer.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0014"/></interpGrp>
+<pb n="28"/>
+<head rend="h3">XIV.
+<lb/>
+<hi rend="i">De Lofzang</hi>, Laetabundus exultet fidelis chorus.</head>
+<q rend="bq"><hi rend="i">Maatig vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0034.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Hoe laat zich de blydschap hooren</l>
+    <l>Van de t' saamgevloeide schaar!</l>
+    <l>Die 't gejuich der Englenchooren</l>
+    <l>In haar' boezem word ge- waar:</l>
+    <l>Nu de Heerscher van all' de aarde,</l>
+    <l>Nu de Koning van 't Heeläl,</l>
+    <l>Dien een maagde- schoot haar baarde,</l>
+<l>Werd gebooren in een' stal.</l>
+
+<pb n="29"/>
+
+<l rend="; 2tab">2.</l>
+<l>De Engel van den raad des Heeren</l>
+<l rend="; 1tab">Komt, als 's levens rykste bron,</l>
+<l>'t Ligchaam van een Maagd vereeren:</l>
+<l rend="; 1tab">Uit een star verschynt een Zon.</l>
+<l>Deeze Zon gaat nimmer onder;</l>
+<l rend="; 1tab">Deeze star blyft, rykst van glans,</l>
+<l rend="; 1tab">Schittren, als het grootste wonder,</l>
+<l rend="; 1tab">Aan den blaauwen Hemeltrans.</l>
+<l rend="; 2tab">3.</l>
+<l>Zoo, gelyk een star in 't duister</l>
+<l rend="; 1tab">Blinkt en licht, is deeze Maagd</l>
+<l>Altyd zuiver, ryk in luister.</l>
+<l rend="; 1tab">Met haar' Zoon, reeds opgedaagd:</l>
+<l>En gelyk geen star in 't straalen</l>
+<l rend="; 1tab">Ooit den glans der andre dooft,</l>
+<l>Ziet men ook den luister praalen</l>
+<l rend="; 1tab">Van den Zoon, om Moeders hoofd.</l>
+<l rend="; 2tab">4.</l>
+<l>Ziet, de hooggetopte Ceder,</l>
+<l rend="; 1tab">De Eer der bergen van 't Heeläl,</l>
+<l>Daalt by 't nedrig hyssop neder,</l>
+<l rend="; 1tab">Neemt een plaats in 't laage dal.</l>
+<l>'t Woord, de beeldtnis van den Vader,</l>
+<l rend="; 1tab">Word nu vleesch uit eene Maagd</l>
+<l>Die dus God en mensch te gader</l>
+<l rend="; 1tab">In haar zuiver ligchaam draagt.</l>
+<l rend="; 2tab">5.</l>
+<l>Isaïas kwam 't verkonden;</l>
+<l rend="; 1tab">En der Jooden Synagoog</l>
+<l>Bleef met blindheid nog omwonden,</l>
+<l rend="; 1tab">Schoon dat licht haar straalde in 't oog.</l>
+<l>Maar gelooft zy geen Propheeten,</l>
+<l rend="; 1tab">Zy geloov' dan 't Heidendom;</l>
+<l>De Sybillen doen 't haar weeten,</l>
+<l rend="; 1tab">Geen orakel blyft 'er stom.</l>
+<pb n="30"/>
+<l rend="; 2tab">6.</l>
+<l>Ongelukkige! wilt nadren;</l>
+<l rend="; 1tab">Leg toch af uw ongeloof:</l>
+<l>Hoor de stem van uwe Vadren;</l>
+<l rend="; 1tab">Blyf niet voor hunne inspraak doof.</l>
+<l>Dien de Aartsvaders u voorspelden,</l>
+<l rend="; 1tab">Hy, die 's Vaders oog behaagt,</l>
+<l>Dien de schriften u vermelden,</l>
+<l rend="; 1tab">Is gebooren uit een Maagd.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0015"/></interpGrp>
+<head rend="h3">XV.</head>
+<q rend="bq"><hi rend="i">Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0035.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Geef nu, ô mensch! een lief- de- blyk,</l>
+    <l>En zing op bly- den toon:</l>
+    <l>God noodt ons al- len tot zyn Ryk;</l>
+    <l>Daar- om zendt hy zyn' Zoon.</l>
+    <l>Daar- om zendt hy zyn' Zoon.</l>
+
+<pb n="31"/>
+
+<l rend="; 2tab">2.</l>
+<l>Hy daalt, die ons behoeden zal;</l>
+<l rend="; 1tab">Om ons wordt hy een Kind:</l>
+<l>Gaa, gaa naar Bethlems beestenstal,</l>
+<l rend="; 1tab">Hem zien, die ons zo mint. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">3.</l>
+<l>Een Engel brengt dees blyde maar'</l>
+<l rend="; 1tab">Van ons verlossingswerk;</l>
+<l>De vreê wordt door Gods Englenschaar'</l>
+<l rend="; 1tab">Verkondigd door het zwerk. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">4.</l>
+<l>Gods Zoon, omkleed met Vleesch en Bloed,</l>
+<l rend="; 1tab">Gebooren uit een Maagd,</l>
+<l>Ligt daar: ô wondre liefdegloed,</l>
+<l rend="; 1tab">Dien hy den mensch' toedraagt! <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">5.</l>
+<l>Om ons komt hy uit 's Vaders schoot;</l>
+<l rend="; 1tab">Om ons komt hy beneên:</l>
+<l>Treed toe dan, mensch! in uwen nood</l>
+<l rend="; 1tab">Met lofzang en gebeên. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">6.</l>
+<l>Juich! juich, myn ziel! maak bly geschal,</l>
+<l rend="; 1tab">Zing zynen naam' ten pryz':</l>
+<l>Hy is 't, die u geleiden zal</l>
+<l rend="; 1tab">In 't hemelsch Paradys. <hi rend="i">bis.</hi></l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0016"/></interpGrp>
+<pb n="32"/>
+<head rend="h3">XVI.</head>
+<q rend="bq"><hi rend="i">Langzaam.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0036.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>De Spiegel van Gods Ma- jes- teit,<note n="(a)" place="foot"><hi rend="i">Wysh.</hi> 7.</note> De</l>
+<l>glans van 't eeuwig Licht,<note n="(b)" place="foot"><hi rend="i">Ibid.</hi></note> Het</l>
+    <l>Beeld van Gods zelf-standigheid,<note n="(c)" place="foot"><hi rend="i">Coll.</hi> 1. &amp; <hi rend="i">Hebr.</hi> 1.</note></l>
+    <l>Verschynt aan ons ge- zigt.<note n="(d)" place="foot"><hi rend="i">Matth.</hi> 2. v̸. 2.</note></l>
+
+<l rend="; 2tab">2.</l>
+<l>De Star uit Jacob opgegaan,<note place="margin"><hi rend="i">Getall.</hi> 24.</note></l>
+<l rend="; 1tab">Het Zaad van Abraham.<note place="margin"><hi rend="i">Gal</hi> 3.</note></l>
+<l>Gaat zig met onze schuld belaên,<note place="margin"><hi rend="i">Isaï.</hi> 53 v̸.5.6.</note></l>
+<l rend="; 1tab">De Leeuw uit Judaa's Stam.<note place="margin"><hi rend="i">Openb.</hi> 5.</note></l>
+<l rend="; 2tab">3.</l>
+<l>Die de <hi rend="i">Alpha</hi> en de <hi rend="i">Omega</hi> heet,</l>
+<l rend="; 1tab">'t Beginsel en het end',<note place="margin"><hi rend="i">Openb</hi> 22.</note></l>
+<l>Is met een heerschappy bekleed,<note place="margin"><hi rend="i">Psalm</hi> 2.</note></l>
+<l rend="; 1tab">Die geene paalen kent.</l>
+<pb n="33"/>
+<l rend="; 2tab">4.</l>
+<l>De Zoon van David, Jesse's Spruit,<note place="margin"><hi rend="i">Matth.</hi> 1. <hi rend="i">Isaï.</hi> 11.</note></l>
+<l rend="; 1tab">De God van Israël,<note place="margin"><hi rend="i">Luc.</hi> 1.</note></l>
+<l>Volbrengt zyns Vaders Raadsbesluit:<note place="margin"><hi rend="i">Gen.</hi> 3.</note></l>
+<l rend="; 1tab">Hy is de Emmanuël.<note place="margin"><hi rend="i">Matth.</hi> 1.</note></l>
+<l rend="; 2tab">5.</l>
+<l>Gezegend is hy, die, alhier,</l>
+<l rend="; 1tab">Komt in des Heeren naam:<note place="margin"><hi rend="i">Luc.</hi> 19.</note></l>
+<l>Ontbloot van allen aardschen zwier,<note place="margin"><hi rend="i">Luc.</hi> 4.</note></l>
+<l rend="; 1tab">Roept hy zyn Volk te saam'.</l>
+<l rend="; 2tab">6</l>
+<l>Hy is gebooren uit een Maagd,<note place="margin"><hi rend="i">Matth</hi> 1. <hi rend="i">&amp;c.</hi></note></l>
+<l rend="; 1tab">Gods welbeminde Zoon;<note place="margin"><hi rend="i">Luc.</hi> 3.</note></l>
+<l>Hy is 't, die onze smerten draagt.<note place="margin"><hi rend="i">Isaî</hi> 53 v̸.4.</note></l>
+<l rend="; 1tab">ô Mensch! volg zyn geboôn.<note place="margin"><hi rend="i">Matth.</hi> 17. v̸. 5.</note></l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0017"/></interpGrp>
+<pb n="34"/>
+<head rend="h3">XVII.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0038.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Angst en zorg en kom- mer vlugten;</l>
+    <l>'t Menschdom heeft niets meer te dutten,</l>
+    <l>Want in eenen armen stal</l>
+    <l>Is den Redder Is den Redder van 't Heel- äl,</l>
+    <l>Ter geboorte, een plaats ge- weezen,</l>
+<l>Om uit liefde Om uit liefde ons te ge- neezen,</l>
+    <l>Van het aange- booren kwaad,</l>
+    <l>Daar de ziel om</l>
+</lg>
+<pb n="35"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0039.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>treuren gaat.</l>
+    <l>Daar de ziel om treuren gaat.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Hy, der Eng'len lust en leven,</l>
+<l>Voor wiens magt de duivels beeven,</l>
+<l rend="; 1tab">Ligt hier naakt als zonder kracht,</l>
+<l rend="; 1tab">Heel verschooven, heel verschooven en veracht.</l>
+<l>Hy, die 't zonlicht eerst verwekte.</l>
+<l>En den sterfling, en den sterfling overdekte</l>
+<l rend="; 1tab">Met zyn Godlyk liefdevuur,</l>
+<l rend="; 1tab">Beeft van koude in de open schuur. <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">3.</l>
+<l>Welk een plaats vol zorglykheden</l>
+<l>Koost gy voor uw tedre leden,</l>
+<l rend="; 1tab">Teder Kindtje, was 't bestemd,</l>
+<l rend="; 1tab">Dat ge; om zondaars, dat ge, om zondaars vastgeklemd</l>
+<l>In der zonden boei, te ontheffen,</l>
+<l>'t Vreêverbond met, 't Vreêverbond met God te treffen,</l>
+<l rend="; 1tab">Tot der menschen heilbehoud,</l>
+<l rend="; 1tab">Dus op de aard' verschynen zoud? <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">4.</l>
+<l>Hoor dan ons ootmoedig smeeken,</l>
+<l>Smoor de zondige gebreken,</l>
+<l rend="; 1tab">En gedenk geen jonkheids schuld,</l>
+<l rend="; 1tab">Maar verleen ons, maar verleen ons, by geduld,</l>
+<l>Kracht, om 't zondige te weeren,</l>
+<l>U als 't hoogste, U als 't hoogste Goed begeeren,</l>
+<l rend="; 1tab">U, die ons den weg bereid</l>
+<l rend="; 1tab">Tot een zalige eeuwigheid. <hi rend="i">bis.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0018"/></interpGrp>
+<pb n="36"/>
+<head rend="h3">XVIII.</head>
+<q rend="bq"><hi rend="i">Deftig.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0040.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>De schaduwen ver- dwynen;</l>
+    <l>Wy zien aan 's Hemels trans,</l>
+    <l>Met schitterenden glans,</l>
+    <l>De schoonste star ver- schy- nen:</l>
+    <l>Die aan ons komt ver- konden,</l>
+    <l>Dat 's levens Opperheer</l>
+    <l>Daalt van zyn' troon van eer</l>
+    <l>Op de aarde om on- ze zon- den.</l>
+
+<pb n="37"/>
+
+<l rend="; 2tab">2.</l>
+<l>Wel aan nu, stervelingen!</l>
+<l rend="; 1tab">Verheft uw hart en stem,</l>
+<l rend="; 1tab">Om 't nedrig Bethlehem</l>
+<l>Een' lofzang toetezingen:</l>
+<l>Dáár is hy nu gebooren,</l>
+<l rend="; 1tab">In eenen armen stal,</l>
+<l rend="; 1tab">Die u herstellen zal</l>
+<l>In 't heil, door u verlooren.</l>
+<l rend="; 2tab">3.</l>
+<l>ô Roem en eer der steden!</l>
+<l rend="; 1tab">Wat word uw heilstaat groot;</l>
+<l rend="; 1tab">Daar ge, uit een Maagdenschoot,</l>
+<l>Met teere en kindsche leden,</l>
+<l>Den Meester, Heer en Koning</l>
+<l rend="; 1tab">Van Hemel en van aard'</l>
+<l rend="; 1tab">Ziet, tot uw' lof, gebaard,</l>
+<l>In eene herders wooning.</l>
+<l rend="; 2tab">4.</l>
+<l>Komt, volgen wy de reien</l>
+<l rend="; 1tab">Van 't juichend Englendom,</l>
+<l rend="; 1tab">En blyden herdrendrom,</l>
+<l>Met fluiten en schalmeien.</l>
+<l>Laat ons zyn' lof verbreiden,</l>
+<l rend="; 1tab">Die uitwischt schuld en leed</l>
+<l rend="; 1tab">Van Adams boomvrugtsbeet,</l>
+<l>En ons ten heil zal leiden.</l>
+<l rend="; 2tab">5.</l>
+<l>Men eere en loov' den Vader:</l>
+<l rend="; 1tab">Die in zyn een'gen Zoon</l>
+<l rend="; 1tab">Zyn goedheid spreid ten toon,</l>
+<l>Als 's levens heilbronäder.</l>
+<l>U, Heer van dood en leven!</l>
+<l rend="; 1tab">Zy daar voor dank en lof,</l>
+<l rend="; 1tab">Van de aarde en 't Hemelhof,</l>
+<l>In eeuwigheid gegeeven.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0019"/></interpGrp>
+<pb n="38"/>
+<head rend="h3">XIX.</head>
+<q rend="bq"><hi rend="i">Maatig vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0041.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Juich! myn Ziel! wil vrolyk zingen:</l>
+    <l>Hy, die u ver- los- sen zal,</l>
+    <l>(Die om- vat de he- melkringen)</l>
+    <l>Is ge- booren in een' stal.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Wil hier den Messias looven,</l>
+<l rend="; 1tab">Val in ootmoed voor hem neêr;</l>
+<l>Tot ons heil komt hy van boven;</l>
+<l rend="; 1tab">Hy is onze God en Heer.</l>
+<l rend="; 2tab">3.</l>
+<l>Wil met wedermin hem danken,</l>
+<l rend="; 1tab">Die hier zoekt een' zielenoogst,</l>
+<l>Zing, myn Ziel, niet blyde klanken:</l>
+<l rend="; 1tab"><hi rend="i">Lof zy God' in 't allerhoogst.</hi></l>
+<l rend="; 2tab">Laat uw lofzang zig vereenen</l>
+<l rend="; 1tab">Met den zang der Hemelschaar';</l>
+<l>Doch wil ook uw schuld beweenen,</l>
+<l rend="; 1tab">Die hem leidt naar 't slagtältaar.</l>
+<pb n="39"/>
+<l rend="; 2tab">4.</l>
+<l>'k Bid, ô Godmensch! wil ontvangen</l>
+<l rend="; 1tab">Van myn ziel', die gy zo mint,</l>
+<l>Haare traanen, haar verlangen</l>
+<l rend="; 1tab">Naar u, ô zagtmoedig Kind!</l>
+<l rend="; 2tab">6.</l>
+<l>Ach! myn Heiland! wil bestieren</l>
+<l rend="; 1tab">'t Hart, dat u is toebereid;</l>
+<l>Wil het met uw Godsmin cieren,</l>
+<l rend="; 1tab">Die ter eeuw'ge vreugd' geleidt.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0020"/></interpGrp>
+<pb n="40"/>
+<head rend="h3">XX.</head>
+<q rend="bq"><hi rend="i">Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0042.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Juicht, ô menschen! Hy, die de aarde</l>
+    <l>Met haar volheid, die ze u baarde,</l>
+    <l>Uit het niet ten voorschyn bragt,</l>
+    <l>En den Hemel, zo vol luister,</l>
+    <l>Voor u riep uit aaklig duister,</l>
+    <l>Is ge- bo- ren deezen nacht.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Hy, de Zoon des eeuw'gen Vaders,</l>
+<l>Die 't geweld des aartsverraders,</l>
+<l rend="; 1tab">Voortgeteeld uit d'englenval,</l>
+<l>Waar door de eerste menschen vielen,</l>
+<l>Door zyn komst eens moest vernielen,</l>
+<l rend="; 1tab">Is geboren in een' stal.</l>
+<pb n="41"/>
+<l rend="; 2tab">3.</l>
+<l>Hy, de bron van heil en orden,</l>
+<l>Is voor ons nu mensch geworden,</l>
+<l rend="; 1tab">Met de sterflykheid bedeeld;</l>
+<l>Om ons allen door zyn sterven</l>
+<l>'t Eeuwig leven te doen erven,</l>
+<l rend="; 1tab">Als herschapen naar zyn Beeld.</l>
+<l rend="; 2tab">4.</l>
+<l>Uit de Moedermaagd geboren,</l>
+<l>Door de Godheid zelf verkooren</l>
+<l rend="; 1tab">Tot het groot verzoeningswerk,</l>
+<l>Komt de Vorst der Cherubynen</l>
+<l>In het sterflyk vleesch verschynen,</l>
+<l rend="; 1tab">Tot den opbouw van zyn Kerk.</l>
+<l rend="; 2tab">5.</l>
+<l>Die den grondslag en den drempel,</l>
+<l>Van dien Godgewyden Tempel</l>
+<l rend="; 1tab">Eens zal leggen in zyn Bloed:</l>
+<l>Als hy de ersschuld aller menschen,</l>
+<l>Naar de aartsvaderlyke wenschen,</l>
+<l rend="; 1tab">Door zyn' dood aan 't Kruis voldoet.</l>
+<l rend="; 2tab">6.</l>
+<l>Juicht, en komt dan, stervelingen!</l>
+<l>Gode lof en glorie zingen:</l>
+<l rend="; 1tab">Eert den Godmensch in dit Kind,</l>
+<l>Voor u nu in 't Vleesch verscheenen,</l>
+<l>Om u weder te verëenen</l>
+<l rend="; 1tab">Met den Vader, die u mint.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0021"/></interpGrp>
+<pb n="42"/>
+<head rend="h3">XXI.</head>
+<q rend="bq"><hi rend="i">Vrolyk</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0043.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>De blyde Dag is thans verscheenen;</l>
+    <l>De Dag, die Adams na- ge- slacht,</l>
+    <l>Door Vorst Mes- si- as, zal vereenen</l>
+    <l>Met God, een Dag zo lang ver- wagt!</l>
+    <l>De Dag, die 's waerelds dui- sterheid</l>
+    <l>Verdryft, en ons ten heilweg leidt.</l>
+
+<l rend="; 2tab">2.</l>
+<l>De Heilzon, die ons komt beschynen,</l>
+<l rend="; 1tab">Wyst ons den weg naar 't hemellicht,</l>
+<l>Zy doet den vaalen nacht verdwynen,</l>
+<l rend="; 1tab">Dien Adams val ons hadt gesticht:</l>
+<l rend="; 1tab">Een val, die nu Gods een'gen Zoon</l>
+<l rend="; 1tab">Doet nederdaalen van zyn' troon.</l>
+<pb n="43"/>
+<l rend="; 2tab">3.</l>
+<l>Die Zoon, uit eene Maagd gebooren,</l>
+<l rend="; 1tab">Verschynt hier in dit jammerdal,</l>
+<l>Om al wie naar zyn stem wil hooren,</l>
+<l rend="; 1tab">Te brengen tot het zalig tal.</l>
+<l rend="; 1tab">Juich dan, myn ziel! zing hem ter eer'!</l>
+<l rend="; 1tab">Hy is uw God, uw Opperheer.</l>
+<l rend="; 2tab">4.</l>
+<l>Hy, die ons 't eeuwig goed doet erven,</l>
+<l rend="; 1tab">Ligt in een' beestenstal op hooi!</l>
+<l>Zyn ootmoed doet hem alles derven,</l>
+<l rend="; 1tab">Ontbloot, ja warsch, van waereldtooi.</l>
+<l rend="; 1tab">Hy, die, 't heeläl geschapen heeft,</l>
+<l rend="; 1tab">Is de armste van al wat hier leeft.</l>
+<l rend="; 2tab">5.</l>
+<l>Hy, die het starngewelf doet blinken,</l>
+<l rend="; 1tab">Die 't menschdom onderhoudt en voedt,</l>
+<l>Schier naakt! - Ik voel myn geest me ontzinken,</l>
+<l rend="; 1tab">Als 'k overweeg dien liefdegloed. -</l>
+<l rend="; 1tab">'k Voeg my by u, ô Englenschaar!</l>
+<l rend="; 1tab">En loof, met u, d'Alzegenaar.</l>
+<l rend="; 2tab">6.</l>
+<l>Ik val voor uwe voeten neder,</l>
+<l rend="; 1tab">ô Liefderyk zagtmoedig Kind!</l>
+<l>ô Kind zo minnelyk als teder!</l>
+<l rend="; 1tab">Maak my van zondaar tot uw' vrind.</l>
+<l rend="; 1tab">Myn ziel hoort uwe liefdestem:</l>
+<l rend="; 1tab">Ze omhelze u bly te Bethlehem.</l>
+</lg>
+<p></p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0022"/></interpGrp>
+<pb n="44"/>
+<head rend="h3">XXII.</head>
+<head rend="h4"><hi rend="i">Zie de Zangwyze</hi> N<hi rend="sup">o</hi>. VI. <hi rend="i">bladz.</hi> 13. <hi rend="i">of de onderstaande.</hi></head>
+<q rend="bq"><hi rend="i">Tederlyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0044.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Mensch! loof God, wil u verblyden,</l>
+    <l>De Hemelvorst komt u be- vry- den</l>
+<l>Van de angst, ge- wrocht door A- dams val:</l>
+    <l>Laat thans uw har- te- droefheid vaaren,</l>
+    <l>En juich ver- heugd met de En- glen- schaaren;</l>
+<l>De vre- de daalt op 't aardsche dal.</l>
+
+<pb n="45"/>
+
+<l rend="; 2tab">2.</l>
+<l>De Hemel is alreê ontslooten;</l>
+<l>De waarheid uit der aard' gesprooten,<note place="margin"><hi rend="i">Ps.</hi> 84.</note></l>
+<l rend="; 1tab">Is opgegaan in deezen nagt:</l>
+<l>Messias is alhier verscheenen;</l>
+<l>Hy zal den mensch met God vereenen,</l>
+<l rend="; 1tab">Hy, die zo lang hier was verwagt.</l>
+<l rend="; 2tab">3.</l>
+<l>Het Woord vol van genade en waarheid<note place="margin"><hi rend="i">Joan.</hi> 1.</note></l>
+<l>Een Licht, dat blinkt vol hemelklaarheid,</l>
+<l rend="; 1tab">Het voor ons vleeschgeworden Woord;</l>
+<l>Gods Beeld, de waare Spruit des Heeren,<note place="margin"><hi rend="i">Coll.</hi> 1. <hi rend="i">Isaï</hi> 4.</note></l>
+<l>Komt ons den weg ten heil hierleeren;</l>
+<l rend="; 1tab">Welzalig is hy, die hem hoort.</l>
+<l rend="; 2tab">4.</l>
+<l>De Heilzon uit de kim gereezen,</l>
+<l>Des menschen Zoon<note n="*" place="margin"><hi rend="i">Matth. 8. &amp;c.</hi></note> komt ons geneezen</l>
+<l rend="; 1tab">Van 's Lusthofsboomvrugtszielesmet.<note place="margin"><hi rend="i">Gen.</hi> 3.</note></l>
+<l>Hy komt de helslangslist vergruizen,</l>
+<l>En doen uit 's menschen hart verhuizen,</l>
+<l rend="; 1tab">Hy is 't, die haar den kop verplet.<note place="margin"><hi rend="i">Gen.</hi> 3.</note></l>
+<l rend="; 2tab">5.</l>
+<l>De Heiland, 's menschen Hartewaaker,</l>
+<l>Gezalfde, Heer. en Zaligmaaker,<note place="margin"><hi rend="i">Luc.</hi> 2.</note></l>
+<l rend="; 1tab">De welbemide Zoon van God,<note place="margin"><hi rend="i">Luc.</hi> 3.</note></l>
+<l>Verwaardigt zig met ons te woonen,</l>
+<l>Om aan den zondaar 't pad te toonen</l>
+<l rend="; 1tab">Naar het volzalig heilgenot.</l>
+<l rend="; 2tab">6.</l>
+<l>Dees Godmensch, onze Zielehoeder,</l>
+<l>De Emmanuël, ja onze Broeder,<note place="margin"><hi rend="i">Matth.</hi> 1. <hi rend="i">Rom.</hi> 8.</note></l>
+<l rend="; 1tab">Die door zyn kragtwoord alles draagt;<note place="margin"><hi rend="i">Hebr.</hi> 1.</note></l>
+<l>Wiens Naam is, Wonderlyke en Sterke,<note place="margin"><hi rend="i">Isai.</hi> 9.</note></l>
+<l>Het Hoofd van 't ligchaam zyner Kerke,<note place="margin"><hi rend="i">Coll</hi> 1.</note></l>
+<l rend="; 1tab">Is nu gebooren uit een Maagd.<note place="margin"><hi rend="i">Luc.</hi> 1. <hi rend="i">&amp;c.</hi></note></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0023"/></interpGrp>
+<pb n="46"/>
+<head rend="h3">XXIII.</head>
+<q rend="bq"><hi rend="i">Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0045.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>ô Wondre nacht! waar voor het licht</l>
+<l>Des schoonsten dags, hoe schittrend, zwicht.</l>
+    <l>De grootste Vorst, de Hemelheer,</l>
+    <l>Daalt, op U, in een krib- be neêr,</l>
+    <l>Voor 't menschdom als een menschenkind, een menschenkind.</l>
+
+<l rend="; 1tab">2.</l>
+<l>Maria, die uit Davids stam,</l>
+<l>Uit Annaas schoot te voorschyn kwam,</l>
+<l>Des zuivren Josephs zuivre Bruid,</l>
+<l>Word Moeder van die Hemelspruit:</l>
+<l>Zy baart den een'gen Zoon van God.</l>
+<l rend="; 1tab">Den Zoon van God.</l>
+<pb n="47"/>
+<l rend="; 1tab">3.</l>
+<l>Hy, 's eeuw'gen Vaders Evenbeeld,</l>
+<l>Het Woord, voor de eeuwen voortgeteeld,</l>
+<l>Nam dus het sterflyk vleesch eens aan,</l>
+<l>Om 't menschdom van den dood te ontslaan,</l>
+<l>Wien 't was ten doel om Adams schuld.</l>
+<l rend="; 2tab">om Adams schuld.</l>
+<l rend="; 1tab">4</l>
+<l>Hy, die uit niet mede alles schiep,</l>
+<l>En in het eerste daglicht riep,</l>
+<l>Daalt uit het heilvol Hemelryk,</l>
+<l>Word nu zyn' schepselen gelyk,</l>
+<l>In 't nedrig kleed der sterflykheid</l>
+<l rend="; 1tab">der sterflykheid.</l>
+<l rend="; 1tab">5.</l>
+<l>Nu kent de blydschap maat noch peil.</l>
+<l>De grondslag van ons eeuwig heil</l>
+<l>Is nu gelegd te Bethlehem.</l>
+<l>Verheft, ô menschen! uwe stem,</l>
+<l>Tot lof en dank aan d'Opperheer</l>
+<l rend="; 2tab">aan d'Opperheer.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0024"/></interpGrp>
+<pb n="48"/>
+<head rend="h3">XXIV.</head>
+<head rend="h4"><hi rend="i">Zie de voorgaande Zangwyze, of de onderstaande.</hi></head>
+<q rend="bq"><hi rend="i">Maatig Vrolyk.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0046.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Op deezen heldren winter- nacht,</l>
+    <l>Word ons het grootst ge- luk ge- bragt.</l>
+    <l>De schuldvoldoener, heul en troost</l>
+    <l>Van d'eersten Vader en zyn kroost,</l>
+    <l>Verschynt in 't licht te Bethlehem te Beth- le- hem.</l>
+
+<l rend="; 1tab">2.</l>
+<l>De Zoon, bedeeld met 's Vaders macht,</l>
+<l>Die 't al uit niet te voorschyn bragt,</l>
+<l>Ligt hier geboren als een kind,</l>
+<l>Dat men in schraale doeken wind,</l>
+<l>In eene krib in d'armen stal</l>
+<l rend="; 2tab">in d'armen stal.</l>
+<pb n="49"/>
+<l rend="; 1tab">3.</l>
+<l>Maria word hier Moedermaagd,</l>
+<l>Dewyl zy 't Godlyk oog behaagt.</l>
+<l>Zy baart haar Kind, den Hemelvorst,</l>
+<l>Die naar der menschen welvaart dorst,</l>
+<l>En Adams schuld eens zal voldoen</l>
+<l rend="; 1tab">eens zal voldoen.</l>
+<l rend="; 1tab">4.</l>
+<l>Nu staat natuur verbaast en stom.</l>
+<l>De Godspraak van 't Propheetendom</l>
+<l>Word nu vervuld in dit klein Wicht,</l>
+<l>Dat zich ten onzer zoen verplicht,</l>
+<l>Den dood te sterven aan het Kruis</l>
+<l rend="; 1tab">Eens aan het Kruis.</l>
+<l rend="; 1tab">5.</l>
+<l>Juich, juich dan, Adams nakroost! juich.</l>
+<l>Dat ieders vreugd zyn' dank betuig'.</l>
+<l>Dees nacht bragt u dat grootst geluk,</l>
+<l>Dat u ontheft van allen druk.</l>
+<l>Men eer' hem met het Englenchoor</l>
+<l rend="; 1tab">het Englenchoor.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0025"/></interpGrp>
+<pb n="50"/>
+<head rend="h3">XXV.</head>
+<q rend="bq"><hi rend="i">Deftig.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0047.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Wat wondren moet ik hier aanschouwen!</l>
+    <l>Ik zie den God van eeuwigheid,</l>
+    <l>Als Kind, dat zon- der onderscheid</l>
+    <l>Met ons hier ligt, wie kan 't ont- vou- wen?</l>
+
+<l rend="; 2tab">2.</l>
+<l>'k Zie hem, die alles heeft geschapen,</l>
+<l rend="; 1tab">'t Heeläl op zynen vinger draagt,</l>
+<l rend="; 1tab">En alles werkt wat hem behaagt,</l>
+<l>In de armen zyner Moeder slaapen.</l>
+<l rend="; 2tab">3.</l>
+<l>Ik zie den Heer der Hemelschaaren,</l>
+<l rend="; 1tab">Om wien het Englendom steeds juicht,</l>
+<l rend="; 1tab">Voor wien de gantsche waereld buigt,</l>
+<l>Zig met de kleine kindren paaren.</l>
+<pb n="51"/>
+<l rend="; 2tab">4.</l>
+<l>Ik zie hem haare borsten zuigen,</l>
+<l rend="; 1tab">Die alle schepslen, all' wat leeft,</l>
+<l rend="; 1tab">Het onderhoud en voedsel geeft,</l>
+<l>Als 't redenlicht ons doet getuigen.</l>
+<l rend="; 2tab">5</l>
+<l>Ik zie hem, die van boven dondert,</l>
+<l rend="; 1tab">En 't blixemvuur op de aard' verspreidt;</l>
+<l rend="; 1tab">Een Wichtje, dat nu lacht, dan schreit:</l>
+<l>Wie moet met niy niet staan verwonderd?</l>
+<l rend="; 2tab">6.</l>
+<l>Met wat een' eerbied moet ik knielen</l>
+<l rend="; 1tab">Voor dit almagtig Wonderkind!</l>
+<l rend="; 1tab">Hoe moet het zyn van my bemind,</l>
+<l>Dat niet zoekt dan het heil der zielen!</l>
+<l rend="; 2tab">7.</l>
+<l>ô Godlyk Kind, ô Heer der heeren!</l>
+<l rend="; 1tab">Wil my met lachjes van genaê,</l>
+<l rend="; 1tab">Daar ik op u myne oogen slaa,</l>
+<l>Verblyden, en uw oog toekeeren.</l>
+<l rend="; 2tab">8.</l>
+<l>Verryk my met een' schat van gaven</l>
+<l rend="; 1tab">Beheersch met liefde toch myn hart.</l>
+<l rend="; 1tab">Vertroost my in myn' druk en smart,</l>
+<l>En voer my naar de Hemelhaven.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0026"/></interpGrp>
+<pb n="52"/>
+<head rend="h2">Op den feestdag van de heilige onnozele kinderen</head>
+<p></p>
+<div type="section">
+<head rend="h3">XXVI.</head>
+<head rend="h3"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. VI. <hi rend="i">bladz.</hi> 13.</head>
+<lg type="poem">
+<l>ô <hi rend="b">K</hi>ersnagt, schooner dan de dagen!</l>
+<l>Hoe kan Herodes 't licht verdraagen,</l>
+<l rend="; 1tab">Dat in uw duisternisse blinkt?</l>
+<l>Hy wordt gevierd en aangebeden,</l>
+<l>Zyn hoogmoed luistert naar geen reden,</l>
+<l rend="; 1tab">Hoe schel die in zyne ooren klinkt.</l>
+<l rend="; 2tab">2.</l>
+<l>Hy poogt de onnozlen te vernielen,</l>
+<l>Door 't moorden van onnozle zielen,</l>
+<l rend="; 1tab">En wekt een stad- en land geschrei,</l>
+<l>In Bethlehem, en op den akker,</l>
+<l>En maakt den geest van Rachel wakker,</l>
+<l rend="; 1tab">Die waaren gaat door beemd en wei.</l>
+<l rend="; 2tab">3.</l>
+<l>Dan naar het west, dan naar het oosten;</l>
+<l>Wie zal die droeve moeder troosten,</l>
+<l rend="; 1tab">Nu zy haar lieve kinders derft?</l>
+<l>Nu zy hen ziet in 't bloed versmooren,</l>
+<l>Vergaan, die naauwlyks zyn gebooren,</l>
+<l rend="; 1tab">En zo veel zwaarden rood geverfd.</l>
+<pb n="53"/>
+<l rend="; 2tab">4.</l>
+<l>Zy ziet het melkzog op de tippen</l>
+<l>Van die bestorve en bleeke lippen,</l>
+<l rend="; 1tab">Gerukt nog versch van 's moeders borst:</l>
+<l>Zy ziet de teêre traantjes hangen</l>
+<l>Als daauw aan droppels op de wangen,</l>
+<l rend="; 1tab">Zy ziet ze vuil niet bloed bemorst.</l>
+<l rend="; 2tab">5.</l>
+<l>De wenkbraauw dekt nu met haar boogjes</l>
+<l>Gelookene en geen lagchende oogjes,</l>
+<l rend="; 1tab">Die straalden tot in 's moeders hert,</l>
+<l>Als starren, die met haar gewemel</l>
+<l>Het aanschyn schiepen tot een' hemel,</l>
+<l rend="; 1tab">Eer 't met een' mist betrokken werdt.</l>
+<l rend="; 2tab">6.</l>
+<l>Wie kan de elende en 't jammer noemen,</l>
+<l>En tellen zo veel jonge bloemen,</l>
+<l rend="; 1tab">Die vroeg verwelkten, eer ze nog</l>
+<l>Haar frissche bladertjes ontlooken,</l>
+<l>En lieffelyk voor ieder rooken,</l>
+<l rend="; 1tab">En 's morgens dronken 't eerste zog?</l>
+<l rend="; 2tab">7.</l>
+<l>Zo velt de seis de koorenairen,</l>
+<l>Zo schudt een bui de groene, blaêren,</l>
+<l rend="; 1tab">Wanneer het stormt in 't wilde woud:</l>
+<l>Wat kan de blinde staatzucht brouwen,</l>
+<l>Wanneer ze raast uit misvertrouwen!</l>
+<l rend="; 1tab">Wat luidt zo schendig, dat haar rouwt?</l>
+<l rend="; 2tab">8.</l>
+<l>Bedrukte Rachel, staak dit waaren,</l>
+<l>Uw kinders sterven martelaaren,</l>
+<l rend="; 1tab">En eerstelingen van het zaad,</l>
+<l>Dat uit uw bloed begint te groeijen,</l>
+<l>En heerlyk tot Gods eer zal bloeijen,</l>
+<l rend="; 1tab">En door geen tiranny vergaat.</l>
+</lg>
+</div></div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0027"/></interpGrp>
+<pb n="54"/>
+<head rend="h3">Op den feestdag van de besnydenis des Zaligmakers. N<hi rend="sup">o</hi>. VII. ô Jesus, Vleeschgeworden Woord, bladz. 15.</head>
+<head rend="h3">Danklied. op den eersten dag des jaars.</head>
+<head rend="h4">XXVII.</head>
+<q rend="bq"><hi rend="i">Gemaatigd.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0048.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Pryst den Heer. Door alle tongen</l>
+    <l>Zy u lof en dank gezon- gen,</l>
+    <l>Die ons een nieuw Jaar bereid,</l>
+    <l>Vader der barmhartig- heid.</l>
+    
+<pb n="55"/>
+
+<l rend="; 1tab">2.</l>
+<l>Ja, dat wy dit wel beseiffen,</l>
+<l>En uw' grooten naam verheffen,</l>
+<l rend="; 1tab">Wyl ge ons leven hebt gespaard,</l>
+<l rend="; 1tab">Schoon door zonden gantsch ontaard.</l>
+<l rend="; 2tab">3</l>
+<l>Laat ons dan met vast betrouwen,</l>
+<l>Steeds op uw genade bouwen,</l>
+<l rend="; 1tab">In 't betreuren der misdaên.</l>
+<l rend="; 1tab">Om het eeuwig kwaad te ontgaan.</l>
+<l rend="; 2tab">4.</l>
+<l>Duizenden, hoe ryk in gaven,</l>
+<l>Zyn in 't laatste jaar begraaven,</l>
+<l rend="; 1tab">Daar gy ons in 't leven hield,</l>
+<l rend="; 1tab">En met nieuwe kracht bezielt.</l>
+<l rend="; 2tab">5.</l>
+<l>Gy verkwikt ons in het lyden,</l>
+<l>Doet na smarten ons verblyden</l>
+<l rend="; 1tab">Uwe ontferming spoore ons aan,</l>
+<l rend="; 1tab">Om den dankweg in te slaan.</l>
+<l rend="; 2tab">6.</l>
+<l>Heer! Gy kwaamt, door uw genade,</l>
+<l>Ons boetvaardigen te stade:</l>
+<l rend="; 1tab">Gy sloegt ons met hel noch dood;</l>
+<l rend="; 1tab">Maar gy hielpt ons uit den nood.</l>
+<l rend="; 2tab">7.</l>
+<l>'t Ligchaam voedde gy met spyze,</l>
+<l>Daar ge, op een verheven wyze,</l>
+<l rend="; 1tab">Onze ziel ook hebt gevoed</l>
+<l rend="; 1tab">Met uw dierbaar Vleesch en Bloed.</l>
+<l rend="; 2tab">8.</l>
+<l>Uit uw zegenryke stroomen,</l>
+<l>Deed ge uw gunsten tot ons komen;</l>
+<l rend="; 1tab">En tot elke goede daad,</l>
+<l rend="; 1tab">Schonkt ge ons hulp en troost en raad.</l>
+<pb n="56"/>
+<l rend="; 2tab">9.</l>
+<l>Heer! hoe groot is uwe ontferming!</l>
+<l>Steeds gaaft gy ons uw bescherming,</l>
+<l rend="; 1tab">Nogtans heeft ons zondig hart,</l>
+<l rend="; 1tab">U vergramt, tot wraakt getart.</l>
+<l rend="; 2tab">10.</l>
+<l>Ach! het rouwt ons. Ziel en leven</l>
+<l>Willen wy voortaan u geeven.</l>
+<l rend="; 1tab">Zie, ô God! op onze boet',</l>
+<l rend="; 1tab">En versterk ons zwak gemoed.</l>
+<l rend="; 2tab">11.</l>
+<l>U, u willen wy beminnen,</l>
+<l>'t Goede doen, en hart en zinnen</l>
+<l rend="; 1tab">U toewyden, en ten troost</l>
+<l rend="; 1tab">Zyn der armen en hun kroost.</l>
+<l rend="; 2tab">12.</l>
+<l>Leer ons, troosten hen, die weenen;</l>
+<l>Wil ten goede ons hulp verleenen,</l>
+<l rend="; 1tab">Op dat onze korte tyd,</l>
+<l rend="; 1tab">Zy der deugden toegewyd.</l>
+<l rend="; 2tab">13.</l>
+<l>Dat, ons uw genaê versterke,</l>
+<l>Uwe hand steeds voor ons werke;</l>
+<l rend="; 1tab">En bescherm het Vaderland;</l>
+<l rend="; 1tab">Schenk uw hulp aan elken stand.</l>
+<l rend="; 2tab">14.</l>
+<l>Wil, ô Heer! uw Volk bewaaren</l>
+<l>Voor den oorlog en gevaaren,</l>
+<l rend="; 1tab">Dat dit jaar, van rampspoed vry,</l>
+<l rend="; 1tab">Toch een jaar van vrede zy.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0028"/></interpGrp>
+<pb n="57"/>
+<head rend="h2">Op den feestdag van de openbaaring des Zaligmaakers aan de heidenen.</head>
+<head rend="h3">XXVIII.</head>
+<q rend="bq"><hi rend="i">Gemaatigd.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0049.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Wilt, Heiden- dom, van vreugde opspringen,</l>
+    <l>En acht het heden uwen pligt,</l>
+    <l>Een danklied aan den Heer te zingen,</l>
+    <l>Te jui- chen om 't, ver- scheenen licht.</l>
+    
+<pb n="58"/>
+
+<l rend="; 2tab">2.</l>
+<l>Gy waart, eilaas! zeer diep gezeten</l>
+<l rend="; 1tab">In 't land der duisternisse en dood,</l>
+<l>En van den Hemel als vergeeten,</l>
+<l rend="; 1tab">Van zyn waarachtig licht ontbloot.</l>
+<l rend="; 2tab">3.</l>
+<l>Gy zoudt gewis ten afgrond daalen,</l>
+<l rend="; 1tab">Indien gy blind bleeft als voorheen,</l>
+<l>De Zon der waarheid met haar straalen</l>
+<l rend="; 1tab">U niet genadiglyk verscheen.</l>
+<l rend="; 2tab">4.</l>
+<l>Dees Zon is voor u opgereezen,</l>
+<l rend="; 1tab">Voor u, gelukkig Heidendom!</l>
+<l>Geef lof aan 't heilig Opperweezen,</l>
+<l rend="; 1tab">Het welk alleen u redden kon.</l>
+<l rend="; 2tab">5.</l>
+<l>Let op der Wyzen komst van verre,</l>
+<l rend="; 1tab">Geroepen door een hemelkragt,</l>
+<l>Op weg geleid door eene sterre,</l>
+<l rend="; 1tab">Die hen tot den Messias bragt.</l>
+<l rend="; 2tab">6.</l>
+<l>Dees Wyzen zyn onze eerstelingen;</l>
+<l rend="; 1tab">Door hen zyn wy van 't licht bestraald,</l>
+<l>Het geen veel volkren niet ontvingen,</l>
+<l rend="; 1tab">Waar alles nog in 't duister dwaalt.</l>
+<l rend="; 2tab">7.</l>
+<l>Wil, ô myn ziel! u dankbaar toonen.</l>
+<l rend="; 1tab">Aan God voor het verleende licht:</l>
+<l>En weet, dat u niets kan verschoonen,</l>
+<l rend="; 1tab">Niets mag weêrhouden van dien pligt.</l>
+<l rend="; 2tab">8.</l>
+<l>Laat u der Wyzen voorbeeld noopen,</l>
+<l rend="; 1tab">Val ook voor Jesus voeten neêr:</l>
+<l>En sluit uw hart hier voor hem open,</l>
+<l rend="; 1tab">Bedank hem als uw' God en Heer.</l>
+<pb n="59"/>
+<l rend="; 2tab">9.</l>
+<l>Heb Jesus als uw doel voor oogen,</l>
+<l rend="; 1tab">Treed zyne paên en wegen in:</l>
+<l>Dan zingt gy, eeuwig opgetogen,</l>
+<l rend="; 1tab">Den lof von zyne menschenmin.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0029"/></interpGrp>
+<head rend="h2">Op den feestdag van den heiligen naam Jesus</head>
+<head rend="h3">XXIX.
+<lb/>
+<hi rend="i">Getrokken uit den Lofzang</hi>, Jesu ducis memoria.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0050.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>ô Jesus! wiens gedagtenis</l>
+    <l>Voor 't hart zo vreugd- en troost- ryk is,</l>
+    <l>Gy zyt het die de smarten heelt,</l>
+    <l>En waaren zieltroost mede- deelt.</l>
+    
+<pb n="60"/>
+
+<l rend="; 1tab">2.</l>
+<l>Wanneer ge ons in verrukking leidt,</l>
+<l>Door uwe tegenwoordigheid,</l>
+<l>Gevoelt het hart, in u verheugd,</l>
+<l>Den voorsmaak van de Hemelvreugd.</l>
+<l rend="; 1tab">3.</l>
+<l>Myn Jesus, Gods beminde Zoon!</l>
+<l>ô Aangenaamste vreugdetoon,</l>
+<l>Die de aardsche zangkunst overtreft,</l>
+<l>En 't minnend hart ten Hemel heft.</l>
+<l rend="; 1tab">4.</l>
+<l>Gy, Heer! vervult des bidders, wensch,</l>
+<l>Gy zyt de toevlugt van den mensch,</l>
+<l>Die boete doet. Gy zyt de Vrind</l>
+<l>Des geenen, die u zoekt en mint.</l>
+<l rend="; 1tab">5.</l>
+<l>Geen tong drukt ooit kragtdaadig uit,</l>
+<l>Geen schryfpen ooit oprecht beduidt,</l>
+<l>Hoe 't hart gesteld is, dat u mint;</l>
+<l>Hy weet het, die het ondervindt.</l>
+<l rend="; 1tab">6.</l>
+<l>Gy zyt alleen myn wensch, myn doel.</l>
+<l>Verlos my van het aardsch gewoel;</l>
+<l>Bescherm my tegen 't helsch geweld,</l>
+<l>ô Hemelvorst! ô, sterke Held!</l>
+<l rend="; 1tab">7.</l>
+<l>Uw zoetheid gaat ver boven all';</l>
+<l>Gy zyt myn vreugd in 't traanendal:</l>
+<l>'k Verzugt tot u, myn Zaligheid!</l>
+<l>Terwyl myn ziel uw komst verbeidt.</l>
+<l rend="; 1tab">8.</l>
+<l>Genadezon, ach! koester my</l>
+<l>In uwen gloed, en blyf my by:</l>
+<l>Maak, dat de duistre nevel zwicht'</l>
+<l>Voor 't straalen van uw glansryk licht.</l>
+<pb n="61"/>
+<l rend="; 1tab">9.</l>
+<l>Wanneer gy in ons hart verkeert,</l>
+<l>Dan wordt het waarheidslicht vermeerd;</l>
+<l>Uw liefde brandt daar zonder maat,</l>
+<l>En de ydle waereldlust vergaat.</l>
+<l rend="; 1tab">10.</l>
+<l>ô Leevensoorsprong! Zielelust!</l>
+<l>Wie u geniet, die is gerust,</l>
+<l>En leeft in een' geneugtestaat,</l>
+<l>Die allen wensch te boven gaat.</l>
+<l rend="; 1tab">11.</l>
+<l>Ach! mogt' het gantsche waereldrond</l>
+<l>U kennen, en uit éénen mond,</l>
+<l>U looven, ô myn opperst Goed!</l>
+<l>Dat ons beschermt, bewaart en voedt.</l>
+<l rend="; 1tab">12.</l>
+<l>ô Beste, dien 'k ooit kiezen kon,</l>
+<l>Hoe dorst myn hart, ô Leevensbron!</l>
+<l>Naar u; Gy Heer! kent myn verdriet.</l>
+<l>Ach Jesus! kom, vertoef toch niet.</l>
+<l rend="; 1tab">13.</l>
+<l>ô Koning van het Hemelryk!</l>
+<l>Ach! maak myn hart aan 't uw' gelyk:</l>
+<l>Bewoon het steeds; zo roep ik bly:</l>
+<l>Ik leef in u, en gy in my.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0030"/></interpGrp>
+<pb n="62"/>
+<head rend="h2">Gezangen in de vasten.</head>
+<head rend="h3">XXX.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0097.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l rend="speaker"><hi rend="i">De lydende Heiland</hi></l>
+    <l>Zondaars! komt, wilt u be- keeren,</l>
+    <l>Komt met een bedrukt ge- moed,</l>
+    <l>'k Zal u met myn gunst vereeren,</l>
+    <l>En u zuivren in myn Bloed:</l>
+    <l>'k Wagt u met een groot ver- langen,</l>
+    <l>Stelt uw beter- nis niet</l>
+</lg>
+<pb n="63"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0052.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>uit:</l>
+    <l>Ik zal u met vreugd ont- vangen,</l>
+    <l>Komt dan tot een boetbe- sluit.</l>
+
+<l rend="; 2tab">2.</l>
+<l>'k Bied, in dees genadedagen,</l>
+<l rend="; 1tab">U nog myne ontferming aan:</l>
+<l>'t Is voorwaar myn grootst behaagen,</l>
+<l rend="; 1tab">Dat de zondaars tot my gaan.</l>
+<l>Ziet, wat bron vliet uit myn wonden,</l>
+<l rend="; 1tab">'t Is een bron van zaligheid:</l>
+<l>Wie nu aflegt zyne zonden,</l>
+<l rend="; 1tab">Wordt ten leeven voorbereid.</l>
+<l rend="; 2tab">3.</l>
+<l>Om uwe euveldaên te boeten,</l>
+<l rend="; 1tab">Foltert my het vloekgespuis:</l>
+<l>Ziet myn handen, ziet myn voeten,</l>
+<l rend="; 1tab">Vastgeklonken aan het Kruis.</l>
+<l>Gantsch doorwond van geesselslagen,</l>
+<l rend="; 1tab">En met doornen wreed gekroond,</l>
+<l>Wil 'k nogtans vergifnis vraagen</l>
+<l rend="; 1tab">Voor het moordrot, dat my hoont.</l>
+<l rend="; 2tab">4.</l>
+<l>Pyn, versmaading, bitterheden,</l>
+<l rend="; 1tab">Angst en droefheid zyn myn deel:</l>
+<l>Nadert dan met snelle schreeden</l>
+<l rend="; 1tab">Tot myns lydens treurtooneel.</l>
+<pb n="64"/>
+<l>Ik verlang met open' armen</l>
+<l rend="; 1tab">U te omhelzen tederlyk;</l>
+<l>'k Wil my over u erbarmen,</l>
+<l rend="; 1tab">U geleiden in myn Ryk.</l>
+<l rend="speaker"><hi rend="i">de Zondaar.</hi></l>
+<l rend="; 2tab">5.</l>
+<l>Heer, 'k kom op uw stem verschynen,</l>
+<l rend="; 1tab">In uw tegenwoordigheid:</l>
+<l>Ik ben oorzaak van die pynen,</l>
+<l rend="; 1tab">Door myn misdaên u bereid:</l>
+<l>Toch wilt gy me uw gunsten schenken,</l>
+<l rend="; 1tab">My omhelzen als uw' vriend!</l>
+<l>Ja myn kwaad niet meer gedenken;</l>
+<l rend="; 1tab">Nimmer heb ik dit verdiend.</l>
+<l rend="; 2tab">6.</l>
+<l>Uwe liefde, ô Heer der heeren!</l>
+<l rend="; 1tab">Lenigt myn versteend gemoed:</l>
+<l>Ylings wil ik my nu keeren</l>
+<l rend="; 1tab">Tot de heilbron van uw Bloed.</l>
+<l>Laat dit Zoenbloed my verstrekken,</l>
+<l rend="; 1tab">Tot een zuivrende artseny;</l>
+<l>Dat myn ziel, dan rein van vlekken,</l>
+<l rend="; 1tab">Aan u welbehaaglyk zy.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0031"/></interpGrp>
+<head rend="h3">XXXI.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Vexilla Regis.</head>
+<q rend="bq"><hi rend="i">Langzaam.</hi></q>
+<p><figure>
+<p><xptr to="_ver062verz01ill0053.gif"/></p>
+</figure></p>
+<lg type="poem">
+    <l>Des Konings Standaard komt uit 't duister;</l>
+    <l>'t Geheim des Kruizes glimt met lui- ster:</l>
+</lg>
+<pb n="65"/>
+<figure>
+<p><xptr to="_ver062verz01ill0054.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Waar op het le- ven voor ons stiert,</l>
+    <l>En 't le- ven door zyn' dood ver- wierf.</l>
+
+<l rend="; 2tab">2.</l>
+<l>De punt der speer kwam, om de zonden</l>
+<l>Des menschdoms, zyne Zy' doorwonden:</l>
+<l rend="; 1tab">Waar uit het Water sprong en 't Bloed,</l>
+<l rend="; 1tab">Ter zuivering van ons gemoed.</l>
+<l rend="; 2tab">3.</l>
+<l>'t Is nu volbragt, dat, lang te vooren,</l>
+<l>Ons Davids harplied had doen hooren:</l>
+<l rend="; 1tab">God heeft, (zoo als hy 't had voorzegd)</l>
+<l rend="; 1tab">Op 't hout geheerscht; de zaak beslecht.</l>
+<l rend="; 2tab">4.</l>
+<l>ô Boom, vol glans en heerlykheden,</l>
+<l>Bespreid met 's Konings purpren kleeden,</l>
+<l rend="; 1tab">Beschikt om 't Ligchaam van het Lam</l>
+<l rend="; 1tab">Van God te draagen aan uw' stam!</l>
+<l rend="; 2tab">5.</l>
+<l>Welzaalge schaal! aan welker armen,</l>
+<l>De Borg hing, die zich wil ontfarmen,</l>
+<l rend="; 1tab">Dat 's waerelds prys werd afbetaald,</l>
+<l rend="; 1tab">De prooi der helle weggehaald.</l>
+<l rend="; 2tab">6.</l>
+<l>ô Kruishout! bron van ons verblyden,</l>
+<l>U groeten we, in deez' tyd van 't lyden.</l>
+<l rend="; 1tab">Geef, Heer, den vroomen meer genaê,</l>
+<l rend="; 1tab">Den zondaar van zyn schuld ontslaa.</l>
+<pb n="66"/>
+<l rend="; 2tab">7.</l>
+<l>ô Bron des heils, Drieëenig Wezen!</l>
+<l>Word steeds van aller geest gepreezen:</l>
+<l rend="; 1tab">Wien gy door't Kruis de zege geeft,</l>
+<l rend="; 1tab">Maak, dat hy ook zyn loon eens heeft.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0032"/></interpGrp>
+<head rend="h3">XXXII.
+<lb/>
+De lydende Jesus.</head>
+<q rend="bq"><hi rend="i">Treurig.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0055.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Aanschouw, myn Ziel! aanschouw!</l>
+    <l>Hoe menschenliefde en trouw</l>
+    <l>Uw' Heiland heeft bewogen,</l>
+    <l>Daar Hy, als 't of- fer- lam,</l>
+    <l>Uit teder mede- do- gen,</l>
+    <l>Myn zon- den op zich nam.</l>
+    <l>Ach hoor zyn bange beê,</l>
+    <l>In 't droef Gethzema-</l>
+</lg>
+<pb n="67"/>
+<figure>
+<p><xptr to="_ver062verz01ill0056.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>né!</l>
+    <l>Zie hoe door 't angstig stry- den,</l>
+    <l>Zyn droefheid sterker groeit;</l>
+    <l>Zyn zweet aan al- le zy- den,</l>
+    <l>Als bloed op de aar- de vloeit.</l>
+
+<l rend="; 2tab">2.</l>
+<l rend="; 1tab">Wat smart! wat felle smart</l>
+<l rend="; 1tab">Treft zyn gevoelig hart!</l>
+<l>Een kusch moet hem verraaden,</l>
+<l rend="; 1tab">Van zyn' ontrouwen vrind;</l>
+<l>Hem, in wiens woord of daaden</l>
+<l rend="; 1tab">Men nimmer ontrouw vindt.</l>
+<l rend="; 1tab">Daar valt men de onschuld aan!</l>
+<l rend="; 1tab">Zie hem ter slagtbank gaan,</l>
+<l>Zyn waardste vrienden wyken.</l>
+<l rend="; 1tab">Die met hem sterven zou,</l>
+<l>Voelt thans zyn' moed bezwyken,</l>
+<l rend="; 1tab">By 't vraagen van een vrouw.</l>
+<l rend="; 2tab">3.</l>
+<l rend="; 1tab">Hy staat, en zwygt..... hy staat,</l>
+<l rend="; 1tab">Daar ieder hem verlaat,</l>
+<l>Beschuldigd, en beloogen,</l>
+<l rend="; 1tab">Gegeesseld, en bespot,</l>
+<l>Versmaad, veracht, bespoogen,</l>
+<pb n="68"/>
+<l rend="; 1tab">Geduldig in zyn lot;</l>
+<l rend="; 1tab">Met doornen wreed gekroond.</l>
+<l rend="; 1tab">Ten spot aan 't volk vertoond,</l>
+<l>Veroordeeld, en geslagen,</l>
+<l rend="; 1tab">(Vondt dit ooit wedergaê!)</l>
+<l>Moet Hy zyn kruis nog draagen</l>
+<l rend="; 1tab">Naar 't aaklig Golgotha.</l>
+<l rend="; 2tab">4.</l>
+<l rend="; 1tab">'t Geween, het droef geween</l>
+<l rend="; 1tab">Der Vrouwen om hem heen,</l>
+<l>Wekt nog zyn mededogen....</l>
+<l rend="; 1tab">Hy nadert.... Zie hoe wreed</l>
+<l>Wordt daar, voor aller oogen,</l>
+<l rend="; 1tab">Myn Heiland naakt omkleed;</l>
+<l rend="; 1tab">Op 't kruishout uitgestrekt,</l>
+<l rend="; 1tab">'t Gemarteld lyf gerekt!</l>
+<l>Ach! hoor de hamerslagen!</l>
+<l rend="; 1tab">Dat knarst door hand en voet,</l>
+<l>En nog geen woord te klaagen.....</l>
+<l rend="; 1tab">Bezef, wat liefde doet!</l>
+<l rend="; 2tab">5.</l>
+<l rend="; 1tab">Dat treft! ô God! dat treft!</l>
+<l rend="; 1tab">Zie, hoe men 't kruis verheft,</l>
+<l>Waar aan hy, vast geklonken,</l>
+<l rend="; 1tab">Nog voor zyn beulen smeekt,</l>
+<l>En 't hart, in rouw verzonken,</l>
+<l rend="; 1tab">Als Midd'laar, zalig spreekt,</l>
+<l rend="; 1tab">Nog deelt zyn teder hart,</l>
+<l rend="; 1tab">In 's Moeders stille smart.</l>
+<l>'t Wordt nacht! dit doet my beeven!</l>
+<l rend="; 1tab">Hoe klimt zyn angst en wee!</l>
+<l>Zou God hem nu begeeven?</l>
+<l rend="; 1tab">Neen! Hy verhoort zyn beê.</l>
+<l rend="; 2tab">6.</l>
+<l rend="; 1tab">Met kragt, met groote kragt,</l>
+<l rend="; 1tab">Roept Jesus: 't is volbragt!</l>
+<pb n="69"/>
+<l>Hy komt zyn sterfuur nader.</l>
+<l rend="; 1tab">Nu roept Hy, onbevreesd:</l>
+<l>In uwe hand, ô Vader!</l>
+<l rend="; 1tab">Beveel ik mynen geest:</l>
+<l rend="; 1tab">Hy buigt zyn hoofd, en sterft:</l>
+<l rend="; 1tab">Die 't leven ons verwerft,</l>
+<l>Hy, wien ons onheil griefde,</l>
+<l rend="; 1tab">Legt, draagende onze straf,</l>
+<l>Uit onbegrensde liefde,</l>
+<l>Vrywillig 't leven af.</l>
+<l rend="; 2tab">7.</l>
+<l rend="; 1tab">Hoe groot! hoe godlyk groot,</l>
+<l rend="; 1tab">Toont, zelfs in smart en dood,</l>
+<l>Vorst Jesus al zyn waarde!</l>
+<l rend="; 1tab">Myn Heiland! laat voordaan,</l>
+<l>Al wat gy leedt op aarde,</l>
+<l rend="; 1tab">My steeds voor oogen staan.</l>
+<l rend="; 1tab">Gy sterft dan ook voor my,</l>
+<l rend="; 1tab">Uw lyden maakt me vry,</l>
+<l>Aan uwen dienst geheiligd,</l>
+<l rend="; 1tab">Verlost van schuld en straf,</l>
+<l>Zie ik, door u beveiligd,</l>
+<l rend="; 1tab">Gerust op dood en graf.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0033"/></interpGrp>
+<pb n="70"/>
+<head rend="h3">XXXIII.
+<lb/>
+<hi rend="i">De Treurzang</hi> Stabat Mater.</head>
+<q rend="bq"><hi rend="i">Koorzang. Treurig.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0057.gif"/></p>
+</figure>
+<lg type="poem">
+<l>'s Heilands Moeder, droef te moede,</l>
+    <l>Stondt by 't kruis, waar haar be- bloede</l>
+    <l>En door- won- de Zoon aan hing:</l>
+    <l>Door wier ziel, terwyl zy steende,</l>
+    <l>Zugtte, klaagde, kermde, weende,</l>
+<l>'t Zwaard van druk en smarte ging.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Ach! hoe droevig, hoe vol rouwe,</l>
+<l>Was die zegenrykste Vrouwe,</l>
+<l rend="; 1tab">Moeder van Gods een'gen Zoon!</l>
+<l>Zy, die met benaauwden harte,</l>
+<l>Beevende, aanzag all' de smarte</l>
+<l rend="; 1tab">Van haar Vrugt, by God zo schoon?</l>
+<pb n="71"/>
+<l rend="; 2tab">3.</l>
+<l>Wie zou zig van traanen myden,</l>
+<l>Ziende in zulk een bitter lyden</l>
+<l rend="; 1tab">Christus waarde Moeder? ach!</l>
+<l>Wie, toch, zou zig niet bedroeven,</l>
+<l>Zo hy haar dien weedom proeven,</l>
+<l rend="; 1tab">Om den Zoon zo angstig, zag?</l>
+<l rend="; 2tab">4.</l>
+<l>Om zyns Volks, om aller zonden,</l>
+<l>Zag zy Jesus vol van wonden,</l>
+<l rend="; 1tab">Geesselstraamen zonder tal.</l>
+<l>Zy zag haaren Zoetgebooren'</l>
+<l>Sterven, na dat hy te vooren</l>
+<l rend="; 1tab">Zynen Geest aan God beval.</l>
+<l rend="; 2tab">5.</l>
+<l>Och, ô Moeder, bron van liefde</l>
+<l>Of gy ook myn hart doorgriefde!</l>
+<l rend="; 1tab">Maak, dat ik ook met u klaag'.</l>
+<l>Wil myn dorre hart aanranden,</l>
+<l>Doe 't in Christus liefde branden,</l>
+<l rend="; 1tab">Dat ik mynen God behaag'.</l>
+<l rend="; 2tab">6.</l>
+<l>Heil'ge Moeder, druk te samen</l>
+<l>All' de wonden, all' de straamen</l>
+<l rend="; 1tab">Des Gekruisten, in myn hart:</l>
+<l>Laat ik zo veel treurtooneelen,</l>
+<l>Zyn kwetsuuren, met u deelen;</l>
+<l rend="; 1tab">Voor my leedt hy all' die smart.</l>
+<l rend="; 2tab">7.</l>
+<l>Dat ik waarlyk met u steene,</l>
+<l>En om den Gekruiste weene,</l>
+<l rend="; 1tab">Zo lang als ik leeven zal.</l>
+<l>Ja, laat ik met u staan schreijen,</l>
+<l>En gewilliglyk verbeijen</l>
+<l rend="; 1tab">Onder 't Kruis, en overäl.</l>
+<pb n="72"/>
+<l rend="; 2tab">8.</l>
+<l>Maagd, der Maagden uitgeleezen',</l>
+<l>Wil my nu niet bitter weezen,</l>
+<l rend="; 1tab">Maak, dat 'k met u weene en zugt'.</l>
+<l>Laat ik in my, all' myn dagen,</l>
+<l>Christus dood en wonden draagen,</l>
+<l rend="; 1tab">Die gedenken steeds, met vrugt.</l>
+<l rend="; 2tab">9.</l>
+<l>Maak, dat ik in zyne wonden,</l>
+<l>In zyn' Kruisdood, zy verstonden,</l>
+<l rend="; 1tab">Om de Liefde van uw' Zoon.</l>
+<l>Wil my in Gods Liefde voeden,</l>
+<l>Reine Maagd, en my behoeden</l>
+<l rend="; 1tab">In het Oordeel, voor Gods troon.</l>
+<l rend="; 2tab">10.</l>
+<l>Dat alsdan het Kruis my dekke,</l>
+<l>Christus dood ten schild verstrekke,</l>
+<l rend="; 1tab">En hy my genaê bewyz'.</l>
+<l>Maak, als 't Ligchaam komt te sterven,</l>
+<l>Dat myn ziel, hierna, moge erven</l>
+<l rend="; 1tab">De eeuw'ge vreugd van 't Paradys.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0034"/></interpGrp>
+<head rend="h2">Gezangen in den Paaschtijd.</head>
+<head rend="h3">XXXIV.</head>
+<q rend="bq"><hi rend="i">Vrolyk.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0058.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Glo- rie- ry- ke dag!</l>
+    <l>Gy brengt ons vreugdestraalen;</l>
+    <l>Al het weege- klag</l>
+    <l>Houdt op voor uw gezigt,</l>
+    
+    
+</lg>
+<pb n="73"/>
+<figure>
+<p><xptr to="_ver062verz01ill0059.gif"/></p>
+</figure>
+<lg type="poem">
+
+    <l>Uwe ontluiking mag</l>
+    <l>Met won- der- he- den praalen</l>
+    <l>Die, met diep ont-zag,</l>
+    <l>Wy zien door God verrigt:</l>
+    <l>Jesus, 'tleevens- licht,</l>
+    <l>Heeft onze hoop gestigt:</l>
+    <l>Die om ons was ter dood gebragt,</l>
+    <l>Her-leeft nu door zyne eigen kracht:</l>
+    <l>Hy verwint den dood.</l>
+    <l>O zege wonder- groot!</l>
+
+    <pb n="74"/>
+
+<l>Looft, ô Christenschaar!</l>
+<l>'t Lam, dat voor onze zonden</l>
+<l>Op het Zoenaltaar</l>
+<l>Ten offer is geslagt:</l>
+<l>Pryst den Middelaar,</l>
+<l>En wilt zyn' lof verkonden;</l>
+<l>Hy heeft ons voorwaar</l>
+<l>Het leeven toegebragt:</l>
+<l>Door zyn sterke kracht,</l>
+<l>Heeft hy de helsche magt</l>
+<l>Vernield, hy heeft den dood geveld,</l>
+<l>En onze levenshoop hersteld:</l>
+<l>Ziet hoe heilryk is</l>
+<l>Dan zyn Verryzenis</l>
+<l rend="; 1tab">3.</l>
+<l>Treedt nu toe met spoed;</l>
+<l>En komt dit Paaschlam eeren,</l>
+<l>Dat ons door zyn Bloed</l>
+<l>Van 's doods geweld bevrydt.</l>
+<l>Ieder Christen moet.</l>
+<l>Het zuurdeeg uit zig weeren,</l>
+<l>Dat met 't zielezoet</l>
+<l>Van 's Heilands Paaschdisch strydt,</l>
+<l>Om in deezen tyd,</l>
+<l>Die 't gantsch Heeläl verblydt,</l>
+<l>Te nutten 't heilig Englenbrood</l>
+<l>Voor zyner ziele hongersnood,</l>
+<l>Met een zuiver hart,</l>
+<l>Van zondelust ontward.</l>
+<l rend="; 1tab">4.</l>
+<l>Deeze Hemeldisch</l>
+<l>Zal onze ziel hier geeven,</l>
+<l>Dat ze uwe ervenis</l>
+<l>Hierna, ô Heer, verwagt.</l>
+<pb n="75"/>
+<l>Haar behoudenis</l>
+<l>Is, steeds voor u te leeven,</l>
+<l>In de erkentenis</l>
+<l>Van uwe groote magt,</l>
+<l>Die der zonden nagt</l>
+<l>Gantsch heeft te niet gebragt.</l>
+<l>De klaare Zon is opgegaan,</l>
+<l>Die onze ziel in 't licht doet staan.</l>
+<l>Zy is 't, die ons leidt</l>
+<l>Naar 't heil, dat Ge ons bereidt,</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0035"/></interpGrp>
+<head rend="h3">XXXV.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. VII. <hi rend="i">bladz.</hi> 15.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0060.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Daar nu verreezen is Gods Zoon,</l>
+    <l>Juicht op een' hoogen vreugde-toon.</l>
+    <l>Na dat hy is ter dood ge- leid,</l>
+    <l>Leeft hy in op- per- heerlykheid.</l>
+    <l>Al- le- lu- ja. Al- le- lu- ja.</l>
+    
+<pb n="76"/>
+
+<l rend="; 1tab">2.</l>
+<l>Zegt nu den Doodverwinner dank.</l>
+<l>Verheft uw stem met lofgeklank:</l>
+<l>De Hemel zingt, door Hem verblyd;</l>
+<l>Al de aarde juiche op deezen tyd,</l>
+<l rend="; 1tab">Alleluja. Alleluja.</l>
+<l rend="; 1tab">3.</l>
+<l>Terwyl de hel, al siddrend', kermt,</l>
+<l>En hy zig over ons ontfermt,</l>
+<l>Zien we ons verlost door Kruis en Kroon</l>
+<l>Van Jesus, d'Allerhoogstens Zoon.</l>
+<l rend="; 1tab">Allelnja. Alleluja.</l>
+<l rend="; 1tab">4.</l>
+<l>ô Magdalena! ween nu niet,</l>
+<l>Uw Jesus leeft, staak uw verdriet:</l>
+<l>Hy leeft, die u en ons verheugt,</l>
+<l>Kom, juich met ons, vol zielevreugd.</l>
+<l rend="; 1tab">Alleluja. Alleluja.</l>
+<l rend="; 1tab">5.</l>
+<l>Juicht ook, gy, trouwe Apostlenschaar!</l>
+<l>Uw Meester leeft, hy leeft voorwaar;</l>
+<l>Hy leeft, zo als hy hadt voorzeid:</l>
+<l>In Galilee wordt gy verbeid.</l>
+<l rend="; 1tab">Alleluja. Alleluja.</l>
+<l rend="; 1tab">6.</l>
+<l>Disciplen, gy, die vroeg en spaê</l>
+<l>Hem hoorde en volgde, komt nu dra;</l>
+<l>Hy is verreezen vol van gloor:</l>
+<l>Komt, volgt hem; hy gaat u reeds voor.</l>
+<l rend="; 1tab">Alleluja. Alleluja.</l>
+<l rend="; 1tab">7.</l>
+<l>Gy Mensch, die reeds de zondepaên</l>
+<l>Verlaaten hebt, blyf nu niet staan,</l>
+<l>Dewyl ge, als nieuw, verreezen zyt,</l>
+<l>Volg mede, en wees niet min verblyd.</l>
+<l rend="; 1tab">Alleluja, Alleluja.</l>
+<pb n="77"/>
+<l rend="; 2tab">8.</l>
+<l>ôHeiland! die door uwen dood</l>
+<l>Den mensch gered hebt uit zyn' nood:</l>
+<l>Maak ons zo tot uw' dienst bereid,</l>
+<l>Dat wy u zien in de eeuwigheid.</l>
+<l rend="; 1tab">Alleluja, Alleluja.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0036"/></interpGrp>
+<pb n="78"/>
+<head rend="h3">XXXVI</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XXXI. <hi rend="i">bladz.</hi> 64.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0062.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Zou ooit des Heilands dood en lyden</l>
+    <l>Den mensch van straf en dood be- vryden,</l>
+    <l>Hy die voor ons zyn le- ven gaf,</l>
+    <l>Moest weêr ver- ry- zen uit het graf.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Laat vry een steen zyn grafplaats sluiten,</l>
+<l>Een sterke wagt verdenking sluiten,</l>
+<l rend="; 1tab">Gods Almagt wordt geen perk gesteld,</l>
+<l rend="; 1tab">Zy overwint des doods geweld.</l>
+<l rend="; 2tab">3.</l>
+<l>Vroeg, als het pas begint te lichten,</l>
+<l>Wil vriendschap nog de laatste pligten</l>
+<l rend="; 1tab">Aan Hem bewyzen, stom van rouw,</l>
+<l rend="; 1tab">ô! Hoe verschrikt de droeve vrouw,</l>
+<pb n="79"/>
+<l rend="; 2tab">4.</l>
+<l>Ach! roept zy, treurig en verslagen:</l>
+<l>Men heeft het lighaam weggedragen!</l>
+<l rend="; 1tab">Neen! dus spreekt haar Gods Engel aan:</l>
+<l rend="; 1tab">Neen niet: de Heer is opgedaan.</l>
+<l rend="; 2tab">5.</l>
+<l>Zy kan haare oogen naauw gelooven,</l>
+<l>'t Gaat al, wat zy ooit dacht, te boven;</l>
+<l rend="; 1tab">Tot zy haar' Meester zelven ziet,</l>
+<l rend="; 1tab">En Hem verrukt haar' hulde biedt.</l>
+<l rend="; 2tab">6</l>
+<l>Om allen twyfel af te weeren,</l>
+<l>Bleef Jesus nog op de aard' verkeeren;</l>
+<l rend="; 1tab">Zo dat zich elk verzeek'ren kon,</l>
+<l rend="; 1tab">Dat Hy de magt des doods verwon.</l>
+<l rend="; 2tab">7.</l>
+<l>Nu is ons heil ten top gerezen,</l>
+<l>Daar 't onbetwistbaar is bewezen,</l>
+<l rend="; 1tab">Dat Hy, die ons ten Midd'laar strekt,</l>
+<l rend="; 1tab">Reeds uit den dood is opgewekt.</l>
+<l rend="; 2tab">8.</l>
+<l>Wat zou ons nu den dood doen schroomen,</l>
+<l>Daar hem de prikkel is benomen?</l>
+<l rend="; 1tab">Wat vreest een Christen 't duister graf;</l>
+<l rend="; 1tab">Hy leeft die de overwinning gaf.</l>
+<l rend="; 2tab">9.</l>
+<l>Laat dan het stof myn lighaam dekken,</l>
+<l>Gods Almagt zal het eens verwekken;</l>
+<l rend="; 1tab">Dan roem ik Hem, die eeuwig leeft;</l>
+<l rend="; 1tab">Die graf en dood verwonnen heeft.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0037"/></interpGrp>
+<pb n="80"/>
+<head rend="h3">XXXVII.</head>
+<q rend="bq"><hi rend="i">Maatig vrolyk.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0063.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Staak nu, myn ziel! uw droevig klaagen;</l>
+    <l>Laat af van Weege- klag, en schrei niet meer:</l>
+    <l>Geen treurzang voegt in dee- ze dagen;</l>
+<l>Na droefheid komt de blydschap glansryk weêr:</l>
+    <l>Die onlangs wreedelyk door 't rot der Jooden</l>
+    <l>Mishandeld, en aan't schandhout was ver- moord</l>
+</lg>
+<pb n="81"/>
+<figure>
+<p><xptr to="_ver062verz01ill0064.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Is luister- vol ver- reezen van de dooden:</l>
+<l>Juich dan, myn ziel! ter- wyl gy zulks nu hoort.</l>
+
+<l rend="; 1tab">2.</l>
+<l>Een Engel daalt met kragt van boven,</l>
+<l>Hy nadert tot den ingang van het graf;</l>
+<l>Hy heeft den grafsteen weggeschooven,</l>
+<l>Hy wentelde dien van den ingang af.</l>
+<l>De wagters, door de vrees, gelyk als dooden,</l>
+<l>Verslaagen, vlugten weg van hunne wagt;</l>
+<l>Zy gaan ter steê verkondigen, als boden,</l>
+<l>Dat Jesus is verreezen in den nagt.</l>
+<l rend="; 1tab">3.</l>
+<l>Geen zegel kon den grafsteen sluiten,</l>
+<l>Gods kragt dringt door het harde marmer heen;</l>
+<l>Geen krygsman kon zyn' uitgang stuiten,</l>
+<l>Schoon dat hy stondt gewapend by den steen:</l>
+<l>Dus wilt gy vrugteloos, ô moordenaaren,</l>
+<l>Hem, die de opstanding en het leeveu is,</l>
+<l>Met al uw snood beleid in 't graf bewaaren.</l>
+<l>Alle aanslag tegen God vervalt gewis.</l>
+<l rend="; 1tab">4.</l>
+<l>Men hoort wel vait een Phoenix roemen,</l>
+<l>Die na zyn' dood herleeft weêr uit zyn asch;</l>
+<l>Doch dit 's by Jesus niet te noemen,</l>
+<l>Want hy herleeft glansryker dan hy was:</l>
+<l>Hy stierf, maar zal den dood niet weder smaaken;</l>
+<l>Hy heeft vernietigd zy'n geweld en magt:</l>
+<pb n="82"/>
+<l>De dood kan hem aan 't leeven niet weêr raaken;</l>
+<l>Laat vry de nyd inspannen alle kragt.</l>
+<l rend="; 1tab">5.</l>
+<l>Hy, die zig kon den dood onttrekken,</l>
+<l>Zal ook, gelyk zyn opstaan zulks belooft,</l>
+<l>Ons namaals van den dood verwekken;</l>
+<l>De leden zullen leeven met hun Hoofd.</l>
+<l>Wie na de opstanding dan wil eeuwig leeven,</l>
+<l>Die staa by tyds af van het zondig kwaad.</l>
+<l>Aan dien alleen zal Jesus 't leeven geeven,</l>
+<l>Een leeven, dat begint, als 't al vergaat.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0038"/></interpGrp>
+<head rend="h3">XXXVIII.
+<lb/>
+<hi rend="i">Navolging van den Paaschzang</hi>, ô Filii et Filiae.</head>
+<q rend="bq"><hi rend="i">Koorzang</hi>.</q>
+<figure>
+<p><xptr to="_ver062verz01ill0065.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>O Zoons en Dochters! zingt, de Heer</l>
+    <l>Ligt in het duister graf niet meer.</l>
+    <l>De Koning van het Hemelhof</l>
+    <l>Verrees uit Graf en stof.</l>
+    <l>Al- le- lu- ja, Al- le- lu- ja,</l>
+    <l>Looft God. Al- le- lu- ja.</l>
+    
+<pb n="83"/>
+
+<l rend="; 2tab">2.</l>
+<l>Vroeg 's morgens na den Sabbathdag,</l>
+<l>Kwam aan het graf, waar in hy lag,</l>
+<l rend="; 1tab">Een tweetal zyner jongren aan;</l>
+<l rend="; 1tab">Doch hy was opgestaan.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">3.</l>
+<l>Terwyl Maria Magdaleen,</l>
+<l>Dáár mee Salome vroeg verscheen,</l>
+<l rend="; 1tab">Ter zalving van des Heilands Lyk,</l>
+<l rend="; 1tab">ô Welk een liefdeblyk!</l>
+<l>Alleluja, Alleluja, Loofc God, Alleluja.</l>
+<l rend="; 2tab">4.</l>
+<l>Een Engel, in een sneeuwwit kleed,</l>
+<l>Zeide aan de Vrouwen voort: ‘ei weer,’</l>
+<l rend="; 1tab">Hy ging u reeds, ziet daar het spoor,</l>
+<l rend="; 1tab">In Galilea voor.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">5.</l>
+<l>Joannes, Jesus lieveling,</l>
+<l>Die sneller nog dan Petrus ging,</l>
+<l rend="; 1tab">Kwam vroeger, door zyn drift in 't gaan,</l>
+<l rend="; 1tab">Aan 's Heeren grafstede aan.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">6.</l>
+<l>In 't midden der Apostlenschaar,</l>
+<l>Stond Christus, onze Heiland, dáár,</l>
+<l rend="; 1tab">En zei: (wat klonk dit aangenaam!)</l>
+<l rend="; 1tab">'k Geef u den vreê te saêm.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">7.</l>
+<l>Toen dit aan Thomas wierd gezegd,</l>
+<l>Zei deeze, aan ongeloof gehecht:</l>
+<l rend="; 1tab">'k Geloof niets van dees wondre zaak,</l>
+<l rend="; 1tab">Ten zy 'k hem zie en raak'.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<pb n="84"/>
+<l rend="; 2tab">8.</l>
+<l>Zie, Thomas! zie myn handen aan,</l>
+<l>Wil de uwen in myn zyde slaan,</l>
+<l rend="; 1tab">En wees niet ongeloovig meer;</l>
+<l rend="; 1tab">Maar zie en ken uw' Heer.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">9.</l>
+<l>Toen Thomas, als by heldren dag,</l>
+<l>Zyns Meesters diepe wonden zag,</l>
+<l rend="; 1tab">Riep hy, (ô welk een zalig lot!)</l>
+<l rend="; 1tab">Gy zyt myn Heer, myn God!</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">10.</l>
+<l>Welzalig zy, die, zonder zien,</l>
+<l>'t Geloovig hart den Heere biên:</l>
+<l rend="; 1tab">Het leven in alle eeuwigheid,</l>
+<l rend="; 1tab">Is voor hun toebereid.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">11.</l>
+<l>Elk toon' nu, op dit heiligst Feest,</l>
+<l>De zuivre blydschap van zyn' geest.</l>
+<l rend="; 1tab">Den Koning van het Hemelhof</l>
+<l rend="; 1tab">Zinge elk den blydsten lof.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+<l rend="; 2tab">12.</l>
+<l>Dat nu ons klinkend stemgeluid,</l>
+<l>Met eerbied, onzen dankzang uit'.</l>
+<l rend="; 1tab">D'algoeden God en Opperheer,</l>
+<l rend="; 1tab">Zy eeuwig roem en eer.</l>
+<l>Alleluja, Alleluja, Looft God, Alleluja.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0039"/></interpGrp>
+<pb n="85"/>
+<head rend="h3">XXXIX.</head>
+<q rend="bq"><hi rend="i">Korzang.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0066.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Gods Kerk op de aarde is thans verheugd,</l>
+    <l>Zy weke haar kindren op tot vreugd;</l>
+    <l>Zy looft den Heiland vroeg en spaê,</l>
+    <l>Met haaren zang Al- le- lu- ja.</l>
+
+<l rend="; 1tab">2.</l>
+<l>Want heden is 't die blyde dag,</l>
+<l>Dien David in den geest voorzag,</l>
+<l>Een Feestdag zonder wedergaê:</l>
+<l>Juicht Christnen! juicht. Alleluja.</l>
+<l rend="; 1tab">3.</l>
+<l>Dewyl Gods Zoon is opgestaan;</l>
+<l>Heft hem ter eere een danklied aan</l>
+<l>En zingt, al juichend', voor en na,</l>
+<l>Den vreugdezang Alleluja.</l>
+<l rend="; 2tab">4.</l>
+<l>De sterke Leeuw uit Juda's stam,</l>
+<l>Die, als een teder Offerlam,</l>
+<l>Het leeven liet op Golgotha,</l>
+<l>Herneemt het nu. Alleluja.</l>
+<pb n="86"/>
+<l rend="; 1tab">5.</l>
+<l>Hy was om ops ter dood gebrag.</l>
+<l>Nu heeft hy zelf den dood ontkragt,</l>
+<l>En zegepraalende onze schaê</l>
+<l>Geheel hersteld. Alleluja.</l>
+<l rend="; 1tab">6.</l>
+<l>De Held van 't nieuw Verbond herleeft,</l>
+<l>Daar de aarde voor zyn aanschyn beeft,</l>
+<l>De grafbewaakers vliên weldra,</l>
+<l>Van angst en schrik. Alleluja.</l>
+<l rend="; 1tab">7.</l>
+<l>Verlaat, ô zondaar! 't zondegraf.</l>
+<l>En leg den ouden mensch nu af:</l>
+<l>Op dat uw ziel den dood ontgaa,</l>
+<l>En eindloos leeve. Alleluja,</l>
+<l rend="; 1tab">8.</l>
+<l>In eeuwigheid zy lof en eer</l>
+<l>Aan Jesus, onzen Opperheer!</l>
+<l>Wy danken hem voor zyn genaê</l>
+<l>Nu en altoos. Alleluja.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0040"/></interpGrp>
+<head rend="h3">XL.</head>
+<q rend="bq"><hi rend="i">Gemaatigd</hi>.</q>
+<figure>
+<p><xptr to="_ver062verz01ill0067.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Nyd, wat baat u, dus te woeden.</l>
+    <l>En zo dwaaslyk te ver-moeden,</l>
+    <l>Dat gy sluiten zoudt in 't</l>
+</lg>
+<pb n="87"/>
+<figure>
+<p><xptr to="_ver062verz01ill0068.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>graf</l>
+    <l>Hem, die, zo het is ge- bleeken,</l>
+    <l>Voor elks oog, ten almagts- te- ken,</l>
+    <l>Aan de dooden 't lee- ven gaf?</l>
+
+<l rend="; 2tab">2.</l>
+<l>Wagters, gaat met snelle schreeden,</l>
+<l>Zegt, dat hy, die heeft geleeden,</l>
+<l rend="; 1tab">Van den dood is opgestaan:</l>
+<l>Zegt, dat, toen gy hem bewaakte,</l>
+<l>En geen slaap uw oog genaakte,</l>
+<l rend="; 1tab">Hy het graf is uitgegaan,</l>
+<l rend="; 2tab">3.</l>
+<l>Vrouwen, rust vry met uw kruiden,</l>
+<l>Voortgebragt in 't vrugtbaar zuiden;</l>
+<l rend="; 1tab">Al is 't vroeg, gy komt te laat,</l>
+<l>Hy is voor de zon verreezen,</l>
+<l>Met een onbederflyk weezen:</l>
+<l rend="; 1tab">Balsem komt hier niet te staad'.</l>
+<l rend="; 2tab">4.</l>
+<l>Waar zyn nu, ô dood, uw kragten?</l>
+<l>Waar uw prikkel, waar uw magten?</l>
+<l rend="; 1tab">Hier vindt gy nu zelf uw' dood.</l>
+<pb n="88"/>
+<l>Wil voortaan uw praal dan staaken,</l>
+<l>Jesus, die den dood kwam smaaken,</l>
+<l>Heeft u van uw kragt ontbloot.</l>
+<l rend="; 2tab">5.</l>
+<l>Hy heeft door zyn' dood verslaagen</l>
+<l>Hem, die door zyn zielelaagen</l>
+<l rend="; 1tab">Het gebied des dood? behieldt.</l>
+<l>'t Slangegif, de helsche magten,</l>
+<l>Die 't bederf in Adam bragten;</l>
+<l rend="; 1tab">Heeft hy door zyn' dood vernield.</l>
+<l rend="; 2tab">6.</l>
+<l>Thans praalt gy, ô Vorst, van 't leeven!</l>
+<l>Waar wierdt ooit gemeld, geschreeven</l>
+<l rend="; 1tab">Van een' Held, gelyk gy zyt?</l>
+<l>Wie kon 's duivels magten temmen,</l>
+<l>En der helle listen stremmen?</l>
+<l rend="; 1tab">Wie ging met den dood ten stryd?</l>
+<l rend="; 2tab">7.</l>
+<l>Zwigt nu, Cesars, Alexanders,</l>
+<l>Overwinnaars van krygstanderts,</l>
+<l rend="; 1tab">En van menige aardsche magt:</l>
+<l>Jesus, die ter hulpe snelde,</l>
+<l>Is het, die den duivel velde,</l>
+<l rend="; 1tab">En den dood ten onder bragt.</l>
+<l rend="; 2tab">8.</l>
+<l>U zy lof door duizend monden,</l>
+<l>Jesus, die vopr onze zonden</l>
+<l rend="; 1tab">Aan het kruis gestorven zyt,</l>
+<l>En nu uit het graf verreezen:</l>
+<l>Eeuwig moet gy zyn gepreezen,</l>
+<l rend="; 1tab">Die ons yan den dood bevrydt.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0041"/></interpGrp>
+<pb n="89"/>
+<head rend="h2">Gezangen op den Hemelvaartsdag.</head>
+
+<div type="section">
+<head rend="h3">XLI.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>, VIII. <hi rend="i">bladz</hi>. 16. of N<hi rend="sup">o</hi>. X. <hi rend="i">bladz.</hi> 20.</head>
+<lg type="poem">
+<l><hi rend="b">N</hi>a dat Jesus hadt gegeeten</l>
+<l rend="; 1tab">By de zynen, die, verbaasd,</l>
+<l>Zonder van zyn komst te weeten,</l>
+<l rend="; 1tab">Hem beschouwden voor het laatst,</l>
+<l rend="; 1tab">Sprak hy: wat in Moises wet,</l>
+<l rend="; 1tab">Al wat by 't Profeetental</l>
+<l rend="; 1tab">Van myn' uitgang staat, moest net</l>
+<l rend="; 1tab">Zo volbragt zyn heel en al.</l>
+<l rend="; 2tab">2.</l>
+<l>Alzo moest de Christus lyden</l>
+<l rend="; 1tab">Wat men daar geschreeven vindt:</l>
+<l>(Vol verwondring, vol verblyden</l>
+<l rend="; 1tab">Hoorden zy, die hen zo mint:)</l>
+<l rend="; 1tab">'k Gaa, zegt hy hun, gy verwagt</l>
+<l rend="; 1tab">Dra de gift', blyft steeds gereed</l>
+<l rend="; 1tab">In de stad, tot gy met kragt</l>
+<l rend="; 1tab">Van hier boven zyt bekleed.</l>
+<l rend="; 2tab">3.</l>
+<l>Jesus leidde hen naar buiten,</l>
+<l rend="; 1tab">In Bethanie, en aldaar</l>
+<l>Scheidde hy: ach! wie zal uiten</l>
+<l rend="; 1tab">'t Wee van zyn geliefde schaar'?</l>
+<pb n="90"/>
+<l rend="; 1tab">Hy hief zyne handen op,</l>
+<l rend="; 1tab">Zegende elk: een wolk zeer digt</l>
+<l rend="; 1tab">Voerde hem ten hemeltop,</l>
+<l rend="; 1tab">Nam hem dra uit hun gezigt.</l>
+<l rend="; 2tab">4.</l>
+<l>Toen zy zagen hem omspannen</l>
+<l rend="; 1tab">Door de wolk, ten trans gesmeed,</l>
+<l>Zie, zo stonden 'er twee mannen</l>
+<l rend="; 1tab">By hen, in het wit gekleed;</l>
+<l rend="; 1tab">Zeggend', wat staat gy en ziet?</l>
+<l rend="; 1tab">Die nu opgenomen is,</l>
+<l rend="; 1tab">Zal, gelyk hier is geschied,</l>
+<l rend="; 1tab">Nog eens komen, ja gewis,</l>
+<l rend="; 2tab">5.</l>
+<l>Hy was uit het oog verdweenen</l>
+<l rend="; 1tab">Van hun allen, die, verrukt,</l>
+<l>Na dat de Englen hun verscheenen,</l>
+<l rend="; 1tab">Loofden, nederwaart gebukt:</l>
+<l rend="; 1tab">Vol van hart- en zielgeneugt',</l>
+<l rend="; 1tab">Knielden ze en aanbaden hem,</l>
+<l rend="; 1tab">Keerden samen, gantsch verheugd,</l>
+<l rend="; 1tab">Weder naar Jerusalem.</l>
+<l rend="; 2tab">6.</l>
+<l>Wyl gy, Heer, zult wederkomen,</l>
+<l rend="; 1tab">Vol van glans en majesteit,</l>
+<l>Om den kwaaden en den vroomen,</l>
+<l rend="; 1tab">Zo als gy ons hebt voorzeid,</l>
+<l rend="; 1tab">Loon naar werk te geeven: ach!</l>
+<l rend="; 1tab">Geef, dat we in uw liefde staan;</l>
+<l rend="; 1tab">Heer, bescherm ons tot dien dag,</l>
+<l rend="; 1tab">Op dat wy ter vreugde ingaan.</l>
+
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0042"/></interpGrp>
+<pb n="91"/>
+<head rend="h3">XLII.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XXXIX. <hi rend="i">bladz</hi>. 85,</head>
+<lg type="poem">
+<l><hi rend="b">T</hi>oen Jesus, na verryzenis,</l>
+<l>Den zynen weêr verscheenen is,</l>
+<l>Was schrik en vreugde beurtlings groot,</l>
+<l>Zy scheenen als van licht ontbloot.</l>
+<l rend="; 1tab">2.</l>
+<l>Gedenk, dat hy in Galileen</l>
+<l>Reeds hadt voorzegd, met klaare reên,</l>
+<l>Dat hy den dood zoude ondergaan,</l>
+<l>Ten derden dag weêr op zou staan.</l>
+<l rend="; 1tab">3.</l>
+<l>Als hy met twee in Emmaus sprak,</l>
+<l>En dat, toen hy het brood hun brak,</l>
+<l>Men hem erkende, (ô welk een wond!)</l>
+<l>Was hy uit hun gezigt terstond.</l>
+<l rend="; 1tab">4.</l>
+<l>Doch, zeer verheugd van dit gezigt,</l>
+<l>Zy deeden de elf hier van berigt:</l>
+<l>Als die, verbaasd, dit hoorden aan,</l>
+<l>Kwam Jesus daar in 't midden staan.</l>
+<l rend="; 1tab">5.</l>
+<l>Zy meenden, 't was een geest misschien,</l>
+<l>Doch Jesus liet zyn wonden zien:</l>
+<l>Hy vroeg, toen 't nog verwondring deedt,</l>
+<l>Aan hun, hebt ge iet ook dat men eet'?</l>
+<l rend="; 1tab">6.</l>
+<l>Na dat hy dan gegeeten hadt,</l>
+<l>Heeft hy zyn reden weêr hervat,</l>
+<l>En andermaal op nieuw verklaard,</l>
+<l>'t Geen Christus lyden moest op de aard'.</l>
+<pb n="92"/>
+<l rend="; 1tab">7</l>
+<l>Hy opende aan hun toen 't verstand,</l>
+<l>Deedt hun verdaan geheel 't verband</l>
+<l>Van 't geen voorzegd staat in Schriftuur. -</l>
+<l>Maar thans genaakt zyn scheidingsuur.</l>
+<l rend="; 1tab">8.</l>
+<l>'t Beloofde van myn' Vader, nu,</l>
+<l>Zal ik afzenden ras in u:</l>
+<l>Blyft in de Stad te saam', en wagt,</l>
+<l>Tot dees belofte u zy volbragt.</l>
+<l rend="; 1tab">9.</l>
+<l>Hy ging met hun naar buiten toen,</l>
+<l>Om zyne opvaaring daar te doen;</l>
+<l>Bethanie was de plaats, alwaar</l>
+<l>Hy scheiden zou van zyne schaar',</l>
+<l rend="; 1tab">10.</l>
+<l>Hy hief zyn handen naar om hoog,</l>
+<l>Hy zegende elk, en voor elks oog</l>
+<l>Voer hy ten Hemel, en een wolk</l>
+<l>Nam hem ten ooge uit van zyn volk.</l>
+<l rend="; 1tab">11.</l>
+<l>Thans wordt myn ziel ook opgevoerd,</l>
+<l>'k Gevoel een vreugd, die my beroert:</l>
+<l>Gods Zoon, die naar den Hemel vaart,</l>
+<l>Verlaat zyn volk hier niet op de aard',</l>
+<l rend="; 1tab">12.</l>
+<l>ô Heiland, die ter rechterhand</l>
+<l>Uws Vaders zit, en daar het pand</l>
+<l>Voor die u hier bemint, bereidt,</l>
+<l>Geef dat 'k u loove in de eeuwigheid.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0043"/></interpGrp>
+<pb n="93"/>
+<head rend="h2">Gezangen op het Pinksterfeest.</head>
+<head rend="h3">XLIII.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XL. <hi rend="i">bladz.</hi> 86.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0069.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>'k Kon den Opperheer be- haagen,</l>
+    <l>Als de blyde Pinkster- dagen</l>
+    <l>Waren naar de wet vervuld,</l>
+    <l>Dat de Apostels, die nu kwamen</l>
+    <l>In dezelve plaats te sa- men,</l>
+    <l>Werden als met vuur gehuld.</l>
+
+<pb n="94"/>
+<l rend="; 2tab">2.</l>
+<l>Onvoorziens kwam uit den hoogen</l>
+<l>Een geluid van groot vermoogen</l>
+<l rend="; 1tab">Als eens Herken winds gedruis;</l>
+<l>Dat, dáár zy, nu als verlaaten</l>
+<l>Van hunn' Heer, te samen zaten,</l>
+<l rend="; 1tab">Heeft vervuld geheel het huis.</l>
+<l rend="; 2tab">3.</l>
+<l>Hun verscheenen vuurge tongen,</l>
+<l>Die van 't hoofd ten geest indrongen,</l>
+<l rend="; 1tab">En zy zyn vervuld geweest</l>
+<l>Met den heilgen Geest; zy spraken</l>
+<l>In verscheiden taal, van zaaken</l>
+<l rend="; 1tab">All' naar de inspraak van dien Geest.</l>
+<l rend="; 2tab">4.</l>
+<l>In Jeruslem waren Jooden,</l>
+<l>Andren, die God' de eere booden,</l>
+<l rend="; 1tab">Vreemde volken, van alom,</l>
+<l>Toen dit was geschied, genaderd,</l>
+<l>In den geest ontroerd vergaderd,</l>
+<l rend="; 1tab">Door dit wonder spraakloos, stom.</l>
+<l rend="; 2tab">5.</l>
+<l>Elamiten, Parten, Meden,</l>
+<l>Volken uit verscheide Steden,</l>
+<l rend="; 1tab">En van een en ander Ryk,</l>
+<l>Hoorden (welk een wonderteken!)</l>
+<l>Elk in zyne taal hen spreeken.</l>
+<l rend="; 1tab">Waar was van Gods macht meer blyk?</l>
+<l rend="; 2tab">6.</l>
+<l>Jooden, Heidenen, bekeerden,</l>
+<l>Die nu Moises wetten eerden,</l>
+<l rend="; 2tab">Creten en Arabers, t'saêm,</l>
+<l>Zeiden, zeer verbaasd, wy hoorden</l>
+<l>Hen in onze taal en woorden</l>
+<l rend="; 1tab">Roemen Gods groot werk en naam.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0044"/></interpGrp>
+<pb n="95"/>
+<head rend="h3">XLIV.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. IX. <hi rend="i">bladz</hi>. 18.</head>
+<lg type="poem">
+<l rend="; 1tab">ô <hi rend="b">G</hi>eest der waarheid! Godlyk licht!</l>
+<l>Die op d'Apostlen nederdaalde,</l>
+<l rend="; 1tab">Voor wien de nacht der dwaaling zwigt,</l>
+<l>ô Dat uw licht ook my bestraalde!</l>
+<l rend="; 2tab">2.</l>
+<l rend="; 1tab">Leer my myn' Jesus zo 't behoort,</l>
+<l>Regt kennen, eeren en beminnen;</l>
+<l rend="; 1tab">Zyn voorschrift en genadewoord,</l>
+<l>Brengt my gestaag myn' pligt te binnen.</l>
+<l rend="; 2tab">3.</l>
+<l rend="; 1tab">ô Dat zyn liefde meer en meer,</l>
+<l>Myn hart vervuil', my zo doe werken,</l>
+<l rend="; 1tab">Dat elk de kracht van zyne leer,</l>
+<l>In al myn daaden kan bemerken.</l>
+<l rend="; 2tab">4.</l>
+<l rend="; 1tab">'t Geloof, dat op zyn' zoendood rust,</l>
+<l>Zy eeniglyk myn zielsvertrouwen;</l>
+<l rend="; 1tab">Dit zy myn troost, myn hoogste lust,</l>
+<l>De rots waar op ik vast kan bouwen.</l>
+<l rend="; 2tab">5.</l>
+<l rend="; 1tab">Geef, dat de hoop daar door verwekt,</l>
+<l>Die over al het aardsche lyden,</l>
+<l rend="; 1tab">Ja, over dood en graf zich strekt,</l>
+<l>My moog' van 's waerelds lust bevryden.</l>
+<l rend="; 2tab">6.</l>
+<l rend="; 1tab">Uw vrede woon' steeds in myn hart,</l>
+<l>In weêrwil van all' angst en plaagen,</l>
+<l rend="; 1tab">Van haat en nyd, ellende of smart,</l>
+<l>Die ik op de aard' zal moeten draagen.</l>
+<pb n="96"/>
+<l rend="; 2tab">7.</l>
+<l rend="; 1tab">Schenk aan myn' geest getuigenis,</l>
+<l>Dat hy door Jesus lyden, sterven,</l>
+<l rend="; 1tab">Gods waardig kind geworden is;</l>
+<l>En in hem 't eeuwig heil zal erven.</l>
+<l rend="; 2tab">8.</l>
+<l rend="; 1tab">ô Mogte uw godlyk liefdevuur</l>
+<l>Een' liefdegloed in my ontsteeken,</l>
+<l rend="; 1tab">Waar door myn zondige natuur</l>
+<l>Gezuiverd wierd' van haar gebreken!</l>
+<l rend="; 2tab">9.</l>
+<l rend="; 1tab">Zo ga ik, door uw' geest geleid,</l>
+<l>Den zeek'ren weg tot beter leven;</l>
+<l rend="; 1tab">Om, in een eindlooze eeuwigheid,</l>
+<l>Met de Englenrei U de eer te geeven.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0045"/></interpGrp>
+<pb n="97"/>
+<head rend="h3">XLV.</head>
+<head rend="h4"><hi rend="i">Navolging van den Lofzang</hi>, Veni, Sancte Spiritus.</head>
+<q rend="bq"><hi rend="i">Getemperd vrolyk.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0070.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Heil'ge Geest! laat u- we straalen</l>
+    <l>Uit den Hemel op ons daalen,</l>
+    <l>Die der ar- men Va- der zyt;</l>
+    <l>Kom tot ons door uw ge- na- den;</l>
+    <l>Kom, ô Geever der wel- daaden,</l>
+    <l>Licht der har- ten, 't hart ver- blyd.</l>
+    
+<pb n="98"/>
+
+<l rend="; 2tab">2.</l>
+<l>Zielbewooner, Hartverkwikker,</l>
+<l>Troost-, Rust-, Vreugd- en Heilbeschikker,</l>
+<l rend="; 1tab">Driftentemmer, zaligst Licht;</l>
+<l>Wil, all' die gelooven zullen,</l>
+<l>Zo met gloed en glans vervullen,</l>
+<l rend="; 1tab">Dat en damp en nevel zwigt'.</l>
+<l rend="; 2tab">3.</l>
+<l>Zonder bystand uwer kragten,</l>
+<l>Wordt de mensch, in het betragten</l>
+<l rend="; 1tab">Van de deugden, steeds belet.</l>
+<l>Wasch, wat vuil is van de zonden;</l>
+<l>Sproei de dorre harten-gronden;</l>
+<l rend="; 1tab">Heel 't gekwetste; wisch de smet.</l>
+<l rend="; 2tab">4.</l>
+<l>Buig, wat styf is; warm het koude;</l>
+<l>(Dat uw gunst ons toch behoude!)</l>
+<l rend="; 1tab">En bestier den geen' die dwaalt.</l>
+<l>Stort op die in U gelooven</l>
+<l>'t Heilig Zevental van boven,</l>
+<l rend="; 1tab">Waar de ziel door zegepraalt.</l>
+<l rend="; 2tab">5.</l>
+<l>Ach, wil uwen vrienden geeven,</l>
+<l>Dat ze in deugden door U leeven.</l>
+<l rend="; 1tab">En, op 't einde van hunn' stryd?</l>
+<l>Zo gelukkig mogen sterven,</l>
+<l>Dat zy 't zalig Leeven erven</l>
+<l rend="; 1tab">In der eeuwen eeuwigheid.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0046"/></interpGrp>
+<pb n="99"/>
+<head rend="h3">XLVI.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Veni, Creator Spiritus</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0071.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Kom, Schepper, heil'ge Geest, ei kom!</l>
+    <l>Bezoek uw volk, uw' ei- gendom:</l>
+    <l>Kom, en vervul met Hemelkragt</l>
+    <l>De zie- len door u voortgebragt.</l>
+
+<l rend="; 1tab">2.</l>
+<l>Gy zyt de Trooster, hooggeroemd;</l>
+<l>Gy wordt de gave Gods genoemd,</l>
+<l>De Leevensbron, de Liefdevloed,</l>
+<l>De zalving van 't oprecht gemoed.</l>
+<l rend="; 1tab">3.</l>
+<l>Gy zyt van 's Vaders Rechterhand</l>
+<l>De Vinger, en 't beloofde Pand,</l>
+<l>Dat hart en tong zeer ryk begaast,</l>
+<l>En met uw zeven giften laast.</l>
+<pb n="100"/>
+<l rend="; 1tab">4</l>
+<l>Ontsteek uw Licht in ziel en zin;</l>
+<l>Ontvonk het hart door Hemelmin;</l>
+<l>Versterk met uwe kragt altoos</l>
+<l>Het ligchaam, anders zwak en broos.</l>
+<l rend="; 1tab">5.</l>
+<l>Den vyand ver van ons verdryf;</l>
+<l>Verleen den vreê, die altyd blyv';</l>
+<l>Geleid ons langs de rechte baan,</l>
+<l>Op dat wy alle kwaad ontgaan,</l>
+<l rend="; 1tab">6.</l>
+<l>Maak, dat ons door U kenbaar zy</l>
+<l>De Vader, en de Zoon; dat wy</l>
+<l>Door U gelooven t' allen tyd',</l>
+<l>Dat gy de Geest van beiden zyt.</l>
+<l rend="; 1tab">7.</l>
+<l>Lof zy den Vader, lof den Zoon',</l>
+<l>Die van den dood verrees ten Troon;</l>
+<l>En U, die ons den troost bereidt;</l>
+<l>Van nu tot in der eeuwigheid.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0047"/></interpGrp>
+<pb n="101"/>
+<head rend="h3">XLVII.</head>
+<q rend="bq"><hi rend="i">Gemaagtigd</hi>.</q>
+<figure>
+<p><xptr to="_ver062verz01ill0073.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Zuivre Geest! Wiens goddelyke magt</l>
+    <l>'t Pinksterfeest Ons met d' olystak bragt:</l>
+    <l>Uw - komst ver- zekert ons den vreê;</l>
+    <l>Ver- kies in ons gemoed steê;</l>
+    <l>Zo word ons hart Bevryd van zonde- smart.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Troostryk zoet! dat onbegryplyk zyt,</l>
+<l>Vul 't gemoed, dat u ten dienst zich wyd:</l>
+<l rend="; 1tab">Op dat uw dauw het vruchtbaar maak',</l>
+<l rend="; 1tab">En het in zuiver Godsmin bl[a]ak'</l>
+<l>En dus zyn vrucht groei' door de liefdezucht.</l>
+<pb n="102"/>
+<l rend="; 2tab">3.</l>
+<l>Godlyk Vuur! dat steenen harten smelt,</l>
+<l>Schenk natuur, door zonden neêrgeveld,</l>
+<l rend="; 1tab">Uw' invloed, die de driften smoort,</l>
+<l rend="; 1tab">Den zwakken mensch tot deugden spoort,</l>
+<l>En misdaên boet, tot zuivring van 't gemoed.</l>
+<l rend="; 2tab">4.</l>
+<l>Vinger Gods! genees den sterveling;</l>
+<l>Sterke Rots! bewaar in nood, en dring</l>
+<l rend="; 1tab">Uwe onderdaanen door uw macht,</l>
+<l rend="; 1tab">Die uit het Niet zyn voortgebragt,</l>
+<l>Tot waaren plicht, die 't eeuwig welzyn sticht.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0048"/></interpGrp>
+<head rend="h2">Gezangen op den feestdag van de allerheiligste Drievuldigheid.</head>
+<head rend="h3">XVIII.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XIII. <hi rend="i">bladz</hi>. 26</head>
+<figure>
+<p><xptr to="_ver062verz01ill0074.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Komt, ô Christnen! pryst den Vader,</l>
+</lg>
+<pb n="103"/>
+<figure>
+<p><xptr to="_ver062verz01ill0075.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Looft en roemt en eert den Zoon,</l>
+    <l>En den heilgen Geest, te gader</l>
+    <l>Zittende op den Hemeltroon.</l>
+    <l>'t Heilig, Eendrie-vuldig Wezen,</l>
+    <l>De onverdeelde Majes- teit</l>
+    <l>Worde steeds ge- diend, gepreezen,</l>
+<l>In den tyd en eeuwigheid.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Zoo als Schrift en Kerk bewyzen,</l>
+<l rend="; 1tab">Is de Vader, Zoon en Geest</l>
+<l>Als één éénig God te pryzen,</l>
+<l rend="; 1tab">Die voor de eeuwen is geweest.</l>
+<l>Daar word maar één God beleeden</l>
+<l rend="; 1tab">Drie Persoonen zyn één Heer,</l>
+<l>Een Drie-eenheid aangebeden,</l>
+<l rend="; 1tab">Wys en goed, vol macht, en eer.</l>
+<pb n="104"/>
+<l rend="; 2tab">3.</l>
+<l>God de Vader schiep in orden</l>
+<l rend="; 1tab">Alles, houd het al in stand;</l>
+<l>God de Zoon, eens mensch geworden,</l>
+<l rend="; 1tab">Stierf, als 's levens onderpand:</l>
+<l>Van die beiden is gekomen</l>
+<l rend="; 1tab">God de heilge Geest, die troost</l>
+<l>En genade ons toe doet stroomen,</l>
+<l rend="; 1tab">Tot verdienste en deugdenoogst.</l>
+<l rend="; 2tab">4.</l>
+<l>Heiligst, grootst Drievuldig Wezen,</l>
+<l rend="; 1tab">Onverdeelbaare Eenigheid!</l>
+<l>Maak van zonden ons geneezen,</l>
+<l rend="; 1tab">En tot weldoen steeds bereid:</l>
+<l>Laat de waare Kerk voorts bloeiën,</l>
+<l rend="; 1tab">Weêr 'er waan en dopling af;</l>
+<l>Doe der Vorsten eendragt groeiën;</l>
+<l rend="; 1tab">Stuit al 't kwaad, der zonden straf.</l>
+<l rend="; 2tab">5.</l>
+<l>'t Godlyk Eéndrievuldig Wezen,</l>
+<l rend="; 1tab">Vader, Zoon en heilgen Geest</l>
+<l>Zy alle eer en lof beweezen,</l>
+<l rend="; 1tab">Door den mensch gediend, gevreesd.</l>
+<l>Die de Seraphs beevend pryzen,</l>
+<l rend="; 1tab">U, ô groote Majesteit!</l>
+<l>Moete al 't schepzel dank bewyzen,</l>
+<l rend="; 1tab">Nu en in alle eeuwigheid.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0049"/></interpGrp>
+<pb n="105"/>
+<head rend="h3">XLIX.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XVIII. <hi rend="i">bladz</hi>. 36.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0076.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>ô Eendrievuldig We zen</l>
+    <l>ô Schepper Opperheer!</l>
+    <l>Wy wyden u alle eer,</l>
+    <l>Daar wy uw' naam steeds vree- zen.</l>
+    <l>Geen stervling kan de schatten</l>
+    <l>Van u- we waardig- heid</l>
+    <l>En Oppermajesteit</l>
+    <l>Bezinnen of be- vat- ten.</l>
+
+<pb n="106"/>
+
+<l rend="; 2tab">2.</l>
+<l>Uw groot, uw Alvermogen</l>
+<l rend="; 1tab">Heeft eindpaal noch begin,</l>
+<l rend="; 1tab">Uw zuivre menschenmin</l>
+<l>Straalt ons alöm in de oogen.</l>
+<l>ô [O]ngebooren Vader!</l>
+<l rend="; 1tab">ô Eengebooren Zoon!</l>
+<l rend="; 1tab">ô Geest! die 's Hemels Troon</l>
+<l>Als één bezit, te gader.</l>
+<l rend="; 2tab">3.</l>
+<l>Dit hebt gy ons doen hooren</l>
+<l rend="; 1tab">Door de Evangelieleer,</l>
+<l rend="; 1tab">Die, tot uw' lof en eer,</l>
+<l>De oprechten kan bekooren.</l>
+<l>Schoon u de dwaazen hoonen,</l>
+<l rend="; 1tab">Hoe 't ongeloof ook spott',</l>
+<l rend="; 1tab">Gy zyt een eenig God,</l>
+<l>Bestaande in drie Persoonen.</l>
+<l rend="; 2tab">4.</l>
+<l>'t Verstand geeft zich gevangen</l>
+<l rend="; 1tab">Voor waereldwysheid doof,</l>
+<l rend="; 1tab">Ten dienste van 't Geloof,</l>
+<l>Die heilbron,van 't verlangen,</l>
+<l>Beschenk ons met de gaven</l>
+<l rend="; 1tab">Van waar Geloof en Hoop</l>
+<l rend="; 1tab">En Liefde, in 's levensloop,</l>
+<l>Om 't zielgeluk te staaven.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0050"/></interpGrp>
+<pb n="107"/>
+<head rend="h2">Op den feestdag van het hoogwaardig Sacrament des Altaars.</head>
+<head rend="h3">L.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XX. <hi rend="i">bladz.</hi> 40. of N<hi rend="sup">o</hi>. XL. <hi rend="i">bladz.</hi> 86.</head>
+<lg type="poem">
+<l><hi rend="b">L</hi>aat ons, op verheven wyzen,</l>
+<l>'s Hemels; macht en goedheid pryzen,</l>
+<l>Met der Seraphynen Schaar.</l>
+<l>Die zich met hun vleuglen dekken,</l>
+<l>d'Eerbied in ons hart verwekken,</l>
+<l>Voor de Godheid op 't Altaar.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Hy, die 't Manna heeft doen daalen,</l>
+<l>Komt zelf uit de Hemelzaalen</l>
+<l rend="; 1tab">Schuilen onder schyn van brood:</l>
+<l>Zo als hy zich aan de zynen,</l>
+<l>Eer zyn sterfuur zou verschynen,</l>
+<l rend="; 1tab">Op den laasten avond bood.</l>
+<l rend="; 2tab">3.</l>
+<l>Dees Fontein van 't eeuwig leven</l>
+<l>Komt ons daar zyn Bloed ook geeven,</l>
+<l rend="; 1tab">('t Bloed, dat hy op 't wreed Calvaar</l>
+<l>Ons ten zoen, zich af liet tappen)</l>
+<l>Onder schyn van druivensappen,</l>
+<l rend="; 1tab">Door den Priester op 't Altaar.</l>
+<l rend="; 2tab">4.</l>
+<l>Met die volheid van genade</l>
+<l>Komt hy onze ziel te stade</l>
+<l rend="; 1tab">Op des levens bange reis:</l>
+<l>Om ten voedzel haar te strekken,</l>
+<l>En ten voorgang optewekken</l>
+<l rend="; 1tab">Op den weg naar zyn Paleis.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0051"/></interpGrp>
+<pb n="108"/>
+<head rend="h3">LI.
+<lb/>
+<hi rend="i">De Lofzang</hi>, Pange Lingua.</head>
+<q rend="bq"><hi rend="i">Destig.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0077.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Loof, tong, het heerlyk Goed</l>
+    <l>Van 't Vleesch en 't dierbaar Bloed,</l>
+    <l>Dat in deez' Disch be- slooten,</l>
+    <l>De Vorst, die 't leeven geeft,</l>
+    <l>Die eed'le Vrugt, eens heeft</l>
+    <l>Tot 's waerelds heil ver- goo- ten.</l>
+
+<pb n="109"/>
+
+<l rend="; 2tab">2.</l>
+<l>Die ons is opgedaagd</l>
+<l>Uit de onbevlekte Maagd,</l>
+<l rend="; 1tab">En in de waereld woonde,</l>
+<l>Daar zaaide 't zaad van 't Woord;</l>
+<l>Door wond'ren nooit gehoord</l>
+<l rend="; 1tab">Zyn' Leevens-uitgang kroonde.</l>
+<l rend="; 2tab">3.</l>
+<l>In d'allerlaatsten nagt,</l>
+<l>Als 't Pascha werdt volbragt,</l>
+<l rend="; 1tab">Den Jooden voorgeschreeven;</l>
+<l>Heeft hy, de Wet in all'</l>
+<l>Voldaan, aan 't Broeder-tal</l>
+<l rend="; 1tab">Zig zelv' tot Spys gegeeven.</l>
+<l rend="; 2tab">4.</l>
+<l>'t Woord-Vleesch vormt, door het woord,</l>
+<l>Van 't brood zyn Vleesch, en voort</l>
+<l rend="; 1tab">Van wyn zyn Bloed: al zwigten</l>
+<l>Hier zinnen, brein en reên;</l>
+<l>'t Geloof volstaat alleen,</l>
+<l rend="; 1tab">Om 't zuiver hart te stigten.</l>
+<l rend="; 2tab">5.</l>
+<l>Des buigen wy ons neêr,</l>
+<l>Dit Sacrament ter eer':</l>
+<l rend="; 1tab">Dat de oude tekens wyken</l>
+<l>Voor Christus Kerk en Wet;</l>
+<l>'t Geloof staa onverzet,</l>
+<l rend="; 1tab">Daar oog en tong bezwyken.</l>
+<l rend="; 2tab">6.</l>
+<l>Geloofd zy op den Troon</l>
+<l>De Vader, en de Zoon,</l>
+<l rend="; 1tab">Geëerd, geroemd, gepreezen.</l>
+<l>Gelyke lof behoort</l>
+<l>Hem, die van Beî komt voort</l>
+<l rend="; 1tab">In 't éénig Godlyk Weezen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0052"/></interpGrp>
+<pb n="110"/>
+<head rend="h3">LII.
+<lb/>
+<hi rend="i">Navolging van het Gebed des Heeren.</hi></head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0078.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>U, God, ons aller Va- der,</l>
+    <l>Die in den Hemel zyt,</l>
+    <l>U loo-ven wy te- ga- der,</l>
+    <l>Staag in uw' lof ver- blyd.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Geheiligd moet steeds weezen</l>
+<l rend="; 1tab">By ons uw heilge Naam:</l>
+<l>Hy zy door ons gepreezen;</l>
+<l rend="; 1tab">Maak ons daar toe bekwaam.</l>
+<l rend="; 2tab">3.</l>
+<l>Laat ons, ô God, toekomen</l>
+<l rend="; 1tab">Uw Ryk, het loon der deugd,</l>
+<l>Alwaar gy aan de vroomen</l>
+<l rend="; 1tab">Zult schenken de eeuwge vreugd.</l>
+<l rend="; 2tab">4.</l>
+<l>Uw wil geschiede op de Aarde</l>
+<l rend="; 1tab">Als by U, onverlet;</l>
+<l>Men houde dien in waarde</l>
+<l rend="; 1tab">Als eene onbreekbre wet.</l>
+<pb n="111"/>
+<l rend="; 2tab">5.</l>
+<l>Wil heden ons vergunnen,</l>
+<l rend="; 1tab">ô God, ons daaglyksch brood,</l>
+<l>Op dat we U dienen kunnen,</l>
+<l rend="; 1tab">Beyryd van hongersnood.</l>
+<l rend="; 2tab">6.</l>
+<l>Vergeef nu, in dit leeven,</l>
+<l rend="; 1tab">All' wat wy schuldig staan,</l>
+<l>Gelyk we een-elk vergeeven</l>
+<l rend="; 1tab">Wat aan ons is misdaan.</l>
+<l rend="; 2tab">7.</l>
+<l>Leid ons niet in bekooring,</l>
+<l rend="; 1tab">Maar weer van ons het kwaad:</l>
+<l>Keer alle deugd verstooring;</l>
+<l rend="; 1tab">Op dat zy ons niet schaad'.</l>
+<l rend="; 2tab">8.</l>
+<l>Geef, dat we altoos betrachten</l>
+<l rend="; 1tab">Het heil van uwe Leer',</l>
+<l>In werken en gedagten:</l>
+<l rend="; 1tab"><hi rend="i">Het zy alzo,</hi> ô Heer!</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0053"/></interpGrp>
+<head rend="h3"><hi rend="i">Navolging van de grote des Engels.</hi></head>
+<lg type="poem">
+<l>Vergun, dat wy u groeten,</l>
+<l rend="; 1tab"><hi rend="sc">Maria</hi>, reine Maagd!</l>
+<l>Gods gunst kwam u ontmoeten,</l>
+<l rend="; 1tab">Wyl gy Hem hebt behaagd.</l>
+<l rend="; 2tab">2.</l>
+<l>Tot U vol van genade,</l>
+<l rend="; 1tab">Verheffen we onze stem;</l>
+<l>Uw hulp kome ons te stade,</l>
+<l rend="; 1tab">Door uw gebed by Hem.</l>
+<pb n="112"/>
+<l rend="; 2tab">3.</l>
+<l>Wil ons, ô Maagd, verblyden,</l>
+<l rend="; 1tab">Met u is God de Heer':</l>
+<l>Zyn bystand doe ons stryden</l>
+<l rend="; 1tab">Op de aard' ter zyner eer'.</l>
+<l rend="; 2tab">4.</l>
+<l>Gy, die van alle vrouwen</l>
+<l rend="; 1tab">De zegenrykste zyt;</l>
+<l>Bid voor die U beschouwen</l>
+<l rend="; 1tab">Als Helpster, t' allen tyd'.</l>
+<l rend="; 2tab">5.</l>
+<l>Gezegend moet Hy weezen,</l>
+<l rend="; 1tab">Die was uws ligchaams dragt.</l>
+<l>Hy, <hi rend="sc">Jesus</hi>, heeft geneezen.</l>
+<l rend="; 1tab">Het menschelyk geslacht.</l>
+<l rend="; 2tab">6.</l>
+<l><hi rend="sc">Maria</hi>, Maagd, Gods Moeder!</l>
+<l rend="; 1tab">Let steeds op onzen nood:</l>
+<l>Bid voor ons onzen Hoeder,</l>
+<l rend="; 1tab">Zo nu als in den dood.</l>
+</lg>
+<p><hi rend="i">Gelyk de</hi> Navolging van het Gebed des Heeren <hi rend="i">ten alten tyde kan dienen</hi>, <hi rend="i">alzo kan ook deeze</hi> Navolging van de Groete des Engels <hi rend="i">dienen op alle de Feestdagen der allerheiligste Maagd</hi>, <hi rend="i">en in derzelver</hi> Octaven.</p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0054"/></interpGrp>
+<head rend="h3">Op het feest der kerkwydinge.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Urbs Jerusalem.</head>
+<q rend="bq"><hi rend="i">Koorzang.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0079.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Je- ru- sa- lem! ô heilrykste aller ste-</l>
+</lg>
+<pb n="113"/>
+<figure>
+<p><xptr to="_ver062verz01ill0080.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>den,</l>
+    <l>Wiens grootsche naam be- tekent Vreêgezich,</l>
+    <l>In 't Hemelryk van de leevend steen ge-sticht,</l>
+    <l>Daar de Enge- len het wachtersampt be- klee- den.</l>
+
+<l rend="; 2tab">2.</l>
+<l>De nieuwe Stad, die, boven 's Hemels transsen,</l>
+<l rend="; 1tab">Gelyk een Bruid uit haar bruidskamer treed</l>
+<l rend="; 1tab">Naar haaren Bruidegom, ten echt gereed,</l>
+<l>Haar muur en straaten zyn van goud vol glanssen.</l>
+<l rend="; 2tab">3.</l>
+<l>Haar poorten blinken van het eêlst gesteente;</l>
+<l rend="; 1tab">De toegang staat nu open voor elk- een,</l>
+<l rend="; 1tab">Die door verdienste op de aarde by de leên</l>
+<l>Behoort van Christus waare Kruisgemeente,</l>
+<l rend="; 2tab">4.</l>
+<l>De zo door druk en ramp beschaafde steenen</l>
+<l rend="; 1tab">Zyn op hun plaats door's Bouwheers hand gesteld,</l>
+<l rend="; 1tab">Zo dat dees bouw, die zynen lof vermeld,</l>
+<l>Ze in eeuwigheid zal in zyn' kring verëenen.</l>
+<l rend="; 2tab">5.</l>
+<l>Den Vader, Zoon, en heilgen Geest, te samen</l>
+<l rend="; 1tab">'t Drieëenig Wezen, zy alle eer en lof,</l>
+<l rend="; 1tab">Op de aarde en in het hooge Hemelhof</l>
+<l>In eeuwigheid der eeuwigheden, Amen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0055"/></interpGrp>
+<pb n="114"/>
+<head rend="h3">Lofzangen voor de feestdagen der Heiligen.</head>
+
+<div type="section">
+<head rend="h3">Op den feestdag van de boodschap des engels aan de allerheiligste maagd Maria.
+<lb/>
+LIV.</head>
+<q rend="bq"><hi rend="i">Maatig vrolyk.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0081.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Staak, ô waereld, 't angstig, zuchten:</l>
+    <l>Uw ge- lukstaat word her- steld;</l>
+    <l>Uw aarts- vyand moet nu vluchten.</l>
+    <l>De Ge- boorte van den Held,</l>
+</lg>
+<pb n="115"/>
+<figure>
+<p><xptr to="_ver062verz01ill0082.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Die zyn macht hem zal ont- wringen,</l>
+    <l>Word geboodschapt : ee- ne Maagd</l>
+    <l>(Gy moogt Gode een danklied Zingen)</l>
+    <l>Heeft daar toe zyn oog be- haagd.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Aan Maria, de uitverkooren,</l>
+<l rend="; 1tab">Bragt een Boo van daag de maar,</l>
+<l>Dat uit haar zou zyn gebooren,</l>
+<l rend="; 1tab">'s Waerelds Heer en Zegenaar.</l>
+<l>Zy, de pronk van deugd en zeden.</l>
+<l rend="; 1tab">Zal, (dit spelt hy haar) Gods Zoon,</l>
+<l>In haar' kuischen schoot en leden,</l>
+<l rend="; 1tab">Dra ontvangen van zyn' Troon.</l>
+<l rend="; 2tab">3.</l>
+<l>Gy, van de eerstling aller zonden,</l>
+<l rend="; 1tab">Door zyn schikking, voorbewaard,</l>
+<l>Hebt by Hem genaê gevonden,</l>
+<l rend="; 1tab">Uit uw' schoot word hy gebaard,</l>
+<l>Gy, ô zuivre! wil niet vreezen,</l>
+<l rend="; 1tab">Zult (zegt de Engel) door de kracht</l>
+<l>Van zyn' Geest eens Moeder weezen,</l>
+<l rend="; 1tab">Vol van troost voor 't aardsch geslacht.</l>
+<pb n="116"/>
+<l rend="; 2tab">4.</l>
+<l>'k Heb zyn' wil (dat hy gebiede)</l>
+<l rend="; 1tab">Nu uit uwen mond gehoord,</l>
+<l>Zei Maria, het geschiede</l>
+<l rend="; 1tab">Aan zyn Dienstmaagd naar uw woord.</l>
+<l>Zoo neemt de een'ge van den Vader</l>
+<l rend="; 1tab">Uit dees Maagd de Menschheid aan,</l>
+<l>Komt in't sterflyk vleesch ons nader,</l>
+<l rend="; 1tab">Om ons van den vloek te ontslaan.</l>
+<l rend="; 2tab">5.</l>
+<l>Toren van yvoor, met glanssen</l>
+<l rend="; 1tab">Van de Godheid zelv' vervuld!</l>
+<l>Gouden huis, vol eerekranssen,</l>
+<l rend="; 1tab">Die gy eeuwig draagen zult!</l>
+<l>Ark van 't heilverbond des Heeren!</l>
+<l rend="; 1tab">Troost en heul in ramp en druk!</l>
+<l>Leer ons, steeds ons heil begeeren.</l>
+<l rend="; 1tab">Help ons tot het grootst geluk.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0056"/></interpGrp>
+<head rend="h3">Op den feestdag, van de heilige apostelen Petrus en Paulus.
+<lb/>
+LV.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Aurea luce.</head>
+<q rend="bq"><hi rend="i">Een weinig vrolyk.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0083.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Licht der lichten, dat uw straalen,</l>
+    <l>En uw' goddel- ly- ken glans</l>
+    <l>Door alle eeuwen heen doet</l>
+</lg>
+<pb n="117"/>
+<figure>
+<p><xptr to="_ver062verz01ill0084.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>praalen</l>
+    <l>Aan den hoogen He- mel- trans:</l>
+    <l>Gy verrykt den Opper he- mel</l>
+    <l>Door dit plegtig Martelfeest,</l>
+    <l>'t Welk verkwikt het aardsch ge- we- mel,</l>
+<l>En den boetling al- ler- meest.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Petrus was de Vorst der aarde,</l>
+<l rend="; 1tab">'t Opperhoofd van 't Christendom;</l>
+<l>Paulus, hoog in roem en waarde,</l>
+<l rend="; 1tab">Leeraar van het Heidendom,</l>
+<l>'s Waerelds Lichten, Martelaaren,</l>
+<l rend="; 1tab">Een door 't Kruis, en een door 't staal,</l>
+<l>Zegepraalend opgevaaren</l>
+<l rend="; 1tab">Tot des Hemels bruiloftszaal.</l>
+<l rend="; 2tab">3.</l>
+<l>Glansryk en gelukkig Romen,</l>
+<l rend="; 1tab">Pronkstad, van all' de aard' begroet,</l>
+<l>Gy, wier grond men zag bestroomen</l>
+<l rend="; 1tab">Door dit vorstlyk Martelbloed:</l>
+<pb n="118"/>
+<l>Gy gaat hemelhoog te boven</l>
+<l rend="; 1tab">Al het schittrend' schoon der aard',</l>
+<l>Hun verdiensten doen u looven,</l>
+<l rend="; 1tab">Niet uw eigen glans of waard'.</l>
+<l rend="; 2tab">4.</l>
+<l>Goddelyk Drie-eenig Weezen</l>
+<l rend="; 1tab">De opperëer zy u altyd,</l>
+<l>Uwe magt moet zyn gepreezen,</l>
+<l rend="; 1tab">Lof u eeuwig toegewyd:</l>
+<l>Op deez' dag, gelyk te vooren,</l>
+<l rend="; 1tab">Blyst de magt aan u alleen</l>
+<l>Onverdeelbaar toebehooren,</l>
+<l rend="; 1tab">Steeds door alle de eeuwen heen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0057"/></interpGrp>
+<head rend="h3">Op de hemelvaart van de allerheiligste maagd en moeder Gods Maria.
+<lb/>
+LVI.</head>
+<q rend="bq"><hi rend="i">Langzaam.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0085.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Wie zie 'k hier van de aard' vertrekken,</l>
+    <l>In de hoogte wegge- voerd,</l>
+    <l>Met ju- weelen zonder vlekken,</l>
+    <l>En met paerlen ryk besnoerd?</l>
+    <l>Wie komt</l>
+</lg>
+<pb n="119"/>
+<figure>
+<p><xptr to="_ver062verz01ill0086.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>daar dus opge- treeden,</l>
+    <l>Door Gods <hi rend="i">Krachten</hi> onder-steund,</l>
+    <l>Glinst'rend vol be- vallig- heden,</l>
+<l>Daar ze op haar' Be- minden leunt?</l>
+
+<l rend="; 2tab">2.</l>
+<l>Staak, myn ziel, ja staak uw vraagen:</l>
+<l rend="; 1tab">'t Is die uitgeleez'ne Maagd,</l>
+<l>Waardig 's Hemels kroon te draagen,</l>
+<l rend="; 1tab">Want zy heeft Gods oog behaagd:</l>
+<l>Maagd, uit duizend uitverkooren,</l>
+<l rend="; 1tab">Baarde zy den Heer van 't Al,</l>
+<l rend="; 1tab">Uit haar wierdt Gods Zoon gebooren</l>
+<l>In een armen beestenstal.</l>
+<l rend="; 2tab">3.</l>
+<l>Wie zal haaren lof niet roemen,</l>
+<l rend="; 1tab">Die haar Profectly betracht,</l>
+<l>Dat men haar zou zalig noemen,</l>
+<l rend="; 1tab">Tot het laatste nageslacht?</l>
+<l>Wie wordt dan niet opgenomen,</l>
+<l rend="; 1tab">Wiens gemoed wordt niet verrukt,</l>
+<l>Wie wenscht niet by haar te komen,</l>
+<l rend="; 1tab">Schoon het vleesch den geest nog drukt.</l>
+<pb n="120"/>
+<l rend="; 2tab">4.</l>
+<l>Tracht, myn ziel, dan na te volgen</l>
+<l rend="; 1tab">'t Leeven van dees Moedermaagd,</l>
+<l>Die, ten Hemel ingezwolgen,</l>
+<l rend="; 1tab">Daar thans kroon en scepter draagt:</l>
+<l>Daar zult gy, by 't puik der vrouwen.</l>
+<l rend="; 1tab">'s Heilands Moeder, die gy groet,</l>
+<l>Eindloos 't aanschyn Gods aanschouwen,</l>
+<l rend="; 1tab">En genieten 't hoogste Goed.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0058"/></interpGrp>
+<head rend="h3">Op den feestdag van de geboorte der allerheiligste maagd Maria.
+<lb/>
+LVII.</head>
+<head rend="h4">Zangwyze N<hi rend="sup">o</hi>. XXVIII. <hi rend="i">bladz.</hi> 57.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0087.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Gy, die, in duister- nis ge- zeten,</l>
+    <l>In zugten, zonder maat of peil,</l>
+    <l>Ver-langdet, dikwerf nat be- kreeten:</l>
+    <l>Schept moed! zie- hier den</l>
+</lg>
+<pb n="121"/>
+<figure>
+<p><xptr to="_ver062verz01ill0088.gif"/></p>
+</figure>
+<lg type="poem">
+<l>dag van heil.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Na zo een reeks van bange nagten,</l>
+<l rend="; 1tab">Waar in de dood ons hieldt bekneld,</l>
+<l>Verschynt, voor die verlossing wagten,</l>
+<l rend="; 1tab">De Morgen, die ter redding snelt.</l>
+<l rend="; 2tab">3.</l>
+<l>Dank God, myn ziel! Thans is gebooren</l>
+<l rend="; 1tab">Zy, die, gantsch rein, vol zaligheên,</l>
+<l>En door God - zelven uitverkooren,</l>
+<l rend="; 1tab">Van de erfsmet vry is, ons gemeen.</l>
+<l rend="; 2tab">4.</l>
+<l>Van de erfsmet vry; want zy zal draagen,</l>
+<l rend="; 1tab">In haaren kuischen maagdeschoot,</l>
+<l>Hem, in wien God stelt zyn behaagen,</l>
+<l rend="; 1tab">Die ons zal redden uit den nood.</l>
+<l rend="; 2tab">5.</l>
+<l>Weldra zal nu de Zon verschynen,</l>
+<l rend="; 1tab">De Heilzon, die, zo ryk verguld,</l>
+<l>Den zwarten nagt zal doen verdwynen;</l>
+<l rend="; 1tab">De Zon, die aller wensch vervult.</l>
+<l rend="; 2tab">6.</l>
+<l>Juicht dan! ja juicht, verrukt van vreugde!</l>
+<l rend="; 1tab">Juicht! al het menschelyk Geslacht!</l>
+<l>Och of dees Heildag zo verheugde,</l>
+<l rend="; 1tab">Dat onze ziel dien steeds betrachtt'!</l>
+<l rend="; 2tab">7.</l>
+<l>ô Maagd! die, door deez' Lofzang, heden</l>
+<l rend="; 1tab">Als Nieuwgeboor'ne wordt beschouwd,</l>
+<l>Bid, dat we, als nieuwgeboor'ne Leden,</l>
+<l rend="; 1tab">Gods Liefde inzien, die ons behoudt.</l>
+<pb n="122"/>
+<l rend="; 2tab">8.</l>
+<l>En Gy, ô Almagt! Goedheidsäder!</l>
+<l rend="; 1tab">Die deeze Maagd hebt voorbereid,</l>
+<l>Om ons te ontslaan van d'aartsverrader,</l>
+<l rend="; 1tab">Geef ook, dat ze ons ten Hemel leid'.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0059"/></interpGrp>
+<head rend="h3">Op den feestdag van den heiligen aartsengel Michaël.
+<lb/>
+LVIII.</head>
+<q rend="bq"><hi rend="i">Destig.</hi></q>
+<figure>
+<p><xptr to="_ver062verz01ill0089.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Wie is als God? wie durft hem hoonen?</l>
+    <l>Wie durft den Hoogsten weder- staan;</l>
+    <l>Wie zich gelyk aan hem ver- toonen?</l>
+    <l>Wie rand het Ryk der God- heid aan?</l>
+
+<pb n="123"/>
+
+<l rend="; 2tab">2.</l>
+<l>Ach! Lucifer, van hoogmoed zwanger,</l>
+<l rend="; 1tab">Verhief zich tegen d'Opperheer;</l>
+<l>Maar werd qok de eerste strafontvanger,</l>
+<l rend="; 1tab">Hy stortte in d'eeuw'gen nacht ter neêr.</l>
+<l rend="; 2tab">3.</l>
+<l>Doch wie moest zyne trotschheid snuiken?</l>
+<l rend="; 1tab">U is de palmtak, Michaël!</l>
+<l>Gy deed den draak in d' afgrond duiken,</l>
+<l rend="; 1tab">En nederploffen in de hel.</l>
+<l rend="; 2tab">4.</l>
+<l>De bouw van Gods gewyden tempel</l>
+<l rend="; 1tab">Is aan uw hoede toevertrouwd.</l>
+<l>Ei! weer den spotter van zyn' drempel,</l>
+<l rend="; 1tab">Hem, die Gods macht als niets beschouwt.</l>
+<l rend="; 2tab">5.</l>
+<l>Blyf steeds voor 's Heeren kudde waaken,</l>
+<l rend="; 1tab">Vry haar van dooling, valsche leer:</l>
+<l>Wil ze aan zyn' dienst geheiligd maaken,</l>
+<l rend="; 1tab">Die twist en laster van haar weer'.</l>
+<l rend="; 2tab">6.</l>
+<l>ô Overwinnaar! help haar stryden,</l>
+<l rend="; 1tab">Als haarde helhond klampt aan boord,</l>
+<l>Die steeds haar zielrust zal benyden,</l>
+<l rend="; 1tab">En stout haar' lieven vrede stoort.</l>
+<l rend="; 2tab">7.</l>
+<l>Kom, in die angstige oogenblikken,</l>
+<l rend="; 1tab">Waar in de ziel van 't ligchaam scheid,</l>
+<l>Door uwen bystand haar verkwikken,</l>
+<l rend="; 1tab">Zoo zy haar 't eeuwig heil bereid.</l>
+<l rend="; 2tab">8.</l>
+<l>ô Voer haar naar de Hemelzaalen,</l>
+<l rend="; 1tab">Waar Gods genaê de deugd beloont,</l>
+<l>Door in het bruiloftskleed te praalen,</l>
+<l rend="; 1tab">Met groenen palm van eer bekroond.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0060"/></interpGrp>
+<pb n="124"/>
+<head rend="h3">Op den feestdag der heilige bescherm-engelen.
+<lb/>
+LIX.</head>
+<q rend="bq"><hi rend="i">Lieftalig</hi>,</q>
+<figure>
+<p><xptr to="_ver062verz01ill0090.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Zoo zal de Vorst van 's Hemels troon</l>
+    <l>Steeds waaken voor ons le- ven,</l>
+    <l>De stervling zal naar zyn ge- boôn</l>
+    <l>Met Englen zyn om- gee- ven.</l>
+    <l>Ja mensch! uw Schepper zend ze u toe,</l>
+    <l>Op dat, in alle uw wegen,</l>
+    <l>Uw voet geen struikel-</l>
+</lg>
+<pb n="125"/>
+<figure>
+<p><xptr to="_ver062verz01ill0091.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>pas- sen doe,</l>
+    <l>Maar gaa in vrede en ze- gen.</l>
+
+<l rend="; 2tab">2.</l>
+<l>ô Wondergroote liefde 's macht!</l>
+<l rend="; 1tab">Wie toch zal haar bevatten?</l>
+<l>Heeft God ons dan zoo mild bedacht</l>
+<l rend="; 1tab">Met zyn genadeschatten,</l>
+<l>Dat hy een' Hemelvorst ons zend,</l>
+<l rend="; 1tab">Die ons, zwak stof, behoede?</l>
+<l>Zyn goedheid zy van ons erkend,</l>
+<l rend="; 1tab">Wyl ze ons zo leid ten goede.</l>
+<l rend="; 2tab">3.</l>
+<l>Moet gy niet, staag tot dank bereid,</l>
+<l rend="; 1tab">Den Schepper daar voor pryzen,</l>
+<l>Den Vorsten zyner heerlykheid</l>
+<l rend="; 1tab">Uw liefde en dank bewyzen?</l>
+<l>Ja loof hem dan, die u op de aard',</l>
+<l rend="; 1tab">In druk, gevaar en nooden</l>
+<l>Versterkt en steunt, bewaakt, bewaart,</l>
+<l rend="; 1tab">Door zyne Hemelboden.</l>
+<l rend="; 2tab">4.</l>
+<l>Gy, Vorsten, die de Heerlykheid</l>
+<l rend="; 1tab">Des Hemels moogt bekleeden,</l>
+<l>Gy zyt tot onzer hulp bereid,</l>
+<l rend="; 1tab">Ei hoort nu onze beden:</l>
+<l>Ach! helpt ons, weert den vyand af,</l>
+<l rend="; 1tab">Dat hy niet overwinne:</l>
+<l>Behoedt ons voor der zonden straf,</l>
+<l rend="; 1tab">Bidt, dat men God steeds minne.</l>
+<pb n="126"/>
+<l rend="; 2tab">5.</l>
+<l>Regeert toch, onzen zwakken zin:</l>
+<l rend="; 1tab">Dat harten en gedachten,</l>
+<l>Gestaag ontvonkt in hemelmin,</l>
+<l rend="; 1tab">Gods eer door daên betrachten.</l>
+<l>Dat nooit voor ons des Heilands Bloed</l>
+<l rend="; 1tab">Vergeefs gestort moog' weezen:</l>
+<l>Zoo zal een reine liefdegloed</l>
+<l rend="; 1tab">De zielewond geneezen.</l>
+<l rend="; 2tab">6.</l>
+<l>Laat ons, getrouw aan d' Opperheer,</l>
+<l rend="; 1tab">In waaren ootmoed leeven,</l>
+<l>Van hoogmoed, zucht naar ydele eer</l>
+<l rend="; 1tab">En huichlaary ontheven,</l>
+<l>ô Voert ons toch, als eertyds Loth</l>
+<l rend="; 1tab">Uit Sodom en haar vrinden;</l>
+<l>En laat ons vreugd alleen in God</l>
+<l rend="; 1tab">En zyn geboden vinden.</l>
+<l rend="; 2tab">7.</l>
+<l>Voert ons, als gy Tobias deedt,</l>
+<l rend="; 1tab">Op 's levens reis, langs paden,</l>
+<l>Die opwaards gaan, waar' smart noch leed</l>
+<l rend="; 1tab">Noch ramp ons ooit kan schaaden.</l>
+<l>Maakt ons behoedzaam, maakt ons wys;</l>
+<l rend="; 1tab">Laat ons geen schyn verblinden;</l>
+<l>Doet ons den weg naar 't Paradys</l>
+<l rend="; 1tab">Aan 's levens eindpaal vinden.</l>
+<l rend="; 2tab">8.</l>
+<l>Dank zy U, God! voor al het goed,</l>
+<l rend="; 1tab">Ons in uw gunst gegeeven:</l>
+<l>Geef, dat eene Englenschaar ons hoed',</l>
+<l rend="; 1tab">En leid' door 't angstig leven.</l>
+<l>Laat ons, door lyden voorbereid,</l>
+<l rend="; 1tab">Met all' die Hemellingen,</l>
+<l>U dank en eer, in eeuwigheid,</l>
+<l rend="; 1tab">Het driemaal Heilig zingen.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0061"/></interpGrp>
+<pb n="127"/>
+<head rend="h3">Op den feestdag van Alle heiligen.
+<lb/>
+<hi rend="i">Navolging van den Lofzang</hi>, Christe Redemptor.
+<lb/>
+LX.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. LV. <hi rend="i">bladz.</hi> 116.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0092.gif"/></p>
+</figure>
+<lg type="poem">
+<l>Christus, Heiland al- ler menschen!</l>
+    <l>Neem ze in uw be- scherming aan,</l>
+    <l>Om de voorspraak be- de en wenschen,</l>
+    <l>Die uw Moeder heeft ge- daan.</l>
+    <l>Zaal'ge schaar van Hemel- lingen</l>
+    <l>Dryft al 't kwaad der zonden straf,</l>
+    <l>Die ons</l>
+</lg>
+<pb n="128"/>
+<figure>
+<p><xptr to="_ver062verz01ill0093.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>trof, en blyft omringen,</l>
+    <l>En nog dreigt, steeds van ons af.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Weert van ons den zielbevechter,</l>
+<l rend="; 1tab">Gy, Apostels van den Heer!</l>
+<l>Gy Voorzeggers van deez' Rechter!</l>
+<l rend="; 1tab">Door uw beden, les en leer.</l>
+<l>Gy, ô Martlaars en Belyders</l>
+<l rend="; 1tab">Van des Heeren grooten naam!</l>
+<l>Maakt ons vleesch- en helbestryders,</l>
+<l rend="; 1tab">En ter Hemelreis bekwaam.</l>
+<l rend="; 2tab">3.</l>
+<l>Choor van Godgewyde Maagden!</l>
+<l rend="; 1tab">Die door Godvrugt en door deugd</l>
+<l>In uw leven God' behaagden,</l>
+<l rend="; 1tab">Toont ons 't spoor naar 's Hemels vreugd.</l>
+<l>Kloosterlingen! heil'ge Mannen!</l>
+<l rend="; 1tab">Die all' aandrang der natuur,</l>
+<l>Zelfs uit Godsmin, hebt verbannen,</l>
+<l rend="; 1tab">Voedt in ons dat heilig vuur.</l>
+<l rend="; 2tab">4.</l>
+<l>Ja: verdryft die niet gelooven,</l>
+<l rend="; 1tab">Van der Christnen grondgebied.</l>
+<l>Zoo dryv' 's Heilands lof steeds boven</l>
+<l rend="; 1tab">In ons dank- en hulde - lied.</l>
+<pb n="129"/>
+<l>Glorie zy aan God den Vader,</l>
+<l rend="; 1tab">En zyn' ééngeboren Zoon,</l>
+<l>En den heil'gen Geest, te gader</l>
+<l rend="; 1tab">Nu en eeuwig op zyn' troon.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_ver062verz01_0062"/></interpGrp>
+<pb n="130"/>
+<head rend="h3">Op den feestdag van de onbevlekte ontvangenis der allerheiligste maagd Maria.
+<lb/>
+LXI.</head>
+<head rend="h4"><hi rend="i">Zangwyze</hi> N<hi rend="sup">o</hi>. XIV. <hi rend="i">bladz</hi>. 28.</head>
+<figure>
+<p><xptr to="_ver062verz01ill0094.gif"/></p>
+</figure>
+<lg type="poem">
+    <l>Laat ik rustig van u zingen,</l>
+    <l>Schoonste! die de Hemel mint;</l>
+    <l>waar-dig spree-ken van de dingen,</l>
+    <l>Die m' in u be- sloo- ten vind.</l>
+    <l>Schoon 't verstand niet kan be- vatten,</l>
+    <l>Wat ge in waardig- heid bekleed,</l>
+<l>Haalt men, uit ver- bor- gen schatten,</l>
+</lg>
+<pb n="131"/>
+<p><figure>
+<p><xptr to="_ver062verz01ill0095.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Lof, die laste- ring vertreed.</l>
+
+<l rend="; 2tab">2.</l>
+<l>Nooit heeft u de vloek getroffen,</l>
+<l rend="; 1tab">Die den boozen Adam sloeg;</l>
+<l>Nimmer kunt gy nederploffen</l>
+<l rend="; 1tab">In den afgrond. Neen: reeds vroeg</l>
+<l>Was de vloekwet opgeheven,</l>
+<l rend="; 1tab">Voor u, onbevlekte Maagd!</l>
+<l>Die de bron droegt van het leven,</l>
+<l rend="; 1tab">Door de Godheid onderschraagd.</l>
+<l rend="; 2tab">3.</l>
+<l>Ja, een Engel kwam 't u zeggen,</l>
+<l rend="; 1tab">Dat gy, met Gods Geest vervuld,</l>
+<l>(Een geheim niet uitteleggen)</l>
+<l rend="; 1tab">Uwen Zoon hem baaren zult.</l>
+<l>God zal in u komen woonen,</l>
+<l rend="; 1tab">Voorts, als Kind aan uwe borst</l>
+<l>Opgevoed, zyn liefde toonen,</l>
+<l rend="; 1tab">Lesschende aller zielen dorst.</l>
+<l rend="; 2tab">4.</l>
+<l>Wie dan zoude u schuldig achten</l>
+<l rend="; 1tab">Aan der eerste zonde smet?</l>
+<l>Wat verwildring van gedachten,</l>
+<l rend="; 1tab">Die van eerbied u ontzet!</l>
+<l>Als waart gy niet uitverkooren</l>
+<l rend="; 1tab">Van der eeuwen eeuwigheid,</l>
+<l>Rein en onbevlekt gebooren,</l>
+<l rend="; 1tab">En tot Moedermaagd bereid.</l>
+<pb n="132"/>
+<l rend="; 2tab">5.</l> 
+<l>Onbevlekte! die wy groeten,</l>
+<l rend="; 1tab">Leer ons, van den vloek bevryd,</l>
+<l>Door berouw de zonde boeten;</l>
+<l rend="; 1tab">Help ons in beproevingstyd.</l>
+<l>Onder die God' welbevallen</l>
+<l rend="; 1tab">Laat ons eeuwig zyn geteld,</l>
+<l>Door hem, die u over allen</l>
+<l rend="; 1tab">Als een Moeder heeft gesteld.</l>
+</lg>
+
+<pb n="133"/>
+<p>BLADWYZER.</p>
+
+<p><hi rend="i">Gezangen in den Advent.</hi></p>
+<p><table>
+<row>
+<cell>N<hi rend="sup">o</hi>.</cell>
+<cell>I.</cell>
+<cell>Op! zondaar, die niet schreit.</cell>
+<cell>bladz.</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell/>
+<cell>II.</cell>
+<cell>ô Wysheid uit God zelv' gebooren!</cell>
+<cell/>
+<cell>4</cell>
+</row>
+<row>
+<cell/>
+<cell>III.</cell>
+<cell>'k Groet U, Maria, Maagd van God verheven.</cell>
+<cell/>
+<cell>6.</cell>
+</row>
+<row>
+<cell/>
+<cell>IV.</cell>
+<cell>ô Eeuwige en almagtig.</cell>
+<cell/>
+<cell>8</cell>
+</row>
+<row>
+<cell cols="5"/>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen in den Kerstyd</hi>.</cell>
+</row>
+<row>
+<cell cols="5"/>
+</row>
+<row>
+<cell/>
+<cell>V.</cell>
+<cell>Verheugt u, Christenschaar.</cell>
+<cell/>
+<cell>11</cell>
+</row>
+<row>
+<cell/>
+<cell>VI.</cell>
+<cell>ô Kersnagt! een der langste nagten.</cell>
+<cell/>
+<cell>13</cell>
+</row>
+<row>
+<cell/>
+<cell>VII.</cell>
+<cell>ô Jesus! Vleeschgeworden Woord.</cell>
+<cell/>
+<cell>15</cell>
+</row>
+<row>
+<cell/>
+<cell>VIII.</cell>
+<cell>Aangenaam en lieflyk duister.</cell>
+<cell/>
+<cell>16</cell>
+</row>
+<row>
+<cell/>
+<cell>IX.</cell>
+<cell>ô Zalig heilig Bethlehem!</cell>
+<cell/>
+<cell>18</cell>
+</row>
+<row>
+<cell/>
+<cell>X.</cell>
+<cell>Die de zon haar licht kwam geeven.</cell>
+<cell/>
+<cell>20</cell>
+</row>
+<row>
+<cell/>
+<cell>XI.</cell>
+<cell>Myn ziel, gewekt door de Englenstem.</cell>
+<cell/>
+<cell>22</cell>
+</row>
+<row>
+<cell/>
+<cell>XII.</cell>
+<cell>ô Welk een schittring, welk geflonker.</cell>
+<cell/>
+<cell>24</cell>
+</row>
+<row>
+<cell/>
+<cell>XIII</cell>
+<cell>ô Wat wonderlyke dingen.</cell>
+<cell/>
+<cell>26</cell>
+</row>
+<row>
+<cell/>
+<cell>XIV.</cell>
+<cell>Hoe laat zich de blydschap hooren.</cell>
+<cell/>
+<cell>28</cell>
+</row>
+<row>
+<cell/>
+<cell>XV.</cell>
+<cell>Geef nu, ô Mensch! een liefdeblyk.</cell>
+<cell/>
+<cell>30</cell>
+</row>
+<row>
+<cell/>
+<cell>XVI.</cell>
+<cell>De Spiegel van Gods Majesteit.</cell>
+<cell/>
+<cell>32</cell>
+</row>
+<row>
+<cell/>
+<cell>XVII.</cell>
+<cell>Angst en zorg en kommer vlugten.</cell>
+<cell/>
+<cell>34</cell>
+</row>
+<row>
+<cell/>
+<cell>XVIII.</cell>
+<cell>De schaduwen verdwynen.</cell>
+<cell/>
+<cell>36</cell>
+</row>
+<row>
+<cell/>
+<cell>XIX.</cell>
+<cell>Juich! myn Ziel! wil vrolyk zingen.</cell>
+<cell/>
+<cell>38</cell>
+</row>
+<row>
+<cell/>
+<cell>XX.</cell>
+<cell>Juicht! ô menschen! Hy, die de aarde.</cell>
+<cell/>
+<cell>40</cell>
+</row>
+<row>
+<cell/>
+<cell>XXI.</cell>
+<cell>De blyde Dag is thans verscheenen.</cell>
+<cell/>
+<cell>42</cell>
+</row>
+<row>
+<cell/>
+<cell>XXII.</cell>
+<cell>ô Mensch! loof God, wil u verblyden.</cell>
+<cell/>
+<cell>44</cell>
+</row>
+<row>
+<cell/>
+<cell>XXIII.</cell>
+<cell>ô Wondre nacht! waar voor het licht.</cell>
+<cell/>
+<cell>46</cell>
+</row>
+<row>
+<cell/>
+<cell>XXIV.</cell>
+<cell>Op deezen heldren winternacht.</cell>
+<cell/>
+<cell>48</cell>
+</row>
+<row>
+<cell/>
+<cell>XXV.</cell>
+<cell>Wat wondren moet ik hier aanschouwen.</cell>
+<cell/>
+<cell>50</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de heilige onnozele Kinderen.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XXVI.</cell>
+<cell>ô Kersnagt, schooner dan de dagen!</cell>
+<cell/>
+<cell>52</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de Besnydenis des Zaligmakers.</hi></cell>
+</row>
+<row>
+<cell cols="3"/>
+<cell cols="2">ô Jesus! Vleeschgeworden Woord, N<hi rend="sup">o</hi>. VII. 15</cell>
+</row>
+</table></p>
+<pb n="134"/>
+<p><table>
+<row>
+<cell cols="5"><hi rend="i">Danklied ep den eersten dag des Jaars.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XXVII.</cell>
+<cell>Pryst den Heer. Door alle tongen.</cell>
+<cell/>
+<cell>54</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de Openbaaring des Zaligmaakers aan de Heidenen.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XXVIII.</cell>
+<cell>Wilt, Heidendom, van vreugde opspringen</cell>
+<cell/>
+<cell>57</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van den heiligen Naam</hi> <hi rend="sc">jesus</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell>XXIX.</cell>
+<cell>ô Jesus! wiens gedagtenis.</cell>
+<cell/>
+<cell>59</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen in de Vasten.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XXX.</cell>
+<cell>Zondaars! komt, wilt u bekeeren.</cell>
+<cell/>
+<cell>62</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXI.</cell>
+<cell>Des Konings Standaard komt uit 't duister.</cell>
+<cell/>
+<cell>64</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXII.</cell>
+<cell>Aanschouw, myn ziel! aanschouw!</cell>
+<cell/>
+<cell>66</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXIII.</cell>
+<cell>'s Heilands Moeder, droef te moede.</cell>
+<cell/>
+<cell>70</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen in den Paaschtyd</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXIV.</cell>
+<cell>Glorieryke dag!</cell>
+<cell/>
+<cell>72</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXV.</cell>
+<cell>Daar nu verreezen is Gods Zoon.</cell>
+<cell/>
+<cell>75</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXVI.</cell>
+<cell>Zou ooit des Heilands dood en lyden.</cell>
+<cell/>
+<cell>78</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXVII.</cell>
+<cell>Staak nu, myn ziel! uw droevig klaagen</cell>
+<cell/>
+<cell>80</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXVIII.</cell>
+<cell>ô Zoons en Dochters! zingt, de Heer.</cell>
+<cell/>
+<cell>82</cell>
+</row>
+<row>
+<cell/>
+<cell>XXXIX.</cell>
+<cell>Gods Kerk op de aarde is thans verheugd.</cell>
+<cell/>
+<cell>85</cell>
+</row>
+<row>
+<cell/>
+<cell>XL.</cell>
+<cell>Nyd, wat baat u, dus te woeden.</cell>
+<cell/>
+<cell>86</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen op den Hemelvaartsdag.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XLI.</cell>
+<cell>Na dat Jesus hadt gegeeten.</cell>
+<cell/>
+<cell>89</cell>
+</row>
+<row>
+<cell/>
+<cell>XLII.</cell>
+<cell>Toen Jesus, na verryzenis.</cell>
+<cell/>
+<cell>91</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen op het Pinksterfeest.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XLIII.</cell>
+<cell>'t Kon den Opperheer behaagen.</cell>
+<cell/>
+<cell>93</cell>
+</row>
+<row>
+<cell/>
+<cell>XLIV.</cell>
+<cell>ô Geest der waarheid! Godlyk Licht!</cell>
+<cell/>
+<cell>95</cell>
+</row>
+<row>
+<cell/>
+<cell>XLV.</cell>
+<cell>Heil'ge Geest! laat uwe straalen.</cell>
+<cell/>
+<cell>97</cell>
+</row>
+<row>
+<cell/>
+<cell>XLVI.</cell>
+<cell>Kom, Schepper, heil'ge Geest, ei kom!</cell>
+<cell/>
+<cell>99</cell>
+</row>
+<row>
+<cell/>
+<cell>XLVII.</cell>
+<cell>Zuivre Geest! wiens goddelyke magt.</cell>
+<cell/>
+<cell>101</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Gezangen op den Feestdag van de Allerheiligste Drievuldigheid.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>XLVIII.</cell>
+<cell>Komt, ô Christnen! pryst den Vader.</cell>
+<cell/>
+<cell>102</cell>
+</row>
+<row>
+<cell/>
+<cell>IL.</cell>
+<cell>ô Eendrievuldig Wezen.</cell>
+<cell/>
+<cell>105.</cell>
+</row>
+</table></p>
+<pb n="135"/>
+<p><table>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van het hoogwaardig Sacrament des Altaars.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>L.</cell>
+<cell>Laat ons, op verheven wyzen.</cell>
+<cell/>
+<cell>107</cell>
+</row>
+<row>
+<cell/>
+<cell>LI.</cell>
+<cell>Loof, tong, het heerlyk Goed.</cell>
+<cell/>
+<cell>108</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Navolging van het Gebed des Heeren.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LII.</cell>
+<cell>U, God, ons aller Vader.</cell>
+<cell/>
+<cell>110</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Navolging van de Groete des Engels.</hi></cell>
+</row>
+<row>
+<cell cols="2"/>
+<cell>Vergun, dat wy u groeten.</cell>
+<cell/>
+<cell>111</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op het Feest der Kerkwydinge.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LIII.</cell>
+<cell>Jerusalem! ô heilrykste aller steden.</cell>
+<cell/>
+<cell>112</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Lofzangen voor de Feestdagen der Heiligen.</hi></cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de Boodschap des Engels aan de allerheiligste Maagd Maria.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LIV.</cell>
+<cell>Staak, ô Waereld, 't angstig zuchten.</cell>
+<cell/>
+<cell>114</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de heilige Apostelen Petrus en Paulus.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LV.</cell>
+<cell>Licht der lichten, dat uw straalen.</cell>
+<cell/>
+<cell>116</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op de Hemelvaart van de allerheiligste Maagd en Moeder Gods Maria</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell>LVI.</cell>
+<cell>Wie zie 'k hier van de aard' vertrekken.</cell>
+<cell/>
+<cell>118</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van de Geboorte der allerheiligste Maagd Maria.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LVII.</cell>
+<cell>Gy, die, in duisternis gezeten.</cell>
+<cell/>
+<cell>120</cell>
+</row>
+<row>
+<cell cols="5">Op den Feestdag van den heiligen Aartsengel Michaël.</cell>
+</row>
+<row>
+<cell/>
+<cell>LVIII.</cell>
+<cell>Wie is als God? wie durst hem hoonen?</cell>
+<cell/>
+<cell>122</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag der heilige Bescherm-Engelen</hi>.</cell>
+</row>
+<row>
+<cell/>
+<cell>LIX.</cell>
+<cell>Zoo zal de Vorst van 's Hemels troon.</cell>
+<cell/>
+<cell>124</cell>
+</row>
+<row>
+<cell cols="5"><hi rend="i">Op den Feestdag van alle Heiligen.</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>LX.</cell>
+<cell>Christus, Heiland aller Menschen.</cell>
+<cell/>
+<cell>127</cell>
+</row>
+<row>
+<cell cols="5">Gp den Feestdag van de onbevlekte Ontvangenis der aller heiligste Maagd Maria.</cell>
+</row>
+<row>
+<cell/>
+<cell>LXI.</cell>
+<cell>Laat ik rustig van u zingen.</cell>
+<cell/>
+<cell>130</cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+
+</TEI.2>

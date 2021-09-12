@@ -1,0 +1,4346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vondel</title>
+        <author>Hippoliet van Peene</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Vondel</hi> van Hippoliet van Peene uit 1861.
+        </edition>
+        <respStmt>
+          <resp>
+              <corr>p. 7: de kop ‘Inleiding’ is tussen vierkante haken toegevoegd.</corr>
+          </resp>
+        </respStmt>
+      </editionStmt>
+      <extent><!-- aantal pagina's --></extent>
+      <publicationStmt>
+        <idno type="titelcode">peen001vond01_01</idno>
+        <idno type="format">DBNL-TEI 1</idno>
+        <availability>
+          <p>2019 dbnl</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note></note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="isbn"></idno>
+          <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1100 E 63, scans van Google Books</idno>
+        </bibl>
+        <p>H. van Peene, <hi rend="i">Vondel</hi>. I.S. van Doosselaere, Gent 1861</p>
+        <p>&nbsp;</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Wijze van coderen: standaard</p>
+        <p></p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="nl">Nederlands</language>
+      </langUsage>
+    </profileDesc>
+    <ebook>
+      <bibl>
+        <title type="main">Vondel</title>
+        <author>Hippoliet van Peene</author>
+        <idno type="isbn"></idno>
+        <idno type="nur"></idno>
+        <imprint>
+          <date></date>
+          <publisher></publisher>
+          <pubPlace></pubPlace>
+        </imprint>
+      </bibl>
+      <idno type="isbn"></idno>
+      <idno type="nur"></idno>
+      <availability>
+        <p></p>
+      </availability>
+      <order>
+        <price curr="euro"></price>
+        <link></link>
+      </order>
+      <blurb><p></p></blurb>
+      <titlepage><p></p></titlepage>
+      <colofon><p></p></colofon>
+    </ebook>
+    <pod>
+      <bibl>
+        <title type="main">Vondel</title>
+        <author>Hippoliet van Peene</author>
+        <idno type="isbn"></idno>
+        <idno type="nur"></idno>
+        <imprint>
+          <date></date>
+          <publisher></publisher>
+          <pubPlace></pubPlace>
+        </imprint>
+      </bibl>
+      <idno type="isbn"></idno>
+      <idno type="nur"></idno>
+      <availability>
+        <p></p>
+      </availability>
+      <order>
+        <price curr="euro"></price>
+        <link></link>
+      </order>
+      <blurb><p></p></blurb>
+      <titlepage><p></p></titlepage>
+      <colofon><p></p></colofon>
+    </pod>
+    <revisionDesc>
+      <change>
+        <date>2019-11-05</date>
+        <respStmt>
+          <name type="person">KE</name>
+        </respStmt>
+        <item>colofon toegevoegd</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+   <text>
+<interpGrp>
+<interp type="secundair" value="vond001"/>
+<interp type="primair" value="amste001"/>
+</interpGrp>
+<body>
+<cf>
+<div type="chapter">
+<pb n="1"/>
+<p>TOONEELBIBLIOTHEEK.</p>
+<p><hi rend="b">N<hi rend="sup">r</hi> 67.</hi></p>
+<p><hi rend="b">VONDEL.</hi></p>
+<pb n="2"/>
+<p>De vereischten voor den letterkundigen eigendom zijn volbragt.</p>
+<pb n="3"/>
+<p>VONDEL,</p>
+<p>TOONEELSPEL IN VIJF BEDRIJVEN,</p>
+<p>DOOR</p>
+<p>H. VAN PEENE,</p>
+<p>Ridder der Leopoldsorde,</p>
+<p>Vertoond voor de eerste maal te Brussel, door de Koninglijke Maatschappij</p>
+<p>BROEDERMIN EN TAALIJVER,</p>
+<p>Den 25 September 1861.</p>
+<p>GENT,</p>
+<p>DRUKKERIJ VAN I.S. VAN DOOSSELAERE.</p>
+<p>1861.</p>
+<pb rend="blank" n="4"/>
+</div>
+</cf>
+<div type="chapter">
+<pb n="5"/>
+<q rend="bq"><hi rend="b">Aan</hi>
+<lb/>
+DE NAGEDACHTENIS
+<lb/>
+<hi rend="sc">van</hi>
+<lb/>
+DEN NEDERLANDSCHEN DICHTER
+<lb/>
+<hi rend="b">VONDEL</hi>
+<lb/>
+<hi rend="sc">wordt dit tooneelspel als huldebewijs gewijd</hi>.</q>
+<pb rend="blank" n="6"/>
+<div type="section">
+<pb n="7"/>
+<head rend="h3">[Inleiding]</head>
+<p>Joost Vondel, Van Vondel of Van den Vondele, uit Antwerpsche ouders te Keulen, den 17 November 1587 geboren, wordt met regt aanzien als de prins der Nederlandsche dichters, en Belgie zoo wel als Holland mag hem onder zijne roemruchtige kinderen tellen<note n="(1)" place="foot"><hi rend="i">Algemeene levensbeschryvingen der vermaerde mannen en vrouwen van Belgie</hi>, door C A P<hi rend="sc">iron</hi>.</note>. De vader van Vondel, die denzelfden voornaam droeg als zijn zoon, was hoedenstoffeerder te Antwerpen en had voor echtgenote zekere Sara Kranen wier vader, Pieter Kranen, te Antwerpen als een voornaam dichter bekend stond. Zoo dat Hooft tot Vondel plag te zeggen: ‘Dat gij een dichter zijt hebt gij van uw grootvader Kranen.’ Beiden waren doopsgezind, en om de vervolgingen te ontsnappen waarmede men hen voor hunne leer bedreigde, vlugtten zij op zekeren nacht naar Keulen, waar kort daarna onze dichter het licht zag. Vondel was dus even als Rubens een kind van Belgie, dat gedwongener wijze op vreemden bodem geboren werd. Zijne eerste kinderjaren bragt hij te Keulen over tot dat zijn vader het geradig vond zich met zijn huisgezin naar Noord-Nederland te begeven, alwaar de gereformeerde Christenen hunnen godsdienst nu opentlijk mogten belijden. Hij vestigde zich te Amsterdam en geneerde zich dáar met den kousenhandel. Vondel nog zeer jong zijnde trad in 't huwelijk met Maria De Wolf, van brabandsche afkomst, en nam na de dood zijner ouders derzelver broodwinning ter hand. Doch daar de dichtkunst al zijnen tijd en naarstigheid vorderde, moeide hij zich zeer weinig met den kousenhandel en liet alles op zijne vrouw, na welkers dood hij weduwenaar bleef met twee kinderen, Anna en Joost. De zoon droeg wel 's vaders naam maar de dochter bezat zijn verstand. Joost verloor door zijn losbandig leven en zijn kwalijk beleid in weinige jaren niet alleen zijne eigene middelen maar maakte daarenboven groote schulden. Doch Vondel te gevoelig van ziel zijnde 
+bood hem meermaals eene behulpzame hand en redde hem uit zeer netelige toestanden. Eindelijk vertrok hij naar Oost-Indiën, maar stierf
+<pb n="8"/>op reis. Vondel kwam bij dien losbandigen zoon wel 40,000 gulden te kort en bevond zich daardoor in eenen toestand nabij de armoede. In het een-en-zeventigste jaar zijns ouderdoms bekwam hy door voorspraak van mevrouw Van Vlooswijk, gemalin des regerenden Burgemeesters, een ambt in de bank van Leening met een inkomen van 680 gulden. Hij overleed te Amsterdam den 5 februarij 1679, in den ouderdom van 91 jaren. - Weinigen van het groot getal zijner tooneelstukken heeft men ten tooneele gebragt. Sommigen, gelijk Palamedes werden verboden en met boeten gestraft omdat zij te veel de gezindheden of de predikanten aanvielen, en anderen, gelijk Maria Stuart, omdat zij, gelijk men toen zegde, te Paapsch waren. Vondel was in 1641 tot den Roomsch katholijken godsdienst over gegaan, iets wat voor velen onverklaarbaar is gebleven. - Palamedes was het eerste stuk waarin Vondel zich in zijne grootheid deed kennen. Zijn Gijsbrecht van Amstel, welke geschreven werd voor de inwijding van den nieuwen Amsterdamschen schouwburg, wordt tot heden toe nog alle jaren omtrent Kersdag te Amsterdam vertoond.</p>
+<div type="section">
+<head rend="h4">Personaadjen.</head>
+<list>
+<item>VONDEL, dichter.</item>
+<item>JOOST, zijn zoon.</item>
+<item>ANNA, zijne dochter.</item>
+<item>GRIET, oude dienstmeid.</item>
+<item>HANS KRANEN.</item>
+<item>HOOFT, dichter en drossaart.</item>
+<item>DANIEL BICKER.</item>
+<item>ADRIAAN PAAUW, pensionaris der stad Amsteldam.</item>
+<item>BREUGELS, boekprenter.</item>
+<item><hi rend="sc">een fiskaal</hi>.</item>
+<item><hi rend="sc">een knecht</hi>.</item>
+<item><hi rend="sc">geregtsdienaren</hi>.</item>
+<item><hi rend="sc">schilders</hi> en <hi rend="sc">leden van sint lucas' gilde</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Liefhebbers.</head>
+<list>
+<item>De heer B. D<hi rend="sc">e</hi> V<hi rend="sc">riendt</hi>.</item>
+<item>De heer F. L<hi rend="sc">afontaine</hi>.</item>
+<item>M<hi rend="sc">ev</hi>. V<hi rend="sc">an</hi> P<hi rend="sc">eene</hi>.</item>
+<item>M<hi rend="sc">ev</hi>. F<hi rend="sc">auconnier</hi>.</item>
+<item>De heer E<hi rend="sc">m</hi>. H...</item>
+<item>De heer G. V<hi rend="sc">erhaeghen</hi>.</item>
+<item>De heer A. V<hi rend="sc">erleeuwen</hi>.</item>
+<item>De heer S<hi rend="sc">chijvinck</hi>.</item>
+<item>De heer J.S.</item>
+<item>De heer S<hi rend="sc">tappaert</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>Het tooneel heeft plaats te Amsteldam; de eerste vier bedrijven spelen in 1626, het vijfde bedrijf in 1651.</p>
+</div>
+</div>
+</div>
+<div type="act">
+<interpGrp>
+<interp type="secundair" value="16260000"/>
+</interpGrp>
+<pb n="9"/>
+<head rend="h2">Vondel, tooneelspel in vijf bedrijven.</head>
+<head rend="h3">Eerste Bedrijf.</head>
+<stage>Het tooneel verbeeldt eene zaal ten huize van Vondel, regts van den aanschouwer een venster.</stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage>ANNA, <hi rend="i">staat bij het venster</hi>, <hi rend="i">de oogen op de straat gerigt,</hi> GRIET <hi rend="i">is bezig met opschikken</hi>, HANS KRANEN <hi rend="i">komt binnen den hoed op en een stok in de hand.</hi></stage>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Welnu, kinderen, goed nieuws! goed nieuws! <stage>(<hi rend="i">Hij zet zijnen stok in eenen hoek der kamer.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mynheer Hans Kranen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zonder hem te hooren.</hi></stage>
+<p>Wat blijft die straat toch eenzaam.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Ulysses' verkoudheid is genezen en dezen avond zal hij spelen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mejuffer Anna, mijnheer uw oom is daar.</p>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ha! Oom! zijt gij het...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Wel zeker... waar is vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>In zijne schrijfkamer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ik zal hem verwittigen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Neen, stoor hem in zijn schrijven niet en zorg maar voor den thee, oude Griet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Oude Griet! oude Griet! net als of hij nog jong ware. <stage>(<hi rend="i">binnen regts</hi>).</stage></p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage>ANNA, HANS.</stage>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">op het venster wijzende.</hi></stage>
+<p>Hij komt dan nog niet, nichtje?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wie, oom lief?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Wie? de schoone ruiter dien gij sedert vier dagen aan dat venster afwacht.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Heeft hij niet gezegd, als hij met 't gevolg van prins Frederik-Hendrik Amsteldam verlaten heeft: den derden dag van de toekomende maand zal ik terug zijn. - Wij zijn reeds aan den zevenden en uwe oogen staren nog altijd op de groote baan zijne terugkomst te gemoet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">het venster sluitende.</hi></stage>
+<p>'t Is waar.</p>
+</sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Komaan, geene moedeloosheid, Daniël is een regtzinnige jongeling, een getrouwig hart. Hij heeft u beloofd terug te komen en hij zal zijne belofte houden, is het niet heden het zal morgen zijn. Een of ander beletsel wederhoudt hem in den Haag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Denkt gij het, oom?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Ik ben er zeker van; ware het anders meent gij dat ik hem den toegang tot dit huis zoû vergund hebben? Sedert de dood uwer moeder zaliger, ben ik het immers die op u, op de eer der familie waak; want uw vader heeft het veel te druk met zijne verzen en zijne tooneelstukken om het oog op de minnaars te houden. En wat uw broeder Joost betreft, zijne gewonelijke zorgloosheid en het vermaak waar hij zijn leven in overbrengt, beletten hem op u te denken, tenzij in de oogenblikken dat hij u noodig heeft om aan geld te geraken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniel's vader is rijk, zegt men, en heeft eene hooge bediening.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Hij is eerste stalmeester van prins Frederik-Hendrik. Ten anderen uw vader, sedert hij zijnen kousenhandel heeft laten varen om zich geheel aan zijne geliefkoosde studiën over te geven, is ook niet van fortuinmiddelen ontbloot en kan eenen taamlijk schoonen bruidschat aan zijne dochter schenken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik vrees eene andere hinderpaal. De heer stalmeester is een van de ergste Gommaristen, Contra-Remonstranten gelijk men zegt, en gij weet wat hevige strijd deze sekte tegen de Armenianen of liever Remonstranten voert.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Zwijg toch, heeft de liefde iets uitstaande met religie
+<pb n="12"/>twisten? Als Daniël u opregt bemint, gelijk ik er de overtuiging van heb, wat geeft het hem dat Arminius in de war ligt met Gommarus.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Omtrent Daniël ben ik gerust, maar omtrent zijn vader is het zoo niet. Hij zal, vrees ik, niet vergeten hebben dat de Armenianen, na dat zij hunne leer in eene memorie, getiteld Remonstranciën, der staten van Holland hadden aangeboden, door hunne tegenpartij de Contra-Remonstranten in de sijnode van Dordrecht als ketters zijn veroordeeld.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Wat zegt dat? Uw vader is geen Armeniaan, hij is Mennonist, doopsgezinde gelijk ik, gelijk geheel de familie.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja maar, hij is niet te min de zaak der Remonstranten geheel toegedaan. Dus zal Daniël's vader in hem altijd een religievijand zien en gevolgentlijk weigeren familiebanden met ons aan te knoopen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>De tijden waarin ieder mensch een vijand zag in dengenen die van zijn geloof niet was, zijn voorbij en het juk van gewetensdwang door de Spanjaarden opgelegd en waaronder onze familie eertijds zoo bitterlijk heeft gezucht, zal hier op niemand meer drukken. Dikwijls heb ik u verhaald wat wreede vervolgingen uw vader's ouders, eenige jaren voór dat zij zich te Amsteldam zijn komen vestigen, hebben onderstaan, hoe zij op zekeren nacht, gedurende een vreeslijk wintertempeest uit Antwerpen gevlugt zijn en hun vaderland verlaten hebben om uit de handen te geraken van hen die wilden dat zij zich tot de roomsche leering bekeerden, en hoe gevolgentlijk al deze jammerlijke omstandigheden gemaakt hebben dat weinig nadien, den 17 november 1587, uw vader te Keulen op vreemden grond in plaats van te Antwerpen, zijne vaderstad, geboren is. God zal niet gedoogen dat die tijden ooit terug komen. Dus langs dien kant moogt gij volkomen
+<pb n="13"/>gerust zijn, en wat het vermogen en het aanzien betreft, is Daniël de zoon van den stalmeester eens prinsen, Anna is de dochter van Vondel, van den eersten dichter der Nederlanden.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage>D<hi rend="sc">e vorigen</hi>, VONDEL, <hi rend="i">met een handschrift in de hand komt links op.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zwijg, eeuwige pocher! indien Van Aarssen of Paauw u hoorden, zij zouden zeggen dat ik geen vers regt op zijne pooten kan zetten.</p>
+<lg type="poem">
+<l>Poch op uw eigen zelf noch op uw' naasten niet</l>
+<l>Of gij bereidt den schicht waarmêe de vijand schiet.</l>
+</lg>
+<stage>(<hi rend="i">Anna gaat wêer naar 't venster.</hi>)</stage>
+<p>Welnu, hebt gij nieuws van Buikels, kan hij dezen avond Ulysses spelen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Volkomen hersteld, vriend, en zijne stem klinkt als kristaal wanneer hij zegt: <stage>(<hi rend="i">Declamerende.</hi>)</stage></p>
+<lg type="poem">
+<l>Het hof van Argos zal u morzelen tot gruis</l>
+<l>Of gij zult hen tot stof verdelgen met hun huis.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dus zal mijn Palamedes, welken een samenloop van tegenslagen tot groot genoegen van al mijne wederstrevers reeds drie maanden van 't tooneel verwijderd houdt, heden worden opgevoerd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>En de schouwburg zal te klein zijn, want reeds zijn al de beste plaatsen door de voornaamste ingezetenen van Amsteldam voorop besproken. Iedereen wil het stuk zien, waarvan zooveel gewag gemaakt wordt sedert het door den druk verspreid is en de lezers onder den griekschen
+<pb n="14"/>wapenrok van Palamedes het advokatenkleed van den onthoofden Olden-Barneveld herkennen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De gebeurtenissen heb ik zoodanig niet bewimpeld dat ze voor elkeen zouden verdoken blijven. Neen, onder den naam van Calchas heb ik de listen en lagen van ijverzuchtigen en heethoofden zooals Bogerman, Triglandius, willen paal stellen; ik heb den valschaard Van Aarssen in den slinkschen Ulijsses, den verrader Gerrit Van Zanten in den beulschen Thersites en den edelen graaf Willem Lodewijk van Nassau in den valschbeschuldigden Diomedes herschapen. Te slechter voor diegene die zich in de personaadjen van mijn treurspel zullen herkennen. Ik heb volgens geweten en innige overtuiging geschreven en mijn werk in de wereld gezonden niet gelijk de schuwe nachtuilen hun gekrijsch in den donker doen hooren, maar wel in den helderen dag, geteekend met mijn naam. Men mag ervan zeggen wat men wil, de slag is gegeven, ik zal wachten wat ervan komt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! vader! vader! hij is daar.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wie?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Kunt gij het niet raden? de jonge ruiter met zijn wit paard.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Daniël Bicker!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Zie, zie, hij doet mij teeken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Nu, ga hem te gemoet en zeg hem van mijnentwege hartelijk welkom.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik loop, vader. <stage>(<hi rend="i">Af door 't verschiet.</hi>)</stage></p>
+</sp>
+</div>
+<div type="scene">
+<pb n="15"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, <hi rend="i">uitgezonderd Anna.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De zoon van den stalmeester Bicker hier, op het oogenblik dat Palamedes gaat vertoond worden, dat is een goed voorteeken. Ik heb nog gevreesd dat de jongeling door den vader tegen den schrijver opgeruid, mij een vijand te meer zoude geworden zijn; zijne komst bewijst mij het tegendeel. Komaan, de Contra-Remonstranten worden toegevend en redelijk, wij zullen nog eindigen met eene volkomene verzoening. In die hope zullen wij deze versjes welke ik daar zoo even gedicht heb, ten vure doemen. Het is niet noodig stokken in 't wiel te steken als dit naar wensch voortrolt. <stage>(<hi rend="i">Hij scheurt eene bladzijde uit den kladderboek waarmede hij binnen gekomen is.</hi></stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">hem de bladzijde afnemende.</hi></stage>
+<p>Een oogenblik, neef. <stage>(<hi rend="i">Lezende.</hi>)</stage> ‘Medaalje voor een Gommarist.’</p>
+<lg type="poem">
+<l>Dappre vorsten van ons land,</l>
+<l>Houdt den rekel kort aan band</l>
+<l>Of hij bijt u in de hielen.</l>
+<l>Wacht u van die trugge fielen,</l>
+<l>Want zij knorren staag om meer</l>
+<l>En verslinden hunnen heer.</l>
+<l>Zonder grommen, zonder klagen</l>
+<l>Kunnen zij een been niet knagen;</l>
+<l>Elk die hapt om 't grootste deel,</l>
+<l>D'een ziet boven d'ander scheel.</l>
+<l>Drinken, plengen, zwelgen, brassen</l>
+<l>Op sijnoden en in klassen</l>
+<l>Met een wel gebakerd lijf</l>
+<l>Dat is al hun tijdverdrijf.</l>
+<l>Veel van zuiverheid te roemen,</l>
+<l>Vrome luiden te verdoemen</l>
+<l>Is bij hen het reedste werk.</l>
+<l>Lijkt dat aan een kristenkerk?’</l>
+</lg>
+<pb n="16"/>
+<p>Voor den drommel! neef, dit zijn kleine krijgsgranaten welke ik in mijn papierarsenaal zal bewaren.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vijfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, ANNA, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader, oom, ik kondig u 't bezoek aan van den heer Daniël Bieker.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ha!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">groetende.</hi></stage>
+<p>Mijnheer Kranen. - Heer Vondel, gelief mij te verschoonen indien ik aan mijn woord niet volkomen heb, gelijk ik het hadde gewenscht. Ik had beloofd binnen eene maand terug te zijn; doch mijn vader was eenigzins ontsteld en ik heb hem niet durven verlaten dan na de verzekering dat alle gevaar voorbij was.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij hebt zeer wel gedaan, mijnheer Daniël; de liefde tot zijne ouders is de schoonste deugd van een jong mensch.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zacht tegen Hans.</hi></stage>
+<p>Vindt gij niet, oom, dat hij er nog beter uitziet dan den voorleden keer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Veel beter.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik hoop dat gij eenigen tijd bij ons zult overbrengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik heb voor drie dagen mijne kamer in de Hostelerij besproken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Slechts voor drie dagen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wij hopen u langer te Amsteldam te mogen houden.</p>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik wacht tijdingen uit den Haag en als zij gunstig zijn dan...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dan zult gij langer blijven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Als ik u daardoor kan behagen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Zonder twijfel.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>En dat mijn bezoek mijnheer uw vader niet al te lastig valt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Toch niet, alleenlijk als ik werk zult gij het niet kwalijk nemen dat gij mijne schrijfkamer gesloten vindt. Gij zult u dan met het gezelschap mijner dochter moeten bevredigen, en ik ben zeker dat het u aangenamer zal zijn dan het mijne.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">daniel</hi>.</speaker>
+<p>Ha! mijnheer!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader heeft gelijk; het gezelschap eens dichters is in 't geheele niet aangenaam; zijne gedachten zijn altijd elders en hij antwoordt u de helft van den tijd wit als gij hem naar zwart vraagt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>In afwezigheid van mijn neef, heer Daniël, ben ik hier om hem te vertegenwoordigen en ik hoop dat nicht Anna niets op mijn gezelschap zal te zeggen vinden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Daaraan twijfel ik niet, mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! gij, gij zijt een oom gelijk er geene meer zijn, toegevend, beminnelijk, nooit aan 't knorren, tenzij als het op 't kapittel van mijn broeder Joost komt; maar dat is een blijk te meer van genegenheid.</p>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Hoort gij ze oom de mouw vagen, omdat hij een lieftallig gezicht zoù toonen aan hem dien ze in het hart draagt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">de oogen nederslaande.</hi></stage>
+<p>Oom, ik wist niet dat ik u daarom de mouw moest vagen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Nu, dat moet gij immers niet; gij weet wel wat ik u dezen morgen gezegd heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Als gij het goed vindt gaan wij te samen thee nemen die reeds binnen moet opgediend zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Oom heeft Griet bevelen gegeven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dat is goed. Ondertusschen zal het stilletjes tijd worden om naar den schouwburg te gaan zien of er niets ontbreekt voor de vertooning van dezen avond. Gij weet, Daniël, dat gij veroordeeld zijt om de eerste voorstelling van mijnen Palamedes bij te wonen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>In dat geval ben ik zeker eenen aangenamen avond over te brengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wie weet? de avond kan zeer onstuimig zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Van handgeklap, ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Zal ik de eer niet hebben mijnheer Joost de hand te mogen drukken?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijn zoon? ja... neen... ik weet het niet. Is hij te huis, Anna?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Neen, vader, hij is reeds vroeg uitgegaan. <stage>(<hi rend="i">Ter zijde.</hi>)</stage> Indien hij wist dat hij sedert gisteren nog niet te huis is gekomen.</p>
+</sp>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik hoop hem bij het middagmaal tegenwoordig te zien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Als hij zich verwaardigt zijne vermaakgezellen te verlaten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijnheer Daniël, 't is de gewoonte hier zonder plegtplegingen te handelen, wij gaan vooruit om u den weg te toonen. Kom, oom. <stage>(<hi rend="i">Zij gaan regts binnen.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">met Anna volgende.</hi></stage>
+<p>Liefste Anna, ik bemin u uit gansch mijn hart.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël, ik geloof u.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage>JOOST, <hi rend="i">alleen</hi>, <hi rend="i">door 't verschiet binnenkomende.</hi></stage>
+<p>Oef! daar val ik weêr van den hemel des vermaaks in de hel der huisvoogdij... ik ben onder het vaderlijke dak. 't Is gelijk, de nacht is verrukkelijk geweest en om hem te sluiten een lekker ontbijt bij onzen goeden vriend Flemp, wiens oom, een suikeroom, gisteren overleden is; iets waaraan hij zeer wel heeft gedaan, want vriend Flemp's kas was tot op den bodem leeg, even als de mijne. Dezen nacht heb ik mijnen laatsten gulden verspeeld; als ik zeg mijnen gulden, dat is juist zoo niet, want ik heb reeds verschrikkelijk veel uit anderman's kas geput; en toch moet ik van avond geld hebben. Het is Adelina's naamfeest en ik heb haar een geschenk beloofd, dat al hare andere moet overtreffen. Adelina is de vrouw naar de mode, de glinsterende star rond dewelke zich de Amsteldamsche jeugd zamentrekt, en als ik mij achteruit laat zetten, als ik niet den eersten gunsteling blijf, dan is mijne faam verloren. O! kost wat kost moet ik die redden. Maar hoe aan geld geraakt? Ik heb geen suikeroom, die mij 't vermaak zal doen heden
+<pb n="20"/>te sterven. Nu, ik ga eene uiterste pooging bij mijne zuster wagen; zij heeft mij reeds zoo dikwils uit de verlegenheid geholpen, dezen keer zal zij er mij niet laten inzitten.</p>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ha! zijt gij daar, mijnheer Joost? Uw vader heeft al verscheidene malen naar u gevraagd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is wel. Waar is Anna?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Zij is binnen aan de theetafel met uw oom Hans en met den jongen heer uit den Haag, gij weet wel...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Daniël... <stage>(<hi rend="i">ter zijde.</hi>)</stage> Vervloekte tegenslag!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Hij is zoo even toegekomen en zal eenige dagen te Amsteldam overbrengen. Hij wenscht u te zien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Dat hij naar den drommel loope! zeg maar dat ik niet te huis ben, ik heb er geen uitstaans mede. Ten anderen, ik moet spoedig weêr vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Maar gij zet eerst den voet in huis sedert gisteren middag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Sedert gisteren middag?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Gij hebt nogmaals den nacht elders overgebragt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Hoe weet gij dit?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ik heb geheel den nacht naar u zitten wachten.</p>
+</sp>
+<pb n="21"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ik, ja, om u in te laten, opdat gij door het kloppen op de deur uw vader niet zoudet gewekt hebben. De arme man! indien hij wist dat zijne oude dienstmeid hem helpt bedriegen... maer het is om hem 't verdriet te sparen, welk uwe ongeregeldheden hem zouden veroorzaken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Beste Griet! maar ik wil niet dat dit nog voorvalle... ik wil niet dat gij 's nachts naar mij wachtet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Gij belooft mij dus 's avonds vroeg naar huis te komen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Neen, maar ik zal telkens tot 's morgens wachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ha! mijnheer Joost! mijnheer Joost! maak geen misbruik van de goedheid uws vaders. Bedenk dat gij eenen naam draagt die door geheel het land geacht en geroemd wordt en dat gij denzelven niet moogt onteeren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">streng.</hi></stage>
+<p>Griet!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>O! ik heb 't regt aldus te spreken. Het is reeds vijf-en-dertig jaar dat ik uw vader dienstbaar ben. Ik heb hem nog kind zijnde op den arm gedragen, hem groot gekweekt, hem zien trouwen en ben steeds bij hem gebleven, min als eene dienstmeid dan als eene getrouwige, eene goede vriendin. U op uwe beurt heb ik ook op den arm gedragen en groot gekweekt, wees dus niet gestoord als ik voor uw welzijn bezorgd ben. Ik ben maar eene eenvoudige vrouw, maar mijne jaren hebben mij eenig gezond oordeel gegeven, en uit een gezond oordeel spruit somtijds een goede raad. Geloof mij, mijnheer Joost, de baan welke gij bewandelt is niet vrij van gevaren. Gij verkeert met vrienden die niets denken dan op 't vermaak en vergeten dat elk mensch op
+<pb n="22"/>deze wereld moet werken, de eene meer, de andere min, om de twee eindjes van 't leven aan een te knoopen. 't Is zeer gemakkelijk niets te doen als de geldkas vol is; ongelukkiglijk kijken de jongelingen nooit naar den bodem, en op eenen goeden morgen staan zij deerlijk te zien als 't geld verdwenen is en zij geen middel bij de hand hebben, hetzij door arbeid, het zij door eenen staat, om er ander te bekomen. Dan maakt men schulden, welke men voorop zeker is niet te kunnen betalen, om het even men maakt ze toch; men bedriegt dus gewetenswille, en als men eens aan 't bedriegen is, God weet waar men ophoudt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Wat durft gij veronderstellen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>O! niets... verre van mij te denken dat gij u iets te verwijten hebt. Het is alleenlijk voor uw welzijn dat ik zulks zeg, voor uwen braven vader en uwe beminnelijke zuster die van verdriet zouden sterven, en ik ook, indien 't ongeluk wilde dat gij eenen slechten weg insloegt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Genoeg! ik vergeef u uwe woorden om dat zij uit een goed hart komen, maar ontsla er mij den naasten keer van en doe mij 't genoegen in 't vervolg u wat min met mij te bekommeren, gij zult mij verpligten.</p>
+</sp>
+<stage>(<hi rend="i">Hij gaat naar 't verschiet.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>'t Is wel, mijnheer Joost! 't is wel. <stage>(<hi rend="i">Ter zijde</hi>, <hi rend="i">een traan droog ende.</hi>)</stage> Ongelukkige jongeling! ...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Griet!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mijnheer Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik moet volstrekt mijne zuster spreken, ga haar halen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Haar gaan halen?</p>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ja, maar zonder te zeggen dat ik het ben die om haar zend.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Wie zal ik aankondigen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Dat is mij onverschillig.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Maar...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ongeduldig.</hi></stage>
+<p>Ga, vervloekt! en doe wat ik u zeg.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ja, mijnheer. - Daar is juist mejuffer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is wel, laat ons alleen.</p>
+</sp>
+<stage>(<hi rend="i">Griet vertrekt.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage>JOOST, ANNA.</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, Joost, gij zijt daar en gij komt niet binnen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik heb geenen tijd, Anna.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Maar dit is onbeleefd. Griet heeft u toch wel gezegd dat Daniël gekomen was.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ja dat heeft ze mij gezegd, maar er zijn zaken die mij nader gaan dan de komst van mijnheer Daniël.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welke zaken?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik moet volstrekt honderd gulden hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Honderd gulden! en waar denkt gij die te halen?</p>
+</sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Bij u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Bij mij! lieve God! maar ik heb u reeds alles gegeven wat ik bezat, op voorwaarde van uwe laatste schulden daarmede af te doen en op uwe stellige belofte van geene nieuwe meer te maken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik heb mijne belofte gehouden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>En gij komt mij op nieuw geld vragen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>En waarom?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Omdat ik het noodig heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Het spijt mij, maar ik kan u geen geld geven, omdat ik er geen meer heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Welnu, als gij geen geld meer hebt, gij hebt juweelen, onder andere het halssnoer van moeder.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Het halssnoer van moeder!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik ken iemand die er u drie honderd gulden zal op leenen, en daar ik er maar honderd noodig heb...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ha! schaam u; zulk een voorstel kan van geen eerlijk man komen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Wat durft gij zeggen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dat gij van alle eergevoel moet ontbloot zijn om niet te blozen bij de enkele gedachte van uit de handen eens
+<pb n="25"/>woekeraars geld te ontvangen in ruiling van iets dat ons zoo duurbaar is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Duurbaar, ja voor u die het in uw bezit hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Het halssnoer is mij door moeder op haar sterfbed geschonken als een bruidstuk, gij hebt er geen regt op.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Moeder had 't regt niet dingen van dien aard aan eene dochter te schenken als zij wist dat zij nog een zoon had.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Eerbiedig de nagedachtenis uwer moeder en beschuldig haar niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Kort en goed, als gij mij geen geld kunt leenen, vraag er voor mij aan vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Aan vader geld voor u vragen om het te gaan verbrassen gelijk gij reeds al mijne spaarpenningen verbrast hebt... neen, neen, reken daar niet op.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik moet nogthans geld hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik herhaal het u, ik heb niets meer. Overigens gij weet het wel, gij hebt alles gehad, 't geld welk ik bestemde voor mijnen opschik, tot zelfs dat welk ik gespaard had om vader een geschenk op zijnen naamdag te koopen. Gij zijt mij van gulden tot gulden komen afleenen, altijd belovende mij 't geleende terug te geven tot dat er mij eindelijk niets meer overgebleven is, nog zelfs geene aalmoes voor eenen bedelaar. Gij hebt mij van alles beroofd, en nu wilt gij dat ik uwe medepligtige worde om vader van alles te helpen berooven. Neen, neen, zoo iets zal nimmer gebeuren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is wel, ik zal zelf geld aan vader vragen!</p>
+</sp>
+<pb n="26"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daar zijt gij meester van.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Zeker ben ik daar meester van. Ook weet ik niet waarom ik hier onder de voogdij blijf staan van een oom, van eene zuster, tot zelfs van eene dienstmeid die zich ook al veroorlooft mijne daden te gispen. Men wil mij beletten naar mynen zin te leven, maar daarin zal men niet slagen, ik voorzeg het u. Van heden af ontsla ik u allen, den eenen gelijk den anderen, van uwe al te groote bezorgdheid omtrent mij. Ik wil mij hier aan den leidband even als een kind niet meer laten vasthouden. Ik zal vader vragen wat ik noodig heb, en indien hij mij dit weigert, welnu, dan zullen wij zien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wat zult gij doen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik zal mijn regt doen gelden; ik ben meerderjarig, ik zal het deel mijner moeder, het deel dat mij toekomt, eischen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wat zegt gij? Heb ik 't wel gehoord? Gij zult vader voor de regters doen verschijnen, hem zijn huis, zijne meubelen, alles wat hem toebehoort doen verkoopen om een deel van het geld, dat hij met moeder zaliger gewonnen heeft, het uwe te maken en te gaan doorbrengen. Gij zult hier de verdeeldheid, de stoornis, misschien de armoede brengen, waar gij de liefde, de toegedaanheid, het welzijn hebt genoten. Gij moet het deel uwer moeder hebben om het in de wulpschheid te gaan verteeren... Ha! ik weet wel dat gij een doorbrenger zijt, ik kon niet denken dat gij een slechte zoon waart.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">naar haar vliegend.</hi></stage>
+<p>Anna! - God! mijn vader!</p>
+</sp>
+</div>
+<div type="scene">
+<pb n="27"/>
+<head rend="h4">Negende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, VONDEL.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Nu, wat verrigt gij hier alle twee? ik hoor u tot in de eetkamer alsof gij aan 't kijven waart.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Joost is kwaad omdat ik hem geen geld kan leenen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hoe, Joost, gij leent geld af?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik had Anna gevraagd om mij eenig geld te voorschieten tot dat ik mijn speelgeld van de toekomende maand ontvang.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Uw speelgeld van de loopende maand is dan reeds verteerd? maar, jongen, wij zijn slechts aan 't begin.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is waar, vader, maar ik ben in de noodzakelijkheid geweest eenige onvoorziene onkosten te doen voor die handelsbediening, gij weet wel, welke gij voor mij bestemt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Hoe durft hij liegen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En hoe veel moet gij hebben?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik denk dat... honderd gulden...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Honderd gulden! maar 't is de helft van 't geen gij op éen jaar kunt winnen als gij in bediening zijt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Welnu, vader, voorschiet mij heden die helft en ik beloof u het geld terug te geven zoodra ik het ontvang... of nog beter, gij kunt het zelf ontvangen.</p>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>De nietdeuger weet voorop dat hij het nooit zal te goed hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Welnu, kom in mijne schrijfkamer, ik zal u de honderd gulden leenen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Heb dank, vader, heb dank. Ziet gij wel, zusje lief, dat vader veel inschikkelijker is dan gij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zacht.</hi></stage>
+<p>Zoo is 't, ruïneer maar den braven man, gij zijt op den goeden weg.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">haar bij den arm grijpende.</hi></stage>
+<p>Kleine prij!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">een gil smoorende.</hi></stage>
+<p>Ach!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">die bij de deur was keert zich om.</hi></stage>
+<p>Wat is er?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Niets, niets, 't is Anna die lacht.</p>
+</sp>
+<stage>(<hi rend="i">Alle twee af</hi>, <hi rend="i">links.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage>ANNA, <hi rend="i">alleen.</hi></stage>
+<p>De ellendige! hij heeft mij den arm tot bloedens toe genepen. Maar dat hij niet denke dat zijne mishandelingen mij zullen doen zwijgen. Slechts vandaag heb ik hem geheel leeren kennen; zijn bedorven hart heeft zich verraden en zijne snoode plannen ontdekt. Maar ik zal hem bij vader ontmaskeren eer het te laat is, eer hij ons allen in zijnen val medesleept.</p>
+</div>
+<div type="scene">
+<pb n="29"/>
+<head rend="h4">Elfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ach! mejuffer Anna! ik weet niet wat er gebeurt. Een geregtsdienaar, vergezeld van twee andere, bieden zich uit naam van den Pensionaris Adriaan Paauw aan en vragen naar den heer Vondel.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Naar mijn broeder?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Neen, naar uw vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Naar mijn vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Men spreekt van verbod, van ophaling.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! wat gevaar bedreigt er mijn vader... ik wil het aanstonds weten en ik vlieg...</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, HOOFT.</stage>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Blijf, mejuffer. Waar is uw vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! mijnheer de Drossaart, zeg mij, wat is er? is mijn vader bedreigd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Bedreigd, neen, maar men haalt zijn werk bij de boekhandelaars op, men verbiedt zijnen Palamedes.</p>
+</sp>
+</div>
+<div type="scene">
+<pb n="30"/>
+<head rend="h4">Dertiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, VONDEL, HANS, DANIEL, JOOST.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat zegt gij, mijnen Palamedes verbieden!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi> <hi rend="i">en</hi> <hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Is het mogelijk!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Daar zoo even is het bevel van den Pensionaris uitgegaan. Reeds heeft men de plakkaarten van de poort des schouwburgs gerukt en de Fiskaal met twee mannen van de wet zijn daar om de afdruksels in beslag te nemen welke gij nog in uw bezit hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dat zij komen; zij zullen in die kamer niet gaan of ze zullen mij onder de voeten moeten trappen. Mij mijnen arbeid ontrukken, de vrucht van mijne nachten en dagen, van mijn zwoegen en zweeten! Mijn Palamedes waarop ik gerekend had om mijnen roem als dichter te staven! O! neen, neen, dat is niet waar, mijnheer Hooft, zij hebben hem niet verboden, zij zouden niet durven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Het is evenwel zoo.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik zeg u dat zij niet zouden durven, zij weten wel dat ik hen allen onder mijne pen zoû verbrijzelen. Het is een valsch alarm door mijne vijanden uitgestrooid om het volk uit den schouwburg te houden, om den bijval welken mijn stuk te wachten staat te verminderen. Maar verbieden... o neen, duizend maal neen! Gij zijt allen te ligt verontrust; een valsch gerucht heeft u verschrikt, maar ik, ik geloof er niets van.</p>
+</sp>
+<stage>(<hi rend="i">De Fiskaal met de twee geregtsdienaren komen binnen.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Welnu, zie.</p>
+</sp>
+<pb n="31"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ach!</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Veertiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, DE FISKAAL, <hi rend="sc">twee geregtsdienaren</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">de fiskaal</hi>,</speaker>
+<stage><hi rend="i">tegen zijne twee mannen op de schrijfkamer wijzende.</hi></stage>
+<p>In name der wet, gaat.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">zich voor de deur plaats ende.</hi></stage>
+<p>Ellendigen! gij zult daar niet binnen gaan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Neef!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi> <hi rend="i">en</hi> <hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Mijnheer!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Met wat regt komen zij mijne woning schenden, mijnen eigendom rooven? Het zijn dieven! en ik heb het regt den eenen na den anderen te dooden. <stage>(<hi rend="i">Hij grijpt eenen stoel waarmede hij dreigt te slaan.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">gillende.</hi></stage>
+<p>Ach!!</p>
+</sp>
+<stage>(<hi rend="i">Allen omringen Vondel en weêrhouden hem.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">de fiskaal</hi>,</speaker>
+<stage><hi rend="i">tegen de twee mannen.</hi></stage>
+<p>Welaan, daar binnen en legt hand op al de afdruksels van Palamedes welke gij vindt. <stage>(<hi rend="i">De mannen gaan binnen.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">krachteloos nederzinkende.</hi></stage>
+<p>Ach! zij hebben mij vermoord! Mijn stuk! mijn stuk! God! God! wat ongeluk!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">langs den anderen kant van 't tooneel.</hi></stage>
+<p>Ik heb de honderd gulden, spoedig naar 't vermaak. <stage>(<hi rend="i">Hij vertrekt.</hi>)</stage></p>
+</sp>
+<stage>(<hi rend="i">Tafereel.</hi>)</stage>
+<stage><hi rend="sc">de gordijn valt</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<interpGrp>
+<interp type="secundair" value="16260000"/>
+</interpGrp>
+<pb n="32"/>
+<head rend="h3">Tweede Bedrijf.</head>
+<stage>Het tooneel verbeeldt eene zaal ten huize van den Drossaart Hooft.</stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage>HOOFT, PAAUW.</stage>
+<stage>(<hi rend="i">Beiden zijn gezeten</hi>, <hi rend="i">Hooft bij de tafel links</hi>, <hi rend="i">Paauw regts.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Dus, heer Pensionaris, dat gij er op gezet blijft om de zaak van Vondel een gevolg te geven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Stellig, heer Drossaart, stellig. Ik zal dien scherpvinnigen rijmelaar wel weten te temmen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Mij dunkt dat het reeds genoeg is met zijnen Palamedes te verbieden en te doen ophalen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Neen, er moet meer zijn om hem 't zwijgen op te leggen. Hebt gij gezien wat hij nog dezen morgen, weinig vóor 't verbod van zijn stuk, omtrent onze Regering in zijnen Roskam heeft durven schrijven? Het is schande.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Is het dan zoo erg, Pensionaris?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>,</speaker>
+<stage><hi rend="i">hem een gedrukt blaadje gevende.</hi></stage>
+<p>Oordeel er over.</p>
+</sp>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">hooft</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Indien hij wist dat ik telkens het eerst getrokken blaadje ten geschenke ontvang. <stage>(<hi rend="i">Luid lezende.</hi>)</stage></p>
+<lg type="poem">
+<l>‘....... 't Zijn kostelijke tijen;</l>
+<l>Het paard vreet nacht en dag; in een karos te rijen,</l>
+<l>Een juffer met haar sleep; de kinders worden groot,</l>
+<l>Zij worden op banket, op bruiloften genood.</l>
+<l>Een nieuwe mode daagt met elke nieuwe mane,</l>
+<l>De sluijers waaijen wijd gelijk een kermisvane.</l>
+<l>'t Is pracht en overdaad, 't Bestuur blijft in den zoek</l>
+<l>En eischt men rekening men vindt noch zak, noch boek.’</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Welnu, heer Hooft, kan dat blijven duren? Is dat niet opentlijk onze Bestuurderen van verkwisting en knevelarij beschuldigen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>De Roskam is aardig; hij geeft ieder wat hem toekomt en men moet een grootmoedigen geest hebben om te durven temmen hen voor wie alle man zwicht. Niet dat ik schimpen en schieten eene ridderlijke hantering denk, doch het is somtijds noodig den verwaanden gek zijne wanschapenheid en den ezel zijne ooren te toonen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>,</speaker>
+<stage><hi rend="i">opstaande.</hi></stage>
+<p>'t Is mogelijk, maar ondertusschen zal Vondel voor de wethouders rekening van zijne roekeloosheid geven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Wees voorzichtig, heer Pensionaris; het is voor de regering niet, door Vondel geroskamd, dat gij u in het harnas steekt, er is in den Palamedes eene personaadje bij wien de regtvaardigheid niet blind en de schaal niet zuiver is, en men zoû wel kunnen raden wien die personaadje verbeeldt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Die personaadje verbeeldt eenen laster. De burgemeester Reinier Paauw, mijn vader, heeft als regter over Barneveld
+<pb n="34"/>gezeten en hem naar zijn geweten gevonnisd. Het betaamt Vondel niet de nagedachtenis mijns vaders aan den schandpaal te zetten. Als zijn geweten heeft gefaald, de nakomelingschap zal het hem zeggen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Laat dan ook den Palamedes door de nakomelingschap beoordeelen, maar neem hem niet weg gelijk een aangeklaagde dien men aan zijne natuurlijke regters onttrekt om hem zonder verdediging te doen vonnissen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Tot de laatste bladzijde toe zal ik doen ophalen om ze onder mijne oogen te verbranden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Dat is 't middel niet om het stuk te dooden en te begraven.</p>
+<lg type="poem">
+<l>‘'t Verboden wordt gezocht en 't geen men ons ontzeidt</l>
+<l>Wordt altijd meest begeerd en wijd en zijd verspreid.’</l>
+</lg>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, VONDEL.</stage>
+<sp>
+<l rend="speaker"><hi rend="sc">vondel</hi>,</l>
+<stage><hi rend="i">aan de deur verschijnende bij 't hooren der verzen.</hi></stage>
+<lg type="poem">
+<l>‘De nijd mag 't werk een poos van zijnen glans berooven,</l>
+<l>De waarheid is een licht welk niemand en kan dooven.’</l>
+</lg>
+<p>Verrukt u hier te vinden, meester Paauw; ik kom van uw huis waar ik met spijt vernomen heb dat gij afwezig waart.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Binnen een uur kunt ge mij tot mijnent vinden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Indien gij malkander te spreken hebt, neem de gelegenheid waar, ik zal mij verwijderen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Uw bijzijn, beste vriend, is geene hinderpaal, integen-<pb n="35"/>deel; gij moogt zeer wel hooren wat ik mijnheer te zeggen heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Nu, dewijl de Drossaart het gedoogt, spreek, heer dichter,</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij zijt het dus die mijn stuk verboden hebt?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Die hetzelve bij de boekverkoopers hebt doen ophalen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En waarom, als 't u belieft?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Omdat er in uw stuk een onderwerp behandeld wordt dat niet mag noch kan vertoond worden. Wij kunnen niet gedoogen dat een landverrader in 't openbaar als een martelaar van staat en godsdienst worde verheerlijkt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zeg veel eer dat uw geweten knaagt en dat 't zien der waarheid u de oogen zoû verbranden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Het zien der logen kan ergere gevolgen hebben. Men moet het volk geene dwalingen voor de regte leer aanprêeken, geene ergernissen voor helddaden doen toejuichen. Uwe dwalingen zijn reeds gevonnisd en uwe ergernissen geschandvlekt geworden. <stage>(<hi rend="i">Hooft doet een ontkennend teeken.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik versta u, het is de eeuwige veete der Contra-Remonstranten tegen de Remonstranten. Maar het vonnis en de schandvlekking waarvan gij spreekt, zijn onwettig geweest daar de regters ook tevens de beschuldigers waren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Stellig, stellig.</p>
+</sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Om geene bloedige wonden te heropenen hadt gij behoeven te zwijgen. Gij hebt niet gewild, het magistraat heeft goedgevonden uw werk te verbieden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>'t Is de doenwijze van degene die het licht haten; wanneer zij met redenen te kort komen, gebruiken zij geweld om hun stuk staande te houden. Maar wat gij ook besloten hebt, ik zweer u dat ik mij op 't oordeel van het openbaar gevoelen zal beroepen en u dwingen het verbod te ligten dat mijn treurspel getroffen heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">paauw</hi>.</speaker>
+<p>Scherp dus uwe pen, bereid uwe wapens en vat den strijd aan; wij zullen zien wie van ons beiden zal wijken. Heer Drossaart, verschoon mij, ik heb hier niets meer te verrigten.</p>
+</sp>
+<stage>(<hi rend="i">Hij vertrekt.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, <hi rend="i">uitgezonderd</hi> PAAUW.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ga, ellendige; zoolang Vondel eene pen kan vasthouden zult gij den wêerbots gevoelen van 't geen gij hem doet lijden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Troost u, vriend, alles is nog niet verloren; de Pensionaris zal zijne bedreigingen niet ten uitvoer brengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat bedreigingen? Heeft hij nog niet genoeg gedaan en mag ik mij aan nog grootere slagen verwachten? Ach! beste vriend, gij moet in 't geval zijn gelijk ik om te kunnen begrijpen wat eene teleurstelling van dezen aard is. Reeds veertien dagen lang spreekt men in de stad niets dan van uw stuk dat zal vertoond worden; de rollen zijn geweten, het stuk op 't tooneel gebragt, de duizend en duizend
+<pb n="37"/>moeijelijkheden welke men in alles en overal ontmoet te boven gekomen, de ontelbare kwellingen vergeten, uw werk, uw kind welk gij gekoesterd hebt en waarin gij uwen roem stelt, gaat voor het publiek verschijnen en, zoo hoopt gij ten minste, door duizend handen toegejuicht worden en dus het doopsel des bijvals ontvangen... nog eenige uren en de doek die uwen arbeid omsluijert zal worden weggeschoven... En zie, men komt u eensklaps zeggen dat uw stuk verboden en uw arbeid vernietigd is... o! zulke onverwachte slag zoû den dood eens dichters kunnen veroorzaken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Verschoven is niet verloren; uw stuk zal gespeeld worden, ik ben er zeker van. Intusschen geene moedeloosheid, het ware een nieuwe zegepraal voor uwe vijanden. Ha! indien zij Vondel's pen voor altijd konden breken, hoe zouden zij juichen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dit genoegen zal ik hun niet geven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ik hoop het wel. Gij zult hen onder den bijval van een nieuw gewrocht ter nederslaan. Doch in afwachting moeten wij niet onledig blijven. Laat zien, zijt gij bij Vander Pol geweest?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, hij betreurt het gebeurde en hoopt het verbod te doen ligten. Wat de vertooning van heden betreft die moet onderblijven, aangezien de tijd ontbreekt voor de noodige poogingen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Dat is juist. Bij wien zijt gij nog gegaan?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Daniël Bicker, de jongeling waarvan ik u dikwijls gesproken heb is de neef van den tegenwoordigen burgemeester van Amsteldam Cornelis Bicker. Hij heeft op zich genomen hem het hatelijk gedrag van den Pensionaris te
+<pb n="38"/>doen kennen om misschien op die wijze uit handen van den burgemeester zelven eene opschorsing van 't verbod te bekomen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Dat is niet slecht, doch eene pooging door dien jongeling aangewend is niet voldoende. Ik wil zelf den burgemeester over de zaak inlichtingen gaan geven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zoo veel goedheid...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Gij weet dat gij op mijne vriendschap altijd moogt staat maken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gelijk gij op mijne erkentenis. Vondel zal nooit vergeten wat hij den dichter Hooft, den Nederlandschen Tacitus, verschuldigd is; gij waart immers mijn leidsman bij mijne eerste stappen op de letterbaan, mijn meester in de taalgeleerdheid.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, EEN KNECHT.</stage>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>De boekprenter Breugels doet vragen of de heer Drost sprekelijk is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Zeer weinig, doch laat hem binnen komen. <stage>(<hi rend="i">De knecht vertrekt.</hi>)</stage> Ik kan raden waarvoor hij komt. Ik had hem van het drukken van een mijner tooneelstukken gesproken, doch zonder het gebeurde van heden zoû ik u omtrent hetzelve geraadpleegd hebben, want ben ik uw meester in de taal geweest, gij zijt mijn meester in de tooneelkunde geworden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dat belieft u zoo te zeggen.</p>
+</sp>
+</div>
+<div type="scene">
+<pb n="39"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, BREUGELS.</stage>
+<sp>
+<speaker><hi rend="sc">breugels</hi></speaker>
+<p>Verschoont mij, heeren, ik kom zeker in een slecht oogenblik.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Zoo als gij zegt, meester Breugels. Wij hebben het zeer druk, ik moet aanstonds vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Ik kwam u vragen wanneer ik het handschrift van uw nieuw stuk kan krijgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Morgen, overmogen, dat ding heeft thans geene haast.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Naar uw believen, doch ik moet volstrekt het proefblad van uwe Nederlandsche Geschiedenissen hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ongelukkiglijk is het niet geheel nagezien. Hebt gij tijd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Zeker.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>In dat geval zal vriend Vondel de proef eens spoedig overloopen terwijl ik uit ben, niet waar?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Van ganscher harte.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>,</speaker>
+<stage><hi rend="i">op de tafel wijzende.</hi></stage>
+<p>Zie hier alles, handschrift en proef. Wacht mij hier af, ik zal niet toeven terug te zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Moogt gij slagen en met goed nieuws komen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ik hoop het... - Welaan, corrector, aan 't werk. Misschien zal men later zeggen: Vondel heeft Hooft verbeterd.</p>
+</sp>
+<stage>(<hi rend="i">Hij vertrekt.</hi>)</stage>
+</div>
+<div type="scene">
+<pb n="40"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, <hi rend="i">uitgezonderd Hooft.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Nu, Breugels, hoe veel afdruksels van Palamedes heeft men bij u opgehaald?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Niet éen, zij waren al verkocht.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Te beter; mij hebben zij geen enkel exemplaar gelaten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Dat is 't minste, met veertien dagen zal er eene tweede uitgave van uw stuk verschijnen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Denkt gij dat?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Ik zelf belast er mij mede en nog wel met eene nieuwe letter.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zeer goed.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Binnen eenige jaren zult gij zoo veel uitgaven van uwen Palamedes hebben<note n="(1)" place="foot">Het treurspel Palamedes werd rond de dertig malen herdrukt.</note> als er mannen zijn die hem willen vernietigen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De zaak krijgt dus eene gunstige ruchtbaarheid.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Het getal uwer bewonderaars is zoo groot en dat uwer benijders zoo klein dat deze laatsten zich met 't gezag hebben moeten wapenen om de overhand te krijgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En wat zegt men in stad van het verbod?</p>
+</sp>
+<pb n="41"/>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Iedereen is er van verontwaardigd. Toen ik de kleine vleeschhal voorbij trok vereenigden zich de drie kamers van Rhetorika in de Nes ten einde maatregelen te nemen om Palamedes spijts 't verbod te doen vertoonen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">opstaande.</hi></stage>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>De geneesheer Samuël Coster zelf, de stichter der Akademie, ging zich aan 't hoofd stellen om bij het magistraat tegen de handelwijze van den Pensionaris te protesteren en het koste wat het wille de zaak door te drijven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En zoo iets laat gij mij niet aanstonds weten... gij laat mij hier een proefblad nazien terwijl men ginds over mijnen naam, over mijne eer, over mijn leven handelt... O! niets kan mij wederhouden... Die edele vrienden moet ik zien.. ik moet hunne grootmoedigheid zegenen, hunne handen met dankbare tranen besproeijen. Mijn Palamedes! mijn Palamedes! gij zijt dan nog niet geheel voor mij verloren!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Welke ontroering! ... en de proef? de proef?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Laat mij! laat mij! ... Ach! ik heradem, ik herleef!</p>
+</sp>
+<stage>(<hi rend="i">Hy vertrekt driftiglijk.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage>BREUGELS, <hi rend="i">vervolgens</hi> DE KNECHT.</stage>
+<p>Daar is hij weg.. Het hart eens dichters alleen is vatbaar voor zulke hevige gewaarwordingen; het bonst tegen de borst bij elken zegepraal gelijk bij elke nederlaag. - Laat ons zien hoe ver hij met de proef was. - Lieve hemel! hij heeft er geen hand aan gestoken. Geen wonder, de man heeft niets dan zijnen Palamedes in het hoofd. <stage>(<hi rend="i">Hij belt, de
+<pb n="42"/>knecht verschijnt.</hi>)</stage> Als uw meester te huis komt zeg hem dat ik de eer zal hebben terug te komen.</p>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Zeer wel, mijnheer.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">zeer aangedaan.</hi></stage>
+<p>Verschoon mij, mijnheer. <stage>(<hi rend="i">Tegen den knecht.</hi>)</stage> Kan ik spoedig mijnheer den Drossaart spreken?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Mijn meester is afwezig, doch hij zal spoedig terug zijn... indien mijnheer gelieft te wachten....</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja ik zal wachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>.</speaker>
+<p>Mijnheer schijnt zoo aangedaan...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Het is niets, mijnheer, het is niets.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">breugels</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Wat heeft hij dan die jongeling? <stage>(<hi rend="i">Luid.</hi>)</stage> Mijnheer, uw onderdanige dienaar.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">insgelijks groetende.</hi></stage>
+<p>Mijnheer...</p>
+</sp>
+<stage>(<hi rend="i">Breugels vertrekt met den knecht.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage>DANIEL, <hi rend="i">alleen.</hi></stage>
+<p>Welaan, blijven wij bedaard, indien het mogelijk is, en wachten wij de komst van den Drossaart af, hij zal welligt een middel weten om den slag af te weren die Vondel staat te treffen. Hoe spoedig en snood is men te werk gegaan en
+<pb n="43"/>hoe schrikkelijk klinken nog deze woorden van mijn oom den burgemeester mij in de ooren: Wat, zegde hij, schaamt gij u niet, heer neef, ten voordeele van dit mensch te komen spreken, welk welhaast voor de regtbank rekenschap van zijne schandelijke schriften, van zijn snood gedrag zal moeten geven! Schaamt gij u niet in zijn gezelschap te verkeeren en met zijne dochter een zinneloos huwelijksplan te beramen, welk het mijn pligt is te verijdelen door uw vader van alles kennis te geven! Ga zeggen aan den vermetelen Vondel dat hij noch van mij, noch van niemand toegeving te verwachten heeft. De zaak is in handen des geregts dat hem zal straffen gelijk hij het verdient.’ Dit gezegd hebbende, verliet hij de zaal en ik, ik bleef als aan den grond genageld staan, twijfelende of ik niet alles gedroomd had. O! mijn hoofd brandt! Den vader van Anna voor de regtbank brengen en mijn huwelijk met haar beletten! ... 't is te veel! ... In dit laatste ontwerp ten minste zullen zij niet slagen, ik zweer het, want niemand, zelfs niet mijn vader zal mij van Anna kunnen scheiden. Ik hoor voetstappen... het is zeker de Drossaart die terugkomt... die man heeft vermogen, hij zal, hij moet Vondel redden.</p>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, ANNA, HANS, DE KNECHT.</stage>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Anna! O! verbergen wij haar het rampzalig nieuws.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Gij zijt hier Daniël, en waar is mijn vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Uw vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Ik heb u immers gezegd, mejuffer, dat hij in aller ijl van hier vertrokken is.</p>
+</sp>
+<pb n="44"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vertrokken en waar naar toe?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Ik weet het niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Verwittig uw meester dat wij op hem wachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Maar mijn meester is niet te huis; die jonge heer weet het wel, aangezien hij ook op hem wacht.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Welnu, laat ons alleen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">de knecht</hi>.</speaker>
+<p>Ja, mijnheer. <stage>(<hi rend="i">ter zijde</hi>)</stage> Wat heeft al dat volk vandaag? zij komen ons huis bestormen de eene achter den anderen.</p>
+</sp>
+<stage>(<hi rend="i">Hij vertrekt.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">de vorigen</hi>, <hi rend="i">uitgezonderd de knecht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Gij weet dus ook de tijding, Daniël, aangezien wij u hier bij den Drossaart vinden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Welke tijding? <stage>(<hi rend="i">ter zijde</hi>)</stage> Zouden zij reeds vernomen hebben?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël! ach! mijn vader is aangeklaagd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Aangeklaagd! hoe weet gij dit?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Zie hier de regterlijke dagvaarding daar zoo even ten zijnen huize gebragt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Reeds gedagvaard! de slag is gegeven.</p>
+</sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, Daniël, gij zegt niets... Hebt gij het niet gehoord?.. mijn vader is gedagvaard om binnen drie dagen voor de wethouders te verschijnen. Het geldt welligt zijne vrijheid, ons leven, en gij hebt op u genomen bij uwen oom voor hem te gaan spreken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik heb het gedaan, Anna.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Welnu?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Helaas! hij heeft mij alles geweigerd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Geweigerd!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>De Burgemeester, uw oom? O! 't is dat gij hem niet genoeg gesmeekt, gebeden hebt. - Gij hebt hem niet gezegd wat ik al zoû geleden hebben indien mijn vader moest aangeklaagd worden. Maar ik heb het wel gedacht, ik moest zelve gegaan zijn... Kunnen de mannen wel smeeken! neen, hun hoogmoed rigt te spoedig het hoofd op, zij zijn te trotsch om zich te vernederen. Zij zijn opvliegend in plaats van zachtmoedig en waar zij eene bede moeten doen, doen zij eene bedreiging. Ik, ik had mij voor den Burgemeester's voelen geworpen, zijne handen met tranen bedekt, hij zoû medelijden met mij gehad en de vervolgingen tegen mijn vader ingespannen opgeschorst hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna, ik zweer u dat ik gedaan heb wat ik kon. Vergroot door uwe beschuldigingen het verdriet niet welk mij de woorden des Burgemeesters hebben veroorzaakt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Zijne woorden waren dan zoo erg?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, ja, zeer erg.</p>
+</sp>
+<pb n="46"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>En hij heeft u verwittigd van 't geen er moest gebeuren?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Helaas! hij heeft mij van alles verwittigd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Is het mogelijk, en waarom vinden wij u hier?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Om raad bij den Drossaart. Ik wilde u de zaak verzwijgen tot dat wij een middel zouden gevonden hebben om alles te redden; want verre was ik van te denken dat gij reeds eene dagvaarding ontvangen hadt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Gij ziet het, zij willen geenen tijd verliezen om mijn vader ten onder te brengen. De snoodaards! Welligt hebben zij besloten hem in de gevangenis te werpen... ja, ja, zij zullen mij mijn vader ontrukken... En gij, gij blijft hier alle twee werkeloos, gij verzint, gij besluit niets, en ieder oogenblik dat vervliegt is een stap nader zijn verderf. Welaan gij zijt mannen, gij moet beter weten dan ik wat er moet gedaan worden... de tijd eischt spoed... wat gaat gij doen? ... Och God! Gij zult het zien, zij zullen mijn vader naar de gevangenis laten geleiden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Bedaar, nicht, bedaar... overhaasting doet slecht werk. De eenige die ons kan helpen is de Drossaart; wij moeten op zijne terugkomst wachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wachten! nog al wachten! en wat zullen wij er mede gewonnen hebben als wij hier in deze kamer, tusschen den angst en de onzekerheid, al de minuten van een uur zullen hebben geteld en dat de Drossaart niet terug komt? ... Neen, neen, laat ons liever hem gaan opzoeken... ik weet niet waar, doch wij zullen zoeken, de stad rond, en middelerwijl zal deze gedwongene werkeloosheid mij niet dooden.</p>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Welnu, ga, ik blijf hier.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>O! ik verlaat haar niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welaan, Daniël, als gij de dochter van Vondel opregt bemint, sta haar bij ter redding van haren, van onzen vader.</p>
+</sp>
+<stage>(<hi rend="i">Zij meenen te vertrekken.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, VONDEL.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ha! gij zijt hier? te beter! te beter!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Verheugt u, vrienden, ik heb goed nieuws!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijne vijanden, getroffen door de algemeene afkeuring welke hunne lafhartige handelwijze in de stad ontmoet, toonen zich bereid om toe te geven. De drie Kamers van Rhetorika zijn ten vollen getalle naar den Pensionaris vertrokken voorop verzekerd zijnde van den goeden uitslag hunner pooging. Morgen zal mijn stuk gespeeld worden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi> <hi rend="i">en</hi> <hi rend="sc">hans</hi>.</speaker>
+<p>Morgen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Hij weet noch niets van de dagvaarding.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Welnu, wat beteekent dit treurig gelaat als ik vrolijk ben, als ik ga zegepralen? Gij schijnt mij niet te gelooven. Maar komt dan, komt u alle drie overtuigen... gaan wij de vrienden te gemoet die mijn gewrocht moeten redden.</p>
+</sp>
+<pb n="48"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Blijf, vader, het is van hen niet meer dat de redding kan komen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dat uwe vrienden u eene hoop hebben gegeven welke zij niet kunnen verwezenlijken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Uwe vijanden in plaats van te wijken zijn onverzoenelijk geworden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Maar gij doet mij sterven; wat weet gij dan? wat is er in mijne afwezigheid gebeurd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Zult gij moed hebben?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, ja, maar om de liefde God's! spreek.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader, gij zijt aangeklaagd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Aangeklaagd!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>En binnen drie dagen moet gij voor de regtbank verschijnen...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Voor de regtbank, ik?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">hem de dagvaarding gevende.</hi></stage>
+<p>Lees.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ach!</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Dertiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, HOOFT <hi rend="i">in 't verschiet verschijnende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Arme man!</p>
+</sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">half verbijsterd.</hi></stage>
+<p>Ja... ja... binnen drie dagen... voor de regtbank, als een misdadiger, als een schelm.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>,</speaker>
+<stage><hi rend="i">in 't verschiet.</hi></stage>
+<p>En ik heb het niet kunnen beletten!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En nogthans, wat heb ik gedaan? ... niets dan de waarheid gezegd... de waarheid is dan somtijds eene misdaad... Wat zullen zij tegenover haar stellen om mij te vonnissen? de logen? <stage>(<hi rend="i">Bitterlijk lachende.</hi>)</stage> Ha! ha! ha! Het zal eene schoone zaak zijn waar de logen in de plaats der regtvaardigheid zal zetelen, waar de regters de waarheid zullen vervolgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Wees redelijk, neef!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O God! moest mijn vader eens zijne zinnen verliezen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>,</speaker>
+<stage><hi rend="i">bijkomende.</hi></stage>
+<p>Bedaar u, vriend, bedaar u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! mijnheer, red mijn vader, red hem!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Hem redden is mij niet meer mogelijk; ik kan den gang der wet niet tegenhouden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! God!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, gij hebt gelijk; de wet moet haren vrijen gang hebben. Welnu, wij zullen naar de vierschaar gaan, wij zullen daar gedwee het hoofd bukken... mijn vonnis afwachten... En mijne gelatenheid, mijne onderwerping ziende, zullen zij de hoofden te samen steken en glimlachend met mijnen val spotten. Zij zullen Vondel gedempt en zijne pen gebroken hebben. <stage>(<hi rend="i">Hevig.</hi>)</stage> Welnu, neen, neen, dat zal niet gebeuren; ik ben in de jaren nog niet waarin het lichaam krank en de geest zwak zijn; mijn bloed bruischt
+<pb n="50"/>in mijne aderen, ik heb wil en kracht en ik zal de ellendigen, die mij durven beschuldigen, onder 't gewigt hunner logens verpletteren. Binnen drie dagen, niet waar? binnen drie dagen zal Vondel te regt staan! Welaan, aan 't werk, en dat geheel Amsteldam het wete.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Wees voorzichtig, vererger uwen toestand niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ha! ik wil ruchtbaarheid! ... ik wil publiek hebben, publiek dat mijnen val toejuicht of mijne regters zal uitjouwen. Binnen drie dagen! binnen drie dagen! <stage>(<hi rend="i">Hij vertrekt in de hevigste gemoedsbeweging.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">hem volgende.</hi></stage>
+<p>Vader! vader!</p>
+</sp>
+<stage>(<hi rend="i">Tafereel.</hi>)</stage>
+<stage><hi rend="sc">einde van het tweede bedrijf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<interpGrp>
+<interp type="secundair" value="16260000"/>
+</interpGrp>
+<pb n="51"/>
+<head rend="h3">Derde Bedrijf.</head>
+<stage>Het tooneel verbeeldt de zelfde kamer van het eerste bedrijf.</stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage>GRIET, <hi rend="i">links binnenkomende met eenige folianten welke zij op de tafel plaatst.</hi></stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Lieve hemel! wat nieuw gevaar mag er toch onzen goeden meester bedreigen? Nu wil hij dat ik al zijne boeken heimelijk naar het huis zijns ooms doe dragen en telkens dat er zich een vreemd gezicht aanbiedt, heb ik last te zeggen dat hij op reis is. Dat is niet klaar en ik ben zeker dat de aanklagt zoo zeer niet vernietigd is geweest als mejuffer Anna het gezegd heeft, alhoewel de dagvaarding die voor acht dagen moest plaats hebben, onbepaaldelijk is uitgesteld geworden. Vondel had te veel vrienden in Amsteldam en de regters hebben het voorzichtig gevonden van de vervolgingen af te zien. Doch het onweder dat uiteen gedreven is kan terugkomen en vreeslijker dan ooit uitbarsten. <stage>(<hi rend="i">Dit laatste zeggende heeft zij de boeken van de tafel genomen en is er mede naar den overkant gegaan.</hi>)</stage></p>
+</sp>
+</div>
+<div type="scene">
+<pb n="52"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage>JOOST, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">driftiglijk opkomende.</hi></stage>
+<p>Vervloekt noodlot! het zal dan niet ophouden mij te vervolgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">die meende regts binnen te gaan keert zich plotseling om.</hi></stage>
+<p>He! - ha! zijt gij het, mijnheer Joost.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Wat doet gij daar?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Eenige boeken welke ik daar binnen draag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Als er iemand naar mij komt vragen zult gij zeggen dat ik uit stad ben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Hij ook al.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Welnu, hebt ge mij niet gehoord?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ja toch, mijnheer, ja toch.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Gelukkiglijk... Breng mij thee.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ja, mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Neen, breng mij wijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Wijn?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ja, klinkt dat woord zoo vreemd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Neen, maar gij weet wel dat ik den sleutel van den wijnkelder niet heb.</p>
+</sp>
+<pb n="53"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Vraag hem aan mejuffer mijne zuster, <stage>(<hi rend="i">bitterlijk</hi>)</stage> zij is immers de meesteres hier.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Wat wijn belieft mijnheer?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Den eersten die u onder de hand valt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>'t Is goed, mijnheer. <stage>(<hi rend="i">Vertrekkende.</hi>)</stage> Ha! zoo ik de vader van dat heertje ware, ik zoû hem een ander dansje leeren.</p>
+</sp>
+<stage>(<hi rend="i">Af regts.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage>JOOST, <hi rend="i">alleen.</hi></stage>
+<p>De wijn zal mij bedwelmen, mij wat opbeuren. <stage>(<hi rend="i">Opstaande.</hi>)</stage> Neen, de wijn kan mij niet helpen. - Nauwelijks ben ik de jaren der jeugd ingestapt en ik bevind mij reeds voor deze twee uiteinden: de schande of de dood. Geenen anderen weg kan ik inslaan. Ik heb het erfdeel mijner moeder, welk ik nog te goed heb, aan woekeraars verkocht veel meer dan het waard is en thans ben ik in eenen toestand waaruit geheel de fortuin mijns vaders mij niet meer kan redden. Ha! men gaat snel voort als men onachtzaam en kommerloos dag en nacht van het leven geniet. Ik ben twee-en-twintig jaren oud en ik heb zoo veel geleefd als een man van veertig; niet dat ik het mij beklaag, 't is 't geheim om 't leven te verdubbelen welk ik gevonden heb. Welaan, ik moet een besluit nemen. Als ik vandaag om te beginnen de twee duizend gulden niet betaal waarvoor ik mijn naam verpand heb, 't is te zeggen den naam mijns vaders, zal men mij schandelijk in de gevangenis werpen. Neen, liever de dood; het is de beste grap welke ik mijne schuldeischers kan spelen.</p>
+</div>
+<div type="scene">
+<pb n="54"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mijnheer Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">zonder haar te hooren.</hi></stage>
+<p>De dood zeg ik... maar dan zullen mijne vrienden met mij lachen. Zij zullen zeggen dat het mij aan moed ontbroken heeft om het lot te trotseren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mijnheer Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>En op mijn graf zullen zij spotswijze komen zeggen: Die arme Joost! hij is gestorven omdat hij niet wist te leven... Neen, neen, dat er van kome wat wil, ik zal hun dat spotten sparen. <stage>(<hi rend="i">Tegen Griet.</hi>)</stage> Welnu?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Mejuffer zegt dat zij den sleutel van den wijnkelder aan uw vader heeft gegeven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ha! zij heeft dus hare meesterschap afgelegd. En waar is vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>In zijne schrijfkamer met den heer Drossaart Hooft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is wel, ik heb hunnen wijn niet noodig, ik kan elders beteren drinken en zonder dat hij mij zelfs eene vraag kost.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Dan hebt gij ongelijk er hier te komen vragen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>O! dat wijf! dat wijf! indien hare jaren mij niet dwongen mij in te houden... <stage>(<hi rend="i">luid</hi>)</stage> Ik ga naar mijne kamer, gij weet wat ik u bevolen heb.</p>
+</sp>
+<stage>(<hi rend="i">Af regts.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ja, mijnheer.</p>
+</sp>
+</div>
+<div type="scene">
+<pb n="55"/>
+<head rend="h4">Vijfde tooneel.</head>
+<stage>GRIET, <hi rend="i">vervolgens</hi> VONDEL <hi rend="i">en</hi> HOOFT.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Hij ziet er uit als een gestampte duivel. Wat mag er hem weêral in den weg staan? Ga maar voort, jongenlief, uw kanneken zal zoo lang naar 't water gaan tot dat het breekt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">met Hooft opkomende.</hi></stage>
+<p>Griet, daar binnen zijn nog boeken en papieren welke gij bij de anderen zult dragen, doch vermoei u niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ten minste niet, meester. <stage>(<hi rend="i">Links binnen gaande</hi>)</stage> Hij zoo goed en die andere daar zoo slecht; die heeft nu toch geen haartje van zijn vaartje.</p>
+</sp>
+<stage>(<hi rend="i">Af links</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage>VONDEL, HOOFT.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De voorzorgen welke ik neem, Drossaart, zullen misschien nutteloos zijn, doch voor 't oogenblik is mijne woonst mij geene genoegzaam veilige schuilplaats en voor eenigen tijd zal ik mijnen intrek bij mijn oom Hans nemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Daarin kunt gij niet slecht doen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De zaak is hangende gebleven om den Pensionaris gemakkelijkere en zekerdere wapenen in handen te geven. Mijne overvoering naar den Haag is heimelijk besloten, ik weet het, en kan men mij tot dàar krijgen dan is er stellig mijn hals mede bemoeid.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Daarom moeten wij niet aarzelen, gelijk ik u daar zoo
+<pb n="56"/>even zegde, uw burgerregt te koopen opdat de Schepenen op dien grond uwe vervoering naar den Haag zouden kunnen weigeren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zijt gij wel zeker dat ik mijn burgerschap bekomen zal?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>En wie zoû u dezen billijken eigendom, welken ieder burger van Amsteldam met zijn bloed gekocht en op altoosdurend perkament geschreven heeft, durven weigeren? Het is de pligt der wethouders, die voor de handhaving van dat heilig regt uit het puik der burgers gekozen zijn, u hetzelve zonder uitstel te verleenen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dus reken ik op u, beste vriend, op uwen onvermoeiden ijver om mij van die bloedhonden te redden, die zeer zacht schijnen als gij ze in 't oog houdt, maar u bij de keel grijpen en bijten als gij er 't minst op denkt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Wij zullen ze muilbanden opdat ze niet meer kunnen bijten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En wat raadt gij mij nopens Palamedes?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Daar 't vertoonen van het stuk tot nu toe verboden blijft, moogt gij geenen tweeden druk laten verschijnen, ten einde geen voedsel aan de kwaadwilligheid te geven; het werk is genoeg verspreid. Ten anderen de Regeerders eens overtuigd zijnde van de regtvaardigheid uwer zaak zullen 't verbod van zelfs ligten, en een nieuwe druk gelijktijdig met de eerste vertooning zal een dubbel uitwerksel hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik moet eindigen met u altijd gelijk te geven en mij geheel op u te verlaten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Die zich op eenen goeden vriend verlaat, leunt op een kloeken stok.</p>
+</sp>
+<pb n="57"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wees dan voort de mijne... gy zult geenen ondankbare verpligten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Vaarwel, ik ga mij met uw burgerschap onledig houden en u misschien nog heden goed nieuws brengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dank, vriend, dank, en dat God u bijsta in uwe onderneming.</p>
+</sp>
+<stage>(<hi rend="i">Hooft vertrekt.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage>VONDEL, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">met eene mand boeken.</hi></stage>
+<p>Meester, hier zijn de boeken, zij wegen zwaarder dan mijn geld, weet ge?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik had u gezegd u niet te vermoeijen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Bah! dat is 't minste; zij kunnen mij toch nooit zoo veel moeite kosten als zij u reeds onaangenaamheden hebben veroorzaakt. Aan al deze papieren vodden is het te wijten dat gij uw rustig leven verloren hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij hadt liever gezien dat ik kousen had blijven verkoopen, niet waar, Griet?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Voorzeker; uwe kousen zouden u geene vijanden gemaakt en geene processen op den hals gehaald hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij hebt gelijk, had ik gewild ik zoû dat alles niet ontmoet hebben. Ik had 's morgens vroeg mijnen winkel kunnen openen gelijk mijne confraters, mijne koopwaren
+<pb n="58"/>tentoonstellen, verkoopen, geld ontvangen, hetzelve wegleggen, en leven en sterven gelijk eene plant zonder gevoel, zonder gewaarwordingen. Maar daarvoor moest God mij een hoofd geweigerd hebben dat kan denken, een hart dat kan kloppen, eene ziel die kan gevoelen. Doch God heeft mij dat alles gegeven en ik moest er gebruik van maken om hem te loven, om mijnen geest ter hemelen te verheffen. Al die gaven konden in eenen rampzaligen kousenwinkel niet begraven worden, en als ik iets geworden ben, als ik het vuur der poëzije in mijne aderen heb voelen gloeijen, 't is dat het mijne lotbestemming was, 't is dat God mij daarvoor had geschapen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Aan die schrijvers is er geene hand te steken, zij gaan maar altijd met hun hoofd voort.</p>
+</sp>
+<stage>(<hi rend="i">Zij draagt de boeken binnen.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, ANNA, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, mejuffer, heden moet ik in den Haag terug zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Eene zoo plotselinge verwijdering...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hoe gij vertrekt, Daniël?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, mijnheer, en ik kom u mijn vaarwel zeggen. Daar zoo even ontvang ik eenen brief van mijnen vader die mij gebiedt herwaarts te komen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Als 't zoo is zullen wij u niet wederhouden. Alleenlijk verzoek ik u eenige regelen voor uw vader mede te nemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Gaarne zal ik er mij mede belasten.</p>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik wensch hem te schrijven over uw huwelijksontwerp met mijne dochter.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Goed gedacht, vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>God geve dat het antwoord geene weigering zij!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik vraag slechts eenige oogenblikken, tot aanstonds.</p>
+</sp>
+<stage>(<hi rend="i">Af links.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage>ANNA, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik kan niet begrijpen, Daniël, waarom gij zulke haast hebt om ons verlaten. Is uw vader ziek?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>De hemel zij gedankt! neen...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, mag ik de redenen niet weten?..</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Liefste Anna, als ik hier aangekomen ben, heb ik u gezegd dat ik maar voor drie dagen mijne kamer in de hostelerij besproken had; sedertdien zijn er reeds elf dagen verloopen en ik ben hier nog.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>'t Is waar en waert gy eerder vertrokken nog zoû ik 't regt niet hebben mij er over te beklagen. Maar 't is juist uw vertrek niet dat mij droevig en verlegen maakt...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi></speaker>
+<p>Verlegen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël, sedert eenige dagen bespeur ik in uw gelaat eene zekere bekommering, eene bedeesdheid, waarvan ik mij
+<pb n="60"/>zelve geene rekening kan geven. Als wij te samen in den tuin wandelen en dat ik u van onze huwelijksplannen, van ons toekomend geluk spreek, schijnen uwe gedachten op een ander voorwerp gevestigd te zijn. Uw geest houdt zich met iets anders bezig dan met 't geen waarvan ik spreek. Somtijds blijft gij sprakeloos als ik u iets vraag en doe ik u de opmerking daarvan, dan glimlacht gij, maar in dien glimlach straalt er iets door dat mij doet verstaan dat ik onbescheiden geweest ben. Daniël, bemint gij mij niet meer en is mijne liefde u tot last?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna! Anna! spreek alzoo niet, het ware ons beider hart lasteren... Ik u niet meer beminnen, ik! o! dat kunt gij niet denken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! Daniël, indien gij wist hoe zeer ik uwe liefde noodig heb! zij is mijn leven geworden, mijne gelukzaligheid hier op deze aarde. Van het oogenblik dat het zoet woord, ‘ik bemin u,’ van uwe stamelende lippen is gerold, is er een nieuw leven in mij gekomen. Mijn vader was mij alles; de teederheid welke ik voor hem gevoelde was zóo groot dat het mij onmogelijk scheen nog ooit iemand anders te kunnen beminnen. Voor mijnen vader zoû ik gestorven zijn en hem die mij éen deeltje van de plaats welke hij in mijn hart bekleedde, had willen ontrukken zoû ik met afschrik aanschouwd hebben. Welnu, ik heb u gezien en in stede van te schrikken heb ik u zoo veel als mijn vader bemind. Voor u zoû ik ook willen sterven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Heb dank, Anna, heb dank! Gij zijt een edel en goed meisje, en ware het mogelijk ik zoû u in liefde willen overtreffen om u voor de uwe te beloonen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Waarom gaat er dan iets in uw hart om dat ik niet mag weten? waarom hebt gij gedachten welke gij als geheimen schijnt te bewaren?</p>
+</sp>
+<pb n="61"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna, gij alleen vervult mijn hart, ik zweer het u. Waarom wilt gij nog meer weten?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Omdat ik somtijds vrees dat gij in den toestand mijns vaders en in het slecht gedrag mijns broeders hinderpalen moogt zien tegen eene vereeniging onzer familiën.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>In den toestand uws vaders is er niets waarover een eerlijk man zich hoeft te schamen en wat uwen broeder hetreft, hij alléen moet de schande dragen welke hij veroorzaakt. Eene zuster kan niet aansprekelijk zijn voor de ongeregeldheden, voor de misdaden haars broeders.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, JOOST.</stage>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">aan de deur verschijnende.</hi></stage>
+<p>Hel en Duivel! wat durft gij zeggen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>De waarheid.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Mijnheer, ik vorder op het oogenblik de intrekking dezer beleedigende woorden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Beleedigende woorden, omdat ik zeg dat eene zuster niet aansprekelijk kan zijn voor de misdaden haars broeders; vindt gij dat het niet waar is?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik vind dat gij hier een toon voert die u niet past, en als mijn vader met uwe vleijerijen en mijne zuster met uwe liefkozingen gediend is, ik zeg u dat <hi rend="i">ik</hi> geenszins gestemd ben om uwe onbeschoftheden te aanhooren.</p>
+</sp>
+<pb n="62"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">vuur vattende.</hi></stage>
+<p>Mijne onbeschoftheden!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël, om de liefde God's! blijf kalm.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Inderdaad, het moogt mijnheer kwaad doen... de kleur zijner wangen wegnemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Mijnheer!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Joost! Joost! gij zijt een ellendige en ik ben beschaamd dat gij mijn broeder zijt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">haar langs den anderen kant doende gaan.</hi></stage>
+<p>Weg, schoone zuster! later zal ik met u afrekenen. Onder ons twee nu, heer Daniël Bicker. Ha! gij komt hier in ons huis een vriendelijk onthaal genieten, u aan onze tafel nederzetten, in onze vertrouwdheid deelen en terwijl gij de zuster van liefde spreekt, gemeend of niet, het is mij onbewust, durft gij den broeder beschuldigen en hatelijk maken. Welaan, mijnheer, gij hebt daar zoo even van misdaden gesproken... toon dan dat er hier een misdadiger is of een lafaard.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! hemel! hemel!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">tegen Anna.</hi></stage>
+<p>Geen gerucht of ik verbrijzel u tegen den grond.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">tusschen beiden vliegende.</hi></stage>
+<p>Mijnheer, raak haar niet aan of ik zal vergeten dat ik in 't huis uws vaders ben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Gij verdedigt haar!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Meer dan ik mijn eigenzelven zoû verdedigen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is ridderlijk.</p>
+</sp>
+<pb n="63"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>'t Is om u te toonen dat ik geen lafaard ben maar dat gij in tegendeel een misdadiger zijt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Wat naam geeft gij aan den ellendige die de handteekening van een ander steelt om er geld mede te krijgen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Mijnheer! Mijnheer!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Welnu! gij hebt de handteekening uws vaders gestolen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">in woede.</hi></stage>
+<p>Ongelukkige!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! maar dat heeft Joost niet gedaan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">hem den valschen schuldbrief toonende.</hi></stage>
+<p>Dat hij het dan loochene als hij durft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Vervloekte ontmoeting!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! Joost! Joost! - Ach! Daniël, nu versta ik uwe bekommering, uwe bedeesdheid.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Dit stuk ken ik niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja toch gij kent het, want de persoon zelf die er u twee honderd gulden voor betaald heeft, is mij inlichtingen komen vragen nopens de echtheid der handteekening, en ziende dat zij valsch was heb ik den schuldbrief ingekocht om u van de galg te redden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach!</p>
+</sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ha! zoo veel smaad eischt bloed; welaan, uw leven of het mijne! gaan wij, mijnheer, gaan wij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! hij gaat Daniël dooden.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, VONDEL.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat hoor ik!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! vader! red ons van Joost's woede; hij wil Daniël dwingen met hem te gaan vechten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Vechten!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">tot Daniël.</hi></stage>
+<p>Welnu, mijnheer, hebt gij mij niet verstaan?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik ben aan uwe bevelen, mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! vader, belet het hem,</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Blijf, Joost.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Neen, ik heb eene beleediging te wreken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Blijf zeg ik u, ik beveel het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Gij wilt dan dat ik een lafaard zij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">hem door een gebaar doende blijven.</hi></stage>
+<p>Ik wil dat gij mij gehoorzaamt. - Heer Daniël, ziehier den brief voor uw vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël kan niet vertrekken, vader, zonder dat gij ophoudt zijn schuldenaar te zijn.</p>
+</sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik Daniël's schuldenaar?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Hij heeft twee honderd gulden voor u betaald.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Twee honderd gulden!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">hem den schuldbrief overgevende.</hi></stage>
+<p>Lees, vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">haar den brief uit de handen willende rukken.</hi></stage>
+<p>Rampzalige!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! Ik ben niet bang van u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Maar dat is mijne handteekening niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wij weten het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">met klem.</hi></stage>
+<p>Wie, wie heeft ze dan nagemaakt?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vraag het aan uw zoon.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Aan mijn zoon! aan Joost! aan u, ellendige?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Antwoord niet, ik zie, ik begrijp alles... - Ja, ja, Daniël, ik ben uw schuldenaar, vertrek nog niet... wij zullen malkander spreken; maar laat mij een oogenblik alleen met Joost. Gaat, kinderen, gaat.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Arme vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ongelukkig door zijne goedheid.</p>
+</sp>
+<stage>(<hi rend="i">Alle twee vertrekken door 't verschiet.</hi>)</stage>
+<pb n="66"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>O! Vermaledijd ben ik!</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage>VONDEL, JOOST.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">op een stoel vallende.</hi></stage>
+<p>O mijn God! mijn God!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Ik had deze vernedering niet moeten afwachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dit is dan het loon voor al mijne weldaden, de erkentenis voor al mijne zorgen, voor al mijne teederheid. Ik ben goed geweest en men heeft zich van mijne goedheid bediend om mij te bedriegen, om eene misdaad te plegen. <stage>(<hi rend="i">Opstaande</hi>)</stage> Welaan, mijnheer, zeg dat het laster is, zeg dat gij deze schanddaad niet begaan hebt... maar zeg, zeg het dan!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik kan niets zeggen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Falsaris! gij zijt een falsaris! en gij hebt niet terug gedeinsd voor de straf eener dergelijke misdaad, niet geschrikt voor den afgrond die onder uwe voeten open ging. Gij wist nogthans wel dat uw schelmstuk niet eeuwig kon verborgen blijven en dat er een dag moest komen op welken gij mij rekenschap van uw gedrag te geven hadt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik wist het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij wist het! maar wat kon het u scheelen! Gij hadt geld en gij kondet dit in wellusten en vermaak gaan verteeren, zonder u verder over het toekomende, over mij te bekreunen. Gij hebt tot u zelven gezegd: ik ken mijn vader, hij houdt te veel aan de eer zijns naams om den-<pb n="67"/>zelven door de schandelijke teregtstelling van dengenen die hem draagt te laten bevlekken. - En gij hebt mij zeer wel gekend, maar dat belet niet dat gij te regt zult staan en gestraft worden; ik, ik zal uw regter zijn en een strenger regter dan al degene die u zouden vonnissen. Gij hebt onder deze schuldbekentenis mijne handteekening gezet, gij gaat er de uwe insgelijks onder zetten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Mijne handteekening!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">den schuldbrief op de tafel leggende.</hi></stage>
+<p>Als gij de mijne zoowel kunt namaken moet gij wel de uwe kunnen schrijven. Nader dus en schrijf.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">de pen nemende.</hi></stage>
+<p>Wat moet ik schrijven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dit: <stage>(<hi rend="i">hem voorzeggende</hi>)</stage> Ik ben een ellendige, een eerlooze...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Moet ik dat schrijven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zonder opmerking, ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Ach! Indien de grond kon openscheuren en mij ververzwelgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">voorzeggende.</hi></stage>
+<p>Ik ben een ellendige, een eerlooze, die noch genade, noch medelijden verdien... - Welnu, gij schrijft niet?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Vader! vader! breng mijne zinnen in verbijstering niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">op forschen toon.</hi></stage>
+<p>Schrijf, zeg ik u, schrijf.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>O! wie zal mij genoegzaam onderwerping en geduld geven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hebt gij geschreven?</p>
+</sp>
+<pb n="68"/>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">met eene door de gramschap gesmoorde stem.</hi></stage>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Voeg er nu bij: <stage>(<hi rend="i">voorzeggende</hi>)</stage> ‘Aan mijn vader heb ik te danken dat ik van de galg gered ben. <stage>(<hi rend="i">Ophoudende.</hi>)</stage> Gij schrijft, niet waar?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">even.</hi></stage>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">steeds voorzeggende.</hi></stage>
+<p>Maar het teeken der schande zal voor hem op mijn voorhoofd zichtbaar blijven ter herinnering aan mijne misdaad.’</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>O die pen, die helsche pen! zij brandt mijne vingeren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En nu... onderteeken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">opvliegende.</hi></stage>
+<p>Onderteekenen! ik dat onderteekenen! O! gij hebt mij te veel en te lang getergd, vader; het gedempte dier rigt zich razend tegen zijnen meester op.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Tegen mij, tegen uwen vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Vader, ja, gij zijt mijn vader en met dezen titel gewapend meent gij de magt te hebben om mij weêrloos onder uwe voeten te kunnen trappen! Vader, ja, en met dezen naam versierd, denkt gij een dwingeland te mogen zijn die straffeloos pijnigt en slaat, om dat de samenleving gezegd heeft: Dit kind is uw zoon. - Maar liever de banden der natuur gebroken... liever het dier gelijk te zijn dat geenen vader kent, dan mij alzoo te laten vernederen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Joost! Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik ben een ellendige, een misdadiger, ik weet het, welnu ik kan het maar eens te meer zijn. Ik herken voor mijnen vader niet den man die mij wil dwingen een lafaard te zijn.</p>
+</sp>
+<pb n="69"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>God! God! gij hoort hem en gij straft niet!</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Dertiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, HANS, ANNA.</stage>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">op de laatste woorden binnenkomende.</hi></stage>
+<p>Als God niet straft de menschen doen het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hoe?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Er is bevel gegeven Joost in echtenis te nemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Mij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En door wie?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Door een woekeraar, die drager is van twee schuldbrieven van vijf honderd gulden ieder.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Nog al! ach! ik voorzie den nieuwen slag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>En die, wetende dat de handteekening valsch is, u de keuze laat de duizend gulden te betalen of uw zoon Joost als falsaris aan 't geregt over te leveren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Welnu, welnu, dat men hem in echtenis neme... dat men hem straffe, dat men hem aan de galg hange... hij is mijn zoon niet meer... hij heeft zijn vader verloochend... O! <stage>(<hi rend="i">Hij valt weenend op eenen stoel.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Hij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>'t Is al te veel vernedering en hoon... beter is het dat
+<pb n="70"/>mijn lot volvoerd worde... Gij verlangt naar het schouwspel eener teregtstelling, welaan, laat ons vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zich voor hem plaatsende.</hi></stage>
+<p>Blijf! gij hebt het regt niet onzen naam openbaarlijk te doen bezoedelen en het ware eene misdaad te meer indien gij de schande, welke gij alleen verdient, op ons deedt nedervallen. Gij zult hier voor uwe schelmstukken boeten. Gij zult de helft van onze smart hebben, gij zult onze armoede deelen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Laat mij, laat mij...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Blijf, zeg ik u, in naam uwer moeder die u ziet en hoort, in naam uwer moeder, hoort gij! ... Zult gij haar ook durven verloochenen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">het hoofd buigende.</hi></stage>
+<p>Mijne moeder!</p>
+</sp>
+<stage>(<hi rend="i">Tafereel.</hi>)</stage>
+<stage><hi rend="sc">einde van het derde bedrijf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<interpGrp>
+<interp type="secundair" value="16260000"/>
+</interpGrp>
+<pb n="71"/>
+<head rend="h3">Vierde Bedrijf.</head>
+<stage>Het tooneel verbeeldt de schrijfkamer van Vondel. Links van den aanschouwer een meubel gezegd <hi rend="i">Bureau.</hi></stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage>VONDEL, ANNA, HANS <hi rend="i">gezeten in 't verschiet, op zijnen stok leunende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">bij de tafel zittende.</hi></stage>
+<p>Dus alles gerekend zijnde, zal de som tot twintig duizend gulden beloopen. 't Is nauwelijks de helft van 't geen ik bezit, kind, maar gij hebt gewild dat ik bij het deel, welk Joost van zijne moeder te goed heeft, ook het uwe voegde om zijne schulden volkomen te kunnen vereffenen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Om de eer van onzen naam te redden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Ja, 't is fraai wat gij gedaan hebt, twintig duizend gulden schulden voor een zoon betalen! 't is een meesterstuk van slimheid. Op mijn woord! ik bewonder u beiden. <stage>(<hi rend="i">Opstaande.</hi>)</stage> Weet ge wat? gij, neef, met al uw verstand gij zijt verdord! een domkop, en gij, nichtje, die zoo slim meent te zijn, gij zijt eene sul.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wat zoudt gij gedaan hebben, oom?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, ik had u wel gaarne in mijne plaats gezien.</p>
+</sp>
+<pb n="72"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>In uwe plaats zoû ik den schelm aan zijn ellendig lot hebben overgelaten; hij had het genoeg verdiend. Ik zoû mijnen laatsten stuiver niet gegeven, mij niet geruïneerd hebben, om eenen nietdeuger van de galg te helpen, die morgen zijn losbandig leven en zijne guitestukken zal herbeginnen, als hij die niet reeds herbegonnen heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">opstaande.</hi></stage>
+<p>Gij zijt nooit vader geweest, oom, gij kunt dus niet gevoelen wat een kind voor een vader is. Het mag zijn hart verbrijzelen, hem in den grond helpen, hem onder 't gewigt van 't verdriet en van de grievendste folteringen doen bezwijken... het blijft toch zijn kind, zijn bloed, en de liefde welke hij van deszelfs geboorte af aan voor hem heeft opgevat kan hij uit zijn hart niet bannen. Een vader kan zijn kind zien sterven, maar hij kan het zelf, hoe slecht het zij, naar de dood niet geleiden. Dat ware afschrikkelijk, dat ware eene misdaad grooter dan al degene welke een kind tegen zijnen vader kan begaan. Die anders zoû denken ware geen vader, het ware een wangedrocht.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>En wat hebt gij met al die schoone gedachten gewonnen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De hoop dat Joost misschien tot inkeer zal komen en zich beteren. Vandaag vertrekt hij met een schip dat zeilvaardig ligt voor Oost-Indiën. Eens te scheep zal ik hem misschien nooit meer wederzien, maar als 't lot wil dat hij verre van ons en van zijn vaderland sterve, ik zal toch den troost hebben dat hij niet door mij in de schande gestorven is. Hij heeft mij beloofd dat hij zich aan mijnen wil onderwierp en sedert de acht dagen dat wij bezig zijn met onze zaken te regelen, heeft hij zijne belofte gehouden!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Tot dat het welligt op 't punt zal komen van te vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Oom, gij ziet alles in 't zwart.</p>
+</sp>
+<pb n="73"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Voor den drommel! uw mooi broèrtje heeft ons niet gewoon gemaakt alles in rozenkleur te zien. Hij moet maar eenige vrienden ontmoeten die met zijn gek besluit van te vertrekken den spot drijven en dan is alles verbruid; hij verbrast uw geld of hij maakt wêer schulden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijn geld zal hij niet meer verbrassen want hij weet wel dat ik er geene meer heb, en wat de schulden betreft, ik geloof dat hij moeite zoû hebben om er nog te maken, niemand zoû hem meer borgen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Gave de hemel dat gij in deze goede meening moogt blijven! <hi rend="i">Ik</hi> heb ongelukkiglijk een slechter denkbeeld van uwen zoon; ook zal ik het mij eeuwig beklagen dat ik voor uwe redenen geweken en tot het laatste toe de taak niet volbragt heb, welke ik mij na de dood uwer vrouw had opgelegd: de meesterschap over de familie.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Misschien zoudt gij min streng geweest zijn dan ik.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Zoo denkt gij. - En nu dat gij alles hebt afgestaan, waarmede zult gij leven?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wij hoeven zoo weinig, ik en Anna, dat mijn arbeid voldoende zal zijn. Nu dat het geding aangaande mijn stuk waarschijnelijk dezen morgen naar wensch zal afloopen en dat ik geene vervolgingen meer te vreezen heb, zal ik mij met nieuwen ijver aan 't werk zetten. Intusschen zullen wij eenige voorwerpen van goud en zilver, welke ik als schenkaadjen voor dichtstukjes ontvangen heb, verkoopen om voort mede te leven en de onkosten van 't proces te betalen, die toch zeer gering zullen zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Bedrieg u niet; als gij het met prokureurs en advokaten te doen hebt komt gij altijd te kort in uwe berekening.</p>
+</sp>
+<pb n="74"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Des noods hebben wij nog het halssnoer van moeder dat drie honderd gulden waard is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Neen, kind, dat blijft het uwe en ik hoop er u weldra als bruid mede versierd te zien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Laat ons daarvan nog niet spreken, vader. Wij zullen Daniël's terugkomst en het antwoord zijns vaders afwachten.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>De heer Drossaart doet vragen of mijnheer sprekelijk is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zeker, zeker, laat den Drossaart binnen komen. <stage>(<hi rend="i">Griet vertrekt.</hi>)</stage> Ik heb een voorgevoel dat deze dag de reeks rampen zal sluiten welke sedert 't verbieden van mijn stuk als 't ware mij over het hoofd gestort zijn. Dezen morgen zag ik eene zwaluw aan 't vensterraam mijner kamer zingend haren nest beginnen en haar zoo vrolijk ziende arbeiden, zeî ik tot haar: ga voort, ga voort, lieve zwaluw, het is 't geluk welk gij weêr in mijn huis brengt.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, HOOFT.</stage>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ha! vrienden, ditmaal kom ik met goede tijdingen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Is 't waar?</p>
+</sp>
+<pb n="75"/>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>De zaak is vereffend en alles is naar wensch afgeloopen. De pleitbezorger Bouwman heeft den Pensionaris bewezen dat het treurspel Palamedes poëtenwerk was en dat men het wel een anderen zin kon geven dan velen deden; de hoofd officier Grootenhuis is van de zelfde gedachte geweest. Uwe vijanden hebben veel gesproken en wederlegd, doch niets behaald. Eindelijk hebben de Schepenen bij meerderheid van stemmen besloten dat uw stuk zal mogen vertoond worden, met uitlating echter van eenige regelen die hun tegen de borst waren en voor 't drukken der welke gij tot eene boete van drie honderd gulden verwezen wordt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Drie honderd gulden!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Zoo veel!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>'t Is weinig. <stage>(<hi rend="i">Zacht tot Anna.</hi>)</stage> 't Is veel als men niets meer heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wij hebben nog het halssnoer, vader.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En nog moed.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Het kon veel erger gaan en zonder uw verkregen burgerregt ware de zaak verder dan op de Amsteldamsche schoutsrol betrokken geweest. - En nu, dichter, dat uwe vlugt wederom vrij is, aan 't werk; Palamedes wacht naar eenen opvolger.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Het zal mij aan geenen wil ontbreken, aangemoedigd door uwe vriendschap en ondersteund door uwen wijzen raad.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Maar zoo weinig mogelijk van die pennebeten die de predikanten zoo kwaad maken.</p>
+</sp>
+<pb n="76"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik zal dat volk de waarheid nog scherper zeggen<note n="(1)" place="foot">Eigene woorden van Vondel.</note>.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Dan brengt gij wederom geheel den boêl in de war.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Mijnheer Kranen heeft gelijk.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Herinner u, vader, wat gij zelf in uwen Toetssteen geschreven hebt:</p>
+<lg type="poem">
+<l>...................</l>
+<l>De waarheid, 't is al oud, vindt nergens heil noch heul;</l>
+<l>Dus acht men hem voor wijs die vinger op den mond leidt</l>
+<l>En stil verbergen kan wat op des harten grond leidt.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Die kunst kan ik niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Zij zoû u tot geen achterdeel zijn. Maar 't is verloren tegen eenen doove gesproken, als hij niet hooren wil. In God's naam! Nu dat gij niet meer noodig hebt u tot mijnent te komen verschuilen, ga ik bevelen geven om uwe boeken naar hier te doen terug brengen. Alles ligt over hoop in mijn huis, de duivel kan er zich dood dansen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Het spijt mij, oom, dat ik u zoo veel last heb aangedaan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Indien een oom geen last met zijnen neef had, waarin zoû 't genoegen bestaan van oom te zijn?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Juist gesproken, heer Drossaart. <stage>(<hi rend="i">Tegen Vondel.</hi>)</stage> Wanneer vertrekt Joost?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dezen namiddag, om vier ure.</p>
+</sp>
+<pb n="77"/>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Uw zoon Joost vertrekt?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, vriend; gij weet dat ik u van een scheepskapitein gesproken heb die eene reis naar Oost-Indiën stond te doen. Welnu, Joost begeeft zich met hem derwaarts om er op zijne aanbeveling in een koophandelskantoor geplaatst te worden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Dat is zeer goed. Eens verwijderd van zijne vrienden zal zijne losbandige jeugd zich bedaren en met rijperen ouderdom zal ook de rede in hem spreken. Als de grond niet deugt voor zekere jonge boomen, men verplant ze en zij dragen goede vruchten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Jonge boomen, ja, maar geene jonge guiten gelijk Joost.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Oom! laat ons van zijne bekeering niet wanhopen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>O! voor mij is 't zelfde; ik zal hopen, de hope kost geen geld.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En zij is zoo zoet in het ongeluk.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Nu, ik zal hier voór vier ure terug zijn. Heer Drossaart, uwe onderdanige...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ik vergezel u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zoo spoedig weg?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Ik was alleenlijk u van den uitslag des gedings komen berigten. Thans wachten mij dringende bezigheden. - Vaarwel.</p>
+</sp>
+<pb n="78"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik zal u uitgeleiden en wij zullen langs den tuin gaan, de lucht zal mijn hoofd goed doen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>En de bloemen zullen uwe zinnen verkwikken, misschien uwe Musa aanprikkelen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>O! nog niet, mijn geest mangelt het aan vuur, mijn lichaam aan krachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hooft</hi>.</speaker>
+<p>Alles zal op zijnen tijd terug komen. Welaan, vriend. <stage>(<hi rend="i">Hij neemt hem onder den arm en vertrekt met hem regts, na Anna gegroet te hebben.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">Hooft insgelijks groetende.</hi></stage>
+<p>Mijnheer de Drossaart...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>,</speaker>
+<stage><hi rend="i">zacht tegen Anna.</hi></stage>
+<p>Zie maar dat ge Joost's reisgeld wat besnoeit; wij hebben nu nog drie honderd gulden boete te betalen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wees gerust, oom, wij zullen dat wel schikken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Best. <stage>(<hi rend="i">Vertrekkende.</hi>)</stage> Drie honderd gulden boete! en zij heeten dat de zaak vereffenen! ha! pleitvogels! pleitvogels!</p>
+</sp>
+<stage>(<hi rend="i">Af regts.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage>ANNA, <hi rend="i">alleen.</hi></stage>
+<p>Drie honderd gulden... Welaan, <stage>(<hi rend="i">zij gaat naar het meubel waarin het halssnoer ligt</hi>,)</stage> er valt niet meer te aarzelen, wij moeten het halssnoer verkoopen om ons aanzien te bewaren en een ander met onzen toestand niet te moeten bekend maken. Laat ons arm zijn maar toch onze trotschheid niet verzaken. <stage>(<hi rend="i">Zij haalt het halssnoer uit een kistje.</hi>)</stage> Hier is het. Duurbaar kleinood, gij hebt den hals
+<pb n="79"/>mijner moeder op haren huwelijksdag versierd, op eenen dergelijken dag moest gij ook om den mijnen hangen, dit kan thans niet meer zijn; onze eer wil dat wij scheiden. Vaarwel dus, duurbaar kleinood. Als Daniël terug komt heb ik geen ander sieraad noodig dan zijne liefde, is 't niet waar? En ik mag mij zonder leedwezen van u ontdoen, ik mag u verkoopen.</p>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, JOOST <hi rend="i">op de laatste woorden binnenkomende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Wat zegt zij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zonder Joost te zien.</hi></stage>
+<p>Nog eens, vaarwel, kleinood, en een afscheidskus ter gedachtenis mijner moeder. <stage>(<hi rend="i">Zij sluit het kistje weder toe.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>'t Is het halssnoer!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">hem ontwarende sluit zij het kistje in het meubel.</hi></stage>
+<p>Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Anna, waar is vader?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader is den heer Hooft en oom tot aan de achterdeur van den tuin gaan uitgeleiden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ga hem verwittigen dat ik klaar ben en op zijne bevelen wacht om te vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dat is wel, Joost; gij hebt vader sterk beleedigd, maar voor alle kwaad, als men tot inkeer komt, is er vergiffenis.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Men beweert het.</p>
+</sp>
+<pb n="80"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader heeft dezen morgen gezegd dat het geluk wêer in zijn huis ging komen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Nu dat ik vertrek, ik versta u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dit zeî hij niet omdat gij vertrekt maar omdat hij den goeden uitslag van zijn proces voorzag. Gij weet dat thans alles vereffend is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Zoo veel te beter. Gij zult nu te samen gelukkig zijn... alles is vereffend en van mij zijt gij binnen eenige uren voor goed ontslagen, 't is een dubbel geluk.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>O! ik benijd het niet; elk op zijne beurt, dat is billijk. Ik heb zoo veel geluk in mijn leven genoten, geluk zooals ik het versta, dat ik aan niemand iets moet benijden. Ik heb mijn vol deel gehad van alles wat de zinnen en het harte streelt, ik heb mij niet te beklagen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">bitterlijk.</hi></stage>
+<p>U niet te beklagen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ja, ik had misschien een ander soort van geluk kunnen kiezen, maar ik heb het lot laten geworden; het heeft met mij kruis of munt gespeeld, 't is te zeggen deugd of ondeugd, het lot heeft dit laatste geworpen. Het is mijne schuld niet, het is die van het lot.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! Joost, had gij gewild...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Willen is niet altijd kunnen. Er zijn in het leven stroomen die u ondanks u zelven medeslepen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik begrijp dat degenen die zonder steun, zonder gids,
+<pb n="81"/>zonder beschermer op de wereld zijn, aan dit gevaar niet ontsnappen, maar gij die steeds eene vaderlijke hand tot u gereikt zaagt, die de raadgevingen van eenen deugdzamen grijzaard gelijk uw oom gedurig hoordet, die een roemrijken naam te dragen, een treffelijk aanzien te bewaren hadt, dat gij zoo laag in den afgrond gevallen zijt, zoo iets stoot tegen de borst, zoo iets ergert en walgt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Genoeg; al deze verwijtingen kunnen niet herstellen wat onherstelbaar is. Men heeft mij tien jaar lang zedeleer gepreêkt, 't is niet als ik op 't punt ben van te vertrekken dat men moet herbeginnen. Ik onderwerp mij aan een uitdrukkelijk bevel mijns vaders, 't is genoeg, 't is meer dan ik van mijzelven verwacht heb. Als gij de kalmte die voor een oogenblik in mijn hart heerscht, gaat stooren, als gij mijn verlamd bloed weêr in beweging gaat brengen, dan weet ik niet of ik nog den moed of den wil zal hebben van te vertrekken. Nog eens, ga vader verwittigen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">vertrekkende.</hi></stage>
+<p>Ongelukkige! bedorven tot in de ziel, verloren en zonder hoop.</p>
+</sp>
+<stage>(<hi rend="i">Af regts.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage>JOOST, <hi rend="i">alleen.</hi></stage>
+<p>Vertrekken! en ik zal ze hier gelukkig laten terwijl ik op vreemden bodem, ver van mijn vaderland, verwijderd van mijne vrienden, een bestaan moet gaan zoeken dat vol onzekerheid is. En nadat ik honderd zeegevaren met moed zal te boven gekomen zijn, nadat ik met een lichaam door den scheepsarbeid afgemat, met trekken door de zonne misvormd ginds zal aankomen, wat zal ik er vinden? verlatenheid, armoede en verkwijning. En wanneer men hier eindelijk het nieuws mijner dood zal vernemen, dan zal men er zich over verheugen als over eene goede tijding,
+<pb n="82"/>want zij zullen nog zelfs het kortstondig verdriet niet hebben een traan op mijn graf te moeten storten. Vervloekt! de kans is niet gelijk, zij is te goed voor hen en te slecht voor mij. Elk moet zijn juist deel hebben. Ik wil nog gelukkige dagen... het ontbreekt mij slechts aan geld... in die kas ligt het halssnoer... ik heb er zoo veel regt op als een ander... welaan. - De sleutel op 't slot, goed... dat spaart mij de moeite om het open te breken.</p>
+<stage>(<hi rend="i">Hij opent de kas</hi>).</stage>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">nog buiten.</hi></stage>
+<p>Mejuffer Anna! mejuffer Anna!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">het kistje uit de kas nemende.</hi></stage>
+<p>'t Was tijd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">binnen.</hi></stage>
+<p>Ha! zijt gij het, mijnheer Joost.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Het halssnoer is geld, het geld is geluk... en nu, nu vertrek ik niet meer.</p>
+</sp>
+<stage>(<hi rend="i">Af.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Wat heeft hij daar uit die kas gehaald?</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">de vorige</hi>, VONDEL, ANNA, <hi rend="i">regts opkomende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Welnu, waar is Joost?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Hij vertrekt daar zoo even van hier.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Hoe?</p>
+</sp>
+<pb n="83"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Heeft hij u gezegd waar hij ging?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Neen, hij heeft mij niets gezegd, ik bragt juist dezen brief voor u, denkende mejuffer Anna hier te vinden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Een brief!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Uit den Haag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! misschien van Daniël.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Zie het opschrift.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Neen, 't is van Daniël niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dan zal het van zijn vader zijn. Griet, ga zien of Joost op zijne kamer niet is. <stage>(<hi rend="i">Hij breekt den brief open.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ja, mijnheer.</p>
+</sp>
+<stage>(<hi rend="i">Af.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage>ANNA, VONDEL.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">de handteekening ziende.</hi></stage>
+<p>Gelijk ik zeg, van Daniël's vader.</p>
+</sp>
+<stage>(<hi rend="i">Hij leest stil.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Van hem! ach! ik weet niet of het van blijdschap of van angst is, maar mijn hart klopt zoo geweldig... Lees, vader, lees, dat het bedare.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ach! ik had nog dezen slag te kort.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader! vader! gij verbleekt, gij beeft... wat staat er dan in dezen brief?</p>
+</sp>
+<pb n="84"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Lees hem.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">den brief verwonderd nemende terwijl zij de oogen op haren vader gevestigd houdt.</hi></stage>
+<p>Ik hem lezen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Lees hem, gij hebt meer moed dan ik.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! wat ga ik vernemen? <stage>(<hi rend="i">lezende.</hi>)</stage> ‘Gij hebt mij de eer gedaan eenen brief te schrijven, en ik reken het mij tot pligt u een onbewimpeld en openhartig antwoord daarop te sturen. Een huwelijk tusschen mijn zoon en mejuffer uwe dochter is eene volstrekte onmogelijkheid. Nimmer zal ik mijne toestemming in eene vermaagschapping geven die strijdt met mijne grondbeginselen, met mijne gevoelens, met mijne eer. Van heden af heb ik mijn zoon geboden alle betrekkingen met uwe dochter te staken, hij zal mij gehoorzamen, hij zal haar niet meer wederzien en haar vergeten... <stage>(<hi rend="i">herlezende.</hi>)</stage> hij zal... haar... niet meer wederzien... en... haar... vergeten... <stage>(<hi rend="i">in tranen uitbarstende.</hi>)</stage> O! mijn God! mijn God!..</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Moed, mijn kind, moed.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">lezende.</hi></stage>
+<p>Hij zal haar niet meer wederzien en... haar... vergeten. <stage>(<hi rend="i">Ophoudende.</hi>)</stage> O vader! ik kan niet meer... ik kan niet meer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">den brief nemende</hi></stage>
+<p>Welnu, wij zullen elkander ondersteunen. <stage>(<hi rend="i">Lezende.</hi>)</stage> ‘Indien hij echter wederspannig ware, indien hij tegen mijnen wil nog in uw huis kwam, ik beroep mij op uw eergevoel, op dat uwer dochter om mij eenen zoon te behouden dien ik anders zoû moeten verstooten. Zoek een middel, een krachtig middel om hem alle hoop voor altijd te ontnemen en ik zal u mijne achting, mijne...</p>
+</sp>
+<pb n="85"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">hem onderbrekende.</hi></stage>
+<p>Genoeg, vader! het is onnoodig verder te lezen. Wij zullen doen wat men van ons eischt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Maar ongelukkige, men eischt uw leven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">op den brief wijzende.</hi></stage>
+<p>‘Zoek een middel, een krachtig middel... om hem alle hoop voor altijd te ontnemen.’ - Welnu, ik heb dit middel gevonden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">ongerust.</hi></stage>
+<p>Anna, wat is uw voornemen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O! wees zonder kommer, ik zal hem die hoop niet ontnemen door eene misdaad. Acht dagen zonder tijdingen, ik moest het gedacht hebben... Daniël heeft mij reeds vergeten... mij vergeten! God! is het mogelijk! men vergeet dan zijnen eed gelijk men een ijdel woord vergeet... en ik die hem boven alles op de wereld lief had... O vergiffenis! vader, vergiffenis! indien ik dit zeg... mijne bovenmatige liefde doet mij dwalen. - O Daniël! waarom zijt gij ooit gekomen? waarom heb ik u ooit gezien?</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">griet</hi>,</speaker>
+<stage><hi rend="i">driftig opkomende.</hi></stage>
+<p>Mijnheer, mejuffer, mijnheer Daniël is daar.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hij komt terug!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Hij wacht in de voorzaal.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ondanks het bevel zijns vaders! Wat gaan wij doen?</p>
+</sp>
+<pb n="86"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Onzen pligt. Neem dezen brief, vader... ik, ik weet niets, ik heb niets vernomen en ik zal Daniël ontvangen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Maar...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O vader! laat mij hem alleen spreken; uwe tegenwoordigheid zoû mij verraden en ik heb al mijne kalmte, al mijnen moed noodig.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wees toch redelijk en onderneem niets dat boven uwe magt is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God zal mij bijstaan. Ga, vader, ga gerust. Men heeft ons op onze eer beroepen... onze eer zal hun voldoening geven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Volbreng dan uwe taak, engel. <stage>(<hi rend="i">Hij kust ze op het voorhoofd.</hi>)</stage> En nu, nog eens moed.</p>
+</sp>
+<stage>(<hi rend="i">Hij vertrekt links.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja, vader, ja. <stage>(<hi rend="i">Tegen Griet.</hi>)</stage> Laat mijnheer Daniël binnen komen. <stage>(<hi rend="i">Griet vertrekt.</hi>)</stage> O mijn God! mijn God! hoe beef ik! Indien ik ging wankelen, bezwijken eer ik aan het einde ben... Welaan, geene zwakheid... Daar is hij.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Anna! Anna! eindelijk zie ik u weder.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zeer koel.</hi></stage>
+<p>Wij waren u niet meer verwachtende, mijnheer Bicker.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">verwonderd.</hi></stage>
+<p>Mijnheer Bicker! wat beteekent die naam?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Die naam is de uwe; verwondert hij u?</p>
+</sp>
+<pb n="87"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Op dit oogenblik, ja... en die toon...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Die toon heeft niets vreemds in zich.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Wat is er dan in mijne afwezigheid gebeurd? Om de liefde God's! verklaar mij deze koelheid waarmede gij mij hier ontvangt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Noem geene koelheid wat slechts een gevolg van 't verdriet kan zijn, welk wij sedert eenigen tijd hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>O! gij kunt het mij niet verbergen... in uwe blikken lees ik een onheil... Anna! Anna! spreek! doe mij niet sterven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Wat marteling! <stage>(<hi rend="i">Luid.</hi>)</stage> Mijnheer, er zijn in het leven zonderlinge droomen, wonderbare begoochelingen; wat men voor eene wezenlijkheid neemt zijn somtijds maar vliegende gedachten, ijdele verschijningen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">angstig.</hi></stage>
+<p>Anna, wat wilt gij zeggen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dat ik een oogenblik aan de wezenlijkheid van ons geluk geloofd heb en dat ik thans...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Welnu?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik zie thans dat ik gedwaald heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>O! ik begrijp alles... Het is mijn vader die u geschreven heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wat zoû hij mij geschreven hebben?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>'t Geen hij mij zelf gezegd heeft, dat hij zijne toestemming
+<pb n="88"/>in ons huwelijk niet gaf. Maar dat u dit niet ontmoedige noch bedroeve... ik heb gezworen dat gij mijne vrouw zult worden ondanks al de hinderpalen die er tusschen ons kunnen opkomen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Dit zwerende hebt gij zeker aan eene hinderpaal niet gedacht die onoverwinnelijk is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Hoe?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik ben van diegenen die de vaste overtuiging hebben dat een opregt huwelijk onmogelijk is als het niet door wederzijdsche liefde wordt aaneengeknoopt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Die overtuiging heb ik ook.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, gij kunt geene vrouw huwen die u niet bemint.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Zeker, zeker, maar gij, Anna, gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>O mijn hart! mijn hart!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Welnu?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, ik, mijnheer Daniël...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Voleind...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zich geweld aandoende</hi></stage>
+<p>Ik... bemin u niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>De waarheid!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Maar dat is eene logen, eene schandelijke logen... En al die bekentenissen, die liefdeblijken waarvan uw mond slechts eenige dagen geleden, overstroomde?</p>
+</sp>
+<pb n="89"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik heb gedwaald.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Het was dus om mij te misleiden, om met mij den spot te drijven... Gij zegdet dat gij mij zoo veel bemindet als uw vader, en het was eene logen... dat mijne liefde uw leven, uw gelukzaligheid was, en het was eene logen. Eindelijk gij zegdet dat gij voor mij zoudt gestorven zijn en gij doodt mij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>God! wat moet ik al hooren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Maar, rampzalige! zijt gij wel zeker dat gij bij uw verstand zijt? Verzamel uwe zinnen... weet gij wat gij gezegd hebt?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik weet het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ach! Anna, gij zegt dit om mij te beproeven, niet waar? om mijne liefde op den toets te stellen... Men heeft u dit bevolen... Ach! uit mededoogen! doe mij zoo niet lijden; zeg mij dat het een valstrik is, en vergeef mij mijne harde woorden van zoo even. Anna! Anna! ik vraag het u op de knieën... zeg dat gij mij nog bemint gelijk eertijds.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Sta op, mijnheer, indien men u in dezen toestand vond...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">opstaande.</hi></stage>
+<p>En wie, buiten uw vader, zoû er iets op te zeggen hebben?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wie?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ha! ... ja... ja... ik begrijp het... Zinnelooze die ik ben... ik heb niet gedacht dat gedurende mijne afwezigheid een ander, een medeminnaar...</p>
+</sp>
+<pb n="90"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Wat zegt hij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Uwe wreede koelheid, uwe bittere onverschilligheid, verklaren mij thans alles. Een ander heeft u van liefde gesproken...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, ja...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Gij hebt hem aanhoord?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>En... gij hebt hem bemind?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">uitbarstende.</hi></stage>
+<p>O! dat is te veel snoodheid! Gij verbrijzelt mijn hart, gij vernietigt mijn geluk, gij geeft mijn leven prijs aan de wanhoop en gij schrikt niet voor mijne regtmatige wraak... o! 't is dat gij wel weet dat men zich niet wreekt over de vrouw welke men veracht.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ach! ik houd het niet meer uit... Daniël! Daniël!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Weg van mij, ellendige! ... Mij de wanhoop en de dood, maar u de schande en de verachting!</p>
+</sp>
+<stage>(<hi rend="i">Hij vertrekt.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">gillende en ten gronde zinkende.</hi></stage>
+<p>Ach!</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage>ANNA, VONDEL, GRIET.</stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">tot haar loopende.</hi></stage>
+<p>Anna! mijn kind!</p>
+</sp>
+<pb n="91"/>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>God! mejuffer! ...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat hebt gij gedaan, ongelukkige?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik heb mijne offerande volbragt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hemel! maar gij zijt bleek als de dood, gij doet mij schrikken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>'t Is niets, vader, niets, maar de schok is zoo hevig geweest dat ik hem niet heb kunnen wederstaan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En Daniël?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Daniël is vertrokken maar hij heeft mij zijne verachting gelaten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Hemel!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat hebt gij hem dan gezegd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik heb hem gezegd, vader, dat ik eene eerlooze was. O Daniel! Daniël!</p>
+</sp>
+<stage>(<hi rend="i">Zij barst in tranen uit.</hi>)</stage>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, HANS.</stage>
+<p>Verraad! verraad! Joost vertrekt niet.</p>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Wat zegt gij, vertrekt hij niet?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Of liever hij is reeds vertrokken, maar 't is niet naar Oost-Indiën, 't is naar den Haag.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Naar den Haag!</p>
+</sp>
+<pb n="92"/>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Een persoon die hem ontmoet heeft zeî dat hij drager was van eene aanzienelijke somme gelds.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ach! een nieuw schelmstuk!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>God! wat vermoeden! <stage>(<hi rend="i">Zij ijlt naar het meubel.</hi>)</stage> Vader! het is weg! ... het is gestolen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi> <hi rend="i">en</hi> <hi rend="sc">hans</hi>.</speaker>
+<p>Wat?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Het halssnoer van moeder.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>Ach! Het is Joost geweest, ik heb het meenen te zien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Joost, Joost, een dief!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">hans</hi>.</speaker>
+<p>Ik heb het voorzegd; als men op de baan der misdaad is blijft men niet meer staan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Nu hebben wij niets meer. Ach! Ik leed nog niet genoeg!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>O God! gij die regtvaardig zijt, aanhoor mij: ik vraag u voor de onschuldige dochter die mij alles heeft opgeofferd, uwen heiligen zegen, voor den misdadigen zoon die mij in den grond heeft geholpen, uwen vloek, uwe vermaledijding.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">griet</hi>.</speaker>
+<p>O mijnheer! mijnheer!!</p>
+</sp>
+<stage><hi rend="sc">einde van het vierde bedrijf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<interpGrp>
+<interp type="secundair" value="16510000"/>
+</interpGrp>
+<pb n="93"/>
+<head rend="h3">Vijfde Bedrijf.</head>
+<stage>25 JAREN NADIEN.
+<lb/>
+Het tooneel verbeeldt de woning van Vondel, alles duidt er de armoede aan.</stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<stage>VONDEL, ANNA, <hi rend="i">links van den aanschouwer in eenen zetel slapende. Voor haar eene tafel waarop eene brandende lamp</hi>, <hi rend="i">eenige halfgekleurde prenten</hi>, <hi rend="i">beeldekens</hi>, <hi rend="i">penseelen</hi>, <hi rend="i">verw</hi>, <hi rend="i">enz.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">regts opkomende</hi>, <hi rend="i">hij is oud en gebroken.</hi></stage>
+<p>Arme meid! ik was er zeker van, zij heeft nog eens den nacht aan 't prentenkleuren overgebragt en door de vermoeijenis overmeesterd is zij in slaap gevallen. Stooren wij hare rust niet, ik zal zelf voor het ontbijt zorgen. <stage>(<hi rend="i">Hij gaat naar de eetkas.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">droomende.</hi></stage>
+<p>Daniël! Daniël! <stage>(<hi rend="i">Ontwakende.</hi>)</stage> Reeds dag! ik heb dan waarlijk geslapen. <stage>(<hi rend="i">Zij blaast haar licht uit.</hi>)</stage> O! Wat schoone droom heb ik gehad. - Hoe vader! zijt gij reeds daar?</p>
+</sp>
+<pb n="94"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik heb u nog eens op 't feit betrapt, he! Gij hebt weêr geheel den nacht gewerkt... Anna, het is niet wel, gij zult eindigen met u ziek te maken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Och! neen, vader, ik ben kloek, ik. Ten anderen, mijn werk moest af zijn, ik heb beloofd het dezen morgen naar huis te dragen. De prentverkooper wacht er na en hij zal mij betalen; iets waarin hij zeer wel zal doen, want wij hebben gisteren ons laatste geld aan den geneesheer gegeven die u gered heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Had hij mij liever laten sterven, ik zoû u thans tot last niet zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ha! vader, wilt gij zwijgen; het is slecht wat gij daar zegt. Ben ik niet gelukkig dat ik u in uwe langdurige ziekte door mijnen handenarbeid heb kunnen bijstaan, en dat ik mag zeggen: aan mijne zorgen heeft mijn vader deels de herstelling zijner gezondheid te danken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij zijt eene edele ziel die meer geluk op deze aarde zoû verdiend hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik beklaag mij over mijn lot niet. Eens dat gij weder kunt werken zal onze toestand beteren en uw roem zal mijn geluk vermeerderen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik hoop dat ik weldra mijne pen zal kunnen hervatten, want ik gevoel dat ik dagelijks verkloek, dank aan dien goeden wijn welken mij die onbekende vriend sedert veertien dagen ten geschenke zendt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>'t Is toch zonderling. En vermoedt gij niet wie het kan zijn?</p>
+</sp>
+<pb n="95"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Sedert de armoede in ons huis gekomen is, heb ik al mijne vrienden den eenen achter den anderen zien verdwijnen. Dezen zijn gestorven, genen hebben ons vergeten. Oom zaliger heeft de reeks geopend van degenen die ons voor eeuwig verlaten hebben. Onze goede vriend de Drossaart Hooft heeft hem sedert vier jaren in 't graf gevolgd, onze vijanden alléen zijn gebleven en van dezen hebben wij niets te verwachten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ik heb den knecht die ons reeds twee maal wijn gebragt heeft, ondervraagd; hij is zoodanig bescheiden dat ik niets heb kunnen vernemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Welke de hand zij die zich zoo edelmoedig tot ons uitstrekt, ik zal ze danken en zegenen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>En den onbekenden vriend eene plaats in onze gebeden geven nevens degenen wier lot ons even onbekend is.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Drie weken geleden, in het hevigste mijner ziekte, was het vijf-en-twintig jaar dat Joost gevlugt is en Daniël ons wanhopig verlaten heeft, hebt gij het u herinnerd, Anna?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O vader! die dag staat hier te diep geschreven om hem ooit te kunnen vergeten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En sedertdien geen nieuws meer van beiden, tenzij dat Joost drie dagen na zijne aankomst in den Haag, verdwenen is men weet niet waar naar toe, en dat Daniël denzelfden dag op 't schip is gegaan waarmede Joost moest vertrekken. Alle twee zullen reeds deze aarde verlaten hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>'t Is mogelijk, 't is reeds te lang geleden. En echter kan ik mij van zekere hoop niet ontmaken. Dezen morgen, ge-<pb n="96"/>durende de weinige stonden van mijnen slaap, heb ik Daniël wedergezien.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>In uwen droom?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja, maar ik zag hem jong en schoon gelijk hij vertrokken is en niet zoo als de jaren hem zouden veranderd bebben. Hoe kan een droom toch zulke zonderlinge verschijnselen voor onzen geest brengen!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>De droomen zijn somtijds de herinneringen van den dag die op alle wijzen en onder alle vormen zich 's nachts in onzen geest komen wederkaatsen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Helaas ja! - Alvorens deze prenten naar den winkel te dragen, vader, wil ik uw ontbijt bereiden of liever voortzetten; op uwen geliefdkoosden thee moogt gij nog niet denken, dat weet ge, die drank is te flauw; een glas goede wijn met een weinig rijstbrood, dat is veel kloeker.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wij moeten zuinig zijn met onzen wijn, kind lief, de kelder is niet meer voorzien gelijk vroeger als wij rijk waren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>De flesch is nauwelijks begonnen en daar gij toch geen dronkaard zijt hebben wij er nog voor verscheidene dagen. <stage>(<hi rend="i">Intusschen heeft zij de tafel gedekt</hi>, <hi rend="i">een stukje rijstbrood uit de kas gehaald en een beker wijn geschonken.</hi>)</stage> Zie daar, vader, zet u nu, en wel mag het u bekomen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En gij, meisje, gaat gij niet ontbijten?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Later, later, bekommer u met mij niet. Ik ga eerst mijn werk dragen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hebt gij gisteren avond de versjes naar den prins van Sint Lucas' Gilde gedragen?</p>
+</sp>
+<pb n="97"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ja, vader, en ik vergat het u te zeggen, de geneesheer heeft er mij sterk voor bekeven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Waarom?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Omdat ik u heb laten werken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Bah! het is wel de moeite waard... ik moest toch iets doen voor het feest van het Gilde waarvan ik dichtmeester ben. Geef mij eens Virgilius.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Uwe vertaling?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Neen den oorspronkelijken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">een boek van de kas halende.</hi></stage>
+<p>Gij gaat u wêer kwaad bloed maken, gemelijk zijn omdat gij uwe vertaling tot het vuur niet gedoemd hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ik beloof u van neen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Welnu, zie daar, maar vergeet uw ontbijt niet, hoort gij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Weest gerust, beste Anna, en zie, om u te vrede te stellen zal ik aanstonds beginnen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">de prenten nemende.</hi></stage>
+<p>Dat is goed. - Vaarwel, vader, ik ben dadelijk terug.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Op uw gemak, meisje... ik zal mij niet vervelen als ik met zulke vrienden ben. <stage>(<hi rend="i">Hij wijst op den boek.</hi>)</stage></p>
+</sp>
+</div>
+<div type="scene">
+<pb n="98"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage>VONDEL, <hi rend="i">alleen.</hi></stage>
+<p>Virgilius, ziedaar wezenlijk een groot dichter. Men zegt dat hij Octavia, de zuster van keizer Augustus bij 't voorlezen eener brok uit zijne AEneïs in bezwijming deed vallen en dat de prinses nadat zij bekomen was, hem tien groote zilveren sestercen voor elken dichtregel gaf. Ach! had ik op mijne letterbaan slechts in de schaduwe zijns roems mogen treden... Ik gevoelde mij echter met het heilig vuur bezield, maar dat vuur is gedoofd geworden door 't verdriet, 't ongeluk en de moedeloosheid. Een oogenblik zijn mij het leven en de moed terug gekomen en ik heb Gijsbrecht van Amstel geschreven, ik heb Maria Stuart op 't tooneel gebragt, maar mijne vijanden hebben op nieuw mijnen arbeid gedoemd en mijn hart heeft dezen laatsten slag niet kunnen wederstaan, het is eronder bezweken. Dan is op nieuw de armoede gekomen en met haar de ziekte... en nu kwijn ik gelijk eene plant zonder levenssap, zonder voedsel. <stage>(<hi rend="i">Opstaande.</hi>)</stage> Echter is niet alles in mij uitgedoofd, ik gevoel het... ja, mijn geest wacht maar op gelukkigere dagen om wêer vruchtbaar te worden... Dat mijn lot betere en ik zal nog werken, ik zal mijnen begonnen Lucifer voltooijen, ik zal hem op 't tooneel zien verschijnen, nog beter ik zal hem hooren toejuichen.</p>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">orige</hi>, DANIEL.</stage>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Daar is hij! <stage>(<hi rend="i">Luid.</hi>)</stage> 't Is aan den heer Vondel dat ik de eer heb te spreken?</p>
+</sp>
+<pb n="99"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Aan hem zelven, mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Hij herkent mij niet. <stage>(<hi rend="i">Luid.</hi>)</stage> Men heeft mij veel van u gesproken, mijnheer, en ik wenschte eenige oogenblikken onderhandeling met u te hebben.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Met het grootste genoegen... gelief uw gemak te nemen, mijnheer...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Blijf, ik zal zelf een stoel nemen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>'t Is zonderling, die stem schijnt mij niet onbekend, maar ik kan mij niet herinneren waar en wanneer ik ze gehoord heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Gij zijt lang ziek geweest, naar ik vernomen heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, mijnheer, zeer lang. Sedert vijf-en-twintig jaren ben ik om zoo te zeggen niet meer gezond geweest.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Sedert vijf-en-twintig jaren?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, op dat tijdstip heb ik veel ongelukken gehad... Ik heb geheel mijne fortuin verloren, mijn zoon is schandelijk het vaderlijk huis ontvlugt en mijne dochter...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">driftig.</hi></stage>
+<p>Uwe dochter, mijnheer, hebt gij over haar te klagen?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Over haar! over mijne Anna! Ha! mijnheer... Maar laat ons van mijne dochter niet spreken, het doet mij te veel leed. Gij ziet overigens genoeg op mijne verouderde en uitgemergelde wangen dat ik veel en lang geleden heb.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, mijnheer, ik zie het, maar gij zijt het alleen niet, ik ook, mijnheer, heb geleden.</p>
+</sp>
+<pb n="100"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij, mijnheer?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, maar ik hoop thans op betere dagen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gelukkig is hij die zulke hoop kan voeden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Sedert verscheidene jaren hebt gij aan de regeerders van Amsteldam eene bediening gevraagd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja, mijnheer, maar tot hiertoe heb ik niets kunnen bekomen; niemand heeft zich verwaardigd voor mij te spreken en gij weet het, als men geene voorspraak heeft, is het moeijelijk aan iets te geraken. Ik heb geene magtige vrienden meer zoo als vroeger, mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Gij hebt welligt betere.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hoe?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Mij, bij voorbeeld.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijnheer, gij verwondert mij hoe langer hoe meer. Toen gij hier binnen gekomen zijt heeft uwe stem mij getroffen en nu zegt gij dat gij mijn vriend zijt. Och! zeg mij, waar heb ik u gezien? Waar heb ik u gekend? Help mij, om 's hemels wil! in mijn verzwakt hoofd het verledene terug roepen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Blijf bedaard; voor het oogenblik heb ik eene edelere zending te volbrengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Eene edelere zending?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Luister en gij zult mij begrijpen. Drie maanden geleden, na eene langdurige reis en na een gedwongen afzijn van
+<pb n="101"/>een groot getal jaren, landde ik met een fransch schip dat van Oost-Indiën kwam, op de kusten van Marseilje.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij kwaamt van Oost-Indiën, mijnheer?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja; een man, een bedelaar, sprak mij aan en vroeg mij schier smeekend of hij mijn reisgoed naar de herberg al waar ik voornemens was den nacht over te brengen, mogt dragen. Op mijn bevestigend antwoord nam hij met meer moed dan kracht mijnen koffer op den schouder en wij zetteden te samen onzen weg voort. Nauwelijks eenige stappen ver zijnde bezweek hij onder den last en zonk ten gronde neder. Ik vroeg hem of hij niet gewoon was zulken arbeid te doen? ... hij antwoordde dat het van flauwte was en dat hij in twee dagen nog niet had geëten.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Die ongelukkige!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Zoo dacht ik ook. Ik deed een ander arbeider den koffer opnemen, doch leidde den ongelukkige naar de herberg mede, alwaar ik hem braaf liet eten en drinken. Van den eersten af aan had mij zijn tongval getroffen en toen ik hem zegde dat hij zeker geen franschman was, bekende hij mij Nederlander te zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dus een landgenoot.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Nog beter, een Amsteldammer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Een Amsteldammer, is het mogelijk! En gij zegdet daar zoo even dat gij hier eene edelere zending te volbrengen hadt... ach! mijnheer, het is al bevende dat ik het u vraag... zijn naam? ... zijn naam? ...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Joost Vondel!</p>
+</sp>
+<pb n="102"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijn zoon, mijn zoon leeft en hij bedelt... O! ziedaar waarhêen de misdaad en de vloek eens vaders geleiden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Hij bedelt niet meer, ik heb hem brood en huisvesting gegeven.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Gij!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Sedert veertien dagen is hij met mij te Amsteldam.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Bij mijne aankomst was mijne eerste zorg onderrigtingen nopens u en uwe dochter in te winnen; ik vernam dat gij uit eene gevaarlijke ziekte kwaamt, en een hervallen vreezende dorst ik niet eerder tot u komen dan na uwe volkomene herstelling.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>En ondertusschen zondt gij mij wijn, want nu raad ik het, die onbekende verzorger waart gij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik wilde door alle middelen uwe gezondheid bespoedigen en het ongelijk herstellen u en uwe dochter door mijnen vader aangedaan.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Door uwen vader... o hemel! wacht! ja, ja, het is zoo... Gij zijt... gij zijt... ach! ... zoo veel aandoeningen... mijn hart... mijn hart! moest ik nu sterven!! <stage>(<hi rend="i">Hij valt in zijnen armstoel.</hi>)</stage></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Hemel! hij bezwijmt... help! help! ...</p>
+</sp>
+</div>
+<div type="scene">
+<pb n="103"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, ANNA.</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">binnen stuivende.</hi></stage>
+<p>God! mijn vader! mijn vader!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Zij is 't... ach! ik kan mij nauwelijks inhouden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">bekomende.</hi></stage>
+<p>'t Is niets... 't is voorbij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Wat heeft er u dan gelet?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Vraag het aan mijnheer.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Aan hem... <stage>(<hi rend="i">Hem strak beziende en nog twijfelende.</hi>)</stage> Aan... hem... maar... neen.. neen... ja toch... ach! hij is 't! 't Is Daniël!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">haar in zijne armen ontvangende.</hi></stage>
+<p>Anna!!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">zich uit zijne armen terugtrekkende.</hi></stage>
+<p>Mijnheer Bicker! vergeef mij een oogenblik van opgetogenheid, welke ik niet heb kunnen overmeesteren.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>O! thans geen veinzen meer. Ik weet alles; mijn vader zaliger heeft mij bij zijn testament een brief gelaten waarin hij mij laat weten welke offerande hij u eertijds had opgelegd, en hoe hij wil dat ik thans zijn ongelijk herstelle.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">ter zijde.</hi></stage>
+<p>Wat zegt hij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Maar alvorens moet ik mijne zending bij uw vader geheel volbrengen. Hier digt bij op den hoek der straat, staat er een ongelukkige in wanhoop; hij wacht naar een woord, een teeken om voor uwe voeten te vallen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Mijn zoon! het is mijn zoon!</p>
+</sp>
+<pb n="104"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Joost! Joost! hij ook leeft nog?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ja, Anna, hij leeft nog omdat hij niet kon sterven zonder de vergiffenis zijns vaders.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Dat hij dan kome, ik zal zien of zijn berouw groot genoeg is om hem die waardig te maken.</p>
+</sp>
+<stage>(<hi rend="i">Daniël gaat in 't verschiet en wenkt een knecht aan welken hij iets in 't stille zegt.</hi>)</stage>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Maar, zie, vader! 't is de knecht die ons den wijn gebragt heeft.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Die wijn kwam van Daniël.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>O mijnheer! ik dank u, gij hebt mijn vaders leven helpen redden.</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vijfde tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, JOOST.</stage>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">aan de deur verschijnende.</hi></stage>
+<p>God! hoe beef ik!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hemel!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vader! vader! ... maar dat is Joost niet.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ja toch, ik gevoel het aan 't kloppen van mijn hart.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Treed nader, mijnheer! uw vader veroorlooft het.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">gaat traagzaam tot zijn vader en valt voor hem op de knieën.</hi></stage>
+<p>O mijn vader! mijn vader!</p>
+</sp>
+<pb n="105"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>,</speaker>
+<stage><hi rend="i">snikkend.</hi></stage>
+<p>Joost! Joost!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Sta op.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>O neen, neen... laat mij op de knieën blijven zitten... ik ben onwaardig u anders aan te spreken, want gij, gij zijt de edelste ziel die God geschapen heeft, en ik, ik ben de ellendige worm dien de reiziger onder de voeten trapt. Vader! ik heb u miskend, u bedrogen, u bestolen en voor mijne misdaden konden de menschen geene straf uitdenken die groot genoeg was... maar ik heb de menschen bedrogen gelijk u, ik heb hunne straf ontweken gelijk de uwe. Maar God, de eeuwige wreker, was dáár en strenger dan de menschen heeft hij mij gestraft. De menschen zouden mij gedood hebben, maar God heeft gewild dat ik bleef leven om mijne straf te vergrooten en te verlengen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Sta op, Joost, sta op.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>O! nog niet, gij moet eerst heel mijn ongeluk kennen en dan oordeelen of ik uwe vergiffenis verdien. - Na dat ik op eenen korten tijd al mijne hulpmiddelen uitgeput en mijn vaderland verlaten had om mijne schuldeischers te ontvlugten, heb ik gedurende vier-en-twintig jaren rond Duitschland, Frankrijk en een deel van Italie gedwaald, gaande van stad tot stad, van dorp tot dorp, somtijds van huis tot huis om een weinig brood of eenig gering kleedingstuk te verdienen. O! ik heb somtijds wel honger gehad en wel koude. Den eenen dag schreef ik, den anderen moest ik arbeiden, maar nergens kon ik een vast bestaan vinden, neen, ik vond niets anders dan de armoede en het gebrek. Eindelijk werd ik een landlooper en, God! is 't mogelijk! ik kreeg nog 't geluk niet op het stroo der gevangenis te mogen slapen en het brood der dieven en moordenaars te deelen.</p>
+</sp>
+<pb n="106"/>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Genoeg! genoeg!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>O! laat mij voleinden. Honderd maal besloot ik een einde aan mijn rampzalig lot te stellen, eene bovennatuurlijke magt hield mij tegen en ondanks mijzelven moest ik blijven leven, terwijl mijne wangen wegsmolten onder de tranen, mijn lichaam uitdroogde door 't gebrek, en mijn haar grijs werd door den schrik en de wanhoop. Ziedaar wat ik al geleden heb, en nu moet gij weten wat mijn berouw is geweest. Iederen avond, alvorens mijn hoofd neder te leggen op straat of in een huis, op een steen of op een kussen, bad ik God op de knieën, zeggende: God, uwe straf is groot en lang, maar laat ze nog dubbel zijn, als ik maar op het einde deze woorden uit mijn vaders mond moge hooren: Joost, ik vergeef u 't kwaad welk gij mij gedaan hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>,</speaker>
+<stage><hi rend="i">hem opheffende.</hi></stage>
+<p>Joost! Joost! ik vergeef u 't kwaad welk gij mij gedaan hebt.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>,</speaker>
+<stage><hi rend="i">in zyn vaders armen vliegende.</hi></stage>
+<p>Vader! vader! ... O! nu mag ik gerust vertrekken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Vertrekken!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat zegt gij?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">joost</hi>.</speaker>
+<p>Ik heb besloten, als ik uwe vergiffenis bekwam, naar Oost-Indiën te vertrekken, en dezen keer zal ik mijn woord houden, ik zweer het u.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Later, later zullen wij zien, er is thans geene haast bij.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Heer Vondel, ik heb u gezegd dat mijn vader gewild heeft dat ik zijn ongelijk herstel, welnu, ik vraag u de hand uwer dochter.</p>
+</sp>
+<pb n="107"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Is het mogelijk!</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Hoe, Daniël, gij zijt niet getrouwd?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Ik heb niet gezegd dat <hi rend="sc">ik</hi> eene andere beminde.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ha! Daniël...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Maar, mijnheer, gij zijt rijk en mijne dochter is arm.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Dat u dit niet verontruste; mijn vader heeft mij weinig meer achtergelaten dan zijnen uitdrukkelijken wil dat uwe dochter mijne vrouw wierd.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Maar, Daniël, op onze jaren...</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Men is nooit te oud om gelukkig te zijn.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">stemmen</hi></speaker>
+<stage><hi rend="i">buiten.</hi></stage>
+<p>Waar is hij? waar is hij?</p>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde en laatste tooneel.</head>
+<stage>D<hi rend="sc">e</hi> V<hi rend="sc">origen</hi>, S<hi rend="sc">childers</hi> en R<hi rend="sc">hetorykers</hi> <hi rend="i">met eene gouden kroon.</hi></stage>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Wat beteekent dat?</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Het zijn de leden van Sint Lucas' Gilde die feest vieren en hunnen dichtmeester geluk komen wenschen over zijne benoeming tot eersten bediende in de Bank van leening.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Een ambt! ... eene bediening voor mij!</p>
+</sp>
+<pb n="108"/>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>.</speaker>
+<p>Met een jaarlijksch inkomen van zes honderd en vijftig gulden.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<p>Ha! Daniël, dat hebben wij wederom aan u te danken.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">vondel</hi>.</speaker>
+<p>Ach! 't is te veel, kinderen, 't is te veel geluk op eenen dag. <stage>(<hi rend="i">Zich op de knieën zettende.</hi>)</stage> God! ik heb u geheel mijn leven, in rijkdom gelijk in armoede, met een regtzinnig hart gebeden, dat uw naam nog eens gezegend zij. Gij maakt mij niet alleenlijk den gelukkigsten der vaders, gij overlaadt mij met welzijn, kinderliefde en achting.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">dani</hi>ë<hi rend="sc">l</hi>,</speaker>
+<stage><hi rend="i">hem de gouden kroon op het hoofd zettende</hi></stage>
+<p>Terwijl de kinderen van Amsteldam u de kroon des roems en der vermaardheid toekennen.</p>
+</sp>
+<sp>
+<speaker><hi rend="sc">allen</hi>.</speaker>
+<p>Leve Vondel! leve de eerste dichter der Nederlanden!</p>
+</sp>
+<stage>(<hi rend="i">Tafereel.</hi>)</stage>
+<stage>EINDE.</stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

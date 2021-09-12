@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Kruisgezangen</title>
+               <author>Govert van Mater</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Kruisgezangen</hi> van Govert van Mater in de eerste druk uit 1718.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 51: groootschen → grootschen: ‘Een ander Zinge op grootschen trant’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2<!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">mate003krui01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">kopie Meertens Instituut, signatuur: 3978 14 Mater KG1718</idno>
+               </bibl>
+               <p>Govert van Mater, <hi rend="i">Kruisgezangen</hi>. Wed. Hermanus van Hulkenroy, Haarlem 1718</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Kruisgezangen</title>
+               <author>Govert van Mater</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Kruisgezangen</title>
+               <author>Govert van Mater</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-11-10</date>
+               <respStmt>
+                   <name type="person">JV</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf><div type="chapter">
+<pb n="I"/>
+<p>Govert van Maters</p>
+<p>KRUISGEZANGEN;</p>
+<p>Op het Lyden van onzen Huiland</p>
+<p>JEZUS CHRISTUS,</p>
+<p>Met Zangkunst verrykt door</p>
+<p>Willem Vermooten.</p>
+<p>TE HAARLEM,</p>
+<p>Gedrukt by de Wed: Hermanus van Hulkenroy, aan de Markt, in de Letter A. 1718.</p></div></cf>
+<div type="chapter">
+    <interpGrp>
+        <interp type="primair" value="17180908"/>
+    </interpGrp>
+<pb n="III"/>
+<head rend="h3">Toeeigening
+<lb/>Aan myn waarde Ouderen
+<lb/>Johannes van Mater
+<lb/>en
+<lb/>Sara van Wassem.</head>
+<p>Quam ooit Toeeigening ter rechten plaats, waarlijk ik 
+durf my vleijen, dat het deeze is, dewelke ik U met 
+deeze mijne KRUISGEZANGEN  op het LYDEN van onzen 
+HEILAND JEZUS CHRISTUS eerbiedig op kom dragen: 
+en wien kan ik met meerder reede dit mijn Werkje 
+toeeigenen dan U, waarde OUDERS! wie ik naast GOD 
+het Leven verplicht ben.</p>
+<p>&nbsp;</p>
+<p>Neemt dan gunstig aan de Vruchten van mijnen Geest uit 
+Dankbaarheid voor de Moeite, Liefde  en Zorg aan myne 
+Opvoedinge besteedt. 
+</p>
+<p>&nbsp;</p>
+<p>Mijn Doelwit is geweest om al zingende den gekruisten  
+CHRISTUS gestandig voor oogen te houdden, opdat wij, 
+levende naar zijn Zaligmaakende Leere, mede deel moo- 
+<pb n="IV"/>gen hebben aan <hi rend="sc">Hem</hi> die voor onze Zonden gestorven en tot onze Rechtvaardigmaakinge wederom opgestaan is.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Jehova</hi> onze <hi rend="sc">God</hi> doe ons allen de Genade, dat wy, gereinigd zynde door 't dierbaar Zoenbloed van zyn' geliefden <hi rend="sc">Zoone</hi>, ten jongsten Dage zonder verschrikkinge voor Zynen Troon moogen verschynen, en met alle Zyne Uitverkoornen het eeuwiggelukzalig Leven genieten, en met de Cherubynen en Serafynen het heilig Haleluja in zyn Godlyk Byzyn oneindigmaal uitgalmen.</p>
+<p>&nbsp;</p>
+<p>Dit wenscht uit grond zyns Herte</p>
+<p>&nbsp;</p>
+<p>Uwe gehoorzaame en Dienstbereide Zoon</p>
+<p>Den 8sten van Herfstmaand in 't 1718de Jaar.</p>
+<p>&nbsp;</p>
+<p><hi rend="spat">GOVERT VAN MATER</hi>.</p></div>
+<div type="chapter">
+<pb n="V"/>
+<head rend="h3">Aan den Leezer,</head>
+<p><hi rend="i">Waarde Leezer</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="b">D</hi>at de Dicht- en Zangkunde, wanneer zy wel gepaard zyn, elkander veel sieraad byzetten is overvloedig bekend; nochtans moet ieder met my bekennen, dat zy beide in hunnen grootsten luister praalen, als zy zedelyke stoffen tot hun onderwerp hebben. Daar is het dat zy weiden gaan in de Zielroerendste woorden en uitdrukkingen en de beweegelykste geluiden, bequaam om het allerhardste hert te vermurwen.</p>
+<p>Deeze overdenking is de grondslag geweest van deeze <hi rend="sc">Kruisgezangen</hi> op het Lyden onzes Zaligmaakers <hi rend="sc">Jezus Christus</hi>, nevens de aanmoediging van den vermaarden Zangkunstenaar WILLEM VERMOOTEN, den Liefhebberen der Zangkunde alom bekend. Wat de stof aangaat, die is van veele voornaame Dichters voor myn' tyd op verscheidene wyzen van behandeling uitgewrocht; ja zelf van veele die noch in leven zyn: als de Judas de Verraader van den Heere <hi rend="sc">Joan de Haas</hi>: de Lydende Heiland van den Heere Mr. <hi rend="sc">Joan Jakob Mauricius</hi> en andere: niet dat ik my vermeeten wilde hen in deeze Loopbaane voorby te streeven; ô neen! maar om hen in hun zog (als men zegt) naa te dryven; want het kort getal van myne jaaren en myn kleine ervaaren-
+<pb n="VI"/>heid in de Dichtkunde laaten my niet toe om myne Gedachten op zo grootschen trant uit te drukken.</p>
+<p>Wat de Verdeeling van dit Werkje aanbelangt, die beken ik eenigzins verschuld te zyn aan de Kruishistorie van den Lydenden Heiland door den bovengemelden Heere Mr. <hi rend="sc">Mauricius</hi>, die dezelve in XXVI Gedichten verdeeld heeft, schoon ik het zelve in XX Gezangen begreepen heb: ja sommigen zullen het misschien wel eene naavolging heeten, wyl ik daar naa gezien heb, dat ik buiten myn weeten, dien Heere op eenige plaatsen vry na gekomen ben.</p>
+<p>De Muzyk is door den gemelden Zangkunstenaar WILLEM VERMOOTEN, tot gemak der Speelers, op de gemeene G Sleutel gesteld.</p>
+<p>De betekenis van de Kunstwoorden <hi rend="sc">Adagio, Grave, Largo</hi> en <hi rend="sc">Vivace</hi> is den Liefhebberen der Zangkunde genoegzaam bekend, zo dat wy daar geene breedere omschryving van behoeven te maaken.</p>
+<p>Vindt lemand in 't leezen eenige plaatsen die hem niet glad genoeg voorkomen, hy gelieve te denken, dat men aan de Muzyk al vry wat gebonden is, wanneer men zyne Gezangen aan geen enkeld Vaers bepaald.</p>
+<p>Tot vulling van deeze twee volgende Bladzyden heeft het my goed gedacht de Inleiding van den Geestryken Dichter <hi rend="sc">Jeremias de Decker</hi> voor zyne Vaerzen op het Lyden van onzen Heiland gesteld, hier in te voegen.</p></div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="deck001"/>
+</interpGrp>
+<pb n="VII"/>
+<head rend="h3">Bedenking;
+<lb/>op
+<lb/>Het Lijden onses Heeren
+<lb/>Jesu Christi.</head>
+<lg type="poem">
+<l><hi rend="b">N</hi>Adien ons dese dag te nooden schijnt veel eer</l>
+<l rend="; 3tab">Tot klachten als tot kluchten:</l>
+<l>Soo voel ik my beweegt uw bitter lijden, Heer,</l>
+<l>En in uw lijden, laas! mijn' sonden te besuchten,</l>
+<l>Een ander, Christe mag (indien 't hem lust) een lied</l>
+<l rend="; 2tab">Op vorsten-daden smeden:</l>
+<l>Voor my (ik spreke rond) 't en raekt 't en roert my niet</l>
+<l>Wat Cæsar heeft gedaen, maer wat gy hebt geleden.</l>
+<l rend="; 1tab">Ik dencke menigmael nu aan die felle roên.</l>
+<l rend="; 2tab">Nu aan dat valsch betichten,</l>
+<pb n="VIII"/>
+<l>Nu weer aen kroon en kruys; wat kan ik beter doen,</l>
+<l>Als die gedachten eens uytwerpen in gedichten?</l>
+<l rend="; 1tab">En ik en hoef hier toe 'k en weet wat Musen niet</l>
+<l rend="; 2tab">Om komst en kracht t'erlangen:</l>
+<l>Neen, neen: uw geest, die kracht in alle geesten giet,</l>
+<l>Geef kragt aen mijnen geest, en geest aen mijn' gesangen;</l>
+<l rend="; 1tab">Op dat ik, onvermoeyt van aerdsche sorgen, sing,</l>
+<l rend="; 2tab">Hoewel niet sonder schreyen,</l>
+<l>Hoe swaar die smerte was die u door 't herte ging,</l>
+<l>En welk' een' dood ons moest in 'teeuwig leven leyen.</l>
+<l>&nbsp;</l>
+<l rend="; 3tab"><hi rend="sc">Jeremias de Decker</hi>.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill02.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0001"/> </interpGrp>
+<pb n="1"/>
+<head rend="h2">Kruisgezangen.</head>
+<head rend="h3">Voorzang.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">E</hi>en ander Zinge op grootschen trant</l>
+<l>Den lof van braave en dappre Helden,</l>
+<l rend="; 1tab">Die voor het lieve Vaderland</l>
+<l>Hun dierbaar lyf in 't slagveld stelden:</l>
+<l rend="; 1tab">My lust op nederiger toon,</l>
+<l>Naar 't heilig spoor der Hemellingen,</l>
+<l rend="; 1tab">Ter eer van Gods geliefden Zoon,</l>
+<l>Zyn droevig Lyden op te zingen:</l>
+<l rend="; 1tab">En zien hem daar hy triomfeert,</l>
+<l rend="; 1tab">En Hel en Duivel overheert.</l></lg></div>
+<div type="chapter">
+<pb n="2"/>
+<head rend="h3">Voorzang
+<lb/>Met twee Stemmen,
+<lb/>Cantus en Bas.</head>
+<lg type="poem">
+<l>Een ander zinge op - - - - grootschen trant Den lof van braave en</l>
+<l>dappre Helden, Die voor het lieve - - - - - Vaderland Hun</l>
+<l>dierbaar lyf in 't Slagveld stelden. My lust op ne-de-riger toon,</l>
+<l>Een ander zinge op grootschen trant Den lof van braave en</l>
+<l>dappre Helden, Die voor het lieve Vaderland Hun</l>
+<l>dierbaar lyf in 't Slagveld stelden. My lust op ne-de-riger toon,</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill03.gif"/></p></figure></l>
+<pb n="3"/>
+<l>Naar 't heilig spoo - - - r der He-mellin-gen, Ter eer van Gods ge-</l>
+<l rend="; 1tab">liefden Zoon, Zyn droe - - - - vig Lyden op te zin - - - - gen:</l>
+<l rend="; 1tab">En zien hem daar hy triomfee - - - - - - - - - - rt, En Hel en</l>
+<l rend="; 1tab">Dui-vel o-verheert. En Hel en Dui-vel o-ver-heert.</l>
+<l>Naar 't heilig spoo - - - r der He-mellingen, Ter eer van Gods ge-</l>
+<l rend="; 1tab">liefden Zoon, Zyn droe - - - - vig Lyden op te zin - - - - gen:</l>
+<l rend="; 2tab">En zien hem daar hy triomfeert, En Hel en</l>
+<l rend="; 1tab">Dui-vel o-verheert. En Hel en Dui-vel o-ver-heert.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill04.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0002"/> </interpGrp>    
+<pb n="4"/>
+<head rend="h3">Christus Lyden in den Hof Gethzemané.</head>
+<lg type="poem">
+<l rend="; 1tab">Kom na - - - der Sterveling in 't droef - - Gethzemané! En</l>
+<l>zie uw' Schepper met des Vaders toorn belaa - - - - - - den; In 't</l>
+<l>klamme zwee - - t en bloed in zy - nen doo - - d angst baa - - - -</l>
+<l>den; Hy krui - - - - - - - pt in 't stof der Aarde en stor - - -</l>
+<l>- - - - - t vast bede op beê: (Terwyl 't Aposteldom geen uur met</l>
+<l>hem kan waa - - - - ken) Ach - - - - - ach roept hy uit dat</l>
+<l>ik dien Beker niet mog - - t smaaken.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill05.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">Christus Lyden in den Hof van Gethzemané.
+<lb/>Matth. XXVI. vers 36- - -46.</head>
+<lg type="poem">
+    
+<head>1</head>
+<l rend="; 1tab"><hi rend="b">K</hi>om nader Sterveling in 't droef Gethzemané!</l>
+<l>En zie uw' Schepper met des Vaders toorn belaaden,</l>
+<l>In 't klamme zweet en bloed in zynen doodangst baaden;</l>
+<l rend="; 1tab">Hy kruipt in 't stof der Aarde en stort vast bede op beê:</l>
+<l>(Terwyl 't Aposteldom geen uur met hem kan waaken)</l>
+<l>Ach, roept hy uit, dat ik dien Beker niet mogt smaaken.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 1tab">Zyn Ziel in deezen angst bedroefd tot in de Dood</l>
+<l>Buigt zich gewillig voor den wil van zynen Vader.</l>
+<l>Verblinde Sterveling zie op en treed hier nader!</l>
+<l rend="; 1tab">Laat myn Verlosser zelf in zynen droeven nood</l>
+<l>Een Voorbeeld zyn om u volkomen te overtuigen,</l>
+<l>Van onder 's Heeren Wil in Lief en Leed te buigen.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill06.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0003"/> </interpGrp>
+<pb n="6"/>
+<head rend="h3">Aan Judas den Verraader.</head>
+<lg type="poem">
+<l>Staa, staa Is-ka-riot! waar heên? Hoe! komt ge met een' rei Sol-</l>
+<l>daaten Den Hof - - - - Gethze-ma-né betreên? Staa Judas</l>
+<l>Staa - - - -! wat zal dit baaten? Of heeft uw Geldzucht dan uw'</l>
+<l>al - ler - waar - - - - - - - - - - - dsten Heer Ver - raân? ver-</l>
+<l>aân uw we - - - - - - - - zen spreekt, ik hoef geen blyken</l>
+<l>meêr</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill07.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+    
+<pb n="7"/>
+<head rend="h3">Aan Judas den Verraader.
+<lb/>Matth. XXVI. vers 47, 48, 49</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 3tab"><hi rend="b">S</hi>taa, staa Iskariot! waar heen?</l>
+<l rend="; 1tab">Hoe komtge met een' rei Soldaaten?</l>
+<l rend="; 3tab">Den Hof Gethzemané betreên?</l>
+<l rend="; 2tab">Staa Judas staa! wat zal dit baaten?</l>
+<l>Of heeft uw geldzucht dan uw' allerwaardsten Heer</l>
+<l>Verraân? uw wezen spreekt, ik hoef geen blyken meêr.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 2tab">Doemwaardig Monsterdier hoe dus!</l>
+<l rend="; 1tab">Hoe! kan een hand vol Zilverlingen,</l>
+<l rend="; 2tab">Naa een gegeven Joabs kus,</l>
+<l rend="; 1tab">U uwen God en Heer ontwringen!</l>
+<l>Heeft dan het stomme geld op u zo groote kracht</l>
+<l>Dat gy den Heiland geeft in 's Overpriesters magt.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 2tab">Stak u het lieflyk woord van Vrind</l>
+<l rend="; 1tab">Niet in de ziel toen 't klonk in de ooren?</l>
+<l rend="; 2tab">Hoe dus ontaard! hoe dus ontzind!</l>
+<l rend="; 1tab">Ach waart gy nimmermeêr geboren!</l>
+<l>Dan had ge uw' waarden Heer en Meester nooit verraân,</l>
+<l>Nog voor een hand vol geld den Satan dienst gedaan.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0004"/> </interpGrp>
+<pb n="8"/>
+<head rend="h3">Petrus houwt Malchus des Hoogenpriesters Dienaar het Oor af.</head>
+<lg type="poem">
+<l rend="; 1tab">Gy die zo ligt op 't minste woor - d U toont ten hoo - - - - - -</l>
+<l>- - - - gsten top verstoord, En staadig woel - - - - - t met slaan en</l>
+<l>steeken: Die spot met on - der - linge rust, En nooit uw' hoo - - - -</l>
+<l>gmoed ziet gebluscht - - -, Dan als ge uw' hoo - - - n ver - - - -</l>
+<l>meent te wreeken; Zwyg! zwyg! zwyg die op gruweldaaden zwerft</l>
+<l>En hoo - - - - - r wat zegt de Mond der Vrede? Daar Petrus</l>
+<l>'t Zwaard trekt uit de schede, En 's Hoogenprie - sters Dienaar quetst:</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill08.gif"/></p></figure></l>
+<pb n="9"/>
+<l>(Terwyl hy de onschuld zynes Heeren In zynen yver - - - - wil ver-</l>
+<l>weeren) Steek op, steek op uw Zwaard, ge hebt misdaan, Die</l>
+<l>'t Zwaa - - - rd neemt zal door 't Zwaard vergaan.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill09.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+    
+<head rend="h3">Petrus houwt Malchus des Hoogenpriesters Dienaar het Oor af.
+<lb/>Matth. XXVI. vers 51, 52, 53, 54.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">G</hi>y die zo ligt op 't minste woord</l>
+<l rend="; 1tab">U toont ten hoogsten top verstoord,</l>
+<l>En staadig woelt met slaan en steeken.</l>
+<l rend="; 1tab">Die spot met onderlinge rust,</l>
+<l rend="; 1tab">En nooit uw' hoogmoed ziet gebluscht,</l>
+<l>Dan als ge uw' hoon vermeent te wreeken</l>
+<l rend="; 1tab">Zwyg! die op gruweldaaden zwetst!</l>
+<l>En hoor! wat zegt de Mond der Vrede?</l>
+<l>Daar Petrus 't Zwaard trekt uit de schede,</l>
+<l rend="; 1tab">En 's Hoogenpriesters Dienaar quetst:</l>
+<l>(Terwyl hy de onschuld zynes Heeren</l>
+<l>In zynen yver wil verweeren)</l>
+<l rend="; 1tab">Steek op uw Zwaard, ge hebt misdaan,</l>
+<l rend="; 1tab">Die 't Zwaard neemt zal door 't Zwaard vergaan.</l></lg></div>
+<div type="chapter">
+<pb n="10"/>
+<head rend="h3">Christus Gevangen.</head>
+<lg type="poem">
+    <interpGrp> <interp type="song" value="mate003krui01_0005"/> </interpGrp>
+    <l rend="; 1tab">De Heiland van zyn Volk ver - - la - ten Wordt fluks om - - -</l>
+<l>ringd door - - - - snoô Soldaaten, En voort, bezet - - - - - aan</l>
+<l>allen kant, Door wree - - de, door wree - - - - de Beulen - -</l>
+<l>aangerand.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill10.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill11.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="11"/>
+<head rend="h3">Christus Gevangen.
+<lb/>Mark. XIV. vers 50. Joan. XVIII. vers 12, 13.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">D</hi>e Heiland van zyn Volk verlaten</l>
+<l>Wordt fluks omringd door snoô Soldaaten,</l>
+<l rend="; 1tab">En voort, bezet aan allen kant,</l>
+<l rend="; 1tab">Door wreede Beulen aangerand.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Het Godlyk Lichaam wordt gebonden</l>
+<l>Het heilig Dekkleed gansch geschonden,</l>
+<l rend="; 1tab">Hy zelf bespot, beschimpt, belacht,</l>
+<l rend="; 1tab">En vorder na het Hof gebragt.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Wie moet op 't droef gezicht niet treuren,</l>
+<l>Daar ze onzen waarden Heiland sleuren,</l>
+<l rend="; 1tab">Ja daar hy noch van doodangst gloeit,</l>
+<l rend="; 1tab">En 't heilig bloed ten Lyve uit vloeit.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill12.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0006"/> </interpGrp>
+<pb n="12"/>
+<head rend="h3">Christus voor Kajafas ondervraagd.</head>
+<lg type="poem">
+<l rend="; 1tab">O Kajafas! een reeks van quaâ Getuigen Komt noch te</l>
+<l>kor - - - - t om Jezus te doen buigen: Al braa - - - - kt de</l>
+<l>Schaare en laster en geweld. Myn Heiland zwygt, myn Heiland</l>
+<l>zwygt, en wint met zwy - - - - gen 't veld.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill13.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill14.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="13"/>
+<head rend="h3">Christus voor Kajafas ondervraagd. Matth. XXVI. vers. 59- - -66.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">O</hi> Kajafas! een reeks van quaâ Getuigen.</l>
+<l>Komt noch te kort om Jezus te doen buigen:</l>
+<l rend="; 1tab">Al braakt de Schaare en laster en geweld.</l>
+<l rend="; 1tab">Myn Heiland zwygt, en wint met zwygen 't veld.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Vervloekt Gedrocht! uit d' Afgrond opgedonderd</l>
+<l>Tot Jezus straf! hoe toont ge u zo verwonderd,</l>
+<l rend="; 1tab">Dat hy zich zelf Gods eigen Zoone noemt,</l>
+<l rend="; 1tab">Nog voor uw' Troon zyn Godheid niet verbloemt.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Scheur vry uw Kleed! maar vrees als hy, gezeten</l>
+<l>Op zynen Troon, elk eens bedryf doet meeten,</l>
+<l rend="; 1tab">En ieder een rechtvaardig Recht verschaft;</l>
+<l rend="; 1tab">Het Goed beloont, maar 't Quaad voor eeuwig straft.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill15.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0007"/> </interpGrp>
+<pb n="14"/>
+<head rend="h3">Christus Bespot.</head>
+<lg type="poem">
+<l rend="; 2tab">De Heiland door de Farizeeusche Schaaren Ter wreed - - ste</l>
+<l>Dood veroordeeld en gedoemd, Is 't doelwit van de schim - - - - -</l>
+<l rend="; 2tab">p dier Moor - de - naa-ren, En spot - - - - - tend wordt hy</l>
+<l rend="; 1tab">een Pro - - feet genoemd.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill16.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill17.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="15"/>
+<head rend="h3">Christus Bespot.
+<lb/>Matth. XXVI. vers 67. 68.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">D</hi>e Heiland door de Farizeeuwsche Schaaren</l>
+<l rend="; 1tab">Ter wreedste Dood veroordeeld en gedoemd,</l>
+<l>Is 't doelwit van de schimp dier Moordenaaren,</l>
+<l rend="; 1tab">En spottend wordt hy een Profeet genoemd.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Elk spuuwt hem in het Godgeheiligd Wezen.</l>
+<l rend="; 1tab">Daar komt 'er een die hem met stokken slaat.</l>
+<l>Geen zyn 'er die zyn magt of gramschap vreezen;</l>
+<l rend="; 1tab">Hy wordt van elk verstoten en versmaad.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Deez' weert zich braaf met lasteren en schelden;</l>
+<l rend="; 1tab">Die lacht hem uit en doet hem hoon op hoon.</l>
+<l>De minste volgt het spoor van zo veel Helden.</l>
+<l rend="; 1tab">ô Droevig lot van Gods geliefden Zoon.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill18.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0008"/> </interpGrp>
+<pb n="16"/>
+<head rend="h3">Petrus Verloochening.</head>
+<lg type="poem">
+<l rend="; 1tab">ó Simon die nog flus de onnozelheid uws Heeren Zo yvrig</l>
+<l>woudt te hulpe staan, En zynen Vyan - - d tegen gaan! Hoe!</l>
+<l rend="; 1tab">kunt ge nu u zel - - - - f nu 't tyd is niet verwee - - - - -</l>
+<l>ren. Nu 't tyd is niet verweeren.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill19.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill20.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="17"/>
+<head rend="h3">Petrus Verloochening.
+<lb/>Matth. XXVI. vers 69- - -75.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">O</hi> Simon die noch flus de onnozelheid uws Heeren</l>
+<l rend="; 1tab">Zo yvrig woudt te hulpe staan,</l>
+<l rend="; 1tab">En zynen Vyand tegengaan!</l>
+<l>Hoe! kunt ge nu u zelf nu 't tyd is niet verweeren?</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Hoe! loochent gy terstond op 't allerminste vraagen,</l>
+<l rend="; 1tab">Dat ge uwen Meester ooit gezien</l>
+<l rend="; 1tab">Veel min gekend hebt: kan 't geschien</l>
+<l>Dat uwe groote Ziel die lafheid kan verdraagen.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Gy loochent driewerf! maar de Haan begint te kraaijen,</l>
+<l rend="; 1tab">En Jezus, Jezus ziet u aan:</l>
+<l rend="; 1tab">ô Simon Petrus 't is gedaan!</l>
+<l>Die goddeloosheid zaait zal naaberouwen maaijen.</l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill21.gif"/></p></figure></p></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0009"/> </interpGrp>
+<pb n="18"/>
+<head rend="h3">Petrus Berouw.</head>
+<lg type="poem">
+<l rend="; 1tab">Schreit oo - - - gen schreit! en stor - - - - t een'</l>
+<l>vloe - - d van traanen! Myn Ziel is doo - - - - - - - -</l>
+<l>r 't geweld Der droe - - - - - - fheid vast gekneld:</l>
+<l>Schreit oogen schreit! schreit oogen schreit! wilt my het</l>
+<l>voetspoor baanen, En heft myn hert om hoo - - - g, Ver</l>
+<l>boven 't sterflyk oog.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill22.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="19"/>
+<head rend="h3">Petrus Berouw.
+<lb/>Matth. XXVI. vers 75.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">S</hi>chreit oogen schreit! en stort een' vloed van traanen!</l>
+<l rend="; 1tab">Myn Ziel is door 't geweld</l>
+<l rend="; 1tab">Der Droefheid vast gekneld:</l>
+<l>Schreit oogen schreit! wilt my het voetspoor baanen,</l>
+<l rend="; 1tab">En heft myn hert om hoog,</l>
+<l rend="; 1tab">Ver boven 't sterflyk oog.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Schrei Petrus schrei! wat hebt ge een quaad misdreeven!</l>
+<l rend="; 1tab">Tot driewerf uwen God</l>
+<l rend="; 1tab">Verloochend en bespot!</l>
+<l>Schrei Petrus schrei! slyt in berouw uw leven!</l>
+<l rend="; 1tab">Ja treur myn bange Ziel</l>
+<l rend="; 1tab">Die tot die daad verviel.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Myn Heer, myn God! myn Heiland, Hemelkoning!</l>
+<l rend="; 1tab">'k Val voor uw voeten neêr,</l>
+<l rend="; 1tab">Ach straf my niet te zeer!</l>
+<l>Myn Heer, myn God! 'k roep tot u om verschooning:</l>
+<l rend="; 1tab">Myn Heiland 'k heb misdaân,</l>
+<l rend="; 1tab">Neem me in genaê weêr aan.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0010"/> </interpGrp>
+<pb n="20"/>
+<head rend="h3">Judas Wanhoop.</head>
+<lg type="poem">
+<l rend="; 1tab">ô Wan-hoop die myn Ziel doorsnydt, En 't droe - - - - -</l>
+<l>- - - - f Gemoed aan stukken ryt, Wat baart ge dulde-looze</l>
+<l>pynen! Ach angst! ach angs - - - - t! ach angst die uur op</l>
+<l rend="; 1tab">uur vermeêrd, En Ziel en Lyf gehee - - - - I verteert!</l>
+<l rend="; 1tab">ô Voorspel van een eeuwig quynen, Dat myn benauw - - de</l>
+<l rend="; 2tab">Ziel doorsnydt En 't droef - - - - - - - - - Gemoed aan - -</l>
+<l rend="; 2tab">stukken ryt!</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill23.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="21"/>
+<head rend="h3">Judas Wanhoop.
+<lb/>Matth. XXVII. vers 3. 4. 5.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 1tab"><hi rend="b">O</hi> Wanhoop die myn Ziel doorsnydt,</l>
+<l rend="; 1tab">En 't droef Gemoed aan stukken ryt,</l>
+<l>Wat baart ge duldelooze pynen!</l>
+<l rend="; 1tab">Ach angst die uur op uur vermeêrt,</l>
+<l rend="; 1tab">En Ziel en Lyf geheel verteert!</l>
+<l>ô Voorspel van een eeuwig quynen,</l>
+<l rend="; 1tab">Dat myn benauwde Ziel doorsnydt</l>
+<l rend="; 1tab">En 't droef Gemoed aan stukken ryt!</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 1tab">Hoe treurt myne afgematte Ziel,</l>
+<l rend="; 1tab">Die in des Satans klaauwen viel,</l>
+<l>Nu ze in het klamme zweet moet baaden!</l>
+<l rend="; 1tab">Helaas ze smelt door traan op traan,</l>
+<l rend="; 1tab">Nu ik deez' misdaad heb begaan,</l>
+<l>En mynen Heer myn God verraaden.</l>
+<l rend="; 1tab">Hoe treurt myne afgematte Ziel,</l>
+<l rend="; 1tab">Die in des Satans klaauwen viel.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 1tab">Kom naare Dood doorschiet myn hert,</l>
+<l rend="; 1tab">En eindig voor een wyl myn smert!</l>
+<l>Daar is voor my geen heil te erlangen,</l>
+<l rend="; 1tab">Nog rust, nog hoop, nog troost, nog heul:</l>
+<l rend="; 1tab">Ik voel, ik voel den wreeden beul</l>
+<l>Myn doorgeknaagd Geweten prangen!</l>
+<l rend="; 1tab">Kom naare Dood doorschiet myn hert,</l>
+<l rend="; 1tab">En eindig voor een wyl myn smert!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0011"/> </interpGrp>
+<pb n="22"/>
+<head rend="h3">De Heiland voor Pilatus gebragt.</head>
+<lg type="poem">
+<l rend="; 2tab">Zie Jezus voor Pilatus staan Met boeije en ban - - - - -den</l>
+<l rend="; 1tab">zwaar belaân; Terwyl de Jooden als verwoede en felle Leeuwen</l>
+<l>Vast kruist hem! kruist hem! tot den Roomschen Landvoogd</l>
+<l>schreeuwen: Die Landplaag, roept 'er een, moet wech! hy</l>
+<l>moet van kant! Zo hou - - - dt men 't Recht in stand. Zo</l>
+<l>hou - - - dt men 't Recht in stand.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill24.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="23"/>
+<head rend="h3">De Heiland voor Pilatus gebragt.
+<lb/>Mark. XV. v. 1- - - -5.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 2tab"><hi rend="b">Z</hi>ie Jezus voor Pilatus staan</l>
+<l rend="; 3tab">Met boeije en banden zwaar belaân;</l>
+<l>Terwyl de Jooden als verwoede en felle leeuwen</l>
+<l>Vast kruist hem! kruist hem! tot den Roomschen Landvoogd schreeuwen:</l>
+<l rend="; 1tab">Die Landplaag roept 'er een, moet wech! hy moet van kant!</l>
+<l rend="; 2tab">Zo houdt men 't Recht in stand.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 2tab">En schoon Pilatus zich verkloekt,</l>
+<l rend="; 2tab">En alles naarstig onderzoekt</l>
+<l>Men schreeuwt maar voort; men raast, men tiert als uitgelaten:</l>
+<l>De Laster braakt zyn gal, en kent hier paal nog maaten,</l>
+<l rend="; 1tab">Al 't geen men reis op reis zo vaak verdubbeld hoort,</l>
+<l rend="; 2tab">Is niet, dan kruis en moord.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 2tab">Myn Heiland onder al 't gedruisch,</l>
+<l rend="; 2tab">En al 't gewoel van 't Joodsch gespuis,</l>
+<l>Verweert zich maar alleen met een bezadigd zwygen,</l>
+<l>En schoon de Landvoogd vraagt, hy kan geen antwoord krygen.</l>
+<l rend="; 1tab">Zo wordt des Heeren Wil met eerbied en geduld</l>
+<l rend="; 2tab">Stilzwygende vervuld.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0012"/> </interpGrp>
+<pb n="24"/>
+<head rend="h3">De Heiland na Herodes gevoerd.</head>
+<lg type="poem">
+<l rend="; 3tab">Hoe sleurt men Je-zus heên en weê - - - - - - - - r! Nu</l>
+<l rend="; 2tab">wordt die al-ler Heeren Heer, Zo vast gekneveld en gebonden,</l>
+<l rend="; 1tab">Na Vorst Herodes Hof gezonden. ô Droe - f gezicht! ô</l>
+<l>naar vertoog! ô - - - - - schrikkig schouwspel voor het oog.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill25.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill26.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="25"/>
+<head rend="h3">De Heiland na Herodes gevoerd.
+<lb/>Luk. XXIII. vers 6- - -12.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 1tab"><hi rend="b">H</hi>oe sleurt men Jezus heên en weêr</l>
+<l rend="; 1tab">Nu wordt die aller Heeren Heer,</l>
+<l>Zo vast gekneveld en gebonden,</l>
+<l>Na Vorst Herodes Hof gezonden.</l>
+<l rend="; 1tab">ô Droef gezicht! ô naar vertoog!</l>
+<l rend="; 1tab">ô Schrikkig Schouwspel voor het oog.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 1tab">Verblinde Menschen ziet uw' God</l>
+<l rend="; 1tab">Van elk om 't hevigste bespot!</l>
+<l>Wat hoon en smaad heeft hy te lyden!</l>
+<l>Ja welken harden stryd te stryden!</l>
+<l rend="; 1tab">ô Droef gezicht! ô naar vertoog!</l>
+<l rend="; 1tab">ô Schrikkig Schouwspel voor het oog!</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 1tab">Daar wordt hy in een sneeuwwit Kleed,</l>
+<l rend="; 1tab">Tot aanwas van zyn ramp en leed,</l>
+<l>Beschimpt, belacht en streng gebonden</l>
+<l>Weêr na Pilatus toe gezonden.</l>
+<l rend="; 1tab">ô Droef gezicht! ô naar vertoog!</l>
+<l rend="; 1tab">ô Schrikkig Schouwspel voor het oog!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0013"/> </interpGrp>
+<pb n="26"/>
+<head rend="h3">Pilatus stelt Jezus en Barrabas voor het Volk.</head>
+<lg type="poem">
+<l rend="; 2tab">ô Droe - - - vig lot, ô - - - droevig lot Van onzen</l>
+<l>God! Die by het schuim der Moordenaaren En Muiters ver-ge-</l>
+<l rend="; 1tab">leeken wordt; Daar al-len laster op hem stor - - - t, En 't</l>
+<l rend="; 1tab">vloeken van de - - - - Joodsche schaaren.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill27.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill28.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="27"/>
+<head rend="h3">Pilatus stelt Jezus en Barrabas voor het Volk.
+<lb/>Matth. XXVII. vers 15- - -18. 20- - -23. 26.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 2tab">ô <hi rend="b">D</hi>roevig lot</l>
+<l rend="; 2tab">Van onzen God!</l>
+<l>Die by het schuim der Moordenaaren</l>
+<l rend="; 1tab">En Muiters vergeleeken wordt;</l>
+<l rend="; 1tab">Daar allen laster op hem stort,</l>
+<l>En 't vloeken van de Joodsche Schaaren.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 2tab">Kies Jooden kies</l>
+<l rend="; 2tab">Winst voor verlies!</l>
+<l>Verkies den Goeden en Oprechten;</l>
+<l rend="; 1tab">Verlos den Heiland door uw keur,</l>
+<l rend="; 1tab">En stel zyn Godheid niet te leur!</l>
+<l>Uw kiezen kan veel onheil slechten.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 2tab">Maar ach! hoe ras</l>
+<l rend="; 2tab">Wordt Barrabas</l>
+<l>Van 't Joodendom voor vry gekooren,</l>
+<l rend="; 1tab">En Jezus wordt ten Kruis gedoemd!</l>
+<l rend="; 1tab">Die Vorst, wien alles eert en roemt,</l>
+<l>Gaat dus helaas te droef verlooren!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0014"/> </interpGrp>
+<pb n="28"/>
+<head rend="h3">Pilatus wascht zyne handen voor het Volk.</head>
+<lg type="poem">
+<l rend="; 1tab">Gy moogt, gy moog - - - t uw Handen wasschen ô Pon - - -</l>
+<l>- ti-us! maar al het nat, En de allergron - - - - delooste plassen,</l>
+<l rend="; 1tab">Die 't groo - - - - te Rond in zich bevat, Zyn noch te on-</l>
+<l rend="; 1tab">magtig om die vlekken Des bloeds te zuiv'ren of te dekken.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill29.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill30.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="29"/>
+<head rend="h3">Pilatus wascht zyne handen voor het Volk.
+<lb/>Matth. XXVII. vers 24. 25.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">G</hi>y moogt, gy moogt uw handen wasschen</l>
+<l rend="; 1tab">ô Pontius! maar al het nat,</l>
+<l>En de allergrondelooste plassen,</l>
+<l rend="; 1tab">Die 't groote Rond in zich bevat,</l>
+<l>Zyn noch te onmagtig om die vlekken</l>
+<l>Des bloeds te zuiv'ren of te dekken.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Gy vindt geen schuld in dien Oprechten!</l>
+<l rend="; 1tab">Maar om den wille van 't Gemeen,</l>
+<l>En hunnen haat en twist te slechten,</l>
+<l rend="; 1tab">Laat gy de Onnozelheid vertreên;</l>
+<l>En acht niet 't geen uw Vrouwe in 't droomen</l>
+<l>Om Jezus over is gekomen.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Gy moogt, gy moogt uw handen wasschen</l>
+<l rend="; 1tab">ô Pontius! maar al het nat,</l>
+<l>En de allergrondelooste plassen,</l>
+<l rend="; 1tab">Die 't groote Rond in zich bevat,</l>
+<l>Zyn noch te onmagtig om die vlekken</l>
+<l>Des bloeds te zuiv'ren of te dekken.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0015"/> </interpGrp>
+<pb n="30"/>
+<head rend="h3">Christus gegeesseld, met Doornen gekroond, geslagen, beschimpt en bespuuwd.</head>
+<lg type="poem">
+<l rend="; 2tab">Zo wordt tot aan - - - - was van e-len - - - - den Myn</l>
+<l>Heiland door - - - - de Room - - - - - sche Benden Op zyn vol-</l>
+<l rend="; 1tab">maakt en Godlyk Lyf Met scherpe geesselroên geslagen. ô</l>
+<l rend="; 1tab">God! wie kan zo streng en styf De pyn dier fel - le straf ver-</l>
+<l rend="; 1tab">drangen!</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill31.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="31"/>
+<head rend="h3">Christus geeesseld, met Doornen gekroond, geslagen, beschimpt en bespuuwd.
+<lb/>Matth. XXVII. vers 26- - -30.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">Z</hi>o wordt tot aanwas van elenden</l>
+<l>Myn Heiland door de Roomsche Benden</l>
+<l rend="; 1tab">Op zyn volmaakt en Godlyk Lyf</l>
+<l>Met scherpe geesselroên geslagen.</l>
+<l rend="; 1tab">ô God! wie kan zo streng en styf</l>
+<l>De pyn dier felle straf verdraagen!</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Daar wordt hem van de dolle Jooden</l>
+<l>Een' rieten Septer aangebooden:</l>
+<l rend="; 1tab">Terwyl hem elk bespuuwt en hoont,</l>
+<l>In 't Vorstlyk purper uitgestreeken,</l>
+<l rend="; 1tab">En met een Doornekroon gekroond,</l>
+<l>Wier prikkels 't heilig Hoofd doorsteeken.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>ô Al te droevig leed en lyden!</l>
+<l>Myn God wat hebt ge een' stryd te stryden!</l>
+<l rend="; 1tab">Daar gy, almagtig Hemelvorst,</l>
+<l>Des Wærelds euveldaân en zonden</l>
+<l rend="; 1tab">Gewillig op uw schoud'ren torst.</l>
+<l>Myn God wat krygt ge wond op wonden!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0016"/> </interpGrp>
+<pb n="32"/>
+<head rend="h3">Christus ten tweedemaale aan 't Volk vertoond.</head>
+<lg type="poem">
+<l>Verstok - te Jooden ziet den Mensch! Den God van Hemel - -</l>
+<l>en van Aarde; By al wat leeft zo hoo - - - - - g in waarde,</l>
+<l rend="; 1tab">Der Cherubynen lust en wensch: Den Zoon naar 's Vaders</l>
+<l rend="; 1tab">welbehaa - - - - - - - - gen, Die 's Men - - - - schen</l>
+<l rend="; 1tab">zonden heeft to drangen.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill32.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="33"/>
+<head rend="h3">Christus ten tweedemaale aan 't Volk vertoond.
+<lb/>Joan. XIX. vers 4. 5.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 1tab"><hi rend="b">V</hi>erstokte Jooden ziet den Mensch!</l>
+<l>Den God van Hemel en van Aarde;</l>
+<l>By al wat leeft zo hoog in waarde,</l>
+<l rend="; 1tab">Der Cherubynen lust en wensch:</l>
+<l>Den Zoon naar 's Vaders welbehaagen,</l>
+<l>Die 's Menschen zonden heeft te draagen.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 1tab">Aanziet den Mensch in deezen staat!</l>
+<l>Ach slaat toch uw barmhertige oogen</l>
+<l>Op Jezus; toont eens mededoogen;</l>
+<l rend="; 1tab">Verlaat hem niet, dien elk verlaat!</l>
+<l>Gy kunt hem door uw medelyden</l>
+<l>Noch voor de straf des kruis bevryden.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 1tab">Aanziet den Mensch! aanziet het bloed</l>
+<l>Dat van zyn Hoofd en Rug komt lekken!</l>
+<l>Kan dat geen medely verwekken</l>
+<l rend="; 1tab">In uw te hard versteend Gemoed?</l>
+<l>Hoe zal 't, hoe zal 't in deeze elenden</l>
+<l>Met Jezus in het end dan enden!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0017"/> </interpGrp>
+<pb n="34"/>
+<head rend="h3">Jezus na Golgotha gevoerd.</head>
+<lg type="poem">
+<l rend="; 1tab">He-laas wie moet, wie moet niet schreijen, Die</l>
+<l>op den schreijen - - s-waarden staat Des Heilands eens zyne</l>
+<l>oogen slaat! Daar 't Volk hem uit de Stad komt leiên, En</l>
+<l>ruk - - - - - - - - t en sleurt na Golgotha. Wie volg - -</l>
+<l>t hem met zyn - - hert niet naa? Wie volg - - - t hem</l>
+<l>met zyn - - hert niet naa?</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill33.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="35"/>
+<head rend="h3">Jezus na Golgotha gevoerd.
+<lb/>Matth. XXVII. vers 31. 32.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">H</hi>elaas wie moet, wie moet niet schreijen</l>
+<l rend="; 1tab">Die op den schreijenswaarden staat</l>
+<l rend="; 1tab">Des Heilands eens zyne oogen slaat!</l>
+<l>Daar 't Volk hem uit de Stad komt leiên,</l>
+<l rend="; 1tab">En rukt en sleurt na Golgotha.</l>
+<l rend="; 1tab">Wie volgt hem met zyn hert niet naa?</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Wy volgen u, daar gy zult kampen</l>
+<l rend="; 1tab">Myn Heiland in den laatsten nood,</l>
+<l rend="; 1tab">En overwinnen Hel en Dood;</l>
+<l>Daar gy het schrikdier aan zult klampen,</l>
+<l rend="; 1tab">En treeden onder uwen voet,</l>
+<l rend="; 1tab">Tot eeuwig Heil voor 't vroom Gemoed.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Help Simon! help het Kruishout draagen!</l>
+<l rend="; 1tab">Myn Jezus zwymt op elke treê;</l>
+<l rend="; 1tab">De last verdrukt hem ieder schreê:</l>
+<l>Staa by! en help hem onderschraagen!</l>
+<l rend="; 1tab">Die weldaad zal eens door den Tyd</l>
+<l rend="; 1tab">De onsterflykheid zyn toegewyd.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0018"/> </interpGrp>
+<pb n="36"/>
+<head rend="h3">Christus Gekruist.</head>
+<lg type="poem">
+<l rend="; 2tab">Wie siddert niet? wie moet niet bee - - - - - - - - - -</l>
+<l>- ven Daar Jezus o-ver is gegeven Aan 't woên der dolle Razer-</l>
+<l>ny? Treurt Christen Zielen treurt met my Om al 't gejuich - - -</l>
+<l>- - - - - der Joodsche Schaaren, En God-ver-vreem - de</l>
+<l rend="; 1tab">Moordenaaren.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill34.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="37"/>
+<head rend="h3">Christus Gekruist.
+<lb/>Matth. XXVII. vers 33. 34.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">W</hi>ie siddert niet? wie moet niet beeven</l>
+<l>Daar Jezus over is gegeven</l>
+<l rend="; 1tab">Aan 't woên der dolle Razerny?</l>
+<l rend="; 1tab">Treurt Christen Zielen treurt met my</l>
+<l>Om al't gejuich der Joodsche schaaren,</l>
+<l>En Godvervreemde Moordenaaren.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Wie kan 't geknars? wie kan de slagen</l>
+<l>Der nagels in zyn Ziel verdraagen,</l>
+<l rend="; 1tab">Daar onze Zaligmaker legt,</l>
+<l rend="; 1tab">En aan het kruis wordt vast gehecht?</l>
+<l>Wie schreit niet, daar ze, om hem te drenken,</l>
+<l>Vast bittren wyn met Edik schenken?</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Wie kan? wie kan in deeze elenden</l>
+<l>Het schimpen van de Joodsche Benden</l>
+<l rend="; 1tab">Aanschouwen met een taai geduld?</l>
+<l rend="; 1tab">Daar 't alles wordt in 't eind vervuld</l>
+<l>'t Geen Gods geheiligde Profeeten</l>
+<l>Ons in 't Orakelboek doen weeten.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0019"/> </interpGrp>
+<pb n="38"/>
+<head rend="h3">Tweede Gezang op de Kruisinge van onzen Zaligmaker Jezus Christus.</head>
+<lg type="poem">
+<l rend="; 1tab">Gy die in 't droe - - - f Geth - zemané Des Heilands</l>
+<l>naa - - - - - - - - - - - - - r en bitter Lyden Gezien hebt,</l>
+<l>nader deeze steê! Hier is het toppunt van zyn stry - - - - den!</l>
+<l>Hier voegt zich al zyn leed by een! Hier wordt der Vroomen</l>
+<l>Hei - - - - - - - - - l volstreên!</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill35.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="39"/>
+<head rend="h3">Tweede Gezang op de Kruisinge van onzen Zaligmaker Jezus Christus.
+<lb/>Luk. XXIII. vers. 33.</head>
+<lg type="poem">
+<head>1</head>
+<l rend="; 1tab"><hi rend="b">G</hi>y die in 't droef Gethzemané</l>
+<l>Des Heilands naar en bitter Lyden</l>
+<l rend="; 1tab">Gezien hebt, nader deeze steên!</l>
+<l>Hier is het toppunt van zyn stryden!</l>
+<l rend="; 1tab">Hier voegt zich al zyn leed by een!</l>
+<l rend="; 1tab">Hier wordt der Vroomen Heil volstreên!</l></lg>
+<lg type="poem">
+<head>2</head>
+<l rend="; 1tab">Komt gy die aan zyn dierbaar bloed</l>
+<l>Deelachtig zyt! en die uw leven</l>
+<l rend="; 1tab">Met een oprecht en rein Gemoed</l>
+<l>In zynen dienst wilt overgeeven!</l>
+<l rend="; 1tab">Komt, ziet uw Heilands grootsten nood!</l>
+<l rend="; 1tab">Wiens Dood u vrymaakt van de Dood.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l rend="; 1tab">Komt nader blinde en dolle Joôn</l>
+<l>Hier hangt het eind der Profesyen!</l>
+<l rend="; 1tab">Ge mogt hem smaad aan doen en doôn;</l>
+<l>'t Moest zyn! 't moest zyn! zyn droevig lyên</l>
+<l rend="; 1tab">Was in 't Orakelboek voorspeld,</l>
+<l>En van den Hemel vast gesteld.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0020"/> </interpGrp>
+<pb n="40"/>
+<head rend="h3">Een der Moordenaars gelooft in den Heiland.</head>
+<lg type="poem">
+<l rend="; 1tab">Verbasterd Zaad der ls-râ-ly-ten! Ontaar-de Priesters en Le-</l>
+<l>vy-ten Ei staak - - - - t eens uw verwoed gedruisch! Ver-</l>
+<l>laa - - - - - - - t den aardt der felle Leeu - - - - - - - - - -</l>
+<l>- wen: Komt Schriftgeleerde en Farizeeuwen Op Golgotha by</l>
+<l>Jezus Kruis. Op Golgotha by Jezus Kruis.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill36.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="41"/>
+<head rend="h3">Een der Moordenaars gelooft in den Heiland.
+<lb/>Luk. XXIII. vers 39- -43.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">V</hi>erbasterd Zaad der Isrâlyten!</l>
+<l>Ontaarde Priesters en Levyten</l>
+<l rend="; 1tab">Ei staakt eens uw verwoed gedruisch!</l>
+<l>Verlaat den aardt der felle leeuwen:</l>
+<l>Komt Schriftgeleerde en Farizeeuwen</l>
+<l rend="; 1tab">Op Golgotha by Jezus Kruis.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>En gy, ô Schaapen! die den Herder</l>
+<l>Verlaten hebt, ei dwaalt niet verder!</l>
+<l rend="; 1tab">De doolweg leidt u ver van huis;</l>
+<l>Maar keert weêrom tot uwen Vader!</l>
+<l>Komt afgedwaalde Apost'len nader</l>
+<l rend="; 1tab">Op Golgotha by Jezus Kruis.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Ziet daar het schuim der Moordenaaren</l>
+<l>Des Heilands Godheid openbaaren!</l>
+<l rend="; 1tab">Hy bidt zyn Zaligmaker aan:</l>
+<l>Terwyl hy uit het heilig Wezen</l>
+<l>Zyn waare Godheid weet te leezen,</l>
+<l rend="; 1tab">Die 's Vaders toorn ten doel moest staan.</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0021"/> </interpGrp>
+<pb n="42"/>
+<head rend="h3">De Heiland geeft, naa dat alles volbragt was, onder ontallyke Wondertekenen den Geest.</head>
+<lg type="poem">
+<l rend="; 2tab">Zo is dan eindelyk dat oogenblik gekomen Dat 's Waerelds</l>
+<l rend="; 1tab">Heilan - - d triomfeert, En voor de Zaligheid der Vroo - -</l>
+<l>- men Het gruuwlyk Schrikdie - - - r overheert. Zo maak - - t hy</l>
+<l>door zyn pynlykLyden Dat onze Ziel geen Hel-angst vreest!</l>
+<l rend="; 3tab">Zo zien wy 't einde van zyn stryden; Ja - - 't is volbragt!</l>
+<l>Ja 't is - - - - - - volbrag - - - - t! hy - - geeft den Geest!</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill37.gif"/></p></figure></l></lg></div>
+<div type="chapter">
+<pb n="43"/>
+<head rend="h3">De Heiland geeft, naa dat alles volbragt was, onder ontallyke Wondertekenen den Geest.
+<lb/>Matth. XXVII. vers. 45- - - -54.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">Z</hi>o is dan eindelyk dat oogenblik gekomen</l>
+<l rend="; 2tab">Dat 's Waerelds Heiland triomfeert,</l>
+<l rend="; 1tab">En voor de Zaligheid der Vroomen</l>
+<l rend="; 2tab">Het gruuwlyk Schrikdier overheert.</l>
+<l rend="; 1tab">Zo maakt hy door zyn pynlyk Lyden</l>
+<l rend="; 2tab">Dat onze Ziel geen Helangst vreest!</l>
+<l rend="; 1tab">Zo zien wy 't einde van zyn stryden;</l>
+<l rend="; 2tab">Ja 't is volbragt! hy geeft den Geest!</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Maar wat een groote reeks van wond'ren zie 'k gebeuren!</l>
+<l rend="; 2tab">Het helder Zonnelicht verdwynt,</l>
+<l rend="; 1tab">En schynt om 's Scheppers leed te treuren:</l>
+<l rend="; 2tab">De Dag wordt Nacht. 't Gesternte quynt:</l>
+<l rend="; 1tab">'t Voorhangsel is aan twee gereeten,</l>
+<l rend="; 2tab">Daar 's Priesters hert van schrikt en yst:</l>
+<l rend="; 1tab">De rotsen zyn van een gespleeten,</l>
+<l rend="; 2tab">Daar 't doode Rif ten grave uitryst!</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>Het gansche Waereldrond verschrikt en beeft van onder,</l>
+<l rend="; 2tab">'t Schokt uit zyne assen dat het kraakt!</l>
+<l rend="; 1tab">De Bliksem martelt met den Donder!</l>
+<l rend="; 2tab">Dat 's Hoofdmans hert in 't binnenst raakt;</l>
+<l rend="; 1tab">Die gansch verbaasd met zyne Benden</l>
+<l rend="; 2tab">Vryborstig roept op luiden toon:</l>
+<l rend="; 1tab">Hy, die deez' reeks van droeve elenden</l>
+<l rend="; 2tab">Heeft doorgestaan, is Godes Zoon!</l></lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="mate003krui01_0022"/> </interpGrp>
+<pb n="44"/>
+<head rend="h3">Slotzang.
+<lb/>Met twee Stemmen
+<lb/>cantus en bas.</head>
+<lg type="poem">
+<l rend="; 1tab">Looft den Heer Haleluja! - - - - - - - - - - - - - - looft den</l>
+<l rend="; 1tab">Heer Haleluja! - - - - - - - - - - - looft den Heer Ha - le - lu-</l>
+<l>ja! - - - - - looft den Heer Ha - le - lu - ja! Jezus heeft zyn'</l>
+<l rend="; 3tab">looft denHeer Halelu-ja - - - - - - - - - -</l>
+<l rend="; 2tab">looft den Heer Ha - le - lu - ja</l>
+<l rend="; 3tab">looft den Heer Ha - le - lu - ja! Jezus heeft zyn'</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill38.gif"/></p></figure></l>
+<pb n="45"/>
+<l>Stryd volstreden, En de Hel en Dood vertreden Op het bloedig</l>
+<l>Golgotha! Looft den Heer Haleluja! - - - - - - - - - - -</l>
+<l>- - - - - - - - - looft den Heer ha - le - lu - ja! - - -</l>
+<l>- looft den Heer ha - le - lu - ja! Nadert, nadert al - le Vroomen</l>
+<l>Stryd volstreden, En de Hel en Dood vertreden Op het bloedig</l>
+<l>Golgotha!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">looft den Heer ha - le - lu - ja! Nadert, nadert al - le Vroomen</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill39.gif"/></p></figure></l>
+<pb n="46"/>
+<l>Om tot uwen Vorst te komen; 't Is volbragt, 't Is volbragt, 't Is vol-</l>
+<l>bragt op Golgotha! looft den Heer, looft den Heer, looft den</l>
+<l>heer ha - le - lu - ja! - - - - - looft den heer ha - le - lu - ja!</l>
+<l rend="; 1tab">Jezus heeft zyn' Stryd volstreden En den Slangen</l>
+<l>Om tot uwen Vorst te komen; 't Is volbragt, 't Is volbragt, 't Is vol-</l>
+<l>bragt op Golgotha! looft den Heer, looft den heer,</l>
+<l rend="; 2tab">looft den heer ha - le - lu - ja!</l>
+<l rend="; 1tab">Jezus heeft zyn' Stryd volstreden En den Slangen</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill40.gif"/></p></figure></l>
+<pb n="47"/>
+<l>kop ver - treden Op het bloedig Golgotha! looft den heer ha - le - lu-</l>
+<l>ja! - - - - - - - - looft den heer ha - le - lu - ja! Komt de</l>
+<l>heildeur staat wyd open, Daar is heul en troost te hoopen! 't Is vol-</l>
+<l>bragt, 't Is volbragt, 't Is volbragt op Golgotha, looft den heer ha-</l>
+<l>kop ver - treden Op het bloedig Golgotha! looft den heer ha - le - lu-</l>
+<l rend="; 2tab">looft den heer ha - le - lu - ja Komt de</l>
+<l>heildeur staat wyd open, Daar is heul en troost te hoopen!</l>
+<l rend="; 1tab">'t Is volbragt, 't Is volbragt op Golgotha,</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill41.gif"/></p></figure></l>
+<pb n="48"/>
+<l>le-lu-ja - - - - - - looft den heer ha-le-lu-ja - - - - -</l>
+<l>- looft den heer ha - le - lu - ja - - - looft den heer ha-</l>
+<l>le - lu - ja, Jezus heeft zyn stryd volstreden, En de hel en Dood ver-</l>
+<l>treden Op het bloedig Golgotha, looft den heer ha-le-lu-ja - - -</l>
+<l>looft den heer ha-leluja - - - - - - looft den Heer Ha-le-lu-</l>
+<l>ja looft den heer ha-</l>
+<l>le - lu - ja, Jezus heeft zyn stryd volstreden, En de hel en Dood ver-</l>
+<l>treden Op het bloedig Golgotha,</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill42.gif"/></p></figure></l>
+<pb n="49"/>
+<l>- - - - - - - - - - looft den Heer Ha- le - lu -</l>
+<l rend="; 1tab">ja - - - looft den Heer Ha le-lu ja.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab">looft den Heer Ha le lu ja.</l>
+<l>
+<figure>
+<p><xptr to="mate003krui01ill43.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="mate003krui01ill44.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="50"/>
+<head rend="h3">Slotzang.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="b">L</hi>ooft den Heer Haleluja!</l>
+<l>Jezus heeft zyn stryd volstreeden</l>
+<l>En de Hel en Dood vertreden</l>
+<l rend="; 1tab">Op het bloedig Golgotha!</l>
+<l rend="; 1tab">Looft den Heer Haleluja</l>
+<l>Nadert, nadert alle Vroomen</l>
+<l>Om tot uwen Vorst te komen;</l>
+<l rend="; 1tab">'t Is volbragt op Golgotha!</l>
+<l rend="; 1tab">Looft den Heer Haleluja!</l>
+<l>Jezus heeft zyn stryd volstreeden,</l>
+<l>En den Slangekop vertreden</l>
+<l rend="; 1tab">Op het bloedig Golgotha!</l>
+<l rend="; 1tab">Looft den Heer Haleluja!</l>
+<l>Komt de Heildeur staat wyd open,</l>
+<l>Daar is heul en troost te hoopen!</l>
+<l rend="; 1tab">'t Is volbragt op Golgotha!</l>
+<l rend="; 1tab">Looft den Heer Haleluja!</l>
+<l>Jezus heeft zyn' stryd volstreeden,</l>
+<l>En de Hel en Dood vertreden</l>
+<l rend="; 1tab">Op het bloedig Golgotha!</l>
+<l rend="; 1tab">Looft den Heer Haleluja!</l></lg>
+<p><hi rend="b">EINDE.</hi></p></div>
+<cf><div type="chapter">
+<pb n="51"/>
+<p><hi rend="b">BLADWYZER.</hi></p>
+<p>
+<table>
+<row>
+<cell role="header" cols="2">Voorzang.</cell>
+<cell role="header">Bladz.</cell></row>
+<row>
+<cell cols="2"><hi rend="i">Een ander Zinge op grootschen trant</hi>.</cell>
+<cell>1</cell></row>
+<row>
+<cell/>
+<cell>Christus Lyden in den Hof Gethzemané.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Kom nader Sterveling</hi>.</cell>
+<cell>4</cell></row>
+<row>
+<cell/>
+<cell>Aan Judas den Verraader.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Staa, staa Iskariot!</hi></cell>
+<cell>6</cell></row>
+<row>
+<cell/>
+<cell>Petrus houwt Malchus het Oor af.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Gy die zo ligt op 't minste woord</hi>.</cell>
+<cell>8</cell></row>
+<row>
+<cell/>
+<cell>Christus gevangen.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">De Heilland van zyn Volk verlaten</hi>.</cell>
+<cell>10</cell></row>
+<row>
+<cell/>
+<cell>Christus voor Kajafas ondervraagd.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">ô Kajafas een reeks van quaâ Getuigen</hi>.</cell>
+<cell>12</cell></row>
+<row>
+<cell/>
+<cell>Christus bespot.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">De Heiland door de Farizeeuwsche Schaaren</hi>.</cell>
+<cell>14</cell></row>
+<row>
+<cell/>
+<cell>Petrus Verloochening.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">ô Simon die noch flus</hi>.</cell>
+<cell>16</cell></row>
+<row>
+<cell/>
+<cell>Petrus Berouw.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Schreit oogen schreit!</hi></cell>
+<cell>18</cell></row>
+<row>
+<cell/>
+<cell>Judas Wanhoop.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">ô Wanhoop die myn Ziel doorsnydt</hi>.</cell>
+<cell>20</cell></row>
+<row>
+<cell/>
+<cell>De Heiland voor Pilatus gebragt.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Zie Jezus voor Pilatus staan</hi>.</cell>
+<cell>22</cell></row>
+<row>
+<cell/>
+<cell>De Heiland na Herodes gevoerd.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Hoe sleurt men Jezus heên en weêr!</hi></cell>
+<cell>24</cell></row>
+<row>
+<cell/>
+<cell>Pilatus stelt Jezus en Barrabas voor het Volk.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">ô Droevig Lot</hi>.</cell>
+<cell>26</cell></row>
+<row>
+<cell/>
+<cell>Pilatus wascht zyne handen.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Gy moogt, gy moogt uw handen wasschen</hi>.</cell>
+<cell>28</cell></row>
+<row>
+<cell/>
+<cell>Christus gegeesseld, met Doornen gekroond, geslagen, beschimpt en bespuuwd.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Zo wondt tot aanwas van elenden</hi>.</cell>
+<cell>30</cell></row></table></p>
+<pb n="52"/>
+<p>
+<table>
+<row>
+<cell/>
+<cell>Christus ten tweedemaale aan 't Volk vertoond.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Verslokte Joodeu ziet den Mensch</hi></cell>
+<cell>32</cell></row>
+<row>
+<cell/>
+<cell>Jezus na Golgotha gevoerd.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Helaas wie moet, wie moet niet schreijen!</hi></cell>
+<cell>34</cell></row>
+<row>
+<cell/>
+<cell>Christus gekruist.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Wie siddert niet? wie moet niet beeven?</hi></cell>
+<cell>36</cell></row>
+<row>
+<cell/>
+<cell>Tweede Gezang op de Kruisinge van onzen Zaligmaker Jezus Christus.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Gy die in 't droef Gethzemané</hi>.</cell>
+<cell>38</cell></row>
+<row>
+<cell/>
+<cell>Een der Moordenaaren gelooft in den Heiland.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Verbasterd Zaad der Isralyten</hi>.</cell>
+<cell>40</cell></row>
+<row>
+<cell/>
+<cell>De Heiland geeft, naa dat alles volbragt was, onder ontallyke Wondertekenen den Geest.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Zo is dan eindelyk dat oogenblik gekomen</hi>.</cell>
+<cell>42</cell></row>
+<row>
+<cell/>
+<cell>Slotzang.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Looft den Heer Haleluja</hi></cell>
+<cell>44</cell></row></table></p>
+<p><hi rend="spat">EINDE</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">By de Drukster deezer Kruisgezangen, is mede Gedrukt en te bekomen, deeze naa volgende Werkjes, alle voorzien met Muzyk:</hi></p>
+<p>Alewyns Zede- en Harpzangen, in Quarto.</p>
+<p>_______ Harderszangen, in Quarto.</p>
+<p>Het vermaakelyk Buitenleven, of Boeren-vreugd, met 25 kopere plaaten versierd, in Quarto.</p>
+<p>Onderscheid tusschen sterven en sterven, door G. van Mater, in groot Quarto.</p>
+<p>Leanders Lustprieel, of vrolyke byeenkomst van Herders en Herderinnen, in Quarto.</p>
+<p>Het verkeerd Huishouden, in Quarto.</p>
+<p>Het vrolyk Gezelschap der Negen Zanggodinnen, met kopere plaaten, in Octavo.</p>
+<p>De Carneval van Roomen, of Vastenavonds vermaaklykheden, met 25 konstige en aardige kopere plaatjes versierd, in Octavo. &amp;c.</p>
+</div></cf>
+</body>
+</text>
+</TEI.2>

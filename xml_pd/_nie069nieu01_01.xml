@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied</hi>, uitgegeven tussen 1826 en 1837.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 3: ‘vant’ → ‘want’: ‘ want als gy dan nu weer begint’.</corr>
+                       <corr>p. 3: ‘...an’ → ‘Dan’: ‘Dan zyt gy wederom gou verslind’.</corr>
+                       <corr>p. 3: ‘...us’ → ‘Dus’: ‘Dus Belgen houd u maar konstand’.</corr>
+                       <corr>p. 4: ‘wapeus’ → ‘wapens’: ‘Komt wilt my u wapens overgeven’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie069nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 04025</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied</hi>. T. C. Hoffers, Rotterdam 1826-1837</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-22</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie069nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_nie069nieu01_0001"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een nieuw lied.</hi></head>
+<head rend="h4"><hi rend="i">Op een aangename wys.</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Vrienden wat dunkt gij van ons land,</l>
+<l>de belgen zyn zoo digt bij kant,</l>
+<l rend="; 1tab">Meest al om te rooven.</l>
+<l>Bandieten Muiters zyn ook naar haar zin,</l>
+<l>daar wilde zy gaarn ons land mee in,</l>
+<l>Maar ziet de plank was voor haar mis,</l>
+<l>want ziet geloof gewis,</l>
+    <l rend="; 1tab">wy zullen ze jagen. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">de belgen loopen op en neer,</l>
+<l>Partijen ook zonder geweer,</l>
+<l rend="; 1tab">Zoo ziet men hen loopen.</l>
+<l>Met schoppen, spaaijen, beugels in de hand,</l>
+<l>Zoo stryden zy voor haar belgen land,</l>
+<l>want kruid en loot hebben zy niet meer,</l>
+<l>Gebruiken zy de spaai voor het geweer,</l>
+    <l rend="; 1tab">Zoo ziet men ze stryden. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Te Leuven hielden wy ons goed,</l>
+<l>de Belgen kwamen met een stoet,</l>
+<l rend="; 1tab">En schooren alle door de huizen.</l>
+<pb n="2"/>
+<l>de steenen hebben zy uit de straat gehaald,</l>
+<l>de Potter heeft toch alles betaald,</l>
+<l>Maar hy moest toch op de vlugt,</l>
+<l>Met zyn Bandieten achter de rug,</l>
+    <l rend="; 1tab">Om iets anders te zoeken. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l rend="; 1tab">Pontucolan die is nu weg,</l>
+<l>Heeft ook behandeld de Koning slecht,</l>
+<l rend="; 1tab">Te Aardenburg ondervonden.</l>
+<l>Te Oostburg kwamen zy ook niet te regt,</l>
+<l>Zy leggen in de grond al op de weg,</l>
+<l>dus Belgen wagt u verder maar,</l>
+<l>Het hollandsch kruid staat voor u klaar,</l>
+    <l rend="; 1tab">Om u te jagen. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l rend="; 1tab">Maar wat moet gy Belgen doen,</l>
+<l>Gy loopt toch haast al zonder schoen,</l>
+<l rend="; 1tab">wat moet er van u worden,</l>
+<l>wy Hollanders hebben geld en goed genoeg,</l>
+<l>Gy Belgen gy kunt stryden achter u ploeg,</l>
+<l>Al schemd gy nog zoo op Jantje kaas,</l>
+<l>wy Hollanders blyven toch de baas,</l>
+    <l rend="; 1tab">Met veel coerasie. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>6.</head>
+<l rend="; 1tab">wy Hollanders zyn toch bedacht,</l>
+<l>Al komt gy met een groote magt,</l>
+<l rend="; 1tab">Zullen wy voor u niet schroomen,</l>
+<l>Al had gy nog Volk diferente soort,</l>
+<l>Veel Mannen en Vrouwen waren tegen ons aangespoord,</l>
+<l>dus Belgen houd u maar konstand,</l>
+<l>En denkt maar aan ons Vaderland,</l>
+    <l rend="; 1tab">dat wy nooit schroomen. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<pb n="3"/>
+<lg type="poem">
+<head>7.</head>
+<l rend="; 1tab">De maand Augustus de derde dag,</l>
+<l>Kwam hy voor Hassel onverwagt,</l>
+<l rend="; 1tab">Met verscheide soorten van troepen,</l>
+<l>Zy stuuren daar vyf officieren vooruit,</l>
+<l>En namen tot haar besluit,</l>
+<l>Zy baden wy zouden het Land uitgaan;</l>
+<l>Maar zulks krygen zy nooit gedaan,</l>
+    <l rend="; 1tab">Van ons moedige Soldaten. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>8.</head>
+<l rend="; 1tab">A: wel gy Belgen houd u goed,</l>
+<l>In stryd maar nooit met tegenspoed,</l>
+<l rend="; 1tab">Het zal u portan niet helpen,</l>
+<l>want als gy dan nu weer begint,</l>
+<l>Dan zyt gy wederom gou verslind,</l>
+<l>Dus Belgen houd u maar konstand,</l>
+<l>Oranje waait van alle kant,</l>
+    <l rend="; 1tab">Moet gy gedoogen. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+<lg type="poem">
+<head>9.</head>
+<l rend="; 1tab">Tot slot zing ik toch Belgen hoort,</l>
+<l>En pakt u toch maar alle voort,</l>
+<l rend="; 1tab">Van onze Hollandsche Gronden,</l>
+<l>Het Opperwezen geeft ons altyd moed,</l>
+<l>wy stryden nooit met tegenspoed,</l>
+<l>Eskus vragen wy nooit aan joe,</l>
+<l>Met al jou Santinelle prené garde vous,</l>
+    <l rend="; 1tab">Hebben wy mooi mert aan jou. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bis.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+ <interpGrp> <interp type="song" value="_nie069nieu01_0002"/> </interpGrp>
+<pb n="4"/>
+<head rend="h3"><hi rend="i">Een nieuw lied.</hi></head>
+<head rend="h4">Op een aangename wys.</head>
+<lg type="poem">
+<head>1.</head>
+<l>Ik zal u nog eens aanranden,</l>
+<l rend="; 1tab">want ik zit in zware nood,</l>
+<l>En ziet wat hebt ik in myn handen,</l>
+<l rend="; 1tab">Geld of hier den dood.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Ach verneemt toch 't zware kermen,</l>
+<l rend="; 1tab">Van een arme weduwvrouw,</l>
+<l>En wilt u over myn erbarmen,</l>
+<l rend="; 1tab">Geloof gy hebt nog naberouw.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>wat hoor ik hier voor een leer,</l>
+<l rend="; 1tab">Een Muiter is het by myn heer,</l>
+<l>Komt wilt my u wapens overgeven,</l>
+<l rend="; 1tab">Of ik schiet u dadelyk neer.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Den hemel zal ons bystand bieden,</l>
+<l rend="; 1tab">dan zal Nederland geen kwaad geschieden</l>
+<l>O waarde Koning Heer,</l>
+<l rend="; 1tab">Als Schutters gaan wy met volle moed en strijd.</l>
+<l>En overwinning in een korten tyd.</l>
+</lg>
+<cf><p>Te Rotterdam, by T.C. HOFFERS, in de Korte Pannekoekstraat by de Nieuwe Markt.</p></cf>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

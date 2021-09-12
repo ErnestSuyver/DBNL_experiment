@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Het vermaaklyk buitenleven, of de zingende en speelende boerenvreugd</title>
+                <author>Jan van Gijsen</author>
+                </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Het vermaaklyk buitenleven, of de zingende en speelende boerenvreugd</hi> van Jan van Gijsen in de eerste druk uit 1716.<lb/>
+                    Er is gebruik gemaakt van een door Stichting Vrijwilligersnetwerk Nederlandse Taal o.l.v. Nicoline van der Sijs en Hans Beelen aangeleverd bestand. 
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 49: derver → derven: ‘Maar ik, die vogt nog min kan derven.’</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan type="fol2">
+                    <empty-page>A1v</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">gijs004verm01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2012 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Meertens instituut, signatuur: B140</idno>
+                </bibl>
+                <p>Jan van Gijsen, <hi rend="i">Het vermaaklyk buitenleven, of de zingende en speelende boerenvreugd</hi>. Weduwe Hermanus van Hulkenroy, Haarlem 1716</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Het vermaaklyk buitenleven, of de zingende en speelende boerenvreugd</title>
+                <author>Jan van Gijsen</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Het vermaaklyk buitenleven, of de zingende en speelende boerenvreugd</title>
+                <author>Jan van Gijsen</author>
+                                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2012-09-20</date>
+                <respStmt>
+                    <name type="person">SW</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+
+        <pb n="I"/>
+    <p>Het vermaaklyk <hi rend="spat">BUITENLEVEN, OF DE</hi> Zingende en Speelende <hi rend="spat">BOERENVREUGD</hi>.</p></div></cf>
+    <div type="chapter">
+
+        <interpGrp>
+            <interp type="primair" value="hulk001"/>
+        </interpGrp>
+        <pb n="II"/>
+       
+<head rend="h3">Op de Tytelprent.</head>
+<lg type="poem"><l>ZIe hier ’t vermaaklyk <hi rend="spat">BOERENLEVEN,</hi></l>
+    <l rend="; 1tab">Daar Jasper op zyn Zakpyp speelt.</l>
+<l>De jonge Jeugd, tot vreugd gedreeven,</l>
+    <l rend="; 1tab">Vermaakt zig op het Land, in weeld’.</l>
+<l>De een strykt hier zaftjes op het Veeltje,</l>
+    <l rend="; 1tab">En de ander blaast een zoeten toon;</l>
+<l>’t Welk Jantje nabootst met zyn keeltje,</l>
+    <l rend="; 1tab">Doormengd met Dwarsfluit en Hoboon.</l>
+<l>De klanken doen de Buurt weêrgalmen,</l>
+    <l rend="; 1tab">De blad’ren lillen aan den Boom;</l>
+<l>Zy tarten ’s Veegods riete halmen,</l>
+    <l rend="; 1tab">En de Echo op den waterstroom.</l>
+<l>De Verfstof word terwyl gewreeven</l>
+    <l rend="; 1tab">Voor Driesje; die met zyn Penceel</l>
+<l>De Plaatjes daar meê zal naar ’t leven</l>
+    <l rend="; 1tab">Afzetten.<hi rend="i"> Elk zyn keur en deel.</hi></l>
+</lg><p>A. v. H</p>
+            <pb n="III"/>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0001.gif"/></p>
+        </figure></p>
+        <p><hi rend="i">t’Haarlem Gedrủckt. by de Wed: H: van Hủlkenroy. aan de Marckt in laủrens koster. 1716</hi></p>
+    </div>
+    <cf><div type="chapter">
+ 
+        <pb n="IV"/>
+<p>Het vermaaklyk</p>
+<p><hi rend="spat">BUITENLEVEN,</hi></p>
+<p><hi rend="spat">OF DE</hi></p>
+<p>Zingende en Speelende</p>
+<p><hi rend="spat">BOERENVREUGD</hi></p>
+<p>Met Zangkunst verrykt, en tot gemak der </p>
+<p>Speelers op de G sleutel gesteld.</p>
+<p><hi rend="spat">TE HAARLEM,</hi></p>
+<p>Gedrukt by de<hi rend="i"> Wed: Hermanus van Hulkenroy, </hi>aan de Markt,</p>
+    <p>in Laurens Koster, Uitvinder van de Boekdrukkonst. 1716.</p>
+            <p><figure>
+                <p><xptr to="gijs004verm01_02_tpg.gif"/></p>
+            </figure></p></div></cf>
+<div type="chapter">
+
+    <interpGrp>
+        <interp type="primair" value="mate003"/>
+    </interpGrp>
+<pb n="V"/>
+   
+<head rend="h3">Op het vermaaklyk Buitenleven, Of de Zingende en speelende Boerenvreugd.</head>
+<lg type="poem"><l>AL wie de Zangkunst mint, met Snaarenspel gepaard,</l>
+<l>Treê toe en leeze of zing’ deez’ nieuw gemaakte deunen,</l>
+<l>Door veel ’er Geest gedicht: (laat Momussen zich kreunen</l>
+    <l rend="; 1tab">Aan deeze stóf.) Komt hier Zangminnaars! komt doorblaêrt</l>
+<l>Dit bondeltje om uw Lust te voên en op te wekken.</l>
+    <l rend="; 1tab">Hier ’s voor Liefhebbers nu weêr nieuwe Zangerei;</l>
+    <l rend="; 1tab">Voor eenen doffen Geest, een vrolyke Artsenei:</l>
+<l>Hier ’s nut en zoetigheid te zaamen uit te trekken.</l>
+</lg><p>G. <hi rend="sc">van</hi><hi rend="spat"> MATER</hi>.</p>
+</div>
+<div type="chapter">
+
+<pb n="VI"/>
+<head rend="h3">Op ’t vermaaklyk Buitenleven, Of de zingende en speelende Boerenvreugd. </head>
+    <head rend="h4">Klinkdicht.</head>
+<lg type="poem"><l>KOm hier Zangminnende, hier kunt g’ uw geest verligten;</l>
+    <l rend="; 1tab">Hier kan de Speeler meê zyne iverlust verzaên,</l>
+    <l rend="; 1tab">Wanneer hy ’t greetig oog laat op deez’ stukjes gaan,</l>
+<l>En wil zyn klanken naer deez’ maat en stoffe rigten.</l>
+<l>&nbsp;</l>
+<l>Het Zang- en Speelmuzyk, daar Momus voor moet zwigten,</l>
+    <l rend="; 1tab">Eêr Goddelyk geagt, bepronkt hier deeze Blaên;</l>
+    <l rend="; 1tab">Maar wie zyn handen eens denkt aan ’t Penceel te slaan,</l>
+<l>Keurt deeze Plaatjes, tot versiering der Gedichten.</l>
+<l>&nbsp;</l>
+    <l rend="; 1tab">Beminde Leezer, hier verschynt dan op ’t Toneel,</l>
+    <l rend="; 1tab">Een stoffe voor den Geest, voor Konst en held’re Keel;</l>
+<l>Die voor weetgierigheid wel waardig is te kroonen.</l>
+<l>&nbsp;</l>
+    <l rend="; 1tab">Vermaakt u, jonge Jeugd, nu met dit fraai accoord,</l>
+    <l rend="; 1tab">En d’edele Etsery, die tot de Teek’ning hoort;</l>
+<l>Speelt, Zingt en boet uw lust met deeze zoete toonen.</l>
+</lg><p>T: K: <hi rend="sc">Haaxma.</hi></p>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0001"/> </interpGrp>
+<pb n="1"/>
+<head rend="h2">Het Vermaaklyk Buitenleven, Of de Zingende en speelende Boerenvreugd.</head>
+<head rend="h3"><hi rend="i">Boeren Bruiloft</hi>.</head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0002.gif"/></p>
+    </figure></p>
+    <pb n="2"/>
+    <lg type="poem">
+<l>’<hi rend="i">t IS Bruiloft</hi>, <hi rend="i">by den ellement</hi>!</l>
+<l><hi rend="i">Komt Lansjes aan den dis</hi>,</l>
+<l><hi rend="i">Nu onze Floor die braave vent</hi>,</l>
+<l><hi rend="i">Met Neel de Bruigom is:</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">Aanschouwt het danssen eens van Pleun</hi>,</l>
+<l><hi rend="i">Die zafte en bolle meid</hi>,</l>
+<l><hi rend="i">Met Gysje</hi>, <hi rend="i">Krelis Karstens Zeun</hi>;</l>
+<l>’<hi rend="i">k Begin</hi>, <hi rend="i">hoort toe met vlyt</hi>.</l>
+</lg>
+<div type="section">
+<head rend="h4">Zang:<hi rend="i"> ’t Groot Boerèn Balet.</hi></head>
+    <lg type="poem"><l rend="; 2tab">1</l>
+<l>FLoris en Neeltje, dat zoete lieve paar, Zyn te gaêr</l>
+    <l rend="; 1tab">Nu vereend voor ’t Echtaltaar.</l>
+    <l rend="; 1tab">’t Heele huis is opgesierd,</l>
+    <l rend="; 1tab">Wyl men hier de Bruiloft viert</l>
+<l>Van deez’ twee: ’t Is vol vreugde op deeze steê.</l>
+    <l rend="; 1tab">Bestemoeder, rad ter been,</l>
+<l>Heeft de pot vol kool gesneên, Zy alleen,</l>
+    <l rend="; 1tab">Kookt en smookt, schoon oud van leên.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">2</l>
+<l>Maartje, de Moeder van Floris lieve Neel, Is geheel</l>
+    <l rend="; 1tab">Vol van vreugde en zoet gekweel;</l>
+    <l rend="; 1tab">Zy maakt ’t Bruiloftsbedje klaar,</l>
+    <l rend="; 1tab">Als toen zy de Bruid eens waar</l>
+<l>Met haar Man, Die nu met een volle kan</l>
+    <l rend="; 1tab">Zit, verheugd, op zyne stoel,</l>
+<l>En beschouwt het zoet gewoel, Jongmans doel;</l>
+    <l rend="; 1tab">Maar zyn oudheid maakt hem koel.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">3</l>
+    <l>Kyk ’t zoete Joosje hoe zaagt hy als een man, Wel hy kan</l>
+    <l rend="; 1tab">Daar ook al zo vry wat van;</l>
+    <l rend="; 1tab">Ziet hoe speelt hy op de Veel,</l>
+    <l rend="; 1tab">En hoe lief zingt jonge Kreel</l>
+<l>Met zyn Teun; de aller nieuwerwetste deun.</l>
+    <l rend="; 1tab">Gysje die danst na de trant,</l>
+<l>En recht na de Speelmans hand, Met verstand,</l>
+    <l rend="; 1tab">Trots den besten Boer van ’t land.</l>
+<pb n="3"/>
+        <l rend="; 2tab">4</l>
+    <l>Pleuntje, niet minder, danst meê rond en om de Bruid,</l>
+    <l rend="; 1tab">Op ’t geluid, Ofze een been had om een duit.</l>
+    <l rend="; 1tab">Jorden stopt vast uit zyn doos,</l>
+    <l rend="; 1tab">En hy word schier zinneloos,</l>
+<l>Om dat hy Zo niet danssen kan als zy.</l>
+    <l rend="; 1tab">Hansje zegt: ’t gaet uit de kyk,</l>
+<l>Teuntje zingt bezongderlyk, J’ hebt gelyk,</l>
+    <l rend="; 1tab">Zyde Louris, ’t is mezyk.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">5</l>
+    <l>Hoor vader Jeppe, dien goeden ouden bloed: Wel ik moet</l>
+    <l rend="; 1tab">Zeggen, zegt hy, dat gaet zoet.</l>
+    <l rend="; 1tab">Floortje krygt zyn Bruid by ’t hoofd,</l>
+    <l rend="; 1tab">Die haar menig zoen ontrooft,</l>
+<l>Op ’t gekweel, En het klinken van de veel.</l>
+    <l rend="; 1tab">Kyk hoe Bruigoms Moeder lagt,</l>
+<l>Zy verschud haar heele vagt, Dat gaet zagt,</l>
+    <l rend="; 1tab">Zegt zy, ’k heb ’t al lang verwagt.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">6</l>
+    <l>Kyk eens na Klaasje, met kloentje op den trap,</l>
+    <l rend="; 1tab">Kyk hoe schrap Staat hy, met een volle flap,</l>
+    <l rend="; 1tab">En hy zegt: laet los de Maid,</l>
+    <l rend="; 1tab">Eer dat ik je strak iens smait,</l>
+<l>Net en krek, Deuze pul vlak veur je bek;</l>
+    <l rend="; 1tab">Wilje zoenen? zoentze daer</l>
+<l>Op de vloer, in ’t openbaer, By mekaer,</l>
+    <l rend="; 1tab">Of ik trekje by het haer.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">>7</l>
+    <l>Jaapje de ploeger vat Kloentje by de mouw,</l>
+    <l rend="; 1tab">’k Wil het nou, Zegt hy doen, wet roert ’et jou;</l>
+    <l rend="; 1tab">Laet me los de Vraister, ras!</l>
+    <l rend="; 1tab">Kom myn zoete braeve tas, </l>
+<pb n="4"/>
+<l>Kom by myn, Ik zel tog je Bruigom zyn:</l>
+    <l rend="; 1tab">’k Wed dat jy ’t niet raed, zei Kloen,</l>
+<l>’k Gaf dan liever Klaes een zoen, ’k Wil ’t niet doen,</l>
+    <l rend="; 1tab">Laet je Moêr je nog wet voên.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">8</l>
+    <l>Bruidegoms Broeders, klein’ Hein en groote Piet,</l>
+    <l rend="; 1tab">Zie je ’t niet, Wat dat onder hen geschied?</l>
+    <l rend="; 1tab">Wyl nu de eene drinkt en springt,</l>
+    <l rend="; 1tab">En een ander lustig zingt,</l>
+<l>Schaffen zy knapjes aan de rystenbry,</l>
+    <l rend="; 1tab">Die haar Besje heeft gekookt,</l>
+<l>Menig hoepelstok verstookt, Dat het rookt;</l>
+    <l rend="; 1tab">Ziet hoe dat de schoorsteen smookt.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">9</l>
+    <l>Meeuwtje, het kleintje, gezond en wel te pas, Grypt na’t glas</l>
+    <l rend="; 1tab">Of ’t vol wyn geschonken was;</l>
+    <l rend="; 1tab">Ziet hoe dat het guitje lagt,</l>
+    <l rend="; 1tab">Wyl hy op het glaasje wagt;</l>
+<l>’t Liefste kind, Dat van Moêr zo word bemint.</l>
+    <l rend="; 1tab">Ider een die is verblyd,</l>
+<l>En ook vol van vrolykheid, In deez’ tyd.</l>
+    <l rend="; 1tab">’t Drinkt en zingt, tot knegt en meid.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">10</l>
+    <l>Jorden aan ’t wensen, de Bruiloft was gedaan,</l>
+    <l rend="; 1tab">’t Za vat aen, Zegt hy, ’t glas zo vol gelaên;</l>
+    <l rend="; 1tab">Zie eens Floortje, dat moet uit,</l>
+    <l rend="; 1tab">Op gezondheid van jou Bruid,</l>
+<l>Dat je in ’t jaer Hebt een kind gelyk de Vaêr,</l>
+    <l rend="; 1tab">Of een Maisje, dik en vet.</l>
+<l>Daer meê alles weg gezet, Schoon en net.</l>
+    <l rend="; 1tab">Dan jy beidjes t’ zaem na bed.</l>
+</lg></div></div>
+        <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0002"/> </interpGrp>
+            <pb n="t.o. 4"/>
+            <head rend="h3"><hi rend="i">Vryazie van Floris en Pleuntje.</hi></head>
+           <p><figure>
+        <p><xptr to="gijs004verm01ill0003.gif"/></p>
+        <figDesc><hi rend="i">De zoete Zomertyd lokt Pleuntje voor de deur,<lb/>
+            z’Is ivrig aan het werk,begint verheugd te kweelen,<lb/>
+            Terwyl haar eenigst’ Kind vermaak’lyk zit te speelen:<lb/>
+            Met komt ’er Floris by, die weêr, als in zyn fleur<lb/>
+            De vreijery begint; de min, geneigt tot paaren<lb/>
+            Ontsteekt den ouden gloed in hunne hooge jaaren.</hi></figDesc>
+        </figure></p>      
+<pb n="5"/>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0004.gif"/></p>
+        </figure></p>
+        <lg type="poem"><l><hi rend="i">De Min is zeltzaem kruid</hi>,<hi rend="i"> zei Floris, </hi>’<hi rend="i">k voelt ook wel</hi>,<hi rend="i"></hi></l>
+            <l><hi rend="i">Want die verbrangste Min kruipt door myn vlys en vel</hi>,<hi rend="i"></hi></l>
+            <l>’<hi rend="i">k Heb dag nag nagt gien rust</hi>,<hi rend="i"> ik mot </hi>’<hi rend="i">et nag iens waegen:</hi></l>
+            <l>’<hi rend="i">k Gae na Pleun Krelis om haer tot myn Wyf te vraegen</hi>.</l>
+        </lg>
+        <div type ="section"><head type="h4">Zang: <hi rend="i">Dat gaat nou zo regt toe na Kniertje.</hi></head>
+            <l rend="speaker"><hi rend="i">Floris</hi>.</l>
+<lg type="poem"><l>Wet zo Buurwyf, Wet zo dan Pleuntje, Dat deuntje</l>
+    <l rend="; 1tab">Dat gaet hiel uit de kyk;</l>
+        <l rend="; 1tab">Jou stem die klinkt bezongderlyk:</l>
+            <l rend="; 1tab">Je zingt veul mooijer nag als Teuntje.</l>
+<l>Wet zo Buurwyf, wet zo dan Pleuntje, Dat deuntje</l>
+    <l rend="; 1tab">Dat gaet hiel uit de kyk.</l>
+<pb n="6"/>
+<l rend="speaker"><hi rend="i">Pleuntje</hi>.</l>
+<l>2 Wel Floris wel keum jy hier vreijen, Dat vleijen</l>
+            <l rend="; 1tab">Dat het wet in den zin,</l>
+            <l rend="; 1tab">Keum jy hier praeten van de min,</l>
+            <l rend="; 1tab">Dat mag ik tag nag geenzints leijen.</l>
+<l>Wel Floris wel keum jy hier vreijen, Dat vleijen</l>
+            <l rend="; 1tab">Dat het wet in den zin,</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Floris</hi>.</l>
+<l>3 Dat ’s net ’eraên, myn lieve mensie, Myn wensie,</l>
+            <l rend="; 1tab">Myn hoop in al myn troost,</l>
+            <l rend="; 1tab">’k Bin deur de liefde gaer ’eroost,</l>
+            <l rend="; 1tab">Ai spreek tag nau een goê sentencie.</l>
+<l>Dat ’s net ’eraên, myn lieve mensie, Myn wensie,</l>
+            <l rend="; 1tab">Myn hoop in al myn troost.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Pleuntje</hi>.</l>
+<l>4 Zeg hoe dus mal! zin jou de zinnen, Door’t minnen,</l>
+            <l rend="; 1tab">Ontvloogen, lieve maet?</l>
+            <l rend="; 1tab">Hy hou je vroom, wel, wet ien praet;</l>
+            <l rend="; 1tab">Wet zou je mit me gaen beginnen?</l>
+<l>Zeg hoe dus mal! zin jou de zinnen, Door ’t minnen,</l>
+            <l rend="; 1tab">Ontvloogen, lieve maet?</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Floris</hi>.</l>
+<l>5 Hoor ’k heb ien Langd mit twalef Koeijen, Die loeijen</l>
+            <l rend="; 1tab">Zeer tierig ongder een,</l>
+            <l rend="; 1tab">Keum wilje daer iens mit me treên,</l>
+            <l rend="; 1tab">Of ’k zel jou in myn schuitje roeijen.</l>
+<l>Hoor ’k heb ien Langd mit twalef Koeijen, Die loeijen</l>
+            <l rend="; 1tab">Zeer tierig ongder een.</l>
+<l>&nbsp;</l>
+<l>6 ’k Heb zo veul goed van zael’ge Kniertje, Dat diertje,</l>
+            <l rend="; 1tab">Die nou is by ongs Heer,</l>
+            <l rend="; 1tab">Van jakken, rokken en nag meer;</l>
+            <l rend="; 1tab">’k Heb hout in Turf, tot ien braef viertje.</l>
+<l>’k Heb zo veul goed van zael’ge Kniertje, Dat diertje,</l>
+            <l rend="; 1tab">Die nou is by ongs Heer,</l>
+<pb n="7"/>
+<l>7 ’k Heb pot, in pan, in haen, in hennen, Die bennen</l>
+            <l rend="; 1tab">Maer zongder wedergaê,</l>
+            <l rend="; 1tab">’k Heb iend in waerd, in vork, in spaê,</l>
+            <l rend="; 1tab">n twie paer vlinter nieuwe zennen.</l>
+<l>’k Heb pot, in pan, in haen, in hennen, Die bennen</l>
+            <l rend="; 1tab">Maer zongder wedergaê.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Pleuntje</hi>.</l>
+<l>8 Wel lieve Floor ik bin te vreden, ’k Zel treeden</l>
+            <l rend="; 1tab">Nu in den echtenstaet,</l>
+            <l rend="; 1tab">Wangt jy bekoort me deur jou praet.</l>
+            <l rend="; 1tab">’k Verlaet de droefheid nou mit reden.</l>
+<l>Wel lieve Floor ik bin te vreden, ’k Zel treeden</l>
+            <l rend="; 1tab">Nu in den echtenstaet.</l>
+<l>&nbsp;</l>
+<l>9 Ik ken myn kost by na wel winnen Mit spinnen,</l>
+            <l rend="; 1tab">Als ik wet iv’rig bin<hi rend="i">,</hi></l>
+            <l rend="; 1tab">Gut Floortje wistje hoe ik spin,</l>
+            <l rend="; 1tab">Je zout me nag veul meer beminnen.</l>
+<l>Ik ken myn kost by na wel winnen Mit spinnen,</l>
+            <l rend="; 1tab">Als ik wet iv’rig bin.</l>
+<l>&nbsp;</l>
+<l>10 ’k Heb, als je ziet, twie Verkens leggen, Ze zeggen,</l>
+            <l rend="; 1tab">Ze zin ien hoope waerd,</l>
+            <l rend="; 1tab">Het is ien spekje zoet van aerd;</l>
+            <l rend="; 1tab">In ook in ’t Langd twie nieuwe heggen.</l>
+<l>’k Heb, als je ziet, twie Varkens leggen, Ze zeggen,</l>
+            <l rend="; 1tab">Ze zin ien hoope waerd.</l>
+<l>&nbsp;</l>
+<l>11 In dan nag mier, ik kan ’t niet noemen; ’k Mag roemen,</l>
+            <l rend="; 1tab">Ik bin ien ryke Weeuw.</l>
+            <l rend="; 1tab">Daer an die schoorstien nest ien spreeuw.</l>
+            <l rend="; 1tab">’k Heb in myn tuin ook mooije bloemen.</l>
+<l>In dan nag mier, ik kan ’t niet noemen; ’k Mag roemen,</l>
+            <l rend="; 1tab">Ik bin ien ryke Weeuw.</l>
+<pb n="8"/>
+<l>12 ’k Bin wel verzien van schoone kleêren, Mit eeren</l>
+            <l rend="; 1tab">Keum ik braef veur den dag,</l>
+            <l rend="; 1tab">Al is ’t wet oud, dat ’s niet, ik lag</l>
+            <l rend="; 1tab">Mit al die nieuwerwetse veeren.</l>
+<l>’k Bin wel verzien van schoone kleêren, Mit eeren</l>
+            <l rend="; 1tab">Keum ik braef veur den dag,</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Floris</hi>.</l>
+<l>13 Ik weet ’et wel myn lieve bekje, Myn gekje,</l>
+            <l rend="; 1tab">Myn suiker zoete Pleun;</l>
+            <l rend="; 1tab">Ik motje lykwel, om den deun,</l>
+            <l rend="; 1tab">Iens zoenen, wangt myn liefde trekje.</l>
+<l>Ik weet ’et wel myn lieve bekje, Myn gekje,</l>
+            <l rend="; 1tab">Myn suiker zoete Pleun.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Pleuntje</hi>.</l>
+<l>14 Dat ’s niemendal, ik lag mit Joris, In Kloris,</l>
+            <l rend="; 1tab">Die na my kwamen uit;</l>
+            <l rend="; 1tab">Ik bin nou wederom de Bruid,</l>
+            <l rend="; 1tab">Mit ongzen wakk’ren braeven Floris.</l>
+<l>Dat ’s niemendal, ik lag mit Joris, In Kloris,</l>
+            <l rend="; 1tab">Die na my kwamen uit.</l>
+<l>&nbsp;</l>
+<l>15 Keum Floortje, keum gaen wy na binnen, Verzinnen</l>
+            <l rend="; 1tab">Wet ongs nou staet te doen;</l>
+            <l rend="; 1tab">Keum goelaik ventje, hups en koen.</l>
+            <l rend="; 1tab">Neel Klaese ga jy wet aen ’t spinnen.</l>
+<l>Keum Floortje, keum gaen wy na binnen, Verzinnen</l>
+            <l rend="; 1tab">Wet ongs nou staet te doen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Floris.</hi></l>
+<l>16 Wel als je wilt: ik bin, gangs lyde, Zo bleide!</l>
+            <l rend="; 1tab">Ik weet niet wet ik doe;</l>
+            <l rend="; 1tab">Ik bin van ’t vreijen ook al moe;</l>
+            <l rend="; 1tab">Dat ’s zo ongtdieft, o Meid der Meiden.</l>
+<l>Wel als je wilt: ik bin, gangs lyde, Zo bleide!</l>
+            <l rend="; 1tab">Ik weet niet wet ik doe.</l>
+            </lg></div></div>
+    <div type="chapter">
+
+    <pb n="t.o. 9"/>
+        <head rend="h3"><hi rend="i">Koen Fobertsz</hi>.<hi rend="i"> Kindje tiert en raast,</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0005.gif"/></p>
+        <figDesc><hi rend="i">Koen Fobertsz. Kindje tiert en raast<lb/>
+            Het kermt en steent van pyn in <lb/>
+            Hy voert het wigt wyl Moêr zich haast<lb/>
+            Met Luurtjes warme voor dat wyfje.<lb/>
+            Maar Jasje slokt zyn pappot uit<lb/>
+            En kreunt zich niet aan zulk geluit.</hi></figDesc>
+    </figure></p>
+</div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0003"/> </interpGrp>
+    <pb n="9"/>
+        <head rend="h3"><hi rend="i">Zaamenspraak tussen Man en Vrouw</hi>.</head>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0006.gif"/></p>
+            <p><xptr to= "gijs004verm01ill0008.gif"/></p>
+        </figure></p>
+<lg type="poem"><l><hi rend="i">Vrouw.</hi></l>
+<l>1 HEbstoe dan das ongewetser wied’rom in de Kreug gefeurt?</l>
+<l><hi rend="i">Man.</hi> Wel wat wolstu door van haben Wyb? das is wel meir gebeurt.</l>
+        <l rend="; 1tab"><hi rend="i">Vrouw. </hi>Ach was lyd ich<hi rend="i"> </hi>grootsen nood!</l> 
+        <l rend="; 1tab"><hi rend="i">Man.</hi> O doe dybel weerstoe dood.</l>
+<l>&nbsp;</l>
+<l>2 <hi rend="i">Vrouw.</hi> Dyne Kinner, die erhinner, sterben schier van hongersnood.</l>
+<l><hi rend="i">Man.</hi> Gibse krauwt of haut te fretsen, zo schytsen zy zich nich dood.</l>
+<l><hi rend="i">Vrouw.</hi> Ach was lyd ich grootsen nood!</l>
+<l><hi rend="i">Man. </hi>O doe dybel weerstoe dood.</l>
+<pb n="10"/>
+<l>3  <hi rend="i">Vrouw.</hi> ’k Wol das ich waer blind geweezen, wan ich dier hond haab gezien.</l>
+<l><hi rend="i">Man.</hi> Wyb in dynen oog geschissen, zo wil ’t naer uw wens geschien.</l>
+    <l rend="; 1tab"><hi rend="i">Vrouw. </hi>Ach was lyd ich grootsen nood!</l>
+    <l rend="; 1tab"><hi rend="i">Man.</hi> O doe dybel weerstoe dood.</l>
+<l>&nbsp;</l>
+<l>4 <hi rend="i">Vrouw</hi>. Ei zo soef doe galgevogel pik on zwabel in dyn lyb.</l>
+<l><hi rend="i">Man.</hi> Wyn on bier in ’t hert ezoogen, is mier betser snoode wyb.</l>
+    <l rend="; 1tab"><hi rend="i">Vrouw. </hi>Souf das her an stikken moest.</l>
+    <l rend="; 1tab"><hi rend="i">Man.</hi> Daer soe haab ich geinen loest.</l>
+<l>&nbsp;</l>
+<l>5 <hi rend="i">Vrouw</hi>. ’k Wol das ich Himmel waeren, ich moes ’er doch einmael in.</l>
+<l><hi rend="i">Man.</hi> ’k Wol das ou was van der aerde, dan haab ich het naer myn zin.</l>
+    <l rend="; 1tab"><hi rend="i">Vrouw. </hi>Ach was lyd ich grootsen nood! </l>
+    <l rend="; 1tab"><hi rend="i">Man.</hi> O doe dybel weerstoe dood.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0004"/> </interpGrp>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0009.gif"/></p>
+        <figDesc><hi rend="i">Jan, in zyn eenzaamheid, veracht het dartel minnen;<lb/></hi>
+            <hi rend="i">Want ’t schoon kristalle nat van Baghus streelt zyn zinnen.</hi></figDesc>
+    </figure></p>
+    <div type="section">
+<pb n="11"/>
+<head rend="h3"><hi rend="i">Mars van de jonge Prins van Vriesland.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0010.gif"/></p>
+            </figure></p>  
+        <lg type="poem"><l rend="; 2tab">1</l>
+        <l rend="; 1tab">JAn pryst den klaaren wyn,</l>
+        <l rend="; 1tab">En laakt het dartel minnen;</l>
+        <l rend="; 1tab">Het helder kristaly - - - n </l>
+        <l rend="; 1tab">Dat streelt hy voor zyn Tryn:</l>
+<l>Hy zegt kristal, Uw geest die zal </l>
+        <l rend="; 1tab">Meer doen En voên</l>
+<l>Als ooit een maagd; Uw kragt die vaagt </l>
+        <l rend="; 1tab">Die smert Van ’t hert,</l>
+ <pb n="12"/>
+<l>Geen vreugd op aard, Of word gebaart</l>
+        <l rend="; 1tab">Door u; Ik schuw </l>
+        <l rend="; 1tab">De mal - - le min van Tryn, </l>
+        <l rend="; 1tab">En prys den klaaren wyn. </l>
+        <l rend="; 2tab">2</l>
+        <l rend="; 1tab">Wat brengt de zotte min</l>
+        <l rend="; 1tab">Al kwelling naar het meisje,</l>
+        <l rend="; 1tab">Zy speelt gestadig in</l>
+        <l rend="; 1tab">Uw herte, ziel en zin:</l>
+<l>Men lyd gestaag Met vlaag op vlaag,</l>
+        <l rend="; 1tab">Met macht, By nacht.</l>
+<l>Ik heb gestreên, En dat geween</l>
+        <l rend="; 1tab">Met kracht Doorbragt,</l>
+<l>Omtrent een Jaar; Nu schuw ik haar:</l>
+        <l rend="; 1tab">Weg meid, Altyd</l>
+        <l rend="; 1tab">Te loopen naar uw gat,</l>
+        <l rend="; 1tab">Ben ik, met reên, al zat.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">3</l>
+        <l rend="; 1tab">De held’re Wyn verheugd,</l>
+        <l rend="; 1tab">En ’t minnen doet my zugten.</l>
+        <l rend="; 1tab">O Baghus! ’k prys uw deugd,</l>
+        <l rend="; 1tab">Gy mint en kweekt de vreugd.</l>
+<l>Weg malle min, Vlied uit myn zin:</l>
+        <l rend="; 1tab">De Wyn Zal myn</l>
+<l>Verheugen doen, En lusten voên;</l>
+        <l rend="; 1tab">Ik haat Het kwaad</l>
+<l>Van ’t minnevier; Weg, weg van hier!</l>
+        <l rend="; 1tab">’t Kristal Dat zal</l>
+        <l rend="; 1tab">My streelen voor myn Tryn.</l>
+        <l rend="; 1tab">O schoon kristalle Wyn.</l>
+</lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0005"/> </interpGrp>
+<pb n="13"/>
+<head rend="h3"><hi rend="i">De Westfeeling mit dem Kinne.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0011.gif"/></p>
+    </figure></p>
+    <div type="section"><head rend="h4">Zang: <hi rend="i">Van de Harder.</hi></head>
+        <lg type="poem"><l rend="; 2tab">1</l>
+    <l>NOe doe hunnesfotke Woe schreijet sou tho mik?</l>
+<l>Moeme zet yn Potke Mit bryken up veur dik, </l>
+    <l rend="; 1tab">’t Lieve Kinne kriet tho roozen dol,</l>
+    <l rend="; 1tab">Wen ’et man vretten wol;</l>
+    <l rend="; 1tab">’t ’Est nein dret tho vretten,</l>
+    <l rend="; 1tab">Moeme kumt mit brie ou bie, </l>
+    <l rend="; 1tab">’t Kinne mut wat etten,</l>
+    <l rend="; 1tab">’ t Is tho roozen dol no brie.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">2</l>
+    <l>Noe mien kleen zoot meike, Noe, meeket nicht tho bunt,</l>
+<l>Spyet soeker breike Nicht wedder ut hem mund;</l>
+    <l rend="; 1tab">Noe noe, weezet man tho vredden dan,</l>
+<pb n="14"/>
+    <l rend="; 1tab">’k Wyt nicht woe ’k arme Man</l>
+    <l rend="; 1tab">Mit dem Kinne meeket,</l>
+    <l rend="; 1tab">’t Est up stunt, went brieken et,</l>
+    <l rend="; 1tab">Ut hem lieve breeket,</l>
+    <l rend="; 1tab">’k Wyt nicht wat dem Kinne let.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">3</l>
+  <l>’k Wol yn Dokker sprekken Dat ’et wat tuges geft;</l>
+<l>’t Zunt balt zooven wekken Dat ’et nicht dretten heft</l>
+    <l rend="; 1tab">Assen grunnen kuttel wie yn styn,</l>
+    <l rend="; 1tab">’t Eft liejen drettel pyn.</l>
+    <l rend="; 1tab">Noe mien Leef doe muste</l>
+    <l rend="; 1tab">Zwiegen: ’t lagt mik tho dem Kin,</l>
+    <l rend="; 1tab">Wennet zunners wuste</l>
+    <l rend="; 1tab">Dat ’k ’er zulverst Voor vom bin.</l>
+        </lg></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0006"/> </interpGrp>
+        <p><figure>
+    <p><xptr to="gijs004verm01ill0012.gif"/></p>
+    <figDesc><hi rend="i">Niet jong te zyn getrouwt<lb/>
+        Heeft menig knegt berouwt.</hi></figDesc>
+</figure></p></div>
+<div type="section">
+<pb n="15"/>
+    <head rend="h3">Myn frisse jeugd is nu verdweenen:</head>
+<head rend="h4"><hi rend="i">Air, vivace</hi>.</head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0013.gif"/></p>
+    </figure></p>
+<lg type="poem"><l>1</l>
+<l>MYn frisse jeugd is nu verdweenen: </l>
+    <l rend="; 1tab">Vergaan is al myn lust en vreugd:</l>
+    <l rend="; 1tab"> ’k Heb my dikmaals met Neel verheugd,</l>
+<l>Maar nu ga ik al kuchgend’ steenen: </l>
+    <l rend="; 1tab">Het Vrouwvolk roept my na tot spot,</l>
+    <l rend="; 1tab">Gy durft niet trouwen, knorrepot.</l>
+<l>&nbsp;</l>
+<l>2</l>
+    <l>Beleefde ik nu myn jonge jaaren,</l>
+    <l rend="; 1tab">Ik meen ik Neel bezoeken zou,</l>
+    <l rend="; 1tab">En haar verzoeken tot myn Vrouw,</l>
+<l>Om met my in den Egt te paaren,</l>
+    <l rend="; 1tab">Maar nu ’t te laat is, ga ik heen’</l>
+    <l rend="; 1tab">Naar ’t Oude Manhuis my besteên.</l>
+<pb n="16"/>
+<l>3</l>
+    <l>Daar wil ik eindigen myn leeven</l>
+    <l rend="; 1tab">In stilheid, en in vrede, en rust,</l>
+    <l rend="; 1tab">En eenzaamheid, dat ’s nu myn lust:</l>
+<l>Ik zal my nooit daar uit begeeven,</l>
+    <l rend="; 1tab">Zy zouden my weêr, tot myn spot,</l>
+    <l rend="; 1tab">Na roepen, oude Knorrepot.</l>
+</lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0007"/> </interpGrp>
+    <p><figure>
+    <p><xptr to="gijs004verm01ill0014.gif"/></p>
+    </figure></p>
+    <div type="section">
+    <head rend="h3"><hi rend="i">Oud Mal van Goris en Guurtje.</hi></head>
+<pb n="17"/>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0015.gif"/></p>
+    </figure></p>
+    <div type="section">
+    <head rend="h4">Zang: <hi rend="i">Verlaat gy my verheven Ziel.<lb/>Een weinig langzaam</hi></head>
+        <lg type="poem"><l rend="; 2tab">1</l>
+            <l rend="; 1tab">Als oude lui’ een jeugdig kind </l>
+            <l rend="; 1tab">In Echt te zaamen overgaêren,</l>
+            <l rend="; 1tab">Dat word gemeenlyk meer bemind </l>
+            <l rend="; 1tab">Als menig doet in jonge Jaaren:</l>
+<l>Want d’ ouden zyn bedaard, de jeugd wil aan den trant,</l>
+            <l rend="; 1tab">En ’t kind verstrekt een band.</l>
+<l>Want d’ ouden zyn bedaard, de jeugd wil aan den trant,</l>
+            <l rend="; 1tab">En ’t kind verstrekt een band.</l>
+<pb n="18"/>
+            <l rend="; 2tab">2</l>
+            <l rend="; 1tab">Beschouw maar eens dit oude paar,</l>
+            <l rend="; 1tab">’t Is Goris met zyn stramme handen,</l>
+            <l rend="; 1tab">Die afgeleefde kluizenaar,</l>
+            <l rend="; 1tab">Met goore Guurtje zonder tanden,</l>
+<l>Nog onlangs in het dorp tot echte man en vrouw</l>
+            <l rend="; 1tab">Verbonden door de trouw.</l>
+<l>Nog onlangs in het dorp tot echte man en vrouw</l>
+            <l rend="; 1tab">Verbonden door de trouw.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">3</l>
+            <l rend="; 1tab">Maar heerst de Liefde in Jonge Lui’,</l>
+            <l rend="; 1tab">Zy broeit hier ook al vreemde kuuren:</l>
+            <l rend="; 1tab">Want Goris kreeg een malle bui,</l>
+            <l rend="; 1tab">En Guurtje kon ’t niet langer duuren,</l>
+<l>Voor dat zy t’ zaamen eens verkoelden hunnen brand,</l>
+            <l rend="; 1tab">Op ’t boeren ledikant.</l>
+<l>Voor dat zy t’ zaamen eens verkoelden hunnen brand,</l>
+            <l rend="; 1tab">Op ’t boeren Ledikant.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">4</l>
+            <l rend="; 1tab">4Hier toondenze in den Minnestryd</l>
+            <l rend="; 1tab">Dat zy de Jeugd niet wilden wyken:</l>
+            <l rend="; 1tab">Want, negen maanden na dien tyd,</l>
+            <l rend="; 1tab">Daar kwam een jonge Goris kyken.</l>
+<l>Dat ’s van de bedplank af, gerekend op een haar,</l>
+            <l rend="; 1tab">Wat dunktje van dit paar? </l>
+<l>Dat s’ van de bedplank af, gerekend op een haar,</l>
+            <l rend="; 1tab">Wat dunktje van dit paar? </l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">5</l>
+            <l rend="; 1tab">Nu zit zy vast om ’t kind met vreugd</l>
+            <l rend="; 1tab">Door zyn Hansop te doen verblyden!</l>
+            <l rend="; 1tab">Dit doet den ouden Goris deugd,</l>
+            <l rend="; 1tab">Terwyl hy grinnikt van ter zyden,</l>
+<l>Gelyk een sater op een schoone veldgodin</l>
+            <l rend="; 1tab">In uitgelaaten min.</l>
+<l>Gelyk een sater op een schoone veldgodin</l>
+            <l rend="; 1tab">In uitgelaaten min.</l>
+<pb n="19"/>
+            <l rend="; 2tab">6</l>
+            <l rend="; 1tab">Doch Guurtje moet het jonge lam</l>
+            <l rend="; 1tab">By Pypkan en by Pappot kweeken,</l>
+            <l rend="; 1tab">Dewyl zy nooit geen zog vernam,</l>
+            <l rend="; 1tab">En wel een Docter had gaan spreeken;</l>
+<l>Maar die gaf haar bescheid: daar is geen helpen aan,</l>
+            <l rend="; 1tab">Gy hebt uw best gedaan.</l>
+<l>Maar die gaf haar bescheid: daar is geen helpen aan,</l>
+            <l rend="; 1tab">Gy hebt uw best gedaan.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">7</l>
+            <l rend="; 1tab">Men heb dan nu geen kwaad vermoên</l>
+            <l rend="; 1tab">Of Guurtje zoekt langs straat te loopen,</l>
+            <l rend="; 1tab">Gelyk ’t de meeste Wyfjes doen</l>
+            <l rend="; 1tab">Die Klaphout by de buurt verkoopen,</l>
+<l>Z’ is huizig en bekwaam, z’ is altyd even stil</l>
+            <l rend="; 1tab">En nimmer op den tril.</l>
+<l>Z’ is huizig en bekwaam, z’ is altyd even stil</l>
+            <l rend="; 1tab">En nimmer op den tril.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">8</l>
+            <l rend="; 1tab">Gelukkig dan die al den dag</l>
+            <l rend="; 1tab">Zyn wyf niet diende aan band te leggen</l>
+            <l rend="; 1tab">Gelukkig die, als Goris, mag</l>
+            <l rend="; 1tab">Myn Huisvrouw en myn t’ huisvrouw zeggen,</l>
+<l>Ja daarmen nimmer hoort het kermelyk geluid</l>
+            <l rend="; 1tab">Myn wyf is altyd <hi rend="spat">UIT.</hi></l>
+<l>Ja daarmen nimmer hoort het kermelyk geluid</l>
+            <l rend="; 1tab">Myn wyf is altyd <hi rend="spat">UIT.</hi></l>
+        </lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0008"/> </interpGrp>
+<pb n="20"/>
+        <head rend="h3">Zang: <hi rend="i">De liefde voort gebragt.</hi></head>      
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0017.gif"/></p>
+            <p><xptr to="gijs004verm01ill0018.gif"/></p>
+        </figure></p>
+        <pb n="21"/>
+        <lg type="poem"><l rend="; 2tab">1</l>
+    <l rend="; 1tab">HElaas! waar zal ik heen? </l>
+<l>In deez’ myne oude dagen,</l>
+<l>De strammigheid der leên </l>
+<l>Doet my niet weinig klaagen! </l>
+<l>En ’t geen de Jongkheid past, </l>
+<l>Te zyn volle minnevlaagen</l>
+<l>Ach! ’t is my tot een last, </l>
+<l>Meer als ik schier kan draagen, </l>
+<l>Kan draagen, kan draagen, kan draagen.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">2</l>
+    <l rend="; 1tab">Als ik maar ben in huis</l>
+<l>Hoor ik gestadig knorren,</l>
+<l>Wat is het my een kruis!</l>
+<l>Ik schrik voor al het morren:</l>
+<l>Ik kan myn oude lyf</l>
+<l>Ter naauwernood meer buigen,</l>
+<l>En nog plaagt my myn wyf</l>
+<l>Dat ik schier val in duigen</l>
+<l>In duigen, in duigen, in duigen.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">3</l>
+    <l rend="; 1tab">Het is een booze Griet,</l>
+<l>Zy doet niet aêrs als zuipen,</l>
+<l>Die, tot myn groot verdriet,</l>
+<l>My nog wat af gaat kuipen:</l>
+<l>Helaas! ’k verwens die trouw!</l>
+<l>Maar daal nu haast ten grave:</l>
+<l>Nog moet ik voor myn Vrouw</l>
+<l>Heel vroeg en laat steeds slaaven, </l>
+<l>Steeds slaaven, steeds slaaven, steeds slaaven.</l>
+        </lg></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0009"/> </interpGrp>
+        <pb n="22"/>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0019.gif"/></p>
+            <figDesc><hi rend="i">Piet slypt op ’t Boeren Dorp voor ’t Pothuis van een Lapper,<lb/>
+                En roert, daar onderwyl, op deeze wys zyn snapper.</hi></figDesc>
+        </figure></p>
+        <div type="section">
+    <head rend="h3"><hi rend="i">Sliep schaar en mes deun.</hi></head>
+<head rend="h4"><hi rend="i">Air, vivace.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0020.gif"/></p>
+    </figure></p>
+    <pb n="23"></pb>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0021.gif"/></p>
+    </figure></p>
+<lg type="poem">
+<l>&nbsp;</l>
+    <l rend="; 2tab">1</l>
+    <l>MYn steen zo bot en stomp van leden, Sliep schaar en mesje, </l>
+    <l rend="; 1tab">Maakt bytel, byl en mes zeer scherp van sneden; </l>
+<l>De elsten puntig, glad en net; Sliep schaar en mesje,</l>
+    <l rend="; 2tab">De schaartjes, priemen en ’t lancet </l>
+    <l rend="; 3tab">Die slyp ik mede.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l>De schaatsen maak ik recht, door ’t keeren, Sliep schaar en mesje</l>
+    <l rend="; 1tab">Droogscheerders schaars, die nop en laken scheeren,</l>
+<l>Of troffels, strykers, groot en klein, Sliep schaar en mesje,</l>
+    <l rend="; 2tab">Ik maak het alles schoon en rein,</l>
+    <l rend="; 3tab">Voor die ’t hanteeren.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">3</l>
+    <l>Geen Ambagtsman, hoe groot in agting, Sliep schaar en mesje, </l>
+    <l rend="; 1tab">Wagt door myn botte steen in ’t werk verzagting:</l>
+<l>De Kok, hoe smeerig, vuil en zwart, Sliep schaar en mesje,</l>
+    <l rend="; 2tab">Gunt myne steen al mê zyn part,</l>
+    <l rend="; 3tab">Buiten verwagting.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">4</l>
+    <l>De Naaistertjes, hoe net in ’t kleeden, Sliep schaar en mesje,</l>
+    <l rend="; 1tab">Hoe puntig, krullig, wel gemaakt van leden,</l>
+<l>Die brengen mê haar snippel schaar, Sliep schaar en mesje,</l>
+    <l rend="; 2tab">Of torrenmesjes, net en raar,</l>
+    <l rend="; 3tab">Ik slypze al mede.</l>
+<pb n="24"/>
+    <l rend="; 2tab">5</l>
+    <l>Ik trap op ’t plankje met myn teenen, Sliep schaar en mesje,</l>
+    <l rend="; 1tab">Komt treê maar aan, en wil my werk verleenen,</l>
+<l>’t Zy jong of oud, of vrouw of man, Sliep schaar en mesje,</l>
+    <l rend="; 2tab">Brengt vaardig uw gereedschap an,</l>
+    <l rend="; 3tab">Of ik krui heenen.</l>
+</lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0010"/> </interpGrp>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0022.gif"/></p>
+        <figDesc><hi rend="i">Ang’niet, een weduwvrouw, nog jeugdig in haar tyd,<lb/>
+            Word, wyl zy haspelt, voor haar deur van Koert gevryd.</hi></figDesc>
+    </figure></p>
+        <div type="section">
+<pb n="25"/>
+<head rend="h3"><hi rend="i">Vryazie tussen Koert en Angeniet.</hi></head>
+<head rend="h4"><hi rend="i">Giga Anglois.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0023.gif"/></p>
+    </figure></p>
+<lg type="poem">
+    <l rend="; 2tab">1</l>
+    <l>ANg’nietje had haare klein’ Kipjes gevoerd, </l>
+<l>Haar Vlasje gesponnen, gedraaid of gesnoerd;</l>
+    <l rend="; 2tab">’t Blank Garen, van kleurtje. </l>
+    <l rend="; 2tab">Gehaspeld voor ’t deurtje, </l>
+    <l rend="; 1tab">HoeAan stringetjes netjes getoerd.</l>
+    <l rend="; 2tab">Koert komt ’er getreeden,</l>
+    <l rend="; 2tab">En rust zyne leden,</l>
+<pb n="26"/>
+    <l rend="; 1tab">HoeAl leunende, op zyne stok. </l>
+    <l rend="; 2tab">Maisje myn lief, myn pangd, </l>
+    <l rend="; 2tab">Daer is nu myn hangd, </l>
+    <l rend="; 2tab">Ik wouje wel trouwen, </l>
+    <l rend="; 2tab">Zegt hy, voor myn Vrouwe,</l>
+    <l rend="; 1tab">HoeKom treên wy in ’t Huwelyks jok.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l>Ik zelje zo dienen en streelen, als eer</l>
+<l>Uw Symen u deede, Ang’nietje, ja meer;</l>
+    <l rend="; 2tab">Wanneerje zult plassen,</l>
+    <l rend="; 2tab">Of schrobben, of wassen,</l>
+    <l rend="; 1tab">HoeDan doe ik al watje begeer.</l>
+    <l rend="; 2tab">Gy woont hier zo eenig,</l>
+    <l rend="; 2tab">En ik meê alleenig;</l>
+    <l rend="; 1tab">HoeKom doen wy ’t op deeze voet.</l>
+    <l rend="; 2tab">Kisten, en kas, en vee</l>
+    <l rend="; 2tab">Is het uw’ dan meê,</l>
+    <l rend="; 2tab">Myn potten en pannen,</l>
+    <l rend="; 2tab">Myn glaezen en kannen</l>
+    <l rend="; 1tab">HoeDie krygje met my by uw goed.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">3</l>
+    <l>Weg, zegtze tot Koertje, ik blyf ’er allien,</l>
+<l>Ik leef veel geruster in stilte, met vreên.</l>
+    <l rend="; 2tab">Myn Symen die zaide:</l>
+    <l rend="; 2tab">Ei Wyfje, zo ’k schaide</l>
+    <l rend="; 1tab">HoeHier van u zo mint ’er geen ien.</l>
+    <l rend="; 2tab">Myn Symen die was ’er</l>
+    <l rend="; 2tab">Een goelyk oppasser.</l>
+    <l rend="; 1tab">HoeWy hebben mooi goedje vergaêrd;</l>
+    <l rend="; 2tab">Myn Kas is wel voorzien</l>
+    <l rend="; 2tab">Van geld, zo ik mien,</l>
+    <l rend="; 2tab">Daer kan ik van leeven.</l>
+    <l rend="; 2tab">Nog zy hy: ik geeve</l>
+    <l rend="; 1tab">HoeU alles, maer ’t boeltje wat spaert.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">4</l>
+    <l>Ang’nietje, myn engel, ik zel het vergoên,</l>
+<l>Met slooven en wroeten, om voordeel te doen.</l>
+<pb n="27"/>
+    <l rend="; 2tab">O laet ongs een raisje</l>
+    <l rend="; 2tab">Vereenen, och Maisje,</l>
+    <l rend="; 1tab">HoeSelweeken ik word ’er zo groen!</l>
+    <l rend="; 2tab">Nou, zegtze tot Koertje,</l>
+    <l rend="; 2tab">Jou dartele boertje,</l>
+    <l rend="; 1tab">HoeUw vreijen dat zou wel gaen,</l>
+    <l rend="; 2tab">Als gy uw mooije praet</l>
+    <l rend="; 2tab">Verplaetste in de daed,</l>
+    <l rend="; 2tab">Dan word ik uw Wyfje,</l>
+    <l rend="; 2tab">Dan min ik uw lyfje, </l>
+    <l rend="; 1tab">HoeDan lap ik het Hailikje aen.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">5</l>
+    <l>Hy zegt ’er: Ang’nietje nu ben ik gerust,</l>
+<l>Myn liefje, myn suiker, nu eensjes gekust;</l>
+    <l rend="; 2tab">Ik zelje zo lieven,</l>
+    <l rend="; 2tab">Zo dikwils gerieven, </l>
+    <l rend="; 1tab">HoeAch zoetert, myn brytje, myn lust.</l>
+    <l rend="; 2tab">Nu komen ongs goedjes,</l>
+    <l rend="; 2tab">Ongs schaapen en koetjes, </l>
+    <l rend="; 1tab">HoeOngs boeltjes, ook meê by een.</l>
+    <l rend="; 2tab">Liefje de min brangd in</l>
+    <l rend="; 2tab">Myn lyf en myn zin,</l>
+    <l rend="; 2tab">Kom wiltze wat koelen,</l>
+    <l rend="; 2tab">Wat lessen, wat spoelen,</l>
+    <l rend="; 1tab">HoeAng’nietje ze kruipt na beneên.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">6</l>
+    <l>Weg, zegtze, jou lubbert, het is nog gien tyd,</l>
+<l>Wagt tot je ter deegen in ’t Huwelyk zyt,</l>
+    <l rend="; 2tab">Dan kunje het minnen,</l>
+    <l rend="; 2tab">Met vreugde beginnen,</l>
+    <l rend="; 1tab">HoeJou hertje dat brangt na de maid.</l>
+    <l rend="; 2tab">Ach moet ik die plaegen,</l>
+    <l rend="; 2tab">Zegt hy, nog verdraegen,</l>
+    <l rend="; 1tab">HoeMyn lyfje staet in den brangd!</l>
+    <l rend="; 2tab">Zagje myn hert en nier,</l>
+    <l rend="; 2tab">Ze zyn als het vier</l>
+    <l rend="; 2tab">Van binnen en buiten,</l>
+<pb n="28"/>
+    <l rend="; 2tab">Ik kan ’t niet meer uiten,</l>
+    <l rend="; 1tab">HoeZo ik ’er geen middelen vangd.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">7</l>
+    <l>Kom treên wy na binnen jou guitje, jou fielt,</l>
+<l>Zo zegtze, eer het brangden uw hertje vernielt:</l>
+    <l rend="; 2tab">De jongeliens kragten</l>
+    <l rend="; 2tab">Dientmen te verzagten,</l>
+    <l rend="; 1tab">HoeDaer zagelis Symen van hielt.</l>
+    <l rend="; 2tab">Och, zegt hy, myn engel,</l>
+    <l rend="; 2tab">De minnegods bengel</l>
+    <l rend="; 1tab">HoeDie kruipt door myn vlees en bloed.</l>
+    <l rend="; 2tab">’t Lieven heeft groote kragt,</l>
+    <l rend="; 2tab">Geweld en veel magt,</l>
+    <l rend="; 2tab">Het prangtje de zinnen,</l>
+    <l rend="; 2tab">Het doetje verwinnen,</l>
+    <l rend="; 1tab">HoeHet smaektje, lik suiker, zo zoet.</l>
+</lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0011"/> </interpGrp>            
+            <p><figure>
+    <p><xptr to="gijs004verm01ill0024.gif"/></p>
+    <figDesc><hi rend="i">Klein Jaapje dampt en rookt wyl hy, op zyn gemak,<lb/>
+        De lekk’re geur en lugt volpryst van zyn Tabak.</hi></figDesc>
+</figure></p>
+<div type="section">
+<pb n="29"/>
+    <head rend="h3">Tabak wie heeft uw lof en deugd</head>
+<head rend="h4"><hi rend="i">Air, Allegro.</hi><hi rend="i"> </hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0025.gif"/></p>
+    </figure></p>
+<pb n="30"/>
+    <lg type="poem"><l>TAbak wie heeft uw lof en deugd</l>
+        <l rend="; 2tab">Op ’t hoogste na waardy beschreeven?</l>
+        <l rend="; 2tab">Geen Kruidje dat my meer verheugt,</l>
+<l>Of meer vermaak en vreugd kan geeven;</l>
+        <l rend="; 2tab">Gy doet myn zugten </l>
+        <l rend="; 2tab">Haast ontvlugten </l>
+        <l rend="; 1tab">Als ik zit by myn lieve Knier, </l>
+<l>En spreek met haar van ’t lieflyk minnen,</l>
+<l>My dunkt daar is geen meer plaizier</l>
+<l>Als onder ’t pypje ’t hert te winnen.</l>
+<l>Tabak gy zyt alleen myn vreugd, </l>
+<l>Gy maakt my lustig en verheugd.</l>
+    </lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0012"/> </interpGrp>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0026.gif"/></p>
+        <figDesc><hi rend="i">Dries schud gestaêg zyn kleed, wyl ’t tand’loos vee hem kwelt,<lb/>
+            En gaart zyn sob’re kost, al schurkende, op het veld.</hi></figDesc>
+    </figure></p>
+        <div type="section">
+<pb n="31"/>
+<head rend="h3">Zang: <hi rend="i">De frisse Boer.</hi></head>
+<head rend="h4"><hi rend="i">Gavotta</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0027.gif"/></p>
+    </figure></p>
+    <pb n="32"/>
+<lg type="poem">
+    <l rend="; 2tab">1</l>
+    <l rend="; 5tab">DRies, schoon kaal, </l>
+    <l rend="; 5tab">En wat schraal, </l>
+    <l rend="; 1tab">Ryk van Vee doch wat sober in de veeren,</l>
+    <l rend="; 4tab">Gaat alleen, </l>
+    <l rend="; 4tab">Wel te vreên,</l>
+    <l rend="; 2tab">Met zyn zoet gezelschap vrolyk treên.</l>
+    <l rend="; 3tab">Hy verschikt gestaêg zyn kleêren,</l>
+    <l rend="; 3tab">Niet uit grootsheid of hoogmoed,</l>
+    <l rend="; 3tab">Maar om ’t klein lief tandelooze goed,</l>
+    <l rend="; 3tab">Dat hem zo veel kitteling aandoet.</l>
+<l>Knipluis, knipluis, knipluis, knipluis, van zyn eigen vlees en bloed.</l>
+<l>Knipluis, knipluis, knipluis, knipluis, van zyn eigen vlees en bloed.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l rend="; 5tab">Staag is hy</l>
+    <l rend="; 5tab">Even bly,</l>
+    <l rend="; 1tab">En krygt van zyne beesjes teeling veel vrugt.</l>
+    <l rend="; 5tab">Want uit brood</l>
+    <l rend="; 5tab">Hongers nood</l>
+    <l rend="; 2tab">Slaat hy dagelyks driehonderd dood.</l>
+    <l rend="; 3tab">Hy gebruiktze voor de geelzugt,</l>
+    <l rend="; 3tab">En spaart zo het Docters geld:</l>
+    <l rend="; 3tab">Zo speelt Dries, op ’t wollig luizenveld,</l>
+    <l rend="; 3tab">Als de honger hem te vinnig kwelt,</l>
+<l>Knipluis, knipluis, knipluis, knipluis, in zyn wambuis, als een held.</l>
+<l>Knipluis, knipluis, knipluis, knipluis, in zyn wambuis, als een held.</l>
+</lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0013"/> </interpGrp>
+    <pb n="33"/>
+<head rend="h3">Zang: <hi rend="i">Philida myns Zielsvoogdesse.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0028.gif"/></p>
+        <p><xptr to="gijs004verm01ill0029.gif"/></p>
+    </figure></p>
+    <pb n="34"/>  
+<lg type="poem">
+    <l rend="; 2tab">1</l>
+    <l rend="; 1tab">ZIe oom Krelis hier eens rooken, </l>
+    <l rend="; 2tab">Met verstand en goed beleid, </l>
+    <l rend="; 1tab">Jaap beschouwt zyn pyp en smooken.</l>
+    <l rend="; 2tab">O wat groote malligheid,</l>
+    <l rend="; 1tab">Roept hy uit, ik zal ’t u zeggen, </l>
+    <l rend="; 1tab">En met reden uit gaan leggen,</l>
+    <l rend="; 2tab">Wat myn moertje my, zo strak,</l>
+<l>Eerst verhaalde, eerst verhaalde, eerst verhaalde van Tabak.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l rend="; 1tab">Dat hy eerst is voortgesprooten</l>
+    <l rend="; 2tab">Uit Vorst Attabalia,</l>
+    <l rend="; 1tab">Daar de Spanjaards van genooten,</l>
+    <l rend="; 2tab">In het woest America,</l>
+    <l rend="; 1tab">Zo veel goud, zo veel sieraaden,</l>
+    <l rend="; 1tab">Als hun gier’ge lust kon laaden;</l>
+    <l rend="; 2tab">Tot zyn lossing en randsoen,</l>
+<l>Want daar was ’t hen, want daar was ’t hen, want daar was ’t hen om te doen.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">3</l>
+    <l rend="; 1tab">Als men hen doen had gegeeven</l>
+    <l rend="; 2tab">Veele schatten, naer ’t accoord,</l>
+    <l rend="; 1tab">Bragten zy nog om het leven,</l>
+    <l rend="; 2tab">(Door een wreeden beulsen moord,)</l>
+    <l rend="; 1tab">Deezen Koning, o wat schanden!</l>
+    <l rend="; 1tab">En vermeesterden zyn landen;</l>
+    <l rend="; 2tab">Wierpen ’t lighaam aan het strand</l>
+<l>Dat begraaven, dat begraaven, dat begraaven wierd in ’t zand.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">4</l>
+    <l rend="; 1tab">Door een Neger die kwam doolen,</l>
+    <l rend="; 2tab">Wyl hy, door het Spaans geweld,</l>
+    <l rend="; 1tab">Zich een tyd lang had verschoolen;</l>
+    <l rend="; 2tab">Denk wat was die man ontsteld!	</l>
+    <l rend="; 1tab">Als hy daar zyn Heer en Koning</l>
+    <l rend="; 1tab">Zag beroofd van spraak en wooning;</l>
+    <l rend="; 2tab">’k Wens dat een vergiftig kruid,</l>
+<l>Uit zyn Lighaam, uit zyn Lighaam, uit zyn Lighaam sprak hy spruit’.</l>
+<pb n="35"/>
+    <l rend="; 2tab">5</l>
+    <l rend="; 1tab">Dat de wreede spaanse magten</l>
+    <l rend="; 2tab">Mag verslinden t’ aller tyd,</l>
+    <l rend="; 1tab">Daar geen hulp van staat te wagten,</l>
+    <l rend="; 2tab">Schoon men aanwend alle vlyt.</l>
+    <l rend="; 1tab">Wilt u voor Tabak dan wagten,</l>
+    <l rend="; 1tab">Hy veroorzaakt niet dan klagten,</l>
+    <l rend="; 2tab">Wyl hy ’t gantse waereldrond</l>
+<l>Met veel kwaalen, met veel kwaalen, met veel kwaalen heeft gewond.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">6</l>
+    <l rend="; 1tab">Loop gy groote gek der gekken, </l>
+    <l rend="; 2tab">Antwoord oude Krelis oom,</l>
+    <l rend="; 1tab">Hy komt thans in my verwekken</l>
+    <l rend="; 2tab">Spreekens lust en viert den toom;</l>
+    <l rend="; 1tab">Hoofd- en tandpyn, kwaade fluimen,</l>
+    <l rend="; 1tab">Moeten altyd daar voor ruimen,</l>
+    <l rend="; 2tab">Wyl het is een orvitaan</l>
+<l>Dat mirakels, dat mirakels, dat mirakels heeft gedaan.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">7</l>
+    <l rend="; 1tab">Weg dat zyn versierde grillen,</l>
+    <l rend="; 2tab">Door uw mortje aan u verteld,</l>
+    <l rend="; 1tab">Wyl dat gy niet zoud verspillen</l>
+    <l rend="; 2tab">In Tabak een stuiver geld;</l>
+    <l rend="; 1tab">Leer maar vry een pypje rooken;</l>
+    <l rend="; 1tab">God Vulkaan kan zelver smooken;</l>
+    <l rend="; 2tab">Ja, men agt hem voor geen man</l>
+<l>Die niet mede, die niet mede, die niet mede rooken kan.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">8</l>
+    <l rend="; 1tab">Wie kan meerder goeds bedenken,</l>
+    <l rend="; 2tab">Als Tabak aan ’t mensdom doet?</l>
+    <l rend="; 1tab">Doch wat glaasjes in te schenken,</l>
+    <l rend="; 2tab">En te leegen, arme bloed,</l>
+    <l rend="; 1tab">Dat is meer naer uw behaagen:</l>
+    <l rend="; 1tab">Wil dan vry uw lust na jaagen;</l>
+    <l rend="; 2tab">Ik zing, op een zoeten trant,</l>
+<l>Edel kruidje, edel kruidje, edel kruidje, puik van ’t land.</l>
+</lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0014"/> </interpGrp>
+    <pb n="36"/>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0030.gif"/></p>
+            </figure></p>
+<div type="section">
+    <head rend="h3">Hier hoort gy speelen na de kunst,</head>
+<head rend="h4"><hi rend="i">Air Vivace.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0031.gif"/></p>
+    </figure></p>
+    <pb n="37"/>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0032.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l rend="; 2tab">1</l>
+        <l rend="; 1tab">HIer hoort gy speelen na de kunst, </l>
+<l>Dat zyn eerst regte Muzikanten!</l>
+        <l rend="; 1tab">’t Is al om geld en niet uit gunst,</l>
+<l>Zy gaan met vreugde na hun klanten.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">2</l>
+        <l rend="; 1tab">Hoor dat gaat schoon, zei dikke Jan,</l>
+<l>My dunkt ik kryg meê lust tot zingen:</l>
+        <l rend="; 1tab">Speel helder op myn goede man,</l>
+<l>Myn hert begint van vreugd te ontspringen.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">3</l>
+        <l rend="; 1tab">Ja wel, zei Jaap, ’t is wonderbaar,</l>
+<l>Wat klinkt het zoet en zaft in de ooren;</l>
+        <l rend="; 1tab">’t Is vast Muzyk, want ’t gaat heel raar</l>
+<l>Wien zou dat deuntje niet bekooren?</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">4</l>
+        <l rend="; 1tab">Nu Speelman speel nu eens van Kees,</l>
+<l>O dat is eerst een meesterstukje!</l>
+        <l rend="; 1tab">Ja dat ’s een stuk dat Mortje prees,</l>
+<l>Zei Jan met zyne houte krukje.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">5</l>
+        <l rend="; 1tab">Kom Jan breng eens de Speelman dan;</l>
+<l>Zyn keel word droog en hees van ’t blaazen;</l>
+        <l rend="; 1tab">Ei Jan geef hem de Kan maar an,</l>
+<l>Of vul hem twee of drie paar glaazen.</l>
+<l>&nbsp;</l>
+        <l rend="; 2tab">6</l>
+        <l rend="; 1tab">Avous Speelman, een volle kruik,</l>
+<l>Laat Lou nu eensjes met u klinken,</l>
+        <l rend="; 1tab">Speel nog eens, ik zal in myn buik</l>
+<l>Een glas tot afscheid met u drinken.</l>
+    </lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0015"/> </interpGrp>
+    <pb n="38"/>
+        <head rend="h3">Zang: <hi rend="i">Spanjolette.</hi></head>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0033.gif"/></p>
+            <figDesc><hi rend="i">Verkeerde Verkeering<lb/>
+            Baart sobere Neering.</hi></figDesc>
+            </figure></p>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0034.gif"/></p>
+        </figure></p>
+<pb n="39"/>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0035.gif"/></p>
+        </figure></p>
+        <pb n="40"/>
+<lg type="poem">
+<l>KEes zit, van ’s morgens vroeg, in de Kroeg.</l>
+<l>Hy wint met spaê en ploeg niet genoeg,</l>
+<l>Daarom zit hy by ’t Tiktakbord en kan van </l>
+<l>Tryn, die pry, vry. En hy maakt zyn banden als een man.</l>
+    <l rend="; 1tab">Als hy schut en rest, Staat zyn spel het best,</l>
+<l>En hy slaat Jan Piet zyn lopers op het lest, van ’t oost na ’t west.</l>
+    <l rend="; 2tab">Zo dat Krelis by de Heeren</l>
+    <l rend="; 2tab">Als een mens meê leert Verkeeren.</l>
+    <l rend="; 1tab">Maar hy maakt (o spyt) In de Kroeg zyn tyd </l>
+    <l rend="; 2tab">En ook menig mooije stuiver kwyt.</l>
+    <l rend="; 2tab">Tryntje laat hy met zyn Koeijen</l>
+    <l rend="; 2tab">In het land alleenig knoeijen,</l>
+    <l rend="; 1tab">En zy loopt voor hem, om rust en vreê,</l>
+    <l rend="; 1tab">Met boter, kaas en stremmelis in steê.</l>
+    <l rend="; 2tab">Maar de Landheer trekt vast niet,</l>
+    <l rend="; 2tab">En het smart haar datze ziet,</l>
+<l>Dat ’er van haar spoet En slooven datze doet, Niet overschiet.</l>
+</lg></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0016"/> </interpGrp>
+    <p><figure>
+    <p><xptr to="gijs004verm01ill0036.gif"/></p>
+    <figDesc><hi rend="i">Geen Handwerk brengt meer voordeel by, Als de oude en ed’le Bed’laary.</hi></figDesc>
+    </figure></p>
+        <div type="section">
+<pb n="41"/>
+<head rend="h3"><hi rend="i">Bedelmans Lied.</hi></head>
+<head rend="h4"><hi rend="i">Air vivace.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0037.gif"/></p>
+        </figure></p>
+<lg type="poem">
+    <l rend="; 2tab">1</l>
+    <l rend="; 1tab">KRelis en Klaartje zeer statig in pragt,</l>
+<l>Van ouders tot ouders uit Bedel geslagt;</l>
+<l>Haar Mantel en Huikje, van enkele zy </l>
+<l>Geweeven, gelyken een Akkermans py:</l>
+<l>Zy treeden te zaamen op ’t platte land,</l>
+<l>Om kleêren en stikken en geld in de hand.</l>
+    <l rend="; 2tab">2</l>
+    <l rend="; 1tab">Vraagen en klaagen in buurten en streek:</l>
+<l>Wy zynen de klanten van eensjes ter week.</l>
+<l>Maar als zy Schoutsdienaars of Honden eens zien,</l>
+<l>Zo zynze zeer rapjes en radjes ter bien;</l>
+<l>Den eenen gaat loopen, den aêr verstoort,</l>
+<l>Om datze weghaalen dat hen toebehoort.</l>
+    <l rend="; 2tab">3</l>
+    <l rend="; 1tab">’s Avonds gelaêden met stikken en geld,</l>
+<l>Dan zingen en springen zy vrolyk op ’t veld.</l>
+<l>In haare slaapplaatsen dan ’t goedje verkogt,</l>
+<l>’t Zy kleêren of stikken, vers mede gebrogt.</l>
+<pb n="42"/>
+<l>Dan dapper aan ’t drinken, daar is geen pyn,</l>
+<l>Want ’t geldje moet onder de deken eerst zyn.</l>
+    <l rend="; 2tab">4</l>
+    <l rend="; 1tab">Kreupel en blinden, met stokken en stelt,</l>
+<l>Aan ’t danssen en schranssen, met alle geweld,</l>
+<l>Fioolen en Fluiten, Hobo en de Bas,</l>
+<l>Die klinken, op ’t treeden van simpel en pas,</l>
+<l>Voor Joosje, voor Janne, voor Krelis, Klaar;</l>
+<l>Het danst ’er dan alles maar onder malkaar.</l>
+    <l rend="; 2tab">5</l>
+    <l rend="; 1tab">’t Geldje verzoopen, verdanst en versmeert;</l>
+<l>Dan vraagtmen den Hospes: wat is ’er verteert?</l>
+<l>Die som dan gegeeven; en ider na bed</l>
+<l>Met ’t poezele Meisje, zeer dikjes en vet.</l>
+<l>Des morgens, in ’t krieken, dan gaanze treên. </l>
+<l>Zo glyden des bedelbroks dagen steeds heen.</l>
+</lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0017"/> </interpGrp>
+    <p><figure>
+    <p><xptr to="gijs004verm01ill0038.gif"/></p>
+    <figDesc><hi rend="i">Zalfverkoopers zyn zwetsers en liegers,<lb/>
+        Grappige snaaken en Boeren bedriegers.</hi></figDesc>
+    </figure></p>
+        <div type="section">
+<pb n="43"/>
+<head rend="h3"><hi rend="i">Kwakzalvers Deun.</hi></head>
+<head rend="h4"><hi rend="i">Air, Presto.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0039.gif"/></p>
+    </figure></p>
+    <pb n="44"/>
+    <lg type="poem">
+        <l rend="; 2tab">1</l>
+        <l>JOan de Duitser, gepromoveerde,</l>
+        <l rend="; 1tab">Hoog geleerde,</l>
+        <l rend="; 1tab">In boeken vol praktyk;</l>
+        <l rend="; 2tab">Zyns gelyk </l>
+        <l rend="; 1tab">Is niet meer in ’t kristenryk:</l>
+        <l rend="; 1tab">In ’t Boeren bedriegen,</l>
+        <l rend="; 1tab">In ’t zwetsen en liegen,</l>
+        <l rend="; 1tab">Daar is hy de meester van;</l>
+        <l rend="; 2tab">Hy kan </l>
+        <l rend="; 1tab">De kwaalen geneezen,</l>
+        <l rend="; 1tab">Je hoeft niet te vreezen, </l>
+<l>Al hadje de Jigt, of ’t Flerezyn, </l>
+<l>De Koorts, Kolyk, of andere pyn</l>
+        <l rend="; 1tab">In tanden of kiezen,</l>
+        <l rend="; 1tab">Hy laatje maar niezen;</l>
+<l>De kwaade zinkingen vliegen heen.</l>
+<l>Probatum, probatum voor ider een.</l>
+        <l rend="; 2tab">2</l>
+        <l>Hans met zyn Bogchel en ’t breede Hoedje,</l>
+        <l rend="; 1tab">Schynt een bloedje;</l>
+        <l rend="; 1tab">Maar is wel afgerigt</l>
+        <l rend="; 2tab">Op zyn pligt,</l>
+        <l rend="; 1tab">Als hy veele grappen stigt;</l>
+        <l rend="; 1tab">Dan staat hy te schreeuwen,</l>
+        <l rend="; 1tab">Te gaapen, te geeuwen,</l>
+        <l rend="; 1tab">En gaart zo een Boeren stant,</l>
+        <l rend="; 2tab">Op ’t land.</l>
+        <l rend="; 1tab">De Baas aan ’t verkoopen,</l>
+        <l rend="; 1tab">En ’t geldje te stroopen:</l>
+<l>Paketjes vol kruid’, of Doosjes smeer,</l>
+<l>De Slangensmout, voor allerly zeer;</l>
+        <l rend="; 1tab">Het Vet van de Beeren,</l>
+        <l rend="; 1tab">Daar kunje meê smeeren,</l>
+<l>Je Leên, verwrongen of ontsteld.</l>
+<l>Geneezen, geneezen, of geeft geen geld.</l>
+<pb n="45"/>
+        <l rend="; 2tab">3</l>
+        <l>Mary met ’t Huikje, naer d’ oude mode,</l>
+        <l rend="; 1tab">Om den broode</l>
+        <l rend="; 1tab">Trekt zy meê op het land.</l>
+        <l rend="; 2tab">Het verstand,</l>
+        <l rend="; 1tab">Zegt zy, bied u hier de hand:</l>
+        <l rend="; 1tab">Hier zyn Medicynen</l>
+        <l rend="; 1tab">Voor allerly pynen,</l>
+        <l rend="; 1tab">Zy maaken een sneê of wond </l>
+        <l rend="; 2tab">gezond:</l>
+        <l rend="; 1tab">De Lammen weêr staande,</l>
+        <l rend="; 1tab">De Kreupelen gaande,</l>
+<l>De Blinden weêr ziende: al waarje dood, </l>
+<l>Gebruikt die Zalf dan hebje geen nood:</l>
+        <l rend="; 1tab">Het doetje de winden,</l>
+        <l rend="; 1tab">Hoe pynig, ontbinden.</l>
+<l>En ’t dryft ’er de Zieken weêr uit het bed.</l>
+<l>Wie wil ’er? wie zal ’er nog een Paket? </l>
+        <l rend="; 2tab">4</l>
+        <l>Mary en Hansje verkoopen ook Pillen,</l>
+        <l rend="; 1tab">Om te stillen</l>
+        <l rend="; 1tab">De pyn, voor man en wyf</l>
+        <l rend="; 2tab">Tot geryf.</l>
+        <l rend="; 1tab">Boeren mint uw eigen lyf.</l>
+        <l rend="; 1tab">Deez’ Pillen verdryven</l>
+        <l rend="; 1tab">Het kwaad uit je lyven.</l>
+        <l rend="; 1tab">’t Purgeeren is zeer gezond,</l>
+        <l rend="; 2tab">Terstond,</l>
+        <l rend="; 1tab">Je hoeft niet te zwieten,</l>
+        <l rend="; 1tab">Je moet ’er van drieten.</l>
+<l>Gy krygt ’er ook mede een briefje by,</l>
+<l>Om ’t vuil kasteel, met d’ halleve zei’,</l>
+        <l rend="; 1tab">Zeer glad te geneezen,</l>
+        <l rend="; 1tab">In plaats van te leezen:</l>
+<l>Zo datje haastig word herstelt,</l>
+<l>Voor twee, die, vier stuivers, ’t is weinig</l>
+        <l rend="; 2tab">geld.</l>
+    </lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0018"/> </interpGrp>
+    <pb n="46"/>
+              <p><figure>
+        <p><xptr to="gijs004verm01ill0040.gif"/></p>
+        <figDesc><hi rend="i">Niets kan my meerder vreugd, zegt Jogchim Blaaskaak, geeven,<lb/>
+            Als ’t Pypje en zoete Min; waar na myn hert zich trekt.<lb/>
+            En Goverd Nathals zegt (die zyne Min begekt)<lb/>
+            Was Liefde als Dronkenschap, ik minde ook al myn leven.<lb/>
+            Maar Teuwis Holbalg pryst hun beider lust banket;<lb/>
+            Wyl hy zyn zinnen op die beide heeft gezet.</hi></figDesc>
+    </figure></p>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0041.gif"/></p>
+        </figure></p>
+                <pb n="47"/>
+                <p><figure>
+            <p><xptr to="gijs004verm01ill0042.gif"/></p>
+                </figure></p>
+    <div type="section">
+    <head rend="h3">Jogchim</head>
+    <head rend="h4"><hi rend="i">Air</hi>, Largo.</head>
+        <lg type="poem"><l rend="; 2tab">1</l>
+            <l rend="speaker">Jogchim.</l>
+            <l rend="; 1tab">O Geurig dampje! dat vioolen</l>
+<l>En lekk’re roozen tart in geur</l>
+            <l rend="; 1tab">Gy hebt myn hert en zin gestoolen,</l>
+<l>Al zyt gy wonder slegt van kleur.</l>
+            <l rend="; 2tab">2</l>
+            <l rend="; 1tab">Gy tart de beste Mediçynen,</l>
+<l>Door uwe wonderbaare kragt,</l>
+            <l rend="; 1tab">gy hebt my, waarvan ik ging kwynen,</l>
+<l>Door uw parfuim te regt gebragt.</l>
+            <pb n="48"/>
+            <l rend="; 2tab">3</l>
+            <l rend="; 1tab">Zy leeven die u maar gebruiken.</l>
+<l>Een slaapend Krygsman word gewekt</l>
+            <l rend="; 1tab">Alleen maar door uw geur te ruiken,</l>
+<l>Wyl elk uit u zyn voedsel trekt.</l>
+            <l rend="; 2tab">4</l>
+            <l rend="; 1tab">g’Ontfonkt my, door uw offerhanden,</l>
+<l>Gestadig tot een frissen moed,</l>
+            <l rend="; 1tab">En doet met u de liefde branden,</l>
+<l>Ontstooken door den minnengloed.</l>
+<l>&nbsp;</l>
+<l rend="speaker">Goverd.</l>
+            <l rend="; 2tab">5</l>
+            <l rend="; 1tab">Neen, neen, ik hou het met den beker,</l>
+<l>Het vogt is recht myn element.</l>
+            <l rend="; 1tab">O vogt! gy zyt zo eêl, voorzeker </l>
+<l>Het waardst dat ik myn maag toezend.</l>
+            <l rend="; 2tab">6</l>
+            <l rend="; 1tab">En gy ontlast my van veel zorgen,</l>
+<l>Waardoor myn hert zich vind bekneld</l>
+            <l rend="; 1tab">Wanneer myn min, zo teêr, verborgen</l>
+<l>Zich met een id’le hoop staag kwelt.</l>
+            <l rend="; 2tab">7</l>
+            <l rend="; 1tab">Wel aan, ik wil u dan beminnen.</l>
+<l>En pryzen steeds uw keurig nat,</l>
+            <l rend="; 1tab">Schoon ik, byna beroofd van zinnen,</l>
+<l>My in die vlam geschonden had.</l>
+<pb n="49"/>
+            <l rend="; 2tab">8</l>
+            <l rend="; 1tab">Ik laat haar dan die, opgetoogen,</l>
+<l>De minnestraalen prys, wel an;</l>
+            <l rend="; 1tab">Het vogt heeft op my meer vermogen</l>
+<l>Ik hou het met een volle kan.</l>
+<l rend="speaker">Teeuwis.</l>
+            <l rend="; 2tab">9</l>
+            <l rend="; 1tab">Wie kan uw beider oogwit laaken?</l>
+<l>Den een die pryst zyn zielsvrindin,</l>
+            <l rend="; 1tab">Terwyl zyn zwart besmookte kaaken</l>
+<l>Den brand ontdekken van zyn min.</l>
+            <l rend="; 2tab">10</l>
+            <l rend="; 1tab">Den aêr tot grooter lust gedreeven,</l>
+<l>Zo ’t schynt, mint staag een volle kan, </l>
+            <l rend="; 1tab">En heeft de min de zak gegeeven,</l>
+<l>Wyl hy vlied voor de lugt van An.</l>
+            <l rend="; 2tab">11</l>
+            <l rend="; 1tab">Maar ik, die vogt nog min kan derven,{drukfout: derver= derven}</l>
+<l>Dewyl hun beider gloed reeds blaakt,</l>
+            <l rend="; 1tab">Daar ik van dorst schier dryg te sterven</l>
+<l>En myne vlam naar blussing haakt.</l>
+            <l rend="; 2tab">12</l>
+            <l rend="; 1tab">Ik prys hun beider alvermogen,</l>
+<l>En volg hun al te strenge wet,</l>
+            <l rend="; 1tab">Terwyl de damp myn tedere oogen</l>
+<l>Bestraalt, op dit Tabaks banket.</l>
+        </lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0019"/> </interpGrp>
+    <pb n="50"/>
+<head rend="h3"><hi rend="i">Oud mal.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0043.gif"/></p>
+    </figure></p>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0044.gif"/></p>
+    </figure></p>
+    <pb n="51"/>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0045.gif"/></p>
+    </figure></p>
+<lg type="poem">
+    <l rend="; 2tab">1</l>
+    <l>NEeltje heeft met Lobb’rigs Waintje </l>
+    <l rend="; 1tab">En met Kees, Jan Teunis zeun,</l>
+<l>(Want de sloof had graag een klaintje)</l>
+    <l rend="; 1tab">Daag’lyks in de buurt haar deun:</l>
+<l>Kyk, zeidze, Klaasje, dat is ien Kind!</l>
+<l>Hei dat is ien klaine jongen als de wind.</l>
+    <l rend="; 2tab">Wat was ik, In myn schik, </l>
+<l>Wierd ik meê eraisjes rongt en dik.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l>Ben ik, zeidze tot Klaas Flooren,</l>
+    <l rend="; 1tab">Niet zo wel als scheele Tryn</l>
+<l>Tot het Kinderwerk ebooren?</l>
+    <l rend="; 1tab">Wat mag dan de reeden zyn?</l>
+<l>O Suntre Klaasje, goed hailig man,</l>
+<l>Trek erais je beste mooije Tabbert an.</l>
+    <l rend="; 2tab">Wat was ik, In myn schik,</l>
+<l>Wierd ik meê eraisjes rongt en dik.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">3</l>
+    <l>Wangt al ben ik oud van dagen,</l>
+    <l rend="; 1tab">’k Ben nag jeugdig in men Lyf.</l>
+<l>’k Zou zo wel ien Kyntje draagen</l>
+    <l rend="; 1tab">Als het beste Boerenwyf.</l>
+<l>Maar Klaas geeft Neeltje geen aêr beschaid</l>
+<l>Als, Moer, weetje wat ’et ouwe spreekwoord zaid?</l>
+    <l rend="; 2tab">(Als het beurd, Dat men ’t speurt,)</l>
+<l>Wie kan <hi rend="i">Oud Mal</hi> stoppen als het scheurt?</l>
+</lg></div>
+    <pb n="52"/>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0020"/> </interpGrp>
+        <head rend="h3"><hi rend="i">Zaamenspraak tussen Kniertje en een Doctor.</hi><hi rend="i"> </hi></head>
+        <div type="section">
+        <head rend="h4"><hi rend="i">Air, Adagio.</hi></head>
+    <p><figure>
+    <p><xptr to="gijs004verm01ill0046.gif"/></p>
+        <figDesc><hi rend="i">Knier Klaase ontmoet in ’t Dorp den Boeren Medicyn;<lb/>
+            Zy vraagt naar midd’len, om haar Kindje te geryven:<lb/>
+            En zegt: ’t is ziek’lyk, bleek, en kermt gestaêg van pyn.<lb/>
+            Hy geeft haar raad, om Koorts en Wormen af te dryven.</hi></figDesc>
+    </figure></p>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0047.gif"/></p>
+        </figure></p>
+        <pb n="53"/>
+        <p><figure>
+            <p><xptr to="gijs004verm01ill0048.gif"/></p>
+        </figure></p>
+        <pb n="54"/>
+<lg type="poem">
+    <l rend="; 2tab">1</l>	
+<l rend="speaker"><hi rend="i">Kniertje</hi>.</l>
+    <l rend="; 2tab">ACh ach! myn lieve Landdoctoortje: </l>
+    <l rend="; 3tab">Ei hoord een woordje;</l>
+<l>Myn kleinste Kindje, legt gevaarlyk ziek en krank;</l>
+    <l rend="; 3tab">Weetje my geen raad te geeven?</l>
+    <l rend="; 3tab">’k Vrees voor ’t Kindje zyn jong leeven:</l>
+    <l rend="; 3tab">Heer Doctor ordineert een Drank; </l>
+    <l rend="; 1tab">’t Kindje zugt en ’t Kindje zugt en legt te steenen,</l>
+    <l rend="; 2tab">Dat ik niet en doe als weenen, doe als weenen.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">2</l>
+    <l rend="; 2tab">Wat raad?</l><l rend="speaker"><hi rend="i">Doctor</hi>.</l><l>Uw Kind, myn zoete Kniertje,</l>
+    <l rend="; 3tab">Geeft dat zoet Biertje;</l>
+<l>Niet geil, maar lekker, met Razyntjes lang en blaauw,</l>
+    <l rend="; 3tab">En op fyne Hartenhoren</l>
+    <l rend="; 3tab">Afgetrokken. Jantje Flooren</l>
+    <l rend="; 3tab">Zal dan haast beter zyn, en gaauw;</l>
+    <l rend="; 1tab">Beter ken ’er, beter ken ’er niet voor wezen,</l>
+    <l rend="; 2tab">Om ’t klein Kindje te geneezen, te geneezen.</l>
+<l>&nbsp;</l>
+    <l rend="; 2tab">3</l>
+    <l rend="; 2tab">Maar heeft het Wigtje blaauwe boogjes</l>
+    <l rend="; 3tab">Om zyn’ kleine Oogjes?</l>
+<l>Dan zyn het Wormpjes, die het Schaapje kwynen doen;</l>
+    <l rend="; 3tab">Koopt een Koekje by d’ Apteker,</l>
+    <l rend="; 3tab">Voor een stuiver, ’t zal voorzeker,</l>
+    <l rend="; 3tab">Meer helpen als men zou vermoên;</l>
+    <l rend="; 1tab">Dat zal ’t slymtje dat zal ’t slymtje haast afdryven,</l>
+    <l rend="; 2tab">Dat uw Kind zeer fris zal blyven, fris zal blyven.</l>
+    <l>&nbsp;</l> 
+<l><hi rend="i">Knier Klaase wierd goed koop besteld;</hi></l>
+<l><hi rend="i">Kreeg twee recepten voor een Geld.</hi></l>
+</lg></div></div>
+    <div type="chapter">
+
+    <pb n="55"/>
+        <head rend="h3"><hi rend="i">Op het Tabakrooken.</hi></head>
+        <div type="section">
+            <head rend="h4"><hi rend="i">Air, vivace.</hi></head>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0049.gif"/></p>
+        <figDesc>Al draagt de Boer een grove Kiel,<lb/>
+            Zyn Klapmuts dekt een groote Ziel<lb/>
+            Die hem, door haar bespiegelingen,<lb/>
+            In eenzaamheid aldus doet zingen.</figDesc>
+    </figure></p>
+<pb n="56"/>
+            <p><figure>
+                <p><xptr to="gijs004verm01ill0050.gif"/></p>
+            </figure></p>  
+            <pb n="57"/>
+            <p><figure>
+                <p><xptr to="gijs004verm01ill0051.gif"/></p>
+            </figure></p> 
+        </div>
+        <div type="section">
+            <interpGrp> <interp type="song" value="gijs004verm01_0021"/> </interpGrp>
+            <head rend="h4">Klinkdicht.</head>
+<lg type="poem"><l>O Brandend Pypje, heete gloed!</l>
+<l>Een tydverdryf, voor elk ten besten,</l>
+<l>’t Geen alle zorg verdwynen doet</l>
+<l>En ’t Hoofd ontheft van muizenesten.</l>
+<l>&nbsp;</l>
+<l>Tabak die my na boven leid!</l>
+<l>Als ik u, door den wind gedreeven,</l>
+<l>Zie in de dunne Lucht verspreid,</l>
+<l>Dan zie ik ’t voorbeeld van myn leven,</l>
+<l>&nbsp;</l>
+<l>Dan is ’t dat gy my denken doet,</l>
+<l>Aan ’t geen ik eerlang worden moet,</l>
+<l>Een vlugtig stof, van geen vermogen.</l>
+<l>&nbsp;</l>
+<l>Ik zie, wanneer ik van naby </l>
+<l>Uw Rook wil volgen met myne oogen,</l>
+<l>Dat ik moet eindigen als gy.</l>
+</lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0022"/> </interpGrp>
+              <pb n="58"/>
+        <head rend="h3">Het Buitenleven</head>
+            <p><figure>
+                <p><xptr to="gijs004verm01ill0052.gif"/></p>
+                            </figure></p>
+ <lg type="poem">
+     <l rend="; 2tab">1</l>
+<l rend="; 1tab">HEt Buitenleven </l>
+<l>Is vol aangenaame vreugd,</l>
+<l>’t Kan een zoet genoegen geeven,</l>
+<l>Aan den Ouderdom en Jeugd;</l>
+<l>Als zy in het Mey zaaizoen, </l>
+<l>Door het lieffelyke groen, </l>
+<l>Zyn verkwikt en doet herleven;</l>
+<l>Oog’ en lust, ja geeft voldoen. </l>
+<l>&nbsp;</l>
+     <l rend="; 2tab">2</l>
+     <l rend="; 1tab">Ziet Geesje Flooren,</l>
+<l>Met haar Huikje om de leên,</l>
+<l>En haar Kabisje van vooren,</l>
+<l>Onvermoeid vaar huis toe treên:</l>
+<l>Toen haar steêgang was gedaan,</l>
+<l>Spreekt haar Krelis Louwen aan,</l>
+<l>Om wat nieuws uit haar te hooren,</l>
+<l>Hoe ’t in Steê al toe mogt gaan.</l></lg>
+<pb n="t.o. 58"/>
+     <p><figure>
+         <p><xptr to="gijs004verm01ill0053.gif"/></p>
+         <figDesc><hi rend="i">Geesje Flooren met haar Huikje<lb/>
+             Heeft de marktgang reeds gedaan:<lb/>
+             Maar Kees Louwen, ’t Boeren puikje,<lb/>
+             Spreekt om ’t nieuws uit Stee haar aan:<lb/>
+             Hy had in geen zeven weeken<lb/>
+             In een Krant of Boek gekeeken.</hi></figDesc>
+     </figure></p>
+        <div type="section">
+<pb n="59"/>
+        <lg type="poem">
+            <l rend="; 2tab">3</l>
+     <l rend="; 1tab">Daar hebje ’t kallen,</l>
+<l>Ja van Besje Goverts tyd,</l>
+<l>Hoe die door de min aan ’t mallen,</l>
+<l>En van Barend wierd gevryd:</l>
+<l>Hoe Kees Teunen Bestevaar,</l>
+<l>Had een Kind by blaauwe Saar:</l>
+<l>Krelis zegt: ’t is niet met allen,</l>
+<l>Jogchim was en bleef de Vaêr.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">4</l>
+     <l rend="; 1tab">Ja wat voor tyden,</l>
+<l>Geesje buur, beleeft men niet!</l>
+<l>Moet Piet Freekens zeun niet lyden</l>
+<l>Dat zyn vryster, onze Griet,</l>
+<l>Van Klaas Joosten word gevryd?</l>
+<l>Wel raakt hy dat Meisje kwyt,</l>
+<l>Zo zal hy hem nooit verblyden.</l>
+<l>Geesje zegt: ’t is scheidens tyd.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">5</l>
+     <l rend="; 1tab">Baasje van Schaagen,</l>
+<l>Doet de Steêgang voor zyn Wyf,</l>
+<l>Hy komt met zyn zakje draagen,</l>
+<l>Dat het zweet loopt langs zyn lyf;</l>
+<l>Wyl zyn Vrouw hem t’ huis verbeid,</l>
+<l>En de Warmoespot bereid.</l>
+<l>Ziet dus ieder een bejaagen,</l>
+<l>Deeze of geene bezigheid.</l>
+        </lg></div></div>
+        <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0023"/> </interpGrp>
+        <pb n="60"/>
+                <p><figure>
+            <p><xptr to="gijs004verm01ill0054.gif"/></p>
+            <p><xptr to="gijs004verm01ill0055.gif"/></p>
+        </figure></p>
+            <div type="section">
+<pb n="61"/>
+            <head rend="h3">Een Voorst die door zyn groot vermoogen,</head>
+            <head rend="h4"><hi rend="i">Air, vivace.</hi></head> 
+        <lg type="poem">
+            <l rend="; 2tab">1</l>
+            <l>EEn Vorst die door zyn groot vermoogen,</l>
+            <l rend="; 1tab">Zyn Onderdaanen Wetten geeft, </l>
+            <l rend="; 1tab">Daar elk ontzachelyk voor beeft,</l>
+<l>En zich op ’t nedrigst houd geboogen,</l>
+            <l rend="; 1tab">Word hier in minder graad verbeeld,</l>
+            <l rend="; 1tab">Daar Klaas den Kindermeester speelt.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">2</l>
+            <l>Zyn Troon, waarop hy zit te pryken, </l>
+            <l rend="; 1tab">Is eene Krukstoel zonder mat,</l>
+            <l rend="; 1tab">Daar Besje voor veel jaar op zat,</l>
+<l>En liet al zaftjes heenen stryken,</l>
+            <l rend="; 1tab">De damp, die ’t ingewand bekneld’,</l>
+            <l rend="; 1tab">Als haar de buikloop had gekweld.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">3</l>
+            <l>Zyn Kroon, waar meê de Vorsten praalen,</l>
+            <l rend="; 1tab">Is eene Muts van goede stof,</l>
+            <l rend="; 1tab">Doch op den draad byzonder grof,</l>
+<l>Die hy in Steê nog moet betaalen,</l>
+            <l rend="; 1tab">By loome Goverd zonder ziel,</l>
+            <l rend="; 1tab">Een Knipluis in het Spinnewiel.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">4</l>
+            <l>	De Mantel, die zyn leên bekleeden,</l>
+            <l rend="; 1tab">Is eene Huisrok van Japan,</l>
+            <l rend="; 1tab">Die Bestevaêr, den ouden man,</l>
+<l>Eer plag te hangen om zyn leden,</l>
+            <l rend="; 1tab">Als hy door Jigt of Flerezyn,</l>
+            <l rend="; 1tab">Te krimpen zat van felle pyn.</l>
+<l>&nbsp;</l>
+            <l rend="; 2tab">5</l>
+            <l>Zyn Staf en Septer van vermoogen,</l>
+            <l rend="; 1tab">Is eene Plak van Eeken hout,</l>
+            <l rend="; 1tab">Waarop hy als een Vorst vertrouwt,</l>
+<l>Om elk, op ’t wenken van zyne oogen,</l>
+            <l rend="; 1tab">Zyn wil en wetten te gebiên,</l>
+            <l rend="; 1tab">Die hy aêrs nooit gevierd zou zien.</l>
+<pb n="62"/>
+            <l rend="; 2tab">6</l>
+            <l>’t Tapyt, waar meê zyn wanden praalen,</l>
+            <l rend="; 1tab">Zyn Leijen, vol van Cyfertal,</l>
+            <l rend="; 1tab">En Borden. Ziet daar hebje ’t al,</l>
+<l>Dat zyne koningklyke zaalen</l>
+            <l rend="; 1tab">Doet schitt’ren met een ed’len gloed,</l>
+            <l rend="; 1tab">Die ruim het blinde oog voldoet.</l>
+        </lg></div></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="gijs004verm01_0024"/> </interpGrp>
+                <p><figure>
+            <p><xptr to="gijs004verm01ill0056.gif"/></p>
+            <p><xptr to="gijs004verm01ill0057.gif"/></p>
+            </figure></p>
+<pb n="63"/>
+    <p><figure>
+        <p><xptr to="gijs004verm01ill0058.gif"/></p>
+    </figure></p>
+        <div type="section">
+        <head rend="h3">Wat is een Mens! als ik 't bedenk, die zo moet zwerven!</head>
+        <head rend="h4"><hi rend="i">Air, Adagio.</hi></head>
+<lg type="poem">
+<l>WAt is een Mens! als ik ’t bedenk, die zo moet zwerven!</l>
+    <l rend="; 1tab">In eene Zee vol van verdriet;</l>
+    <l rend="; 1tab">Ik zie het eind en anders niet,</l>
+<l>Om kwynende van druk en, hoopeloos, te sterven.</l>
+    <l rend="; 1tab">Ach! mogt ik eens de rust genieten,</l>
+<l>Om eenmaal vry te zyn van alle zorg en druk. </l>
+<l>O aangenaame rust en leven van geluk,</l>
+    <l rend="; 1tab">Gy zoud my nimmermeer verdrieten;</l>
+    <l rend="; 1tab">O zoete rust! gy zyt myn lust.</l>
+</lg></div></div>
+<div type="chapter">
+
+<pb n="64"/>
+<head rend="h3">Register.</head>
+<table>
+    <row><cell><hi rend="i">Als oude Lui’ een jeugdig Kind.</hi></cell><cell><hi rend="i">Pag.</hi>17</cell></row>
+    <row><cell><hi rend="i">Ang’nietje had haare klein’ Kipjes gevoerd.</hi></cell><cell>25</cell></row>
+    <row><cell><hi rend="i">Ach ach! myn lieve Landdoctoortje.</hi></cell><cell>52</cell></row>
+    <row><cell><hi rend="i">De Steen zo bot en stomp van leden.</hi></cell><cell>22</cell></row>
+    <row><cell><hi rend="i">Dries, schoon kaal.</hi></cell><cell>31</cell></row>
+    <row><cell><hi rend="i">Een Vorst die door zyn groot vermoogen.</hi></cell><cell>60</cell></row>
+    <row><cell><hi rend="i">Floris en Neeltje.</hi></cell><cell>1</cell></row>
+    <row><cell><hi rend="i">Hebstoe dan das ongewetser.</hi></cell><cell>9</cell></row>
+    <row><cell><hi rend="i">Helaas! waar zal ik heen?</hi></cell><cell>20</cell></row>
+    <row><cell><hi rend="i">Hier hoort gy speelen na de kunst.</hi></cell><cell>36</cell></row>
+    <row><cell><hi rend="i">Het Buitenleven.</hi></cell><cell>58</cell></row>
+    <row><cell><hi rend="i">Jan pryst den klaaren Wyn.</hi></cell><cell>11</cell></row>
+    <row><cell><hi rend="i">Joan de Duitser, gepromoveerde.</hi></cell><cell>43</cell></row>
+    <row><cell><hi rend="i">Kees zit van ’s morgens vroeg, in de Kroeg.	</hi></cell><cell>38</cell></row>
+    <row><cell><hi rend="i">Krelis en Klaartje zeer staatig in pragt.</hi></cell><cell>41</cell></row>
+    <row><cell><hi rend="i">Myn frisse Jeugd is nu verdweenen.</hi></cell><cell>15</cell></row>
+    <row><cell><hi rend="i">Noe doe Hunnesfotke.</hi></cell><cell>13</cell></row>
+    <row><cell><hi rend="i">Neeltje heeft met Lobb’rigs Waintje.	</hi></cell><cell>50</cell></row>
+    <row><cell><hi rend="i">O geurig dampje dat Vioolen.</hi></cell><cell>46</cell></row>
+    <row><cell><hi rend="i">O Brandend Pypje heete Gloed!</hi></cell><cell>56</cell></row>
+    <row><cell><hi rend="i">Tabak wie heeft uw lof en deugd.</hi></cell><cell>29</cell></row>
+    <row><cell><hi rend="i">Wet zo Buurwaif, wet zo dan Pleuntje.</hi></cell><cell>5</cell></row>
+    <row><cell><hi rend="i">Wat is een Mens, als ik ’t bedenk, die zo moet zwerven!</hi></cell><cell>62</cell></row>
+    <row><cell><hi rend="i">Zie oom Krelis hier eens rooken.</hi></cell><cell>33</cell></row>
+</table>
+</div>
+</body>
+</text>
+</TEI.2>

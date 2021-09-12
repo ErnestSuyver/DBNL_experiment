@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Vyff geestelicke liederen</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Vyff geestelicke liederen</hi> in de eerste druk uit 1592.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>A5r: Psel. → Psal.: ‘Psal. 113. 6’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan type="fol2">
+                    <empty-page>A1v</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">_vyf001vyff01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>ebook</note>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar universiteitsbibliotheek Gent, signatuur: BL. 8640</idno>
+                </bibl>
+                <p><hi rend="i">Vyff geestelicke liederen</hi>. Z.n., z.p. 1592</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Vyff geestelicke liederen</title>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Vyff geestelicke liederen</title>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-10-21</date>
+                <respStmt>
+                    <name type="person">MdK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+
+<pb ed="fol." n="A1r"/>
+<p>Uyff geestlicke Liederen,</p>
+<p>Twee vande Geboorte Christi, Het derde den Loffsanck Marie, Tvierde Dartiklen des Geloofs ende tVijfde een Schriftuyrlik vermaenliedt.</p>
+<p>Psalm 135. 3.</p>
+<p>Looft den Heere, want de Heer is vrindelijck, Loffsinget sijnen Naem want hy is Lieflick.</p>
+<p>Anno 1592</p>
+</div></cf>
+<div type="chapter">
+<interpGrp><interp type="song" value="_vyf001vyff01_0001"/></interpGrp>
+<pb ed="fol." n="A2r"/>
+<head rend="h3"><hi rend="i">Vande geboorte Iesu.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Naer de voyse. <lb/>Verhuecht v lieue <lb/>Christen gemeyn.</hi></head>
+<lg type="poem"><l>LAet ons den Heere dancken reijn,</l>
+<l>Loff ende prijs, toesingen,</l>
+<l>Dus is gheboren, een Kindeken cleijn,<note place="margin">Esa.9. 5.</note></l>
+<l>Noyt wonderlijcker dingen,</l>
+<l>Van eender Maget suyuerlijck,<note place="margin">Luc.1. 23. 31.</note></l>
+<l>Godts Soone vanden Hemelrijck,</l>
+<l>Tsal ons daer met gelingen.</l>
+<l rend="; 1tab">Wy lagen al in sonden doot,<note place="margin">Ephe. 2.1.</note></l>
+<l>Versoncken in godts tooren,</l>
+<l>Maer Godt, door syne Lieffde groot:<note place="margin">Joh. 3.16.</note></l>
+<l>Wold ons niet laten verlooren,</l>
+<l>Hy heeft, aller volcken heylant.<note place="margin">Luc. 2.31.</note></l>
+<l>Wt den hemel neder ghesant.<note place="margin">Gal 4. 4.</note></l>
+<l>Des laet ons vruecht, oorbooren.</l>
+<l rend="; 1tab">Een  kindt is ons, gebooren reen,<note place="margin">Esai. 9.5.</note></l>
+<l>Een Soon is des ons ghegeuen,</l>
+<l>Om ons te helpen, wt gheween,</l>
+<l>Wt de doot, in het leuen,</l>
+<l>Dt is de stercke, Emanuel, <note place="margin">Esaie.7.14.</note></l>
+<l>Coninck en Heer, in Israel, <note place="margin">Luc.1.29.</note></l>
+<l>In Jsrael verheuen.</l>
+<l rend="; 1tab">Wonderlijck is, de naeme sijn:</l>
+<l>Raedt, Cracht, Heldt, ewich Uader,<note place="margin">Esai.9.5.</note></l>
+<l>Hy is een vreedtsaem Prince fijn,</l>
+<pb ed="fol." n="A2v"/>
+<l>Onser sonden ontlader</l>
+<l>Noch is sijnen name gewis</l>
+<l>Godt de onse gerechticheit is</l>
+<l><note place="margin">1.Cor. 15.25.</note>Des looft hem alle gader.</l>
+<l rend="; 1tab">Onse vyanden altesaem:</l>
+<l>Sonde, Doot, Duyuel, helle,</l>
+<l>Heeft hy verwonnen, zeer bequaem,</l>
+<l>En helpt ons wt gequelle,</l>
+<l>Des laet ons, uan herten verblijt,</l>
+<l>De Name Gods, gebenedijt,</l>
+<l>Louen, en prijsen, snelle.</l>
+<l rend="; 1tab"><note place="margin">Luc.2.4.</note>In Betlehem, de cleijne Stadt,</l>
+<l>Is ons zeer wtvercooren:</l>
+<l><note place="margin">Matt. 5.1.</note>So Michias, vercondicht hadt,</l>
+<l>Desen Heylandt, geboren,</l>
+<l>Gebooren is, in Bethlehem:</l>
+<l>Godts Sone, Coninck der Joden,</l>
+<l>Die ons vry maeckt, van tooren.</l>
+<l rend="; 1tab"><note place="margin">Luc. 2.10.</note>Op den velde, de herddren daer,</l>
+<l>Verscheen Godts Engel claere,</l>
+<l>En sprack met woorden, soet tot haer:</l>
+<l>Hoort een so blyde maere,</l>
+<l>Heden is v geboren goedt,</l>
+<l>Christus de Heer, en Heylandt soet,</l>
+<l>In Dauidts Stadt voorwaere.</l>
+<l rend="; 1tab">Die Hemelsche, scharen ghemeen,</l>
+<l>Hebben Godt hooch ghepresen,</l>
+<l>Sy looffden Godt, met stemmen reen,</l>
+<l>Seggende so wy leesen:</l>
+<l>Loff sy Godt, Jnden hoochsten Troon,</l>
+<pb ed="fol." n="A3r"/>
+<l>Op der aerden vrede Idoon,</l>
+<l>En een goedtwillich wesen.</l>
+<l rend="; 1tab">Wt Oosten, tot Jerusalem<note place="margin">mar.2.2</note></l>
+<l>Quamen de wijse vragen,</l>
+<l>Waer is de Coninck, der Joden,</l>
+<l>Ghebooren in desse dagen,</l>
+<l>Sy hadden ghesien, de Sterre syn,</l>
+<l>En quamen om hem, taenbidden fijn.</l>
+<l>En te offeren gauen.</l>
+<l rend="; 1tab">Laet ons ock alle, cleijn en groot:</l>
+<l>Soecken dit Kindeken reene,</l>
+<l>Het helpet ons, wt aller noot<note place="margin">mar.11.28.</note></l>
+<l>En brengt ons wt ghemeene,</l>
+<l>Offert hem siel, Lichaem, en Geest</l>
+<l>Looft, ende prijst, hem minst, en meest,</l>
+<l>Ja looft hem int ghemeene.</l>
+<l rend="; 1tab">Wy louen dy, O Godes Soon</l>
+<l>U dancken wy van herten,</l>
+<l>Dat ghy quaemt, wt den Hemels troon,</l>
+<l>Ons te helpen wt smerten,</l>
+<l>Wy prijsen dy, Heer Jesu Christ:</l>
+<l>Dat ghy een mensch, geworden bist,</l>
+<l>En sijt ons hulper werden.</l>
+</lg><p><hi rend="spat">FINIS</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_vyf001vyff01_0002"/></interpGrp>
+<head rend="h3"><hi rend="i">Een ander vande geboorte Iesu</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Naer de voys. <lb/>Een Kindeken sa louelyck: etc.</hi></head>
+<lg type="poem"><l><hi rend="i">V</hi>Erblijdt u al, ghy Christen schaer,</l>
+<pb ed="fol." n="A3v"/>
+<l>En wilt nu vrolijck singen,</l>
+<l>Prijst Godt onsen, Hemelschen Vaer,</l>
+<l>En wilt hem loff, toebringen,</l>
+<l>Want hy door sijn, bermherticheit:</l>
+<l><note place="margin">Gen. 3.12.</note>De Mesias, die was voorseijt,</l>
+<l>Ons goedich heeft gegeuen,</l>
+<l><note place="margin">Luc.2.11.</note>Christus de Heer, in Jsrael:</l>
+<l><note place="margin">Esai.7.14.</note>Onsen heylant, Emanuel,</l>
+<l>Des wilt in vreuchden leuen.</l>
+<l rend="; 1tab"><note place="margin">Jer. 25.33.</note>Siet een vreucht der gerechtigheit,</l>
+<l>Heerlick, hooch ghepresen</l>
+<l><note place="margin">Num.24.17. </note>De Steer in Jacop toegeseyt,</l>
+<l>Js claer opgeresen,</l>
+<l><note place="margin">Apoc. 5. 5.</note>De Leuu van Juda, groot van Cracht,</l>
+<l><note place="margin">Esa.9. 5.</note>Een stercke belt, veruult met macht,</l>
+<l>Het zaet, seer hooch van werden:</l>
+<l><note place="margin">Gen.12.22.</note>Waer door wy worden, breedt en wijt,</l>
+<l>Salich en ghebenedijt:</l>
+<l>Js gecomen op erden.</l>
+<l rend="; 1tab">Des weest niet stil, O Christenheyt,</l>
+<l>Maer dancket Godt van bouen,</l>
+<l>U hert en zielle, sy bereijt,</l>
+<l>Stadich Godt te louen,</l>
+<l><note place="margin">Luc.2.11.</note>Want ons een Kindeken, is geboren,</l>
+<l>Dat ons verlooft, van godes tooren,</l>
+<l><note place="margin">Col.2.20.</note>En brengt ons, tot genaden,</l>
+<l>Des singet al, van herten blij:</l>
+<l>Halleluja, Ghelooft Godt sy</l>
+<l>Uan alle zijn weldaden.</l>
+<l rend="; 1tab">Dit Kindeken, Genade rijck,</l>
+<pb ed="fol." n="A4r"/>
+<l>Js Godes Soon ghepresen,</l>
+<l>Uan eender Maget, suyuerlijck,<note place="margin">Luc.1.31.</note></l>
+<l>Geboren so wy lessen:</l>
+<l>Te Bethlehem, Jnt Jodtsche landt,<note place="margin">Esai 9 14.</note></l>
+<l>Genamt Jesus, onsen heylandt,<note place="margin">Mich.5.1.</note></l>
+<l>Een Kindeken seer reene,<note place="margin">Luc. 1. 25.</note></l>
+<l>Waer ons dit Kindeken, niet geboren,</l>
+<l>Wy bleuen altemael verlooren,</l>
+<l>Het brengt ons wt ghemeene.</l>
+<l rend="; 1tab">Des looft den Heer, ghy Christenen al,</l>
+<l>Uan sijn groote weldaden,</l>
+<l>Die tot ons in, dit aertsche dal,</l>
+<l>Om ons van Sondt, tontladen:</l>
+<l>Uan bouen wt, des Hemels troon,<note place="margin">Joh. 4.</note></l>
+<l>Gesonden heeft, sijn lieuen Soon,</l>
+<l>Wilt hem hertlijck prijsen</l>
+<l>Singt loff en danck, minst ende meest,</l>
+<l>Godt Uader, Soon, en heylige Geest,</l>
+<l>Wilt Godt eer bewijsen.</l>
+<l rend="; 1tab">Wy dancken dy, Godt Uader rijck,</l>
+<l>U louen wy van herten,</l>
+<l>Wy prijsen dy, alle ghelijck.</l>
+<l>Ghy helpet ons wt| smerten,</l>
+<l>O Godes Soon, u dancken wy,</l>
+<l>Ghy die ons maeckt, van sonden vrij,</l>
+<l>En brengt ons tot Genaden,</l>
+<l>O heylige dryeenicheit,</l>
+<l>Weest gelooft inder eeuwicheit,</l>
+<l>Uan alle weldaet Amen.</l>
+</lg><p><hi rend="spat">FINIS</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_vyf001vyff01_0003"/></interpGrp>
+<pb ed="fol." n="A4v"/>
+<head rend="h3"><hi rend="i">De Loffsanck Marie,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Na de voys. <lb/>Vanden hondertsten Psalm. <lb/>Ghy Volckeren des artrix all.</hi></head>
+<lg type="poem"><l><note place="margin">Esai. 61. 10.</note>MYn Ziele die verheft den Heer,</l>
+<l>En mijnen Geest, verheuch hem seer</l>
+<l>Jn Godt mijnen Heere valiant,</l>
+<l>Mijn trooster, ende mijn heylant.</l>
+<l rend="; 1tab"><note place="margin">Ecls.3.17.</note>Want hy heeft, aengesen vorwaert,</l>
+<l>Sijner dienstmaecht, nedricheit claer,</l>
+<l>Siet van nu aen, so sullen wy,</l>
+<l>Salich prysen, al volcken vry.</l>
+<l rend="; 1tab">Want hy heeft, groote, dingen goedt,</l>
+<l>Aen my gedaen, met ouervloedt,</l>
+<l>De Heere, die almachtich is</l>
+<l>En synen naem heylich gewis.</l>
+<l rend="; 1tab"><note place="margin">Ero.20.6.</note>Sijn bermherticheit, Seer troostrijck,</l>
+<l>Die duert altoos, en eeuwichlijck,</l>
+<l>Uan geslacht, tot geslacht certeyn:</l>
+<l>Ouer haer die hem, vreesen reyn.</l>
+<l rend="; 1tab"><note place="margin">1.Reg. 2.4</note>Door zijnen arm, machtich sterck,</l>
+<l><note place="margin">Esai.51.14.</note>Oeffent hy gewelt, in dit perck,</l>
+<l>Hy heeft verstroyt, ende versmaet,</l>
+<l>De houerdich van, herten quaet.</l>
+<l rend="; 1tab"><note place="margin">1.Reg. 2.7.</note>Die gheweldige, die heeft hy:</l>
+<l>Uanden stoel, affgetrocken vry,</l>
+<l><note place="margin">Ecle.10.| 20.</note>Maer die nedrich is, ende cleijn:</l>
+<l><note place="margin">Psalm 113. 6.</note>Heeft hy seer hooch, verheuen reijn.</l>
+<pb ed="fol." n="A5r"/>
+<l rend="; 1tab">Die hongerighe, naden Geest,</l>
+<l>Heeft hy veruult, met goeden meest,<note place="margin">1. Reg. 2. 7.</note></l>
+<l>Maer die haer hielen, ryck en groot,<note place="margin">Psal. 113. 6.</note></l>
+<l>Heeft hy gelaten, naeckt en bloot.<note place="margin">mat. 5.6.</note></l>
+<l rend="; 1tab">Want hy gedenckt door syn goedtheit,<note place="margin">Esri 41.8.</note></l>
+<l>Aen syn groote, bermherticheit,<note place="margin">Jer. 31. 1.</note></l>
+<l>Hy helpet op, met moede snel,</l>
+<l>Sijn knecht en dinaer Jsrael.</l>
+<l rend="; 1tab">Gelijck hy heeft, belooft bequaem,<note place="margin">Gen.17. 14. 23. 17.</note></l>
+<l>Onse Uaderen altseaem,</l>
+<l>Abraham, en zijn Zaet seer rijck,</l>
+<l>Altoos ende ock eeuwichlijck.</l>
+</lg><p><hi rend="spat">FINIS</hi>.</p></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_vyf001vyff01_0004"/></interpGrp>
+<head rend="h3"><hi rend="i">Corte bekentnis des Geloofs.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Naer de voyse. <lb/>Alst voorgaende.</hi></head>
+<lg type="poem"><l>HOort al tesamen, groot en cleen,</l>
+<l>Wy willen, belijden ghemeen,</l>
+<l>En bekennen tot deser stont:</l>
+<l>Ons ghelooue, Wt herten grondt.</l>
+<l rend="; 1tab">Wy geloouen, al eendrachtich,</l>
+<l>Jn Godt de Uader almachtich,<note place="margin">Joh. 17. 3.</note></l>
+<l>De Hemel aerd, en al wat leeft<note place="margin">Gen. 1. 1.</note></l>
+<l>Gheschapen en , ghemaket heeft.<note place="margin">Psal. 115. 15.</note></l>
+<l rend="; 1tab">Ende in Jesum, Christum goedt,<note place="margin">Esai. 45. 18.</note></l>
+<l>Sijnen Soon, onsen Heere vroedt,<note place="margin">Joh. 17.3.</note></l>
+<l>Die vanden heilgen Gheest, gewis:<note place="margin">1. Cor.8. 6. <lb/>mat.1. 10.</note></l>
+<pb ed="fol." n="A5v"/>
+<l><note place="margin">Luc.1. 13.</note>Sonder smetten, ontfangen is.</l>
+<l rend="; 1tab"><note place="margin">mat.1. 12.</note>Jn Maria de Maget claer,</l>
+<l><note place="margin">Luc.1. 13.</note>En door Godes Cracht, seer wonderbaer</l>
+<l>So de Heylige Gheest verclaert</l>
+<l><note place="margin">mat.15. 5.</note>Een Sone Godts van haer gebaert.</l>
+<l rend="; 1tab"><note place="margin">Esa. 53. 8.</note>Die heeft voor onse, sonden al,</l>
+<l><note place="margin">1. Cor. 15.4.</note>Geleden in dit, Aertsche dal,</l>
+<l><note place="margin">mat. 27.</note>Js ghecruyst en gestoruen, O:</l>
+<l><note place="margin">mat.15.</note>Onder Pontia Pilato.</l>
+<l rend="; 1tab"><note place="margin">1. Cor.15.4.</note>Begrauen so is, sijn lichaem,</l>
+<l>Hy is gedaelt, so wy verstaen,</l>
+<l>Ter hellen neder, tonser baet,</l>
+<l><note place="margin">1. Joh. 2.1.</note>Onsen trooster, en advocaet.</l>
+<l rend="; 1tab"><note place="margin">mat.12.40.</note>Tenderden dage, so is hy:</l>
+<l><note place="margin">1. Cor.15.4.</note>Uander doot, opgestanden vry,</l>
+<l><note place="margin">matt. 28. 6.</note>Wt den Graue, verresen claer,</l>
+<l><note place="margin">Eph.1. 20.</note>En verwan ons vyanden swaer.</l>
+<l rend="; 1tab"><note place="margin">Acta.1.9.</note>Ten Hemel hooch, Jn Godes troen,</l>
+<l><note place="margin">Luc.24.50.</note>Js hy opgeclommen ydoen,</l>
+<l><note place="margin">Hebr.8.1.</note>En sidt ter rechter handt, Crachtich:</l>
+<l><note place="margin">Eph.1.20.</note>Godt des Uaders, alles machtich.</l>
+<l rend="; 1tab"><note place="margin">Acto. 1. 11.</note>Uan daer by weder, comen sal,</l>
+<l><note place="margin">mat.25.31.</note>Om te rechten, ons menschen al,</l>
+<l><note place="margin">Act.17.31.</note>De leuende, en doode tzaem.</l>
+<l rend="; 1tab">Wy geloouen ock minst en  meest,</l>
+<l><note place="margin">mat.28.19.</note>Uan herten inden Heyligen Geest,</l>
+<l>Wy belijden, hier in dit perck:</l>
+<l><note place="margin">Ephe.5.25.</note>Een algemeijn, Christlijcke Kerck.</l>
+<l rend="; 1tab">Ghemeinschap, der heyligen mee,</l>
+<pb ed="fol." n="A6r"/>
+<l>Oock der sonden vergeuinge,<note place="margin">Luc.24. 36.</note></l>
+<l>En onses vlees, verrijsenis,<note place="margin">1.Cor. 15. 21.</note></l>
+<l>Een eewich leuen, zeer ghewis.<note place="margin">Job. 11.26.</note></l>
+<l rend="; 1tab">Dit is, onsen Ghelooue reijn,</l>
+<l>Dwelck wy belijden groot en cleijn,</l>
+<l>Ende wat, Godes woort meer leert,</l>
+<l>Werdt van ons ghelooft, en gheeert.</l>
+<l rend="; 1tab">Wy bidden dy, Godt Uader goedt,</l>
+<l>Ons toch voor valsche, leer behoedt,</l>
+<l>Jn dyne waerheyt, altzamen:</l>
+<l>Behoudt ons, O Heere Amen.</l>
+</lg><p><hi rend="spat">FINIS</hi>.</p></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_vyf001vyff01_0005"/></interpGrp>
+<head rend="h3"><hi rend="i">Een vermaen Liedeken.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Naer de voyse. <lb/>Ick segge adieu vlees bloet <lb/>Vvy moeten scheyden.</hi></head>
+<p>Singt met andacht.</p>
+<lg type="poem"><l>GEnade soet,<note place="margin">Rom.1.7.</note></l>
+<l>Bermherticheyt en vrede,<note place="margin">1 Timo.1.2.</note></l>
+<l>Uan Godt seer goedt,<note place="margin">1.Cor.1.3.</note></l>
+<l>De Uader vol waerhede,</l>
+<l>En van Christo onsen Heere vailiant,</l>
+<l>Sy v o vrinden aen elcken cant,</l>
+<l>Jn Waterlant,</l>
+<l>Tot heyl gheplant,</l>
+<l>Jn Christo Jesu onsen Heylant.<note place="margin">Joh.15. 2.</note></l>
+<pb ed="fol." n="A6v"/>
+<l rend="; 1tab">Urinden eerbaer,</l>
+<l><note place="margin">1.Cor. 7.17.</note>U beroepinghe heylich,</l>
+<l>Wilt nemen waer</l>
+<l><note place="margin">Ephe. 5. 16.</note>Jn desen tijt onveylich</l>
+<l><note place="margin">1. Pet. 5.8.</note>Uan alle zijden naket v den strijdt</l>
+<l><note place="margin">Ephe.6.10.</note>Des wapent v wie dat ghy syt</l>
+<l><note place="margin">Ephe.5.16.</note>Tis quade tijt</l>
+<l>Rust v met vlydt</l>
+<l>Ghy die Christum Jesum belydt.</l>
+<l rend="; 1tab">Elck een neemt acht</l>
+<l>Op tsuyver Woort des Heeren</l>
+<l>Dat wel betracht,</l>
+<l><note place="margin">Col.3. 16.</note>En laet in v vermeeren,</l>
+<l>Jn Christo uwen herder goedt,</l>
+<l><note place="margin">Joh. 15.3.</note>Gelijck leuende rancken vroedt,</l>
+<l>Tot duecht v spoedt,</l>
+<l><note place="margin">Ephe. 1. 11.</note>Ureucht ouervloedt,</l>
+<l><note place="margin">Joh. 15.8.</note> Brengt voort ten prijse des Heeren soet.</l>
+<l rend="; 1tab">Jn wijsheyt groyt,</l>
+<l><note place="margin">Col. 1. 9.</note>En in Gods kennis reene,</l>
+<l><note place="margin">Col. 3. 14.</note>Jn lieffden bloyt,</l>
+<l>Gestadich al gemeene,</l>
+<l><note place="margin">Joh.13. 35.</note>Want lieffde is so Christus seyt,</l>
+<l>Een kenteeken der Christenheyt,</l>
+<l><note place="margin">Ephe.1. 15.</note>Jn liefd arbeyt,</l>
+<l>Daer van niet scheyt</l>
+<l>Der lieffden werken altijt wtbreyt.</l>
+<l rend="; 1tab">Hout vrede reijn.</l>
+<l>Daer in leeft en wilt wandelen</l>
+<l>Draecht int ghemeijn.</l>
+<pb ed="fol." n="A7r"/>
+<l>Met wijssheyt deen den andren<note place="margin">Ephe. 4. 32.</note></l>
+<l>Twist niet om saken cleen en licht<note place="margin">Phil. 8. 2.</note></l>
+<l>Noch ock malcandren niet en richt<note place="margin">Rom. 14.3.</note></l>
+<l>Soeckt wat hier sticht</l>
+<l>Al v gesicht</l>
+<l>Laet naeder lieffden hebben ghewicht.</l>
+<l rend="; 1tab">Twist en partij<note place="margin">1. Cor. 3.3</note></l>
+<l>Wilt vlieden talle tijden</l>
+<l>Oock secterij</l>
+<l>En schueringhe vermijden</l>
+<l>Deylt niet, Christus heylich Lichaem,</l>
+<l>Sijn ledekens, wilt laten tzaem,</l>
+<l>Rechtet niet aen,</l>
+<l>Wat dint, tot blaem,</l>
+<l>En oneer, van des Heeren naem,</l>
+<l rend="; 1tab">Maer als Leden,</l>
+<l>Christi, suyuer en goedich,</l>
+<l>Leeft in vreeden,<note place="margin">Phil.2. 1.</note></l>
+<l>Uerdrachtsaem, en lackmoedich,<note place="margin">Ephe.4.32.</note></l>
+<l>Weest in v straffen, niet te snel,<note place="margin">Gal. 6. 3.</note></l>
+<l>Christi exempel, en instel:<note place="margin">1. Pet.2.21.</note></l>
+<l>Wilt volgen wel,</l>
+<l>Tis Godts bevel,</l>
+<l>Ghy alle die sijt, onder Jsrahel.</l>
+<l rend="; 1tab">Nedrich en cleijn,<note place="margin">Phil.2. 5.</note></l>
+<l>Wilt v altijt bewijsen,</l>
+<l>Oodtmoedich reijn,<note place="margin">mat.11.29.</note></l>
+<l>Wat slecht is, dat wilt prijsen,<note place="margin">Psal.25.25.</note></l>
+<l>Soeckt niet wat hier groot is geacht,<note place="margin">Rom.12.16</note></l>
+<l>Christi nedricheyt, wel betracht,<note place="margin">Phil. 2. 5.</note></l>
+<pb ed="fol." n="A7v"/>
+<l>Hebt die met macht,</l>
+<l>Jn v gedacht,</l>
+<l>En daer van sprecket dach ende nacht.</l>
+<l rend="; 1tab">Satan seer fel,</l>
+<l>Jn dese quade dagen,</l>
+<l><note place="margin">1.Pet.5.16</note>Wederstaet snel,</l>
+<l>Ock alle sijn raedtslagen,</l>
+<l>Waeckt ende bidt, sonder verlaet,</l>
+<l>Nuchtren, altijt ter wachte staet,</l>
+<l>Tis Petrus raedt,</l>
+<l>Die niet versmaet,</l>
+<l><note place="margin">Joh. 19.4.</note>U Herder Jesus, altijt naergaet.</l>
+<l rend="; 1tab"><note place="margin">Col.1.20.</note>Rijck en vruchtbaer,</l>
+<l><note place="margin">matt. 5. 16</note>Jnt goede wordt beuonden,</l>
+<l>Als lichten claer,</l>
+<l>Weest lichtende, tallen standen,</l>
+<l><note place="margin">Gen.3.27.</note>Met Christum Jesum sat aengedaen,</l>
+<l>Jn hem wilt leuen, ende staen,</l>
+<l>Ghy sult bequaem,</l>
+<l><note place="margin">Esd.2.43.</note>De croen ontfaen,</l>
+<l>Dit schenck ick v al tot een vermaen.</l>
+</lg><p><hi rend="spat">FINIS</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

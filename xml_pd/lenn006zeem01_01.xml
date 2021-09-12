@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Zeemansliedtjens</title>
+               <author>Jacob van Lennep</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Zeemansliedtjens</hi> van Jacob van Lennep uit 1852.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>II, IV<!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">lenn006zeem01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2010 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar collectie INL, Leiden</idno>
+               </bibl>
+               <p>Jacob van Lennep, <hi rend="i">Zeemansliedtjens</hi>. Gebroeders Kraay, Amsterdam 1852</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Zeemansliedtjens</title>
+               <author>Jacob van Lennep</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Zeemansliedtjens</title>
+               <author>Jacob van Lennep</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2010-11-1</date>
+               <respStmt>
+                   <name type="person">DH</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf><div type="chapter">
+
+<pb n="I"/>
+<p>ZEEMANSLIEDTJENS.</p>
+<pb n="III"/>
+<p>ZEEMANSLIEDTJENS.</p>
+<p>DOOR</p>
+<p><hi rend="i">Mr. J. VAN LENNEP</hi>.</p>
+<p><figure>
+<p><xptr to="lenn006zeem01ill01.gif"/></p></figure></p>
+<p>AMSTERDAM,</p>
+<p>GEBROEDERS KRAAY.</p>
+<pb n="V"/>
+<p>INHOUD.</p>
+<p>
+<table>
+<row>
+<cell role="header"/>
+<cell role="header">Blz.</cell></row>
+<row>
+<cell><hi rend="sc">het lied van den watergeus</hi></cell>
+<cell>1.</cell></row>
+<row>
+<cell><hi rend="sc">de zeeuwsche kapitein</hi></cell>
+<cell>4.</cell></row>
+<row>
+<cell><hi rend="sc">de uiterste wilsbeschikkingen</hi></cell>
+<cell>6.</cell></row>
+<row>
+<cell><hi rend="sc">liedtjen van jan van galen</hi></cell>
+<cell>11.</cell></row>
+<row>
+<cell><hi rend="sc">de stervende matroos</hi></cell>
+<cell>16.</cell></row>
+<row>
+<cell><hi rend="sc">'t is jan om 't even</hi></cell>
+<cell>22.</cell></row>
+<row>
+<cell><hi rend="sc">leeuw en lam</hi></cell>
+<cell>25.</cell></row>
+<row>
+<cell><hi rend="sc">avondstond aan boord</hi></cell>
+<cell>28.</cell></row>
+<row>
+<cell><hi rend="sc">de oude zeeman</hi></cell>
+<cell>31.</cell></row>
+<row>
+<cell><hi rend="sc">de vliegende hollander</hi></cell>
+<cell>33.</cell></row>
+<row>
+<cell><hi rend="sc">lubbert gerritsz</hi></cell>
+<cell>37.</cell></row>
+<row>
+<cell><hi rend="sc">daarom niet getreurd</hi></cell>
+<cell>40.</cell></row></table></p>
+<pb n="VI"/>
+<p>
+<table>
+<row>
+<cell role="header"/>
+<cell role="header">Blz.</cell></row>
+<row>
+<cell><hi rend="sc">veilig op zee</hi></cell>
+<cell>43.</cell></row>
+<row>
+<cell><hi rend="sc">afscheid</hi></cell>
+<cell>46.</cell></row>
+<row>
+<cell><hi rend="sc">'s levens reis</hi></cell>
+<cell>50.</cell></row>
+<row>
+<cell><hi rend="sc">een tragische avontuur</hi></cell>
+<cell>53.</cell></row>
+<row>
+<cell><hi rend="sc">bram wimpel</hi>.</cell>
+<cell>57.</cell></row>
+<row>
+<cell><hi rend="sc">het vaarwel</hi></cell>
+<cell>59.</cell></row>
+<row>
+<cell><hi rend="sc">eerlijke rob</hi>.</cell>
+<cell>61.</cell></row>
+<row>
+<cell><hi rend="sc">vertellingen van den zeeman</hi></cell>
+<cell>64.</cell></row>
+<row>
+<cell><hi rend="sc">de echte zeeman</hi></cell>
+<cell>69.</cell></row>
+<row>
+<cell><hi rend="sc">de wind schiet om, - naar boord! naar boord!</hi></cell>
+<cell>71.</cell></row>
+<row>
+<cell><hi rend="sc">jenever en liefde</hi></cell>
+<cell>73.</cell></row>
+<row>
+<cell><hi rend="sc">janmaats-geloof</hi></cell>
+<cell>76.</cell></row>
+<row>
+<cell><hi rend="sc">matroos, die schipbreuk leed</hi></cell>
+<cell>79.</cell></row>
+<row>
+<cell><hi rend="sc">lied aan het gangspil</hi></cell>
+<cell>83.</cell></row></table></p></div></cf>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0001"/> </interpGrp>
+<pb n="1"/>
+<head rend="h3">Het lied van den Watergeus.</head>
+<lg type="poem">
+<l>Wilhelmus van Nassouwen</l>
+<l rend="; 1tab">Klinkt luid en blij ons lied.</l>
+<l>In hem is ons vertrouwen,</l>
+<l rend="; 1tab">En dat beschaamt hy niet.</l>
+<l>Wy voeren langs de stroomen</l>
+<l rend="; 1tab">Zijn vlag en oorlogsleus.</l>
+<l>Laat vrij de vyand komen:</l>
+<l rend="; 1tab">Hem ducht geen Watergeus.</l>
+<l>&nbsp;</l>
+<l>Wilhelmus van Nassouwen!</l>
+<l rend="; 1tab">Geen Spanjaart of Maraan,</l>
+<pb n="2"/>
+<l>Die langer zee durft bouwen,</l>
+<l rend="; 1tab">Heeft hy dien zang verstaan.</l>
+<l>Kleinmoedig afgedropen</l>
+<l rend="; 1tab">Is hy, met langen neus,</l>
+<l>Straks in zijn schulp gekropen</l>
+<l rend="; 1tab">Uit vreeze voor den Geus.</l>
+<l>&nbsp;</l>
+<l>Wilhelmus van Nassouwen!</l>
+<l rend="; 1tab">Wie zich op hem verlaat,</l>
+<l>Zal 't nimmermeer berouwen.</l>
+<l rend="; 1tab">Hy redt den vrijen Staat.</l>
+<l>Ras acht elk Nederlander</l>
+<l rend="; 1tab">Hem 't krijgshoofd zijner keus,</l>
+<l>En volgt zijn zegestander,</l>
+<l rend="; 1tab">Gelijk de Watergeus.</l>
+<l>&nbsp;</l>
+<l>Wilhelmus van Nassouwen</l>
+<l rend="; 1tab">Ontziet geen overmacht.</l>
+<l>Heeft David vol vertrouwen</l>
+<l rend="; 1tab">Den Filistijn verwacht,</l>
+<pb n="3"/>
+<l>Ons Prinsjen zal trotseeren</l>
+<l rend="; 1tab">Den Kastiljaanschen Reus,</l>
+<l>Zijn yd'len waan verneêren,</l>
+<l rend="; 1tab">Met hulpe van den Geus.</l>
+<l>&nbsp;</l>
+<l>Wilhelmus van Nassouwen!</l>
+<l rend="; 1tab">Schijne ieder Vorst der aard</l>
+<l>Zijn bystand u te onthouen,</l>
+<l rend="; 1tab">Uw ziel blijft onvervaard.</l>
+<l>U sterkt de Heer der Heeren:</l>
+<l rend="; 1tab">Zijn naam strekt u tot leus.</l>
+<l>Hy doe u triomfeeren:</l>
+<l rend="; 1tab">Dat bidt de Watergeus.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0002"/> </interpGrp>
+<pb n="4"/>
+<head rend="h3">De Zeeuwsche kapitein.</head>
+<lg type="poem">
+<l>Mijn schip, ziedaar mijn vaderland,</l>
+<l rend="; 1tab">En 't voorwerp van mijn min.</l>
+<l>De manschap is mijn huisgezin,</l>
+<l>Vereend door onverbreekbren band.</l>
+<l>Eendrachtig zijn we in nood en dood:</l>
+<l>Wie, die ons Zeeuwen weêrstand bood?</l>
+<l>&nbsp;</l>
+<l>Een ander zij op rijkdom prat;</l>
+<l rend="; 1tab">'k Heb nimmer hem benijd.</l>
+<pb n="5"/>
+<l>Des zeevolks liefde, my gewijd,</l>
+<l>Ziedaar mijn goed, mijn hoogsten schat.</l>
+<l>Mijn kindren zijn ze, in nood en dood:</l>
+<l>Wie, die ons Zeeuwen weêrstand bood?</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0003"/> </interpGrp>
+<pb n="6"/>
+<head rend="h3">De uiterste wilsbeschikkingen.</head>
+<lg type="poem">
+<l>De fluit des bootsmans werd gehoord:</l>
+<l rend="; 1tab">Het plechtig strijdensuur was daar:</l>
+<l>De trommel rolde aan ieder boord:</l>
+<l rend="; 1tab">Op 't halfdek stond de manschap klaar.</l>
+<l>&nbsp;</l>
+<l>Een doodsche stilte heerschte in 't rond;</l>
+<l rend="; 1tab">Maar als de stilte, zoo geducht,</l>
+<l>Die 't naad'ren van den storm verkondt,</l>
+<l rend="; 1tab">By 't dreigen van een donkre lucht.</l>
+<pb n="7"/>
+<l>Alleen een lispend fluistren floot,</l>
+<l rend="; 1tab">Naauw hoorbaar schier, de reien door:</l>
+<l>Elk blies, by 't uitzicht van den dood,</l>
+<l rend="; 1tab">Een vriend zijn lesten wil in 't oor.</l>
+<l>&nbsp;</l>
+<l>- ‘Ik heb een maat: wat hy ontfing</l>
+<l rend="; 1tab">Hy deelde altyd de helft my meê:</l>
+<l>Hy hielp my uit de gijzeling:</l>
+<l rend="; 1tab">En eens by noodweêr, uit de zee.</l>
+<l>&nbsp;</l>
+<l>Geef hem dit uurwerk: vaak by nacht,</l>
+<l rend="; 1tab">Als my zijn tikken tegenklonk,</l>
+<l>Heb ik den trouwen vriend herdacht,</l>
+<l rend="; 1tab">Die 't eens my van zijn gaadje schonk.</l>
+<l>&nbsp;</l>
+<l>Hy heet Piet Goedhart: ik Jan Blij.</l>
+<l rend="; 1tab">En wie hem kent, hy zegt gewis,</l>
+<l>Geen brave pekbroek, meer dan hy,</l>
+<l rend="; 1tab">Verdient eens zeemans erfenis.’ -</l>
+<pb n="8"/>
+<l>- ‘Zie hier 't portretjen van mijn vrouw,</l>
+<l rend="; 1tab">Waarmeê zy zelve my omhing,</l>
+<l>By 't scheiden, toen zy vol van rouw,</l>
+<l rend="; 1tab">Mijn afscheidskus op 't dek ontfing.</l>
+<l>&nbsp;</l>
+<l>o Breng 't haar weêr: zeg haar meteen,</l>
+<l rend="; 1tab">Dat zy het vastsnoere aan het mijn,</l>
+<l>En beiden op haar hart vereen',</l>
+<l rend="; 1tab">Tot dat wy zelf vereenigd zijn.’ -</l>
+<l>&nbsp;</l>
+<l>- ‘Ik heb noch maag noch bloedverwant:</l>
+<l rend="; 1tab">'k Geef alles wat ik achterlaat</l>
+<l>Den vromen Amiraal te pand:</l>
+<l rend="; 1tab">Hy weet daarmeê voorzeker raad.</l>
+<l>&nbsp;</l>
+<l>'t Brengt in de hand van Bestevaêr</l>
+<l rend="; 1tab">Voorzeker dubb'le rente voort:</l>
+<l>Hy is toch steeds met weldoen klaar,</l>
+<l rend="; 1tab">Waar hy van ramp of armoê hoort.</l>
+<pb n="9"/>
+<l>Mijn naam is Willem van der Stap:</l>
+<l rend="; 1tab">'k Heb immer nooddruft bygestaan.</l>
+<l>En hoe kan mijn nalatenschap</l>
+<l rend="; 1tab">In beter handen overgaan?’ -</l>
+<l>&nbsp;</l>
+<l>Bom! bom!.... daar dreunt de volle laag;</l>
+<l rend="; 1tab">Daar vangt hy aan, de felle slag.</l>
+<l>Hoe wakker zich de vyand draag',</l>
+<l rend="; 1tab">Hy zwicht in 't eind, hy strijkt de vlag.</l>
+<l>&nbsp;</l>
+<l>De zege is ons: daar schuimt de kroes,</l>
+<l rend="; 1tab">En Janmaat brengt, zoo wel te moê,</l>
+<l>Zijn kameraads een blij <hi rend="i">à vous</hi>, -</l>
+<l rend="; 1tab">Zijn vyand hulp en bystand toe.</l>
+<l>&nbsp;</l>
+<l>Nog leeft Jan Blij en roemt de trouw</l>
+<l rend="; 1tab">Zijns gullen vriends in ronde taal:</l>
+<l>Nog stoft Kornelis op zijn vrouw,</l>
+<l rend="; 1tab">En Willem op zijn Amiraal.</l>
+<pb n="10"/>
+<l>Luid juichen zy, en ieder zweert:</l>
+<l rend="; 1tab">Het voorwerp, dat hy dierbaarst acht,</l>
+<l>Wordt levenslang door hem vereerd,</l>
+<l rend="; 1tab">En sterft hy, in zijn wil herdacht.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0004"/> </interpGrp>
+<pb n="11"/>
+<head rend="h3">Liedtjen van Jan van Galen.</head>
+<lg type="poem">
+<l>Er is nog geen krimp, (de bootsman sprak:)</l>
+<l rend="; 1tab">Wy moeten geen troef verzaken.</l>
+<l>Wy zitten hier op ons dooie gemak,</l>
+<l rend="; 1tab">En een borrel zoû nog wel smaken.</l>
+<l>Komt schuift wat by aan dezen hoek;</l>
+<l rend="; 1tab">Dan zal ik je wat verhalen</l>
+<l>Al van een zeeman, stout en kloek,</l>
+<l rend="; 1tab">Die heette Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>Hy was geboren van edelluî,</l>
+<l rend="; 1tab">Die sober zich moesten geneeren.</l>
+<pb n="12"/>
+<l>Hy dacht: ‘ik geef om 't geld geen brui,</l>
+<l rend="; 1tab">Maar mijn naam, dien hoû ik in eeren.</l>
+<l>Indien ik nu eens het zeevak koos,</l>
+<l rend="; 1tab">Daar valt nog roem te behalen.’</l>
+<l>Zoo ging hy varen als licht matroos:</l>
+<l rend="; 1tab">Dat deed onze Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>Hy was gezien by groot en klein,</l>
+<l rend="; 1tab">En kende geen gevaren:</l>
+<l>Hy werd bevorderd tot kapitein</l>
+<l rend="; 1tab">Pas vijf en twintig jaren.</l>
+<l>De Duinkerkers deden ons overlast:</l>
+<l rend="; 1tab">Hy zette hun moedwil palen,</l>
+<l>En bond den bezem aan zijn mast,</l>
+<l rend="; 1tab">De dappere Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>En toen met zijn schepen, zoo grof en lomp,</l>
+<l rend="; 1tab">De Spanjaart ons dacht te kwellen,</l>
+<l>Toen ging hy naar Duins met Maarten Tromp</l>
+<l rend="; 1tab">En andere brave gezellen.</l>
+<pb n="13"/>
+<l>‘Kom aan!’ zeî Tromp: ‘nu zal men zien,</l>
+<l rend="; 1tab">Hoe zy voor hun bluffen betalen,</l>
+<l>Ik vrees hen niet, een tegen tien:</l>
+<l rend="; 1tab">Ik reken op Jan van Galen.’</l>
+<l>&nbsp;</l>
+<l>De Spanjaart keek al heel benaauwd,</l>
+<l rend="; 1tab">Zoodra hy hen had vernomen,</l>
+<l>Zijn moed was op een bof verflaauwd.</l>
+<l rend="; 1tab">Hy dacht: ‘hoe zal ik 't ontkomen?’</l>
+<l>Maar 't was te laat om weg te vliên:</l>
+<l rend="; 1tab">In steê van eer te behalen,</l>
+<l>Moest hy zijn schepen genomen zien</l>
+<l rend="; 1tab">Door Tromp en door Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>Wat later nam in de Spaansche zee</l>
+<l rend="; 1tab">Van Galen menigen roover</l>
+<l>En bracht den buit in veil'ge reê</l>
+<l rend="; 1tab">Te Port Maria over.</l>
+<l>Daar vielen hem twintig schelmen aan:</l>
+<l rend="; 1tab">Hy trok van leêr zonder dralen</l>
+<pb n="14"/>
+<l>En wist zich alleen door hen heen te slaan,</l>
+<l rend="; 1tab">Dat deed onze Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>Wy kregen 't met de Britten te kwaad,</l>
+<l rend="; 1tab">Toen Kromwell regeerde te Londen.</l>
+<l>Van Galen werd door onzen Staat</l>
+<l rend="; 1tab">Naar de kust van Itaalje gezonden,</l>
+<l>Maar wijl hy den vyand een lesjen gaf,</l>
+<l rend="; 1tab">En onder 't zegepralen,</l>
+<l>Daar schoot een kogel het been hem af,</l>
+<l rend="; 1tab">Aan onzen Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>De man verschoot niet eens van kleur</l>
+<l rend="; 1tab">En deed als of hem niets deerde.</l>
+<l>Toen zeî hem de stuurman: ‘Kommandeur!</l>
+<l rend="; 1tab">'k Geloof, dat jy je bezeerde:’ -</l>
+<l>‘Wel,’ sprak hy, ‘maat, dat kon wel zijn:</l>
+<l rend="; 1tab">Maar - eer hy mocht verschalen -</l>
+<l>Zoo haal een botelje Spaanschen wijn.’</l>
+<l rend="; 1tab">Zoo sprak onze Jan van Galen.</l>
+<pb n="15"/>
+<l>Hy zette den beker al aan den mond</l>
+<l rend="; 1tab">En dronk op 't <hi rend="i">succès</hi> van de Staten:</l>
+<l>Toen smeet hy het wijnglas tegen den grond,</l>
+<l rend="; 1tab">Hy kon het er - dacht hy - by laten.</l>
+<l>‘Dat Engelsche koningsmoordersrot,</l>
+<l rend="; 1tab">Dat moet het toch betalen:’</l>
+<l>Zoo sprak hy en ging, helaas! kapot:</l>
+<l rend="; 1tab">Zoo stierf onze Jan van Galen.</l>
+<l>&nbsp;</l>
+<l>In de Nieuwe Kerk al te Amsterdam;</l>
+<l rend="; 1tab">Daar staat zijn graf te prijken.</l>
+<l>Ik raad je, zoo je te met daar kwam,</l>
+<l rend="; 1tab">Ik raad je, het eens te gaan kijken.</l>
+<l>En voorts, raakt weêr ons land in nood,</l>
+<l rend="; 1tab">Als vroeger verscheiden malen,</l>
+<l>Dan doe je als hy deedt en vecht je dood,</l>
+<l rend="; 1tab">Als wijlen Jan van Galen.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0005"/> </interpGrp>
+<pb n="16"/>
+<head rend="h3">De stervende matroos.</head>
+<lg type="poem">
+<l>'t Had gebulderd op de waat'ren;</l>
+<l rend="; 1tab">Maar volstreden was de slag,</l>
+<l>En, by 't luid viktorie-schaat'ren</l>
+<l rend="; 1tab">Neêrgehaald de Britsche vlag.</l>
+<l>&nbsp;</l>
+<l>'t Was weêr zege, 't was weêr glorie,</l>
+<l rend="; 1tab">Die zich Holland winnen mocht;</l>
+<l>Maar voor Holland geen viktorie,</l>
+<l rend="; 1tab">Dan met heldenbloed gekocht.</l>
+<pb n="17"/>
+<l>Hoeveel onverschrokken braven</l>
+<l rend="; 1tab">Had niet de ochtendzon begroet,</l>
+<l>Die helaas! den doodsnik gaven,</l>
+<l rend="; 1tab">Eer zy neêrdaalde in den vloed.</l>
+<l>&nbsp;</l>
+<l>Over 't dek, met bloed bedropen,</l>
+<l rend="; 1tab">Was Jan Teunisz., zwaar gewond,</l>
+<l>Naar de scheepshut heengekropen,</l>
+<l rend="; 1tab">Waar de kloeke schipper stond.</l>
+<l>&nbsp;</l>
+<l>- ‘'k Bid u, schipper! doe my weten,</l>
+<l rend="; 1tab">Heb ik voor der Staten vlag,</l>
+<l>My naar eed en plicht gekweten,</l>
+<l rend="; 1tab">Op dees glorievollen dag?</l>
+<l>&nbsp;</l>
+<l>- Gun my, schipper! u te vragen;</l>
+<l rend="; 1tab">- Want mijn sterfuur nadert vast -</l>
+<l>Heb ik heden my gedragen</l>
+<l rend="; 1tab">Als 't een echten zeeman past.’</l>
+<pb n="18"/>
+<l>- ‘Wis, Jan Teunisz.! trouw en wakker,</l>
+<l rend="; 1tab">Hebt ge uw zeemansplicht voldaan.</l>
+<l>En met droefheid, brave makker!</l>
+<l rend="; 1tab">Zie ik uw kwetsuren aan.’ -</l>
+<l>&nbsp;</l>
+<l>- ‘Dank je, schipper! voor die woorden.</l>
+<l rend="; 1tab">Dat verkwikt een stervend mensch.</l>
+<l>'k Reis getroost naar beter oorden; -</l>
+<l rend="; 1tab">Maar - nog had ik éénen wensch. -</l>
+<l>&nbsp;</l>
+<l>'k Wou, dat een van onze braven,</l>
+<l rend="; 1tab">Sterf ik, my de vriendschap deê,</l>
+<l>En voor Kaatjen van Delftshaven</l>
+<l rend="; 1tab">Van mijn hoofd een hairlok sneê.</l>
+<l>&nbsp;</l>
+<l>Dat, wil God hem 't leven gunnen,</l>
+<l rend="; 1tab">Hy die hairlok zelf haar bracht!</l>
+<l>Zoo zal Kaatjen weten kunnen</l>
+<l rend="; 1tab">Hoe ik stervend aan haar dacht.</l>
+<pb n="19"/>
+<l>Laat hy ook deez' brief haar geven</l>
+<l rend="; 1tab">Dien ik, eer de slag begon,</l>
+<l>Aan mijn Kaatjen had geschreven,</l>
+<l rend="; 1tab">Och!.... zoo goed ik schrijven kon:</l>
+<l>&nbsp;</l>
+<l>'k Weet, zy zal nog dikwijls turen</l>
+<l rend="; 1tab">Op den inhoud van dien brief:</l>
+<l>Lang nog zal haar droefheid duren</l>
+<l rend="; 1tab">Over 't missen van haar lief.’ -</l>
+<l>&nbsp;</l>
+<l>- ‘'t Zal geschiên naar uw behagen,</l>
+<l rend="; 1tab">Wil daarvoor geen zorge voên;</l>
+<l>En ik zelf zal, al mijn dagen,</l>
+<l rend="; 1tab">Wat ik kan voor Kaatjen doen.’ -</l>
+<l>&nbsp;</l>
+<l>- ‘Dank je, schipper! duizendmalen.</l>
+<l rend="; 1tab">Moge wat ge aan my verricht</l>
+<l>U de Heer terug betalen.</l>
+<l rend="; 1tab">Zie! nu valt my 't sterven licht.’ -</l>
+<pb n="20"/>
+<l>En de knieën hem omklemmend,</l>
+<l rend="; 1tab">Hief de zeeman 't brekend oog,</l>
+<l>Nog in dankb're tranen zwemmend,</l>
+<l rend="; 1tab">Naar den kapitein omhoog.</l>
+<l>&nbsp;</l>
+<l>Rustig was 't gelaat des lijders.</l>
+<l rend="; 1tab">- ‘Kaatjen!’ - klonk zijn leste zucht.</l>
+<l>En de ziel des kloeken strijders</l>
+<l rend="; 1tab">Was naar beter oord gevlucht.</l>
+<l>&nbsp;</l>
+<l>Wie er by stond, was met smarte</l>
+<l rend="; 1tab">Om zijn sterflot aangedaan.</l>
+<l>Uit het ruwste zeemansharte</l>
+<l rend="; 1tab">Welde een stille deernistraan.</l>
+<l>&nbsp;</l>
+<l>Treurig, met eerbiedig zwijgen,</l>
+<l rend="; 1tab">Kwam de manschap by den mast.</l>
+<l>'t Lichaam in zijn hangmat rijgen:</l>
+<l rend="; 1tab">Lijkwaê, die den zeeman past.</l>
+<pb n="21"/>
+<l>En toen, over boord gegleden,</l>
+<l rend="; 1tab">De afgestorven bootsgezel</l>
+<l>Plofte in 't peilloos diep beneden,</l>
+<l rend="; 1tab">Klonk het: ‘beste Jan! vaarwel!’</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0006"/> </interpGrp>
+<pb n="22"/>
+<head rend="h3">'t Is Jan om 't even.</head>
+<lg type="poem">
+<l>Al bruischt de golf, al schuimt de baar,</l>
+<l>De zeeman denkt aan geen gevaar,</l>
+<l>Maar leêgt zijn glas en denkt aan haar,</l>
+<l rend="; 1tab">Die t'huis zijn weêrkomst beidt;</l>
+<l>En 't denkbeeld schaft hem zaligheid.</l>
+<l rend="; 1tab">Zijn liefjen is hem trouw gebleven,</l>
+<l>En wat geeft Janmaat om de rest?</l>
+<l>De branding woelt, en kookt, en klest:</l>
+<l>De stormwind woedt, de regen plast, -</l>
+<l>Maar scheur' het zeil, en kraak' de mast,</l>
+<l rend="; 2tab">'t Is Jan om 't even.</l>
+<pb n="23"/>
+<l>Geen maat, dien hy in kommer vindt,</l>
+<l>Of, daadlyk tot zijn hulp gezind,</l>
+<l>Kleedt Jan, voor eigen nadeel blind,</l>
+<l rend="; 1tab">Des noods zich zelven uit.</l>
+<l>En - boet de schaê van zijn kornuit.</l>
+<l rend="; 1tab">Der vriendschap is hy trouw gebleven,</l>
+<l>En wat geeft Janmaat om de rest?</l>
+<l>Schoon thands door nooddruft zelf geprest,</l>
+<l>Hy redde een kameraad voor schand.</l>
+<l>En, gaf hy lijf en goed te pand,</l>
+<l rend="; 2tab">'t Is Jan om 't even.</l>
+<l>&nbsp;</l>
+<l>Daar daagt zy op, des vyands vloot,</l>
+<l>Uit vuur- by vuurmond dreigt de dood;</l>
+<l>Maar, zij der Britten zeemacht groot,</l>
+<l rend="; 1tab">De krijgskans ongelijk,</l>
+<l>Van vreeze gaf hy nimmer blijk.</l>
+<l rend="; 1tab">Hy is zijn vlag getrouw gebleven,</l>
+<l>En wat geeft Janmaat om de rest?</l>
+<l>Hy strijdt als held en doet zijn best.</l>
+<pb n="24"/>
+<l>Vijf Britten sneuv'len door zijn moed:</l>
+<l>Vijf and'ren redt hy uit den vloed:</l>
+<l rend="; 2tab">'t Is Jan om 't even.</l>
+<l>&nbsp;</l>
+<l>En als - want hoe 't op aard moog' gaan,</l>
+<l>Eens zal voor elk de doodsklok slaan,</l>
+<l>Matroos en Koning moet er aan -</l>
+<l rend="; 1tab">De kogel eind'lijk gonst,</l>
+<l>Die hem op 't scheepsdek nederbonst,</l>
+<l rend="; 1tab">Hy is zijn plicht getrouw gebleven,</l>
+<l>En wat geeft Janmaat om de rest?</l>
+<l>Hy heeft op God zijn hoop gevest.</l>
+<l>Hy leefde en streed voor Hollands eer,</l>
+<l>Voor Holland valt hy roemvol neêr:</l>
+<l rend="; 2tab">'t Is Jan om 't even.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0007"/> </interpGrp>
+<pb n="25"/>
+<head rend="h3">Leeuw en lam.</head>
+<lg type="poem">
+<l>Wat kan het u scheelen, zoo 'k lust voel tot huilen?</l>
+<l rend="; 1tab">Een traan doet bij wijlen ons goed, dat je 't vat.</l>
+<l>En zij het ook dwaas, om een beuz'ling te pruilen,</l>
+<l rend="; 1tab">'k Heb meêly met elk, die nooit meêly bezat.</l>
+<l>Ik denk maar altyd aan het woord van den Ouwen:</l>
+<l rend="; 1tab">‘Wie d' eernaam van held ooit naar rechte bekwam,</l>
+<l>Hy toonde zich immer - dit moet gy onthouen -</l>
+<l rend="; 1tab">Een Leeuw in den strijd, en na 't strijden een Lam.’</l>
+<pb n="26"/>
+<l>Daar hadt je Hein Snap: wie hem trad op zijn toonen,</l>
+<l rend="; 1tab">'t Was fluks, met het mes - op de baan - hou je klaar.</l>
+<l>Hy zoû, naar hy zeî, nooit een vyand verschoonen,</l>
+<l rend="; 1tab">Veeleer hem verslinden met huid en met hair.</l>
+<l>Maar - toen hy den Brit had gewond en gevangen,</l>
+<l rend="; 1tab">Die vroeger hem 't lijf had gered uit de vlam,</l>
+<l>Toen biggelde een traan langs zijn bruinroode wangen,</l>
+<l rend="; 1tab">De brullende Leeuw was verkeerd in een Lam.</l>
+<l>&nbsp;</l>
+<l>Dat Joris of Klaas op mijn bystand kan reek'nen,</l>
+<l rend="; 1tab">Of dat ik voor ieder die eet aan mijn bak</l>
+<l>Het leven zoû off'ren, heeft niets te beteek'nen:</l>
+<l rend="; 1tab">Dat is maar een plicht en geschiedt met gemak.</l>
+<l>'t Is grooter en zoeter, te helpen wie lijden,</l>
+<l rend="; 1tab">Wie arm en bekommerd, wie oud zijn en stram.</l>
+<l>De moedige Leeuw schepp' genoegen in 't strijden,</l>
+<l rend="; 1tab">Maar meer nog geniet hy, verkeerd in een Lam.</l>
+<l>&nbsp;</l>
+<l>Ja plicht is 't, ons hart noch onze oogen te sparen.</l>
+<l rend="; 1tab">Ontstroom' hun, als 't nood is, hun kostbare vloed:</l>
+<pb n="27"/>
+<l>Plenge ieder van ons, die er zwalkt op de baren,</l>
+<l rend="; 1tab">Voor vrienden zijn tranen, voor Holland zijn bloed.</l>
+<l>En moge de Brit, zoo met schendig bedoelen</l>
+<l rend="; 1tab">Hy weêr ons bestooken en teisteren kwam,</l>
+<l>In 't strijden de klaauw van den Leeuw aan ons voelen,</l>
+<l rend="; 1tab">Maar ook, na den zege, het hart van een Lam.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0008"/> </interpGrp>
+<pb n="28"/>
+<head rend="h3">Avondstond aan boord.</head>
+<lg type="poem">
+<l>Zwalkend op de groene baren,</l>
+<l rend="; 1tab">Weten wy van zorg noch pijn:</l>
+<l rend="; 1tab">En by bier en brandewijn</l>
+<l>Tarten wy de zeegevaren.</l>
+<l rend="; 1tab">Vrolyk gaat het glaasjen rond:</l>
+<l>Govert Kloek herdenkt zyn vrijster:</l>
+<l>Melis neuriet als een lijster.</l>
+<l rend="; 1tab">O wat schoonder avondstond</l>
+<pb n="29"/>
+<l>Krijn weet lustig op te snijen</l>
+<l rend="; 1tab">Van het spook, dat hy verjoeg:</l>
+<l rend="; 1tab">Piet, hoe wakker hy zich droeg</l>
+<l>In het vechten als in 't vrijen:</l>
+<l rend="; 1tab">Teeuwis prijst zijn jongste kind:</l>
+<l>Nooit was meisje op aarde knapper;</l>
+<l>Wijl Michiel een zevenklapper</l>
+<l rend="; 1tab">Aan des zwartroks lamfer bindt.</l>
+<l>&nbsp;</l>
+<l>En als Rochus, mooi bezopen,</l>
+<l rend="; 1tab">Voor de honderdtiende maal</l>
+<l rend="; 1tab">Met het eigenste verhaal</l>
+<l>Weêr ons komt aan boord gekropen,</l>
+<l rend="; 1tab">Fluks een strik dien saaien gast</l>
+<l>Onverhoeds om 't lijf geslagen:</l>
+<l>Eer hy hoe of wat kan vragen,</l>
+<l rend="; 1tab">Hangt hy bunglend aan den mast.</l>
+<l>&nbsp;</l>
+<l>Vrolijk is des zeemans leven:</l>
+<l rend="; 1tab">Spoedig is de reis volbracht:</l>
+<pb n="30"/>
+<l rend="; 1tab">Wijl ons nieuw genot verwacht</l>
+<l>Als wy ons aan wal begeven;</l>
+<l rend="; 1tab">Maar hoe zoet de rust ook zij,</l>
+<l>Ras verveelt zy ons matrozen; -</l>
+<l>Daarom gaauw weêr zee gekozen,</l>
+<l rend="; 1tab">Even onbezorgd en blij.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0009"/> </interpGrp>
+<pb n="31"/>
+<head rend="h3">De oude zeeman.</head>
+<lg type="poem">
+<l>Jan Lustig was een oud matroos, beroemd op d'oceaan:</l>
+<l>Maar och! zijn roem was 't eenig loon voor al zijn wakk're daan.</l>
+<l>Hy bleef voortdurend de oude knecht; want wat hy had verdiend,</l>
+<l>Hy had by de Amiraliteit geen voorspraak, maag of vriend.</l>
+<l>Dan moedig stond hy op zijn post, wanneer de slag begon,</l>
+<l>En lachte by het strijdrumoer, by 't buld'ren van 't kanon.</l>
+<l>Al spoot aan stuur- en bakboordzij elk spuigat louter bloed,</l>
+<l>Hy telde 't niet, maar kampte door met onbezweken moed.</l>
+<pb n="32"/>
+<l>Gewis men hadde een hooger rang Jan Lustig toegezeid,</l>
+<l>Had hy slechts voor een vreemde dienst der Staten dienst ontzeid.</l>
+<l>Maar neen - hy bleef zijn scheepsbeschuit en de oude vlag getrouw</l>
+<l>En smoorde in ouden brandewijn zijn kwelling en zijn rouw.</l>
+<l>Zoo streed en bloedde keer op keer, en nooit in hooger rang,</l>
+<l>Jan Lustig voor zijn vaderland en diende 't jaren lang,</l>
+<l>En was de voorste en kloekste altijd van alle varensliên,</l>
+<l>Tot dat op heel zijn kalen bol geen hair meer was te zien.</l>
+<l>&nbsp;</l>
+<l>'t Gebeurde eens dat hy was aan wal, en dat hem in de stad</l>
+<l>Een heer van de Amiraliteit by toeval tegentrad.</l>
+<l>- ‘Jan Lustig!’ zeî hy: ‘'k zag voorwaar u in geen langen tijd:</l>
+<l>Hoe staat het toch, mijn goede maat? Zijt ge al uw hairen kwijt?’ -</l>
+<l>- ‘Wel goede heer! 't verbaze u niet,’ hernam de kloeke gast,</l>
+<l>‘Dat op mijn knikker sedert lang geen enkel hair meer wast.</l>
+<l>Zoo menig jonge kapitein kroop over 't hoofd my heen:</l>
+<l>Is 't wonder, zoo het schedelvlies my gandsch is plat getreên?’ -</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0010"/> </interpGrp>
+<pb n="33"/>
+<head rend="h3">De Vliegende Hollander.</head>
+<lg type="poem">
+<l>Wie voer der op zee ooit en hoorde dan niet</l>
+<l>Van 't schip, dat de <hi rend="i">Vliegende Hollander</hi> hiet?</l>
+<l rend="; 1tab">Sints tallooze jaren</l>
+<l rend="; 1tab">Uit Texel gevaren,</l>
+<l rend="; 2tab">Doorkruist het de zee:</l>
+<l rend="; 2tab">Maar nimmer bezocht</l>
+<l rend="; 1tab">Op zijn heilloozen tocht</l>
+<l rend="; 2tab">Het haven of reê.</l>
+<pb n="34"/>
+<l>Het werd er voor eeuwig tot zwerven gedoemd,</l>
+<l>En nooit wordt zijn naam dan met afschrik genoemd.</l>
+<l>Bewaar ons de Heer, dat wy ooit, goede liên,</l>
+<l rend="; 1tab">Den Vliegenden Hollander zien.</l>
+<l>&nbsp;</l>
+<l>Wanneer, in de Kaapzee, de loeiende orkaan</l>
+<l>De dreigende baren als torens doet staan,</l>
+<l rend="; 2tab">Zijn straks, door ons zorgen,</l>
+<l rend="; 2tab">De zeilen geborgen</l>
+<l rend="; 3tab">Aan stengen en raas.</l>
+<l rend="; 3tab">Maar 't vloekschip belacht</l>
+<l rend="; 2tab">Den orkaan en zijn wacht;</l>
+<l rend="; 3tab">'t Is 't onweêr de baas.</l>
+<l>'t Voert bram boven bram en de wimpels in top,</l>
+<l>En klieft in-de-wind het onstuimige sop.</l>
+<l>Bewaar ons de Heer enz.</l>
+<l>&nbsp;</l>
+<l>De schuimende zee stuift terug voor den boeg:</l>
+<l>De golf spat uiteen, die het tooverschip droeg:</l>
+<l rend="; 2tab">De stormwinden gieren:</l>
+<pb n="35"/>
+<l rend="; 1tab">De bliksems omzwieren</l>
+<l rend="; 2tab">En masten en want;</l>
+<l rend="; 2tab">Het schip zeilt vooruit</l>
+<l rend="; 1tab">Door geen winden gestuit:</l>
+<l rend="; 2tab">'t Vreest schade noch brand.</l>
+<l>Vooruit! steeds vooruit! door de donkere nacht!</l>
+<l>De buien verliezen op 't vloekschip haar kracht.</l>
+<l>Bewaar ons de Heer enz.</l>
+<l>&nbsp;</l>
+<l>De manschap!.. niet een, die als 't zeelieden past,</l>
+<l>Zijn plichten volbrengt aan tuigaadje of aan mast,</l>
+<l rend="; 1tab">Hoe vreemd het moog schijnen,</l>
+<l rend="; 1tab">Zy liggen, als zwijnen,</l>
+<l rend="; 2tab">Op 't dek by de kroes;</l>
+<l rend="; 2tab">Zy spreken geen woord</l>
+<l rend="; 1tab">En zy drinken maar voort;</l>
+<l rend="; 2tab">Maar wat - weet de droes:</l>
+<l>De schipper alleen, waar ik niets van begrijp,</l>
+<l>Staat zwijgend by 't roer met een brandende pijp.</l>
+<l>Bewaar' ons de Heer enz.</l>
+<pb n="36"/>
+<l>Geen mensch gaf my immer een zeker bericht,</l>
+<l>Waarom toch die vloek op het tooverschip ligt:</l>
+<l rend="; 2tab">En hoe men 't verklare,</l>
+<l rend="; 2tab">Niet een weet het ware:</l>
+<l rend="; 3tab">'t Is praat in den wind.</l>
+<l rend="; 3tab">Ik zwijg er dus van:</l>
+<l rend="; 2tab">Want je weet, 'k ben geen man</l>
+<l rend="; 3tab">Die sprookjens bemint.</l>
+<l>Dit enkel, dit weet ik, en elk is 't bekend:</l>
+<l>Wie 't vloekschip ontmoet, die is na aan zijn end.</l>
+<l>Bewaar ons de Heer, dat wy immer, goê liên,</l>
+<l rend="; 1tab">Den Vliegenden Hollander zien.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0011"/> </interpGrp>
+<pb n="37"/>
+<head rend="h3">Lubbert Gerritsz.</head>
+<lg type="poem">
+<l>Hier kom ik, Lubbert Gerritsz, t'huis.</l>
+<l rend="; 1tab">Zeg, staat my 't pak niet goed?</l>
+<l>Die wijde broek, dat duffelsch buis,</l>
+<l rend="; 1tab">Die linten om den hoed?</l>
+<l>My kwelt nooit leed of ongemak:</l>
+<l rend="; 1tab">Ik zeil van zee tot zee.</l>
+<l>Ik vind een vriend aan elken bak,</l>
+<l rend="; 1tab">Een wijfje aan elke reê.</l>
+<l>&nbsp;</l>
+<l>Getrouw te zijn aan ééne vrouw</l>
+<l rend="; 1tab">Is loflijk in een man.</l>
+<pb n="38"/>
+<l>Ik bleef er meer dan tien getrouw:</l>
+<l rend="; 1tab">Wat lof verdien ik dan!</l>
+<l>En wie van minnewee ooit sprak,</l>
+<l rend="; 1tab">Ik kende nooit zulk wee.</l>
+<l>Ik vind een vriend aan elken bak,</l>
+<l rend="; 1tab">Een wijfje aan elke reê.</l>
+<l>&nbsp;</l>
+<l>'k Heb te Amsterdam een blonde t'huis,</l>
+<l rend="; 1tab">Een zacht en goedig schaap:</l>
+<l>Bruin is mijn vrouwtjen van Maassluis,</l>
+<l rend="; 1tab">Wit is zy aan de Kaap:</l>
+<l>Roodkleurig aan den Potomak,</l>
+<l rend="; 1tab">En gitzwart in Guinee.</l>
+<l>Ik vind een vriend aan elken bak,</l>
+<l rend="; 1tab">Een wijfje aan elke reê.</l>
+<l>&nbsp;</l>
+<l>Wim Klimop stierf op reis, en 'k bracht</l>
+<l rend="; 1tab">Aan Keetjen 't droef bericht.</l>
+<l>Zy huilde en snikte; maar ik dacht:</l>
+<l rend="; 1tab">Vertroosten is hier plicht.</l>
+<pb n="39"/>
+<l>En zie: eer hy van wal nog stak,</l>
+<l rend="; 1tab">Had Lubbertmaat alreê</l>
+<l>Een nieuwen makker aan zijn bak,</l>
+<l rend="; 1tab">Een aardig wijfje aan Kee.</l>
+<l>&nbsp;</l>
+<l>Zoo rolt ons zeemansleven voort</l>
+<l rend="; 1tab">En treft ons geen verdriet,</l>
+<l>Al bruischt de zee, al giert het Noord,</l>
+<l rend="; 1tab">De pekbroek telt het niet.</l>
+<l>By bier, jenever en tabak,</l>
+<l rend="; 1tab">Is steeds zijn hart te vreê.</l>
+<l>De vriendschap wacht hem aan den bak,</l>
+<l rend="; 1tab">De liefde aan elke reê1.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0012"/> </interpGrp>
+<pb n="40"/>
+<head rend="h3">Daarom niet getreurd.</head>
+<lg type="poem">
+<l>Kees Knap was altijd vrolijk en opgeruimd van zin.</l>
+<l>Hoe fel de storm ook gierde, hy floot er tegen in.</l>
+<l>Hy minde teêr zijn Klaartjen en was zyn vrienden trouw.</l>
+<l>Geen koning op deze aarde, waar hy meê ruilen woû.</l>
+<l>Eens zeilden wy 't Kanaal door in 't holle van de nacht;</l>
+<l>'k Had juist met hem gesproken; hy had de hondewacht.</l>
+<l>Het schip werd op de golven geslingerd op en neêr.</l>
+<l>Een zee sloeg over 't dek heen: wy zagen hem nooit weêr.</l>
+<l rend="; 1tab">Maar daarom niet getreurd!</l>
+<l rend="; 1tab">De vreugd heeft ook haar beurt.</l>
+<pb n="41"/>
+<l rend="; 1tab">Brengt soms de zee ons ongeval,</l>
+<l rend="; 2tab">Wy hebben pret aan wal.</l>
+<l>&nbsp;</l>
+<l>Bram Spiering was een plaagal en vol van guitery.</l>
+<l>Wie boevenstukken pleegden, hy was er eeuwig by.</l>
+<l>Hoe lustig kon hy dansen en spelen op den veêl.</l>
+<l>Hoe deftig wist hy 't oorlam te gieten door de keel.</l>
+<l>Eens lagen wy by Kadix een Britsch fregat aan boord.</l>
+<l>Daar ging het op een schieten, je leven niet gehoord.</l>
+<l>Bram was met bijl en handspaak er dapper in de weer.</l>
+<l>Een kogel nam zijn hoofd weg; wy zagen hem nooit meer.</l>
+<l rend="; 1tab">Maar daarom niet getreurd! enz.</l>
+<l>&nbsp;</l>
+<l>Toon Goedhart was zijn makkers een broeder in den nood,</l>
+<l>Die altijd van het zijne de helft aan and'ren bood,</l>
+<l>Getrouw steeds aan zijn vrienden als aan zijn zeemansplicht:</l>
+<l>Men vond by heel de manschap zyn weêrgaê niet zoo licht.</l>
+<l>Eens zoû men 't anker winden: 't was in de Spaansche zee:</l>
+<l>Hy werd van boord gezonden met nog een maat of twee.</l>
+<l>Daar sloeg de ranke boot om door 't ongestuimig weêr.</l>
+<pb n="42"/>
+<l>Een haai beet hem in tweeën: wy zagen hem nooit meer.</l>
+<l rend="; 1tab">Maar daarom niet getreurd! enz.</l>
+<l>&nbsp;</l>
+<l>Wat zouden wy, mijn vrienden, bezorgd zijn en bedroefd,</l>
+<l>Omdat vandaag of morgen een ongeluk ons toeft?</l>
+<l>De kabel van ons leven loopt vroeg of later af.</l>
+<l>Eens loodst de dood ons binnen en ank'ren wy in 't graf.</l>
+<l>Zoo zal het immer wezen en zelden hebt ge een vrind,</l>
+<l>Die door zijn trouw en braafheid uw lof en achting wint,</l>
+<l>En niet door storm of kogel, door haai of witten beer</l>
+<l>Eens van de scheeprol afraakt: - en nooit ziet gy hem weêr.</l>
+<l rend="; 2tab">Maar daarom niet getreurd!</l>
+<l rend="; 2tab">De vreugd heeft ook haar beurt.</l>
+<l rend="; 1tab">Treft soms op zee ons ongeval,</l>
+<l rend="; 2tab">Wy hebben pret aan wal.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0013"/> </interpGrp>
+<pb n="43"/>
+<head rend="h3">Veilig op zee.</head>
+<lg type="poem">
+<l>'t Was nacht, en 't schip vlood voor d'orkaan</l>
+<l rend="; 1tab">Op torenshooge baren.</l>
+<l>Daar nam Dries Kloek een pruim en sprak</l>
+<l rend="; 1tab">Tot Govert van der Maaren:</l>
+<l>‘Ei, hoor dat mooie weêrtje eens aan,</l>
+<l rend="; 1tab">Dat loeien van de winden.</l>
+<l>Och! hoe beklaag ik de arme liên,</l>
+<l rend="; 1tab">Die zich aan wal bevinden.</l>
+<l rend="; 2tab">Boe! boe! woe!</l>
+<pb n="44"/>
+<l>‘Wat moeten zich de steêlui thands</l>
+<l rend="; 1tab">Niet erg verlegen maken.</l>
+<l>Vast trillen ze in hun bed van vrees</l>
+<l rend="; 1tab">Voor 't storten van de daken.</l>
+<l>Die arme drommels! 'k wed voorwaar</l>
+<l rend="; 1tab">Dat ze ons geluk benijden</l>
+<l>En wenschten veilig zoo als wy</l>
+<l rend="; 1tab">Op de open zee te rijden.</l>
+<l rend="; 2tab">Boe! boe! woe!</l>
+<l>&nbsp;</l>
+<l>‘En zy vooral, die buiten deur</l>
+<l rend="; 1tab">Hun daaglijksch werk hanteeren,</l>
+<l>En nu by nacht door straat en steeg</l>
+<l rend="; 1tab">Al bevend huiswaart keeren!</l>
+<l>Hier vliegt hun plank of steen om 't hoofd,</l>
+<l rend="; 1tab">Ginds lood of dakpan tegen,</l>
+<l>Terwijl wy samen hier op 't dek</l>
+<l rend="; 1tab">Zoo mak'lijk zijn gelegen.</l>
+<l rend="; 2tab">Boe! boe! woe!</l>
+<pb n="45"/>
+<l>‘Wat heeft het landvolk dag aan dag</l>
+<l rend="; 1tab">Met ongeval te kampen!</l>
+<l>Met overstrooming, huisbraak, moord</l>
+<l rend="; 1tab">En brand en and're rampen!</l>
+<l>Hier is 't een voertuig, ginds een trein,</l>
+<l rend="; 1tab">Die overstuur geraakte.</l>
+<l>Neen! danken we onzen lieven Heer</l>
+<l rend="; 1tab">Die ons tot zeeluî maakte.</l>
+<l rend="; 2tab">Boe! boe! woe!’</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0014"/> </interpGrp>
+<pb n="46"/>
+<head rend="h3">Afscheid.</head>
+<lg type="poem">
+<l rend="; 1tab">De vloot lag klaar op Texels reê:</l>
+<l>De wimpel golfde op d'oostenwind,</l>
+<l rend="; 1tab">Toen blonde Lena, 't hart vol wee,</l>
+<l rend="; 1tab">Haar droeve klacht dus hooren deê:</l>
+<l>‘Gy zeeluî! zegt, waar ik mijn vrind,</l>
+<l>Waar ik mijn trouwen Willem vind.’</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoog in den mast zat Willem neêr;</l>
+<l>Maar hoe verwijderd, hoorde hy</l>
+<pb n="47"/>
+<l rend="; 1tab">Die stem, zoo wel bekend en teêr.</l>
+<l rend="; 1tab">Zijn blikken rolden heen en weêr</l>
+<l>Hy zag haar: in een amery</l>
+<l>Stond hy op 't dek en aan haar zij!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Geen leeuwrik daalt uit hooger lucht,</l>
+<l>Als 't wijfjen tjilpend tot hem krijt,</l>
+<l rend="; 1tab">In 't nestjen neêr met sneller vlucht: -</l>
+<l rend="; 1tab">Geen krijgs- of zeevoogd, hoe geducht,</l>
+<l>Die niet aan Willem, op dien tijd,</l>
+<l>Zijn Lenaas kusjens had benijd.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘o Lena!’ riep hy, ‘Lena mijn!’</l>
+<l>En kuste een traantjen van haar wang,</l>
+<l rend="; 1tab">Wat ook verander of verdwijn',</l>
+<l rend="; 1tab">Mijn liefde zal bestendig zijn.</l>
+<l>En vall' het scheidensuur ons bang,</l>
+<l>Ons wacht het wederzien eerlang.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘Geloof den landrot niet, mijn kind!</l>
+<pb n="48"/>
+<l>Als hy vertelt, uit jaloezy,</l>
+<l rend="; 1tab">Dat Janmaat, waar hy zich bevindt,</l>
+<l rend="; 1tab">Aan elke reê een liefjen vindt.</l>
+<l>Of ja, mijn hart! geloof hem vrij;</l>
+<l>Want waar ik aanland, daar zijt gy.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘'k Zie in Goldonkaas diamant</l>
+<l>Uw oogjens met hun held'ren gloor.</l>
+<l rend="; 1tab">'t Is of me, als ik op Java land,</l>
+<l rend="; 1tab">Uw adem tegengeurt van 't strand.</l>
+<l>'k Hervind uw blankheid in 't ivoor.</l>
+<l>In 't kort, 'k zie u, heel de aarde door.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">‘Roept ons de alarmkreet in 't geweer,</l>
+<l>Als 't zwaar geschut zijn sulfer braakt,</l>
+<l rend="; 1tab">Wees niet bezorgd, mijn liefste, ik keer,</l>
+<l rend="; 1tab">Wie 't moordend lood ook vell' ter neêr.</l>
+<l>Ik weet, dat liefde voor my waakt</l>
+<l>En elken kogel schaêloos maakt.’</l>
+<pb n="49"/>
+<l rend="; 1tab">Hier klonk op eens een schel gefluit:</l>
+<l>De bootsman sprak het plechtig woord:</l>
+<l rend="; 1tab">Men spreidde alom de zeilen uit. -</l>
+<l rend="; 1tab">Hoe zwoegde 't hart van Willems bruid.</l>
+<l>Maar 't streng bevel was reeds gehoord.</l>
+<l>De blonde Lena moest van boord.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Een afscheidskus - haar kleur verschoot.</l>
+<l>Haar minnend hart sloeg wild en fel.</l>
+<l rend="; 1tab">Daar daalde ze af in de open boot,</l>
+<l rend="; 1tab">Die - ach te spoedig - strandwaart vloot.</l>
+<l>Maar nog van verre wuifde snel</l>
+<l>Haar blanke zakdoek 't lest vaarwel.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0015"/> </interpGrp>
+<pb n="50"/>
+<head rend="h3">'s Levens reis.</head>
+<lg type="poem">
+<l>Met voor-de-wind en gunstig tij,</l>
+<l rend="; 1tab">- Een wonder schoon begin -</l>
+<l>Met volle zeilen streven wy</l>
+<l rend="; 1tab">De wijde waereld in.</l>
+<l>O! mogt op 's levens oceaan,</l>
+<l>Zoo kalm als thands de waterbaan,</l>
+<l rend="; 2tab">Van storm en strijd</l>
+<l rend="; 2tab">En ramp bevrijd,</l>
+<l rend="; 1tab">Ons scheepjen voorwaarts gaan.</l>
+<pb n="51"/>
+<l>'t Zij Oost of West of Zuid of Noord</l>
+<l rend="; 1tab">Het lot ons heenen voer',</l>
+<l>Wy zeilen onbekommerd voort,</l>
+<l rend="; 1tab">Zit godsdienst aan het roer.</l>
+<l>Met zulk een stuurman zijn wy klaar;</l>
+<l>En woel' of spook' het hier en daar,</l>
+<l rend="; 2tab">Wy volgen blij,</l>
+<l rend="; 2tab">Van zorgen vrij,</l>
+<l rend="; 1tab">En vreezen geen gevaar.</l>
+<l>&nbsp;</l>
+<l>Loei ook de storm by winterweêr,</l>
+<l rend="; 1tab">Of steek' de zonnegloed,</l>
+<l>Stroom' klett'rend soms de hagel neêr</l>
+<l rend="; 1tab">En kook' de zilte vloed,</l>
+<l>Het nieuw geschoren lam verdraagt</l>
+<l>Den wind geduldig, die het plaagt:</l>
+<l rend="; 2tab">Met d' eigen moed</l>
+<l rend="; 2tab">Den tegenspoed</l>
+<l rend="; 1tab">Verduurd en niet geklaagd.</l>
+<pb n="52"/>
+<l>Hoor ginds, hoe, in 't ontbladerd bosch,</l>
+<l rend="; 1tab">De roodborst zit en fluit;</l>
+<l>Toch viel zijn warme vederdosch</l>
+<l rend="; 1tab">Door koude nachtvorst uit.</l>
+<l>Zoo houde ook ons, hoe guur het zij,</l>
+<l>Een goed geweten warm en blij,</l>
+<l rend="; 2tab">En blijve altijd,</l>
+<l rend="; 2tab">Het lot ten spijt,</l>
+<l rend="; 1tab">Ons de opgeruimdheid by.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0016"/> </interpGrp>
+<pb n="53"/>
+<head rend="h3">Een tragische avontuur.</head>
+<lg type="poem">
+<l>'k Zwoer Klaartjen van Saardam mijn trouw,</l>
+<l>En vroeg of zy woû zijn mijn vrouw:</l>
+<l>Mijn min had haar, zoo 't scheen, bekoord:</l>
+<l>Zy gaf - maar brak al ras haar woord:</l>
+<l>Gelijk je straks wel nader hoort.</l>
+<l>&nbsp;</l>
+<l>'k Had splint op zak in overvloed</l>
+<l>En kocht haar fluks een mooien hoed;</l>
+<l>Maar och! zy had niets goeds bedoeld:</l>
+<pb n="54"/>
+<l>Mijn beurs werd plat, haar min verkoeld:</l>
+<l>'t Was eigenbaat, gelijk je voelt.</l>
+<l>&nbsp;</l>
+<l>Nu kwam Krijn Janszen uit de West,</l>
+<l>'k Zei eerst, ik domkop: ‘nu dat 's best.’</l>
+<l>Maar och! zijn komst bracht me in 't verdriet.</l>
+<l>Hy zong by Klaartjen 'tzelfde lied,</l>
+<l>En 'k liep er in, gelijk je ziet.</l>
+<l>&nbsp;</l>
+<l>Is 't wonder, dat ik werd als dol,</l>
+<l>Toen zy met Krijn ging aan de rol,</l>
+<l>En ik haar opschik had betaald.</l>
+<l>Maar 'k heb mijn leed op hem verhaald,</l>
+<l>Gelijk je daad'lijk wordt vertaald.</l>
+<l>&nbsp;</l>
+<l>Ik riep Krijn Janszen uit voor 't mes,</l>
+<l>'k Gaf hem een pruim - en toen zijn les.</l>
+<l>Ik stak hem dood - hetgeen my speet,</l>
+<l>En later zelven bracht in 't leed;</l>
+<l>Maar wraak is zoet, gelijk je weet.</l>
+<pb n="55"/>
+<l>Daar maakte my een spook bevreesd,</l>
+<l>En zei: ‘ik ben Krijn Janszens geest.’</l>
+<l>‘Wel!’ zei ik: ‘dat is wonder raar.’</l>
+<l>'k Was eerst wat bang, maar straks weêr klaar,</l>
+<l>Gelijk je daad'lijk wordt gewaar.’</l>
+<l>&nbsp;</l>
+<l>‘'k Leg,’ zei het spooksel, ‘in mijn kist,’</l>
+<l>'k Zei: ‘vriend! je hebt je vast vergist,</l>
+<l>Hoe kom je hier dan, beste maat?’ -</l>
+<l>‘Zwijg,’ zei hy: ‘'k ben vergiftig kwaad,</l>
+<l>Gelijk je zeker wel verstaat.</l>
+<l>&nbsp;</l>
+<l>‘Ik kom hier slechts tot jou torment.’</l>
+<l>'k Zei: ‘maak gaauw aan jou preek een end,</l>
+<l>Of - 'k voel my weêr op nieuw gesterkt -</l>
+<l>Jou rug wordt met dit touw bewerkt,</l>
+<l>Gelijk je straks wel beter merkt.’ -</l>
+<l>&nbsp;</l>
+<l>Met vloog zijn hemd af, in een hoek:</l>
+<l>'k Herkende Krijns geruiten broek.</l>
+<pb n="56"/>
+<l>Hy was niet dood, neen ver van dat:</l>
+<l>'k Geloof, hy nooit zoo smaak'lijk at:</l>
+<l>En nu is 't uit, gelijk je vat.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0017"/> </interpGrp>
+<pb n="57"/>
+<head rend="h3">Bram Wimpel.</head>
+<lg type="poem">
+<l>Bram Wimpel, het bootsmansmaatjen,</l>
+<l rend="; 1tab">Een ventjen, dat klinkt als een klok,</l>
+<l>Houdt veel van zijn land, van zijn Kaatjen,</l>
+<l rend="; 1tab">En houdt... en houdt ook van een slok.</l>
+<l>‘De waereld,’ zegt Bram; - ‘laat eens kijken,</l>
+<l rend="; 1tab">'k Geloof niet, dat ik er om jok -</l>
+<l>Laat best by een zee zich gelijken:</l>
+<l rend="; 1tab">En 't roer en kompas is een slok.</l>
+<l>Een slok is ons bakboord en stuurboord,</l>
+<l rend="; 1tab">En marszeil en bramzeil en fok:</l>
+<l>Zoo gaan wy gerust op den duur voort:</l>
+<l rend="; 1tab">Ons roer en kompas is een slok.’</l>
+<pb n="58"/>
+<l>‘Laat bruischen en schuimen de baren,</l>
+<l rend="; 1tab">Een slok stelt het hart weêr gerust.</l>
+<l>Een slok - en wy zijn van gevaren,</l>
+<l rend="; 1tab">Van kogels noch branders bewust.</l>
+<l>Ik lach met den afschaffingspreêker,</l>
+<l rend="; 1tab">Maar voed jegends hem toch geen wrok.</l>
+<l>Hy drink het my toe met den beker,</l>
+<l rend="; 1tab">Ik drink het hem toe met een slok.</l>
+<l>Een slok, enz.’</l>
+<l>&nbsp;</l>
+<l>Bram Wimpel, hoe trouw aan zijn glaasjen,</l>
+<l rend="; 1tab">Was immer de kloekste in den strijd:</l>
+<l>Hy vocht voor zijn land als een baasjen,</l>
+<l rend="; 1tab">En minde zijn Kaatjen altijd.</l>
+<l>Zijn Kaatjenlief speelde in zijn zinnen,</l>
+<l rend="; 1tab">Waarheen en hoever hy ook trok;</l>
+<l>Maar hoe hy haar teeder bleef minnen,</l>
+<l rend="; 1tab">Nooit was hy ontrouw aan zijn slok.</l>
+<l>Een slok, enz.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0018"/> </interpGrp>
+<pb n="59"/>
+<head rend="h3">Het vaarwel.</head>
+<lg type="poem">
+<l>Vaartwel, witte duinen en Hollandsche kust!</l>
+<l>Vaartwel, en voor jaren, Maria, mijn lust!</l>
+<l>Maar voere ook het noodlot my ver van u af,</l>
+<l>Het hart blijft u by, dat ik eenmaal u gaf.</l>
+<l>Eer tellen mijn maats al de korlen van 't duin,</l>
+<l>Eer leêgen zy de emmers van vader Neptuin,</l>
+<l>Eer ik uit mijn zinnen uw beeltenis stel.</l>
+<l>Vaarwel dan, zoet Holland! Maria, vaarwel!</l>
+<pb n="60"/>
+<l>Maria, vaarwel! - kan ons vaartuig vergaan?</l>
+<l>Geen plank op het dek, die uw naam niet heeft staan.</l>
+<l>Ja, 'k heb, als de maats zich vermaakten beneên,</l>
+<l>In stengen en masten uw cyfer gesneên.</l>
+<l>Hun spelen zijn my geen vermaak, maar verdriet,</l>
+<l>Mijn vreugd is te zuchten om haar, die 'k verliet,</l>
+<l>En o! dan verzoet, onder leed en gekwel,</l>
+<l>De hope des weêrziens de smart van 't vaarwel.</l>
+<l>&nbsp;</l>
+<l>De hope des weêrziens, zy strekt op den plas</l>
+<l>Den zeeman tot poolster, tot roer en kompas:</l>
+<l>Zy leeft in zijn ziel, sints het uur van 't vertrek:</l>
+<l>Zy kort hem de wachten op 't eenzame dek:</l>
+<l>Zy straalt hem uit zee met den dageraad aan:</l>
+<l>Zy doet hem haar stem in het windtjen verstaan:</l>
+<l>Zy klingelt hem tegen by 't kleppen der bel:</l>
+<l>Het welkom verzoet eens het droeve vaarwel.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0019"/> </interpGrp>
+<pb n="61"/>
+<head rend="h3">Eerlijke Rob.</head>
+<lg type="poem">
+<l>Ik word Eerlijke Rob - 'k weet niet waarom - genaamd;</l>
+<l rend="; 1tab">Want, zie je, ik volbreng slechts mijn plicht:</l>
+<l>En 'k geloof, dat het elk, die wat heeft, ook betaamt,</l>
+<l rend="; 1tab">Dat hy 't pak van een ander verlicht.</l>
+<l>Waar het goed voor zoû dienen, is meer dan ik weet,</l>
+<l rend="; 1tab">Want ik ben in het minst niet geleerd;</l>
+<l>Doch, zoo 'k meen, moet het strekken tot troost in het leed,</l>
+<l rend="; 1tab">Tot hulp van wie 't noodige ontbeert.</l>
+<pb n="62"/>
+<l>Eens had Bram van der Naten, een wakkere gast,</l>
+<l rend="; 1tab">Zich borg voor een landrot gesteld,</l>
+<l>Hy werd leelijk geplukt en moest toen in de kast,</l>
+<l rend="; 1tab">By gebrek aan de rest van het geld.</l>
+<l>Ik was juist goed voorzien en betaalde zijn schuld:</l>
+<l rend="; 1tab">Vriend Bram ging weêr vrij over straat:</l>
+<l>En zoo zag ik - wy waren van blijdschap vervuld -</l>
+<l rend="; 1tab">Hoe 't goud toch by wijlen ons baat.</l>
+<l>&nbsp;</l>
+<l>'k Zag, by Soolbaai, hoe Koenraad, mijn baksmaat, bezweek:</l>
+<l rend="; 1tab">Een kogel kwam dwars door zijn strot;</l>
+<l>En al riep ik hoezee! toen de Brit voor ons week,</l>
+<l rend="; 1tab">Toch schonk ik een traan aan zijn lot.</l>
+<l>En ik dacht: slechte tijding voor Trijn en haar kroost:</l>
+<l rend="; 1tab">Hoe zullen zy 't stellen voortaan?</l>
+<l>'k Zal mijn gaadje bewaren, die bloedtjens ten troost,</l>
+<l rend="; 1tab">Zoo tast het gebrek hen niet aan.</l>
+<l>&nbsp;</l>
+<l>Wie gerust door de onstuimige zee hier omlaag</l>
+<l rend="; 1tab">Wil steev'nen naar de eeuwige reê,</l>
+<pb n="63"/>
+<l>Die betoon zich een helper aan vriend en aan maag,</l>
+<l rend="; 1tab">En deel' hun van 't zijne wat meê.</l>
+<l>'k Weet, te vechten, te sneuv'len, is 't lot van de maats:</l>
+<l rend="; 1tab">Dan blijven hun weêuwtjens in pijn;</l>
+<l>Ik woû, dat ik haar allen tot man - in hun plaats -</l>
+<l rend="; 1tab">Elk weesjen tot vader kon zijn.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0020"/> </interpGrp>
+<pb n="64"/>
+<head rend="h3">Vertellingen van den zeeman.</head>
+<lg type="poem">
+<l>Komt by me zitten, en luistert, goê liên!</l>
+<l rend="; 1tab">Dan zal ik je gaan verhalen</l>
+<l>Al wat ik heb op mijn reizen gezien,</l>
+<l rend="; 1tab">Op zeeën, bergen en dalen:</l>
+<l>En komt je iets min gelooflijks voor,</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<pb n="65"/>
+<l>Naby de linie was 't stil en saai,</l>
+<l rend="; 1tab">Zoodat zich een ijder verveelde:</l>
+<l>Gelukkig kwam daar een groote haai,</l>
+<l rend="; 1tab">Die op de dwarsfluit speelde:</l>
+<l>Een: ‘al is ons Prinsjen nog zoo klein,’</l>
+<l rend="; 1tab">Dat deed hy heel duid'lijk ons hooren;</l>
+<l>Hy had het geleerd van een kaperkaptein,</l>
+<l rend="; 1tab">Dien hy opslokte een jaar te voren.</l>
+<l>Zeg! komt het je min gelooflijk voor,</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<l>&nbsp;</l>
+<l>Eens was ik gevaren al om de Noord,</l>
+<l rend="; 1tab">En 'k lag onder dadelstruiken:</l>
+<l>Daar kwam my een jan van een ijsbeer aan boord:</l>
+<l rend="; 1tab">En wou tot ontbijt my gebruiken.</l>
+<l>Mijn sabel was juist ongelukkig wat stomp:</l>
+<l rend="; 1tab">Maar 'k vond een paar mosselschelpen,</l>
+<pb n="66"/>
+<l>En 'k hieuw hem daarmede het hoofd van den romp:</l>
+<l rend="; 1tab">Men moet zich kunnen behelpen.</l>
+<l>Zeg! komt het je min gelooflijk voor,</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<l>&nbsp;</l>
+<l>Het beest raapte daad'lijk zijn kop van den grond</l>
+<l rend="; 1tab">En zette het hard op een loopen.</l>
+<l>Maar ik liep hem na, om zijn smeer en zijn bont,</l>
+<l rend="; 1tab">Als ik t'huis kwam, te kunnen verkoopen.</l>
+<l>Ik sloeg het monster zijn voorpooten af,</l>
+<l rend="; 1tab">En dacht: nou heb je geen handen;</l>
+<l>Maar och! 't liep weg, in gestrekten draf,</l>
+<l rend="; 1tab">Met zijn kop al tusschen zijn tanden.</l>
+<l>Zeg! komt het je min gelooflijk voor,</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<pb n="67"/>
+<l>Eens prikten we een walvisch in de IJslandsche zee;</l>
+<l rend="; 1tab">Maar 't beest ging terstond naar de kelder</l>
+<l>En sleepte aan den kabel ons vaartuig meê:</l>
+<l rend="; 1tab">Ik ben der geen sprookjensvertelder.</l>
+<l>Het trok ons onder het water voort</l>
+<l rend="; 1tab">Wel dertig lange dagen:</l>
+<l>En sedert kan maar - gelooft mijn woord -</l>
+<l rend="; 1tab">Mijn maag geen water verdragen.</l>
+<l>Zeg! komt het je min gelooflijk voor.</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<l>&nbsp;</l>
+<l>Het volgende nu is niet minder sterk:</l>
+<l rend="; 1tab">Wy waren op Cuba gekomen.</l>
+<l>Daar ging ik naar de Menniste kerk,</l>
+<l rend="; 1tab">Want ik hou my altijd by de vromen:</l>
+<l>Daar stond een olifant voor een kâr</l>
+<l rend="; 1tab">Aan de deur op dames te wachten:</l>
+<pb n="68"/>
+<l>Die sloeg met zijn snuit den toren omver.</l>
+<l rend="; 1tab">Zoo'n beest heeft verbazende krachten.</l>
+<l>Zeg! komt het je min gelooflijk voor,</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het rēizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l>
+<l>&nbsp;</l>
+<l>Eens zag ik Neptuin in een schulp met zijn vrouw</l>
+<l rend="; 1tab">En een zestal kleine goodjens:</l>
+<l>Hy had zijn pijakker aan tegen de koû,</l>
+<l rend="; 1tab">Zy gebruikten koffy met broodjens.</l>
+<l>Al d'anderen waren naar kooi gegaan,</l>
+<l rend="; 1tab">En ik alleen was wakker.</l>
+<l>Ik vroeg hem: ‘waar haal je die broodjens van daan?’</l>
+<l rend="; 1tab">Hy antwoordde: ‘van den bakker.’</l>
+<l>Zeg! komt het je min gelooflijk voor.</l>
+<l rend="; 1tab">Omdat je 't nooit vondt in boeken,</l>
+<l>Dan moet je - daar dient het reizen voor -</l>
+<l rend="; 1tab">'t Maar zelve gaan onderzoeken.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0021"/> </interpGrp>
+<pb n="69"/>
+<head rend="h3">De echte zeeman.</head>
+<lg type="poem">
+<l>O! wie den echten zeeman zoek',</l>
+<l>Hy zie naar geen bepekte broek,</l>
+<l>Naar duffelsch buis noch lossen doek; -</l>
+<l rend="; 1tab">Neen, in den kamp,</l>
+<l rend="; 1tab">By pulverdamp,</l>
+<l>Wanneer hy strijdt voor land en vlag,</l>
+<l>Den vyand moedig rugwaarts dringt,</l>
+<l>En onbezorgd zijn liedjen zingt,</l>
+<l>Komt de echte zeeman voor den dag.</l>
+<pb n="70"/>
+<l>Wie d'echten zeeman kennen wil,</l>
+<l>Hy vraag niet, of uit wuften gril,</l>
+<l>Hy zorgeloos zijn geld verspill'? -</l>
+<l rend="; 1tab">Neen, waar de druk</l>
+<l rend="; 1tab">Van 't ongeluk -</l>
+<l>Ellende baart en droef geklag,</l>
+<l>Daar, als hy d'armen strekt een stut,</l>
+<l>En blij zijn buidel ledig schudt,</l>
+<l>Komt de echte zeeman voor den dag.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0022"/> </interpGrp>
+<pb n="71"/>
+<head rend="h3">De wind schiet om, - naar boord! naar boord!</head>
+<lg type="poem">
+<l>De wind schiet om, - naar boord! naar boord!</l>
+<l>Straks kiezen wy de ruime zee; -</l>
+<l>Maar menig zuchtjen, half gesmoord,</l>
+<l>Wordt, daar men 't anker windt, gehoord,</l>
+<l>En 't vochtig oog zoekt nog de reê.</l>
+<l>Daar wuift van verre, droef te moê,</l>
+<l>Mijn Klaartjen 't lest vaarwel my toe.</l>
+<pb n="72"/>
+<l>De manschap, door geen zorg belaên,</l>
+<l>Schertst met mijn liefde en zielsverdriet:</l>
+<l>En om hun spotterny te ontgaan,</l>
+<l>Hef ik een vrolijk deuntjen aan,</l>
+<l>En zing en neurie lied op lied.</l>
+<l>Maar 't hart, nog even droef te moê,</l>
+<l>Zendt zuchtjens naar zijn Klaartjen toe.</l>
+<l>&nbsp;</l>
+<l>Daar heeft zich 's vyands vloot vertoond:</l>
+<l>Daar strijden en verwinnen wy.</l>
+<l>'k Heb in 't gevecht my niet verschoond;</l>
+<l>'k Word door den ouwe mild beloond;</l>
+<l>Maar 'k zoek een loon van meer waardy,</l>
+<l>Ik keer aan land, en blij te moê</l>
+<l>Snel ik naar 't wachtend Klaartjen toe.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0023"/> </interpGrp>
+<pb n="73"/>
+<head rend="h3">Jenever en liefde.</head>
+<lg type="poem">
+<l>Jenever beide en liefde</l>
+<l>Verblijden een zeeman 't meest,</l>
+<l>Verbannen saam de zorgen</l>
+<l>En kwellingen uit zijn geest.</l>
+<l>By liefde en by jenever</l>
+<l>Blijft hoofd noch boezem ooit koel,</l>
+<l>En 'k smaakte vaak van beiden</l>
+<l>Een bijster prettig gevoel.</l>
+<pb n="74"/>
+<l>Jenever beide en liefde,</l>
+<l>Wat zoetheên bieden ze ons aan!</l>
+<l>Wat zeeman, die zijn leven</l>
+<l>Hun invloed kon wederstaan?</l>
+<l>Maar liefde laat niet zelden</l>
+<l>Het hart ons van rust beroofd:</l>
+<l>En vaak kwelt ons jenever</l>
+<l>Geweldig met pijn in 't hoofd.</l>
+<l>&nbsp;</l>
+<l>Dan vloeken wy en schelden</l>
+<l>Op beider verleidingskelk,</l>
+<l>Verzweren hen voor eeuwig -</l>
+<l>Maar proeven ras weêr van elk.</l>
+<l>Jenever beide en liefde</l>
+<l>- Nooit wordt het genoeg gezeid -</l>
+<l>Zy doen ons telkens zwichten</l>
+<l>Voor hunne welsprekendheid.</l>
+<l>&nbsp;</l>
+<l>Laat vrij de vyand komen! -</l>
+<l>Door wie ook op aard bestreên,</l>
+<pb n="75"/>
+<l>Niets doet ons immer zwichten,</l>
+<l>Dan liefde en jenever alleen.</l>
+<l>Dat van den gloed der liefde</l>
+<l>Ons hart bestendig dus brand;</l>
+<l>Wy drinken met jenever</l>
+<l>Het welzijn van 't vaderland!</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0024"/> </interpGrp>
+<pb n="76"/>
+<head rend="h3">Janmaats-geloof.</head>
+<lg type="poem">
+<l>Hoort hier eens de artikels van Janmaats-geloof:</l>
+<l rend="; 2tab">By 't raat'len der zware kartouwen,</l>
+<l rend="; 3tab">Al maakt hun gebulder hem doof,</l>
+<l rend="; 2tab">Toch blijft hy ootmoedig vertrouwen,</l>
+<l>Dat Hy, die de zeeën regeert met gezach,</l>
+<l>Aan 't roer zit en de uitkomst bepaalt van den slag,</l>
+<l rend="; 4tab">En dat wie zijn plicht</l>
+<l rend="; 4tab">Naar behooren verricht,</l>
+<l rend="; 1tab">In den Hemel zich eens ziet beloonen.</l>
+<l rend="; 4tab">Geen vrees vindt dus plaats</l>
+<l rend="; 4tab">In het hart van de maats,</l>
+<l rend="; 1tab">Die menschlievend en dapper zich toonen.</l>
+<pb n="77"/>
+<l>Wanneer m'ons den vyand ziet klampen aan boord,</l>
+<l rend="; 2tab">De zeeluî, herschapen in krijgers,</l>
+<l rend="; 3tab">By brand en verwoesting en moord,</l>
+<l rend="; 2tab">Rondwaren als grimmige tygers,</l>
+<l>Dan waant men, by 't staren op 't aak'lig gewoel,</l>
+<l>Elk sprankjen verdoofd van het menschelijk gevoel; -</l>
+<l rend="; 4tab">Maar 't stryden beeft uit</l>
+<l rend="; 4tab">En by 't zege-geluid</l>
+<l rend="; 1tab">Ziet men Janmaat zijn vyand verschoonen.</l>
+<l rend="; 4tab">Hy vischt uit het sop</l>
+<l rend="; 4tab">De ongelukkigen op,</l>
+<l rend="; 1tab">En blijft menschlijk als dapper zich toonen.</l>
+<l>&nbsp;</l>
+<l>Maar, buiten zijn plicht als matroos en als held,</l>
+<l rend="; 2tab">Kent Janmaat nog andere plichten.</l>
+<l rend="; 3tab">Hy zal in het leed, dat hen kwelt,</l>
+<l rend="; 2tab">Trouwhartig zijn makkers verlichten.</l>
+<l>Steeds open staan boezem en beurs voor een vriend</l>
+<l>Voor 't meisjen, dat lief is en liefde verdient.</l>
+<pb n="78"/>
+<l rend="; 2tab">'t Zijn wakkere zin,</l>
+<l rend="; 2tab">Trouwe vriendschap en min,</l>
+<l>Die het hart van den zeeman bewonen:</l>
+<l rend="; 2tab">Hy blijft overal</l>
+<l rend="; 2tab">Op het schip of aan wal</l>
+<l rend="; 1tab">Zoo menschlievend als dapper zich toonen.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0025"/> </interpGrp>
+<pb n="79"/>
+<head rend="h3">Matroos, die schipbreuk leed.</head>
+<lg type="poem">
+<l>‘'k Heb er 't leven afgedragen:</l>
+<l rend="; 1tab">'k Sta in 't hemd, maar toch aan land:</l>
+<l>Zoû ik dan mijn lot beklagen?</l>
+<l rend="; 1tab">'k Vind gastvrijheid by de hand.</l>
+<l>Truitjen, eer ik 't zeenat kliefde,</l>
+<l rend="; 1tab">Zwoer my trouw met duren eed,</l>
+<l>En ze ontfangt gewis met liefde,</l>
+<l rend="; 1tab">Haar matroos, die schipbreuk leed.’</l>
+<pb n="80"/>
+<l>Zoo denkt Sander, die den steven</l>
+<l rend="; 1tab">Onbezorgd naar Truitjen wendt;</l>
+<l>Maar 't bescheid hem daar gegeven,</l>
+<l rend="; 1tab">Klinkt: ‘ik heb je nooit gekend!’</l>
+<l>Keetjen, Pleuntjen, wie te voren</l>
+<l rend="; 1tab">Tot zijn ontfangst waar' gereed,</l>
+<l>Geene, die thands iets wil hooren</l>
+<l rend="; 1tab">Van matroos, die schipbreuk leed.</l>
+<l>&nbsp;</l>
+<l>Klaar, zoo teêr in vroeger dagen,</l>
+<l rend="; 1tab">Drijft den spot nu met zijn klacht:</l>
+<l>En van Mina krijgt hy slagen,</l>
+<l rend="; 1tab">Daar hy kusjens had verwacht.</l>
+<l>‘Foei!’ zoo roept hy: ‘God zal 't loonen.</l>
+<l rend="; 1tab">'t Zeegeweld was minder wreed:</l>
+<l>'t Bleef voor 't minst nog deernis toonen</l>
+<l rend="; 1tab">Aan matroos, die schipbreuk leed.</l>
+<l>&nbsp;</l>
+<l>‘Maar de smaad, dien ik moet lijden,</l>
+<l rend="; 1tab">Is hy geen gerechte straf?</l>
+<pb n="81"/>
+<l>‘Om die schepsels, die my vrijdden,</l>
+<l rend="; 1tab">Dwaalde ik van mijn Netjen af.</l>
+<l>Zoû ik tot haar durven keeren,</l>
+<l rend="; 1tab">Wie 'k zoo groot een onrecht deed?</l>
+<l>Zoû zy nog tot man begeeren</l>
+<l rend="; 1tab">Zoo'n matroos, die schipbreuk leed?</l>
+<l>&nbsp;</l>
+<l>‘Maar, wat deur gaat ginter open?</l>
+<l rend="; 1tab">Zie, is 't Fiks niet, die zoo blij,</l>
+<l>Kwispelstaartend aan komt loopen?</l>
+<l rend="; 1tab">Zijn meestres is wis naby.</l>
+<l>Zie, hoe kruipt hy aan mijn voeten:</l>
+<l rend="; 1tab">De eerste, die my welkom heet</l>
+<l>En de kwelling komt verzoeten</l>
+<l rend="; 1tab">Van matroos, die schipbreuk leed.’</l>
+<l>&nbsp;</l>
+<l>- ‘Ik was 't,’ - klinkt een stem hem tegen,</l>
+<l rend="; 1tab">‘Ik was 't, die hem tot u zond.</l>
+<l>'k Zag u dwalen langs de wegen;</l>
+<l rend="; 1tab">'k Dankte God, daar 'k u hervond.</l>
+<pb n="82"/>
+<l>Kom, 't is tijd, dat ge al uw smarte</l>
+<l rend="; 1tab">Aan uw Netjens zij vergeet.</l>
+<l>Onveranderd klopt haar 't harte</l>
+<l rend="; 1tab">Voor matroos, die schipbreuk leed.’</l>
+<l>&nbsp;</l>
+<l>- ‘Dat de Hemel u beloone,’</l>
+<l rend="; 1tab">Sprak hy: ‘vrees niet, beste Net!</l>
+<l>Schoon 'k my nu berooid vertoone,</l>
+<l rend="; 1tab">'k Heb mijn buit nochtands gered.</l>
+<l>Zie! in vreugd verkeert de rouwe</l>
+<l rend="; 1tab">En men prijst eens wijd en breed,</l>
+<l>Netjens ongelijkb're trouwe</l>
+<l rend="; 1tab">Aan matroos, die schipbreuk leed.’</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="lenn006zeem01_0026"/> </interpGrp>
+<pb n="83"/>
+<head rend="h3">Lied aan het gangspil.<note n="(1)" place="foot">Men weet, dat als de manschappen aan 't gangspil draaien, zy vrijheid hebben, te zeggen, wat hun voor den mond komt, waarvan zy dan ook doorgaans een ruim gebruik maken.</note></head>
+<lg type="poem">
+<l rend="; 1tab">Den ouwe, die is er een lustige kwant;</l>
+<l rend="; 2tab">Maar 'k heb wel hooren verhalen,</l>
+<l rend="; 1tab">Als dat hy, zonder den luitenant,</l>
+<l rend="; 2tab">Al gaauw uit den koers zou dwalen.</l>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet:</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<pb n="84"/>
+<l rend="; 1tab">De luitenant is een wakkere held,</l>
+<l rend="; 2tab">Maar bovenal in het vloeken.</l>
+<l rend="; 1tab">Zy zeggen, dat als hem de gal wat kwelt,</l>
+<l rend="; 2tab">Hy 't op de matrozen wil zoeken.</l>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet;</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De stuurman is er een vent als goud;</l>
+<l rend="; 2tab">Maar 'k heb wel eens gelezen,</l>
+<l rend="; 1tab">Dat, als je 't op den keper beschouwt,</l>
+<l rend="; 2tab">Het niet meer dan koper zou wezen.</l>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet:</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De bootsman is een man als een vlag:</l>
+<l rend="; 2tab">Ik liet my in de ooren knoopen,</l>
+<l rend="; 1tab">Als dat men hem 's morgens nooit nuchteren zag</l>
+<l rend="; 2tab">En 's avonds altijd bezopen.</l>
+<pb n="85"/>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet:</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De pil, die is een geleerde sinjeur,</l>
+<l rend="; 2tab">Ofschoon hem wordt nagegeven,</l>
+<l rend="; 1tab">Als dat hy zijn heele leven deur</l>
+<l rend="; 2tab">Maar éen recept heeft geschreven.</l>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet:</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De kok, die is een nobele baas:</l>
+<l rend="; 2tab">Zy zeggen wel, om hem te smaden,</l>
+<l rend="; 1tab">Hy schaft het zwoerd en 't been aan de maats;</l>
+<l rend="; 2tab">Waar 't spek blijft, mogen zy raden...</l>
+<l rend="; 1tab">Of 't waar is - kijk, dat weten wy niet:</l>
+<l>Wy draaien maar voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l>
+<pb n="86"/>
+<l rend="; 1tab">De bottelier is een recht juweel:</l>
+<l rend="; 2tab">En willen we ons wat verfrisschen,</l>
+<l rend="; 1tab">Dan giet hy de drank in zijn eigen keel</l>
+<l rend="; 2tab">Dat wy ons niet zouden besissen.</l>
+<l>Maar... geeft hy een slok nu, dan klagen wy niet:</l>
+<l>Dan draaien wy voort en wy zingen ons lied,</l>
+<l rend="; 3tab">Hi! ha! o! hi! ho!</l></lg></div>
+</body>
+</text>
+
+</TEI.2>

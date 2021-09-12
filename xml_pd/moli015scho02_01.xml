@@ -1,0 +1,4090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Het school voor de vrouwen</title>
+               <author>Molière</author>
+               <editor role="translator">Thomas Arents</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Het school voor de vrouwen</hi> van Molière, in een vertaling van Thomas Arents uit 1753. De eerste druk dateert uit 1701.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 25: Eertse → Eerste. ‘Eerste tooneel.’</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2<!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">moli015scho02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: TIN sign 5 K 14: 1</idno>
+               </bibl>
+               <p>Molière, <hi rend="i">Het school voor de vrouwen</hi> (vert. Thomas Arents). Izaak Duim, Amsterdam 1753 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Het school voor de vrouwen</title>
+               <author>Molière</author>
+               <editor role="translator">Thomas Arents</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Het school voor de vrouwen</title>
+               <author>Molière</author>
+               <editor role="translator">Thomas Arents</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-15</date>
+               <respStmt>
+                   <name type="person">DH</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+    <cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>HET SCHOOL VOOR DE VROUWEN,</p>
+<p><hi rend="i">BLYSPEL</hi>.</p>
+<p>Uit het Fransch, van den Heer Molliere, Vertaald door T. ARENDSZ.</p>
+<p><figure>
+<p><xptr to="moli015scho02ill0001.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By Izaak Duim, Boekverkooper, op den Voorburgwal, op den hoek van de Stilsteeg; 1753.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+</div>
+    </cf>
+<div type="chapter">
+<pb n="3"/>
+<p><figure>
+<p><xptr to="moli015scho02ill0002.gif"/></p>
+</figure></p>
+<div type="section">
+<head rend="h3">Copye. van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland doen te weten: alzo Ons te kennen is gegeven by de tegenwoordige Regenten van het Wees-en Oude Mannenhuis der Stad Amsterdam, en in die qualiteyt, te samen Eygenaers, mitsgaders Regenten van den Schouburg aldaar, dat zy Supplianten, eenige Jaaren hadden gejoüisseert van 't Octroy of Privilegie by hen van Ons op den 23 May 1714. geobtineert; waar by Wy aan hun Supplianten goedgunstelyk hadden geaccordeert, en geoctroijeert, om, geduurende den tyt van vyftien doen eerst agter een volgende Jaaren, de Wercken, die ten dienfte van het Tooneel reets waren gedrukt, en van tyd tot tyd nog verder in het ligt gebragt, en ten Toneele gevoert zouden mogen werden, alleen te mogen drukken, doen drukken, uytgeven ende verkoopen, en bevonden dat de Jaaren, by 'tvoorsz. Octroy of Privilegie genoemt, op den 22 May 1729. stonden te expireren; ende dewyl zy Supplianten ten meesten dienste van den Schouburg, waat van hunne respective Godshuyzen onder andere mede moeten werden gesubstenteert, de voorgemelde Wercken, zoo van Treurspellen. Blyfpellen, Klugten, als anders, die reets gedrukt, en ten Toneele gevoert zyn, of in toekomende gedrukt, en ten Toneele gevoert zoude mogen werden, gaerne alleen, gelyk voorheen, zouden blyven drukken, uytgeven en verkopen, ten eynde dezelve
+<pb n="4"/>Wercken door het nadrukken van anderen, haar Luyster, so in tael, als in spelkonst, niet mogten komen te verliesen, en dewyle sulx haar Supplianten na de expiratie van 't bovengemelde Octroy, niet gepermireert was, zoo keerden zy Supplianten haar tot Ons, Onderdaniglyk verzoekende, dar Wy aan hun Supplianten, in kwaliteyten voorsz. geliefden te verleenen prolongatie van het voorsz. Octroy of Privilegie, om de voorsz. Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, reets gemaakt en ten Tooneele gevoert, of als nog in het ligt te brengen, en ten Toneele te voeren, den tyd van Vystien eerstkomende, en agter een volgende Jaren, alleen te mogen drukken en Verkopen, of te doen drukken en verkopen, met verbod aan allen andere op seekere hooge Peene by Ons daar teegens te statueeren, <hi rend="spat">SOO IS</hi> 't, dat Wy de Saake, en 't voorsz. verzoek overgemerkt hebbende, ende genegen wezende ter bede van de Supplianten, uyt Onze regte wetenschap, Souveraine Magt ende Authoriteyt, dezelve Supplianten geconsenteert, geaccordeert en geoctroyeert hebben, consenteren, accorderen en octroyeren haart by deezen, dat Zy, geduurende den tyd van Vyftien eerst agtereenvolgende Jaaren, de Wercken, die ten diensten van 't Tooneel reets waren gedrukt, en van tyt tot tyd nog verder in het ligt gebragt, en ten Toneele gevoert zouden mogen werden. in diervoegen, als zulx by de Supplianten is verzogt, en hier vooren uytgedrukt staat, binnen den voorsz. Onsen Landen, alleen zullen mogen drukken, doen drukken, uytgeven en verkopen, verbiedende daaromme allen ende eenen ygelyken, dezelve Wercken, in 't geheel ofte ten deele te Drukken, naar te drukken, te doen Naardrukken, te Verhandelen, of te Verkopen, ofte elders Naargedrukt, binnen den selven Onsen Lande te brengen, uyt te geven of te Verhandelen en Verkopen, op Verbeurte van alle de nagedrukte, ingebrachte, verhandelde ofte verkogte exemplaren, ende een boete van drie duylend guldens, daer en boven, te
+verbeuren, te appliceren een derde part voor den Officier, die de Calange doen zal, een derde part voor den Armen der Plaetsen daer 't Casus voor vallen zal, en het resterende derdepart voor de Supplianten, ende dit t'elkens zoo meenigmaal, als dezelve zullen werden agterhaalt, alles in dien verstande, dat Wy de Supplianten met deze onzen Octroye alleen willende gratificeeren tot verhoedinge van hunne schade door het Nadrukken van de voorsz. Werken, daar door in geenigen deelen verstaan, den innehouden van dien te autoriseeren, ofte te Advouëren, ende veel min dezelve onder onze protexie, ende bescherminge, eenig meerder Credit, aanzien ofte reputatie te geeven, nemaar de Supplianten in cas daar inne iets onbehoorlyks zoude influëren, alle het zelve tot hunne Lasten zullen gehouden wezen te verantwoorden, tot dien eynde wel expresselyk begeerende, dat by aldien zy dezen onzen Octroye voor dezelve Werken zullen willen stellen, daar van geene geäbbrevieerde ofte gecontraheerde mentie zullen mogen maken, nemaar gehouden wezen, het zelve Octroy in 't geheel, en zonder eenige, omissie daar voor te drukken, of te, doen druk-<pb n="5"/>ken, ende dat zy gehouden zullen zyn, een Exemplaar van de voorsz, werken, op Groot Papier, gebonden en wel geconditioneett te brengen in de Bibliotheek van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat zy Supplianten dezelve Werken zullen hebben uyttegeeven, op een boete van zes hondert guldens, na expiratie der voorsz. zes Weken, by de Supplianten te verbeuren ten behoeve van de Nederduytse Armen van de plaats alwaar de Supplianten wonen; voorts op peene van met 'er daad versteeken te zyn van het effect van dezen Octroye. Dat ook de Supplianten schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz. Onse Bibliotheek, by zoo verre zy geduurende den tyd van dit Octroy deselve Werken zouden willen herdrukken met eenige vermentderingen, of anders, hoe genaamt, of ook in een
+ander formaat, gehouden zullen zyn wederom een ander Exemplaar van de zelve Werken, Geconditioneert als vooren, te brengen in de voorsz. Bibliotheek, binnen deselve tyd, en op de boete en penaliteyt, als vooren. Ende ten eynde de Supplianten van dezen Onzen Consente, ende Octroye mogen genieten, als naar behooren, Lasten wy allen ende eenen ygelyken, dien het aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laten, ende gedogen, rustelijk, vredelyk, ende volkomentlyk genieten ende gebruyken, cesserende alle belet ter contrarie. Gegeven in den Hage, onder onzen Groten zegele hier aan doen hangen op den 27 Mey, in 't Jaar onzes Heere ende Zaligmakers duysend zeven hondert agtentwintig,</p>
+<p>J.G.V. Boetzelaar.</p>
+<p>&nbsp;</p>
+<p>Onder stond, Ter Ordonnantie van de Staten, was getekent</p>
+<p><hi rend="spat">WILLEM BUYS</hi>.</p>
+<p>&nbsp;</p>
+<p>Laget stond,</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gestelt by Extract Authenticq, haar Ed. Gr. Mog. Resolutien van den 28 Juny, 1715 en 30. April, 1728. ten einde om zig daar na te reguleeren.</p>
+<p>&nbsp;</p>
+<p>De Regenten van het Wees-en Oude Mannenhuis hebben, in hunne voorsz. qualiteyt, het recht van deze Privilegie, alleen voor den tegen woordigen Druk, van het SCHOOL voor de VROUWEN; <hi rend="i">Blyspel</hi>; vergunt aan <hi rend="sc">Izaak Duim</hi>. <hi rend="i">Amsterdam den</hi> 6 <hi rend="i">December</hi>, 1752.</p>
+</div>
+</div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Arnoldus</hi>, <hi rend="i">anders Heer van Hoogegrond</hi>.</item>
+<item><hi rend="sc">Agneta</hi>, <hi rend="i">jonge eenvouwdige Dochter, opgebragt door Arnoldus</hi>.</item>
+<item><hi rend="sc">Horatius</hi>, <hi rend="i">Minnaar van Agneta</hi>.</item>
+<item><hi rend="sc">Jorden</hi>, <hi rend="i">een Boer, Knecht } van Arnoldus</hi>.</item>
+<item><hi rend="sc">Wobbyn</hi>, <hi rend="i">Boerin, Meid } van Arnoldus</hi>.</item>
+<item><hi rend="sc">Hendrik</hi>, <hi rend="i">Broeder van Luikas</hi>.</item>
+<item><hi rend="sc">Gerard</hi>, <hi rend="i">Vader van Horatius, en groot Vriend van Arnoldus</hi>.</item>
+<item><hi rend="sc">Luikas</hi>, <hi rend="i">Schoonbroeder van Gerard</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>Het Tooneel is tot Parys, op de straat.</p>
+</div>
+<div type="act">
+<pb n="7"/>
+<head rend="h2">Het school voor de vrouwen,
+<lb/>
+<hi rend="i">blyspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Luikas, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>GY komt dan, na gy zegt, om haar uw' hand te biên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>O ja, op morgen wil 'k die zaak ten einde zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wy zyn hier beide alleen, en moogen, na ik reken,</l>
+<l>Zelfs, zonder dat men ons kan hooren, vry'lyk spreeken.</l>
+<l>Wilt gy dat ik, als vrind, u open myn gemoed?</l>
+<l>Ik voel, om uw bestaan, een grilling door myn bloed;</l>
+<l>En, wat voor glimp gy ook uw opzet zoekt te geeven,</l>
+<l>Een vrouw te neemen is voor u wat stouts bedreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat 's waar, myn Vrind. Maar 'k denk gy vind tot uwent licht,</l>
+<l>Dat tot gelyke vrees uw hart voor my verpligt;</l>
+<l>'k Geloof uw brein wil, dat wie schept in de echt behaagen,</l>
+<pb n="8"/>
+<l>Als een onfeilbaar pand, ook hoorenen moet draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>'t Zyn treeken van 't geval, waar voor wy geenssins staan,</l>
+<l>En 't dunkt my dwaas daar voor zo zeer te zyn begaan.</l>
+<l>Maar dat ik voor u vrees, is om uw spotternijen,</l>
+<l>Daar zo veel mans 't geweld van hebben moeten lijen;</l>
+<l>Want, als gy weet, gy hebt nooit groot noch kleen verschoont,</l>
+<l>Een ieder, door uw tong, op 't schamperlykst gehoont,</l>
+<l>Waar gy ook zyt, uw hoogst vermaak is na te spooren,</l>
+<l>En uit te kryten wat geheim u kwam ter ooren....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel goed. Maar is 'er in de waereld wel een stad,</l>
+<l>Daar immer zo 't geduld der mannen hart bezat?</l>
+<l>Zyn hier niet veele, van wag slag 't mag zyn, te vinden.</l>
+<l>Die van hun wyven zich erbarm'lyk laaten blinden?</l>
+<l>De een schraapt om geld, dat, door zyn vrouw, aan haar galant,</l>
+<l>Word meêgedeeld, terwyl die hem de hoorens plant.</l>
+<l>Een ander, ruim zo vuig, schoon 't minder hem moog krenken,</l>
+<l>Ziet dagelyks zyn' vrouw met kostlykheên beschenken,</l>
+<l>En voelt geen achterdocht in alles wat hy ziet,</l>
+<l>Dewyl zulks, na zy zegt, om haare deugd geschied.</l>
+<l>Deez' maakt heel groot gerucht, schoon zulks hem niet kan baaten;</l>
+<l>Die zal, zachtzinnig, 't al in stilte doorgaan laaten,</l>
+<l>En, komt een Sneukelaar tot zynent, hy zal bly</l>
+<l>Zyn rotting, heel beleeft, straks leggen aan een zy.</l>
+<l>Een looze zal 't geheim, kwansuis, haar man ontvouwen,</l>
+<l>En, als een kuische vrouw, de laagen hem vertrouwen;</l>
+<l>Dus wiegt zy hem, door haar geveinsde deugd, in slaap,</l>
+<l>En hy belacht de zorg van die vernoegde knaap.</l>
+<l>Een andere, om 't verspil het geen zy doet te heelen,</l>
+<l>Zegt, dat zy 't geld daar toe gewonnen heeft met speelen;</l>
+<l>De bloed, aldus bedot, peinst niet wat spel zy meent,</l>
+<pb n="9"/>
+<l>En dankt het lot, dat haar heeft deze winst verleent...</l>
+<l>In 't kort, ons komt steeds stof tot schemperny voor de oogen;</l>
+<l>En zou ik, die zulks zie, daar om niet lachchen moogen?</l>
+<l>Mag ik die zotten niet.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wie om een ander lacht,</l>
+<l>Moet weeten dat hy op zyn beurt zulks meê verwacht.</l>
+<l>Ik hoor veel dingen, en hoe nyver veelen spreeken</l>
+<l>Van 't geen 'er is gebeurt, en ieder eens gebreeken;</l>
+<l>Voor my, waar, op wat plaats ik my daar by bevind,</l>
+<l>'k Verheug my nooit daar in, maar sla zulks in de wind;</l>
+<l>'k Ben ingetoogen: doch ik ken 'er, die 't zo maaken,</l>
+<l>Zo onbeschaamt, dat ik hun lafheid moet verzaaken.</l>
+<l>Ook is myn opzet niet te dulden,'t geen men stil</l>
+<l>Van and'ren lyden ziet, al was zulks met hun wil.</l>
+<l>'k Heb echter nooit getracht alom zulks uit te kryten,</l>
+<l>Want elk moet vreezen voor de weêr wraak van 't verwyten;</l>
+<l>En niemand zweer zo licht wat hy, in dat geval,</l>
+<l>Zal kunnen doen, en wat hy niet vermoogen zal.</l>
+<l>Daarom, indien myn kruin, door 't lot, dat 't al doet wyken,</l>
+<l>Zich met een menschelyk hoofdsiersel zag verryken,</l>
+<l>'k Weet zeker, dat men my, uit inzigt hoe 'k voorheen</l>
+<l>My droeg, niet schimpen zou; als slechts in stilte alleen.</l>
+<l>En moog'lyk wierd my zo veel achting toegedraagen,</l>
+<l>Dat eerelyke liên my zouden zelfs beklaagen;</l>
+<l>Maar met u, myn Compeer, geloof me, is 't niet zo klaar:</l>
+<l>'k Zeg 't u noch eens, gy loopt het uiterste gevaar.</l>
+<l>Dewyl men eeuwig op het leed van and're mannen</l>
+<l>U heeft zien, op het birst, geduurig aangespannen,</l>
+<l>En, als een dolle droes, gespoogen uw venyn,</l>
+<l>Zo ga vry recht, indien ge ook niet geborst wilt zyn.</l>
+<l>Komt 't minste kwaad gerucht van u hen ooit ter ooren,</l>
+<l>Zie toe, dat zy zulks niet door al de stad doen hooren,</l>
+<pb n="10"/>
+<l>En....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Goede Vrind, ik bid, weest met my niet belaân,</l>
+<l>Gaauw moet hy zyn, die zulks van my ooit zal verstaan:</l>
+<l>Ik weet wat list een vrouw bekwaam is uit te werken,</l>
+<l>Om ons het voorhoofd loos met hoorens te versterken,</l>
+<l>En hoe behendiglyk men word door haar misleid;</l>
+<l>Doch 'k heb daar in voorzien, en acht me in zekerheid.</l>
+<l>'k Trouw een eenvoudige, van deugd zo uitgeleezen,</l>
+<l>Dat myne kruin geen kwaade invloeijing hoeft te vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Kunt gy gelooven, dat u eene zotte vrouw....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik neem een zotte, op dat ik 't zelf niet worden zou.</l>
+<l>'k Wil gaern, dat de uwe zeer verstandig is, gelooven;</l>
+<l>Maar, een' te schrand're vrouw dreigt onsmetramp van boven.</l>
+<l>Ik weet hoe smartelyk 't aan veelen is geweest,</l>
+<l>Een vrouw te neemen van te hoog verheven geest.</l>
+<l>Zou 'k my belasten met een wyf, dat, ryk van zinnen,</l>
+<l>Niets achten zou als 't groots, niet dichten als van 't minnen,</l>
+<l>Die prooze en rym verstond, de houding en de trant,</l>
+<l>Bezocht van Graaf, Marquis, en liên van groot verstand,</l>
+<l>Terwyl dat ik de man van die mevrouw zou heeten,</l>
+<l>En weezen, als een Sant in de Almenak, vergeeten?</l>
+<l>'k Begeer geen wyf, dat zich van ieder roemen hoort;</l>
+<l>Een vrouw die rymen kan weet meer, als zy behoord.</l>
+<l>'k Wil dat de myne, van die grootsheid niet bezeten,</l>
+<l>Geensins het minst wat dicht te zeggen is zal weeten.</l>
+<l>Als word gevraagt in 't spel; Mejuffrouw, wat zet gy?</l>
+<l>Dat dan een Appeltaart, daar op, haar antwoord zy.</l>
+<l>En, in een woord, 'k wil dat zy, dom en onbedreeven,</l>
+<l>Op een versmitste vraag, nooit goed bescheid kan geeven,</l>
+<pb n="11"/>
+<l>En het is my genoeg, noch eens gezegt, myn Vrind,</l>
+<l>Dat ze is eenvoudig, my bemind, en naait, en spint.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Gy hebt een slechthoofd dan, tot speelpop, uitgevonden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ja; 'k zag my liever aan een laelyk wyf verbonden,</l>
+<l>Een zotte, als aan een vrouw, die schoon, en schrander was.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Verstand en schoonheid zyn.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">O! de eer komt meê te pas.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Maar, waarom wilt gy dat een dier, zo onbezonnen,</l>
+<l>Wat eer te zeggen is ooit zal begrypen konnen?</l>
+<l>'k Geloof ook dat het is een moeilyk tydverdryf,</l>
+<l>Verknocht te zyn aan een zo onvernuftig wyf.</l>
+<l>Hebt gy 't al wel bevat, en waant gy dat het gissen</l>
+<l>Van uw verzekertheid u niet zou kunnen missen?</l>
+<l>Een schrand're vrouw kan wel haar pligt te buiten gaan,</l>
+<l>Maar 'k weet, dat zy zich lang daar over zal beraân,</l>
+<l>Daar licht een slechthoofd tot dat ongeval kan raaken,</l>
+<l>Zelfs zonder dat zy 't denkt, of ooit daar na zal haaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Weet dat ik op uw reên, zo hoog, tot antwoord geef,</l>
+<l>Als eer Pantagruel aan zyn Panurgus neef.</l>
+<l>Dring my een and're, voor een domme vrouw, te neemen,</l>
+<l>Zeg alles wat u lust, wil vry tot Kermis teemen,</l>
+<l>Gy zult verwondert zien, als gy hebt uitgekalt,</l>
+<l>Dat geen van al uw reên my, in het minst, gevalt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Ik zeg, niet een woord meêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Zeer wel. Ik volg in 't minnen,</l>
+<l>Gelyk in alle ding, alleen myn eige zinnen.</l>
+<l>Ik ken my ryk genoeg, van midd'len wel voorzien,</l>
+<pb n="12"/>
+<l>En wil een wedergâ, die ik vry mag gebiên,</l>
+<l>Die my, mee yver, zoekt in alles te behaagen,</l>
+<l>En nooit te stoffen heeft op schat of grootsche maagen.</l>
+<l>Haar zoet en stil gelaat blonk, boven and'ren, uit,</l>
+<l>Dies ik haar, vier jaar oud, reeds schikte tot myn bruid;</l>
+<l>Ik zag haar moeder van armoede en druk bestreden;</l>
+<l>Dies heb ik haar my 't Kind te geeven zelfs gebeden;</l>
+<l>De goede sloof, om myn verzoek in 't hart verheugt,</l>
+<l>Gaf me, om daar van ontlast te zyn, het Kind met vreugd.</l>
+<l>'k Heb in een klein konvent, daar 't niemand zou vermoeden,</l>
+<l>Het Kind bestelt, om 't na myn oogmerk op te voeden,</l>
+<l>Te weeten, dat men al zou doen 't geen oorbaar scheen,</l>
+<l>Om 't dom te houden, en in boersche eenvoudigheên.</l>
+<l>Dank zy 't geluk, 'k ben in verwachting niet bedroogen,</l>
+<l>Groot zynde, vond ik haar zo simpel opgetoogen,</l>
+<l>Dat ik 't geluk bedank, 't geen my vergunt, in 't end,</l>
+<l>Een vrouw na myne wensch, en na myn zin gewend.</l>
+<l>Ik heb haar t'huis gehaalt; en, wyl dat t'aller uuren</l>
+<l>Myn deuren open staan voor vrinden, en voor buuren,</l>
+<l>Heb ik een huis gehuurt (men moet voorzigtig gaan)</l>
+<l>Daar ginder. 'k Ben daar vry, daar spreekt my niemand aan.</l>
+<l>Om haar goede inborst niet te zien verwaareloozen,</l>
+<l>Heb ik twee lui, zo dom als zy is, uitgekoozen.</l>
+<l>Licht zegt ge; waar toe dient al die omstandigheid?</l>
+<l>'t Is op dat gy begrypt hoe ik 't heb aangeleid:</l>
+<l>'t Besluit is dat ge, als vrind, wilt t'avond met my eeten,</l>
+<l>Want ik verlang, hoe gy haar vinden zult, te weeten;</l>
+<l>'k Verzoek dat gy met haar wat praat, en ze ondervraagt:</l>
+<l>'k Moet zien of myne keur u aanstaat, of mishaagt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Heel goed, ik ben te vreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Gy kunt dan oordeel geeven</l>
+<l>Van haar perzoon, en van wat geest zy word gedreeven.</l>
+</sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wat aanbelangt dat punt, na dat gy dezemaal</l>
+<l>My zegt....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">De waarheid gaat noch boven myn verhaal.</l>
+<l>Om haar onnozelheên verwonder 'k my met reden;</l>
+<l>'k Lach zomtyds, dat ik schudde, om haare eenvoudigheden.</l>
+<l>Noch onlangs, wie hoorde ooit een zaak zo ongemeen,</l>
+<l>Scheen zy verzet, en vroeg my zoetelyk alleen,</l>
+<l>Mer een eenvoudigheid, die niets ooit zal beschaamen,</l>
+<l>Of niet de kinderen eerst uit de biezen kwamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Ik ben op 't hoogst verheugt, myn Heer Arnoldus...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Zoet;</l>
+<l>Hoe komt het dat ge my altyd dus noemen moet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Verschoon my, Heer, ik had, myns ondanks, reê vergeeten,</l>
+<l>Dat gy voortaan word Heer van Hoogegrond geheeten.</l>
+<l>Maar zeg, wie drommel heeft u ook zo zot gemaakt,</l>
+<l>Dat ge, op uw veertigst jaar, uw' doopnaam hebt verzaakt,</l>
+<l>En, van een Hofsteê, daar niet veel van is te roemen,</l>
+<l>Een Heerlykheid verziert, en u daar na laat noemen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'t Is om dat 't Huis die naam van overlange draagt,</l>
+<l>En Hoogegrond myn oor meêr, als myn naam, behaagt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wat dwaasheid is 't de naam zyns oudrens zich, te onttrekken,</l>
+<l>En een verweende, op droom gegrondvest, te verwekken!</l>
+<l>'k Weet zulks de zotheid van verscheide menschen is,</l>
+<l>En, zonder dat ge u steurt aan myn gelykenis,</l>
+<pb n="14"/>
+<l>Ik ken een plompe boer, die eene sloot liet graaven</l>
+<l>Om een kleen hoekje lands, dat hem zyn ouders gaaven,</l>
+<l>Of lieten na hun dood, zyn naam was Lange Hein;</l>
+<l>Straks wou hy zyn genoemt de Heer van Langestein.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Zulk een gelykenis had gy wel kunnen spaaren;</l>
+<l>Maar ik heer Hoogegrond, en wil die naam bewaaren;</l>
+<l>Ik heb daar reden toe; zy dunkt my goed, en zacht,</l>
+<l>En die me Arnoldus noemt, zeg ik dat my veracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Maar veele kunnen zich daar niet wel toe gewennen,</l>
+<l>Zulks geeft het opschrift van uw' brieven noch te kennen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Vergeef het hen, die daar noch niet van zyn bewust;</l>
+<l>Maar gy....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 1tab">'t Is zo: doch stel u daar omtrent gerust;</l>
+<l>Ik zal myn mond voortaan zo wennen, dat, na dezen,</l>
+<l>Gy steeds Heer Hoogegrond van my genoemt zult weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Vaar wel. Ik klop hier aan om haar goên dag te biên,</l>
+<l>En 'k acht 't haar lief zal zyn my wederom te zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi> <hi rend="i">weggaande</hi>.</speaker>
+<l>‘Voorzeker hy is gek, en zot in allen deelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'t Schynt dat myn redenen hem eenigsins verveelen.</l>
+<l>Wat is 't een vreemde zaak, te zien, hoe ieder pleit,</l>
+<l>Voor zyne driften, en zyne eigen zinn'lykheid.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Agneta, Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>WIe klopt daar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Ik: doe op. Ik ben vol van verlangen,</l>
+<pb n="15"/>
+<l>Te zien, hoe vrolyk zy my weder zal ontfangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Wie klopt daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Ik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 6tab">Wobbyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 9tab">Wat is 't?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 1tab">0Doe op.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">1Doe jy 't.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Doe jy 't.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">Ik zel 't niet doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 8tab">Ik ook niet, hoe je ook kryt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat pikken schort het volk? wat henker zal dit weezen?</l>
+<l>Men laat my staan? ik zeg doet op, of gy moogt vreezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Wie klopt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">Ik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 4tab">Jorden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 7tab">Wel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 8tab">Loop, jongen, 't is men Heer;</l>
+<l>Doe open.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 2tab">Doe jy 't zelf.</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 5tab">Men vuur leid hiel om veer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Myn mos is uit de kou, de kat die mogt ze vreeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hy zal, dat zweer ik u, in geen vier etmaal eeten</l>
+<l>Die van u beide my niet haastig open doet.</l>
+<l>Ik zal....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">Waarom loopt my die gekskap voor de voet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Waarom jy eer as ik? wel dat zyn raare stukken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Brus hier van daan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 4tab">Het slot zel jy me niet ontrukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>'k Wil open doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 2tab">Ik wil hetzelf doen, vuile Pry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Je zelt waarentig niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 3tab">Jy zelt ook niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 6tab">Noch jy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Moet langer myn geduld dit kibb'len noch gedoogen?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Myn Heer, ik heb de deur geöpend.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 7tab">'t Is geloogen:</l>
+<pb n="17"/>
+<l>Ik deê 't.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 1tab">Ze liegt, men Heer. Indien ik mogt begaen,</l>
+<l>Ik sloeg je veur je bek.</l>
+</sp>
+<stage><hi rend="i">Hy slaat Arnoldus,</hi></stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 6tab">Jou, ezel, is dat slaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Dat deê zy ook, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Zwygt beide, en hoort my spreeken;</l>
+<l>Wilt met uw' zotte klap my 't hoofd niet langer breeken;</l>
+<l>Zeg hoe gy hier al vaart, is alles op zyn stel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Men Heer, we vaaren noch... men Heer... we vaaren wel..</l>
+<l>We binnen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">hem tot driemaal toe de hoed van 't hoofd neemende</hi>.</speaker>
+<l rend="; 2tab">Plompen beest, zult gy uw' hoed niet lichten</l>
+<l>Wanneer ge tot my spreekt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 7tab">Heb dank voor 't onderrichten,</l>
+<l>Je hebt gelyk, men Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">tegens Jorden</hi>.</speaker>
+<l rend="; 8tab">Ga, Jorden, roep Agniet.</l>
+<stage><hi rend="i">Tegens Wobbyn.</hi></stage>
+<l>Gevoelde zy, toen ik van huis ging, geen verdriet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Verdriet? neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">Niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>O ja!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Wat was 't, dat haar deê schroomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Zy meende, elk oogenblik, dat gy weêrom zoud komen</l>
+<pb n="18"/>
+<l>En nimmer hoorden wy veur deur karos of paerd,</l>
+<l>Of waagen, of, men Heer, ze miende dat gy 't waard.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Agneta, Jorden, Wobbyn, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>ZO, zo, 't werk in de hand? dat 's waarlyk een goed teken.</l>
+<l>Ik heb myn reis volbragt, voelt ge u nu niet ontsteeken</l>
+<l>Van vreugd, Agneta?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Ja, myn Heer, 'k ben zeer verblyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik meê, vermits dat gy zo wel te passe zyt.</l>
+<l>Is 't ook hier alles wel geweest, naar uw behaagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Behalven dat de vloôn my 's nachts geweldig plaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy zult haast hebben een die hen verjaagen zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Gy zult my vriendschap doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">‘'k Geloof haar heel en al.</l>
+<l>Wat is 't dat gy daar maakt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">Ik naai voor my wat linden,</l>
+<l>Uw hembden zyn gedaan, gy zult ze boven vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel goed. Nu ga; 'k moet voort, wees daarom niet in pyn,</l>
+<l>Myn waarde Agneta, 'k zal in 't kort weêr by u zyn,</l>
+<l>En u iets van gewigt, dat u belangt, ontvouwen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>HEldinnen dezer eeuw, gy, hoogverlichte vrouwen,</l>
+<l>Diesteeds van tederheên en liefde schryft, enspreekt,</l>
+<pb n="19"/>
+<l>Die vol geleerdheid en lief kozerijen steekt,</l>
+<l>Uw' rymen, ook hoe zoet, uw brieven, hoe vol krachten,</l>
+<l>Zyn weinig, by deze eerb're onkundigheden, te achten.</l>
+<l>'t Is niet het geld waar op men zich versling'ten moet;</l>
+<l>Maar wanneer de eerbaarheid... wat zie ik? is hy 't?zoet,</l>
+<l>Ja; neen: ja, hy is 't zelf, voorwaar 't is niet geloogen,</l>
+<l>Hora...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Horatius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>MYn Heer....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">'k Verheug my niet te zyn bedroogen.</l>
+<l>Wanneer is uwe komst?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 3tab">Acht dagen reeds geleên.</l>
+<l>Ik kwam zo haast niet hier of ging naar uwent heen,</l>
+<l>Maar vond u niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Ik was op 't land wat speelen vaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Zo hoorde ik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Wat zyt gy gegroeit zints negen jaaren!</l>
+<l>Gy waard toen maar dus hoog, daar boven wonder teêr,</l>
+<l>Nu zyt ge zulk een man!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 4tab">Gelyk gy ziet, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>In welk een staat hebt gy uw vader toch gelaaten?</l>
+<l>Die goede Gerard; 'k pleeg zo gaern met hem te praaten.</l>
+<l>Is hy noch fris? 'k heb hem in geen vier jaar gezien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Gy deed malkander zints geen groetenis ontbiên,</l>
+<pb n="20"/>
+<l>In al dien tyd. Wat hem belangt, na zyne jaaren,</l>
+<l>Kan in het land geen mensch, hoe jeugdig, beter vaaren;</l>
+<l>Hy leefd steeds vrolyk, en is lustiger, als wy;</l>
+<l>Ook heb ik eene brief van hem, voor u, by my.</l>
+<l>Sints schryft hy, dat hy zich reeds heeft op weg begeeven,</l>
+<l>Om hier te komen, door een groote zugt gedreeven,</l>
+<l>Na ik verstaan kan; maar de reden meld hy niet.</l>
+<l>Ik kan niet peinzen tot wat einde dit geschied.</l>
+<l>Kend gy hier ook een man, die, over veertien jaaren,</l>
+<l>Uit dit gewest, is naar Amerika gevaaren,</l>
+<l>En, met veel rykdoms, is te ruch gekeert?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">O neen.</l>
+<l>Maar hebt gy niet gehoord hoe hy genoemt word?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 4tab">'k Meen,</l>
+<l>Hy heet Henrikes.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">'k Heb uit de brief vernomen,</l>
+<l>Na vader schryft, dat hy is wederom gekomen,</l>
+<l>Als of ik hem wel kende, en dat ze beide licht</l>
+<l>Hier zullen komen, om een zaak van groot gewigt;</l>
+<l>Maar verder schryft hy niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Ik brand reeds van verlangen</l>
+<l>Om hem te zien, en zal hem treffelyk ontfangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">de brief geleezen hebbende</hi>.</speaker>
+<l>Uw vader schryft te zeer beleefd'lyk aan een vrind,</l>
+<l>Die geen vermaak altoos in Complimenten vind;</l>
+<l>My zulks te schryven, was in 't minste niet van nooden,</l>
+<l>Myn kas is te uwen dienst, al had hy 't niet ontboden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik vat u by het woord, myn Heer, dat gy my geeft,</l>
+<l>En, wyl myn Heer voor my zo veel beleeftheid heeft,</l>
+<pb n="21"/>
+<l>Om die gelegenheid niet aan een zy te zetten,</l>
+<l>Geef my, zo 't u beliefd, twee honderd Pistoletten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy toont my vrindschap, en doet, als een eerlyk man;</l>
+<l>Het is my lief dat ik u aanstonds helpen kan,</l>
+<l>'k Heb die juist by my, daar....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Myn Heer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Ik bid u, staaken</l>
+<l>Wy dit gesprek, laat ons geen Complimenten maaken;</l>
+<l>Zeg hoe u deze Stad gevalt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Myn Heer, ik sta</l>
+<l>Op 't hoogst verzet, wanneer ik acht op alles sla;</l>
+<l>'t Zyn brave Borgers, en uitsteekende gebouwen:</l>
+<l>Het moet vermaak'lyk zyn zich hier ter woon te onthouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Elk een vermaakt zich hier, myn Heer, op zyn manier,</l>
+<l>Maar voor Galands, gelyk men hen liên noemd, is 't hier</l>
+<l>Een Paradys, elk kan hier vinden zyn genoegen,</l>
+<l>Vermits de vrouwtjens zich naar alles kunnen voegen.</l>
+<l>Men vind 'er bruin, en blond, waar by geen stuursheid geld;</l>
+<l>Geen man die zich om heus beleefdheid immer kweld;</l>
+<l>Galanten leeven hier in volle vrolykheden,</l>
+<l>Tot kluchtjens vinde ik hier, alle uuren, nieuwe reden.</l>
+<l>Heeft u 't geluk bereids niet meede iets toegedeelt?</l>
+<l>En hebt gy reeds uw' rol niet, naar uw' wensch, gespeelt?</l>
+<l>Zo wel gemaakte lui betoveren de zinnen,</l>
+<l>En doen, zelfs zonder geld, de mannen hoorens winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Myn Heer, om rond te gaan, ik ben al meê gevat,</l>
+<l>En heb een voorval, zeer behaagelyk, gehad;</l>
+<l>Uw vrindschap doet my zulks ontdekken, zonder vreezen.</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ha! ha! dat zal gewis al weêr iets aardigs weezen,</l>
+<l>Dit dient voorzeker mede op myn tablet gesteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>'k Verzoek, myn Heer, dat gytoch zulks aan niemand melt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Geenzins, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">Ik ben in liefdensnet gevangen,</l>
+<l>En met myne oogen aan een Schoonheid blyven hangen,</l>
+<l>Ook heb ik 't stuk met zulk een yver opgevat,</l>
+<l>Dat ik reeds heb 't geluk van haar te zien gehad,</l>
+<l>En, zonder dat ik haar misdoe, of veel wil roemen,</l>
+<l>Myn zaak staat zo, dat ik my mag gelukkig noemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>En 't is?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Een Schoonheid, Heer, hier in het naaste huis,</l>
+<l>Daar met die groene deur, naast aan de steene sluis,</l>
+<l>Zy is eenvoudig, wyl een Gek, door wanvertrouwen,</l>
+<l>Haar van jongs aan heeft van de menschen afgehouwen.</l>
+<l>Maar, spyt haar simpelheid, en wat haar is misdaân,</l>
+<l>'k Weet zo ge'er schoonheid zaagt, gy zoud verwondert staan.</l>
+<l>Zo haast zag ik haar niet, of myne zinnen dwaalden,</l>
+<l>En haar schoone oogen van myn vryheid zegepraalden.</l>
+<l>Zy heet Agneta, die myn ziel zo heeft doorwond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Ik barst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">De man heet Hoog... Ja, Heer van Hoogegrond;</l>
+<l>Men zegt 't een rykaard is, maar dwaas, en zeer onaardig,</l>
+<l>Hy is my afgemaalt van elk bespottens waardig.</l>
+<l>Kend gy hem niet, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">‘Wat moeijelyker pil!</l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Hoe! spreekt gy niet een woord?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Ik ken hem als ik wil.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Het is een Gek, niet waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">Hoe! wat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 4tab">'k Merk gy wilt zeggen,</l>
+<l>Dat zyn Jaloersheid best zyn dwaasheid uit kan leggen.</l>
+<l>De lieve Agneta heeft geheel myn ziel verkracht,</l>
+<l>Door haare schoonheid, die ik zonder weêrgâ acht.</l>
+<l>'t Zou jammer zyn, dat haar die Gek zou langer houwen,</l>
+<l>Ik hoop zyn dwaasheid hem in 't kort te doen berouwen,</l>
+<l>Vermits ik niets zo zeer als het genieten wensch</l>
+<l>Van zulk een Schoone; in spyt van dat barbaris mensch.</l>
+<l>Ik heb u 't geld ontleend, om my, in deze zaaken,</l>
+<l>Daar van te dienen, en een eind daar door te maaken.</l>
+<l>Gy weet zo wel, als ik, myn Heer, dat geen geweld</l>
+<l>Zo veel vermoogen op de menschen heeft, als 't geld;</l>
+<l>En dat, wyl dit metaal zyn kracht zeer zelden faalde,</l>
+<l>'t In liefde en in de kryg de zeege altyd behaalde.</l>
+<l>Gy schynt niet wel te vreên. Heb ik hier in misdaan?</l>
+<l>Of staat u myn bedryf, myn Heer, maar pass'lyk nan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen, maar 'k bedacht...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">'k Merk myn verhaal u schynt re hoonen.</l>
+<l>Vaar wel, 'k zal dankbaar my aan u tot uwent toonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Och! moet ik...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi> <hi rend="i">wederkomende</hi>.</speaker>
+<l rend="; 1tab">'k Bid nochmaals, meld toch myne aanslag niet,</l>
+<l>En dat ook niemand weet van 't geen 'er is geschied.</l>
+</sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat voel ik in myn hart....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi> <hi rend="i">weder komende</hi>.</speaker>
+<l rend="; 1tab">Laat Vader zulks niet hooren,</l>
+<l>Ik weet dat hy gewis ontsteeken zou in tooren.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">meenende dat hy weder komt</hi>.</speaker>
+<l>OCh... och! wat heb ik smart door dat verhaal geleên!</l>
+<l>Kwam immer wel een mensch in zo veel zwaarigheên?</l>
+<l>Met welk een onbescheid, door wulpze drift gedreeven,</l>
+<l>Komt hy daar van die zaak my zelve kennis geeven!</l>
+<l>Dewyl myn and'ren naam hem my niet kennen doet,</l>
+<l>Was immer onverlaat zo bitter, zo verwoed?</l>
+<l>Maar, na zo zwaar een stryd, dien ik my in te toornen,</l>
+<l>En zien te ontdekken wat voor ramp ik heb te schroomen,</l>
+<l>En zyn onheusch verhaal te hooren tot aan 't end,</l>
+<l>Tot dat my hun geheim ten vollen zy bekend.</l>
+<l>Gaan wy hem zoeken; hy kan noch niet verre weezen,</l>
+<l>'k Zal zien hem verder zich te ontdekken te beleezen.</l>
+<l>'k Schrik voor het ongeluk, dat my staat voor de hand.</l>
+<l>Men zoekt zomtyds na 't geen men liever nimmer vand.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="25"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>HEt is my best, als ik de zaak recht ga bezeffen,</l>
+<l>Dat ik gemist heb in hem weder aan te treffen;</l>
+<l>De ontroering van myn hart, te bitter, had zich licht</l>
+<l>Niet kunnen bergen, na myn wil, voor zyn gezigt:</l>
+<l>'t Verdriet was uit gespat, in weêrwil van myn zorgen.</l>
+<l>Ik wensch niet dat hy wist 't geen voor hem is verborgen;</l>
+<l>Maar, 'k laat dat brokje my zo niet ontfutz'len, neen!</l>
+<l>Dat Jufferlekkertje heeft haar noch niet alleen.</l>
+<l>'k Zal hun verbintenis van stonden aan wel breeken,</l>
+<l>En hooren hoe ver hy heeft in de kaart gekeeken,</l>
+<l>Dewyl 'k aan dit belang myn eer verbonden houw,</l>
+<l>En ik haar, in deez' staat, bereids acht, als myn vrouw.</l>
+<l>Het is my schandelyk zo zy iets heeft misdreeven,</l>
+<l>En wat zy doet word op myn rekening geschreeven.</l>
+<l>O dood'lyk afzyn! o verfoeijelyk plaizier!</l>
+</sp>
+<stage><hi rend="i">aan de deur kloppende.</hi></stage>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>MEn Heer, ditmaal....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Zwygt stil, en voegt u beide hier;</l>
+<l>Gy daar; gy daar. Komt hier; wat voeltge voor bezwaaren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Je maakt me zo verschrikt, men bloed hot in men aâren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy hebt, na myn vertrek, myn last zo fraai voldaan,</l>
+<l>En bei, met opzet, my, zo schandelyk, verraân?</l>
+</sp>
+<pb n="26"/>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Men Heer, ik bid genâ, och! wil me toch niet eeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi> <hi rend="i">zacht</hi>.</speaker>
+<l>‘Ik loof ien dolle hond het hum in 't bien ebeeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>En, 'k ben zo vol van krop, dat ik niet spreeken kan.</l>
+<l>Ik smagt, en wenschte in 't hembt te weezen. Gy hebt dan,</l>
+<l>O snood Canailje, licht om het genot van schyven,</l>
+<l>Gedoogt dat hier een man... 'k zeg dat ge staan zult blyven.</l>
+<l>'k Wil dat gy aanstonds... Zo gy gaat... my beide zegt...</l>
+<l>Euh. Ja; 'k wil weeten wat hier binnen is verrecht....</l>
+<l>Zo gy niet staan blyft zult gy van de drommel droomen...</l>
+<l>En op wat wys die Heer is by Agniet gekomen.</l>
+<l>Zegt op, geen lang beraad; 'k wil dat gy vaardig spreekt.</l>
+<l>Zult gy 't me zeggen? heu?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi> <hi rend="i">en</hi> <hi rend="sc">Wobbyn</hi> <hi rend="i">te zaamen</hi>.</speaker>
+<l>Och! Och!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 2tab">Men hart dat breekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Ik sterf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">'k Ben gantsch bezweet, ik moet my wat verluchten,</l>
+<l>En gaan wat wandelen. Had ik ooit kunnen duchten,</l>
+<l>Toen ik noch kleen hem zag, dat hy op wassen zouw</l>
+<l>Om my te stooten in zo doodelyk een rouw?</l>
+<l>'t Zal best voor my zyn dat ik het zo zie te maaken,</l>
+<l>Dat zy zelf me opening doe van de grond der zaaken.</l>
+<l>'k Dwing myn ontsteltenis voor haar, met alle kracht;</l>
+<l>Geduld, myn ziel, geduld; ei! houd u stil, en zacht.</l>
+<stage><hi rend="i">Tegens Jorden en Wobbyn.</hi></stage>
+<l>Ryst op; gaat binnen: roept Agneta naar beneeden.</l>
+<l>Neen, blyft. ‘Zy zouden bei myn smart aan haar ontleeden,</l>
+<l>Dan was zy min verzet; ik zal zelf binnen gaan,</l>
+<l>En haalen haar om laag. Gy; blyft hier beide staan.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="27"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Wobby</hi>.</speaker>
+<l>Myn tyd! wat scheen men Heer verschrikkelyk van weezen!</l>
+<l>Zyn oog deê my veur hum, gelyk de nikker, vreezen;</l>
+<l>Ik zag nooir eenig mensch zo vol van yslykheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Dat Heertje doet 'et hum, ik heb 't je wel ezeid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Maar, wat St Felten is 't, 'k bid wil 't my toch verklaaren?</l>
+<l>Dat we onze Juffrouw in dit huis zo naauw bewaaren?</l>
+<l>Waarom is 't dat hy haar zo streng verborgen houwd,</l>
+<l>En niet wil roestaen dat haar eenig mensch aanschouwd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>'t Is om dat zulks hum doet in Jallezy ontsteeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Hoe! Jallezy? ai! zeg wat binnen dat veur treeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Dat komt om dat hy word van Jallezy gekweld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Waarom is hy jalloers, maakt dat hem zo onsteld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>De Jallezy, Wobbyn, verstaeje wel, is even...</l>
+<l>Het is en ding.... hoe zei ik 't best te kennen geeven?</l>
+<l>Het is en ding, waar deur een mensch heel grynig is,</l>
+<l>En niemand zien mag. Hoor nae deuze lykenis,</l>
+<l>Op dat je 't klaarder daer deur zou bevatten moogen.</l>
+<l>Zeg, als jy zat en at, zou jy dan wel gedoogen.</l>
+<l>Dat dan een vreemde meê kwam scheppen in jouw kop?</l>
+<l>Zou jy niet kwaed zyn? en sloeg jy 'er niet wel op?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Ja, nou begryp ik 'et.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 1tab">'t Is zo omtrent geschapen;</l>
+<pb n="28"/>
+<l>De vrouw is veur de man, als Schaepevleis mit raepen;</l>
+<l>Als dan de man zomtyds ziet dat een ander klopt,</l>
+<l>Op dat hy, na hy gist, meê van het zyne zopt,</l>
+<l>Zo word hy boos, en hy kan dat geenzins verdraagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Dat 's wel: maar waarom of dan alle mans niet klaagen?</l>
+<l>Men ziet 'er zommige die altyd zyn te vreên,</l>
+<l>Al gaen hun vrouwtjens met de Heertjens zich vertreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Elk een valt juist zo krekt, noch vies niet of zy moogen</l>
+<l>Wyl lyden dat...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">Zo myn gezigt niet is bedroogen,</l>
+<l>Zo komt hy daar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 2tab">Hy is 't, jou oogen binnen goed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 3tab">Hy schynt noch niet te vreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Hy 's toornig van gemoed.</l>
+</sp>
+<stage><hi rend="sc">Arnoldus, Agneta, Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Een Heidens Philozooph heeft eens een les gegeeven</l>
+<l>Aan Vorst Augustus; les, wel waard te zyn verheeven,</l>
+<l>Dat, als een voorval ons in toorn onsteeken deê,</l>
+<l>Men, eer men iets besluit, moet leezen 't A, B, C.</l>
+<l>Op dat terwyl 't gewoel der gal in 't bloed zou stillen,</l>
+<l>En wy niets doen als 't geen men altyd doen zou willen</l>
+<l>'k Heb deze les omtrent Agnetaas zaak betracht,</l>
+<l>En haar, met opzet, naar beneeden zelf gebragt,</l>
+<l>Om, onder schyn van wat met haar te willen wand'len,</l>
+<l>Tot slissing van myn smart, heel zacht met haar te hand'len,</l>
+<pb n="29"/>
+<l>En uit haar, praatende, behendig te verstaan,</l>
+<l>De waare grond van al wat hier is omgegaan.</l>
+<stage><hi rend="i">tegens Agneta.</hi></stage>
+<l>Kom hier.</l>
+<stage><hi rend="i">tegen Jorden en Wobbyn.</hi></stage>
+<l rend="; 2tab">Gaat heen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Agneta</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">AGnete, is 't hier niet fraai?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Te wonder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat is 't schoon wêer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 4tab">Heel schoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Hebt gy ook iets bezonder,</l>
+<l>Wat nieuws?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 3tab">Ons bonte katje is dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 7tab">Dat 's jammer, maar</l>
+<l>Wy loopen, slerflyk zynde, ook 't eigenste gevaar.</l>
+<l>Vernaamt gy, toen ik op het land was, hier geen regen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Had gy geen verdriet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 6tab">Ik vind my nooit verlegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat hebt gy al gemaakt?</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 3tab">Zes hemden, na ik gis</l>
+<l>Zes mutsen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">zich een weinig bedacht hebbende</hi>.</speaker>
+<l rend="; 1tab">Waarde Agneet, hoor toe. De waereld is</l>
+<l>Een zeldzaam ding; de mensch heeft wonderlyke kuuren,</l>
+<l>En de achterklap is fel, dat blykt aan onze buuren;</l>
+<l>Zy strooijen uit dat hier een Jongman, fraai van leest,</l>
+<l>Doch onbekent, terwyl 'k op 't land was, is geweest;</l>
+<l>Dat hy met u heel lang was, op uw' kamer, boven.</l>
+<l>Maar 'k wou dat vuil gesnap in 't minste niet gelooven;</l>
+<l>Ik wilde wedden dat zulks vals was....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 4tab">Lieven tyd,</l>
+<l>Ik bid u, wed toch niet, gy waard het zeker kwyt,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Zo is het waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">O ja myn Heer, zo waar wy leeven;</l>
+<l>Hy is by my byna den heelen dag gebleeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Zy toont my waarelyk, door haar bekentenis,</l>
+<l>Dat valsheid of bedrog in haar bedryf niet is.</l>
+<l>Maar hadge op myn verzoek, Agneet, niet aangenomen</l>
+<l>Hier niemand in het huis by u te laaten komen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ja: maar toen ik hem zag, had gy de zaak verstaan,</l>
+<l>Ik ben verzekert dat gy had, als ik, gedaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Misschien; maar laat my toch 't verhaal daar van eens hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>'t Is wonderlyk, gewis 't zal vreemd zyn in uwe ooren.</l>
+<l>'k Stond voor het venster, om wat lucht te scheppen, daar</l>
+<l>Ik onder 't gins geboomte een Jongman wierd gewaar,</l>
+<l>Heel fraai en wel gedaan; hy sloeg zo haast zyne oogen</l>
+<pb n="31"/>
+<l>Niet op my, of hy heeft beleeft zich neêrgebogen;</l>
+<l>Om in beleeftheid niet te wyken voor die heer,</l>
+<l>Neeg ik eerbiedig; daar op groete hy my weêr,</l>
+<l>En boog zich vaardiglyk; ik wederom daar tegen,</l>
+<l>Heb, op het spoedigste, ten tweedemaal genegen:</l>
+<l>Hy boog ten derdemaal behaaggelyk voor my,</l>
+<l>En ik ten derdemaal zo vaardig ook, als hy,</l>
+<l>Hy ging vast heen en weêr, en hield niet op van groeten,</l>
+<l>Waar op ik ydermaal op nieuws heb neigen moeten.</l>
+<l>'k Zag zyn beleeftheid aan, zelfs met verwondering,</l>
+<l>En zy behaagde my gestadig zonderling;</l>
+<l>Zo dat, had ons de nacht niet tot de rust gedreeven,</l>
+<l>Ik altyd hebben zou in zulk een stand gebleeven:</l>
+<l>'k Was zo eergierig, dat ik geensins dulden wou,</l>
+<l>Dat in beleeftheid hy my overtreffen zou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel goed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">'k Heb 's and'rendaags een oude vrouw vernomen,</l>
+<l>'k Lag over onze deur, die by my is gekomen;</l>
+<l>Ik wensch u zegen toe, myn kind, heeft zy gezeid,</l>
+<l>En eene lange duur aan uw bekoorlykheid;</l>
+<l>Maar, gy zyt niet zo schoon en minnelyk geschapen,</l>
+<l>Om, door kwaad opzet, daar geen vruchten van te raapen,</l>
+<l>En gy moet weeten, dat gy hebt een hart gewond,</l>
+<l>Dat zich gedwongen vind te klaagen door myn mond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Vergiftig zaad! Serpent, uit de afgrond opgereezen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hoe! ik 'er een gewond? sprak ik, ontsteld van weezen.</l>
+<l>Ja zo gewond, zeid zy, dat hy onlyd'lyk klaagt,</l>
+<l>En 't is die Heer, die gy hier gist'ren wand'len zaagt.</l>
+<l>Och! zeide ik, hoe mag zulks zich hebben toegedraagen?</l>
+<l>Heeft ook myn schaar, of iets hem op het hoofd geslagen?</l>
+<l>Neen, sprakze, uwe oogen zyn 't waar van hy is geraakt,</l>
+<l>En uw gezigtstraal heeft hem zulk een wond gemaakt.</l>
+<pb n="32"/>
+<l>Wel, wel! zeid ik, ik sta gelyk als opgetoogen;</l>
+<l>Hoe! zit 'er zulk een kwaad verborgen in myne oogen?</l>
+<l>Ja, sprak zy, een fenyn, van kracht, zo fel en groot,</l>
+<l>Dat iemand daar door komt van 't leven tot de dood.</l>
+<l>In 't kort, de elendige is erbarmelyk aan 't kwynen,</l>
+<l>En zo gy hem niet wilt verlichten in zyn pynen,</l>
+<l>Indien gy al te wreed uw' hulp trekt van hem af,</l>
+<l>In een twee dagen tyd geraakt hy in het graf.</l>
+<l>Och! zeid ik, wat zou my dat niet al droefheid baaren;</l>
+<l>Maar wilt my, waar ik hem meê helpen kan, verklaaren.</l>
+<l>Myn kind, antwoorde zy, ik bid u, kan 't geschiên,</l>
+<l>Dat gy hem de eer gunt u te spreeken, en te zien:</l>
+<l>Uwe oogen kunnen hem alleen behoên voor 't sterven,</l>
+<l>En zyne kwaal daar door geeneezinge verwerven.</l>
+<l>Och gaerne, zeid ik, word zyn kwaal daar door geblust,</l>
+<l>Hy kom vry by me, en dat zo dikmaals als 't hem lust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘O snoode Toveres! vergiftigster der harten!</l>
+<l>Uw eige boosheid plaag u steeds met alle smarten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Dus kwam hy by me, en hy genas van stonden aan.</l>
+<l>Nu oordeel of ik daar niet wel aan heb gedaan;</l>
+<l>Had ik wel, zonder smart of knaging, kunnen lyden,</l>
+<l>Dat hy zou sterven, daar 'k hem kon voor sterven vryden?</l>
+<l>Ik die 't meêdoogen met bedroefde ben gewoon,</l>
+<l>En, zonder traanen, zelf niet kan een hoen zien doôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Dit 's alles niet, als door onnozelheid, bedreeven;</l>
+<l>Myne onvoorzigtigheid heb ik de schuld te geeven,</l>
+<l>Wyl myn afweezen, onbedacht, haar deugd'lykheid</l>
+<l>Aldus heeft bloot gesteld door list te zyn verleid.</l>
+<l>'k Vreez' dat die Deugd' niet vry wat nader is gekomen,</l>
+<l>En niet de zaak in spel, maar ernst heeft opgenomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wat deert u? 't schynt gy mort, en gy zyt wat gestoort,</l>
+<l>Heb ik daar in ook iets gedaan dat niet behoort?</l>
+</sp>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen: maar Agneta 'k wensch 't vervolg van u te weeten,</l>
+<l>En hoe die Jongman heeft zyn tyd by u versleeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Och! wist gy eens hoe zeer hy opgetoogen was,</l>
+<l>Hoe schielyk zyne kwaal, door my te zien, genas,</l>
+<l>'t Geschenk dat hy aan my vereert heeft, zo genegen,</l>
+<l>En wat al geld Wobbyn en Jorden van hem kreegen,</l>
+<l>'k Weet gy beminden hem, en spraakt de zelve reên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Goed. Maar wat deed hy toen hy was met u alleen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hy zwoer me dat hy my zou eeuwig liefde draagen;</l>
+<l>Dat, buiten my, hem niets ter waereld kon behaagen.</l>
+<l>Nooit kwam my zoeter taal, als zyne woorden, voor;</l>
+<l>Noch dunkt men dat ik hem geduurig spreeken hoor,</l>
+<l>En voel een zoetigheid, die my zo kan verrukken,</l>
+<l>Dat ik door woorden zulks niet wel weet uit te drukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘O moeilyk onderzoek van een geheimenis,</l>
+<l>Daar van die 't onderstaat alleen de lyder is!</l>
+<l>Maar, buiten al die reên, zo zoet, en dat verëeren,</l>
+<l>Bestond hy u zomtyds niet wat te caresseeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Heel veel; hy drukte my myne armen, 'k weet niet hoe,</l>
+<l>En wierd myn' handen styf te kussen nimmer moê.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maar zeg me, Agneta, heeft hy niets van u genomen?</l>
+<l>Heu?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Ja, hy nam....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Wat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 3tab">Het....</l>
+</sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 6tab">Hoe? wil niet schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hy nam...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Wat blieftje....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 4tab">Ik weet gy zult 'er kwaad om zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Zal niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Ja, al.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">'k Zal niet. ‘Och! wat lyde ik een pyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Geef dan uw woord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik zweert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 5tab">'k Zal dan geen kyven vreezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen, neen; wat pikken, neen! Wat zal dit zamlen weezen?</l>
+<l>Wat nam hy u?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">Het...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">‘Hoe word ik getormenteert!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hy nam my 't lint, dat gy my onlangs hebt vereert:</l>
+<l>Geloof me, ik kon het niet, wat ik ook deê, bewaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">aassem scheppende</hi>.</speaker>
+<l>Het lint, dat 's niemendal. Maar wil me een recht verklaaren,</l>
+<l>Of ook, terwyl hy kuste uw arm en hand, die Heer</l>
+<l>Niets anders heeft bestaan?</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Hoe! doet men dan iets meêr?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen, maar om zyne kwaal te helpen, en te weeren,</l>
+<l>Bestond hy niet van u iets anders te begeeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Neen, in het minste niet: want had hy zulks gedaan,</l>
+<l>Gy kunt wel denken, 'k had hem alles toegestaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Dank zy 't geluk van daar zo goed koop af te raaken,</l>
+<l>'k Zal, spyt bedrog en list, wel beter daar voor waaken.</l>
+<l>Agneta, dit 's door uwe onnozelheid geschied,</l>
+<l>Nu, die zaak is voorby, ik zeg u daar van niet:</l>
+<l>Maar weet, die Minnaar, hoe hy om uw gunst mag prachchen,</l>
+<l>Zoekt uw verderf, om daar na in zyn vuist te lachchen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>O neen! wel tienmaal heeft hy 't zelfde my verklaart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy weet niet hoe men meest met minnaars eeden vaart;</l>
+<l>Maar, 'k zeg u, dat van haar geschenken zelfs te ontfangen,</l>
+<l>Aan zulke Jonkertjens gesnap te blyven hangen,</l>
+<l>Te laaten kussen, als zy vleijen, arm en hand,</l>
+<l>En door dat streelen 't hart te voelen als in brand,</l>
+<l>Is eene misdaad, die alle and'ren gaat te boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Een misdaad zegt gy! maar hoe kan ik dat gelooven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>O ja, een misdaad, die veel bitterheden kweekt,</l>
+<l>En in het hart een gloed van naberouw onsteekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Van naberouw? dat 's vremd, hoe komt dat? om watreden?</l>
+<l>'t Is zo vermaakelyk, en zo vol vrolykheden.</l>
+<l>Ik stond verwondert voor zo ongemeen een zoet,</l>
+<l>En voelde nimmer zulk een vreugd in myn gemoed.</l>
+</sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ja. 't is vermaakelyk op zulk een wys te leeven,</l>
+<l>Wyl zulke redenen de zinnen blydschap geeven;</l>
+<l>Maar 't moet, in eer en deugd, geschiên, als de echteband,</l>
+<l>Door trouw, die zoetigheid ontheft van kwaad en schand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Is 't geen meêr kwaad als door de trouw wy t'zaam vergaaren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc"><hi rend="i">Arnoldus</hi></hi>.</speaker>
+<l>Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">'k Bid u doe my dan toch op het spoedigst paaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Is 't uw believen, 't is ook 't myne, en ik beken,</l>
+<l>Dat ik, om zulks te doen, hier weêr gekomen ben.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Is 't moogelyk?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">O ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 3tab">'k Zal my gelukkig houwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Geloof wel dat het u niet leed zal zyn te trouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wy zullen dan te zaam....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Sla daar geen twyffel aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wat al caressen zult gy daar niet voor ontfaân!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>En ik zal, van myn kant, u ook niet schuldig blyven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Maar 'k ducht dat gy de spot wat met me zoekt te dryven;</l>
+<l>Spreekt gy oprecht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">O ja: gewis, 't is geen bedrog.</l>
+</sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wy zullen trouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wanneer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 6tab">Van avond noch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Van avond noch!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">O ja. Gy schynd u te vervreugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Gewis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Al myn vermaak is, in u te verheugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wat ben ik u verpligt voor 't goed my toebereid,</l>
+<l>En wat zal ik voortaan, met hem, in zoetigheid....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Met wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">Met hem... die my...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Die hem, die zal niet trekken:</l>
+<l>Gy zyt vry haastig uw begeerlykheid te ontdekken.</l>
+<l>Neen, 't is een ander, die uw Bruigom weezen zal,</l>
+<l>En die Heer hem zult gy, 'k begeert, my te geval,</l>
+<l>Al zou zyn minnezucht, tot u, hem 't hart doen breeken,</l>
+<l>Van nu af niet meêr zien, noch 't minste met hem spreeken;</l>
+<l>'k Wil, als hy wederkomt, hoe dat het hem ook spyt,</l>
+<l>Dat gy terstond de deur hem voor de neus toe smyt,</l>
+<l>En, klopt hy, met een steen hem uit het venster gooijen,</l>
+<l>Op dat hy nalaat hier voortaan te rinkelrooijen.</l>
+<l>Verstaat Agneta my? 'k zal om een hoekje staan,</l>
+<pb n="38"/>
+<l>En zien hoe gy u draagt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 5tab">Hy is zo wel gedaan;</l>
+<l>Och! 't is...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Wat al geteem: hier valt geen tegen praaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ik zal 't niet durven doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Uw kaak'len kan niet baaten,</l>
+<l>Ga heen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Wilt gy dat ik...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">'k Lach met uw dwaaze pyn;</l>
+<l>'k Ben meester, als ik spreek wil ik gehoorzaamt zyn</l>
+</sp>
+<stage><hi rend="i">Einde van het Tweede Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="39"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Agneta, Jorden, Wobbyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'t IS alles wel gedaan, myn blydschap is volkomen:</l>
+<l>Gy hebt ook myn bevel getrouw in acht genomen,</l>
+<l>En die verleider recht geloond na zyn waardy.</l>
+<l>Gy ziet hoe hoog een wys bestierder te achten zy;</l>
+<l>Ja, zonder my, Agneet, gy waard gewis bedroogen.</l>
+<l>Sla vry op het gevaar daar ge in geweest zyt de oogen.</l>
+<l>Gy gingt, had ik u niet behouden, dit 's gewis,</l>
+<l>Van 't rechte spoor, en liept in uw' verdervenis.</l>
+<l>Men is genoeg bewust van zulke vleijers treeken;</l>
+<l>Zy komen voor den dag op 't sierlykst uitgestreeken,</l>
+<l>Een groote blonde pruik, in alles na den zwier;</l>
+<l>Maar onder zulk een loof verschuilt zich 't giftig dier.</l>
+<l>Dat zyn die draaken, die, met opgespalkte keelen,</l>
+<l>Steeds staan te loeren om der docht'ren eer te steelen.</l>
+<l>Noch eens gezegt, dank zulks aan myne zorg en vlyt;</l>
+<l>Gy zyt daar door gered en, zonder hoon, bevryd.</l>
+<l>Het werpen van die steen, zo knap hem toegedreeven,</l>
+<l>Die hem zyn zotte hoop voortaan zal doen begeeven,</l>
+<l>Port my noch vaster aan, om, zonder meêr beraad,</l>
+<l>U, waarde Agneet, verknocht te zien in de echtestaat:</l>
+<l>Maar vooraf moet ik noch, wanneer ik ben gezeten,</l>
+<l>U dingen zeggen, die u nodig zyn te weeten,</l>
+<stage><hi rend="i">tegen Jorden en Wobbyn.</hi></stage>
+<l>Breng hier een stoel; en gy, zo ik u immer weêr...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Wy zullen jou gebod altyd zo doen, men Heer.</l>
+<l>Dat ander Heertje meende ons zekerlyk te likken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Zo 'k hum weêr binnen laat, mag ik van dorst wel stikken;</l>
+<pb n="40"/>
+<l>Ook zeg ik, 't is een gek, al was 't in zyn gezigt,</l>
+<l>Hy gaf ons lestent goud, doch allemaal te licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maak 't avondmnal gereed, en laat 'er niets ontbreeken.</l>
+<l>'k Dien een Notaris, om van het Contrakt te spreeken,</l>
+<l>Te hebben. Haal, als gy de stoel hier hebt gebragt,</l>
+<l>Die op de gintsche hoek, en zeg, dat ik hem wacht.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Arnoldus, Agneta</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">zittende</hi>.</speaker>
+<l>AGneta, luister toe, wil zo lang 't werken staaken;</l>
+<l>'k Heb zaaken van belang aan u bekent te maaken.</l>
+<l>'t Hoofd recht, zo lang ik spreek; zie my vry ernstig aan,</l>
+<l>En tracht het minste woord ter degen te verstaan.</l>
+<l>Ik zal u trouwen; gy moogt u gelukkig achten,</l>
+<l>En ieder oogenblik wel zeeg'nen myn' gedachten,</l>
+<l>Beschouwen van hoe laag 'k u opgetoogen heb,</l>
+<l>En, door wat goedheid, ik behaagen in u schep;</l>
+<l>En waar door gy, van 't slecht veracht Boerinne leeven,</l>
+<l>Zyt tot de waarde van een Borgerin verheven;</l>
+<l>En de eer geniet, dat u, een man omhelzen gaat,</l>
+<l>Die, tot nu toe, altyd 't liefkoozen heeft versmaad;</l>
+<l>Die meêr dan twintigmaal, na wensch, heeft paaren kunnen,</l>
+<l>Doch 't hart geweigert heeft, dat hy aan u komt gunnen.</l>
+<l>Ken 't weinig, dat gy noch zoud weezen, indien gy,</l>
+<l>Door zulk een waarden band, niet wierd verknocht aan my;</l>
+<l>Op dat dit voorwerp u te beter doe bezeffen,</l>
+<l>Hoe gy best de eer verdient, daar toe 'k u ga verheffen.</l>
+<l>Leer u zelf kennen, op dat ik mag voor altoos</l>
+<l>My ook bedanken, dat ik u tot vrouw verkoos.</l>
+<l>Agneta, 't huuwelyk, ik wil 't u niet ontveinzen,</l>
+<l>Eischt van een vrouw heel straffe, en ernstige gepeinzen;</l>
+<pb n="41"/>
+<l>Denk niet, wanneer gy zyt myn vrouw geworden, dat</l>
+<l>U alles vry zal staan, als of gy 't ryk bezat.</l>
+<l>Het vrouwelyk geslagt moet onderdaan zyn leeren:</l>
+<l>Den mannen voegt alleen 't gebieden, en 't regeeren,</l>
+<l>Schoon zy twee helften zyn, te zaam verknocht in een,</l>
+<l>Nochtans is tusschen hen het onderscheid niet kleen:</l>
+<l>De een is de hooger helft, en de and're van beneden;</l>
+<l>Deez' moet gehoorzaam zyn, en die de magt bekleeden,</l>
+<l>De pligt eens krygsmans, die hy aan zyn opperhoofd</l>
+<l>Verschuldigt is, des knechts aan zynen heer belooft,</l>
+<l>Die van de kinderen aan vader, en aan moeder,</l>
+<l>Aan de eerste van 't geslagt de jongste, en minder broeder,</l>
+<l>Die haalen 't minst niet by die onderdaanigheid,</l>
+<l>En 't diep ontzag, dat aan een vrouw is opgeleid,</l>
+<l>Op 't allervrindelykst, geduurig te betoonen</l>
+<l>Haar man, als Heer en Voogd; niets kan haar des verschoonen.</l>
+<l>Slaat hy zomtyds op haar wat ernstig zyn gezigt,</l>
+<l>Aanstonds haare oogen neêr te slaan is haare pligt.</l>
+<l>Zy moet nooit onbeschaamt hem kyken onder de oogen,</l>
+<l>Voor dat hy om 't haar te vergunnen word bewoogen;</l>
+<l>Schoon 't meest de vrouwen van deez' tyd zo niet verstaan.</l>
+<l>Maar, volg geen anderen die kwaade gangen gaan,</l>
+<l>Noch onbeschaamden, die, in ontucht uitgelaaten,</l>
+<l>Stof geeven om hun doen te zingen langs de straaten.</l>
+<l>Noch laat de wulpsheid u niet vangen in haar net,</l>
+<l>Op dat ge, als and'ren, niet uw' zin op boeven zet;</l>
+<l>Denk als ik my aan u verbind, door 's huuwlyks banden,</l>
+<l>Dat ik, Agneta, heel myn' eer stel in uw' handen;</l>
+<l>Hoe teêr die eer is, en hoe licht zy is geraakt,</l>
+<l>En dat in dit belang het mallen dient verzaakt;</l>
+<l>Dat hier beneden zyn veel ketels, die steeds kooken,</l>
+<l>Waar in men wouwen werpt die hier heur eer verbrooken.</l>
+<l>Denk niet dat 't kluchtjens zyn, die ik u hier verhaal,</l>
+<pb n="42"/>
+<l>Maar druk vry in uw hert deez' lessen altemaal.</l>
+<l>Zo uwe deugd die volgt, en 't kwaad doen steeds blyft vreezen,</l>
+<l>Zal uwe deugd zo blank, gelyk een lely, weezen;</l>
+<l>Maar zo zy de eer vergeet, haar man veracht, en tart,</l>
+<l>Zo zal zy voortaan zyn, gelyk een kool zo zwart.</l>
+<l>Een ieder zal, om uwe afgrys'lykheid, u schouwen;</l>
+<l>En de ondeugd zal u steeds gelyk geketend houwen;</l>
+<l>Dan voelt men in zyn hart, gelyk een kokend vuur,</l>
+<l>Daar 'k u bevryd voor wensch, tot aan uw uiterste uur.</l>
+<l>Doe uwe eerbiedigheid, gelyk een' nieuw gekomen'</l>
+<l>In 't klooster leeren moet wat waar moet zyn genomen,</l>
+<l>Zo moet een jonge vrouw ook leeren doen in de echt.</l>
+<stage><hi rend="i">Hy staat op.</hi></stage>
+<l>'k Heb hier een schrift, daar 't word behoorlyk uitgelegt,</l>
+<l>En ieder vrouw haar pligt volkomen in kan leezen:</l>
+<l>Ik ken de Auteur niet, maar 't is waard te zyn gepreezen.</l>
+<l>'k Eisch, dat ge uw leegen tyd alleen daar aan vergunt.</l>
+<l>Hou daar. Laat hooren of gy 't ook wel leezen kunt.</l>
+</sp>
+<stage><hi rend="sc">Agneta</hi> <hi rend="i">leest</hi>.</stage>
+</div>
+<div type="scene">
+<head>De regulen Van het Huuwelyk, of de pligten van een getrouwde vrouw;
+<lb/>
+Benevens haare dagelyksche oeffening.</head>
+<head>1. Regul.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Wie, door gerechte trouw, verbonden,</hi></l>
+<l rend="; 1tab"><hi rend="i">Een eerlyk man heeft tot haar deel,</hi></l>
+<l rend="; 1tab"><hi rend="i">Wacht zich voor onkuische vonden,</hi></l>
+<l><hi rend="i">Schoon 't hedendaags de vrouwtjens doen te veel.</hi></l>
+<l><hi rend="i">En denk, dat die baar nam, haar naam voor zich geheel.</hi></l>
+</lg>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Zal u straks zeggen wat zulks wil te kennen geeven.</l>
+<pb n="43"/>
+<l>Lees nu maar voort, en let waar dat ge zyt gebleven.</l>
+</sp>
+<stage><hi rend="sc">Agneta</hi> <hi rend="i">leest voort</hi>.</stage>
+</div>
+<div type="scene">
+<head>2. Regul.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="i">Zy tooi zich met geen grooter pracht,</hi></l>
+<l rend="; 3tab"><hi rend="i">Als die haar man slechts kan behaagen</hi>:</l>
+<l><hi rend="i">Wat schaat het, als haar man haar schoon en minzaam acht,</hi></l>
+<l><hi rend="i">Of haar alle and're deên de naam van laelyk draagen.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>3. Regul.</head>
+<lg type="poem">
+<l rend="; 2tab"><hi rend="i">Zy my zich van gemaakt gelonk,</hi></l>
+<l rend="; 2tab"><hi rend="i">Pommades, watertjens, en diergelyke dingen</hi>;</l>
+<l rend="; 3tab"><hi rend="i">Al dat gesmeer, al dat gepronk,</hi></l>
+<l rend="; 3tab"><hi rend="i">Doet veeltyds de eer in duigen springen.</hi></l>
+<l rend="; 2tab"><hi rend="i">Al dat versieren, om voor schoon te boek te staan,</hi></l>
+<l rend="; 3tab"><hi rend="i">Word zelden voor den man gedaan.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>4. Regul.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="i">Haar kaper dek haare oogen</hi></l>
+<l rend="; 1tab"><hi rend="i">Wanneer zy uitgaat, zo gelyk als 't de eer gebied.</hi></l>
+<l rend="; 1tab"><hi rend="i">En, op dat zy haar man meêr zou behaagen moogen,</hi></l>
+<l rend="; 3tab"><hi rend="i">Behaagze vry alle and'ren niet.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>5. Regul.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="i">Geen gezelschap aan te houwen</hi></l>
+<l rend="; 3tab"><hi rend="i">Vergt de goede regul haar,</hi></l>
+<l rend="; 3tab"><hi rend="i">Als die haar man zelf nood in 't openbaar.</hi></l>
+<l rend="; 3tab"><hi rend="i">Alle oppassers van mevrouwen,</hi></l>
+<l rend="; 3tab"><hi rend="i">Hoe men 't ook benoemen doet,</hi></l>
+<l rend="; 3tab"><hi rend="i">Doen de mannen zelden goed.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>6. Regul.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="i">Zy moet zich geschenken wachten</hi></l>
+<l rend="; 3tab"><hi rend="i">Aan te vaarden, wyl men ziet</hi></l>
+<l rend="; 3tab"><hi rend="i">Waar de geever naar zal trachten,</hi></l>
+<l rend="; 3tab"><hi rend="i">Want men geeft thans niets om niet.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<pb n="44"/>
+<head>7. Regul.</head>
+<lg type="poem">
+<l rend="; 4tab"><hi rend="i">Pen noch inkt moet haar behaagen,</hi></l>
+<l rend="; 4tab"><hi rend="i">Noch papier; zulks ik venyn.</hi></l>
+<l rend="; 4tab"><hi rend="i">Wat 'er moet geschreeven zyn,</hi></l>
+<l rend="; 4tab"><hi rend="i">Daar staat de man zorg voor te draagen.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>8. Regul.</head>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Al die gemeenzaamheid die men bezoeken noemt,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vol ongeschiktheid, hoe de mode 't ook verbloemt,</hi></l>
+<l rend="; 3tab"><hi rend="i">Zyn recht bekwaam om vrouwen eer te krenken;</hi></l>
+<l rend="; 3tab"><hi rend="i">Ja, door een wet hoort zulks te zyn verboôn,</hi></l>
+<l rend="; 4tab"><hi rend="i">Wyl, hoe men gaauwst de mannen hoon,</hi></l>
+<l rend="; 3tab"><hi rend="i">De vrouwtjens daar zomtyds te zaam bedenken.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>9. Regul.</head>
+<lg type="poem">
+<l rend="; 3tab"><hi rend="i">Wat vrouw zich de eer stelt tot een baak,</hi></l>
+<l rend="; 3tab"><hi rend="i">Neem in het speelen geen vermaak:</hi></l>
+<l rend="; 1tab"><hi rend="i">Het Spel moet zy, als doodlyk, schroomen</hi>;</l>
+<l rend="; 4tab"><hi rend="i">Want zo haar, geluk vertraagt,</hi></l>
+<l rend="; 4tab"><hi rend="i">Kan zy licht zo verre komen,</hi></l>
+<l rend="; 4tab"><hi rend="i">Dat ze 'er 't heele resje aan waagt.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>10. Regul.</head>
+<lg type="poem">
+<l rend="; 5tab"><hi rend="i">Nimmer moet zy speelen vaaren</hi></l>
+<l rend="; 5tab"><hi rend="i">Zonder man, noch gaan te gast,</hi></l>
+<l rend="; 3tab"><hi rend="i">Daar men, onder groene blaaren,</hi></l>
+<l rend="; 4tab"><hi rend="i">Lustig drinkt, en wakker brast.</hi></l>
+<l rend="; 4tab"><hi rend="i">Schoon zy word voor niet onthaalt,</hi></l>
+<l rend="; 1tab"><hi rend="i">Het is altyd haar man die het gelag betaalt.</hi></l>
+</lg>
+</div>
+<div type="scene">
+<head>11. Regul.....</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Genoeg: lees vry alleen de rest, met aandacht, voort;</l>
+<l>Ik zal 't u alles straks verklaaren zo 't behoort.</l>
+<pb n="45"/>
+<l>My schiet daar in, dat ik noch iemand heb te spreeken</l>
+<l>Ik ben hier weêr eer een kwartier zal zyn verstreeken.</l>
+<l>Ga binnen, hou voor al dit boekje in waarde en acht.</l>
+<l>Komt de Notaris hier, zeg hem, dat hy wat wacht.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>KAn ik wel beter doen, als haar myn vrouw te maaken?</l>
+<l>Zy zal tot zulk een vorm, als 't my belieft, geraaken:</l>
+<l>Gelyk een klompje was, is zy, in myne hand,</l>
+<l>Dat ik kan kneeden na myn neiging en verstand.</l>
+<l>Het heeft niet veel gescheelt, of in die weinig dagen,</l>
+<l>Dat ik ben uit geweest, was zy aan my ontdraagen,</l>
+<l>Door haare onnozelheid. Maar 't is noch best, wanneer</l>
+<l>Een vrouwtje faalt, door haar onnozelheid, te meêr,</l>
+<l>Om dat men lichtelyk haar kan te rug doen keeren.</l>
+<l>Een oprecht harte zal zyn pligt gewillig leeren,</l>
+<l>Is van den goeden weg zy 't allerminst gedwaalt,</l>
+<l>Slechts door een woord of twee word zy haast weêrgehaalt:</l>
+<l>Maar een scherpzinnig wyf is, niet zo licht te vangen;</l>
+<l>Wyl van haar zintykheid ons lot steeds af blyst hangen:</l>
+<l>Al wat zy voorneemt praat haar niemand uit het hoofd,</l>
+<l>En al ons onderwys dat is slechts hair geklooft;</l>
+<l>Haar schrander brein doet haar bespotten onze reeden,</l>
+<l>Haar haare feilen, met de naam van deugd, bekleeden,</l>
+<l>En haar uitvinden, om na lust haar gang te gaan,</l>
+<l>Bedriegerijen, daar de gaauwste voor blyst staan,</l>
+<l>Vergeefs is 't wat men doet om haare list te breeken;</l>
+<l>Een schrander wyf is, als de nikker zelfs, in treeken;</l>
+<l>En, als haar zinlykheid reeds stil heeft vast gesteld</l>
+<l>Het vonnis van onze eer, dan baat 'er geen geweld.</l>
+<l>Veel eerelyke mans, die daar van konden klaagen;</l>
+<l>Maar onze Loskop heeft geen roem daar op te draagen:</l>
+<pb n="46"/>
+<l>Door zyn te ruim gesnap, is hy het voetspoor mis.</l>
+<l>Dus ziet men wat 't gebrek van onzen Landaart is.</l>
+<l>Is 't haar gebeurt de gunst van eene te verkrygen,</l>
+<l>Het allerlastigste voor hen is zulks te zwygen;</l>
+<l>Hun zotte hovaardy parst hen zodaanig, dat</l>
+<l>Zich menig, eer hy 't zweeg, veel eer verhangen had.</l>
+<l>Wat heeft de Wulpsheid op de vrouwtjens groot vermoogen,</l>
+<l>Als op loshoofden zy te dartel slaan heur oogen!</l>
+<l>En die.... maar, 'k zie hem daar; 'k doe myn gemoed geweld,</l>
+<l>Om eens te zien hoe zeer dien slag hem heeft ontsteld.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Horatius, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>IK kom van uwent, 't lot wil my, na 't schynt, niet gunnen,</l>
+<l>Dat ik u immer in uw huis zal vinden kunnen,</l>
+<l>Maar 'k zal 't zo menigmaal herhaalen, dat...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Myn Heer,</l>
+<l>Ik bid u maaken wy geen Complimenten meêr.</l>
+<l>Ik kan niet wel den zwier daar van in 't hoofd verdraagen,</l>
+<l>En ging het na myn zin men zou ze al t'zaam verjaagen;</l>
+<l>Het is een snood misbruik; ik acht het meerendeel</l>
+<l>Twee derde van den tyd daar in verslyt te veel.</l>
+<l>Ei, laat ons, zonder dat, beide onze hoofden dekken.</l>
+<l>Iets van uw' vrijery kan tot meêr vreugd verstrekken;</l>
+<l>Hoe is 't daar meê? 'k Had flus wat anders in den zin,</l>
+<l>Maar 't sedert heb ik het gedacht op uwe min.</l>
+<l>'t Is wonder dat ge in 't kort hebt zo veel gunst verkreegen,</l>
+<l>En aan 't vervolg laat zich myn hart op 't hoogst gelegen.</l>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>'k Beken, sints dat ik u myn liefde deed verstaan,</l>
+<l>Is my een ramp gebeurt, waar in 'k my vind belaân.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Och, och! wat is 't?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 3tab">Het lot, om myne drift te toomen,</l>
+<l>Heeft den bewaarder van myn Schoone t'huis doen komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Welk ongeluk!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">O ja! en dat my 't meeste smart,</l>
+<l>Hem is bekent gemaakt de neiging van ons hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Kan 't zyn! wie of hem dat zo haast bekent kon maaken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik weet het niet, maar niet te min, zo staan de zaaken.</l>
+<l>'k Dacht ter bestemder tyd myn Schoone te gaan zien,</l>
+<l>En, met eerbiedigheid, myn dienst haar aan te biên,</l>
+<l>Maar 'k vond dat 't anders was met myn geluk gelegen,</l>
+<l>Want knecht en meid hield my, elk op het vinnigst tegen;</l>
+<l>Zy riepen stout; Vertrek, gy word niet meer gelooft.</l>
+<l>En slooten met geweld de deur my voor het hoofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Voor 't hoofd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Voor 't hoofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Dat is wry haat'lyk; selleweeken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik meende, door een schreef der deur, met hen te spreeken,</l>
+<l>Maar, hoe zeer ik hen ook mogt vleijen, hoe beleeft,</l>
+<l>'t Was; Gy komt hier niet in, dewyl 't men Heer ons heeft</l>
+<l>Verboôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Deên zy niet op?</l>
+</sp>
+<pb n="48"/>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 4tab">O neen; en daar beneven</l>
+<l>Kwam my Agneet bericht, van zyne weêrkomst geeven,</l>
+<l>Uit 't venster; zy riep zelf, op 't strafst, my toe; ga heen,</l>
+<l>Vertrek, en wierp my na het hoofd met eenen steen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe! met een steen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 3tab">O ja, een steen; en, 'k durf u zweeren,</l>
+<l>'t Was van de kleensten niet die zy my kwam verëeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat henker, mag dat zyn? die pruimen zyn te slecht,</l>
+<l>En 't doet my zeer, dat gy zo kwalyk zyt berecht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>'k Beken zyn wederkomst zal my veel hartzeer baaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik ben met u begaan, dat kan ik u verklaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Die gryns verbrod al 't werk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 5tab">Ja, maar hou echter moed,</l>
+<l>Gy vind wel kans om dat verlies te zien geboet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>'k Moer zulks, door list, op nieuws eens wederom bezoeken,</l>
+<l>En dien jaloerssens vlyt, indien ik kan, verkloeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat zal u licht zyn. Maar weet ge of zy u bemind?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Voorzeker.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Dat 's genoeg, gy hebt haar weg myn Vrind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik hoop....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">De steen die heeft uw hoop ter neêrgeslagen,</l>
+<pb n="49"/>
+<l>Maar kreun u daar niet aan, noch wilt te ontydig klaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Geensins. Maar 'k merkte dat de vent daar by was, dat</l>
+<l>Hy al dat werk bestierde, en zich verborgen had;</l>
+<l>Maar 't geen my vremst, in dit geweemel, kwam te vooren,</l>
+<l>En daar gy zekerlyk ook vremd van op zult hooren,</l>
+<l>Is van die Schoone, noch zo jong, een kloeke daad,</l>
+<l>Die haare een vouw digheid vry ver te boven gaat.</l>
+<l>Men moet bekennen dat de min heeft meester krachten;</l>
+<l>Hy brengt, het geen men nooit begreep, ons in gedachten,</l>
+<l>Dat wy zo wonderlyk veranderen van zeên,</l>
+<l>Kost aan zyn onderwys een ogenblik alleen.</l>
+<l>Als hy ons leid kan geen natuur ons brein beperken.</l>
+<l>Zyn schielykheid in doen gelykt de wonderwerken.</l>
+<l>Een gierigaard maakt hy dat mild en ryk'lyk geeft;</l>
+<l>Een bloodaart maakt by koen, een stuurbol gantsch beleeft;</l>
+<l>De logste mensch word straks tot vaardigheid gedreeven;</l>
+<l>Hy kan de eenvouwdigste straks schrand're zinnen geeven.</l>
+<l>Dit laatste wonder is in schoone Agneet, geschied,</l>
+<l>Zy riep my toe, heel kort, wanneerze my verliet;</l>
+<l><hi rend="i">'k Bid, ga van hier, ik moet uw byzyn laaten vaaren</hi>;</l>
+<l><hi rend="i">'k Weet uwe reên, dit zal de myne aan u verklaaren.</hi></l>
+<l>Die steen, waar over gy verwondertstond, myn Heer,</l>
+<l>Viel, met een briefje, dicht voor myne voeten neêr.</l>
+<l>Ik sta verrukt die brief zo wel gesteld te vinden,</l>
+<l>En hoe zy, door de steen, den grynzert wist te blinden;</l>
+<l>Moet gy voor zulk een daad niet opgetoogen staan?</l>
+<l>Word, door de liefde, op 't brein, geen wonderwerk gedaan?</l>
+<l>En kan men loochenen dat, door het alvermoogen</l>
+<l>Van zyne kracht, een hart tot wond'ren word bewoogen?</l>
+<l>Wat dunkt u van de styl, en van de nette hand?</l>
+<l>Zeg, staat gy niet verzet voor zulk een sneêg verstand?</l>
+<l>Vind gy de rol, die dien jaloerssen hier moest speelen,</l>
+<l>Niet heel genoeggelyk? ai! zeg?</l>
+</sp>
+<pb n="50"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">In allen deelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>'k Bid, lach ten minsten eens om dien verwaanden mensch,</l>
+<l>Geharnast om te doen mislukken myne wensch,</l>
+<l>Die zich bebolwerkt, en met steenen wil verweeren,</l>
+<l>Gelyk als of ik hem, door storm, wilde overheeren;</l>
+<l>Die, om my af te slaan, in zyne ontsteltenis,</l>
+<l>Met heel zyn huisgezin als in de wapens is,</l>
+<l>En, door zyn eigen tuig, wat hy ook mogt vertrouwen,</l>
+<l>Misleid word, door een' die hy wilde onkundig houwen.</l>
+<l>Voor my, 'k beken, hoe zeer zyn wederkomst my kwelt,</l>
+<l>En welk een hinderpaal zy myne liefde stelt,</l>
+<l>Dat ik my naauwelyks van lachchen kan bedaaren,</l>
+<l>Om myn zo vremd, en zyn bespott'lyk wedervaaren.</l>
+<l>Maar gy, na dat my dunkt, lacht niet genoeg daar van.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">gemaakt lachchende</hi>.</speaker>
+<l>Vergeef me dat, myn Heer, ik lach zo zeer ik kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik moet u, als myn vrind, de brief eens laaten hooren,</l>
+<l>Hoe fraai haar pen ontleed de zucht in haar gebooren;</l>
+<l>Hoe zielberoerende, hoe vol genegenheid,</l>
+<l>Eenvouwdig, teder, vol vernuft en goed beleid.</l>
+<l>In 't kort, zo als natuur, op 't zuiverste, de zinnen</l>
+<l>Ontroeren komt, wanneer men 't eerst begint te minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘Zie daar, Karonje, waar toe u het schryven strekt,</l>
+<l>Het is my leed dat men die kunst u heeft ontdekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi> <hi rend="i">leest de brief</hi>.</speaker>
+<p>I<hi rend="i">K wil u schryven, en ik vinde my zeer verlegen hoe ik het aan zal vangen, ik hebbe gedachten, die ik wel wenschte dat gywist, maar ik weet niet hoe ik u die verklaaren zal, en ik mistrouw my wegens de woorden. Gelyk ik begin te merken dat men my onweetende heeft zoeken te houden, zo ben ik beducht iets te stellen dat niet</hi>
+<pb n="51"/><hi rend="i">wel zy, en meêr te zeggen als ik behoorde te doen</hi>: <hi rend="i">in der waarheid, ik weet niet wat ge my gedaan hebt, maar ik gevoel 't voor my een doodelyk verdriet te zyn, 't geene men my dwingt tegens u te doen, en dat ik blyde zoude zyn de uwe te weezen. Moogelyk doe ik kwaalyk zulks te zeggen, doch ik kan my daar van niet onthouwen</hi>; <hi rend="i">en in ik wenschte zulks, zonder kwaad te kunnen doen. Men zegt my krachtelyk, dat alle Jongelingen bedriegers zyn, dat men na hen niet moet luisteren, en dat alles wat ge my wys maakt alleen strekt om my te misleiden</hi>; <hi rend="i">maar ik verzeker u dat ik my zulks van u, tot noch toe, niet heb kunnen verbeelden, en ik benzo, dooruwe redenen, geraakt, dat ik niet zou kunnen gelooven die loogenachtig te zyn. Want, om kort te gaan, gelyk ik zonder arg ben, zo zoud gy 't grootste ongelyk van de waereld hebben my te bedriegen, en ik geloof dat ik daar over van hartzeer zoude sterven.</hi></p>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>‘O Teef!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Wat deert u?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Niets; 'k heb daar een hoest gekreegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Zaagt ge ooit uitdrukking zo vol zoetheid, zo genegen?</l>
+<l>Hoe streng zy, door geweld, tierannig word bewaart,</l>
+<l>Noch toont zy evenwel een hoogverhevene aart,</l>
+<l>Is 't niet strafwaardig, dat hy zulke groote gaaven</l>
+<l>Zo schelms bederven wil, en houd gelyk begraaven?</l>
+<l>En dat hy, laatend haar onkundig, onbewust,</l>
+<l>Dat helder licht van geest heel zoekt te zien geblust?</l>
+<l>De min begon het eerst dat dekzel op te scheuren,</l>
+<l>En, mag my het geluk, dat ik verwacht, gebeuren,</l>
+<l>Dat ik, gelyk ik hoop, die geemelyke geest,</l>
+<l>Die beul, die hondsvot, die verraader, en die beest....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Vaar wel.</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Maar, hoe! zo ras?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">My komt daar in gedachten</l>
+<l>Een zaak van aanbelang, daar 'k niet meê dien te wachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Maar kend gy niemand, wyl zy word zo streng beheert,</l>
+<l>Die in het huis, daar zy in is, zomtyds verkeert?</l>
+<l>Ik verg 't u onbeschroomt, en 't is niet vreemd te vinden,</l>
+<l>Dat die behulpzaamheid gepleegt word onder vrinden.</l>
+<l>Daar binnen ben ik by een ygelyk verdacht;</l>
+<l>De knecht en meid staan bei geduurig op de wacht;</l>
+<l>En, hoe zeer ik bestond te vleijen en te smeeken,</l>
+<l>Zy willen 't allerminst my nimmer hooren spreeken.</l>
+<l>Ik had een oude vrouw daar toe aan myne hand,</l>
+<l>En, waarelyk, zy was uitsteekende in verstand;</l>
+<l>'k Heb in 't begin, door haar, veel gunst en dienst verworven,</l>
+<l>Maar sints vier dagen is die goede sloof gestorven.</l>
+<l>Weet gy geen middel om my in myn vrijery</l>
+<l>Te helpen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Neen: gy zult 't wel vinden buiten my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Vaar wel; gy hebt gehoort wat ik u durf vertrouwen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>WAt heb ik myn gemoed bedwongen moeten houwen!</l>
+<l>Wat is 't verbergen van myn smart me een pyn geweest!</l>
+<l>Hoe! eene eenvouwdige, zo scherp, zo vlug van geest?</l>
+<l>O! die verraaderes heeft voor my willen veinzen,</l>
+<l>Of 't is de booze, die zulks storte in haar gepeinzen.</l>
+<l>Zie hoe dat haatlyk schrift me om hals brengt, en vermoord.</l>
+<pb n="53"/>
+<l>'k Merk die verleider heeft haar hart geheel bekoort;</l>
+<l>Door myne aanhitzing heeft hy 't anker laaten vallen;</l>
+<l>Dat baart myn wanhoop, dat 's my 't doodelykst van allen.</l>
+<l>Ik lyde een dubb'le schaâ door 't missen van haar hart;</l>
+<l>Myn min, en ook myne eer zyn onder een verwart.</l>
+<l>'k Word dol, die plaats zo schelms te zien in and're handen,</l>
+<l>En myn voorzigtigheid zo ongelukkig stranden.</l>
+<l>Ik weet wel, dat die wulp zyn min beklaagen zal,</l>
+<l>Dat ik de straf daar van kan laaten aan 't geval,</l>
+<l>En dat ik, door haar zelfs, my zal van haar zien wreeken.</l>
+<l>Maar hard is 't zich van 't geen men mind te zien versteeken.</l>
+<l>O liefde! wyl ik heb myn keur met zorg beleid,</l>
+<l>Waar toe my toch zo diep in haar bekoorlykheid</l>
+<l>Gewikkelt? zy heeft geld of onderstand, noch maagen;</l>
+<l>Zy heeft myn min verraân, zo teder haar gedraagen,</l>
+<l>En ik bemin haar noch, na zulk een snood bestaan;</l>
+<l>Ja zo, dat ik my van die drift niet kan ontslaan.</l>
+<l>O dwaas! schaamt gy u niet? ik voel het hart my splyten;</l>
+<l>Ja 'k zou myn aangezigt wel van malkander ryten.</l>
+<l>Ik ga na binnen, doch om eens te zien alleen,</l>
+<l>Hoe zy zich houden zal, na zulke zwaarigheên.</l>
+<l>O waardige eer! wil toch myn kruin voor schand bevryden,</l>
+<l>Doch zo ik, volgens 't lot, die hoon zal moeten lyden,</l>
+<l>Zo gun my toch, tot troost in zulk een tegenspoed,</l>
+<l>Gelyk aan veele liên, een stil en kloek gemoed.</l>
+</sp>
+<stage><hi rend="i">Einde van het derde Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="54"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>'k BEken dat naauw'lyks ik op eene plaats kan blyven.</l>
+<l>'k Voel, om en om, myn geest door duizend zorgen dryven,</l>
+<l>Op dat ik binnen, en van buiten gade slaa,</l>
+<l>Hoe 'k best de laagen van dien schuimer tegen staa.</l>
+<l>Hoe moedig zag die pry uit haar verraadersche oogen;</l>
+<l>Zy is, wat zy ook heeft verricht, niet 't minst bewoogen.</l>
+<l>Schoon zy me op de oever heeft van 't naare graf gebragt,</l>
+<l>'k Merk niet, aan haar gelaat, dat zy zulks ietwes acht.</l>
+<l>Hoe 'k haar geruster en vernoegder zag van weezen,</l>
+<l>Hoe ik te meêr de gal voelde in myn bloed gereezen;</l>
+<l>Die heete driften my ontsteekende de zin,</l>
+<l>Helaas! verdubbelden het vuur van myne min.</l>
+<l>'k Was heftig, geemelyk, en brandde in dollen tooren,</l>
+<l>En evenwel zy kwam nooit schoonder my te vooren;</l>
+<l>Haare oogen scheenen nooit zo klaar aan myn gezigt;</l>
+<l>Nooit voelde ik my zo sterk aan haare min verpligt:</l>
+<l>En ik bemerkte wel, dat ik zal moeten sterven,</l>
+<l>Indien myn ongelyk my haar genot doet derven.</l>
+<l>Is zy zo eerlyk opgebragt, door mynen last,</l>
+<l>Heb ik zo teder haar bezorgt, op haar gepast,</l>
+<l>Van haare kindsheid af, haar in myn huis doe komen,</l>
+<l>En haar standvastig zelf te trouwen voorgenomen,</l>
+<l>Heeft op haar groeijend schoon myn ziel zo vast gebouwt,</l>
+<l>En ik, zints dertien jaar, haar hart my toevertrouwt,</l>
+<l>Om van een jonge wulp, in wien zy schept behaagen,</l>
+<l>Haar, zelfs in myn gezigt, aan my te zien ontdraagen,</l>
+<l>Daar ik haar reeds acht half getrouwt te zyn met my?</l>
+<pb n="55"/>
+<l>Neen, neen! 't zal zo niet gaan: bedrieg uw zelve vry:</l>
+<l>Doet wat gy kunt, of 't zal aan myn beleid mislukken,</l>
+<l>Of van uw zotte hoop zult gy geen vruchten plukken.</l>
+<l>Gy zult, hoe gy ook lacht, in 't kort u zien verstrikt.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">De Notaris, Arnoldus</hi> <hi rend="i">de Notaris niet ziende</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>DAar is hy. Goeden dag, myn Heer, dat 's wel gemikt.</l>
+<l>Ik kom om het Contract, dat gy begeert, te maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe stel ik 't best, om tot een goed besluit te raaken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>'t Moet na de slenter zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Het dient wel overleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Ik zal niets overslaan tot uw verzekenheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Men moet omzigtig in het wel beleggen weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Als 't in myn hand is hoeft gy nergens voor te vreezen.</l>
+<l>Gy moet, om al wat u mogt hinderen, te ontgaan,</l>
+<l>Het niet quiteeren voor dat gy heel zyt voldaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik vreeze, indien iets van 't geheim komt uit te lekken,</l>
+<l>Dat meal de waereld zal belachchen en begekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>'t Kan zo geschieden dat daar niemand 't minst van weet,</l>
+<l>En gy kunt uw Contract wel maaken in 't sekreet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maar hoe zal ik my best omtrent Agneta voegen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>De Bruids gaaf schikt men na haar goed, of uw genoegen.</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Bemin haar, en die liefde ontroert my het gemoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Gy kunt, zo veel u lust, haar gunnen van uw goed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maar hoe zal ik in dit geval met haar toch leeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Heer, de order is dat gy haar 't derde paar moet geeven</l>
+<l>Van al haar huuwlyks goed, maar dat is niemendal,</l>
+<l>Men gaat zo ver men wil, myn Heer, in dat geval.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Indien ik...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>, <hi rend="i">die van Arnoldus word gezien</hi>.</speaker>
+<l rend="; 2tab">Gy kunt zulks na weêrzyds zin beleggen,</l>
+<l>Al wat gy doen wilt, daar heeft niemand op te zeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l rend="; 1tab">Het kan ook geschiên in 't heimelyk en stil,</l>
+<l>Wanneer hy haar bemind, en haar verpligten wil,</l>
+<l>'t Zy by Douarie, of Voorwaarde, wel beschreeven,</l>
+<l>Die evenwel komt op te houden met haar leeven;</l>
+<l>Of onweêrroepelyk, dat erft zulks aan haar bloed;</l>
+<l>Of na 't gebruik, of zo als 't iemand stellen doet,</l>
+<l>Of wel door vrije gift, het zy voor de een of de ander,</l>
+<l>Na luid van het contract, of even aan malkander.</l>
+<l>Haalt gy uw schouwders op? spreek ik u. als een zot?</l>
+<l>Waant gy dat uw contract door my zal zyn verbrod?</l>
+<l>'k Denk niet dat niemand my daar in iets hoeft te leeren.</l>
+<l>Ik weet waar na men zich in trouw moet reguleeren;</l>
+<l>Gemeenzaamheid van goed, van midd'len, en van winst,</l>
+<l>'t En zy men renoncieert per Acte voor het minst;</l>
+<l>En dat het derde deel van 't bruidsgoed, daar en boven,</l>
+<l>Word in 't gemeen gebragt, en.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">'k Wil zulks wel gelooven,</l>
+<pb n="57"/>
+<l>Gy weet dat alles; maar wie spreekt u daarom aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Gy, die my heden voor een gek wilt door doen gaan,</l>
+<l>Die uwe schouwders trekt, de spot met my durft dryven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wat yzegrim is dat! my lust hier niet te blyven.</l>
+<l>Vaar wel; dus werd uw brein in stilte best gebrogt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Hebt gy me, om een contract te maaken, niet verzocht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ja, 'k heb om u gestuurt, maar 't is noch niet van nooden,</l>
+<l>Als 't my gelegen komt zo word gy weêr ontboden.</l>
+<l>Ai, zie die barsse vent, die stoute kaakelaar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>Gewis hy loopt 'er meê, o ja! 't is al te waar.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">De Notaris, Jorden, Wobuyn, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>ZEi niet uw Heer, dat hy my zou tot zynent wachten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Notaris</hi>.</speaker>
+<l>'k Weet niet waar voor dat gy beide hem moogt achten;</l>
+<l>Maar zeg hem, van myn kant, dat hy, gelyk ik zweer,</l>
+<l>Is een volslagen gek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">We zellen 't doen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Jorden, Wobbyn, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 2tab">MEn Heer....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Kom nader, 'k moet met u, als met myn vrinden, spreeken,</l>
+<pb n="58"/>
+<l>Want uw getrouwigheid is my reeds klaar gebleeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jouden</hi>.</speaker>
+<l>Heer, de Notaris...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Zacht, dat 's voor een and'ren tyd,</l>
+<l>Men dingt my naar myn eer, 'k raak, zon der u, die kwyt,</l>
+<l>Wat schande zou u niet, myn kind'ren, overkomen,</l>
+<l>Indien myn eer my wierd diefachtig afgenomen?</l>
+<l>Men hield u overal voor snood, en ongetrouw;</l>
+<l>Ja weet, dat elk u met de vinger wyzen zou.</l>
+<l>Nu, wyl 'er u zo veel, als my, is aangelegen,</l>
+<l>Zo let, van uwe kant, toch beide wel ter degen,</l>
+<l>Dat die galant toch niet, wat hy op u begeert....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Men Heer, je hebt ons flus genoeg de les geleert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maar Iaat zyn woorden en gevlei u toch niet raaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Gantsch niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 1tab">Wy weeten hoe wy 't met hem zullen maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Indien hy zoetjens kwam; Och! Jorden broer, myn hart,</l>
+<l>Ik bid, help my aan wat verlichting in myn smart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Je bint een gek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Heel goed. Wobbyn, myn uitgeleezen,</l>
+<l>Gy schynt zo goed, en zyt zo vrindelyk van weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Je bint een kwiebus.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">Goed. Wat kwaad vind gy, myn kind,</l>
+<l>In myn voorneemen, dat zich aan de deugd verbind?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Loop heen, bedrieger.</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">tegens Wobbyn</hi>.</speaker>
+<l rend="; 3tab">Goed. Wobbyp, 'k zal moeten sterven,</l>
+<l>Zo 'k geen meêdoogen met myn lyden kan verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Je bint een ondeugd, en een dubbelde schavuit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel wel. 'k Bid, leg myn doen toch niet ten kwaadsten uit;</l>
+<l>Ook eisch ik niets voor niet; ik zal uw dienst gedenken:</l>
+<l>Ly, Jorden, dat ik u met drinkgeld mag beschenken;</l>
+<l>En daar, Wobbyntje lief, dat 's voor een nieuwe schort,</l>
+<stage><hi rend="i">Zy houden beide de hand op, en neemen 't geld aan.</hi></stage>
+<l>'t Is maar een staaltje van het geen ik u in 't kort</l>
+<l>Vereeren zal; ik bid, wil toch uw opzet breeken;</l>
+<l>Doet my de gunst dat ik mag met uw Juffrouw spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi> <hi rend="i">hem wegstootende</hi>.</speaker>
+<l>Brus hier van daân.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel goed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi> <hi rend="i">hem stootende</hi>.</speaker>
+<l rend="; 4tab">Jou hondsvot, pakje voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi> <hi rend="i">hem weeder stootende</hi>.</speaker>
+<l>Of straks....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">Zacht, zacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l rend="; 2tab">Men Heer, doen wy 't niet, als 't behoord?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Moet 't zo niet weezen, als hy ons aan 't hoofd komt reemen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ja; maat het geld had jy niet hooren aan te neemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>Men Heer, daar hebben wy niet om gedacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Men Heer,</l>
+<pb n="60"/>
+<l>Zo 't jouw belieft, begin met ons van veuren weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'t Hoeft niet. Gaat binnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l rend="; 1tab">Het men Heer niet aârs te zeggen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen. Gaat maar binnen; wilt uw' zaaken wel beleggen.</l>
+<l>Ik schenk u 't geld, weet dat ik hier straks weêr zyn zal,</l>
+<l>Houd steeds een oog in 't zeil, en keer myn ongeval.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>IK mag de Kruijer op den hoek straks wat verëeren,</l>
+<l>Om uit zyn pothuis, op 't bedekst, te spionneeren.</l>
+<l>Ik zal haar uit het huis in 't minst niet laaten gaan,</l>
+<l>En stellen goede wacht, en houden 'er van daan</l>
+<l>Die kantverkoopsters en die kapsters, daar beneven,</l>
+<l>Al 't straatgeschor, dat fiks in 't kopp'len is bedreeven,</l>
+<l>In 't kort, al dat gespuis met Thee en Coffy goed,</l>
+<l>Waar door dat menig boef zyn list uitwerken doet.</l>
+<l>Ik ken de waereld, 'k weet hoe men haar list moet vreezen.</l>
+<l>Die goeije vrijer moet een groote gaauwert weezen,</l>
+<l>Zo van zyn kant een spie, of hoen daar binnen raakt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Horatius Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>MYn Heer 't schynt deeze plaats is tot myn heil gemaakt;</l>
+<l>'k Ben braaf een ongeval, waar in ik was, ontkomen;</l>
+<l>Toen ik u flus verliet, wie had zulks durven droomen,</l>
+<l>Zag ik Agnete alleen in haare venster staan,</l>
+<l>Die wat lucht schepte, in het beschut der lindeblaân:</l>
+<l>Na dat zy had geknikt, kwam zy terstond geloopen,</l>
+<pb n="61"/>
+<l>En deê bezyden 't huis de tuindeur voor my open.</l>
+<l>Maar naauw'lyks waaren we op haar kamer met ons tweên,</l>
+<l>Of haar jaloersschen kwam de trap op van beneên,</l>
+<l>En al wat zy kon doen, op dat ik bleef verhoolen,</l>
+<l>Was datze my terstond heeft in een kas verschoolen,</l>
+<l>Hy trad ter kamer in; ik zag hem niet, maar hy,</l>
+<l>Met groote schreeden, ging gestaâg de kas voorby.</l>
+<l>Ik hoorde zomtyds hem erbarmlyk zuchten, klaagen;</l>
+<l>Dan heeft hy tegen 't schot, gelyk verwoed, geslagen;</l>
+<l>Hy schopte 't hondje, om dat het beesje wierd onsteld,</l>
+<l>Al wat hem voor kwam, wierd door hem ter neêr geveld,</l>
+<l>En, met een woeste vuist, wierp hy van boven needer</l>
+<l>Wat voor haar schoorsteen stond, en gooide 't heen en weeder;</l>
+<l>En het is zeker, dat 't gewaande hoorenbeest,</l>
+<l>Van 't geen zy heeft gedaan, verkondigt is geweest.</l>
+<l>In 't eind, na dat hy had al wat 'er stond gebrooken,</l>
+<l>En zich, op 't geen hem niet misdaan had, streng gewrooken,</l>
+<l>Is hy, vol ongeneugt, stil naar beneên gegaan,</l>
+<l>En Agnes kwam me uit myn gevangenis ontslaan;</l>
+<l>Maar, wyl ons stond voor zyn verbolgendheid te schroomen,</l>
+<l>Heb ik myn afscheid, om de zekerheid, genomen;</l>
+<l>'t Was al te veel gewaagt. Ik word van deeze nacht,</l>
+<l>Om stil by haar te zyn, van myn Agneet verwacht;</l>
+<l>Wanneer ik driemaal kuch zal 't haar tot teken strekken:</l>
+<l>Met hulp van eene leer zal zy my boven trekken.</l>
+<l>Ik hoop de duisternis die zal my bystand biên,</l>
+<l>Op dat ik myn beminde eens vrijelyk mag zien.</l>
+<l>Gy zyt alleen myn vrind, aan wien ik 't durf vertrouwen;</l>
+<l>De vreugd van 't hart kan zich niet wel verborgen houwen,</l>
+<l>Al had men 't grootst geluk, dat iemand ooit bescheen,</l>
+<l>Het stelt ons, moet men het verzwygen, nooit te vreên.</l>
+<pb n="62"/>
+<l>'k Geloof gy deel neemt in myn blydschap, zo volslagen.</l>
+<l>Vaar wel; herword myn tyd voor alles zorg te draagen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>HOe! wil myn noodlot my verdoen, door slag op slag,</l>
+<l>En my niet gunnen dat ik adem haalen mag?</l>
+<l>Hoe! moet ik, keer om keer, door hun arglistigheden,</l>
+<l>Al myne voorzorg zien, zo schandelyk, vertreeden?</l>
+<l>Ik, in myn' rype tyd, verstrekken tot een spot,</l>
+<l>Voor eene onnoos'le maagd, en van een wulpse zot?</l>
+<l>Als een wysgeerig man heb ik, zints twintig jaaren,</l>
+<l>Bespiegelt al het leed, dat mannen is weêrvaaren,</l>
+<l>En vlytig onderzocht wat rampen, wat verdriet,</l>
+<l>Aan de allerschrandersten van vrouwen zyn geschied.</l>
+<l>Ik zocht, om me op myn beurt niet meê be draait te vinden.</l>
+<l>Na middelen, wanneer 'k me dacht in de echt te binden,</l>
+<l>Om van gelyken niet myn kruin te zien onteert,</l>
+<l>En van myn hoofd een hoon, zo snood, te zien geweert;</l>
+<l>'k Heb, in dat groots besluit, in 't minst niet nagelaaten,</l>
+<l>Wat my de reeden ried dat my zou kunnen baaten;</l>
+<l>En, als of 't noodlot had bestemt, dat hier beneên</l>
+<l>Zou niemand zyn bevryd van die rampzaligheên,</l>
+<l>Na myne ervaarenheid, en 't licht door my verkreegen,</l>
+<l>Om alles in die zaak te wikken en te weegen,</l>
+<l>Na dat ik 't alles heb bedacht ruim twintig jaar,</l>
+<l>Ja, alle voorzorg heb betracht, om dat gevaar</l>
+<l>Te ontkomen, moet, in 't eind, hoe 'k my daar voor wou myden,</l>
+<l>Ik, op een zelve wys, als and'ren, schipbreuk lyden.</l>
+<l>O wreed Beulinnig lot! vergeefs hebt gy getracht</l>
+<l>My te overrompelen; zy is noch in myn magt.</l>
+<l>Schoon dat wulps blondjen heeft haar zinnen ingenomen,</l>
+<pb n="63"/>
+<l>'k Zal hem beletten by het overig te komen;</l>
+<l>En deze nacht, die hy verkiest voor 't stout bestaan,</l>
+<l>Zal zo gemakkelyk niet, als hy waant, vergaan.</l>
+<l>Het geeft my noch vermaak, in al myn leed, te hooren</l>
+<l>Op wat wyze, en wat strik is aan myn eer beschooren;</l>
+<l>Dewyl die loskop, die my zo veel leeds verwekt,</l>
+<l>Zyn medeminnaar zelf heeft zyn geheim ontdekt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Luikas, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>WEl, zullen wy, myn Heer, van avond t'zaamen eeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Neen: 'k vast van avond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 1tab">Hoe! wat zorg heeft u bezeeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik bid verschoon me, 'k word van vreemde zorg gek weld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Hoe! is uw huuwelyk dan weder uitgestelt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat 's zich te veel gemoeit met ander lieden zaaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Zo spytig! hoe, wat kon u dus verandert maaken?</l>
+<l>Compeer, is in uw min u ook wat ramps ontmoet,</l>
+<l>Dat u dus geemelyk, en treurig weezen doet?</l>
+<l>'k Zou 't durven zweeren, na ik zien kan, uit uwe oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Men za! my evenwel, waar na men ook moog poogen,</l>
+<l>Niet doen gelyken aan de geenen, die zo zacht,</l>
+<l>En zo geduldig zich zien in hun eer verkracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Het is iets wonderlyks dat gy, zints zo veel jaaren,</l>
+<pb n="64"/>
+<l>Geduurig op dat punt zo fel komt uit te vaaren:</l>
+<l>Dat gy het hoogst geluk daar in te stellen schynt,</l>
+<l>En om alle andere eer u in het minst niet pynt.</l>
+<l>Een gierigaard, een dief, een guit, voor elk te vreezen,</l>
+<l>Schynt u min schande, als die onnooz'le vlek, te weezen;</l>
+<l>En, hoe 't wel leeven van een man ook elk behaagt,</l>
+<l>Hy is niet eerelyk, indien hy hoorens draagt.</l>
+<l>Indien men 't recht bezeft, waarom wilt gy gelooven,</l>
+<l>Dat zulk een toeval zoude al onze lof verdooven?</l>
+<l>En dat een goed gemoed zich wyten moet een kwaad,</l>
+<l>Dat hy niet keeren kan, en ook zelfs niet begaat?</l>
+<l>Waarom begeert gy dat een man, die komt te trouwen,</l>
+<l>Zich zal zyn roem of hoon aan 't wyf verschuldigt houwen?</l>
+<l>Waar toe een monster, zo verschrikkelyk, gemaakt,</l>
+<l>Van 't leed wanneer een wyf haar eerbaarheid verzaakt?</l>
+<l>Druk in uw geest een beeld van 't willig hoornedraagen,</l>
+<l>Dat uw min kwellen zal, en and'ren het behaagen;</l>
+<l>Dat, wyl zich niemand vry kan achten voor die slag,</l>
+<l>Men zulk een ongeval onzydig houden mag;</l>
+<l>Eo dat, in 't kort, hoe zeer de waereld schreeuwt daar tegen,</l>
+<l>Al 't kwaad daar van is in des mans gedrag gelegen:</l>
+<l>En dat, op dat men 't minst in zulk een voorval ly,</l>
+<l>Men beide de uitersten op 't allervoeglykst my.</l>
+<l>Men volg nooit zulke liên, wel waardig te begekken,</l>
+<l>Die zelf noch ydelheid uit zulke zaaken trekken;</l>
+<l>Verhaalen wat galands haar vrouw heeft aan de hand,</l>
+<l>En roemen op het breedst hun gaaven en verstand,</l>
+<l>Betuigende overal een onbeschaamt vernoegen,</l>
+<l>En durven, waar die gaan, zich nevens hem vervoegen</l>
+<l>Ja, maaken dat al wie hun stoutheid ziet, met reên,</l>
+<l>Zich moet verwonderen om zulke beestigheên.</l>
+<l>Men mag zulk een bedryf wel eervergeeten noemen;</l>
+<l>Maar ook is 't tegendeel niet minder te verdoemen,</l>
+<pb n="65"/>
+<l>Keur ik het onbescheid dier lafferts niet voor goed,</l>
+<l>Ik hou ook geenzints van een bulderend gemoed,</l>
+<l>Wiens onbezonne drift zoekt aarde en lucht te ontroeren</l>
+<l>En dat zich laat zo ver, door dollen toorn, vervoeren,</l>
+<l>Dat al de waereld van zyn byster schreeuwen waagt,</l>
+<l>Als of hy wou dat elk zou weeten wat hy draagt.</l>
+<l>Daar is een middelpad, recht tusschen bei gelegen,</l>
+<l>Waar toe een wys man zich, door reden, laat beweegen;</l>
+<l>Die dat kan houden strekt geen and'rens tydverdryf,</l>
+<l>Al wierd hy 't felst gehoont door zyn ontuchtig wyf:</l>
+<l>En, welk een vonnis of de waereld ook moog stryken,</l>
+<l>Men kau het hoornegild vry zachter doen gelyken;</l>
+<l>Dewyl, als is gezegt, 't min hoon is voor een man,</l>
+<l>Die zich het wysselykst daar in gedraagen kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>De goede Broederschap heeft u veel danks te weeten,</l>
+<l>Dat gy hun adeldom zo breed weet uit te meeten.</l>
+<l>Al wie uw' redenen, zo krachtig, hooren zal,</l>
+<l>Laat zich gewis, met vreugd, straks stellen in 't getal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Dat zeg ik niet, gy hoort my zulke lieden laaken;</l>
+<l>Maar, als het lot ons aan een vrouw heeft doen geraaken</l>
+<l>Zo draag men zich, als daar met steenen word gespeelt,</l>
+<l>Daar, als men van 't geluk zomtyds word misgedeelt,</l>
+<l>Men moet behendig zyn, en, met geruite zinnen,</l>
+<l>De wrevelheid van 't lot, door goed beleid, verwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat is, wel slaapen, en wel eeten, op zyn tyd,</l>
+<l>En achten 't overig dan verder niet een myt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Gy waant te spotten, maar, om niet geveinst te weezen,</l>
+<l>Daar zyn veel dingen, daar ik veel meêr voor zou vreezen,</l>
+<pb n="66"/>
+<l>En die ik grooter ramp zou achten, als de smart</l>
+<l>Der hoon, die u, na 't schynt, zo zwaar legt op het hart.</l>
+<l>Waant gy, als my de keur van bei was voorgeschreeven,</l>
+<l>Dat ik niet liever my zou tot geduld begeeven,</l>
+<l>Als man te weezen van een wyf van woesten aart,</l>
+<l>Hoe eerlyk zy mogt zyn, die altyd tiert en baart?</l>
+<l>Die monsters van de deugd, die eerb're duivelinnen,</l>
+<l>Die willen, dat men, om die glimp, haar moet beminnen,</l>
+<l>Die, om kleen ongelyk, dat zy kwanzuis niet doen,</l>
+<l>Begeeren dat de man de zool kust van haar schoen.</l>
+<l>En dat, dewyl zy heur voor kwaâ geruchten myden,</l>
+<l>Hy haar vermeetelheid in alle ding moet lyden.</l>
+<l>Ik zeg 't noch eens, Compeer, 't Hoorndraagen, inder daad,</l>
+<l>Is niets als 't geen men 't maakt, en al na 't elk verstaat.</l>
+<l>Men hoord 'er zomtyds om te wenschen, en metreden;</l>
+<l>Als and're dingen heeft 't al meê zyn' zoetigheden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Zo uw gemoed daar in genoegen vind en rust,</l>
+<l>Voor my, het myne heeft daar toe in 't minst geen lust.</l>
+<l>En, eer ik zulk een hoon zou immermeer gedoogen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Zacht, niet te zweeren, want gy vond u licht bedroogen;</l>
+<l>Is zulks by 't lot bestemt, al uwe zorg is wind,</l>
+<l>Uw toestaan zal men u daar in niet vergen, Vrind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe! ik een Koekkoek zyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 1tab">Vry heftig zyn uw kwaalen.</l>
+<l>Veel duizend and'ren zyn 't daar gy niet by moogt haalen,</l>
+<l>Zo groot van middelen, van moed, en van geslagt,</l>
+<l>Dat gy, op 't duizenst deel, daar by niet zyt geacht.</l>
+</sp>
+<pb n="67"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ik wil in 't allerminst by hen niet zyn geleeken.</l>
+<l>Wil met uw spotterny my 't hoofd niet langer breeken.</l>
+<l>Hou op, zo 't u belieft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 1tab">Gy schynt vol geem'lykheid;</l>
+<l>'k Hoor flus de reden wel. Peins wat 'er is gezeid,</l>
+<l>En dat, wat drift ook de eer mag in uw hart ontsteeken,</l>
+<l>Men reeds half is het geen waar van wy heden spreeken,</l>
+<l>Wanneer men zweeren durf dat zulks nooit zal geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Voor my, ik zweer 't noch eens, en ga daar in voorzien.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Jorden, Wobbyn, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>MYn Vrinden, 'k ben op nieuws gebragt in duizend vreezen;</l>
+<l>Gy moet, zo 't u belieft, my bei behulpzaam weezen.</l>
+<l>Gy hebt me bei, door uw gerrouwigheid, voldaan,</l>
+<l>Maar heden moet uw deugd noch hooger voor my gaan:</l>
+<l>Zo gy me daar in dient, gelyk ik durf vertrouwen,</l>
+<l>'k Zal uw vergelding, u in 't minste niet onthouwen,</l>
+<l>De man, daar gy van weet, meent my van deze nacht,</l>
+<l>Maar houd zulks beide stil, te doeken onverwacht,</l>
+<l>En by Agneta, door een leer van touw, te raaken.</l>
+<l>Wy moeten zyne list zien vruchteloos te maaken,</l>
+<l>Verziet u ieder van een braaven stok; wanneer</l>
+<l>Hy zal geklommen zyn op 't uiterst van de leer,</l>
+<l>Zal ik aan 't venster zyn, om hem van daar te keeren,</l>
+<l>Dan moet gy beide hem de rug heel deftig smeeren,</l>
+<l>Zo dicht, dat hy daar van een maand 't gevoelen draag,</l>
+<l>En hier nooit wederom, op nieuws, te komen waag;</l>
+<l>Maar zonder dat gy in het minst moet laaten blyken,</l>
+<l>Dat ik van achteren het spel sta aan te kyken.</l>
+<pb n="68"/>
+<l>Hebt gy wel moed myn toorn hier in ten dienst te staan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Is 't slechts mit slaan te doen, men Heer, wees niet belaân,</l>
+<l>Je zelt wel zien dat ik men kracht niet heb verlooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>'k Zel van gelyken ook men best doen, na behooren;</l>
+<l>Al schyn ik niet zo stark, ik scheld hem geenzins kwyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gaat bei dan binnen, maakt dat gy voorzigtig zyt.</l>
+<l>'k Zal dus een braave les aan myn gebuuren toonen,</l>
+<l>Zo al de mannen, die alhier ter stede woonen,</l>
+<l>Hun vrouws galanten zo ontfingen, 'k weet gewis,</l>
+<l>'t Hoorndraagers gild was lang zo groot niet als 't nu is.</l>
+<stage><hi rend="i">Einde van het Vierde Bedryf.</hi></stage>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="69"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Jorden, Wobbyn, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>GY, botte Beesten, och! waar ben ik toe gekomen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>Men Heer, we hebben jou bevel in acht genomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Vergeefs zoekt gy u zelfs te ontlasten door die reên,</l>
+<l>'k Zei niet hem dood te slaan, maar dicht te slaan alleen:</l>
+<l>Ik wou zyn rug heel braaf en deftig zien gestreeken,</l>
+<l>Maar heb u niet belast hem hals en kop te breeken.</l>
+<l>Is 't mooglyk! kon my ooit wel grooter ramp geschiên?</l>
+<l>Och! wat besluit ik best, nu ik hem dood moet zien?</l>
+<l>Gat beide in huis, en houd omzigtelyk verhoolen</l>
+<l>Het geen onnozel ik u beide had bevolen.</l>
+<l>De dag genaakt bereids; 'k ga, in dit ongeval,</l>
+<l>Raad leeven, hoe ik my hier in best draagen zal.</l>
+<l>Waar zal ik heen, indien zyn vader komt te weeten,</l>
+<l>Dat hy, zo onbedacht, alhier is dood gesmeeten?</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Horatius, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>IK moet eens gaan bezien wie daar zo wand'len gaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Och! had ik ooit gedacht.... wie daar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Zo vroeg op straat,</l>
+<pb n="70"/>
+<l>Heer Ardinoldus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 1tab">'k Ben 't, maar gy, wie....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 3tab">Wil niet vreezen,</l>
+<l>Ik ben Horatius. Ik dacht u t'huis te weezen,</l>
+<l>En ging naar uwen toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Wat wonderlyker ding!</l>
+<l>Is dit ook spookery, of een betovering?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik was, recht uit gezeid, ten uitersten verlegen,</l>
+<l>Maar dank 't geluk, dat zich my toond zo zeer genegen,</l>
+<l>Dat ik u hier ontmoet, om u te doen verstaan,</l>
+<l>Dat my myne aanslag is, naar mynen wensch, vergaan:</l>
+<l>'k Heb meêr geluk, als ik ooit denken kon, genooten,</l>
+<l>Zelfs door een toeval, die 'tal scheen om verte stooten,</l>
+<l>Ik weet niet door wat weg 't geheim is uitgelekt,</l>
+<l>En door wat middel toch myne aanslag is ontdekt;</l>
+<l>Maar, 'k was zo hoog pas om in 't venster te geraaken,</l>
+<l>Of ik zag onverwacht my eenig volk genaaken;</l>
+<l>Met stokken gingen zy my, als verwoed, te keer;</l>
+<l>Myn voet ontglipte my, en 'k viel van boven neêr:</l>
+<l>Myn val, hoewel ik noch de slagen wel kan voelen,</l>
+<l>Scheen hun verbolgenheid heel schielyk te verkoelen.</l>
+<l>Dat volk, waar by zich myn Jaloerschen wis bevond,</l>
+<l>Geloofde, door myn val, my doodelyk gewond,</l>
+<l>En, wyl ik, door de pyn, in flaauwte was gezeegen,</l>
+<l>Bleef ik lang leggen, en kon 't minst my niet beweegen.</l>
+<l>Zy meenden, waarlyk, dat ik dood geslagen was,</l>
+<l>En alle waaren zy bekommert op dat pas.</l>
+<l>Ik hoorde 't murm'len, wyl 't stil was, hoe ze elkander</l>
+<l>Betichten, en hoe de een de manslag lei op de ander;</l>
+<l>Zy kwaamen, zonder licht, heel fel op 't lot gestoort,</l>
+<l>En voelden of myn pols noch sloeg, gelyk 't behoord.</l>
+<l>Denk of ik in de nacht niet wel, in allen deelen,</l>
+<pb n="71"/>
+<l>De rol van eene doô heel fraai heb kunnen speelen?</l>
+<l>Zy scheiden zeer verbaast, en waaren droef te moê;</l>
+<l>Ik ben ook opgestaan, en ging naar mynent toe,</l>
+<l>Wanneer Agneta, die 't gerucht reeds had vernomen,</l>
+<l>Is by my op de straat, geheel onsteld, gekomen:</l>
+<l>Zy had de redenen van de anderen gehoord,</l>
+<l>En meende waarelyk dat ik daar lag vermoord.</l>
+<l>Zy vond gelegenheid, wyl niemand haar bewaakte,</l>
+<l>Door die ontsteltenis, dat zy uit 't huis geraakte;</l>
+<l>Maar, ziende my gezond, wierd zy zo zeer verrukt</l>
+<l>Van blydschap, dat zulks niet kan werden uitgedrukt.</l>
+<l>In 't kort, die Schoone, die ik eeuwig zal beminnen,</l>
+<l>Volgt aanstonds het besluit van haar verliefde zinnen,</l>
+<l>Zy wil niet weêr in huis, maar geeft zich over aan</l>
+<l>Myn woord, geheel bereid aanstonds met my te gaan.</l>
+<l>Denk eens, in wat gevaar, door haare onnozelheden,</l>
+<l>Die Nar zyn onbescheid haar roek'loos heeft doen treeden,</l>
+<l>En in wat staat zy, door zyn norsheid, was gebragt,</l>
+<l>Zo ik een man was die haar eer niet nam in acht:</l>
+<l>Maar al te zuiver is de vlam in my onsteeken;</l>
+<l>'k Wou liever sterven, als myn woord in 't minst haar breeken.</l>
+<l>En beter lot voegt aan zo veel bekoorlykheên,</l>
+<l>En niets scheid my van haar, als slechts de dood alleen.</l>
+<l>'k Weet wel, ik heb den toorn myns vaders te verwachten,</l>
+<l>Maar ik hoop, door de tyd, zyn zinnen te verzachten,</l>
+<l>Ik geef my over aan een liefde, my zo zoet.</l>
+<l>In 't leeven weet ge dat men zich vernoegen moet.</l>
+<l>'t Geen ik op u begeer, maar 't dient geheim gehouwen,</l>
+<l>Is, dat ik in uw' hand die Schoone mag betrouwen;</l>
+<l>En dat gy in uw huis, myn Heer, op myne beê,</l>
+<l>Huisvesting haar vergunt voor eene dag of twee.</l>
+<l>En, boven dat, dient zy voor elk te zyn verhoolen,</l>
+<l>Dewyl men zoeken zal, waar zy zich houd verschoolen.</l>
+<pb n="72"/>
+<l>Gy weet ook wel, dat als een Juffrouw van haar doen</l>
+<l>Haar by een jongman voegt, ze elk brengt in kwaad vermoên;</l>
+<l>En wyl ik u alleen, gerust op u met reden,</l>
+<l>Myn zielsgenegenheid heb vrijelyk beleeden,</l>
+<l>Zo durf ik u, myn Heer, maar in geen vremde hand,</l>
+<l>Als een eêlmoedig vrind, vertrouwen zulk een pand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Ben heel tot uwen dienst, gy zyt geenzins bedroogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Zal ik zo waard een gunst van u erlangen moogen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel gaerne, zeg ik u; meêr als gy kunt vermoên,</l>
+<l>En 't is me een vreugd die dienst aan u te moogen doen.</l>
+<l>Ik dank het lot, dat my zulk een geluk komt geeven:</l>
+<l>'k Wierd nimmermeer tot iets met zulk een lust gedreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Wat ben ik u, myn Heer, voor zulk een gunst verpligt,</l>
+<l>Ik dacht niet dat ge my zulks toe zoud staan zo licht.</l>
+<l>Maar gy weet hoe 't behoord, en jonge liedens vlaagen,</l>
+<l>Door uw verstand, wat in te schikken, te verdraagen,</l>
+<l>Ze is by een van myn volk, om 't hoekje van die straat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Maar hoe 't best aangeleid, eer ons de dag verraad?</l>
+<l>Neem ik haar hier met my, 't word lichtelyk vernomen;</l>
+<l>Zo gy tot mynent ook met haar bestaat te komen,</l>
+<l>Straks weeten het de knechts. Om zekerder te gaan,</l>
+<l>Moet 't op een stiller plaats geschieden. In myn laan</l>
+<l>Daar is 't noch donker, en daar ga ik haar verwachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Die goede omzigtigheid is geenzins te verachten:</l>
+<l>Ik breng haar aanstonds hier, gy zult het ov'rig doen,</l>
+<l>En ik zal, zonder veel gerucht, my t'huiswaard spoên.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="73"/>
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>FOrtuin, deez' toeval, die ik nimmer kon vermoeden,</l>
+<l>Hersteld al myn verlies, en komt myn ramp vergoeden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Agneta, Horatius, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>WEes niet verlegen, Lief, waar ik u brengen zal;</l>
+<l>'t Is in een huis, daar gy vry zyt van ongeval:</l>
+<l>Zo 'k u tot mynent nam, zulks zou zich licht verspreijen.</l>
+<l>Treê door die poort, en laat u, onbeschroomt, geleijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Waarom verlaat ge my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Myn ziel, het moet geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Maak, bid ik u, dat ik in 't kort u weêr mag zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Myn liefde zal my zelf genoeg daar na doen haaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Als ik u niet mag zien, kan niets myn ziel vermaaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Als ik van u moet zyn, voel ik my vol verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ach! was zulks waar, myn Lief, 'k acht gy verliet my niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Hoe! twyffelt gy, of ik u zuiv're min mogt draagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Neen: ik kan u zo zeer niet, als gy my, behaagen.</l>
+<stage><hi rend="i">Arnoldus trekt haar na hem toe.</hi></stage>
+<l>Hoe trekt men my zo hard!</l>
+</sp>
+<pb n="74"/>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 3tab">Myn Lief, het word reeds dag,</l>
+<l>En 't was gevaarlyk zo ons iemand t'zaamen zag.</l>
+<l>Die trouwe vrind, die u heeft by de hand genomen,</l>
+<l>Begrypt voorzigtelyk waar voor ons staat te schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Maar een die ik niet ken....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 4tab">Ik bid ge uw' vrees verband,</l>
+<l>Myn Engel, ik stel u in een zeer goede hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>'k Zou by Horatius noch veel geruster weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik zou...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi> <hi rend="i">tegens die haar houd</hi>.</speaker>
+<l>Zacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">'t Word licht dag, vaar wel, myne Uitgeleezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wanneer zie ik u....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">Haast; wil des verzekert zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Wat voel ik, nu gy gaat, een doodelyke pyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Wat blydschap voel ik! myn geluk is tans volschapen;</l>
+<l>Nu mag ik, onbelaân, en onbekommert slaapen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde toneel.</head>
+<stage><hi rend="sc">Arnoldus, Agneta</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">met de mantel om de ooren</hi>.</speaker>
+<l>KOm hier, daar binnen is voor u geen bed gespreid;</l>
+<l>Een ander logement heb ik voor u bereid:</l>
+<l>'k Zal in verzekertheid u elders gaan vervoeren.</l>
+<l>Kend ge me niet?</l>
+</sp>
+<pb n="75"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi> <hi rend="i">hem kennende</hi>.</speaker>
+<l rend="; 1tab">Ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Ha! wat komt u dus ontroeren?</l>
+<l>Bedriegster, gaat gy zo te buiten uwen pligt?</l>
+<l>Ik zie gy wenschte wel te zyn uit myn gezigt;</l>
+<l>Ik kom de liefde, die u heeft ontsteeken, steuren.</l>
+<stage><hi rend="i">Agneta ziet om na Horatius.</hi></stage>
+<l>Roep uw Galant niet weêr, zulks zal u niet gebeuren;</l>
+<l>Hy is reeds al te ver, en kan u niet ontslaan.</l>
+<l>Hoe durft gy, noch zo jong, zo snood een daad bestaan?</l>
+<l>En uwe onnozelheid, wie had dit kunnen raamen?</l>
+<l>Vroeg of de kinderen niet uit de biezen kwaamen.</l>
+<l>En gy bestemd, zo kort daar aan, het uur by nacht,</l>
+<l>Om, door een jonge wulp, uit 't huis te zyn gebragt?</l>
+<l>O my, wat kost gy zoet met uw Galantje praaten!</l>
+<l>Het schynt dat gy u wel hebt onderrechten laaten;</l>
+<l>Hoe henker! leerde gy dat in zo korten tyd?</l>
+<l>'t Schynt dat ge niet meêr bang voor Geest of Spooken zyt;</l>
+<l>Die Minnaar heeft by nacht de schrik van u verdreeven.</l>
+<l>Caronje, durft ge u tot die trouwloosheid begeeven?</l>
+<l>Spyt al myn weldaân, my dus hoonen, zo verwoed?</l>
+<l>O kleen Serpentje! dat 'k heb in myn borst gevoed,</l>
+<l>En dat, zo haast als 't zich kan roeren en beweegen,</l>
+<l>Zich toond, om kwaad te doen die 't heeft gekweekt, genegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Waarom scheld gy me dus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">'k Heb ongelyk; gewis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>'k Weet niet dat in myn doen iets kwaads gelegen is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Zo fraaitjes door te gaan, is dat voor goed te houwen?</l>
+</sp>
+<pb n="76"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Het is een, die my zweert voor zyne vrouw te trouwen;</l>
+<l>Ik heb uw les gevolgt. Hebt gy me niet gezegt</l>
+<l>Dat, om geen misdaad te begaan, men dient geëcht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ja; maar ik had u zelfs voor my tot vrouw verkooren,</l>
+<l>En ik heb klaar genoeg, na 'k meen, u zulks doen hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>O ja: maar guntge dat ik zuiver spreek en vry?</l>
+<l>Weet, dat hy my daar toe veel meêr behaagt, als gy.</l>
+<l>Gy maakt het huuwelyk my zo vol zwaare zaaken,</l>
+<l>En schildert het zo naar, dat 't my niet kan vermaaken.</l>
+<l>Maar hy verbeeld het my zo vol van weelde en zoet,</l>
+<l>Dat ik daar toe een zucht gevoel in myn gemoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat 's dat gy hem bemind, Bedriegster.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Ja, volkomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy durft zo onbeschaamt dat zeggen, zonder schroomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Waarom mag ik het u niet zeggen? 't is toch waar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Waarom bemind gy hem, gy onbedachte?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">Maar,</l>
+<l>Helaas! is zulks myn schuld? hy heeft my 't hart ontsteeken,</l>
+<l>Ik dacht daar 't minst niet aan, toen hy my 't eerst kwam spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy had u moeten van die zotte drift ontslaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>'t Valt zwaar iets, dat ons vreugd kan geeven, af te staan.</l>
+</sp>
+<pb n="77"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Wist gy niet dat uw doen my stof tot toorn zou geeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ik? neen: ook weet ik niet dat ik iets heb misdreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'t Is waar, 'k heb reden, om daar in te zyn te vreên;</l>
+<l>Gy mind my niet met al, na 'k hoor?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 3tab">U?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 5tab">Och neen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe! neen: wat 's dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Gy komt my na geen leugens vraagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Schaamtlooze, waarom my geen liefde toegedraagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ik bid wyt my zulks niet, gy zelf zyt waard gelaakt.</l>
+<l>Waarom hebt gy, als hy, u niet bemind gemaakt?</l>
+<l>Ik heb u daar in niet belet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 2tab">Met al myn zinnen</l>
+<l>Heb ik daarna getracht, maar nooit iets kunnen winnen;</l>
+<l>En al myn poogen is steeds vruchteloos geweest.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hy heeft dan boven u meêr schranderheid van geest,</l>
+<l>Want hy behoefde niet veel moeite te besteeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoor eens, die vuile pry, van waar haalt zy die reden?</l>
+<l>De sneegste zelfs heeft nooit doortrapter taal bedacht.</l>
+<l>O te onrecht heb ik haar versleeten, of ik acht</l>
+<l>Dat een zottin meêr, als de gaauwste man, ervaaren</l>
+<l>In zulke dingen is. Gy weet het wel te klaaren,</l>
+<pb n="78"/>
+<l>Gy, Kakelaarster. Heb ik, op myn kosten, u</l>
+<l>Zo eerelyk gekleed, en opgevoed, tot nu,</l>
+<l>Voor hem?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">O neen; hy zal 't u dubbeld weder geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Voel door haar woorden my van dubb'le spyt gedreeven.</l>
+<l>Gy, Snapster, kan hy my, wat hy ook komt te doen,</l>
+<l>'t Geen ge aan my zyt verpligt, wel immermeer vergoên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ik denk niet dat myn schuld zo hoog kan zyn gereezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heb ik u van kinds af niet altyd gunst, beweezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi> <hi rend="i">schertzende</hi>.</speaker>
+<l>'k Beken, gy hebt daar in uw' dingen fraai gedaan,</l>
+<l>En alles, wat my was van nooden, doen verstaan.</l>
+<l>Waant gy dat ik niet merk, en klaar tans kan beschouwen,</l>
+<l>Dat ge onvernuftig my hebt, als een dier, gehouwen?</l>
+<l>'k Ben zelf daar in beschaamt; en, overmits ik tot</l>
+<l>Myn jaaren ben, wil ik niet langer gaan voor zot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Gy vlied de onkundigheid, en wilt nu beter leeren</l>
+<l>Van dat Galantje, 't kost wat 't kost?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 2tab">Dat 's myn begeeren:</l>
+<l>Ik moet hem danken voor zyn beter onderricht,</l>
+<l>En acht my vry wat meêr aan hem, als u, verpligt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Weet niet wat my weêrhoud haar trotsheid te bestraffen,</l>
+<l>En dat ik haar niet kort ophouden doe van blaffen?</l>
+<l>Haar scherpe koelheid maakt myn zinnen als verwoed;</l>
+<l>Waar toe niet met myn vuist myn lust aan haar gbeoet?</l>
+</sp>
+<pb n="79"/>
+<sp>
+<speaker><hi rend="sc">Agneta</hi> <hi rend="i">klaagelyk</hi>.</speaker>
+<l>Ik weet gy kunt zulks doen, indien 't u kan behaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat woord, en dat gezigt doen mynen toorn vertzaagen;</l>
+<l>Een teed're zucht voel ik daar door weêr in myn hart,</l>
+<l>Die haar bedryf my doet verschoonen, ook hoe zwart.</l>
+<l>Welk wonder, dat men mind de geen, die ons verraaden!</l>
+<l>Ach! met wat zwakheên zyn de mannen niet belaaden?</l>
+<l>Elk is des vrouwvolks vuil en losheid wel bekend,</l>
+<l>'t Is buitenspoorigheid, en onbescheid in 't end;</l>
+<l>Heur geest is boos, heur zin keert om met alle winden;</l>
+<l>Niets harssenloozer, noch niets broozer kan men vinden,</l>
+<l>Niets ongetrouwer; doch, wat mag zulks zyn? men ziet</l>
+<l>Dat aan dat ongediert van ieder eer geschied.</l>
+<l>Kom, klein Bedriegstertje, laat ons weêr zyn te vreeden;</l>
+<l>'k Vergeef 't u alles, en schenk u myn tederheden:</l>
+<l>Bezef, daar door, hoe zeer dat ik u heb bezint,</l>
+<l>'k Eisch in vergelding slechts dat gy me weêr bemind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Ik wensch, met al myn hart, dat ik u mogt vernoegen,</l>
+<l>Wat zou 't my scheelen kon ik my daar slechts toe voegen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Myn Bekje lief, gy kund, indien gy wilt, terstond.</l>
+<l>Hoor deez' verliefde zucht uit mynes herten grond,</l>
+<l>Zie eens dit doods gelaat, let op myn treurig weezen,</l>
+<l>En laat die jonge wulp u langer niet beleezen.</l>
+<l>Hy heeft voorzeker u bekoord door tovery;</l>
+<l>Maar gy zyt duizendmaal gelukkiger met my.</l>
+<l>Gy schept vermaak in fraai te weezen uitgestreeken.</l>
+<l>'k Beloof wat gy begeert daar zal nooit aan ontbreeken.</l>
+<l>'k Zal u, myn Zoetertje, liefkoozen, dag en nacht;</l>
+<stage><hi rend="i">Hy loost een zucht.</hi></stage>
+<l>'k Zal u opeeten; 'k zal u handelen zo zacht;</l>
+<l>'k Zal in uw vryheid u nooit in het minst verstooren.</l>
+<pb n="80"/>
+<l>Zulks is genoeg gezeid, gy kunt den zin wel hooren.</l>
+<stage><hi rend="i">Binnens monds.</hi></stage>
+<l>‘Wat heeft die hartstocht op de zinnen al gebied?</l>
+<l>In 't kort, myn liefde had haar weêrga nimmer niet.</l>
+<l>Ondankb're, zeg wat proef kan u het meest behaagen?</l>
+<l>Wilt gy me schreijen zien, of blaauw en blond geslagen?</l>
+<l>Wilt gy, dat ik me 't hair zal trekken uit myn hoofd?</l>
+<l>Of dat ik me de keel afsny, zeg 't vry, 'k belooft.</l>
+<l>'k Zal, Wreede, 't doen tot blyk van myn oprecht beminnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Hoor, al dat praaten kan op myn gemoed niets winnen;</l>
+<l>Horatius kan meêr uitrechten met één woord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ach! gy trotst my te veel; 'k word langs hoe meêr verstoord.</l>
+<l>O gy, onbuigzaam dier, 'k zal myn besluit, niet breeken,</l>
+<l>Maar u van stonden aan gaan in een klooster steeken.</l>
+<l>Gy durft myn min versmaân, neemt in myn leed vermaak?</l>
+<l>Wel aan, een Celletje neem daar van voor my wraak.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Jorden, Arnoldus, Agneta</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jorden</hi>.</speaker>
+<l>MEn Heer, 'k weet niet hoe 't is, maar zo 'k niet bin bedroogen,</l>
+<l>De Doode, en onze Agniet zin op en pad etoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hier staat zy; breng haar in myn kamer met 'er vaart;</l>
+<l>'k Acht haar, wyl hy 'er niets van weet, daar best bewaart:</l>
+<l>'t Is maar om een half uur te doen, ik ga bespreeken</l>
+<l>Een waagen, en terstond haar in een klooster steeken.</l>
+<l>Pas maar ter deegen op, sluit deur en venst'ren dicht,</l>
+<pb n="81"/>
+<l>Voor alles, Jorden, houd haar steeds in uw gezigt.</l>
+<l>Misschien zal haar gemoed, als zy van hier zal weezen,</l>
+<l>Zich van haar zotte min ontlasten, en geneezen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel,</head>
+<stage><hi rend="sc">Horatius, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>ACh! Heer Arnoldus, ik word overstolpt van druk!</l>
+<l>De hemel heeft, na 't schynt, bestemt myn ongeluk,</l>
+<l>En, door een' doodsche steek van onrechtvaardig haaten,</l>
+<l>Wil zy de Schoone, die 'k bemin, my doen verlaaten.</l>
+<l>Myn vader, om de koelte, is herwaards heen by nacht</l>
+<l>Gekomen; 'k zag hem uit de koets treên, onverwacht,</l>
+<l>Niet ver van hier: in 't kort, het geen hem hier doet komen,</l>
+<l>('k Heb u gezegt dat ik de reên niet had vernomen)</l>
+<l>Is dat hy my heeft uitgeheilikt, welk een rouw!</l>
+<l>En komt hier, op dat ik volvoere zulk een trouw.</l>
+<l>Oordeel, dewyl ik weet gy deel neemt in myn smarte,</l>
+<l>Of my wel zwaarder ramp ooit treffen kon het harte?</l>
+<l>Die Hendrik, daar ik naar te vraagen onderstond,</l>
+<l>Helaas! is oorzaak van myn doodelyke wond.</l>
+<l>Hy komt, met vader, om my myn verderf te brouwen,</l>
+<l>En aan zyn eenig kind begeert hy my te trouwen.</l>
+<l>Ik meende op 't eerste woord dat ik 't gevoel verloor,</l>
+<l>En, zonder dat ik meêr na hunne reede hoor,</l>
+<l>Ben ik, wyl vader sprak van u te gaan begroeten,</l>
+<l>Voor uitgeloopen eer dat gy hem kwaam te ontmoeten.</l>
+<l>Ik bid, dat gy hem niets van myne min ontdekt,</l>
+<l>Noch iets doet weeten dat tot gramschap hem verwekt.</l>
+<l>Zoek, 'k weet hy zal door u zich licht gezeggen laaten,</l>
+<l>Het ander huuwelyk hem uit het hoofd te praaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Goed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Raad hem noch een wyl myn trouwen in te zien:</l>
+<pb n="82"/>
+<l>'k Bid, dat van u die dienst mag aan myn min geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Zal 't doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 2tab">Ik heb geen hoop als van u te verwachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Heel wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l rend="; 1tab">Ik zal u, als myn tweede vader, achten.</l>
+<l>Zeg, dat myn jonkheid ... och! daar komt hy zelf al aan:</l>
+<l>'k Bid, luister wat naar my, 'k blyf aan dit hoekje staan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Hendrik, Gerard, Luikas, Horatius, Arnoldus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hendrik</hi> <hi rend="i">tegens Luikas</hi>.</speaker>
+<l>IK had u wel gekend, zo haast ik u zag komen,</l>
+<l>Al had ik zulks voor af van and'ren niet vernomen,</l>
+<l>Zo zweemt uw weezen naar uw zusters, my zo waard,</l>
+<l>Waar meê my 't lot wel eer zo gunstig had gepaart;</l>
+<l>Ik was gelukkig had zy met my moogen keeren,</l>
+<l>En niet de wreede dood haar deugd my doen ontbeeren,</l>
+<l>Om, nevens my, het zoet te smaaken van 't geluk</l>
+<l>Alle onze vrinden weêr te zien, na zo veel druk.</l>
+<l>Maar, wyl het noodlot 't niet belieft heeft zo te voegen,</l>
+<l>Zo laaten we ons, voor 't minst, zo veel men kan, vernoegen</l>
+<l>Met 't eenig kroost, dat van haar min my overbleef,</l>
+<l>En welkers heil ik aan uw oordeel overgeef.</l>
+<l>'t Raakt u zo na, dat ik als met uw welbehaagen,</l>
+<l>Het schikken van dat pand geenzins zou durven waagen.</l>
+<l>Heer Gerards zoon is waard dat zy de zyne zy,</l>
+<l>Doch 'k wil dat u die keur zo wel gevalle, als my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wat onbescheidenheid is in my ooit gebleeken,</l>
+<pb n="83"/>
+<l>Dat ik een keur zo goed, zo schoon, zou tegenspreken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">tegens Horatius</hi>.</speaker>
+<l>‘O ja, ik zal myn pligt wel naar behooren doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>‘Voor al, noch eens gezegt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 4tab">‘Wil geen bekomm'ring voên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi> <hi rend="i">tegens Arnoldus</hi>.</speaker>
+<l>Wat 's die omhelzing zoet! wat toond gy u genegen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe voel ik myn gemoed van blydschap tans beweegen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>'k Ben hier gekomen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Ben daar van al onderrecht,</l>
+<l>'k Weet wat u herwaards voerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 5tab">Is u zulks reeds gezegt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>O ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 1tab">Te beter is 't.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l rend="; 3tab">Uw zoon wil zulks weêrstreeven,</l>
+<l>En 't kan zyn hart, bereids verpand, slechts droefheid geeven:</l>
+<l>Hy heeft my om 't u af te praaten zelfs gebeên;</l>
+<l>Maar, al wat ik aan u kan raaden is alleen,</l>
+<l>Dat ge u van zulk eene echt door niemand af laat troonen,</l>
+<l>Maar 't vaderlyk gezach aan hem tans wilt betoonen.</l>
+<l>Men diend de jonge lui te wederstaan met kracht,</l>
+<l>En wy doen hen te kort wanneer we zyn te zacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>‘Verrader!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 2tab">Kan zyn hart daar tegenheid in vinden,</l>
+<pb n="84"/>
+<l>Ik acht niet raadzaam, hem door dwang daar aan te binden;</l>
+<l>'k Geloof myn Broeder zal meê zyn van dat verstand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe! wilt gy dat zyn zoon hem zet mar zyne hand?</l>
+<l>Zal dan een vader zich, door zwakheid, zo onteeren,</l>
+<l>Dat hy de jonkheid niet 't gehoorzaam zyn zou leeren?</l>
+<l>'t Zou zeker schoon staan, dat men hem zou heden zien</l>
+<l>De wet ontfangen van hem die hy moet gebiên.</l>
+<l>Neen: 't is myn vrind, ik kan zyn achting niet zien breeken:</l>
+<l>Hy heeft zyn woord verpand, daar geld geen tegenspreeken.</l>
+<l>Hy moet hier toonen dat hy vast is van beraad:</l>
+<l>Hy dwing zyn zoon dat hy zyne and're min verlaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>Gy spreekt gelyk 't behoord; wat aanbelangt dit trouwen,</l>
+<l>'k Blyf borg, dat hy myn woord ook zal van waarde houwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi> <hi rend="i">tegens Arnoldus</hi>.</speaker>
+<l>Voor my, ik staa verzet dat gy, met zulk geweld,</l>
+<l>Die echtsverbint'nis dringt in 't werk te zien gesteld,</l>
+<l>En kan niet denken waar dat gy op toe moogt leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Weet wat ik weet, en ook wat ik behoor te zeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>Ja, Heer Arnoldus, ga...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 2tab">Die naam staat hem niet aan;</l>
+<l>'t Is Heer van Hoogegrond, 'k heb 't u reeds doen verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Dat 's niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>‘Wat hoor ik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi> <hi rend="i">zich na Horatius keerende</hi>.</speaker>
+<l rend="; 1tab">Kund gy nu 't geheim wel merken?</l>
+<pb n="85"/>
+<l>Nu oordelzelf wat voor my nutst was uit te werken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>In wat verbaastheid word....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Wobbyn, Hendrik, Gerard, Luikas, Horatius, Arnoldus.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Wobbyn</hi>.</speaker>
+<l>OCh! komt toch t'huis, men Heer,</l>
+<l>Och! onze Agniet gaet an, as dol: wat tegen weer</l>
+<l>We doen, ze wil 'er uit: we kenne heur niet dwingen.</l>
+<l>Ik vrees ze zel gewis noch uit 'et venster springen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Ga, breng haar hier. Ik meen haar ook van stonden aan</l>
+<stage><hi rend="i">teg en Horatius.</hi></stage>
+<l>Te gaan vervoeren, laat u dit geenzins verslaan;</l>
+<l>Geluk dat altyd duurt maakt ons te trots van zinnen;</l>
+<l>Elk heeft zyn beurt, gelyk ons 't spreek woord brengt te binnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Helaas! wat zwaarigheid haalt by myn ongeluk?</l>
+<l>Zag iemand zich wel ooit in zulk een poel van druk?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Laat, zonder uitstel, toch dit huuwelyk geschieden,</l>
+<l>En tot de Bruiloft kom ik my van zelfs aan bieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>Zulks was ook myn besluit.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Agneta, Jorden, Wobbyn, Gerard, Hendrik, Arnoldus, Horatius, Luikas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>KOm hier, schoon kind, kom hier,</l>
+<l rend="; 1tab">Die niet te houden zyt; vergeeft is uw getier,</l>
+<pb n="86"/>
+<l>Zie hier uw minnaar, om zyn lyden te verzoeten,</l>
+<l>Kund gy hem, voor het laatst, noch eens eerbiedig groeten.</l>
+<l>Vaar wel. 't Gevolg heeft zich niet naar uw zin gevoegt,</l>
+<l>Maar alle minnaars zyn niet even vergenoegt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l>Horatius, laat gy me dan zo heene voeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Ik weet niet waar ik ben, zo voel ik my ontroeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Kom, Snapster, kom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Agneta</hi>.</speaker>
+<l rend="; 1tab">Ik wil hier blyven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 3tab">Hoe! wat 's dit?</l>
+<l>En wat verborgenheid of hier toch onder zit?</l>
+<l>Wy zien malkand'ren aan. Wat vremder wedervaaren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Zal straks op myn gemak de reden u verklaaren.</l>
+<l>Vaar wel, tot wederziens.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 2tab">Waar wilt gy met haar voort?</l>
+<l>Wat wil dat zyn? gy spreekt geenzins gelyk 't behoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>'k Heb u geraaden, wat uw zoon ook heeft daar tegen,</l>
+<l>Dat gy zyn trouw voltrekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 2tab">Ja; luister eens ter degen.</l>
+<l>Hebt gy dan niet verstaan, indien gy alles weet,</l>
+<l>Dat zy by u is daar 'k hem aan heb uitbesteed?</l>
+<l>De dochter, die wel eer Heer Hendrik heeft behouwen</l>
+<l>Van schoone Angelika, van een verborgen trouwen?</l>
+<l>Waar waren uwe reên daar straks dan op gegrond?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>'k Beken, dat ik zo wel, als gy, verwondert stond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>.</speaker>
+<l>Hoe....</l>
+</sp>
+<pb n="87"/>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l rend="; 1tab">Ja, myn zuster had, door heimelyk verbinden,</l>
+<l>Een dochter van hem, die bedekt bleef voor de vrinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>Die, onder vremde naam, om niet te zyn gemeld,</l>
+<l>Haar man heeft op het land, om op te voên, besteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Wanneer, door 't nydig lot zyn averechtze luimen,</l>
+<l>Hy zich verpligt vond zyn geboorteplaats te ruimen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>En naar Amerika, spyt de gevaarlykheên,</l>
+<l>Een tocht ging doen, door zo veel verre en woeste zeên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Daar, door zyn naarstigheid, hy weeder heeft bekomen,</l>
+<l>Het geen bedrog en nyd hem hadden hier ontnomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>En weêr te rug gekeert in Vrankryk, heeft gezogt</l>
+<l>Naar 't wyf, waar door hy dacht dat zy was opgebrogt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Die vrouw heeft hem verklaard dat zy, op uw gebeden,</l>
+<l>'t Kind in uw handen heeft gestelt, om zeek're reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>Dat zy 't gedaan had, omdat gy meêlydend scheent,</l>
+<l>En zy, door armoê, was ten uitersten verkleent.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>En hy, vol blydschap dat zyn kind noch was in 't leeven,</l>
+<l>Heeft, met die vrouw verheugt, zich hier naar toe begeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l>En gy zult haar hier zelf verschynen zien in 't kort,</l>
+<l>Op dat zulk een geheim een ieder kenbaar word.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Is gis wel welk een smart komt in uw ziel gereezen,</l>
+<l>Maar klaag niet over 't lot, het wil u gunstig weezen;</l>
+<l>En, wyl gy hoorens voor zo groot een schande houwt,</l>
+<l>Is 't veiligste voor u dat gy ook nimmer trouwt.</l>
+</sp>
+<pb n="88"/>
+<sp>
+<speaker><hi rend="sc">Arnoldus</hi>, <hi rend="i">op 't uiterst onsteld weg gaande, zonder te kunnen spreeken</hi>.</speaker>
+<l>Oh!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Gerard</hi>.</speaker>
+<l rend="; 1tab">Waarom gaat hy weg, en zonder iets te zeggen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horatius</hi>.</speaker>
+<l>Heer vader, dat geheim zal ik u straks uitleggen;</l>
+<l>'t Geval heeft hier ter steê gelukkig uitgewrocht,</l>
+<l>Het geen uw wysheid had bereids voor af gedocht:</l>
+<l>'t Had, door de zoete vlam van zuiv're min gedreeven,</l>
+<l>Aan deze Schoone reeds myn woord en trouw gegeeven;</l>
+<l>Zy is het die gy hier komt zoeken, in een woord,</l>
+<l>Om wie myn weig'ring u met reden had verstoort,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hendrik</hi>.</speaker>
+<l>Ik twyffelde geenzins toen zy kwam voor myne oogen,</l>
+<l>En zints dat uur gevoelde ik my geheel bewoogen.</l>
+<l>Ach! wat smaak ik, myn kind, een onuitspreeklyk zoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Luikas</hi>.</speaker>
+<l>Myn Broeder, 'k deede gaern 't geen gy met reden doet,</l>
+<l>Maar 't zou op deze plaats aan my zo wel niet voegen.</l>
+<l>Kom, gaan we dit geheim ontwinden met genoegen.</l>
+<l>Betaalen we onzen vrind al wat zy heeft verteert.</l>
+<l>Men roem 't Geluk, die dit geval ten beste keert.</l>
+</sp>
+<stage><hi rend="i">Einde van 't vyfde en laatste Bedryf.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

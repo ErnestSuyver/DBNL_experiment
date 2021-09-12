@@ -1,0 +1,2549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Andromeda</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Frans Rijk</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Andromeda</hi> van P. Corneille, in een vertaling van Frans Rijk uit 1702. De eerste druk dateert uit 1699.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. IV: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                       <corr>p. 21: gescheid  → geschied, ‘die ons van het Monster zyn geschied’</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 3</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>60</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">corn001andr03_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 14: 6</idno>
+               </bibl>
+               <p>P. Corneille, <hi rend="i">Andromeda</hi> (vert. Frans Rijk). Hendrik van Damme, Leiden 1702 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Andromeda</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Frans Rijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Andromeda</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Frans Rijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-26</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="I"/>
+<p>ANDROMEDA.</p>
+<p>TREURSPEL.</p>
+<p><hi rend="i">Verciert met</hi></p>
+<p>SANG, DANS, KONST EN VLIEGWERKEN.</p>
+<p><figure>
+<p><xptr to="corn001andr03ill0001.gif"/></p>
+</figure></p>
+<p><hi rend="i">Te LEYDEN</hi>,</p>
+<p>By Hendrik van Damme, Boekverkoper, 1702.</p>
+</div>
+</cf>
+<div type="chapter">
+<pb n="IV"/>
+<head rend="h3">Vertoonders.</head>
+<list>
+<item><hi rend="sc">Jupiter. Eolus</hi>.</item>
+<item/>
+<item><hi rend="sc">Juno. Venus</hi>.</item>
+<item/>
+<item><hi rend="sc">Neptunus. Mercurius</hi>.</item>
+<item/>
+<item><hi rend="sc">Cymodocia</hi>. } <hi rend="i">Drie Zee-godinnen</hi>.</item>
+<item><hi rend="sc">Efyre</hi>. } <hi rend="i">Drie Zee-godinnen</hi>.</item>
+<item><hi rend="sc">Cydippe</hi>. } <hi rend="i">Drie Zee-godinnen</hi>.</item>
+<item/>
+<item><hi rend="sc">Vier Winden</hi>.</item>
+<item/>
+<item><hi rend="sc">Cefeus</hi>, <hi rend="i">Koning van Etiophien, Vader van Andromeda</hi>.</item>
+<item><hi rend="sc">Kassiopea</hi>, <hi rend="i">Koningin, Moeder van Andromeda</hi>.</item>
+<item><hi rend="sc">Andromeda</hi>, <hi rend="i">Dochter van Cefeus en Kassiopéa</hi>.</item>
+<item><hi rend="sc">Fineus</hi>, <hi rend="i">Ethiophiesch Prins</hi>.</item>
+<item><hi rend="sc">Perzéus</hi>, <hi rend="i">Zoon van Jupiter en Danaé</hi>.</item>
+<item><hi rend="sc">Timantes</hi>, <hi rend="i">Kapitein van 's Konings Lijfwacht</hi>.</item>
+<item><hi rend="sc">Ammon</hi>, <hi rend="i">Vrind van Fineus</hi>.</item>
+<item><hi rend="sc">Aglante</hi>, } <hi rend="i">Drie Speelnimfen, of vertrouwde van Andromeda</hi>.</item>
+<item><hi rend="sc">Cefalia</hi>, } <hi rend="i">Drie Speelnimfen, of vertrouwde van Andromeda</hi>.</item>
+<item><hi rend="sc">Leriofe</hi>, } <hi rend="i">Drie Speelnimfen, of vertrouwde van Andromeda</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p>Het Tooneel van 't Eerste Bedryf, verbeeld een ruim Marktveld, met een Tempel in 't verschiet.</p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Andromeda.
+<lb/>
+Treurspel.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste toneel.</hi></head>
+<stage><hi rend="sc">Kassiopea, Perseus</hi>. <hi rend="i">Gevolg des Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>MEn kan, ô vremdeling, genoegsaam uit de trekken</l>
+<l>Uws wezens, dat gy zyt van ed'len aard, ontdekken:</l>
+<l>De Majesteit, die gy door uw gezigt verbeeld,</l>
+<l>Toont, dat ge uit Koningen of Goden zyt geteeldt.</l>
+<l>Ik bid, dat gy, terwyl wy hier de Koning wachten,</l>
+<l>En gy de misdaad weet, waarom wy maand'lyks slachten</l>
+<l>Een Dierbaar Offerhande, eens oordeelt nevens my,</l>
+<l>Of zulk een misdaad zulk een straf wel waardig zy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi></speaker>
+<l>Zo gy, ô Koningin, niets anders hebt misdreeven,</l>
+<l>Als slechs de schoonheid van Andromeda verheven,</l>
+<l>Daar 't Zegodinnendom op uitgedaagt om stryd,</l>
+<l>Zo blyf ik nevens u ook schuldig voor altyd:</l>
+<l>Maar wyl my een verward gerucht slechs kwam ter ooren</l>
+<l>Zo bid ik, dat ge my de waare reên laat hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>De droefheid word verlicht door't klaagen, en de smart</l>
+<pb n="2"/>
+<l>Vermindert, als men ziet, dat een grootmoedig hart</l>
+<l>Daar door bewoogen word: dan schijnen onze plaagen,</l>
+<l>En bitt're rampen niet zo lastig om re draagen.</l>
+<l rend="; 1tab">'t Was op dien zelven dag, myn Heer, dart Fineus zou</l>
+<l>Zich met Andromeda verbinden door de trouw.</l>
+<l>De volkeren, verheugd, om die verbindtnis, rechten</l>
+<l>Schouwspelen op, aan strand, van rennen, worst len, vechten</l>
+<l>Zy kroont den winnaar met den prys, daar toe gesteld.</l>
+<l>Maar, ach! de droef heid, die my 't hart dus houd bekneld,</l>
+<l>Verbied my, om aan u die blydschap te verhaalen.</l>
+<l>Wie kan in 't midden van zijn'smart die vreugde afmaalen!</l>
+<l>ô Dag! wat zyt gy wreed voor myn geheugenis!</l>
+<l>'t Herdenken van die vreugd vol ramp en droefheid is.</l>
+<l>Myn Dogter scheen nooit zo bekoorlijk in myn oogen.</l>
+<l>'k Stond van verwondering en blydschap opgetoogen,</l>
+<l>Wanneer ik zag dat zy haare oogen had gewend.</l>
+<l>Van 't vecht en renspel naar het vochtig element,</l>
+<l>Om daar de Waterstryd te aanschouwen op destroomen.</l>
+<l><hi rend="i">Dus zag men Venus 't eerst</hi>, zeide ik, <hi rend="i">te voorschyn komen</hi>,</l>
+<l><hi rend="i">Toen zy, zig Spieg'lende in het blaan en zilt kristal,</hi></l>
+<l><hi rend="i">Zich d'overwininge beloofde van 't Heelal.</hi></l>
+<l>De vreugd was algemeen, op 't juichen en geschater,</l>
+<l>Stak 't Zegodinnendom de hoofden uit het water:</l>
+<l>Zy sloegen bloozende heure oogen neêr, wyl 't licht,</l>
+<l>Het welk Andromeda uitstraalde uit haar gezicht,</l>
+<l>Het heure te eenemaal Verduisterde. Zy zochten</l>
+<l>Dan de allerschoonsten uit, die zy 't bekwaamste dochten</l>
+<l>Te weezen, om hier in myn Dochter te weêrstaan;</l>
+<l>Maar 'k zag haar telkens weêr, van schaamt, te rugge gaan?</l>
+<l>Zo dat de glory my deed voeren deeze reeden:</l>
+<l><hi rend="i">Waar zijn, ô Nimfen nu alle uwe aantrekk'lijkheden?</hi></l>
+<pb n="3"/>
+<l><hi rend="i">Kunt gy in 't allerminst wel lochchenen, dat wy</hi></l>
+<l><hi rend="i">Met meer Bekoorlijkheên begunstigd zijn, als gy</hi>?</l>
+<l>'k Beken 't, mijn Heer, het wasal wat verwaand gesprooken.</l>
+<l>Ik zag, dat zy, van spyt, Voort na de grond toe dooken.</l>
+<l>De Zé scheen zelf hierom vergramd: zy kwam verwoed,</l>
+<l>Na de oever bruisen, met een onweêrstaanbre vloed.</l>
+<l rend="; 1tab">Wat nood waar 't, was het by dit on weer noch gebleeven</l>
+<l>Een schrikk'lijk zégedrócht komt zich na strand begeeven.</l>
+<l>Het volk, van schrik vervoerd, tyt aanstonds op de vlucht.</l>
+<l>'t Gebergt' weergalmt van 't droef en jammerlijk gezucht.</l>
+<l>Wien 't achterhaalt moet tót een ófferhand verstrekken,</l>
+<l>Het woed en moord, 't verwoest de bosschen, landen, vlekken.</l>
+<l>En spuwt een doodelijk vergif ten keelgat uit.</l>
+<l>Geen mensch is magtig, dat hy 't wreede monster stuit.</l>
+<l rend="; 1tab">Na dat men vrucht'loos lang de Goden had gebeden,</l>
+<l>Een onuitspreekb're elend, door 't moord gedrócht, geleden,</l>
+<l>Begaf men zich, wylons de Hemel viel zo straf,</l>
+<l>Na, Ammons God spraak, die aan ons dit antwoord gaf:</l>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Gy hebe Neptum de Water Gód beleedigd;</hi></l>
+<l rend="; 2tab"><hi rend="i">Des moet gy alle maand, tót zoen,</hi></l>
+<l rend="; 2tab"><hi rend="i">Een maachd voor 't Monster werpen doen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Zo lang dat gy zijn Gódheid hebt bevredigd.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dat gy de trouw van Cefeus dochter schort,</hi></l>
+<l rend="; 1tab"><hi rend="i">Zo lang het lót daarom ge wurpen word.</hi></l>
+</lg>
+<l>Men heeft vyf maachden aan den strandróts reeds gebonden,</l>
+<l>Die zeer elendig door het monster, zijn verslonden,</l>
+<l>En Gód Neptuin blyst nóch al even straf en wreed</l>
+<l>Men zal nu 't sesde lót gaan werpen. Ach! wie weet,</l>
+<l>Of't wreede noodlót nu myn Dóchter niet zal doemen?</l>
+<pb n="4"/>
+<l>De vrees beknelt my 't hare: my dunkt, ik hoor haar noemen.</l>
+<l>Ik heb geóffert, voor Vrouw Venus, en het scheen,</l>
+<l>Dat die Godin my meer begunstigde, als voorheen:</l>
+<l>Dat ik haar Godheid had georagt tot mededoogen.</l>
+<l>'k Word echter heim lijk door een kille schrik be woogen.</l>
+<l>Nu oordeel eens, wyl u myn' misdaad is bekend,</l>
+<l>Of ons het Godendom die straf rechtvaerdig zend.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>.</speaker>
+<l>De Goôn doen u die straf rechtvaerdig overkomen,</l>
+<l>lk heb gesproken, met vooroordeel ingenomen.</l>
+<l>Gy kent den oorsprongk nóg niet eens van uw verdriet.</l>
+<l rend="; 1tab">De Zegodinnen zijn de Goôn zo waardig niet,</l>
+<l>Dat ze u, om dat gy op Andromeda dorst roemen,</l>
+<l>Tot zulk een wreede straf en landplaag zouden doemen;</l>
+<l>'t Is, om dat gy haar aan een sterff'lyk mensch verbind;</l>
+<l>Dit kwetst het Godendom, het welk haar zelf bemind;</l>
+<l>Des moet ge, om u, en 't Ryk, haar niet aan Fineus geeven.</l>
+<l>Straf de onderdaanen zelf, die sulk een vreugd bedreeven.</l>
+<l>Gy hoort, dat Jupiter, de God van al de Goôn,</l>
+<l>Door zyne God spraak zelf, dit huwlyk heeft verboôn;</l>
+<l>Hy wil die schoone voor zich zelf misschien behouwen,</l>
+<l>Of moogelijk met een van zyne zoons doen trouwen.</l>
+<l>Neem dan die oorzaak wech, zo zult gy, voor altyd,</l>
+<l>Uw Waterkusten zien van 't Moord-gedrocht bevryd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Dit 's enkel vleijery, men kan dat klaar beseffen:</l>
+<l>Gy stelt my schuldig,om haar' schoonheid te verheffen,</l>
+<l>Of de achting is te groot, die gy haar draagt, myn Heer.</l>
+<l rend="; 1tab">'k Wil niet ontkennen, dat Gód Jupiter, wel eer,</l>
+<l>Door Danae ontfonkt, uit zijne Hemels zaalen,</l>
+<l>By 't sterffelyk geslacht, op aard kwam nederdaalen,</l>
+<l>Dat hy om haar, verliet zijne schitterende Troon:</l>
+<l>Maar dat zyn wond'ren, die men weinig ziet: de Goôn</l>
+<pb n="5"/>
+<l>Zyn al te eerzuchtig, om zo licht zich te vermengen</l>
+<l>Met menschen. Schoon ik my tot dat geloof liet brengen,</l>
+<l>Ik ben verzekert, dat Vorst Cefeus, daar het al</l>
+<l>Van afhangt, nimmermeer zijn woord herroepen zal:</l>
+<l>Dat hy daar aan veel eer zijn Troon en kroon zal waagen.</l>
+<l>Eer hy Andromeda een ander op zal draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>.</speaker>
+<l>Mevrouw... Maar 'k zie de Vorst.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Twede tooneel.</hi></head>
+<stage><hi rend="sc">Cepheus, Kassiopea, Fineus, Perseus</hi>, <hi rend="i">Gevolg des Konings en Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l rend="; 1tab">Neen, Fineus, 't is gedaan:</l>
+<l>'k Wil, dat Andromeda 't lót ook ten doel zal staan;</l>
+<l>Ze is oorzaak van al 't kwaad,en 't leed, dat wy bezuuren,</l>
+<l>Zo zy verschoont wierd, zou de straf licht eeuwig duuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Zo maakt de schoonheid haar dan schuldig?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l rend="; 2tab">Ja, daar spruit</l>
+<l>Alleen den oorspronk van haars Moeders misdaad uit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Is 't ongeoor'loft, en kunt gy 't een misdaad noemen,</l>
+<l>Als wy rechtvaerdig op des Hemels gaaven roemen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cepheus</hi>.</speaker>
+<l>Het is een misdaad, die bezwaar'lyk word verschoond,</l>
+<l>Wanneer men Gódheên daar door lastert, kreukt, of hoont.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopia</hi>.</speaker>
+<l>Ik word gehoond, myn Heer, door zulke schamp're reden.</l>
+</sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="sc">Cepeus</hi>.</speaker>
+<l>Na al de ramp, die 't Ryk, door uw vermeetelheden.</l>
+<l>En trotse hoovaardy, van Gód Neptuin ontfing,</l>
+<l>Past u het schreijen best, en geen verdediging.</l>
+<stage><hi rend="i">Tegens Fineus.</hi></stage>
+<l>De Nimfen van de zé heeft zy op 't hoogst beleedigd,</l>
+<l>Des werd der Goden toorn misschien niet eer bevredigd,</l>
+<l>Voor dat haar Dóchter werd geslacht tot hunne zoen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Men heeft haar 't lot, myn Heer, al vyfmaal werpen doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceféus</hi></speaker>
+<l>Indien haar dood niet by de goden is beslooten,</l>
+<l>Zo zyt verzekert, dat zy zich steeds vry zal looten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi></speaker>
+<l>Dit steeds bezoek en kon gedeijen tot uw straf.</l>
+<l>Men vergt de goden niet zo vaak hunn' gunsten af.</l>
+<l>Is 't moogelyk! treft dan 't meêdogen van een vader,</l>
+<l>En tederheid van 't bloed uw hart en ziel niet nader?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Verwek die tederheid niet meerder in myn hert;</l>
+<l>Want denk vry, Prins, dat ik, myns ondanks, daar toe werd</l>
+<l>Gedreeven: 'k voel natuur inwendig tot my spreeken,</l>
+<l>Een onderlinge stryd, in myn gemoed, ontsteeken:</l>
+<l>De pligt eens Konings kant zich telkens tegens tbloed.</l>
+<l>Zo dat ik, door dien plicht, als Vorst, u weig'ren moet,</l>
+<l>Het geen ik gaaren u, als vader, zou vergonnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Wat plicht, wat magt zou u hier in weêrstreeven konnen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi></speaker>
+<l>Een plicht, die ons word van de Goden opgeleid.</l>
+<l>De Hemel straft zo wel onze onrechtvaerdigheid,</l>
+<l>Als die der menschen: schoon wy zyn ten Troon verheven,</l>
+<l>Dat heilige gezach, ons van de Goôn gegeven.</l>
+<l>Moet echter naar de plicht eens Vórst geregeld zyn.</l>
+<pb n="7"/>
+<l>Wat zou het vólk hier van gevoelen? met vat schyn</l>
+<l>Zou 'k hen bevredigen, zo zy de misdaad zagen</l>
+<l>In myn geslacht, daar zy de straf van moesten draagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Gelukkig vólk! dat, door het storten van zyn bloed,</l>
+<l>Zyn wettig Vórst, óf Prins voor doods gevaar behoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cepheus</hi>.</speaker>
+<l>Gelukkig vólk! wiens Vórst, tot stuiting van de Plaagen,</l>
+<l>Zich zelf zo wel durft, als zyne onderdaanen, waagen.</l>
+<l>Waarom Andromeda verschoont? 't Orakel sluit</l>
+<l>Niet minder myn geslacht, als dat van and ren, uit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi></speaker>
+<l>'t Orakel noemt myn Bruid, 'k wil zulks niet tegenstreeven:</l>
+<l>Maar 't zegt niet, dat men haar aan 't lót zal overgeeven.</l>
+<l>Vertraag haar huwelijk, gelijk het u gebied,</l>
+<l>Zo lang tót God Neptuins verzoening is geschied.</l>
+<l>Zo lang een tyd haar van haar Bruigom te versteeken,</l>
+<l>Schynt al de straf te zijn, waar door hy zich wil wreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Prins, gy begrypt niet wel 't Orakel... Maar wat licht,</l>
+<l>En Goddelyke glans verduistert myn gezicht?</l>
+<l>Myne oogen scheem'ren, door haar schitterende straalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzfus</hi>.</speaker>
+<l>Het is een Gódheid, die op taardryk neêr komt daalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi></speaker>
+<l>ô Ja, 't is Venus, 'k zie, zy nadert herwaards heen.</l>
+<l>Men roep haar Godheid aan met Lofzang en gebeên.</l>
+</sp>
+<stage><hi rend="i">Geduurende de twist, tusschen de Koning en Fineus, opent zich de Hemel, vaar uit Venus, in een Wolk, te voor schyn komt. Zy daalt langsaam neder, terwyl het Vólk haar aanroept, met Lof- en Gebeden zangen.</hi></stage>
+</div>
+<div type="scene">
+<head>Een stem.</head>
+<lg type="poem">
+<l rend="; 1tab">O Moeder van de Min,</l>
+<l rend="; 1tab">Troost donderdrukte Koningin:</l>
+<l rend="; 1tab">Zy smelt in droeve klagten.</l>
+<pb n="8"/>
+<l rend="; 1tab">Gy knnt, indien gy wilt, ons lót</l>
+<l rend="; 1tab">Verand'ren by den Watergód,</l>
+<l rend="; 1tab">Zyn staf gemoed verzachten.</l>
+<l rend="; 1tab">ô Moeder van de Min,</l>
+<l rend="; 1tab">Troost d'onderdrukte Koningin</l>
+</lg>
+</div>
+<div type="scene">
+<head>Rey</head>
+<lg type="poem">
+<l rend="; 1tab">Zy daalt uit den hoogen,</l>
+<l rend="; 1tab">Haar hart schynt bewogen</l>
+<l rend="; 2tab">Met het verdriet</l>
+<l rend="; 1tab">Dat ons van God Neptuin geschied.</l>
+<l rend="; 1tab">Zy daalt uit den hoogen</l>
+<l rend="; 1tab">Haar hart schynt bewogen.</l>
+</lg>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde toneel</hi></head>
+<stage><hi rend="sc">Venus, Cefeus, Kassiopea, Perzeus, Fineus</hi>,</stage>
+</div>
+<div type="scene">
+<head>Rey</head>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>MEn geef gehoor, 'k zie, dat haar Gódheid tracht te spreeken:</l>
+<l>Het schynt, dat gy haar hebt bewogen, door uw smeeken.</l>
+<l>Zy nadert ons, elk zwyge, uit diepe eerbiedigheid,</l>
+<l>En bukke voor de glans van haare Majesteit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>, <hi rend="i">in de lucht hangende</hi>.</speaker>
+<l rend="; 3tab">Vrees niet, ô sterffelijk geslacht;</l>
+<l rend="; 2tab">Der Goden gramschap is verdweenen:</l>
+<l rend="; 3tab">Andromeda zal deze nacht</l>
+<l rend="; 2tab">Nóch in het huwelijk vereenen:</l>
+<l rend="; 3tab">En met een Bruigom zijn gepaard,</l>
+<l rend="; 3tab">Wiens deugd haar schoonheid evenaart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>De Hemel zy gedankt. Ik bid u, wil gehengen,</l>
+<l>Dat ik die blyde maar aan myn Princes mag brengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Ga, de onverduldigheid mistaat een minnaar niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>, <hi rend="i">ziende Venus ten Hemel stijgen</hi>.</speaker>
+<l>De tong zing' haare lóf, zo lang het oog haar ziet.</l>
+<pb n="9"/>
+<l>Zy spoeyt zig Hemelwaard: ik zie ze allengsverdwynen,</l>
+<l>Haar glans noch eenigsins door 't zwerk der wolken schynen.</l>
+</sp>
+</div>
+<div type="scene">
+<head>Een stem</head>
+<l>GElijk ons hart u, voor altyd,</l>
+<l rend="; 3tab">Zy toegewyd,</l>
+<l rend="; 2tab">Voor al de gunst, aan ons beweezen,</l>
+<l rend="; 3tab">Zo geef, ô Moeder van de Min,</l>
+<l rend="; 2tab">Dat nooit geen haat zy tusschen ons gerezen;</l>
+<l rend="; 3tab">Maar dat die vrede duur eeuw uit, eeuw in.</l>
+</div>
+<div type="scene">
+<head>Rey.</head>
+<l rend="; 3tab">Zo geef, o Moeder van de Min.</l>
+<l rend="; 2tab">Dat nooit geen haat zy tusschen ons gerezen;</l>
+<l rend="; 3tab">Maar dat die vreede duur eeuw uit, eeuw in.</l>
+</div>
+<div type="scene">
+<head>Een stem.</head>
+<l rend="; 1tab">Dan zullen wy, met bly geschal.</l>
+<l rend="; 3tab">Langs berg en dal,</l>
+<l rend="; 2tab">Uw lóf en eer alom verbreijen,</l>
+<l rend="; 3tab">Het weelig woud, zal op 't gerucht,</l>
+<l rend="; 2tab">Niet meer weergalmen, van ons droevig schreijen:</l>
+<l rend="; 3tab">Maar op 't geluit van een verliefd gezucht.</l>
+</div>
+<div type="scene">
+<head>Rey.</head>
+<l rend="; 3tab">Het weelig woud, zal op 't gerucht,</l>
+<l rend="; 2tab">Niet meer weergalmen, van ons droevig schrijen:</l>
+<l rend="; 3tab">Maar op 't geluit van een vetliefd gezucht.</l>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Houd op, het is genoeg; want Venus is verdweenen:</l>
+<l>Haar Góddelijke glans drong door de wolken heenen.</l>
+<l>Mevrouw, dat gy de pragt van 't Huwelijk bereid,</l>
+<l>Op dat de echtstaatsy werd' gevierd, met Majesteit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>'k Gehoorzaam u, en vólg, met blydschap, uw geboden,</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Kassiopea Perzeus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>NU hoort gy zelf, myn Heer, het noodlot van de Goden.</l>
+<pb n="10"/>
+<l>Gy meende, dat ik was al de oorzaak van die straf,</l>
+<l>Om dat ik haar geen Gód, maar sterff'lijk schepsel gaf.</l>
+<l>Maar hoe, gy zucht, en schynt geheel ontstelt te weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Zou 'k niet, mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l rend="; 1tab">Waar is die droef heid uit gerezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Uit uwe vreuchd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l rend="; 2tab">Hoe, is die oorzaak van uw smart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Gy twyffelt nóch, daar ik de grond reeds van myn hart</l>
+<l>Zo klaar ontdekt heb. Ach! waar toe meer reén te spillen?</l>
+<l>Gy moet my niet verstaan, óf niet gelooven willen.</l>
+<l>'k Bid verg my niet, dat ik u meer te kennen geef,</l>
+<l>Dewyl ik zelf, daar voor inwendig schrik en beef</l>
+<l>Ach! wie verlieft niet, die haar schoonheid mag aanschouwen?</l>
+<l>Wie schreid niet, als hy haar ziet met een ander trouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Wat kunt gy hoopen? ze is verbonden, door de trouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>.</speaker>
+<l>Een Minnaar vólgt die ooit de reden wel, Mevrouw?</l>
+<l>Een recht verliefde laat zich blindelings verrukken,</l>
+<l>Niet denkende, óf 't hem wel, of kwalyk zal gelukken:</l>
+<l>Hy geeft zigover, aan het voorwerp zyner min:</l>
+<l>Het minnen is zijn vensch, zijn hart, zijn ziel, zijn zin:</l>
+<l>Geen ramp, nóg doods gevaar zal hem te rug doen treeden.</l>
+<l>Ook heb ik vaak my zelf gevleid met deze reden:</l>
+<l><hi rend="i">Schoon zig Andromeda aan Fineus heeft verloofd,</hi></l>
+<l><hi rend="i">Hy 's niettemin, zo wel, als ik, van haar beroofd.</hi></l>
+<l>Die zoete dwaaling deed me in myn verdriet nóch hoopen:</l>
+<l>Maar al myn hoop, helaas! is vrucht loos afgeloopen:</l>
+<l>Nu moet ik zien, dat zy voltrekken hunne trouw,</l>
+<pb n="11"/>
+<l>Schoon ik my waardiger, als haare Bruigom, hou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>'k Moet u beklaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l rend="; 1tab">Ach! indien ge my recht kende,</l>
+<l>Ik ben verzekerd, dat ge my, in myne elende,</l>
+<l>Nóch meer beklaagen zoud. Wel mochtge zeggen, dat</l>
+<l>Uit Goon, of Koningen ik mynen oorsprongk had.</l>
+<l>Myn Vader is... Maar zacht: gy waard, zo ik hem meldde,</l>
+<l>Rampzalig, zo ge my niet boven Fineus stelde:</l>
+<l>Gy moogt verzekert zyn, dat hy dit wreeken zou:</l>
+<l>Daarom is 't best, dar ik sterf onbekend, mevrouw.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste Bedryf.</hi></stage>
+<stage><hi rend="i">Het ruim marktveld, met zyn prachtige gebouwen verdwynt en maakt plaats voor een aangenaame landsdouw.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="12"/>
+<head rend="h3">Twede bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi></head>
+<stage><hi rend="sc">Andromeda</hi>, <hi rend="i">Rey van Nimfen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 1tab">SChakeeren dezer krans is niet wel waargenomen;</l>
+<l rend="; 1tab">En myne Bruidegom zal aanstonds herwaards komen,</l>
+<l>Die 'k, uit een zuiv're liefde en onbevlekte trouw,</l>
+<l>Voor zyne blyde maar, daar mede kroonen woa.</l>
+<l>Dóch door die mislag hebt ge in 't minste niet misdreeven:</l>
+<l>De Heerschappy, die 'k hem heb van myn hart gegeeven,</l>
+<l>Is hem veel waardiger, als 't haast vergank'lyk schoon</l>
+<l>der bloemen, diemen vlecht in mirte óf lauw're-kroon.</l>
+<l>Zeg my eens midd'lerwyl wie van... Maar niet te veinzen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aglante</hi>.</speaker>
+<l>Waarvan Mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 2tab">Ha, 'k merk, ge ontdekt reeds myn gepeinzen.</l>
+<l>Kom, Nimfen, zeg dan eens, door wiens bekoorlykheid</l>
+<l>Die vremdeling zo lang hier aan het Hóf verbeid:</l>
+<l>spreek, wie komt hem in zijn vertrek te wederhouwen?</l>
+<l>Men spill' de tyd niet met elkander aanteschouwen.</l>
+<l>Gy alle bloost van schaamte, en niemand spreekt een woord.</l>
+<l>Heeft die volmaakte Held uw aller hart bekoort?</l>
+<l>Uw liefde is reed'lyk, gy hoeft daerom niet te bloozen</l>
+<l>Zo ik geen ander tót myn Bruigom had verkoozen,</l>
+<l>'k Was moog'lyk door dien Held, die zo volmaakt van leest,</l>
+<l>Als edelmoedig is, al mede ontsonkt geweest;</l>
+<l>Maar 't is een misdaad de eens gedaane keur te kreeken,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aglante</hi>.</speaker>
+<l>Mevrouw, dat gy van hem dus loff'lijk komt te spreeken,</l>
+<pb n="13"/>
+<l>Vergroot zijne achting; dóch tót nóch toe is ons niet</l>
+<l>De minste blijk van zijn genegenheid geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Wat zegtge?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Anglante</hi>.</speaker>
+<l rend="; 1tab">Dat aan ons het allerminste teken</l>
+<l>Van zyn' genegenheid, nóch liefde ooit is gebleeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Dat gy dus bloost van schaamte is dan niet buiten rêen.</l>
+<l>Geen hart te winnen, door zo veel bekoor lijkheên?</l>
+<l>Hoe kan zulks moog'lyk zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cephalie</hi>.</speaker>
+<l rend="; 2tab">Wy schaamen ons met reden.</l>
+<l>Alleen op 't zien, Mevrouw, van uwe aanminnigheden:</l>
+<l>Wijl 't al verdooft werd, door de glans van uw gezicht,</l>
+<l>Gelijk een minder vuur voor 't schitt'rend zonnelicht;</l>
+<l>Want daar uw oog maar eens geschooten heeft haar straalen</l>
+<l>Is overwinninge, nóch zege meer te haalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'t Ontbreekt u geensins aan welspreekenheid: vaar voort:</l>
+<l>Uwe afgerechte tong heeft hem misschien bekoort.</l>
+<l>kweet; dat hy elders mint: men kan het uit de trekken,</l>
+<l>Van zyn bedroefd gelaat bescheidelijk ontdekken:</l>
+<l>Hy staat verbaast, en zucht, ja, blyft in zijne reên</l>
+<l>Steeds steeken. Zeg my eens, waar gaan die zuchten heen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefalie</hi>.</speaker>
+<l>Hoe, vraagt gy dit aan my, gy hoort hem zelfs meest spreeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN PAGIE</hi>.</speaker>
+<stage><hi rend="i">zingt, zender gezien te worden</hi>.</stage>
+<l>Wanneer zal d'avondstond genaaken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Zwyg, Cephalië, ik hoor een stem, dat is een teken</l>
+<l>Van Fineus komst. 't Schynt dat die zang te kennen geeft.</l>
+<l>Het ongeduld dat hy in zyne liefde heeft.</l>
+<pb n="14"/>
+<stage><hi rend="i">Een Pagie zingt</hi>.</stage>
+<l>WAnneer zal d'avondstond genaaken!</l>
+<l rend="; 4tab">Gy schynt me, o dag, een eeuw te zyn</l>
+<l>Uw traagheid is haat'lyk, ik bid u, verdwyn;</l>
+<l rend="; 1tab">Dan kan ik my gelukkig maaken.</l>
+<l>Niets, dat een minnaar meerder smart,</l>
+<l rend="; 1tab">Als 't ongeduld en het verlangen;</l>
+<l rend="; 2tab">Des spoei, o dag, uw gangen;</l>
+<l rend="; 1tab">Want gy doorpynt my 't hart.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Twede tooneel</hi></head>
+<stage><hi rend="sc">Fineus, Andromeda</hi>, <hi rend="i">Rey van Nimsen. Gevólg van Fineus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>OP dat myn' komst u niet te schielyk kwaam te vooren,</l>
+<l>Heeft zich myne Edelknaap door't zingen laaten hooren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'t Is niet onredelyk, dat gy uw min dus uit.</l>
+<l>Dewyl gy daar in vólgt net Goddelijk besluit:</l>
+<l>Maar 't was niet noodig, my op zulk een wys te vleijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k weet niet, dat ik te verr. gegaan heb, in 't verbreijen</l>
+<l>Van uwe lóf, Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 7tab">Gy, Leriope, kom.</l>
+<l>En wreek my, door uw stem, aan myne Bruidegom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi> <hi rend="i">zingt</hi>.</speaker>
+<l rend="; 1tab">ANdromeda moogt gy vry pryzenen loven:</l>
+<l rend="; 3tab">Haar schoonheid spant op het aardrijk de kroon;</l>
+<l rend="; 5tab">Maar zy is noch meer verliefd, als schoon:</l>
+<l rend="; 3tab">Geen liefde gaat haar liefde te boven.</l>
+<l rend="; 6tab">Schoon zy ieders hart verwint,</l>
+<l rend="; 6tab">En om haar bekoorlijkheden</l>
+<l rend="; 6tab">Word geviert en aangebeden</l>
+<l rend="; 6tab">Fineus is noch meer bemind.</l>
+</sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>Gelukkig Prins!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l rend="; 4tab">Gelukkige Princes!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>ô Heilryk Minnaar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l rend="; 6tab">Heilryke Minnaares!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>Zy hebben één hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l rend="; 5tab">Eén ziel, één zin</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>Men zing' tót los van hunner beider min</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l>Men zing' tót lóf van hunner beider min</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi> en <hi rend="sc">Leriope</hi>.</speaker>
+<l>VRees niet, ô sterffelijk gestacht,</l>
+<l rend="; 2tab">Der Goden gtamschap is verdweenen:</l>
+<l rend="; 1tab">Andromeda zal deze nacht</l>
+<l rend="; 1tab">Nóch in het huwelijk veréénen;</l>
+<l>En met een Bruigom zijn gepaart</l>
+<l rend="; 3tab">Wiens Dengd haar schoonheid Evenaart.</l>
+</sp>
+</div>
+<div type="scene">
+<head>Rey</head>
+<l rend="; 1tab">Andromeda zal deze nacht</l>
+<l rend="; 1tab">Nóch in het huwelyk veréénen;</l>
+<l>En meteen Bruigom zyn gepaart</l>
+<l rend="; 1tab">Wiens Deuchd haar schoonheid Evenaart.</l>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>De Hemel schynt 'er in vernoegt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l>Zelf Venus wil dat zy vergaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>De liefde heeft hen saam gevoegt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l>God Hymen zal hen beide paaren.</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>ô Zoet vermaak!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l rend="; 2tab">o Zoet vermaak!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>Dat nem zulk een echt geniet</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Leriope</hi>.</speaker>
+<l>Heilryke liefde! die zo schoon een wit beschiet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi>.</speaker>
+<l>Heilryke liefde! die zo schoon een wit beschiet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pagie</hi> en <hi rend="sc">Leriope</hi>.</speaker>
+<l>Vrees ńiet o sterffelijk geslacht,</l>
+<l>Der God en gramschap is verdweenen:</l>
+<l>Andromeda zal deze nacht</l>
+<l>Noch in het huwelijk veréénen,</l>
+<l>En met een Bruidegom zyn gepaart</l>
+<l>Wiens deugd haar schoonheid evenaart.</l>
+</sp>
+</div>
+<div type="scene">
+<head>Rey.</head>
+<l>Andromeda zal deze nacht....</l>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel</hi>.</head>
+<stage><hi rend="sc">Fineus, Andromeda, Timantes</hi>. <hi rend="i">Rey van Nimsen, gevólg van Fineus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>Mevrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 2tab">Wat is er gaans?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes.</hi>.</speaker>
+<l rend="; 3tab">Ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 5tab">Is de Vóst van 't leven</l>
+<l>Beroofd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l rend="; 1tab">o Ramp!</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 2tab">Spreek op, wat heeft u hier gedreeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>'t Lót is gewurpen, en het valt... Helaas! ik kan</l>
+<l>'t Onmoog'lijk zeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 3tab">Valt het op het voorwerp van</l>
+<l>Uw min?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l rend="; 1tab">Ziet gy niet aan dit droevig traanen plengen,</l>
+<l>Dat ik de wreede maar van uwe dood kom brengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Zeg my, wie de oorzaak is van zulk een valsch gerucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>Gy slaat nòch geen geloof aan myn bedroefd gezucht.</l>
+<l>Maar Cefeus nadert ons, Angstvallig en verslaagen,</l>
+<l>Om, in uw by zyn, haar den Priester op te draagen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Die maar, Timantes, is belachchelijk voor my.</l>
+<l>Vórst Cepheus is zo lichtgeloovig niet, dat hy</l>
+<l>'t Lót meer gelooven zal, als Venus, een Godinne.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timntes</hi>.</speaker>
+<l>Hy wilde, als gy, 't ook niet gelooven in 't beginne.</l>
+<l>'t Orakel heeft haar' naam tót driemaal klaar genoemt</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Zo heeft 't Orakel haar tót dry maal valsch gedoemt.</l>
+<stage><hi rend="i">Tegevs Andromeda</hi>.</stage>
+<l>De Hemel heeft aan u een ander lót beschooren.</l>
+<l>'t Geen zelf een Gód gebied kan geen Orakel stooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Wanneer de Hemel ons wil straffen, vleitze ons vaak</l>
+<l>Tevooren met de schyn van blydschap en vermaak.</l>
+<l>De zoete hoop, die 'k had van steeds met u te leeven,</l>
+<l>Heest my nóch, voormyn dood, geen kleine vreuchd gegeeven.</l>
+<l>Maar wyl die hoop, helaas! nu enkel wanhoop is,</l>
+<l>Sterfik vernoegd, zo 'k leef in uw geheugenis.</l>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Gy sterft vernoegd? ô Goôn! wat onrechtvaerdigheden!</l>
+<l>Zo scheid gy dan van my, Vernoegd en wel te vreden?</l>
+<l>Verdiende ik immermeer, dat gy my zo verlaat?</l>
+<l>Dat onze scheiding u niet meer ter harten gaat?</l>
+<l>Myn trouwe liefde dorst dit nooit van u verwachten,</l>
+<l>Dat gy na uwe dood meer, als na my, zoud trachten.</l>
+<l rend="; 1tab">Wel aan, ik zal aan u nóch denken, na uw dood:</l>
+<l>'k Aanvaard die straf, en stel me aan uwe wreedheid bloot.</l>
+<l>Dóch de onstandvastheid, die ge in uwe min laat blyken,</l>
+<l>Zal myne liefde nooit van zyne plicht doen wyken:</l>
+<l>Die zal, in wederwil van u en 't lót, Mevrouw,</l>
+<l>Een voorbeeld geeven van een ongeveinsde Trouw,</l>
+<l>En toonen aan 't Heelal, dat zy dat onrechtvaerdig</l>
+<l>Onthaal niet had verdient, maar trouwer min was waardig</l>
+<l>En dat een minnaar, schoon hy zich verlaaten ziet,</l>
+<l>Nóch echter minnaar blyft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 2tab">Helaas! is myn verdriet.</l>
+<l>En ramp niet groot genoeg? moet ge, in myne ongelukken,</l>
+<l>Myn droeve ziel met die verwytinge nóch drukken?</l>
+<l>Rechtvaerde Goden! die de grond kent van myn hart,</l>
+<l>Gy weet, hoe deerlyk my dat droevig scheiden smart,</l>
+<l>Dat ik myn' traanen in myn boezem hou beslooten,</l>
+<l>Om zyn verdriet en smart niet meerder te vergrooten.</l>
+<l>Dat ik me, o Prins, dus koel en ongevoelig hou,</l>
+<l>Geschied, om dat ik niet uw leed verdubb'len zou:</l>
+<l>'k Verpynig my, om niet uw traanen te verwekken.</l>
+<l>Gy zegt, dat uwe min een voorbeeld zal verstrekken</l>
+<l>Van ongeveinsde trouw: maar kent niet eens 't verdriet</l>
+<l>Van een verliefde, die de dood voor oogen ziet</l>
+<pb n="19"/>
+<l>Hoe 't hart beklemd moet zyn, wanneer men 't lieve leven,</l>
+<l>Zo wel als 't voorwerp van zyn' liefde, moet begeeven.</l>
+<l>Ja, Fineus, 'k weet niet, wie my 't wreedst valt in deez' nood,</l>
+<l>Gy, of het lót, dat my gedoemt heeft tót de dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Helaas! Mevrouw, 'k beken, dat ik uw onrechtvaerdig</l>
+<l>Beschuldigt heb; ik ben die trouwe min niet waardig,</l>
+<l>'k Verdien niet, dat gy my die ted're liefde toont:</l>
+<l>Verlaat een minnaar, die u zo vermetel hoont.</l>
+<l>Maar ik, Mevrouw, die dit verlies zo neem ter harten,</l>
+<l>Dat ik, getroffen van die leevendige smarte,</l>
+<l>Door enkel wanhoop, plicht nóch red'lijk heid erken,</l>
+<l>En van my zelf, helaas! geen meerder meester ben,</l>
+<l>Ik moet my blind'lings aan myn' droesheid overgeeven.</l>
+<l>Maar 'k zal het lót, dat u gedoemt heeft, tegenstreeven.</l>
+<l rend="; 1tab">Dat vry de Koning, door een laffe vrees, zyn stem</l>
+<l>Tót deze wreedheid geef, 'k hoop dat myn' liefde hem,</l>
+<l>Door hulp der Koningin gestyft, wel zal beletten,</l>
+<l>Den eisch van 't wrevel lót onmensch'lijk voort te zetten.</l>
+<l>'k Durf alles onderstaan tót uw behoudenis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>De Koningin, wiens hart, als 't uw, door droefheid is</l>
+<l>Bekneld, is in geen staat, om 't óffer voor te komen:</l>
+<l>Een vloed van tranen ziet men langs haar' wangen stroomen:</l>
+<l>Zy staat gansch spraakeloos. in 't kort, ik vrees, Mynheer,</l>
+<l>Dat hy uw minnaares, eer haare Moeder weêr</l>
+<l>In staat gebragt is, om dit opset te beletten,</l>
+<l>Zal overgeeven, om het óffer voorttezetten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k Zal, eer ik toesta, dat dit gruwelstuk geschied....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>De Koning nadert; zyt tóch zo oploopend niet.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="20"/>
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Cefeus, Fineus, Andromeda, Perzeus, Timantes</hi>, <hi rend="i">Rey van Nimfen, gevólg van de Koning en Fineus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>MEn heeft u moog'lijk al de wreede maar doen hooren,</l>
+<l>Van 't droevig lót, dat u is van de Goôn beschooren:</l>
+<l>Des zo ge uw' rampen kent, en de oorzaak onzer straf,</l>
+<l>Zo ga, daar 't lót u roept, en verg my niet meer af.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'k Beken, 't valt zwaar, Mynheer, te scheiden uit het leven,</l>
+<l>Wanneer men zich verbeeld ren tóp te zyn verheven</l>
+<l>Van zyn geluk: dóch 'k ben de dood getroost, indien</l>
+<l>Men daar door mag een end van 's Hemels gramschap zien,</l>
+<l>Ik hoop, dat ik my zal daar in standvaster houwen,</l>
+<l>Als zelf de Goôn, die hunn beloften reeds berouwen.</l>
+<l>'k Acht my gelukkig, zo het storten van myn bloed</l>
+<l>Het lieve Vaderland voor verder straf behoed:</l>
+<l>Dóch ongelukkig, dat men, om 't belang der staaten,</l>
+<l>Reeds zo veel bloed verspilt heeft van uwe onderzaaten;</l>
+<l>Dat ik niet de eerste en ook de laatste ben, wiens dood</l>
+<l>Uw Ryk gered heeft uit de afgryselykste nood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Goôn! Gy verlaat my dan, en lyd dit zo geduldig?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Gy ziet, Mynheer, dat ik gehoorzaamheid ben schuldig.</l>
+<l>Dat ik, in weêrwil van my zelven, u verlaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>.</speaker>
+<l>'t Gehoorzaam zyn is slechs een lafheid in die staat.</l>
+</sp>
+<pb n="21"/>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>tGrootst teken dat men van Gehoorzaamheid kan geeven,</l>
+<l>Dat is gehoorzaam zyn, ten kósten van zyn leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k Zal die gehoorzaamheid haar wel beletten: zy</l>
+<l>Is wel uw Dóchter, Heer, maar ook de Bruid van my:</l>
+<l>Ze is my van u, ja van de Goden zelf beschooren:</l>
+<l>Zy hebben deze dag tót onze trouw verkooren</l>
+<l>Gy weet, wat Venus heeft gezegt: vermag't gebód</l>
+<l>Eens Góds niet meerder, als een valsch orakellót?</l>
+<l>'k Meen, zo ik hier zie die schynheil'ge wichchelaaren</l>
+<l>Verschynen, dat ik die onmensch lyke barbaaren.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Gedenk, dat de eisch van 't lót door 's Hemels raad geschied.</l>
+<l>Ik bid, dat gy wat meer op 's lands welvaaren ziet.</l>
+<l>Wie raakt van ons 't verlies van die rampzaal'ge nader?</l>
+<l>Gy zyt slechs een verliefde, en ik, ik ben een vader.</l>
+<l>Uw' rampen haalen by de myne niet, Mynheer:</l>
+<l>Gy krygt wel licht een Bruid, maar ik geen Dóchter, weêr</l>
+<l>Laat u zo verr' niet dooreen yd'le drift verrukken.</l>
+<l>Errinner u eens all' die droevige ongelukken,</l>
+<l>En plaagen, die ons van het Monster zyn geschied,</l>
+<l>En roep niet weer te rugge alle ons geleên verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Laat vry het Zegedrócht alle uwe waterkusten,</l>
+<l>Door woeden, moordenen verwoestingen ontrusten,</l>
+<l>Het bloed eens onderdaans word nooit vergeefs gestort,</l>
+<l>Wanneer hun wettig Vórst daar door behouden word.</l>
+<l>In 't kort, Mynheer, 'k acht all' die plaagen niet met allen,</l>
+<l>Was 't onrechtvaerdig lót niet op myn' Bruid gevallen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Draag voor de Goôn, die 't lót bestieren, meer ontzag.</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Dat tegens ons de Goôn vry treên in één verdrag;</l>
+<l>Zy kunnen my geensins een wreeder straf bereijen,</l>
+<l>Als my te dwingen van Andromeda te scheijen:</l>
+<l>Na dit verlies acht ik geen lót nóch Goden meer:</l>
+<l>Zy is alleen myn lót, de Gódheid, dit ik eer.</l>
+<l>straf vry myn' Gódd'loos heid, die 't lót durft tegen streeven,</l>
+<l>Wil my voor haar ten prooy van 't wreede Monster geeven;</l>
+<l>Ik zweer u by de glans van haar bekoor'lijkheên,</l>
+<l>De grootste Gódheid die van my word aangebeên....</l>
+</sp>
+<stage><hi rend="i">Hier begint het zo afgryselijk te donderen en te weerlichten, dat den aanschouwer daar door verstelt staat, men tiet middelerwyl Eolus, in een wolk, nederdaalen, verzelt met vier Winden, waar van twe aan iedet zyde den Wolk ondersteunen, het welk Fineus echter niet belet in zyn schelden voorttevaaren</hi>.</stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel</hi>.</head>
+<stage><hi rend="sc">Eolus</hi> <hi rend="i">met vier Winden</hi>, <hi rend="sc">Cefeus, Fineus, Perzeus, Andromeda</hi>, <hi rend="i">Rey van Nimfen, gevólg</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>HOud op, gy sart de Goön door uw vermetel spreeken.</l>
+<l>De Bliksem staat gereed ten Wolken door te breeken,</l>
+<l>Om u te straffen in uw wederspannigheên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>De wolken barsten door de bliksem vry van één.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Braveerde Goden niet, gy zult het u beklaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k Lach met de Gôden, ja, ik durf hunn' gramschap daagen.</l>
+<l>Wat vreest een Minnaar tóch in zulk een zwaar verdriet,</l>
+<l>Dat Jupiter op my zyn' Bliksemstraalen schiet?</l>
+<l>Maar 'k ra geen wichchelaar zo stout, dat hy zyn' handen</l>
+<pb n="23"/>
+<l>Slaat aan myn' Minnaares: want zo 'k haar aan zie randen,</l>
+<l>Ik zweer u andermaal, by haar' bekoor'lijkheên,</l>
+<l>De grootste Gódheid die van my word aangebeên....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eolus</hi>.</speaker>
+<l rend="; 1tab">Rampzaal'ge, zwyg; staak dit vermeetel spreeken:</l>
+<l rend="; 1tab">Gy hebt genoeg der Goden toorn ontsteeken:</l>
+<l rend="; 1tab">Gy zult, hoe klein gy hunne gramschap acht,</l>
+<l rend="; 1tab">In 't kort zyn tót gehoorzaamheid gebragt.</l>
+<l rend="; 2tab">Door my zult gy uw' straffe vinden:</l>
+<l rend="; 3tab">'k Ben Eolus der Winden Gód.</l>
+<l rend="; 2tab">Komt herwaards aan, gy Stórremwinden,</l>
+<l rend="; 3tab">Volvoer terstond Neptuins gebód.</l>
+</sp>
+<stage><hi rend="i">Op dit Gebód komen aanstonds twé Winden, de een van de Rechter en de ander van de linker zyde van Eolus, op hunne Vleugels voorby malkanderen nederdaalen, die, na datze elk Andromeda by een arm gegreepen hebben, met haar weder voeg vliegen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>,</speaker>
+<stage><hi rend="i">Tenpylze door de lucht gevoert word</hi>.</stage>
+<l>Ach! Hemel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l rend="; 4tab">Zy is, door de winden, opgenomen,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Denk niet, dat gy 't zo licht zult met my Bruid ontkomen:</l>
+<l>Ik zal u vólgen, waar gy haar ook voeren wilt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zesde tooneel</hi>.</head>
+<stage><hi rend="sc">Cefeus, Perzeus</hi>, <hi rend="i">gevólg des Konings</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>IN zulk een groot gevaar dient tóch geen tyd verspilt.</l>
+<l>Gy kunt noch hoopen: 'k ga my tot haar hulp begeeven:</l>
+<l>Ik zal 't Orakellót veranderen, óf sneeven.</l>
+<pb n="24"/>
+<l>Vaarwel, ik weet een weg tót haar' behoudenis,</l>
+<l>Een weg, Mynheer, die aan den mensch niet kenbaar is.</l>
+</sp>
+<stage><hi rend="i">Einde van het twede Bedrijf</hi>.</stage>
+
+<stage>Beschryvinge van het derde Bedryf</stage>
+<stage><hi rend="i">Hier ziet men zulk een schielijke verandering, dat het niet anders schynt, óf Perzeus beeft, door het ontdekken van Meduzaas hoofd, alle die Mirthe en Jasmynboomen Herschept in vervaarelijke Rotsen en Steen Klippen, welkers hoeken en toppunten de een boven den ander zo ongelijk uitsteeken, dat men ze zoude oordeelen daar eer door Natuur gegroeit, als door kunst gestelt te weezen</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="25"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Andromeda</hi>. <hi rend="i">geboeid aan de Rots</hi>, <hi rend="sc">Timantes</hi>, <hi rend="i">Rey van Inwoonders</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>WAar zyn de winden met de Ryksprinces gevloogen?</l>
+<l rend="; 3tab">Laat ons haar zoeken gaan, en sterven voor haare oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Ach! Ach!</l>
+</sp>
+<sp>
+<speaker>1 <hi rend="spat">REY</hi>.</speaker>
+<l>Ik zie haar aan die Róts geketend staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>Zy is 't! ô Goôn, ziet gy dit deer' lijk treurspel aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Help, Hemel!</l>
+</sp>
+<sp>
+<speaker>2 <hi rend="spat">REY</hi>.</speaker>
+<l rend="; 3tab">Nu is 't uur van haare dood gebooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>.</speaker>
+<l>Men zwyge, op dat men kan haar droevig klaagen hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 2tab">Afgrys'lyk denkbeeld van de dood,</l>
+<l rend="; 1tab">Die 'k eerst, door eerzucht aangedreeven.</l>
+<l rend="; 1tab">Dorst moedig onder de oogen streeven</l>
+<l rend="; 2tab">Wat doet ge my, in deze nood,</l>
+<l rend="; 1tab">Van doodangst sidderen en beeven!</l>
+<l rend="; 2tab">Ik, die, gevonnist door het lót,</l>
+<l rend="; 1tab">In wreede boeijens ben geslaagen,</l>
+<l rend="; 1tab">Ontbloot van Bruidegom en maagen,</l>
+<l rend="; 2tab">Hoon hier, Helaas! geen mensch, nóch Gód,</l>
+<l rend="; 1tab">Die deerenis heeft met myn klaagen.</l>
+<l rend="; 2tab">Dit hart, dat nóch zo teêr bemint.</l>
+<pb n="26"/>
+<l rend="; 2tab">Sterft duizend dooden in dit leven:</l>
+<l rend="; 2tab">'t Word telkens zo door schrik gedreeven,</l>
+<l rend="; 3tab">Dat zelf het ruischen van de wind</l>
+<l rend="; 2tab">'t Van angst doet sidderen en beeven.</l>
+<l rend="; 3tab">ô Wreed herdenken van all' 't zoet,</l>
+<l rend="; 2tab">Dat ik zo korts nóch heb genooten</l>
+<l rend="; 2tab">Moet gy nóch meer myn smart vergrooten?</l>
+<l rend="; 3tab">Wyk uit myn troosteloos gemoed....</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Twede tooneel</hi>.</head>
+<stage><hi rend="sc">Kassiopéa, Andromeda, Timantes</hi>, <hi rend="i">Rey van Inwoonders</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Ik ben het, Goden, die de misdaad heb bedreeven;</l>
+<l>Ik kom my zelf aan u, uw wraak ten ófter, geeven.</l>
+<l>Indien rechtvaerdigheid by u gevonden word,</l>
+<l>Dat dan alleen op my uw Bliksem nederstort:</l>
+<l>Ontsla Andromeda: 't past geen rechtvaerde Goden,</l>
+<l>De ontschuldigen, in plaats der schuldigen, te dooden.</l>
+<l>Wat oorzaak port u tóch tót zulk een wreedheid aan?</l>
+<l>Staat gy na wraak, wreekt u op my; ik heb misdaan:</l>
+<l>Maar houdt myn dóchter, daarwe uw Beeldt nis in zien zweeven,</l>
+<l>'t Schoonst schepsel, dat ge ooit hebt geschapen, in het leven.</l>
+<l>alle uwe trekken staan in haar gelaat geprent,</l>
+<l>Indien gy haar verdelgt, zo leeft gy onbekendt</l>
+<l rend="; 1tab">Ha! 'k merk wat in u kan die felle haat verwekken:</l>
+<l>'k Zie, dat ge in haar benyd die Goddelijke trekken.</l>
+<l>Gy weet, dat zy, indien ze in 't leven bleef, alleen</l>
+<l>Meer, als al 't Godendom, zóu werden aangebeên,</l>
+<l>En dat men in het kort geen Altaars zoude stichten,</l>
+<l>Nóch offeren, als om haar schoonheid te verplichten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Is 't lót, me in deze staat, niet wreed genoeg? moet gy</l>
+<l>De wreede smart, die ik, in deze doodangst ly,</l>
+<pb n="27"/>
+<l>Verdubb'len door 't gevaar daar ik u in zie loopen,</l>
+<l>Wat voordeel kunt gy van dat lasteren tóch hoopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Dat ik, in plaats van u door 't Monster werd' gedood:</l>
+<l>Maar'k zie, Helaas! dat ik daar door uw'straf vergroot:</l>
+<l>Dat ik, in plaats van u van 't sterven te bevryden,</l>
+<l>U, door myn' misdaân, meer, als duizend doôn, doe lyden.</l>
+<l>'t Schynt, dat'er tót myn dood, die my alom ontvlucht,</l>
+<l>Geen Monster is in Zé, geen Bliksem in de lucht;</l>
+<l>Maar dat de wreede Goôn my in het leven houwen,</l>
+<l>Om 't deer'lijk schouwspel van uw' droeve dood te aanschouwen:</l>
+<l>Zy weeten, dat my kan geen wreeder straf geschiên,</l>
+<l>Als dat ik u moet voor myne oogen sterven zien.</l>
+<l rend="; 1tab">Gy Venus, die ons kwaamt 't besluit der Goôn te ontdekken,</l>
+<l>Is dit het trouwfeest, dat myn' Dóchter zou voltrekken?</l>
+<l>Waarom hebt gy ons met een yd'le hoop gevleit?</l>
+<l>Indien zy word benyd om haar' behoor'lykheid,</l>
+<l>En dit de haat verwekt van all' de Zegodinnen,</l>
+<l>Zo maak, door uwe zoon, de groote Gód van 't minnen,</l>
+<l>Dat de een, óf de andre Gód, tot haar' behoudenis.</l>
+<l>In wederwil van 't lot, voor haar gewapend is,</l>
+<l>Zyn zy numeer vervremd van liefde, als van te vooren:</l>
+<l>Een minder schoonheid kon God Jupiter bekooren,</l>
+<l>En 't hart des water Gods ontsteeken in den brand.</l>
+<l>'k Weet, dat zy ook de kroon verr' boven Dafne spant,</l>
+<l>Dat Psyche, die uw' zoon ontfonkte, door haar straalen,</l>
+<l>Niet by de glans van haar' bekoor'lykhêen kan haalen.</l>
+<l rend="; 1tab">Myn dochter, wat kan u toch wederhouden, dat</l>
+<l>Gy zelf de Tritons in het grondelooze nat</l>
+<l>Niet aanstonds dwingt, om uw' bekoor'lykheid te minnen:</l>
+<l>Ja, dat zy, zelf ten spyt van all' de Zegodinnen,</l>
+<l>Op hoop, dat gy uw hart hen geeven zoud tót loon,</l>
+<l>Het wreede Moordgedrócht, voor uw gezigt'niet doôn?</l>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi></speaker>
+<l>Is dit de goden tót mëdogenheid verwekken?</l>
+<l>Gy porthunn' gramschap, om myn straffe te voltrekken.</l>
+<l>Gy roept het Moordgedrócht: 'k zie, dat het my genaakt.</l>
+<l>Dat gy dat lasteren tóch in zyn by zyn staakt,</l>
+<l>Ik zie hier mensch, nóch Gód, wiens hulp ik kan verwerven.</l>
+<l>Het is met my gedaan, vaarwel, en laar my sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi></speaker>
+<l>Ach! 'k zie, dat haar 't gedrócht reeds nadert. Fineus, kom,</l>
+<l>Bescherm Andromeda, gy zyt haar Bruidegom</l>
+<l>Kunt gy die wreedheid van het Godendom gedoogen?</l>
+<l>Verdelg het Monsterdier, óf sneuvel voor haar oogen.</l>
+<l>De eer noopt u alzo wel, als liefde, tót dien stryd:</l>
+<l>Betoon nu, dat gy een rechtschapen minnaar zyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'k Weet, dat hy my zo teêr bemind, als ooit voor dezen,</l>
+<l>Maar hy zal zeker van verdriet gesturven weezen:</l>
+<l>Want zo die held nu nóch in 't leven was, Mevrouw,</l>
+<l>Zo weet ik, dat hy my behoên, of sneuv'len zou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopia</hi>.</speaker>
+<l>Zeg liever, dat hy is bekommerd voor zyn leven.</l>
+<l>Gy dan, ô vremd'ling kom u herwaards aan begeeven,</l>
+<l>Toon nu, uit welk een stam dat gy gesprooten zyt.</l>
+<l>Andromeda is de uwe, indien gy haar bevryd.</l>
+<l>'t Gevaar, ô Bloodaards, schynt u beide te weêrhouden:</l>
+<l>Ik zie die vlam in u nu te eenemaal verkouden,</l>
+<l rend="; 1tab">Wel aan, myn wanhoop, laat ons geen gevaar ontzien,</l>
+<l>'t Is tyd, dat ik my van myne eigen arm bedien;</l>
+<l>Laat ik Rampzaalige, ten kósten van myn leven,</l>
+<l>die laffe minnaars een verwytend voorbeeld geeven,</l>
+<l>My neder storten in die grondelooze vloed... doet?</l>
+<l>Maar wie weêrhoud me? is dit een dienst die gy me</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="29"/>
+<head rend="h4"><hi rend="i">Derde toneel</hi></head>
+<stage><hi rend="sc">Andromeda, Perzeus</hi>, <hi rend="i">in de lucht, op zyn gevleugeldpaerd,</hi> <hi rend="sc">Kassiopea, Timantes</hi>, <hi rend="i">Rey van Inwoonders.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Timantes</hi>, <hi rend="i">De Koningin wederhoudende</hi>.</speaker>
+<l>HOe, loopt gy na uw dood? ziet gy dien Held niet stryden?</l>
+<l>Door welk een weg hy tracht uw Dóchter te bevryden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Wat zie ik! Goden! 't is dien onkenden, dien</l>
+<l>Ik myn hart zo vaak....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>, <hi rend="i">in de lucht</hi>.</speaker>
+<l rend="; 4tab">Mevrouw, nu kunt gy zien,</l>
+<l>Wie u het meest, door zyn' verdiensten, kan verplichten:</l>
+<l>Of 't bloed der Goôn voor 't bloed der Koningen moet zwichten</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Gy toont, dat uwe liefde is zonder wedergâ.</l>
+<l>Gy stryd voor u zo wel, als voor Andromeda.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l>Vaar voort! vaar voort! om 't Monster te dooden:</l>
+<l rend="; 2tab">Denk, waarom gy stryd.</l>
+<l rend="; 1tab">Maak, dat uw glory word benyd</l>
+<l rend="; 2tab">Van menschen, en goden.</l>
+<l>Vaar voort...</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l>Vaar voort, vaar voort, om 't Monster te dooden,</l>
+<l rend="; 3tab">Denk waarom gy stryd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EENSTEM</hi>.</speaker>
+<l>Schep moed! schep moed!; nooit held heeft voordezen</l>
+<l rend="; 3tab">Dien lauwer geplukt.</l>
+<l rend="; 1tab">Zo gy haar dit gevaar ontrukt</l>
+<l rend="; 1tab">Zal ze uwe steeds weezen</l>
+<l>Schep moed...</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l>Schep moed! schep moed! nooit held heeft voordezen</l>
+<l rend="; 1tab">Dien lauwer geplukt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tlmantes</hi>.</speaker>
+<l>Zie, welk geluk, Mevrouw! uw dóchter is be hoed</l>
+<l>'k Zie, dat het wreed gedrócht vermoord legt in zyn bloed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi> <hi rend="i">in de lucht</hi></speaker>
+<l>De Hemel zy gedankt, die my doet triomfeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Met welk een ófferhand zal 'k u, o! Goden, eeren?</l>
+<stage><hi rend="i">Tegens Perzeus.</hi></stage>
+<l>'k Erken alleen, Myn Heer, u voor die Bruidegom,</l>
+<l>Die haar is toe geleid by 't opper Godendom.</l>
+<stage><hi rend="i">Tegens Andromeda.</hi></stage>
+<l>Gy moet niet meer aan dien ondankbaren Fineus denken,</l>
+<l>Myn dóchter: maar uw hart en trouw aan Perzeus schenken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Om haar te winnen, moet men nóch veel meer bestaan.</l>
+<l>Princes, verlaat dit strand: die winden, die u aan</l>
+<l>Die haatelijke Rots gekluistert hebben, zullen</l>
+<l>U weêr ontkluist'ren, en myns vaders last vervullen:</l>
+<l>Zy zullen, op 't gebod van de opper God Jupyn,</l>
+<l>Waar uit ik oorsprongk nam, u weêr gedwongen zyn</l>
+<l>Te brengen, daar gy eerst door hen zyt opgenomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi></speaker>
+<l>Myn' ziel, door schrik vervoerd, kan tot zich zelf niet komen.</l>
+<l>Gy onverwinb're held, ik bid, vergeef het my,</l>
+<l>Dat ik myn' dankbaarheid niet toon naar uw waardy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi></speaker>
+<l>Tierannen van de Zé, komt uw misdaân boeten,</l>
+<l>Verbolgen Muiters, werpt u aanstonds voor haar' voeten,</l>
+<l>Smeekt om gena' ter wil van die 't Heelal bestiert,</l>
+<l>En breng haar weêr ter plaats daarze opgenomen wierd,</l>
+</sp>
+<pb n="31"/>
+<stage><hi rend="i">Hierop gehoor zaamen aanstonds de winden, en vliegen, met Andromeda, weder na de plaats, daar zy eerst van daan wierd gevoerd. Perzeus vólgt haar, op zya Vliegend Paerd, terwyl hy wegvliegt, hoort men den oever van vreuch-de-zangen weêrgalmen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Men bann' de droef heid vry die ons hert kwam prangen,</l>
+<l>Door 't aangenaam geluid van vreuchde-en-zegezangen</l>
+<l>Elk zing', ter eere van dien Held, dat berg en dal</l>
+<l>En Bosch en Beemd weêrgalmt van 't aangenaam geschal.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 1tab">De zege is end'lijk weggedraagen:</l>
+<l rend="; 2tab">'t Gedrócht leid verstaagen</l>
+<l rend="; 3tab">En Nedergevelt.</l>
+<l rend="; 1tab">Men zing' ter eere van dien held,</l>
+<l rend="; 2tab">Dat Bosschen en hagen</l>
+<l rend="; 2tab">En Bergen waagen,</l>
+<l rend="; 1tab">Men zing' ter eere van dien held</l>
+<l rend="; 2tab">Die 't gedrócht heeft gevelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 1tab">De Zege is endlijk weggedragen</l>
+<l rend="; 1tab">'t Gedrócht legt verslaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 1tab">Princes, dit 's uw Minnaar</l>
+<l rend="; 1tab">Dat gy dien verwinnaar</l>
+<l rend="; 1tab">Tót Bruigom aanvaart:</l>
+<l rend="; 1tab">Denk, dat hy uw Lot is:</l>
+<l rend="; 1tab">De zoon van een God is</l>
+<l rend="; 1tab">Uw liefde wel waard.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 1tab">De zege is eindlijk weggedraagen</l>
+<l rend="; 1tab">'t Gedrocht legt verslaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Komt, laat ons zien, waar zy gebragt is van de winden.</l>
+<pb n="32"/>
+<l>Ik zal de Vórst aan myn' belófte meê verbinden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Cymodocia, Efyre, Cydippe</hi>, <hi rend="i">dry Zégodinnen op komende uit de Zé</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cymodoccia</hi>.</speaker>
+<l>DUs zien we ons andermaal in ons gezag onteert;</l>
+<l rend="; 1tab">En onze gramschap op het smaad'lykst gebraveert.</l>
+<l>Dat zy, ten tróts van ons, onze ófferhand zien slaaken,</l>
+<l>Zal die vermetele nóch meer hovaerdig manken.</l>
+<l>Alle onze haat verstrekt slechs tót een middel, om</l>
+<l>Andromeda met een doorluchter Bruidegom</l>
+<l>Te doen vereenen: 't schynt, dat onze haat en tooren</l>
+<l>Zelf de oorsprongk is, daar haar geluk uit is gebooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cydippe</hi>.</speaker>
+<l>Wat óf de onsterfllijkheid aan ons tóch baaten mag,</l>
+<l>Wanneer men zien moet, dat ons Góddelijk gezag</l>
+<l>Dus van een sterflijk mensch gehoont werde en beleedigt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cymodcia</hi>.</speaker>
+<l>Het is geen mensch, maar 't is een Gód die haar verdedigt.</l>
+<l>Dóch 'k bid, schep moed; ik hoop, dat wy niet zyn van all'</l>
+<l>De Goôn verlaaten, dat ons één wel wreeken zal.</l>
+<l>Kom, laat ons, vers bebloed van 't Monster, onze klagten</l>
+<l>Gaan storten voor Neptuin: laat ons zyn' Gódheid trachren.</l>
+<l>Te porren tót de straf van dat vermetel vólk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Efyre</hi>.</speaker>
+<l>Ik zie de Zé van ond're opwellen uit zyn kólk.</l>
+<l>'k Geloof, hy nadert reeds, om ons zyn' hulp te leenen:</l>
+<l>'t Getoet der Tritons galmt langs duin en stranden heenen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="33"/>
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Neptunus, Cymodocia, Efyre, Cedippe</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi> <hi rend="i">zittende in een Kar van Parlemoer, voortgetrokken van vier Zépaerdeu</hi>.</speaker>
+<l>MYn' Dóchters, ik heb uw verdriet en rouw verstaan:</l>
+<l>Ik kom hier, op 't gerucht van uwe klachten, aan.</l>
+<l>Myn Broeder Jupiter, die 't tróste vólk verdedigt,</l>
+<l>Heeft my, zo wel, als u, in myn gezag beleedigt.</l>
+<l>Hy voert hier in myn Ryk zelf de Opperheerschappy:</l>
+<l>Ja zend zyn' Basterdzoon, om, door die dwing'landy,</l>
+<l>My 't opperste gezag der wateren te ontrukken.</l>
+<l>Laat Aarde en Hemel vry, voor zyne wetten, bukken.</l>
+<l>Hy voert den Bliksem, en hangt van geen noodlót af;</l>
+<l>Ten minsten dat hy my dan laat de waterstaf.</l>
+<l>Wie weet, indien hem hier die tierranny gelukte,</l>
+<l>Of hy niet Plúto zelf uit zynen Zetel rukte.</l>
+<l>Laat ons hem wederstaan, in zynen dwinglandy.</l>
+<l>Ik ga, om Juno zelf te trekken op myn zy,</l>
+<l>Laat alles op my staan: ik zal uw wraak voltrekken,</l>
+<l>Al zou het tót myn' val, ja wis bederf verstrekken.</l>
+<l>Vaar wel, dat gaat u voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cymodocia</hi>.</speaker>
+<l rend="; 1tab">Men schepp' nu weder moed,</l>
+<l>Nu zelf de Watergód ons die belófte doet.</l>
+</sp>
+<stage><hi rend="i">Einde van het derde Bedrijf</hi>.</stage>
+<stage><hi rend="i">Het Tooneel verandert op 't gezigt en verbeeld een vermaakelijke Lusthof, met een prachtig Paleis in 't verschiet.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="34"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4"><hi rend="i">Derde tooneel</hi></head>
+<stage><hi rend="sc">Andromeda, Perzeus</hi>, <hi rend="i">Rey van Nimfen, Gevólg van Perzeus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>IS 't my geoor'lóft na u wedermin te trachten?</l>
+<l>Zult gy 't, ô Schoone, voor geen groote misdaad achten,</l>
+<l>Als ik, my onderwind te dingen naar een hert,</l>
+<l>Het welk door Fineus nóch misschien bezeten werd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'k Bid, laat my hem, dewyl ik de uwe ben, vergeeten.</l>
+<l>Dat hy dit hart, Myn Heer, voordezen heeft bezeten,</l>
+<l>Was door myns Vaders keúr: die zelve keur gebied,</l>
+<l>Dat ik hem nu verban, en gy zyn' plaats geniet.</l>
+<l>Ik moet gehoorzaam zyn, het minnen, nóch het haasten</l>
+<l>Is aan myn' zinn'lijkheid; nóch, keur niet vry gelaaten.</l>
+<l>Dit hart kan minnen, na de wetten, die 't ontfangt,</l>
+<l>'t Vólgt blindelings de last, daar gy het door erlangt</l>
+<l>In 't kort, na 's Vórsten keur is 't oogwit van uw poogen</l>
+<l>Veel minder in myn magt, als 't is in uw vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>'k Had u dan vrucht'loos van de dood behoed, Mevrouw,</l>
+<l>Zo ik mv van de magt van uwe vader wou</l>
+<l>Bedienen, u Slavin van zyn verkiezing maaken:</l>
+<l>Een edelmoedig hart moet zulke midd'len wraaken.</l>
+<l>Ik bid, verwacht tóch zulk een lafheid niet van my.</l>
+<l>Het is wel waar, dat ik de Goôn heb op myn' zy.</l>
+<l>Dat gy my zelf zyt door uwe ouders opgedraagen:</l>
+<pb n="35"/>
+<l>Maar 'k óffer u weêr aan uw eigen welbehaagen.</l>
+<l>Dewyl ik uw gelúk veel meer betracht dan 't myn,</l>
+<l>Wil ik veel liever van uw hart versteeken zyn,</l>
+<l>Als zulk een schoone schat door 's Vórsten keur te ontfangen.</l>
+<l>Verkies dan, wie u zal tót zynen Bruid erlangen.</l>
+<l>'k Verwacht het vonnis van myn leven, óf myn' dood.</l>
+<l>Dóch 't zy my uwe keur begunstigt, óf verstoor,</l>
+<l>Ik zal my aan myn lót vry willig overgeeven,</l>
+<l>Vernoegd gaan sterven, zo 'k u slechs vernoegd doe leeven</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Is 't niet genoeg dat gy 't gedrócht hebt neêr geleid!</l>
+<l>Dat ik, na 's Vórsten keur, spreek van gehoorzaamheid:</l>
+<l>Wilt ge u nóch meester van myn wederhouding maaken?</l>
+<l>Zo weet....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l rend="; 2tab">Neen, wil die keur tóch in my byzyn staaken.</l>
+<l>Gy zoud dan mooglijk acht op myn verdiensten slaan,</l>
+<l>En met geweld uw liefde en zinn'lijkheid weêrstaan:</l>
+<l>Myn zegepraalende arm, die 't Monster heeft verwonnen,</l>
+<l>Zou u, in uwe keur, heel licht misleijen konnen.</l>
+<l rend="; 1tab">Vólg dan het wit alleen van uw genegendheid,</l>
+<l>En sla maar acht op 't geen de Minnegód u zeid.</l>
+<l>k Zeg andermaal, ik zal me aan t noodlót overgeeven:</l>
+<l>Vernoegd gaan sterven, zo 'k u slechs vernoegd doe leeven.</l>
+<l>Ik, die uw leven eerst behoed heb in de nood,</l>
+<l>Zal dan uw liefde zelf verzek'ren door myn dood.</l>
+<l>Vaar wel, 'k zal op een straf, óf gunstig vonnis wachten:</l>
+<l>Het eerst' rechtvaardig, en het laatst' genadig achten.</l>
+</sp>
+<div type="scene">
+<pb n="36"/>
+<head rend="h4"><hi rend="i">Twede tooneel.</hi></head>
+<stage><hi rend="sc">Andromeda</hi>, <hi rend="i">Rey van Nimfen</hi></stage>
+<sp>
+<speaker><hi rend="sc">Anoromeda</hi>.</speaker>
+<l>HAd gy wel ooit gelooft, o Nimfen, dat ik in</l>
+<l>Zo kort een tyd zou zyn verandert in myn' min?</l>
+<l>'t is waar, dat hy my door de Vórst is opgedraagen;</l>
+<l>Maar 't hart schepte in zyn' keur een heimelijk behaagen</l>
+<l>Myn' nieuwe liefde aanbad myns vaders heerschappy,</l>
+<l>En streefde blind'lings myn gehoorzaamheid voorby.</l>
+<l>De naam van Fineus klinkt nu haat'lijk in myne ooren.</l>
+<l>'t Weêrspannig hart, dat hy voor dezen kon bekooren,</l>
+<l>Brak de eerste ketenen van liefde met geweld,</l>
+<l>Zo dra my Perzeús, door de Vórst, wierd voorgestelt.</l>
+<l>Komt die verandring u niet wonderlijk te vooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Aglante</hi>.</speaker>
+<l>Dit is dien Held, dien u van 't noodlót is beschooren.</l>
+<l>Dit wonderwerk geschied alleen door 't Godendom,</l>
+<l>Om u te huwen aan een ed'ler Bruidegom,</l>
+<l>'t Hart hangt alleen af van dat onbepaald vermogen,</l>
+<l>'t Word heimelijk daar door tót liefde, óf haat bewoogen,</l>
+<l>'t Stort onbegryp'lyk ons een neiging in 't gemoed,</l>
+<l>Waar door het minnevuur verdooft werd, óf gevoed.</l>
+<l>Dit zien we aan u, Mevrouw; dewylgy al voordezen</l>
+<l>Zo groot een achting voor Held Perzeus hebt beweezen,</l>
+<l>Dat hy het overig gedeelte uws harts bezat,</l>
+<l>Het welk toen Fineus nóch niet ingenomen had.</l>
+<l>Toen deed de Hemel al uw hart tót Perzeus hellen,</l>
+<l>Om 't Góddelijk besluit daar door in 't werk te stellen:</l>
+<l>En de achting, die gy tót dien Held droegt in 't begin</l>
+<l>Was 't werktuig slechs, om u te trekken tót de min.</l>
+</sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="sc">Cefalia</hi>.</speaker>
+<l>'t Is waar, de liefde moet uit zulk een achting spruiten.</l>
+<l>Dóch zo ik hier op myn'gedachten vry mag uiten:</l>
+<l>'t Is veel gewaagt, Mevrouw, wanneer men in die staat,</l>
+<l>Op zulk een schielyke verand ring zich verlaat.</l>
+<l rend="; 1tab">Hy die noch korts was zo behaag'lyk in uwe oogen,</l>
+<l>Zal zonder twyffel veel op uw gemoed vermogen,</l>
+<l>Als hy een zucht loost in uw tegenwoordigheid:</l>
+<l>Licht dat de liefde dan weer in zyn voordeel pleit.</l>
+<l>Een minnaares, die door haar minnaar is beledigd,</l>
+<l>Word door een traan, hoe felze ook haaten mag, bevredigt.</l>
+<l>Zyt zo voorbaarig niet; gy zult in hem misschien,</l>
+<l>Als gy hem weer aanschouwt, die oude deuchde zien,</l>
+<l>Die gy voor heen zo teêr...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l rend="; 2tab">Wanneer ik hem aanschouwe</l>
+<l>Zal ik hem aanzien, als een bloodaard, een ontrouwe,</l>
+<l>Die my reeds over had gegeeven aan de dood,</l>
+<l>En 't hart niet had, om my te redden uit den nood,</l>
+<l>Maar Gòd en mensch schold, om zich in zyn plicht te kwyten:</l>
+<l>Wat meer is, 'k zal hem zyn laf hartigheid verwyten.</l>
+<l>Daar is hy, 'k zie dat hy zich herwaards aan begeeft.</l>
+<l>Blyf: gy zult zelf nu zien, wat magt hy op my heeft</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">Andromeda, Fineus, Ammon</hi>, <hi rend="i">Rey van Nimfen Gevólg van Fineus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>VErgeef het my, Mevrouw, indien ik u kom stooren.</l>
+<l>'k Hoor, dat gy Perzeus tót uw Bruigom hebt verkooren.</l>
+<l>Ik heb my zelf gevleid, dat deze keur alléén</l>
+<l>Uit 's Vórsten wil sproot, niet uit eigen zinn'lykheên:</l>
+<pb n="38"/>
+<l>Maar ach! men zegt, dat gy hem, zonder tegenstreeven,</l>
+<l>Uw' hand, ja zelf uw hart vrywillig hebt gegeeven,</l>
+<l>Dat nu die Schat, die my es rit opgedraagen is,</l>
+<l>Verstrekken zal tót loon van uw' behoudenis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>,</speaker>
+<l>Ja, 'k heb hem myne trouw vrywillig opgedraagen.</l>
+<l>Een minnaar, die voor my zyn leven niet durft waagen,</l>
+<l>Acht ik myn hart onwaard. In 't kort, hy heeft die schat</l>
+<l>Verdient, na dat gy die al lang verlaat en had.</l>
+<l>Durft gy dus schaamteloos my nóch van liefde, spreeken,</l>
+<l>Daar uw bloohartigheid my in 't gevaar laat steeken,</l>
+<l>En toestaat, dat ik van 't gedrocht verslonden werd'.</l>
+<l>Laat ge u nóch voorstaan deel te hebben aan myn hert?</l>
+<l>Zo gy ge wilt had, dat ik de uwe was gebleeven.</l>
+<l>Moest gy, als Perzeus, tót bescherming van myn leven,</l>
+<l>Geen doodsgevaar ontzien. Nu heeft die Held verricht</l>
+<l>Het geen, waar toe gy door de liefde waard verplicht.</l>
+<l>'k Denk, dar ge ook in myn'trouw geen grooter smart zult vinden,</l>
+<l>Als toen gy toestond, dat my 't Monster zou verslinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi></speaker>
+<l>War heb ik niet om uw' behoudenis bestaan?</l>
+<l>Heb ik der Goden toorn niet op myn' hals gelaân?</l>
+<l>Gy wierd heel schielyk door de winden opgenomen:</l>
+<l>Wat sterflyk mensch had magt, om dit tòch voortekomen?</l>
+<l>Zou 'k niet door Eolus vermorzelt zijn, indien</l>
+<l>Ik regens zyn gebod had weêrstand willen biên?</l>
+<l>De wapens, die 'k dan tót uw bystand by kon brengen,</l>
+<l>Bestonden in geheên, en droevig traanen plengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Gy schreide dan, terwyl die Held, met zwaard en speer,</l>
+<l>Het wreede moordgedrócht kloekmoedig ging te keer:</l>
+<pb n="39"/>
+<l>Zo hebt gy allebei, na 'k hoor, voor my gestreden,</l>
+<l>Hy met zyne arm, en gy met traanen en gebeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Denk, hoe 't de minnaars van Neréa zyn vergaan,</l>
+<l>Die elk, om 't yv'rigst, voor haar 't harnas gespten aan:</l>
+<l>Zyn ze alle twintig nier rampzalig omgekomen?</l>
+<l>Met welk een hoop zoude ik dit hebben ondernomen?</l>
+<l>Zoude ik my hebben meteen wonderwerk gevleit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Gy moest u op het geen u Venus had gezeid</l>
+<l>Verlaten hebben, gy kond, door de hulp der Goden,</l>
+<l>Het wreede Monsterdier, zo wel als Perzeus, dooden.</l>
+<l>En schoon ge al zekerlyk uw' dood voor oogen zaagt,</l>
+<l>Die twintig minnaars, daar de faam nu nóch van waagt,</l>
+<l>Behoort ge, indien gy niet beducht waard voor uw leven,</l>
+<l>Getracht te hebben in hun voorbeeld na te streeven.</l>
+<l>Die Helden hebben wel hun wis bederf voorzien:</l>
+<l>Maar liefde en eerzucht deed hen moedig weêrstand biên;</l>
+<l>Geen ramp, nóch doodsgevaar kon' hen te rug doen treeden.</l>
+<l>Maar hun rampzalig end heeft die lafhartig heden,</l>
+<l>Na 'k merk, in u verwekt: het is de vrees alleen</l>
+<l>Die u gebragt heeft tót die traanen en gebeên.</l>
+<l>En schoon de Hemel my door Perzeus kwam bevryden,</l>
+<l>Ik moet haar nóchtans de eer van zulk een dood benyden.</l>
+<l>Van twintig minnaars vond die minnaares niet één</l>
+<l>Die traag was, om haar in het sterven na te treên:</l>
+<l>Daar ik, in tegendeel, gekluisterd van de winden,</l>
+<l>Niet, als dien vremdeling kon tót myn bystand vinden.</l>
+<l>Die minnaars waaren nóch niet all' bemindt; en gy</l>
+<l>Waard niet alleen bemindt, maar zelf verloofd aan my,</l>
+<pb n="40"/>
+<l>Het grootst' gedeelte wierd door yd'le hoop gedreeven,</l>
+<l>Daar ik u reeds 't bezit had van myn hart gegeeven.</l>
+<l>Was die verzekering, die gy van my genoot,</l>
+<l>U niet genoeg, om my te vólgen in myn' dood?</l>
+<l>Kon ik u meer tot myn bescherreming verplichten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Wil vry uw minnaar van blôhartigheid betichten;</l>
+<l>Maar ach! verdenk my van geen trouwloosheid, mevrouw,</l>
+<l>Wyl ik geen oogenblik u overleeven zou.</l>
+<l>Ik, die my machtloos vond, om uwe dood te aanschouwen,</l>
+<l>Heb in uw afzijn steeds myne arm gereed gehouwen,</l>
+<l>Om my, zo dra 'k de maar van uwe dood onfing,</l>
+<l>Uit wanhoop door di t hart te stooten, met myn'kling.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>'t Waar billyk, zo gy niet beducht waard voor uw leven,</l>
+<l>Dat gy my zelf voor 't laatst daar van een proef kwaamt geeven,</l>
+<l>En u voor 't monster had geworpen, in die nood,</l>
+<l>Geen Perzeus had me dan weêrhouden van de dood:</l>
+<l>'K had u met vreuchd ge volgt, en my gevleid in 't sterven,</l>
+<l>Dat ik één graf zou met myn Bruidegom verwerven.</l>
+<l>Doch toen het u ontbrak aan dapperheid en moed,</l>
+<l>Heeft my de Hemel door een ed'ler arm behoed.</l>
+<l>Ik had die trouwe dienst door de uwe liefst genooten,</l>
+<l>Toen ik met ketens, aan den strandrots stond geslooten:</l>
+<l>'K had tegenwoordig my dan noch in staat gezien,</l>
+<l>Om u myn harten trouw vrymoedig aantebiên:</l>
+<l>Daar 'k nu in tegendeel, schoon ik u al beminde,</l>
+<l>My zelf geen meer Voogdes van mijne vryheid vinde.</l>
+<l>Te weezen. 'K ga, Vaar wel.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="41"/>
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Fineus, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 2tab">HA! wreede, ik merk uw zin:</l>
+<l>Gy wilt dan, dat ik u weêr door verdiensten win.</l>
+<l>Wel aan, mijn vrind, gaan wy dien overwinnaar tegen,</l>
+<l>Laat ons hem 't geen hy heeft door zijnen arm verkreegen,</l>
+<l>Door de onze wederom ontrukken: toonen wy</l>
+<l>Dat Perzeus....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l rend="; 1tab">Denk eens, Prins, in welk gevaar dat gy</l>
+<l>U steekt, hy 's uit het bloed van Jupiter gereezen:</l>
+<l>Eer ge u dit onder wind, zult ge al gebliksemt weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'K weet, dat hem Danaé gebaerd heeft, by Jupyn:</l>
+<l>Maar ik, ik acht het bloed veel waardiger te zijn,</l>
+<l>Het welk zijn herkomst heeft uit vorstelijke looten,</l>
+<l>Als 't geen uit overspel der Goden is gesprooten,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Hy is gewapend met Meduzaas hoofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 3tab">'t Is waar,</l>
+<l>Men zegt, dat hy 't bedekt met zynen beukelaar,</l>
+<l>Dat hy zelf Atlas, die hem smaadlijk dorst braveeren,</l>
+<l>Daar door heel schielyk in een steenróts deed verkeeren.</l>
+<l>Dóch 't zy het waarheid is, óf niet, zo 'k hem niet kan</l>
+<l>Verwinnen door deze arm, zo laaten wy hem dan</l>
+<l>Te keer gaan, met de hulp van onze trouwste vrinden:</l>
+<l>Ik weet, dat ik 'er veel zal tót myn' bystand vinden,</l>
+<l>Zelf Juno zal ons in onze aanslag gunstig zzn?</l>
+<l>Zy haat den bastaard van haar bedgenoot Jupyn.</l>
+</sp>
+<pb n="42"/>
+<stage><hi rend="sc">Juno</hi> <hi rend="i">Vertoont zich in een prachtige Kar voortgetroken van vier Paauwen</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Juno, Phineus, Ammon</hi>, <hi rend="i">gevólg van Fineus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l>IA, 'k haat hem, gy zult haast het end zien van uw smarte,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Daar komt zy zelf, 't schynt, dat myn leed haar gaat ter harte,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Juno.</hi></speaker>
+<l rend="; 1tab">Ik ben 't alleen niet die u gunstig weezen zal:</l>
+<l>Neptunes zal u zelf handhavenen in 't wreeken,</l>
+<l rend="; 1tab">De ontslaakte Alekto heeft de twist en twedracht al</l>
+<l>In 't hart van duizenden, op Plutoos last, ontsteeken.</l>
+<l rend="; 1tab">Dit diene u; en vervólg daar mede tót'er dood</l>
+<l>Den Aterling van myne ontrouwen bedgenoot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Godin, ik volg uw' last. Nu heb ik niets te vreezen,</l>
+<l>Nu gy en God Neptuin my zullen gunstig weezen.</l>
+<l rend="; 1tab">Myn vrind, ik lach nu met Meduzaas slangenhoofd,</l>
+<l>Nu de eene Godheid op den ander my belooft</l>
+<l>Te hulp te komen, ja 't schynt alles my genegen:</l>
+<l>De Hemel, zie 'k, is my niet meer, als Perzeus tegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l>'k Zeg andermaal vervolg de bastaard van Jupyn,</l>
+<l>'k Beloof u, 'k zal u in uwe aanslag gunstig zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Wy vliegen op uw last, door blydschap aangedreeven,</l>
+<l rend="; 1tab">Mynheer, kom laaten we ons stil uit dit hof begeeven,</l>
+<l>Om onze vrinden te vergaderen by één.</l>
+<l>'k Zie ook de Vorst: men vlie: hy naderd herwaards heen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l rend="; 1tab">Neen, blijf, om alles wat hier omgaat my te dekken.</l>
+<l>Terwyl ik my bereid, om d'aanslag te voltrekken.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="43"/>
+<head rend="h4"><hi rend="i">Zesde tooneel.</hi></head>
+<stage><hi rend="sc">Cefeus, Kassiopea, Andromeda, Perzeus. Ammon, Timantes</hi>, <hi rend="i">Rey van Inwoonders</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>MEn denk' niet meer aan ons geledene verdriet,</l>
+<l rend="; 1tab">Nu ons die groote gunst van 't Godendom geschied.</l>
+<l>Laat ons de droef heid die ons eerst het hart kwam prangen</l>
+<l>Verbannen door 't geluid van vreuchde en zegezangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 2tab">Laat ons minnen, laat ons leeven,</l>
+<l rend="; 2tab">In een endelooze vreuchd:</l>
+<l rend="; 2tab">Laat ons het bloeijenste van onse jeuchd</l>
+<l rend="; 2tab">Aan die hartstocht overgeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 2tab">Laat ons het bloeijenste van onze jeuchd</l>
+<l rend="; 2tab">Aan die hartstocht overgeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 2tab">Weg, met averechtse deuchd,</l>
+<l rend="; 2tab">Die ons tracht te wederstreeven:</l>
+<l rend="; 2tab">Laat ons minnen, laat ons leeven</l>
+<l rend="; 2tab">In een endelooze vreuchd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REYS</hi>.</speaker>
+<l rend="; 2tab">Laat ons het bloeijenste van onze jeuchd</l>
+<l rend="; 2tab">Aen die hartstocht overgeeven</l>
+<l rend="; 2tab">Laat ons minnen, laat ons leeven</l>
+<l rend="; 2tab">In een endelooze vreuchd.</l>
+<stage><hi rend="i">Hier volgt een Dans van jonge Ethiophiaanen. Twe Oude Ethiophiaanen</hi></stage>
+<l rend="; 1tab">'t Leeven valt d'ouderdom, in deze vreuchd,</l>
+<l rend="; 3tab">Zo zoet, als de jeuchd.</l>
+<l rend="; 3tab">Schoon onze haeren,</l>
+<l rend="; 3tab">Vergryst door de jaaren,</l>
+<pb n="44"/>
+<l rend="; 2tab">In plaats van het paaren,</l>
+<l rend="; 2tab">Ons wyzen na 't graf,</l>
+<l rend="; 2tab">'t Hart voelt, door 't verbeelden</l>
+<l rend="; 2tab">Van all' deze weelden,</l>
+<l rend="; 1tab">De vreuchd, die wel eertyds de liefde ons gaf.</l>
+<stage><hi rend="i">Een Dans van een oud man en een oude vrouw.</hi></stage>
+<l rend="; 1tab">Dat men dan 't verschot van onze tyd</l>
+<l rend="; 2tab">In vrolijkheid slyt':</l>
+<l rend="; 2tab">Niets kan meer plaagen,</l>
+<l rend="; 2tab">Als kniezen en knaagen:</l>
+<l rend="; 2tab">'t Verkort onze dagen,</l>
+<l rend="; 2tab">En baart meer verdriet.</l>
+<l rend="; 2tab">De vreuchd en de blyheid,</l>
+<l rend="; 2tab">Gegrond op de vryheid</l>
+<l rend="; 1tab">Misstaat aan de wys heid noch grys heid niet.</l>
+</sp>
+</div>
+<div type="scene">
+<head>Dans.</head>
+<stage><hi rend="i">Van de Bovenstaende</hi></stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Kom, laat ons aanstonds gaan, en met een bly gemoed</l>
+<l>De Hemel danken voor de gunst die hy ons doet.</l>
+<l>Spoên wy ons tempelwaards, om daar door plechtigheden,</l>
+<l>Door offerhanden en aandachtige gebeden</l>
+<l>'t Gelukkig huwelyk van dit doorluchtig paar,</l>
+<l>In 't aanzien van de Goôn, te vieren voor 't Altaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Gedoog, dat ik eerst mag de felle haat verwinnen,</l>
+<l>Die God Neptuin ons draagt, met all' de Zegodinnen:</l>
+<l>Dat ik zyn gramschap, die 'k veroorzaakt heb op strand</l>
+<l>Weêr mag verzoenen, door een dierbaar offerhand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Laat ik de Bedgenoot myns vaders mede trachten</l>
+<l>Te trekken op myn zyde, en haare haat verzachten.</l>
+<pb n="45"/>
+<l>Gy weet, wie dat zy is; dat, buiten haar gezag,</l>
+<l>De God van 't huwelyk ons geensins paaren mag,</l>
+<l>Dat zy, uit minnenyd, op 't strengst vervolgt de loten</l>
+<l>Die uit God Jupiter, als ik, zyn voortgesprooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>En ik zal midd lerwyl gaan off'ren voor Jupyn.</l>
+<l>Daar 's niets, waar voor men meer bekommerd hoest te zyn.</l>
+<l>Men stelt de Goden licht, 't zy kleen, of groot, te vreden</l>
+<l>Wanneer men toont een hart vol liefde en dankbaarheden.</l>
+<l>Hoe fel de gramschap van de Hemel op ons woed,</l>
+<l>Men kan ze stillen door een nederig gemoed.</l>
+</sp>
+<stage><hi rend="i">Einde van het vierde Bedrijf.</hi></stage>
+<stage><hi rend="i">Het Tooneel van 't Vyfde Bedryf Verbeeld, gelijk dat van 't Eerste, een ruim marktveld, met een Tempel in 't verschiet.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="46"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel.</hi></head>
+<stage><hi rend="sc">Fineus, Ammon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Uw vrinden branden van begeerte, om u te volgen:</l>
+<l>En Juno, die op hem vergamd is en verbolgen,</l>
+<l>Zal hem u lev'ren, in haar' Tempel, voor 't Altaar:</l>
+<l>Daar hy, by na alleen, en zorgloos voor gevaar,</l>
+<l>Leid neêrgebogen, vol van blydschap en verlangen,</l>
+<l>Om, als een ofterstier, de slag van u te ontfangen</l>
+<l>Gy zult die plaats geensins ontwyden door zyn bloed,</l>
+<l>Dewyl gy haare wraak, zo wel als de uwe boer.</l>
+<l>Zy zal, als gy hem in haar' Tempel komt te slachten.</l>
+<l>Het voor geen doodslag, maar een heilig offer achten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi></speaker>
+<l>Schoon ik al Juno en Neptuin heb op myn zy,</l>
+<l>Ja zelf all' 't Godendom, Helaas! wat baat het my,</l>
+<l>Zo de eenigste Godin, die 'k aanbid in myn harte,</l>
+<l>Daar door getroffen, met een levendige smarte,</l>
+<l>My met een trotser oog aanschouwende in die staat,</l>
+<l>Haar verontwaardiging verand'ren doet in haat.</l>
+<l>Neen, door wat wanhoop ik my zelf voel aangedreeven,</l>
+<l>'k Wil haar wel winnen, maar geen reên tot gramschap geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Wat staat u dan te doen? trampzalig uur genaakt,</l>
+<l>Het welk haar eigen aan uw medeminnaar maakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k Wil alles onderstaan, doch haat geensins mishaagen,</l>
+<l>Haar toorn aanbidden: voor haar voeten zuchten, klaagen.</l>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Verlaat dat haatelijk ontzag, Mynheer, 't is tyd:</l>
+<l>Maak u, zo 't moog'lijk is, die Medeminnaar kwyt.</l>
+<l>En zo de ondankb're dan noch doof blyft voor uw' klagten,</l>
+<l>Zo zal de errinn'ring van uw wraak uw leed verzachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Een kranke troost, myn vrind, in zulk een zwaar verdriet!</l>
+<l>Een medeminnaars dood, de traanen die men ziet</l>
+<l>Uit enkel droef heid van zyn' minnaresse plengen,</l>
+<l>Die zullen in 't begin ons wel wat vreuchde aanbrengen.</l>
+<l>Maar als wy ons daar door noch meerder zien gehaat,</l>
+<l>Hoe meer men zich dan vleit, hoe meer men zich verraad.</l>
+<l>Een wroeging zal ons steeds doorpynigen het harte:</l>
+<l>En dan brengt ons de wraak geen blydschap aan, maar smarte,</l>
+<l rend="; 1tab">Niet, dat ik by my zelf dat heilzaam opzet staak:</l>
+<l>Zo smeeken vrucht'loos is, zo loop ik tot de wraak.</l>
+<l>Maar 'k bid u, dat gy my voor 't laatst niet wilt beletten</l>
+<l>Te zien, of ik haar door myn' traanen om kan zetten.</l>
+<l>Een recht verliefde hoopt tot 't uiterst oogenblik.</l>
+<l>Wie weet, of zy, vervoerd door blydschap en door schrik,</l>
+<l>Haar hart niet heeft aan den beschermer van haar leven</l>
+<l>Slechs uit erkent'nis en uit liefde niet gegeeven,</l>
+<l>Of 't haar niet speet, toen zy weer tot haar zelve kwam.</l>
+<l>Want al die trouwe dienst, die onbesprooken vlam,</l>
+<l>Die nier zo dra uit haar geheug'nis is gevloogen,</l>
+<l>Heeft haar noch eenigsins gebragt tot medoogen.</l>
+<l>Ach! dat haar huwelyk zo dra niet wierd volbragt!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Hoe? wilt ge u weder van die trotse zien veracht?</l>
+<l>Laat gy u nu nach door een yd'le hoop weêrhouwen?</l>
+</sp>
+<pb n="48"/>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Ik schaam my, dat ge my komt in die staat te aanschouwen.</l>
+<l>Goôn! daar 's de ondankb're zelf, ik bid, ga aanstonds heen</l>
+<l>Vergaâr de vrinden, tot den aanslag, vast by één.</l>
+<l>'k Zal de onstandvastige beweegen door myn smeeken</l>
+<l>Of haar' verachting zal op 't felst myn toorn ontsteeken</l>
+<l>De wanhoop zal myn hart verandren, in die staat,</l>
+<l>En, by gebrek van min, het wapenen met haat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ammon</hi>.</speaker>
+<l>Ik volg uw' last, en ga my derwaards heen begeeven.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Twede tooneel.</hi></head>
+<stage><hi rend="sc">Kassiopea, Andromeda, Fineus</hi>, <hi rend="i">Gevólg des Koningins.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>MEvrouw, ik kom voor 't laatst, door hoop en vrees gedreeven,</l>
+<l>Onaangezien de wet die my geheel verbied...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Hoe, spreekt ge aan my, daar gy de Koningen hier ziet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>ô Ja; want gy alleen zyt de oorzaak myner smarten;</l>
+<l>Ach! ging u myn verlies noch eenigsins ter harten,</l>
+<l>'k Zou my dan vleijen, dat het sproot uit 's vaders magt,</l>
+<l>En u niet houwen van die trouw'loosheid verdacht.</l>
+<l>Maak dan, Princes, dat ik u kan onschuldig houwen:</l>
+<l>Zeg, dat ge uws ondanks zult myn medeminnaar trouwen</l>
+<l>Dat ge uit gehoorzaamheid u aan hem overgeeft.</l>
+<l>En dat een wreede plicht myn min verraaden heeft.</l>
+<pb n="49"/>
+<l>Geest my de minste schyn van reden om te zeggen,</l>
+<l>Dat Perzeus in uw arm, maar ik in 't hart zal leggen:</l>
+<l>Dit is de gunst alleen die ik van u begeer.</l>
+<l>'k Zal my dan werpen voor uws Moeders voeren nêer;</l>
+<l>En zo 'k van haar dan geen genade kan verwerven,</l>
+<l>Zo zal ik, zonder u myn' dood te wyten, sterven.</l>
+<l>Maar ik neem Vruchteloos tót haar myn toeverlaat,</l>
+<l>Zo lang ik my van u, o Schoone, zie gehaat</l>
+<l>En 't wank'lend harte, door een nieuwe vlam gedreeven,</l>
+<l>Zich zelf nóch inbeeld, my rechtvaerdig te begeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Wat eigendom kunt gy nóch hebben aan een hert</l>
+<l>Het welk eerst trouweloos van u verlaaten werd?</l>
+<l>Ja, 'k zeg verlaaten: en, om klaarder uittespreeken,</l>
+<l>Verlaaten, om dat ge u in geen gevaar dorst steeken.</l>
+<l>Is 't onrechtvaerdigheid, dat wy dien Held een goed</l>
+<l>Opóffren tót een loon, waar van gy afstand doet?</l>
+<l rend="; 1tab">Wanneer gy haar ten prooy van 't moordgedrócht zaagt stellen</l>
+<l>Scheent ge u in 't minste niet in haare dood te kwellen:</l>
+<l>En nu de Hemel haar door Perzeus heeft bevryd.</l>
+<l>Zyt gy bedroefd, als óf u haar behoud'nis spyt,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Ach! Koningin, ik daag het Godendom hier boven...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Het zy zo, gy hebt al gezucht, ik zal 't gelooven:</l>
+<l>Kost gy door zuchten en door traanen haar behoên?</l>
+<l>Gy moest, als Perzeus, u tót haar bescherming spoên...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Ach! laat my tóch de naam van Perzeus niet meer hooren;</l>
+<l>Want dieverwekt myn hart tót raazerny en tooren.</l>
+<l>'t Ontzag, dat ik u draag, weêrhoud my; maar gy zult</l>
+<l>My dwingen, dat ontzag, uit enkel ongeduld,</l>
+<l>Te breeken. en in woede en gramschap uittevaaren.</l>
+<pb n="50"/>
+<l>Watbloodaart zou, zo hem de Goôn zo gunstigwaaren,</l>
+<l>Dat hy gewapend was, met een gevleugeld paerd,</l>
+<l>Danuw' bescherreming niet hebben aangevaard?</l>
+<l>Te stryden, daar men geen gevaar behoest te schroomen,</l>
+<l>Een vyand te verslaan, die niet kan by ons komen,</l>
+<l>Zyn all' de tekenen van zyne dapperheid;</l>
+<l>Waar door die Held by u zo groot een roem inleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>De Goden, kennende de grond van uw' gedachten,</l>
+<l>Begunstigden die zy het edelmoedigst achten.</l>
+<l>Gy had, zo wel als hy, gezegepraalt, indien</l>
+<l>Zy in u hadden die kloekmoedigheid voorzien.</l>
+<l>Zy zullen zulk een hulp nooit aan geen bloodaarts geeven,</l>
+<l>Maar aan een dapper Held, die zelf uit een verheven</l>
+<l>Geslacht gesprooten is. In 't kort, de Gód der Goôn</l>
+<l>Heeft de eer dier heldendaad gespaart voor zynen zoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Genomen, 'k stel dien Held zyn'trouwe dienst ter zyde,</l>
+<l>'k Vergat het doods gevaar, waar van hy my bevryde,</l>
+<l>Zoud ge u, ô Fineus, dan in beelden, dat ge op my</l>
+<l>Een grooter recht, door uw' verdiensten, had, als hy?</l>
+<l rend="; 1tab">Na dat die groote Held het Monster had verslaagen,</l>
+<l>Het land geveiligt van de afgryselykste plaagen,</l>
+<l>My, door de zege van zyn' Wapenen, benaaldt,</l>
+<l>Heeft hy ook eind'lyk van zich zelf gezegepraalt.</l>
+<l>En uit eerbiedigheid dat recht my opgedraagen,</l>
+<l>My weder stellende aan myn keur en welbehaagen</l>
+<l rend="; 1tab">Wat zyt gy verre van die edelmoedigheên!</l>
+<l>Gy wilt me, in weerwil van my zelve niet alleen</l>
+<l>Bezitten, maar tracht all' de Goôn te wederstreeven.</l>
+<l>Zo gy, toen ik ten prooy van 't Monster wierd gegeeven,</l>
+<l>Me een proef gevordert had van myn' standvastigheid,</l>
+<pb n="51"/>
+<l>Zo had ik u omhelft, en Perzeus hulp ontzeid;</l>
+<l>'t Voor eer gerekent met myn' Bruydegom te sterven.</l>
+<l>Maar duld, dewyl ik nu die vreuchd heb moeten derven,</l>
+<l>En gy my over hebt geeven aan myn lót,</l>
+<l>Dat ik my weder aan de zoon geef van een Gód.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>'k Verlies dan tyd, Mevrouw, 'k zie, dat het mededoogen</l>
+<l>En de oude liefde uit uw gemoed gansch is vervlogen.</l>
+<l>En dat de schyn alleen van valsche dapperheid,</l>
+<l>Waar door de staatzucht van uwe ouders werd misleid,</l>
+<l>Meer in één oogenblik op u heeft vord'ren konnen,</l>
+<l>Als 'k in zes jaar heb door myn trouwe dienst gewonnen.</l>
+<l>'k Zal u van trouw'loof heid geensins betichten, neen,</l>
+<l>Maak hem vry meester van alle uw' bekoorlykheên:</l>
+<l>Maar wil voortaan hem uw belóften beter houwen.</l>
+<l>Ik ga, dewyl 'k u niet kan zonder schaamte aanschouwen.</l>
+<l>Maar zyt verzekert, dat die Held, zo lief, zo waard,</l>
+<l>Niet lang zal meester zyn van zyn gevleugeld paerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>,</speaker>
+<l>'t Is hem niet noodig zo hy u slechs heeft te vreezen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Mevrouw, hy kon wel licht in 't kort rampzalig weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Andromeda</hi>.</speaker>
+<l>Hy draagt op zy 't geen hem voor rampen kan behoên,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Ik zie, dat gy hem wacht, 'k zal hem de boodschap doen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Hy zal van zelve wel in 't korte hier verschynen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fineus</hi>.</speaker>
+<l>Ik zal my echter tót die dienst voor 't laatst verpynen.</l>
+<l>Vaar wel, Mevrouw, ik zie, de Vórst komt herwaards aan,</l>
+<pb n="52"/>
+<l>Doe hem vast, reek'ning van 't geen hier is omgegaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">Cefeus, Kassiopea, Andromeda</hi>, <hi rend="i">Gevolg des Konings en des Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>WAt deed hier Fineus? poogt die trótse om ver te stooten</l>
+<l>Een huwelyk 't geen by de Goôn zelf is beslooten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Mynheer, na dat hy lang gesmeekt had en gezucht,</l>
+<l>Ja, zelf gedreigt, is hy, u ziende, weggevlucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Hoe, leent gy nóch het oor aan zyn vermetel spreeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Het valt een minnaar hard zich zelf te zien versteeken</l>
+<l>Van 't voorwerp zyner min. Die gunst, dunkt my, is kleen,</l>
+<l>Dat zulk een word verschoont in zyne oploopendheên.</l>
+<l>Maar, Heer, hoe is het met het óffer afgeloopen?</l>
+<l>Kond gy daar uit de gunst van Jupiter verhoopen?</l>
+<l>Of ook bespeuren, dat die God het keurt voor goed.</l>
+<l>Dat we ons door 't huwelyk veréénen met zyn bloed?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Men speurde klaar lyk, uit het ingewand der rammen,</l>
+<l>En aan de tekens van de heilige óffervlammen,</l>
+<l>Dat onze bede wierd begunstigd van Jupyn.</l>
+<l>In 't kort, die Gód kon ons niet meerder gunstig zyn,</l>
+<l>Ten zy hy nederdaalde uit zyn verheven troonen,</l>
+<l>Om hier op 't aerdryk die verbint'nis by te woonen.</l>
+</sp>
+<pb n="53"/>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Die gunst is ons gescheid van 't Zegodinnendom:</l>
+<l>Men zag haar, met een stoet van Watergoôn, alom</l>
+<l>Gezamentlyk het hoofd ten zilten gólve uitbeuren,</l>
+<l>En 't strandwaards wenden, om het óffer goed te keuren.</l>
+<l>Naar onze Gódsdienst op het plechtigst was verricht,</l>
+<l>Stemde elk, op 't yv'rigst, met een heuchelyk gezigt,</l>
+<l>In 't groot geluk, dat wy van 't Godendom ontfingen,</l>
+<l>Het strand weêrgalmde en klonk van all' de zegeningen.</l>
+<l>Zy sloegen 't water, tót een teken van vaarwel.</l>
+<l>Indien 't ons nu gelukt, dat Juno, die zo fel</l>
+<l>Zich tegen Perzeus heeft gekant, door de ófferhande,</l>
+<l>Op 't voorbeeld van Neptuin, haar oude wrók verbande,</l>
+<l>Zo kon men zonder vrees voltrekken hunne trouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Gy hoeft daar voor geensins beducht te zyn, Mevrou</l>
+<l>De Goden laaten nooit hun werk ten halve steeken.</l>
+<l>Zy zal hun algemeen besluit niet tegenspreeken:</l>
+<l>Maar ook bewoogen zyn, door Perzeus ófferhand,</l>
+<l>Haar stem te geeven tót die groote huwlyksband.</l>
+<l>Maar 'k zie Aglante gansch ontstelt, zy komt ons nader.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Cefeus, Kassiopea, Andromeda, Aglante</hi>, <hi rend="i">Gevólg des Konings en des Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aglante</hi>.</speaker>
+<l>ACh! Heer, vlieg tempelwaard: want Fineus die Verrader</l>
+<l>Dingt na het leven van uws Dóchters Bruidegom.</l>
+<l>Hy houd den toegang, met zyn zaamgezwoorne, alom</l>
+<pb n="54"/>
+<l>Bezet; en roept, door woede en minnenyd gedreeven:</l>
+<l><hi rend="i">Val aan, sla dood all' wie u tracht te wederstreeven,</hi></l>
+<l><hi rend="i">En ruk gelykk'lyk op myn Medeminnaar aan.</hi></l>
+<l>'t Gevólg van Perzeus, dat zyn' magt niet kon weêrstaan,</l>
+<l>Heeft dien verrader straks om lyfgenâ gebeden:</l>
+<l>Behalven Klytus, die, vol moed en dapperheden,</l>
+<l>Door Amsion gestyft, den Held zyn bystand bied:</l>
+<l>Dóch hy 's om hals, Mynheer, zo gy u aanstonds niet,</l>
+<l>Met uwe lyfwacht komt tót zyne hulp begeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>.</speaker>
+<l>Wat hoor ik, Hemel! ach die Held raakt wis om 't leven.</l>
+<l>Zyn dit de uitwerksels, Goôn, van 't geen ons is voor zeid.</l>
+<l>Ga heen, mynlyfwacht, en betoon uw dapperheid:</l>
+<l>Vlieg, en verzuim geen tyd, om derwaards heen te rukken:</l>
+<l>Straf dien verrader, die de deuchd tracht te onderdrukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Mevrouw, wil u des niet bekommeren; 't is niet</l>
+<l>Noodzaakelyk, dat gy dien Held uw bystand bied.</l>
+<l>Gy zult licht zien, dat die vermetele Verrader</l>
+<l>Haast zal gebliksemd zyn, door Jupiter, zyn Vader.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Cefeus, Kassiopea, Andromeda, Fórbas, Aglante</hi>, <hi rend="i">Gevólg des Konings en des Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fórbas</hi>.</speaker>
+<l>HEt is niet noodig, dat gy Perzeus hulp verschaft:</l>
+<l>Hy heest zyn Vyand door Meduzaas hoofd gestraft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l>Nooit staakt de Hemel, 't geen zy eens heeft voorgenomen.</l>
+</sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="sc">Forbas</hi>.</speaker>
+<l>Hoe, roept die Held, zo dra hy Fineus aan zag komen,</l>
+<l><hi rend="i">Waar toe is 't nodig, dat men zo veel bloedt vergiet,</hi></l>
+<l><hi rend="i">Treên wy in een Gevecht 'k zal my van 't voordeel niet</hi></l>
+<l><hi rend="i">Bedienen, dat ik van de Góden heb verkregen,</hi></l>
+<l><hi rend="i">Maar van deze arm alleen: gebruik daar de uwe tegen.</hi></l>
+<l><hi rend="i">ô Neen</hi>, riep Fineus, <hi rend="i">kom, gebruik dat voorrecht vry</hi>.</l>
+<l>Hier op komt die Verraar, vol woede en razerny,</l>
+<l>Met all'zyne aanhang voort op Perzeus aangedrongen:</l>
+<l>Die Held, zich ziende dus verraadelyk besprongen,</l>
+<l>Dat hy dat groot geweld niet langer kon weêrstaan,</l>
+<l>Dewyl Held Amsidon dien dapp'ren Libiaan</l>
+<l>Reeds met Likormas lei geveld door Fineus troepen,</l>
+<l>Begon, door nood geparst, tot zyn Gevólg te roepen:</l>
+<l><hi rend="i">'k Bid, sluit uwe oogen voor dit Hemelsche geschenk,</hi></l>
+<l><hi rend="i">En wend u van my af, op dat het u niet krenk'.</hi></l>
+<l><hi rend="i">Ik word, in weerwil van my zelf, hier toe bewoogen.</hi></l>
+<l>Toen nam hy 't slangenhoofd, na 't sluiten onzer oogen.</l>
+<l>En heeft het aanstonds voor zyn Vyanden ontbloot,</l>
+<l>Elk zócht op 't spoedigst zich te bergen, in die nood;</l>
+<l>Maar vruchtloos: want hy hen belettede het vluchten.</l>
+<l>Wy hooren midd'lerwyl de een schreijen, de ander zuchten,</l>
+<l>Dat Fineus zelf hem smeekt om lyfsgenade, neen,</l>
+<l><hi rend="i">Verrader</hi>, riep die Held, <hi rend="i">gy zult uw' trouw'loosheên</hi></l>
+<l><hi rend="i">Nu boeten</hi>, en hield hem Meduzaas hoofd voor oogen.</l>
+<l>Hy vlucht, maar Perzeus is hem aanstonds nagevloogen,</l>
+<l>'k Hoor eindlyk niemand meer, het droef gekerm verdween,</l>
+<l>'k Ontsluit 't gezigt, en zie zyn Vyanden in steen</l>
+<l>Veranderdt: eenigen met de arm om hoog geheven,</l>
+<l>Als óf zy dreigden om op 't selst den slag te geeven,</l>
+<l>Men ziet in de een de vrees, op 't aanschyn ingedrukt,</l>
+<l>In de andre nóch de toorn, waar door hy wierd verrukt</l>
+<l>Zo schrikk'lyk.....</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="56"/>
+<head rend="h4"><hi rend="i">Zesde tooneel.</hi></head>
+<stage><hi rend="sc">Cefeus, Kassiopea, Andromeda, Perzeus, Fórbas, Aglante</hi>, <hi rend="i">Gevólg des Konings en des Koningins</hi></stage>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi> <hi rend="i">tegens Perzeus</hi>.</speaker>
+<l rend="; 1tab">Hebt gy dien Verraâr zyn straf gegeeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perseus</hi>.</speaker>
+<l>O, Ja, myn Heer, zo 'k nu heb tegens u misdreeven</l>
+<l>Dat ik uw bloed....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cefeus</hi>.</speaker>
+<l rend="; 2tab">'k erken dien Schelm, nadat verraad,</l>
+<l>Niet meerder voor myn bloed: die trouwelooze daad</l>
+<l>Heeft dien vermetele van dat geluk versteeken.</l>
+<l>Des laaten wy niet meer van dien Verrader spreeken,</l>
+<l>Maar ons ter Tempel spoên, alwaar gy word verwacht,</l>
+<l>Om met Andromeda door 't huwelyk ... maar zacht</l>
+<stage><hi rend="i">Zo als zy in de Tempel willen treeden, sluiten de deuren den ingang</hi></stage>
+<l>'k Merk dat men d'ingang sluit. O! Goôn wat mag dit weezen?</l>
+<l>'k Zie niemand. Hemel! Welk een ramp staat ons te vreezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Gy groote Jupiter, Beheerscher van 't Heel-al,</l>
+<l>Wil 't nydig noodlót, dat ik meer gevaaren zal</l>
+<l>Door worst'len, eer ik 't wit kan van myn' wensch beschieten?</l>
+<l>Of word my 't loon benyd dat ik nu zal genieten?</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="57"/>
+<head rend="h4"><hi rend="i">Zevende tooneel.</hi></head>
+<stage><hi rend="sc">Merkurius, Cefeus, Kassiopea, Andromeda, Perzeus, Fórbas, Anglante</hi>, <hi rend="i">Gevólg des Konings en des Koningins</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Merkurius</hi>, <hi rend="i">Hangende in de Lucht</hi>.</speaker>
+<l rend="; 3tab">GY hebt de gunst van all' de Goden.</l>
+<l rend="; 5tab">Ik kom, als Voor bô van Jupyn:</l>
+<l rend="; 5tab">Hy zal hier strak, met Juno zyn,</l>
+<l rend="; 4tab">Om u in zyn Paleis te nooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kassiopea</hi>, <hi rend="i">Na dat Mercurius weder opwaarts vliegt</hi>.</speaker>
+<l>Men roep den Hemel aan, met spel en maatgezang,</l>
+<l>Op dat men waardiger die groote gunst erlang'.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 1tab">Haast u, ey! haast u, om neder te daalen,</l>
+<l rend="; 4tab">Uit uwen troon,</l>
+<l rend="; 4tab">Gy God van de Góon,</l>
+<l rend="; 2tab">Laat toch het trouwfeest van uwen zoon</l>
+<l rend="; 4tab">Met uw byzyn praalen.</l>
+</sp>
+</div>
+<div type="scene">
+<head>Een dans.</head>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 2tab">Begunstig het Paar met Scepters en Kroonen,</l>
+<l rend="; 3tab">Poog de waereld te toonen.</l>
+<l rend="; 2tab">Dat gy den Bruidegom waardig acht</l>
+<l rend="; 3tab">Gedaalt te zyn uit uw geslacht</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 2tab">Haast u, ey! haast u...</l>
+</sp>
+<stage><hi rend="i">Onder dit gezang ziet men Jupiter, in een schitterende Troon, omheint van een Wolk, langsaam uit den Hemel nederdalen, met Juno en Neptunus, die, verzoend zynde, door de ófferhandens van Perzeus en Andromeda, hem ter linker en-Rechter zyde op een Wolk verzellen.</hi></stage>
+</div>
+<div type="scene">
+<pb n="58"/>
+<head rend="h4"><hi rend="i">Achste tooneel.</hi></head>
+<stage><hi rend="sc">Jupiter, Juno, Neptunus, Cefeus, Kassiopea, Andromeda, Perzeus, Forbas, Aglanté</hi>, <hi rend="i">Gevolg</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jupiter</hi>, <hi rend="i">Zittende in zyn Troon</hi>.</speaker>
+<l>IK hield den aardboôm, ô doorluchtige Echtgenooten,</l>
+<l rend="; 1tab">Niet waardig, dat daar 't huw'lyk wierd</l>
+<l rend="; 1tab">Van Perzeus mynen zoon geviert:</l>
+<l>Dit 's de oorzaak, dat de deur des Tempels wierd geslooten.</l>
+<l>Komt, volg my, met die twe vereende harten,</l>
+<l>Daar ons 't geluk niet toelacht voor een poos,</l>
+<l rend="; 1tab">Maar daar gy tyd en nyd kunt tarten,</l>
+<l>En daar het eeuwig vloeit van Nektar en Ambroos.</l>
+<l rend="; 1tab">Wanneer de zon in Thetis schoot gaat zinken,</l>
+<l rend="; 1tab">Zult ge, in zyn plaats, vol van Gestarnte blinken</l>
+<l rend="; 1tab">En 't sterflyk volk, door dat gezegend licht,</l>
+<l rend="; 1tab">Verplichten, dat het u een Tempel sticht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l>Gy, Held, hebt zelf myn haat niet meer te vreezen</l>
+<l>Dewyl zy door uw offer is gepaait</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l>Vorstin, 'k zal u ook gunstig weezen,</l>
+<l>Nu gy my 't wierook hebt gezwaait.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l>Kom dan, met Cefeus herwaards treeden,</l>
+<l rend="; 1tab">Ik zal u voeren by Jupyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Kom, met de Bruid myn zy bekleeden,</l>
+<l>'k Zal u geleiden, daar 't altyd zal Bruiloft zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Perzeus</hi>.</speaker>
+<l>Ik, door de gunst, die my geschied; gansch opgetoogen...</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l>Het is niet nodig dat gy u verschoont.</l>
+<l rend="; 1tab">Een, die een nedrig harte toont,</l>
+<l rend="; 1tab">Heeft op de Goden 't grootst vermogen.</l>
+</sp>
+<stage><hi rend="i">Hier op doet Juno de Koning en Perzeus aan haar zyde plaats neemen: dezelve eer geniet de Koningin met Andromeda van Neptunus, zy worden gelijkelyk ten Hemel gevoert.</hi></stage>
+<sp>
+<speaker><hi rend="spat">EEN STEM</hi>.</speaker>
+<l rend="; 1tab">Gaat, gaat heen, veréénigde harten,</l>
+<l rend="; 1tab">Daar het geluk niet duurt voor een poos,</l>
+<l rend="; 1tab">Daar gy de tyd en de nyd kunt tarten;</l>
+<l rend="; 1tab">Daar 't eeuwig vloeit van Nekter, Ambroos.</l>
+<l rend="; 1tab">Wanneer de gulde Zon gaat zinken</l>
+<l rend="; 3tab">In Thetis kólk,</l>
+<l rend="; 1tab">Zult gy vol van gestarnte blinken</l>
+<l rend="; 3tab">En 't sterflijk vólk,</l>
+<l rend="; 2tab">Door die gezegende lichten,</l>
+<l rend="; 2tab">Op 't hoogste verplichten,</l>
+<l rend="; 3tab">Dat het alom</l>
+<l rend="; 3tab">U Altaars zal slichten,</l>
+<l rend="; 2tab">Op het geluit van Ruispyp en Bom.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 1tab">Wanneer de gulde Zon gaat zinken</l>
+<l rend="; 3tab">In Thetis kólk,</l>
+<l rend="; 1tab">Zult gy vol van gestarnte blinken,</l>
+<l rend="; 3tab">En 't sterflyk vólk,</l>
+<l rend="; 2tab">Door die gezegende lichten,</l>
+<l rend="; 2tab">Op 't hoogste verplichten,</l>
+<l rend="; 3tab">Dat het alom</l>
+<l rend="; 3tab">U Altaars zal stichten,</l>
+<l rend="; 2tab">Op het geluit van Ruispyp en Bom.</l>
+</sp>
+<stage><hi rend="spat">EEN DANS</hi>.</stage>
+<stage><hi rend="i">Einde van het vyfde en het Laatste Bedrijf.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

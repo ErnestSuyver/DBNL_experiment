@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Amoris divini emblemata</title>
+               
+                <author>Otto Vaenius</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Amoris divini emblemata</hi> van Otto Vaenius uit 1615.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <publicationStmt>
+                <idno type="titelcode">vaen001amor02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2018 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Antwerpen, signatuur: RG 3118 D 17</idno>
+                </bibl>
+                <p>Otto Vaenius, <hi rend="i">Amoris divini emblemata</hi>. Martinus Nutius, Joannes Meursius, Antwerpen 1615</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+                <language id="la">Latijn</language>
+                <language id="fr">Frans</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Amoris divini emblemata</title>
+                <title type="subordinate"></title>
+                <author>Otto Vaenius</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Amoris divini emblemata</title>
+                <title type="subordinate"></title>
+                <author>Otto Vaenius</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2017-12-15</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <cf><div type="chapter">
+<pb n="1"/>
+<p>AMORIS</p>
+<p>DIVINI</p>
+<p>EMBLEMATA</p>
+<p>STVDIO ET AERE</p>
+<p>OTHONIS VAENI</p>
+<p>CONCINNATA.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Perfigit et svstinet.</hi></p>
+<figure><p><xptr to="vaen001amor02ill0001.gif"/></p></figure>
+<p>ANTVERPIAE,</p>
+<p>Ex officina Martini NutI &amp; Ioannis MeursI,</p>
+<p>ANNO MDCXV.</p>
+<p><hi rend="i">Cum Gratia &amp; Priuilegio.</hi></p>
+        <pb rend="blank" n="2"/>
+<pb n="3"/>
+<p>ISABELLAE CLARAE</p>
+<p>EVGENIAE,</p>
+<p>INFANTI HISPANIARUM,</p>
+<p>ARCHIDVCI AVSTRIAE,</p>
+<p>DVCI BVRGVNDIAE,</p>
+<p>BRABANTIAE, &amp;c.</p>
+<p>SERRENISSIMAE BELGARVM</p>
+<p>PRINCIPI, &amp;c.</p>
+<p>HAEC DIVINI AMORIS</p>
+<p>EMBLEMATA</p>
+<p>OTHO VAENIVS</p>
+<p>D.D.</p>
+    </div></cf>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3">Ad lectorem et spectatorem.</head>
+<p>Naturalis Amoris Emblemata à me adhuc adolescente concepta abhinc annis aliquot, amici causa, praelo commisi; quae optimo cuique minimè displicuisse intellexi. Haec cùm Sua Celsitudo, vt amicorum relatu percepi, coràm inspexisset, petissetque, illane Emblemata commodè ad sensum spiritualem ac diuinum trahi possent, cùm diuini &amp; humani Amoris iidem pene sint erga rem amatam effectus: nolui tacitae Principis voluntati, officióve meo deesse, &amp; in gratiam illius nonnulla Diuini Amoris Emblemata, additis è sacra Scriptura &amp; SS. Patrum scriptis depromptis hinc inde testimonijs, concinnare ac designare visum fuit. Accessere his ad illustrationem peregrino idiomate versiculi, Hispano, Belgico, &amp; Gallico. Castellanos Alphonsus de Ledesma, poëta peregregius, Gallicos Dominus Carolus Hattronius J.V.L. Duci Arschotanae à Consilijs, suggessere; vernaculi domi nostrae, velut vernae, nati. Haec itaque S. Celsitudini, quae operis fuit &amp; initium &amp; calcar, humiliter dedicata, Benigne Lector accipere &amp; spectare poteris. Vale, &amp; alia à manu nostra suo tempore exspecta.</p>
+<div type="section">
+<pb n="5"/>
+<head rend="h4">Carmen de amore.</head>
+<lg type="poem"><l><hi rend="i">Cvnctarum genitrix rerum Natura, vel ipsa</hi></l>
+<l><hi rend="i">Ars, de perfecto vndeundique corpore (cuius</hi></l>
+<l><hi rend="i">Frigida non superant calidum, néve humida siccum)</hi></l>
+<l><hi rend="i">Ens, quodcunque volunt, abstractum educere possunt.</hi></l>
+<l><hi rend="i">Quippe vbi secreuit penitus natura calorem,</hi></l>
+<l><hi rend="i">Quod reliquum est frigus, procul amouet, atque</hi></l>
+<l><hi rend="i">Ex vno geminas educit corpore formas,</hi></l>
+<l><hi rend="i">Formas distinctas naturâ materiáque.</hi></l>
+<l><hi rend="i">Hinc cernas, quando est iam facta potentior vna,</hi></l>
+<l><hi rend="i">Surgere continuò pugnas, vnamque grauari</hi></l>
+<l><hi rend="i">Oppugnante aliâ: facilis nam ingressus vtrimque</hi></l>
+<l><hi rend="i">Mutuum ad exitium &amp; certamina mutua sur git,</hi></l>
+<l><hi rend="i">Ambae cùm famili sint prorsus origine natae.</hi></l>
+<l><hi rend="i">Sic Amor atque odium, quae nunc disiuncta, fuere</hi></l>
+<l><hi rend="i">(Nominis &amp; certae mensurae expertia quamuis)</hi></l>
+<l><hi rend="i">Tempore primaeuo natura iuncta sub vna.</hi></l>
+<l><hi rend="i">Huic animo inclinat penitus Diuina voluntas;</hi></l>
+<l><hi rend="i">Vnde, fugato odio, totum secreuit Amorem</hi></l>
+<l><hi rend="i">Ipsa sibi, &amp; sese toti circumdedit vltro:</hi></l>
+<l><hi rend="i">Huic propriam aptauit formam, voluitque deinde</hi></l>
+<l><hi rend="i">Virgineo prodire vtero, vt succurreret orbi,</hi></l>
+<l><hi rend="i">Tristiaque huimanae repararet damna salutis.</hi></l>
+<l><hi rend="i">Ast vbi, iam secluso odio, sua cornua victor</hi></l>
+<l><hi rend="i">Tollit Amor, regnumque tenet; velut vmbra, per omnes</hi></l>
+<l><hi rend="i">Terrarum anfractus, odium superimminet illi.</hi></l>
+<l><hi rend="i">Non tamen vsque adeò illius contemnere fas est</hi></l>
+<l><hi rend="i">Naturam, at vitijs par est opponere eandem,</hi></l>
+<pb n="6"/>
+<l><hi rend="i">Atque odisse malum. Bona sunt quin vtraque semper.</hi></l>
+<l><hi rend="i">Ast Amor, vt flamma &amp; melioris vt indolis ignis</hi></l>
+<l><hi rend="i">Omnia sustinet, &amp; cunctis alimenta ministrat,</hi></l>
+<l><hi rend="i">Nil nisi pernicies odio cùm prodeat ipso.</hi></l>
+<l><hi rend="i">Viuisicans Amor est Christus summus que salutis</hi></l>
+<l><hi rend="i">Auctor, &amp; aeterno radians de lumine lumen,</hi></l>
+<l><hi rend="i">Quo sine letifero pereunt mortalia casu,</hi></l>
+<l><hi rend="i">Quo sine cuncta ruunt vinclis elementa solutis,</hi></l>
+<l><hi rend="i">Ipse est flamma potens, cuius virtute reguntur</hi></l>
+<l><hi rend="i">Humanae in terris animae, cuiusque vigore</hi></l>
+<l><hi rend="i">Spiritus aethereas gestit conscendere sedes.</hi></l>
+<l><hi rend="i">Quare ago Christe Deus, quem flammam ignemq</hi>ue<hi rend="i"> vocamus,</hi></l>
+<l><hi rend="i">Inijce diuinos nostri penetralibus aestus</hi></l>
+<l><hi rend="i">Cordis, vt aeternùm mens in te fixa quiescat.</hi></l>
+</lg>
+<pb n="7"/>
+<p><note place="margin"><hi rend="i">August.</hi></note>Quemadmodun autem potest haberi illius pulchritudinis Amor, in qua non solum non inuideo caeteris, sed etiam quaero qui mecum appetant, mecum inhient, mecum teneant, mecum perfruantur, tanto mihi amiciores futuri, quanto erit nobis amata communior: prorsus tales quaerit illa cuius verè casta est, &amp; sine vlla contaminatione coniunctio.</p>
+<lg type="poem"><l>Quando el mar se parte</l>
+<l>Arrojos se haze,</l>
+<l>Mas en el mar del amar,</l>
+<l>Donde Dios el golfo a sido,</l>
+<l>Aunque este mas repartido,</l>
+<l>En cada parte ay vn mar.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<pb n="8"/>
+<head rend="h3">Devs ante omnia amandvs.</head>
+<p><note place="margin"><hi rend="i">Deuter. 6.</hi></note>Diliges Dominum Deum tuum ex toto corde tuo, ex tota anima tua, &amp; tota fortitudine tua.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Bernar. de dilig. Deo.</hi></note>Valde mihi amandus est, per quem sum, viuo, &amp; sapio: vt si totum illi me debeo pro me facto, quid addam iam pro me refecto? nec enim tam facilè refectus, quam factus?</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in Psalm.145.</hi></note>Non vobis dicitur Nihil ametis: amate, sed quid ametis videte. Purgate amorem vestrum, &amp; qualis impetus habeatis ad mundum, tales habeatis ad artificem mundi.</p>
+<lg type="poem"><l>El nebli de Amor Diuino</l>
+<l>Que à la alma por presa llebà</l>
+<l>De coraçones se çeba.</l>
+</lg><table>
+<row><cell>Aenhoort ghy menschelijck gheslacht,</cell><cell><hi rend="i">Soyons icy des sainctes flammes</hi></cell></row>
+<row><cell>Dat ghy maer een en moet beminnen,</cell><cell><hi rend="i">De l'amour de Dieu seul espris,</hi></cell></row>
+<row><cell>Met v ghemoet, en al v cracht,</cell><cell><hi rend="i">De tous nos coeurs, de tous nos ames.</hi></cell></row>
+<row><cell>Met 'tdiepste van v hert en sinnen,</cell><cell><hi rend="i">Des forces, de tous nos espris,</hi></cell></row>
+<row><cell>Dats Godt alleen: soo ghy volhert</cell><cell><hi rend="i">Afin qu'vne fois il nous donne</hi></cell></row>
+<row><cell>In liefde reyn, hy sal v schencken,</cell><cell><hi rend="i">Sa vision dedans les cieux,</hi></cell></row>
+<row><cell>Dat oor', en ooghe, sin, of hert,</cell><cell><hi rend="i">Loyer tel que iamais personne</hi></cell></row>
+<row><cell>Noyt hoorde, sagh, of kost bedencken.</cell><cell><hi rend="i">n'Oyt ou veit, d'oreille &amp; d'yeux.</hi></cell></row>
+</table>
+<pb n="9"/>
+<figure><p><xptr to="vaen001amor02ill0009.gif"/></p>
+    <figDesc>Ocvlvs non vidit, nec avris avdivit.</figDesc></figure>
+
+</div>
+<div type="chapter">
+<pb n="10"/>
+<head rend="h3">Incipiendvm.</head>
+<p><note place="margin"><hi rend="i">Cant. 2.</hi></note>Surge, propera, amica mea, columba mea, formosa mea, &amp; veni. Iam enim hyems transiit, imber abijt &amp; recessit. Flores apparuerunt in terra nostra: tempus putationis aduenit; vox turturis audita est in terra nostra.</p>
+<p><note place="margin"><hi rend="i">Origen.</hi></note>Non enim antè anima Deo iungitur &amp; sociatur, nisi omnis ex ea hyems perturbationum, ac vitiorum procella discesserit, &amp; vltra iam non fluctuet.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Bono implendus es, funde malum; puta quia melle te implere vult Deus: si aceto plenus es, vbi mel pones?</p>
+<p><note place="margin"><hi rend="i">Idem de laude charitatis</hi></note>Charitas vt perficiatur, nascitur; cùm fuerit nata, nutritur; cùm fuerit nutrita, roboratur; cùm fuerit roborata, perficitur.</p>
+<lg type="poem"><l>Nasca el amor en tu pecho,</l>
+<l>Que si con Dios se alimenta,</l>
+<l>Tu veras como se aumenta.</l>
+</lg><table>
+<row><cell>Godts liefde spreeckt tot s'menschen ziele,</cell><cell><hi rend="i">Doncq que chacun de nous s'appreste</hi></cell></row>
+<row><cell>Staet op mijn lief en comt met my,</cell><cell><hi rend="i">Aux effectz d'vn si sainct dessein,</hi></cell></row>
+<row><cell>Op dat v t'onweer niet verniele,</cell><cell><hi rend="i">Voicy cest Amour qui nous preste</hi></cell></row>
+<row><cell>En dat ghy wert van sorghe vry,</cell><cell><hi rend="i">l'Ayde de sa diuine main.</hi></cell></row>
+<row><cell>Den soeten tijt is nu voor oghen,</cell><cell><hi rend="i">Sus leuons nous; l'orage passe,</hi></cell></row>
+<row><cell>Der sonden sware storm ontvloet,</cell><cell><hi rend="i">Le chemin se couure des fleurs,</hi></cell></row>
+<row><cell>Der gratien blomkens hen vertoghen,</cell><cell><hi rend="i">Des fleurs (di-ie) qu'esclost la grace</hi></cell></row>
+<row><cell>Die pluckt, en tot cieraet gheniet.</cell><cell><hi rend="i">Dont nous debuons orner noz coeurs.</hi></cell></row>
+</table>
+<pb n="11"/>
+<figure><p><xptr to="vaen001amor02ill0011.gif"/></p>
+    <figDesc>Amor divinvs</figDesc>
+</figure>
+
+</div>
+<div type="chapter">
+<pb n="12"/>
+<head rend="h3">Ex amore adoptio</head>
+<p><note place="margin"><hi rend="i">1. Ioan. 3.</hi></note>Videte qualem charitatem dedit nobis Pater, vt selij Dei nominemur &amp; simus?</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Gregor. in moral.</hi></note>Quid hac potestate altius, quid hac altitudine sublimius dici potest? in qua potestate quisque creatus efficitur filius creatoris.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in Psalm.</hi></note>Quomodo nos amasti, Pater bone, cuius filius vnicus, quem pro nobis tradidisti, fecit tibi nos de seruis filios, de te nascendo, nobis seruiendo.</p>
+<lg type="poem"><l>Sol y hombre enjendran hombre,</l>
+<l>Y la diuina afiçion</l>
+<l>Enjendra por adopçion.</l>
+</lg><table>
+<row><cell>Door liefde alleen, en ander niet</cell><cell><hi rend="i">c'Est par cest Amour que les hommes</hi></cell></row>
+<row><cell>Van Godt de ziele wert ontfanghen,</cell><cell><hi rend="i">Sont esleuez de ce bas lieu,</hi></cell></row>
+<row><cell>Voor echte kint, wanneer sy vliet</cell><cell><hi rend="i">c'Est par cest Amour que nous sommes</hi></cell></row>
+<row><cell>Tot Christum vierich met verlanghen.</cell><cell><hi rend="i">Enfans legitimez de Dieu:</hi></cell></row>
+<row><cell>Die hem bekent op d'aerd', en tracht</cell><cell><hi rend="i">Car l'Ame qui garde en la vie</hi></cell></row>
+<row><cell>Naer wil sijns vaders te volherden,</cell><cell><hi rend="i">De son Pere la volonté;</hi></cell></row>
+<row><cell>Met hem vereenicht wert, en macht</cell><cell><hi rend="i">Doibt au Pere es cieux estre vnie</hi></cell></row>
+<row><cell>Vercrijcht daer deur Godts kint te werden.</cell><cell><hi rend="i">(Comme fille) en eternité.</hi></cell></row>
+</table>
+<pb n="13"/>
+<figure><p><xptr to="vaen001amor02ill0013.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="14"/>
+<head rend="h3">Amor rectvs.</head>
+<p><note place="margin"><hi rend="i">August.</hi></note>Amor illorum dicitur rectus, qui omnes actiones rectas habet: est enim Amor actio rectitudinis, aculos semper habens in Deum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem de ciuit. Dei.</hi></note>Quia rectus est amor iustorum, omnes affectiones rectas habent; metuunt peccare, cupiunt perseuerare; dolent in peccatis, gaudent in operibus bonis; metuunt poenam aeternam, cupiunt vitam aeternam; dolent in re, gaudent in spe.</p>
+<lg type="poem"><l>Es Amor yman del alma,</l>
+<l>Cuya virtud y finaça</l>
+<l>Al çielo nos endereça.</l>
+</lg><table>
+<row><cell>Altijdt d'oprechte ziele siet</cell><cell><hi rend="i">Du iuste (dont l'Amour est droicte)</hi></cell></row>
+<row><cell>Om hooch na Godt in al haer wercken:</cell><cell><hi rend="i">Droictes sont les affections,</hi></cell></row>
+<row><cell>De cracht der liefden haer ghebiet</cell><cell><hi rend="i">Et droict aux cieux ce qu'il souhaitte,</hi></cell></row>
+<row><cell>Ghestadelijck op hem te mercken.</cell><cell><hi rend="i">Et droictes sont ses actions.</hi></cell></row>
+<row><cell>Sy hout haer recht alsoo't betaemt.</cell><cell><hi rend="i">Tousiours de pecher il a crainte</hi></cell></row>
+<row><cell>Betreet altijdt der deuchden paden:</cell><cell><hi rend="i">Et de perseuerer desir:</hi></cell></row>
+<row><cell>Waerom haer liefde wert ghenaemt</cell><cell><hi rend="i">Seulement la faulte est sa plainte,</hi></cell></row>
+<row><cell>Alleen oprecht in al sijn daden.</cell><cell><hi rend="i">Les bonnes oeuures son plaisir.</hi></cell></row>
+</table>
+<pb n="15"/>
+<figure><p><xptr to="vaen001amor02ill0015.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="16"/>
+<head rend="h3">Amor aeternvs.</head>
+<p>Omnia praetereunt praeter amare Deum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in sermonib.</hi></note>Amor qui desinere potest, nunquam verus fuit: debet enim esse aeternus.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Apud Deum locus est quietis imperturbabilis, vbi non deseritur Amor, si ipse non deserat.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Amicitia non aliundè quàm ab amore nomen accepit, &amp; nusquam nisi in Christo fidelis est, in quo solo esse sempiterna etiam ac felix potest.</p>
+<lg type="poem"><l>Suelta la rienda al Amor,</l>
+<l>Que se el tuio a Dios imita,</l>
+<l>Sera carrera infinita.</l>
+</lg><table>
+<row><cell>Godts liefde s'menschen ziele trout,</cell><cell><hi rend="i">Remarquons ici ce qu'emporte,</hi></cell></row>
+<row><cell>In eewicheyt, en Godts behaghen</cell><cell><hi rend="i">Et ce que veult ce cercle; afin</hi></cell></row>
+<row><cell>Is inden mensch, als hy hem hout</cell><cell><hi rend="i">Quo nostre Amour de mesme sorte</hi></cell></row>
+<row><cell>In liefden trou tot allen daghen:</cell><cell><hi rend="i">n'Ayt iamais de bout ny de fin.</hi></cell></row>
+<row><cell>Syn liefd' en laet ons nimmermeer,</cell><cell><hi rend="i">Car ceste amitie n'est que faincte,</hi></cell></row>
+<row><cell>Ten zy wy eerst met s'weerelts saecken,</cell><cell><hi rend="i">Qui peur vn iour ne plus durer;</hi></cell></row>
+<row><cell>Verghetende trou, deucht, en eer',</cell><cell><hi rend="i">Et le prix de nostre Amour saincte,</hi></cell></row>
+<row><cell>Door ouerspel van hem gheraecken.</cell><cell><hi rend="i">Gist du tout à perseuerer.</hi></cell></row>
+</table>
+<pb n="17"/>
+<figure><p><xptr to="vaen001amor02ill0017.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="18"/>
+<head rend="h3">Mentis sol amor dei.</head>
+<p><note place="margin"><hi rend="i">August. in Psal. 145.</hi></note>Quod sol est sensibus, hoc Amor est mentibus: &amp; sicut sol terrena omnia illustrat vt videri possint: ita intelligibilia illustrat Amor Dei.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem hom. 7. in Ioann.</hi></note>Sapientiam Salomon carnali amore amisit, quam spiritali adeptus erat, vt enim tenebricosa est cupiditas, ita luminosa charitas.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Leo de ieiunio.</hi></note>Charitas robur fidei, fides fortitudo est charitatis: inuicem fibi &amp; iuuamen &amp; lumen sunt; &amp; hic est quidam efficacissimus geminarum alarum volatus, quo ad promerendum &amp; videndum Deum puritas mentis attollitur.</p>
+<lg type="poem"><l>Si el sol del alma es Amor,</l>
+<l>La quo de Dios se desuia,</l>
+<l>No diga que goza dia.</l>
+</lg><table>
+<row><cell>Ghelijck der sonnen schijn en cracht</cell><cell><hi rend="i">Phebus espandant sa lumiere</hi></cell></row>
+<row><cell>Verlicht, en alles voet na wenschen,</cell><cell><hi rend="i">Sur les gazons de l'vniuers,</hi></cell></row>
+<row><cell>Dat de natuer heeft voorghebracht,</cell><cell><hi rend="i">Rend la nature pepiniere</hi></cell></row>
+<row><cell>En baert tot nut en lust der menschen,</cell><cell><hi rend="i">De mil' &amp; mille fruictz diuers:</hi></cell></row>
+<row><cell>Oock desghelijcks Godts liefde doet,</cell><cell><hi rend="i">l'Amour diuin faict bien de mesme,</hi></cell></row>
+<row><cell>Die crachtich met sijn claeheyt mede</cell><cell><hi rend="i">Car en nous inspirant ses rais,</hi></cell></row>
+<row><cell>Verlicht de ziel, en het ghemoet,</cell><cell><hi rend="i">On voit tantòt naistre en nostre ame</hi></cell></row>
+<row><cell>Tot rust in Godt en ware vrede.</cell><cell><hi rend="i">La vertu, le repos, la paix.</hi></cell></row>
+</table>
+<pb n="19"/>
+<figure><p><xptr to="vaen001amor02ill0019.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="20"/>
+<head rend="h3">Amoris merces amplissima.</head>
+<p><note place="margin"><hi rend="i">Ioan. 15.</hi></note>Si dilexeritis me, &amp; verba mea in vobis manserint, quodcunque petieritis dabo vobis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Ioann. 14.</hi></note>Qui diligit me, diligetur à Patre meo; &amp; ego diligam eum, &amp; manifestabo ei meipsum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Bernard.</hi></note>Non sine praemio diligitur Deus, quia ipse diligenti praemium est amplissimum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Prosp.  de vita cont.</hi></note>Deus est omnibus amatoribus vita beata, ac salus aeterna, &amp; regnum, ac gaudium perpetuum: haec accipient, qui Deum diligunt; quia solus erit illis omnia, quibus ipse fuerit in omnibus omnia.</p>
+<lg type="poem"><l>Paga de Amor es Amor,</l>
+<l>Y el que de Dios es amado</l>
+<l>Se quente por bien pagado.</l>
+</lg><table>
+<row><cell>Soo ghy my lief hebt, seydt de Heer'</cell><cell><hi rend="i">Ame, puis que tu te dispose</hi></cell></row>
+<row><cell>En dat mijn woorden in v blijuen,</cell><cell><hi rend="i">A m'aymer, &amp; suiure maloy;</hi></cell></row>
+<row><cell>Mijn vrede die sal meer en meer</cell><cell><hi rend="i">Tu auras de moy toute chose,</hi></cell></row>
+<row><cell>d'Onrust wt v ghemoet verdrijuen:</cell><cell><hi rend="i">Et moy-mesme seray à toy,</hi></cell></row>
+<row><cell>Wat ghy begheert sal v gheschien,</cell><cell><hi rend="i">Ma main qui te sera feconde</hi></cell></row>
+<row><cell>De deuchden v vercieren sullen,</cell><cell><hi rend="i">Du bien des cieux à ton trespas;</hi></cell></row>
+<row><cell>En neffens s'hemels schat sult sien</cell><cell><hi rend="i">Te fera posseder au monde</hi></cell></row>
+<row><cell>V schueren oueruloedich vullen.</cell><cell><hi rend="i">La richesse aussi d ici bas.</hi></cell></row>
+</table>
+<pb n="21"/>
+<figure><p><xptr to="vaen001amor02ill0021.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="22"/>
+<head rend="h3">Amor docet.</head>
+<p><note place="margin"><hi rend="i">1. Reg. 3.</hi></note>Loquere Domine, ecce audit seruus tuus.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psal. 18.</hi></note>Sapientiam praestans paruulis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Amor magnus doctor est, atque omnes Philosophiae partes explet.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem de laude charitatis.</hi></note>Homo charitate subnixus, eamque inconcussè retinens, non indiget scripturis; atque per eam multi etiam in solitudine sine codicibus viuunt.</p>
+<lg type="poem"><l>Amor es pozo de çientia,</l>
+<l>Y quando naçe del çielo,</l>
+<l>Llamase pozo sin suelo.</l>
+</lg><table>
+<row><cell>De liefde is een leeraer groot</cell><cell><hi rend="i">Amour Diuin est vn grand maistre,</hi></cell></row>
+<row><cell>Die t'hooghste goet ons doet begrijpen,</cell><cell><hi rend="i">Qui suffit en toutes façons</hi></cell></row>
+<row><cell>Die ons stantvastich maeckt in noot,</cell><cell><hi rend="i">d'Instruir nostre Ame, &amp; la paistre</hi></cell></row>
+<row><cell>En met ghedult t'verstant doet rijpen:</cell><cell><hi rend="i">Des doctrines de ses leçons</hi></cell></row>
+<row><cell>Gheen schrift den mensch van nood' en heeft,</cell><cell><hi rend="i">Nous n'auons besoing d'aultre liure</hi></cell></row>
+<row><cell>Oft ander leeringh meer te soecken,</cell><cell><hi rend="i">Pour estre en sagesse parfaictz:</hi></cell></row>
+<row><cell>Godts liefde meerder wijsheyt gheeft,</cell><cell><hi rend="i">c'Est assez de simplement suiure,</hi></cell></row>
+<row><cell>Dan t'lesen van verscheyden boecken.</cell><cell><hi rend="i">Ce qu'il nous dicte, par effectz.</hi></cell></row>
+</table>
+<pb n="23"/>
+<figure><p><xptr to="vaen001amor02ill0023.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="24"/>
+<head rend="h3">Amor thesavrvs carissimvs.</head>
+<p><note place="margin"><hi rend="i">Isai. 33.</hi></note>Diuitiae salutis sapientia &amp; scientia: timor Domini ipse est thesaurus eius.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Cant. 8.</hi></note>Si dederit homo omnem substantiam domus suae pro dilectione, quasi nihil despiciet eam.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Basil. Mag. in Hexaëm</hi></note> Thesaurus indeficiens est Amor Dei, quem qui habet diues est, quo quincunque caret pauper est.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. de verb. Dom. sermon. 12.</hi></note>Ad diuitias iusti intende; respicis arcam inanem, sed conscientiam Deo plenam; non habet extrinsecus facultatem, sed intus charitatem; ex ipsa charitate quanta erogat? &amp; non finitur.</p>
+<lg type="poem"><l>El oro de charidad</l>
+<l>Es la suprema riqueça,</l>
+<l>Que lo demas es pobreça.</l>
+</lg><table>
+<row><cell>De liefde Godts is eenen schat</cell><cell><hi rend="i">Voici le tresor (Ame chiche)</hi></cell></row>
+<row><cell>Oneyndelijck, niet om waerderen,</cell><cell><hi rend="i">Que chacun doibt chez soy garder:</hi></cell></row>
+<row><cell>De ghene die dien vint en vat</cell><cell><hi rend="i">Car celuy seul est vrayement riche</hi></cell></row>
+<row><cell>En kan gheen grooter goet begheren:</cell><cell><hi rend="i">Qui peut ainsi le posseder.</hi></cell></row>
+<row><cell>Gheen s'weerelts rijckdom, goet, en lust</cell><cell><hi rend="i">l'Or est richesse d'apparence,</hi></cell></row>
+<row><cell>En machmen teghen dien niet achten,</cell><cell><hi rend="i">l'Amour l'est à la verité:</hi></cell></row>
+<row><cell>Hy leeft in armoed', en onrust,</cell><cell><hi rend="i">Et en luy seul est l'abondance,</hi></cell></row>
+<row><cell>Die na Godts liefde niet wilt trachten.</cell><cell><hi rend="i">Et sans luy tout est pauureté.</hi></cell></row>
+</table>
+<pb n="25"/>
+<figure><p><xptr to="vaen001amor02ill0025.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="26"/>
+<head rend="h3">Amor pvrvs.</head>
+<p><note place="margin"><hi rend="i">Theoph. Antioch.</hi></note>Vt speculum splendidum; sic hominis animam puram esse oportet.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psalm. 50.</hi></note>Cor mundum crea in me Deus, &amp; spiritum rectum innoua in visceribus meis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Cant. 4.</hi></note>Pulchra es amica mea, &amp; macula non est in te.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in Epist.</hi></note>Si Deo aliquid diligendo vel praeponimus vel aequamus, nos ipsos diligere nescimus.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem in Confes.</hi></note>Minus Domine te amat, qui aliquid tecum amat, quod propter te non amat.</p>
+<lg type="poem"><l>Es Amor vn claro espejo,</l>
+<l>En cuyo limpio cristal</l>
+<l>Se ve Dios al natural.</l>
+</lg><table>
+<row><cell>Ghelijck een spieghel schoon en claer</cell><cell><hi rend="i">Si le miroir n'a plus de grace</hi></cell></row>
+<row><cell>Moet de verliefde ziele wesen,</cell><cell><hi rend="i">Pour estre en vn endroict taché,</hi></cell></row>
+<row><cell>Gansch sonder vleck, en datmen daer</cell><cell><hi rend="i">Et si l'on mesprise sa glace</hi></cell></row>
+<row><cell>Mach sien van ware liefde t'wesen:</cell><cell><hi rend="i">Pour vn vice quoy que caché:</hi></cell></row>
+<row><cell>Godts liefd' in ons gheen straelen gheeft,</cell><cell><hi rend="i">Seruons nous de ceste figure</hi></cell></row>
+<row><cell>Soo langh wy d'ydelheyt beminnen,</cell><cell><hi rend="i">(Mon Ame) &amp; ne permettons poinct,</hi></cell></row>
+<row><cell>De reynheyt gheen ghemeenschap heeft</cell><cell><hi rend="i">Qu'en toy qui doibz estre tout-pure</hi></cell></row>
+<row><cell>Met die onsuyuer sijn van binnen.</cell><cell><hi rend="i">Soit trouué deffault d'vn seul poinct.</hi></cell></row>
+</table>
+<pb n="27"/>
+<figure><p><xptr to="vaen001amor02ill0027.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="28"/>
+<head rend="h3">In vnitate perfectio.</head>
+<p><note place="margin"><hi rend="i">Deut. 6.</hi></note>Audi Israël, Dominus Deus noster Deus vnus est.</p>
+<p><note place="margin"><hi rend="i">Cant. 6.</hi></note>Vna est columba mea.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Sicut omnia ab vno in multa processerunt: sic cuncta quae ad illud vnum redire conantur, necesse est exuere multitudinem: feliciter ergo anima non diligit, donec ad vnum &amp; summum bonum per amoris desiderium se conuertat.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Singulares &amp; simplices, id est, secreti à multitudine &amp; turba nascentium rerum ac morientium, amatores aeternitatis ac vnitatis esse debemus, si vni Deo &amp; Domino nostro cupimus inhaerere.</p>
+<lg type="poem"><l>El alma que quiere à Dios</l>
+<l>No a de querer à otro alguno,</l>
+<l>Que su Amor, es trino y vno.</l>
+</lg><table>
+<row><cell>Wt een wert menichte ghebaert,</cell><cell><hi rend="i">Comme d'vn, le nombre se tire</hi></cell></row>
+<row><cell>Dus als ghy weer tot een wilt comen,</cell><cell><hi rend="i">Et se forme la quantité,</hi></cell></row>
+<row><cell>Verstoor alsdan des menichts aert,</cell><cell><hi rend="i">Aussi quand apres on desire</hi></cell></row>
+<row><cell>Daer van ghy d'onrust hebt ghenomen:</cell><cell><hi rend="i">De retourner à l'vnité,</hi></cell></row>
+<row><cell>De liefd' alleen op een wil staen,</cell><cell><hi rend="i">Il fault que les nombres on oste:</hi></cell></row>
+<row><cell>Ghetallen veel wil hy niet lijden:</cell><cell><hi rend="i">Ainsi pour nous reioindre à Dieu,</hi></cell></row>
+<row><cell>Een is van noode, dus wilt gaen</cell><cell><hi rend="i">Nous deuons d'vne Amour deuote</hi></cell></row>
+<row><cell>Tot een die v kan doen verblijden.</cell><cell><hi rend="i">A lui seul consacrer le voeu.</hi></cell></row>
+</table>
+<pb n="29"/>
+<figure><p><xptr to="vaen001amor02ill0029.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="30"/>
+<head rend="h3">Pia amoris lvcta.</head>
+<p>Cum Dei Amore, amans anima de palma decertat.</p>
+<p><note place="margin"><hi rend="i">2. Tim. 4.</hi></note>Bonum certamen certaui, cursum consummaui, fidem seruaui: in reliquo reposita est mihi corona iustitiae; non solum autem mihi, sed &amp; iis qui diligunt aduentum eius.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Iacob luctatus praeualuit, tenuit, &amp; quem videbatur vicisse, rogat vt benedicatur ab eo. In angeli persona Dominus erat luctatus, facit se teneri amore, non infirmitate; regnum enim coelorum vim patitur, &amp; violenti rapiunt illud.</p>
+<p><note place="margin"><hi rend="i">Cassiodor. in Psal. 1.</hi></note>Virvocatus à viribus, qui nescit in aduersis tolerando deficere, aut in prosperis aliqua elatione se iactare.</p>
+<lg type="poem"><l>Amor es gran luchador,</l>
+<l>Y si tu faues querer,</l>
+<l>Aun à Dios podras vencer.</l>
+</lg><table>
+<row><cell>Als twee ghelieuen met den brant</cell><cell><hi rend="i">Quand deux s'ayment, chacun d'eux butte</hi></cell></row>
+<row><cell>Der liefden eens wel sijn ontsteken,</cell><cell><hi rend="i">Sur l'autre estre victorieux,</hi></cell></row>
+<row><cell>Malkanderen trachten wt de hant</cell><cell><hi rend="i">Et la fin de ceste dispute</hi></cell></row>
+<row><cell>Der eeren palmentack t'ontwreken:</cell><cell><hi rend="i">Est à qui aymera le mieux:</hi></cell></row>
+<row><cell>Ons ziele met Godts liefde strijdt,</cell><cell><hi rend="i">Debatons en la mesme sorte</hi></cell></row>
+<row><cell>d'Een poocht om d'ander te verwinnen</cell><cell><hi rend="i">Et gaignons ainsi paradis;</hi></cell></row>
+<row><cell>Met lief te hebben, om altijdt</cell><cell><hi rend="i">Comme Iacob d'vne main forte</hi></cell></row>
+<row><cell>Noch meer d'een d'ander te beminnen.</cell><cell><hi rend="i">A surmonté l'ange jadis.</hi></cell></row>
+</table>
+<pb n="31"/>
+<figure><p><xptr to="vaen001amor02ill0031.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="32"/>
+<head rend="h3">Sit in amore reciprocatio.</head>
+<p><note place="margin"><hi rend="i">Ephes. 5.</hi></note>Ambulate in dilectione, sicut &amp; Christus dilexit nos, &amp; tradidit semetipsum pro nobis oblationem &amp; hostiam Deo in odorem suauitatis.</p>
+<p><note place="margin"><hi rend="i">1. Ioan. 4.</hi></note>Nos diligamus Deum, quoniam ipse prior dilexit nos.</p>
+<p><note place="margin"><hi rend="i">Bernard. de diligendo Deo.</hi></note>Prior Deus dilexit nos, tantus tantum, &amp; gratis, tantillos &amp; tales.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Rea tibi est humana conscientia, si non amauerit redamantem, aut si amantem non redamauerit.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Nimis durus est animus qui dilectionem si nolebat impendere, nolit &amp; rependere.</p>
+<lg type="poem"><l>Ama à Dios de coraçon,</l>
+<l>Paraque se satisfaga</l>
+<l>Que amor con amor se paga.</l>
+</lg><table>
+<row><cell>Met Liefde moeten wy den Heer</cell><cell><hi rend="i">Vous debuez à Dieu (ô mon Ame)</hi></cell></row>
+<row><cell>Deurstralen, want hy eerst te deghen</cell><cell><hi rend="i">Vn Amour, d'aultant plus entier,</hi></cell></row>
+<row><cell>Ons heeft gheraeckt, dus die niet weer</cell><cell><hi rend="i">Puis qu'il a commencé luy-mesme</hi></cell></row>
+<row><cell>Met wederliefd' comt liefde teghen,</cell><cell><hi rend="i">Et vous a aymé le premier.</hi></cell></row>
+<row><cell>Onredelijck is van ghemoet:</cell><cell><hi rend="i">Amour est d'Amour recompense,</hi></cell></row>
+<row><cell>Want hy van andre wil ghenieten</cell><cell><hi rend="i">Et celui est trop à blasmer</hi></cell></row>
+<row><cell>Deucht, vrientschap, eer', en alle goet,</cell><cell><hi rend="i">Qui (pour le moins s'il ne commence)</hi></cell></row>
+<row><cell>En weer te doen hem laet verdrieten.</cell><cell><hi rend="i">Ne veut pas, quand on l'ayme, aymer.</hi></cell></row>
+</table>
+<pb n="33"/>
+<figure><p><xptr to="vaen001amor02ill0033.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="34"/>
+<head rend="h3">Virtvs character amoris.</head>
+<p><note place="margin"><hi rend="i">Col. 3.</hi></note>Omne quodcunque facitis in verbo &amp; in opere, omnia in nomine Domini nostri Iesu Christi facite.</p>
+<p><note place="margin"><hi rend="i">August. &amp; habetur 23.9.1. Vbi.</hi></note>Vbi Amor non est, non potest esse iustitia. Manifestandus enim est Amor per opera.</p>
+<p><note place="margin"><hi rend="i">Ioann. 14.</hi></note>Si quis diligit me, sermonem meum seruabit.</p>
+<p>Probatio ergo dilectionis, exhibitio est operis.</p>
+<p><note place="margin"><hi rend="i">Ibid.</hi></note>Qui habet mandata mea &amp; seruat ea, ille est qui diligit me.</p>
+<p><note place="margin"><hi rend="i">Gregor. lib. 7. Moral.</hi></note>Verè Deum diligimus, si mandata eius custodimus, si nos à nostris voluptatibus coarctamus: nam qui adhuc per illicita de sideria diffluit, profecto Deum non amat, quia ei in sua voluntate contradicit.</p>
+<lg type="poem"><l>Del vino de Amor diuino,</l>
+<l>A cuya taberna llamo,</l>
+<l>Las virtudes son el ramo.</l>
+</lg><table>
+<row><cell>Waer deur wer liefde meest bekent?</cell><cell><hi rend="i">Quand nous aymons, on nous voit estre</hi></cell></row>
+<row><cell>Waer deur sal meest de ziel doen blijcken</cell><cell><hi rend="i">De bonnes oeuures reuestuz</hi></cell></row>
+<row><cell>Te sijn vol ware liefd' gheprent?</cell><cell><hi rend="i">Et l'Amour ne se faict paroistre</hi></cell></row>
+<row><cell>Om van Godt nimmermeer te wijcken,</cell><cell><hi rend="i">Que par la suitte des vertuz.</hi></cell></row>
+<row><cell>t'Sal sijn door wercken deuchdelijck,</cell><cell><hi rend="i">Où n'est Amour, là n'est iustice,</hi></cell></row>
+<row><cell>Altijdt ghetrou, ghereet, &amp; vaerdich,</cell><cell><hi rend="i">Et là la pieté n'a lieu;</hi></cell></row>
+<row><cell>Die maer alleen sijn liefdes blijck,</cell><cell><hi rend="i">Car la vertu seule est l'indice</hi></cell></row>
+<row><cell>Of hy is goet, oprecht, en waerdich.</cell><cell><hi rend="i">Du zele qu'auons enuers Dieu.</hi></cell></row>
+</table>
+<pb n="35"/>
+<figure><p><xptr to="vaen001amor02ill0035.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="36"/>
+<head rend="h3">Consensio volvntatvm</head>
+<p><note place="margin"><hi rend="i">Hier. epist. ad Demetr.</hi></note>In amicis non res quaeritur, sed voluntas, quia &amp; alterum ab amicis saepe praebetur, alterum etiam caritas tribuit: eadem velle &amp; eadem nolle, firmus amor est.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Leo.</hi></note>Si humanae amicitiae pares animos &amp; similes expetunt voluntates, nec vnquam diuersitas morum ad firmam potest venire concordiam; quomodo diuinae amicitiae particeps erit, cui ea placent, quae Deo displicent, &amp; ijs appetit delectari, quibus illum nouit offendi?</p>
+<lg type="poem"><l>Quando Amor junta en vn jugo</l>
+<l>Al hombre humano y à Dios,</l>
+<l>Que no tiraran los dos?</l>
+</lg><table>
+<row><cell>Alsulcke liefd' oprecht sal sijn</cell><cell><hi rend="i">S'il est vray que l'Amour se forme</hi></cell></row>
+<row><cell>Daer twee ghelieuen t'samen trecken</cell><cell><hi rend="i">d'Vne vnion de volonté,</hi></cell></row>
+<row><cell>Altoos ghelijckelijck eenen lijn,</cell><cell><hi rend="i">Cil qui à l'autre n'est conforme</hi></cell></row>
+<row><cell>En twist gheen onrust kan verwecken:</cell><cell><hi rend="i">N'a le nom d'amant merité.</hi></cell></row>
+<row><cell>Als wy met liefde Godts ons werck</cell><cell><hi rend="i">Donc pour à Dieu nous ioindre d'ame,</hi></cell></row>
+<row><cell>Aenrechten naer de deucht gheduldich,</cell><cell><hi rend="i">Nous debuons n'auoir aucun choix,</hi></cell></row>
+<row><cell>Met hem wy trecken euen sterck,</cell><cell><hi rend="i">Aucun vouloir que le sien mesme,</hi></cell></row>
+<row><cell>En crijghen crachten menichvuldich.</cell><cell><hi rend="i">Et marcher ainsi soubz ses loix.</hi></cell></row>
+</table>
+<pb n="37"/>
+<figure><p><xptr to="vaen001amor02ill0037.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="38"/>
+<head rend="h3">Svperna respicit.</head>
+<p><note place="margin"><hi rend="i">Dionys. Areopag. de diuin. nom.</hi></note>Amor Diuinus infima quaeque prolectat, vt ad sublimiora potioraque conuertantur, imò veluti fomite quodam igneo amplius succensa resiliant.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Coelum &amp; terra &amp; omnia quae in eis sunt, vndique mihi dicunt, vt Deum amem; nec cessant dicere omnibus, vt sint inexcusabiles.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Si placent infima, Deum ex illis lauda, &amp; in artificem eorum retorque amorem; ne in his quae tibi placent, tu ei displiceas.</p>
+<lg type="poem"><l>Es Amor contemplatiuo,</l>
+<l>Pues de mirar à vna flor,</l>
+<l>Reconoçe à su criador.</l>
+</lg><table>
+<row><cell>De sonnenblom haer altijdt keert,</cell><cell><hi rend="i">l'Heliotrope par nature</hi></cell></row>
+<row><cell>En volcht der sonnen snelle ganghen;</cell><cell><hi rend="i">Au soleil se tourne tousiour,</hi></cell></row>
+<row><cell>Van die t'ghesichte sy begheert</cell><cell><hi rend="i">Et c'est ce qu'en ceste figure</hi></cell></row>
+<row><cell>Van wien sy t'leuen heeft ontfanghen:</cell><cell><hi rend="i">Enseigne à nostre ame l'Amour.</hi></cell></row>
+<row><cell>Die suyuer ziele sich oock went</cell><cell><hi rend="i">Car puis qu'vne fleur insensible</hi></cell></row>
+<row><cell>Met al haer liefd' en al haer wenschen</cell><cell><hi rend="i">Se regle selon son Autheur;</hi></cell></row>
+<row><cell>Naer Godt, de sonne sonder ent,</cell><cell><hi rend="i">Helas! sera-il bien possible,</hi></cell></row>
+<row><cell>Die t'hert verlicht der goede menschen.</cell><cell><hi rend="i">Que nous ne suiuions Dieu du coeur?</hi></cell></row>
+</table>
+<pb n="39"/>
+<figure><p><xptr to="vaen001amor02ill0039.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="40"/>
+<head rend="h3">Crescit in immensvm.</head>
+<p>Quaedam corpora lumen solis receptum, suo fulgore vicissim augent atque illustrant: ita anima Amore Dei accensa, suis operibus vicissim ipsius honorem ostendit atque commendat.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. li. 1. de morib. ecclesia.</hi></note>Non diligis proximum tuum tanquam teipsum, si non ad id bonum quò ipse tendis, adducis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Theodoret.</hi></note>Qui Deum verè amat, profecto curabit vt complures secum efficiat eiusdem amatores. Si placent animae, in Deo amentur; &amp; rape ad eum tecum quas potes, &amp; dic eis, Hunc amemus, hunc amemus.</p>
+<lg type="poem"><l>Pica tanto el sol de Amor,</l>
+<l>Que de lo que reuerbera</l>
+<l>Haçe que al proximo quiera.</l>
+</lg><table>
+<row><cell>Veel dinghen sijn soo schoon en klaer</cell><cell><hi rend="i">Le miroir accroist la lumiere</hi></cell></row>
+<row><cell>Dat sy de straelen seer vermeeren</cell><cell><hi rend="i">Qu'il prend &amp; reçoit du soleil,</hi></cell></row>
+<row><cell>Die t'licht der sonnen schijnt op haer,</cell><cell><hi rend="i">Nostre ame en la mesme maniere,</hi></cell></row>
+<row><cell>Soo een brantspieghel ons kan leeren:</cell><cell><hi rend="i">Et par vn effect tout pareil,</hi></cell></row>
+<row><cell>Als suyuer is ons ziel, en hert,</cell><cell><hi rend="i">Nourrit si sainctement les flammes,</hi></cell></row>
+<row><cell>En dat Godts liefd' op ons comt dalen,</cell><cell><hi rend="i">Que luy communique son Dieu;</hi></cell></row>
+<row><cell>Sijn licht alsoo vermeerdert wert</cell><cell><hi rend="i">Qu'elle eschauffe des autres ames,</hi></cell></row>
+<row><cell>Dat veel onsteken door sijn stralen.</cell><cell><hi rend="i">Et les esprend au mesme feu.</hi></cell></row>
+</table>
+<pb n="41"/>
+<figure><p><xptr to="vaen001amor02ill0041.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="42"/>
+<head rend="h3">Pietate in parentes potior.</head>
+<p><note place="margin"><hi rend="i">Sap.  15.</hi></note>Quo melior cunctis Deus est, eo plus debet amari.</p>
+<p><note place="margin"><hi rend="i">Matth. 10.</hi></note>Qui amat patrem aut matrem plusquam me, non est me dignus.</p>
+<p><note place="margin"><hi rend="i">August. in sermonib.</hi></note>Amandus est generator, sed praeponendus est creator.</p>
+<p><note place="margin"><hi rend="i">Basil. Mag.</hi></note>Deus diligendus est supra parentes, quia non nobis tribuunt parentes ea quae Deus, qui nos &amp; parentes nostros proprijs manibus finxit: ergo cuncta bona quae erga nos geruntur quotidie, eius beneficijs adscribamus.</p>
+<p><note place="margin"><hi rend="i">Hieron. in Matth.</hi></note>Ob amorem Christi omittenda est sepultura patris, post cuius amorem nullus relinquitur inhumatus.</p>
+<lg type="poem"><l>Deje el alma padre y madre</l>
+<l>Por Dios dulce y amoroso,</l>
+<l>Pues es verdadero esposo.</l>
+</lg><table>
+<row><cell>Laet ons nae Christum onsen Heer</cell><cell><hi rend="i">Nous sommes à Dieu redebuables</hi></cell></row>
+<row><cell>Ghestaedelijck veel meer verlanghen,</cell><cell><hi rend="i">d'Vn Amour plus zeleux &amp; fort,</hi></cell></row>
+<row><cell>Als na ons ouders, want veel meer</cell><cell><hi rend="i">Qu'aux parens, par qui miserables</hi></cell></row>
+<row><cell>Van hem wy hebben deucht ontfanghen:</cell><cell><hi rend="i">Nous naissons subiectz à la mort;</hi></cell></row>
+<row><cell>Hy heeft ons vande doot beurijt,</cell><cell><hi rend="i">La ou la sienne nous deliure:</hi></cell></row>
+<row><cell>Die wy door d'ouders schuldich bleuen,</cell><cell><hi rend="i">Que s'il voulut pour nous mourir:</hi></cell></row>
+<row><cell>Sijn Liefde maeckt dat wy altijdt</cell><cell><hi rend="i">Non, nous ne debuons icy viure</hi></cell></row>
+<row><cell>Met Godt vereenicht eeuwich leuen.</cell><cell><hi rend="i">Que pour dessus tout le cherir.</hi></cell></row>
+</table>
+<pb n="43"/>
+<figure><p><xptr to="vaen001amor02ill0043.gif"/></p></figure>
+<pb n="44"/>
+<p><note place="margin"><hi rend="i">Coloss. 3.</hi></note>Amor vincvlvm perfectionis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. de ciuit. Dei.</hi></note>Cupiditas diuidit, charitas colligit; liuor separat, charitas iungit.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Per amorem sociata est factori suo anima rationalis: solumque est dilectionis vinculum quod ligat vtrosque in idipsum, &amp; tanto feliciùs quanto fortiùs.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Non conditur nec custoditur optima Respublica, nisi fundamento fidei, firmaeque concordiae, cum bonum commune diligitur, quod summum ac verissimum Deus est, atque in illo inuicem sincerissimè se diligunt homines.</p>
+<lg type="poem"><l>Es la charidad vn laço</l>
+<l>De soberano renombre,</l>
+<l>Pues enlaça à Dios y hombre.</l>
+</lg><table>
+<row><cell>De liefd' is eenen stercken bant,</cell><cell><hi rend="i">Voicy que nostre ame s'assemble</hi></cell></row>
+<row><cell>En eenen strick niet om t'ontknoopen:</cell><cell><hi rend="i">A Dieu soubs vn mesme lien:</hi></cell></row>
+<row><cell>Gheen cracht van swaerden, vier, of brant</cell><cell><hi rend="i">Les voila (di-ie) à dieux ensemble</hi></cell></row>
+<row><cell>Doet ons die vlieden, oft ontloopen:</cell><cell><hi rend="i">Enlaçez d'vn noeud Gordien.</hi></cell></row>
+<row><cell>De doot seer crachtich, en verwoet,</cell><cell><hi rend="i">Noeud, que rien ne pourra desfaire,</hi></cell></row>
+<row><cell>Daer voor dat al wat leeft moet beuen,</cell><cell><hi rend="i">Ey qui demeurant à tousiours,</hi></cell></row>
+<row><cell>Der liefden banden niet ontdoet,</cell><cell><hi rend="i">Sera aux cieux &amp; en terre</hi></cell></row>
+<row><cell>Noch ons sijn trouwe doet begheuen.</cell><cell><hi rend="i">Le pourtraict sainct de noz Amours.</hi></cell></row>
+</table>
+<pb n="45"/>
+<figure><p><xptr to="vaen001amor02ill0045.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="46"/>
+<head rend="h3">Natvram vincit.</head>
+<p><note place="margin"><hi rend="i">Chrysost.</hi></note>Amor id potest quod Natura negat.</p>
+<p><note place="margin"><hi rend="i">Rom. 5.</hi></note>Quia tribulatio pro qua glorior, patientiam operatur, patientia probationem; probatio verò spem, spes verò non confundit: quia Amor Dei diffusus est in cordibus nostris per Spiritum sanctum.</p>
+<p><note place="margin"><hi rend="i">August. de gratia &amp; liber. arbit.</hi></note>A littera occidente confugiat homo ad Spiritum viuificantem, &amp; facultatem, quam non inuenit in natura, quaerat ex gratia; cuius praecipuum donum est charitas.</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Nihil habet homo in proprijs viribus, nisi periculi facilitatem, sed potens fit ad omnia per charitatem.</p>
+<lg type="poem"><l>Es fortissimo el Amor,</l>
+<l>Pues ronde con su destreça</l>
+<l>La misma naturaleça.</l>
+</lg><table>
+<row><cell>Het gheen natuere niet vermach,</cell><cell><hi rend="i">Il est bien vray que la nature</hi></cell></row>
+<row><cell>De liefde salt te weghe brenghen,</cell><cell><hi rend="i">Peult beaucoup en ce qu'elle a faict,</hi></cell></row>
+<row><cell>Natuere brenght veel aen den dach,</cell><cell><hi rend="i">Mais l'amour en ceste figure</hi></cell></row>
+<row><cell>En kan den mensch yet goets verlenghen,</cell><cell><hi rend="i">A plus de pouuoir &amp; d'effect:</hi></cell></row>
+<row><cell>Maer bouen tijdt de liefde sweeft,</cell><cell><hi rend="i">Ceste-là au mourir nous laisse,</hi></cell></row>
+<row><cell>En brenght de ziel int eeuwigh leuen,</cell><cell><hi rend="i">Celuy-cy nous conduict aux cieux:</hi></cell></row>
+<row><cell>Als haer natuer en tijdt begheeft:</cell><cell><hi rend="i">Donc à bon droict ie luy addresse</hi></cell></row>
+<row><cell>Dus wilt den palm aen Liefde gheuen.</cell><cell><hi rend="i">La palme de victorieux.</hi></cell></row>
+</table>
+<pb n="47"/>
+<figure><p><xptr to="vaen001amor02ill0047.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="48"/>
+<head rend="h3">A malo tvetvr.</head>
+<p><note place="margin"><hi rend="i">Psal. 96.</hi></note>Qui diligitis Dominum, odite malum: custodit Dominus animas sanctorum suorum, de manu peccatorum liberabit eos.</p>
+<p><note place="margin"><hi rend="i">Psal 90.</hi></note>Qui habitat in adiutorio Altissimi, in protectione Dei caeli commorabitur.</p>
+<p>Scapulis suis obumbrabit tibi, &amp; sub pennis eius sperabis: scuto circúdabit te veritas eius, non timebis à timore nocturno. Cadent à latere tuo mille, &amp; decem millia à dextris tuis, ad te autem non appropinquabit.</p>
+<p><note place="margin"><hi rend="i">D. Athan. in vita S. Anton.</hi></note>Pertimescit diabolus piorum vigilias, orationes, ieiunia, misericordiam, humilitatem, &amp; praecipue ardentem amorem in Christum.</p>
+<lg type="poem"><l>Amor es Angel de guarda,</l>
+<l>Que os saca con presto buelo</l>
+<l>De los peligros del suelo.</l>
+</lg><table>
+<row><cell>Van Liefde Gidts niet wijcken wilt,</cell><cell><hi rend="i">Aimant Dieu, tu n'as rien à craindre,</hi></cell></row>
+<row><cell>En laet alle ydelheden varen,</cell><cell><hi rend="i">Les orages fuiront de toy,</hi></cell></row>
+<row><cell>Soo sal Godt weder met sijn schilt</cell><cell><hi rend="i">Le voleur ne pourra t'attaindre,</hi></cell></row>
+<row><cell>V als sijn heylighen bewaren,</cell><cell><hi rend="i">Et tout sera place à to foy.</hi></cell></row>
+<row><cell>Hy sal v trecken wt de hant</cell><cell><hi rend="i">Que te peut il venir encontre,</hi></cell></row>
+<row><cell>Van die v ziele wilt bederuen,</cell><cell><hi rend="i">Que tu n'aie tót suruaincu?</hi></cell></row>
+<row><cell>Sijn liefde blijft v tot een pant,</cell><cell><hi rend="i">Et n'auras onc facheuz rencontre</hi></cell></row>
+<row><cell>Dat ghy sijn glorie sult be-eruen.</cell><cell><hi rend="i">Dieu te couurant de son escu.</hi></cell></row>
+</table>
+<pb n="49"/>
+<figure><p><xptr to="vaen001amor02ill0049.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="50"/>
+<head rend="h3">In spiritv seminat.</head>
+<p><note place="margin"><hi rend="i">Rom. 8.</hi></note>Diligentibus Deum omnia cooperantur in bonum.</p>
+<p><note place="margin"><hi rend="i">2. Cor. 9.</hi></note>Qui seminat in benedictionibus, de benedictionibus &amp; metet; hilarem enim datorum diligit Deus.</p>
+<p><note place="margin"><hi rend="i">Chrysost. in Iuuent. &amp; Maximii.</hi></note>Sicut plantae rigatae magis crescunt: ita &amp; fides nostra amore perfusa magis floret.</p>
+<p><note place="margin"><hi rend="i">Gregor. in homil.</hi></note>Cùm desideria bona concipimus, semen in terram mittimus: cùm verò opera recta incipimus, herba sumus: cùm autem ad profectum boni operis crescimus, ad spicam peruenimus: cùm in eiusdem boni operis perfectione solidamur, iam plenum frumentum in spica proferimus.</p>
+<lg type="poem"><l>Siembra en la tierra del alma</l>
+<l>Charidad pura y sencilla,</l>
+<l>Que es prouechosa semilla.</l>
+</lg><table>
+<row><cell>Al wat hy doet die Godt bemint,</cell><cell><hi rend="i">Ainsi qu'en arrosant la plante</hi></cell></row>
+<row><cell>Het comt altijdt ten goeden eynde,</cell><cell><hi rend="i">Elle s'accroist de iour en iour:</hi></cell></row>
+<row><cell>In al sijn doen hy hulpe vint,</cell><cell><hi rend="i">De mesme nostre foy s'augmente</hi></cell></row>
+<row><cell>En dicwils als hy't minste meynde:</cell><cell><hi rend="i">Estant arrosée d'Amour.</hi></cell></row>
+<row><cell>De liefde Godts by dagh en nacht</cell><cell><hi rend="i">c'Est celà que nous debuons faire</hi></cell></row>
+<row><cell>En laet hem nimmermeer verdrieten,</cell><cell><hi rend="i">A toute heure en toute saison,</hi></cell></row>
+<row><cell>De wercken goet te gheuen cracht</cell><cell><hi rend="i">Afin que semans en la terre</hi></cell></row>
+<row><cell>En met sijn gratie te beghieten.</cell><cell><hi rend="i">Nous ayons des cieux la moisson.</hi></cell></row>
+</table>
+<pb n="51"/>
+<figure><p><xptr to="vaen001amor02ill0051.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="52"/>
+<head rend="h3">Gravata respvit.</head>
+<p><note place="margin"><hi rend="i">August.</hi></note>Amore fertur anima sicut corpus suo pondere: siue deorsum grauitate, siue sursum leuitate.</p>
+<p><note place="margin"><hi rend="i">Climach. gradu 4.</hi></note>Et sicut impossibile est vt grauatae nimis carnibus volucres ad caelum euolent: ita qui nimio amore carnis carnem suam nutrit &amp; fouet, illuc ascendere non potest.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Amor rerum terrenarum, viscus est spiritualium pennarum.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Obligata anima amore terreno, quasi viscum habet in pennis, volare non potest; mundata verò ab affectibus sordidissimis seculi tanquam extensis pennis, volat. Quò nisi ad Deum ascendit volando, qui ascendit amando?</p>
+<lg type="poem"><l>Amor es aue que buela,</l>
+<l>Y las cosas que aca tiene,</l>
+<l>Son liga que le detiene.</l>
+</lg><table>
+<row><cell>Den mensch die t'vleesch bemint te seer,</cell><cell><hi rend="i">Ainsi que la graisse inutile</hi></cell></row>
+<row><cell>En voet na lust; beswaert sijn crachten,</cell><cell><hi rend="i">Arreste ces oyseaux en-bas,</hi></cell></row>
+<row><cell>Dat hy met liefde nimmermeer</cell><cell><hi rend="i">Et le vol estant impossible,</hi></cell></row>
+<row><cell>Na Godt sijn ziel en kan doen trachten,</cell><cell><hi rend="i">Les faict aller au petit pas,</hi></cell></row>
+<row><cell>Ghelijck de voghels diemen siet</cell><cell><hi rend="i">Aussi serions nous tous de mesme,</hi></cell></row>
+<row><cell>Belast met hunne sware lijuen,</cell><cell><hi rend="i">Aimans trop la chair, &amp; nous fault</hi></cell></row>
+<row><cell>Dats' opwaerts kunnen vlieghen niet,</cell><cell><hi rend="i">n'Auoir le soing que de noz ames,</hi></cell></row>
+<row><cell>Maer moeten op der aerden blijuen.</cell><cell><hi rend="i">Si nous voulons voler en hault.</hi></cell></row>
+</table>
+<pb n="53"/>
+<figure><p><xptr to="vaen001amor02ill0053.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="54"/>
+<head rend="h3">Facit mvnificvm.</head>
+<p><note place="margin"><hi rend="i">August. in Psal. 36.</hi></note>Semper habet vnde det cui plenum est pectus charitatis.</p>
+<p><note place="margin"><hi rend="i">Idem de catechiz. rudibus.</hi></note>Ipsa charitas alijs blanda, alijs serua; nulli inimica, omnibus mater.</p>
+<p><note place="margin"><hi rend="i">Hierom. epist. ad Nepotian.</hi></note>Non memini me legisse mala morte mortuum, qui libenter opera charitatis exercuit. Habet enim multos intercessores, &amp; impossibile est multorum preces non exaudiri.</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Quid agit donum dilectionis, si beneuolentiae sollicitudo non vigilet?</p>
+<lg type="poem"><l>El Amor mas que los clauos</l>
+<l>Hizo alma mia por vos</l>
+<l>Maniroto al mismo Dios.</l>
+</lg><table>
+<row><cell>De mensch daer in Godts liefde werckt</cell><cell><hi rend="i">Mon ame, ie veux que tu donnes</hi></cell></row>
+<row><cell>Ontbreeckt niet om te moghen gheuen,</cell><cell><hi rend="i">Selon la loy de charité,</hi></cell></row>
+<row><cell>De liefde altijdt sijn midlen sterckt,</cell><cell><hi rend="i">Et ne crains pas, faisant aumosnes</hi></cell></row>
+<row><cell>En gheeft ghenoech om by te leuen:</cell><cell><hi rend="i">De tomber oncq'en pauureté.</hi></cell></row>
+<row><cell>In liefde Godts volcomen weest,</cell><cell><hi rend="i">Tousiours abonde la personne</hi></cell></row>
+<row><cell>En toont v naesten medelijden,</cell><cell><hi rend="i">Qui a si saincte volonté,</hi></cell></row>
+<row><cell>Dient hem met eenen milden gheest,</cell><cell><hi rend="i">Et iamais affection bonne</hi></cell></row>
+<row><cell>Hy sal van armoed' v beurijden.</cell><cell><hi rend="i">Ne manqua de commodité.</hi></cell></row>
+</table>
+<pb n="55"/>
+<figure><p><xptr to="vaen001amor02ill0055.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="56"/>
+<head rend="h3">Amoris vmbra invidia.</head>
+<p><note place="margin"><hi rend="i">Ephes. 6.</hi></note>Induite vos armaturam Dei, vt possitis stare aduersus insidias diaboli.</p>
+<p><note place="margin"><hi rend="i">Eccli 2.</hi></note>Fili accecens ad amorem Dei, praepara animam tuam ad tentationem.</p>
+<p><note place="margin"><hi rend="i">Hier. ep. 5.</hi></note>Diabolo hoc nomen est, postquam homini inuidit.</p>
+<p><note place="margin"><hi rend="i">Chrysost. homil. in Matth.</hi></note>Nam sicut assidue est corporibus vmbra: sic in hoc mundo persecutio satanae.</p>
+<p><note place="margin"><hi rend="i">August. de laude charitat.</hi></note>Charitas magna, magna iustitia est; charitas prouecta, prouecta iustitia est.</p>
+<p><note place="margin"><hi rend="i">Gregor. in registro.</hi></note>Nihil est pretiosius Deo virtute dilectionis, nihil desiderabilius diabolo destructione charitatis.</p>
+<lg type="poem"><l>Qual sigue la sombra al cuerpo,</l>
+<l>Tal la imbidia à la asiçion,</l>
+<l>Y à virtud la emolacion.</l>
+</lg><table>
+<row><cell>Al wat hem in het licht begheeft,</cell><cell><hi rend="i">Toute chose est d'ombre suiuie,</hi></cell></row>
+<row><cell>Lichamelijck brenght schadu mede:</cell><cell><hi rend="i">Quand sur elle le soleil luit;</hi></cell></row>
+<row><cell>De ziel verlieft, oock waer die sweeft,</cell><cell><hi rend="i">Ainsi (pres de l'Amour) l'enuie</hi></cell></row>
+<row><cell>Heeft nijt voor schadu t'allen stede;</cell><cell><hi rend="i">Talonne nostre ame, &amp; la suit,</hi></cell></row>
+<row><cell>Den boosen vijant vol van nijt</cell><cell><hi rend="i">Car toute vertu d'ordinaire</hi></cell></row>
+<row><cell>Op onse ziel is seer verbolghen,</cell><cell><hi rend="i">A l'ombre de tentation,</hi></cell></row>
+<row><cell>Als ons de liefde Godts beurijt,</cell><cell><hi rend="i">Mais que peut le diable aduersaire</hi></cell></row>
+<row><cell>Soo schaet ons niet al sijn veruolghen.</cell><cell><hi rend="i">Contre vne ferme affection?</hi></cell></row>
+</table>
+<pb n="57"/>
+<figure><p><xptr to="vaen001amor02ill0057.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="58"/>
+<head rend="h3">Nihil amanti grave.</head>
+<p><note place="margin"><hi rend="i">Matth. 11.</hi></note>Iugum meum suaue, &amp; onus meum leue.</p>
+<p><note place="margin"><hi rend="i">August. li. 13. confess.</hi></note>Amor qui renuit operari, nunquam verus fuit: &amp; qui amat non laborat: omnis enim labor non amantibus grauis. solus Amor est qui nomen difficultatis erubescit.</p>
+<p><note place="margin"><hi rend="i">Ibid.</hi></note>Verus amor non sentit amaritudinem, sed dulcedinem, quia soror amoris dulcedo, sicut soror odij est amaritudo.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Labores amantium onerosi non sunt, sed delectant; interest ergo quid ametur, quia in eo quod amatur, aut non laboratur, aut labor ipse amatur.</p>
+<lg type="poem"><l>El jugo de Amor es leue,</l>
+<l>Porque no ay cargo pesada,</l>
+<l>Quando la cosa es amada.</l>
+</lg><table>
+<row><cell>Al watter is en wert bedacht</cell><cell><hi rend="i">Voyez ceste ame d'Amour pleine,</hi></cell></row>
+<row><cell>Door liefd' en arbeyt wert verkreghen,</cell><cell><hi rend="i">Que rien ne pourroit trop charger;</hi></cell></row>
+<row><cell>De ziele door liefde gansch veracht</cell><cell><hi rend="i">Il n'y a ni trauaux, ni peine,</hi></cell></row>
+<row><cell>Ghewicht, of last hoe swaer om weghen:</cell><cell><hi rend="i">Ni poix qui ne lui soit leger:</hi></cell></row>
+<row><cell>Het is al licht al wat sy draecht,</cell><cell><hi rend="i">La douleur &amp; la plainte cesse,</hi></cell></row>
+<row><cell>Door pijn, noch quelling wert sy clachtich,</cell><cell><hi rend="i">Et chacune difficulté</hi></cell></row>
+<row><cell>Na heet of kou sy niet en vraecht,</cell><cell><hi rend="i">De victoire lui sert, &amp; dresse</hi></cell></row>
+<row><cell>De liefde Godts die maeckt haer machtich.</cell><cell><hi rend="i">Des Trofez à sa charité.</hi></cell></row>
+</table>
+<pb n="59"/>
+<figure><p><xptr to="vaen001amor02ill0059.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="60"/>
+<head rend="h3">Ab vno amore mvlta bona.</head>
+<p><note place="margin"><hi rend="i">Gregor. in homil.</hi></note>Vt multi arboris rami ex vna radice prodeunt: sic multae virtutes ex vno amore generantur. Nec habet aliquid viriditatis ramus boni operis, si non maneat in radice Amoris.</p>
+<p><note place="margin"><hi rend="i">Bernard in tract. de diligen. Deo.</hi></note>O felix amor, ex quo oritur strenuitas morum, puritas affectionum, subtilitas intellectuum, desideriorum sanitas, operum claritas, virtutum foecunditas, meritorum dignitas, praemiorum sublimitas!</p>
+<p><note place="margin"><hi rend="i">August. hom. 7. in Ioan.</hi></note>Radix omnium bonorum est charitas, &amp; radix omnium malorum est cupiditas.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Breue tibi praeceptum praecipitur, Dilige, &amp; quod vis fac. Radix sit intus dilectionis. non potest de ista radice nisi bonum existere.</p>
+<lg type="poem"><l>Amor produçe virtudes,</l>
+<l>Que esta es la fruta que lleba,</l>
+<l>Como lo ve quien la prueba.</l>
+</lg><table>
+<row><cell>Ghelijckmen wt een wortel siet</cell><cell><hi rend="i">On voit que d'vn arbre florissent</hi></cell></row>
+<row><cell>Veel tacken wijt en zijd' opschieten,</cell><cell><hi rend="i">Plusieurs branches &amp; reiettons,</hi></cell></row>
+<row><cell>Die blijuen groen, verdorren niet,</cell><cell><hi rend="i">Qui toutefois bien tót sechissent</hi></cell></row>
+<row><cell>Soo langh sy 's wortels vocht ghenieten:</cell><cell><hi rend="i">Si du tronc nous les abbatons:</hi></cell></row>
+<row><cell>Veel deuchdelijcke wercken uyt</cell><cell><hi rend="i">Asin doncq que les vertus puissent</hi></cell></row>
+<row><cell>Een liefde werden oock gheboren,</cell><cell><hi rend="i">Verdoyer chez nous à tousiour</hi></cell></row>
+<row><cell>Door wien hun groen en wasdom spruyt,</cell><cell><hi rend="i">Conseruons les ou elles naissent,</hi></cell></row>
+<row><cell>Maer buyten liefde gaen verloren.</cell><cell><hi rend="i">(le dis) sur le tige d'Amour.</hi></cell></row>
+</table>
+<pb n="61"/>
+<figure><p><xptr to="vaen001amor02ill0061.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="62"/>
+<head rend="h3">Amoris flagellvm dvlce.</head>
+<p><note place="margin"><hi rend="i">August. super epist. Ioann. &amp; habetur 2.3.q.5. Non potes.</hi></note>Non omnis qui parcit amicus est, nec omnis qui verberat inimicus: meliora sunt vulnera amici, quàm fraudulenta oscula inimici. Ne putes te tunc amare filium tuum, quando ei non das disciplinam; aut tunc amare vicinum tuum, quando eum non corrigis. Non est iste Amor sed languor; ferueat amor ad emendandum &amp; corrigendum.</p>
+<p><note place="margin"><hi rend="i">Bernard. in epist.</hi></note>O bona mater charitas, quae siue foueat infirmos, siue exerceat prouectos, siue arguat inquietos, diuersis diuersa exhibens, sicut filios diligit vniuersos. Cùm te arguit, mitis est; cùm blanditur, simplex est. Piè solet saeuire, sine dolo mulcere; patienter nouit irasci, humiliter indignari.</p>
+<lg type="poem"><l>A vezes importa al hijo</l>
+<l>Mas el azote del padre,</l>
+<l>Que el regaço de la madre.</l>
+</lg><table>
+<row><cell>Niet al is vrient die t'alder tijdt</cell><cell><hi rend="i">Celuy-là qui quelques coups donne</hi></cell></row>
+<row><cell>Verschoonen gaet al v ghebreken,</cell><cell><hi rend="i">n'Est pas tousiours nostre ennemy,</hi></cell></row>
+<row><cell>Noch oock en comt wt haet oft nijt</cell><cell><hi rend="i">Et celuy-là qui tout pardonne</hi></cell></row>
+<row><cell>Des vrients berisp en teghen-spreken:</cell><cell><hi rend="i">n'Est iugé le meilleur amy.</hi></cell></row>
+<row><cell>Veel beter ist te zijn ghewont</cell><cell><hi rend="i">Certes, qui ne punit ton vice</hi></cell></row>
+<row><cell>Door slaghen van een vrient in't herte,</cell><cell><hi rend="i">A peu d'affection vers toy,</hi></cell></row>
+<row><cell>Dan dat v vijant kust v mont,</cell><cell><hi rend="i">Et son Amour n'est qu'artifice</hi></cell></row>
+<row><cell>Die v bereyt veel pijn en smerte.</cell><cell><hi rend="i">Car le vray consiste au chastoy.</hi></cell></row>
+</table>
+<pb n="63"/>
+<figure><p><xptr to="vaen001amor02ill0063.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="64"/>
+<head rend="h3">Vna in sede morantvr pax et amor.</head>
+<p><note place="margin"><hi rend="i">Chrysost.</hi></note>Pax Amoris soror est.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psal. 119.</hi></note>Pax multa diligentibus legem quam, Domine.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psal. 84</hi></note>Iustitia &amp; Pax osculatae sunt.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in Psal. 84.</hi></note>Iustitia Charitas est, duae amicae sunt; tu fortè vnam vis, &amp; alteram non facis. Nemo est enim qui non vult pacem, sed non omnes volunt operari iustitiam. Si amicam pacis non amaueris, non te amabit ipsa Pax, nec veniet ad te.</p>
+<lg type="poem"><l>Amor y paz son hermanos,</l>
+<l>Y es tan firma su amistad,</l>
+<l>Que no ay paz sin charidad.</l>
+</lg><table>
+<row><cell>d'Olijftack vrede ons beduyt,</cell><cell><hi rend="i">l'Oliue la paix nous declaire,</hi></cell></row>
+<row><cell>Die door de liefde men moet vinden,</cell><cell><hi rend="i">Et la paix d'Amour est la soeur,</hi></cell></row>
+<row><cell>Alleen wt liefde vrede spruyt,</cell><cell><hi rend="i">Dont on ne peut d'autre maniere</hi></cell></row>
+<row><cell>De liefd' als t'vier kan twist verslinden:</cell><cell><hi rend="i">(Qu'en aimant) estre possesseur:</hi></cell></row>
+<row><cell>De vrede daermen soo na staet,</cell><cell><hi rend="i">Or puis que ces deux sont ensemble,</hi></cell></row>
+<row><cell>Is Liefdes suster van beghinne,</cell><cell><hi rend="i">Toy qui cherche vn repos entier,</hi></cell></row>
+<row><cell>d'Een sonder d'ander niet en gaet,</cell><cell><hi rend="i">Fais qu'en ton coeur tu les assemble,</hi></cell></row>
+<row><cell>Sy sijn ghelijck van wil en sinne.</cell><cell><hi rend="i">Comme ils sont dedans ce papier.</hi></cell></row>
+</table>
+<pb n="65"/>
+<figure><p><xptr to="vaen001amor02ill0065.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="66"/>
+<head rend="h3">Animae spes optima nvtrix.</head>
+<p><note place="margin"><hi rend="i">Rom. 8.</hi></note>Spe salui sumus. Et si quod non videmus, speramus, per patientia exspectamus.</p>
+<p><note place="margin"><hi rend="i">Gregor. 6. Moral.</hi></note>Spes in aeternitatem animam erigit, &amp; idcirco nulla mala exteriùs quae tolerat sentit.</p>
+<p><note place="margin"><hi rend="i">August. in Enchir.</hi></note>Fides credit, spes &amp; charitas orant.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Lucerna animae spes eius: ad illam operatur omnis homo quicquid boni ad spem facit, &amp; in nocte ardet lucerna nostra. Qui enim quotidie nobis loquitur verbum, tanquam oleum infundit, ne lucerna extinguatur.</p>
+<p><note place="margin"><hi rend="i">Idem de charitate.</hi></note>Qui gaudet in spe, tenebit &amp; rem: qui autemspem non habet, ad rem non poterit peruenire.</p>
+<lg type="poem"><l>Con Amor se cria el alma,</l>
+<l>Y porque mas la aproueche</l>
+<l>Esperança le da leche.</l>
+</lg><table>
+<row><cell>De hoop' is die de ziele voet,</cell><cell><hi rend="i">Asin que tousiours plus parfaicte</hi></cell></row>
+<row><cell>En doet de liefd' altijdt volherden,</cell><cell><hi rend="i">Nostre ame croisse en cét Amour,</hi></cell></row>
+<row><cell>De pijn van't wachten sy versoet,</cell><cell><hi rend="i">Voici l'esperance l'allaicte,</hi></cell></row>
+<row><cell>Om eens in't eynd' beloont te werden,</cell><cell><hi rend="i">Et l'esleuant de jour en jour</hi></cell></row>
+<row><cell>t'Betrouwen comt niet dan door haer,</cell><cell><hi rend="i">Cependant ça-bas nous contente,</hi></cell></row>
+<row><cell>Sy salft de quellingh, druck en smerte,</cell><cell><hi rend="i">Et faict qu'heureux nous attendon</hi></cell></row>
+<row><cell>En maeckt seer licht het welck is swaer,</cell><cell><hi rend="i">Digerant l'ennuy de l'attente</hi></cell></row>
+<row><cell>Baert vreucht in 'smenschen ziel en herte.</cell><cell><hi rend="i">En la qualité du guerdon.</hi></cell></row>
+</table>
+<pb n="67"/>
+<figure><p><xptr to="vaen001amor02ill0067.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="68"/>
+<head rend="h3">Odit moras.</head>
+<p><note place="margin"><hi rend="i">Ambros.</hi></note>Hoc habet impatiens Amor, vt quem desiderat, semper inuenire se credat.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Nescit tarda molimina Spiritus sancti gratia, cuius praecipuus fructus Amor est.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Odit Deus dilationem, in voce coruina; amat confessionem, in gemitu columbino.</p>
+<p><note place="margin"><hi rend="i">Idem in Confess.</hi></note>Repletus amore sancto, dicebat amicus amico, Ego Deo seruire statui; &amp; hoc ex hac hora; in hoc loco aggredior. Te si piget imitari, noli aduersari.</p>
+<lg type="poem"><l>No tiene tibieça Amor</l>
+<l>En soccorrer al amigo</l>
+<l>Que lleba brasas con sigo.</l>
+</lg><table>
+<row><cell>De ziel van haer de traegheyt slaet,</cell><cell><hi rend="i">l'Amour chasse toute demeure,</hi></cell></row>
+<row><cell>Als vijant zijnde van't verlanghen,</cell><cell><hi rend="i">Et suyant la tardiueté</hi></cell></row>
+<row><cell>Haer liefde gansch niet toe en laet</cell><cell><hi rend="i">Veut aussi tót, à la mesme heure,</hi></cell></row>
+<row><cell>Een lancksaem werck, of traghe ganghen:</cell><cell><hi rend="i">Estre receu &amp; imité.</hi></cell></row>
+<row><cell>De traegheyt heeft des doots natuer,</cell><cell><hi rend="i">Sus donc que chacun s'esuertue</hi></cell></row>
+<row><cell>Is droef, onlustich, en onwaerdigh,</cell><cell><hi rend="i">Et sans plus s'arrester à rien,</hi></cell></row>
+<row><cell>Der liefden aert heeft gheen gheduer,</cell><cell><hi rend="i">Laissons les pas de la tortue,</hi></cell></row>
+<row><cell>Is blijde, wacker, ende vaerdigh.</cell><cell><hi rend="i">Et courons apres nostre bien.</hi></cell></row>
+</table>
+<pb n="69"/>
+<figure><p><xptr to="vaen001amor02ill0069.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="70"/>
+<head rend="h3">Amor omnia rectificat.</head>
+<p><note place="margin"><hi rend="i">Hieron. in ep. ad Gal.</hi></note>Mensura operum est Charitas.</p>
+<p><note place="margin"><hi rend="i">August. de doctrin. Christian.</hi></note>Charitas est actio rectitudinis, oculos semper habens ad Deum.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Sola charitas facta hominum discernit, multa fieri possunt quae habent speciem bonam, &amp; non procedunt de radice charitatis: quaedam verò videntur aspera, videntur truculenta, sed fiunt ad disciplinam, dictante charitate.</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Si credis &amp; non amas, non te moues ad opus bonum. Et si moues, vt seruus moues, non vt filius, timendo poenam, non amando iustitiam.</p>
+<lg type="poem"><l>En la fabrica del alma</l>
+<l>Amor es regla y nibel,</l>
+<l>Porque no ay labrar sin el.</l>
+</lg><table>
+<row><cell>Het werck der liefden is altijdt</cell><cell><hi rend="i">Amour est en ceste figure,</hi></cell></row>
+<row><cell>Om alles goet en recht te maecken,</cell><cell><hi rend="i">(Ah bien veritable pinçeau)</hi></cell></row>
+<row><cell>t'Oneffen gheenssins hy en lijdt,</cell><cell><hi rend="i">Des bonnes oeuures la mesure,</hi></cell></row>
+<row><cell>Maer soeckt te slissen alle saecken,</cell><cell><hi rend="i">Et de la vertu le niueau,</hi></cell></row>
+<row><cell>By twist hy hem niet noode vint,</cell><cell><hi rend="i">Il n y a rien qu'il ne dispose</hi></cell></row>
+<row><cell>Ten besten sal hy altijdt spreken,</cell><cell><hi rend="i">Selon le droict &amp; la raison,</hi></cell></row>
+<row><cell>Want d'een en d'ander hy bemint,</cell><cell><hi rend="i">Il regle &amp; vnit toute chose,</hi></cell></row>
+<row><cell>Verschoont van alle de ghebreken.</cell><cell><hi rend="i">En tous lieux, en toute saison.</hi></cell></row>
+</table>
+<pb n="71"/>
+<figure><p><xptr to="vaen001amor02ill0071.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="72"/>
+<head rend="h3">Sternit iter deo.</head>
+<p><note place="margin"><hi rend="i">Chrysost.</hi></note>Amor via Dei ad homines est, &amp; via hominis ad Deum.</p>
+<p><note place="margin"><hi rend="i">Prou. 3.</hi></note>Vię eius vię pulchrę, &amp; omnes semitę eius pacificę.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Viae multae in multis praeceptis ad vnam colliguntur, &amp; vna dicuntur, quia via nostra charitas est. videamus si charitas est via, audiamus Apostolum, Et <note place="margin"><hi rend="i">1. Cor. 12.</hi></note>adhuc excellentiorem vobis viam demonstro. Quam dicis ô Apostole, excellentiorem viam? Quam dico, audi: Si linguis hominum loquar &amp; Angelorum; charitatem non habeam, &amp;c.</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Charitas verè via est quae ducit per se ambulantes ad patriam; quia sicut sine via peruenit nullus quò tendit, ita sine charitate quae dicta est via, non ambulare possunt homines, sed errare.</p>
+<lg type="poem"><l>Amor allana el camino</l>
+<l>De la corte çelestial,</l>
+<l>Y aunque estrecha, es senda real.</l>
+</lg><table>
+<row><cell>Welck is den wech tot Godt den Heer?</cell><cell><hi rend="i">Voicy la sente tant chantée,</hi></cell></row>
+<row><cell>Hoe canmen doch tot hem gheraeken?</cell><cell><hi rend="i">Par laquelle marchoyent les Dieux,</hi></cell></row>
+<row><cell>Welck is Godts wech tot ons hier neer,</cell><cell><hi rend="i">c'Est vrayement la voye lactée,</hi></cell></row>
+<row><cell>Dat wy by hem ons woningh maecken?</cell><cell><hi rend="i">Par laquelle on s'esleue aux cieux.</hi></cell></row>
+<row><cell>De liefde is den wech alleen,</cell><cell><hi rend="i">Aimez seulement, &amp; nostre ame</hi></cell></row>
+<row><cell>De wijsheyt, waerheyt, en het leuen,</cell><cell><hi rend="i">Pourra monter iusques à Christ;</hi></cell></row>
+<row><cell>De liefde Godts ons in't ghemeen</cell><cell><hi rend="i">Aimez seulement, &amp; luy mesme</hi></cell></row>
+<row><cell>Bereyt den wech dat wy niet sneuen.</cell><cell><hi rend="i">Descendra dedans vostre esprit.</hi></cell></row>
+</table>
+<pb n="73"/>
+<figure><p><xptr to="vaen001amor02ill0073.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="74"/>
+<head rend="h3">Omnia eo vnde.</head>
+<p><note place="margin"><hi rend="i">Eccles. 1.</hi></note>Ad locum vnde exeunt flumina reuertuntur, vt iterum fluant.</p>
+<p><note place="margin"><hi rend="i">Bernard. in cant. serm. 20.</hi></note>Magna res Amor est, si ad suum recurrat principium, si suae origini reddatur, si refusus suo fonti semper ex eo sumat, vnde iugiter fluat.</p>
+<p><note place="margin"><hi rend="i">Idem serm. 1. in cap. ieiunij.</hi></note>Gratiarum cessat discursus, vbi recursus non fuerit. Nec modò nil augetur ingrato, sed &amp; quod accipit, vertitur ei in perniciem. Fidelis autem in modico censetur dignus munere ampliori.</p>
+<p><note place="margin"><hi rend="i">Lactant. li. 4 diuin. instit. cap. 3.</hi></note>Diuinitas quae incredibili beneficio genus humanum sustentat, vult gratiam sibi referri, &amp; honorem dari.</p>
+<lg type="poem"><l>Come el rio buelbe al mar,</l>
+<l>A de boluer nuestro amor</l>
+<l>Al golfo de su criador.</l>
+</lg><table>
+<row><cell>Als 'smenschen ziele men siet gaen</cell><cell><hi rend="i">Ainsi que toutes les fontaines</hi></cell></row>
+<row><cell>En keeren tot haer oorspronck weder,</cell><cell><hi rend="i">Aux sources rameinent leur eau,</hi></cell></row>
+<row><cell>Dan sietmen t'gheen sy heeft ontfaen</cell><cell><hi rend="i">A ceste fin que tousiours pleines</hi></cell></row>
+<row><cell>Weercomen grooter, ende breder:</cell><cell><hi rend="i">Elles façent vn cours nouueau:</hi></cell></row>
+<row><cell>Godts ghifte van veel deuchden goet</cell><cell><hi rend="i">Ainsi ce portraict nous enseigne,</hi></cell></row>
+<row><cell>Moet sijn fonteyn van liefde ons gheuen.</cell><cell><hi rend="i">Que souuent l'eau de noz amours</hi></cell></row>
+<row><cell>Daer men die weer in storten moet,</cell><cell><hi rend="i">Doibt r'approcher son origine,</hi></cell></row>
+<row><cell>Soo blijuen wy in liefde leuen.</cell><cell><hi rend="i">Pour pouuoir accroistre son cours.</hi></cell></row>
+</table>
+<pb n="75"/>
+<figure><p><xptr to="vaen001amor02ill0075.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="76"/>
+<head rend="h3">Constans est.</head>
+<p><note place="margin"><hi rend="i">August. de catechiz. rudibus.</hi></note>Constans &amp; perfectus debet esse Amor noster, vt si necesse fuerit, amore illius moriamur, qui amore nostri placidè ac benignè mori dignatus est.</p>
+<p><note place="margin"><hi rend="i">Cant. 8. Greg. hom. 11.</hi></note>Fortis vt mors dilectio, quia sicut mors corpus interimit, sic ab amore rerum temporalium aeternae vitae charitas occidit: nam quem perfectè absorbuerit, ad terrena velut insensibilem reddit; neque sanctus quispiam mori pro Domino potuisset in corpore, si prius à terrenis desiderijs mortuus non fuisset in mente.</p>
+<p><note place="margin"><hi rend="i">Leo.</hi></note>Flammis externis superari charitatis Christi flamma non potest, segnior est ignis qui foris vrit, quàm qui intus accendit.</p>
+<p><note place="margin"><hi rend="i">Senec. in epist.</hi></note>Si cruci affigatur, si flammis tradatur, semper amat qui verè amans est.</p>
+<lg type="poem"><l>El Amor que haste la muerte</l>
+<l>No conserua su vigor,</l>
+<l>No se quente por Amor.</l>
+</lg><table>
+<row><cell>Ons liefde moet volcomen zijn,</cell><cell><hi rend="i">Le feu, le fer, &amp; la souffrance</hi></cell></row>
+<row><cell>Volstandich, vast, in als ghestadich,</cell><cell><hi rend="i">Du martire plus rigoureux,</hi></cell></row>
+<row><cell>Dat waert van nood' te lijden pijn,</cell><cell><hi rend="i">Fleschiront tous à la constance,</hi></cell></row>
+<row><cell>Ia oock de doot seer onghenadich,</cell><cell><hi rend="i">Dont cet Amour nourrit mes voeux:</hi></cell></row>
+<row><cell>Wy niet en moeten vlieden, maer</cell><cell><hi rend="i">Car si nous pensons au supplice</hi></cell></row>
+<row><cell>Om sijne liefde lijden garen,</cell><cell><hi rend="i">Que jadis Dieu souffrit pour nous,</hi></cell></row>
+<row><cell>Die ons verlost heeft alle gaer,</cell><cell><hi rend="i">Il n'y a tourment qui ne puisse</hi></cell></row>
+<row><cell>Wanneer wy gansch verloren waren.</cell><cell><hi rend="i">Nous sembler aggreable &amp; doux.</hi></cell></row>
+</table>
+<pb n="77"/>
+<figure><p><xptr to="vaen001amor02ill0077.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="78"/>
+<head rend="h3">Amor aedificat.</head>
+<p><note place="margin"><hi rend="i">1. Tim. 4.</hi></note>Exemplum esto fidelium in verbo, in conuersatione, in charitate, in fide, in castitate, vt profectus tuus manifestus sit omnibus.</p>
+<p>Humiliter sine inflatione, sobriè sine praesumptione, certitudinaliter sine haesitatione, veraciter sine errore, simpliciter sine deceptione, salubriter cum charitate &amp; dilectione, vtiliter cum proximorum aedificatione, liberaliter cum gratuita communicatione, efficaciter cum bona operatione; scienti enim bonum &amp; non facienti, peccatum est illi.</p>
+<p><note place="margin"><hi rend="i">Gregor. in Ezac. ho. 5.</hi></note>Qui in occulto bene viuit, sed alieno profectui minimè proficit, carbo est. Qui verò in imitatione sanctitatis positus, lumen rectitudinis ex se multis demonstrat, lampas est, quia &amp; sibi ardet, &amp; alijs lucet.</p>
+<lg type="poem"><l>Del edifiçio Christiano</l>
+<l>La charidad es la cal,</l>
+<l>Y sin calor fragua mal.</l>
+</lg><table>
+<row><cell>De ziel verlieft heeft altijdt lust,</cell><cell><hi rend="i">Nostre ame, en aimant, edifie,</hi></cell></row>
+<row><cell>Om yet te bouwen en te stichten,</cell><cell><hi rend="i">Car c'est lors qu'auons les desseins</hi></cell></row>
+<row><cell>Tot deucht, tot weluaert, ofte rust,</cell><cell><hi rend="i">De bien façonner nostre vie</hi></cell></row>
+<row><cell>Om andre t'herte te verlichten:</cell><cell><hi rend="i">Pour l'exemple de nous prochains.</hi></cell></row>
+<row><cell>Godts liefde daer toe gratie gheeft,</cell><cell><hi rend="i">Donc que chacun de nous commence</hi></cell></row>
+<row><cell>En brenght de middel om te bouwen,</cell><cell><hi rend="i">Ceste sorte de bastiment:</hi></cell></row>
+<row><cell>En maeckt dat die hier salich leeft,</cell><cell><hi rend="i">Et nous viurons en asseurance,</hi></cell></row>
+<row><cell>Die op sijn gront kan vast betrouwen.</cell><cell><hi rend="i">Logez sur vn tel fondement.</hi></cell></row>
+</table>
+<pb n="79"/>
+<figure><p><xptr to="vaen001amor02ill0079.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="80"/>
+<head rend="h3">Ivcvndvm spirat odorem.</head>
+<p><note place="margin"><hi rend="i">2. Cor. 2.</hi></note>Christi bonus odor sumus.</p>
+<p><note place="margin"><hi rend="i">Basil. Mag. in Hexaëm</hi></note>Vnguentum suaue &amp; optimum est Amor Dei, quo pestes mentis curantur, &amp; cordis oculi illuminantur.</p>
+<p><note place="margin"><hi rend="i">Cant. 1.</hi></note>Trahe me post te, curremus in odorem vnguentorum tuorum.</p>
+<p><note place="margin"><hi rend="i">Bernard. in 6. Cant.</hi></note>Qui pascitur inter lilia: quia Christus candore &amp; odore virtutum quae ex amore proueniunt, delectatur; vt candor ad conscientiam, odor ad famam pertineat.</p>
+<p><note place="margin"><hi rend="i">August. in Psal. 44.</hi></note>Filiae regum delectant sponsum odore vestimentorum; quia fideles animae, quae Apostolis praedicantibus natae sunt, odore sancto qui ex amoris operibus latè diffunditur, Christum delectant.</p>
+<lg type="poem"><l>Es pomo contra la peste</l>
+<l>La fragrançia del Amor</l>
+<l>Segun conorta su olor.</l>
+</lg><table>
+<row><cell>Een balsem is Godts liefde soet,</cell><cell><hi rend="i">Les haumes d'Inde &amp; d'Arabie</hi></cell></row>
+<row><cell>Die alle krenckten kan ghenesen,</cell><cell><hi rend="i">A cestui-cy ne sont esgaus,</hi></cell></row>
+<row><cell>Die wt de ziel, en wt t'ghemoet,</cell><cell><hi rend="i">Qui guerit toute maladie,</hi></cell></row>
+<row><cell>En wt het lichaem sijn gheresen:</cell><cell><hi rend="i">Et nous deliure de tous maus.</hi></cell></row>
+<row><cell>Treckt my in balsems reuck naer dy,</cell><cell><hi rend="i">Dont (ô Seigneur) veuillez m'en paistre</hi></cell></row>
+<row><cell>Ghy die mijn ziele kunt verstercken,</cell><cell><hi rend="i">Afin qu' auec ce sainct odeur,</hi></cell></row>
+<row><cell>Verdrijft der sonden pest van my,</cell><cell><hi rend="i">De tous pechez ie me depestre,</hi></cell></row>
+<row><cell>Dat ick v diene met goe wercken.</cell><cell><hi rend="i">Et n'ay rien que vous dans le coeur.</hi></cell></row>
+</table>
+<pb n="81"/>
+<figure><p><xptr to="vaen001amor02ill0081.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="82"/>
+<head rend="h3">Amoris secvritas.</head>
+<p><note place="margin"><hi rend="i">Roman. 8.</hi></note>Quid nos separabit à charitate Christi? tribulatio, an angustia, an fames, an nuditas, an periculum, an persecutio, an gladius? In his omnibus superamus propter eum qui dilexit nos. Certus sum, quia neque mors, neque vita, neque angeli, neque principatus, neque vertutes, neque instantia, neque futura, neque fortitudo, neque altitudo, neque profundum, neque creatura alia poterit nos separare à charitate Dei.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Quis à te Domine separat, quod diligis? aut vbinisi apud te firma securitas?</p>
+<lg type="poem"><l>El amante verdadero</l>
+<l>No le aparta de quien ama</l>
+<l>Ni el cuchillo, ni la llama.</l>
+</lg><table>
+<row><cell>Wat isser dat kan hebben macht</cell><cell><hi rend="i">Non, il n'y a rien qui me puisse</hi></cell></row>
+<row><cell>Om ons van Christus liefd' te scheyden?</cell><cell><hi rend="i">Oster de ceste liaison,</hi></cell></row>
+<row><cell>Oprechte liefde doch veracht</cell><cell><hi rend="i">Ni des richesses l'artifice,</hi></cell></row>
+<row><cell>Al t'gheen dat kan oft mach verleyden,</cell><cell><hi rend="i">Ni la crainte, ni la prison,</hi></cell></row>
+<row><cell>t'Sy hoocheyt, rijckdom, eere groot,</cell><cell><hi rend="i">Aussi te suis-ie tant fidelle,</hi></cell></row>
+<row><cell>Veruolghingh, hongher, oft armoede,</cell><cell><hi rend="i">Que vainquant pour toy tout effort,</hi></cell></row>
+<row><cell>Ellendicheyt, noch oock de doot:</cell><cell><hi rend="i">Amour ie viuray soubz ton aisle,</hi></cell></row>
+<row><cell>Gherust wy blijuen in sijn hoede.</cell><cell><hi rend="i">Iusqu', apres, &amp; malgré la mort.</hi></cell></row>
+</table>
+<pb n="83"/>
+<figure><p><xptr to="vaen001amor02ill0083.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="84"/>
+<head rend="h3">Sitim extingvit.</head>
+<p><note place="margin"><hi rend="i">August. &amp; habetur de Poenis. dist. 2. cap. charitas.</hi></note>Amor est aqua de qua Dominus in Euangelio ait; Qui biberit ex hac aqua quam ego dabo ei, non sitiet in aeternum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psalm. 41.</hi></note>Quemadmodum desiderat ceruus ad fontes aquarum, ita desiderat anima mea ad Deum fontem viuum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. super Ps. 46.</hi></note>Deus tuus totum tibi erit: manducabis eum, ne esurias; bibes eum, ne sitias.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem in ep. Ioan. cap. 7.</hi></note>Si non vultis in eremo siti mori, bibite charitatem. Fons enim est quem Deus voluit ponere, ne deficias.</p>
+<lg type="poem"><l>Es agua qualquier Amor,</l>
+<l>Mas del diuino beued,</l>
+<l>Que es el que mata la sed.</l>
+</lg><table>
+<row><cell>Godts liefd' is t'water daer van seyt</cell><cell><hi rend="i">Amour est cest eau, de la quelle</hi></cell></row>
+<row><cell>Den sone Godts, Die ick sal gheuen</cell><cell><hi rend="i">Christ en l'euangile a dicté,</hi></cell></row>
+<row><cell>Dit water, inder eewicheyt</cell><cell><hi rend="i">Que celuy-la qui boiroit d'elle</hi></cell></row>
+<row><cell>Niet dorsten sal, maer eewich leuen:</cell><cell><hi rend="i">n'Auroit soif en eternité.</hi></cell></row>
+<row><cell>Godts liefden put sal nimmermeer</cell><cell><hi rend="i">Courons doncq (ô Ame zeleuse)</hi></cell></row>
+<row><cell>Zijn wtgheput. dus wilt doch trachten</cell><cell><hi rend="i">A ce puis salutaire &amp; sainct,</hi></cell></row>
+<row><cell>Te drincken van dit water seer,</cell><cell><hi rend="i">Puis que so boisson amoureuse</hi></cell></row>
+<row><cell>Eer dat ghy meucht van dorst versmachten.</cell><cell><hi rend="i">Toute ardeur de la chair estaint.</hi></cell></row>
+</table>
+<pb n="85"/>
+<figure><p><xptr to="vaen001amor02ill0085.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="86"/>
+<head rend="h3">Nvllvs liber erit, si qvis amare volet.</head>
+<p><note place="margin"><hi rend="i">Matth. 11.</hi></note>Tollite iugum meum super vos, &amp; discite à me, quia mitis sum &amp; humilis corde.</p>
+<p><note place="margin"><hi rend="i">Bernard. lib. de dilig. Deo.</hi></note>O iugum sancti Amoris, quàm dulciter capis, gloriosè laqueas, suauiter premis, delectanter oneras, fortiter stringis, prudenter erudis.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Quos Dominus liberos fecerat, seruos fecit non conditione seruili, sed in Christi redemptione; non necessitate, sed charitate; seruum enim te fecit qui tesuo sanguine liberum fecit.</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Nemo seruit nisi cum aliqua libertate, &amp; nemo liber est, nisi cum aliqua seruitute: quanto autem magis regnat in vnoquoque Dei charitas, tanto minus ei dominatur iniquitas.</p>
+<lg type="poem"><l>Amor diçe sujecion,</l>
+<l>Porque ser libre y amar</l>
+<l>Mal se puede enquadernar.</l>
+</lg><table>
+<row><cell>Hoe lieflijck is v iock o Heer?</cell><cell><hi rend="i">O joug heureux, heureux seruice,</hi></cell></row>
+<row><cell>Met soet te drucken en t'omvanghen,</cell><cell><hi rend="i">Que l'on doibt desirer d'auoir:</hi></cell></row>
+<row><cell>V last beswaert oock nimmermeer</cell><cell><hi rend="i">n'Estant possible que l'on puisse</hi></cell></row>
+<row><cell>De ziel die naer v heeft verlanghen:</cell><cell><hi rend="i">Aimer bien, sans le receuoir.</hi></cell></row>
+<row><cell>Ghy hebt ons met v bloet beurijt,</cell><cell><hi rend="i">Car puis que Christ par sa mort mesme</hi></cell></row>
+<row><cell>Wt s'doots gewelt en s'duyuels banden,</cell><cell><hi rend="i">Nous a remis en liberté,</hi></cell></row>
+<row><cell>V heerschappi men gheerne lijt,</cell><cell><hi rend="i">Sa croix afranchissant nostre ame</hi></cell></row>
+<row><cell>Die ons behoet voor alle schande.</cell><cell><hi rend="i">l'Asseruit à la charité.</hi></cell></row>
+</table>
+<pb n="87"/>
+<figure><p><xptr to="vaen001amor02ill0087.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="88"/>
+<head rend="h3">Micat inter omnes amor virtvtes.</head>
+<p><note place="margin"><hi rend="i">1. Cor. 13.</hi></note>Si linguis hominum loquar &amp; Angelorum, charitatem autem non habeam, factus velut aes sonans, aut cymbalum tinniens.</p>
+<p><note place="margin"><hi rend="i">August. de doct. Chris.</hi></note>Sola charitas est quae vincit omnia, &amp; sine qua nihil valent omnia.</p>
+<p><note place="margin"><hi rend="i">Leo.</hi></note>Quamuis magnum sit habere rectam fidem, &amp; multa laude digna sit circumcisio gulae, lenitas mansuetudinis, puritas castitatis; nudae sunt tamen omnes sine charitate virtutes; &amp; nihil fructuosum, quod non dilectionis partus ediderit.</p>
+<lg type="poem"><l>Es la luz de charidad</l>
+<l>Entre las virtudes vellas</l>
+<l>Qual sol entre las estrellas.</l>
+</lg><table>
+<row><cell>De liefd' altijdt hem ouerschoon</cell><cell><hi rend="i">Amour des vertus la plus grande,</hi></cell></row>
+<row><cell>Doet bouen alle deuchden schijnen,</cell><cell><hi rend="i">Tient entre elles le lieu premier,</hi></cell></row>
+<row><cell>Ghelijck de son aen s'hemels throon,</cell><cell><hi rend="i">Et seul dessus toute la bande</hi></cell></row>
+<row><cell>Die t'licht der sterren doet verdwijnen:</cell><cell><hi rend="i">Emporte &amp; reçoit le laurier:</hi></cell></row>
+<row><cell>t'Gheloof, noch hoop geen vruchten geeft,</cell><cell><hi rend="i">Car quand la foy, quand l'esperance,</hi></cell></row>
+<row><cell>En ijdel zijn der deuchden wercken,</cell><cell><hi rend="i">La douceur, &amp; la chasteté</hi></cell></row>
+<row><cell>Als hen der liefden cracht begheeft,</cell><cell><hi rend="i">Auroyent ton coeur pour residence,</hi></cell></row>
+<row><cell>Die't al verciert en doet verstercken.</cell><cell><hi rend="i">Si n'est-ce rien sans charité.</hi></cell></row>
+</table>
+<pb n="89"/>
+<figure><p><xptr to="vaen001amor02ill0089.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="90"/>
+<head rend="h3">Omnia vincit amor.</head>
+<p><note place="margin"><hi rend="i">Petr. Rau.</hi></note>Nihil durum, nihil amarum, nihil graue, nihil lethale computat amor verus. Quod ferrum, quae vulnera, quae poena, quae mortes amorem praeualent separare perfectum? Amor est impenetrabilis lorica: respuit iacula, gladium excutit, periculus insultat, mortem irridet: si amor est, vincit omnia.</p>
+<p><note place="margin"><hi rend="i">Tho. Kemp. de imitat. Christ. lib. 3. cap. 5.</hi></note>Amor onus non sentit, labores non reputat, plus affectat quàm valet, de impossibilitate non causatur, quia cuncta sibi posse &amp; licere arbitratur.</p>
+<p><note place="margin"><hi rend="i">August. de doctrin. Christian.</hi></note>Sola charitas est, quae vincit omnia, &amp; sine qua nihil valent omnia, &amp; vbicunque fuerit, trahit ad se omnia.</p>
+<lg type="poem"><l>No ay petto à prueba de Amor,</l>
+<l>Que la flecha de vn amante</l>
+<l>Passa vn pecho de diamante.</l>
+</lg><table>
+<row><cell>Met scherpe pijlen liefde schiet,</cell><cell><hi rend="i">Remarquons en ceste figure</hi></cell></row>
+<row><cell>Gheen stael oft ijser hout hem teghen:</cell><cell><hi rend="i">De l'amour diuin les effectz,</hi></cell></row>
+<row><cell>Al t'ghene wederstant hem biet,</cell><cell><hi rend="i">N'y ayant pas d'ame si dure,</hi></cell></row>
+<row><cell>Hy door sijn crachten doet beweghen,</cell><cell><hi rend="i">Qui soit à preuue de ses traitz:</hi></cell></row>
+<row><cell>Al waer versteent des menschen hert,</cell><cell><hi rend="i">Si ta priere est lente &amp; froide,</hi></cell></row>
+<row><cell>Vercout, verhert, als sonder leuen.</cell><cell><hi rend="i">Et que tu la veuille enflammer;</hi></cell></row>
+<row><cell>Soo die beroert van liefde wert,</cell><cell><hi rend="i">Ne cherche pas d'aultre remede,</hi></cell></row>
+<row><cell>Tot alle deucht sich moet begheuen.</cell><cell><hi rend="i">Seulement commence d'aimer.</hi></cell></row>
+</table>
+<pb n="91"/>
+<figure><p><xptr to="vaen001amor02ill0091.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="92"/>
+<head rend="h3">Agitatvs fortior.</head>
+<p><note place="margin"><hi rend="i">Senec.</hi></note>Non est arbor fortis, nisi in quam frequens incursat ventus: ipsa enim vexatione constringitur, &amp; radices certiùs figit.</p>
+<p><note place="margin"><hi rend="i">Gregor. 26. Moral.</hi></note>Sanctorum mentes aeternitatis praemia postulantes, vires ex aduersitatibus sumunt: quia crescente pugna gloriosiorem sibi non ambigunt manere victoriam.</p>
+<p><note place="margin"><hi rend="i">Aug. in ep. Ioann. &amp; habetur de Poenit. d. 2. c. radicata.</hi></note>Radicatus est Amor? securus esto, nihil mali procedere potest.</p>
+<p><note place="margin"><hi rend="i">Idem in Confess.</hi></note>Sagittaueras tu Domine cor nostrum charitate tua, &amp; accendebat nos validè, vt omnis ex lingua subdola contradictionis flatus, inflammaret nos acrius, non extingueret.</p>
+<p><note place="margin"><hi rend="i">Gregor. in pastor. c. 51.</hi></note>Despe aeternae haereditatis gaudium sumunt, quos aduersitatis turbo exagitat.</p>
+<lg type="poem"><l>Quanto la planta de Amor</l>
+<l>Mas inclemençias padeçe</l>
+<l>Tanto mas se arraiga y creçe.</l>
+</lg><table>
+<row><cell>Een boom die dickwils lijt de last</cell><cell><hi rend="i">l'Arbre soufrant souuent l'orage,</hi></cell></row>
+<row><cell>Van winden, storm, en reghen-vlaghen,</cell><cell><hi rend="i">Et la violence des vens,</hi></cell></row>
+<row><cell>Daer teghen sich meer wortelt vast,</cell><cell><hi rend="i">Se serre &amp; roidit dauantage</hi></cell></row>
+<row><cell>Om al onweder te verdraeghen:</cell><cell><hi rend="i">Et s'en affermit au dedans.</hi></cell></row>
+<row><cell>Als ziel of lichaem wert ghequelt</cell><cell><hi rend="i">Tout ainsi nostre ame amoureuse,</hi></cell></row>
+<row><cell>Met storm, of teghenspoets onweder,</cell><cell><hi rend="i">Soubz l'effort de l'aduersité,</hi></cell></row>
+<row><cell>De liefd' hem stercker teghenstelt,</cell><cell><hi rend="i">Embrasse tant plus courageuse</hi></cell></row>
+<row><cell>Verspreyt sijn wortel vast en breder.</cell><cell><hi rend="i">Le tige de sa charité.</hi></cell></row>
+</table>
+<pb n="93"/>
+<figure><p><xptr to="vaen001amor02ill0093.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="94"/>
+<head rend="h3">Vervs amor nvllvm novit habere modvm.</head>
+<p><note place="margin"><hi rend="i">Ambros.</hi></note>Ignorat siquidem Amor iudicium, &amp; ratione multoties caret: nescit modum, nec aliud cogitare quàm quod amat potest. non accipit de impossibilitate solatium, nec ex difficultate remedium, nec consilio temperatur, nec pudore frenatur, nec ratione subiicitur.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Bernard. in epist.</hi></note>Charitati nullus modus aut finis praescribitur; modus enim diligendi Deum, est ipsum diligere sine modo.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Tho. Kem. lia. 3. de imitat. Christi cap. 5.</hi></note>Amor modum semper nescit, sed super omnem modum feruescit.</p>
+<lg type="poem"><l>No tiene limite Amor,</l>
+<l>Que siempre lo enprende todo,</l>
+<l>Sin reparar en el modo.</l>
+</lg><table>
+<row><cell>De Son, de Maen, en sterren claer,</cell><cell><hi rend="i">Toute chose, &amp; le soleil mesme,</hi></cell></row>
+<row><cell>Elck heeft sijn wet en seker palen,</cell><cell><hi rend="i">A il pas de borne arresté?</hi></cell></row>
+<row><cell>Daer in sy moeten gaen, en daer</cell><cell><hi rend="i">Mais quant à ceste amoureuse ame,</hi></cell></row>
+<row><cell>Sy buyten niet en moeten dwalen:</cell><cell><hi rend="i">Elle n'a rien de limité:</hi></cell></row>
+<row><cell>Een ziel verlieft gheen maet en heeft,</cell><cell><hi rend="i">Son vol a rompu la mesure,</hi></cell></row>
+<row><cell>Verstoot al t'geen dat haer wilt krencken,</cell><cell><hi rend="i">Et passant des cieux la haulteur</hi></cell></row>
+<row><cell>Geen wet haer vlucht bedwingt, maer sweeft</cell><cell><hi rend="i">Ne cesse, que la creature</hi></cell></row>
+<row><cell>Veel hoogher dan men kan bedencken.</cell><cell><hi rend="i">Ne soit reioinct au createur.</hi></cell></row>
+</table>
+<pb n="95"/>
+<figure><p><xptr to="vaen001amor02ill0095.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="96"/>
+<head rend="h3">Crescit spirantibvs avris.</head>
+<p><note place="margin"><hi rend="i">August. de gratia &amp; liber. arbit.</hi></note>Gratia Dei per amorem sine nobis operatur incipiens, quod volentibus cooperatur perficiens: sine illo autem nihil operante, cùm volumus, ad bona opera nihil valemus.</p>
+<p><note place="margin"><hi rend="i">Euseb. Emis. de Epiph. ho. 3.</hi></note>Tanta poscenda est charitas, vt sub pressura tribulationis non possit extingui, sed sicut ingens flamma sub impetu venti, quanto magis reprimitur, tanto ardentiùs excitari.</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Tanta desuper praebebatur sanctis constantia fidei, fiducia spei, fortitudo tolerantiae, vt ille ignis dilectionis, quem in cordibus fidelium Sp. sanctus accenderat, nullo modo ab opprimentibus possit extingui; cùm &amp; qui cruciabatur vehemétiùs inardesceret, &amp; qui saeuiebant, eandem quá persequebátur, flammá conciperét.</p>
+<lg type="poem"><l>El ayre de Amor diuino</l>
+<l>Ençiende con suauidad</l>
+<l>El fuego de charidad.</l>
+</lg><table>
+<row><cell>Door wint het vier wert groot, en wast,</cell><cell><hi rend="i">Nous voyons la flamme s'esprendre,</hi></cell></row>
+<row><cell>Dat anders haest versteruen soude,</cell><cell><hi rend="i">Et s'accroistre au soufle du vent,</hi></cell></row>
+<row><cell>En blijuen onder d'asschen last,</cell><cell><hi rend="i">Laquelle aultrement soubz la cendre</hi></cell></row>
+<row><cell>Veranderen van hitt' in koude:</cell><cell><hi rend="i">Peu à peu s'iroit estaindant:</hi></cell></row>
+<row><cell>Der gratien wint bewaeyen moet</cell><cell><hi rend="i">c'Est ce qu'aussi l'ame desire,</hi></cell></row>
+<row><cell>Ons ziel, ons hert, en onse sinnen,</cell><cell><hi rend="i">Afin de conseruer ces feux,</hi></cell></row>
+<row><cell>Onsteken t'vier in ons ghemoet,</cell><cell><hi rend="i">Car de la grace le zephire</hi></cell></row>
+<row><cell>Dat wy van liefde branden binnen.</cell><cell><hi rend="i">Les entretient de mieux en mieux.</hi></cell></row>
+</table>
+<pb n="97"/>
+<figure><p><xptr to="vaen001amor02ill0097.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="98"/>
+<head rend="h3">Omnia spernit.</head>
+<p><note place="margin"><hi rend="i">1. Cor. 13. Phil. 3.</hi></note>Amor non est ambitiosus, atque omnia existimat vt stercora propter Christum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in epist. Ioann.</hi></note>Mundus transit &amp; concupiscentia eius. quid vis? vtrum amare temporalia, &amp; transire cum tempore; an Christum amare, &amp; in aeternum viuere?</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">A Kempis li. 3. de imit. Christi, c. 5.</hi></note>Amor vult esse sursum, nec vllis infimis rebus retineri.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Gregor. in registro.</hi></note>Si consideremus, quae &amp; quanta sint quae nobis promittuntur in caelo, vilescent animo omnia, quae habentur in terris: terrena namque substantia supernae felicitati comparata pondus est, non subsidium.</p>
+<lg type="poem"><l>Todo lo dexa el Amor,</l>
+<l>Aunque mas hermoso sea</l>
+<l>Por aquello que desea.</l>
+</lg><table>
+<row><cell>De ziel door liefde goet, en eer</cell><cell><hi rend="i">En aimant Dieu, l'ame mesprise</hi></cell></row>
+<row><cell>Veracht en laet om Christus wille,</cell><cell><hi rend="i">l'Honneur &amp; les biens d'ici-bas,</hi></cell></row>
+<row><cell>En t'ghene daermen hier soo seer</cell><cell><hi rend="i">Et tout ce dont sa conuoitise</hi></cell></row>
+<row><cell>Om loopt, en is in groot gheschille:</cell><cell><hi rend="i">Faisoit parauant tant de cas:</hi></cell></row>
+<row><cell>Sijn liefde gheenssins toe en laet</cell><cell><hi rend="i">Car allant faire sa demeure</hi></cell></row>
+<row><cell>Dat eersucht ergens plaetse vinde,</cell><cell><hi rend="i">Auecques son amour aux cieux,</hi></cell></row>
+<row><cell>Noyt adel, afcomst, naem, noch graet</cell><cell><hi rend="i">La terre luy sert à ceste heure</hi></cell></row>
+<row><cell>En achte dien die recht beminde.</cell><cell><hi rend="i">De retardement ennuyeux.</hi></cell></row>
+</table>
+<pb n="99"/>
+<figure><p><xptr to="vaen001amor02ill0099.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="100"/>
+<head rend="h3">Nec vidisse sat est.</head>
+<p><note place="margin"><hi rend="i">Gregor. in homil. Maria stabat ad mon.</hi></note>Amanti semel adspexisse non sufficit, quia vis amoris intentionem multiplicat inquisitionis.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Hieron.</hi></note>Auarus sum ad accipienda beneficia Domini, nec ille deficit in dando, nec ego satior in accipiendo: erat sancta auaritia, ingentis videlicet amoris &amp; desiderij.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem epist. ad Damas.</hi></note>Semper voluptas amoris famem sui habet, &amp; non satiat.</p>
+<lg type="poem"><l>Amor es como la gloria,</l>
+<l>Pues la cosa que es amada</l>
+<l>Iamas le cansa ni enfada.</l>
+</lg><table>
+<row><cell>Die lief heeft en ghenoecht hem niet</cell><cell><hi rend="i">l'Amant en oeilladant s'amye,</hi></cell></row>
+<row><cell>Om eens sijn liefste te aenschouwen,</cell><cell><hi rend="i">Ne se saoule pas d'vn regard,</hi></cell></row>
+<row><cell>De kracht der liefden hem ghebiet,</cell><cell><hi rend="i">Plustót augmentant son enuye</hi></cell></row>
+<row><cell>Dat hy van sien niet kan ophouwen.</cell><cell><hi rend="i">La voyant, de la reuoir ard:</hi></cell></row>
+<row><cell>Door liefde onuersadich wert</cell><cell><hi rend="i">l'Amour Diuin vient tout de mesme</hi></cell></row>
+<row><cell>t'Ghemoet, en ziele vande menschen,</cell><cell><hi rend="i">Vers nostre Dieu nous enflammer,</hi></cell></row>
+<row><cell>Mits dien een groot begheerigh hert</cell><cell><hi rend="i">Et faict que d'autant plus qu'on l'aime</hi></cell></row>
+<row><cell>Niet laten kan van meer te wenschen.</cell><cell><hi rend="i">d'Autant plus on le veut aymer.</hi></cell></row>
+</table>
+<pb n="101"/>
+<figure><p><xptr to="vaen001amor02ill0101.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="102"/>
+<head rend="h3">Invia amanti nvlla est via.</head>
+<p><note place="margin"><hi rend="i">1. Para. 16.</hi></note>Quaerite Dominum &amp; virtutem eius, quaerite faciem eius semper.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Psal. 17. Aug. ibid.</hi></note>Perfecit pedes meos tanquam ceruorum. quia dederat amorem sanctum ad transcendenda omnia spinosa &amp; vmbrosa implicamenta huius vitae.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Prosper de vita conte</hi>m<hi rend="i">.</hi></note>Charitas quae ex Deo est illos stabiles facit ac insuperabiles, quos flumine voluptatis suae impleuerat.</p>
+<lg type="poem"><l>Los pasos de Amor de Dios</l>
+<l>Deues seguir de contino,</l>
+<l>Porque sin Dios no ay camino.</l>
+</lg><table>
+<row><cell>Gheen wech hoe onghebaent, oft quaet</cell><cell><hi rend="i">Les bois, le desert plus sauuage,</hi></cell></row>
+<row><cell>De ziel verlieft beswaert kan maken,</cell><cell><hi rend="i">Les torrens, &amp; mesme la mer,</hi></cell></row>
+<row><cell>Seer licht sy middel vinden gaet</cell><cell><hi rend="i">n'Empescheront pas le passage</hi></cell></row>
+<row><cell>Om by haer liefste te gheraken:</cell><cell><hi rend="i">A celui qui veut bien aymer:</hi></cell></row>
+<row><cell>Gheen bosschen wilt, noch gheen riuier,</cell><cell><hi rend="i">Ainsi voyez vous que ceste ame,</hi></cell></row>
+<row><cell>Gheen woeste zee, noch snelle stromen,</cell><cell><hi rend="i">Qui cherchant Dieu, trauerse l'eau,</hi></cell></row>
+<row><cell>Ia selfs de doot sy niet een sier</cell><cell><hi rend="i">Se sert de l'arcq d'amour pour rame,</hi></cell></row>
+<row><cell>En acht, om by haer lief te komen.</cell><cell><hi rend="i">Et a son carquois pour vaisseau.</hi></cell></row>
+</table>
+<pb n="103"/>
+<figure><p><xptr to="vaen001amor02ill0103.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="104"/>
+<head rend="h3">Animae sal est amor.</head>
+<p>Vt sal optimum humanae vitae est condimentum: ita omnia dulcorat atque conseruat Amor Diuinus.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Sancti iucundiùs &amp; laetiùs prae amore veritatis torquentur, quàm luxuriosi prae cupiditate vanitatis epulentur.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Petrarc. de poeniten. Magdalen.</hi></note>Namque famem, frigus, durum quoque saxa cubile, Dulcia fecit Amor, spesq́ue alto pectore fixa.</p>
+<lg type="poem"><l>Amor y sal son dos cosas</l>
+<l>Que fuera de dar sazon</l>
+<l>Preseruan de corrupçion.</l>
+</lg><table>
+<row><cell>Het sout dat heeft alsulcken aert,</cell><cell><hi rend="i">Le sel conserue la viande</hi></cell></row>
+<row><cell>Dat het gheen dingh en laet bederuen,</cell><cell><hi rend="i">Et meslé auecques, la faict</hi></cell></row>
+<row><cell>Godts liefd' ons ziele me bewaert,</cell><cell><hi rend="i">Plus delicate &amp; plus friande,</hi></cell></row>
+<row><cell>Beurijdt ons dat wy niet en steruen:</cell><cell><hi rend="i">Que de sa nature elle n'est.</hi></cell></row>
+<row><cell>De liefde Godts is t'rechte sout,</cell><cell><hi rend="i">l'Amour diuin de mesme sorte,</hi></cell></row>
+<row><cell>Dat al wat heeft ontfanghen leuen</cell><cell><hi rend="i">Nous munit &amp; garde le coeur,</hi></cell></row>
+<row><cell>Het door sijn crachten onderhout,</cell><cell><hi rend="i">Et aux bonnes oeuures apporte</hi></cell></row>
+<row><cell>En inde doot niet en laet sneuen.</cell><cell><hi rend="i">Vn goust plus solide &amp; meilleur.</hi></cell></row>
+</table>
+<pb n="105"/>
+<figure><p><xptr to="vaen001amor02ill0105.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="106"/>
+<head rend="h3">Odit timorem.</head>
+<p><note place="margin"><hi rend="i">Aug. in ep. Ioann. &amp; habetur de poenit. dist. 2. cap. sicut.</hi></note>Sicut seta introducit filum: ita timor introducit amorem. crescit amor, minuitur timor.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Cassiod. in Psalm. 44.</hi></note>Humanus timor diffidentiam tribuit: diuinus autem spei firmamentum concedit.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Tanto minor fit timor, quanto patria, quò tendimus, propior: maior enim timor debet esse peregrinantium, minor propinquantium, nullus peruenientium; sic &amp; timor perducit ad charitatem, &amp; perfecta charitas foras mittit timorem.</p>
+<lg type="poem"><l>Huye la noche del dia,</l>
+<l>Y al fugitiuo tremor</l>
+<l>De los rayos del Amor.</l>
+</lg><table>
+<row><cell>Ghelijckmen siet dat eenen draet</cell><cell><hi rend="i">Le poil du porcq (chose exemplaire)</hi></cell></row>
+<row><cell>Wert met een borstel voort ghetoghen,</cell><cell><hi rend="i">Meine le fil dans le soulier,</hi></cell></row>
+<row><cell>Soo oock de vrees' inleyden gaet</cell><cell><hi rend="i">Et puis on le iette en arriere</hi></cell></row>
+<row><cell>De liefd' hoe wel meer van vermoghen,</cell><cell><hi rend="i">Le soulier estant faict entier.</hi></cell></row>
+<row><cell>En als de vrees' sijn wercken staeckt,</cell><cell><hi rend="i">Ainsi la crainte dans nostre ame</hi></cell></row>
+<row><cell>Wert sy van liefde wech ghedreuen,</cell><cell><hi rend="i">Faict glisser l'amour poinct à poinct,</hi></cell></row>
+<row><cell>Die sich alleen dan meester maeckt,</cell><cell><hi rend="i">Et peu apres cét amour mesme</hi></cell></row>
+<row><cell>En sonder vreese wel kan leuen.</cell><cell><hi rend="i">En chasse la crainte bien loing.</hi></cell></row>
+</table>
+<pb n="107"/>
+<figure><p><xptr to="vaen001amor02ill0107.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="108"/>
+<head rend="h3">Amoris felicitas.</head>
+<p><note place="margin"><hi rend="i">Hieron. epist. ad Demetr.</hi></note>Felix conscientia illa &amp; beata virginitas, in cuius corde praeter amorem Christi qui est sapientia, castitas, patientia, atque iustitia, caeteraeq́ue virtutes, nullus alius versatur amor, nec ad recordationem hominis aliquando suspirat, nec videre desiderat.</p>
+<p><note place="margin"><hi rend="i">August. in confession.</hi></note>Beatus qui te, Domine, amat, &amp; amicum in te, &amp; inimicum propter te; solus enim nullum charum amittit, cui omnes in illo chari sunt, qui non amittitur.</p>
+<p><note place="margin"><hi rend="i">Ibidem.</hi></note>Non est aliquid Domine tua charitate blandius, nec amatur quicquam salubrius, quàm illa prae cunctis formosa, &amp; luminosa veritas tua.</p>
+<lg type="poem"><l>Dichoso aquel que Dios ama,</l>
+<l>Porque tener charidad</l>
+<l>Es suma felicidad.</l>
+</lg><table>
+<row><cell>Alsulcke ziel gheluckich is</cell><cell><hi rend="i">Quand quittans ce qui est des hommes</hi></cell></row>
+<row><cell>En sulcken mensch van herten reyne,</cell><cell><hi rend="i">Nous n'auons l'amour que des cieux,</hi></cell></row>
+<row><cell>De welcke gheen beweghenis</cell><cell><hi rend="i">c'Est à ceste heure que nous sommes</hi></cell></row>
+<row><cell>En crijght, dan door Godts liefd' alleyne,</cell><cell><hi rend="i">Vrayement amoureux &amp; heureux.</hi></cell></row>
+<row><cell>Die wijsheydt is, en ware deucht:</cell><cell><hi rend="i">Car tant qu'il y reste l'idée</hi></cell></row>
+<row><cell>Want die noch sucht in sijn ghedachten</cell><cell><hi rend="i">De quelque chose de terrien,</hi></cell></row>
+<row><cell>Na eenich mensch, of s'weerelts vreucht,</cell><cell><hi rend="i">d'Autant nostre ame est retardée</hi></cell></row>
+<row><cell>En machmen niet gheluckich achten.</cell><cell><hi rend="i">Du goust de son souuerain bien.</hi></cell></row>
+</table>
+<pb n="109"/>
+<figure><p><xptr to="vaen001amor02ill0109.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="110"/>
+<head rend="h3">Conscientia testis.</head>
+<p><note place="margin"><hi rend="i">August. in psalm. 64.</hi></note>Duas ciuitates duo faciunt amores: Hierusalem facit amor Dei, Babylonem amor saeculi. Interroget igitur se vnusquisque quid amet, &amp; inueniet vbi sit ciuis.</p>
+<p><note place="margin"><hi rend="i">Fulgent.</hi></note>Vbi est thesaurus tuus, ibi est &amp; cor tuum. vis nosse vbi est thesaurus tuus? attende quid ames. vis nosse quid ames? attende quid cogites. hoc est enim, vbi est thesaurus tuus.</p>
+<p><note place="margin"><hi rend="i">Leo:</hi></note>Qui experiri cupit an in ipso Deus habitet, praecipuè ipsam matrem virtutum omnium charitatem in secretis suae mentis inquirat, &amp; si in ea dilectionem Dei &amp; proximitoto corde repererit, Deum &amp; rectorem &amp; habitatorem sui esse non dubitet.</p>
+<lg type="poem"><l>Tu conçiençia te dira</l>
+<l>Que voluntad te contrasta,</l>
+<l>Si es deshonesta o casta.</l>
+</lg><table>
+<row><cell>Twee liefden hebben opghericht</cell><cell><hi rend="i">Deux amours d'vne main feconde</hi></cell></row>
+<row><cell>Twee steden op verscheyden weghen,</cell><cell><hi rend="i">Ont chacun basty leur cité,</hi></cell></row>
+<row><cell>Ierusalem Godts liefde sticht,</cell><cell><hi rend="i">Babylone l'amour du monde,</hi></cell></row>
+<row><cell>En Babel s'weerelts liefd' daer teghen:</cell><cell><hi rend="i">Hierusalem la charité.</hi></cell></row>
+<row><cell>Elck ondersoeck hem in sijn gront,</cell><cell><hi rend="i">Or si tu n'as pas cognoissance</hi></cell></row>
+<row><cell>Wat liefde heeft sijn ziel beseten,</cell><cell><hi rend="i">Du lieu ou demeurer tu doiz,</hi></cell></row>
+<row><cell>Waer dat hy borgher is terstont,</cell><cell><hi rend="i">Tu scauras de ta conscience,</hi></cell></row>
+<row><cell>Sal hy daer door voor seker weten.</cell><cell><hi rend="i">De laquelle tu es bourgeois.</hi></cell></row>
+</table>
+<pb n="111"/>
+<figure><p><xptr to="vaen001amor02ill0111.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="112"/>
+<head rend="h3">Svperbiam odit.</head>
+<p><note place="margin"><hi rend="i">1. Cor. 13.</hi></note>Amor non inflatur, non est ambitiosus, omnia suffert.</p>
+<p><note place="margin"><hi rend="i">August.</hi></note>Cùm dixisset Apostolus, Charitas non aemulatur, velut si causam quaereremus, vnde fiat, vt non aemuletur; continuo subdit, Non inflatur, quasi dicat: ideo non habet inuidentiam, quia nec superbiam.</p>
+<p><note place="margin"><hi rend="i">Idem de verb. Dom.</hi></note>Vbi erat illa aedificans charitas? à fundamento humilitatis, quod est Christus Iesus.</p>
+<p><note place="margin"><hi rend="i">Prosper de vita conte</hi>m<hi rend="i">.</hi></note>Charitas &amp; humilitas in nullo ab inuicem diuiduntur, &amp; ambarum tam indiscreta connexio est, vt qui in vna earum construitur, simul vtraque potiatur.</p>
+<p><note place="margin"><hi rend="i">Max. serm. de cogn. sui.</hi></note>Memor naturae nunquam superbies. memor autem eris ipsius, si teipsum obserues.</p>
+<lg type="poem"><l>Amor pisa la soberuia,</l>
+<l>Que quanto mas soberano,</l>
+<l>Tanto tiene mas de humano.</l>
+</lg><table>
+<row><cell>De ziel vol liefde haer verblijdt</cell><cell><hi rend="i">Amour, me voice resolue</hi></cell></row>
+<row><cell>In nederheyt, en soeckt te wesen</cell><cell><hi rend="i">De suiure en ce monde res pas,</hi></cell></row>
+<row><cell>Tot andren wil en nut altijdt,</cell><cell><hi rend="i">Et pource foulant ceste queue,</hi></cell></row>
+<row><cell>En door haer dienst te zijn ghepresen,</cell><cell><hi rend="i">i'Aime mieux demeurer en-bas:</hi></cell></row>
+<row><cell>De hoouaerdy de pauwensteert</cell><cell><hi rend="i">Et de chasser tousiours arriere</hi></cell></row>
+<row><cell>Veracht, en treedt sy met de voeten,</cell><cell><hi rend="i">Ceste image de vanité,</hi></cell></row>
+<row><cell>d'Ootmoedicheyt die ruste baert,</cell><cell><hi rend="i">Aussi la vertu la premiere,</hi></cell></row>
+<row><cell>Wy bouen al begheeren moeten.</cell><cell><hi rend="i">Est celle-la d'humilité.</hi></cell></row>
+</table>
+<pb n="113"/>
+<figure><p><xptr to="vaen001amor02ill0113.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="114"/>
+<head rend="h3">Sollicitvs est.</head>
+<p><note place="margin"><hi rend="i">Psalm. 118.</hi></note>Reuela oculos meos, &amp; considerabo mirabilia de lege tua.</p>
+<p><note place="margin"><hi rend="i">Ioan. 5.</hi></note>Scrutamini scripturas.</p>
+<p><note place="margin"><hi rend="i">Gregor. in prol. Mor.</hi></note>Scriptura sancta mentis oculis quasi speculum quoddam opponitur, vt ibi interna facies nostra videatur. ibi enim foeda, ibi pulchra nostra conspicimus; ibi sentimus quantum proficimus, quantumue à profectu longè distamus.</p>
+<p><note place="margin"><hi rend="i">Hier. epist. ad Damas.</hi></note>Vtere lectione diuina vice speculi, foeda corrigendo, pulchra conseruando, &amp; pulchriora faciendo: scriptura enim speculum est, foeda ostendens &amp; corrigi docens.</p>
+<lg type="poem"><l>No tiene pereza Amor</l>
+<l>En las cosas de virtud,</l>
+<l>Que es al la solicitud.</l>
+</lg><table>
+<row><cell>Den spieghel is een groot gherief</cell><cell><hi rend="i">Telle qu'est la façon des femmes,</hi></cell></row>
+<row><cell>Voor de ghehoude vrous manieren,</cell><cell><hi rend="i">Pour plus proprement se coiffer,</hi></cell></row>
+<row><cell>Die om haer mans te wesen lief</cell><cell><hi rend="i">Telle soit celle de noz ames</hi></cell></row>
+<row><cell>Daer inne siet om haer te cieren:</cell><cell><hi rend="i">A plus sainctement s'attifer.</hi></cell></row>
+<row><cell>Ons ziel in't Euangeli moet</cell><cell><hi rend="i">Celles là pour aux hommes plaire</hi></cell></row>
+<row><cell>Als in een spieghel haer aenschouwen,</cell><cell><hi rend="i">Se regardent dans le miroir:</hi></cell></row>
+<row><cell>Op dat sy suyuer schoon en goet</cell><cell><hi rend="i">Et nous pour à Dieu satisfaire,</hi></cell></row>
+<row><cell>Van Godt in liefde wert ghehouwen.</cell><cell><hi rend="i">Nous debuons en amour nous veoir.</hi></cell></row>
+</table>
+<pb n="115"/>
+<figure><p><xptr to="vaen001amor02ill0115.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="116"/>
+<head rend="h3">Sine amore mors.</head>
+<p><note place="margin"><hi rend="i">1. Ioan. 3.</hi></note>Qui non diligit manet in morte; omnis qui odit fratrem, homicida est, &amp; scitis quoniam omnis homicida non habet vitam aeternam in se manentem.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. in Psalm. 54.</hi></note>Formido mortis cecidit super me: Mortem vocat Propheta odium fraternum, vita enim nostra dilectio est. si vita dilectio, mors odium est. cùm coeperit homo timere ne oderit quem diligebat, mortem timet; &amp; acriorem morten, &amp; interiorem, qua occiditur anima non corpus.</p>
+<lg type="poem"><l>Amor es vida del alma,</l>
+<l>Y a quien falta charidad,</l>
+<l>Por defunto la contad.</l>
+</lg><table>
+<row><cell>In't rechte wesen vande doot</cell><cell><hi rend="i">Ceste figure signifie,</hi></cell></row>
+<row><cell>De mensch sal moeten blijuen legghen,</cell><cell><hi rend="i">Que qui recoit l'amour diuin,</hi></cell></row>
+<row><cell>Die Godts liefde van hem stoot,</cell><cell><hi rend="i">Possede &amp; iouit de la vie,</hi></cell></row>
+<row><cell>Noch daer van niet wil hooren segghen:</cell><cell><hi rend="i">Ie dis, d'vne vie sans fin.</hi></cell></row>
+<row><cell>De liefde t'rechte leuen gheeft,</cell><cell><hi rend="i">Et qu'au rebours l'ame infidelle,</hi></cell></row>
+<row><cell>Den haet en nijdt baert ons het steruen,</cell><cell><hi rend="i">Laquelle ne loge l'amour,</hi></cell></row>
+<row><cell>Gheluckich die de liefde heeft,</cell><cell><hi rend="i">Souffre vne mort continuelle,</hi></cell></row>
+<row><cell>Die t'eeuwich leuen doet beeruen.</cell><cell><hi rend="i">Et ne peut pas viure vn seul iour.</hi></cell></row>
+</table>
+<pb n="117"/>
+<figure><p><xptr to="vaen001amor02ill0117.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="118"/>
+<head rend="h3">Par pari.</head>
+<p><note place="margin"><hi rend="i">Bernard.</hi></note>Deus se tibi, tu te Deo.</p>
+<p><note place="margin"><hi rend="i">August. de catechiz. rudib.</hi></note>Ama amorem illius qui amore tui descendit in vterum Virginis, &amp; ibi amorem suum amori tuo copulauit, humiliando se, sublimando te, coniungendo lumen suae aeternitatis limo tuae mortalitatis.</p>
+<p><note place="margin"><hi rend="i">Emissen. homil. 1. de symbol.</hi></note>Intellige illius esse totum, cuius caelo tegeris, cuius terrae gremio contineris, &amp; c. qui post tanta seipsum tibi dedit.</p>
+<p><note place="margin"><hi rend="i">Bernard. in Cant.</hi></note>Dilectus meus mihi, &amp; ego illi; ille intendit meae liberationi, ego illius honori; ille saluti meae, ego illius voluntati: ille mihi &amp; non alteri, quia vna sum columba eius, ego illi &amp; non alteri; nec enim audio vocem alienorum.</p>
+<lg type="poem"><l>Pues que Dios se da a ti,</l>
+<l>Da te tu tambien a Dios,</l>
+<l>Y pagareis os los dos.</l>
+</lg><table>
+<row><cell>Hebt lief die hier int aertsche dal</cell><cell><hi rend="i">Aimons celui qui voulut naistre</hi></cell></row>
+<row><cell>Ghecomen is om uwen t'willen,</cell><cell><hi rend="i">Tant seulement pour nous cherir,</hi></cell></row>
+<row><cell>En heeft voldaen voor Adams val,</cell><cell><hi rend="i">Aimons qui dans ce val terrestre</hi></cell></row>
+<row><cell>En Godts gramschap connen stillen:</cell><cell><hi rend="i">(Pour nous aymer) voulut mourir.</hi></cell></row>
+<row><cell>In t'lichaem van een Maghet reyn</cell><cell><hi rend="i">Aimons, aimons, donc par echange,</hi></cell></row>
+<row><cell>Met ons sijn liefd' hy heeft ghebonden,</cell><cell><hi rend="i">Celui qui pour nous tant voulut,</hi></cell></row>
+<row><cell>Wy werden groot, en hy wert cleyn,</cell><cell><hi rend="i">Et embrassons tous sa louange,</hi></cell></row>
+<row><cell>Wie sal de liefde Godts doorgronden?</cell><cell><hi rend="i">Comme luy faict nostre salut.</hi></cell></row>
+</table>
+<pb n="119"/>
+<figure><p><xptr to="vaen001amor02ill0119.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="120"/>
+<head rend="h3">Virtvtvm fons est et scatvrigo.</head>
+<p><note place="margin"><hi rend="i">August. in epist. Ioan. cap. 7.</hi></note>Si non vultis in ista eremo siti mori, bibite charitatem, fons est quem voluit Deus ponere ne deficiamus. Adhaere ergo &amp; inhaere, si sempiternus gustus fuerit, sempiterna quoque beatitudo erit.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Prosper.</hi></note>Charitas salus morum est, mors criminum, vita virtutum, virtus pugnantium, anima sanctarum mentium, causa meritorum bonorum.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. de laude charitas.</hi></note>Charitas anima literarum, prophetiae virtus, sacramentorum salus, sapientiae stabilimentum, fidei fructus, diuitiae pauperum, vita morientium.</p>
+<lg type="poem"><l>Qualquiera de las virtudes</l>
+<l>Su origen del amor tiene,</l>
+<l>Como de fuente perene.</l>
+</lg><table>
+<row><cell>Godts liefde goetheyts oorsponck is,</cell><cell><hi rend="i">l'Amour est la source feconde,</hi></cell></row>
+<row><cell>En alder deuchden schoon fonteyne:</cell><cell><hi rend="i">Dont la vertu vient à saillir,</hi></cell></row>
+<row><cell>Ghy ziel in s'weerelts wildernis</cell><cell><hi rend="i">Or si toy viuant en ce monde</hi></cell></row>
+<row><cell>Drinckt van dees ader al ghemeyne:</cell><cell><hi rend="i">Ne veux par la soif defaillir,</hi></cell></row>
+<row><cell>Dit water Godt hier stralen doet,</cell><cell><hi rend="i">Il fault là, qu'à grandz traictz tu boyue,</hi></cell></row>
+<row><cell>Als wy in't voortgaen zijn onmachtich,</cell><cell><hi rend="i">Et là rafrechisse ton coeur,</hi></cell></row>
+<row><cell>Om onse ziel, en ons ghemoet</cell><cell><hi rend="i">Afin qu'en aimant tu recoyue</hi></cell></row>
+<row><cell>Te maken door de deuchden crachtich.</cell><cell><hi rend="i">Plus de force &amp; plus de vigeur.</hi></cell></row>
+</table>
+<pb n="121"/>
+<figure><p><xptr to="vaen001amor02ill0121.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="122"/>
+<head rend="h3">Vivet ad extremvm.</head>
+<p><note place="margin"><hi rend="i">1. Cor. 13.</hi></note>Charitas nunquam excidit.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Matth. 10.</hi></note>Qui perseuerauerit vsque in finem, hic saluus erit.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Prouer. 13.</hi></note>Omni tempore diligit qui verè amans est.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Bernar. in epist.</hi></note>Tene quod habes, videlicetamorem, hostiaeq́ue caudam iunge capiti, ac tunicam iam Dei gratia polymitam, cura facere talerem: quoniam coepisse nihil proderit, si (quod absit) non perseuerare contigerit.</p>
+<lg type="poem"><l>Amor es de larga vida,</l>
+<l>Y mas si el sujeto es tal,</l>
+<l>Que causa vida immortal.</l>
+</lg><table>
+<row><cell>Alsmen een lont onsteken gaet,</cell><cell><hi rend="i">Voyez ceste mesche allumée</hi></cell></row>
+<row><cell>Sy sal tot aen het eynde branden,</cell><cell><hi rend="i">Laquelle brusle icy pour tout,</hi></cell></row>
+<row><cell>Het vier haer nimmermeer verlaet,</cell><cell><hi rend="i">Et tant qu'elle soit consummée,</hi></cell></row>
+<row><cell>Soo langh daer yet van is voor handen:</cell><cell><hi rend="i">Ne s'estaindra iusques au bout:</hi></cell></row>
+<row><cell>De liefd' een eyghenschap oock heeft,</cell><cell><hi rend="i">c'Est ainsi qu'il fault que nostre ame</hi></cell></row>
+<row><cell>Als s'menschen ziel hy heeft onsteken,</cell><cell><hi rend="i">s'Embraise de l'amour diuin,</hi></cell></row>
+<row><cell>Sijn vier altijdt ghestadich leeft,</cell><cell><hi rend="i">Et conserue à iamais sa flamme,</hi></cell></row>
+<row><cell>Sijn cracht sal nimmermeer ontbreken.</cell><cell><hi rend="i">Iusques à l'heure de sa fin.</hi></cell></row>
+</table>
+<pb n="123"/>
+<figure><p><xptr to="vaen001amor02ill0123.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="124"/>
+<head rend="h3">Finis amoris vt dvo vnvm fiant.</head>
+<p><note place="margin"><hi rend="i">Ioan. 17.</hi></note>Pro omnibus rogo, qui in me credituri sunt, vt in me vnum sint; sicut ego in te Pater, &amp; tu in me vnum sumus.</p>
+<p><note place="margin"><hi rend="i">August. in meditat.</hi></note>Da mihi te Deus meus, redde mihi te. Te enim amo, &amp; si parum est, amorem validiùs non possum metiri, vt sciam quantum desit mihi amoris ad id quod satis est, vt currat vita mea in amplexus tuos.</p>
+<p><note place="margin"><hi rend="i">Bonauent.</hi></note>Ratio quare charitas excellentior sit alijs, est quia maximè efficit nos Deiformes, ratione conformis vnionis. quoniam sicut pater &amp; filius nectuntur nexu amoris &amp; vniuntur: sic homo per charitatem adhaerendo Deo efficitur vnus spiritus.</p>
+<lg type="poem"><l>La verdadera amistad</l>
+<l>Tiene por mas perfecçion</l>
+<l>Dos cuerpos y vn coraçon.</l>
+</lg><table>
+<row><cell>Het wterst' eynde al waer na tracht</cell><cell><hi rend="i">Le but que cherchent &amp; que tiennent</hi></cell></row>
+<row><cell>De suyuer ziel met haer begheeren,</cell><cell><hi rend="i">Les espritz vrayement amoureus,</hi></cell></row>
+<row><cell>Dats niet het gheen de weerelt acht,</cell><cell><hi rend="i">Est que tous deux en vn deuiennent,</hi></cell></row>
+<row><cell>Om alles hier te sien vermeeren,</cell><cell><hi rend="i">Et que chacun deuienne deux,</hi></cell></row>
+<row><cell>Maer met haer lief te werden een:</cell><cell><hi rend="i">Donc aimons Dieu, puis qu'il nous aime,</hi></cell></row>
+<row><cell>Want ware liefde doet verandren</cell><cell><hi rend="i">Et qu'à luy pouuons nous vnir,</hi></cell></row>
+<row><cell>Twee zielen t'samen in het gheen</cell><cell><hi rend="i">Puis (di-ie) que nostre esprit mesme</hi></cell></row>
+<row><cell>Dat sy beminnen met malkandren.</cell><cell><hi rend="i">(En l'aimant) Dieu veut deuenir.</hi></cell></row>
+</table>
+<pb n="125"/>
+<figure><p><xptr to="vaen001amor02ill0125.gif"/></p></figure>
+<pb n="126"/>
+<p><note place="margin"><hi rend="i">Rom. 13.</hi></note>Plenitvdo legis est.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">1. Tim. 1.</hi></note>Finis autem praecepti est charitas, de corde puro, &amp; conscientia bona, &amp; fide non ficta.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">August. de laude charitat.</hi></note>Quod latet &amp; quod patet in diuinis sermonibus, tenet, qui charitatem seruat in moribus.</p>
+<p>&nbsp;</p>
+<p><note place="margin"><hi rend="i">Idem.</hi></note>Finis praecepti est Charitas. Quo perficiuntur praecepta, non quo consumuntur. finitur cibus, vt non sit; finitur tunica quae texebatur vt perfecta sit. non sic ergo finis praecepti dixit, quo quasi pereant praecepta, sed quo perficiantur; &amp; consummentur, non consumantur.</p>
+<lg type="poem"><l>Si Dios es el mismo Amor,</l>
+<l>Quien ama mas a este Rey,</l>
+<l>Cumple mejor con su ley.</l>
+</lg><table>
+<row><cell>De liefd' is t'eynde vande wet,</cell><cell><hi rend="i">Au dernier, cét Amour (mon ame)</hi></cell></row>
+<row><cell>En oock de volheyt der schrifturen,</cell><cell><hi rend="i">Est le but &amp; fin de la loy,</hi></cell></row>
+<row><cell>Een ware ziel met goet opset</cell><cell><hi rend="i">Car celuy qui purement ayme,</hi></cell></row>
+<row><cell>Sal blijuen inde liefde dueren:</cell><cell><hi rend="i">Comprend Dieu &amp; ses loix en soy,</hi></cell></row>
+<row><cell>Van liefde gheeft ghetuyghenis</cell><cell><hi rend="i">Reste de l'aymer &amp; le suiure</hi></cell></row>
+<row><cell>t'Ghelooue met de goede wercken,</cell><cell><hi rend="i">Auec entiere affection,</hi></cell></row>
+<row><cell>Oft onse liefde godlijck is,</cell><cell><hi rend="i">Laquelle commença ce liure,</hi></cell></row>
+<row><cell>Is hier alleen aen te bemercken.</cell><cell><hi rend="i">Et en est la conclusion.</hi></cell></row>
+</table>
+<pb n="127"/>
+    <figure><p><xptr to="vaen001amor02ill0127.gif"/></p></figure>
+</div>
+<div type="chapter">
+<pb n="128"/>
+<head rend="h3">Censvra.</head>
+<p>Haec Diuini Amoris Emblemata, arte &amp; penicillo <hi rend="sc">Othonis Vaeni</hi> delineata, ab eodem inuenta, &amp; Scripturae Patrumq́ue testimonijs illustrata, quòd admirandos Amoris eiusdem in anima effectus in imagine repraesentent, &amp; spectatores ad eundem toto conatu sectandum, constanterq́ue tenendum inflamment, dignissima luce &amp; typis iudicaui, hac <hi rend="sc">xxvii.</hi> Ianuarij, Anni <hi rend="sc">mdcxv.</hi></p>
+<p>&nbsp;</p>
+    <p><hi rend="i">Laurentius Beyerlinck S. Theol. Licent. Archipresbyter Ciuitatis &amp; Districtus Antuerp. Librorumq́<hi rend="sub">3</hi> Censor.</hi></p>
+</div>
+<div type="chapter">
+<head rend="h3">Svmma privilegii.</head>
+<p><hi rend="i">Pontificio, Caesareo, Regum Hispaniae &amp; Galliae ac Serenissimorum Belgicae Principum priuilegio cautum est, ne quis haec </hi>Amoris Diuini Emblemata, <hi rend="i">aut alia Auctoris opera, quoquo modo imitetur, ni decem marcarum auri persoluendarum poenam velit incurrere.</hi></p>
+
+</div>
+</body>
+</text>
+</TEI.2>

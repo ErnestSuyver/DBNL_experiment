@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Refereynboek ofte nieuwe wandeldreve, voor de jongheyd</title>
+                
+                <author>François Foret</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Refereynboek ofte nieuwe wandeldreve, voor de jongheyd</hi> van François Foret in de eerste druk uit 1667.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>Een deel van de tekst is moeilijk leesbaar. Dat is steeds tussen vierkante haken aangevuld.</corr>
+                        <corr>fol. C2r: Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken aangevuld met behulp van een later druk, Gent UB, signatuur: A 27745.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">fore024refe01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Gent, signatuur: ACC.012009/1</idno>
+                </bibl>
+                <p>François Foret, <hi rend="i">Refereynboek ofte nieuwe wandeldreve, voor de jongheyd</hi>. Cornelis Meyer, Gent 1667</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Refereynboek ofte nieuwe wandeldreve, voor de jongheyd</title>
+                <title type="subordinate"></title>
+                <author>François Foret</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Refereynboek ofte nieuwe wandeldreve, voor de jongheyd</title>
+                <title type="subordinate"></title>
+                <author>François Foret</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-07-16</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <cf><div type="chapter">
+<pb n="A1r"/>
+<p>[Re]fereynboek ofte nieuwe </p>
+<p>[w]andeldreve,</p>
+<p>[v]oor de jonkheyd</p>
+<p>[Beplan]t met vele verscheyde jonge spruyten van</p>
+<p>[gee]stelyke Refereynen en Liedekens,</p>
+<p>[nie]uwelijks gemaakt door </p>
+<p>[Fr]ancois Foret.</p>
+<p>[vignet]</p>
+<p>Tot Gend, </p>
+<p>[By Cor]nelis Meyer, op d'Hoogpoorte in 't</p>
+<p>gekroond Zweird.</p>
+        </div></cf>
+<div type="chapter">
+<pb n="A1v"/>
+<head rend="h3">[Komt myn' vrienden wys beraeden] </head>
+    <lg type="poem"><l>Komt myn' vrienden wys beraeden</l>
+        <l>En doorsnuffelt deze bladen,</l>
+<l>Wilt eens zien wat het besluit,</l>
+<l>Leert'er dan het beste uyt.</l>
+<l>Dit is 't dat ik kom' te wenschen,</l>
+<l>Maer ik zien als dat veel meschen</l>
+<l>Zeggen 't is niet na mijn zin,</l>
+<l>Nochtans steekt' er leering in.</l>
+<l>Dit doet my van droefheyd klaegen</l>
+<l>Om dat ik niet kan vedraegen,</l>
+<l>Dat den mensch bedorven leeft,</l>
+<l>En niet voor Gods gramschap beeft,</l>
+<l>Och dat ik doch ieds kost maken,</l>
+<l>Dat het meschens hert mogt raeken</l>
+<l>Maer myn meeste herten leed</l>
+<l>Is dat ik hun zin niet weet.</l>
+</lg></div>
+<div type="chapter">
+<pb n="A2r"/>
+<head rend="h3">Refereyn</head>
+<head rend="h4">Van de bodschap van den Engel, die MARIA verkondigde haere aanstaende Ontfangenisse van den Zone des Alderhoogsten.<lb/>
+Het Woord is Vleesch geworden, uyt eene MAEGD geboren.</head>
+
+<lg type="poem"><l>Naer dat den eersten mensch, en onzer aller Vader] </l>
+<l>En wy eylaes in hem, en hij in allegader</l>
+<l>Was nu uyt zijn geluk gebannen en verjaegd,</l>
+<l>Dat ider noch gevoelt, dat ider noch beklaegt,</l>
+<l>Dan wierd van God bestemt dat naer vier duyzend jaeren,</l>
+<l>Het Woord zoud worden Mensch om den mensch te bewaeren:</l>
+<l>Verlichten weer zyn beeld, dat laes den duyvel had</l>
+<l>Zoo grouwelijk besmeurt, zoo schandelijk beklad,</l>
+<l>Hy zend een Engel af, een Prins van d'aldermeeste</l>
+<l>Gekozen uyt den Choor van zoo veel duyzend Geesten;</l>
+<l>Tot eene jonge Maegd geleerd in Moyses</l>
+<l>Die op den zelven tijd was bezig in 't gebed;</l>
+<l>En zeyd' die is myn Bruyd, en gaet aen haer verkonden,</l>
+<l>Dat zy voor myne oog' heeft gratie gevonden,</l>
+<l>Zegt dat zy is de Maegd waer uyt het eeuwig Woord,</l>
+<l>Vereenigd met het vleesch God Mensch zal komen voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Den Vorst quam brengen af de blydschap aller volken] </head>
+<lg type="poem"><l>Den Vorst quam brengen af de blydschap aller volken</l>
+<l>Quam snyden door de locht, quam dryven op de wolken,</l>
+<pb n="A2v"/>
+<l>Quam daelen op de aerd', en heeft zijn voet geplant</l>
+<l>In Abrahams geslacht, in 't Nazarethsche land.</l>
+<l>De aerde teelde voord terstond veel lauwerieren,</l>
+<l>En ging haer dorre krans met Lelien versieren</l>
+<l>Alwaer den bode stond, alwaer zu na zyn keer</l>
+<l>En dan een zilv're maen viel op der aerden neer.</l>
+<l>Den hemel bersten op, men zag val alle kanten</l>
+    <l>Gaen zwerme<hi rend="i">n</hi> onder een veel hemelsche gezante<hi rend="i">n</hi>,</l>
+<l>Zy zwierden door de locht, zij zongen al te saem</l>
+<l>Jehova eeuwig God, gegroet zy uwen Naem.</l>
+<l>d'Oud-Vaders waeren noch in hun treurig verlangen</l>
+<l>Om ens dien blyden dag die blyde maer t'ontvangen,</l>
+<l>Ik zegg'dien blyden dag waer in het eeuwig woord,</l>
+<l>Uyt eene zuyv're Maegd, maer Mensch zal komen voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Den grooten Prins gaet voord, en laet zyn' gulde straelen] </head>
+<lg type="poem">
+    <l>Den grooten Prins gaet voord, en laet zyn' gulde straelen</l>
+    <l>Nu vliegen om en d' om nu voor zyn'voeten daelen</l>
+<l>Zyn gouden kleed sleept naer, vol koninglyke pracht:</l>
+<l>Vol sterren van de locht, vol vonken van den nacht.</l>
+<l>Verblyd u Adams zaed, God komt uw' schuld verzoenen,</l>
+<l>Zyn' boden staen bereyd om d'intrede te doene</l>
+<l>Waer door Avernus magt, zal worden gansch belet</l>
+<l>En 't hoofd van 't helsch serpent in stukken word geplet.</l>
+<pb n="A3r"/>
+<l>Hy treed tot in de deur', en let eer voorder komen,</l>
+<l>Op Gods werk, en dees Maegd die hem bragten tot schroomen.</l>
+<l>Hy buygt zig tot'er aerd'met nederig gemoed</l>
+<l>Een heeft Gods weirde Bruyd met groot oodmoed gegroet.</l>
+<l>Vol gratie zyt gy uyt Jesse stam gerezen</l>
+    <l>Goedaerdige Princess gy zult de Moeder weze<hi rend="i">n</hi></l>
+<l>Van uwen eygen Heer des Vaders eeuwig Woord,</l>
+<l>In u zal worden Vleesch, maer Mensch zal komen voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[De Maegd wierd zeegbaer rood als zy den Engel hoorde] </head>
+<lg type="poem">
+    <l>De Maegd wierd zeegbaer rood als zy den Engel hoorde,</l>
+    <l>Door Maegdelyke schaemt' verbaesd in deze woorde.</l>
+<l>Haer wang wierd als de locht, die in het purper staet</l>
+<l>Wanner de gulde zonn' des avonds onder gaet.</l>
+<l>Zy rekent by haer zelf, en gaet op alles letten,</l>
+<l>Den tyd van Christus komt, bestemd door zoo veel wetten.</l>
+<l>Zy overlegt het al, zy dacht in haer verstand,</l>
+<l>Wat is dit voor een werk en wie is den Gezant.</l>
+    <l>Hoe zal dit konne<hi rend="i">n</hi> zyn, mids dat all' myne jaere<hi rend="i">n</hi></l>
+    <l>Zyn met belofte van myn maegdom te bewaere<hi rend="i">n</hi></l>
+<l>Den Hemel heeft myn hert: geen man my oyt genaekt:</l>
+<l>Geen menschelyke lust my oyt heeft aengereakt.</l>
+    <l>Hoe zal dit konnen zyn? Hoe zal dit konnen weze<hi rend="i">n</hi></l>
+<l>Dat ik zal Moeder zyn en Maegd blyven geprezen:</l>
+<pb n="A3v"/>
+<l>Hoe zal dan dit geschien dat 's Vaders eeuwig Woord,</l>
+<l>Uyt my zoud' worden Vleesch en Mesch zal komen voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Wat peyst gy wyze Maegd? Wat vreeze doet u beven?] </head>
+<lg type="poem">
+    <l>Wat peyst gy wyze Maegd? Wat vreeze doet u beven?</l>
+    <l>Door wie word gy verbaesd? Wat doet uw herte sneven?</l>
+<l>Die gy ontfangen zult, en baeren zonder pyn,</l>
+<l>Behoeder zal van u en van uw Maegdom zyn.</l>
+<l>Jesus word zynen Naem dis gy aen hem zult geven,</l>
+<l>Waer voor het helsch gespook van Acheron zal beven,</l>
+<l>Hy zal worden genaemt des alderhoogstens Zoon;</l>
+<l>En zal bezitten 't Ryk zijns Vaders Opper Troon.</l>
+<l>Den godelyken Geest de liefde van den Vader,</l>
+<l>De liefde van het Woord den band van beyd'te gader</l>
+<l>Zal daelen over u met wonderlyke magt:</l>
+<l>Belommeren uw hert met onbekende kracht.</l>
+<l>Waer op Maria sprak met blyt zonder afweiren,</l>
+<l>Gods wille is myn wet; zyn wet is myn begeiren;</l>
+<l>Zyn dienstmaegd will' ik zijn, my geschied' na uw woord,</l>
+<l>Dat God uyt myn Lichaem, en Mensch zal komen voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Daer is nu God en Mensch in een Persoon te gader] </head>
+<lg type="poem">
+    <l>Daer is nu God en Mensch in een Persoon te gader,</l>
+    <l>Als Mensch is van een Maegd, alsGod is uyt den Vader;</l>
+<l>Zoo dat men zeggen moet, geleerd door zyn Gebod,</l>
+<pb n="A4r"/>
+<l>God is waerachtig Mensch, den Mensch waerachtig God.</l>
+<l>Het eeuwig Woord is Vleesch, het Vleesch is God gebleven;</l>
+<l>Die God was voor den tyd begint God Mensch te leven.</l>
+<l>Die 't leven is van Al, ons van de dood bevryd</l>
+<l>Word om den mensch ook mensch, komt sterven in den tyd.</l>
+<l>O wondere gebort! O godelyke krachten!</l>
+<l>Uw voordkomst lang voorzien, baert voor elk veel gedachten.</l>
+<l>Ik staen hier als verbaesd, ik taste als verblind</l>
+<l>Verdwellemd in het licht, dat al het licht verbind.</l>
+<l>Dit godelijk werk gaet al het verstand te boven,</l>
+<l>En dat 't verstand verwint, dat leert ons het gelooven.</l>
+<l>Dat Godes Zoon is Mensch, dat Gods waerachtig Woord,</l>
+    <l>En des menschen natuer vereenigt kome<hi rend="i">n</hi> voord.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Dichtgebedekens tot God, Maria, Anna, Franciscus, en Barbara.</hi></head>
+<lg type="poem"><l>O God Almagtig God! Voor al moeten wy loven</l>
+<l>Uw' hooge Majesteyt in glorie hier boven,</l>
+<l>Gy zyt in volle magt in volle weirdigheid,</l>
+<l>Geeft ons door uwe jonst d' eeuwige zaligheyd.</l>
+</lg>
+    <div type="section">
+<head rend="h3"><hi rend="i">Tot MARIA.</hi></head>
+<lg type="poem"><l>Gelofd, Gebenedyd, gegroet, ende geprezen,</l>
+<l>Zoo moet de Moeder God Maria van ons wezen,</l>
+<pb n="A4v"/>
+<l>Die in den hoogsten Throon naest God in 't Ryke woont,</l>
+<l>Als koningin van al in weirdigheyd gekroond.</l>
+<l>Gebenedyd zyt gy Maria koninginne,</l>
+<l>Die God verkoren heeft voorzien van den beginner</l>
+<l>Op dat gy zoude zyn de Moeder van Gods Zoon,</l>
+<l>En ons verlichten zoud, door uw verdiensten schoon.</l>
+<l>Ik bidd' u Maria Maegd ende Moeder mede,</l>
+<l>Verkrygt voor ons aen God eeuwige ruste en vrede,</l>
+<l>Bid voor ons al te saem, en staet ons altyd by</l>
+<l>Op dat wy mogen zyn eeuwig van pyne vry.</l>
+</lg></div>
+<div type="section">
+<head rend="h3"><hi rend="i">Tot S. ANNA.</hi></head>
+<lg type="poem"><l>Gebenedyd zyt gy met uwe dochter schoone Moeder van Maria,</l>
+<l>Grootmoeder van Gods Zone:</l>
+<l>Sint Anna men u noemt Patroonersse med',</l>
+<l>Voor die in echten staet leven met peys en vred'.</l>
+<l>O spiegel voor ons all', o bystand van de menschen,</l>
+<l>O troost in onzen nood, o vrouw daer wy nae wenschen!</l>
+<l>Ik bidd'u Anna zoet door uwe Heyligheyd,</l>
+<l>Dat gy tot onzen troost en bystand word bereyd.</l>
+    <l>O Anna weirde vrouw! Heylig en hoog verheve<hi rend="i">n</hi></l>
+<l>Door uw' verdiensten groot, en door uw volmaekten leven:</l>
+<l>Wilt ons behulpig zyn voor medelydendheyd</l>
+<l>Brengt ons door uw gebed eeuwig tot zaligheyd.</l>
+</lg></div>
+<div type="section">
+<pb n="A5r"/>
+<head rend="h3"><hi rend="i">Tot den H. Franciscus van de vyf Wonden.</hi></head>
+<lg type="poem"><l>Och Vader vol van deugd, en vol van Veyligheden:</l>
+<l>Franciscus is uw naem gy zyt in weirdigheden</l>
+<l>Van God verkoren hoog in groote weirdigheyd</l>
+    <l>Om uw verdienste<hi rend="i">n</hi> all', om uw oodmoedigheyd.</l>
+<l>Gy waert een spiegel goed: voor ons zondige menschen</l>
+<l>Om God oprechtelyk te dienen, was uw wenschen.</l>
+<l>Die u bezegelt heeft met de teekenen groot,</l>
+<l>Van zyn' vyf wonden die hy  behield in zijn dood.</l>
+<l>Ik bidd' u Vader goed Franciscus uytgelezeb</l>
+    <l>Door uwe heyligheyd, en weirdigheyd gepreze<hi rend="i">n</hi></l>
+<l>Wilt ons zondaeren al bystaen in onzen nood</l>
+<l>Bid God dat wy al zyn vry van d'eeuwige dood.</l>
+</lg></div>
+<div type="section">
+<head rend="h3"><hi rend="i">Tot de H. Barbara.</hi></head>
+<lg type="poem"><l>Heylige Barbara Maget Martelaeresse</l>
+<l>Wilt nu ende altyd wezen myn patroonesse,</l>
+<l>Ik bidd' u voor uw deugd als ik hier neem afscheyd,</l>
+<l>Dat ik van u by God in 't ryk worde geleyd,</l>
+<l>Gelyk gy hebt beloft aen all'die u beminnen</l>
+<l>Voor die u dienen zal verkiezen en verzinnen,</l>
+<l>Die zult gy zoo gy zegt getrouwelyk bystaen,</l>
+    <l>En door een' quaede dood en zal hy noyt vergae<hi rend="i">n</hi>.</l>
+<l>Zoo bidd' ik met' er hert, en u o Maget Schoone</l>
+    <l>Door uw verdienste<hi rend="i">n</hi> groot, en pynelyke kroone</l>
+<l>Dat gy ons bystaen wilt en helpen in ons nood,</l>
+<l>Meest als de ziele scheyd in d'ure onzer dood.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="A5v"/>
+<head rend="h3"><hi rend="i">Tot den Engel Bewaerder ende alle Heylige.</hi></head>
+<lg type="poem"><l>O Engelen die van God tot bystand zyt gegeven,</l>
+<l>Bewaert, beschermt, regeert tot zaligheyd myn leven:</l>
+<l>Ik bidde u all' gelyk Gods Heylige te saem</l>
+<l>Dat gy ons maeken wilt aen God heel aengenaem.</l>
+<l>Alle menschen, dit is myn wenschen</l>
+<l>Zullen dienen God voor al:</l>
+<l>Maria Vrouwe, Anna getrouwe</l>
+<l>Die een ider helpen zal:</l>
+<l>Franciscus heylig zult gy eeren,</l>
+<l>En ook van Barbara noyt keeren.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van onzen Heer, sprekende tegen den zondaer.</hi></head>
+<lg type="poem"><l>Hoe lange mensch, zult gy myn roep versmaeden:</l>
+<l>Verachten myn Gebod, myn' werken en myn' daeden,</l>
+<l>En myn' bermhertigheyd gebruyken tot een smaed?</l>
+<l>Hoe lange zult gy noch volherden in uw quaed?</l>
+    <l>Ik hebb' om uwen t' will' van boven hier benede<hi rend="i">n</hi></l>
+    <l>Gekomen, om uw' ziel' gestrekt myn' teere lede<hi rend="i">n</hi>.</l>
+<l>In vreed' en bitt're pyn gezocht uw zaligheyd,</l>
+<l>En is dit mynen loon, is dit uw' dankbaerheyd?</l>
+    <l>Ik hebb' om uwen t' will' gestort zoo hele traene<hi rend="i">n</hi>,</l>
+<l>Geklopt zoo menigmael, en met een zoet vermaenen</l>
+<l>Uw herte omgeroert, myn liefde u getoont,</l>
+<l>En is dit uwe liefd' daer gy my mede loont?</l>
+<pb n="A6r"/>
+<l>Om meer bemind te zyn kom' ik den mensch beminnen,</l>
+<l>En zult gy dan van my af keeren uwe zinnen?</l>
+<l>Als ik om uwen t' will' veel smert hebb' aengedaen,</l>
+<l>Wat meer doch kond' ik doen, dat ik niet hebb' gedaen?</l>
+</lg></div>
+<div type="chapter">
+    <head rend="h3">[Ik hebb' om uwen t' will', om zalig u te maeke<hi rend="i">n</hi>]</head>
+<lg type="poem">
+    <l>Ik hebb' om uwen t' will', om zalig u te maeke<hi rend="i">n</hi></l>
+    <l>Gezweet water en bloed, en gy, kont gy niet maeken</l>
+<l>Een uurken om uw' ziel'? En was u niet bekend</l>
+<l>Te denken hoe hier naer zal wezen uwen end?</l>
+<l>Daer ik was onbevlekt (en gy vol duyzend zonden )</l>
+<l>Bad mynen Vader aen, gy blyft in quaed gebonden,</l>
+<l>Myn pyn' hadd' ik aenveird, en gy die word gebeen</l>
+<l>Van uwen Schepper zelfs, gy laet u niet geleen.</l>
+<l>Myn' ziele was bedroefd, als met de dood bevangen</l>
+<l>Allen om dat gy had het beeld van my ontfangen,</l>
+<l>En nu gy zyt zoo hoog en ik ben in 't verdriet</l>
+<l>Zoeke uw' weirde ziel' en gy den Schepper niet.</l>
+<l>Een Herder die een schaep word van zyn kudd' verzwegen</l>
+    <l>En is niet eer gerust, 'tenzy 't weer is verkrege<hi rend="i">n</hi>:</l>
+<l>En ik verzonden zynd', hebbe alom gegaen,</l>
+<l>Wat meer doch kond' ik doen, dat ik niet hebb' gedaen?</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[SIet op o zondaer vreed! Ik staen hier als verslegen] </head>
+<lg type="poem">
+    <l>SIet op o zondaer vreed! Ik staen hier als verslegen</l>
+    <l>Bemerkt of al myn smert u niet en kan bewegen,</l>
+<pb n="A6v"/>
+<l>Ik staen in vol torment om uwen 't will' bebloed;</l>
+<l>In duyst benouwdheyd groot, van hoofd tot den voet:</l>
+<l>Kan uw versteend gemoed myn' onverdiende slagen,</l>
+<l>Myn geessels, doorne Kroon', myn' Kruyssen zwaer gedraegen,</l>
+<l>Myn uytgemergeld vleesch, myn kostelyken douw,</l>
+<l>Niet wezen voor uw' ziel' een spoore van berouw?</l>
+<l>Van uw versteenigd hert myn aenzicht overloopen;</l>
+<l>In traenen en met bloed u noch niet wederkoopen?</l>
+<l>Myn uytgetrokken hayr, myn' wangen bloedig rood,</l>
+<l>Is dit noch niet genoeg? Neemt daer myn lichaem bloot,</l>
+<l>Neemt myn onnoozel hert kan dit noch niet uyttrekken</l>
+<l>Een zuchtjen uyt de borst? Een traentjen kleyn verwekken?</l>
+<l>Den laesten druppel neemt, en nu ziet my eens aen?</l>
+<l>Wat meer doch kond' ik doen, dat ik niet hebb' gedaen?</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Myn' ziel' geduerig tracht om met uw' ziel' te paeren] </head>
+<lg type="poem">
+    <l>Myn' ziel' geduerig tracht om met uw' ziel' te paeren,</l>
+    <l>Myn' liefd' is al te groot als ik zoek' te vergaeren</l>
+<l>Onder myn' vleugels zoet en gy verloren loopt</l>
+<l>En uyt myn wyngaerd rood, niet een' druyve koopt.</l>
+<pb n="A7r"/>
+<l>Myn hoofd hebb' ik geboogt, om u te willen kussen:</l>
+    <l>Op dat myn dorstig hert uw' lusten zoude blusse<hi rend="i">n</hi></l>
+<l>En gy zyt doorgegaen: noch roep' ik dag en nacht:</l>
+<l>Maer 't is al te vergeefs, want gy myn' stemm' veracht.</l>
+<l>Ik hebbe uytgerekt aen 't Kruys myne ermen,</l>
+<l>Om over uw' misdaed bermhertig te ontfermen</l>
+<l>En gy zyt afgekeerd, nochtans gy zyt my weird:</l>
+<l>Maer wat al pyn' en druk, en hebt gy niet begeirt?</l>
+<l>Geopend is myn' zyd', om u daer door te laven,</l>
+<l>En gy ondankbaer mensch verfoeyt myn' goede gaven.</l>
+<l>Waer hebb' ik doch verdient de dood die ik ontfaen?</l>
+<l>Wat meer doch kond' ik doen, dat ik niet hebb' gedaen?</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Den zondaer spreekt tot onzen Heer.</hi> </head>
+<lg type="poem"><l>'O Alderzoetsen Heer! Omroerder van de herten</l>
+<l>Uw stemm' hebb' ik gehoort, 'k gevoel' uw' pyn' en smerten</l>
+<l>Om mynen t' will' geleen! Eeuwig hebt gy bemint</l>
+<l>Die nu, maer veel te laet, tot u en word gezint.</l>
+<l>O schoonheyd boven maet: ik hebb' versteend gebleven,</l>
+<l>Onroerig als een klip, die niet kost zyn gedreven</l>
+<pb n="A7v"/>
+<l>Tot eenig kleyn gepeys, van lyden zoet,</l>
+<l>Van uwe bitterheyd, en van uw dierbaer bloed.</l>
+<l>Onweirdig zyn wy Heer, dat gy voor ons zondaeren,</l>
+<l>Tot zulk een' vreede pyn' u niet hebt willen spaeren.</l>
+<l>Gy die zyt eenen God, en wy van niet gemaekt,</l>
+<l>Van aerde, stof en asch, hebben u aengeraekt,</l>
+<l>Gebonden aen een stak, wy arme creaturen,</l>
+<l>Hebben den Schepper zelfs, om ons alleen doen treuren,</l>
+<l>Wy slym en vuyligheyd vol boosheyd vol venyn</l>
+<l>O Jesus! 'T is my leed, wilt my genadig zyn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[O Heer ik weet dat 'k ben den meesten der zondaeren] </head>
+<lg type="poem">
+    <l>O Heer ik weet dat 'k ben den meesten der zondaeren,</l>
+    <l>Die noyt en kan voldoen al leefd' ik duyzend jaeren.</l>
+<l>Al leed ik al de smert die men ter weireld vond</l>
+<l>En is noch niet genoeg tot boete van myn' zond.</l>
+<l>Maer hopende alleen op uw' bermhertigheden,</l>
+    <l>Op uw' zachtmoedigheyd kom' ik tot u getrede<hi rend="i">n</hi>:</l>
+<l>Onweirdig dat ik zoud' myn' oogen eens opslaen:</l>
+<l>Nochtans door uwe liefd', neemt uwen zondaer aen.</l>
+    <l>Ziet hier uw schepsel aen, o schepper aller zaeke<hi rend="i">n</hi></l>
+<l>Och laet doch myn gemoed het voedsel eens aenraeken,</l>
+<l>Van een volmaekt berouw, weest my een toeverlaet,</l>
+<pb n="A8r"/>
+<l>[Die] vuyl van zonden is van vuyligheden quaed. </l>
+<l>['k] Belyd' myn' hooveirdy' en kenne myn' mis[d]aeden,</l>
+<l>Verfoeyt hebb' ik te zeer uw' werken, uwe raeden:</l>
+<l>[Dus] kom' ik met oodmoed en een oprechten [s]chyn,</l>
+<l>O Jesus! 'T is my leed wilt my genadig zyn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Hoe zal ik mynen God, verworpen mensche vraegen] </head>
+<lg type="poem">
+    <l>Hoe zal ik mynen God, verworpen mensche vraegen,</l>
+    <l>Doch om vergiffeniss'? Daer ik hem hebb' de slagen</l>
+<l>Gegeven op zyn lyf, zal ik genad' onstaen,</l>
+<l>D[a]er ik hebb' geen genad' aen u o Heer! gedaen.</l>
+<l>[W]aerom hebt gy my niet zoo dikwils ik dus [l]eefde,</l>
+<l>En voor uw' rechte hand het minste niet en beefde</l>
+<l>Verscheurt van lid tot lid? Waerom hebt gy my niet</l>
+<l>[G]esmeten in de hel, doen branden in 't verdriet:</l>
+<l>Uw' goedheyd is te groot dat die zoud' gaen verloren</l>
+<l>Die gy door uwe magt, tot schepsels hebt verkoren.</l>
+<l>[He]t leven gy begeirt, en niet des zondaers dood</l>
+<l>Dat hy bekeren zoud', en vlieden 's vyands stoot:</l>
+<l>[U]we rechtveirdigheyd ligt als in een gebonden</l>
+<l>Als uw' bermhertigheyd ontfermt haer onze zonden</l>
+<l>Waer door den mensche word verlost van d'helsche pyn',</l>
+<l>O Jesus 't is my leed! Wilt my genadig zyn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[O Goedertieren God! Aenhoort myn droevig klaegen] </head>
+    <pb n="A8v"/>
+    <lg type="poem">
+    <l>O Goedertieren God! Aenhoort myn droevig klaegen:</l>
+<l>Aenziet myn rouwig hert, hoe ik voortaen myn' dagen</l>
+<l>Verslyte in getreur, ik roep' met den Propheet</l>
+<l>Ik hebb' gezondigt Heer 't is my van herten leed.</l>
+<l>Door 't weedom dat gy hebt gestort zoo menig werven,</l>
+<l>Laet myn bedroefden geest een kleyn verweksel erven</l>
+<l>Een straelken van uw liefd', een spraeke van uw min</l>
+<l>Mag zijn tot eeuwig tijd gezegend in myn [zin]</l>
+<l>Ik off're u myn hert, en leven in uw' handen</l>
+<l>Myn lichaem, en myn' ziel', ontslaet-ze van [de] banden</l>
+<l>Des satans helschen geest, want gy dit al [zo] weird,</l>
+<l>En geen als u alleen myn leven meer begeir[t]</l>
+<l>Uw Lyden zal nu zyn geprint in myn' gedacht[en]</l>
+<l>Versterkt maer myn gemoed, en geeft myn' ziel' de krachten</l>
+<l>Dat ik hier naermaels mag voor eeuwig met u zyn:</l>
+<l>O Jesus 't is my leed, wilt my genadig zyn</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van de Zielkens in 't Vagevier.</hi></head>
+<lg type="poem"><l>Komt menschen die noch leeft, komt al my naeste maegen:</l>
+<l>Komt vrienden altemael aenhoort myn droevig klaegen:</l>
+<l>Myn bitter zwaer verdriet, aenziet, hoe dat i[k] hier</l>
+<l>Geketend en geboeyd brand' in het Vagevier.</l>
+<pb n="B1r"/>
+<l>Aenziet myn krank gemoed grondeert met uw' gedachten,</l>
+<l>Hoe dat myn' arme ziel' zoo lange hier moet wachten,</l>
+<l>Tot zy gezuyverd is, tot zy heeft al voldaen,</l>
+<l>Eer dat zy kan van hier, by haeren Schepper gaen.</l>
+<l>Ik roep' om troost en hulp, niemand komt my te baeten,</l>
+<l>Myn smeeken is voor niet, ik ben gelyk verlaeten:</l>
+<l>Myn tyd schynt eeuwig lang, dat ik hier liggen moet,</l>
+<l>En die my troosten kan my gansch geen bystand doet.</l>
+<l>Een oogenblik denkt my te willen altyds spaeren:</l>
+    <l>Een wyl is my een dag, een' ure duyzend jaere<hi rend="i">n</hi></l>
+<l>Ik roepe even zeer, vermindert mynen tyd,</l>
+<l>Ten minsten myns ontfermt, gy die myn' vrienden zyt.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Waer 't dat gy Christen mensch, in 't minste moest gevoelen]</head>
+<lg type="poem">
+    <l>Waer 't dat gy Christen mensch, in 't minste moest gevoelen</l>
+    <l>Een sperke van myn vuur, gy zoud, om te verkoelen</l>
+<l>Haest zoeken laeveniss', bidden om medecyn,</l>
+<l>En tieren overluyd, och helpt my uyt dees pyn'.</l>
+    <l>En ik die ligg' en woel, omringeld met tormente<hi rend="i">n</hi></l>
+    <l>In solpher, en in pek, in duyzend instrumente<hi rend="i">n</hi></l>
+<l>Gesmert om onze schuld, ik roepe dag en nacht,</l>
+<l>En niemand die myn druk en droevig kermen acht.</l>
+    <l>Maer zyt gy altemael die my zoo vierig minde<hi rend="i">n</hi>,</l>
+<l>Is' er ter weireld nu niet eenen meer te vinden?</l>
+<l>Die een' benouwde ziel' zoud' trekken uyt zyn smert',</l>
+<pb n="B1v"/>
+<l>Och! Wie uyt d'oogen is, is ook haest uyt het hert.</l>
+<l>Hoe kan uw hard gemoed zoo lang ontroerig blyven,</l>
+    <l>Versmaeden myn verzoek verachten en bedryve<hi rend="i">n</hi></l>
+<l>Die weent, die zucht, die kermt, die roept met alder vlyt?</l>
+<l>Ten minsten myns ontfermt, gy die myn' vrienden zyt.</l>
+</lg></div>
+<div type="chapter">
+    <head rend="h3">[Myn'droeve ziel kan eenen <hi rend="i">Pater noster </hi>helpe<hi rend="i">n</hi>] </head>
+<lg type="poem">
+    <l>Myn'droeve ziel kan eenen <hi rend="i">Pater noster </hi>helpe<hi rend="i">n</hi></l>
+    <l>Een <hi rend="i">Ave Maria </hi>die kan myn' pyne stelpen</l>
+<l>Een zuchtjen uyt de borst, een traentjen om myn' schuld:</l>
+<l>En weygert gy my dat? Die wacht' hier met geduld?</l>
+<l>Oft' immers, is 't dat gy noch mynder wilt ontfermen?</l>
+<l>Een' aelmoess' voor de ziel' gegeven aen de ermen,</l>
+<l>Eens vasten t' mynder eer', een Miss' voor my gedaen,</l>
+<l>Kan maeken dat ik haest ten Hemelwaerd zal gaen,</l>
+<l>Oft' is dit u te veel, als gy dan zult passeren</l>
+<l>Daer ons gebeente ligt, of daer gy zult verkeeren,</l>
+<l>Zegt dikwils met uw hert en goeden will me,</l>
+<l>God geve aen de ziel' de eeuwige rust' en vre.</l>
+<l>Dit woord by God den Heer kan myne schulden boeten,</l>
+<l>Dien wensch, dit kleyn gebed kan myne smert verzoeten,</l>
+<l>Veranderen myn staet dien nu geduerig lyd,</l>
+<l>Ten minsten myns ontfermt, gy die myn vrienden zyt.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Gy weet, o Christen mensch dat wy uyt deze banden] </head>
+<lg type="poem">
+    <l>Gy weet, o Christen mensch dat wy uyt deze banden</l>
+    <l>En dezen droeven put konnen door uw bystanden</l>
+<pb n="B2r"/>
+<l>Verlost zyn en bevryd, gy weet door uw gebed</l>
+<l>Dat onzen langen tyd op korter word gezet.</l>
+<l>En 't gene dat gy doet dat zal u zelfs gebeuren,</l>
+<l>Is 't dat gy naer uw dood dees pyne moet bezeuren,</l>
+<l>Dies zal den lieven God opwekken ook een hert</l>
+<l>Dat uw' bedroefde ziel' zal trekken uyt de smert.</l>
+    <l>Daerom zoo bidd' ik u, en roepe duyzend werve<hi rend="i">n</hi>,</l>
+<l>Laet my ten minsten eens uw' flouwe tong beërven,</l>
+<l>Een woord, een kleyn gebed, weest my een toeverlaet,</l>
+<l>Die rondom in het vuur en roode kolen staet.</l>
+<l>Ik valle u te voet en reyke myne handen,</l>
+    <l>Hebt deireniss' met ons die nu gedurig brande<hi rend="i">n</hi>,</l>
+<l>Hebt deireniss' met die roepen zonder respyt:</l>
+<l>Ten minsten ons ontfermt, gy die ons vrienden zyt.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van de Helle</hi></head>
+<lg type="poem"><l>Wee my katyvig mensch! Wee dat ik ben geboren,</l>
+<l>Ter weireld oyt gebragt myn' ziel' is gansch verloren:</l>
+<l>Begraven in een kuyl, gesmeten in een hol,</l>
+<l>Van duysternisse groot, van bitterheden vol:</l>
+<l>Berst uyt o droefheyd vreed, met troostelooze klagten,</l>
+<l>Komt zuchten noyt gehoord, komt wilt myn hert versmachten</l>
+<l>Met traenen ziedend heet, vervloekt dit boos gestel,</l>
+<l>Want t' samen levendig branden wy in de Hel.</l>
+<l>Geen troost van al dat leeft ter wereld is geschaepen,</l>
+<pb n="B2v"/>
+<l>Zwaer straffende hand[...] Gods, door wiens zweird ende wapen</l>
+<l>Ik deirlyk ben gestraft, vervloekt dit helsch fenyn,</l>
+<l>Vermaledijd moet zyn dees grouwelyke pyn.</l>
+    <l>Wie van ons altemael zal kome<hi rend="i">n</hi> met ons woone<hi rend="i">n</hi></l>
+<l>In deze vuyle plaets, hier zitten in de troonen</l>
+<l>Vol solpher ende pek: wy hooren dit getier:</l>
+<l>Ik brande, en ik sterv', ik lev' in 't eeuwig vier.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Waer vind' ik my gesteld o schroomelyken donder] </head>
+<lg type="poem">
+    <l>Waer vind' ik my gesteld o schroomelyken donder,</l>
+    <l>Hoe perst gy myn gemoed? Het schynt dat boven wonder,</l>
+<l>Door branden word bekeert, o blixem noyt gehoord,</l>
+<l>Die myn' benouwde ziel' zoo scherpelyk doorboord,</l>
+<l>Wat zien ik hier rondom als mosters, vreede dieren,</l>
+<l>Wat hoor' ik anders hier als roepen, schreeuwen, tieren:</l>
+<l>Wat riek' ik? Anders niet als schrikkelyken stank,</l>
+    <l>En dat my voede<hi rend="i">n</hi> zoud moet zyn vergiftig drank.</l>
+<l>Wat eet ik anders niet als slangen en serpenten,</l>
+<l>'t Gevoelen dat ik hebb' zyn pynende tormenten.</l>
+<l>Van 't vuur nae 't water toe, dan weder op een rad,</l>
+<l>En weder op een wiel geduerig opgevat.</l>
+<l>'t Gezelschap dat ik hebb' 't zyn vreesselyke geesten,</l>
+<l>Myn bedde is vercierd met ysselyke beesten,</l>
+<l>Vol duyvels myn salet, zoo dat met dit gezwier</l>
+<l>Ik brande, en ik sterv', ik lev' in 't eeuwig vier</l>
+</lg></div>
+<div type="chapter">
+<pb n="B3r"/>
+<head rend="h3">[Wy hooren anders niet als kryzeling der tanden] </head>
+<lg type="poem">
+    <l>Waer vind' ik my gesteld o schroomelyken donder,</l>
+    <l>Als schreeuwen overluyd, als vringen van de handen;</l>
+<l>Als bitterlyk gekerm, verfoeyelyken spyt,</l>
+<l>Als zweven overhoop, en jammerlyk verwyt:</l>
+<l>En noch is dit al kleyn, maer dat wy moeten derven</l>
+<l>Door eeuwig 't aenschyn Gods doet duyzend dooden sterven:</l>
+<l>En dat onnuttelyk ons tyd is gepasseerd,</l>
+<l>En nu ziet voor ons loon, hoe dat al is verkeerd,</l>
+<l>Ik zien met d'oogen klaer dat elke booze zonde</l>
+<l>My is een nieuw torment, my is een nieuwe wonde:</l>
+<l>Myn' quaed' conscientie betuygt dit aldermeest,</l>
+<l>Dit is denk selften beul den alderfelsten geest:</l>
+<l>Den worm die ligt en knaegt die komt het herte breken,</l>
+<l>Dat ik zoo menigmael het goed hebb' hooren preken</l>
+<l>Het zelve hebb' versmaed, en nu zoo roep' ik hier</l>
+<l>Ik brande, en ik sterv', ik lev' in 't eeuwig vier.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[O Dat my heden mogt een oogenblik gebeuren] </head>
+<lg type="poem">
+    <l>O Dat my heden mogt een oogenblik gebeuren</l>
+    <l>Tot myne zaligheyd, ik zoud' myn lyf verscheuren,</l>
+<l>Hoe zoud' ik dit best doen ik waer tot al bereed,</l>
+<l>O God myn boodheyd groot waer my van herten leed.</l>
+<l>O! Dat my heden mogt! Maer ziel' wat wilt gy wenschen,</l>
+<l>Gy weet gy leeft en sterft, d'ellendigste der menschen</l>
+<pb n="B3v"/>
+<l>Verdoemd voor d'eeuwigheyd uytzinnig desperaet,</l>
+<l>Nu bidden om wat tijd 't is voor my al te laet.</l>
+<l>O alderdroefsten buyk, die om my heeft gebogen,</l>
+<l>Ongelukkige vrouw' wiens borst ik hebb' gezogen,</l>
+<l>Vermaledyd de vrucht die zy ter weireld bragt,</l>
+<l>Ongelukkige ure! Ongelukkigen nacht!</l>
+<l>Hier is myn' woonplaets nu en moet hier altyd wezen,</l>
+<l>O schroomelyke plaets! O pynen noyt gelezen!</l>
+<l>O eynd! Al zonder eynd! O vremd, o grouw getier!</l>
+<l>Ik brande, en ik sterv', ik lev' in 't eeuwig vier.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van de eeuwigheyd.</hi></head>
+<lg type="poem"><l>O Bitt're eeuwigheyd, gy doet het herte jaegen,</l>
+<l>Den schrik valt op den mensch zyn geest die staet verslaegen</l>
+<l>Als hy maer op u denkt, hy schud, hy weent, hu beeft,</l>
+<l>Bevreesd, beangst, benouwd, dat hy op aerde leeft.</l>
+<l>Den zinnelyken Mensch doet zy zeer dikwils sterven,</l>
+<l>Dit doet haer zwaer verdriet, en duyzend pynen erven.</l>
+<l>O eynde zonder eynd! O tyd! Al zonder tyd,</l>
+<l>Die niemand en verliest, maer altyd eeuwig zijt.</l>
+<l>De weireld zal vergaen, maer altyd zal gedeuren:</l>
+<l>Dees lange eeuwigheyd die doet het herte scheuren</l>
+    <l>Door haer' gedenkeniss' door haeren lange<hi rend="i">n</hi> tyd,</l>
+<pb n="B4r"/>
+<l>Door haers eeuwigheyd die niemand en ontleyd.</l>
+<l>Hoe schroomelyk is uw woord, hoe droef is uw vermaen:</l>
+<l>Waer door een hert (versteend) moet smelten in de traen,</l>
+<l>Als zy het vleesch, het been doorboord met bitterheyd,</l>
+<l>Want aen een oogenblik hangt onze eeuwigheyd.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Gy zyt o eeuwigheyd! Een Helle zelfs der Hellen] </head>
+<lg type="poem">
+    <l>Gy zyt o eeuwigheyd! Een Helle zelfs der Hellen,</l>
+    <l>Die door uw langen tyd de menschen komt te quellen:</l>
+<l>Want langer zal' er zyn uw' oneyndelykheyd,</l>
+<l>Als dat van 's menschens tong zal worden oyt gezeyt:</l>
+<l>Want wy naer allen tyd in eeuwigheden loopen</l>
+<l>En uw' langduerigheyd en is niet af te koopen,</l>
+<l>Al is er gepasseert voorby thien duyzend jaer,</l>
+<l>Dat ied verminderd is en word men niet gewaer.</l>
+<l>Wat zegg' ik duyzend jaer? Zegt duyst mael duyzend jaeren,</l>
+<l>Voegt duyst mael duyst daer by, als d'oogenblikken waeren</l>
+<l>Van het begin tot nu, het is geteld voor niet,</l>
+<l>Hoe meer gy daer by voegt, hoe meer dat is 't verdriet.</l>
+<l>Niemand op aerden leeft die kan met zijn gedachten,</l>
+<l>Gronderen wel dit woord, waer van elk een moet wachten:</l>
+<l>Daerom o zondig mensch, om uw boos leven schreyd:</l>
+<l>Want aen een oogenblik hangt onze eeuwigheyd.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Wie is eeuwigheyd die nu noch kan aenhooren] </head>
+    <pb n="B4v"/>
+    <lg type="poem">
+<l>Wie is eeuwigheyd die nu noch kan aenhooren,</l>
+<l>En denken op vermaek? Hem stellen blydschap vooren!</l>
+<l>Wie peyst op d'eeuwigheyd en blyft in vol genugt.</l>
+<l>Wie hoort dit schroom'lyk woord en niet droeftreurig zucht?</l>
+<l>Wat wilt gy dan o mensch, uytschynen als bepeireld,</l>
+<l>Gy weet gy zyt gebragt hier naekt en arm ter weireld:</l>
+<l>Naekt zult gy wederom ter aerden zyn gedaen:</l>
+<l>Naekt zult gy voor uw God uw vonnis hooren aen.</l>
+<l>Hoe wilt gy voor wat vreugd uw helsche vuur bereyden?</l>
+<l>En voor een uer verblyd een eeuwig druk verbeyden.</l>
+<l>Want als de dood u naekt, het is dan zeer te laet</l>
+<l>Te bidden om wat tyd die altyd henen gaet.</l>
+<l>Een oogenblik kan ons tot in den Hemel heffen,</l>
+    <l>Een oogenblik kan ons tot in den afgrond treffe<hi rend="i">n</hi></l>
+<l>Een oogenblik kan ons brengen zaligheyd,</l>
+<l>Want aen een oogenblik hangt onze eeuwigheyd.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Als d'eeuwigheyd zal zyn meestersse van der aerden] </head>
+<lg type="poem">
+    <l>Als d'eeuwigheyd zal zyn meestersse van der aerden,</l>
+    <l>En als den Rechterstoel zal blinken groot van waerden,</l>
+<l>Gy moet daer blyven staen, gy moet dat wonder zien,</l>
+<l>Want voor het aenschyn Gods en is er niet te vlien.</l>
+<l>Zoo dan voor d'eeuwigheyd o menschen! Moet gy zorgen,</l>
+<l>Omhelst de deugden nu, laet af dat zeggen morgen.</l>
+<l>Want 't leven is zoo krank, 't perykel is zoo groot,</l>
+<pb n="B5r"/>
+<l>Want nu is den mensch fraey, en dikmaels morgen dood.</l>
+<l>Gy moet tot uw behoed van morgen heden maeken,</l>
+<l>Wilt gy ontgaen het vuur en tot de glorie raeken</l>
+<l>Gy moet uw boos leven verpletten met den voet</l>
+    <l>U keeren tot uw God hem bidde<hi rend="i">n</hi> met oodmoed.</l>
+<l>Roept met een open hert: snyd, brand hier honderd jaeren,</l>
+<l>Als gy voor d'eeuwigheyd my wilt in 't laeste spaeren,</l>
+<l>Als myn' benouwde ziel' hier van dit leven scheyd,</l>
+<l>Want aen een oogenblik hangt onze eeuwigheyd.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van de Passie en het Lyden CHRISTI</hi></head>
+<lg type="poem"><l>Komt menschen all' te saem aenhoort met scherpe zinnen,</l>
+<l>Wilt lezen deze less' en dit gedicht beminnen,</l>
+<l>Wilt dit gronderen wel op dat gy krygen meugt</l>
+<l>Een afkeer van het quaed en liefde tot de deugd</l>
+<l>Bepeyst u wezelyk, denkt wat gy zult beginnen,</l>
+<l>Waer toe dees reden strekt, wilt God voor al beminnen.</l>
+<l>En ook tot aller tyd dienen met vlytigheyd,</l>
+<l>Op dat gy winnen mogt Gods Ryk in eeuwigheyd.</l>
+<l>Ziet wat God heeft gedaen en voor ons all' geleden.</l>
+<l>Die hier tot in de dood in koud' en bitterheden </l>
+<l>In duyzend pynen groot zig zelven heeft bezwaert,</l>
+<l>Om onze zaligheyd en heeft hem niet gespaert.</l>
+<l>In zweet en in arbeyd, in onrust en in traenen</l>
+<l>En met zyn dierbaer Bloed den weg heeft willen baenen,</l>
+<pb n="B5v"/>
+<l>En ziet 't is ons te veel te lyden weynig' pyn',</l>
+<l>O God vergeeft het ons want wy vol krankheyd zijn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Met wat oodmoedigheyd met wat onnozelheden] </head>
+<lg type="poem">
+    <l>Met wat oodmoedigheyd met wat onnozelheden,</l>
+    <l>Heeft God zyn Lyden en al 't verdriet geleden,</l>
+<l>Gegeesseld en gepynd was hy met groot geweld,</l>
+<l>Bespogen en beschimpt, met schande naekt gesteld,</l>
+<l>Hoe menig zwaeren slag, en schimp wild' hy verdraegen,</l>
+    <l>Verzonde<hi rend="i">n</hi> en verleyd, zonder nochtans te klaege<hi rend="i">n</hi></l>
+<l>Als een onnoozel Lam gewillig in de pyn',</l>
+<l>Eylaes dan wild' hy noch gekroond met doornen zyn.</l>
+<l>Te vooren was hy ook gewond met menig' slagen,</l>
+<l>En wild' zyn eygen Kruys met bitterheden draegen.</l>
+<l>En worden nae den berg geleyd in 't openbaer;</l>
+<l>In schande tot de dood als eenen Moordenaer.</l>
+<l>Hy wierd met groot geweld en pynen voord-gedreven,</l>
+<l>O God! 't gedenken doet my schudden ende beven.</l>
+<l>Wilt door uw lyden al ons tot allen termyn,</l>
+<l>Vergeven ons misdaed, want wy vol krankheyd zyn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[In 't draegen van het Kruys bepeyst in uw herte] </head>
+<lg type="poem">
+    <l>In 't draegen van het Kruys bepeyst in uw herte,</l>
+    <l>Wat pyne dat God leed, wat een zwaerigheyd en smerte.</l>
+<l>Hy viel ter aerde neer al met het Kruys gelaen</l>
+<l>Voorwaer niemand was daer, die hem heeft opgestaen.</l>
+<pb n="B6r"/>
+<l>Maer sleepten hem zoo voord tot dat hy was gerezen,</l>
+<l>Op den Calvari'-Berg daer hy gekruyst moest wezen.</l>
+<l>Een d'aldervreedste dood' met ongehoorde pyn'</l>
+    <l>Gehange<hi rend="i">n</hi> aen een kruys genageld moest hy zyn.</l>
+<l>Wat vreedheyd was ook dit wie zag oyt zulks bedryven,</l>
+<l>Het is onmogelyk om dit al te beschryven.</l>
+<l>Hy was aen 't kruys vast gemaekt, met nagels groot,</l>
+<l>En over al gewond gehangen naekt en bloot.</l>
+<l>Dan wierd hy noch gelaest met edik ende galle</l>
+<l>Als hy aen 't kruys hing, voor ons zondaeren alle,</l>
+<l>O God, wilt ons altyd door uwe goedheyd fyn,</l>
+<l>Helpen uyt onzen nood, want wy vol krankheyd zijn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Och! Hoe onnoozelijk heeft God dit al geleden] </head>
+    <lg type="poem">
+        <l>Och! Hoe onnoozelijk heeft God dit al geleden,</l>
+        <l>Wat pynen hy ontfing, verduldig was te vrede<hi rend="i">n</hi>.</l>
+<l>Met een' oodmoedigheyd in 't laeste voor zyn' dood,</l>
+<l>Bad hy zyn Vader noch voor zijn' vyanden groot.</l>
+<l>Ziet dan o menschen al de reste laet ik blyven,</l>
+<l>'t Is weynig dat ik hier van 't lyden Gods beschryve.</l>
+<l>Maer overdenkt het wel, aenziet ook 's menschens daed,</l>
+<l>Wy die vol boodheyd zyn o pynigheden quaed!</l>
+<l>Ziet wat een groot geschil wie zoud' 't minste verdraegen?</l>
+<l>Alleen een spytig woord, voorwaer 't is te beklaegen.</l>
+<pb n="B6v"/>
+<l>Dat wy zoo zyn verblind vol opgeblaezendheyd</l>
+<l>En daer 't God al vedroeg, met een oodmoedigheyd,</l>
+<l>O goedertieren God! Wilt ons gedachtig wezen</l>
+<l>Vergeeft al ons misdaed door uw lyden geprezen,</l>
+<l>En jont ons eeuwig dan 't aenschouwen uw aenschyn,</l>
+<l>Helpt ons o Jesus zoet, want wy vol krankheyd zyn.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn, gemaekt van de zeven Weeën van Onze L. Vrouwe MARIA de Moeder Gods.</hi></head>
+<lg type="poem"><l>Alzoo 't een ider mag met reden kenbaer wezen,</l>
+<l>Dat' er ter weireld noyt weirdiger uytgelezen</l>
+<l>Het leven heeft ontstaen als Gods weirdigen Zoon,</l>
+<l>En Gods Zoons Moeder dan Maria Maget schoon,</l>
+<l>En wie heeft ook alsdan ter weireld oyt geleden</l>
+<l>Meer pyne, en verdriet, meer druk en zwaerigheden</l>
+<l>Als God verdraegen heeft in zyne menschelykheyd,</l>
+<l>En als zyn' Moeder leed in pyn' en zwaerigheyd,</l>
+<l>Aenmerkt het lyden groot, haer druk, en bitterheden.</l>
+<l>Die Maria het hert zoo pynelyk doorsneden.</l>
+<l>Zy heeft in overvloed zoo bitterlyk geschreyd!</l>
+<l>Als Simeon haer eerst d'aenstaende druk voorzeyd.</l>
+<l>Hoe mogt de droefheyd van haer edel hert doorkerven,</l>
+<l>Als zy haer Zoon aenzag en wist dat hy moest sterven</l>
+<pb n="B7r"/>
+<l>Voor 't zondig mensch geslacht een' schandelyke dood,</l>
+<l>Och Moeder! Staet ons by, helpt ons uyt allen nood.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Hoe droef was dit voor haer, als zy dan moeste vluchten] </head>
+<lg type="poem">
+    <l>Hoe droef was dit voor haer, als zy dan moeste vluchten</l>
+    <l>Met haeren lieven Zoon, en in Egypten zuchten,</l>
+<l>Door de woestyne door verlaeten al het land,</l>
+<l>En daer zy moesten gaen vond nergens geen bystand.</l>
+<l>Wat traenen stortte  zy als zy hadde verloren</l>
+<l>Haer lieven weirden schat, haer Zone uytverkoren,</l>
+<l>Die zy dry dagen lang zocht met groot verdriet,</l>
+<l>Tot zy hem naer veel zucht by de Doctoren ziet.</l>
+<l>Zy was tot aller tyd vol wee, druk, pyn', en zuchten;</l>
+<l>Vol klaegelyk getreur, droefheyd en ongenugten,</l>
+<l>Als zy haer Zoon aenzaeg, en wist dat hem de dood,</l>
+<l>Zoud' worden aengedaen met duyzend pynen groot.</l>
+<l>Zy sprak, en dacht by haer zoo menig duyzend werven,</l>
+<l>Och Zoon! Moet het zoo zyn, dat gy de dood moet sterven</l>
+<l>Met zoo veel bitterheyd in schanden naekt, en bloot,</l>
+<l>Och Moeder staet ons by, helpt ons in allen nood.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Maer noch is 't niet met al by dat zy quam te scheyden] </head>
+<lg type="poem">
+    <l>Maer noch is 't niet met al by dat zy quam te scheyden</l>
+    <l>Van haeren lieven Zoon, als hy hem ging bereyden,</l>
+<l>Om lyden voor den mensch, zy sprak met groot schreyden:</l>
+<pb n="B7v"/>
+<l>Och Zone! Liefsten Zoon! Och moeten wy dan scheyden;</l>
+<l>Och Zone! Laet my dan de dood nu voor u sterven,</l>
+<l>Of laet in 't minste doch een' beed' van u verwerven:</l>
+<l>Dat ik mag met u gaen in droefheyd en geween,</l>
+<l>Och Zone! moet ik nu gelaeten zyn alleen.</l>
+<l>Zy pynd' haer met geschrey het scheyden moesten wezen,</l>
+<l>Zy viel ter aerden neer, en scheen als dood te wezen,</l>
+<l>Al zuchtend' met getreur. Al klaegend' met droefheyd,</l>
+<l>Liep zoeken nae haer Zoon met duyzend bitterheyd,</l>
+<l>Zy vond hem zoo gesteld vol pynen en vol wonden,</l>
+<l>Gelaeden met zyn Kruys om 's menschens booze zonen,</l>
+<l>Van hoofde tot den voet al van den bloede rood, </l>
+<l>Och Moeder! Staet ons by, helpt ons uyt allen nood.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Wat bitterlyk gekerm heeft zy by 't kruys bedreven] </head>
+<lg type="poem">
+    <l>Wat bitterlyk gekerm heeft zy by 't kruys bedreven</l>
+    <l>Daer zy haer Zoon aenzag door pyn' schudden en beven,</l>
+<l>Met doorens was gekroond, beschouwd, beschimpt, veracht,</l>
+<l>Genageld aen het Kruys, in pynen, als versmacht:</l>
+<l>Hoe menigmael heeft dan het herte haer begeven</l>
+<l>Als zy haer Zoon aenzag, gescheyden van dit leven:</l>
+<l>Hy was van 't Kruys gedaen, geleyd op haeren schoot,</l>
+<pb n="B8r"/>
+<l>Zy liet zoo menig traen over zyn lichaem bloot,</l>
+<l>Och!l 't scheyden was zo zwaer, och bitterlyk afscheyden,</l>
+<l>Als Maria haer zoon voor 't laeste ging geleyden</l>
+<l>Ten grave, als zy sprak met over groot geween:</l>
+<l>Och zone! Och myn kind! Nu laet gy my alleen.</l>
+<l>Hoogweirdige Princess' Maria vol van deugden,</l>
+<l>Nu is all' uw' droefheyd verkeerd in duyzend vreugden:</l>
+<l>Ik bidd' u Moeder Maegd door al uw lyden groot,</l>
+<l>Och Moeder! Staet ons by, helpt ons uyt allen nood.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn ofte Dicht, gemaekt op het beklag van myn zwaer pynelyk ende verdrietig leven.</hi></head>
+<lg type="poem"><l>Het schijnt dat my de hand tot schryven wilt begeven,</l>
+<l>Om stellen een gedicht van myn zwaer en treurig leven,</l>
+<l>Van mynen zwaeren druk en bitterlyk gemoed.</l>
+<l>O fel vreed misval dat my zo klaegen doet.</l>
+    <l>Och! Hoe mag ik te recht beklaegen myne tyde<hi rend="i">n</hi>,</l>
+<l>Myn drukkelyken staet, myn zwaer en bitter lyden,</l>
+<l>Myn' dagen jong beroofd en heel ter neer geveld</l>
+    <l>Ligg' ik in banden vreed met pyne<hi rend="i">n</hi> zeer gequeld,</l>
+<l>Waer is nu myne vreugd! Waer is myn domineren?</l>
+<l>Waer is al myn vermaek, myn troost, en myn floreren?</l>
+<l>Waer is den tyd dat ik was vry en onbelaen?</l>
+<pb n="B8v"/>
+<l>Nu is den tijd voorby, nu is 't met my gedaen</l>
+<l>Den tijd die is voorby als eenen wind gedreven.</l>
+<l>Daer was ik in vermaek, in druk moet ik nu leven,</l>
+<l>Daer vond ik troost, eylaes! Nu vind' ik al verdriet,</l>
+<l>Hoe licht keert 's weirelds rad zoo men aen my wel ziet.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Een' stijfmoeder zijt gy, gy komt my zwaer belasten] </head>
+<lg type="poem">
+    <l>Een' stijfmoeder zijt gy, gy komt my zwaer belasten,</l>
+    <l>Gy hebt van 't voorspoedig schip voor my [ge]weirt de masten:</l>
+<l>Het stier oft roer genaemd geheelijk omgestelt,</l>
+<l>En voor den storm en wind mijn schip ter neer gevelt.</l>
+<l>O wankelbaerig rad! O vreed' en wilde baeren,</l>
+<l>O zee vol van onrust! O weirelds gel bezwaeren,</l>
+<l>Wie zal vast blijven staen, door al dit fel tempeest?</l>
+<l>O God, doet my bystand in dit aerdsch vremd foreest.</l>
+<l>Waer ik nu mijn gemoed gaen keeren, ofte wenden,</l>
+<l>Eylaes! 'k vind' anders niet, als pynen en ellenden,</l>
+<l>Daer ik te vinden plagt veel blijdschap overzoet,</l>
+<l>'t Gedenken van dien tijd my ook veel pynen doet.</l>
+<l>Nu van zoo menig mensch vind' ik my als verlaeten,</l>
+<l>En in mijn zwaeren druk veracht, ende verlaeten,</l>
+<l>Daer ik te vooren was vol vreugd, hoort mijn bedied,</l>
+<l>Hoe lichtelijk keert het rad, zoo men aen my wel ziet.</l>
+
+<pb n="C1r"/>
+<l>'t Is waer en ik beken 't dat men nocht' lust nocht' daeden</l>
+<l>Ter weireld vinden mag, die ons heel kan verzaeden,</l>
+<l>Nochtans voor al myn druk, en pynen zoo men ziet,</l>
+<l>En kan niet laeten doch te klaegen myn verdriet.</l>
+<l>Hoe bitter is't voorwaer hier weynig tyd te lyden</l>
+<l>Hoe zwaer mag 't wezen dan voor eeuwig t' allen tyden</l>
+<l>Te wezen in verdriet in bitterlyke pyn</l>
+<l>In eysselyken schroom, en noyt verlost te zyn.</l>
+<l>Och! Hoe zyn zy verblind, verdold zegg' ik met reden,</l>
+<l>Die hier hoogmoediglyk en in hooveirdigheden</l>
+<l>In zonden, in boosheyd, in lusten domineert</l>
+<l>Eylaes! Wat baet het al, als het is gepasseert.</l>
+<l>O weireld, valsch geveynsd, te recht mag men verachten</l>
+<l>Uw raed en uwen dienst met all' uw' yd'le prachten:</l>
+<l>[W]ant uwen loon is valsch bedrog en anders niet</l>
+<l>Hoe licht keert het geluk zoo men aen my wel ziet.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[Wat mag 't dan baeten al wat zal 't dan profiteren] </head>
+<lg type="poem">
+    <l>Wat mag 't dan baeten al wat zal 't dan profiteren,</l>
+    <l>Des weirelds hoogen staet, vermaek, en domineren</l>
+<l>Om eenen korten tyd die hier zoo weynig duert</l>
+<l>Dat naermaels bitterlyk met pynen word bezuert.</l>
+<l>Voorwaer 't is groot verschil die eeuwig moet verdraegen,</l>
+<l>[V]eel duyzend pynen groot, in kermen, zuchten, klaegen,</l>
+<pb n="C1v"/>
+<l>By die in volle vreugd voor eeuwig mogen zyn,</l>
+<l>In blydschap weirdigheyd, en vry val alle pyn</l>
+<l>Daerom ik bidd' u doch, elk schouwt de quaede zeden</l>
+<l>Van alle hooveirdyen 's weirelds ydelheden</l>
+<l>En alle zonden boos vlieden ook met' er daed,</l>
+<l>En denken wat men doet eer dat het word t[e] laet,</l>
+<l>Zoo dan voor ider een schenk' ik dit t' uwer eeren:</l>
+<l>Wilt schouwen alle quaed, laet deugd in u vermeeren,</l>
+<l>Want 't is ter weireld al krank als een ydel [r]iet</l>
+<l>Hoe licht keert het geval zoo men aen my we[l] ziet.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Refereyn van de kostelykheyd des tyds.</hi></head>
+<lg type="poem"><l>God die in het begin heeft alles wel begonnen,</l>
+<l>Geschaepen mensch en vee, en vruchten af gewonnen</l>
+<l>Waer uyt het groot sieraed des weirelds qua[m] naer dien,</l>
+<l>En eene vruchtbaerheyd stond ider te geschie[n]</l>
+<l>God gaf den waeren tyd aen menschen, en aen dieren:</l>
+<l>Om zo haer levens jeugd daer aen wel te bestiere[n]</l>
+<l>Om zo te leeren wel wat dat men doet oft lae[t]</l>
+<l>Want 't aldersnelste snel geen tyd voorby [en] gaet,</l>
+<l>Al dat' er op der aerd' oyt heeft ontfaen het leve[n]</l>
+<l>Den tyd is aen elk een tot een voorbod' gegeve[n]</l>
+<l>Ja zelfs de stomme aerd' die dikmaels wo[rd] door geraest,</l>
+<pb n="C2r"/>
+<l>Word van den waeren tyd vertierd, gekleed, geaest:</l>
+<l>Dan wederom ontkleed, ontblood als van te vooren,</l>
+<l>Die door den waeren tyd die haer wilt doen versmooren</l>
+<l>Door 't vlokkig, sneeuwig ys lyd men veel ramp en zucht,</l>
+<l>Gelyk menig mensch lyd op 't eynd' veel ongenugt;</l>
+<l>Als hy word door den staet zyns levens afgenomen,</l>
+<l>Ontmaekt van al zyn goed, ontbloot van al zyn roemen:</l>
+<l>Geen wenschen baet hem dan om zyn' voorgaende daed:</l>
+<l>Peyst op den waeren tyd die nimmer still' en staet.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[De vruchten van der aerd' 't zy wortels kruyd oft bloemen] </head>
+<lg type="poem">
+    <l>De vruchten van der aerd' 't zy wortels kruyd oft bloemen,</l>
+    <l>Al wat uyt d' aerde spruyt, of door haer voord mag komen</l>
+<l>Den tyd geeft hun een jeugd, een blyd' en zoet vermaek,</l>
+<l>Daer naer geeft zy verdriet 't word een' verstorven zaek</l>
+<l>De jeugd word hun ontvremd, ontnomen, en ontrokken,</l>
+<l>Den winter komt hun by met haere witte vlokken</l>
+<l>Den mensch hier insgelyks als wortels, kruyd oft bloem.</l>
+<l>Maer van een kleyne spruyt word een verheven boom.</l>
+<l>Een boom die 't zestig jaer, en twintig daer-en-boven</l>
+<l>In d'aerde heeft gestaen, en noyt en is verschoven,</l>
+<l>Dan als den snellen tyd is komen aen het hert,</l>
+<pb n="C2v"/>
+<l>Den wortel knaegen ofte dat zy verdort werd.</l>
+<l>Dan heeft den boom gedaen den mensch alzoo gevonden</l>
+<l>Die ligt daer zonder tyd in loon, oft straff' der zonden</l>
+<l>Waer zyt gy Samson kloek? Daer noyt geen mensch zoo sterk</l>
+<l>By u en was te zien, verliet gy niet het perk</l>
+<l>Den tyd die quam uw hoofd, uw' vrom', en kloeke hayren,</l>
+<l>Afsnyden, en qy quamt in een zoo groot bezwaeren</l>
+<l>En waert van ider een veracht, beschimpt, versmaed:</l>
+<l>Peyst op den waeren tyd die nimmer still' en staet.</l>
+</lg></div>
+<div type="chapter">
+    <head rend="h3">[Het onbesteld gediert hoe snellyk dat kan vliegen] </head>
+<lg type="poem">
+    <l>Het onbesteld gediert hoe snellyk dat kan vliegen,</l>
+    <l>Kan niet den waeren tyd in vlytigheyd bedriegen,</l>
+<l>Hoe hoog het in de locht is zwevend' menigmael,</l>
+<l>Oft aen den Hemel zwiert, noch kan 't niet in de zael</l>
+<l>Geraeken daer den tyd, zyn' vaste plaets zal hebben</l>
+<l>Om het te grypen vast, aen leen, oft aen de rebben</l>
+<l>Noyt kan een' wyze tong'  bedieden wat hy is</l>
+<l>Een geest, een mensch, een' beest, een vogel, oft een visch:</l>
+<l>Oft waer uyt dat hy is gevallen oft gekomen,</l>
+<l>Uyt d' aerde, oft uyt de zee, oft uyt de holle boomen:</l>
+<l>Niemand en is die kan zyn' afkomste bedien,</l>
+    <l>Oft zegge<hi rend="i">n</hi> dat hy hem eens levend' heeft gezien.</l>
+<l>Den tyd ziet men voordgaen in alle zyne dagen</l>
+<pb n="C3r"/>
+<l>Voorbeelden in het gen', waer nae den mensch is vraegen:</l>
+<l>Voorbeelden in de deugd en quaed in 't openbaer,</l>
+<l>Voorbeelden in de deugd, in 't eeuwig ryk hier naer:</l>
+<l>In rust' vol melody', vol glorie, vol cieraed</l>
+<l>Pey[st] op den waeren tyd die nimmer still' en staet.</l>
+</lg></div>
+<div type="chapter">
+<head rend="h3">[O Meester van den tyd! Weest op ons niet verbolgen] </head>
+<lg type="poem">
+    <l>O Meester van den tyd! Weest op ons niet verbolgen,</l>
+    <l>Om dies dat wy den tyd ten rechten niet en volgen:</l>
+<l>'t Werk nochtans van den mensch word menigmael beklaegt,</l>
+<l>Zomtyds als by geval hem zyn' gewisse knaegt.</l>
+    <l>Hy peyst dan op den tyd die lange is verschene<hi rend="i">n</hi>,</l>
+<l>En gaet zyn ongeval met traenen dan beweenen</l>
+<l>Als hy met diep verstand wilt overleggen gaen,</l>
+<l>Hoe hy den waeren tyd misbruykt heeft, en misdaen.</l>
+<l>Hoe hy dien schoonen tyd van zoo veel lange jaeren</l>
+<l>Misbruykt heeft, en misdaen, en dus heeft laeten vaeren</l>
+<l>In dwaesheyd, zotterny', in ydelheyd, en staet,</l>
+<l>Onkuyscheyd, en zoo voord, veel and're zonden quaed.</l>
+<l>Beklaegen mag hy wel, beklaegen duyzend werven,</l>
+<l>Dat hem den tyd nu leyd tot aen den dag zyns sterven;</l>
+<l>Daer hy dan smeekt, en hopt, en wenscht om noch wat tyd.</l>
+<pb n="C3v"/>
+<l>Te hebben: maer eylaes! Hy krygt dan geen respyt.</l>
+<l>Den tyd gaet staedig deur zyn ouden gang beneden:</l>
+<l>Quaed voor quaed, goed voor goed, peyst dit en leeft in vreden: </l>
+<l>Want den tyds meester zal oordelen goed en quaed,</l>
+    <l>Peyst op den waere<hi rend="i">n</hi> tyd die nimmer stille staet.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0001"/></interpGrp>
+<head rend="h2"><hi rend="i">Liedekens <lb/>Gedicht van C. Foret.</hi></head>
+<head rend="h3"><hi rend="i">Een Liedeken,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: van het zoet Vlaenderland.</hi> </head>
+<lg type="poem"><l>Ontwaekt die ligt in ruste</l>
+<l>Gy dochters van Sioen,</l>
+<l>Ontfangt den Mey met luste,</l>
+<l>Die met bladeren groen</l>
+<l>Daer staet voor uwe deure</l>
+<l>Lieffelyk en triumphant,</l>
+<l>Hy brengt ons uyt getreure</l>
+<l>Christus uwen Mey plaisant.</l>
+    <l rend="; 1tab">2. Haelt hem in met haesten,</l>
+<l>Opent uw' deur' terstond,</l>
+<l>Laet hem nu zyn den naesten</l>
+<l>In uws herten grond:</l>
+<l>Hy staet zeer schoon in 't bloeyen,</l>
+<l>Plant hem in uw Hof voor al,</l>
+<l>Zyn' vruchten die daer groeyen,</l>
+<l>U voor eeuwig voeden zal.</l>
+    <l rend="; 1tab">3. Christus den Mey ydoone</l>
+<pb n="C4r"/>
+<l>Staet zeer wyd ontdaen,</l>
+<l>Met vyf takskens zeer schoone</l>
+<l>Met vruchten overlaen,</l>
+<l>Rood als korael na wenschen,</l>
+<l>Die elk mag plukken zonder geld:</l>
+<l>Want hy voor alle menschen</l>
+<l>Heeft deze vrucht voor gestelt.</l>
+    <l rend="; 1tab">4. Aen dezen Mey ter zyden,</l>
+<l>Is een doorne sprong:</l>
+<l>Daer elk mag in verblyden,</l>
+<l>Ider oud, en jong,</l>
+<l>Dat is de waer' fonteyne,</l>
+<l>Komt die van dorste zyt vermoeyd:</l>
+<l>Drinkt daer uyt groot en kleyne</l>
+<l>Want zy geduerig overvloeyt.</l>
+    <l rend="; 1tab">5. Wilt gy u gaen vermaeken</l>
+<l>In zyn' weyden groen?</l>
+<l>Gy moet eerstmael verzaeken</l>
+<l>'s Weirelds lust noyt doen.</l>
+<l>Komt haer lust gerezen,</l>
+<l>Dryft daer mede uwen spot:</l>
+<l>Want uw lief geprezen</l>
+<l>Is een iverzuchtig God.</l>
+    <l rend="; 1tab">6. Hy is den steen zeer vaste,</l>
+<l>En een vasten pilaer:</l>
+<l>Zyt gy bezwaerd met laste,</l>
+<l>Hy is ons middelaer:</l>
+<l>Hy is de open' deure,</l>
+<l>Onzen oprechten Advocaet,</l>
+<l>Die voor ons t'alder ure</l>
+<l>By zyn Heer Vader staet.</l>
+<pb n="C4v"/>
+    <l rend="; 1tab">7. Sion uw Lief vol vreden,</l>
+<l>Is uyt minne bloot,</l>
+<l>In den Tempel getreden</l>
+<l>Van Calvarien groot:</l>
+<l>Staet op, weest op uw' hoede,</l>
+<l>Trekt aen dat rechte Bruyloft-kleed,</l>
+<l>Den trouwring van zyn bloede</l>
+<l>Die is daer voor u bereed.</l>
+    <l rend="; 1tab">8. Uw Bruydegom vol minne</l>
+<l>Is aen den kruys Autaer,</l>
+<l>Om u liefste vriendinne</l>
+<l>Eeuwig te trouwen daer:</l>
+<l>Weest haestig op de gangen</l>
+<l>Met overschoon geluyd,</l>
+<l>Hy zal u daer ontfangen</l>
+<l>Als zyn' alderliefste Bruyd.</l>
+    <l rend="; 1tab">9. Als gy zyn vaste trouwe</l>
+<l>Daer zult hebben ontfaen,</l>
+<l>Een' kroone fyn van gouwe</l>
+<l>Word u aengedaen,</l>
+<l>Uw Bruydegom is vooren,</l>
+<l>Wilt gy hooren nae zyn' stem,</l>
+<l>Zoo zult gy vreugd oorboren</l>
+<l>In dat Nieuw Jeruzalem.</l>
+    <l rend="; 1tab">10. Hy roept met zoete toone,</l>
+<l>Volgt hem onbevreesd,</l>
+<l>Myn' Bruyd, myn' duyv', myn'schoone,</l>
+<l>Komt nu ter Bruyloft feest,</l>
+<l>Ik hebb'al doen bereyden,</l>
+<l>Komt uyt blyde jonste gy,</l>
+<l>Wy zullen ons vermeyden</l>
+<pb n="C5r"/>
+<l>In mijns Vaders Ryke vry.</l>
+    <l rend="; 1tab">11. Volgt hem den weg recht deure,</l>
+<l>Met eem bereyden zin,</l>
+<l>Uw lief staet voor de deure,</l>
+<l>Om u te laeten in,</l>
+<l>Met eenen kus van peyze</l>
+<l>Aen beyde de wangen dyn,</l>
+<l>In het 's levens Paleyze</l>
+<l>Zult gy daer ontfangen zyn.</l>
+    <l rend="; 1tab">12. Als gy daer zyt gezeten,</l>
+<l>Aen zyne tafel breed,</l>
+<l>Een' spyze ongemeten</l>
+<l>Word u aldaer bereed,</l>
+<l>Die u gansch zal verzaeden</l>
+<l>Meer als is verzinnelyk,</l>
+<l>Daer is 't vol van genaden</l>
+<l>Zyn klaer aenschyn minnelyk.</l>
+    <l rend="; 1tab">13. daer zal ik u verblyden</l>
+<l>In beyde myne ermen dan,</l>
+<l>Kleederen van witte zyde</l>
+<l>Zult gy daer trekken aen:</l>
+<l>Klaer boven den christale</l>
+<l>Zal hy u schinken daer den wyn,</l>
+<l>Dat is in 's levens zaele,</l>
+<l>Zyn' liefd' en zal geen eynde zyn.</l>
+    <l rend="; 1tab">14. 't En is niet om gronderen,</l>
+<l>Noyt tong en heeft voorzeyt:</l>
+<l>De vreugd zonder cefferen</l>
+<l>Die u daer is bereyd,</l>
+<l>Van eeuwe tot eeuwe,</l>
+<l>Zult gy daer voor elks gezicht,</l>
+<pb n="C5v"/>
+<l>Blinken boven den sneeuwe,</l>
+<l>Als des Hemels zonne licht.</l>
+    <l rend="; 1tab">15. Geen hert en kan gedenken,</l>
+<l>Noyt oog' en heeft gezien,</l>
+<l>De blydschap zonder minken</l>
+<l>Die u daer zal geschien:</l>
+<l>Dan word gy uyt 't vervaeren,</l>
+<l>Van des weirelds zuer fenyn:</l>
+<l>Thien honderd duyzend jaeren</l>
+<l>Zal u maer als een' ure zyn.</l>
+    <l rend="; 1tab">16. Met recht mogt gy verblyden</l>
+<l>Gy Sionsche Bruyd,</l>
+<l>Daer word aen alle zyden</l>
+<l>Een overschoon geluyd</l>
+<l>Van harpen ende snaeren</l>
+<l>In alderhande vreugdenspel,</l>
+<l>Met de Liefste zult gy paeren</l>
+<l>Doet gy maer na zyn bevel.</l>
+    <l rend="; 1tab">17. Dan worden zy in sneven,</l>
+<l>En in banden gedaen,</l>
+<l>Die u hebben verdreven,</l>
+<l>En met schande weerstaen,</l>
+<l>Van ure tot ure</l>
+<l>Klimt haeren rook, zoo 't is voorzeyd.</l>
+<l>Altyd in getreure</l>
+<l>Van eeuwigheyd tot eeuwigheyd.</l>
+    <l rend="; 1tab">18. Princesse fleur der Vrouwen,</l>
+<l>Die u benyden zaen:</l>
+<l>Als zy zullen aenschouwen,</l>
+<l>Ter rechte zyde staen,</l>
+<l>Dan zullen zy drukkig klaegen</l>
+<pb n="C6r"/>
+<l>Dat zy met u den rechten pad,</l>
+<l>Niet en gingen na Gods behaegen,</l>
+<l>Maer het word te spaede wat.</l>
+<l rend="; 1tab">19. Oorlof u reynder gemeeten,</l>
+<l>Gy die in Sion zyt,</l>
+<l>Fondeert u op 't gesteente</l>
+<l>Christus gebenedyd:</l>
+<l>Gy en kont geenzins faelen,</l>
+<l>Volgt dezen weg aen elken kant,</l>
+<l>Tot in des Hemels paelen,</l>
+<l>In dat lustig belofde land.</l>
+<l><hi rend="i">FINIS</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0002"/></interpGrp>
+<head rend="h3"><hi rend="i">Een LIEDEKEN,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: hoe Tobias zynen zone leerde.</hi></head>
+<lg type="poem"><l>Hoort menschen allegaer</l>
+<l>Myn droevig klaegen,</l>
+<l>Hoe ik myn' pynen zwaer,</l>
+<l>All' myne dagen</l>
+<l>Verslyte in kermen,</l>
+<l>Wilt my ontfermen,</l>
+<l>Roep' ik Heer staet my by,</l>
+<l>En wilt my t'allen tyd</l>
+<l>Van druk beschermen.</l>
+<l rend="; 1tab">2. Hoe moet ik in vedriet,</l>
+<l>In zwaer' ellenden,</l>
+<l>In pynen zoo men ziet,</l>
+<l>Myn leven enden,</l>
+<l>In bitter lyden,</l>
+<l>Tot alle zyden</l>
+<pb n="C6v"/>
+<l>Och is 't niet een drukkig zyn</l>
+<l>Tot aller tyd in pyn,</l>
+<l>Zonder verblyden.</l>
+<l rend="; 1tab">3. Waer is dien schoonen tyd,</l>
+<l>Van myn jong leven?</l>
+<l>Dat ik leefde verblyd</l>
+<l>En zonder sneven,</l>
+<l>Myn' blyde dagen,</l>
+<l>Myn groot behaegen,</l>
+<l>Och! Al 's weirelds ydelheyd</l>
+<l>Mag ik met bitterheyd</l>
+<l>Nu wel beklaegen.</l>
+<l rend="; 1tab">4. Wat baet al myn plaisier,</l>
+<l>Myn domineren?</l>
+<l>Myn' vreugd en goede cier?</l>
+<l>Myn hoog floreren?</l>
+<l>Als ik moet scheyden,</l>
+<l>De door verbeyden:</l>
+<l>Och mensch dit gedachtig zyt,</l>
+<l>Wilt u met alle vlyt</l>
+<l>Tot deugd bereyden.</l>
+<l rend="; 1tab">5. Doordachtig zult gy zyn,</l>
+<l>Daer by oodmoedig,</l>
+<l>Getrouw in deugden,</l>
+<l>Voor quaed behoedig:</l>
+<l>Van herten reyn,</l>
+<l>In het gemeyn,</l>
+<l>Goed gezelschap t' aller tyd,</l>
+<l>'t Zal wezen groot profyt</l>
+<l>Voor groot en kleyn.</l>
+<l rend="; 1tab">6. Wilt schouwen hooveirdye</l>
+<pb n="C7r"/>
+<l>En ydelheden,</l>
+<l>Dronkenschap en brasserye,</l>
+<l>Onmaetigheden:</l>
+<l>Wilt wel op merken,</l>
+<l>In all' uw' werken:</l>
+<l>Quaed ingeven zult gy vlien,</l>
+<l>Zoekt raed by wyze lien</l>
+<l>Tot een versterken.</l>
+<l rend="; 1tab">7. Tot medelyden groot</l>
+<l>Zult gy u begeven,</l>
+<l>Troost de gen' die zyn in nood,</l>
+<l>En treurig leven:</l>
+<l>En weest barmhertig,</l>
+<l>Daer by goedhertig:</l>
+<l>God zal u helpen t'aller tyd,</l>
+<l>En troosten, als gy zyt</l>
+<l>In droefheyd smertig.</l>
+<l rend="; 1tab">8. Och! Hoe zyn zy verblend</l>
+<l>In 's weirelds minnen,</l>
+<l>Overpeyst den laesten end,</l>
+<l>Wat wy dan winnen?</l>
+<l>Met hooge staeten,</l>
+<l>Wat zal 't ons baeten,</l>
+<l>Als wy wellusten, goede cier,</l>
+<l>Rykdommen en plaisier</l>
+<l>Al moeten laeten.</l>
+<l rend="; 1tab">9. Gy menschen wat gy doet,</l>
+<l>Zult zyn gedachtig </l>
+<l>'t Onvergankelijk goed,</l>
+<l>Dat God almagtig</l>
+<l>Ider zal geven,</l>
+<pb n="C7v"/>
+<l>In 't eeuwig leven,</l>
+<l>Die God in oodmoedigheyd,</l>
+<l>Dienen met dankbaerheyd, </l>
+<l>Zak zyn verheven.</l>
+<l rend="; 1tab">10. O God! Vader van al:</l>
+<l>Wilt zonder stooren,</l>
+<l>In dit aerdsch droevig dal</l>
+<l>Myn roepen hooren:</l>
+<l>Myn zuchten, klaegen,</l>
+<l>Neemt geen mishaegen,</l>
+<l>In myn' pyn', benouwdheyd groot,</l>
+<l>Laet myn leven en dood</l>
+<l>U God behaegen.</l>
+<l rend="; 1tab">11. Wilt my arm zondaer groot</l>
+<l>Gedachtig wezen,</l>
+<l>En helpen uyt allen nood!</l>
+<l>O God geprezen!</l>
+<l>Weest myns gedachtig,</l>
+<l>O God almagtig!</l>
+<l>Als ik scheyde voor altyd,</l>
+<l>Maekt my eeuwig verblyd,</l>
+<l>Door uw naem krachtig.</l>
+<l rend="; 1tab">12. Wilt wezen wys gedacht,</l>
+<l>Gy aerdsche lieden,</l>
+<l>De deugd noyt en veracht,</l>
+<l>'t Quaed zult gy vlieden,</l>
+<l>Dient God met zinnen</l>
+<l>Vreest hem uyt minnen,</l>
+<l>Peyst hoe dat zy zyn verblyd</l>
+<l>Die voor eeuwig altyd</l>
+<l>Gods Ryk winnen.</l>
+<pb n="C8r"/>
+<l rend="; 1tab">13. Oorlof wilt dit ontfaen,</l>
+<l>'t Is t'uwer eeren,</l>
+<l>Wilt ontfangen dit vermaen,</l>
+<l>Tot deugd vermeeren:</l>
+<l>Weest dit gedachtig,</l>
+<l>Krank en onmagtig</l>
+<l>Lag ik in bitter verdriet</l>
+<l>Als ik dichte dit Lied</l>
+<l>Te bedde klagtig.</l>
+<l><hi rend="i">FINIS</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0003"/></interpGrp>
+<head rend="h3"><hi rend="i">Een Liedeken,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: Wilder als wild, wie zal'er my temmen.</hi></head>
+    <lg type="poem"><l>Wilt hoore<hi rend="i">n</hi> myn zinge<hi rend="i">n</hi> met droevige zuchte<hi rend="i">n</hi>,</l>
+<l>Want ik'er my droefheyd klaegen moet,</l>
+<l>Dat ik moet leven in ongenugten,</l>
+<l>'t Is het misval dat my dit doet.</l>
+<l rend="; 1tab">2. O droeve kanse gy doet'er my klaegen,</l>
+<l>Verslyten myn leven in pynen groot,</l>
+<l>Myn ongeluk zeer zwaer om draegen,</l>
+<l>Moet ik betreuren tot in myne dood.</l>
+<l rend="; 1tab">3. Het overdenken van myn jong leven,</l>
+<l>Van myne zinnekens heel verblend,</l>
+<l>Dat doet'er  myn hertjen zuchten en beven,</l>
+<l>Als ik bedenke den laesten end.</l>
+<l rend="; 1tab">4. O droevige weireld, vol ydelheden,</l>
+<l>Hoe vind' ik my nu met druk bevaen,</l>
+<l>Wel mag ik beklaegen met groote reden</l>
+<l>Den dienst die ik u hebbe gedaen.</l>
+<l rend="; 1tab">5. Waer zyn all' uwe beloften schoone,</l>
+<l>En al uw vleyen dat gy ons doet?</l>
+<pb n="C8v"/>
+<l>In alle bedrog spant gy de kroone,</l>
+<l>Nu wil ik vertreden u met den voet.</l>
+<l rend="; 1tab">6. Wat mogt het ons baeten en profiteren</l>
+<l>Als wy tot sterven ons maeken bereyd?</l>
+<l>Hier onze plaisieren te domineren,</l>
+<l>Als wy dan scheyden voor eeuwigheyd.</l>
+<l rend="; 1tab">7. Wy moeten 't al laeten wy moeten al scheyden</l>
+<l>Van deze weireld in korten tyd,</l>
+<l>De bittere dood wy al verbeyden,</l>
+<l>Och menschen! Dit al gedachtig zyt.</l>
+<l rend="; 1tab">8. Geen' lusten ter weireld wy vinden mogen</l>
+<l>Waer door ons hert zal wezen verzaed:</l>
+<l>Door ydelheden wy worden bedrogen:</l>
+<l>Wilt u afkeeren eer't word te laet.</l>
+<l rend="; 1tab">9. Wilt deugden beginnen, God dienen uyt minnen,</l>
+<l>Uw leven gebruyken tot zaligheyd,</l>
+<l>Dat wy Gods Ryk al mogen gewinnen,</l>
+<l>Met blyde zinnen hier nemen afscheyd.</l>
+<l rend="; 1tab">10. Den weg moet wezen zeer nouw' betreden,</l>
+<l>Die loopt nae 't eeuwig ziet,</l>
+<l>Vol pynen, douleuren, en zwaerigheden,</l>
+<l>Dat wy daer vinden is verdriet.</l>
+<l rend="; 1tab">11. Wilt volgen den weg zonder verdrieten,</l>
+<l>Wilt niet afwyken uw' zaligheyd:</l>
+<l>Peyst wat het is te mogen genieten</l>
+<l>Gods Ryke inder eeuwigheyd.</l>
+<l rend="; 1tab">12. Och! Die hun leven verslyten in zonden,</l>
+<l>Hoe zullen zy klaegen met bitter geween?</l>
+<l>Hoe zullen zy zuchten wilt dit doorgronden,</l>
+<l>Als hun dood zal komen scheen.</l>
+        <l rend="; 1tab">13. Och! Die voor eeuwig in pyne<hi rend="i">n</hi> moet zuchte<hi rend="i">n</hi></l>
+<pb n="D1r"/>
+<l>Oft te verblyven in 't leven zoet,</l>
+<l>Wilt dit verschil met zinnen beduchten,</l>
+<l>En overdenken wel wat gy doet.</l>
+<l rend="; 1tab">14. Oorlof hier mede nu all' te saeme,</l>
+<l>Wilt ons eens zingen met vreugden fyn,</l>
+<l>Wilt God beminnen en dienen bequaeme,</l>
+<l>In 't Ryk hier boven ontfangen zult zyn.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0004"/></interpGrp>
+<head rend="h3"><hi rend="i">Een Liedeken,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: Komt tot ons H. Geeft.</hi></head>
+<lg type="poem"><l>Loft God in eeuwigheyd,</l>
+<l>Gebenedyd moet wezen</l>
+<l>Uw' hooge Majesteyt // Weirdig geprezen.</l>
+<l rend="; 1tab">2. Gy die ons Vader zyt</l>
+<l>Geweest van het beginne,</l>
+<l>Verlicht ons t'aller tyd // Door uwe minne.</l>
+<l rend="; 1tab">3. Wilt ons menschen te saem,</l>
+<l>Van ongeluk beschermen,</l>
+    <l>Door uw weirdigen naem // Wilt ons ontferme<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">4. Lof zy u, Moeder schoon',</l>
+<l>Maria hoog geprezen,</l>
+<l>Die Moeder van Gods Zoon // Is uytgelezen.</l>
+<l rend="; 1tab">5. Hoogweirdig' koninginn',</l>
+<l>Lof zy u t'alle tyden,</l>
+<l>Want wy door uwe minn'// Ons nu verblyden.</l>
+<l rend="; 1tab">6. Gy waert reyn, puer, en net,</l>
+<l>Maget van God bevonden,</l>
+<l>Nocht noyt en waert besmet // met Adams zonden.</l>
+<l rend="; 1tab">7. Gy zyt in reynigheyd</l>
+<l>Maget altyd gebleven,</l>
+<l>Door Gods voorzichtigheyd // Moeder verheven.</l>
+<l rend="; 1tab">8. Van zynen eygen Zoon,</l>
+<pb n="D1v"/>
+<l>Het licht van alle menschen,</l>
+<l>Die daelt uyt zyn troon // na iders wenschen.</l>
+<l rend="; 1tab">9. Uyt medelyden groot,</l>
+<l>Quam God tot ons bevryden,</l>
+<l>Verlossen uyt den nood // Door zyn groot lyden.</l>
+<l rend="; 1tab">10. Gy zyt een' zuyv're Maegd,</l>
+<l>Maria vol van vreugden,</l>
+<l>Die God voor all' behaegt // Om uwe deugden.</l>
+<l rend="; 1tab">11. Ik bidde u Moeder schoon',</l>
+<l>Eerweirdige Princesse,</l>
+<l>Wilt wezen by uw Zoon // myn' voorspraekersse.</l>
+<l rend="; 1tab">12. Wilt wezen t' allen tyd</l>
+<l>Ons troost en medecyne,</l>
+<l>En maekt ons eeuwig vry // Van alle pyne.</l>
+<l rend="; 1tab">13. Lof dit is t'uwer eer',</l>
+<l>God en Maria mede,</l>
+<l>Jont ons almagtig Heer // D'eeuwigen vrede.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0005"/></interpGrp>
+<head rend="h3"><hi rend="i">Een LIEDEKEN;</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze van den Pater van Kortryk: ofte van: zy gaven my twee Patinnekens bloot.</hi></head>
+<lg type="poem"><l>Waer ik my keer', oft' waer ik my wende,</l>
+<l>Tot klaegen vind' ik my nu gezind,</l>
+<l>Och ed'le jonge aerdsche bende!</l>
+<l>Hoe langen tyd hebbe ik u bemint.</l>
+<l>Het dansen en springen en vroylykheyd,</l>
+<l>De vreugd maer meest in stilligheyd.</l>
+<l rend="; 1tab">2. Maer nu moet ik met drukkigheden,</l>
+<l>Beklaegen myn bitter verdriet,</l>
+<l>En all' myn' zwaer' ellendigheden,</l>
+<l>En pynen groot alzoo men ziet.</l>
+<l>Och! Myn jong leven moet ik voorwaer</l>
+<pb n="D2r"/>
+<l>Verslyten in veel pynen zwaer.</l>
+<l rend="; 1tab">3. En ook moet noch myn hert betreuren,</l>
+<l>Myn lief die ik te vryen plag,</l>
+<l>Dat zy my noyt en mag gebeuren,</l>
+<l>Dit is voor my zoo bitter geklag,</l>
+<l>Och! Liefste hoe hebb' ik u bemint,</l>
+<l>Zoo waert gy ook tot my gezint.</l>
+<l rend="; 1tab">4. Waer is dien tyd, waer zyn die dagen?</l>
+<l>Waer is nu onze trouwe min?</l>
+<l>Och! Dat myn' oogen u oyt zagen,</l>
+<l>Het valt my zomtyds in den zin,</l>
+<l>Dan was 't my vreugd zoo ik u zeyd,</l>
+<l>Nu is 't my dobbel pynelykheyd.</l>
+<l rend="; 1tab">5. Ok klaer gezicht 't welk my doorstraelde,</l>
+<l>Uw wezen zoet, uw' vriendschap groot:</l>
+<l>Beleefdheyd in u niet en faelde,</l>
+<l>Uw' minzaemheyd, uw' wangen rood;</l>
+<l>Dit deed myn hert zoo menige vreugd,</l>
+<l>Met uw te wezen in eer' en deugd.</l>
+<l rend="; 1tab">6. Myn dienst die ik u presenteerde,</l>
+<l>Dachte my te wezen u aengenaem:</l>
+<l>Getrouwigheyd in ons floreerde;</l>
+<l>Met blydschap waeren wy te saem:</l>
+<l>Wat ik u vraegde wierd niet ontzeyt,</l>
+<l>Als 't was in deugd en eerbaerheyd.</l>
+<l rend="; 1tab">7. Geen tyd my deed by u verlangen,</l>
+<l>Getrouw te wezen was mynen zin:</l>
+<l>Altyd vond ik myn hert bevangen,</l>
+<l>Belust tot uwe zoete minn':</l>
+<l>Zoo was uw hert ook zoo 't behoort,</l>
+<l>Getrouw waeren wy, en een accoort.</l>
+<pb n="D2v"/>
+<l rend="; 1tab">8. Van droefheyd dunkt myn hert te breken,</l>
+<l>Waer heeft het misval my gestelt,</l>
+<l>De traenen my van d'oogen uytleken,</l>
+<l>Dat ik my vind' heel neergevelt:</l>
+<l>Och! Hoe moet ik in bitterheyd,</l>
+<l>In zwaeren druk nemen afscheyd.</l>
+<l rend="; 1tab">9. Och liefste zoet, moeten wy scheyden,</l>
+<l>Het scheyden is my groot verdriet:</l>
+<l>Den Heer wilt ons altyd geleyden,</l>
+<l>Na zynen wille die 't al voorziet;</l>
+<l>Adieu myn lief, maekt geen' droefheyd,</l>
+<l>Maer peyst op uwe zaligheyd.</l>
+<l rend="; 1tab">10. Oorlof nu all' in 't generaele,</l>
+<l>Bid God den Heer met vlytigheyd,</l>
+<l>Peyst op de ziel', 't is principaele,</l>
+<l>Want 't moet van hier al worden gescheyd,</l>
+<l>Dient God den Heer, 't is korten tyd,</l>
+<l>Om eeuwig te wezen met hem verblyd.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0006"/></interpGrp>
+<head rend="h3"><hi rend="i">Nieuwjaer Liedeken,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: Ik zag een Cavallier al by een jonkvrouw fier.</hi></head>
+<lg type="poem"><l>Nu will'ik eens gaen zingen</l>
+<l>Een Lied van groote vreugd,</l>
+<l>Dees wond're zoete dingen,</l>
+<l>Maekt my den geest verheugt:</l>
+<l>De vreugd die my komt aen,</l>
+<l>Den druk al doet vergaen,</l>
+<l>Als ik bedenken mag, Ons aller blyden dag.</l>
+<l rend="; 1tab">2. Nu is ons hier geboren</l>
+<l>Een kindeken zeer kleyn,</l>
+<l>Uyt een' Moeder verkoren,</l>
+<l>En zy blyft Maget reyn:</l>
+<pb n="D3r"/>
+<l>Een kind vol weirdigheyd,</l>
+<l>Tot 's menschens zaligheyd,</l>
+<l>Gekomen naekt en bloot,</l>
+<l>Uyt God zyns Vaders schoot.</l>
+<l rend="; 1tab">3. Den God zeer groot van weirden,</l>
+<l>Die ligt in een kleyn stal,</l>
+<l>Veel pyn' wilt hy aenveirden,</l>
+<l>Om ons te helpen al:</l>
+<l>Tusschen twee beesten, ziet,</l>
+<l>In koude en verdriet,</l>
+    <l>In een kribbeken kleyn // ligt dat kindeke<hi rend="i">n</hi> reyn.</l>
+<l rend="; 1tab">4. Nu will' ik eens gaen groeten,</l>
+<l>Met de herderkens zoet,</l>
+<l>Dit kindeken ontmoeten,</l>
+<l>Met blydschap overvloed:</l>
+<l>Willekom zyt gy Heer, O kleyn kindeken teer,</l>
+<l>O kind vol weirdigheyd,</l>
+<l>Dat daer in doekskens leyt.</l>
+<l rend="; 1tab">5. De Engelkens te saemen</l>
+<l>Zingen muziek zeer fyn,</l>
+<l>Vrede den mensch bequaemen,</l>
+<l>Die goed van wille zyn,</l>
+<l>Zy zingen daer muzyk // en loven all' gelyk,</l>
+<l>Die hier komt na ons wensch,</l>
+<l>Is nu God ende Mensch.</l>
+<l rend="; 1tab">6. Loft God in eeuwigheden,</l>
+<l>Lof zy u t'aller tyd,</l>
+<l>Lief kind vol weirdigheden,</l>
+<l>Die ons van 't quaed bevryd:</l>
+<l>God in druk en pyn' // komt ons verlosser zyn,</l>
+<l>Zal ons uyt allen nood // verlossen van de dood.</l>
+<pb n="D3v"/>
+<l rend="; 1tab">7. Den achtsten dag betoonen</l>
+<l>Wilt hy zyn liefde groot,</l>
+<l>Om ons misdaed te schoonen</l>
+<l>Leed hy dees pynen bloot,</l>
+<l>Hy word besneden ziet // met pynen en verdriet</l>
+<l>Gestort zyn dierbaer bloed,</l>
+<l>Heeft dit kindeken zoet.</l>
+<l rend="; 1tab">8. Den pand is nu gegeven</l>
+<l>Om ons te helpen all',</l>
+<l>God komt als mensch hier leven</l>
+<l>In dit aersch droevig dal,</l>
+<l>Doen noch ons behoed // ontfing een naeme zoet,</l>
+<l>Die den mensch is bequaem,</l>
+<l>Jesus is zyn naem.</l>
+<l rend="; 1tab">9. Gebenedyd moet wezen</l>
+<l>Voor eeuwig dezen naem,</l>
+<l>Die God heeft uytgelezen</l>
+    <l>Tot zaligheyd bequaem // voor ons zondaere<hi rend="i">n</hi> all'</l>
+<l>Komt nu met blyd geschal,</l>
+<l>Komt menschen komt altyd,</l>
+<l>Jesus gebenedyd.</l>
+<l rend="; 1tab">10. Oorlof nu altemaele</l>
+<l>Loft met een blyd gemoed,</l>
+<l>Jesus in 't generaele // Nu ons verblyden doet,</l>
+<l>Loft God t'allen termyn,</l>
+<l>Wilt hem dankbaerig zyn,</l>
+    <l>Die ons komt in de<hi rend="i">n</hi> nood // verlossen van de dood.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0007"/></interpGrp>
+<head rend="h3"><hi rend="i">Liedeken</hi></head>
+<div type="section">
+<head rend="h4"> [<hi rend="i">op de wyze van 't Liedeken van Lavaert.</hi></head>
+<lg type="poem"><l>Op eenen tyd wilt my verstaen</l>
+<l>Alzoo ik was gezeten,</l>
+<l>Al op myn bedde met druk belaen,</l>
+<pb n="D4r"/>
+<l>Wilt my aenhooren zonder versmaen,</l>
+<l>Myn' droefheyd kan ik niet vergeten.</l>
+<l rend="; 1tab">2. Eylaes wat komt my in 't gemoed</l>
+<l>En hoe vind' ik my bevangen,</l>
+<l>O vreed misval! Wat gy my doet,</l>
+<l>Het plagt my te wezen zoet,</l>
+<l>Nu ligg' ik in bitter verlangen.</l>
+<l rend="; 1tab">3. Waer is den tyd die my nu hier</l>
+<l>Al is voorby getreden,</l>
+<l>Myn dansen, myn springen met volle plaisier</l>
+<l>Myn wandelen, banquetteren en goede cier?</l>
+<l>Waer zyn ook myn' zwakke leden.</l>
+<l rend="; 1tab">4. Vol van plaisier 't herte verblind,</l>
+<l>Plagt ik altyd te wezen:</l>
+<l>Och tyd! Och tyd! Gelukkig tyd:</l>
+<l>Als ik my vond van pynen bevryd,</l>
+<l>Och tyd! Weirdig zyt gy geprezen.</l>
+<l rend="; 1tab">5. Maer nu vind ik my neder geveld</l>
+<l>Vol pynen, vol douleuren,</l>
+<l>Als een lam op de vleeschbank gesteld</l>
+<l>Gebrogt door pynen en geweld,</l>
+<l>Met reden mag ik nu wel treuren.</l>
+<l rend="; 1tab">6. O weireld gy ongetrouwen vriend,</l>
+<l>Wat loon zult gy my geven?</l>
+<l>Dat ik u hebbe den tyd gedient</l>
+<l>Twee-en-twintig jaeren zoo men hier vind</l>
+<l>Met de penne klaer geschreven.</l>
+<l rend="; 1tab">7. O ydel bedrog! O valschen raed!</l>
+<l>Waer door gy my verblende,</l>
+<l>Met uw' beloft' van den hoogen staet,</l>
+<l>Lang leven, plaisier, maer uwe daed,</l>
+<pb n="D4v"/>
+<l>Is al pyn' en zwaer' ellende.</l>
+<l rend="; 1tab">8. Och! Als wy scheyden het is voor al,</l>
+<l>Moet ik nu zulks genieten?</l>
+<l>Moet ik verlaeten met bitter geschal,</l>
+<l>Myn' vrienden, en maegen veel in 't getal,</l>
+<l>Och! Hoe mag myn jonk hert verdrieten.</l>
+<l rend="; 1tab">9. O dood! Hoe vreed is uw gelaed,</l>
+<l>Hoe stuer is uw aenschouwen?</l>
+<l>Eylaes! Niemand voorby en gaet,</l>
+<l>O dood! O bitter fel gelaed,</l>
+<l>Doet my van traenen nat bedouwen.</l>
+<l rend="; 1tab">10. Gy alle terwylen dat gy hier zyt,</l>
+<l>Bid God dat hy u zende</l>
+<l>Zyn' goede gratie gebenedyd,</l>
+<l>Dat wy met God worden verblyd,</l>
+<l>Voor eeuwig altyd zonder ende.</l>
+<l rend="; 1tab">11. Nu voor het laeste wilt dit ontstaen,</l>
+<l>Laet u ook niet verdrieten,</l>
+<l>Met goede gebeden by te staen,</l>
+<l>Zoo zal voor u worden gedaen,</l>
+<l>Want zoo gy doet zult gy genieten.</l>
+<l rend="; 1tab">12. Oorlof nu alle in 't generael,</l>
+<l>Adieu als ik moet scheyden:</l>
+<l>Wy moeten hier scheyden altemael,</l>
+<l>Peyst op de ziel' 't is 't principael:</l>
+<l>Adieu God wilt ons all' geleyden.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0008"/></interpGrp>
+<head rend="h3"><hi rend="i">Een ander Liedeken.</hi></head>
+<lg type="poem"><l>Cupido hoort myn klaegen,</l>
+<l>Op dit termyn,</l>
+<l>By nachten en by dagen</l>
+<l>Lyd' ik gepyn:</l>
+<pb n="D5r"/>
+<l>Myn lief heeft my begeven // Om 't groote goed,</l>
+<l>Och Cupido verheven // My bystand doet.</l>
+<l rend="; 1tab">2. Wilt my uw bystand toonen</l>
+<l>Vrouw Venuw kind,</l>
+<l>Myn lief wilt my niet loonen,</l>
+<l>Zoo nu 't wel schynt,</l>
+    <l>Door die groote rykdomme<hi rend="i">n</hi> // Word zy verblend</l>
+<l>Hierom is 't dat ik kome // In dit torment.</l>
+<l rend="; 1tab">3. 't Goed is de meeste cause</l>
+<l>Van myn getreur // Dus beginn' ik myn' clause</l>
+<l>Met groot douleur:</l>
+<l>Liefde plagt te floreren // Aan elken kant,</l>
+<l>Maer 't goed heeft nu te zeere // De overhand.</l>
+<l rend="; 1tab">4. Waer ik van goede ryke,</l>
+<l>Ik waer verheugd,</l>
+<l>Zy en zoud' van my niet wyken,</l>
+<l>Die zuyv're jeugd,</l>
+<l>Ik zoud' wel troost gewinnen,</l>
+<l>Nu treuren ik moet, </l>
+    <l>Want zy stelt all' haer' zinne<hi rend="i">n</hi> // Op't groote goed.</l>
+<l rend="; 1tab">5. 't Goed neemt (laecen) zyn' gangen,</l>
+    <l>Als sneeuw op 't veld // Daer zy al met verlange<hi rend="i">n</hi></l>
+<l>Haer zin op stelt // Maer daer is liefde puere,</l>
+<l>Die zy kleyn acht,</l>
+<l>Groeyt van ure tot ure, Dag ende nacht.</l>
+<l rend="; 1tab">6. Wat mag ter weireld baeten,</l>
+<l>Goed oft schat // Zy moeten 't hier al laeten,</l>
+<l>'t Zy dorp ofte stad,</l>
+<l>Wat baet haer grond oft erven</l>
+<l>In 't aerdsche dal?</l>
+<l>Zoo wel als zy moet sterven // Het blyft hier al.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0009"/></interpGrp>
+<pb n="D5v"/>
+<head rend="h3"><hi rend="i">Een Liedeken,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: alzoo 't begint.</hi></head>
+<lg type="poem"><l>Jephta een strydbaer held vermaerd,</l>
+<l>Van een' hoer' gebaerd,</l>
+<l>Was Galaads zoon die kreeg daer na</l>
+<l>Meer echtelyke vruchten,</l>
+<l>Als zy groot waeren, zy Jephta</l>
+<l>Deden vluchten.</l>
+<l rend="; 1tab">2. In 't Landschap Top daer woonde hy</l>
+<l>En hem vielen by,</l>
+<l>Veel looze lieden, haer Kapiteyn</l>
+<l>Wierd hy naer deze tyden,</l>
+<l>Daer quamen de Amoniten in 't pleyn. Om te stryden</l>
+<l rend="; 1tab">3. Om te stryden tegen Israël,</l>
+<l>Die van Galaad snel,</l>
+<l>Zonder die ouders namen den man</l>
+<l>Dat hy haer hoofd zoud' wezen,</l>
+<l>En deden hem goede beloften van // Allen dezen.</l>
+<l rend="; 1tab">4. Indien de kinderen van Ammon</l>
+<l>Met hulpe verwon,</l>
+<l>Zoo zouden die van Galaad staen</l>
+<l>Onder Jephtas gebieden:</l>
+<l>Met zulke beloften is gegaen</l>
+<l>Met hunlieden.</l>
+<l rend="; 1tab">5. Den koning van Ammon hy vraegen liet</l>
+<l>Den waerom ziet,</l>
+<l>Dat hy hem quam bestreyden vry?</l>
+<l>Den koning gaf antwoorde:</l>
+<l>Om dat Israël nam dat my // Toebehoorde.</l>
+<l rend="; 1tab">6. Als zy quamen uyt Egyptenland</l>
+<l>Met geweldiger hand,</l>
+<l>Van Araon tot Jacob toe,</l>
+<pb n="D6r"/>
+<l>En tot aen de Jordaene,</l>
+<l>Geeft my weder dat het staet in 't goed Te vergaene.</l>
+<l rend="; 1tab">7. Jephta ontbloot gelyk onschuld klaer</l>
+<l>Voor Israël: maer,</l>
+<l>Den Koning zyn reden niet aen en nam,</l>
+<l>Gelyk den obstinaeten,</l>
+<l>Maer 's Heeren Geest op Jephta quam,</l>
+<l>t' Zynder baeten.</l>
+<l rend="; 1tab">8. Jephta ten stryde van daer trak,</l>
+<l>Belofde en sprak:</l>
+<l>O Heere! Geeft gy-ze in mynder hand,</l>
+<l>En ik met vreugden keere</l>
+<l>Een offer zal ik u met brand,</l>
+<l>Doen, O Heere!</l>
+<l rend="; 1tab">9. Hy dede alzoo men lezen mag,</l>
+<l>Een zoo grooten flag,</l>
+<l>Dat d'Amoniten zeer confuys,</l>
+<l>Verloren twintig Steden,</l>
+<l>Alzoo dat Jephta weder t'huys</l>
+<l>Quam met vreden.</l>
+<l rend="; 1tab">10. Maer als hy voor zyn huys quam, ziet,</l>
+<l>Och! Wat meerder verdriet,</l>
+<l>Zyn' lieve dochter quam hem te gemoet,</l>
+<l>Met spelen en tamboeren,</l>
+<l>Van droefheyd mogt al zyn bloed</l>
+<l>Wel beroeren.</l>
+<l rend="; 1tab">11. Hy en hadde kinderen groot nocht' kleyn,</l>
+<l>Als dees dochter alleyn,</l>
+<l>Hy scheurde zyn' kleederen, en heeft gezeyt:</l>
+<l>Och myn dochter getrouwe,</l>
+<l>Hoe brengt gy my weder in droefheyd,</l>
+<pb n="D6v"/>
+<l>En in rouwe.</l>
+<l rend="; 1tab">12. Want ik hebbe tegen den Heere zaen</l>
+<l>Myn mond open gedaen;</l>
+<l>Zulks ik niet weerroepen en mag:</l>
+<l>Als zyn' dochter dit hoorde,</l>
+<l>Zy gaf verduldig met verdrag,</l>
+<l>Zulk' antwoorde.</l>
+<l rend="; 1tab">13. Myn vader hebt  geopend uw mond</l>
+<l>Tot den Heer een verbond,</l>
+<l>Zoo stell' ik myn zelven in uw' hand,</l>
+<l>Doet zoo gy hebt gesproken,</l>
+<l>Naer dat u God aen uw vyand</l>
+<l>Heeft gevroken.</l>
+<l rend="; 1tab">14. Maer Vader wilt my toelaeten alleen</l>
+<l>Dat ik gaen en beween',</l>
+<l>Met myn' speelinne alom</l>
+<l>Op de bergen verheven,</l>
+<l>Twee maenden lang myn maegdom,</l>
+<l>En jong leven.</l>
+<l rend="; 1tab">15. Zy ging na haer Vaders consent,</l>
+<l>Met haer' maegdekens jent,</l>
+<l>Beweenen haer' maegdelykheyd,</l>
+<l>De bergen op en neder,</l>
+<l>En op den tyd van haer gezeyd</l>
+<l>Quam zy weder.</l>
+<l rend="; 1tab">16. Den Vader voldeed dan zyn' beloft',</l>
+<l>Met zyn' dochter, maer oft' </l>
+<l>In zyn herte was droefheyd kleen,</l>
+<l>Oordeelde elk met verstande,</l>
+<l>God toegeëygent word, zy tot een' Offerande.</l>
+<l rend="; 1tab">17. Zy en hadde noyt van man onschuld,</l>
+<pb n="D7r"/>
+<l>En elk jaer vervult,</l>
+<l>Vier dagen lang versaemden haer,</l>
+<l>De Israëlsche Maegden,</l>
+<l>Och! Wonderlyk deze Maget eerbaer,</l>
+<l>Zy beklaegden.</l>
+<l rend="; 1tab">18. Dit doen van Jephta tot een' leering'</l>
+<l>Voor elk Christen vriend,</l>
+<l>Dus weest getrouwe ende constant,</l>
+<l>Offert dat lichaem doodig,</l>
+<l>Wilt houden Gods belofte, want</l>
+<l>Het is noodig.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0010"/></interpGrp>
+<head rend="h3"><hi rend="i">Nieuwjaer LIEDEKEN</hi></head>
+<lg type="poem"><l>Weest gegroet Nieuwgeboren,</l>
+<l>Weest gegroet kind uytverkoren,</l>
+<l>Die hier ligt in dezen stal,</l>
+<l>En gy den aldermeesten,</l>
+<l>Ligt in 't midden van twee beesten:</l>
+<l>Die den Hemel heeft gemaekt,</l>
+<l>Hoe komt gy dus bloot en naekt?</l>
+<l rend="; 1tab">2. Tot randzoen van uwe zonden,</l>
+<l>Ben ik mensch tot u gezonden,</l>
+<l>En om die diensten straf,</l>
+<l>Kom' ik van den Hemel af,</l>
+<l>t'Allen kanten t'allen hoeken</l>
+<l>Kom' ik mensch uw' ziele zoeken,</l>
+<l>En al ben ik naekt en bloot</l>
+<l>U verlossen van de dood.</l>
+<l rend="; 1tab">3. Waer dat kindeken noyt geboren,</l>
+<l>En wy waeren al verloren,</l>
+<l>En wy waeren al versmacht,</l>
+<pb n="D7v"/>
+<l>Door des vyands groote magt:</l>
+<l>Maer dat kind was ons behoeder,</l>
+<l>Door Maria zyne Moeder,</l>
+<l>Die in dezen kouden nacht,</l>
+<l>Hem ter weireld heeft gebragt.</l>
+<l rend="; 1tab">4. Mogt ik doch eens ontmoeten,</l>
+<l>En u o Jesus groeten,</l>
+<l>En al na myns herten dorst</l>
+<l>Hem ook leggen op myn' borst:</l>
+<l>Nocht' om leven nocht' om sterven,</l>
+<l>Zoud' ik Jesus willen derven,</l>
+<l>Adieu 's weirelds ydelheyd // Jesus is myn' zaligheyd.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0011"/></interpGrp>
+<head rend="h3"><hi rend="i">Nieuwjaers LIEDEKEN</hi></head>
+<lg type="poem"><l>In Jesus naeme // Broeders eerzaeme,</l>
+<l>Stelt u eenpaer // Nu te beginnen</l>
+    <l>Hem te beminne<hi rend="i">n</hi> // Al in dit zoete Nieuwjaer.</l>
+<l rend="; 1tab">2. Een herte reyne // Ook anders geyne,</l>
+<l>Dit 's al voorwaer // Minnen alleene</l>
+<l>'t Kindeken kleene // Al in dit zoete Nieuwejaer.</l>
+<l rend="; 1tab">3. Hij heeft geleden // Hy is besneden</l>
+<l>Dit 's openbaer // Wilt u besnyden</l>
+    <l>Zonder vermyde<hi rend="i">n</hi> // Al in dit zoete Nieuwejaer.</l>
+<l rend="; 1tab">4. Zyn heylig sterven // Genoegte derven</l>
+<l>Dits' openbaer // Die doet verwerven</l>
+    <l>Dit hemelsche erve<hi rend="i">n</hi> // Al in dit zoete Nieuwejaer.</l>
+<l rend="; 1tab">5. Och Maria schoone // Bid uwen Zoone,</l>
+<l>O Maget klaer // Den God hier boven,</l>
+<l>Wy eeuwig loven // Al in dit zoete Nieuwejaer.</l>
+<l rend="; 1tab">6. Vader almagtig // Zone eendragtig,</l>
+<l>Heylig Geest klaer // Een God Dryvuldig</l>
+<l>Verheft ons schuldig // Al in dit zoete Nieuwejaer.</l>
+</lg></div>
+    <div type="chapter">
+        <interpGrp><interp type="song" value="fore024refe01_0012"/></interpGrp>
+        <pb n="D8r"/>
+<head rend="h3"><hi rend="i">Een ander LIEDEKEN</hi></head>
+<lg type="poem"><l>Groote Moeder sterke Maget,</l>
+<l>Zek're sterre van de zee,</l>
+<l>Die gedurig zorge draegen,</l>
+<l>Voor uw' schaepkens, voor uw vee:</l>
+<l>Wilt-ze met uw' jonst' gemoeten,</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<l>Die u hier komen begroeten,</l>
+<l>Met den weirden Roozenkrans.</l>
+<l rend="; 1tab">2. Laet eens uw gezichte daelen,</l>
+<l>Ivers uyt een' klaere wolk', </l>
+<l>Nae de westersche Vlaemsche paelen,</l>
+<l>Op dat vierig Akkervolk,</l>
+<l>Wilt-ze niet uw' jonst' gemoeten</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<l>Die u hier komen begroeten</l>
+<l>Met den weirden Roozenkrans.</l>
+<l rend="; 1tab">3. Ziet met voordaed en met preken,</l>
+<l>Heeft Dominicus geslacht'</l>
+<l>Met deugds werken 't is gebleken,</l>
+<l>Zulks in het gebruyk gebragt:</l>
+<l>Wilt-ze met uw' jonst' gemoeten,</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<l>Die u hier komen begroeten</l>
+<l>Met den weirden Roozenkrans.</l>
+<l rend="; 1tab">4. Prochievolk gansch uytgelaeten,</l>
+<l>Komt u hier vallen te voet,</l>
+<l>En worden all' onderzaeten</l>
+<l>Van Marias Roozenhoed;</l>
+<l>Wilt-ze met uw' jonst' gemoeten</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<pb n="D8v"/>
+<l>Die u hier komen begroeten,</l>
+<l>Met den weirden Roozenkrans.</l>
+<l rend="; 1tab">5. Moeder Gods wilt my ontfermen</l>
+<l>En al 't volk van uwen krans,</l>
+<l>Wilt u goed en land beschermen,</l>
+<l>Voor den Geus, en voor den Frans:</l>
+<l>Wilt-ze met uw' jonst' gemoeten</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<l>Die u hier komen begroeten</l>
+<l>Met den weirden Roozenkrans.</l>
+<l rend="; 1tab">6. Maekt dat deze Davids slinger</l>
+<l>Pletten mag dat rouwig hoofd,</l>
+<l>Van dien Israël bespringer,</l>
+<l>Die u van uw' eer' berooft:</l>
+<l>Wilt-ze met uw jonst' gemoeten,</l>
+<l>Kinders, vrouwen, ende mans,</l>
+<l>Die u hier komen begroeten,</l>
+<l>Met den weirden Roozenkrans. </l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0013"/></interpGrp>
+<head rend="h3"><hi rend="i">Een Amoureus LIEDEKEN</hi></head>
+<lg type="poem"><l>Het Nachtegaelken kleyne,</l>
+<l>Verheugt den zomer schoon,</l>
+<l>Met zynen zoeten zang,</l>
+<l>In 't woud by een' fonteyne:</l>
+<l>En daer heeft een persoon</l>
+<l>Geluystert nae den zang,</l>
+<l>Den tyd viel te lang,</l>
+<l>De wilde dieren sprongen</l>
+<l>Al in dit zoete dal,</l>
+<l>De wilde vogelen zongen</l>
+<l>Lieffelyk overal.</l>
+<l rend="; 1tab">2. In 't woud stond een' valeye,</l>
+<pb n="E1r"/>
+<l>Vercierd met bloemkens reyn,</l>
+<l>Schoon ende triumphant,</l>
+<l>Daer ging ik my vermeyen,</l>
+<l>Zoo lustig in dat pleyn,</l>
+<l>Daer ik de liefste vant,</l>
+<l>Ik zag langs eenen kant</l>
+<l>Komen in die landouwe</l>
+<l>In witte zyde gekleed,</l>
+<l>'t Was alzoo schoone Vrouwe,</l>
+<l>Als ik ter weireld weet.</l>
+<l rend="; 1tab">3. Als zy my wierd gewaer,</l>
+<l>Hoe vriendelyk dat zy loeg,</l>
+<l>Met haeren rooden mond,</l>
+<l>Dan quam 't in 't openbaer,</l>
+<l>Wat jonste zy my droeg,</l>
+<l>Als ik haer' trouwe vond</l>
+<l>Myn hert dat wierd gezond,</l>
+<l>Door deze Maegd geprezen,</l>
+<l>Meer als Helena schoon,</l>
+<l>Dochte zy my te wezen</l>
+<l>Onder des hemels Troon.</l>
+<l rend="; 1tab">4. Wy gingen diverteren</l>
+<l>Daer houden hand aen hand,</l>
+<l>Als twee zoete lieven doen,</l>
+<l>Zoo vriendelyk passeren,</l>
+<l>'t Scheen het Belofde Land:</l>
+<l>Zoo lustig was plaisant,</l>
+<l>Den Mey schoon t'elken kant,</l>
+<l>'t Was er vol duyzend vreugden,</l>
+<l>Dat door de minne gloet</l>
+<l>Ons herte beyd verheugde,</l>
+<pb n="E1v"/>
+<l>Denkt wat een' liefde doet.</l>
+<l rend="; 1tab">5. Wy zongen daer musyke,</l>
+<l>Al op dat snaer gespel,</l>
+<l>Melodieus en zoet:</l>
+<l>Wy spraken Rethoryke</l>
+<l>Lustig zonder gequel,</l>
+<l>Met eenen blyden moed,</l>
+<l>Maer 't was er al voorspoed,</l>
+<l>In des weirelds warranden,</l>
+<l>Wy maekten eenen dans,</l>
+<l>Myn lief met haere handen,</l>
+<l>Van Roozen eenen krans.</l>
+<l rend="; 1tab">6. Daer naer gingen wy rusten,</l>
+<l>Al onder 't groene rys,</l>
+<l>Al op dat zelve pas</l>
+<l>In een priëel met lusten,</l>
+<l>Het scheen het Paradys,</l>
+<l>'t Welk vol plaisantheyd was,</l>
+<l>Verborgen in dat gras,</l>
+<l>Heeft een slange gezeten,</l>
+<l>Die myn lief in den voet</l>
+<l>Doodelyk heeft gebeten,</l>
+<l>'t Geen ik betreuren moet.</l>
+<l rend="; 1tab">7. 't Fenyn heeft haer bevangen,</l>
+<l>Zy stierf de bitt're dood</l>
+<l>In al zoo korten stond,</l>
+<l>Die daer met spel en zangen</l>
+<l>Bloemekens in haeren schoot,</l>
+<l>Fraey was ende gezond,</l>
+<l>Ook myns liefs rooden mond,</l>
+<l>Wierd heel bleek van koleure,</l>
+<pb n="E2r"/>
+<l>In haer' wellustigheyd,</l>
+<l>Moest zy de dood bezueren,</l>
+<l>En zoo nemen wy afscheyd.</l>
+<l rend="; 1tab">8. Och! Scheyden bitter scheyden,</l>
+<l>Hoe hard is uw gelag,</l>
+<l>Zoo ik vond present,</l>
+<l>Wy gingen ons vermeyden,</l>
+<l>Noch heden dezen dag</l>
+<l>Nu ligt myn lief geschend,</l>
+<l>Voorwaer des menschens end,</l>
+<l>Men ziet-ze haest verdwynen,</l>
+<l>Gelyk den rook vergaen,</l>
+<l>Vol droefheyd ende pynen,</l>
+<l>'t Is hier zoo haest gedaen.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0014"/></interpGrp>
+<head rend="h3"><hi rend="i">Een geestelyk LIEDEKEN.</hi></head>
+<lg type="poem"><l>Staet op met groot verlangen</l>
+<l>O gy dochters van Sion,</l>
+<l>Den winter is nu gegangen,</l>
+<l>En den zomer komt in 't saisoen,</l>
+<l>Den Mey die staet ontlokken,</l>
+<l>Met zyn' blad'ren groen van van spruyt,</l>
+<l>De bloemekens zoet van rooke,</l>
+<l>En zoo menigerhande kruyd.</l>
+<l rend="; 1tab">2. Verlaet die vremde boelen,</l>
+<l>U uyt liefde te mynewaerds wend,</l>
+<l>Want den sneeuw verliest gevoelen,</l>
+<l>Door de zonn' is zy geënd,</l>
+<l>Die vogelkens wilt verzinnen,</l>
+<l>Die zynder van herten bly,</l>
+<l>Zy zingen den zang van minnen</l>
+<l>Tusschen u lief, ende my.</l>
+<pb n="E2v"/>
+<l rend="; 1tab">3. Is alles vol lusten spoedig,</l>
+<l>Den wyngaerd brengt vruchten voord,</l>
+<l>Dat tortelduyfken zachtmoedig,</l>
+<l>Zyn geluyd men lieffelyk hoort,</l>
+<l>Den fier moy nachtegaele</l>
+<l>Die zingt een helder lied,</l>
+<l>De bie met haere straelen</l>
+<l>Op all' de bloemekens ziet.</l>
+<l rend="; 1tab">4. Wilt u verjubileren,</l>
+<l>In den lieffelyken tyd,</l>
+<l>En t'saemen gaen triumpheren,</l>
+<l>In die veldekens breed en wyd:</l>
+<l>Daer zult gy mogen hooren</l>
+<l>Alderhande vogelen stem,</l>
+<l>Wy zullen noch vreugd oorbooren</l>
+<l>In dat nieuwe Jeruzalem.</l>
+<l rend="; 1tab">5. Wandelt nu vry in myn' wegen</l>
+<l>Hier beneden in 't aerdsche perk,</l>
+<l>Uw vyand hebb' ik verslegen,</l>
+<l>En den peys gesloten sterk,</l>
+<l>Waer van de twaelf trompetten</l>
+<l>Geven een zeker geluyd,</l>
+<l>Komt nu zonder verletten,</l>
+<l>O! Myn' alderliefste Bruyd.</l>
+<l rend="; 1tab">6. Al word gy hier in 't verzeeren,</l>
+<l>Van vremde minnaeren benyd,</l>
+<l>Uw' droefheyd zal verkeeren</l>
+<l>Al binnen korten tyd,</l>
+<l>Want in myns Vaders zaele</l>
+<l>En daer is 't genoegelyk zyn,</l>
+<l>Want daer zingt' er in 't generaele,</l>
+<pb n="E3r"/>
+<l>Zoo menige Engelen zyn:</l>
+<l rend="; 1tab">7. Laet u geenzins bezwaeren,</l>
+<l>Blyft standvastig van herten reyn,</l>
+<l>En wilt met geen ander paeren,</l>
+<l>Als alleen met my certeyn:</l>
+<l>Want ik ben iverzuchtig van werke,</l>
+<l>In myn' liefde niet verflouwt,</l>
+<l>Komt myn' Bruyd, myn' Duyv', myn' Kerke,</l>
+<l>Die ik vastelyk hebbe getrouwt.</l>
+<l rend="; 1tab">8. Waer zoud gy een verwerven</l>
+<l>Onder 's weireldsch minnaeren</l>
+<l>Die voor u zonde willen sterven?</l>
+<l>Gelyk als ik hebbe gedaen?</l>
+<l>Ik hebbe voor u 't is gebleken,</l>
+<l>O myn Lief! Verstaet wel hoe,</l>
+<l>Myn bloed uyt laeten leken</l>
+<l>Tot den laesten druppel toe.</l>
+<l rend="; 1tab">9. O myn Bruyd! Wilt vromelyk stryden,</l>
+<l>En lyd hier geen gevaer,</l>
+<l>Wy zullen noch (Lief) verblyden</l>
+<l>'t Is zeker eens hier naer:</l>
+<l>Ik zal u Lief! Als myn' Vrouwe</l>
+<l>Schenken den wyn,</l>
+<l>Daer de mueren zyn van gouwe,</l>
+<l>En daer is 't zeer plaisierig zyn.</l>
+    <l rend="; 1tab">10. Oorlof Princesse reyn, fleur der Vrouwe<hi rend="i">n</hi>,</l>
+<l>En lyd hier geenen nood,</l>
+<l>Zyt gy in honger benouwen,</l>
+<l>Ik ben dat levende brood,</l>
+<l>Zyt gy vermoeyd certeyne,</l>
+<l>Oft van dorste lyd verdriet,</l>
+<pb n="E3v"/>
+<l>Ik ben de levende Fonteyne,</l>
+<l>Komt drinkt vry all' om niet.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0015"/></interpGrp>
+<head rend="h3"><hi rend="i">Liedeken</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: O zalig heylig Bethlehem.</hi></head>
+<lg type="poem"><l>Laet ons den Heere dankbaer zyn</l>
+<l>Wilt hem hier loven ende pryzen,</l>
+<l>Die ons al spyst op elk termyn,</l>
+<l>'t Is recht dat wy hem lof bewyzen.</l>
+<l rend="; 1tab">2. Wilt zynen naeme zoet,</l>
+<l>Die ons door zyn' magt kan verzaeden,</l>
+<l>Elk hem met lofzang pryzen moet,</l>
+<l>Die ons spyst door zyn' genaden.</l>
+<l rend="; 1tab">3. Vervolt zyn wy met spyz'en drank,</l>
+<l>Door zyn' goedheyd tot ons weldaedig,</l>
+<l>Dus moeten wy hem spreken dank,</l>
+<l>Aenroepen zynen naem gestaedig.</l>
+<l rend="; 1tab">4. Dus u met herten tot God keert</l>
+<l>En legt uw' handen al te gader,</l>
+<l>En bid zoo God ons heeft geleert,</l>
+<l>Godvruchtelyk eenen onzen Vader.</l>
+<l rend="; 1tab">5. O Heer! Wy zeggen nu voor 't slot,</l>
+<l>Wilt onze zielen mede spyzen,</l>
+<l>Op dat wy Heer na uw gebod,</l>
+<l>Altyd getrouwigheyd bewyzen.</l>
+<l rend="; 1tab">6. Princelyk God genade doet,</l>
+<l>Op dat wy door Christus verwerven,</l>
+<l>Genade door zyn dierbaer Bloed,</l>
+<l>Zalig leven en te sterven.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0016"/></interpGrp>
+<head rend="h3"><hi rend="i">Een ander LIEDEKEN.</hi></head>
+<lg type="poem"><l>Komt gy Engelsche schaeren,</l>
+<l>Uyt dat Hemelsch Hof,</l>
+<l>Roert uw' gulde snaeren</l>
+<pb n="E4r"/>
+<l>Zingt Maria lof // Want ons is geboren,</l>
+<l>In dat aerdsche dal // En zoo naer als vooren</l>
+<l>Maget blyven zal.</l>
+<l rend="; 1tab">2. Heylig eeuwig wezen,</l>
+    <l>Gods Dryvuldigheyd // Heeft haer uytgeleze<hi rend="i">n</hi>,</l>
+<l>En alzoo bereyd, Om te zijn gevonden</l>
+<l>Moeder, Vrouwe, Maegd,</l>
+<l>Vry van alle zonden, Die den Heer behaegt.</l>
+<l rend="; 1tab">3. Lof zy dan gezongen,</l>
+<l>Van dees weirde Bruyd,</l>
+<l>Die met alle tongen // En een zoet geluyd,</l>
+    <l>Loven ende pryze<hi rend="i">n</hi> // Dees hemelsch' Koninginn',</l>
+<l>En haer eer' bewyzen // Vol van haere minn'</l>
+<l rend="; 1tab">4. Dat nu alle menschen</l>
+    <l>Scheppen eenen moed // Die hier vierig wensche<hi rend="i">n</hi></l>
+<l>Nae het hoogste goed // Want ons is geboren,</l>
+    <l>Een goed hemelsch kind // En zoo naer als voore<hi rend="i">n</hi></l>
+<l>Onze ziel' bemint.</l>
+<l rend="; 1tab">5. Met wat blyd're vreugden</l>
+<l>'s Hemelsch borgery' // Zag zy hun verheugen</l>
+<l>Die met herten bly // Dees weirdige Bloeme</l>
+    <l>Dikwils schouwde<hi rend="i">n</hi> aen // In den Hemel omme,</l>
+<l>Met haer mogen gaen.</l>
+<l rend="; 1tab">6. O Maria! Schoone,</l>
+<l>Vol van 's hemelsch glans,</l>
+<l>Maekt een' Maegdekroone</l>
+<l>Een vergulden krans,</l>
+<l>Komen wy u groeten,</l>
+<l>Met oodmoedigheyd,</l>
+<l>Wilt ons nu ontmoeten</l>
+<l>Met bermhertigheyd.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0017"/></interpGrp>
+<pb n="E4v"/>
+<head rend="h3"><hi rend="i">Een Liedeken van den ouden Tobias, hoe hy zynen Zone leerde.</hi></head>
+<lg type="poem"><l>Een goed zalig vermaen</l>
+<l>Voor d'ongeleerde,</l>
+<l>Hoe Tobias wys beraen</l>
+<l>Zyn zone leerde:</l>
+<l>Hy sprak ydoone // Myn liefsten zone,</l>
+<l>In den grond uws herten prent,</l>
+<l>Voor een vast fondament</l>
+<l>Myn' woorden schoone.</l>
+<l rend="; 1tab">2. Als God myn' ziele haelt</l>
+<l>In zynder haeven,</l>
+<l>Myn lichaem ongefaeld</l>
+<l>Zult gy begraven,</l>
+<l>Wilt u doch keeren // tot deugd vermeeren,</l>
+<l>Al uw leven dagen lank,</l>
+<l>Houd uw' Moeder vry en vrank</l>
+<l>Altyd in eeren.</l>
+<l rend="; 1tab">3. Hoe menig p'rykel vreed</l>
+<l>Heeft zy verkregen,</l>
+<l>In haer lichaem groot leed</l>
+<l>Voor u gedregen,</l>
+<l>Wilt hier op merken // In all' uw' werken,</l>
+<l>En 't eynde haers levens vry,</l>
+<l>Begraeft-ze ook nevens my</l>
+<l>Tot een versterken.</l>
+<l rend="; 1tab">4. Houd God tot alle tyden</l>
+<l>In uw' gedachten,</l>
+<l>En wilt de zonden vlien</l>
+<l>Met all' uw' magten,</l>
+<l>Laet zonder wyken // Aelmoessen blyken,</l>
+<pb n="E5r"/>
+<l>En keert u van den armen niet,</l>
+<l>Zoo zal des Heeren aenschyn ziet,</l>
+<l>Van u noyt wyken.</l>
+<l rend="; 1tab">5. Keert u altyd tot deugd,</l>
+<l>Met herten spoedig,</l>
+<l>En is 't dat gy ied vermeugt,</l>
+<l>Geeft overvloedig:</l>
+<l>Hebt gy ook weynig // zijt niet vileynig,</l>
+<l>Gy vergaert voor u een schat,</l>
+<l>Een grooten loon, en dat</l>
+<l>Hier-naermaels certeynig.</l>
+<l rend="; 1tab">6. Wacht u van hoerdery,</l>
+<l>Bemint uw' huysvrouwe,</l>
+<l>Op dat u niet geschey</l>
+<l>Eenig' ontrouwe:</l>
+<l>Wilt zonden grouwen, Hooveirdy schouwen,</l>
+<l>Die bederffenisse meest,</l>
+<l>Is daer uyt gekomen eerst,</l>
+<l>Wilt dit onthouwen.</l>
+<l rend="; 1tab">7. Als imand voor u werkt,</l>
+<l>Hoort myn verhaelen,</l>
+<l>Zoo zult gy (hier op merkt)</l>
+<l>Den loon betaelen,</l>
+<l>Des werklieden hueren // geeft zonder treuren,</l>
+<l>Doet een ander zeer mild,</l>
+<l>Zoo gy zelve hebben wilt,</l>
+<l>Tot aller uren.</l>
+<l rend="; 1tab">8. Den hongerigen ook bied</l>
+<l>Uw brood te eten,</l>
+<l>En ook den naekten niet</l>
+<l>En wilt vergeten:</l>
+<pb n="E5v"/>
+<l>Wyn en Brood mede</l>
+<l>Gebruykt met vrede;</l>
+<l>Gy ook niet eten en zult</l>
+<l>Met den zondaer vervuld</l>
+<l>Al met boosheden.</l>
+<l rend="; 1tab">9. Begeirt en zoekt altyd</l>
+<l>Raed van den wyzen,</l>
+<l>God gebenedyd,</l>
+<l>Niet om volpryzen:</l>
+<l>Vreest hem uyt minnen,</l>
+<l>Met all' uw' zinnen,</l>
+<l>En bid dat hy u bystaet</l>
+<l>En laet vry al uw raed</l>
+<l>In hem beginnen.</l>
+<l rend="; 1tab">10. En vreest niet zone myn,</l>
+<l>'s Weireldsch quellagie,</l>
+<l>Al doen wy met gepyn</l>
+<l>Ons pelgrimagie,</l>
+<l>Als wy ons geven</l>
+<l>Tot 's deugds aenkleven,</l>
+<l>En van zonden scheen,</l>
+<l>Veel goeds zal ons God bereen</l>
+<l>In 't eeuwig leven.</l>
+</lg></div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0018"/></interpGrp>
+<head rend="h3"><hi rend="i">Een LIEDEKEN,</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op de wyze: Schenkt my te drinken al na myn dorst.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">De Dochter.</hi> </l>
+<l>O Valsche weireld! Ydel schyn</l>
+<l>Met uw' beloft', en vol bezwaeren,</l>
+<l>Gedient hebb' ik u lang termyn,</l>
+<l>Al meer als over zestig jaeren,</l>
+<l>Maer ik hebb' ik moest verklaeren,</l>
+<pb n="E6r"/>
+<l>Noyt wel geweest van u geloond,</l>
+<l>Ik merke dat gy uw' dienaeren</l>
+<l>Met veel yd'le beloften kroont.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Weireld.</hi> </l>
+
+<l>Myn' Dochter dus niet en verflouwt,</l>
+<l>Maer wilt by my persevereren,</l>
+<l>Met troost word gy van my bedouwt:</l>
+<l>Met rykdom groot niet om sommeren,</l>
+<l>Luystert doch nae myn presenteren,</l>
+<l>Ik ben den Heere, dit wel verzint,</l>
+<l>Die elk-een kan contenteren</l>
+<l>Die my lief heeft, ende bemint.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">De Dochter.</hi></l>
+
+<l rend="; 1tab">Weireld my dunkt dat uw gelaet</l>
+<l>Vol valscheyd is, en looze zeden,</l>
+<l>Want gy met leugens omme gaet,</l>
+<l>Dus weireld laet my nu in vreden:</l>
+<l>Dienen God den Heere groot,</l>
+<l>Al hadd' ik Crest schatten heden,</l>
+<l>Wat baet het dan als komt de dood.</l>
+<l>&nbsp;</l>
+<l rend="speaker"> <hi rend="i">Weireld.</hi>  </l>
+
+<l rend="; 1tab">Hoe wilt gy peyzen op de dood,</l>
+<l>Gy zijt noch jong, stelt zulks bezyden,</l>
+<l>'t Is noch in tyds, 't en is geen nood,</l>
+<l>Wilt u noch vry met my verblyden:</l>
+<l>Neemt uw' genoegen lange tyden:</l>
+<l>Danst, zingt en springt, want 't is noch vroeg,</l>
+<pb n="E6v"/>
+<l>Wat wilt gy u zoo zeer besnyden,</l>
+<l>Als gy oud zijt 't is tyds genoeg.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi> </l>
+
+<l rend="; 1tab">Is 't vroeg oft' laet, weireld elk moet</l>
+<l>Sterven, en rekeninge geven</l>
+<l>Voor God den Heere, van dat elk doet,</l>
+<l>Zoo lang als wy ter weireld leven:</l>
+<l>O weireld! Vol bedrog besneven,</l>
+<l>Wel hun die uwe werken vlied,</l>
+<l>Als ik voor 't oordeel Gods moet leven,</l>
+<l>Gy en zult my beschermen niet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Weireld.</hi>  </l>
+
+<l>Och arme Dochter! En gy zijt wel</l>
+<l>Verdold door all' zulke gedachten,</l>
+<l>Dat gy my vlied, en valt rebel,</l>
+<l>Versmaed myn rykdom groot van magten,</l>
+<l>Komt, komt, en wilt geen' vreugd verachten,</l>
+<l>Gebruykt den tyd jeugdig present,</l>
+<l>Als u de dood eens zal versmachten,</l>
+<l>'t Is my alleens waer gy belend.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi> </l>
+
+<l rend="; 1tab">O Valsche weireld! Loos geveynsd,</l>
+<l>Wys is hy die dat kan aenmerken,</l>
+<l>Die op zyn' arme ziele peynst,</l>
+<l>Die zal hem wachten van uw' werken:</l>
+<l>Wel aen die in deugd versterken,</l>
+<l>Dienen God aen elken kant,</l>
+<l>En vreezen, 't zij leeken oft' klerken,</l>
+<pb n="E7r"/>
+<l>Te komen in den helschen brand.</l>
+    <l>&nbsp;</l>
+<l rend="speaker"> <hi rend="i">Weireld.</hi> </l>
+<l rend="; 1tab">Gaet dan van my al waer gy wilt,</l>
+<l>'k Verlaet' u ten allen stonden,</l>
+<l>Maer ziet dat u dat niet en schilt</l>
+<l>Als gy hier arm zult zijn bevonden,</l>
+<l>Versteken dat wel myn vermonden,</l>
+<l>Troosteloos, hoort myn bedied,</l>
+<l>Derven myn' vreugd zeer zoet om gronden,</l>
+<l>Dan zult gy leven in verdriet.</l>
+    <l>&nbsp;</l>
+<l rend="speaker"> <hi rend="i">Dochter.</hi>  </l>
+<l rend="; 1tab">Weireld daer en vraeg' ik niet naer,</l>
+<l>Want die in Gods vriendschap wilt leven,</l>
+<l>Moet lyden hier, 't is openbaer,</l>
+<l>En van de weireld zijn verwezen,</l>
+<l>Dus will' ik my keeren mids dezen,</l>
+<l>En volgen Jesus mynen God,</l>
+<l>Draegen het Kruys met hem geprezen,</l>
+<l>En leven zoo na zyn gebod.</l>
+<l rend="; 1tab">Adieu dan weireld vol ongerief,</l>
+<l>Adieu, ik laet' u t'eenegader,</l>
+<l>Volgen will' ik Jesus myn Lief,</l>
+<l>Die aen 't Kruys heeft uyt liefden ader</l>
+<l>Voor my gepaeyt zyn Hemelsch Vader:</l>
+<l>Hy zal my leyden by de hand,</l>
+<l>Als zyne Bruyd, hy komt my naeder,</l>
+<l>En leyd my in zyn Vaderland.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="song" value="fore024refe01_0019"/></interpGrp>
+<head rend="h3"><hi rend="i">Liedeken van het Lyden ons Heere Jesu Christi.</hi></head>
+<lg type="poem"><l>O Menschen // die wenschen</l>
+<l>Om tydelyk goed,</l>
+<l>Daer de wormen // hun bestormen</l>
+<pb n="E7v"/>
+<l>In Vleesch en in Bloed:</l>
+<l>Pracht en staeten // Moeder laeten</l>
+<l>Hier in 's weireldsch dal,</l>
+<l>Rek'ning' geven, Van hun leven</l>
+<l>Aen den Opper-Al.</l>
+<l rend="; 1tab">Daeromme // Gy domme</l>
+<l>Keert u doch tot hem, Dien de Joden,</l>
+<l>Eens ontboden // Tot Jeruzalem:</l>
+<l>Valsch van herten // Tot duyst smerten</l>
+<l>Van dat god'lyk Lam // Want hy peynsde</l>
+<l>Hoe 't geveynsde // Volk hem haelen quam.</l>
+<l rend="; 1tab">Voor 't laeste // Te gaste,</l>
+<l>Gaf hy zyn Lichaem // Aen zyn' vrienden,</l>
+<l>Die hem dienden // d'Apostels te saem,</l>
+<l>Tot gedenken // Gaf te drinken</l>
+<l>Zyn godelyk Bloed // Aen de Schaere,</l>
+<l>Een van haere // Bleef noch heel verwoed.</l>
+<l rend="; 1tab">Den Heere // ging zeere</l>
+<l>Nae 't huys van Annas, Daer ook quamen</l>
+<l>Al-te-samen // 't Volk van Cayphas,</l>
+<l>Die hem sloegen // En joegen</l>
+<l>Tot Pilatus Raed // Maer z'en vonden</l>
+<l>Geene zonden // In hem nocht' misdaed.</l>
+<l rend="; 1tab">Dan liepen // En riepen</l>
+<l>'t Gemeynte te gaer // Laet hem dooden,</l>
+<l>Dezen snooden // Kruyst den tooveraer,</l>
+<l>Geeft uw oordeel // t'Onzer voordeel,</l>
+<l>Gy blyft 's keyzers vriend // Laet hem sterven,</l>
+<l>Kappen, kerven // Hy heeft meer verdient.</l>
+<l rend="; 1tab">Daer stonden //Die honden,</l>
+<l>Die Joden bereyd, Om t'onteeren</l>
+<pb n="E8r"/>
+<l>Duyzend keeren // 's Hemels Majesteyt:</l>
+<l>En zy greepen // Vreede zweepen</l>
+<l>En ketens, en roen // Om zyn' letten</l>
+<l>Te verpletten // En pyn' aen te doen.</l>
+<l rend="; 1tab">Meer plaegen // En slaegen</l>
+<l>Heeft den Heer ontsaen // Als duyst mannen</l>
+<l>Van Tirannen // Oyt wierd aengedaen:</l>
+<l>Bloed met stoopen // Zag men loopen</l>
+<l>Door hun vreed bedryf // En zy trokken,</l>
+<l>Hem met brokken // 't heylig Vleesch van 't lyf.</l>
+<l rend="; 1tab">Zy brogten // Gevlochten,</l>
+<l>Van doornen een krans // Die z'hem planten,</l>
+<l>t'Allen kanten // In d'herssens bykans,</l>
+<l>En zy quamen // Zoo te samen</l>
+<l>Uyt Pilatus huys // Daer zy toonden,</l>
+<l>Den gekroonden // Aen het Jodsch gespuys.</l>
+<l rend="; 1tab">Zyn' smerte // Verherte,</l>
+<l>Noch meer hun gemoed // Zy verblydden,</l>
+<l>In zyn lyden // En wilden meer Bloed;</l>
+<l>Dies zy deden // Op zyn' leden</l>
+<l>Een zwaer kruysse laen // En daer naer,</l>
+<l>Den kalvaer // Berg is opgegaen.</l>
+<l rend="; 1tab">Die vreeden // Ontkleeden</l>
+<l>Den Heer hunnen God // Riet tot schanden,</l>
+<l>In zyn' handen // Gaven zy tot spot;</l>
+<l>Alsdan was hy // In zyn' Passy</l>
+<l>Noyt zoo zeer belaen // Dan ten toone,</l>
+<l>Met een' kroone // Naekt en bloot te staen.</l>
+<l rend="; 1tab">Dan stak hem // En trok hem</l>
+<l>Dat Joden gespuys // En zy spanden,</l>
+<l>Voeten, handen // Nag'lend' hem aen 't kruys.</l>
+<pb n="E8v"/>
+<l>Van zyn' leden // Tot beneden</l>
+<l>Liep zyn dierbaer Bloed // Men zag leken,</l>
+<l>Als twee beken // Van zyn traenen vloed.</l>
+<l rend="; 1tab">Verslagen // Quam klaegen</l>
+<l>Maria bedroefd // God sprak, Vrouwe,</l>
+<l>Stelt uw rouwe // U wel troost behoeft:</l>
+<l>Zy zag hangen // Die ontfangen</l>
+<l>Had haer' zuyv're Borst // Daer zy gaven</l>
+<l>Om te laeven // Galle voor den dorst.</l>
+<l rend="; 1tab">Door 't steken // Bezweken</l>
+<l>Wierd hy van een' lans // Zon en Maen,</l>
+<l>Bleven staen // Verliezende hun glans,</l>
+<l>Hy riep: Vader // Wilt te gader</l>
+<l>Vergeven hun quaed // Want zy weten</l>
+<l>Geen' secreten // Van hun groot misdaed.</l>
+<l rend="; 1tab">Zoo bad hy // Op dat hy</l>
+<l>De zondaers te saem // Mogte leeren,</l>
+<l>Hoe elk eeren // Moet zyns Vaders naem,</l>
+<l>Om voor deugden // Duyzend vreugden</l>
+<l>Met Gods Majesteyt // Naer 't verdrieten</l>
+<l>Te genieten, Inder eeuwigheyd.</l>
+</lg><p>EYNDE.</p>
+<p>&nbsp;</p>
+<p>Vidit Franciscus de Carpentier, Can. Inprens. Lib.</p>
+<p>Censor. Ipris 6. Martii 1667.</p>
+</div>
+</body>
+</text>
+</TEI.2>
+

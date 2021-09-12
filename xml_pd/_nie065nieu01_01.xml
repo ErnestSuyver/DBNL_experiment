@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied</hi>, uitgegeven tussen 1819 en 1842.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 1: ‘Aom’ → ‘Kom’: ‘Kom myn Heer laat myn maar gaan’.</corr>
+                       <corr>p. 1: het foutieve strofenummer 5 is verbeterd door 4.</corr>
+                       <corr>p. 2: ‘tespect’ → ‘respect’: ‘'t Is een Meisje van respect’.</corr>
+                                          </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie065nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 03258</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied</hi>. J. Wendel en Zoon, Amsterdam 1819-1842</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-22</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie065nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_nie065nieu01_0001"/> </interpGrp>
+<head rend="h3">Een nieuw lied.</head>
+<head rend="h4"><hi rend="i">Op een aangename Wys:</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Kom dan jonge schoone Boere</l>
+<l rend="; 1tab">Meisje, kom op myn heerlyk slot</l>
+<l>Gy zult hebben Suiker mangelen ook</l>
+<l rend="; 1tab">zitten op myn schoot,</l>
+<l>Chocolade, Limonade, dat zult gy</l>
+<l rend="; 1tab">hebben naar uwe zin.</l>
+</lg>
+<lg type="poem">
+<head>2</head>
+<l>Kom myn Heer laat myn maar gaan</l>
+<l rend="; 1tab">want gy zyt myn veel te raar;</l>
+<l>Ik ben een arm Boere Meisje en draag</l>
+<l rend="; 1tab">geen vlegt in het Haar,</l>
+<l>Chocolade, Limmonade weet ik geheel</l>
+<l rend="; 1tab">niet wat dat is.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Wanneer dat gy myn gelyk zyt stel</l>
+<l rend="; 1tab">ik myn liefde uw voor,</l>
+<l>En als u een schone jonge Heer kiest</l>
+<l rend="; 1tab">zo geef ik myn hert daar voor;</l>
+<l>Gy jonge Dame gy moet u niet schame</l>
+<l rend="; 1tab">wanneer dat u een jonge Heer</l>
+<l rend="; 1tab">kust;</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Myn Heer laat my maar vry ik heb</l>
+<l rend="; 1tab">het u al reeds driemaal gezegt;</l>
+<l>Myn Hans die staat myn beter aan</l>
+<l rend="; 1tab">als zo een jonge Knegt,</l>
+<l>Laat myn maar dwalen ik zal u wel betale</l>
+<l rend="; 1tab">dat ik meer rust heb om te gaan</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l>Meisje gaat naar je oude Boer Hans</l>
+<l rend="; 1tab">die u zo dikmaals al kan;</l>
+<l>Die gy meer mint dan een ander die</l>
+<l rend="; 1tab">thans zal worden uw man,</l>
+<l>Ga naar u slordige, ga naar u morsige</l>
+<l rend="; 1tab">gaat naar u oude Boere Hans.</l>
+</lg>
+<lg type="poem">
+<head>6.</head>
+<l>Ik wou dat gy na de duivel liep om</l>
+<l rend="; 1tab">dat gy om myn eer tans lagt,</l>
+<l>Is dat dan mooy van u dat gy myn</l>
+<l rend="; 1tab">Hans thans veragt;</l>
+<l>Ik zeg u ten leste en voor u ten beste</l>
+<l rend="; 1tab">of ik slaan met de schop op de</l>
+<l rend="; 1tab">Kop.</l>
+</lg>
+<p><hi rend="spat">EYNDE</hi></p>
+<p>&nbsp;</p>
+<cf><p>Te Amsterdam, by J. WENDEL en ZOON, op de Angeliersgragt.</p></cf>
+</div>
+</div>
+<div type="chapter">
+ 
+<pb n="2"/>
+<p><figure>
+<p><xptr to="_nie065nieu01ill02.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_nie065nieu01_0002"/> </interpGrp>
+<head rend="h3">Een nieuw lied.</head>
+<head rend="h4"><hi rend="i">Op een Aangenaame Wys.</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Ik heb een Meisje aan myn hand,</l>
+<l>Daar is geen beter in 't land,</l>
+<l>Zy is geheel voor myn gemak,</l>
+<l>Zy is voorzien in haren zak.</l>
+<l>Al word zy van de Heeren bemind</l>
+<l>Ik zal er mee verkeeren,</l>
+<l>En het is mynen vrind.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Ik vraag haar niet waar zy 't haald,</l>
+<l>Als zy maar altyd wel betaald,</l>
+<l>Als ik haar 's avonds karresseer,</l>
+<l>Dan heb ik al wat ik begeer;</l>
+<l>Dan weet ik haar te vleijen abiel,</l>
+<l>Om dogters te verleijen,</l>
+<l>Het is mynen stiel.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Zy heeft myn heel in staat gesteld,</l>
+<l>Want zy is weinig zonder geld,</l>
+<l>Zy komt deftig aan haar brood,</l>
+<l>Zy heeft veel kennis onder groot,</l>
+<l>Dan heeft zy nog kalanten op zy,</l>
+<l>Het is een heel charmante,</l>
+<l>En een goede voor my.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Het zeert my niet hoe zy 't wint,</l>
+<l>'t Geld word overal bemind,</l>
+<l>Ik draag myn haren stiel niet aan,</l>
+<l>Als wy malkanderen wel verstaan,</l>
+<l>Nu moet ik niet meer drinken op kreit</l>
+<l>Ik kan het laten klinken,</l>
+<l>Ik heb tog lawyt.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l>'t Is een Meisje van respect,</l>
+<l>Maar 't is geen liefde die my trekt</l>
+<l>Zy is in myn oogen als een beeld,</l>
+<l>Maar het is 't meeste om het geld,</l>
+<l>Ik zien haar drommels geeren als ik</l>
+<l rend="; 1tab">maar,</l>
+<l>Wel kan teeren,</l>
+<l>Van haar winkel waar.</l>
+</lg>
+<lg type="poem">
+<head>6.</head>
+<l>Ik was nog liever alles kwyt,</l>
+<l>Als te verlaten deze Meid,</l>
+<l>Want zy draagt zorg vroeg en laat,</l>
+<l>Want als zy met den avond gaat,</l>
+<l>Zy gaat de Heeren dienen op zy,</l>
+<l>Want 's avonds naar tienen,</l>
+<l>Wint zy geld voor my.</l>
+</lg>
+<lg type="poem">
+<head>7.</head>
+<l>Gy ziet het wel aan myn fatsoen,</l>
+<l>Dat ik heb met een goei te doen,</l>
+<l>Want daar is niet dat myn mankeert,</l>
+<l>Als haaren Winkel maar floreerd,</l>
+<l>Als ik het zoo kan houwen 't zal gaan</l>
+<l>Maar spreekt zy van trouwen,</l>
+<l>Het is afgedaan.</l>
+</lg>
+<p><hi rend="i">EYNDE.</hi></p>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Flora of boogaerd der lieflijcke bloemen</title>
+                <author>Bernard Ruyssenbergh</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Flora of boogaerd der lieflijcke bloemen</hi> van Bernard Ruyssenbergh in de eerste druk uit 1615.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 7: ‘doucker’ → ‘doncker’: ‘Het boom-dicht doncker woudt beghint van veers te blaeuwen’.</corr>
+                        <corr>p. 7: ‘wanneeer’ → ‘wanneer’: ‘Vergult van ’t Sonne-licht wanneer sy slapen gaet’.</corr>
+                        <corr>p. 12: in het origineel is een gedeelte van de tekst slecht leesbaar. In deze digitale editie is ‘[...]’ geplaatst.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">ruys008flor01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2012 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: 10 G 10</idno>
+                </bibl>
+                <p>Bernard Ruyssenbergh, <hi rend="i">Flora of boogaerd der lieflijcke bloemen</hi>. Dirck Pietersz., Amsterdam 1615</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Flora of boogaerd der lieflijcke bloemen</title>
+                <author>Bernard Ruyssenbergh</author>
+                <idno></idno>
+                <imprint>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Flora of boogaerd der lieflijcke bloemen</title>
+                <author>Bernard Ruyssenbergh</author>
+                <idno></idno>
+                <imprint>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-14</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+<pb n="1"/>
+<p><hi rend="i">FLORA</hi></p>
+<p><hi rend="i">OF</hi></p>
+<p>Boogaerd der lieflijcke Bloemen</p>
+<p>ende Vruchten,</p>
+<p><hi rend="i">WAER IN</hi></p>
+<p><hi rend="i">Den strijdt tusschen Aprilis en Majus vermakelijck</hi></p>
+<p><hi rend="i">en leerlijck vvordt uytgheleyt.</hi></p>
+<p><hi rend="i">MET</hi></p>
+<p>Noch eenighe nieuwe Liedekens en Dichten, tot</p>
+<p>vermeerderingh desselven dienstigh.</p>
+<p><hi rend="i">Door B. R.</hi></p>
+<p><hi rend="i">t’AMSTERDAM,</hi></p>
+<p>By Dirck Pietersz. Boeck-vercooper, op ’t Water,</p>
+<p>in de witte Pers. Anno <hi rend="spat"><hi rend="i">1615</hi></hi>.</p>
+</div></cf>
+<div type="chapter">
+<pb n="2"/>
+<p>    <figure>
+        <p><xptr to="ruys008flor01ill01.gif"/></p>
+<figDesc><lg type="poem"><l><hi rend="i">Germen odoriferum tellus educit,et arua</hi></l>
+<l><hi rend="i">Purpureis passim floribus ir radiant.</hi></l>
+<l><hi rend="i">Blandidulos ergo flores carpfiße iuuabit,</hi></l>
+<l><hi rend="i">Sed mortalis homo floris adin star erit.</hi></l></lg></figDesc>
+    </figure></p>
+</div>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3"><hi rend="i">April</hi>–ghedicht, waer in ghehouden werdt <hi rend="i">d’April </hi>veer boven <hi rend="i">Mey </hi>die lustichste maent te zijn van den gheheelen jare.</head>
+<lg type="poem"><l><hi rend="i">EEn stadigh strijden sel, van twee verscheyden willen,</hi></l>
+<l><hi rend="i">Veroorsaect my een vraeg te doen van het verschillen,</hi></l>
+<l><hi rend="i">Van den April en Mey, twee maenden in den jaer,</hi></l>
+<l><hi rend="i">VVelc doch van dese twee d’aldergeneuchlijcst waer.</hi></l>
+<l><hi rend="i">Ick wil wel dat de Mey van elck werdt seer gepresen,</hi></l>
+<l><hi rend="i">Den lustelijcksten en bequaemsten tijdt te wesen:</hi></l>
+<l><hi rend="i">Maer als ick weer herpeyns,en neerstelijck betracht,</hi></l>
+<l><hi rend="i">D’April en sijne deuchd, vergaet my sulck gedacht.</hi></l>
+<l><hi rend="i">Want siet hoe lustich staet nu alle dinck ontloken,</hi></l>
+<l><hi rend="i">Flora, ontdoet sy niet haer bloemkens soet van roken?</hi></l>
+<l><hi rend="i">Die in des Mayas tijdt van blaren staen berooft,</hi></l>
+<l><hi rend="i">Ia schier den meestendeel daer van geheel verdooft,</hi></l>
+<l><hi rend="i">Al isset dat den Mey weer nieuwe doet uytdringen,</hi></l>
+<l><hi rend="i">Ick spreeck van die d’April het eerst heeft doen uytspringen,</hi></l>
+<l><hi rend="i">Aensiet die velden groot veel-verwich staen verciert,</hi></l>
+<l><hi rend="i">In desen soeten tijdt verheucht hem al ’t Gediert,</hi></l>
+<l><hi rend="i">Staet niet het woeste woudt vervult met groene bladen?</hi></l>
+<l><hi rend="i">Gaet Paso sijn wollich vee oock buyten niet versaden?</hi></l>
+<l><hi rend="i">Hoort hoe den Leeuwrijck swiert, hoort hoe dat Philomeel,</hi></l>
+<l><hi rend="i">En ’t ander pluym-gediert met singen maeckt ghequeel.</hi></l>
+<l><hi rend="i">Diana gaet al naeckt met haer Najaden baden,</hi></l>
+<l><hi rend="i">En Phobus ongeblaeckt vertoont sijn gulden raden,</hi></l>
+<l><hi rend="i">Sylenus gaet al naeckt met sijn teer Geytjens uyt,</hi></l>
+<l><hi rend="i">En lieflijck sietmen oock daer groeyen Ceres kruyt.</hi></l>
+<l><hi rend="i">Die Bykens spoeyen haer om honich soet te maken.</hi></l>
+<l><hi rend="i">Ia staegh t’onsen verdoen sy effen neerstigh waken:</hi></l>
+<l><hi rend="i">’T verheucht hem allegaer wat hier ter werelt leeft,</hi></l>
+<l><hi rend="i">En vreuchts beginsel oock in dese maendt aenheeft.</hi></l>
+<l><hi rend="i">Op Helicon men hoort negen Godinnen queelen,</hi></l>
+<l><hi rend="i">Amphion en Orphee komen oock om te speelen,</hi></l>
+<l><hi rend="i">D’April te zijn alleen den lustelijcksten tijdt,</hi></l>
+<l><hi rend="i">Want menschen ende vee door sijn komst zijn verblijdt.</hi></l>
+<l><hi rend="i">Doet hy ’t gewas te saem eerst niet ’t beginsel geven,</hi></l>
+<l><hi rend="i">Het welck den Mey daer na komt te formeeren even:</hi></l>
+<l><hi rend="i">Den Mey die heeft den naem, d’April die doet het werck,</hi></l>
+<l><hi rend="i">Dies ick ’t oock met April sal houden in dit perck.</hi></l>
+<l><hi rend="i">En ghy vriendt Ruyssenbergh wilt my u meeningh toonen,</hi></l>
+<l><hi rend="i">Oft men niet voor den Mey April behoort te kroonen:</hi></l>
+<l><hi rend="i">Bemint rust niet te seer, ontleeght u toch een uyr,</hi></l>
+<l><hi rend="i">Op dat u meeningh my schriftlijck mach komen veur.</hi></l>
+<l><hi rend="i">Want ick niet sonder sorgh sal hier en tusschen wesen,</hi></l>
+<l><hi rend="i">Tot dat ick u advijs daer van hebbe ghelesen.</hi></l>
+<l><hi rend="i">Of ’t is ghelijck het mijn, of op een ander keer,</hi></l>
+<l><hi rend="i">Hier met segh ick adieu, en beveel u den Heer.</hi></l>
+</lg></div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3"><hi rend="i">Mey-ghedicht, waer in die voorighe meeningh wederleyt wordt, ende het rechte teghen-deel bevvesen, dat Mey boven April en alle d’ander maenden in den lustelijcksten tijdt komt van ’t geheele jaer.</hi></head>
+<lg type="poem"><l>GHelijck een machtigh Vorst, groot Potentaet of <hi rend="i">Coningh</hi>,</l>
+<l>Die in een vreemt ghewest houdt regiment en wooningh,</l>
+<l>Deur landt en steeden reyst, noodtsaecklijck of uyt lust,</l>
+<l>Met een trop Hof-ghesins, hem dienstigh toegherust,</l>
+<l>Ghenakende bykans een stadt of eenigh Heeren,</l>
+<l>Sent hy sijn dienaers voor veel-verwig bont van kleere<hi rend="i">n</hi>,</l>
+<l>Laet groet boodtschappen daer, bereydt huysen en dis,</l>
+<l>Ruymt ploets voor mijnen sleyp, dat nergens seyl an is.</l>
+<l>Alsoo dan mijnen vriendt om recht dan onderschepen</l>
+<l>U vraegh en mijn antwoordt van <hi rend="i">April </hi>en van <hi rend="i">Meye</hi>,</l>
+<l>Soo is den <hi rend="i">April </hi>oock voor-bode oft ghesant,</l>
+<l>Die elck verkonden komt dat <hi rend="i">Mey </hi>is voor der handt.</l>
+<l>En komt naer sijn bevel bont ghekleedt en behanghen,</l>
+<l>Met een groen leverij om ’t koudt lichaem bevanghen,</l>
+<l>Met bloemen en met kruydt Ruckwijs vrolijc vermaelt,</l>
+<l>’T welck <hi rend="i">Phoebus </hi>goudich boort als hy bywijlen straelt.</l>
+<l>En komt boodtschappen so ’t verlang van alle menschen,</l>
+<l>’T ghediert vernufteloos ghetuyght hy hare wenschen,</l>
+<l>Dat elck in sijn ghemoedt melancoly en strijdt</l>
+<l>Verwerpen plaets in ruym tot vreuchd in <hi rend="i">Mayas </hi>tijdt.</l>
+<l>En als sich dan alsoo yeghelijck gaet verblijden</l>
+<l>Door <hi rend="i">Aprils </hi>boodtschap dat na by de schoone tijden</l>
+<l>Van <hi rend="i">Mayo </hi>zijn, alsdan siet men maken gheneucht,</l>
+<l>Niet om <hi rend="i">April </hi>maer om den <hi rend="i">Mey </hi>men sich verheucht.</l>
+<l>Alsdan gaet menich mensch terstont vreuchde hanteeren,</l>
+<l>En ’t sprakeloos ghediert soeckt sich oock te gheneeren,</l>
+<l>Men hoort in Sonnen-schijn Leeurick en Nachtegael,</l>
+<l>En ander voghels meer uytbrocken hare tael.</l>
+<l>Toont sich dan al verblijdt om dat <hi rend="i">Mey </hi>is voorhanden,</l>
+<l>Om dan in volle kracht door singhen bos en landen,</l>
+<l>Wat wilmen dan helaes met een verkeerden sin,</l>
+<l>’T ghepronck der Joffren schoon stellen voor <hi rend="i">Coningin.</hi></l>
+<l>Wat wil men Adelgroot boven <hi rend="i">Coninghen </hi>stellen,</l>
+<l>Wat wil men ’t Knechts bevel voor <hi rend="i">Meesters </hi>wercke<hi rend="i">n </hi>telle<hi rend="i">n</hi>,</l>
+<l>Wat baet dees ydel waen of roemen, dat men wil</l>
+<l>Stellen boven den <hi rend="i">Mey</hi>, ‘tslecht werck van den <hi rend="i">April</hi>.</l>
+<l><hi rend="i">April </hi>kann <hi rend="i">Flora </hi>niet met dou silvrich versaden,</l>
+<l>Noch oock ‘t boom-eycke bos groen-knoppich uyt doen bladen,</l>
+<l>Weynich haegh ofte boom sneuwen sich wie van bloem.</l>
+<l>Van gheen vruchten altoos en komt <hi rend="i">April </hi>den roem.</l>
+<l><hi rend="i">Pan </hi>of der Herdren Godt begint wel vast te soecken,</l>
+<l>Lancx lies moerassich veldt, de gras bequaemste hoecke<hi rend="i">n</hi>,</l>
+<l>Al kappend deur het riet siet hy of sich bereyt</l>
+<l>Om spelen sijn liefs lof eenighe hellicheyt.</l>
+<l><hi rend="i">Sylenus </hi>met sijn staf komt deur de velden swerven,</l>
+<l>Om voor sijn <hi rend="i">Geytjens </hi>sien die niet dan stro en scherven,</l>
+<l>Of noch het graesken niet sijn spiesen op en splijt,</l>
+<l>Verwacht soo met lanck-moet den soetsten <hi rend="i">Mayas </hi>tijdt.</l>
+<l>Die kleyn Herders somtijdts gaen met haer Schapen weyden</l>
+<l>Langhs hegh-bepoten wegh, of  graeu schijn dorre heyde<hi rend="i">n,</hi></l>
+<l>Die met koude handt-geblaes al hijpend uyt het velt,</l>
+<l>Elck in een korten tijdt sijn vee in stal weer telt.</l>
+<l><hi rend="i">Diana </hi>als sy siet dat <hi rend="i">Phoebus </hi>sich gaet hooghen,</l>
+<l>Lacht sy hem vriendlijck toe met soet bevall’ghe ooghen,</l>
+<pb n="5"/>
+<l>Smeeckt hem met haer ghesicht dat hy sijn gouden hooft</l>
+<l>Allenerkens hoogher draeght, dat coud en rijp verdooft.</l>
+<l>Want sy en derf noch niet met haer schoone <hi rend="i">Najaden</hi></l>
+<l>In die fonteynen blanck of bornen sich gaen baden,</l>
+<l>Om haer lichamen schoon t’ondecken elck sich vreest</l>
+<l>Voor swacke kranckheyt snoodt, door stuyre koudtheyt meest.</l>
+<l>En dat uyt grijse locht mocht uyt Noord-oosten vallen,</l>
+<l>Op ’t silver blinckend eel veel ronde haghel ballen,</l>
+<l>En haer lidtmaten teer verkleumen koudt en stijf</l>
+<l>Tot onghesontheyt, ay! waer dat gheen slecht bedrijf.</l>
+<l>Dan mochten <hi rend="i">Satyrs </hi>loos die op haer kansen letten,</l>
+<l>Sacht sluypend komen ras, en sich ontrent Daer setten,</l>
+<l>En luystrich loeren gaeu als sy koudt kleum of mat,</l>
+<l>Werden om haer alsdan ’t ontrooven haren schat.</l>
+<l>Het licht ghevleughelt rot of honich-rijcke Byen,</l>
+<l>Verheughen in <hi rend="i">April</hi> maer in des <hi rend="i">Meysche </hi>tijen,</l>
+<l>Voor d’eenigh will’gehe bloem hebben sy vollen keur,</l>
+<l>Te halen haren kost de heele werelt deur.</l>
+<l>Soo <hi rend="i">Amphion </hi>en <hi rend="i">Orphee </hi>gheen Goddelijcker vingers</l>
+<l>Hebben als aer Minnaers, so zijn ’t oor geen volbringers</l>
+<l>Te spelen in <hi rend="i">April</hi> kanst-rijck of weerdt gheeert,</l>
+<l>Als ick uytbeelden sal, d’ervaringh ’t beste leert.</l>
+<l>Als mijn hert en ghemoedt, en alle mijn verlanghen</l>
+<l>Onlancx van een Godin ghewillich werdt ghevanghen,</l>
+<l>Die noch mijn ziel in macht als haer selfs ziele heeft,</l>
+<l>En my naer ‘t haer ghevalt die doodt of ’t leven gheeft.</l>
+<l>Die haer beeldt in mijn hert soo diep heeft in geschreven,</l>
+<l>Dats is die tweed’ ickself, mijn ziel, mijn lijf, mijn leven,</l>
+<l>Die haer soet aenghesicht staegh voor mijn oogen maelt,</l>
+<l>En mijn benoude ziel seer woestigh heeft verdwaelt.</l>
+<l>Daer oogen die my staegh haer vriendlijckheyt vertellen,</l>
+<l>Haer lichaem dat my vaeck haer deuchden voor komt stellen,</l>
+<l>En dickwils sucht op sucht uyt mijn benout ghemoet,</l>
+<l>Met innerlijck ghepeyns droevigh uytdringhen doet.</l>
+<l>Dese Goddinne dan die ick met gantscher krachten</l>
+<l>Haer goedertierenheyt en liefde sal verwachten,</l>
+<l>Quam ick besoecken eens met een <hi rend="i">Musijck</hi> accoort,</l>
+<l>Int soetst van den <hi rend="i">April </hi>ghelijck sy had ghehoort.</l>
+<l>Maer d’ongestaegh <hi rend="i">April </hi>verkleumd vingers en handen,</l>
+<l>Dat wy een eenigh liedt niet spelen sonder schanden,</l>
+<l>Want hy door <hi rend="i">Boreas </hi>hulp quam blasen glasich ys,</l>
+<l>Breker van eyghen roem is dit gheen saeck onwijs.</l>
+<l>Dat ick met schande ’t huys van mijn lief most begeven,</l>
+<l>Soud ick dan <hi rend="i">April </hi>self noch boven <hi rend="i">Mey </hi>verheven:</l>
+<l>Neen neen, want hy maer knecht van sijne knechten is,</l>
+<l>Stuyr onghestadigh koudt en wanckelbaer ghewis.</l>
+<l>Maer den lustighen <hi rend="i">Mayis </hi>weerdigh meerder eeren,</l>
+<l>Die kan yeghelijcks druck in vrolijckheydt verkeeren,</l>
+<l>D’eerste ghelijckenis die ick aenwijsen kan,</l>
+<l>En d’ best ghetuyghenis die ons vertelt daer van.</l>
+<l>Is als den tweelinck met sijn teecknen komt regeeren,</l>
+<l>Terstond sietme<hi rend="i">n </hi>de jeucht vreuchdige vreucht hanteeren,</l>
+<l>Elck loopt na ’t bos en haelt een meest beblaerde stam,</l>
+<l>Om planten voor haer deur die hem voor lief aannam.</l>
+<l>Met instrumenten daer of <hi rend="i">Musicael </hi>ghesanghen,</l>
+<l>Doet elck sijn liefste liefden Meylieflijck ontfanghen,</l>
+<l>Mey-dichtsels schenckt men haer en lieden veelderhant,</l>
+<l>Soo werdt met groote vreucht d’inganck des Meys geplant.</l>
+<l>Midden op menich pleyn, en hoecken van de straten,</l>
+<l>Komtmen met Meyen oock om vreuchde te aenvaten,</l>
+<l>Dan schakelt hande aen hande de jonghe jeucht eerbaer,</l>
+<l>Singht al rontom den Mey d’een veur en d’ander naer.</l>
+<l>Het grove boersche volck, gheleert van die natuere,</l>
+<l>Komt oock int schaen gheboomt, bevrijdt van droev’nd truere,</l>
+<pb n="6"/>
+<l>Springhende handt aen handt singhen sy met gheschrey,</l>
+<l>Den Mey, den Mey, den Mey, den lustelijcken Mey.</l>
+<l>Boerinkens met haer kruyck of holle eycke vaten,</l>
+<l>Gaend’ naer haer mele fonteyn al van den Mey sy prate<hi rend="i">n</hi>,</l>
+<l>Om winnen botter, kaes, den Mey bequaemheyt gheeft,</l>
+<l>Dit onghelettert volck <hi rend="i">Mey </hi>voor <hi rend="i">April </hi>verheeft.</l>
+<l>Self d’Elementen oock zijn hier ghetrou ghetuyghen,</l>
+<l>Om yder onder die vonatsse licht ge buyghen,</l>
+<l>Het vyer werdt in <hi rend="i">April </hi>van elck een noch begheert,</l>
+<l>Maer ’t vyer wert in den <hi rend="i">Mey</hi> neffens den kock ontbeert.</l>
+<l>Die locht gheeft in <hi rend="i">April </hi>veel wanckelbare daghen,</l>
+<l>Die locht gheeft in <hi rend="i">April </hi>sneeu en haegh’lighe vlaghen,</l>
+<l>Die locht gheeft in <hi rend="i">April </hi>schra winden, rijp en koudt,</l>
+<l>Maer die locht in den <hi rend="i">Mey </hi>de velden nat bedout.</l>
+<l>Het water in <hi rend="i">April </hi>doet kruyt en bloem verbleken,</l>
+<l>Het water in den <hi rend="i">Mey </hi>kant wederom op queken,</l>
+<l>Het water in den <hi rend="i">Mey </hi>doet ’t veldt schijnen oft leeft,</l>
+<l>Het water in den <hi rend="i">Mey </hi>al ‘tkruydt sijn voedtsel gheeft.</l>
+<l>Het aerdtrijck in <hi rend="i">April </hi>mach men bouwen en saeyen,</l>
+<l>Maer ’taerdtrijc in den <hi rend="i">Mey </hi>staet met sijn vrucht gelaeye<hi rend="i">n</hi>,</l>
+<l>Het aerdtrijck in <hi rend="i">April </hi>bot <hi rend="i">Ceres </hi>vrucht als gras,</l>
+<l>Maer ’t aerdrijck in den <hi rend="i">Mey </hi>gheeft ayren en ghewas.</l>
+<l>Het aerdtrijck over al met sijn schoone landouwen,</l>
+<l>Mach men op ’t schoonste eerst in den Mey-tijdt aenschouwen,</l>
+<l>Die dan met sinnen vijf op ’t naust eens overslaet,</l>
+<l>Bevint dat <hi rend="i">Mey April </hi>in lof veer boven gaet.</l>
+<l>’T ghesicht getuycht als wy ’t op en nederwaerts senden,</l>
+<l>Het boodtschapt ons verstant wonder van allen enden,</l>
+<l>Om laegh sien wy ’t aerdtrijc vol schepsels wonderlijck,</l>
+<l>Omhoogh den Hemel die niet rust een ooghenblick.</l>
+<l>Siet oock d’eerwaerde Son ’t schoonste teken van allen,</l>
+<l>Met haer saffranigh hooft en flanckerende brallen,</l>
+<l>Hoe sy in ’t Oosten vroech paruyckt haer blonde hooft,</l>
+<l>En met haer gouden gloor sy ’s nachts bruynheyt verdooft.</l>
+<l>Sy stelt sich schoon te pronc met haer bloosende wangen,</l>
+<l>Een wolck weer-schijnich kleede heeft haer lichaem behanghen,</l>
+<l>Noch swalck noch dicke locht stoort haer in haer beveel,</l>
+<l>En ’s daegraets blancken rock, boort sy goutstralich eel.</l>
+<l>Dan treedts al pralend voort tot op den middel troone</l>
+<l>Des Hemels op middag, ghelijck sy is ghewoone,</l>
+<l>En saeyt haer gout-ghesicht over der aerden kloot,</l>
+<l>En lacht om dat sy heeft soo rijck te gast ghenoot,</l>
+<l>’T heel menschelijc geslacht dat van ’t voedtsel der stralen,</l>
+<l>Dat sy te gheven plach, nu haren noodtdruft halen,</l>
+<l>Dan sinckt allencxkens neer ter plaetsen daer ’t haer lust</l>
+<l>Te hebben in den nacht haer aenghename rust.</l>
+<l>En treckt in ’t vallen soet haer goutdradighe lemm’ren,</l>
+<l>Van ’s werelts ront naer sich niet soet bevallich schemm’ren,</l>
+<l>’T geboomt met bladers schoon goutspickelich sy heucht</l>
+<l>Hier sy speloncken bruyn, daer goude berghen veucht.</l>
+<l>Dan sietme<hi rend="i">n </hi>’s avondts bruyn den swerten sluyer hangen</l>
+<l>Over haer gouden hooft, en flanckerende wanghen,</l>
+<l>Verbercht haer schoon ghesicht voor onsen ooghen maer</l>
+<l>Een ander glinstrich licht sietmen stracx volghen haer.</l>
+<l>‘Tis die glimmende <hi rend="i">Maen </hi>die haer versilvert hulsel,</l>
+<l>Soo blinckend heeft ghestelt tot hares dienst vervulsel,</l>
+<l>Sy schimmert op de aerd en schittert water hel,</l>
+<l>En circkelt haren loop ghelijck de Sonne snel.</l>
+<l>’T ghehoor gheruycht oock door ’t bewijs van ’t voghel singhen,</l>
+<l>Het snaer-ghespel by nacht, en duysenderley dinghen,</l>
+<l>’T gespuys van beecxkens klaer, ’t boom-ruysen van den windt,</l>
+<l>Dat <hi rend="i">Mey </hi>seer veer het lof van den <hi rend="i">April </hi>verslint.</l>
+<pb n="7"/>
+<l>Den reuck ooc veelderley tuycht aen diversche Bruyden,</l>
+<l>Die vrolijck sich op doen van ’t Oosten tot het Suyden,</l>
+<l>Schoon van reuck en koleur, ooc bloemen veelderhand,</l>
+<l>Dat het lof van den <hi rend="i">Mey d’April </hi>heel maeckt tot schand.</l>
+<l>Hier van hebben wy smaeck, en dees vruchten verheven,</l>
+<l>Konnen ons hier en daer in Mey-tijdt voedtsel gheven,</l>
+<l>Hier Zalaet daer Radijs, <hi rend="i">Esculapij </hi>gheslacht</l>
+<l>Oordeelen dat den <hi rend="i">Mey </hi>die kruyden gheeft haer kracht.</l>
+<l>’T ghevoghelt oock, en ’t vee, <hi rend="i">Chyteraes </hi>heetste stralen,</l>
+<l>Hoeseer haer mentch veynst, den Mey-tijdt doetse dwale<hi rend="i">n</hi>,</l>
+<l>Elck Minnaer naer sijn lief, en lief tot weder min,</l>
+<l>En door liefd van weer-sijdes wint elck liefs hert en sin.</l>
+<l>Yeg’lijc vernuftich mensch bequaemlijc kan nu mercken</l>
+<l>Hoe wonder alle dinck tot wasdom hem gaet stercken,</l>
+<l>Hoe d’aerd beschildert staet met bloemen en ghewas,</l>
+<l>En hoe de beemden groen op ’t nieu sich kleen met gras.</l>
+<l>Lustich staen over al die boomgaerts nu en bloeyen,</l>
+<l>Lustich staen over al die wijnstocken en groepen,</l>
+<l>Schoon bloosend staet het velt, deurschildert of het leeft,</l>
+<l>Elck bloem int groene gras naer verw verschijnsel geeft.</l>
+<l>Het boom-dicht doncker woudt beghint van veers te blaeuwen,</l>
+<l>En ’t nader dicht geboomt begint ’t aerdtrijc te schauwe<hi rend="i">n</hi>,</l>
+<l>En elcken stam by stam gheplant na ’t uytsien staet</l>
+<l>Vergult van ’t Sonne-licht wanneer sy slapen gaet.</l>
+<l>Die beecxkens silver-klaer met haer bebloemde kanten,</l>
+<l>Wispelen hier en daer lancx groen bemoste stranten,</l>
+<l>Met boomkens van weer-sijdts effen naer pas ghepoot,</l>
+<l>Die elck bloeyen naer aert, wit, paers, purper en root.</l>
+<l>Waer ’t laeuwe wintjen soet koel-aesmich deur komt wayen,</l>
+<l>En met de bloemkens bont die paetjens gaet besayen,</l>
+<l>En noodicht soo elck een om te ghenieten vreucht,</l>
+<l>En lockt elcks herte soet tot lust ende gheneucht.</l>
+<l>Hoe siet men yeg’lijck dan in desen Mey-tijdt varen,</l>
+<l>Hier op ’t water te scheep, en daer te land met karen,</l>
+<l>De menschen over al d’een singht en d’ander springht,</l>
+<l>Yeglijc so hy best mach geneucht en vreucht voortbringt.</l>
+<l>Hoe sietmen nu de jeucht, maeghden en jonghelinghen,</l>
+<l>Versamelt by malkaer deur die gras pleynen springhen,</l>
+<l>D’een soent, d’ander omhelst, en d’ander tortopseert,</l>
+<l>Yeg’lijck naer hy best mach sijn liefste lief nu eert.</l>
+<l>En al het geyle vee door ’t drijven der natueren,</l>
+<l>Al lockend vriendelijck gaet soecken sijn partueren,</l>
+<l>Om hunnen geylen lust te boeten en soo voort</l>
+<l>Doen teelen haren aert, dat hy niet uyt en doort.</l>
+<l>In die gras-beemden gaen die schoons vate koeyen,</l>
+<l>En die Merrijen glat elck naer haer mannen loeyen,</l>
+<l>Oock ’t woldraghende vee, ja al ’t vyer vastich rot,</l>
+<l>Zijn elck vry sonder sorgh ontsloten uyt haer kot,</l>
+<l>D’een loyt, en d’ander drijft, of bleet, elc laet hem hooren,</l>
+<l>En springhen deur den dou die sy hebben verkooren,</l>
+<l>Voor vast gheboeyden stal en voor het stro ghesprey,</l>
+<l>Een volle mondt soet gras en losse klaverwey.</l>
+<l>Sy maye<hi rend="i">n</hi> met haer tongh die bloemkens al soet geurich,</l>
+<l>’T lacht haer alt’same<hi rend="i">n</hi> toe schoon-reuckich en koleurich,</l>
+<l>Sy storven bleef <hi rend="i">April</hi>, hoy stro ‘t is al vervoert,</l>
+<l>Elck met ’t verleckert oogh na ’t soetste gras nu loert,</l>
+<l>’T ghevoghelt over al met schoon gheverfde pluymen,</l>
+<l>Gaet elck na haren aert woon-plaetsen nu in ruymen,</l>
+<l>Elck paert sich hy en sy, vlechten konstich een nest,</l>
+<l>en broeyen beurt na beurt haer jonghskens op het lest.</l>
+<l>En ’s morghens komt het door de groen boom-tacken springhen,</l>
+<l>En yegh’lijck na sijn aert begint vrolijck te singhen,</l>
+<l>En Orghelen seer soet een lieflijcke Musijck,</l>
+<l>Tot lof haers Scheppers die haer onderboude ghelijck.</l>
+<l>Den <hi rend="i">Mey </hi>beschaemt gheheel die konstighe taffreelen</l>
+<pb n="8"/>
+<l>Der Schilders wijt vermaert, want gee<hi rend="i">n</hi> doode pinceelen</l>
+<l>Betreffen ’t leven soo ghelijck natuere dan,</l>
+<l>Al dinghen voor verhaelt op ’t rijckst uytbeelden kan.</l>
+<l>Nu komt <hi rend="i">Diana </hi>eerst met hare ghesellinnen</l>
+<l>In desen schoonen tijdt om vreuchde te beginnen,</l>
+<l>Elck dertel <hi rend="i">Nimph</hi> ontkleedt wentelt sich door den dou,</l>
+<l>Of baedt in’t water claer, bevrijdt van druck en rou.</l>
+<l><hi rend="i">Sylenus </hi>met sijn fluyt komt nu aen tureluren,</l>
+<l>Al gaende duyselt hy veel lieder sonder trueren,</l>
+<l>Dan hust of werpt hy eens naer sijn dwalende vee,</l>
+<l>En luyrt al wederom sijn ouden sanck gheree.</l>
+<l>Den wijdt-stappende <hi rend="i">Pan</hi> met sijn ruyghe Bock-voeten,</l>
+<l>Swerft al de velden deur om <hi rend="i">Siringa </hi>te groeten,</l>
+<l>speelt oock seer lieflijck op ’t veel rietich instrument,</l>
+<l>Als of sijne vriendin daer self noch waer ontrent.</l>
+<l>Op <hi rend="i">Helicon</hi> en op <hi rend="i">Parnassus </hi>Bergh manierich</l>
+<l>Hoort men nu ’t soet ghesangh van die ghesusters cierich,</l>
+<l>Die tweemael vier en een daer aen te reije gaen,</l>
+<l>En elck met stem om prijs hare ghesangh slaen.</l>
+<l><hi rend="i">Amphion</hi> en <hi rend="i">Orphee</hi> nu nimmermeer en rusten</l>
+<l>Van ’t spelen, en <hi rend="i">Iaphis</hi> begint het oock te lusten,</l>
+<l><hi rend="i">Apollo</hi> boven al speelt op sijn liere soet,</l>
+<l><hi rend="i">Melpomene </hi>met vreucht sich oock verheughen doet.</l>
+<l><hi rend="i">Tyter </hi>en <hi rend="i">Galaté </hi>zijn stadich in de velden,</l>
+<l>Om malkander haer liefd’ lieffelijck te vermelden,</l>
+<l>En <hi rend="i">Coridon </hi>jeloers soeckt sijn vriendin al om,</l>
+<l>Om van haer hier of daer te wesen willekom.</l>
+<l>En <hi rend="i">Phoebus </hi>blinckend klaer met sijnen gouden luyster,</l>
+<l>Soeckt sijn vriendin al om, laet al de werelt duyster,</l>
+<l><hi rend="i">Mercuyr </hi>spraeck rijck begaeft, smeeckt tot sijn <hi rend="i">Herse </hi>goet,</l>
+<l>Datsy met hem verheucht in liefd wil leven soet.</l>
+<l><hi rend="i">Vertumnus </hi>sich oock staegh by <hi rend="i">Pomona </hi>gaet vlijen,</l>
+<l>Ontrent haren <hi rend="i">Boomgaert</hi> komt hy geduyrich vrijen,</l>
+<l>Die Maeght medoghent werdt, en jont hem hare Min,</l>
+<l>Boven ’t voornemen straf raeckt hy ten <hi rend="i">Boomgaert </hi>in.</l>
+<l>Selfs <hi rend="i">Venus </hi>uytten Throon daelt neer met haren wagen,</l>
+<l>En laet sich by haer lief <hi rend="i">Adonis </hi>vrolijck draghen,</l>
+<l>Sy stroockt, sy streelt, sy kust, ondeckt der minnen gloet,</l>
+<l>Soo langh dat sy <hi rend="i">Adoon</hi> haer weder minnen doet.</l>
+<l>Ja al der Goden hoop, hooch, laech, waer sy regeeren,</l>
+<l>Sy gaen in dese tijdt sich al tot liefde keeren:</l>
+<l>’T saem menschen ende vee, ’t gheeft al van liefde smoock</l>
+<l>En weer minnenden brant, mijn <hi rend="i">Godin </hi>en ick oock.</l>
+<l rend="; 2tab"><hi rend="i">Echo Antwoordt: ick oock,</hi></l>
+<l><hi rend="i">Helaes</hi>! wie droes is dit die hier noch spreeckt van minne?</l>
+<l>Wie is dit, Godt of mensch, of ist oock een Godinne?</l>
+<l rend="; 2tab"><hi rend="i">Godinne</hi></l>
+<l>Zoudt <hi rend="i">Echo</hi> oock wel zijn die door der liefden scha</l>
+<l>Van <hi rend="i">Narcissus </hi>haer lief niet kost verwerven ja?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">ja.</hi></l>
+<l><hi rend="i">Godin </hi>doet den <hi rend="i">Mey-tijdt</hi> u oock noch liefdich lopen?</l>
+<l>Leeft ghy om u <hi rend="i">Narcis </hi>tot noch toe in wanhope?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">hope</hi></l>
+<l>Spreect ghy eens ’t oordeel recht, antwoort ons alle bey,</l>
+<l>Welck maent het lustichst is, den <hi rend="i">April </hi>of den <hi rend="i">Mey</hi>?</l>
+<l rend="; 2tab"><hi rend="i">den Mey.</hi></l>
+<l>Nu tuyghen ghenoech, hier onder wilt u buyghen,</l>
+<l>Mijn weerden vriendt, want selfs de Goon u overtuyge<hi rend="i">n</hi>,</l>
+<l>Mensch, beesten, en den tijdt, oock d’Elementen vier,</l>
+<l>Son, Maen, dach ende nacht, en al ’s werelts beslier.</l>
+<l>Hier mede sluytend nu, legh ick ter neer mijn penne,</l>
+<l>Maer holla! noemt den tijd daer men ’t gedicht by kenne,</l>
+<l>Den eersten dach van <hi rend="i">Mey </hi>als <hi rend="i">April </hi>was voor by,</l>
+<l><hi rend="i">SeXtienMael thienmael thien Drie Viermael ende dry.</hi></l>
+</lg></div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="ruys008flor01_0001"/> </interpGrp> 
+<pb n="9"/>
+<head rend="h3">Tot breder overtuyghinge des verschils: vermeerderinghe mijns ghedichts, lust ende vermaeck der lief-hebbers is die volghende Liedeken</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op de voys</hi>: <hi rend="i">Van den lustelijcken Mey.</hi> <lb/>Hier by ghevoecht, beginnende</head>
+<lg type="poem"><l><hi rend="i">DEn lustichsten tijdt is in den Mey,</hi></l>
+<l><hi rend="i">Van ’t heele jaer verkoren,</hi></l>
+<l><hi rend="i">De velden met vervven veelderley</hi></l>
+<l><hi rend="i">Staen vveder nieu herboren,</hi></l>
+<l><hi rend="i">Al vvat op aerden leeft en svveeft</hi></l>
+<l><hi rend="i">In dese maent gheneucht aenheeft,</hi></l>
+<l><hi rend="i">Om kat nu alle dinghen</hi></l>
+<l><hi rend="i">Opt prachtichst lust voort dringhen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Die flonckerende Sonne root</hi></l>
+<l><hi rend="i">Komt ’s moghens vrolijck pralen,</hi></l>
+<l><hi rend="i">En overglanst der aerden kloot</hi></l>
+<l><hi rend="i">Vol eynde-loose stralen,</hi></l>
+<l><hi rend="i">Deur glasighe schaerlakens schoon</hi></l>
+<l><hi rend="i">Brandt sy haren vergulden toon,</hi></l>
+<l><hi rend="i">Vol gout-dradighe lemren</hi></l>
+<l><hi rend="i">Komt sy het aerdrijck schemren.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sy vveckt deur lust tot vveder-lust</hi></l>
+<l><hi rend="i">VVt ’t onlustich besvvaren,</hi></l>
+<l>Ceres <hi rend="i">en </hi>Flora <hi rend="i">langh gherust,</hi></l>
+<l><hi rend="i">Met vveerschijnighe blaren,</hi></l>
+<l><hi rend="i">Sy doet verrijsen al ’t ghevvas,</hi></l>
+<l><hi rend="i">En splijt de spitsen van ’t jongh gras,</hi></l>
+<l><hi rend="i">’T groen kleedt komt sy vveer geven,</hi></l>
+<l><hi rend="i">En ’t doode vveder leven.</hi></l>
+<l rend="; 1tab"><hi rend="i">Het lustich veer-blaeu schijnent vvoudt</hi></l>
+<l><hi rend="i">Met frissch knoppende blader,</hi></l>
+<l><hi rend="i">VVordt oock nieu jeuchdich vveer bedout,</hi></l>
+<l><hi rend="i">Tot vvasdom allegader,</hi></l>
+<l><hi rend="i">’T naerder gheboomt met bloesem staet,</hi></l>
+<l><hi rend="i">Hier vvit, daer root, daer incarnaet,</hi></l>
+<l><hi rend="i">Elck gheeft met schoonen luyster</hi></l>
+<l><hi rend="i">Onder een schaduvv duyster.</hi></l>
+<l rend="; 1tab"><hi rend="i">Die vvisplende Rivierkens klaer,</hi></l>
+<l><hi rend="i">Met bloem-boordighe kanten,</hi></l>
+<l><hi rend="i">Blincken stroomschiffrich hier en daer,</hi></l>
+<l><hi rend="i">Deur groen mossighe stranten,</hi></l>
+<pb n="10"/>
+<l><hi rend="i">Beplant met boomkens van vveer-sy,</hi></l>
+<l><hi rend="i">Die haer hooft spieglen bly</hi></l>
+<l><hi rend="i">In haer glas-decksels even,</hi></l>
+<l><hi rend="i">Siet sich de Son klaer svveven.</hi></l>
+<l rend="; 1tab"><hi rend="i">’T Hemel beklimment vlugh ghediert</hi></l>
+<l><hi rend="i">Met bont gheveerde seylen,</hi></l>
+<l><hi rend="i">Nu vrolijck deur de vvolcken svviert</hi></l>
+<l><hi rend="i">En komt vveer ’t aerdtrijck peylen,</hi></l>
+<l><hi rend="i">Al org’lende een soeten sanck,</hi></l>
+<l><hi rend="i">Terghen s’ </hi>Echo <hi rend="i">tot vveder-klanck,</hi></l>
+<l><hi rend="i">Elck manneken en manninne</hi></l>
+<l><hi rend="i">Spelen om vreucht te vinnen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Het vvildt ghediert en dertel vee</hi></l>
+<l><hi rend="i">Springht deur die nieu tapeeten,</hi></l>
+<l><hi rend="i">Scheerend’ ‘tgroen-hayrich loof gheree,</hi></l>
+<l><hi rend="i">’T vvelck sy hongherich eten,</hi></l>
+<l><hi rend="i">Om boeten hunnen geylen lust,</hi></l>
+<l><hi rend="i">Elck manneken sijn manninne oock kust</hi></l>
+<l><hi rend="i">Om haer gheslacht te houden,</hi></l>
+<l><hi rend="i">En niet te doen verouden.</hi></l>
+<l rend="; 1tab"><hi rend="i"></hi>Princen <hi rend="i">de </hi>Mey <hi rend="i">met sijn gheneucht</hi></l>
+<l><hi rend="i">Is niet om te vol-loven,</hi></l>
+<l><hi rend="i">VVant hy gaet den </hi>April <hi rend="i">in vreucht</hi></l>
+<l><hi rend="i">En </hi>’t heele jaer te boven,</l>
+<l>Looft hem met my menschen al t’saem,</l>
+<l>Looft hem met my o jeucht bequaem,</l>
+<l>Helpt my dit Liedt volbringhen</l>
+<l>Tot lof van <hi rend="i">Mayo </hi>singhen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="ruys008flor01_0002"/> </interpGrp>
+<p><hi rend="i">Terwijl alle saken bestaen in ’t ondervinden van twee lofwaerdighe ghetuyghen, heeft my goet ghedocht oorlof te eyschen aen twee mijne goede vrienden, om van haer elck een liedeken tot bevestinghe hier by te voeghen, ’t welck my mijne gedachten (segghen sy) my vvillichlijck met een goede gheneghentheyt toelaten, waer op ick my verstoute dit volghende Liedeken, op de Voys: </hi>Den tijdt is hier<hi rend="i">, hier by te stellen: Sijn aenvanck nemende,</hi></p>
+<div type="section">
+<pb n="11"/>
+<head rend="h3">[Weest nu verblijdt ghy <hi rend="i">Nymphen </hi>en <hi rend="i">Najaden</hi>]</head>
+<lg type="poem">
+<l>WEest nu verblijdt ghy <hi rend="i">Nymphen </hi>en <hi rend="i">Najaden</hi>,</l>
+<l>Den somer-tijdt is nu voor handen al</l>
+<l>Komt doch subijt bos-vluchtighe <hi rend="i">Driaden</hi>,</l>
+<l>Maeckt nu jolijt al in dit soete dal,</l>
+<l>Want <hi rend="i">Hyems </hi>spijt u niet meer dwingen sal,</l>
+<l><hi rend="i">Phoebus </hi>men nu verheven siet,</l>
+<l>Voor <hi rend="i">Boreas </hi>wilt beven niet</l>
+<l>Maer wilt u begheven vliet</l>
+<l>Tot een vroylijck gheschal.</l>
+<l rend="; 1tab"><hi rend="i">Aurora </hi>schoon komt haer seer vroech vertoghen,</l>
+<l>Verciert den troon van <hi rend="i">Iovis </hi>wijdt vermaert,</l>
+<l><hi rend="i">Flora </hi>ydoon die in <hi rend="i">Ops </hi>schoot lach drooghe,</l>
+<l>Komt nu ten toon met veel coleuren waert,</l>
+<l>Oock sijn ontboon by haer fonteyn erpaert,</l>
+<l>Die <hi rend="i">Muscs </hi>rijck van sinnen vroet,</l>
+<l>Nu volherden uyt minnen soet,</l>
+<l><hi rend="i">Phoebi </hi>neghen <hi rend="i">Godinnen </hi>goet,</l>
+<l>Konstich en onbeswaert.</l>
+<l rend="; 1tab">Die <hi rend="i">Satyrs </hi>stout met die <hi rend="i">Silvaens </hi>voortkome<hi rend="i">n</hi>,</l>
+<l><hi rend="i">Faunen</hi> die ’t woudt nu oock door-lopen snel,</l>
+<l><hi rend="i">Saturnus </hi>bout <hi rend="i">Pomona </hi>snoeyt haer bomen,</l>
+<l><hi rend="i">Ceres </hi>ontvout harer kleet lieflijck en eel,</l>
+<l><hi rend="i">Amphion </hi>houdt niet op van spelen wel,</l>
+<l><hi rend="i">Tryton </hi>blaest in den hoornsaen,</l>
+<l><hi rend="i">Tyter </hi>en <hi rend="i">Pan </hi>oorboren gaen,</l>
+<l>Een seer lieflijck om hooren aen,</l>
+<l>Door <hi rend="i">Mayas </hi>soet bestel.</l>
+<l rend="; 1tab"><hi rend="i">Diana </hi>reyn wilt u ter jacht gaen spoeyen,</l>
+<l>In ’t lustich pleyn met u <hi rend="i">Nimphen </hi>vol deucht,</l>
+<l><hi rend="i">Bacchus </hi>certeyn doet sijn wijnrancke<hi rend="i">n </hi>groeyen,</l>
+<l><hi rend="i">Cupido </hi>kleyn doet nu elck maken vreucht,</l>
+<l>Maect nu gemeyn door sijn pijlen hy beucht,</l>
+<l>die menschen en die <hi rend="i">Goden </hi>al,</l>
+<l>Yeghlijck valght sijn gheboden al,</l>
+<l>Brenght menich tot snooden val,</l>
+<l>Ghelijck <hi rend="i">Naso </hi>betuycht.</l>
+<l rend="; 1tab">Ghy minnaers bly spoeyt u ten velde grone,</l>
+<l>Soect tot partij een schoon <hi rend="i">Nimph </hi>amoureus,</l>
+<l>Verhaelt haer vry ’t sy avondt ofte noene,</l>
+<l>Dat sy met dy wil sijn compassieus,</l>
+<l>Maeckt melody, toont u couragieus,</l>
+<l>En wilt u konst blijcken doen</l>
+<l>Lustich in alle wijcken koen,</l>
+<l>En u tot d’eel Musijcke sijden,</l>
+<l>By u lief gratieus.</l>
+<l rend="; 1tab">Neeme die in danck ghy konst-vermaerde gheesten,</l>
+<l>Het soet gheklanck van <hi rend="i">Philomela </hi>hoort,</l>
+<pb n="12"/>
+<l>Die my den sanc stichten, houdt dit ten besten,</l>
+<l>Al is konst kranck maeckt daerom gheen discoort,</l>
+<l>Neemt uwe<hi rend="i">n</hi> ganc tot <hi rend="i">Phoebum </hi>brengt vreucht voort,</l>
+<l>Nu is der Musen Heere goet,</l>
+<l>Die den Poëten leeren moet</l>
+<l>Hoe sy haer dichten rijmen soet,</l>
+<l>Elck nu wat nieus oorboort.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="ruys008flor01_0003"/> </interpGrp>
+<p>Tot bevestingh ende volkomen ghetuyghenis, roep ick nu mijnen tweeden vriendt, welck schijnt (na den uytdruck sijnder letteren) in den lieflijcken Mey-tijdt oock van <hi rend="i">Venus </hi>een weynich (of vry wat veel) mede ghedeelt is gheweest van de milde gaven ende brandende gheneghentheden der Minne-vlammen, waer van sijn ghedichte liedeken, (op de <hi rend="i">Voys</hi>: <hi rend="i">Ick moet singhen mijn quale te passeren,</hi>) also getrouwelijck als van den Mey-tijdt ghetuyghende is, ’t Welck ghespeurt kan worden alsmen het selve om te singhen aenvanght:</p>
+<div type="section">
+<head rend="h3">[Den bly-gheestighen tijdt met aenghename vreuchde]</head>
+<lg type="poem"><l><hi rend="i">DEn bly-gheestighen tijdt met aenghename vreuchde,</hi></l>
+<l><hi rend="i">Door ’s Hemels soete lust nu staet in nieuwe vreuchde,</hi></l>
+<l><hi rend="i">Met schoon cieraet en pracht van bloemen menichvout,</hi></l>
+<l><hi rend="i">Die vrolijck op ghebloeyt soet geurich staen bedout.</hi></l>
+<l rend="; 1tab"><hi rend="i">Natuer grootdadich nu ons toont al haer vermoghen,</hi></l>
+<l><hi rend="i">Die gouden son die komt des morghens vroegh vertoghen,</hi></l>
+<l><hi rend="i">Met aenghename glans haer blinckend aenghesicht,</hi></l>
+<l><hi rend="i">Waer door den Hemel blaeu gout-stralich wordt verlicht.</hi></l>
+<l rend="; 1tab"><hi rend="i">En ‘t [...] windtjen blaest nu langhs de groene dalen,</hi></l>
+<l><hi rend="i">In ’t veer blaeu-schijnend’ woudt met vreucht nu hoort verhalen,</hi></l>
+<l><hi rend="i">Der teeder voghlen stem door Echos weder-klanck,</hi></l>
+<l><hi rend="i">Die na te bootsen poocht hun lieflijck soet ghesanck.</hi></l>
+<l rend="; 1tab"><hi rend="i">Elc jeuchdich Minnent hert blymoedich komt aenschouwe</hi>n<hi rend="i">,</hi></l>
+<l><hi rend="i">Nu met sijn waerdich lief ’t cieraet den groen landouwen,</hi></l>
+<l><hi rend="i">Daer ’t nare dicht gheboomt met schadu koel bedeckt,</hi></l>
+<l><hi rend="i">Daer lieflijck nu die Min tot wederminne treckt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Cupido jonstich milt gheeft daer zijn blijden seghen,</hi></l>
+<pb n="13"/>
+<l><hi rend="i">Die als een soeten dou, die als een soeten reghen,</hi></l>
+<l><hi rend="i">Door weder-minnen brandt, ’t onsteken hert verkoelt,</hi></l>
+<l><hi rend="i">Dat door liefs jonste soet een Hemels vreuchde voelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer ick eylaes alleen nu hopeloos beklaghe,</hi></l>
+<l><hi rend="i">Dat mijn inwendich vier ontsteeckt noch alle daghe,</hi></l>
+<l><hi rend="i">In ’t diepste van mijn ziel daer d’edel beeldtenis,</hi></l>
+<l><hi rend="i">Van uwe schoonheyt schoon op ’t rijckst gheschildert is.</hi></l>
+<l rend="; 1tab"><hi rend="i">Waer van den weder-glans onlanghs mijn hert besstaelden,</hi></l>
+<l><hi rend="i">Als of die klare Son in een brandt-spieghel daelden,</hi></l>
+<l><hi rend="i">Als mijn verbaest ghesicht werdt schielijck onverwacht,</hi></l>
+<l><hi rend="i">Gheblixemt door den schijn van uwe schoonheyts kracht.</hi></l>
+<l rend="; 1tab"><hi rend="i">Mijn vrou als ghy quaemt gaen bly-gheestich u vermeyden,</hi></l>
+<l><hi rend="i">Daer u den Zephyr soet soet-aesmich komt gheleyden,</hi></l>
+<l><hi rend="i">Die liefdekens al sacht speelden rontsom u heen,</hi></l>
+<l><hi rend="i">V edel heus ghelaet doen Venus selve scheen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Wat wonder is dan dat die dertel woeste scharen.</hi></l>
+<l><hi rend="i">Van wilde Satyrs veel die daer ontrent u waren,</hi></l>
+<l><hi rend="i">Door d’opdoen goddelijck van uwe schoonheyt bly,</hi></l>
+<l><hi rend="i">Verbaest met nieuwen schrick al om weken voor dy.</hi></l>
+<l rend="; 1tab"><hi rend="i">Want door het schoon cieraet van u hooch-dragend wesen,</hi></l>
+<l><hi rend="i">Soo leef ick in een Zee van hopen en van vreden,</hi></l>
+<l><hi rend="i">Mijn ’t sederighe leen beroert heel zijn ontstelt,</hi></l>
+<l><hi rend="i">Door het verteerich vyer dat my inwendich quelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Och waert alsoo Princes dat ghy eens most ghevoelen,</hi></l>
+<l><hi rend="i">Hoe heet mijn Minne waer, den brandt soudt ghy verkoelen,</hi></l>
+<l><hi rend="i">Ach mijn Godin u hert is meer dan dubbel stael,</hi></l>
+<l><hi rend="i">Soo ’t gheen medoghen voelt van dees mijn bitter quael.</hi></l>
+<l>&nbsp;</l>
+<l>Godin soo ghy u stoort om dat ick u beminne,</l>
+<l>Beschuldicht die natuer die u so heeft begaeft:</l>
+<l>Want wie was oyt verblindt of soo berooft van sinnem</l>
+<l>Die uwe schoonheyt kent, en daerom niet en slaeft.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="ruys008flor01_0004"/> </interpGrp>
+    <p><hi rend="i">Hier mede behoorde ick wel te sluyten, want dewijle het rijck begaefde Neder-landt so volcomentlijck verrijckt is met de gaven der Poësien begint den twijfel my de schaemte voor ooghen te brenghen dat mijne kleyne </hi>Musa <hi rend="i">soo gheringh is dat sy der Lief-hebberen ghesicht, haer by geval in handen rakende, niet eens daer over soude doen swencken: Maer mijn vertrouwen my al hopende belooft, dat yeghelijck die <pb n="14"/>gheleghentheyt aensiende, dit ghelijcken sal by de rouwe onbeslepene ghesteenten, die by gheval somtijdts van dit natuere eenigen aerdighen hoeck of punt mede gedeelt is, ende dan by den lief-hebbers onder hare kleynodien, als noch yet kleen-weerdichs aenghenomen, onder d’ander bewaert wordt. Alsoo dan in mijn Mey-ghedicht verhaelt is, dat </hi>Tyter <hi rend="i">ende </hi>Galathea <hi rend="i">ghestadichin de nieuwe gras-beemden malcander volghen, dunckt my hier niet onbequaem mede tusschen te voeghen een nieu Liedeken, op de Voys: van </hi>Malle Simon<hi rend="i">, hoe dat </hi>Galathee <hi rend="i">na haer vee gaende van </hi>Tyter <hi rend="i">vervolght werdt, die haer eerbiedich met Minlockende woorden aenspreeckt:</hi></p>
+<div type="section">
+<head rend="h3">[VVerwaert dus haestich uwe<hi rend="i">n</hi> ganc]</head>
+<lg type="poem"><l>VVErwaert dus haestich uwe<hi rend="i">n</hi> ganc,</l>
+<l>Schoon <hi rend="i">Galathea</hi>, die soet naer uwen sanck</l>
+<l>U voetjens stieret, en vluchtich swieret,</l>
+<l>Ick groet u met ghewenste daghen lanck:</l>
+<l>Wie spreeckt my hier dus minlijck aen?</l>
+<l>Ey <hi rend="i">Tyter </hi>zijt ghy ‘t, waer wile ghy hene gaen?</l>
+<l>Ick gaen om melcken mijn koykens, welcke</l>
+<l>Ick weet dat my al blatend wachten staen:</l>
+<l><hi rend="i">Galathe </hi>laet my me gaen macht my gebeuren?</l>
+<l>Neen gh’en moet <hi rend="i">Tyter </hi>soet, yemant moch ons speuren.</l>
+<l>Wie soud’ ons hier sien by een?</l>
+<l>’t Veldt heeft ooghen in ’t ghemeen.</l>
+<l>Dat zijn quaey ghedachten maer.</l>
+<l>Maeghden moeten wachten haer.</l>
+<l>Ick moet u geleyde<hi rend="i">n</hi> door dese schoone weyden,</l>
+<l>Om u mijn Min te maken openbaer.</l>
+<l rend="; 1tab">Ach <hi rend="i">Galathea </hi>schoon Godin,</l>
+<l>U eerst aenschouwen gaf mijn lijde<hi rend="i">n</hi> een begin,</l>
+<l>U helder lichame, schoon en bequame</l>
+<l>Heeft my willich ghebuycht tot uwe Min.</l>
+<l>Ja <hi rend="i">Tyter </hi>let u anders niet?</l>
+<l>Ghy meent my maer te brenghen int verdriet,</l>
+<pb n="15"/>
+<l>Maer sulcke kluchten, sal ick wel vluchten,</l>
+<l>Men mach die vryers licht gheloven niet.</l>
+<l>Ach mijn vrou krijgh ick nu</l>
+<l>Voor troost meerder wonden?</l>
+<l>U verdriet heb ick niet noch u boy ghesonden.</l>
+<l>Ach ghy maeckt my wreeder kruys.</l>
+<l>Ja ja gaet vry weder t’huys.</l>
+<l><hi rend="i">Galathe </hi>weest niet dus wreedt,</l>
+<l>Ick en doe u toch gheen leet.</l>
+<l>Is dat geen leet noch ’t mest dat ic weet noch,</l>
+<l>Dat mijn klacht niet verdie<hi rend="i">n</hi>t eenich bescheet.</l>
+<l rend="; 1tab">Och och wat heb ick menichmael</l>
+<l>Van u heusheyt ghedaen een soet verhael,</l>
+<l>En seer ghepresen u eerbaer wesen,</l>
+<l>Op mijne fluyt en mijn ruyl-pijpken smael,</l>
+<l>Ende mijn teere Schaepkens al</l>
+<l>Laten gaen dolen, of besloten in den stal,</l>
+<l>Om u te spreken, ’t welck ghy gaet wreken</l>
+<l>Met een onweerdich spijtich weer ghekal.</l>
+<l>’T is al niet <hi rend="i">Tyter </hi>vliet,</l>
+<l>Wilt my doch verlaten.</l>
+<l>Ey Godin van ons Min,</l>
+<l>Laet ons noch wat praten.</l>
+<l>Ick moet naer mijn koyen gaen,</l>
+<l>Laetse vry wat lopen staen.</l>
+<l>Neen <hi rend="i">Tyter </hi>ick moet weer t’huys.</l>
+<l>Dus valt my ’t spoet meer kruys,</l>
+<l><hi rend="i">Galathea </hi>reene ghy zijt het alleene</l>
+<l>Die my mijn hert en sinnen maeckt confuys.</l>
+<l rend="; 1tab">Sal ick dan komen nimmermeer</l>
+<l>U hert en gemoet tot mywaerts neygen seer,</l>
+<l>Sal ick u sinnen niet eens verwinnen,</l>
+<l>Daer ick u min op alle deucht en eer.</l>
+<l><hi rend="i">Tyter </hi>wat sal ick segghen siet,</l>
+<l>‘K en derf u soo haest noch vast gelooven niet,</l>
+<l>Ghy schijnt soo boevich om my bedroevich,</l>
+<l>Soo ‘k u gheloofd te brenghen in ’t verdriet.</l>
+<l>Schoon jonck-vrou ick sal u mijn meeningh verhalen.</l>
+<l>Ick sal eerst gaen op ’t seerst mijn koyen doen stralen.</l>
+<l>Ick sals’ houden stil te staen.</l>
+<l>Sy zijnder soo wilt niet aen.</l>
+<l>Ick sal t’wijl dan speelen yet.</l>
+<l>Ghy hebt doch gheen Veel of niet.</l>
+<l>Mijn Ruys-pijp kleene, draegh ic int gemeene</l>
+<l>Om speelen t’uwer eeren menich liedt.</l>
+<l rend="; 1tab">In dit gheneuchlijcke dal,</l>
+<l>Vol bloemen schoon by desen groenen wal,</l>
+<l>Daer die klaer stroomke<hi rend="i">n</hi> la<hi rend="i">n</hi>cx menich boomke<hi rend="i">n</hi></l>
+<l>Int midden deur wispelt met soeten val</l>
+<pb n="16"/>
+<l>Sach ick eerst mijn schoon <hi rend="i">Galathe</hi>,</l>
+<l>Van glans veel helder als nieu gevlockte snee,</l>
+<l>Haer eerbaer seden, ende nette treden</l>
+<l>Maeckten die Min in mijn hert een woonstee,</l>
+<l>Haer blont hayr gaf sy daer</l>
+<l>Die winden om speelen,</l>
+<l>Haer ghelaet vroech en spaet</l>
+<l>Mijn ghemoet quam streelen,</l>
+<l>Minlijcke vertoochskens reet,</l>
+<l>Sloeghen haer bruyn-ooghskens wreet,</l>
+<l><hi rend="i">Venus </hi>ghy die woont om hooch,</l>
+<l>Schickt dat door <hi rend="i">Cupidoos </hi>booch,</l>
+<l>Mijn <hi rend="i">Galathea</hi> eens seyt voor neen ja,</l>
+<l>Voor al ’t lijden dat ick om haer ghedooch.</l>
+<l rend="; 1tab"><hi rend="i">Tityr</hi> nu heb ick al ghedaen,</l>
+<l>Vangt op u pijpken noch eens dat liedtje aen.</l>
+<l>’t Lust my om hooren noch eens van voren,</l>
+<l>Ick sal soo langh by u hier sitten gaen.</l>
+<l><hi rend="i">Galathea </hi>dit is al ’t oude liedt,</l>
+<l>Mijn singen, speelen, gaen, staen en spreke<hi rend="i">n</hi> siet,</l>
+<l>’T is al om vermeeren u lof en eere,</l>
+<l>En al mijn doen verwerft u gratij niet.</l>
+<l>Ick word root boefken snoot,</l>
+<l>Hoe soet kondy praten.</l>
+<l><hi rend="i">Galathe </hi>jont het stee wilt my niet verlaten,</l>
+<l>Ey hoe langh blijf ick van huys.</l>
+<l>’T is noch vroech hebt gheen abuys,</l>
+<l>Ja ’t schijnt of het dondren sal,</l>
+<l>Wat versiert ghy wondren al,</l>
+<l>Ach minne<hi rend="i">n </hi>vlamme<hi rend="i">n </hi>wat gesselt ghy al strammen,</l>
+<l>U straffen wreedt en hebben gheen ghetal.</l>
+<l rend="; 1tab">Bemint doch <hi rend="i">Galathea </hi>braef,</l>
+<l>Die u trou biedt als dienaer ende slaef,</l>
+<l>Ghy krijght in handen alle mijn landen,</l>
+<l>Mijn ossen, geyte<hi rend="i">n</hi>, schapen, en ooc al mijn haef.</l>
+<l>Hoort <hi rend="i">Tityr </hi>al u droef ghepraet</l>
+<l>Bewijst <hi rend="i">victorij </hi>uyt mijn beschaemt ghelaet,</l>
+<l>Ick ken de krachten van mijn ghedachten,</l>
+<l>Ick sal mijn Moeder eens vraghen om raedt.</l>
+<l>Neen Godin, onse Min</l>
+<l>Knopen wyl’ hier samen.</l>
+<l><hi rend="i">Tityr </hi>neen, ’t zijn gheen reen, wilt my niet beschamen.</l>
+<l>Dat had ick u vast betrout.</l>
+<l><hi rend="i">Tityr </hi>wech u handen houdt.</l>
+<l>Ey schoon <hi rend="i">Galathea </hi>goet, ic wil roepen so ghy’t doet.</l>
+<l>Roept so ’t u seer doet, swijcht so ic meer moet,</l>
+<l>’T is maer om te blussen der minnen gloet.</l>
+<l rend="; 1tab">Ach <hi rend="i">Galathea </hi>mochten wy</l>
+<pb n="17"/>
+<l>Dus al onse leven blijven sy aen sy,</l>
+<l>Dat niemant scheyden mochte onse beyden,</l>
+<l>Dat waer een vreuchdich <hi rend="i">Paradijs </hi>voor my.</l>
+<l>Neen <hi rend="i">Tityr </hi>daer met gae ick deur,</l>
+<l>Ghy meucht haest volge<hi rend="i">n</hi>, adieu dat is u veur.</l>
+<l>Al onse praten wilt secreet laten,</l>
+<l>Die Sonne sinckt al ree na d’oude sleur.</l>
+<l><hi rend="i">Galathe </hi>op wat stee komen wy weer t’samen?</l>
+<l><hi rend="i">Tityr </hi>vriendt waert u dient.</l>
+<l>Hier ist heel bequame.</l>
+<l>Adieu <hi rend="i">Tityr </hi>goede rust.</l>
+<l><hi rend="i">Galathe </hi>noch eens ghekust.</l>
+<l>Mijn Moeder sal kijven och, kans oock meer bedrijven doch,</l>
+<l>Nu <hi rend="i">Galathea </hi>ick wensch u vree na,</l>
+<l>Ons liefde sy oprecht sonder bedroch.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="ruys008flor01_0005"/> </interpGrp>
+<p>Alsoo my mijne ghedachten in de memory brenghen een Liedeken, op de <hi rend="i">Voys: Schoon Ionck-vrou ick moet u klaghen, </hi>’t Welck ick (nu jarich zijnde) de jeucht ende onse gheneuchlijck ende wijdt-vermaerde stadt ter eeren maeckte, hebbe ick niet kennen laten het selve hier noch te laten volghen.</p>
+<div type="section">
+<head rend="h3">[Den Somer-tijdt is nu voor handen]</head>
+<lg type="poem"><l><hi rend="i">DEn Somer-tijdt is nu voor handen,</hi></l>
+<l><hi rend="i">Gheneuchelijck en schoon,</hi></l>
+<l><hi rend="i">Velden, bosschen ende landen</hi></l>
+<l><hi rend="i">Gheven nieuvven toon,</hi></l>
+<l><hi rend="i">Groen is d’aerdrijck overschildert,</hi></l>
+<l><hi rend="i">Vol bloemkens deur-maelt,</hi></l>
+<l><hi rend="i">Met nieu struycxkens ’t bos vervvildert,</hi></l>
+<l><hi rend="i">Elck om ’t cierlijckst praelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Vroech komt nu het sonnen-schijnsel</hi></l>
+<l><hi rend="i">Vergulden het veldt,</hi></l>
+<l><hi rend="i">Maeckt den vvinter tot verdvvinsel,</hi></l>
+<l><hi rend="i">Die als moedich heldt</hi></l>
+<l><hi rend="i">Ons kout-vruchtich nam ghevanghen,</hi></l>
+<l><hi rend="i">By ’t vyer of in stoof,</hi></l>
+<pb n="18"/>
+<l><hi rend="i">Nu gheeft Mayus vveer vry ganghen</hi></l>
+<l><hi rend="i">In ’t nieu groene loof.</hi></l>
+<l rend="; 1tab"><hi rend="i">Elck dierken gaet hem vveer paren,</hi></l>
+<l><hi rend="i">Een hy en een sy,</hi></l>
+<l><hi rend="i">Die vogheltjens int vergaren,</hi></l>
+<l><hi rend="i">Maken melody,</hi></l>
+<l><hi rend="i">Door die boomkens hooch verheven</hi></l>
+<l><hi rend="i">Met een soeten toon,</hi></l>
+<l><hi rend="i">Sy al vlieghende door svveven,</hi></l>
+<l><hi rend="i">Singhende seer schoon.</hi></l>
+<l rend="; 1tab"><hi rend="i">’T lieffelijcke laeuvve vvindtjen</hi></l>
+<l><hi rend="i">Blaest die paetjens langhs,</hi></l>
+<l><hi rend="i">En lockt </hi>Venus <hi rend="i">hof-ghesintjen</hi></l>
+<l><hi rend="i">Met veel vreuchd ghesanghs,</hi></l>
+<l><hi rend="i">Dochters, jonghmans paer by paren,</hi></l>
+<l><hi rend="i">In ‘t groen grasich veldt,</hi></l>
+<l><hi rend="i">Siet men over al vergaren,</hi></l>
+<l><hi rend="i">Yeghlijck vreuchd vermelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Naer ons </hi>Helicon <hi rend="i">sijn schoone</hi></l>
+<l><hi rend="i">Menich Minnaer leyt,</hi></l>
+<l><hi rend="i">Klooster-bergh is men ghevvoone</hi></l>
+<l><hi rend="i">Dat men hem nu heet,</hi></l>
+<l><hi rend="i">Veel gaen om ’t lustich vvand’len</hi></l>
+<l><hi rend="i">Na ’t playsierich pleyn,</hi></l>
+<l>Nelis <hi rend="i">vvardt met vreuchdich hand’len</hi></l>
+<l><hi rend="i">Langhs den Rijn-stroom reyn,</hi></l>
+<l rend="; 1tab"><hi rend="i">’T vvijn-kruycxken vverd niet vergheten,</hi></l>
+<l><hi rend="i">’T stuyt ende </hi>Bancquet<hi rend="i">,</hi></l>
+<l><hi rend="i">Het mandeken met het eten</hi></l>
+<l><hi rend="i">Brenghtmen daer oock met,</hi></l>
+<l><hi rend="i">Men danst en springht sonder schromen</hi></l>
+<l><hi rend="i">Aen een ronden rey,</hi></l>
+<l><hi rend="i">In koel schaduvve van boomen,</hi></l>
+<l><hi rend="i">Ter eeren den Mey.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sittend’ speeltmen oock veel doontjens</hi></l>
+<l><hi rend="i">Om te krijghen pant,</hi></l>
+<l><hi rend="i">En om vvinnen veel soen-loontjens</hi></l>
+<l><hi rend="i">Poocht elck aerdich quant,</hi></l>
+<l><hi rend="i">Slingherende deur malkander</hi></l>
+<l><hi rend="i">Den derden men jaeght,</hi></l>
+<l><hi rend="i">In ’t sitten nu d’een dan d’ander</hi></l>
+<l><hi rend="i">Vroemde raetsels vraeght,</hi></l>
+<l rend="; 1tab"><hi rend="i">Die nu sorght voor </hi>Nomus <hi rend="i">smalen,</hi></l>
+<l><hi rend="i">Soo na by de Stadt,</hi></l>
+<l><hi rend="i">Gaen met hare Nimphen dvvalen</hi></l>
+<l><hi rend="i">Op een vreemder padt,</hi></l>
+<l><hi rend="i">En met vvaghen ofte karen</hi></l>
+<l><hi rend="i">Eerst naer ’s Heeren-bergh,</hi></l>
+<l><hi rend="i">Dan door ’t groene bos heen varen,</hi></l>
+<l><hi rend="i">Vry van ’t schimp ghetergh.</hi></l>
+<pb n="19"/>
+<l rend="; 1tab"><hi rend="i">Sou de jonckheyt niet verblijden</hi></l>
+<l><hi rend="i">In den soeten tijdt,</hi></l>
+<l><hi rend="i">D’oudtheyt self stelt sorgh-besijden</hi></l>
+<l><hi rend="i">Ende maeckt jolijt,</hi></l>
+<l><hi rend="i">Man en vrou tot liefd gheneghen</hi></l>
+<l><hi rend="i">VVandelen ghepaers</hi></l>
+<l><hi rend="i">Na die dorpkens naest gheleghen,</hi></l>
+<l><hi rend="i">By vvijlen men vaert.</hi></l>
+<l rend="; 1tab"><hi rend="i">Na ’t veerschijnende hoogh Elten,</hi></l>
+<l><hi rend="i">Met vrolijck bestaen,</hi></l>
+<l><hi rend="i">Laten droeve sorghe smelten,</hi></l>
+<l><hi rend="i">Varen vrolijck aen,</hi></l>
+<l><hi rend="i">Den voer-man klackt met sijn svvepe</hi></l>
+<l><hi rend="i">Dat den vveerdt vast hoort,</hi></l>
+<l><hi rend="i">Om lustelijck op te scheppen,</hi></l>
+<l><hi rend="i">Spijs en dranck brenght voort.</hi></l>
+<l rend="; 1tab"><hi rend="i">Die nu heeft beter vermaken</hi></l>
+<l><hi rend="i">Somtijdts over Rijn,</hi></l>
+<l><hi rend="i">’T rijcke boeren bier te smaken,</hi></l>
+<l><hi rend="i">Of by vvijlen vvijn,</hi></l>
+<l><hi rend="i">Gaet met schuytjens overseylen,</hi></l>
+<l><hi rend="i">Broodt men niet vergeet</hi></l>
+<l><hi rend="i">Om te brocken in de teylen</hi></l>
+<l><hi rend="i">Dat men melck oock eet.</hi></l>
+<l rend="; 1tab"><hi rend="i">Soud ick die gheneucht verbreeden</hi></l>
+<l><hi rend="i">Die men daer bevvijst,</hi></l>
+<l><hi rend="i">Yeghlijck mach selfs buyten treeden</hi></l>
+<l><hi rend="i">’t Landt hem selve prijst,</hi></l>
+<l>Princen<hi rend="i"> vraeght yemant int kallen</hi></l>
+<l><hi rend="i">Na dit lustich pleyn,</hi></l>
+<l><hi rend="i">Noemt het Emm’rijck schoonst van allen,</hi></l>
+<l><hi rend="i">Aen den Rijn-stroom reyn.</hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<p><hi rend="i">Schommelende onder mijn papieren, vinde ick noch een Ghedicht by dit selfde Liedeken niet qualijck voeghende, want wy een deel jonck gheselschap by malkander zijnde met grooter vrolijckheyt in den selven Mey (een van d’aldergheneuchlijckste daghen uytvercoren hebbende) <pb n="20"/>deur bosschen, velden, ende heerlijcke landouwen gewandelt ende ghevaren, ende van onse mede-gebrochte spijse ende dranc op de bequaemste plaetsen onder de aenghename boom-schaduwen ghevrolijckt hadden,is den al drijvende duyster aen comen sinken, waer door wy ons tot vertrecken toe-rusten, ende al gheluckich met malkander t’huys ghekomen zijnde, heeft eenen al onse reyse op’t papier ghestelt, verachtende alle traghe ende vreuchde-loose menschen, ende heeft het heele gheselschap, by malkander zijnde, komen voor-lesen het voor-ghenoemde.</hi></p>
+<div type="section">
+<head rend="h3">[Ghy asse-vijsters luy, die met bedwelmde sinnen]</head>
+<lg type="poem"><l>GHy asse-vijsters luy, die met bedwelmde sinnen</l>
+<l>En vreuchdeloos ghepeyns ghestadich sit in huys,</l>
+<l>Van kommerlijcke sorgh, laet ghy natuer verwinnen,</l>
+<l>Eens anders lust en vreucht schijnt u te wesen kruys.</l>
+<l>En of ghy somtijdts al eens wandelt buyten stede,</l>
+<l>In lust-gaerd of int veldt, of Bacchus Tempels wreedt,</l>
+<l>Daer u ghemeenlijck dan voor vreucht gemoet onvreede,</l>
+<l>En ’t ongheval dickwils nader is als ghy weet.</l>
+<l>Doet doch eens ghelijck wy, versaemt u by malkander,</l>
+<l>Naer voor-ghedanen weet, in vroeghen morghen-stondt,</l>
+<l>Dranc, spijs, en fruyte<hi rend="i">n</hi> veel vergeet niet d’een of d’ander,</l>
+<l>En doet deur bos en veldt oock eens een tocht int rondt.</l>
+<l>Wy quamen vrolijck t’saem van Oosten en van Zuyden,</l>
+<l>Dochters, jongh-mans by een, daer ginc die reyse voort,</l>
+<l>Ons instrumenten schoon begosten stracx te luyden,</l>
+<l>Een yeghlijck naer beveel daer speelden een accoort.</l>
+<l>Over den heelen wegh vrolijcke Mey-ghesanghen,</l>
+<l>Terghend’ veel dorpers grof, die sulcx was onghewoon,</l>
+<l>Vreemt luysterend’ naer ons namen sy hare ganghen,</l>
+<l>Met bourtelijck ghelach om ons accoorden schoon.</l>
+<l>Dus raecten wy met vreuchd tot ’s Heeren-berge lustich,</l>
+<l>En daer voor eerst gheteert, ons flessen daer ghelicht,</l>
+<l>Den voer-man maeckten ree terstont een wagen rustich,</l>
+<l>Dus waren wy altsaem om varen toe-ghericht.</l>
+<l>Doen lustich paer by paer gheseten en ghevaren,</l>
+<l>Naer ’t groen boom-dichte bos, speelende lustich op,</l>
+<l>Al singhend over wegh begost ’t gheboomt te naren,</l>
+<l>Dat van een woest gheplant ghegroeyt was top aen top.</l>
+<l>Met kronckel-tacken veel, gheslingert deur malkander,</l>
+<l>Daer stam aen stam gheplant naer’t uytsien lustich stont,</l>
+<l>Het beuck en ’t eycken loof sloot ’t een so dicht aen d’ander</l>
+<l>Dat ons den Hemel blaeu te sien werdt onghejont.</l>
+<l>Alleen dat <hi rend="i">Phoebus </hi>klaer sijn schoon vergulde rayen</l>
+<l>Deur <hi rend="i">Auraas </hi>soet beweegh seer lieflijck hier en daer</l>
+<l>Tussche<hi rend="i">n </hi>’t wisplich versprey goutstralich quam in sayen,</l>
+<l>Afschilderende d’aerd boomschauwich voor en naer.</l>
+<l>’T welc sich met mosken sacht lustich had gaen bereyden,</l>
+<l>Tot sitplaetsen bequae<hi rend="i">m</hi>, met bloemke<hi rend="i">n</hi>s schoon deur-boort,</l>
+<pb n="21"/>
+<l>Volboomkens op gegroeyt hier en daer tusschen beyden,</l>
+<l>Hier vast o voer-man houdt of vaert een weynich voort.</l>
+<l>Onder ’t ghewelfsel groen van dees verkoren kamer,</l>
+<l>Hier ist heel schoon ghevloert van gras en menich kruyt,</l>
+<l>Dit biesloof sy ons dus, natuer schiep gheen bequamer</l>
+<l>Van daer die spijs rontom en onder tafel spruyt.</l>
+<l>Brenght nu voort onsen dranck en me-ghebrochte spijse,</l>
+<l>In kruyck en korskens goet, set het altsaem by een,</l>
+<l>En wy daer rontom by op Indiaensche wijse,</l>
+<l>Ghenietend’ <hi rend="i">Bacchi</hi> dranck en <hi rend="i">Ceres </hi>vrucht ghemeen.</l>
+<l>Met <hi rend="i">Venus </hi>soet gheslacht dat hier is dobbel-parich,</l>
+<l>Lacht, juistert ende singt dat ’t weder klinct deurt wout,</l>
+<l>Omhelst en soent hier in dees schadu wispelblarich,</l>
+<l>U weder-sijdts gebuer, ’t welc jeucht in vreuchde<hi rend="i">n </hi>houdt.</l>
+<l>En drinct eens lustich leegh dees vol-geschoncke<hi rend="i">n </hi>schalen,</l>
+<l><hi rend="i">Venus </hi>Schildt-knecht alree staet hier by ons en lacht:</l>
+<l>Vertreckens tijdt ghenaeckt, <hi rend="i">Phoebus </hi>begint te dalen,</l>
+<l>’T verloop van sijne<hi rend="i">n </hi>gloor bootschapt den duystre<hi rend="i">n </hi>nacht.</l>
+<l>Den waghen weder reed, lustich ’t saem opgheseten,</l>
+<l>Daer met wy varen door <hi rend="i">Silvanus </hi>meyen dicht,</l>
+<l>Had <hi rend="i">Iupiter </hi>sich hier met <hi rend="i">Io </hi>soo ghequeten,</l>
+<l>Sy hadden licht ghekeert <hi rend="i">Iunoos </hi>jelours ghesicht.</l>
+<l>Singhend’ onder den klanck van Luyt en Cytersnaren,</l>
+<l>Al varend’ raeckten wy tot Neder-Elten ras,</l>
+<l>Daer wy al hastend’ doch lustich en vrolijck waren,</l>
+<l>En spoedich weder voort ghevaren op dat pas/</l>
+<l>Hooch-Elte<hi rend="i">n</hi> (dat van veers gaet aen die wolcken schijne<hi rend="i">n</hi>,</l>
+<l>En ’t reysich volck alom voor d’ooghen schoon brageert,</l>
+<l>En doet op halen hoe daer menich mensch met pijne</l>
+<l>Van ’t blijde leven is ten droeven doodt verkeert.)</l>
+<l>Voeren wy al voor by tot dat wy quamen binnen,</l>
+<l>Ons voorghesette plaets, ’t rampsalich ongheluck</l>
+<l>Van <hi rend="i">Momi </hi>vuyl ghespuys had ons verheuchde sinnen</l>
+<l>Op den ghewensten dach verkeert in vrees noch druck.</l>
+</lg></div></div>
+<div type="chapter">
+<p>Hier mede sal ick nu sluyten, als genoechsaem bewesen hebbende de victorie van den Mey, ende om mijn Werck noch wat te vermeerderen van mijnen voor-genomen wegh af te doolen, ende noch eenige Liedekens, Ghedichten ende Sonnetten hier by te voeghen, maer mijne blodicheyt verbiedt my sulcx, seggende: ick sulcx den tijdt bevelen sal, tot dat ick ghetuygenis ontfanghe of dit mijn kleyn ende moyte-loos werck by den lief-hebberen met aenghenaemheyt oock ghewillecomt <pb n="22"/>ende ontfanghen werdt, ende dat ick alsdan mijn grooter ende meerder werck (dat door het jonstich toedoen van d’edel Rethorica oock ondertusschen mach vermeerderen) in ’t licht soude doen stellen. Also ick in mijn Mey-ghedicht verhael, dat ick een der schoonster daghen in den April met een Musijck accoort quam besoecken die woonplaetse van mijn Godinne, ende dat ick haer naer mijne wensche niet met instrumenten en kost vernoeghen, door d’onghestadicheyt van April, hebbe ick om ’t misnoeghen dat hare gratie int speelen ghenomen mocht hebben, dit volghende Liedeken, op de <hi rend="i">Voys: Belle qui m’aue blesse, &gt;&amp;=c.</hi> haer daer naer komen vereeren, ’t welc sy verheucht (my soo gheheelijck in haer ghewelt bevindende) met een soete stemme aldus ghesonghen heeft:</p>
+<div type="section">
+    <interpGrp> <interp type="song" value="ruys008flor01_0006"/> </interpGrp>
+<head rend="h3">[<hi rend="i">Den Hemel hooch verheven</hi>]</head>
+<lg type="poem"><l><hi rend="i">Den Hemel hooch verheven</hi></l>
+<l><hi rend="i">Met sijn klaerheden schoon,</hi></l>
+<l><hi rend="i">Hebben gheseghent u persoon,</hi></l>
+<l><hi rend="i">Doen ghy ontfinght u leven</hi></l>
+<l><hi rend="i">En quaemt int aerdsche dal</hi></l>
+<l><hi rend="i">Schoonste Godin van al.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Natuere met haer jonste</hi></l>
+<l><hi rend="i">Besprenghden u lichaem</hi></l>
+<l><hi rend="i">Vol bevallicheden bequaem,</hi></l>
+<l><hi rend="i">En toonden hare konste</hi></l>
+<l><hi rend="i">Aen u beeldt heel volmaeckt</hi></l>
+<l><hi rend="i">En leden vvel gheraeckt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">De Schoonheyt blies haer gaven</hi></l>
+<l><hi rend="i">Aen kaecxkens, lipkens, mondt,</hi></l>
+<l><hi rend="i">En u svvaeyende hayren blont,</hi></l>
+<l><hi rend="i">Dies maeckt ghy duysent slaven</hi></l>
+<pb n="23"/>
+<l><hi rend="i">Die dienen ’t blixems licht,</hi></l>
+<l><hi rend="i">’T ghebodt van u ghesicht.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Gheen rimpel ’t voor-hooft ploeghen,</hi></l>
+<l><hi rend="i">Maer ’t silverighe vel</hi></l>
+<l><hi rend="i">Glinstert ghelijck </hi>Diana <hi rend="i">hel,</hi></l>
+<l><hi rend="i">Bevallicheyts vernoeghen</hi></l>
+<l><hi rend="i">Heeft u gheheel lichaem</hi></l>
+<l><hi rend="i">Deur-trocken heel bequaem.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Uvves beleeftheyts seghen</hi></l>
+<l><hi rend="i">En goedertierenheyt</hi></l>
+<l><hi rend="i">Schijnt in u schoonheyt uytghespreyt,</hi></l>
+<l><hi rend="i">Tot deuchden heel gheneghen,</hi></l>
+<l><hi rend="i">In u eerbaer ghemoet</hi></l>
+<l><hi rend="i">Vliet ghy d’onkuysche gloet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Den roem van alle Ioffren</hi></l>
+<l><hi rend="i">Bestaet alleen aen jou,</hi></l>
+<l><hi rend="i">’T gherucht noemt u die schoonste vrou,</hi></l>
+<l><hi rend="i">Elcks tongh u lof gaet offren,</hi></l>
+<l><hi rend="i">En blasen het geschal</hi></l>
+<l><hi rend="i">Uvvs schoonheyts over al.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hoe menich doet ghy brandich</hi></l>
+<l><hi rend="i">Ontfoncken ’t koude hert</hi></l>
+<l><hi rend="i">Die ghy in u ghemoet vervvert,</hi></l>
+<l><hi rend="i">Hier ende oock uytlandich</hi></l>
+<l><hi rend="i">Maeckt ghy door schoonheyts gaef</hi></l>
+<l><hi rend="i">Veel vrije tot u slaef.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVaer onder ach elaey</hi></l>
+<l><hi rend="i">Ick uvve macht oock proef,</hi></l>
+<l><hi rend="i">En stadich met verlanghen droef</hi></l>
+<l><hi rend="i">V goedertieren graey</hi></l>
+<l><hi rend="i">Met menichvoude klacht</hi></l>
+<l><hi rend="i">En droevich suchten vvacht.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Met ydel hoop en vreesen</hi></l>
+<l><hi rend="i">Heb ick my langh gevoedt,</hi></l>
+<l><hi rend="i">V hert ontsteeckt niet door mijn gloet,</hi></l>
+<l><hi rend="i">V hoogh-draghende vvesen</hi></l>
+<l><hi rend="i">Schijnt heeft bevallen blijd</hi></l>
+<l><hi rend="i">Dat ick om u dus lijd.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Of stelt ghy’t tot een proeve</hi></l>
+<l><hi rend="i">Van mijn ghetrouvvicheyt,</hi></l>
+<l><hi rend="i">Of ist maer een vermetelheyt,</hi></l>
+<l><hi rend="i">Dat ghy u dienaer droeve</hi></l>
+<l><hi rend="i">Sijn leven ende doodt</hi></l>
+<l><hi rend="i">Dus voedt in uvven schoot.</hi></l>
+<l>&nbsp;</l>
+<pb n="24"/>
+<l rend="; 1tab"><hi rend="i">Kost ick met liefd en suchten,</hi></l>
+<l><hi rend="i">Verlanghen en ghesmeeck</hi></l>
+<l><hi rend="i">Mijn vrou, smeeden u herte vveeck,</hi></l>
+<l><hi rend="i">Soo mocht ick nu vvel duchten</hi></l>
+<l><hi rend="i">Mijn victorij vaillant</hi></l>
+<l><hi rend="i">Sie ick heel voor de handt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i"></hi>Princesse <hi rend="i">van mijn leven,</hi></l>
+<l><hi rend="i">Ach schoonheyts Coningin</hi></l>
+<l><hi rend="i">Iont my ghenadich vveder-min,</hi></l>
+<l><hi rend="i">Voor al mijn droevich svveven</hi></l>
+<l><hi rend="i">Spreeckt tvvee lettren alleen,</hi></l>
+<l><hi rend="i">Eens ’t recht verkeert van neen.</hi></l>
+<l>&nbsp;</l>
+<l>Bemint rust.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Aen de Berispers</hi>.</head>
+<lg type="poem"><l><hi rend="i">WAerom lacht ghy o Sot, hoe speelen u ghedachten?</hi></l>
+<l><hi rend="i">Heb ick met mijn ghedicht den dieren tijdt verquist?</hi></l>
+<l><hi rend="i">Meent ghy dat ledich-ganck veel hoogher is te achten</hi></l>
+<l><hi rend="i">Als goede konsten zijn? ach neen ghy (spotter) mist.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">Ick acht sulck schimpen niet, maer sal ghestadich ploeghen</hi></l>
+<l><hi rend="i">Naer mijn gheringhe macht, in spijt van uwen smaet,</hi></l>
+<l><hi rend="i">Swelt vry van Nijdicheyt: Ick laet my dan ghenoeghen</hi></l>
+<l><hi rend="i">Als ghy in plaets van roem doet blijcken uwe daedt.</hi></l>
+</lg><p><hi rend="spat"><hi rend="i">FINIS</hi></hi>.</p>
+</div>
+</body>
+</text>
+</TEI.2>

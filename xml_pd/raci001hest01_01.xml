@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Hester of de verlossinge der joden</title>
+               <author>Racine</author>
+               <editor role="translator">Frans Rijk</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Hester of de verlossinge der joden</hi> van Racine, in een vertaling van Frans Rijk uit 1719.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. IV: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>48</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">raci001hest01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 14: 2</idno>
+               </bibl>
+               <p>Racine, <hi rend="i">Hester of de verlossinge der joden</hi> (vert. Frans Rijk). Hendrik van de Gaete, Amsterdam 1719</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Hester of de verlossinge der joden</title>
+               <author>Racine</author>
+               <editor role="translator">Frans Rijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Hester of de verlossinge der joden</title>
+               <author>Racine</author>
+               <editor role="translator">Frans Rijk</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-30</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="iran_01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>HESTER Of de VERLOSSINGE Der JODEN.</p>
+<p><hi rend="i">TREURSPEL</hi></p>
+<p>Na het Fransche gevolgt, van den Heere RACINE.</p>
+<p>
+<figure>
+<p><xptr to="raci001hest01ill0001.gif"/></p></figure></p>
+<p>Te AMSTERDAM,</p>
+<p>By HENDRIK van de GAETE, Boekverkoper, op den hoek van den Vygendam en Warmoesstraat, 1719.</p>
+
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="gaet001"/>
+</interpGrp>
+<pb n="III"/>
+<head rend="h3">Bericht Van den Drukker Aan den Leezer.</head>
+<p>D<hi rend="i">It Treurspel</hi>, <hi rend="i">genaamt Hester</hi>, <hi rend="i">uit het Fransch van den beroemden Tooneeldichter</hi> Racine, <hi rend="i">in Nederduitsche Vaerzen overgebragt</hi>, <hi rend="i">toevallig my ter hand gekomen zynde</hi>, <hi rend="i">heb ik het ons Nederlandsch Parnas niet willen onttrekken: Te meer</hi>, <hi rend="i">wyl het Athalia</hi>, <hi rend="i">van den zelven Dichter voorheen</hi>, <hi rend="i">gerymt in trant van Vaerzen en Zuyverheyt van taal niet behoeft te wyken</hi>.</p>
+<p>&nbsp;</p>
+<p>H: van de <hi rend="spat">GAETE</hi>.</p>
+</div>
+<div type="chapter">
+<pb n="IV"/>
+<head rend="h3">Persoonadiën.</head>
+<list>
+<item><hi rend="sc">Assuerus</hi>, <hi rend="i">Koning van Persië</hi>.</item>
+<item/>
+<item><hi rend="sc">Hester</hi>, <hi rend="i">Koningin</hi>.</item>
+<item/>
+<item><hi rend="sc">Mordechay</hi>, <hi rend="i">Oom van Hester</hi>.</item>
+<item/>
+<item><hi rend="sc">Haman</hi>, <hi rend="i">Gunsteling van Assuerus</hi>.</item>
+<item/>
+<item><hi rend="sc">Sara</hi>, <hi rend="i">Vrouw van Haman</hi>.</item>
+<item/>
+<item><hi rend="sc">Hydaspes</hi>, } <hi rend="i">Hoofdmannen van 's Konings Lyfwacht</hi>.</item>
+<item/>
+<item><hi rend="sc">Azaph</hi>, } <hi rend="i">Hoofdmannen van 's Konings Lyfwacht</hi>.</item>
+<item/>
+<item><hi rend="sc">Elize</hi>, <hi rend="i">Vertrouwde van Hester</hi>.</item>
+<item/>
+<item><hi rend="sc">Thamar</hi>, <hi rend="i">een Jodinne</hi>, <hi rend="i">dienende onder 't gevolg</hi>, <hi rend="i">van Hester</hi>.</item>
+<item/>
+<item><hi rend="sc">Rey</hi> <hi rend="i">van Israëlitische Maachden</hi>.</item>
+<item/>
+<item><hi rend="sc">Wacht</hi> <hi rend="i">van Koning Assuerus</hi>.</item></list>
+<p>&nbsp;</p>
+<p>Het Tooneel verbeeld het Paleis van Assuerus, in Suza.</p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Hester.
+<lb/>
+<hi rend="i">Treurspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Hester, Elize</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l><hi rend="b">Z</hi>Yt gy het, waarde Elize? ô aangenaame dag!</l>
+<l rend="; 1tab">Dank zy den Hemel, dat ik u aanschouwen mag.</l>
+<l rend="; 1tab">Gy, die, mede uit de stam van Benjamin gesprooten,</l>
+<l>De waardste zyt geweest van al myn speelgenooten:</l>
+<l>Die, zuchtende onder 't juk van wreede slaverny,</l>
+<l>De ramp van Sion hielpt beklaagen, neffens my,</l>
+<l>Wat is 't herdenken zoet van ons voorgaande leeven!</l>
+<l>Maar weet gy wel, tot welk een staat ik ben verheven?</l>
+<l>Zes maanden heb ik u doen zoeken: in wat lucht,</l>
+<l>Wat wildernis hebt ge u omthouden, sint uw vlucht?</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>'K hieldt me, op 't gerucht uws doods, van 't menschdom afgescheijen,</l>
+<l>En sleet den traagen tyd, in eenzaamheid, met schreijen:</l>
+<l>Afwachtende, in die staat, het end myns levens, tot,</l>
+<l>My een Propheet verscheen, my toegeschikt van God</l>
+<l>Hy zei; 't is lang genoeg geschreid, sta op, ga heenen,</l>
+<l>Spoed u na Suza, daar is 't voorwerp van uw weenen:</l>
+<l>Daar zult gy Hester, uw vrindin, om wie gy schreidt,</l>
+<pb n="2"/>
+<l>Ten Rykstroon zien gevoert, vol pracht en heerlykheid,</l>
+<l>Stel 't Joodsche Volk gerust: de God, die d'ooreloogen</l>
+<l>En 't lot der wapenen bestiert, door zyn vermogen,</l>
+<l>Zal d'onderdrukten haast verlichten in hun smart:</l>
+<l>Hun jammerlyk geschrei treft zyn mêdogend hart.</l>
+<l>Ik, die door schrik zo wel, als blydschap wierd bewoogen,</l>
+<l>Ben niet na dit Paleis geloopen, maar gevloogen.</l>
+<l>ô! Welk een Schouw spel! welk een zegen! zy is waard,</l>
+<l>Dat zy van d'arm komt die ons Volk steeds heeft gespaart.</l>
+<l>'K hoor, dat Assuerus zyn slavin ten troon doet treeden,</l>
+<l>Dat een Jodin van dien Monarch word aangebeden,</l>
+<l>Door welk een werktuig! welk een wonderlyk besluit,</l>
+<l>Voert God die groote zaak zo tot ons voordeel uit?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>,</speaker>
+<l>Het algemeen gerucht quam u ook wel ter ooren</l>
+<l>Van Vasthys ongunst, in wier plaats ik ben verkooren,</l>
+<l>Hoe Vorst Assuerus, door de hoon, aan hem geschied,</l>
+<l>Haar van den Rykstroon en zyn Huwlykskoets verstiet</l>
+<l>Haar schoonheid, die hy niet zo lichtlyk kon vergeeten,</l>
+<l>Heeft lang daar na noch zyn beleedigd hart bezeten.</l>
+<l>Men zocht door't Ryk dan een nieuw voorwerp tot zyn min,</l>
+<l>'t Welk machtig was, om haar te bannen uit zyn zin:</l>
+<l>Men liep van Indië tot hellespontus stroomen,</l>
+<l>Men zag de Dochters van Egipte in Susa komen.</l>
+<l>Wat schoonheid dong niet na den scepter-staf, om stryd!</l>
+<l>Ja, zelf die van den Parth en ongetemde Scyth.</l>
+<l>Ik leefde in eenzaamheid, en wierd vast onder d'oogen</l>
+<l>Des wyzen Mordachays gevoed en opgetogen.</l>
+<l>Gy weet, hoe veel ik aan zyn zorgen ben verplicht,</l>
+<l>Myn Ouders waaren naauw berooft van 's levens licht,</l>
+<l>Of hy, die me aanzag als de Dochter van zyn Broeder,</l>
+<l>Verstrekte my terstoud tot Vader en tot Moeder,</l>
+<l>Hy, steeds bekommert voor de staat van 't Joods geslacht,</l>
+<l>Heeftme uit die eenzaamheid toen mede aan 't Hof gebragt;</l>
+<pb n="3"/>
+<l>En porde my, indien ik kon, ten troon te treeden:</l>
+<l>Wyl hy 's Volks vryheid bouwde op myn bekoorlykheden.</l>
+<l>'K heb hem al beevende gehoorzaamt, in die staat:</l>
+<l>Myn stam en Vaderland verzweeg ik, op zyn raad;</l>
+<l>My verders schikkende na zyn gegeev en lessen.</l>
+<l>Wat krielde dit paleis van medeminnaressen!</l>
+<l>Waar van dat elk om 't zeerst na 's Vorsten huwlyk stond:</l>
+<l>Afwachtende daar van het vonnis uit zyn mond.</l>
+<l>Elk maakte een aanhang, door bekuiping by de Grooten.</l>
+<l>De een roemde op 't Vorstlyk bloed, waar uit zy was gesprooten;</l>
+<l>Daar d'ander zich verlaat op tooisel en karkant,</l>
+<l>'t Gelaat vergoelykt, door een afgerechte hand.</l>
+<l>Maar al myn kuipety bestond in stille klachten,</l>
+<l>In droeve traanen en angstvallige gedachten.</l>
+<l>'K hoorde eindlyk, dat ik van Assuerus wierd ontboôn.</l>
+<l>'K verscheen voor Hem, daar hy verheven zat ten troon.</l>
+<l>God, die de Koningen bestiert door zyn ver mogen,</l>
+<l>Is 't nederslagtigst hart het ganstigst; daar het poogen</l>
+<l>Der opgeblaazene door hem verydelt werd.</l>
+<l>Ik trof hem, door myn zwakke aantrekklyk heên, het hert</l>
+<l>'t Gelaat scheen zich eerst wat zwaarmoedig aan te stellen.</l>
+<l>De Hemel, die dit lot tot my doet overhellen,</l>
+<l>Heeft waarelyk die vlam in zyn gemoed gesticht.</l>
+<l>Hy sprak dan eindlyk, met de blydschap in 't gezicht:</l>
+<l>O Schoone, ontfang myn hart en kroon, uit zuivre minne.</l>
+<l>Hier op heeft hy my zelf gekroont, als Ryksvorstinne.</l>
+<l>Tot blyk van vreuchde en ook ter liefde van zyn Bruid,</l>
+<l>Deeld hy geschenken aan zyn Hovelingen uit.</l>
+<l>Wat wierd al 't Volk niet door zyn mildheid ingenomen!</l>
+<l>Men zag 't van alle kant op's Vorsten trouwfeest komen</l>
+<l>Helaas! wat trof my, in die algemeene vreuchd</l>
+<pb n="4"/>
+<l>Een heimelyke schaamte, een bitter ongeneucht.</l>
+<l>Ik dacht: zal Hester hier ten Rykstroon zyn gerezen?</l>
+<l>De halve Waerelt aan haar onderdaanig weezen,</l>
+<l>Daar 't gras Jeruzalems ontvolkte muur bedekt.</l>
+<l>En Sion een spelonk voor 't ongediert verstrekt,</l>
+<l>Daar haare tempels zyn in puin en asch verstooven,</l>
+<l>En ze Isrels God niet kan met offer feesten looven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>Hebt gy uw hartzeer voor den Koning al geuit?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Die kent my niet. Hy, die, door 't Hemelsche besluit,</l>
+<l>Tot schik-en-werktuig van myn noodlot is verkooren,</l>
+<l>Dwingt my 't geheim daar van in myn gemoed te smooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>Hoe? Mordachay? kunt gy die hier te woord noch staan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Door liefde en vrindschap wend hy daar toe alles aan.</l>
+<l>Hy weet zyn raad, die 't lot niet mondling wil gehengen,</l>
+<l>Door duizend middelen my heimlyk toe te brengen.</l>
+<l>Nooit zorgde een vader meer voor 't heil van zynen zoon:</l>
+<l>Zelf is de Vorst aan hem verschuldigt troon en kroon;</l>
+<l>Wyl hy hem, door myn mond, te kennen heeft gegeeven</l>
+<l>De bloedige aanslag op zyn kroon en dierbaar leven.</l>
+<l>Ook heb ik middler wyl, uit zucht tot ons geslacht,</l>
+<l>Veel Joodsche Dochteren aan dit Paleis gebragt:</l>
+<l>Al tedre spruiten, die 'k op Sion eerst zag bloeijen,</l>
+<l>In vremde lucht verplant, met my nu op zie groeijen.</l>
+<l>Zy worden in een stil vertrek hier opgevoed:</l>
+<l>Daar elk na myne lesse en voorbeeld leven moet.</l>
+<l>Daar is 't, daar ik my zelve onttrekke alle eer en staaten,</l>
+<l>Daar ik my zelf zoek, door my zelve te verlaaten:</l>
+<l>Daar 'k my verneder voor den alderhoogsten troon,</l>
+<l>En door die vreugd vergeet de scepter en de kroon.</l>
+<l>'K heb haar voor d'oogen van den Pers bedekt gehouwen</l>
+<pb n="5"/>
+<l>Ik zal u daar van een gedeelte doen aanschouwen.</l>
+<l>Komt, Dochtren Sions, uit den ouden Jakobs stam,</l>
+<l>Oprechte telgen van Aartsvader Abraham.</l></sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Hester, Elize</hi>, <hi rend="i">Rei van Izeraëlitische Maagden</hi>. <hi rend="i">Een van de Izeraëlitische Maagden</hi>, <hi rend="i">Zingende achter 't Tooneel</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Een Izeraëlitische Maagd</hi>,</speaker>
+<l rend="; 1tab">WElk een stem laat zich daar hooren?</l>
+<l rend="; 2tab">'t Is die van de Koningin.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andere</hi>.</speaker>
+<l rend="; 1tab">Ach! myn Zuster, myn Vrindin,</l>
+<l rend="; 1tab">Wat klinktze aangenaam in d'ooren!</l></sp>
+<sp>
+<speaker><hi rend="i">Beide te gelyk</hi>.</speaker>
+<l rend="; 1tab">Laaten wy haar vergenoegen,</l>
+<l rend="; 1tab">En ons aanstonds derwaards voegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 1tab">Laaten wy haar vergenoegen,</l>
+<l rend="; 1tab">En ons aanstonds derwaards voegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>Wat zie ik? Hemel! welk een aangenaame stoet</l>
+<l>Van schoonheén nadert ons? wat zien we een zuivre gloed</l>
+<l>Van zoete kuisheid op het helder aanschyn zweeven!</l>
+<l>ô Hoop van Sion, lang moet gy gelukkig leven.</l>
+<l>Het jammerlyk gezucht van uw beklemd gemoed</l>
+<l>Dring door den Hemel, als 't welriekend wierook doet:</l>
+<l>Op dat hy eindlyk eens bedaare in zyne tooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Myn Dochters, laat ons eens die treurgezangen hooren,</l>
+<l>Die gy wel eertyds hebt gevoegt by myn geklagt,</l>
+<l>Verbeeldende ons daar in de val van 't Joodsch geslagt.</l></sp>
+<sp>
+<speaker><hi rend="spat">ZANG</hi>. <hi rend="i">Een Izeraëlitische Dochter</hi>.</speaker>
+<l>Bek laaglyk Sion, ach! waar is uw glans gebleven?</l>
+<l>De Hemel stond verbaast van al uw heerlyk heên,</l>
+<pb n="6"/>
+<l>Gy zyt vernietigt en tot stof en asch vertreên,</l>
+<l>Daar eerst uw grootheid was ten Hemel toe verheven.</l>
+<l rend="; 2tab">ô Sion! voorwerp van myn klachten,</l>
+<l rend="; 2tab">Eer werd ik stom en spraakeloos,</l>
+<l rend="; 2tab">Eer ik uw ramp niet voor altoos,</l>
+<l>Ja, tot myn laatste zucht, behoude in myn gedachten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>ô Zuivere Jordaan, die, met uw snelle vliet,</l>
+<l rend="; 3tab">Van 't hoog gebergte schiet,</l>
+<l rend="; 3tab">Langs Beemden en Weijen</l>
+<l rend="; 3tab">Van vruchtbre valeijen,</l>
+<l rend="; 2tab">ô Lustprieel van 't Jodendom.</l>
+<l rend="; 2tab">Wanneer zien wy u wederom?</l></sp>
+<sp>
+<speaker><hi rend="sc">Een Stem</hi>.</speaker>
+<l rend="; 1tab">Wanneer zal toch die tyd genaaken,</l>
+<l rend="; 2tab">Dat we ons weer spieglen in de glans</l>
+<l rend="; 2tab">Van Sions muur en tooren trans,</l>
+<l rend="; 1tab">Dat wy haar neergestorte daken</l>
+<l rend="; 2tab">Weer zien verryzen uit heur asch,</l>
+<l rend="; 2tab">Gelyk 't voorheene was.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>ô! Zuivere Jordaan, die, met uw snelle vliet,</l>
+<l rend="; 3tab">Van 't hoog gebergte schiet,</l>
+<l rend="; 3tab">Langs Beemden en Weijen</l>
+<l rend="; 3tab">Van vruchtbre valeijen.</l>
+<l rend="; 2tab">ô! Lustprieel van 't Jodendom,</l>
+<l rend="; 2tab">Wanneer zien wy u wederom.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Hester, Mordachay, Elize, Rey</hi> <hi rend="i">van Izeraëlitische Dochters</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>WElk een Vermetle komt dus roekeloos by my?</l>
+<l rend="; 1tab">Wat zie ik? Mordachy? zyt gy 't, myn Vader? gy?</l>
+<l>Welk een geluk doet me u op deze plaats aanschouwen?</l>
+<pb n="7"/>
+<l>Zeg my, wat Engel kon u zo verborgen houwen,</l>
+<l>Met zyne vleugelen, dat gy door d'ingang komt?</l>
+<l>Maar hoe? wat 's dit? gy zucht en staat geheel verstomt,</l>
+<l>Wat wil dat droef gezicht? die gryze en zilvre haaren,</l>
+<l>Met stof en asch bestrooit? 'k bid, wil 't my openbaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mordachay</hi>.</speaker>
+<l>Rampzaalge Koningin! ô droevig ongeval!</l>
+<l>Het welk d'onnozelen op 't wreedste treffen zal,</l>
+<l>Lees, lees dit vonnis, zie, wat lot ons is beschooren:</l>
+<l>Het is met Israël gedaan; wy zyn verlooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>ô Hemel! hoe voel ik myn hart van angst beknelt,</l></sp>
+<sp>
+<speaker><hi rend="sc">Mordachay</hi>.</speaker>
+<l>Den wreeden Haman zyn wy reeds ten doel gestelt.</l>
+<l>Die Jacobs stam nu met den wortel uit zal rukken,</l>
+<l>Het mes is al gewet, waar voor wy moeten bukken:</l>
+<l>D'ontmenschte Amalekiet, by 't Volk in groot gezag,</l>
+<l>Heeft zich géwapent tot die doodelyke slag.</l>
+<l>Men zal ons te gelyk op een dag om doen komen;</l>
+<l>De Vorst, door 't streelen van dien vleijer ingenomen,</l>
+<l>Heeft zelf het vonnis al getekent, ja, hy houd</l>
+<l>Ons voor een monster, daar Natuur van schrikt en grouwt.</l>
+<l>De dag is reeds bestemt, waar op wy zullen sneven.</l>
+<l>Hy heeft daar toe zyn last door 't gansche Ryk gegeeven.</l>
+<l>Laat gy, ô Hemel, zulk een wreede moord geschiên?</l>
+<l>Het staal zal man, noch vrouw, noch jongk, noch oud ontzien,</l>
+<l>In 't kort, wy zullen, in de tyd van vyf paar dagen,</l>
+<l>Ons alle zien ten prooi van Tygers opgedraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Gy, die ons hart kent, en die bloedige aanslag ziet,</l>
+<l>Verlaatge uw eigen Volk in zulk een zwaar verdriet?</l>
+<stage><hi rend="i">Een van de jongste der Izeraëlitische Maagden</hi>.</stage>
+<l>Gy Hemel, kunt alleen dit doodlyk opzet hind'ren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mordachay</hi> <hi rend="i">tegens</hi> <hi rend="sc">Hester</hi>.</speaker>
+<l>Staak uw geween, en laat het schreijen aan die kind'ren,</l>
+<pb n="8"/>
+<l>Gy zyt het, daar alleen 't rampzalig volk op hoopt:</l>
+<l>Gy moet ons redden, eer de tyd, die spoedig loopt,</l>
+<l>Den doodelyken dag noch nader aandoet spoeijen.</l>
+<l>Waar op men te eenmaal den Hebreën uit zal roeijen.</l>
+<l>Ga, zeg, voort wien gy zyt, laat niets u wederstaan,</l>
+<l>Door zo veel heilige Propheeten aangedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Ach! weet gy wel, dat hier de wetten niet gedoogen,</l>
+<l>Dat ooit een sterflyk mensch komt onder 's Vorsten oogen?</l>
+<l>Dat hy in 't binnenst zich van 't Hof verborgen houd,</l>
+<l>Daar nooit een onderdaan zyn Majesteit aan schouwt?</l>
+<l>Dat hy moet sneuvelen, die hem daar durft genaaken,</l>
+<l>'t Zy hy die weer komt met den Scepter aan te raak en?</l>
+<l>Daar 's niemand van die wet verschoont: elk loopt gevaar;</l>
+<l>'t Zy hoog, 't zy laag, men acht de misdaad even zwaar.</l>
+<l>Ik zelf, die naast zyn zy ten Rykstroon ben verheven,</l>
+<l>Ben, als alle anderen, verplicht, daar na te leeven.</l>
+<l>'k Mag hem niet spreeken, en wat meer is, zelfs niet zien,</l>
+<l>Ten zy hy my zelfs zoeke, of derwaards doe ontbiên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mordachy</hi>.</speaker>
+<l>Heeft noch het leven op uw ziel zulk groot vermogen,</l>
+<l>Daar gy uw Vaderland vergaan zaagt voor uwe oogen?</l>
+<l>Gy vreest een sterflyk mensch, daar gy hoort Gods bevel.</l>
+<l>Is 't leven, dat gy zo bemind, het uwe wel?</l>
+<l>Behoort het niet aan 't bloed, waar uyt gy zyt gesprooten?</l>
+<l>Behoort het niet aan God, waar van gy't hebt genooten?</l>
+<l>Wie weet, of hyu niet deed op den Rykstroon treên,</l>
+<l>En u bewaarde, tot behoudnis der Hebreen?</l>
+<l>Denk, God verkoor u niet, om, tot die staat gereezen,</l>
+<l>Een ydel Schouwspel voor gans Azië te weezen,</l>
+<l>Of om den mensch slechts te bekooren hier op aard:</l>
+<l>Hy heeft zyn Heiligen tot eedler werk gespaart.</l>
+<l>Zich op te offeren, zyn groote naam ter eeren,</l>
+<pb n="9"/>
+<l>De Waereld, met al 't geen ze omvat, de nek te keeren</l>
+<l>Dat is 't, het geen hy van zyn kinderen verwacht.</l>
+<l>Gelukkig! die voor hem het levens licht veracht</l>
+<l>En, zo 't de nood vereischt, 't wel durft ten besten geeven.</l>
+<l>Niet dat zyne arm juist door uw hulp moet zyn gesteven:</l>
+<l>ô Neen, myn Dochter, niets kan zyne magt weêrstaan.</l>
+<l>Schoon alle Koningen hem deên den Oorlog aan,</l>
+<l>Hy zou hen, door een wenk, verstrooijen van elkandren</l>
+<l>En hunne benden doen in stof en asch verandren.</l>
+<l>De Hemel beeft, de Zé deinst rug waards op zyn stem,</l>
+<l>d'Aardbodem is, gelyk een ydle niet by Hem</l>
+<l>De Menschen, daar de dood mêe gaat ten grave vaaren,</l>
+<l>Zyn in zyne oogen, als of zy 'er niet en waaren.</l>
+<l>Dat hy het opzet niet van Haman wederstaat,</l>
+<l>Is om te zien, hoe verre uw heilige yver gaat.</l>
+<l>Hy zelf heeftme aangeport, dat ik my zou verkloeken,</l>
+<l>Om u, ô Koningin, in dit Paleis te zoeken.</l>
+<l>Wy zullen, zo gy ons ontzegt uw hulp te biên,</l>
+<l>Door zyne wondren, wel een andere uitkomst zien:</l>
+<l>Door 't zwakste werktuig kan hy onze boeijens breeken,</l>
+<l>En Hamans moordlust van zyn bloedig wit versteeken:</l>
+<l>En gy, die d'eer van zulk een groote zaak veracht,</l>
+<l>Zult zelf dan moogelyk vergaan, met uw geslacht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Zeg 't Volk, 't welk na de Wet van Mozes is besneden,</l>
+<l>Dat zy, met u, de tyd doorbrengen in gebeden,</l>
+<l>Dat zy niets nuttigen, dry dagen achter een,</l>
+<l>Dat zy my bystand doen, door hun Godvruchtigheên.</l>
+<l>De nacht dekt d'aarde reeds, met schaduwen en schimmen;</l>
+<l>Maar morgen, als men weer de zon ziet opwaards klimmen,</l>
+<l>Zal ik my aanbiên tot een waardig offerhand,</l>
+<l>En sterven, als ik moet, voor 't lieve Vaderland.</l>
+<l>Men laat my wat alleen.</l></sp>
+</div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Hester, Elize</hi> <hi rend="i">en de</hi> <hi rend="sc">Rey</hi> <hi rend="i">in 't verschiet van het Toneel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l rend="; 1tab">ô! Opperste vermogen!</l>
+<l>Zie my hier beevend voor uw albespieglende oogen.</l>
+<l>Myn Vader heeft my in myn kindsheid vaak gezegt,</l>
+<l>Dat gy met Isrel een verbond had opgerecht:</l>
+<l>En onze Vaderen verkooren hebt voor dezen,</l>
+<l>Om u een aangenaam en waardig volk te weezen:</l>
+<l>Ja, zelfbeloofde gy, dat zy, bevryd van druk,</l>
+<l>Hier leeven zouden in een endeloos geluk.</l>
+<l>Maar, ach! de Nazaat heeft die dierbere verbonden,</l>
+<l>Door 't overtreeden van uw Wetten, weêr geschonden,</l>
+<l>De nek aan Bruidegom en Vader toegekeert,</l>
+<l>Met onbekende Goôn ontuchtig geboeleert.</l>
+<l>Nu zuchtze in slaverny, en moet den onbesneden.</l>
+<l>Alleen niet staan ten dienst, maar sterven door dien wreden</l>
+<l>Onze overwinnaar schryft, verblind en trots te moê,</l>
+<l>'t Geluk zyns Wapens, aan zyn valsche Goden toe,</l>
+<l>Hy wil uw heilge naam, uw altaars, en de telgen</l>
+<l>Van Jakob, door een slag, uytroeyen en verdelgen.</l>
+<l>Dus kon een afgodist de Godspraak wederstaan,</l>
+<l>Die gy ons, door zo veel Propheeten, hebt gedaan,</l>
+<l>En aan uw eygen Volk een heylgenoot doen missen</l>
+<l>'t Welk word verwacht, uit kracht van uw beloftenissen.</l>
+<l>Neen, duld niet, dat een Volk, 't welk is op moorden uit,</l>
+<l>Noch dronken van ons bloed, de mond vand'uwesluit,</l>
+<l>Waar door uw lof alom langs d'aardboom werd verheven.</l>
+<l>Beschaam die Naamgoôn, die slechts door inbeelding leeven.</l>
+<pb n="11"/>
+<l rend="; 1tab">Voor my, die ge onder dit trouwlooze Volk noch houd,</l>
+<l>Gy weet, hoe myne Ziel van hunne Godsdienst grouwt,</l>
+<l>Dat ik de tafel, daar hun wet op is gesneeden,</l>
+<l>Haar offerfeesten en gemaak te plechtigheden,</l>
+<l>Als goddeloos, verdoem, dat ik, in deze staat,</l>
+<l>Dit prachtig Hulsel en 't Vorstinnelyk gewaad,</l>
+<l>Waar mede ik dezen dag den Koning moet begroeten,</l>
+<l>Wel in het heimlyk wou vertreeden met myn voeten:</l>
+<l>En voor dat tooisel my in zak en assche kleên:</l>
+<l>Dat ik schep geen vermaak, als in myn droef geween.</l>
+<l>'k Heb na het oogenblik gewacht, dat ik, ontsteeken</l>
+<l>Van heilige yver, voor uw Volk zou durven spreeken:</l>
+<l>Dat 's nu verscheenen, en 'k gaa aanstonds by een Vorst,</l>
+<l>Voor wiens ontzachlyk oog geen mensch ooit komen dorst.</l>
+<l>Om u is 't, dat ik voor die Trotse durf verschynen.</l>
+<l>Gelei my derwaards, en doe zynen toorn verdwynen,</l>
+<l>Zo dra hy my aanschouwt, verleen my dezen dag</l>
+<l>Toch een welsprekenheid, die hem behaagen mag.</l>
+<l>'t Staat alles onder u: de Winden, de enweersvlaagen,</l>
+<l>Dat onze Vyand zelf storte in zyne eigen laagen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Rey</hi> <hi rend="i">van Izer aelitische Maagden</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">MYn lot genooten, schtei en zucht,</l>
+<l rend="; 4tab">Uit bitter ongenucht;</l>
+<l>Laat ons het oog, in d'algemeene elenden,</l>
+<l rend="; 2tab">Na 't heilige gebergte wenden,</l>
+<l rend="; 3tab">Daar ons geslacht</l>
+<l>Eerlang noch haar verlossing van ver wacht.</l>
+<l rend="; 1tab">Ach! welk een lot is ons beschooren!</l>
+<l rend="; 2tab">Gansch Isrel moet vergaan.</l>
+<l rend="; 2tab">Schrei, zucht: wy zyn verraân,</l>
+<l rend="; 3tab">En gaan verlooren.</l></sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 2tab">Ach! welk een lot is ons beschooren!</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Is 't niet genoeg, dat Sion wierd ontbloot</l>
+<l rend="; 5tab">Van tempel en tooren?</l>
+<l>Is 't vuur van haat en gramschap niet te smooren,</l>
+<l rend="; 4tab">Dan door onze dood?</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 2tab">Ach! welk een lot is ons beschooren!</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Weerlooze Lammeren, gerukt uit 's moeders schoot,</l>
+<l rend="; 2tab">Wie dacht, wie dacht ooit van te vooren,</l>
+<l rend="; 2tab">Dat gy waard tot de muil geboren</l>
+<l rend="; 2tab">Van zulke Wolven, fel en snood?</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 2tab">Ach! welk een lot is ons beschooren!</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Weg met die ydle pracht, met tooisel en cieraad,</l>
+<l rend="; 2tab">Daar wy 't rampzalig hoofd méê cieren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andre stem</hi>.</speaker>
+<l rend="; 3tab">Men kreede ons met een treurge waad,</l>
+<l rend="; 3tab">Om 't bloedig offerfeest te vieren</l>
+<l rend="; 4tab">Dat Haman ons bereiden laat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>Weg, met die ydle pracht, met tooisel en cieraad,</l>
+<l rend="; 2tab">Daar wy 't rampzalig hoofd mee cieren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Ach! welk een schrikk'lyk moord tooneel</l>
+<l rend="; 4tab">Vertoont zich voor myn oogen!</l>
+<l>Men heeft met d'oude Stok, noch zuigling mededogen:</l>
+<l rend="; 3tab">'t Valt alles strop en staal ten deel.</l>
+<l rend="; 3tab">Ik zie, de Zuster en Broeder,</l>
+<l rend="; 3tab">De Vader en Moeder</l>
+<l rend="; 2tab">Erbermlyk in hun bloed versmoort.</l>
+<l rend="; 2tab">Geen Tygers waaren ooit verwoeder,</l>
+<l rend="; 4tab">Noch heeter op moord.</l></sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="i">Een andre stem</hi>.</speaker>
+<l rend="; 3tab">Wat zie ik al mishandelde lyken,</l>
+<l rend="; 4tab">Lang straaten en wyken,</l>
+<l rend="; 3tab">Die van het graf versteeken zyn.</l>
+<l rend="; 4tab">ô Wee! ô ramp! ô pyn!</l>
+<l>Wie moet op 't zien van zulk een schouwspel niet beswyken?</l></sp>
+<sp>
+<speaker><hi rend="i">Een van de jongste Izeralitische Maagden</hi>.</speaker>
+<l rend="; 2tab">Helaas! wat heb ik toch misdreeven,</l>
+<l rend="; 2tab">Dat ik, in d'uchtend van myn leven,</l>
+<l rend="; 3tab">Bezuuren moet dat deerlyk lot?</l>
+<l rend="; 2tab">Dus word een bloem, die, eerst ontlooken,</l>
+<l rend="; 2tab">Den dag noch naauw ziet doorgebrooken,</l>
+<l rend="; 3tab">Van zynen steel geknot.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andre stem</hi>.</speaker>
+<l rend="; 2tab">Ey! staak dat jammren, staak dat klaagen,</l>
+<l rend="; 4tab">Neem in uwe smart geduld.</l>
+<l rend="; 3tab">Het is om uw Vooroudrens schuld,</l>
+<l rend="; 1tab">Dat gy word van des Hemels roê geslaagen.</l>
+<l rend="; 2tab">Ey! staak dat jammren, staak dat klaagen:</l>
+<l rend="; 4tab">Neem in uwe smart geduld.</l></sp>
+<sp>
+<speaker><hi rend="i">Een van de jongste Izeraelitische Maagden</hi>.</speaker>
+<l rend="; 1tab">Zou d'Almagt voor zyn oogen zien, en dulden,</l>
+<l>Dat dus d'Onnozele ter slachtbank werd' geleid?</l>
+<l rend="; 1tab">En sterven moet voor haar Voorondrens schulden:</l>
+<l rend="; 1tab">Neen, dat stryd met zyn rechtvaerdigheid.</l></sp>
+<sp>
+<speaker><hi rend="i">Twee stemmen</hi>.</speaker>
+<l rend="; 3tab">Gy, die, om hoog,</l>
+<l rend="; 2tab">In 't eeuwig licht gezeten,</l>
+<l rend="; 3tab">Met d'opslag van uw oog,</l>
+<l rend="; 2tab">De Waereld af kunt meeten,</l>
+<l rend="; 3tab">Die, op de vleugelen der wind,</l>
+<l rend="; 2tab">Word over Aarde en Zee gedraagen,</l>
+<l rend="; 2tab">Toef niet meer, men legt ons laagen.</l>
+<l rend="; 3tab">Hoed een Volk, het welk u mint.</l></sp>
+<pb n="14"/>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 2tab">Betoon uw vermoogen,</l>
+<l rend="; 2tab">Verydel het poogen</l>
+<l>Van alle die tegens uw naam zyn gekant.</l>
+<l rend="; 1tab">Maak, datze uw bedryven</l>
+<l rend="; 1tab">Hunn' Goôn niet toeschryven:</l>
+<l>Maar dat zy erkennen de kracht van uw hand.</l></sp>
+<stage><hi rend="i">Einde van 't eerste Tooneel</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="15"/>
+<head rend="h3">Twede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Haman, Hydaspes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hoe? durft ge my dus vroeg, in 't kriek en van den dag,</l>
+<l>Geleiden in een plaats, daar niemand komen mag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Verlaat u op myn trouw: gy hebt geensints te vreezen;</l>
+<l>Men kan in dit vertrek het allerveiligst weezen;</l>
+<l>Dewyl me alleen daar van den ingang werd vertrouwt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Wat is het groot geheim, dat gy me ontdekken zoudt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Ik, aan uw deuchd verplicht, sint eene reeks van jaaren,</l>
+<l>Zwoer vaak, u 't Hof geheim trouwhartig te openbaaren.</l>
+<l>De Koning schynt geheel zwaarmoedig en ontstelt;</l>
+<l>Een yzelyke droom houd hem het hart bekneld.</l>
+<l>Terwyl hier alles in een diepe rust lag, hooren</l>
+<l>Wy zyne stem, die ons vervaar'lyk klonk in d'eoren.</l>
+<l>'K schiet derwaards en speurde een verwarring in zyn reên.</l>
+<l>Dan sprak hy van gevaar, dat hem te dreigen scheen,</l>
+<l>Dan van een vyand, die hem na de kroon wou steeken.</l>
+<l>Wat meer is, 'k heb hem zelf van Hester hooren spreeken.</l>
+<l>Hy sleet de nacht in die bedwellemtheid en nood,</l>
+<l>En na lang worstlen met de slaap, die voor hem vlood,</l>
+<l>Liet hy in 't ende, om zich het denk beeld van dat droomen</l>
+<l>Te onttrekken, 't jaarboek van zyn ryksregeering komen;</l>
+<l>Waar in zyn daaden, door een onvermoeide vlyt,</l>
+<l>Trouw aangetekent staan; en 't geen, van tyd tot tyd,</l>
+<pb n="16"/>
+<l>Is in zyn Heerschappy, door liefde, of wraak, bedreven.</l>
+<l>Geen voorval van belang, of 't staat daar net beschreeven.</l>
+<l>De Vorst, die yvrig na 't verhaal hoort, voelt zyn smart</l>
+<l>Daar door verminderen in zyn angstvallig hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Wat voorval koos hy in 't geschiedboek van zyn leven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Men heeft hem 't al, van toen hy wierd ten troon verheven,</l>
+<l>En door de keur van 't lot in Cyrus plaats gestelt,</l>
+<l>Op zyne last, aan zyn geheugen voorgestelt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Zo spruit die droom dan uit zyn denkbeeld, naar uw zeggen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Daar 's geen Chaldeër, die een droom weet uit te leggen,</l>
+<l>Of hy is door de Vorst ten hove ontboden. Maar</l>
+<l>Hoe ziet gy dus ontroert? wat is 't, dat u dus zwaar</l>
+<l>Op 't harte leid, myn Heer? Gy schynt geheel verslagen.</l>
+<l>Een Prins, als gy, heeft die noch reden om te klaagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hydaspes, vraagt gy dat? ik, die, in deze staat,</l>
+<l>Van ieder werd gevloekt, gevreest, benyd, gehaat,</l>
+<l>Ik acht my zelve veel rampzaliger te weezen,</l>
+<l>Als die 'k door myn gezag zo heb gedrukt voor deezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Wie zag zich immer zo begunstigt van het lot?</l>
+<l>De gansche Waereld eert en viert u, als een God.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>De gansche Waereld? 'k zie my van één mensch braveeren</l>
+<l>Wat zeg ik mensch; ja, zelf een slaaf durft my onteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Wie 's zulk een vyand van den Vorst en 't ryksgebied?</l></sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>'T is Mordachay, kent gy dien ouden gryzaart niet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>'T hoofd van dat haatlyk volk? waar moogt gy u in kwellen?</l>
+<l>Hoe kan een vyand, die zo zwak is, u ontstellen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>'K zag nooit, dat ik van hem 't minste eerbewys ontfing.</l>
+<l>Wat baat my, dat ik werd, als oppergunsteling,</l>
+<l>Van d'allergrootste Vorst des wacrelds aangebeden,</l>
+<l>Zo ik, myns ondanks, zie, dat ik van een besneden</l>
+<l>Dus smaad'lyk werd gehoont? geen Persiaan, hoe hoog</l>
+<l>Van stam, of groet my met een nederslachtig oog.</l>
+<l>Hy, trots en moedig, aan den Hofpoort neêrgezeten,</l>
+<l>Durft my alleen zo stout versmaaden, en vermeeten</l>
+<l>'T hoofd steeken in de lucht, hy ziet, ja, staart my aan,</l>
+<l>Zelf zonder zyn gezicht voor my eens neêr te slaan.</l>
+<l>'T is, of hy 't Hof bewaakt: ik moet daar steeds gedoogen,</l>
+<l>Dat my die Trotse komt braveeren voor myne oogen:</l>
+<l>Dat haatelyk gezicht komt me onophoudlyk voor:</l>
+<l>'S nachts, als elk rust, dunkt my dat ik hem zie, of hoor.</l>
+<l>Zelf deze morgen, 'k zag de zon noch naauw gerezen,</l>
+<l>Of hy ontmoette my, bleek, ongedaan van wezen,</l>
+<l>Behangen met een kleed, bestrooit van stof en asch,</l>
+<l>'T gezicht hovaerdiger, als 't ooit te voren was.</l>
+<l>Gy, die het alles, wat ten hove omgaat, kunt weeten,</l>
+<l>Ik bid u, zeg my eens, wat maakt hem zo vermeten?</l>
+<l>Vind gy ook imand, die daar voor dien Balling pleit?</l>
+<l>Wat is toch d'oorzaak van zyne opgeblazenheid?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Gy weet, hoe 't snood verraad, by Thares voorgenomen,</l>
+<l>Door Mordachay alleen is aan den dag gekomen,</l>
+<l>Dat hy daar door toen is in 's Vorsten gunst geraakt;</l>
+<l>Dit 's d'oorzaak licht, die hem zo opgeblazen maakt.</l></sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hoor, 'k zal u ongeveinst myn hartsgeheim wel uiten.</l>
+<l>'K heb d'onrechtvaerde loop myns noodlots kunnen stuiten.</l>
+<l>Ik, by den Persiaan, van Kindschbeen, opgebrogt,</l>
+<l>Regeer het Ryk, daar ik als slaaf eerst wierd verkocht:</l>
+<l>Myn Rykdom kan die van een Koning evenaaren:</l>
+<l>'K heb Kinderen, tot steun van myn gezag en jaaren:</l>
+<l>Ja, niets ontbreekt my, als een Koningklyke kroon;</l>
+<l>Maar rykdom, staat, gezag, noch mogendheid, hoe schoon</l>
+<l>Het ook in d'oogen van een sterflyk mensch mag schynen,</l>
+<l>Kan 't hartzeer, dat ik door dien Jood ly, doen verdwynen.</l>
+<l>De trotsheid, die ik zie in dat hoogmoedig hart,</l>
+<l>Pyntme onophoudlyk, met een duldelooze smart.</l>
+<l>In 't kort, myn groot gezag kan my geen vreugde geven,</l>
+<l>Zo lang dat haatelyk wanschepsel blyft in 't leven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>In vyf paar dagen zult gy daar van zyn bevryd;</l>
+<l>'T gansch Jodendom zal al geslagt zyn, in dien tyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Helaas! myn vrind wanneer zie ik dien tyd verstreeken.</l>
+<l>Hy is 't Hydaspes, die den bliksem heeft ontsteeken,</l>
+<l>Die al zyn aanhang op het felste treffen zal:</l>
+<l>Zyn trotse hovaerdy brengt al dat Volk ten val.</l>
+<l>Myn wraak zucht is niet met één offerhand te vrede;</l>
+<l>Ze is te yvrig en sleept in haar loop ontelbre mede.</l>
+<l>Een man, als Haman, zo begunsligt van het lot,</l>
+<l>Bepaalt zyn wraak zucht niet, maar geeft zyn woede bot.</l>
+<l>'K wil, dat gansch Isrel in een zee van bloed zal smooren,</l>
+<l>De aard beeve, als zy haar straf en misdaad koom' te hooren.</l>
+<l>'K wil, dat de maar daar van, van eeuw tot eeuw gebragt,</l>
+<pb n="19"/>
+<l>Elk zegge doe: <hi rend="i">daar was een haatelyk geslacht</hi>,</l>
+<l><hi rend="i">Een lastig schuym</hi>, <hi rend="i">dat</hi>, <hi rend="i">uit Judéa voortgekomen</hi>,</l>
+<l><hi rend="i">Den ganschen aardboom had bevolkt en ingenomen</hi>;</l>
+<l><hi rend="i">Maar naauw raakte een in haat van Haman</hi>, <hi rend="i">of terstond</hi></l>
+<l><hi rend="i">Verdweenen ze</hi>, <hi rend="i">als een schim</hi>, <hi rend="i">alom van 's Waerelds rond</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Zo staatge, om Amalek, de Joden niet na 't leven?</l>
+<l>En 't is dien erf haat niet, waar door gy word gedreven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Ik weet, dat ik, gedaalt uit dat rampzalig bloed,</l>
+<l>My, tegens Isrel, met een erfhaat wap'nen moet,</l>
+<l>Dat Amalek is door haar oorlogstoorts geschonden,</l>
+<l>En 't Vee zelf by haar geen genade heeft gevonden,</l>
+<l>Dat slechts een hand vol volks ontk wam het Joods geweld:</l>
+<l>Maar in de staat, daar my 't geluk in heeft gestelt,</l>
+<l>Hou 'k myn gedachten met die grootsheid zo bezeten,</l>
+<l>Dat ik myn Vaderland en Stam haast heb vergeeten.</l>
+<l>De Jood is schuldig: dat 's genoeg: ik heb daarom</l>
+<l>Assuerus aangehitst op 't gansche Jodendom,</l>
+<l>Dien aanhang haatlyk afgeschildert in zyne oogen:</l>
+<l>'K zei, 't Volk was muitziek, ryk, en van een groot vermogen,</l>
+<l>Hun God een vyand van ons volk en onze Goôn.</l>
+<l>De laster kreeg geloof, hy beefde voor zyn kroon.</l>
+<l>Hoe lang, riep ik, zult gy dat snood gespuis gedoogen,</l>
+<l>Wiens Godsdienst, als een pest, de Waereld doorgevlogen,</l>
+<l>Den Persiaan alom met kettery befmet?</l>
+<l>Die tegenstrevers van de Koningklyke wet,</l>
+<l>'t Schynt, dat de Hemel hen een teken heeft gegeeven,</l>
+<l>Om, afgezondert, van den andren mensch te leeven.</l>
+<l>Dat vremde schuim, van elk gevloekt, vloekt ieder een:</l>
+<l>Zy zyn verstoorders van de rust, en van 't gemeen:</l>
+<pb n="20"/>
+<l>Roei 't snood gebroedsel uit, in uw gebied en staaten;</l>
+<l>En vul uw schatkist, met den buit dier onverlaaten.</l>
+<l>De Vorst, bewogen door die reden, gaf aan my</l>
+<l>Terstond het zegel van zyn opperheerschappy:</l>
+<l><hi rend="i">Verdelg ben</hi>, zei hy voorts, <hi rend="i">ô Trouwste myner vrinden</hi>,</l>
+<l><hi rend="i">Ik geef u al de schat</hi>, <hi rend="i">die gy daar by zult vinden</hi>.</l>
+<l>Dus wierd dien slaaf, met al zyn aanhang, voort gedoemt;</l>
+<l>Maar 't uur, myn vrind, dat tot zyn slachting is genoemt,</l>
+<l>Pynt, door zyn traagheid, zo myn duldeloos verlangen,</l>
+<l>Dat ik daar door kan geen volmaakte vreuchde ontfangen.</l>
+<l>Waarom het vonnis noch tien dagen uitgestelt?</l>
+<l>Waar om hem niet gedood, zo dra het wierd gevelt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Gy kunt hem, zo gy wilt, voort brengen om het leven.</l>
+<l>Spreek maar één woord; de Vorst zal hem voort overgeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Dat hangt alleen aan een gelukkig oogenblik.</l>
+<l>Zyn losse en wrevlige aard kent gy zo wel, als ik.</l>
+<l>'T geen hy heeft 's morgens in een goede luim besloten,</l>
+<l>Zult gy hem weer ter noen vergramt om ver zien stooten.</l>
+<l>Maar waar voor maak ik my bekommert, of bevreest?</l>
+<l>Hy haat de Jooden en het hoofd daar van het meest.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Wel, waarom pynt gy dan door 't uitstel uw verlangen?</l>
+<l>Ga, richt den galg vast op, om Mordachay te hangen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hydaspes, 'k hoor gerucht, 't is tyd voorme, om te gaan,</l>
+<l>Gy, zo de Vorst my roept...</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l rend="; 1tab">Laat alles op my staan.</l></sp>
+<div type="scene">
+<pb n="21"/>
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hydaspes, Asaph</hi>, <hi rend="i">gevolg van Assuerus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Zoo was myn dood by die verraders al besteoken?</l>
+<l rend="; 1tab">Vertrek. Gy, Azaph, blyf, 'k moet u alleen hier spreeken.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Assuerus, Asaph</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>, <hi rend="i">op zynen troon zittende</hi>.</speaker>
+<l>'K wil niet ontkennen, 'k had die booze gruweldaad</l>
+<l rend="; 1tab">Bynaa vergeeten; maar nu my het vuyl verraad</l>
+<l>En 't schrik kelyk gevolg, in zyne omstandigheden</l>
+<l>Verhaalt werd, ryd een koorts door alle myne leden.</l>
+<l>Zy hebben beyde, naar ik hoor, 't geheim van 't snood</l>
+<l>En gruwelyk bedryf bedekt met hunne dood:</l>
+<l>Dewyl men 't hen door pyn niet kon ten halze uithaalen.</l>
+<l>Maar, waar mede zal ik zulk een trouwen dienst betaalen?</l>
+<l>En hem beloonen, door wiens zorg ik ben behoed.</l>
+<l>Heeft hy noch niets daar voor genooten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l rend="; 3tab">Neen, men voed</l>
+<l>Hem met beloften en hoop.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 2tab">O! groote ondankbaarheden!</l>
+<l>Word zoo de dienst beloont! getrouwe deuchd bestreden!</l>
+<l>Zoo raakt een Rykstroon aan het wagg'len; Want wie zal,</l>
+<l>Met yver aangedaan, een Koning ten gevall'</l>
+<pb n="22"/>
+<l>'t Verraad ontdekken, als 't gemunt is op zyn leeven,</l>
+<l>En aan den Cepterstaff zyn kracht en luyster geeven?</l>
+<l>Veel nutter is het, dat een misdaad werd verschoont,</l>
+<l>Als dat een trouwe dienst dus av'rechts blyft beloont.</l>
+<l>Wie is het, Azaph? of hebt gy noch niet vernoomen,</l>
+<l>Door wien dit snood verraad is aan den dag gekomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l>o Ja, ik ken hem wel, die 't heeft aan 't licht gebrogt,</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Waarom heeft hy niet zelf zyn loon daar voor verzocht?</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l>Dat weet ik niet, Myn Heer. hy schynt vernoegt te leeven</l>
+<l>Wy zien hem 's morgens vroeg al om den Hofpoort zweeven.</l>
+<l>Daar hy dan somtyd tot den avond zitten gaat.</l>
+<l>In 't kort, hy 's arm, maar ook te vrede met zyn staat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Te meer, behoort men zulk een dienst niet te vergeeten.</l>
+<l>Hoe is dien Man zyn naam?</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l rend="; 3tab">Hy 's Mordachay geheeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>En zyn geboorte plaats?</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l rend="; 2tab">'t Is een gevangen Jood,</l>
+<l>En uyt het haatelyk geslacht, dat reeds ter dood</l>
+<l>Gedoemt is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 1tab">Hoe! een Jood! wie zou zulks ooit gelooven!</l>
+<l>Op 't punt, wanneer men my van 't leven wil berooven,</l>
+<l>Komt een verachte Jood, een Slaaf, en stuyt de dolk,</l>
+<l>Waar mede ik wierd gedreigt zelfs van myn eygen Volk.</l>
+<l>Hydaspes.</l></sp>
+</div>
+<div type="scene">
+<pb n="23"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Hydaspes, Assuerus, Azaph</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l rend="; 1tab">Heer,</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 2tab">Hebt gy daar Haman niet vernomen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Die 's van de morgen vroeg al aan het Hof gekomen.</l>
+<l>Hy wandelt voor 't vertrek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 3tab">Zeg, dat hy binnen treed.</l>
+<l>Licht dat hy meer, als wy, van deze zaak noch weet.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Assuerus, Haman, Hydaspes, Azaph</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Kom, onverwrikbre Zuyl van myn gezag en staaten,</l>
+<l rend="; 1tab">Kom, trouwe Raadsmaan, daar ik my op mag verlaaten.</l>
+<l>Dien my met uwe raad. Ik stel aan uw 't geval:</l>
+<l>Zeg my, hoe ik de deuchd, naar waarde, kroonen zal,</l>
+<l>Wat ik een onderdaan, die, yvrig en zorgvuldig.</l>
+<l>Uyt zuyvre liefde voor zyn Koning waakt, ben schuldig</l>
+<l>Wat dunkt u? stel aan myn erkentnis, paal, noch maat?</l>
+<l>Ik wil dien trouwen dienst, naar myn gezag en staat,</l>
+<l>Zoo gy het goedvind, op het rykelykst beloonen,</l>
+<l>En zulk een onder daan myn grootfte gunst betoonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>, <hi rend="i">stilter zyde</hi>.</speaker>
+<l>Nu is myn grootst geluk gebooren! wie zou hy</l>
+<l>Toch anders meenen met dien onderdaan, als my?</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Spreek op. Waar wacht gy na?</l></sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l rend="; 1tab">Als ik, met rype zinnen,</l>
+<l>My 't Ryksbestier van uw Voorzaten breng te binnen,</l>
+<l>Vind ik, die u daar in te boven gaat, niet één.</l>
+<l>Gy zyt een voorbeeld voor de Vorsten in 't gemeen.</l>
+<l>Maar wyl ge op 't rykelykst dien onderdaan wilt loonen,</l>
+<l>Zou 'k hem, te Paerd voor 't Volk, in 't purper kleed vertoonen,</l>
+<l>Met uwen kroon op 't hoofd, en 't Paerd zacht by de hand</l>
+<l>Geleyden laaten door den grootsten Heer van 't Land</l>
+<l>Die, prachtig opgetooit, alom, by die vertooning</l>
+<l>Zal roepen: <hi rend="i">kniel. Het is de wil van onzen Koning</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>ô! Welk een Wysheyd! dit stort u de Hemel in.</l>
+<l>Ga, Haman, ga, myn Vrind, die raad is naar myn zin,</l>
+<l>Laat aanstonds alles tot dien ommegang bereyden:</l>
+<l>Kleed u op't pragtigst; want gy moet het Paerd geleiden</l>
+<l>En ommevoeren door de stad van wyk tot wyk;</l>
+<l>Dewyl gy zyt na my de grootste heer van 't Ryk.</l>
+<l>De man, daar ik van spreek, is Mordachay geheeten,</l>
+<l>Een onderdaan, dien ik myn leven dank moet weeten;</l>
+<l>Ga, kleed hem, als gy zegt, in 't Vorstlyk purper rood,</l>
+<l>En doet, terwyl gy hemdus leyd langs markt en wallen,</l>
+<l>Gansch Susa, op uw stem, in 't stoff, ter neder vallen,</l>
+<l>Men laat me alleen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 1tab">Maar zal die eer niet zyn te groot</l>
+<l>Voor een gevangen Slaaf, een afgeleefde Jood.</l>
+<l>Doch 't zy ook wie het zy, men moet verdiensten loonen,</l>
+<l>Zelf zonder onderscheid, of aanzien der persoonen:</l>
+<l>Dat geeft meer luyster aan myn kroon en heerschappy.</l>
+<pb n="25"/>
+<l>Hoe slechter 't voorwerp is, hoe grooter eer voor my.</l>
+<l>'k Meen, schoon ik deze onthef van zyne Slaafsche boeijen,</l>
+<l>Al d'and'ren van dat snood geslacht glad uyt te roeijen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Elize</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat sterflyk mensch durft hier verschynen? daar de dood....</l>
+<l>Zyt gy het, Hester? gy, myn Lief, myn Echtgenoot?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Ach! onder steunme, Elize: ik sterf en kan niet spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat 's dit? o! Hemel, ik zie lip en wang verbleeken,</l>
+<l>De mond beklemt, 't gezigt besterft, de kleur verschiet.</l>
+<l>Wat vreest gy, Hester? spreek, ben ik uw Broeder niet?</l>
+<l>Of is 't de strenge last, die 'k Haman heb gegeeven?</l>
+<l>Bekommer u des niet, 'k verzeker u van 't leven,</l>
+<l>Door 't raken met dees Staf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l rend="; 1tab">Wie roept myn ziel weerom,</l>
+<l>Die uyt het lichaam reeds......</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 3tab">Het is uw Bruydegom.</l>
+<l>Leef, leef gelukkig, gy hebt nergensvoor teschroomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Ach! welk een stem doet my weer tot my zelve komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat heeft u zo ontstelt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l rend="; 2tab">Ach! wie ontstelt zich niet,</l>
+<l>Als hy de glans van uw ontzaglyk wezen ziet,</l>
+<l>Dat, met een majesteit en onbepaalt vermogen,</l>
+<l>Schiet felle blik semen, van uwen troon, door d'oogen,</l>
+<l>Tot in het binnenst' van het allerstoutste hert?</l>
+<pb n="26"/>
+<l>Wie schrikt en beest niet, die daar door getroffen werd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wie werd op 't zien van zulk een schoone ook niet bewoogen?</l>
+<l>Stel u gerust en wis de traanen van uw oogen.</l>
+<l>'K heb medelyden met uw droefheit en verdriet.</l>
+<l>Wat kan u deeren, daar gy 's Konings hart gebied?</l>
+<l>Eysch vry een proef daar van; 'k ben die bereyd te geeven,</l>
+<l>Al zou 't my Troon en Kroon zelfs kosten, ja, het leven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Zou zulk een Wareldvorst, daar 't al voor schrikt en bukt,</l>
+<l>Door liefde tot een Vrouw, zoo verre zyn verrukt,</l>
+<l>Dat hy aan haar 't gebied zyns harten op zou draagen?</l>
+<l>Kan een onnozele Slav in hem zo behaagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Geloof me, myn Vrindin, deez Cepter, die gy ziet,</l>
+<l>Het Vorstlyk purper, en dat onbepaald gebied</l>
+<l>Is niet zoo aangenaam, noch van zulk groot vermogen,</l>
+<l>Als slechs een enkle lonk van uw aanminnige oogen.</l>
+<l>Ik vind zoo iets in uw aantrekkelyk gezigt,</l>
+<l>Dat, steeds behagelyk, gelyk het zonnelicht,</l>
+<l>De zwarte nevelen van rampspoed doet verd wynen,</l>
+<l>En 't hart vervrolykt en ontlast van zorg en pynen.</l>
+<l>'K vrees niets, als ik u op den Troon heb aan myn zy;</l>
+<l>Gy zet die zulk een glans en schone luyster by,</l>
+<l>Dat zy, gewapent met dat fiere aanminnig wezen,</l>
+<l>Alleen geen Mensch maar zelfs geen Goden heeft te vreezen.</l>
+<l>Maar 'k bid u, zeg my eens, wat heeft u dus ontroert,</l>
+<l>En onverwacht, verbaast voor mynen Troon gevoert?</l>
+<l>'K zie, dat gy d'oogen na den Hemel hebt geslaagen.</l>
+<l>Spreek onbeschroomt, al wat ge aan my hebt voor te draagen</l>
+<l>Dat werde u toegestaan, naar uwen wil en wensch;</l>
+<l>Indien het in de magt is van een sterflyk Mensch.</l></sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>o! Welk een goedheyd! daar ik my op mag vertrouwen.</l>
+<l>De zaak, Mynheer, die ik aan u heb voor te houwen</l>
+<l>Is van zeer groot belang; wyl myn behoudenis,</l>
+<l>Of uyterste bederf daar van afhank'lyk is.</l>
+<l>Een woord van uwen mond kan myne droefheyd staaken</l>
+<l>En de gelukkigste der Ryksvorstinnen maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat eyst ge. Ik bid u terg toch myn geduld niet meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Zoo 'k in uw oogen ooyt genade vond, Mynheer,</l>
+<l>Zoo staa myn bede toe, die ik voor eerst bepaale</l>
+<l>In d'eer, dat ik myn Vorst mag aan myn dis onthaale,</l>
+<l>Met Haman, zynen Vrind, en grootste gunstgenoot;</l>
+<l>Zyn tegenwoordigheyd is noodig; wyl hy 't groot</l>
+<l>Geheym, dat ik dan zal ontdekken onder 't eeten,</l>
+<l>Als d'eerste van uw raad. wel mede dient te weeten,</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Zoo blyf ik midlerwyl in die onzekerheyd.</l>
+<l>Doch 'k staa uw bede toe. Myn wacht.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Elize, Thamar, Hydaspes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l rend="; 2tab">Zyn Majesteyt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Zoek voort na Haman, zeg, dat Hester voorgenomen</l>
+<l>Heeft ons te onthalen, dat hy moet ter maaltyd komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>'K zal 't hem aandienen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 1tab">Maar weet ge ook Hydaspes, of</l>
+<l>De wyzen dien ik uyt Chaldéa aan dit Hof</l>
+<l>Ontboden heb, om hier myn droomen uyt te leggen,</l>
+<l>Al zyn gekomen?</l></sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l rend="; 1tab">Ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 2tab">'K moet hooren, wat zy zeggen,</l>
+<l>Ik heb een droom gehad, Princes, daar 'k noch voor schrik;</l>
+<l>En wyl gy daar zoo veel belang by hebt, als ik,</l>
+<l>Moet geachter een gordyn, die 'k daar toe heb gespannen,</l>
+<l>Hier in de naaste zaal, d'uytlegging van die mannen</l>
+<l>Ook in het heymelyk eens hooren van na by.</l>
+<l>In 't kort, Princes, ik vrees voor u, zoo wel als my,</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Kom, volg my, Thamar. Gy, myn Dochters, myn getrouwen,</l>
+<l>Gaat achter deze Troon; daar kunt gy u onthouwen,</l>
+<l>Tot myne wederkomst, en 't dertele gezigt</l>
+<l>Der Hovelingen wel ontschuylen, buyten 't licht.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Elize, Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l rend="; 1tab">HOe zal deze zaak zich keeren?</l>
+<l rend="; 2tab">Zal de gramschap, of de min,</l>
+<l rend="; 1tab">Van den Koning triomfeeren?</l>
+<l rend="; 1tab">Hemel, schik het naar uw zin.</l>
+<l rend="; 1tab">Wy, wy zullen uw begeeren</l>
+<l rend="; 1tab">Altyd pryzen, loven, eeren</l>
+<l rend="; 1tab">En getroosten ons daar in,</l>
+<l rend="; 1tab">'t Zy wie ge ook doet triomferen,</l>
+<l rend="; 1tab">Haman, of de Koningin.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Hy, die de Waterstroomen</l>
+<l rend="; 1tab">Regeert en kan betoomen,</l>
+<l>En 's Hemels heir draait om zyn spil en as,</l>
+<l>Kan 't hart der Koningen ook smydigen als was</l></sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="i">Een andre stem</hi>.</speaker>
+<l>Wat duystre wolk hangt ons noch boven 't hoofd!</l>
+<l>Wat hoopt gy op een Prins, die, van verstand berooft,</l>
+<l rend="; 2tab">De Zon en Maan aanbid, als heylig:</l>
+<l rend="; 2tab">Wie is by zulk een Koning veylig?</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 1tab">Ach! zo de Vorst, door toorn gedreven,</l>
+<l rend="; 1tab">Ons dreigde door het zwaart te doen vergaan,</l>
+<l rend="; 1tab">Of dat men van het lieve leven,</l>
+<l rend="; 1tab">Of van de waarheyd af moest staan,</l>
+<l rend="; 1tab">Wat zou by u dan 't zwaarste weegen,</l>
+<l rend="; 1tab">Te sterven, of afgodery te plegen?</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 2tab">Ik stierf veel liever duyzend doôn,</l>
+<l rend="; 2tab">Eer ik myn Kniën voor valsche Goôn,</l>
+<l rend="; 2tab">Of hout, of marmer zoude buygen:</l>
+<l rend="; 2tab">Hier toe roep ik den Hemel tot getuygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>Wee u, Ramt zaligen, wat staat u niet te vreezen!</l>
+<l rend="; 4tab">Die 't opperst weezen</l>
+<l rend="; 3tab">Uit uw verstokte harten bant</l>
+<l rend="; 3tab">En 't werk aanbid van uwe hand.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 4tab">Gy onbezielde Goden,</l>
+<l>Vergeefs werd u een tempel toegewyd,</l>
+<l rend="; 1tab">En 't geurig Wierook aangebooden;</l>
+<l rend="; 1tab">Dewyl gy macht-en-krachteloos zyt.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 2tab">Laat vry den goddeloozen,</l>
+<l>In overvloed, hier leeven naar zyn zin,</l>
+<l rend="; 2tab">En slaapen op een bed van roozen:</l>
+<l>Zyn eynde zal niet zyn, gelyk 't begin.</l>
+<l rend="; 1tab">Laat hem in 't vorstlyk purper praalen</l>
+<l>En drinken den alleredelste wyn,</l>
+<l rend="; 1tab">Uit klinkklaare goude en zilvre schaalen,</l>
+<l>Zyn Ryk zal hier niet eeu wigdurend zyn.</l></sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 2tab">Laat zyn huys van Kindren leeven,</l>
+<l rend="; 2tab">En Kindskinderen en Neeven,</l>
+<l rend="; 1tab">Daar hy schatten voor vergaart:</l>
+<l rend="; 2tab">Al die voorspoed, al die zegen</l>
+<l rend="; 2tab">Al zyn Rykdom, hier verkregen,</l>
+<l rend="; 1tab">Gaan met ydelheid gepaart.</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 2tab">Stel vernoesaamheid daar tegen</l>
+<l rend="; 2tab">Dat 's het grootste goed op aard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>Vernoegsaamheid die nimmer doelt op staat,</l>
+<l rend="; 2tab">Aartvyandin van Eygenbaat,</l>
+<l>Gy, die den mensch leert van zich zelve zegepraalen,</l>
+<l rend="; 2tab">Wat zyt gy aangenaam en zoet,</l>
+<l rend="; 2tab">Voor een oprecht gerust gemoed!</l>
+<l>Geen Koningskroon kan by u haalen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Dat zalig lot is voor den dwaaze niet:</l>
+<l>Hy zoekt de vreê die van hem vlied:</l>
+<l rend="; 2tab">Terwyl het overtuigt geweeten</l>
+<l rend="; 2tab">Alom word van den worm gebeeten.</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l>Hy schrikt voor 't duister graf, waar na de vroome tracht,</l>
+<l>Die uit die duisterheid een helder licht verwacht,</l>
+<l rend="; 1tab">Een licht dat met geen tonge is uit te spreek en,</l>
+<l rend="; 1tab">Waar van den goddelooze blyft versteeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 1tab">ô Helder licht dat eeuwig straalt!</l>
+<l>Van dag, noch week, noch maand, noch jaar bepaalt,</l>
+<l rend="; 2tab">Gelukkig! die op u mag hoopen,</l>
+<l rend="; 1tab">Wanneer zyn uurglas is verloopen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>Ik hoor gerucht in een der naaste hofvertrekken;</l>
+<l>Het is de Koningin, kom, gaan we, eerze ons ontdekken.</l></sp>
+<p><hi rend="i">Eynde van het twede Bedryf</hi>.</p>
+</div>
+</div>
+<div type="act">
+<pb n="31"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Haman, Sara</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sara</hi>.</speaker>
+<l>DIt's Hesters lust hof, en de zaal, die ge, in 't verschiet,</l>
+<l rend="; 1tab">Zo prachtig voor het oog by andre uitmunten ziet,</l>
+<l>Dat is de plaats, die tot de maaltyd is verkooren.</l>
+<l>Maar 'k bid u, na de raad eens Bedgenoots te hooren,</l>
+<l>Terwyl 't noch tyd is en de deur niet open gaat.</l>
+<l>Om onzer liefde wil, ontveins uw toorn en haat,</l>
+<l>Vervrolyk uw gezigt, en wil die droef heid staaken:</l>
+<l>Het klangen, weet gy, kan geen Koningen vermaaken.</l>
+<l>Van al de grooten zyt ge alleen genood: die eer</l>
+<l>Behoorde u met meer vreuchd aan 't hart te gaan, myn Heer</l>
+<l>Zyt gy beleedigt, stel dat groot geluk daar tegen.</l>
+<l>Het heugt my noch, wat lesse ik van u heb gekregen;</l>
+<l>Hoe vaak gy hebt gezegt, dat imand, die zyn haat</l>
+<l>Niet kan bewimp'len met een vrindelyk gelaat,</l>
+<l>Maar fluks in toorn ontsteekt, wanneer hy zich ziet hoonen,</l>
+<l>Gansch onbequaam is, aan eens Konings hof te woonen.</l>
+<l>Daar is geen tyd, myn Heer, of heeft zyn tegentyd.</l>
+<l>Hoe dik maals zag men niet, dat aangedaane spyt</l>
+<l>'T beleedigt voorwerp doet meer eer en aan zien krygen:</l>
+<l>En hem een trap strekt, om tot hoog gezag te stygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>ô Smaad! ô bittre spyt! ô schriklyk hartenleed!</l>
+<l>ô Onuit wisbre schand, die 'k nimmermeer vergeet!</l>
+<l>'K moest niet alloen een Jood, een pest van land en Steden,</l>
+<l>'T wanschapen lichaam in het Vorstlyk purper kleden.</l>
+<pb n="32"/>
+<l>Maar voor hem gaan, met een hoog adelyken stoet,</l>
+<l>Gelyk als een Herout voor zynen Koning doet.</l>
+<l>Die Trotse! welk een smaad moest ik van hem gedogen!</l>
+<l>'T Volk, dat me eerst groetede, met nederslachtige oogen,</l>
+<l>My nu dus ziende met de schaamte op mynen wang,</l>
+<l>Voorspelde, al spottende, hier uit myn ondergang.</l>
+<l>ô Wreede Vorst, kan zulk een schouwspel u behaagen?</l>
+<l>En hebt gy my zoo veel eerampten opgedraagen,</l>
+<l>Tot zulk een hoogen top van staat verheft, in schyn,</l>
+<l>Om dat myn val daar na zo smartelyk zou zyn?</l></sp>
+<sp>
+<speaker><hi rend="sc">Sara</hi>.</speaker>
+<l>Spreek van zyn meening niet zo roek'loos, noch verwaaten:</l>
+<l>'T geschied slechts om de deuchd niet onbeloont te laaten:</l>
+<l>Men heeft meer reên zich te verwonderen, dat hy</l>
+<l>Dien trouwendienst niet eerbeloont heeft naar waardy.</l>
+<l>De Vorst heeft niets gedaan, als op uw eigen raaden:</l>
+<l>Gy zelve hebt die schande op uwen hals gelaaden.</l>
+<l>Na hem, zyt gy de grootste in mogentheid en Staat.</l>
+<l>Weet hy wel eens, dat gy dien Jood zo doodlyk haat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hy weet, dat ik, ten dienst van zyne moogendheden,</l>
+<l>Vrees, wroeging, schaamte en eer heb met den voet getreeden;</l>
+<l>Dat ik, om zynentwil, medogenloos en wreed,</l>
+<l>De wetten zwygen en d'onnozlen zuchten deed,</l>
+<l>En my, onaangezien de haat der Persianen,</l>
+<l>Zelf stelde tot een vlock van all' zyne onderdaanen;</l>
+<l>En eindlyk, dat hy my zo averechts beloont,</l>
+<l>My stellende ten schimp van 't Volk, het welk my hoont.</l></sp>
+<sp>
+<speaker><hi rend="sc">Sara</hi>.</speaker>
+<l>Wy zyn alleen: des laat ons zonder vleijen spreeken.</l>
+<l>Die yver, in zyn dienst zo menigmaal gebleeken,</l>
+<l>Die zorg, voor zyn gezag, beken 't vry, is dat niet</l>
+<pb n="33"/>
+<l>Tot glory van u zelf en eigen eer geschied?</l>
+<l>'T is tusschen ons; zoud ge al die onderdrukte Jooden</l>
+<l>Niet tot verzoening van uw haat en gramschap dooden?</l>
+<l>En vreest gy niet, dat u een doodelyke raad....</l>
+<l>Kort om, 't volk vreest ons, en wy zyn van 't hof gehaat:</l>
+<l>Zelf kan die Jood, zo hoog in top van eer verheven,</l>
+<l>Als ik het zeggen moet, my eenigzins doen beeven.</l>
+<l>De rampen zyn veeltyds geschakelt aan malkaâr.</l>
+<l>Gy weet, hoe haatelyk zyn stam voor d'uwe waar.</l>
+<l>De tyd wil, dat gy veinst, schoonge u al ziet onteeren:</l>
+<l>De wyl 't geluk u licht den nek staat toe te keeren.</l>
+<l>'T ontvlucht ons 't allereerst in weelde en overdaad:</l>
+<l>Des neem haar nukken waar, eer dat zy ons verlaat.</l>
+<l>Ik schrik, wanneer ik my verbeeld in myn gedachten,</l>
+<l>Wat onweersbuyen wy niet hebben te verwachten.</l>
+<l>De val zal, zo gy valt, vervaarlyk zyn; des vlucht</l>
+<l>En kies voor u een min gevaarelyke lucht:</l>
+<l>De Hellespontes laat die mede uw lot bepaalen,</l>
+<l>Daar uw Voorouders zich neêrsloegen, na lang dwaalen,</l>
+<l>Toen Amalek, door wraak van 't Joodsche Volk geplaagt,</l>
+<l>Uit Iduméa, zyn oud erfdeel wierd gejaagt.</l>
+<l>Ontwyk de slag, die u te treffen staat: zend morgen,</l>
+<l>Zelf eer den dageraad te voorschyn komt, verborgen,</l>
+<l>Uw rykste schat vooraf. Maakt u ons kroost beducht,</l>
+<l>Ik zal het zelf, myn Heer, verzekren in zyn vlucht.</l>
+<l>Veins middlerwyl, en toon u toornig, noch verbolgen;</l>
+<l>Ik ben gereed, om uw voetstappen na te volgen.</l>
+<l>De afgryselykste Zee is zo gevaarlyk niet,</l>
+<l>Als dit bedrieglyk Hof, daar zo veel kwaad geschied.</l></sp>
+<div type="scene">
+<pb n="34"/>
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Haman, Sara, Hydaspes</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Vind ik u hier, myn Heer? men heeft na u doen vraagen.</l>
+<l>Het feest, na 't schynt, is door uw afzyn niet volslaagen.</l>
+<l>Noch al de vrolykheid heeft buiten u geen val.</l>
+<l>De Vorst begeert, dat ik u derwaards leiden zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hebt gy daar Mordechay, myn vyand ook vernomen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Zult gy dus moeijelyk van geest ter maaltyd komen?</l>
+<l>Wat legt ge altyd zo op dien Jood te peinzen, laat</l>
+<l>Hy zich vry vleijen, met zyn ingebeelde staat.</l>
+<l>Hy poogt de strengheid van den Vorst vergeefs te ontkomen.</l>
+<l>Zyn hart, is dat met u het meest niet ingenomen?</l>
+<l>'T geluk des Greizaarts zal veranderen in 't kort,</l>
+<l>Men kranst en tooit den stier, eer hy geoffert word.</l>
+<l>Gy zult, zelf door 't gezag der Koningin gesteeven,</l>
+<l>Al 't geen u wederstaat wel haast te boven streeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Hydaspes, mag ik wel gelooven 't geen gy zegt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>Ik ben van deze zaak, door Wich'laars, onderrecht,</l>
+<l>Zy zeggen klaar: men vlamt om Hester te verrassen:</l>
+<l>De hand eens vremd'lings poogt zich in haar bloed te wassen,</l>
+<l>De Vorst, niet weetende, wie 't is, schryft, droef te moe,</l>
+<l>De schuld dier gruweldaad alleen de Jooden toe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Ja, dat zyn monsters daar de Waereld voor moet gruwen.</l>
+<l>Ons staat voor al hun hoofd, gelyk de pest, te schuwen.</l>
+<pb n="35"/>
+<l>Het aardryk schrikt daar van, natuur heeft lang gezocht</l>
+<l>Verlost te weezen van dat haatelyk gedrocht.</l>
+<l>Vaar wel, myn Bedgenoot. Ik voel my weêr herleeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hydaspes</hi>.</speaker>
+<l>'K zie Hesters Maagdenrey zich herwaards aanbegeeven.</l>
+<l>Zy zullen 't vreuchdefeest inwyden, op 't geklank</l>
+<l>Van kunstig snaarenspel en vrolyk maatgezangk.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Elize, Rey</hi> <hi rend="i">van Izer aëlitische Maagden</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Een van de Izeraëlitische Maagden</hi>.</speaker>
+<l>'T was Haman, naar ik kon bespeuren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l>Ik schrikte op 't zien van dien barbaar.</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste</hi>.</speaker>
+<l>Ik meê; want die geweldenaar</l>
+<l>Doet Israël dus droevig treuren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andere</hi>.</speaker>
+<l>Wie kent d'ontmenschte dwingland niet,</l>
+<l>Als hy 't hovaerdig weezen ziet?</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste</hi>.</speaker>
+<l>Wat is het trots! wat is 't vermetel!</l></sp>
+<sp>
+<speaker><hi rend="i">De andre</hi>.</speaker>
+<l>De wraak voert in zyn hart 't gebied.</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste</hi>.</speaker>
+<l>De razerny houd daar haar zetel,</l>
+<l>Het is de bron van ons verdriet.</l></sp>
+<sp>
+<speaker><hi rend="i">De andre</hi></speaker>
+<l>Wat zal hy prat en moedig treên,</l>
+<l>Nu hy van al de Hovelingen</l>
+<l>Op 't feest genoodigt is alleen.</l>
+<l>Hoe zal hy nu zich zelf bedwingen?</l></sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="i">De Eerste</hi>.</speaker>
+<l rend="; 1tab">My dunkt, ik zie 't staatzuchtig hert:</l>
+<l rend="; 1tab">Hoe hy op 't feest verheerlykt werd:</l>
+<l rend="; 1tab">Daar d'opgeblaazene, vermeeten,</l>
+<l rend="; 1tab">Aan 's Vorsten zyde is neêrgezeten.</l>
+<l rend="; 1tab">Wat lekker disgerecht, wat wyn</l>
+<l rend="; 1tab">Kan voor dien wreeden smaaklyk zyn?</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 1tab">Voeg de traanen, die wy plengen,</l>
+<l rend="; 1tab">By al 't Weeuw-en-Weezenbloed,</l>
+<l rend="; 1tab">Laat ons die te samen mengen,</l>
+<l rend="; 1tab">Dat 's hem smaakelyk en zoet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Elize</hi>.</speaker>
+<l>Myn Zusters, staak dat jammeren en klaagen.</l>
+<l>Wy moeten 't feest inwyden met gezangk.</l>
+<l>Ach! konde uw stem Assuerus zo behaagen,</l>
+<l>Wist gy zyn hart te treffen door die klank,</l>
+<l>Gelyk die Vorst getroffen wierd door d'ooren,</l>
+<l>Toen David hem zyn harpmuzyk liet hooren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Vorst, jaag d'achterklap en logen</l>
+<l rend="; 1tab">Uit uw' wytberoemden staat,</l>
+<l rend="; 1tab">Wyl die dochters van de haat</l>
+<l rend="; 1tab">Daar den eendracht nooit gedoogen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een Ander</hi>.</speaker>
+<l rend="; 1tab">Zy, bloedgierig en verbolgen,</l>
+<l rend="; 1tab">Poogen steeds d'onnozelheid,</l>
+<l rend="; 1tab">Schoon zy jammert, zucht, of schreit</l>
+<l rend="; 1tab">Op het wreedste te vervolgen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 1tab">Ban die monsters, schuw heur vleijen:</l>
+<l rend="; 1tab">'T is slechs een vergiftigt zoet:</l>
+<l rend="; 1tab">'T oog is vrindlyk; maar 't gemoed</l>
+<l rend="; 1tab">Is vol wraak en razerneijen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Al waar zy zich keeren, wenden,</l>
+<l rend="; 1tab">Strooit bedrog heur roozen voor:</l>
+<pb n="37"/>
+<l rend="; 2tab">Maar berouw volgt op het spoor,</l>
+<l rend="; 2tab">Met een eersleep van elenden.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Een Koning, die de deuchd en wysheid mint.</l>
+<l rend="; 4tab">Doet het poogen,</l>
+<l rend="; 4tab">En 't vermoogen</l>
+<l rend="; 3tab">Van achterklap, bedrog en logen,</l>
+<l rend="; 3tab">Door den opslag van zyn oogen,</l>
+<l rend="; 4tab">Verstuyven als de wind.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andere stem</hi>.</speaker>
+<l rend="; 1tab">Gelukkig land! daar zulk een Vorst regeert,</l>
+<l rend="; 1tab">Die, waar hy komt, alleen niet triomfeert,</l>
+<l rend="; 2tab">Maar die ook, zonder onderscheid,</l>
+<l rend="; 2tab">Zo handhaaft de rechtvaardigheid,</l>
+<l>Dat nooit den kleenen van den grooten werd verdrukt,</l>
+<l>Noch d'armoê onder 't juk der rykdom bukt.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Zulk een Vorst baart gulde eeuwen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 1tab">Hy 's een steunsel van den Staat.</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste</hi>.</speaker>
+<l rend="; 1tab">Een Beschermer van de Weeuwen.</l></sp>
+<sp>
+<speaker><hi rend="i">De tweede</hi>.</speaker>
+<l rend="; 1tab">Hy 's der Weezen toeverlaat.</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste</hi>.</speaker>
+<l rend="; 1tab">De traanen zyn hem lief en waardig,</l>
+<l rend="; 1tab">Die de deuchd uit droefheid schreid.</l></sp>
+<sp>
+<speaker><hi rend="i">De tweede</hi>.</speaker>
+<l rend="; 1tab">Hy is tot de bystand vaardig,</l>
+<l rend="; 1tab">Van d'onderdrukte onnozelheid.</l></sp>
+<sp>
+<speaker><hi rend="i">De eerste en twede te gelyk</hi>.</speaker>
+<l rend="; 1tab">Zulk een Koning komt van boven.</l>
+<l rend="; 1tab">Zulk een Vorst is waard te looven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 1tab">Zulk een Koning komt van boven,</l>
+<l rend="; 1tab">Zulk een Vorst is waard te looven.</l></sp>
+</div>
+<div type="scene">
+<pb n="38"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Haman, Elize Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>HOe lief en aangenaam gaan u die reden af!</l>
+<l rend="; 1tab">Het Vorstlyk purper noch de goude Septerstaf</l>
+<l>Is niet zo waardig, als de kuisheid uwer oogen.</l>
+<l>Wat zedekundige heeft u toch opgetogen?</l>
+<l>Wat deuchdlyk schepsel is 't, daar ge uit geboren zyt?</l>
+<l>In welk een lucht hebt ge u onthouden, sint die tyd?</l>
+<l>Maar eisch vry onbeschroomt: 't zy wat ge ook moogt begeeren,</l>
+<l>Ik ben gereed, om u het rustig te vereeren,</l>
+<l>'K ben in geen staat u iets te weigren; schoon gy my</l>
+<l>De helft afvergde van myn kroon en heerschappy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>'K vergaap my niet zo verre aan Mogendheên, noch Staaten:</l>
+<l>Maar wyl my't spreeken van myn Vorst is vrygelaaten,</l>
+<l>Zal ik hem smeeken voor des Volks behoudenis,</l>
+<l>'T welk, door zyn mond, met my, ter dood gevonnist is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat Volk? waar spreekt gy van?</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>, <hi rend="i">stil</hi>.</speaker>
+<l rend="; 3tab">Ach! al myn leden beven!</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>'K ben een Jodin. Gy weet, wat last gy hebt gegeeven!</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>, <hi rend="i">stil</hi>.</speaker>
+<l>O Goôn!</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l rend="; 2tab">Hoe wreed treft dit my 't hart! gy een Jodin?</l>
+<l>Kan 't mooglyk weezen! gy, die ik zo teêr bemin?</l>
+<l>Die door uw wysheid scheent den Hemel te bekooren.</l>
+<l>Die Hester, is die uit zulk haatlyk bloed gebooren?</l>
+<l>Rampzalige!</l></sp>
+<pb n="39"/>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l rend="; 2tab">Zo 'k niets op uw gemoed verwerf,</l>
+<l>Hoor my ten minsten dan eens spreeken, voor ik sterf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Spreek op.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l rend="; 1tab">Die Jooden, zo ontzagchelyk voor dezen,</l>
+<l>Die gy nu 't uitschot van de Menschen acht te weezen,</l>
+<l>Waar van gy eindelyk natuur verlossen wist,</l>
+<l>Dat Volk bewoonde een land, dat vruchtbaar was en mild:</l>
+<l>'T leefde onbekommert, in een voorspoed, ryk en weelig,</l>
+<l>Tot zy met andre Goôn zich droegen overspelig;</l>
+<l>Toen wierden zy, tot straf van hun ondankbaarheid,</l>
+<l>Door 't vuur des oorelogs, verjaagt, vervolgt, verspreid,</l>
+<l>Na Babyloniën gevoert, in slavernyen;</l>
+<l>Daar zy in 't heimlyk noch hun droeve val beschreyen.</l>
+<l>Maar God, om d'Assyrier met zyne geesselroê</l>
+<l>Te straffen op zyn beurt, verkoor daar Cyrus toe,</l>
+<l>En noemde hem zelf by zyn naam, voorzyn geboorten:</l>
+<l>Hy trok na Babel op, verbrak de kopre poorten.</l>
+<l>En trotze muuren van die wydberoemde Stad:</l>
+<l>Ontwringt haar weer den buit, die zy verovert had,</l>
+<l>Toen ze onvoorziens het Volk van Isrel quam bestooken.</l>
+<l>Dus heeft de Hemel onze traanen ruim gewrooken.</l>
+<l>Want Sions tempel, die zo hoog gereezen stond,</l>
+<l>Maar door den Bablonier gesloopt was tot den grond.</l>
+<l>Wierd door dien Held weêr uit zyn puin en asch verheven</l>
+<l>Ons wederom vergunt na Mozes Wet te leeven.</l>
+<l>Maar d'erfgenaam, Helaas! te wreevelig van zin,</l>
+<l>Verstoorde 't heilzaam werk zyns Vaders in 't begin,</l>
+<l>Was doof voor ons geschrei, en zonder mededoogen.</l>
+<l>Maar God, die dit Heelal bestiert, door zyn vermogen,</l>
+<l>Stiet, zonder wettig ooir, hem van de Rykstroon af,</l>
+<pb n="40"/>
+<l>En gaf u, na zyn dood, den gouden Septerstaf.</l>
+<l>Wat heil stond ons toen niet van zulk een Vorst te wachten!</l>
+<l>De Hemel, zeiden wy, erbermt zich onzer klachten,</l>
+<l>Nu schept d'onnozelheid weêr aâm, na lang verdriet:</l>
+<l>Dewyl Assuerus 't Ryk van Persië gebied.</l>
+<l>Nu zien wy weer die hoop in ydle rook verdweenen:</l>
+<l>Het Volk van Isrel kermt en schreit, gelyk voorheenen:</l>
+<l>'T roept: <hi rend="i">Hemel</hi>, <hi rend="i">duld gy</hi>, <hi rend="i">dat men dus een Prins misleid</hi>?</l>
+<l><hi rend="i">Een Prins</hi>, <hi rend="i">zo zacht van aard</hi>? <hi rend="i">zo vol rechtvaardigheid</hi>?</l>
+<l><hi rend="i">Dat een Barbaar</hi>, <hi rend="i">in 't diepst van Thracie geboren</hi>,</l>
+<l><hi rend="i">Zyn goedertieren hart vol vreedheid blaast</hi>, <hi rend="i">door d'ooren</hi>.</l>
+<l>In 't kort, Mynheer, daar is een Staatsbediende aan 't Hof</l>
+<l>Een Vyand van uw Kroon en uw verkreegene lof....</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>Ik Vyand van uw Kroon? Hoe kunt gy zulks gelooven?</l>
+<l>Hoe ik? Ik, die 't belang myns Konings altyd boven</l>
+<l>Myn eigen heb gestelt? ik! die steeds anders niet....</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Zwyg. durft gy spreeken, als 't uw Koning niet gebied?</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Myn Heer, die wreede ontdekt zich zelve voor uwe oogen</l>
+<l>Hy is het, die, verwoed en zonder mededogen,</l>
+<l>Uw deuchd oprokkent, door bedrog en vleijery,</l>
+<l>En ons wil offren aan zyn haat en razerny.</l>
+<l>De ontmenschte heeft alom het mes reeds laaten wetten</l>
+<l>En 't moorduur al bestemt, om d'aarde in bloed te zetten</l>
+<l>En 't Ryk te ontvolkeren, door strop, door staal en vier.</l>
+<l>Wie 's tot die gruwel zo bequaam, als een Scytier?</l>
+<l rend="; 1tab">Wat laster weet zyn haat de Jooden aan te wryven?</l>
+<pb n="41"/>
+<l>Zy zochten nimmermeer 's Ryks Vyanden te styven,</l>
+<l>Noch inlandsche oorelog te voên, door raad, of daad.</l>
+<l>Wat Slaaven zyn zo trouw zo yvrig voor den staat?</l>
+<l>Wie's zo gehoorzaam in zyn wreede slaavernyen?</l>
+<l>Zy kussen zelf de hand die hen die straf doet lyen</l>
+<l>En bidden God, dat hy noch lang uw leeven rekk',</l>
+<l>En met zyn vleugelen u op uw' troon bedekk'.</l>
+<l>Hy is 't, Mynheer, die u heeft tot die staat verheven,</l>
+<l>Die Indiaan en Pers doet naar uw Wetten leeven,</l>
+<l>Het heir der Scyten voor uw wapens vluchten déê,</l>
+<l>U meester heeft gemaakt van zoo veel Land en Zee</l>
+<l>Hy is 't, daar Mordachay myn Oom door quam ter ooren</l>
+<l>De bloedige aanslag, tot uw ondergang gezwooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Hoe? Mordachay uw Oom? Goôn! Wie had zulks verwacht!</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Wy zyn al 't overschot van ons verdelgt geslacht.</l>
+<l>Hy is myns Vaders Broêr, en mede een van de looten,</l>
+<l>Uyt d'eerste Koning van de Joden voortgesprooten.</l>
+<l>Wyl hy den Amalkiet nooit luchten mocht, noch zien</l>
+<l>En Isrels God die zelf vervloekt, kon hy zyn kniën</l>
+<l>Voor dien hovaardige, uit eerbiedigheid, niet buygen,</l>
+<l>Noch hem geen eer, die aan uw Kroon behoort, betuygen.</l>
+<l>Dit is alleen de bron van al zyn wrok en haat:</l>
+<l>Schoon hy 't bewimplen wil met redenen van staat.</l>
+<l>Gy hebt aan Mordachay vergeefs uw gunst gegeeven.</l>
+<l>Voor Hamans Hof staat reeds een hoogen galg, verheven,</l>
+<l>Waar aan hy, opgekleed in 't Vorstlyk Purperrood,</l>
+<l>Dees dag bezuuren zal een schandelyke dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Wat hoor ik! Hemel! welk een schrik ryd door myn leden!</l>
+<l>Ik voel my tegelyk door schaamte en toorn bestreden.</l>
+<pb n="42"/>
+<l>Men heeft my dan dus lang zo blind gehouden.... ach!</l>
+<l>Maar laat ik gaan, op dat ik adem haalen mag.</l>
+<l>Roep Mordachay, dat hy verschyne voor myne oogen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een van d'Izeralitische Maagden</hi>.</speaker>
+<l>Gy heil'ge waarheid, die 'k aanbid, daal uit den hoogen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Hester, Haman, Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>'K word door verwondring en verbaastheid aangedaan.</l>
+<l>'K ben van de Vyanden der Jooden valsch verraân.</l>
+<l>Geen ander inzigt heeft my tot hun val gedreeven,</l>
+<l>Als om dat ge op uw troon te veiliger zoud leeven.</l>
+<l>Dien u van myn gezag, tot 's Volks behoudenis.</l>
+<l>Gy ziet, wat stryd in 't hart des Vorsts gereezen is,</l>
+<l>'K weet, door wat middel hy het best is te weerhouwen:</l>
+<l>Ik kan zyn toorn, na 'k wil, verhitten of verkouwen.</l>
+<l>'T belang der Jooden hou 'k nu heilig. Spreek; gy zult</l>
+<l>Uw Vyanden terstont verdelgt zien, 'k zal de schuld</l>
+<l>Van myne dwaaling door die offerhande boeten.</l>
+<l>Eisch: wie 't ook zyn mag, hy zal daar voor sneuvelen moeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>Ga heen, Verrader, fluks ga uit myn oohen; wy</l>
+<l>Ver wachten ooit geenhulp van zulk een schelm, als gy.</l>
+<l>Hy, die d'onnozele poogt vroeg, of laat t'herstellen,</l>
+<l>Zal 't Vonnis over u, Rampzalige, haast vellen.</l>
+<l>Zyn schriklyk oordeel zal uw treffen in het kort,</l>
+<l>De dag uws vals genaakt, uw Ryk legt neêrgestort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Haman</hi>.</speaker>
+<l>'K beken, Hy 's magtig en ontzaglyk. Maar het haaten</l>
+<l>Heeft hy dat aan den Mensch geboôn, of vrygelaaten?</l>
+<l>Het is met my gedaan; die trotse Amalekiet,</l>
+<l>Die onverbidd'lyk was, schaamt zich nu 't bidden niet.</l>
+<l>Ach! om der Jooden wil, en om de gryze haeren</l>
+<pb n="43"/>
+<l>Van d'oude Mordachay, doe 's Vorsten, toorn bedaaren:</l>
+<l>Behoed toch Haman, die, uit diepe eerbiedigheid,</l>
+<l>Verbaast en beevend, voor u neêrgebogen leid.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Haman, Elize, Wacht Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Hoe? durft u die verraâr aanraaken, zonder vreezen?</l>
+<l rend="; 1tab">Ha! 't schelmstuk blykt te klaar, uit zyn neêr slagtigen wezen</l>
+<l>Zyn schaamt, my styvende in 't geloof van uw reên,</l>
+<l>Erinnert my al 't kwaad, door hem begaan voorheen.</l>
+<l>Dat fluks dat Monster werd berooft van 't haatlyk leven:</l>
+<l>Men hang hem aan een galg, die hy zelf heeft verheven</l>
+<l>Voor d'oude Mordachay. Kom, lyfwacht, gryp hem aan.</l>
+<l>Dat Aarde en Hemel werd door zynen dood voldaan.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Mordachay, Elize, Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi> <hi rend="i">tegens</hi> <hi rend="sc">Mordachay</hi>.</speaker>
+<l>Kom, hemels gunsteling, wiens trouw my kan behaagen,</l>
+<l>Gy, die my hebt behoed voor 's Vyands list en laagen.</l>
+<l>Myn oogen zyn verlicht, 't bedrog is achterhaalt;</l>
+<l>Dewyl de waarheid van de logen Zegepraalt.</l>
+<l>'K stop nu myn ooren voor de raad der Goddeloozen.</l>
+<l>Kom, nader my, 'k heb u in Hamans plaats verkoozen</l>
+<l>Ik geef u zyn gezag, zyn eer, zyn schat en staat:</l>
+<l>Bezit met recht, 't geen hy bezat in overdaad,</l>
+<pb n="44"/>
+<l>'K ontsla de Jooden van het juk der slavernyen:</l>
+<l>Ik zal hun Vyanden gerechte straf doen lyen</l>
+<l>Men eer hen, als ons volk, dat niemand met de God,</l>
+<l>Die Hester aanbid, lach', of smaadlyk schimpe of spott':</l>
+<l>Maat dat elk beev', zo dra zyn naam hem klinke in d'ooren.</l>
+<l>Herbouw zyn tempel, pleeg uw Godsdienst, als te vooren.</l>
+<l>Bevolk het Woesteland van Isrel wederom.</l>
+<l>Dat deze dag steeds werd geviert by 't Jodendom:</l>
+<l>En by uw kindren tot een jaarlyks Feest verheven;</l>
+<l>Op dat myn naam steeds mag in hun gedachten leeven.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Assuerus, Hester, Mordachay, Azaph, Elize, Rey</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Zyt gy het, Azaph? hoe? wat dryft u herwaards aan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Azaph</hi>.</speaker>
+<l>Mynheer, het is met dien verrader al gedaan.</l>
+<l>Zyn lichchaam, gansch bebloed, doorboort met wonde op wonden,</l>
+<l>Geteistert en gescheurt, mishandelt en geschonden,</l>
+<l>Word door het woedend Volk gesleept langs markt en straat,</l>
+<l>En na de galg gevoert, die voor zyn Hofpoort staat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mardochay</hi>.</speaker>
+<l>Herroep nu voort de last, ô Toevlucht van de Jooden,</l>
+<l>Die Haman gaf, om 't volk van Israel te dooden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Assuerus</hi>.</speaker>
+<l>Ban die bekommering en vrees vry uit uw hert:</l>
+<l>'K zal order stellen dat uw volk behouden werd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hester</hi>.</speaker>
+<l>ô Opperwysheid! wie kan alle uw wondren uyten!</l>
+<l>Hoe onnaspeurelyk volvoert ge uw raadbesluyten!</l></sp>
+</div>
+<div type="scene">
+<pb n="45"/>
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Rey</hi> <hi rend="i">van Izeralitische Maagden</hi>.</stage>
+<sp>
+<speaker><hi rend="i">de gansche</hi> <hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 1tab">GOd doet d'onnoslen triomfeeren:</l>
+<l rend="; 3tab">Zingen wy, zyn naam ter eeren.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>,</speaker>
+<l rend="; 1tab">Hy zag onze Vyanden, wreed van aart,</l>
+<l rend="; 4tab">Alreeds by een vergaart</l>
+<l rend="; 1tab">Om onze levensdraad te korten:</l>
+<l rend="; 1tab">Maar Hy, Hy heeft zyn Volk gespaart</l>
+<l rend="; 1tab">En doet dien opgeblaazen storten</l>
+<l rend="; 1tab">In zyn eygen zwaard.</l></sp>
+<sp>
+<speaker><hi rend="i">Een andre stem</hi>.</speaker>
+<l>Die Goddelooze, zo geviert en aangebeden,</l>
+<l>Word nu van elk veracht en met den voet getreeden:</l>
+<l rend="; 1tab">Hy, die verheven stond voorheen,</l>
+<l rend="; 1tab">Gelyk een hemelhoge ceder,</l>
+<l rend="; 1tab">Valt nu zo plotzeling ter neder.</l>
+<l rend="; 1tab">Ten smaad en spot van het Gemeen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 2tab">Wie doet dit onweer dus bedaaren?</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l rend="; 2tab">Wat hand verdryft die duistre wolk?</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 2tab">'T is Hester, die ons red uit die gevaaren</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 1tab">Zy heeft, uit liefde tot het Joodsche Volk,</l>
+<l rend="; 3tab">Door heilige yver aangedreeven,</l>
+<l rend="; 2tab">Zich zelve in doodsgevaar begeeven.</l></sp>
+<sp>
+<speaker><hi rend="i">Twe stemmen</hi>.</speaker>
+<l rend="; 1tab">De schoonheid van Hester die Zegepraalt</l>
+<l rend="; 1tab">Van alle de Dochters der Persiaanen.</l></sp>
+<sp>
+<speaker><hi rend="i">Eeu van de twe</hi>.</speaker>
+<l rend="; 1tab">De kuischeid, die haar ten oogen uitstraalt.</l>
+<pb n="46"/>
+<l>Kon ons een weg ter vryheid baanen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>ô Israél vervrolyk uw gelaat:</l>
+<l>Leg af, leg af dat treurgewaad:</l>
+<l>'T is nu geen tyd meer om te weenen:</l>
+<l>Des Hemels gramschap is verdweenen:</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l rend="; 2tab">Gy, die dus lang,</l>
+<l rend="; 2tab">Berooft van erven,</l>
+<l rend="; 2tab">Angstvallig en bang,</l>
+<l rend="; 2tab">Als balling moest zwerven,</l>
+<l rend="; 3tab">Verbreeken wy,</l>
+<l rend="; 3tab">De lastige boeijen,</l>
+<l rend="; 3tab">Van slaverny,</l>
+<l rend="; 2tab">Laatenwe ons weer na Sion spoeijen:</l>
+<l rend="; 3tab">De weg staat ons vry.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 3tab">Verbreeken wy,</l>
+<l rend="; 3tab">De lastige boeijen,</l>
+<l rend="; 3tab">Van slaverny,</l>
+<l rend="; 2tab">Laatenwe ons weer na Sion spoeijen:</l>
+<l rend="; 3tab">De weg staat ons vry.</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Nu zal ik de Jordaan haast weder zien,</l>
+<l>Met al haar bossen en beemden, en weijen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een ander</hi>.</speaker>
+<l>Nu zal my in 't kort die vreuchd geschiên,</l>
+<l>Van op myn Vaders graf te schreijen</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l rend="; 3tab">Verbreeken wy</l>
+<l rend="; 3tab">De lastige boeijen</l>
+<l rend="; 3tab">Van slaverny.</l>
+<l rend="; 1tab">Laatenwe ons weer na Sion spoeijen:</l>
+<l rend="; 3tab">De weg staat ons vry</l></sp>
+<sp>
+<speaker><hi rend="i">Een stem</hi>.</speaker>
+<l>Laat ons nu weer Gods tempel herbouwen,</l>
+<l>En zyn altaar versieren met goud,</l>
+<pb n="47"/>
+<l>Het marmer uyt het gebergten houwen,</l>
+<l>Gy Libanon schaft ons Cedrenhout,</l>
+<l>Gewyde Priesters, bereidt uwe zangen:</l>
+<l>Loof hem, daar wy die gunst van ontfangen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<l>Dat zynen naam werd door 't Heelal verbreid:</l>
+<l rend="; 2tab">Dat alle monden</l>
+<l rend="; 2tab">Zyn lof verkonden,</l>
+<l rend="; 1tab">Van nu, tot in der eeuwigheid.</l></sp>
+<p><hi rend="i">Einde van 't derde en laaste Bedryf</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

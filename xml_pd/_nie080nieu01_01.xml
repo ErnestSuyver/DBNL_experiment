@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied</hi> uit 1826-1837.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>Slechts de tweede helft van een dubbelblad is bewaard gebleven. Dit eerste? lied is dus onvolledig overgeleverd en begint met de 7e versregel van de zevende strofe.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie080nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2010 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn" />
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 05039</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied</hi>. T.C. Hoffers, Rotterdam 1826-1837</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2010-05-21</date>
+               <respStmt>
+                   <name type="person">MR</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="_nie080nieu01_0001"/> </interpGrp>
+    <pb n="3"/>
+    <head rend="h3">[Waar twee van ons strijde tegen hun tien]</head>
+    <lg type="poem">
+        <l>Waar twee van ons strijde tegen hun tien.</l>
+        <l rend="; 1tab">En de Oranje-stam deed de roem versieren.</l>
+        <l>8. Welaan dan broeders toont u daden,</l>
+        <l rend="; 1tab">strijd met volle moed,</l>
+        <l>dan zullen zij ons nooit weer versmaden,</l>
+        <l rend="; 1tab">Grijpt aan de wapens dan gaat het goed</l>
+        <l>En komen wij terug met alle roem en eer,</l>
+        <l rend="; 1tab">dan floreerd ons Nederland weer,</l>
+        <l>dan zullen wij alle triomferen,</l>
+        <l rend="; 1tab">En eeuwig zal de Oranje-stam versieren.</l>
+    </lg>
+    </div>
+    <div type="chapter">
+    <interpGrp> <interp type="song" value="_nie080nieu01_0002"/> </interpGrp>
+<pb n="3"/>
+<head rend="h3">Een nieuw lied,</head>
+<head rend="h4">Wijs: van Solitair.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="i">Wie is die Vorst die goede</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Zyn Land en Volk regeerde</hi>,</l>
+<l><hi rend="i">Wiens weldaan overvloeden</hi>,</l>
+<l rend="; 1tab"><hi rend="i">En elks geluk vermoerd;</hi></l>
+<l><hi rend="i">Wie ziet met vaders liefde</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Op schameloos armoed neer</hi>,</l>
+<l><hi rend="i">Help hun wat nood hem griefde</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Geeft hun het genoegen weer</hi>,</l>
+<l><hi rend="i">Dat is onze geliefde Koning</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Die ons mind als zyn kind</hi>,</l>
+<l><hi rend="i">In ons heil en glorie vind.</hi> (<hi rend="i">bis.</hi></l>
+<pb n="4"/>
+<l n="2."><hi rend="i">Bij wie is Godsdienst veilig</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Van welke leer hy zijt</hi>,</l>
+<l><hi rend="i">Het rein gevoelen heilig</hi>,</l>
+<l rend="; 1tab"><hi rend="i">De brave denkwys vry</hi>,</l>
+<l><hi rend="i">Waar bloeijen schoone kunsten</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Wordt wetenschap geëerd</hi>,</l>
+<l><hi rend="i">In vlyt beloond door gunsten</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Die de onderdaan waardeerd</hi>,</l>
+<l><hi rend="i">By onze geliefde Koning.</hi> (<hi rend="i">bis.</hi></l>
+<l n="3."><hi rend="i">Aan wie dankt Neêrland teeder</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Naar welvaart wyd en zyd</hi>,</l>
+<l><hi rend="i">Haar luister heen en weder</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Alom met roem verspreidt;</hi></l>
+<l><hi rend="i">Aan wie zyn wy verschuldig;</hi></l>
+<l rend="; 1tab"><hi rend="i">Oprechte trouw vol eer</hi>,</l>
+<l><hi rend="i">Aan hun door ons gehuldig</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Oranje Nassous Heer</hi>,</l>
+<l><hi rend="i">Aan onze geliefde Koning.</hi> (<hi rend="i">bis.</hi></l>
+<l n="4."><hi rend="i">Voor wien slaan onze harten</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Met Vaderlandsch gevoel;</hi></l>
+<l><hi rend="i">Wil men gevaren tarte;</hi></l>
+<l rend="; 1tab"><hi rend="i">Vereend ons 't edel doen;</hi></l>
+<l><hi rend="i">Voor wien smeeken wy zegen;</hi></l>
+<l rend="; 1tab"><hi rend="i">Aan God en bidden hem;</hi></l>
+<l><hi rend="i">Om voorspoed op hun wegen;</hi></l>
+<l rend="; 1tab"><hi rend="i">Verheft al het volk hun stem;</hi></l>
+<l><hi rend="i">Voor onze geliefde Koning</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Die ons mind als zyn kind</hi>,</l>
+<l><hi rend="i">In ons heil en glorie vindt.</hi> (<hi rend="i">bis.</hi></l>
+</lg>
+<p>Te <hi rend="i">Rotterdam</hi>, bij T.C. HOFFERS, in de Korte Pannekoekstraat bij de Nieuwe Markt.</p>
+</div>
+</body>
+</text>
+
+</TEI.2>

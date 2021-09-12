@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">De vlugt van Eneas, of De dood van Dido</title>
+               <author>Philip Fredrik Lijnslager</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">De vlugt van Eneas, of De dood van Dido</hi> van Philip Fredrik Lijnslager uit 1785.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">lijn002vlug01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar universiteitsbibliotheek Leiden, signatuur: 1088 E 9:2, via Early Dutch Books Online</idno>
+               </bibl>
+               <p>Philip Fredrik Lijnslager, <hi rend="i">De vlugt van Eneas, of De dood van Dido</hi>. J. Helders en A. Mars, Amsterdam 1785</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">De vlugt van Eneas, of De dood van Dido</title>
+               <author>Philip Fredrik Lijnslager</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">De vlugt van Eneas, of De dood van Dido</title>
+               <author>Philip Fredrik Lijnslager</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-10-11</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>DE VLUGT VAN ENEAS, of DE DOOD VAN DIDO; <hi rend="i">TREURSPEL, in straatliedjes.</hi></p>
+<p><figure>
+<p><xptr to="lijn002vlug01ill0001.gif"/></p>
+</figure></p>
+<p>te <hi rend="i">AMSTELDAM</hi>, by J. HELDERS en A. MARS. 1785.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+<pb n="3"/>
+<p>De Gecommiteerden tot de zaaken van den Schowburg hebben, volgens Octroy door de Heeren Staaten van Holland en Westvriesland, den 5den November, 1772. aan hen verleend, het recht van deze Privilegie, alleen voor den tegenwoordigen Druk van DE VLUGT VAN ENEAS, <hi rend="sc">of</hi> DE DOOD VAN DIDO; <hi rend="i">Treurspel, in Straatliedjes</hi>, vergund aan <hi rend="sc">j. helders</hi> en <hi rend="sc">A. mars.</hi></p>
+<p><hi rend="i">Amsteldam, den</hi> 30. <hi rend="i">Augustus</hi> 1785.</p>
+<p>&nbsp;</p>
+<p>Geene Exemplaaren zullen voor echt erkend worden, dan die, door één' der Heeren Gecommiteerden onderteekend zyn.</p>
+<p><figure>
+<p><xptr to="lijn002vlug01ill0002.gif"/></p>
+</figure></p>
+
+</div></cf>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Eneas.</hi></item>
+<item><hi rend="sc">Dido.</hi></item>
+<item><hi rend="sc">Anna</hi>, <hi rend="i">zuster van Dido</hi>.</item>
+<item><hi rend="sc">Serestus</hi>, <hi rend="i">minnaar van Anna</hi>.</item>
+<item><hi rend="sc">Achates</hi>, <hi rend="i">halsvriend van Enéas</hi>.</item>
+</list>
+</div>
+<div type="act">
+<pb n="5"/>
+<head rend="h3">De vlugt van Eneas, of de dood van Dido; <hi rend="i">treurspel.</hi></head>
+<stage><hi rend="i">Het Tooneel verbeeld een Zeehaven. Eenig volk is bezig met het goed van Enéas in een schip te laaden; terwyl het orchest de aria van den houthakker</hi>, Mes enfans travaillons gaiment, enz. <hi rend="i">uit</hi> <hi rend="sc">julië</hi>, <hi rend="i">Opera; tot een ouverture speelt.</hi></stage>
+<div type="scene">
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">achates</hi>, <hi rend="i">Gevolg.</hi></stage>
+<sp>
+<speaker><hi rend="sc">achates</hi>, <hi rend="i">tegen het gevolg</hi>.</speaker>
+    <interpGrp><interp type="song" value="lijn002vlug01_0001"/></interpGrp>
+<stage>Wyze: <hi rend="i">Gy die met my thans zyt ter jagt, enz.</hi></stage>
+<l>Toe, jongens, brengt het goed naar boord;</l>
+<l rend="; 5tab">Maakt voort,</l>
+<l>Eer de een of de ander ons verstoort;</l>
+<l rend="; 5tab">Maakt voort!</l>
+<l>Als 't is gedaan dan kryg je wat. -</l>
+<l>Een glaasje met Schiedammer nat.</l>
+<l rend="; 1tab">Maakt voort! maakt voort! maakt voort!</l>
+<l><stage>Wyze: <hi rend="i">Wie heeft ooit grooter gek gezien, enz.</hi></stage></l>
+    <interpGrp><interp type="song" value="lijn002vlug01_0002"/></interpGrp>
+<l rend="; 2tab">Ik hoor gerucht: het zal gewis,</l>
+<l rend="; 4tab">Naar allen schyn,</l>
+<l rend="; 4tab">Enéas zyn.</l>
+<l rend="; 3tab">ô Jemenie! 'k heb mis.</l>
+<pb n="6"/>
+<l>'t Is Antje zus, in 't nachtgewaad.</l>
+<l>Waarom of zy, in zulk een' slaat,</l>
+<l>Zich zo by tyds begeeft op straat?</l>
+<l rend="; 1tab">Sint Julsus, dat 's een nest!</l>
+<l rend="; 1tab">Wat zeg ik haar het best?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel.</hi></head>
+<stage><hi rend="sc">anna</hi>, <hi rend="sc">achates</hi>, <hi rend="i">Gevolg.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0003"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Vereend van hart en zinnen, enz.</hi></stage>
+<l rend="; 1tab">Wat wil dat toch beduiên?</l>
+<l rend="; 2tab">Waartoe al dat gerucht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates.</hi></speaker>
+<l rend="; 1tab">Dat sleepen, draagen, kruijen,</l>
+<l rend="; 2tab">Dient tot Enéas vlugt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna.</hi></speaker>
+<l rend="; 3tab">Is 't inderdaad?</l>
+<l rend="; 3tab">Zeg my, Achaat',</l>
+<l rend="; 2tab">Waarom hy ons verlaat?</l>
+</sp> 
+   
+<stage><hi rend="sc">te saamen.</hi></stage>
+  
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 3tab">Is 't inderdaad?</l>
+<l rend="; 3tab">Zeg my, Achaat',</l>
+<l rend="; 2tab">Waarom by ons verlaat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates.</hi></speaker>
+<l rend="; 3tab">Geloof Achaat':</l>
+<l rend="; 3tab">'t Is inderdaad,</l>
+<l rend="; 2tab">Dat hy dit land verlaat.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0004"/></interpGrp>
+<speaker><hi rend="sc">achates.</hi></speaker>
+<stage>Wyze: <hi rend="i">Klaas Pronk, een boerenknecht, enz.</hi></stage>
+<l rend="; 1tab">Enéas, kind! moet voort.</l>
+<l rend="; 1tab">Ik heb, van woord tot woord,</l>
+<l rend="; 1tab">'t Bevel der Goôn gehoord.</l>
+<pb n="7"/>
+<l rend="; 1tab">Merkuur', die slimme knaap,</l>
+<l rend="; 1tab">Verscheen hem in den slaap,</l>
+<l>En zei tot hem: Brui heen, ô gek</l>
+<l rend="; 1tab">Enéas! vlie', vertrek.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0005"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Climeen, waar heen? enz.</hi></stage>
+<l rend="; 6tab">ô Myn!</l>
+<l rend="; 6tab">Wat pyn,</l>
+<l rend="; 2tab">Zal Dido niet gevoelen!</l>
+<l rend="; 3tab">Haal hier toch wat stoelen,</l>
+<l rend="; 5tab">Eer zy verschyn'.</l>
+<l rend="; 3tab">'t Is niet om te mallen,</l>
+<l rend="; 4tab">Want, als zy 't ziet,</l>
+<l rend="; 3tab">Zal ze in katzwym vallen,</l>
+<l rend="; 4tab">Van louter verdriet.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0006"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Hoe zoet is 't daar de vriendschap woont! enz.</hi></stage>
+<l>Daar komt Enéas alreeds aan;</l>
+<l rend="; 1tab">Hy komt met pak en zak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l>Zou dien meineedigen Trooijaan</l>
+<l rend="; 1tab">Dus gaan op zyn gemak?</l>
+<l>Neen, ik haal Dido uit haar bed,</l>
+<l>Opdat zy hem de vlugt belett'.</l>
+<l rend="; 1tab">Wel hei! wel hei! wel hei!</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="8"/>
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">achates</hi>, <hi rend="i">Gevolg.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0007"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Hoor Kees, myn vryer, enz.</hi></stage>
+<l rend="; 2tab">Loop voor sint felten!</l>
+<l rend="; 1tab">Jouw kopstuk is op hol,</l>
+<l rend="; 3tab">Het ryd op stelten;</l>
+<l rend="; 1tab">Je bent waarentig dol!</l>
+<l rend="; 1tab">Enéas vlugt staat vast;</l>
+<l rend="; 1tab">'t Is door Merkuur' belast:</l>
+<l>Je zelt ons niet bedotten:</l>
+<l rend="; 1tab">Want met der Goden last</l>
+<l rend="; 2tab">Is niet te spotten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">eneas</hi>, <hi rend="i">in een wagentje door twee kinderen voorigetrokken;</hi> <hi rend="sc">achates</hi>, <hi rend="i">Gevolg.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0008"/></interpGrp>
+<speaker><hi rend="sc">achates.</hi></speaker>
+<stage>Wyze: <hi rend="i">Hier komt Paul Jones aan, enz.</hi></stage>
+<l>Daar komt prins Enéas aan,</l>
+<l rend="; 1tab">Hy komt in een' wagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas.</hi> <hi rend="i">tegen de kinderen</hi>.</speaker>
+<l>Lustig, jongens, stapt wat aan.</l>
+<l rend="; 1tab">Of jelui krygt slagen.</l>
+<l rend="; 3tab">Ryd wat voort;</l>
+<l rend="; 3tab">Ik moet naar boord.</l>
+</sp>
+<pb n="9"/>
+<sp>
+<speaker><hi rend="sc">achates.</hi> <hi rend="i">Enéas de hand geevende</hi>.</speaker>
+<l rend="; 4tab">Welkom, vrind, Enéas!</l>
+<l rend="; 3tab">'k Wou dat je al in zee was.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0009"/></interpGrp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<stage>Wyze: <hi rend="i">De eendjes zwemmen in het water, enz.</hi></stage>
+<l>'k Zwem in traanen! wat kan 't baaten?</l>
+<l rend="; 4tab">Faldera la liere!</l>
+<l>Ik moet Dido toch verlaaten.</l>
+<l rend="; 5tab">Faldra, la!</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0010"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Wat is om al vreugd gegeeven, enz.</hi></stage>
+<l rend="; 1tab">Wil uw droefheid overwinnen,</l>
+<l rend="; 1tab">En verban haar uit uw zinnen.</l>
+<l rend="; 2tab">Stap met moed den wagen uit,</l>
+<l rend="; 2tab">Eer haar komst het werk verbruid.</l>
+</sp>
+<stage><hi rend="i">Geduurende het volgende liedje word het valies, de pruikendoos, hoedenkast, enz. van Enéas in het schip gebragt.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0011"/></interpGrp>
+<speaker><hi rend="sc">eneas</hi>. <hi rend="i">uit het wagentje stappende.</hi></speaker>
+<stage>Wyze: <hi rend="i">La belle Bourbonnaise! enz.</hi></stage>
+<l rend="; 2tab">Welaan! laat ons vertrekken,</l>
+<l rend="; 2tab">Eer alles uit mogt lekken,</l>
+<l rend="; 2tab">En Dido kan ontdekken,</l>
+<l rend="; 3tab">Dat ik den aftocht sla.</l>
+<l rend="; 6tab">Ha! ha! Ha!</l>
+<l><stage><hi rend="i">Tegen de kinderen.</hi></stage></l>
+<l rend="; 2tab">Groet Dido mynentwegen,</l>
+<l rend="; 2tab">En zeg haar, wel ter deegen,</l>
+<l rend="; 2tab">Hoe alles is gelegen:</l>
+<l rend="; 3tab">Zy komt misschien wel dra.</l>
+<l rend="; 6tab">Ha! ha! ha!</l>
+<pb n="10"/>
+<l rend="; 2tab">Groet Dido mynentwegen;</l>
+<l rend="; 3tab">Zy komt misschien wel dra.</l>
+</sp>
+<stage><hi rend="i">De kinderen vertrekken met het wagentje.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">eneas</hi>, <hi rend="sc">achates</hi>, <hi rend="sc">dido</hi>, <hi rend="sc">anna</hi>, <hi rend="i">Gevolg.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0012"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>, <hi rend="i">tegen Enéas.</hi></speaker>
+<stage>Wyze: <hi rend="i">Hier van daan naar 't groenewoud, enz.</hi></stage>
+<l rend="; 2tab">Ik zie Dido: 't Is verbruid!</l>
+<l rend="; 1tab">Zy zal wis uw vlugt met lyên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>, <hi rend="i">in haar nachtgewaad, schielyk uitkomende, en Enéas een mes op de borst zettende.</hi></speaker>
+<l rend="; 2tab">Hei! blyf staan, ô snoode guit!</l>
+<l rend="; 2tab">Zeg wat is thans jouw besluit?</l>
+<l rend="; 2tab">Zo gy my, uw bruid, verlaat,</l>
+<l rend="; 1tab">Zal ik jou aan lappen snyên!</l>
+<l rend="; 2tab">Zo gy my, uw bruid, verlaat,</l>
+<l rend="; 2tab">Zyt ge om zeep! Versta je 't, maat?</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0013"/></interpGrp>
+<speaker><hi rend="sc">eneas.</hi></speaker>
+<stage>Wyze: <hi rend="i">Fytje, myn lief, ziel van myn zinnen! enz.</hi></stage>
+<l>Didootje lief! leen my uw ooren;</l>
+<l>Steek op je mes, en wil my eens hooren.</l>
+<l rend="; 3tab">Dido, myn zoete lief!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l>Neen, jy zelt me zo niet ringelooren,</l>
+<l>Hoe verliefd en snoeprig dat je ook kykt!</l>
+</sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l rend="; 6tab">Wel zo het blykt,</l>
+<l rend="; 5tab">Dat ik moet vlugten,</l>
+<l rend="; 6tab">Of dat ik aèrs</l>
+<l rend="; 4tab">Voor onheil moet duchten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 4tab">Wel! dat 's iets wonderbaars!</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0014"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Hoor Annaatje, ik zal verhaalen, enz.</hi></stage>
+<l rend="; 2tab">Ja, mevrouw, laat hem eens praaten;</l>
+<l rend="; 3tab">Duld, dat hy zyn zaak verweer'.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l rend="; 2tab">'k Dacht u nimmer te verlaaten:</l>
+<l rend="; 3tab">'k Zweer het u! wat wilt gy meer?</l>
+<l rend="; 3tab">Maar, het noodlot en de Goôn</l>
+<l rend="; 3tab">Hebben my dees vlugt geboôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l>Maar, het noodlot en de Goôn</l>
+<l>Hebben my dees vlugt geboôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<l>Maar, het noodlot en de Goôn</l>
+<l>Hebben hem dees vlugt geboôn.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0015"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Zinnen, benje genegen tot minnen? enz.</hi></stage>
+<l rend="; 7tab">Goden!</l>
+<l rend="; 4tab">Heb jelui, aan dien snooden!</l>
+<l rend="; 4tab">Die wreede vlugt geboden?</l>
+<l rend="; 1tab">Schept gy vermaak om Dido te doen lyden?</l>
+<l><stage><hi rend="i">Tegen Enéas.</hi></stage></l>
+<l rend="; 3tab">Hoe! zoud gy my zo ontvlugten?</l>
+<l rend="; 3tab">Zoud gy my hier laaten zuchten?</l>
+<l rend="; 6tab">Enéas neen;</l>
+<l rend="; 6tab">Gy gaat niet heen.</l>
+</sp>
+<pb n="12"/>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0016"/></interpGrp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Toen Pierlala van liefd' doorwond, enz.</hi></stage>
+<l rend="; 2tab">Het zyn de Goden niet alleen</l>
+<l rend="; 3tab">Die my dees vlugt gebiên;</l>
+<l rend="; 2tab">Maar, 'k heb in een' benaauwden droom,</l>
+<l rend="; 4tab">Myn' vaders schim gezien:</l>
+<l rend="; 2tab">Die schim belastte my, mevrouw,</l>
+<l rend="; 2tab">Dat ik myn biezen pakken zou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido.</hi></speaker>
+<l rend="; 2tab">De schim van uw' papa? ha! ha!</l>
+<l rend="; 4tab">De schim van uw' papa?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas.</hi></speaker>
+<l>De schim van myn' papa, ha! ha!</l>
+<l rend="; 1tab">De schim van myn' papa.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l>De schim van mv' papa, ha! ha!</l>
+<l rend="; 1tab">De schim van mv' papa?</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0017"/></interpGrp>
+<speaker><hi rend="sc">dido.</hi></speaker>
+<stage>Wyze: <hi rend="i">Zeg, Savoyaardsche meisje, enz.</hi></stage>
+<l rend="; 4tab">Ga, snoode! Maar de winden,</l>
+<l rend="; 5tab">De donder en orkaan,</l>
+<l rend="; 4tab">Die zullen jou wel vinden,</l>
+<l rend="; 5tab">Jou doen op zee vergaan!</l>
+<l rend="; 4tab">De wilde en woeste golven</l>
+<l rend="; 5tab">Die zullen met jouw schip</l>
+<l rend="; 4tab">Als met een klootje kolven,</l>
+<l rend="; 5tab">En smyten 't op een klip!</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0018"/></interpGrp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Jan, koop me een kermis, enz.</hi></stage>
+<l rend="; 6tab">Hoor toch naar reden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido.</hi></speaker>
+<l rend="; 5tab">Ik hoor geen enkel woord:</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l rend="; 6tab">Stel u te vreden!</l>
+</sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 4tab">Brui heen, en steek den moord!</l>
+<l rend="; 1tab">Maar 'k zal je na myn dood vervaaren,</l>
+<l rend="; 1tab">En met myn schim rondöm je waaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas.</hi></speaker>
+<l rend="; 6tab">Hoor toch naar reden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 3tab">Neen; 'k hoor geen enkel woord.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0019"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Tryn, myn engel! myn godin! enz.</hi></stage>
+<l rend="; 4tab">Lieve zuster! 'k bid bedaar!</l>
+<l rend="; 1tab">Wil u toch zo niet... niet verstooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>, <hi rend="i">in de armen van Anna vallende.</hi></speaker>
+<l rend="; 3tab">Hou me vast; ik word zo raar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l rend="; 3tab">Och! wat word myn oog gewaar?</l>
+<l rend="; 5tab">'t Zal my 't hart doorbooren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 1tab">Hemel! wat is haar... haar beschoren?</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0020"/></interpGrp>
+<speaker><hi rend="sc">achates</hi>, <hi rend="i">tegen Enéas.</hi></speaker>
+<stage>Wyze: <hi rend="i">Van de Merliton, enz.</hi></stage>
+<l rend="; 1tab">Lustig, sta nou niet te teemen:</l>
+<l rend="; 2tab">Neem je kans nou waar, mynheer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">eneas</hi>.</speaker>
+<l rend="; 1tab">'k Moet een' zoen tot afscheid neemen,</l>
+<l rend="; 2tab">Ik zie haar ligt nimmer weêr.</l>
+<l><stage><hi rend="i">Dido omhelzende.</hi></stage></l>
+<l>Vaar wel dan, Dido! vaar wel dan, myn liefje!</l>
+<l rend="; 2tab">Vaar dan wel, myn zoete meid!</l>
+</sp>
+<stage><hi rend="i">Enéas treed in 't schip. Achates wil hem volgen; doch word door Dido, die zich schielyk uit de armen van Anna rukt, by zyn kleed vastgehouden.</hi></stage>
+<pb n="14"/>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0021"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Lysje sliep in 't hosch, in 't lommer, enz.</hi></stage>
+<l>Hola! je zelt me niet bedotten,</l>
+<l rend="; 1tab">Ik hou je vast, je zelt niet heen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates</hi>.</speaker>
+<l>Hoe nu, mevrouw, is 't om te spotten?</l>
+<l rend="; 1tab">'k Zeg laat me los.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido.</hi></speaker>
+<l rend="; 3tab">'k Hoor naar geen reên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates.</hi></speaker>
+<l>Kyk, zo je langer ligt te praaten,</l>
+<l rend="; 1tab">Kryg je van my een' frisschen klap!</l>
+<l rend="; 1tab">'t Is hier geen grap; 't is hier geen grap;</l>
+<l>Ik wil Enéas niet verlaaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 1tab">Aan my een' klap? Aan my een' klap?</l>
+<l>Eilieve! doe dat eensjes.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">achates.</hi> <hi rend="i">Dido een' klap geevende.</hi></speaker>
+<l rend="; 4tab">Flap!</l>
+</sp>
+<stage><hi rend="i">Dido valt op den grond. Achates neemt dit oogenblik waar, om te vlugten, en steekt met Enéas in zee.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zesde tooneel.</hi></head>
+<stage><hi rend="sc">dido</hi>, <hi rend="sc">anna</hi>, <hi rend="i">gevolg.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0022"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze <hi rend="i">Och! wat is my overkomen, enz.</hi></stage>
+<l rend="; 1tab">Och! wat zal my overkomen?</l>
+<l rend="; 2tab">Daar ligt Dido op den grond!</l>
+<l rend="; 1tab">Is haar 't leven ook benomen?</l>
+<l rend="; 2tab">'t Bloed loopt uit haar' neus en mond!</l>
+<pb n="15"/>
+<l>'k Word een weinigje geruster;</l>
+<l rend="; 1tab">Zy schynt buiten allen nood.</l>
+<l>Och' hoe is het, lieve zuster!</l>
+<l rend="; 1tab">Leef je nog, of ben je dood?</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0023"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>, <hi rend="i">opstaande.</hi></speaker>
+<stage>Wyze: <hi rend="i">ô Zon! aan 's Hemels trans, enz.</hi></stage>
+<l rend="; 5tab">ô Jupiter, sta by!</l>
+<l rend="; 5tab">Wreek dees verradery!</l>
+<l rend="; 3tab">Verbrand Enéas kielen!</l>
+<l rend="; 5tab">ô Jupiter, sta by!</l>
+<l rend="; 5tab">Belet zyn snoode vlugt,</l>
+<l rend="; 3tab">Of, jaag hem op de gronden!</l>
+<l rend="; 4tab">Verhoor myn droeve stem</l>
+<l rend="; 4tab">Uw wraak verdelge hem!</l>
+<l rend="; 2tab">Hy heeft myne eer geschonden.</l>
+<l rend="; 4tab">Uw wraak verdelge hem!</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0024"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Jaapje sta stil, Jaapje sta stil, enz.</hi></stage>
+<l>Hou je toch stil; hou je toch stil;</l>
+<l>Zoek je droefheid te overwinnen.</l>
+<l>Hou je toch stil; hou je toch stil;</l>
+<l>Hoor eens wat ik je zeggen wil.</l>
+<l>Jy krygt ligt wel weêr een' ander',</l>
+<l rend="; 1tab">Die jouw eer herstellen zal,</l>
+<l>En die jouw schoonheid ten gevall'...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l>Ei, zwyg toch, zus, je maakt me mal!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna.</hi></speaker>
+<l rend="; 2tab">Hoor wat ik je zeggen wil.</l>
+</sp>
+<pb n="16"/>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0025"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Wie dees waereld wel beziet, enz.</hi></stage>
+<l rend="; 2tab">Nu Enéas is gevlugt;</l>
+<l rend="; 1tab">Nu kan ik niets verwerven.</l>
+<l rend="; 2tab">Antje, my verveelt de lucht;</l>
+<l rend="; 2tab">Ik bedankje voor de klucht.</l>
+<l rend="; 3tab">'k Wil sterven; 'k wil sterven.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0026"/></interpGrp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Zonder liefde, zonder wyn, enz.</hi></stage>
+<l rend="; 1tab">Stel dat denkbeeld uit uw' zin:</l>
+<l rend="; 2tab">Wat kan 't sterven baaten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 1tab">ô, Bedrogen koningin!</l>
+<l rend="; 2tab">Gy zyt dan verlaaten!</l>
+<l rend="; 1tab">Wat doe ik alleen op de aard'?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 2tab">Wy zyn met ons beiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 1tab">'t Leven is my niets meer waard'!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 2tab">Och! gy doet my schreiên!</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0027"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Malbroucq gaat naar het leger, enz.</hi></stage>
+<l rend="; 2tab">Och! Antje, wil niet huilen!</l>
+<l>Zie daar zyn, zie daar zyn myn twee muilen,</l>
+<l rend="; 2tab">Och! Antje, wil niet huilen!</l>
+<l rend="; 4tab">Daar is myn beste tas,</l>
+<l rend="; 4tab">Daar al myn geld in was</l>
+<l rend="; 3tab">Ik geef het je al den bras.</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Een kuiper vol jaloersche pyn, enz.</hi></stage>
+<l rend="; 3tab">Wat wil je doen?</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0028"/></interpGrp>
+<speaker><hi rend="sc">dido</hi>.</speaker>
+<l rend="; 4tab">Dit stooters mes</l>
+<l rend="; 1tab">Zal my verlossen uit myn lyden!</l>
+<l rend="; 2tab">Ik wil my, door een' steek vyf, zes,</l>
+<l rend="; 1tab">Van allen ramp en smart bevryden.</l>
+<l rend="; 2tab">Vaarwel, myn zuster, leef in vreê!</l>
+<l rend="; 2tab">Dat gaat 'er door... ô jee! ô jee!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna.</hi></speaker>
+<l>Didootje! Didootje! zeg nog reis brood.</l>
+<l rend="; 1tab">Maar, och! ze is reeds zo koud als lood</l>
+<l><stage>Wyze: <hi rend="i">Wel! myn alderliefste meisje, enz.</hi></stage></l>
+    <interpGrp><interp type="song" value="lijn002vlug01_0029"/></interpGrp>
+<l rend="; 1tab">Och! och! waar zal ik nou blyven?</l>
+<l rend="; 1tab">Wat zal ik, helaas! bedryven?</l>
+<l rend="; 1tab">'k Wil my ook maar gaan ontlyven;</l>
+<l rend="; 2tab">Want ik sta hier net als mal.</l>
+<l rend="; 1tab">Maar, waar is het mes gebleven,</l>
+<l rend="; 1tab">Daar myn zustertje, zo even,</l>
+<l rend="; 1tab">Zich den steek meê heeft gegeeven?</l>
+<l rend="; 2tab">Ha! zie zo! ik zie het al.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Laatste tooneel.</hi></head>
+<stage><hi rend="sc">anna</hi>, <hi rend="sc">serestus</hi>, <hi rend="i">Gevolg</hi>.</stage>
+<stage><hi rend="i">Anna raapt het mes op en wil zich doodsteeken, doch word door Serestus weêrhouden.</hi></stage>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0030"/></interpGrp>
+<speaker><hi rend="sc">serestus.</hi> <hi rend="i">schielyk uitkomende.</hi></speaker>
+<stage>Wyze: <hi rend="i">Dronke Jaap loopt om een pintje, enz.</hi></stage>
+<l rend="; 1tab">Antje lief! och, wat beginje?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 2tab">'k Wil me dooden. Ben je blind?</l>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">serestus</hi>.</speaker>
+<l rend="; 1tab">Och, myn lieve bout! bezinje,</l>
+<l rend="; 2tab">Eer je zulk een daad begint.</l>
+<l rend="; 1tab">Of, ben jy zo glad vergeeten</l>
+<l rend="; 2tab">Dat je my hebt trouw beloofd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 2tab">Hoe! zou ik dat niet weeten?</l>
+<l rend="; 2tab">Neen, het ligt me wel in 't hoofd.</l>
+</sp>
+    <sp><interpGrp><interp type="song" value="lijn002vlug01_0031"/></interpGrp>
+<speaker><hi rend="sc">serestus</hi>.</speaker>
+<stage>Wyze: <hi rend="i">Gold is de ziel van alle zaaken, enz.</hi></stage>
+<l rend="; 1tab">Eil wil me dan de reden zeggen</l>
+<l rend="; 2tab">Waarom jy tot die daad besloot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>, <hi rend="i">op Dido wyzende.</hi></speaker>
+<l rend="; 1tab">Zie je myn zuster dan niet leggen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">serestus</hi>.</speaker>
+<l rend="; 2tab">Wat zie ik? hoe! is Dido dood?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>.</speaker>
+<l rend="; 2tab">Laaten wy haar doen begraaven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">serestus</hi>.</speaker>
+<l rend="; 3tab">En geef my uw hand als bruid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">anna</hi>, <hi rend="i">Serestus de hand geevende.</hi></speaker>
+<l>Ik ben te vreên. <stage><hi rend="i">(Tegen het gevolg.)</hi></stage> Men voer' haar van dees haven.</l>
+<l rend="; 1tab">Daarmeê is 't uit; daarmeê is 't uit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">te saamen</hi>.</speaker>
+<l rend="; 1tab">Daarmeê is 't uit; daarmeê is 't uit.</l>
+</sp>
+<stage><hi rend="i">EINDE.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

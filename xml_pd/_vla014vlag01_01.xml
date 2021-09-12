@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Het vlaggenlied van M.A. de Ruiter</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Het vlaggenlied van M.A. de Ruiter</hi> uit 1830.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 2: ‘miju’ → ‘mijn’: ‘Goddank mijn grijze haren’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_vla014vlag01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 04026</idno>
+               </bibl>
+               <p><hi rend="i">Het vlaggenlied van M.A. de Ruiter</hi>. C. Bakels, Z.p., 1830</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Het vlaggenlied van M.A. de Ruiter</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Het vlaggenlied van M.A. de Ruiter</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-28</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_vla014vlag01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_vla014vlag01_0001"/> </interpGrp>
+<interpGrp>
+<interp type="secundair" value="ruyt002"/>
+</interpGrp>
+<head rend="h3">Het vlaggenlied van M.A. de Ruiter.</head>
+<head rend="h4"><hi rend="i">Op eene aangename Wijs.</hi></head>
+<lg type="poem">
+<l>O dierbre vaan der Vad'ren,</l>
+<l rend="; 1tab">Keert in mijn strammen vuist,</l>
+<l>Goddank dat in mijn ad'ren,</l>
+<l rend="; 1tab">'t Bataafsche bloed nog bruist,</l>
+<l>Ik voel mij 't harte breken,</l>
+<l rend="; 1tab">Daar 'k u zie snood versmaân,</l>
+    <l>Met vreugde zal 'k u wreken, &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">O Neêrlands Glorievaan. &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+<pb n="2"/>
+<l>Ik voerde u op de velden,</l>
+<l rend="; 1tab">Bij 't roemrijk Catre-Bras,</l>
+<l>Geleid door d' onze als helden,</l>
+<l rend="; 1tab">Al gilde men als bas.</l>
+<l>Van wank'len noch van wijken,</l>
+<l rend="; 1tab">Wist gij op de eerebaan,</l>
+    <l>Deed in den slag u prijken, &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">O Vadren Willemsvaan. &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+<l>&nbsp;</l>
+<l>Ik zag u op de wateren,</l>
+<l rend="; 1tab">Ontplooit voor 't bleek Algiers,</l>
+<l>Bij 't dreigend hurae schateren,</l>
+<l rend="; 1tab">Des dapperen Bataviers,</l>
+<l>U zag Algiers van verre,</l>
+<l rend="; 1tab">Met eerbied sidd'rend aan,</l>
+    <l>O Neêrlands Glorie sterren, &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">De Ruiters Zegevaan. &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+<l>&nbsp;</l>
+<l>Onttrek u thans Barbaren,</l>
+<l rend="; 1tab">Red wie gij redden kunt,</l>
+<l>Goddank mijn grijze haren,</l>
+<l rend="; 1tab">Zijn nog der vreugd vergunt.</l>
+<l>Dat weêr op Hollandsch wallen,</l>
+<l rend="; 1tab">De brave Burgers staan,</l>
+    <l>En dat de Muiters vallen, &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Voor Neêrlandsch Zegevaan. &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+<l>&nbsp;</l>
+<l>Ik zie mijn wensch vervullen,</l>
+<l rend="; 1tab">'k Zonk op het bed van eer,</l>
+<l>Waar kruiddamp mij omhullen.</l>
+<l rend="; 1tab">Thans naast mijn Vaandel neer,</l>
+<l>Ik zie op haar ten hooge,</l>
+<l rend="; 1tab">Al met een dankb're traan,</l>
+    <l>En dankbaar sluit ik mijn oogen, &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Bij 't staren op mijn vaan. &nbsp;&nbsp;<hi rend="i">bis.</hi></l>
+</lg>
+    <cf><p>Gedrukt bij C. BAKELS, Pieterjacobstraat.</p></cf>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

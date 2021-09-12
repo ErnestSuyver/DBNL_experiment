@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een lied voor Nederlanders</title>
+               <author>Quirijn de Flines</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een lied voor Nederlanders</hi> van Quirijn de Flines uit 1813.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 1: ‘Teu’ → ‘Ten’: ‘Ten voordeele van Woerden's Ingezetenen’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1" type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">flin004lied01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 20010</idno>
+               </bibl>
+               <p>Quirijn de Flines, <hi rend="i">Een lied voor Nederlanders</hi>. J.H. Duisdeiker, Amsterdam 1813</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een lied voor Nederlanders</title>
+               <author>Quirijn de Flines</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een lied voor Nederlanders</title>
+               <author>Quirijn de Flines</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-07-11</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+            <text>
+<body>
+<div type="chapter">
+<pb n="1"/>
+<head rend="h3">Een lied voor Nederlanders,
+<lb/>
+door Mr. Q. de Flines.</head>
+<lg type="poem">
+<l><hi rend="i">When Sion's God</hi>, <hi rend="i">her Sons recall'd</hi></l>
+<l><hi rend="i">From long Captivity</hi>,</l>
+<l><hi rend="i">It seem'd at first</hi>, <hi rend="i">a pleasing Dream</hi></l>
+<l><hi rend="i">Of what we wish'd to see.</hi></l>
+<l><hi rend="i">But soon</hi>, <hi rend="i">in unaccustom'd mirth</hi>,</l>
+<l><hi rend="i">We did our Voice employ</hi>,</l>
+<l><hi rend="i">And sung our great Restorer's Praise</hi>,</l>
+<l><hi rend="i">In thankful Hymns of joy.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ps. 126. v. 1 en 2.</l>
+</lg>
+<cf><p><hi rend="i">Te AMSTERDAM</hi>, <hi rend="i">by</hi></p>
+<p>J.H. <hi rend="spat">DUISDEIKER</hi>,</p>
+<p>Boekverkooper, achter de Nieuwe Kerk, by den Dam.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">De prys is twee Stuivers.</hi></p>
+<p>&nbsp;</p>
+    <p>Ten voordeele van <hi rend="i">Woerden's</hi> Ingezetenen.</p></cf>
+<pb n="2"/>
+<q rend="bq"><hi rend="i">Fallitur egregio quisquis sub principe credit Servitium</hi>, <hi rend="i">nunquam libertas gratior exstat Quam sub rege pio.</hi> -
+<lb/>
+<hi rend="sc">Claudianus</hi> <hi rend="i">de laudibus Stiliconis.
+<lb/>
+L.</hi> 3. <hi rend="i">V.</hi> 13, 14 <hi rend="i">et</hi> 15.</q>
+<pb n="3"/>
+<p><hi rend="i">Verrukt door des Heeren</hi> <hi rend="sc">Meyer</hi>'<hi rend="i">s schoone uitvoering op het Orgel</hi>, <hi rend="i">van het bekend Engelsch Volkslied</hi>: God save the King, <hi rend="i">op heden</hi>, <hi rend="i">na den dienst</hi>, <hi rend="i">in de Engelsche Presbyteriaansche Kerk</hi>, <hi rend="i">vloeide my dit lied uit de pen. Ik heb gemeend</hi>, <hi rend="i">dat het nuttig konde zyn</hi>, <hi rend="i">zoodanig Volkslied den Nederlanderen in de hand te geven</hi>, <hi rend="i">opdat ook zy</hi>, <hi rend="i">even als de Engelschen</hi>, <hi rend="i">in geestdrift mogten ontbranden</hi>, <hi rend="i">en hunnen Vorst</hi>, <hi rend="i">by elke gepaste gelegenheid</hi>, <hi rend="i">daarmede hulde bewyzen. Ook kwam het my voor</hi>, <hi rend="i">dat ik op deze wyze</hi>, <hi rend="i">mogelyk</hi>, <hi rend="i">eenige verligting zoude kunnen toebrengen aan</hi> Woerden'<hi rend="i">s ongelukkige Inwoners.</hi></p>
+<pb n="4"/>
+<p><hi rend="i">Mogt dit lied ook beschouwd worden als eene navolging van het Oud</hi>, <hi rend="i">en voor zynentyd</hi>, <hi rend="i">schoon en te weinig bekend lied van</hi> Wilhelmus van Nassouwen, <hi rend="i">te vinden in zeker oud Liedeboek</hi>, <hi rend="i">getiteld:</hi> Nederlandtsche Gedenckclanck, door <hi rend="sc">Adrianus Valerius</hi>, Gedruckt tot Haerlem, Anno 1626.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Ik beoog geen dichterlyken lof</hi>, <hi rend="i">dien van een' vurig' beminnaar van myn Vaderland daar stelt myn hart prys op.</hi></p>
+<p>&nbsp;</p>
+<p>Q. <hi rend="spat">de FLINES</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Amsterdam</hi>, 19 December, 1813.</p>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="flin004lied01_0001"/> </interpGrp>
+<pb n="5"/>
+<head rend="h3">Een lied voor Nederlanders.(<note n="*" place="foot">De drie eerste regels van ieder vers kunnen gezongen worden eerst met eene stem en daarna door het koor herhaald; zoo ook de vier laatste regels.</note>)</head>
+<head rend="h4">Wyze: <hi rend="i">God save the King.</hi></head>
+<lg type="poem">
+<head>1.</head>
+    <l><hi rend="sc">God</hi>! zegen Neêrlands Vorst, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Die 's Lands belangen torscht! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab"><hi rend="sc">God</hi>! zegen hem! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Dat hy ons lang regeer', &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Den vyand van ons keer', &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>En ons geluk vermeer'! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 2tab">God! zegen hem! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+    <l>Op dien doorluchten Stam, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Die 't hoog bewind bekwam, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Stort zegen uit! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Dat hy steeds groei' en bloei' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>En ons door liefde boei'; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Dat ieders harte gloei' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">En niets dit stuit'! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<pb n="6"/>
+<lg type="poem">
+<head>3.</head>
+    <l>Euroop' was heel verneêrd; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Ons Vaderland verheerd, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Door loos verraad. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Een trotsche Dwingeland, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Verbrekende orde en band, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Heerschte over ons, ô schand'! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Met wrev'len haat. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+    <l>De Rus, de Brit, de Zweed, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>De Duitscher hief een' kreet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Van felle wraak. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l><hi rend="sc">God</hi> en der volken regt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Verwonnen in 't gevecht; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Thans is de twist beslecht, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Met felle wraak! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+    <l>Ook Neêrlands moed herleeft, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>En 't fransche rot reeds beeft &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Voor 't wrekend staal. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>De vlaggen wapp'ren weêr, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Zoo lustig als weleer, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Voor Neêrlands Vorst en Heer, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">In zegepraal. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<pb n="7"/>
+<lg type="poem">
+<head>6.</head>
+    <l>Niets blyve in 's vyands hand &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Van 't lieve Vaderland. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Op, op ten stryd! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;&nbsp;&nbsp;</l>
+<l>&nbsp;</l>
+    <l><hi rend="sc">God</hi> zelf treedt voor ons uit; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Niets is er dat ons stuit. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Roep wyd en zyd en luid: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Op, op ten stryd. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>7.</head>
+    <l>Verdryf des Dwinglands magt, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Beroof hem van zyn kracht. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Ten stryd - op! op! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Verdelg hem van deze aard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Die 't bloed niet heeft gespaard, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Ofschoon uw wraat onwaard. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Verplet zyn' kop. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>8.</head>
+    <l>Ontvang myn hulde en groet; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Uit grooten <hi rend="sc">willems</hi> bloed, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Gy, die ontsproot, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>U zy dit lied gewyd; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l><hi rend="sc">God</hi> zelf heeft U geleid, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l><hi rend="sc">God</hi> zelf heeft ons bevryd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Uit onzen nood. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<pb n="8"/>
+<lg type="poem">
+<head>9.</head>
+    <l>Dank, lof en prys ontvang' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Gy, die ons van den dwang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Verloste, Heer! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Geef ons een dankbaar hart; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>O Heer! verligt de smart, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Die velen nog benart, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">O God! o Heer! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+<lg type="poem">
+<head>10.</head>
+    <l>Behoed steeds Nederland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>Voor een hernieuwde schand', &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Nooit bukk' het weêr. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+<l>&nbsp;</l>
+    <l>Gy zelf hebt ons bevryd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l>En heel het land verblyd. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<hi rend="i">bis.</hi></l>
+    <l>Op, Neêrlands jeugd! ten stryd! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+    <l rend="; 1tab">Nooitbukk' men weêr. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>

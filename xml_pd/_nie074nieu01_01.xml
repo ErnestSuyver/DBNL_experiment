@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied</hi> uit ca. 1813.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 1: ‘z t’ → ‘zit’: ‘Maar nu zit hy in zyn getreur’.</corr>
+                       <corr>p. 1: ‘Hoectée’ → ‘Hoezée’: ‘Viva Oranje Hoezée’.</corr>
+                       <corr>p. 1: ‘groo e’ → ‘groote’: ‘Toen hy kon speelen de groote barbaar’.</corr>
+                       <corr>p. 1: ‘z t’ → ‘zit’: ‘Maar nu zit hy in zyn getreur’.</corr>
+                       <corr>p. 1: ‘;k’ → ‘ik: ‘Had ik maar na Elba gekeerd’.</corr>                       
+                       <corr>p. 2: gedeelten van de tekst zijn slecht leesbaar. In deze digitale editie is [...] geplaatst.</corr>                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie074nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 05005</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied</hi>. Z.p., ca. 1813</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-23</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie074nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_nie074nieu01_0001"/> </interpGrp>
+<head rend="h3">Een nieuw lied.</head>
+<head rend="h4"><hi rend="i">Wys: Viva Oranje</hi>, <hi rend="i">Hoezée!</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Bonaparte is op de vlugt gegaan, hoezee,</l>
+<l>Al met zyn twaalf honderd man, hoezée,</l>
+<l>In Frankryk is hy aangeland,</l>
+<l>Hy dagt dat hy weer in Holland kwam</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Maaar Holland krygt hy zyn leven niet</l>
+<l>Maar nu zit hy in zyn verdriet,</l>
+<l>Hy dogt dat hy het Land regeerd,</l>
+<l>Maar God die heeft het hem verleerd,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Had ik maar op myn Elba gebleeven,</l>
+<l>En niet in Frankryk ingetreeden,</l>
+<l>Want nu zit ik in groote schand,</l>
+<l>Ik werd verjaagd van alle kant,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Hy dogt net als in 't vorige Jaar,</l>
+<l>Toen hy kon speelen de groote barbaar</l>
+<l>Toen hy regearder was van 't Land,</l>
+<l>Toen was tog alles contraband,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l>Waar blyve nu zyn goede vrinden,</l>
+<l>Hy dagt daar kan hy alles mee winnen</l>
+<l>Wel Keizer dat hebt gy niet gedagt,</l>
+<l>Hy heeft zig in 't ongeluk gebragt,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>6.</head>
+<l>Myn goede vrienden verlaaten myn</l>
+<l>Van klyn en groot versmaad te zyn,</l>
+<l>Ik zit nu thans in druk en pyn,</l>
+<l>Mogt ik maar weer uit Frankryk zyn,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>7.</head>
+<l>Hy word belegerd van alle kant,</l>
+<l>De Vyand zit hem op zyn hand,</l>
+<l>Hy maakte het wat al te bont,</l>
+<l>Zit ingeslooren als een hond,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>8.</head>
+<l>Wel Keizer het is met jou gedaan,</l>
+<l>Nu moet gy weer na Elba gaan,</l>
+<l>Maar nu zit hy in zyn getreur,</l>
+<l>Had ik maar na Elba gekeerd,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>9.</head>
+<l>De Zeevaard is nu weder vry,</l>
+<l>dat is een zegen voor arm en ryk,</l>
+<l>dat geeft de bloey weer aan ons Land</l>
+<l>daar hebben wy tog na verlangd,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<lg type="poem">
+<head>10.</head>
+<l>de Oost en West die bloeid nu weer hoezée,</l>
+<l>daar hebben wy tog om getreurd, hoezée,</l>
+<l>Europa is nu weder vry,</l>
+<l>Zo groeid en bloeid de Maatschappy,</l>
+<l rend="; 1tab">Viva Oranje hoezée.</l>
+</lg>
+<p><hi rend="i">EYNDE.</hi></p>
+</div>
+</div>
+<div type="chapter">
+ <interpGrp> <interp type="song" value="_nie074nieu01_0002"/> </interpGrp>
+<pb n="2"/>
+<head rend="h3">Een nieuw lied,
+<lb/>
+Van de Baron van Dalishym.</head>
+<head rend="h4"><hi rend="i">Op een Aangenaame Wys:</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Ach neen! ach neen! zo kan 't niet blyven,</l>
+<l>Ik ben een Heer van aanzien, doch</l>
+<l>Mankeert het my aan blanke schyven,</l>
+<l>Zo blyft myn Adelstam my nog, bis.</l>
+<l>Rang en Geboorte zal nooit schromen</l>
+<l>Aan Geld kan ieder schobjak komen,</l>
+<l>Doch hooge Adel kleeft als lym,</l>
+<l>Aan de Baron van Dalishym.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Myn Adelhoog die zal nooit zwichten</l>
+<l>Word ik van Honger groen en geel,</l>
+<l>Ik zal my naar de Rykdom richten</l>
+<l>Al zeid myn Maag het tegendeel; bis</l>
+<l>Myn Jas doet myn standvastig blyven</l>
+<l>Van honger zal ik Vaersjes schryven,</l>
+<l>Geen Dichter vind zo ligt de Rym,</l>
+<l>Als de Baron van Dalishym.</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>'t Is waar ik heb zeer veele schulden,</l>
+<l>En borgen wil geen Mensch een duit</l>
+<l>Bezat ik noch maar eene Gulden,</l>
+<l>Ik liep direct de Poort maar uit,</l>
+<l>Om in een ander Land te raaken,</l>
+<l>Daar kan men nieuwe schulden maken</l>
+<l>want schuld die kleeft zo vast als lym,</l>
+<l>Aan de Baron van Dalishym.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Myn trouwe knegt loopt als een Jager,</l>
+<l>Steeds na de Lombard met een pand,</l>
+<l>Myn arme Meid die word zo mager,</l>
+<l>De knegt een kaale schraale klant, bis.</l>
+<l>Het moet hem tot een eer verstrekken,</l>
+<l>Myn rang doet hunnen ijver wekken,</l>
+<l>Zy zyn verkleeft zo vast als lym,</l>
+<l>Aan de Baron van Dalishym.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l>Ach! niets doet my het hoofd zo malen</l>
+<l>Ach! niets baart my meer verdriet,</l>
+<l>Kon ik myn Huisheer maar betaalen,</l>
+<l>Maar hy geeft geen meer crediet, bis.</l>
+<l>Zo 'er geen bespieders kruisen,</l>
+<l>Ging ik met de Noorder zon verhuisen</l>
+<l>Doch vrees hond hier zo vast als lym.</l>
+<l>Na den Baron van Dalishym.</l>
+</lg>
+</div>
+<div type="chapter">
+ <interpGrp> <interp type="song" value="_nie074nieu01_0003"/> </interpGrp>
+<head rend="h3">Een nieuw lied,</head>
+<head rend="h4"><hi rend="i">Op een Aangename Wys.</hi></head>
+<lg type="poem">
+<head>1.</head>
+<l>Wen die Nagt im stille roe,</l>
+<l rend="; 1tab">Woh die mute loonet;</l>
+<l>Gee ibh na das Hutje soe,</l>
+<l rend="; 1tab">Woh das Metje wonet,</l>
+<l>Wen die Nagt und Mitternagt,</l>
+<l>Eine zanfte ziese Nagt.</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Flooster Liebje slaate wohl,</l>
+<l rend="; 1tab">Fry van jee en kommer,</l>
+<l>Dan maïn Herts ist lieb wohl,</l>
+<l rend="; 1tab">Zelbst im diepsten slommer,</l>
+<l>Oft im troume glaubet mich,</l>
+<l>Trayt lieb ich liebe dich,</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Wen die Sternen groos und klain,</l>
+<l rend="; 1tab">Ond am Himmel steen,</l>
+<l>Ond main Liebjes Engelain,</l>
+<l rend="; 1tab">Kan im schimmer zeen;</l>
+<l>Ond ain[...]sje noch [...]m lest,</l>
+<l>Mond ond He[...] ond Zielen lest.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>ô Dan slaaf ich roewig ain,</l>
+<l rend="; 1tab">Vryje mich mit weenig,</l>
+<l>Een vergnugt ond kan das aug zain</l>
+<l rend="; 1tab">Meer wie onzer Keenig,</l>
+<l>Zaine Raig ond zainer macht,</l>
+<l>Neem ich nigt vor diezer Nagt.</l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

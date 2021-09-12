@@ -1,0 +1,4194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">De verwaande Hollandsche Franschman</title>
+               <author>Andries Pels</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de 2de, herziene druk van <hi rend="i">De verwaande Hollandsche Franschman</hi> van Andries Pels uit 1717. De eerste druk dateert uit 1684.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 41, 45, 48, 52, 64: een ‘e’ boven een klinker kan in deze digitale versie niet goed weergegeven worden. Daarom is de ‘e’ hier telkens in superscript ná de betreffende klinker geplaatst.</corr>
+                       <corr>p. VI: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                       
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>96</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">pels001verw02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>unicode</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 5 K 14: 3</idno>
+               </bibl>
+               <p>Andries Pels, <hi rend="i">De verwaande Hollandsche Franschman</hi>. J. Lescailje (erven), Amsterdam 1717 (2de, herziene druk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">De verwaande Hollandsche Franschman</title>
+               <author>Andries Pels</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">De verwaande Hollandsche Franschman</title>
+               <author>Andries Pels</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-29</date>
+               <respStmt>
+                   <name type="person">AS</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="frank01"/>
+<interp type="primair" value="amste001"/>
+</interpGrp>
+<body>
+<cf><div type="chapter">
+
+<pb n="I"/>
+<p>DE VERWAANDE HOLLANDSCHE FRANSCHMAN. <hi rend="i">BLYSPÉL</hi>.</p>
+<p>Deeze Twéde Druk op nieuws naauw keurig verschikt én veel verbéterd.</p>
+<p><figure>
+<p><xptr to="pels001verw02ill0001.gif"/></p></figure></p>
+<p>Te Amsterdam,</p>
+<p>Gedrukt voor het Kunstgenootschap, en te bekomen by de Erven van J. Lescailje, enz.</p>
+<p><hi rend="i">Met Privilegie</hi>. 1717.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3">Aan den tooneelkundige leezer.</head>
+<p><hi rend="b">H</hi>Et geestig Zinnespel, genaamd de <hi rend="sc">Mode</hi>, ook het Italiaansche Spel <hi rend="sc">La Corta</hi>, óf <hi rend="sc">Het Hof</hi>, getrokken uit het Tooneelspel, genaamd de <hi rend="sc">Tieranny</hi> van <hi rend="sc">Eigenbaat</hi>, welke drie Kunststukken gemaakt zyn door den geleerden Heer <hi rend="i">Sbarra</hi>, een uytsteekend licht onder de Italiaansche Vernuften, zyn voor een gedeelte uit het Italiaansch in het Néderduitsch overgebragt door eenen Heer van aanzien, een treffelyk Lid, niet alleen der Regeeringe van deeze groote en vólkryke Stad, maar ook van het Kunstgenootschap, dat zig onder den tytel van <hi rend="sc">Nil Volentibus Arduum</hi> bekénd gemaakt heeft; en voor een gedeelte door den welervaren en Tooneelwyzen Heer, M<hi rend="sup">r</hi>. <hi rend="sc">Andries Pels</hi>, waar aan de Néderduitsche Tooneelkunst, en onze Amsterdamsche Schouwburg zeer groote verplichting hebben.</p>
+<pb n="IV"/>
+<p>Maar het ongeluk, dat waakt om veele dingen te stooren, en goede voorneemens te dwarsboomen, heeft gewild dat deeze Stukken, niet genoeg opgemaakt, nóchte overzien, in 't ende geraakt zyn in heel verkeerde handen, en ellendig verhoeteld, en jammerlyk gerabraakt, in het licht gebragt.</p>
+<p>Het zelve lót heeft moeten ondergaan dit tegenwoordig Spél, genaamd de <hi rend="sc">Verwaande Hollandsche Fransman</hi>, waar van de gemelde Heer <hi rend="sc">Pels</hi> een nét ontwerp en verdeeling gemaakt had: want de twé laatste Bedryven, waar van men, naa de dood des gemelden Heeren, geen recht afschrift had konnen bekomen, zyn zeer slordig aan de voorige gehecht, die ook zelfs gebrekkelyk gedrukt, en niettegenstaande die grove en ongerymde wanschikkelykheid, echter veele jaaren achter één op onzen Schouwburg gespeeld zyn, tót verdriet des verstandigen aanschouwers, die het toestellen der Personaadje van de talmende Aapekoopster en de raazende Smaus, die als by 't haar daar in getrokken wordt, of
+<pb n="V"/>als uit de lucht kwam vallen, niet zonder walging kan zien vertoonen.</p>
+<p>Wy dit alles in overweeginge genomen hebbende, hebben goedgevonden dit bevallige en zédekundige Toneelstuk van alle ongeschikthéden, wangestalte, en ongerymde overtólligheden te bevryden, en alle onwaarschynlykhéden te verwerpen, die tégen het inzicht der voorige behandelaaren daar ingekomen waaren; gedreeven door een zucht tót den welstand des Schouwburgs, en genoegen der Aanschouweren, wier geduld lang genoeg misbruikt is: dit hebben wy gedaan ten minsten zo verre als de gevoeglykheid heeft willen toelaten.</p>
+<p>Des houden wy ons verzeekerd, dat deeze laatste Druk, vergeleeken met den eersten, den kenneren veel meer behaagen zal, dien wel haast blyken kan zien, dat de arbeid en moeite daar aan besteed, niet zonder vrucht geweest is.</p>
+</div>
+<div type="chapter">
+<pb n="VI"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Michiel</hi>, <hi rend="i">Knecht</hi> } <hi rend="i">van Eelhart</hi>.</item>
+<item/>
+<item><hi rend="sc">Reinhart</hi>, <hi rend="i">Vriend</hi> } <hi rend="i">van Eelhart</hi>.</item>
+<item/>
+<item><hi rend="sc">Stoffel</hi>, <hi rend="i">bygenaamd</hi> à tout faire, <hi rend="i">Vader van Jakomyn</hi>.</item>
+<item/>
+<item><hi rend="sc">Jakomyn</hi>, <hi rend="i">Dóchter van Stoffel</hi>.</item>
+<item/>
+<item><hi rend="sc">François</hi>, <hi rend="i">Verwaande Hollandsche Franschman</hi>.</item>
+<item/>
+<item><hi rend="sc">Kristine</hi>, <hi rend="i">Moei van Konstantia en François</hi>.</item>
+<item/>
+<item><hi rend="sc">Meinsje</hi>, <hi rend="i">oude Dienstmeid</hi> } <hi rend="i">van Kristine</hi>.</item>
+<item/>
+<item><hi rend="sc">Konstantia</hi>, <hi rend="i">Nicht</hi> } <hi rend="i">van Kristine</hi>.</item>
+<item/>
+<item><hi rend="sc">Baske</hi>, <hi rend="i">Jongen</hi> } <hi rend="i">van Kristine</hi>.</item>
+<item/>
+<item><hi rend="sc">Pleuntje</hi>, <hi rend="i">Dienstmeid van Stoffel</hi>.</item>
+<item/>
+<item><hi rend="sc">Eelhart</hi>, <hi rend="i">Vryer van Konstantia</hi>.</item>
+<item/>
+<item><hi rend="sc">Kornelis</hi>, <hi rend="i">Knecht van Reinhart</hi>.</item>
+<item/>
+<item><hi rend="sc">Aapekoopster</hi>.</item>
+<item/>
+<item><hi rend="sc">Kruyer</hi>.</item></list>
+<p>&nbsp;</p>
+<p>Het Tooneel verbeeldt de Huizen van Kristine en Stoffel, met een gemeene muur, naast malkander, in Amsterdam.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">De Geschiedenis van het Blyspél begint in den ochtend, en eindigt 's avonds</hi>.</p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h3">De verwaande Hollandsche Franschman.
+<lb/>
+<hi rend="i">Blyspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Michiel</hi> <hi rend="i">uit het huis van Stoffel</hi>, <hi rend="sc">Reinhart</hi>, <hi rend="i">uit het huis van Kristine, na malkanderen uit ziende</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l><hi rend="b">M</hi>Yn Heer, een brief.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Dat's goed, wat ben ik in verlangen!</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>Ze is van myn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Ik zie 't. Wanneer hebt gy ze ontfangen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>'t Was gister avond by half tienen, en, ik zócht</l>
+<l>U overal daar ik den wilden Franschman dócht</l>
+<l>Te vinden, zelf in al de huizen daar men t'zaamen</l>
+<l>Va tutti speelt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Michiel, 't was u een kunst te raamen</l>
+<l>Waar wy geweest zyn; dóch naar 't schryven van uw Heer,</l>
+<l>Moet hy hier uit den Haag voor elven zyn, óf eer.</l>
+<l>Verzuim niet in deez' buurt zyn aankomst te verbeiden,</l>
+<l>En hem terstond in 't huis van Stoffel te geleiden,</l>
+<pb n="2"/>
+<l>Dat ik exprés voor hem gehuurd heb; hier zal hy</l>
+<l>Door de bedekte deur, gemakkelyk en vry</l>
+<l>Met zyn Konstantia zich kunnen onderhouwen,</l>
+<l>En geeven aan haar Moei, óf Neef geen misvertrouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>Myn Heer is u verplicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Maar 'k wacht François; dies gaa,</l>
+<l>Roep Stoffel aanstonds hier met Jakomyn, maar dra.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Stoffel, Reinhart, Michiel, Jakomyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>HEer Reinhart, wel wat nieuws hebt ge' uit deez' brief geleezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Heer Eelhart, Stoffel, zal hier deezen mórgen weezen;</l>
+<l>Daarom is 't noodig dat gy hier gestadig blyft</l>
+<l>Omtrent de deur: want ik verwacht hem, zo hy schryft,</l>
+<l>Voor ellef uuren, en het is niet vér van tienen,</l>
+<l>Pas op, ontfang hem wel; 'k zal hem met yver dienen</l>
+<l>By zyn Meestrés, doe my voort van zyn komst de weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>Ik zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Gy, Jakomyn, hou je terstond gereed.</l>
+<l>Zo gy de konst hebt om een lósból te verrassen;</l>
+<l>Zal 't nu de tyd zyn om ter deegen op te passen,</l>
+<l>Ik heb François reeds veel van jou bevalligheid,</l>
+<l>Van jou luy Adel, en verdiensten uitgeleid.</l>
+<l>De gek is heel verliefd, hy kwam met my beneden,</l>
+<l>Om daat'lyk uit te gaan. Zyt stemmig in uw reeden,</l>
+<l>Maakt dat 'er niets aan u óf aan den opschik faalt.</l>
+<l>Maar is al 't huisraad van d'uitdraagster reeds gehaald?</l></sp>
+<pb n="3"/>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>'t Is alles reed; en dus heb ik me laaten kappen,</l>
+<l>Zal 't wel staan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Treff'lyk. Kanje nu verstandig klappen,</l>
+<l>Zo is hy in het nét.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab">Maar 't kleed is my wat klein.</l>
+<l>Hoe schikt dat voor Mevrouw van Swalgenbittelstein?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Heel schoon voor een Moffin, voornaam'lyk nu zyn zinnen</l>
+<l>In jou niets meerder als jou schat, en staat beminnen.</l>
+<l>Maak gy slechts aan de deur te staan dat hy je groet,</l>
+<l>En vrindelyk van jou wordt toegelonkt, hy moet</l>
+<l>Straks uit gaan. Zo wy deez' gelegenheid verzuimen</l>
+<l>Van zyn verliefdheid, ligt krygt hy eens and're luimen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Wat my belangt, wees vry gerust, 'k geef u myn woord,</l>
+<l>Dat ik myn ról zo wel zal speelen als 't behoort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Maar Stoffel, waar is jou medaalje en gulde keten?</l>
+<l>Jy moet je Graaflykheids karakter niet vergeeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Hier heb ik ze in myn zak.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Goed, goed, zo zyt ge in all's</l>
+<l>Wel uitgedost, kom hang de ketting om jouw hals,</l>
+<l>Jouw Ridderlyke stand moet hy hier door bemerken,</l>
+<l>Help, zonder tydverzuim, ons opzet voort uitwerken.</l>
+<l>Hy komt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 2tab"><hi rend="b">Verzy mihr ich wil euch gebitten haan</hi></l>
+<l><hi rend="b">Gantsch freindlich das...</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">'t Is tót uw dienst, en gaern gedaan.</l></sp>
+</div>
+<div type="scene">
+<pb n="4"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">François, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>DAar Reintje, hou myn hoed, <hi rend="i">tené allons mon peigne</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Daar is hy.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>, <hi rend="i">zich kemmende en zingende</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Fillis a mon coeur</hi>. Hola, waar ben je?</l>
+<l>Hoe valt myn <hi rend="i">juste au corps</hi>? hoe staan me die <hi rend="i">rubands?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Heel wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Wat dunkt u van <hi rend="i">l'epée</hi>, en van <hi rend="i">mes gands</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'t Staat alles ryk'lyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab"><hi rend="i">Ma peruque</hi> is die niet zwierig?</l>
+<l>Zy kóst my <hi rend="i">trante Ecus</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Myn Heer, gy zyt niet gierig.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>'t Is niet te veel: 'k heb die van <hi rend="i">Pierre Poitevyn</hi>,</l>
+<l><hi rend="i">Grand Perrukjeer du Roi</hi> gekóft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 5tab">Dat kan wel zyn,</l>
+<l>'t Is schand' koop.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Had hy my die minder willen geeven,</l>
+<l>Ik had die niet begeerd; maar apropo daar even</l>
+<l>Heb ik gezien, dat gy met onze buurman spraakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'k Vertólkte, op zyn verzoek, een brief die hem wat raakt:</l>
+<pb n="5"/>
+<l>En door het opschrift, heb ik, in het breed, geleezen</l>
+<l>Dat het de zelfde Graaf is, die ik 't dacht te weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Hoe was het opschrift?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Aan myn Heer Christophoro</l>
+<l>Van Zwalgenbuttelstein, Graaf van Schirwitsbach; zo</l>
+<l>Als hy te Weenen wierdt aan 't Keizers hóf geheeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Faançois</hi>.</speaker>
+<l>Zo is 't <hi rend="i">assurement</hi> een <hi rend="i">Comte</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Wel te weeten.</l>
+<l>Hy was in groote gunst ten hove, en wel gezien;</l>
+<l>Maar ik heb gist'ren uit zyn knecht verstaan, met wien</l>
+<l>Ik heel gemeenzaam ben, dat hy zyn land, en staaten,</l>
+<l>Alleen uit inzicht van zyn dóchter had verlaaten.</l>
+<l>Wyl zeeker Potentaat hem wilde met gewéld</l>
+<l>Zyn kind ontschaaken, zo was hy op haar gestéld;</l>
+<l>Zo dat hy vlugtte: meer kon my de knécht niet zeggen,</l>
+<l>Als dat men beezig was de zaaken by te leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Mafoi</hi>, zy meriteert wat groots, een Potentaat</l>
+<l>Wou die haar schaaken? en ze is van zo hoogen Staat,</l>
+<l>Ja, Reíntje, ja, zy kon een Potentaat behaagen,</l>
+<l>'t Zal wis de Keizer zyn, ik wil wel <hi rend="i">Cornes</hi> draagen</l>
+<l>Wanneer ze een Keizer plant. De Graaf heeft niet gelét</l>
+<l>Op 't stuk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Waarom?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Om dat een's Konings bloed nooit smét.</l>
+<l><hi rend="i">Ah! Je vous jure</hi>, kon ik haar slechts possideeren</l>
+<l><hi rend="i">L'Amour d'un Empereur</hi> zou my niet offenseeren.</l>
+<l>'k Ben nu wel eens zo zeer als ooit verliefd op haar.</l>
+<l>Men zou 'er zyn fórtuin door maaken; is 't niet waar?</l></sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wel deeglyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">En France</hi> is niet een <hi rend="i">Duc</hi>, of <hi rend="i">Comte</hi></l>
+<l>Die niet graag zwager van den Koning was, <hi rend="i">sans bonte</hi>,</l>
+<l>Hoe meenig is 'er door zyn vrouw óf zuster groot</l>
+<l>Van staat geworden; dat ik slechts die eer genoot!</l>
+<l>Maar Reintje, hebje niets tót myn faveur vernomen</l>
+<l>Van <hi rend="i">la Comtesse</hi>, licht zou myn geluk dus komen.</l>
+<l>Het werk staat nóch zo wild met <hi rend="i">ma Couzinez</hi> trouw?</l>
+<l>Dat ik met jou hier op my graag beraaden wouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waar op?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Och! dorst ik jou myn hart eens openbaaren,</l>
+<l>'k Heb <hi rend="i">un sertein secret</hi> dat ik jou zou verklaaren.</l>
+<l><hi rend="i">Un grand secret</hi>, daar myn <hi rend="i">bonheur</hi> van dependeert;</l>
+<l>Maar eer ik 't jou ontdek begeer ik dat je zweert.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ik zweer nooit, 'k ben Mennist.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Beloof me dan te zwygen,</l>
+<l>En dat nooit iemand zal van jou te weeten krygen</l>
+<l>Het gene ik je vertrouw, al dong men na je hals.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'k Verzeker n, 'k zal my niet anders houden, als</l>
+<l>Een eerlyk knecht; wanneer het my óf myne vrinden</l>
+<l>Niet schaaden kan, zult gy me altyd getrouw bevinden.</l>
+<l>Maar 'k raad u, Heer, dat gy my geen geheimnis zegt</l>
+<l>Van groot belang: want zie, een knecht is maar een knecht.</l>
+<l>Die op de trouw van knecht, of meid, niet durft betrouwen,</l>
+<l>Doet zót, met op hun woord, óf eeden veel te bouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Maar zwyg ik, Reintje, ik raak in grooter ongemak!</l>
+<pb n="7"/>
+<l>'k Zou zonder uwe hulp en raad, een zwaarder pak</l>
+<l>My haalen op den hals. 'k Ben kaal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi></speaker>
+<l rend="; 3tab">Is dat wat wonders?</l>
+<l>Gy zyt een Edelman; kaal zyn is niet bezonders</l>
+<l>Voor Edellui; dat 's oud.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Maar dat 's 't niet altemaal;</l>
+<l><hi rend="i">Le grand secret</hi> is, dat ik kaaler ben als kaal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'k Verstaat: gy hebt geen geld, en moogelyk veel schulden.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Bien deviné</hi>, voor meer, als dertig duizend gulden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Dat acht gy immers maar een voddery.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">O ja,</l>
+<l>Dat 's maar een bagatelle. Ik vraag 'er weinig na;</l>
+<l>Maar zo die beuzeling <hi rend="i">ma Tante</hi> kwam te vooren,</l>
+<l>Ze is <hi rend="i">assez foible</hi>, om zich daar over te verstooren.</l>
+<l>Ja zy zou my haar Nicht wel weigren durven. Ze is</l>
+<l>Vry <hi rend="i">avaricieus</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Dat 's waar, gy hebt niet mis</l>
+<l>Geraaden; maar wat geeft ge om haar. By <hi rend="i">la Comtesse</hi></l>
+<l>Is beter kans.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Ik heb voor haar ook meer <hi rend="i">tendresse</hi>:</l>
+<l>Maar 'k moest haar in een maand weg hebben; langer niet.</l>
+<l>'k Heb hier als in Parys intrigues noch crediet,</l>
+<l>En al myn geld is op. 'k Heb in die achtien dagen,</l>
+<l>Die ik uit Vrankryk hier geweest ben, groote slagen</l>
+<l>Gekreegen met de kaart, en met <hi rend="i">va tutti</hi>, 'k zou 't</l>
+<l>Wel konnen reeknen; 'k had drie beursjes vol met goud</l>
+<pb n="8"/>
+<l>Toen ik hier kwam; laat zien, 'k ontfing drie duizend kroonen</l>
+<l>Van <hi rend="i">deux Banquiers</hi>, genaamd...; maar <hi rend="i">c'et tout un</hi>, zy woonen</l>
+<l>Hoe hiet het <hi rend="i">dans la rue</hi>... ik hebt vergeeten, maar</l>
+<l>'t Was zilvergeld, en 'k gaf dat aan een wisselaar</l>
+<l>Voor goud, <hi rend="i">a dix pour cent de perte</hi>, om licht te konnen</l>
+<l>Meê neemen. 'k Hou nóch van ecus nóch dukatonnen:</l>
+<l>Ja 'k twyfel óf ik die voor 't draagen hebben wou.</l>
+<l>Nóch had ik zeventig quadrupels, sus ik zou</l>
+<l>My wel verzinnen, 't was, laat zien omtrent de tachtig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Niet als quadrupels, Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">Oui ma foi</hi>, waarachtig.</l>
+<l>Dan noch aan Franse double, en enkle pistolets</l>
+<l>Met eenig ander goud, dat ik daar naa te Mets</l>
+<l>Won van een <hi rend="i">Alleman</hi>, die daar zyn beurs moest laaten</l>
+<l>Minst aan goudguldens, en het meest wel aan dukaaten,</l>
+<l>Te saamen, naar ik gis, omtrent <hi rend="i">deux mille ecus</hi>.</l>
+<l>Dan noch de <hi rend="i">toute sorte</hi> omtrent de duizend <hi rend="i">plus</hi></l>
+<l><hi rend="i">Ou moins</hi>, die 'k hier en daar van goede vrinden leende,</l>
+<l>En die ik hen, <hi rend="i">ma foi</hi>, ook weer te geven meende,</l>
+<l>En nóch meen, zo ik trouw met <hi rend="i">ma Couzine</hi>, óf met</l>
+<l><hi rend="i">Madame la Comtesse</hi>. Ook heb ik wel gewéd,</l>
+<l>Dat ik in minder, als <hi rend="i">trois mois</hi> getrouwd zal weezen,</l>
+<l>En daar is haast een maand van om, dat doet my vreezen</l>
+<l>Dat myn gajure licht zal zyn gefrikkesseerd:</l>
+<l>Want ik heb by myn Nicht noch niet geavanseert,</l>
+<l>En 't geldt <hi rend="i">cinq cents Louis</hi>. Zie Reintje dit 's <hi rend="i">mon reste</hi>,</l>
+<l>Is daar wel <hi rend="i">mille ecus</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Is in dit beursje 't leste</l>
+<l>Van al uw geld?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Oui</hi>.</l></sp>
+<pb n="9"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Wel dat maakt weinig uit.</l>
+<l>Waar is het ovrig?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi></speaker>
+<l rend="; 1tab">Waar zou 't weezen, 't is verbruid.</l>
+<l>'k Wil zeggen om de bruid, die Moei my had beschooren,</l>
+<l>Heb ik uit krevekeur myn meeste geld verlooren,</l>
+<l>Ik had geen zinnen als ik speelde, en was in 't naauw,</l>
+<l>Omdat myn Nicht my gantsch geen hoop gaf, en ik gaauw</l>
+<l>Getrouwd moest zyn, <hi rend="i">mafoi</hi>, 'k ben zonder dat ellendig,</l>
+<l>Want lukt het Huw'lyk niet, ô Reintje, 'k zalder schendig</l>
+<l>Aan ryen, vrees ik, zo myn Nicht my niet verlost,</l>
+<l>Of <hi rend="i">la Comtesse;</hi> want met de eerste Fransche póst</l>
+<l>Verwacht ik <hi rend="i">ma ruine</hi>. Ik durf het kwaalyk zeggen</l>
+<l>Wat zwaare affaires my niet al op 't hart en leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Uw schulden, meent ge?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Ja myn schulden, Reintje, en dan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>En dan wat meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Iets dat ik zo niet zeggen kan.</l>
+<l>Daar hoort gy meer, als ooit myn Moei nóch heeft vernomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Myn Heer spreek zacht: ik zie haar met uw Nicht daar komen.</l></sp>
+</div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Kristine, Meinsje, François, Konstantia, Baske, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>NU, Meinsje, maak dan 't maal omtrent half éénen klaar,</l>
+<l>'k Moet naa de noen vyf, zés visites af doen, daar</l>
+<l>Veel aan gelegen is, gaa in.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Dat 's teugens ienen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zyt gy daar, <hi rend="i">mon Couzin</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">Ma Tante</hi> om u te dienen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Waar gaat ge?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Promener un Caffé</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 6tab">Mag ik u</l>
+<l>Wel iets verzoeken?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Waarom niet, <hi rend="i">par la vertu!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Gaa dan voor ma Couzine een aardig Aapje koopen,</l>
+<l>'k Heb hooren zeggen, dat van alle soort met hoopen</l>
+<l>Is aangekomen uit Westinjen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 5tab">In wat slag</l>
+<l>Heeft <hi rend="i">ma Couzine</hi> wel de meeste zin?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 7tab">Ik mag</l>
+<l>U zo veel moeiten nu niet vergen; 't is onnoodig.</l></sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Geeft gy me dan <hi rend="i">refus?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Gy zyt al te overboodig.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Non ma Couzine</hi>, die myn diensten refuseert,</l>
+<l>Dunkt my, <hi rend="i">pour dire vray</hi>, dat my niet estimeert.</l>
+<l><hi rend="i">An France</hi> was niet één van all' de Demoizelles</l>
+<l>Aan 't hóf: want ik stond daar zeer wel <hi rend="i">avec les belles;</hi></l>
+<l>Of ik had dagelyks van de ééne, of de and're emploi</l>
+<l>Om kanten, waaijers, óf <hi rend="i">un tour de perle .... Quoi!</hi></l>
+<l>Lacht gy 'er om?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 2tab">Wel ja, 't zou haarliên beter voegen,</l>
+<l>Als u, myns dunkens, zulk een waar naar heur genoegen</l>
+<l>En zin te koopen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">C'est la mode;</hi> men bestelt</l>
+<l>Die dingen maar, en heeft die daat'lyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 5tab">Voor wiens geld?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">O qu'elle impertinance</hi>, een Dame om geld te vraagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Die wys van doen zou hier de Juffers niet behaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Waarom?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">De waereld zou met reden zeggen, dat</l>
+<l>Men zo veel fraaiheid niet voor niet gekreegen had:</l>
+<l>Behalven dat, zoude ik daar voor geen Jongman willen</l>
+<l>Verplicht zyn, als ik 't zelf betaalen kon.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 6tab">Wat grillen!</l>
+<l>De waereld hier te land is wel impertinent:</l>
+<pb n="12"/>
+<l>Die kósten zyn door de eer van een commandement</l>
+<l>Vol op betaald.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 2tab">Hier zou men daar de gek mêe scheeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ab le maudit païs!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 5tab">Ik zou dan weder keeren,</l>
+<l>Indien ik was als gy, na Vrankryk, Neef, wat doet</l>
+<l>Gy hier tóch, daar u niets behaaghelyks ontmoet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zwyg stil, <hi rend="i">morveuze</hi>, ik kan uw klap niet langer hooren.</l>
+<l>'t Is schande, foei, daar gy zo édel zyt gebooren,</l>
+<l>Dat gy niet meerder <hi rend="i">le beau monde</hi> hebt gezien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Maar hoor eens, Moei.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Zwyg stil; zal ik 't nóch eens gebiên?</l>
+<l>Gaa heen maar, <hi rend="i">mon Couzin</hi>, en kunt ge een Aapje krygen</l>
+<l>Dat fraai is, koop het.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 5tab">Moei, ik bid u...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 6tab">Zult gy zwygen,</l>
+<l>Of niet?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Ma Tante</hi>, ik ben hier niet bekend, zeg my</l>
+<l>Waar ik ontrent, dat goed kan vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 7tab">Dichte by</l>
+<l>De Nieuwe Markt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">Ho! ho! le marche neuf</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 8tab">Sa Baske.</l></sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">Baske</hi>.</speaker>
+<l>Madame?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Kom geef hier myn sluier met myn maske,</l>
+<l>En ma Couzines <hi rend="i">coiffe</hi>, ik vrees het zal op straat</l>
+<l>Zeer stuiven, mon Couzyn, het wordt heet weêr: men braadt</l>
+<l>Schier in de zon. Als gy een Aapje hebt gekreegen,</l>
+<l>En ons wilt vinden, hoor dan, <hi rend="i">ecoutez</hi>, 'k zal tegen</l>
+<l>Half twaalven weezen tót myn Fransche Kraamer, óf</l>
+<l>Myn Goudsmit, óf de Kantverkoopster in het hóf</l>
+<l>Van Brussel, óf wel tot myn Franje-óf Spiegelkooper;</l>
+<l>Ik heb wel acht, óf tien boodschappen; maar ik hoop 'er</l>
+<l>Deeze ochtend wel de helft óf meerder af te doen,</l>
+<l>'k Heb ook wel vyf óf zes vizites na den noen</l>
+<l>Te geeven, mon Couzin, dus, wilt gy met ons eeten,</l>
+<l>Moest gy voor éénen t'huis te komen, niet vergeeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi></speaker>
+<l>'k Zal tot Montagne, óf in 't Heere Logement</l>
+<l>Dineeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Vindt ge ons niet, maak, datge 't Aapje zendt</l>
+<l>Tót onzent.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">'k Zal het zo bestellen gaan, <hi rend="i">ma Tante</hi></l>
+<l><hi rend="i">Je suis vot serviteur</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 5tab">Goên dag Neef.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 7tab"><hi rend="i">Vot servante</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat zót geneig is dat!</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 6tab">Ik kan 't niet beter, Neef.</l>
+<l>Dan ik 't geleerd heb.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">Maar 't is niet galand.</l></sp>
+<pb n="14"/>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 6tab">Ik geef</l>
+<l>Daar weinig om.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">'t Is al te enorm. By wat kanaalje</l>
+<l>Heeft zy geconverfeerd, <hi rend="i">ma Tante?</hi> ze is van taalje</l>
+<l>Niet vreemd; maar zy heeft air, nóch port, nóch mines.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 5tab">'k Gis,</l>
+<l>Dat zy zo kwaalyk opgebragt in Zéland is,</l>
+<l>Hoewel zy lang in een Fransch kóstschool heeft gelégen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Naar 'k merk, Neef, doe ik niets naar uwen zin ter deegen,</l>
+<l>Waarom lelt gy my dan geduurig aan het hoofd,</l>
+<l>Hoe Moei graag zien zou, dat ik waar aan u verloofd.</l>
+<l>Gy zegt, dat gy my mint, en 't zy ik zit, óf wandel,</l>
+<l>Of eet óf drink, óf werk, gy hebt op al myn handel</l>
+<l>Zo veel te zeggen, en toont my zo groot een blyk</l>
+<l>Van weerzin, dat gy...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Mon Couzin heeft groot gelyk,</l>
+<l>Uw doen heeft al te veel <hi rend="i">de la methode basse</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik zeg 't <hi rend="i">pour vótre bonneur</hi>, het heeft <hi rend="i">mauvaise grace</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Gaa vry dan élders.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Zwyg; gy wordt te zeer vereerd,</l>
+<l>Dat zulk een Cavaljier u kleuter pretendeert.</l>
+<l>Maar, mon Couzin, ik zou myn tyd hier wel verklappen.</l>
+<l>Kom Nicht, wy zullen nu wat rasser moeten stappen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Adieu ma Tante</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Mais, ma Niéce</hi>, al weer zo styf?</l>
+<pb n="15"/>
+<l>Zo nóch wat laager, en wat rechter op uw lyf.</l>
+<l>Zy moet nóg in den Haag 't salét wat frequenteeren,</l>
+<l>(Adieu) Daar zal ze nóch <hi rend="i">l'air</hi> van het hóf wel leeren.</l>
+<l>Kom Baske, vólgme; en gy <hi rend="i">Couzin</hi>, als 't is gezeid,</l>
+<l>Breng ons van 't Aapje op de ééne of de andre plaats bescheid.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Reinhart, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>WAt heeft uw Moei het drok!</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Dus brengt ze 'er in estime</l>
+<l><hi rend="i">By gens d'honneur</hi>, <hi rend="i">mon drole, oh! ce seroit un crime</hi></l>
+<l>Voor iemand, als hy een vizite ontfangen heeft,</l>
+<l>Zo hy incontinant die niet weêrom en geeft,</l>
+<l><hi rend="i">Le plus heau passetan</hi>, dat iemand weet te vinden</l>
+<l>Is <hi rend="i">toujours etre a la presance</hi> van zyn vrinden,</l>
+<l>Niets gaat 'er voor 't falét, daar haalt men op hoe dat</l>
+<l>Aan deeze haar <hi rend="i">coiffure</hi>, aan die haar <hi rend="i">juppe</hi> zat,</l>
+<l>Daar discoureert men van <hi rend="i">la cour,</hi> en van <hi rend="i">la mode</hi></l>
+<l>Op een galante, én admirable methode;</l>
+<l><hi rend="i">Et pour la Renommée</hi>, om eenen grooter naam</l>
+<l>Te krygen, is geen ding ter waereld zo bek waam</l>
+<l>Dan zich te vinden van <hi rend="i">boutique</hi> tot <hi rend="i">boutique,</hi></l>
+<l>'k Verzeker u, <hi rend="i">Ma tante antand la</hi> Politique,</l>
+<l>Door <hi rend="i">paradoxe</hi>. Maar zeg me eens hoe dat het staat</l>
+<l>Met <hi rend="i">la Comtesse</hi>? óf hebt gy met haar meid geen praat</l>
+<l>Van my gehad?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Ja tóch, ze schept een groot behaagen</l>
+<l>In uwe mines, en in al wat ze u ziet draagen.</l>
+<l>Gaat gy voorby haar deur, zy oogt u naa, en weet</l>
+<l>Hoe dat gy gist'ren, hoe ge eergisteren waart gekleed;</l>
+<l>Ja 'k zwyg van kleed'ren; niet een lintje, strik, of véter</l>
+<pb n="16"/>
+<l>Is aan uw lichchaam, óf, myn Heer, zy weet het beter</l>
+<l>Dan ik, ja dan gy zelf.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab"><hi rend="i">C'est d'etre bien nouri,</hi></l>
+<l>Oh! wat verscheelt zy veel by <hi rend="i">ma Couzine</hi>, die</l>
+<l>My naauw eens aanziet, schoon ik alle dag verander</l>
+<l>Van kleed'ren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Wel is 't waar? gy voegt niet by malkander,</l>
+<l>En daarom vat ik niet, hoe gy haar vryen moogt.</l>
+<l>'t Is vreemd, dat zo een Heer, als gy, niet hooger poogt</l>
+<l>Te zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">C'est politique</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">O! 'k merk 't, om niet te doolen,</l>
+<l>Houdt gy in 't vryen met uw Nicht een open molen,</l>
+<l>Ligt met een gieuw gaauw.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Net geraaden, Reintje; 'k zweer</l>
+<l>Had ik maar slechts akcés by <hi rend="i">la Comtesse</hi>...</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 5tab">Heer</l>
+<l>'t Heeft haar verwonderd, dat gy 't reeds niet hebt genomen.</l>
+<l>Haar dunkt gy moest haar in de buurt verwellekomen,</l>
+<l>Zy maakt meer werks van u, als gy van haar doet.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">Bon.</hi></l>
+<l>Dat vat ik Reintje, én 'k zal die <hi rend="i">belle occasion</hi></l>
+<l>Waarneemen: zie terwyl wat meerder <hi rend="i">circonstances</hi></l>
+<l>Te weeten, en lét wél op all' haar <hi rend="i">contenances,</hi></l>
+<l>Als ik haar groet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Dan is 't nu tvd: ik zie haar veur,</l>
+<l>'t En zy ik mis, met haar Staatjuffer aan de deur.</l></sp>
+</div>
+<div type="scene">
+<pb n="17"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Jakomyn, Pleuntje, Reinhart, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">GE Apollonichen / hool by den zilvren smitsen</hi></l>
+<l><hi rend="b">Den zilvren blaasbalg / om dats feuwer aan 't zo hitzen:</hi></l>
+<l><hi rend="b">Und zaagt im / hy moeft oech da zilvren kamerpot</hi></l>
+<l><hi rend="b">Gans bald vergulden</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pleuntje</hi>.</speaker>
+<l rend="; 3tab">'k Denk de pispót, mienje tót</l>
+<l>De zilversmit; zel ik die mit de blaesbalg haalen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Ja freilich / ich wil him straks mit vaar geld betsaalen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waar wachtje na?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Ik stel my in postuur.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Is 't gang?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ja, let op alles wel, en wacht me t'huys zo lang,</l>
+<l>Tot ik weerom kom.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>, <hi rend="i">terwyl François in 't voor by gaan diep groet, en Jakomyn laag neigt</hi>.</speaker>
+<l rend="; 1tab">Dat gaat treft'lyk wel. Wy moeten</l>
+<l>Den gek voort helpen, 't zal wel gaan, ik zie 't aan 't groeten.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel</head>
+<stage><hi rend="sc">Jakomyn, Reinhart, Stoffel, Pleuntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>HEer Reinhart, heb ik 't naar uw zin gemaakt?</l></sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Heel wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Maar lyk ik in dit kleed niet wel een totebél?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Neen. Hoe ge ook zyn moogt, gy behaagt den gék byzonder.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Maar myn gemaakt Hoogduits wou dat wel lukken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Wonder:</l>
+<l>Hy kan alleen de Fransche, en Nederduitsche taal,</l>
+<l>Doch beide slechts genoeg, gelyk meest altemaal</l>
+<l>De jonge liên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 2tab">Hoe zal hy eind'lyk by my raaken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Dat meen ik deeze naa de middag nóch te maaken,</l>
+<l>Zyt maar gestadig aan de deur, ik heb het al</l>
+<l>Heel vér gebragt, hy is na jou gelyk als mal.</l>
+<l>Ik heb hem met een hoop vergulde opsnyeryen</l>
+<l>Veel wys gemaakt. Hy wil met alle kracht jou vryen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Maar alles, wat ik hem ontfutslen kan, myn Heer,</l>
+<l>Zal ik 't niet houden? 't zou my spyten als ik 't weêr</l>
+<l>Moest geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Met fatzoen wel scheeren, maar niet villen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Wel dat versteit zich: Maar zal hy wel speelen willen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Daar is hy dól na; doch 'k verbied u op den hals</l>
+<l>Niet valsch te speelen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab">Neen, half zuiver, en half valsch.</l>
+<l>Van vrouwen wordt dat nou zo kwaalyk niet genomen.</l></sp>
+</div>
+<div type="scene">
+<pb n="19"/>
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Reinhart, Eelhart, Jakomyn, Stoffel, Kornelis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Maar ik zie daar myn vriend, zyt vriend'lyk wel gekomen,</l>
+<l>Heer Eelhart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l rend="; 1tab">Hartlyk dank, 'k zou u in dit gewaad</l>
+<l>Ligt zyn voorby gegaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Ik bid u maakt op straat</l>
+<l>Geen seremonien, nóch komplimenten, daad'lyk</l>
+<l>Of flus kan 't met gemak geschieden. 't Zou zeer schaadlyk</l>
+<l>Zyn voor uwe liefde. Ik ben Lakei om uwent wil.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>'k Heb u Maseur beloofd, gelukt uw list.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 5tab">Spreek stil,</l>
+<l>Myn Heer, gy zoudtheel ligt het spél verbródden konnen,</l>
+<l>Dat ik zo tref'lyk tót uw voordeel heb begonnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Verschoon my dan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">'k Verzoek om best wil, handel my</l>
+<l>Gelyk als knecht, óf 'k blyf geen oogenblik u by,</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Wel dan, blyf hier, ik zal my naar uw voorschrift richten.</l>
+<l>Maar dien ik aan deez' Heer en Dame myne plichten</l>
+<l>Niet af te leggen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Neen: daar is geen haast by, wacht...</l></sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Mevrouw...</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 1tab">Verschoon my, want Heer Reinhart met ons lacht:</l>
+<l>Ik ben zyn dienaarés en de uwe, ik zou hovaerdig</l>
+<l>Op zo veel eer zyn, ons, en onzer staat onwaerdig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Myn Heer, het gaat nu in de waereld heel verkeerd;</l>
+<l>Gelyk myn Heer is in lakei getransformeerd,</l>
+<l>Zo maakt men my tót Graaf, en tót Gravin myn dóchter.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Hoe kan ik dit verstaan, Heer Reinhart!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Ik verzóchter</l>
+<l>Hen beiden toe; gy zult de reden straks verstaan.</l>
+<l>Daar woonenze in dat huis, myn Heer, gy zult 'er gaen</l>
+<l>Logeeren, én al 't vólk met volle macht gebieden;</l>
+<l>Al schynen 't groote, het zyn maar gemeene lieden,</l>
+<l>Heer Eelhart. Jakomyn, en Stoffel ik begeer,</l>
+<l>Dat gy myn vriend, als my zult hand'len.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 3tab">Wel, myn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Nu kom, uw blyven zal de tyd hier niet verléngen.</l>
+<l>Treê in myn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 2tab">'k Zal uw valies dan hier doen brengen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waar anders? Maar blyft al te saam by één, misschien</l>
+<l>Is 't noodig dat men zich van de één of de ander dien.</l></sp>
+<stage><hi rend="i">Einde van het Eerste Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="21"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">François, Aapekoopster</hi>, <hi rend="i">met een Baviaan op den arm</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>, <hi rend="i">zingende</hi>.</speaker>
+<l>A<hi rend="i">Imable Bergere, quand tromperons nous</hi></l>
+<l><hi rend="i">La garde severe d'un mary jaloux</hi>.</l>
+<l rend="; 5tab"><hi rend="i">Quand tromperons nous</hi></l>
+<l><hi rend="i">La garde, &amp;c.</hi></l>
+<l>Hier zyn we aan 't huis, klóp aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 3tab">Maar wie zal my betaalen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik; breng 't Aapje maar in huis, en kom jou geld hier haalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l>Dat ik van niemand zou boodschappen, het gien schyn,</l>
+<l>Sinjeur.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Zeg dat het komt van Monsieur <hi rend="i">son Couzin</hi>.</l>
+<l rend="; 2tab">Zingende:</l>
+<l rend="; 1tab"><hi rend="i">S'il est desbonneste, il est du devoir</hi>,</l>
+<l rend="; 1tab"><hi rend="i">De lui mettre en teste</hi>, <hi rend="i">ce quil croit avoir</hi></l>
+<l rend="; 4tab"><hi rend="i">Il est du devoir</hi></l>
+<l rend="; 1tab"><hi rend="i">De lui mettre &amp;c.</hi></l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Aapekoopster, Reinhart, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l>DAg vrindschap, daer neem an.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Hoe hier deeze Aap?</l></sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 3tab">Gien vreezen,</l>
+<l>Neem an, Monsieur Kezyn zait, dat ik hier moet weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Hem, Reintje! <hi rend="i">aproche toi</hi>, laat haar slechts binnen gaan,</l>
+<l>By <hi rend="i">ma Couzine</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Met dien grooten Baviaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Oui da:</hi> 't is een présent dat ik haar moet vereeren.</l>
+<l>'t Geschied <hi rend="i">par ordre</hi> van <hi rend="i">ma Tante</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">'t Lykt wel scheeren,</l>
+<l>Maar daar is Meinsje, ei breng tóch deeze vrouw eens by</l>
+<l>Mejuffrouw.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">François, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>WEl hoe staat het nu met myn gevry</l>
+<l rend="; 1tab">By <hi rend="i">la Comtesse</hi> en <hi rend="i">ma Couzine</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">'k Heb vernomen</l>
+<l>Van de Graavin haar knecht wanneer gy daar zult komen,</l>
+<l>Dat gy zult welkom zyn. Zy vondt in uw manier</l>
+<l>Van saluëeren een zeer ongemeenen zwier.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Voi la mon drole! ce que c'est</hi> te konnen leeven.</l>
+<l>En <hi rend="i">ma Couzine</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Die is ongevoelig, even</l>
+<l>Gelyk een blók óf steen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">La sotte bête!</hi> ik zweer,</l>
+<pb n="23"/>
+<l>Kan ik by <hi rend="i">la Comtesse</hi> aanraaken, nimmermeer</l>
+<l>Aan haar te denken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Gy zult wel doen, laat ze loopen,</l>
+<l>Gy moogt met meerder grond op uw Comtesse hoopen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Maar zo dat miste, Reintje, ik was <hi rend="i">desesperé</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Bemintge uw Nicht dan?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Niet als <hi rend="i">par necessité</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Die reden dientge my wat klaarder uit te leggen,</l>
+<l>Zal ik ze vatten.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">'k Heb ze al lang u willen zeggen.</l>
+<l>Hoe Reintje? zoude ik <hi rend="i">par amour</hi> haar vryen, <hi rend="i">quoi,</hi></l>
+<l>Een Zeeuws óf Hollandsch kind ik minnen, <hi rend="i">non, ma foi</hi>,</l>
+<l>Van geen <hi rend="i">noblesse</hi>, en die het Hof nooit frequenteerde?</l>
+<l>Neen, Reintje, dat ik met myn aanzoek haar vereerde,</l>
+<l>Geschiedde uit inzicht: want ik was <hi rend="i">au desespoir!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'t Was dan uit plicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Neen, nóch uit liefde, nóch <hi rend="i">deveir</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">François, Aapekoopster, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>MAar de Aapekoopster zie 'k daar weer ten huize uit komen.</l>
+<l>Heeft <hi rend="i">ma Couzine</hi> myn presént niet aangenomen</l>
+<l><hi rend="i">De bonne grace</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 1tab">Kyk, ik ken gien Spaensch, 'k verstae</l>
+<pb n="24"/>
+<l>Niet watje zeggen wilt. Monsieur, waer vraagje nae?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Zeg jy 't haar, Reintje, ik kan me in uw <hi rend="i">vilain langage</hi></l>
+<l>Niet exprimeeren: 't Is te kanaaljeus? <hi rend="i">j' Enrage!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Myn Heer vraagt, hoe zyn Nicht het Aapje ontfaugen heeft,</l>
+<l>Hoe 't haar behaagde? Hoe ze 'er hield?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 3tab">Wel onbeleefd.</l>
+<l>Ik zei ér; O hoe het Monsieur Kezyn 'eloopen</l>
+<l>Straet op, straet neêr, om jou dit mooije biest te koopen,</l>
+<l>Dat hy jou schenkt! Het jou Monsieur Kezyn niet lief,</l>
+<l>'k Verstae 't me dan niet; maar ze trok 'er mond hiel schief</l>
+<l>En scheets: me dócht ze scheen het biest niet mooi te vinden,</l>
+<l>Ze hieten 't me an een stoel, óf zo maar, vast te binden,</l>
+<l>En zei, gae heen, 't is wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Maar gaf zy 't <hi rend="i">par bazard,</hi></l>
+<l>Door dien het kwam van my niet cens een <hi rend="i">douz regard</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l>De gard aan 't biest, Monsieur Kezyn! wie het zen leeven!</l>
+<l>Het biest zou byten, vaar, zo zy 't de gard wou geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat zeg ik niet, <hi rend="i">morbleu!</hi> Het volk is hier, <hi rend="i">ma foi</hi></l>
+<l>Zo bot, als beesten: Reintje, ik bid <hi rend="i">explique moi</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zég óf ze om zynent wil zyn Aap met vriend'lyke oogen</l>
+<l>Niet eensjes aanzag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 1tab">Zeide ik dat, vaar, 't was een loogen,</l>
+<l>Het leek 'er niet iens nae. Zy moet gien groot verstand</l>
+<l>Van Aapen hebben: want ik weet 'er in het land</l>
+<pb n="25"/>
+<l>Gien mooijer; maar beliefje nou myn geld te langen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Zie deeze pistolet kunjy op handontfangen;</l>
+<l>Indien ik de Aap niet hou, zult jy die houden; maar</l>
+<l>Houd ik hem, moetje 'er nóch agt hebben, is 't niet waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l>Maar wat tyd kom ik weer? kyk 't moest niet hiel lang duuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Elle a raizon</hi>. Kom jy hier over drie vier uuren</l>
+<l>Weerom, verstaaje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 1tab">'k Gae dan heen, Monsieur. Gendag.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">François, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Q<hi rend="i">Ue diantre</hi>, wat of <hi rend="i">ma Couzine</hi> schorten mag,</l>
+<l>Dat zy niet estimeert <hi rend="i">presens, galanterie</hi>,</l>
+<l><hi rend="i">Service</hi>, wat ik doe, óf aanvang <hi rend="i">par la vie</hi>,</l>
+<l>Ik zweer je dat ik haar licht ook eens toonen zal</l>
+<l>Wie zy <hi rend="i">offences</hi> geeft. Hoe Reintje, ik ben niet mal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wat voordeel vindtge in zulk een stuurse Nicht te vryen?</l>
+<l>'k Verwonder my, dat ge u aan zulke ondankb're pryen</l>
+<l>Nóch laat gelégen zyn. Gy mint haar niet, nóchtans</l>
+<l>Past gy haar op; daar gy misschien een beter kans</l>
+<l>Verwaarloost. Iemand, die twee haazen denkt te jaagen</l>
+<l>Op éénen tyd, die mist en zal het zich beklaagen.</l>
+<l>Geef u geheel aan de Graavin, en laat uw Nicht</l>
+<l>Maar loopen: want gy vrydtze uit liefde nóch uit plicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Maar Reintje, jy geeft my geen meerder <hi rend="i">esperance</hi></l>
+<l>Van <hi rend="i">la Comtesse</hi>, als van myn stuurse Nicht Konstance,</l>
+<l>En niemand weet zo wel als gy, in welk parkét</l>
+<pb n="26"/>
+<l>Ik steek; dat ik word van myn schuldenaars geréd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wel hoor: wat aanbelangt uw schulden, 'k weet te maaken</l>
+<l>Dat gy gemak'lyk aan wat uitstel zult geraaken,</l>
+<l>Tót dat een ryke vrouw u brengt een volle beurs,</l>
+<l>Als gy op 't trouwen staat. De meeste crediteurs</l>
+<l>Zyn zo te paaijen en te dwingen tót het zwygen,</l>
+<l>Om u weêr op een nieuw crediet te doen verkrygen,</l>
+<l>Opdat alzo hun schuld te meer verzekerd zy.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wistje al myn crediteurs, 'k weet, Reintje, je zoudt my</l>
+<l>Beklaagen. 'k Heb 'er vyf óf zes die van een and're</l>
+<l>Natuur zyn als gemeene. <hi rend="i">Ab je me laisse pendre</hi>,</l>
+<l>Zo gy die raadt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Wil ik ze eens raaden? <hi rend="i">Cuisiniers</hi>,</l>
+<l><hi rend="i">Lingeres</hi>, <hi rend="i">Violons</hi>, <hi rend="i">Tailleurs</hi>, <hi rend="i">Cabaretiers</hi>,</l>
+<l><hi rend="i">Marchand de vin</hi>, <hi rend="i">Barbiers, Vendeuze de dantelle</hi>,</l>
+<l><hi rend="i">Et plusieurs autres pour bien regaler la belle</hi>.</l>
+<l>Dat is te zeggen Koks, Dansmeesters, <hi rend="i">Rottisseurs</hi>,</l>
+<l><hi rend="i">Perruquiers, Limonadiers, Vendeurs de liqueurs</hi>.</l>
+<l><hi rend="i">Billard, Caffé</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Al wat je daar komt op te tellen,</l>
+<l><hi rend="i">Ah fi</hi>! <hi rend="i">J'enrage</hi>, 't zyn slechts kleine bagatellen.</l>
+<l><hi rend="i">Menus frais de plaisirs</hi>, die nimmer crediteur</l>
+<l>Zo hoog acht dat hy om zo kleinen leur en zeur,</l>
+<l>Heel uit Parys komt om my hier te komen vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wat weet men 't, licht'lyk heeft één van hen hier wel vrinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat 's vér gezógd en heel onzeker; maar <hi rend="i">pardi</hi>!</l>
+<l>My legt nóg meer op 't hart, daar ik geen raad toe zie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Noch meer?</l></sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Ja 'k vrees, indien myn vryen wordt vernomen</l>
+<l>In Vrankryk, dat 'er wel vyf Juffers overkomen,</l>
+<l>Met negen kinders.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Om wat oorzaak?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">Om myn trouw</l>
+<l>Om vér te stooten. Elk van haar was graag myn vrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zo hebt ge ligt aan de één of de ander trouw gegeeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Met woorden honderd maal; maar nimmer vast beschreeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Mag dat zo deur?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Dat doen de Franschen altemaal.</l>
+<l>Denk eens aan 't jaar twee, drie en seventig, hoe kaal</l>
+<l>Was menig Fransman daar ligt t'Uitrecht afgekomen,</l>
+<l>Had hy op die wys zyn mesures niet genomen.</l>
+<l>Dus ziet gy Reintje, ik heb met trouwen grooten haast.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Daar komt uw Moei, zy schynt onstéld! <hi rend="i">Reinhart gaat stil in buit</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">François, Kristine. Baske</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Hoe dus verbaasd</l>
+<l><hi rend="i">Ma Tante</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Ah mon Neveu!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Wat is u wedervaaren,</l>
+<l>Wat schort 'er?</l></sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">O die Aap! maar laat my eerst bedaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat hapert 'er?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Och! had ik 't niet geëmpescheerd</l>
+<l>Met moeite, ons waar het grootst <hi rend="i">malheur</hi> gearriveerd</l>
+<l>Des waerelds. Foei! waar hebt gy zulk een dier gekreegen?</l>
+<l>Foei, <hi rend="i">mon Neveu!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Vaar voort, wilt gy dat ik ter dégen</l>
+<l>Uw meening vat: Wat deed het Aapje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">Le Cocquin</hi>,</l>
+<l>Dien beest, dien vlegel van een Baviaan, <hi rend="i">Couzin</hi>,</l>
+<l>Heeft <hi rend="i">ma Couzine</hi>, én al haar kleed'ren heel ontheisterd.</l>
+<l>Ja wie weet, hadden wy den rékel niet geteisterd,</l>
+<l>Wat niet gebeurd waar!</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Ei, zeg my tóch heel en al,</l>
+<l><hi rend="i">L'affaire</hi>, Ik zweer dat ik my revengeeren zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wel hoor dan, weet dat op de eerste aanblik <hi rend="i">ma Couzine</hi></l>
+<l>U al zo wel, als de Aap uitlachte.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab"><hi rend="i">La Cocquine</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>'t Had vry wat reden: want zo groot een Baviaan</l>
+<l>In plaats van...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Had gy myn <hi rend="i">intrigues</hi> eerst verstaan,</l>
+<l>Gy preest my zeer, <hi rend="i">ma Tante</hi>, ô! daar schuilt zo wat onder.</l>
+<l>De schoonste inventie. Maar gy vat die niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 5tab">Wat wonder,</l>
+<l>Gy zegt die niet.</l></sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab"><hi rend="i">Ma Tante</hi>, ei zég my eerst hoe dat</l>
+<l>De kwesti, die myn Aap met <hi rend="i">ma Couzine</hi> had,</l>
+<l>Tóch afliep?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Wel, zy wilde uw Aap schier met haar oogen</l>
+<l>Niet aanzien, nóch zelf in haar kamer meer gedoogen.</l>
+<l>Men bondt hem echter aan een paal vast, tót dat gy</l>
+<l>Zoud komen. Ik ging na myn kamer toe, om my</l>
+<l>Te kleeden, en ik liet myn Nicht haar point d'Espanje</l>
+<l>Voortwerken; maar ik had myn <hi rend="i">Coife</hi> en rók met franje,</l>
+<l>Naauw aangedaan, óf'k hoorde een schrikkelyke kreet,</l>
+<l>Die <hi rend="i">ma Couzine</hi> gaf, als deed men haar groot leed.</l>
+<l>Ik vlieg met Meinsje na haar kamer toe: daar vinden</l>
+<l>Wy de Aap, die van de paal zich weeten had t'ontbinden,</l>
+<l>En <hi rend="i">ma Couzine</hi> op 't lyf gesprongen was. Zo als</l>
+<l>De schelm ons zag, smyt hy zyn pooten om haar hals,</l>
+<l>Scheurt haar <hi rend="i">manchettes</hi> en <hi rend="i">fichu</hi>, en haar <hi rend="i">Coifure,</hi></l>
+<l>En ging zo schriklyk aan, dat had <hi rend="i">par aventure</hi>,</l>
+<l>Martyn de Huisknecht ons niet in dat oogenblik</l>
+<l>Te hulp gekomen met een knuppel, en een strik,</l>
+<l>En ons ontzét, het was licht euvel afgeloopen.</l>
+<l>Foei, <hi rend="i">mon Couzin</hi>, zo groot én vuil een beest te koopen!</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma Tante</hi> wel! wie had zulks van een Aap gedócht,</l>
+<l>Die hier in Holland door een Franschman was gebrógt,</l>
+<l>Dat hy niet beter opgevoed zou zyn? <hi rend="i">que diantre</hi>,</l>
+<l><hi rend="i">Lui passeray je mon epée par le ventre</hi>?</l>
+<l>Daar legt de hoop van myn inventie nu in de asch.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ei, zeg tóch, <hi rend="i">mon Couzin</hi>, wat die inventie was?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Gy weet, <hi rend="i">ma Tante</hi>, een knecht, hoe trouw hy ook mag weezen,</l>
+<l>Is ligt met geld en met belóften te beleezen,</l>
+<l>En die zo klein is als uw Baske, met bankét</l>
+<pb n="30"/>
+<l>Of and're snoepery, hoe naauw men op hem let.</l>
+<l>Terwyl wy dan hier door te groot een <hi rend="i">risque</hi> loopen,</l>
+<l>Dat deeze of geene ligt een lyf knecht om kan koopen,</l>
+<l>En stellen, <hi rend="i">ma Couzine, avec</hi> een zwier, ter hand</l>
+<l>Een Minnebrief, van d'één of d'andere galant,</l>
+<l>Zo dacht ik, 'k zou den Aap, die schier zo groot van leden</l>
+<l>Als onze Baske is, doen in zyn livry verkleeden,</l>
+<l>En wyl hy alles als een mensch doet, ja langs straat</l>
+<l>Op d'achterpooten, nét als op twee beenen gaat,</l>
+<l>Zou ik hem doen de fleep van <hi rend="i">ma Couzine</hi> draagen;</l>
+<l>Ha, ha, let wel, zo kan geen vryer hem iets vraagen,</l>
+<l>Of met hem spreeken; en aldus door zulk een gast</l>
+<l>Zo waaren wy van zórg en alle vrees ontlast.</l>
+<l>Maar dit is 't nóch niet al. Gy weet dat hier niet anders</l>
+<l>In 't land gedaan wordt van de botte Nederlanders,</l>
+<l>Dan 't geen ze ons voor zien doen, wanneer het maar de naam</l>
+<l>Van mode draagt, hoe dol het zyn mag, hoe infaam;</l>
+<l>Als <hi rend="i">ma Couzine</hi> dan van de Aap in Baskes kleeren</l>
+<l>En plat bonnetje, dat voor mode zou passeeren,</l>
+<l>Gevolgd wierd; zou voort al 't gejuffer raazend dol</l>
+<l>Na aapen zyn: 'k zou dan dat goed met schepen vol,</l>
+<l>Doen uit Westinjen hier in Hólland overkomen,</l>
+<l>En winnen zo veel geld als ik zou durv en droomen;</l>
+<l>Tien twintig centjes ruim op elk een kargezoen,</l>
+<l>En hier de koopluy recht negotie leeren doen.</l>
+<l>Men mocht in 't eerst, als om wat nieuws, daar meê railjeeten,</l>
+<l>Maar 'k wed die mode by de Dames zou passeeren:</l>
+<l>Want zo een stomme knecht zou haar ook niet verraân</l>
+<l>Als ze eens, incognito by goed gezelschap gaan.</l>
+<l>Wat dunkt, <hi rend="i">ma Tante</hi>, van de inventie?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Z' is bezonder</l>
+<l>Galant, en nooit gehoord.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Maar dat is ook geen wonder:</l>
+<pb n="31"/>
+<l>In Vrankryk is het vólk gemeenlyk inventief.</l>
+<l>Maar waar bleef de Aap daar naa, dien onbeschófte dief?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik heb hem op de plaats doen aan de schutting binden.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Laat my begaan, <hi rend="i">ma Tante</hi>, ik zal hem daar wel vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ei maak u 't beest strak kwyt, én stel Constancie weêr</l>
+<l>Te vreên, én zét haar toorn, is 't mooglyk, wat ter neêr.</l>
+<l>Myn tyd verloopt: zal ik behoorlyk myne zaaken</l>
+<l>Beschikken, <hi rend="i">mon Neveu</hi>, dien ik 't wat kort te maaken.</l>
+<l>Adieu.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Ma Tante</hi>, indien <hi rend="i">ma Compagnie</hi> u niet</l>
+<l><hi rend="i">Desagreabel</hi> was...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Gaat gy in huis en ziet</l>
+<l>Wat daar te doen is.'k Moet myn Advokaatiets zeggen,</l>
+<l>En kom zo weêr, ik heb u ook iets voor te leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Aan my, <hi rend="i">ma Tante</hi>? <hi rend="i">je suis tout a fait a vous</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">François, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>NAar't zeggen van <hi rend="i">ma Tante</hi> is Nicht zeer <hi rend="i">en cour oux</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zo hoor ik daar.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Wat raad?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Ik weet u niet te raaden;</l>
+<l>Gy zyt hier wyzer in, als ik.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Wel 't kan niet schaaden,</l>
+<pb n="32"/>
+<l>Dat ik jou meenig hoor: twé weeten meer als één.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Tracht met onschuldigen en smeeken haar te vreên</l>
+<l>Te stellen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Maar gy weet, ik kom met haar humeuren</l>
+<l>Niet over één, al wat ik zeg schynt haar te steuren.</l>
+<l>Dat gy het deed; 'k weet dat ze u liever hoort als my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ik bid...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Ei Reintje die excuses aan een zy,</l>
+<l>Maak jy de baan eerst klaar; ei Reintje, <hi rend="i">je vous prie</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'k Zou u licht hinder doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab"><hi rend="i">Non point, de cermonie</hi>,</l>
+<l>'k Hou 't voor een <hi rend="i">grand service</hi>, als gy me slechts gerieft</l>
+<l>Voor ditmaal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">'k Zal dan doen al wat myn Heer belieft.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Jakomyn, François, Reinhart, Pleuntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">NO keer bald wieder / und verges zo nicht den spiegel</hi></l>
+<l><hi rend="b">Mit zynen golden lyst te hoolen van Abiegel</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Daar zie ik <hi rend="i">la Comtesse</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Ik zeg noch vólg myn raad,</l>
+<l>'t Is nu de rechte tyd, eer dat ze binnen gaat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Bringt mich mein Paerel auch / und wil mier nicht meer kwellen</hi>.</l></sp>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Hoe maak ik myn <hi rend="i">abord?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Myn Heer, gy moet het stellen</l>
+<l>Gelyk als óf het <hi rend="i">par rencontre</hi> kwam, aks kaks,</l>
+<l>Dat gy verlóf by <hi rend="i">la Comtesse</hi> krygt, om straks</l>
+<l>De eer van haar aangenaam gezelschap te genieten,</l>
+<l>'k Zal 't ondertusschen by uw Nicht zien rond te schieten,</l>
+<l>Dat ze u wel handelt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">'k Gaa dan vraagen, ja 'k <hi rend="i">ma foi</hi>,</l>
+<l><hi rend="i">Prend garde</hi> dat ge u ook wel draagt in uwen plooi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Wol / doe das / go</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pleuntje</hi>.</speaker>
+<l rend="; 1tab">Ik kom zo weer.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">François, Jakomyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">M<hi rend="i">Adamoizelle</hi></l>
+<l><hi rend="i">Je préns la liberté, mais avec trop de zélle</hi></l>
+<l><hi rend="i">Peutétre de m'offrir en tout bumilité</hi>...</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">De Her moes wissen / dat ich kein Fransois verstee /</hi></l>
+<l><hi rend="b">Sprech liever Nederduitsch / was wil de Her mir sagen</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">D'avoir l'honneur</hi>, zo 't uw Genade mogt behaagen,</l>
+<l>Van u in uw logis te heeten wellekom.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Dat is zu grossen eer die mier geschied</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">En om</l>
+<l>U ook te <hi rend="i">entretenir</hi>, zo 't u te pas mogt komen;</l>
+<l>En myn franchise niet wierd kwaalyk opgenomen.</l></sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>Wat tyd?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Après un heure</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 5tab"><hi rend="b">Ich kan euch nicht versteen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ten vieren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 2tab"><hi rend="b">Ia myn Her / mier wierd grosse eer gescheen</hi>.</l>
+<l><hi rend="b">Ich bin hier onbekant / en mus verschuldigt blyven</hi></l>
+<l><hi rend="b">An die mier de eer doen / das zi mier de tydt verdryven</hi>:</l>
+<l><hi rend="b">Te meer/ wan 't komt van zulk ein kavaljier</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">L'Honneur</hi></l>
+<l>Van uw <hi rend="i">presence</hi> acht ik een singulier <hi rend="i">bonheur</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">De Her sprech Duitsch</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">'t Is Duitsch van 't zwierigste op de mode,</l>
+<l><hi rend="i">Entrelar dé</hi> met Fransch in elke periode.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Wat ist dat ding</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">Wat zal ik zeggen, 't Neerlandsch luidt</l>
+<l>Enorm, als 't niet met Fransch wat klaarder word beduid.</l>
+<l>Als <hi rend="i">par exempel;</hi> 'k Ben uw dienaar Heer, klinkt beestig.</l>
+<l><hi rend="i">Je suis vôt serviteur</hi>, <hi rend="i">Monsieur; Oh!</hi> dat is geestig.</l>
+<l>Hoe plat is dit. Myn Heer, 'k gebied me in uwegunst!</l>
+<l><hi rend="i">Mais je me recommande à vous, Monsieur</hi>, dat 's kunst.</l>
+<l>Dat 's aardig. Is het niet inpertinent te zeggen,</l>
+<l>Helaas! indien ik u myn hart mogt open leggen,</l>
+<l>Gy zoud het blaaken zien in eene zuivre vlam,</l>
+<l>Die uit de vonkjes van uwe oogjes oorsprong nam.</l>
+<l>Maar hoor: <hi rend="i">Si de mon coeur</hi>, ik doen mogt <hi rend="i">ouverture</hi>,</l>
+<l>Gy zond 'er <hi rend="i">une flamme</hi> in vinden <hi rend="i">toute pure</hi>,</l>
+<pb n="35"/>
+<l>Alleenlyk gecauseerd door <hi rend="i">vos petits beaux jeux</hi>,</l>
+<l><hi rend="i">Mademoizelle</hi>, <hi rend="i">be?</hi> klinkt dat niet <hi rend="i">merveilleux</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Forwaar ich ben verzest</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Zo doen meest al de vrouwen.</l>
+<l>Ik meen 'er <hi rend="i">tout le soir</hi> u mede te onderhouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l><hi rend="b">Was red'ning / und was zeit vertreib; von ieder was</hi>.</l>
+<l><hi rend="b">De Her spielt wol pieket /</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Ik speel 't zeer gaern.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab"><hi rend="b">Das</hi></l>
+<l><hi rend="b">Gefelt wier / ich hab lust funf / zex dozein dukaaten</hi></l>
+<l><hi rend="b">Met euch zu waagen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">'k Zal me die zo ligt niet laaten</l>
+<l>Afwinnen; of 't moet zyn <hi rend="i">par courtoisie</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab"><hi rend="b">Nein /</hi></l>
+<l><hi rend="b">Das fuegt das Fraulein nicht van Swalgenbuttelstein</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>'k Zie daar myn knecht, met uw verlóf <hi rend="i">Mademoizeele</hi>,</l>
+<l>Ik moet hem spreeken van een zekere bagatelle</l>
+<l>Van groot gewigt. <hi rend="i">Je suis vôt serviteur</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab"><hi rend="b">Ich bin</hi></l>
+<l><hi rend="b">Sein allernedrigste / und verplicchtste Dienarin /</hi></l>
+<l><hi rend="b">Bis uber eine stund</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Reinhart, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>IK heb uw Nicht beleezen,</l>
+<pb n="36"/>
+<l>Dat gy nu taamelyk wel zult ontfangen weezen:</l>
+<l>Zy wacht u; maar houw haar niet op. Ze is door 't geweld</l>
+<l>Van de Aap onpasselyk geworden én onsteld.</l>
+<l>Maak uwe ontschuldiging wat kort. Zy wil wat rusten.</l>
+<l>Veel woorden zullen haar voor deeze tyd niet lusten.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik heb ook weinig tyd, omdat ik binnen 't uur</l>
+<l>Moet weezen in het huys van onze nagebuur,</l>
+<l>By <hi rend="i">la Comtesse</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Wel zo hebt gy al begonnen</l>
+<l>Te vryen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab"><hi rend="i">Oui mon drole</hi>, ick acht ze al half gewonnen.</l>
+<l><hi rend="i">La ville parlemente</hi>. Ik ben zeer wel van haar</l>
+<l>Onthaald.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Maak met uw Nicht nu ook uw zaaken klaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi></speaker>
+<l>Ik zal. Zo kan my de ééne, of de and're Bruid niet missen,</l>
+<l>Niet waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Voorzeker Heer. Hy kost zich wel vergissen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Pleuntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'k ZIe daar de meid. Ei Pleun, zeg dat Heer Eelhart hier</l>
+<l>Straks komt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pleuntje</hi>.</speaker>
+<l rend="; 1tab">Heer Eelhart! hei, Heer Eelhart!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Wat getier,</l>
+<l>Is dat?</l></sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="sc">Pleuntje</hi>.</speaker>
+<l rend="; 1tab">Daar is hy. Had de klépel niet gerammeld</l>
+<l>In deuze klok, wie weet hoe lang hy had gesammeld.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Eelhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>HEer Eelhart, Och! uw lief Konstance is zo verblyd,</l>
+<l>Om dat gy hier tót haar ontzét gekomen zyt,</l>
+<l>Dat ze onverduldig zynde, om u te zien en spreeken</l>
+<l>In de achter zaal, daar ik de muur heb door doen breeken,</l>
+<l>U zal bezoeken, door de nieuw gemaakte deur.</l>
+<l>Is zy in flót, óf is de grendel daar nóch veur?</l>
+<l>Doe die daar af, én maak de deur van uw kant open.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Maar vreest ze niet dat zy heel ligt gevaar mogt loopen</l>
+<l>Dat iemant ons verspiedde, en steurde?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Ik neem die zórg</l>
+<l>Op my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l rend="; 2tab">Ik ben zeer wel gerust op zulk een bórg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zy veinst zich ziek te zyn, en zal haar kamer sluiten</l>
+<l>Van binnen, opdat daar niet eenen mensch van buiten</l>
+<l>Zal konnen in zien, nóch inkomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l rend="; 3tab">Ach! myn vriend,</l>
+<l>Wat loon...</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Uw vriendschap heeft aan my veel meer verdiend!</l></sp>
+<stage><hi rend="i">Einde van het Twede Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="38"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">François, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>NU <hi rend="i">ma Couzine</hi> slaapt, hoop ik zo wel te waaken,</l>
+<l>Dat ik zeer haast met <hi rend="i">la Comtesse</hi> schrap zal raaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Dat kan niet missen, want zy was zo zeer verheugd</l>
+<l>Om uw bezoek, zo zegt de knécht, dat haar de vreugd</l>
+<l>Ten oogen uit scheen; maar hoe staat het dan geschapen</l>
+<l>Met uwe Nicht? heeft ze, eer zy zich begaf tót slaapen,</l>
+<l>U aangehoord?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">En myn excuzes heel civiel</l>
+<l>Ontfangen; 'k weet niet dat zy zig ooit beter hiel.</l>
+<l>Haar air was vriend'lyk; zy kon met meer gratie nygen</l>
+<l>Als ooit, ik zou wel zin in <hi rend="i">ma Couzine</hi> krygen,</l>
+<l>Al is zy ziek, zo <hi rend="i">doux</hi> was zy, en zo galand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>En <hi rend="i">la Comtesse?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Die gaat voor, <hi rend="i">cela s'entend</hi>.</l>
+<l>'k Heb evenwel aan u zo groot een obligatie,</l>
+<l>Dat ge al jou leeven lang zult blyven in myn gracie.</l>
+<l>'k Meen nóch een man van jou te maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">'k Zoude u raân</l>
+<l>Dat ge eerst dacht aan u zelf. Het zal met my wel gaan.</l>
+<l>Ik ben een man, een Heer van 't myne, ik heb geen schulden.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat wilde ik ook wel om een hoed van duizend gulden.</l>
+<pb n="39"/>
+<l>Maar ik ben Jonker, en ik spruit uit Aad'lyk bloed;</l>
+<l>Zie dat verzét geheel de schaarsheid van het goed.</l>
+<l>'k Wed <hi rend="i">la Comtesse</hi>, al wist zy, dat ik niet een stuiver</l>
+<l>Had in de waereld, kon ik maar myn Adel zuiver</l>
+<l>Bewyzen, zou veel eer met my een huuwlyk doen</l>
+<l>Dan met een man, al had hy twee drie millioen,</l>
+<l>Zo hy niet Aad'lyk was; dat bloed heeft wat te zeggen.</l>
+<l>Dat bloed! dat bloed!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Is dat verschil niet uit te leggen</l>
+<l>Van 't uwe en 't onze? 't onze is rood: is 't uwe graauw</l>
+<l>Of wit, of donker groen, of paersch, of bliksem blaauw?</l>
+<l>Verschoon me, zo 'k u steur óf ophouw met myn praaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>'k Heb nóch geen haast; maar, dat gy dit diskoers woudt laaten,</l>
+<l>Waar béter. Edelliên, als wy zyn, scheppen geen</l>
+<l>Pleizier, wen gy liên zo <hi rend="i">profond</hi> zoudt willen treên</l>
+<l>In die misterien, wy verstaan ons met malkander.</l>
+<l><hi rend="i">C'est clair pour nous;</hi> al is 't wat duister voor een ander.</l>
+<l>Is 't niet genoeg, als wy een Dame ryk van goed</l>
+<l>Begooghlen kunnen door de estime voor ons bloed,</l>
+<l>En tytels; dat ze om ons alle and're <hi rend="i">méprizéren</hi>,</l>
+<l>En met ons trouwen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Om hun geld te zien verteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Quand la dépense est belle</hi>, en dat men een Lakei</l>
+<l>Zés, zéven houdt, koetsier, en koets, en dikmaals vry</l>
+<l>Ballét en baal geeft, <hi rend="i">ses amis de bonne grace</hi></l>
+<l>Trakteert; in de Opera heeft <hi rend="i">la meilleure place</hi>,</l>
+<l><hi rend="i">Un loge</hi>, <hi rend="i">ou deux</hi>....</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Gy rept van geen Comedie?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<pb n="40"/>
+<l>Comedie. 'k Spuuw wanneer ik een Comedie zie.</l>
+<l>Oh de Opera is veel meer na de mode Reintje.</l>
+<l>Comedie, <hi rend="i">fi! ab fi!</hi> daar kóst het maar een kleintje,</l>
+<l>Een gulden in de bak, een huisje een dukaton.</l>
+<l>'t Moest zo zyn, dat 'er geen kanaalje komen kon.</l>
+<l>Wat dunkt u, als men een <hi rend="i">depense</hi> doet <hi rend="i">si belle</hi>,</l>
+<l>Die dan zyn geld beklaagt <hi rend="i">a-t'il de la cervelle</hi>?</l>
+<l>Men wordt gerenommeerd; het geeft respekt: elk een</l>
+<l>Slaat acht op ons.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">'k Bekén 't; maar 't is hier niet gemeen,</l>
+<l>Nóch zeer geacht. Men zou 't hier geld verspillen heeten.</l>
+<l>Hoe! hebtge in Vrankryk, dan uw tyd niet wel versleeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>'k Heb eens 't geluk gehad in Vrankryk, dat ik in</l>
+<l>De groote kamer van Mevrouw de Koningin</l>
+<l><hi rend="i">Dix mille ecus</hi> verloor. De Koning admireerde</l>
+<l>Myn koelheid, omdat ik 't niet meerder estimeerde</l>
+<l>Dan eene bagatelle. Ik gaf eens een balét</l>
+<l>Aan een <hi rend="i">Marquise</hi>, 't geen met <hi rend="i">violons</hi>, bankét,</l>
+<l><hi rend="i">Flambeaux</hi>, en anders wel vier duizend kroonen kóste.</l>
+<l>Waar voor my <hi rend="i">la Marquise</hi> ook van een pak verlóste,</l>
+<l>Dat ik een jaar lang had gedraagen op myn hart.</l>
+<l>Ha Reintje! <hi rend="i">je suis beau</hi>, <hi rend="i">dispóst</hi>, <hi rend="i">galand</hi>, <hi rend="i">gaillard</hi>.</l>
+<l>Al kóst ze my wat geld, Ah! 't is een vrouw der vrouwen!</l>
+<l>'k Heb drie jaar lang haar heel pompeuslyk onderhouwen;</l>
+<l>Zy kóst me... Maar ik zie <hi rend="i">le Comte</hi>, ik spreek hem aan,</l>
+<l>'k Wil zonder zyn <hi rend="i">congé</hi> niet by zyn dóchter gaan.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">François, Stoffel, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>IK kan 't niet laaten, óf 'k moet u congratuleeren</l>
+<l>In uw logis, én u myn diensten prezenteeren:</l>
+<pb n="41"/>
+<l>'k Hoop, dat ons <hi rend="i">voizinage</hi> in 't kort my heel en al</l>
+<l>In het faveur van uw' Genade brengen zal.</l>
+<l>Om <hi rend="i">étérnellemant</hi> uw <hi rend="i">serviteur</hi> te heeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Ich bin ihm gantz verpflicht fu<hi rend="sup">e</hi>r die civilita<hi rend="sup">e</hi>ten /</hi></l>
+<l><hi rend="b">Dasselbe werd ich ihm von meiner seithen auch</hi></l>
+<l><hi rend="b">Mitt freud' erzeigen/ Heir / wan ich das recht gebrauch /</hi></l>
+<l><hi rend="b">Und die methode werd dieser leuter wissen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat dit het fondament van meer verbindtenissen</l>
+<l>Zal zyn, is <hi rend="i">mon espoir</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab"><hi rend="b">Das hoff' ich / und ich schwehr</hi></l>
+<l><hi rend="b">Dasch ich kein menschen son / als meinen Herren ehr</hi>.</l>
+<l><hi rend="b">Mein Tochter hatt mir so viel wonderliche dinge</hi></l>
+<l><hi rend="b">Zu seinen lob erzehlt / dass sie sich nicht geringe</hi></l>
+<l><hi rend="b">Verpflicht acht durchs besuch / das er ihr gebet /</hi></l>
+<l><hi rend="b">Fu<hi rend="sup">e</hi>rnemlich weil er so courtees mitt jeder lebet</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Zou myn vizite haar in iet ook <hi rend="i">empescheeren?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Sie wart dort dem Herren auff. Er wird sie gantz verehren /</hi></l>
+<l><hi rend="b">Hem / Plonje / hem / bring die den Herren also balt</hi></l>
+<l><hi rend="b">Vy Iungffer Iacobine</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Ik zal, wyl 't u gevalt,</l>
+<l>Dat ik <hi rend="i">un beure</hi>, <hi rend="i">ou deux</hi> uw dóchter op mag passen,</l>
+<l>Straks by haar gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 2tab"><hi rend="b">O! das gefa<hi rend="sup">e</hi>lt mir aussermassen</hi>.</l></sp>
+</div>
+<div type="scene">
+<pb n="42"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Stoffel, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>WAt dunkt u, gaat het zo niet wel, Heer Reinhart?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Braaf,</l>
+<l>Gy speelt natuurlyk, en heel wel de ról van Graaf.</l>
+<l>Zo Jakomyn gelyk als gy, haar zelf kan draagen,</l>
+<l>Het is onmooglyk óf onze aanslag moet wel slaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Ik twyffel niet, myn Heer, óf 't zal wel gaan. Maar gy,</l>
+<l>Die voor Lakei speelt, speelt ge uw ról zó wel als wy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waarom? wat doe 'k dan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 3tab">Op den Adel zo te schémpen,</l>
+<l>Past dat Lakeyen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Hoor: Ik kan myn zucht niet dempen,</l>
+<l>Als ik die fanfarons hoor fnat'ren van hun bloed;</l>
+<l>En eerelyker liên dan zy, uit overmoed,</l>
+<l>Veracht bejégenen, en aanzien over schouder.</l>
+<l>Hy mag het doen, wie wil; maar 't is een gek. Ik houd'er</l>
+<l>Niet van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">'t Is wel; maar doetge u zelven niet te kort?</l>
+<l>Hebt gy geen deel daat in, myn Heer, als de Adel wordt</l>
+<l>Verongelykt. Toen ik uw vader zag begraaven</l>
+<l>Op 't Sas van Gent, was 't niet zo Adelyk en braaven</l>
+<l>Begraaffenis, als ooit een Edelman genoot?</l>
+<l>Wat was de staatsie grootsch! Wat was de toestél groot!</l>
+<l>Gy liet 'er zelfs geen vier, geen acht quartieren draagen;</l>
+<l>Maar vyftien wapens van uw Adelyke maagen,</l>
+<l>Versierden 't uwe. Hoe! verzaakt ge u zelf? Ik wil</l>
+<pb n="43"/>
+<l>U toonen, dat gy, wat de dégen óf de spil</l>
+<l>Betreft, geen Edelman in Neêrland hoeft te wyken;</l>
+<l>Ja u by Graaven en Baronnen moogt gelyken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ik ken my zélf heel wel, en weet wel, dat gy lang</l>
+<l>Myne ouders hebt gekend, waarom ik blyde ontfang,</l>
+<l>Dat gy me erinnert uit wat stam ik ben gesprooten.</l>
+<l>Maar gy kent my niet, zo gy meent, dat ik met grooten</l>
+<l>Den spót dryf, óf een oud, en Adelyk geslacht</l>
+<l>Niet meer, als de afkómst van een boer óf burger acht.</l>
+<l>Gelukkig! die een reeks van Ouders kunnen noemen,</l>
+<l>Op welker daaden, op wier deugd zy moogen roemen,</l>
+<l>Als hun gemoed, door die voorbeelden aangepord,</l>
+<l>En in die daaden, in die deugd geoeffend wordt;</l>
+<l>Maar één, wiens daaden, vol uitspoorigheid, de naamen</l>
+<l>Van zyn Voorvaders, en beroemd geslacht beschaamen,</l>
+<l>En die elk een verguist, een lanterfant, een vént</l>
+<l>Die maar aan zyn lievry, en wapens wordt gekénd,</l>
+<l>Of opsnyt van zyn Stam by Juffets, en op bâlen,</l>
+<l>Kan 't by geen sneegen boer, nóch zedig burger haalen.</l>
+<l>Zo ik 'er somtyds een veracht, zo spreek ik van</l>
+<l>Zulke onbehoudene. 'k Lach met een Edelman,</l>
+<l>Zo hem zyn ommegang, zyn deugden, en manieren,</l>
+<l>Niet boven het gemeen doen kennen en versieren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Myn Heer, ik wist daar in nooit zo veel onderscheid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Dat is geen wonder, gy waart steeds in dienstbaarheid.</l>
+<l>De treffelykste Adel, was by u een zwier Lakeyen,</l>
+<l>Hófmeesters, Kóks, Koetsiers, Karóssen, én Lievryen.</l>
+<l>Indien gy deftiger gedachten hád gehad,</l>
+<l>Gy zoudt...</l></sp>
+</div>
+<div type="scene">
+<pb n="44"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Meinsje, Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">OCh, Reintje, óch! och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 6tab">Wat zót getier is dat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Was ist? was ist?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Och, och! ik moet het huis verloopen.</l>
+<l>'k Hoef nimmermeer op onz' Mêvrouw haar gunst te hoopen.</l>
+<l>Och, onze Juffrouw, óch, Konstancie is wis haas op.</l>
+<l>Zy heeft het haazepad gekoozen; geeft den schop</l>
+<l>An eer en deugd. Ik heb heur in een Jongmans armen</l>
+<l>Gezien, en zonder zich in 't minste te beschermen</l>
+<l>Veur zyn gezoen! 't Was óf zy 't al heur leeven lang</l>
+<l>Gedaen had. Wat gaet me an! Och Reintje, ik bin zo bang!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wanneer is dit gebeurd, en waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Hier naest en daad'lyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Was? was? hier nachst?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Ja toch!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Zwyg stil, 't is dikwils schaad'lyk</l>
+<l>Te zeggen dingen die men niet heel vast en weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Was sagst du von hier nechst? was? weist du was?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 7tab">Gy deedt</l>
+<l>Veel béter, dat gy wat bezaadigder vertélde,</l>
+<pb n="45"/>
+<l>Het geen gy dacht te zien, en u zo niet ontstélde.</l>
+<l>Wat meent gy dat gy zaagt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab"><hi rend="b">Was habt 'er toch gezehn?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ei lieve hoor. Mevrouw gaf flus aan onze Deen</l>
+<l>De huisknecht last, dat hy jou Heer zyn Aap zou binden</l>
+<l>An onze schutting, om dat hy hem daer zou vinden,</l>
+<l>En brengen hem weerom, óf tót hem de Aapevrouw</l>
+<l>Weerom zou haalen, én tót heurent brengen zou.</l>
+<l>Maar denk eens van dien schelm! hy wist het touw te ontknoopen,</l>
+<l>Zich lós te maaken, en hy zetten 't op ien loopen,</l>
+<l>En springen; en toen wy hem vangen woude, vloog</l>
+<l>Hy in de tuin hier naest ons allen uit het oog.</l>
+<l>Ik kyk hem in de tuin van buurman nae, maar jemie!</l>
+<l>Ik keek, als was ik in ien spul van de Akkedemie.</l>
+<l>'k Zie deur de vensters heen van buurmans achter zaal.</l>
+<l>Daer staet Konstancie, 't is zo waer als ik 't verhaal,</l>
+<l>In de armen van een nette, en jonge, en mooije vryer.</l>
+<l>'k Verschrikte zeer, en dócht, wat droes! hoe komt hy by 'er?</l>
+<l>Of zy by hum. 'k Gae nae heur kamer, die 'k in 't slót</l>
+<l>Geslooten vond, en mis de sleutel. 't Was verbród,</l>
+<l>Zo 'k merkte. Kyk, terwyl ik agter was eloopen,</l>
+<l>Was zy de veurdeur fraai behendig uitgesloopen.</l>
+<l>Wel wie zou denken, dat zo jong ien kleuter had</l>
+<l>Die kneepen in heur kóp, die parten in héur gat.</l>
+<l>Zie daerom dorst ik in het huis niet langer blyven,</l>
+<l>Ik weet wel, dat Mêvrouw my tóch daer uit zou dryven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">In meinen hauze / das zein eitel porsen / nein</hi></l>
+<l><hi rend="b">Wie icherrst ihr mich / das kan unmu<hi rend="sup">e</hi>glich / ja nicht zein</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Gy hebt ligt mis gezien. Hebt gy ook aan haar kamer</l>
+<l>Geklópt?</l></sp>
+<pb n="46"/>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Wel neen!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Zo doe 't, dus kan men wat bekwaamer</l>
+<l>Oordeelen: want het werk dunkt my al vry verward.</l>
+<l>Gaa, Meinsje, klóp eens aan haar kamer, maar wat hard.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>GAa Stoffel, zeg nu aan Konstance dat ze op 't kloppen</l>
+<l>Van Meinsje, niet laat op te doen. Men moet haar fóppen</l>
+<l>Is 't moog'lyk. 't Werk was daar ten naaste by verbród.</l>
+<l>Maar 'k zal 't wel maaken, dat ik de oude vrouw bedód.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>, <hi rend="i">binnen geweest zynde</hi>.</speaker>
+<l>Ik heb het haar gezégd, zy zal het doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">'t Ontkennen</l>
+<l>Moet ons nu bystaan. Ik kan my niet wel gewennen</l>
+<l>Tót logens, dan alleen tot loogens alsze in nood,</l>
+<l>Om beste wil geschiên, al zyn die nóch zo groot.</l>
+<l>Hoor: om dan met fatsoen zeer onbeschaamd te liegen,</l>
+<l>Zo moet men zéggen, dat haar oogen haar bedriegen,</l>
+<l>Dat ze oud en krank is van gezicht; en moet het zyn</l>
+<l>Laat hier Konstance, slechts in plaats van Jakomyn</l>
+<l>Verschynen. Ik zal haar dat zaakje wel ontleggen.</l>
+<l>Pas jy maar, dat jy zégt, gelyk je my hoort zeggen.</l>
+<l>Daar komt zy weer.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Meinsje, Stoffel, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>JA wel, ja wel, 't is tovery!</l>
+<pb n="47"/>
+<l>Konstance lag en sliep, en niemand was 'er by.</l>
+<l>Ik zag en sprak 'er mee. Ja wel, 'k stae zo verwonderd,</l>
+<l>Als óf 't te Keulen in myn ooren had gedonderd!</l>
+<l>Hoe lyken zy men kaar. Wel wie had dat gegist.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">So sicht man ja / das mehr gleich dan eigen ist</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Dat ik jou dóchter nou iens zien mogt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab"><hi rend="b">Wil sie sichen /</hi></l>
+<l><hi rend="b">Das kan gantz fuuglig/ und so gleich geschehen /</hi></l>
+<l><hi rend="b">Ich wil also balt henkommen fur die thuur</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Reinhart, Meinsje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>GY geeft veel moeite, Meinsje, aan onze naagebuur.</l>
+<l>Hy is een zeer groot Heer, een Graaf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Wie zou dat droomen!</l>
+<l>Wat doet hy hier?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Hy is hier onbekend gekomen.</l>
+<l>'k Weet van zyn knecht ook, dat hy niet bekend wil zyn,</l>
+<l>Zie daarom komt hy hier slechts in gemeene schyn,</l>
+<l>En houdt maar een Lakei of twé.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Ja wel te weeten?</l>
+<l>Is hy een Graaf, óf zo een ding?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Zyn goude kéten,</l>
+<l>En penning op zyn borst, wyst zulks genoegzaam uit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>O Rein; wat bin ik bly, dat dit een Graaf beduidt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waarom?</l></sp>
+<pb n="48"/>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Waarom? Ik zal de spaarpót van myn zeuntje</l>
+<l>An stukken smyten: nou dan key'ren das ien deuntje,</l>
+<l>En koopen veur het géld ien penning. Kyk zyn peet,</l>
+<l>Gaf hem ien ketting tót zyn pille gift. Zo weet</l>
+<l>Ik onze Dirrikje ook mooi tót ien Graaf te maaken,</l>
+<l>Niet waer! wel kan ien mensch zo an ien Graafschap raaken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zwyg stil, daar komt myn Heer de Graaf weerom.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Stoffel, Meinsje, Reinhart, Konstantia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 4tab"><hi rend="b">MEin kind</hi></l>
+<l><hi rend="b">Wirt kommen / aber ich wil das ihr euch verbindt /</hi></l>
+<l><hi rend="b">Das ihr von sie / von mir / van keinerhande sachen</hi></l>
+<l><hi rend="b">An keinen menschen wohrdt und geplauder sollet machen</hi>.</l>
+<l><hi rend="b">Er ist mir ho<hi rend="sup">e</hi>gst daran gelegen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Wel, men Heer.</l>
+<l>'k Beloof het je, as ien vrouw mit eeren, op myn eer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ik ook.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab"><hi rend="b">Kom dan herfu<hi rend="sup">e</hi>r</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>, <hi rend="i">ziende Konstantia, in de deur van Stoffel</hi>.</speaker>
+<l rend="; 2tab">Wel Heer dat is Konstancie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wel hoe! waar lykt dat aan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Aan al de remonstrancie.</l></sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wat praat je Meinsje? wat? het lykt haar niet een zier;</l>
+<l>'k Heb zo wel oogen in myn hoofd, als gy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Kyk hier!</l>
+<l>Het lykt 'er niet? Wat droes! hoe ken't heur meer gelyken?</l>
+<l>Ze is eveliens geklied: men Heer, je zult het kyken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Das wert ja men lich zien</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Maar hoe, 'k bin niet vergist,</l>
+<l>Het is Konstansje zélf, wat droelie? ja zy is 't.</l>
+<l>Konstansje? Juffrouw? Hoe! zy zwygt en lacht?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Geen wonder.</l>
+<l>Verstaat deez' Neêrduitsch?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Wel daer schuilt de Drommel onder,</l>
+<l>'k Gae Juffrouw haalen, kom, dan kenje zelf het zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ras, na uw kamer toe, Mejuffrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 3tab">'t Zal geschiên.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>NU zal 'er meerder naar myn gissing niet behoeven</l>
+<l>Gedaan te zyn, als dat gy haar maakt te oversnoeven,</l>
+<l>Ik zal je helpen, dat zy al het ongelyk</l>
+<l>Der waereld hebbe, al geeft zy 't allerzekerst blyk.</l>
+<l>Spreek hard, en houdje kwaad: gy moet je aan haar lellen,</l>
+<l>Nóch teemen steuren.</l></sp>
+<pb n="50"/>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">'k Zal dat zaakje heel wel stellen.</l>
+<l>Vertrouw 't my toe, myn Heer: ik weet die oude kól,</l>
+<l>Wel om haer staert te doen om loopen als een tól.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Daar komt ze met Konstancie.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Konstantia, Meinsje, Stoffel, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">IK doe nu jou begeeren.</l>
+<l>Wat is 't nu?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">O je zelt zo kyken, 'k wilt je zweeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Wat zal ik zien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi></speaker>
+<l rend="; 2tab">Men Heer, waer bleef jou dóchter daar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Zie ist nach binnen zu gegangen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Ai lieve, vaar,</l>
+<l>Ai laet ze tóch nóch iens uit kommen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 6tab"><hi rend="b">Narreryen</hi>.</l>
+<l><hi rend="b">Verirt ihr mich?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Neen tóch, 'k wil alle kwesti myen.</l>
+<l>Hoor Juffrouw, tusschen ons, kyk, is een groot dispuit.</l>
+<l>'k Zeg dat jouw weezen ziet 'er eveleensjes uit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Was des wesens! seyt ihr dol? was? darf man eben</hi></l>
+<l><hi rend="b">Zie beyd' zu sammen sehen/ kan man kein urtheil geben /</hi></l>
+<pb n="51"/>
+<l><hi rend="b">Ohne dem / sie gleichen sich auff keiner weise nicht</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Neen, Meinsje, 't hapertje, geloof me, aan jou gezicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Was de één en de aar slechts hier, je zoudt gewis verstommen</l>
+<l>Konstansje, zo as zy jouw lykt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 3tab"><hi rend="b">Zie wierd nicht kommen</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Wie lykt my zo?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Myn Heer zyn dóchter.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Wat geef ik</l>
+<l>Naar dat gelyken? mag ik niet een oogenblik</l>
+<l>Wat rnsten? moet gy me om die beuzelingen steuren,</l>
+<l>In mynen slaap? Wat zal hier langer niet gebeuren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Vertrey doch ons/ es ist der Frauwen ongeduld /</hi></l>
+<l><hi rend="b">Die zolche possen macht. Wir haben keinen schuld</hi>.</l>
+<l><hi rend="b">Nein Ionffer</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Meinsje, ik dorst dat nooit op jou vertrouwen,</l>
+<l>Dat jy me op deeze wyz' dacht voor den gék te houwen,</l>
+<l>Een weinigje gaat heen, maar dit gaat al te gróf,</l>
+<l>Doe 't op een ander tyd niet weêr. Met uw verlóf</l>
+<l>Myn Heer, ik gaa.</l></sp>
+</div>
+<div type="scene">
+<pb n="52"/>
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">Stoffel, Meinsje, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab"><hi rend="b">Es muss nicht wiederum geschehen</hi>.</l>
+<l><hi rend="b">Ho<hi rend="sup">e</hi>rt ihr das wohl / ewr weib / will mir das nicht verstehen /</hi></l>
+<l><hi rend="b">Ich nehmet u<hi rend="sup">e</hi>bel auff</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Ja, had j'er bei te gaar</l>
+<l>Gelyk doen zien, ik wed, je spraakt, als ik, men vaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Ich wil nicht la<hi rend="sup">e</hi>nger von die narrereien ho<hi rend="sup">e</hi>ren /</hi></l>
+<l><hi rend="b">Verstehest du das wohl / weib?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Hiel wel, 't zel niet meer beuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Kein enkel word von mir / noch meiner Tochter?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Du hasts mir zugesagt</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Wis, wees maar wel te vreên.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">Ich solte sonsten dich by meiner treu curiren</hi></l>
+<l><hi rend="b">Dass du nicht wieder mich leichtfertig solst vexiren</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Daar is Mêvrouw.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage><hi rend="sc">Kristine, Meinsje, Reinhart, Baske</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">WEl meid, wat doeje hier op straat,</l>
+<l>En met dien Heer hier naast in kwestie, óf in praat?</l>
+<pb n="53"/>
+<l>Hy schynt gestoord. Ik zag ook dat hy jou begraauwde.</l>
+<l>Wat was de reden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Kyk de woorden, die hy kaauwde,</l>
+<l>Verstond ik niet, hy is een mof, of zo ien ding.</l>
+<l>Hy zei niet veul, laet zien, hy zei, hy zei, en 't ging</l>
+<l>Hem kluchtig óf; maar laet het Reintje jou vertellen,</l>
+<l>Die weet het beter met die knoetery te stellen,</l>
+<l>As ik ken doen, Mêvrouw, hy het van woord tót woord,</l>
+<l>De hielen horlement, zo wel as ik, gehoord.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat was 'er Reinhart?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Zal zy haar belóften houwen</l>
+<l>En ik de myne, geen van tweên mag 't u vertrouwen,</l>
+<l>Waarom hy toornig was.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Jou geef ik 't toe, jy zyt</l>
+<l>De dienaar van François, maar jou scheld ik niet kwyt,</l>
+<l>Want jy zyt in myn dienst, en zult my aanstonts zeggen</l>
+<l>Wat hier gebeurd is, en hoe dees affaires leggen;</l>
+<l>Of ik beloof, dat ik 't niet pardonneeren zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ja Rein, óf jy myn wenkt, óf toeknikt, 'k ben niet mal.</l>
+<l>Wil jy 't gat uit, ik niet: wat geef ik na de moffen,</l>
+<l>Al is het dat zy op heur geld en Adel stóffen,</l>
+<l>Al binnen 't Graaven, en al willenze hier niet</l>
+<l>Bekend staen, ik steur me an gien ketting nóch gien klied,</l>
+<l>Nóch gouwe penning, neen. Zou hy me wel wat geeven</l>
+<l>As my Mêvrouw het gat uit schopte. Neen 'k moet leeven,</l>
+<l>En ik heb hier ien hiel goed huis in. Hoor, Mêvrouw:</l>
+<l>De Baviaan, die an de schutting mit ien touw</l>
+<l>Gebonden was, raakt los, én zo 'k hem nae wouw kyken</l>
+<l>Zag ik in 't huis hier naest, ien Juffertje zo lyken</l>
+<pb n="54"/>
+<l>Nae jou Couzine, die vast sliep, dat ei, en ei,</l>
+<l>Niet beter nae mekaar ken lyken, nae ik zei</l>
+<l>An Reintje, én buurman; die het niet gelooven wouden.</l>
+<l>Ik zei dat zy lui 't mit heur eigen oogen zouden</l>
+<l>Bekyken, als de Graaf zyn dóchter veur de deur</l>
+<l>Deed kommen, én ik brócht 'er onze Juffrouw veur;</l>
+<l>Maar niet gelyk. Daar uit is dit dispuit gereezen,</l>
+<l>Of zy mekaar van stal, van grootheid, en van weezen</l>
+<l>Geleeken. Ik zei ja, en zy lui zeiden neen.</l>
+<l>De Juffers gingen de ien nae de and're kwaed weêr heen.</l>
+<l>Maar ik had buurman, eer zyn dóchter veur mogt komen,</l>
+<l>Belooven moeten, dat ik denken zou, nóch droomen,</l>
+<l>An iemand, wie 't ook was, het alderminst van hem</l>
+<l>Of heur te réppen, dat hy met een fórse stem</l>
+<l>My toegraauwde, as jy juist op 't mat kwam en ons hoorde,</l>
+<l>Mêvrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Was 't hierom dat de Graaf hem zo verstoorde?</l>
+<l>Is daar zo veel aan vast óf zy me dat vertelt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Meer als gy denkt Mêvrouw; daar kon een groot geweld</l>
+<l>Van komen; 't is een Graaf, die onlangs hier uit Weenen</l>
+<l>Gevlugt is, en nóch by geen menschen is verscheenen,</l>
+<l>En niet bekend wil zyn, waarom hy is gevlucht;</l>
+<l>Dies hy een haater is van praatjes, én gerucht,</l>
+<l>Om hier incognito een poos te kunnen blyven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik zal 'er niet een woord van zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Neen by lyven!</l>
+<l>Je kent Mêvrouw niet, Reintje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Ik ken jou al te wél,</l>
+<l>Die zo veel spéls maakt met je teemen, én gelél.</l></sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Meid geen met woorden. Wil je eens aan den Graaf gaan vraagen,</l>
+<l>Zeg Reinhart, óf 't hem en zyn dóchter zal behaagen,</l>
+<l>Dat <hi rend="i">ma Couzine</hi> en ik hem in zyn nieuwe huis</l>
+<l>Congratuleeren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">'k Wed, Mêvrouw, dat dit kwansuis</l>
+<l>De boodschap is, én dat je zélfs zélt willen kyken</l>
+<l>Of bei de Juffertjes mekaar zo wel gelyken,</l>
+<l>Gelyk ik zeg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Mêvrouw, wat uur gelieft u dat</l>
+<l>Ik vraagen zal?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Zo hy nu geen vizites had,</l>
+<l>Vraag die het hem belieft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">'k Zal 't u straks kenbaar maaken.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Dertiende tooneel.</head>
+<stage><hi rend="sc">Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>HEem, Stoffel, hem?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 2tab">Alhier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Mêvrouw weet alle zaaken</l>
+<l>Door Meinsje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">Dat 's niet goed, het dwarsboomt ons begin.</l>
+<l>Mêvrouw te fóppen, zo als Meinsje, heeft wat in.</l>
+<l>Ze is arg én loos, en laat zo ligt'lyk zich niet doeken,</l>
+<l>'k Vrees, dat zy alles naauw zal willen onderzoeken.</l></sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'t Is zéker. Zy wil jou vizites geeven straks,</l>
+<l>Of flusjes, én jou in het nieuwe huis as kaks</l>
+<l>Congratuleeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">Wel wat raad?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Hoe staan de dingen</l>
+<l>Met Frans, én Jakomyn?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 2tab">Myn dóchter weet te zingen,</l>
+<l>Gelyk hy danssen wil: én danst, gelyk hy zingt.</l>
+<l>Gy zult bekomen 't geen daar hy, én gy, na dingt.</l>
+<l>Zy weet heel wonderlyk den gék de kap te vullen:</l>
+<l>'k Denk dat zy beide straks te saamen speelen zullen;</l>
+<l>Want Jakomyn die heeft een kaart gekommandeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'t Is wonder naar myn zin. De staat van zaaken keert</l>
+<l>Heel schoon. Men moet Mêvrouw sléchts in de kamer leiden,</l>
+<l>Terwyl zy bezig zyn te speelen met heur beiden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Ik dacht dat alles dan verbród was.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 5tab">Ganschlyk niet.</l>
+<l>Dénk zelf, als zy François by Jakomyne ziet,</l>
+<l>Hoe haar dat aanstaan zal; voornaamlyk zo ze in 't praaten</l>
+<l>Afmeeten kan, dat zy malkanderen niet haaten;</l>
+<l>'t Welk Jakomyn, zo 'k hoop, wel maaken zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 6tab">Gewis.</l>
+<l>Ik zal 't haar in het oor wel byten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">Wel dan is</l>
+<l>Konstancie de onze; 't zal met één dan klaarlyk blyken,</l>
+<l>Dat zy en Jakomyn malkand'ren niet gelyken.</l></sp>
+<pb n="57"/>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Heer Reinhart, zal Mêvrouw ons wel gelooven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Ja,</l>
+<l>Zy moet: doe maar jou plicht, én roep Michiel hier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">'k Gaa.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Veertiende tooneel.</head>
+<stage><hi rend="sc">Reinhart, Michiel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>IK weet Michiel, je kent die alle beide taalen</l>
+<l>Vry reed'lyk, maak die wel te kunnen koeterwaalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>Zo wat myn Heer; heb in het allerminst geen zorg,</l>
+<l>Voor my. Kornelis zal niet minder, 'k blyf u borg,</l>
+<l>Zyn ról ook treffelyk uitvoeren voor Notaris,</l>
+<l>Hy heeft 'er drie jaar by gewoond. Was de inventaris</l>
+<l>Van zyne schulden nu gereed, het werk was klaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wat inventaris, neem jy die memorie waar,</l>
+<l>Die zyne schulden, én zyn and're vuile feiten</l>
+<l>Wel inhoudt; maar niet met partikulariteiten.</l>
+<l>Het hoeft zo nét niet: doe jou best, betracht jou eer</l>
+<l>Hier in.</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l rend="; 1tab">Geloof me, 't zal aan ons niet haapren, Heer.</l></sp>
+<stage><hi rend="i">Einde van het Dérde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="58"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Kristine, Konstantia, Reinhart, Baske</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>IK heb u menigmaal, dóch te vergeefs gebeden</l>
+<l>Dat gy meer zwierig, en galanter u zoudt kleeden,</l>
+<l>Maar 'k zie het is vergeefs, hoe ik u meerder bid,</l>
+<l>Hoe gy het minder doet; fi! die fontange zit</l>
+<l>Een halve pink te hoog. Is dat een kaper zetten?</l>
+<l>Die strik is veel te kort. Hoe hangen die manchetten,</l>
+<l>Gy weet niet van wat groot gevólg die dingen zyn:</l>
+<l>De Dames van 't Salét zyn hier in wonder fyn;</l>
+<l>Zy weeten op een haar wat kapsels best pareeren,</l>
+<l>Zy neemen nét in acht al wat kan doen charmeeren;</l>
+<l>Dat zyn de kunsjes om galands te winnen. Ha!</l>
+<l>Op zulk een Dame heeft een ider 't oog, zo dra</l>
+<l>Zy komt in het Salét.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Moei, ik kan niet ontkennen,</l>
+<l>Dat gy 't verzócht hebt; maar ik kan my niet gewennen</l>
+<l>Tót zo veel grillen als ik in de Juffers, die</l>
+<l>De mode vólgen en 't Salét handteeren, zie.</l>
+<l>Een nét en zinlyk kleed, met mooije garnituuren,</l>
+<l>Acht ik genoeg; maar zo veel fratsen, zo veel kuuren</l>
+<l>Van nieuw fatsoen, en 't geen uit Vrankryk komen kan,</l>
+<l>Vind ik niet goed, ja 'k heb daar zelf een af keer van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Uw réde toont dat gy nóch veel zult moeten leeren.</l>
+<l>Zo zyn zy al te maal die niet veel converseeren</l>
+<l>Met <hi rend="i">le beau monde</hi>. Nicht maak my tóch niet beschaamd</l>
+<l>Door zulk een slecht discours, by <hi rend="i">la Comtes</hi>, 't betaamt</l>
+<pb n="59"/>
+<l>Geen liên van kwaliteyt, die taal te voeren, waarlyk</l>
+<l>Ik ben voor u bevreesd, gy zult al heel bez waarlyk</l>
+<l>'t Gerequireerd postuur waar konnen neemen. 'k Ben</l>
+<l>Dicht by de vyftig jaar, gy nóch geen twintig, én</l>
+<l>Ik doe in een Salét, nóch met veel meerder graci</l>
+<l>Myn compliment, als gy; ik lét wel op de spasie</l>
+<l>Van het vertrék, én daar doe ik myn passen na.</l>
+<l>Ik zét myn voeten als ik op de straaten gaa,</l>
+<l>Heel proper op de maat. 'k Heb u doen leeren dansen</l>
+<l>Om d'air te krygen én den regten zwier der Franschen;</l>
+<l>Maar, <hi rend="i">a mon grand regret</hi>, 'k zie geen verbetering.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Meinsje, Kristine, Reinhart, Konstantia, Baske</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>DAar is de waaijer, en de strik die boven hing</l>
+<l>Op onze groote zaal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">'t Is wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Nou zelje kyken,</l>
+<l>Of die knoetin én ons Konstancie niet gelyken.</l>
+<l>Zy is...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Knoetin? spreek met meer omzigt en respect</l>
+<l>Van zulke luiden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Zy is een Graavin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Je gékt</l>
+<l>Daer ommers meê, wel, Rein, waer uit is jou gebleeken</l>
+<l>Dat ze ien Graavin is? ik zag nooit daer van gien téken.</l>
+<l>Ze had, toen ik 'er zag, gien gouwe ketting, nóch</l>
+<pb n="60"/>
+<l>Gien penning om 'er hals. Zy ien Graavin? wel tóch:</l>
+<l>Zag jy de ketting?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Al draagt zy geen goude kéten,</l>
+<l>Ze is evenwel Graavin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Ik zal 'er zo wel heeten.</l>
+<l>Ik zeg dan die Graavin, die zonder ketting gaet,</l>
+<l>Die hier zo daadelyk geweest is, aan de straet,</l>
+<l>Gelykt nét op én top, van boven tót beneden,</l>
+<l>Van hoofd tót voeten, en zy is nét zo besneeden,</l>
+<l>Zo lang, zo kort, zo sinal, zo lyvig, én zo rank,</l>
+<l>Zo vét, zo mager, nét zo zwart, zo bruin, zo blank,</l>
+<l>Als onze Juffrouw, die Konstancie hiet, 'k wil zweeren,</l>
+<l>Zo jyze by malkaar ziet in die zelfde kleeren,</l>
+<l>Die zy straks alle bei an hadden, dat je zult</l>
+<l>Daer in verdwaalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Maar 'k zeg Meinsje, 'r is de schuld</l>
+<l>Van jou gezigt, jy dwaalt, jy bent hier door jou oogen,</l>
+<l>Die reeds van ouderdom wat duister zyn, bedroogen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Mêvrouw zal 't zelve zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 4tab">'k Wil 't stellen aan Mêvrouw.</l>
+<l>Jy hebt niet wel gezien, kom aan, wat zegje nou,</l>
+<l>Ben jy 'er meê te vrêen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Ik wilt 'er wel aan stellen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Ik ook.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Kom Nicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 3tab">Belief 't je dat ik aan zal schellen?</l></sp>
+<pb n="61"/>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ja.</l></sp>
+<stage><hi rend="i">Kristine en Konstantia gaan in 't huis van Stoffel</hi>.</stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Meinsje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">IS dat dan nu zo wel geklaard, zeg Meinsje, dat</l>
+<l>Jy hebt de Graaf beloofd, toen hy jou ernstig bad,</l>
+<l>Dat jy geen mensch van hem óf van de zaak zoud zeggen?</l>
+<l>Nou hoort hy 't, maar ik meen daar zal een huisje leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Wat zou ik doen, toen myn Mêvrouw dit zo verstond,</l>
+<l>Ze wou dat ik het zey toen ze ons krakkeelen vondt.</l>
+<l>Wat leidt me ook aan dien mof, wat geef ik om die knoeten.</l>
+<l>Ik ben zyn meid niet, wis!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Ik meen hy zal jou groeten,</l>
+<l>Indien hy jou maar eens krygt in zyn huis, je ként</l>
+<l>Die moffe kóppen niet; hy is zo wreed een vént.</l>
+<l>Wie weet wat hy jou niet, krygt hy jou in zyn handen,</l>
+<l>Zal leeren, zo hy jou op straat niet aan laat randen,</l>
+<l>Ik stond niet in jou plaats om duizend gulden, ja,</l>
+<l>Ik deed het om geen twé, 'k zou, waar ik gaa, óf staa,</l>
+<l>Altyd vol angst zyn dat hy my mogt vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Heden!</l>
+<l>Wel Rein, ik word zo bang, dat my van vrees de leden</l>
+<l>Zo beeven as of ik... Och! 't is met myn gedaen,</l>
+<l>Daer is de mof! wat raedt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Wil ras na binnen gaan,</l>
+<l>En sluit de deur in slót; ik zal zyn gramschap trachten,</l>
+<l>Indien het moog'lyk is, een weinig te verzachten.</l></sp>
+</div>
+<div type="scene">
+<pb n="62"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>DE deur is toe, vrees niet dat zy weer komen zal,</l>
+<l>Ik heb daar voor gezórgd; hoe staat het binnen al?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Naar wensch. De Moei zag vreemd dat zy 'er Neef ontmoette</l>
+<l>By myne dóchter, die zy zeer eerbiedig groette:</l>
+<l>Zy zwol van spyt, als zy zag dat hy Jakomyn</l>
+<l>Toelonkte, én blyken liet aan haar verloofd te zyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Zyn zy verloofd?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 1tab">Ja tóch. Ook heeft ze hem tien Dukaaten</l>
+<l>In 't speelen afgeknerpt; én naa wat min'lyk praaten,</l>
+<l>Kreeg ze een orlogie van den gék op trouw, en zy</l>
+<l>Gaf hem weer in de plaats een groote ring, dien gy</l>
+<l>Haar hebt gegeeven, om aan haare pink te steeken,</l>
+<l>Ze hadder twee die nét malkanderen geleeken,</l>
+<l>Je weet het nu wel, 't is die Amesfoorder steen;</l>
+<l>Hy pryst die hoog, en zou wel wedden dat 'er geen</l>
+<l>Zo schoone ring niet is te krygen: 'k Moest vertrekken,</l>
+<l>Zo ik de zaak niet door myn lachchen wilde ontdekken;</l>
+<l>Het is onmoogelyk zich in te toomen; want</l>
+<l>Zy maakt het wonderlyk! dan kust hy eens haar hand;</l>
+<l>Dan legt hy op zyn knie, én bid dat zy de gratie</l>
+<l>Hem gunn' van eenen lonk; dan houd ze 'er reputatie</l>
+<l>Gelyk als een Graavin; dan viert ze 'em weer wat bót.</l>
+<l>Zy weet 'er ongemeen te voegen naar dien zót.</l></sp>
+</div>
+<div type="scene">
+<pb n="63"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Michiel, Reinhart, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>MYn Heer, ze zullen gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Ras Stoffel dan na binnen,</l>
+<l>Dit werk moet uitgevoerd, gelyk als wy 't beginnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Ik zal 't wel klaaren.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Reinhart, Meinsje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">KOm nu maar weer voor den dag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ik weet niet óf ik 't wel durf waagen, Rein, hy zag</l>
+<l>Zo wreed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Hy is al weg, én heeft het jou vergeeven!</l>
+<l>Dóch op conditie dat, zo lang als jy zult leeven,</l>
+<l>Jy van zyn dóchter, nóch van hem meer reppen zult;</l>
+<l>Indien je dat belooft, vergeeven is de schuld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ik zal myn leeven niet van hem een woord meer spreeken</l>
+<l>Als met Mêvrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Hy zegt dat hy het ook zal wreeken,</l>
+<l>Indien hy anders hoort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Maar Rein; nu zyn we allien,</l>
+<l>Biecht iens recht op, én nae jou consekwentie; mien</l>
+<l>Jy zelve niet dat wy Konstantia flus zagen</l>
+<pb n="64"/>
+<l>Daer naest? kom antwoord iens ter deegen op myn vraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Wel Meinsje, ben je slecht? ging jy niet zelf terstond</l>
+<l>Na haare kamer, daar jy zelf Konstantie vondt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Geleek de Juffrouw, die wy zagen, dan Konstancy</l>
+<l>Niet op en top? ja om heur heele kontenancy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Neen zeg ik nóch, je droomt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Neen? én ik zeg je ja;</l>
+<l>Maar daer 's Mêvrouw, die zel ons scheiden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Ha, ha, ha!</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Stoffel, Kristine, Reinhart, Konstantia, Meinsje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l><hi rend="b">IEk bin euch obligirt: sie wo<hi rend="sup">e</hi>ll's nicht u<hi rend="sup">e</hi>bel deuten</hi> /</l>
+<l><hi rend="b">Dass ich sie nicht tractier / geleich men solche leuten</hi></l>
+<l><hi rend="b">Verschuldigt ist</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Myn Heer, wy zyn zeer wel voldaan.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Konstantia, Kristine, Meinsje, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>MOei maakte 't kort, ik dacht niet dat je nóch zoud gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik kan niet langer zíen François uitspoorighéden;</l>
+<pb n="65"/>
+<l>Heb ik voorheenen hem geacht, nu heb ik reden</l>
+<l>Om hem te haaten, dien ondankbren; maar ik zweer,</l>
+<l>'t Zal hem berouwen, Nicht. Hoe, zonder dat hy de eer</l>
+<l>My aandoet van één woord te vraagen óf te zeggen,</l>
+<l>Zich te verlooven; ja dat 't slimst is, steeds te leggen</l>
+<l>En lellen aan myn hoofd dat ik u trachten zou</l>
+<l>Te disponeeren, dat gy eind'lyk wierdt zyn vrouw?</l>
+<l>Nóch gist'ren heeft hy my geklaagd, dat gy zyn zinnen</l>
+<l>Op hól bragt; wyl gy hem niet weder woudt beminnen.</l>
+<l>Wie weet ook óf het niet uit desperatie is,</l>
+<l>Dat hy met <hi rend="i">la Comtesse</hi> is in verbindtenis?</l>
+<l>Ja dat zal zéker zyn; <hi rend="i">Couzine</hi> zulke grillen</l>
+<l>Richt gy al uit, nu zou men ligtelyk wel willen</l>
+<l>Dat dit niet voortging.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Moei ik gun hem zyn Gravin.</l>
+<l>Geloof, ik heb voor hem min liefde, als tegenzin.</l>
+<l>Hoe, zulk een lósból zo ten eersten hoop te geeven</l>
+<l>Van trouwbelóften? neen. <hi rend="i">Matante</hi>, ik weet wy leeven</l>
+<l>Wel in een tyd, en land, daar lange vryery</l>
+<l>Niet meer de mode schynt; maar echter moogen wy</l>
+<l>Wel eens beproeven, door ons weigerig te houden</l>
+<l>Of 't ernst is; 't grootste deel der jongelingen zouden</l>
+<l>Wel meenen dat het zo behoorde, en ligt daarnaa</l>
+<l>'t Ons wel verwyten dat men stond gereed zo dra</l>
+<l>Als zy maar spraken. Voeg hier by nóch in 't byzonder</l>
+<l>Dat ik meer reden heb als and'ren, 't kwam my wonder</l>
+<l>En vreemd te voore, dat ik niet het minste woord</l>
+<l>Kon spreeken, niet kon doen, of Neef die had 'er voort</l>
+<l>Veel op te zeggen. Als de vryers recht beminden,</l>
+<l>Heb ik gehoord, dat zy geen fouten zouden vinden</l>
+<l>In hun meestressen: want de liefde ziet geen leed.</l>
+<l>Gelyk ik ook geloof dat Moei dit spreekwoord weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zoudt gy dan ligt wel zyn met hem in de echt getreeden?</l></sp>
+<pb n="66"/>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Dat weet ik juist niet; doch dat zyn vergeefse reeden,</l>
+<l>Want hy is nu verloofd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">'k Meen echter, zo je u maar</l>
+<l>Wat minnelyker toont, dat hy in plaats van haar</l>
+<l>U trouwen zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Geensins, 'k heb flus my zo gedraagen,</l>
+<l>Dat hy met recht niet kan van myne straf heid klagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Toon u wat vrind'lyk in myn tegenwoordigheid;</l>
+<l>Contrarieer my niet voor al.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Ik ben bereid</l>
+<l>Te doen wat Moei gebiedt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Ik kan niet langer duuren:</l>
+<l>Mevrouw, je komt nou uit het huis van onze buuren,</l>
+<l>Wat dunktje, wie heeft nou van ons gelyk? kost jy</l>
+<l>Haar uit malkander tóch wel kennen van naeby?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wel ja, een blinde zelfs, zou daar verschil in merken.</l>
+<l>Wat malligheid komt jou in deeze dwaling sterken?</l>
+<l>Nicht is veel korter als de dóchter van myn Heer</l>
+<l>De Graaf; weg, zy gelykt, zeg ik, haar alzo zeer</l>
+<l>Als jy myn Nicht gelykt: ze is bruin van hair en oogen,</l>
+<l>Nicht, in het tegendeel, is blond.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Je bent bedroogen,</l>
+<l>Je hebt verkeerd gezien, Mevrouw, 't is zeker waer,</l>
+<l>Dat jy abuis hebt; zeg was zy niet blond van hair,</l>
+<l>Zeg, Rein, je weet het wel?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Ze is bruin; 'k zei wel te vooren,</l>
+<l>Dat jy had mis gezien, maar 't zeggen was verlooren.</l>
+<pb n="67"/>
+<l>Hoor, Meinsje, je word oud, jou oogen zien zo klaar</l>
+<l>Niet als voor deezen; dat is al de schorting; maar</l>
+<l>Jy slacht al de ouwe lui, zy willen het niet weeten,</l>
+<l>Ze worden boos als zy eens worden oud geheeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ja wel ik!...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Jy hebt flus jou bril niet op gehad,</l>
+<l>'t Gezicht word duister: want ik zeg je nóch eens dat</l>
+<l>Zy niet naar Nicht gelykt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Ja wel wat mot ik lyen!</l>
+<l>Myn oogen duister? neen, 'k laet 't hachje zo niet glyen,</l>
+<l>Zou ik niet kennen zien, dat is ien zótte kuur:</l>
+<l>Ja wel ke daer, ik word schier uit men tureluur.</l>
+<l>Om jou te toonen dat ik nóch niet hoef te brillen,</l>
+<l>Geef my ien boek, of brief, zo asje zelf zelt willen,</l>
+<l>Ik zel het leezen, ik kan zien, én hier van daen,</l>
+<l>De kommesaal die Rein daar op zen kin het staen:</l>
+<l>Zien dat de blinde lui? én op Mevrouw heur wangen,</l>
+<l>Zie ik ien droppel nóch van dat blankétsel hangen,</l>
+<l>Dat zy te nóchtend daer op smeerde.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Wel ik raas!</l>
+<l>De meid word dol én speelt hier onbeschaamd de baas.</l>
+<l>Zwyg; pakje goed by een, gy zult aanstonds vertrekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Mevrouw, ik bid, hoor....</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Wat Mevrouw? met my te gekken,</l>
+<l>En loogens op de mouw te spelden? pakje weg,</l>
+<l>Kom nooit in myn gezigt, én doe gelyk ik zeg.</l>
+<l>Blankétsel! niemand heeft ooit dus van my gesprookeh.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>De sloof wordt oud, het heeft haar aan 't gezicht ontbrooken.</l></sp>
+<pb n="68"/>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Geloof jy nu nóch niet dat jou gezicht vergaat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Je maakt me zinneloos met zulke zótte praat.</l>
+<l>Ik ben niet blind, ik zie zo wel gelyk veur deezen;</l>
+<l>Ik zou eer zeggen datje zelver blind mot weezen,</l>
+<l>Ik zie het minste ding, daer steekt een bosje haer,</l>
+<l>Dat grys is, uit Mevrouws Kornét, is dat niet waer?</l>
+<l>Ben ik nou blind?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Wat grys? ik ben niet grys.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 5tab">Laet kyken</l>
+<l>Mevrouw, 't is zeker waer; hier uit zel kennen blyken</l>
+<l>Dat ik wel zie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Wel hoe óf 't langer lukken zal.</l>
+<l>Gaa voort uit myn gezicht; ik zie de meid wordt mal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Mevrouw...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Zwyg stil, ik wil geen woord meer van je hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Moei 't is niet waerdig u daar over te verstooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Niet stooren? hoe! ik grys? je zult nóch deezen dag</l>
+<l>Vertrekken: ben ik grys?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Mevrouw, 'k bid dat ik mag...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik wil niet hooren, je zult daadelyk vertrekken,</l>
+<l>Hier helpt geen bidden, zal je zo stout met my gekken;</l>
+<l>Met my! geen meer respect te draagen? voort gaa weg,</l>
+<l>Kom nooit weer in myn oog, doe daad'lyk 't geen ik zeg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>'t Is wél ik gae, maar je meugt ook verzékerd weezen</l>
+<pb n="69"/>
+<l>Dat ik niet zwygen zel, 'k zel ook ien boekje leezen,</l>
+<l>Ik zel an alleman ontdekken dat je jou</l>
+<l>Altyd blankét, én smeert, al bin je ien Mevrouw,</l>
+<l>Dat scheelt me niet, zou ik daarom niet zeggen meugen</l>
+<l>Dat jy al grys bint? wel kedaer, het is gien leugen!</l>
+<l>Ik zeg het jou nóch iens, Mevrouw, je bint zo grys</l>
+<l>Gelyk ien duif, en zo je wilt dat ik 't bewys,</l>
+<l>Buk maar iens neer, 't zel in je nek zo daad'lyk blyken.</l>
+<l>Je bint al oud, en woudt noch gaerne jong gelyken.</l>
+<l>Je bint wel zestig jaar...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Wel is 'er dan geen raad,</l>
+<l>Om deeze meid...</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Zwyg stil, ik zegje datje gaat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Zwyg, Meinsje, zwyg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">'t Is goed, ik zel vast uit de hoeken,</l>
+<l>Myn goed, én kleeren in myn kist by ien gaen zoeken.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Kristine, Konstantia, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik ben 'er van ontsteld, is zy zo assurant?</l>
+<l>Dat is een meid! 'k geloof dat ze in het gantsche land</l>
+<l>Geen weerga heeft; ik grys? ja wel, 'k verlies myn zinnen,</l>
+<l>En zyn wel zestig jaar? wat mag dat beest beginnen,</l>
+<l>Ze zal voort uit myn huis.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Moei heeft gelyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Zal zy</l>
+<l>Zo spreeken? zulk een klein respect my toonen? my?</l></sp>
+<pb n="70"/>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Spreek zachjes Moei, ik zie <hi rend="i">Couzin</hi> na ons toe komen</l>
+<l>Van zyn Graavin; hy heeft zyn afscheid ras genomen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">François, Kristine, Konstantia, Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>MOei, pardonneeer my, en gy ook <hi rend="i">Couzine</hi>, dat</l>
+<l>Ik u zo daadelyk niet conduiseerde; ik had</l>
+<l>Met <hi rend="i">la Comtesse</hi> zo een onderhoud begonnen,</l>
+<l>Op een heel raar <hi rend="i">sujet</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Dat heeft hy wel verzonnen.</l>
+<l>Was 't zulk een raar <hi rend="i">sujet</hi>?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Voor zeker, <hi rend="i">par ma foi</hi>,</l>
+<l>Iets wonderbaarelyks, iets vreemds, <hi rend="i">ma Tante</hi>, <hi rend="i">Eh quoi?</hi></l>
+<l>'k Zie <hi rend="i">ma Couzine</hi> lacht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Ja zulk een groot genoegen</l>
+<l>Vindt zy in uw discoers, zy zal zich zelve voegen</l>
+<l>Naar myn believen, zy zal u met meer vermaak</l>
+<l>Aanhooren dan voorheen, zy krygt nu grooter smaak</l>
+<l>In al uw hoofsche zwier, en zal van u graag leeren,</l>
+<l>Hoe dat men aan het hóf <hi rend="i">gentil</hi> moet converseeren;</l>
+<l>Zy estimeert u. Heeft ze u flus niet meer faveur</l>
+<l>Getoond?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">In al den tyd dat ik haar Serviteur</l>
+<l>Geweest heb, ben ik nooit zo <hi rend="i">doux</hi> van haar ontfangen,</l>
+<l>'k Ben haar verobligeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Het zal van u afhangen</l>
+<l>Nóch verder in haar gunst te dringen, ik blyf borg.</l>
+<pb n="71"/>
+<l>Voor <hi rend="i">ma Couzine</hi>, zyt gerust op myne zórg.</l>
+<l>Ik zal haar zien voor u geheel te disponeeren.</l>
+<l>Zy zal...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Je vous rends grace</hi>. Ik zal u declareeren</l>
+<l><hi rend="i">Un grand secret</hi>, een zaak die my zo daad'lyk is</l>
+<l>Gerencontreerd, een zaak daar myn behoudenis</l>
+<l>En myn fortuin aanhangt, <hi rend="i">je suis de tout le monde</hi>,</l>
+<l><hi rend="i">Le plus heureux;</hi> maar ik deed ook zeer groote zonde,</l>
+<l>Om u myn Nicht nóch als galand te dienen, én</l>
+<l>My te engageeren met een and're Dame, 'k ben</l>
+<l>Alreeds geengageerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 6tab">Hoe gy u engageeren?</l>
+<l>En zonder my?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">Ik bid laat ik my excuseeren,</l>
+<l><hi rend="i">Ma Tante</hi>, ik weet dat gy 't, nóch uw <hi rend="i">aimable</hi> Nicht,</l>
+<l>Niet kwalyk neemen zult: 't is waar het was myn pligt</l>
+<l>Uw raad te vraagen, voor aleer dat ik die zaaken</l>
+<l>Zo ver pousseerde.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Maar engagement te maaken,</l>
+<l>En tóch met wie?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 5tab">Met <hi rend="i">la Comtesse</hi>, <hi rend="i">mon espoir</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Met <hi rend="i">la Comtesse</hi>? wel ik zal u myn <hi rend="i">pouvoir</hi></l>
+<l>Ook toonen op myn beurt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 7tab">Ik bid u hoor my spreeken,</l>
+<l>'k Vezeker u...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Ik wil myn hoofd niet met u breeken,</l>
+<l>My dit affront te doen?</l></sp>
+<pb n="72"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Verstaa...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">'k Wil niet een woord</l>
+<l>Meer van u hooren, zo gy uw belóften voort</l>
+<l>Niet wederom herroept.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Ah quelle impertinence</hi>;</l>
+<l>Een Graafschap is my veel meer waart als Nigt Konstance.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Inpertinente, is dit de loon voor alle vlyt</l>
+<l>Die ik heb aangewend? Ach! welk een groote spyt!</l>
+<l>Ik heb uit Zeeland hier Konstantia doen komen,</l>
+<l>Om dat ik by my zelfs voor lang had voorgenomen,</l>
+<l>Indien het moog'lyk was, u beyde door de trouw</l>
+<l>t'Saam te verbinden, op dat namaals daar door zou</l>
+<l>De aaloude Adel van ons stamhuis als voorheenen,</l>
+<l>Ja met meer luister als die immer heeft gescheenen,</l>
+<l>Uitblinken. Heb ik niet Konstantia belét,</l>
+<l>Ondankb're, dat zy zou zich zelf verbinden, met</l>
+<l>Heer Eelhart, die ik hoor van treffelyke vrinden</l>
+<l>En middelen te zyn, 'k wist dat ze elkaâr beminden.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma Tante</hi>, de Adel van ons stamhuis zal meer glans</l>
+<l>Verkrygen door myn echt met <hi rend="i">la Comtess'</hi>, die kans</l>
+<l>Dócht my dat aan ons huis, én my te groot een voordeel</l>
+<l>Beloofde, om af te staan, ik stél het aan uw oordeel.</l>
+<l>Hoe! een Graavin? Ik weet, schoon gy 't my reprocheert,</l>
+<l><hi rend="i">Ma Tante</hi>, dat gy myn verkiezing applaudeert.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Gy zyt verdwaald; ik uw verkiezing applaudeeren,</l>
+<l>'k Zég dat gy uit myn huis terstond zult delogeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Fiat <hi rend="i">donc</hi>, <hi rend="i">deloger</hi>; in 't Heere Logement</l>
+<l>Is plaats genoeg, men zoeke een kruyer hier omtrent?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Is 't ernst?</l></sp>
+<pb n="73"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Zo daadelyk zult gy 'er een gaan haalen,</l>
+<l>Dat hy voort met u komt, ik zal hem wel betaalen.</l>
+<l><hi rend="i">Je suis vôtre Valet</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 3tab">Ik blyf uw dienares.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zie toe!</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Om onze Nicht verlaat ik geen <hi rend="i">Comtés</hi>.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">François</hi>, <hi rend="i">zingende, Fille Bergere &amp;c</hi>. <hi rend="sc">Reinhart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>P<hi rend="i">Ar bleu</hi>, ik wil geen meer <hi rend="i">reproches</hi> hier verdraagen.</l>
+<l>Zaagt gy wel hoe <hi rend="i">ma Tante</hi> en <hi rend="i">ma Couzine</hi> zagen?</l>
+<l><hi rend="i">Voila mon drole</hi>, 't geen ik jou heb voorgespeld.</l>
+<l><hi rend="i">Je l'ai bien deviné</hi>. Hoe waaren zy ontsteld?</l>
+<l>Ik heb jou wel gezeid, dat ik noch eens zou toonen</l>
+<l>Aan <hi rend="i">ma Couzine</hi>, wie dat zy had durven hoonen.</l>
+<l><hi rend="i">La sorte beste</hi> hoe? het zal een <hi rend="i">grand depit</hi>,</l>
+<l>En hartzeer zyn voor haar, als zy my trouwen ziet.</l>
+<l>Zo maakt men zyn fortuin! Ach dat 's te kunnen leeven:</l>
+<l><hi rend="i">C'est avoir de l'esprit;</hi> dat kan het bloed ons geeven.</l>
+<l>Nu ziet ge 't onderscheid; flus kost je 't niet verstaan.</l>
+<l>Was ik geen Edelman, zy had het nooit gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Myn Heer, gy hebt beloofd een man van my te maaken:</l>
+<l>Zo ik in dienst kost van myn Heer den Graaf geraaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat hebje wonder wel bedócht, heel goed, <hi rend="i">bon</hi>, <hi rend="i">bon</hi>,</l>
+<l>'k Bekén het Reintje, dit 's <hi rend="i">une belle occasion</hi>,</l>
+<l>Om jou in zyn faveur heel diep te insinueeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Waar meê?</l></sp>
+<pb n="74"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Gaa wil hem jou <hi rend="i">services</hi> offereeren,</l>
+<l>Hy heeft my flus verzocht dat ik hem zenden zou</l>
+<l>Een Nederlander, die ik kende voor getrouw,</l>
+<l>Hy zoekt een Hollandsch knecht, 'k zal voor jou <hi rend="i">cautie</hi> blyven</l>
+<l>Van jou getrouwigheid, en verdere bedryven.</l>
+<l>Gaa assureer hem dit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">'k Ben u verpligt, myn Heer,</l>
+<l>Voor deeze groote gunst, en dank uw hart'lyk zeer,</l>
+<l>'k Gaa dan met uw verlof! en 'k hoop ik 't wel zal maaken</l>
+<l>Met den Heer Graaf.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Ik wensch succés aan uwe zaaken,</l>
+<l>Kom met me in huis, én zoek me al myn bagage strak</l>
+<l>Byéén, opdat ik my op 't spoedigst' heenen pak.</l>
+<l>Maar waar 's de kruyer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">'k Zal hem zenden, gaa maar binnen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaafde tooneel.</head>
+<stage><hi rend="sc">Reinhart</hi> <hi rend="i">klopt</hi>, <hi rend="sc">Kornelis</hi> <hi rend="i">doet open</hi>, <hi rend="sc">Michiel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>RAs, roep Michiel, 't is tyd, je lui moet straks beginnen,</l>
+<l>Of hy ontsnapt ons ligt. Hebje al je zaaken klaar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l>Wy zyn gereed, kom voort Kornelis.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Neem hem waar.</l></sp>
+<stage><hi rend="i">Reinhart gaat om de kruyer.
+<lb/>
+Einde van het Vierde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="75"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">François, Kristine, Kruyer</hi>, <hi rend="i">te gelyk met haar uiten huis komende, én een paar pistoolen, laerzen, een valles, en een Mantel op de kruywagen leggende</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Hola! <hi rend="i">prens garde</hi>, myn pistoolen niet te stooten.</l>
+<l><hi rend="i">Je suis fort obligé</hi> voor 't geen ik heb genoten,</l>
+<l><hi rend="i">Ma Tante</hi>; krui maar na het Heere Logement.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l><hi rend="i">Couzin</hi> 'k raa u nóch eens, zo gy te raaden bent.</l>
+<l>Bedenk wat dat je doet, het zal je wis berouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Dat gaa zo 't wil, ik hoop met <hi rend="i">la Comtés</hi> te trouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kruyer</hi>.</speaker>
+<l>Mevrouw mag ik wel in de buurt een pak óf vier</l>
+<l>Met goed ophyssen? ik ben daadelyk weer hier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ja loop maar heen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi> <hi rend="i">tegen de Kruyer</hi>.</speaker>
+<l rend="; 1tab">Maar maak dat jy jou niet doet zoeken,</l>
+<l>Ik ben vry haastig, <hi rend="i">en par bleu</hi> ik raak aan 't vloeken...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Hy is zoo kwaad niet, loop, want <hi rend="i">mon Couzin</hi> zal licht</l>
+<l>Hem nóch bedenken eer hy afscheid neemt van Nicht.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Non par ma foi!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Maar zie wat willen deeze luiden?</l></sp>
+<div type="scene">
+<pb n="76"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Kornelis</hi>, <hi rend="i">als een Notaris met eenig e papieren in de hand</hi>, <hi rend="sc">Kristine, François, Konstantia, Michiel</hi> <hi rend="i">als een Franschman</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi> <hi rend="i">tegen Michiel</hi>.</speaker>
+<l>HIer zou het moeten zyn, naar dat zy ons beduiden.</l>
+<l>Woont in dit huis Mevrouw Kristina?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 5tab">Myn Heer</l>
+<l>François, haar Neef woont by haar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 3tab">Indien ik de eer</l>
+<l>Mogt hebben, 'k wenschte hem een enkel woord te spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Dan komje recht van pas.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Wat mag dat vólk ontbreeken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Dat moet men hooren, maar ik loof niet naar ik uit</l>
+<l>Hun weezen speur, dat hunne aankomst veel goeds beduidt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wel nu wat brengen zy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Wel wouje dat ze iets bragten?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Het mogt 'er ligt naar zyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Laat haar niet langer wachten,</l>
+<pb n="77"/>
+<l>Het schynt zy hebben haast.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 7tab">Myn Heer zyt gy de man</l>
+<l>Dien wy hier zoeken?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">My? óch, ik weet nergens van.</l>
+<l>Wie zoekje vrind? ken je me? óf hebjy ons iets te zeggen,</l>
+<l>Zo maak het kort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 3tab">'k Heb iets dat ik u voor moet leggen?</l>
+<l>'k Ben een Notaris.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 5tab">Ha! dewyl u is bericht</l>
+<l>Dat ik met <hi rend="i">la Comtés</hi> zal trouwen, komje ligt</l>
+<l>Om my te bidden, dat ik u zon employeren</l>
+<l>Om 't Huwelyks Contrakt voor my te minuteren.</l>
+<l>Ik zweertje, daar 's myn hand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 7tab">Myn Heer dat was het niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat dan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 1tab">Ik zal het u voort zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 8tab">Fluks, gy ziet,</l>
+<l>Ik word gewacht; óf brengt gy geld? allons, laat hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l>Deez' man komt van Parys.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 6tab">Hoe klinkt hem dat in de ooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 2tab">Hy 's door een brief aan my geäddresseerd.</l>
+<l>En heeft een volmagt, voor getuigen gepasseerd,</l>
+<l>Om u te vraagen uit de naam van vyf Mevrouwen,</l>
+<pb n="78"/>
+<l>Die je elk bezonder hebt beloofd te zullen trouwen</l>
+<l>Of gy begeert dat zy met kinderen met al</l>
+<l>Hier zullen komen, om die trouw te vieren, 'k zal,</l>
+<l>De prokuratie, als wy voor de Heeren komen,</l>
+<l>U toonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Wie zou ooit van zulke dingen droomen,</l>
+<l>Is 't moogelyk? ja wel!</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Maar Moei ik sta als stom.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l>Ik heb noch niet gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi> <hi rend="i">tegen Kristine</hi>.</speaker>
+<l rend="; 3tab">Geloof je dit? waarom?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l>Wy hebben volle magt u in arrest te zetten,</l>
+<l>Zo gy my straks niet télt drie duizend pistoletten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wel!</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Wel van wien hebt gy die prokuratie?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 6tab">Ze is</l>
+<l>Van een Monfieur Kabot, 't is een banquier, die...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 7tab">Mis.</l>
+<l>Ik ken zo geen Banquier, ik ben hem ook niet schuldig.</l>
+<l>Ik raas van ongeduld. Durft gy...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 5tab">Niet onverduldig.</l>
+<l>Hy woont, laat zien, het is... zo in een naauwe straat,</l>
+<l>Ik zal u zeggen waar uit deeze schuld ontstaat;</l>
+<l>Hy heeft verscheide van uw crediteurs doen tellen</l>
+<l>Een som, waar voor zy hem in handen moesten stellen</l>
+<l>Uw Obligacien, wyl hy in deeze stad</l>
+<l>Wat meerder vrinden, en korrespondenten had.</l></sp>
+<pb n="79"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat crediteuren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 2tab">Hoor: het is een resje t'zaamen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat resje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 1tab">Ik heb juist niet onthouden al die naamen.</l>
+<l>Althans Doktooren, én Tandtrekkers, Orvitaan,</l>
+<l>En Chirugyns, zag ik ook onder and'ren staan,</l>
+<l>Elk van die had u van een zwaare kwaal geneezen,</l>
+<l>Van die Spanjolos, zo 'k de naam wel heb geleezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wel nou is 't anders niet? een schoone bagatél!</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat grouwlen hoor ik?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Moei, wie zou dat denken? wél.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l>'k Moet antwoord hebben; óf gy my zult konsenteeren</l>
+<l>Of niet, opdat ik my hier na kan reguleeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat konsenteeren, he?</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">Oui</hi>, zó mot ze zék,</l>
+<l>Of ze zou protesteer.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 5tab">Snoer jy altyd den bek</l>
+<l>Verrotte waal!</l></sp>
+<sp>
+<speaker><hi rend="sc">Michiel</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">Mort bleu</hi>!</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 4tab">Laat my maar met hem spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik mag myn hoofd niet met die beuzelingen breeken.</l></sp>
+<pb n="80"/>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l>Hoe! beuzelingen, Heer. Hebt gy dan niet gehoord</l>
+<l>Wat ik gezegd heb? ik zeg u dat gy me voort,</l>
+<l>Zult moeten tellen achtentwintig duizend gulden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat! hebt gy in Parys gemaakt zo groote schulden?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wel lieve deugd! wat 's dat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 5tab">Hoe, vraagje wat is dat?</l>
+<l>Acht gy zo grooten som niet meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">Ma Tante</hi>, wat</l>
+<l>Zou ik dat achten? dat is niet de pyne waardig</l>
+<l>Om van te spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 4tab">Wel <hi rend="i">Couzin</hi> dat vind ik aardig.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik acht die som niet meer als gy een Dukaton.</l>
+<l>'t Is wel gebeurd dat ik met eenmaal <hi rend="i">Va</hi>, meer won,</l>
+<l>Ook wel verloor.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 3tab">Kom, kom, gy moet my straks betaalen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wel ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 1tab">Maar op deez' dag, zie daar moest niet aan faalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zou Neef u deezen dag zoo merkelyke som</l>
+<l>Noch tellen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kornelis</hi>.</speaker>
+<l rend="; 2tab">Ja Mevrouw, gewis hy moet. Kom, kom</l>
+<l>Monsieur, laat ons op straat niet raazen nóch niet kyven,</l>
+<l>Ik zal zo dadelyk 't protest voor u gaan schryven,</l>
+<l>In deeze stad is recht, schoon hy de schuld ontként.</l>
+<l>Wy vinden hem hier naa wel in zyn logemént.</l></sp>
+</div>
+<div type="scene">
+<pb n="81"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Konstantia, Kristine, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>WAt dunkt u Moei?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Hy wacht nóch wel wat meerder dagen,</l>
+<l>En krygt hy 't dan nóch maar, zo heeft hy niet te klaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Vous riez, bon</hi>. Ik zal ook lachchen <hi rend="i">a mon tour</hi>,</l>
+<l>Als ik getrouwd zal zyn met <hi rend="i">la Comtesse, un jour</hi>.</l>
+<l>Haar inkomst zal my haast gelegenheid fourneeren</l>
+<l>Om al dit lachchen, en dit schamperlyk raljeeren,</l>
+<l>Nóch eens hier naa u weêr te brengen in den zin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Zou ik niet lachchen? gy roemt zo van die Graa vin,</l>
+<l>Het is al <hi rend="i">la Comtesse</hi>, als of ze al had beweezen</l>
+<l>Het Graafschap van haar vaâr; men heeft wel meer voor deezen</l>
+<l>Gezien, dat iemand hier hoog opgegeeven heeft,</l>
+<l>Die in zyn vaderland had van den ploeg geleefd.</l>
+<l>Wat zekerheid hebt gy dat zy 't niet heeft geloogen?</l>
+<l>Daar zyn wel gaauwer lui op deeze wys bedroogen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Enquoi, ma Tante? quoi?</hi> meent gy dat ik niet kan</l>
+<l>Aan iemand zien, of hy een Vórst, óf Edelman,</l>
+<l><hi rend="i">Un Duc, un Prince, un Comte</hi>, óf burger is; de trekken</l>
+<l>Van 't weezen kunnen my dat <hi rend="i">sur le champ</hi> ontdekken.</l>
+<l>Wel aan, ik zou zo lang zyn <hi rend="i">à la Cour</hi> geweest,</l>
+<l>En dat niet kunnen zien? wees daar niet voor bevreesd,</l>
+<l><hi rend="i">Je vois cela d'abord, &amp; vous me faites rire</hi>.</l>
+<l><hi rend="i">Elle est Comtesse, oui, cela s'entend sans dire</hi>,</l>
+<l>Zy hoeft geen blyken van haar staat en Graaf'lykheid;</l>
+<l>Haar weezen toont het klaar, <hi rend="i">pour moi</hi>, ik ben bereid,</l>
+<pb n="82"/>
+<l>Haar onder eeden <hi rend="i">un certificat</hi> te geeven,</l>
+<l>Dat ze een <hi rend="i">Comtesse</hi> is: Ah! zy weet <hi rend="i">gentil</hi> te leeven.</l>
+<l><hi rend="i">Je vous assure</hi>, dat de Graafelyke staat,</l>
+<l>By haar <hi rend="i">a yeuls</hi>, voor lang al in den hoogsten graad</l>
+<l>Gevoerd is, ik kan dat zo zéker in haar handen</l>
+<l>En oogen zien, dat ik daar voor wel durf verpanden</l>
+<l>Myn hoofd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 1tab">Ah! <hi rend="i">mon Couzin</hi>... gy waagt uw hals te ligt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Non, ma Couzine, non</hi>, ik gaa vast op myn gezicht;</l>
+<l>En daarenboven heeft zy my een preuf gegeeven,</l>
+<l>Dat my geen twyfeling meer over is gebleeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat preuve?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Un Diamant</hi>, die haar meer komt te staan</l>
+<l>Dan duizend Dukatons, zie, ik heb die nóch aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Maar hebt gy al verstand van steenen en van ringen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Que me demandez vous</hi>? zeg tóch eens van wat dingen</l>
+<l>Heb ik geen kennis? 'k Ben in alles geverseerd,</l>
+<l>En in Juweelen is geen mensch die my passeert;</l>
+<l>Ik ken de fouten, 'k weet hoe dat me een steen moet zetten:</l>
+<l>'k Heb in Parys alleen wel duizend pistoletten</l>
+<l>Aan Diamanten, en Juweelen gespendeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>Wat deedt gy daar meê Neeff</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Wel ik heb die vereerd</l>
+<l>Aan Dames, Nicht; hoe dat verstaat zich zonder vraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>De Juweliers, geloof ik, dat u gaerne zagen?</l></sp>
+<pb n="83"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Oui da, par la mort</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Zy hadden groot gelyk,</l>
+<l>Zy worden in het kort van zulke kooplui ryk:</l>
+<l>Zo gy een valschen steen zo hoog by hen waardeerde,</l>
+<l>Als hier...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Hoe valsch?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Ja dien u <hi rend="i">la Comter</hi> vereerde,</l>
+<l>Is valsch.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Comment!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Het is een Amersfoordet steen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Ik lach om Amersfoort, <hi rend="i">ma Tante!</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 5tab">'t Is 'er een.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ab, Vous avez raison</hi>. Dat hebje niet vergeeten,</l>
+<l>Maar de Amersfoorder zyn de beste, moet je weeten.</l>
+<l><hi rend="i">Mais quoi? vous riez</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Wel wie óf niet lachchen zou</l>
+<l>Om zulk een dwaasheid! Neef, nu zie ik dat ik jou</l>
+<l>Niet recht gekend heb, want nu toont gy uw gebréken,</l>
+<l>'k Zie gy weet nérgens van, en wilt van alles spreeken;</l>
+<l>Wat mensch, 'k zwyg Juwelier, was ooit zo zeer ontzind,</l>
+<l>Dat hy de steenen die men te Amersfoort veel vindt,</l>
+<l>Nóch hooger achtte als die wy uit het Oosten krygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>'k Zal me expliceeren, zo gy maar zo lang wift 2 wygon.</l>
+<l>Ik zeg dan Amersfoort, een Stad dicht aan de zee,</l>
+<pb n="84"/>
+<l><hi rend="i">Ma Tante... Le Ocean</hi>... het heeft een schoone Ré,</l>
+<l>En grénst aan Pérsië, daar vindt men Diamanten,</l>
+<l>Zo schoon. dit magtig volk zénd, dik wils hun gezanten,</l>
+<l>In Ambassade...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Hoe nóch slimmer? Amersfoort</l>
+<l>Legt dat in Pérsië? Wel wie heeft ooit gehoort</l>
+<l>Van zulk een stoutheid; dat gy nóch veel op durft geeven</l>
+<l>Van Vrankryk, dat gaat heen, daar ben ik onbedreeven;</l>
+<l>Maar zo te spreken van een stad die zo na by</l>
+<l>Gelegen is aan de Eem, en uitkomt aan het Y,</l>
+<l>Een stad daar men van hier in weinig tyds kan komen,</l>
+<l>Dat is belachchelyk; wat hebt gy voorgenomen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma Tante, excuses moi</hi>. Hoe is 'er in dit land</l>
+<l>Dan ook een Amersfoort?</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l rend="; 3tab">Maar, Neef, acht gy 't geen schand</l>
+<l>Zelfs in uw vaderland zo onbekend te weezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Non, ma Couzine, non</hi>, daar wordt men om gepreezen;</l>
+<l>Geen Cavallier zal zich zo veel verneed'ren, om</l>
+<l>Dit land te noemen, neen, ik was veel liever stom,</l>
+<l>Ja, <hi rend="i">ma Couzine</hi>, ik zou niet willen nomineeren</l>
+<l>De stéden, schoon ze my daar wilde voor vereeren</l>
+<l>Al 't zilver, goud en geld, dat in die stéden is.</l>
+<l><hi rend="i">Je suis trop bon François assurement</hi>, gewis.</l>
+<l rend="; 1tab">[<hi rend="i">Konstantia gaat stil in huis</hi>.]</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Aapekoopster, François, Kristine</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l>MOnsieur, ik hadje graag om 't ov'rig geld gebéden.</l>
+<l>Voor 't Aapje.</l></sp>
+<pb n="85"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab"><hi rend="i">Bon</hi>. Deez' spreekt nóch met civile reden.</l>
+<l>Je hebt een pistolét op hand ontfangen, wacht;</l>
+<l><hi rend="i">Pour vôs civilitez</hi> zo geef ik je 'er nóch acht.</l>
+<l>Mars.</l></sp>
+<sp>
+<speaker><hi rend="sc">Aapekoopster</hi>.</speaker>
+<l rend="; 1tab">Gramersys, Monsieur.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Meinsje, Kristine, François</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 2tab">Mevrouw, van al myn leeven</l>
+<l>Heb ik 't zo duidelyk niet gezien as nou daer éven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat hebje weêr gezien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 4tab">Wat ik gezien heb: wél,</l>
+<l>Je looft me tóch niet as ik jou de zaak vertél,</l>
+<l>En jaagt me 't huis uit; 'k zei dat 'k uw Nicht flus in de armen,</l>
+<l>Hier naest had van ien Heer ezien, en zonder scharmen,</l>
+<l>Zy heur liet kussen, men deed my het liegen, maar</l>
+<l>Nou héb ik 't weêr ezien wel duidelyk en klaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat zegje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Ja Mevrouw, ik zelt jou uit gaen leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Ik acht jou zien niet veel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 3tab">Mevrouw, laet my iens zeggen.</l>
+<l>Hoor dan Mevrouw. Ik zócht in alle haest myn goed</l>
+<l>By één, en dócht vast, zo ik nu verhuizen moet,</l>
+<l>Dat is dat kleuters schuld, mit zie zie ik heur zelfs komen,</l>
+<l>Zy leek verbaasd, en heeft de sleutel voort genomen,</l>
+<pb n="86"/>
+<l>Van heure kamerdeur, zy had die in heur zak;</l>
+<l>'k Riep Jufvrouw, maar zy wouw niet hooren, en zy stak</l>
+<l>De sleutel by 'er; wie zou denken zulke dingen,</l>
+<l>Zy smyt de deur weer toe; óf 't slót niet óf wou springen,</l>
+<l>Of dat iet anders dat belette, 'k zie de deur</l>
+<l>Staet an, toen dócht ik strak nou heeft ze wis wat veur;</l>
+<l>Ik vólg, en zie dat zy sluipt achter de tapyten,</l>
+<l>Ik loop 'er schielyk na, ik dócht, ik wil me kwyten,</l>
+<l>Van mynen plicht, en zien... Mevrouw ik vind den muur</l>
+<l>Daar door geslagen, wel wat dunkje van die Kuur?</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Maar, Meinsje, is 't wel waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Mevrouw kan 't zelver kyken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Couzin wat dunkt u waar die dingen naar gelyken?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma foi ma Tante</hi>, ik weet niet wat ik dénken zal:</l>
+<l>Een doorgebroken muur! ik loof de meid is mal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ja mal jy maar wat heen, wil jy het ook niet looven?</l>
+<l>Het raakt jou meer as myn, ze is al vast heen estoven.</l>
+<l>Dóch 't scheelt jou hachlyk niet, verlies jeien Nicht, jy krygt</l>
+<l>Weêr ien Gravin in plaats.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 2tab">Wel hoe Couzin gy zwygt.</l>
+<l>Dit spel wordt heel verward! ik zie daar iemand komen,</l>
+<l>Die naar den Graaf gelykt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab"><hi rend="i">Ma Tante</hi> 't schynen droomen.</l>
+<l><hi rend="i">Oui par bleu restez ici pour un moment</hi>.</l>
+<l>Ik zal met Meinsje gaan en zien van de and're kant</l>
+<l><hi rend="i">Si c'est la verité</hi>, en hoe 't daar is geschaapen.</l>
+<l><hi rend="i">Jarni</hi>, 'k beklaag myn goud, de Duivel baal al de Aapen.</l>
+<l>Ik kom zo daad'lyk weêr,</l></sp>
+</div>
+<div type="scene">
+<pb n="87"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Stoffel, Kristine, François, Mrinsje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l rend="; 2tab">MYn Heer, geloof me vry,</l>
+<l>Blyfhier, 'k verzekér u de ontwarring is na by</l>
+<l>Van uw Comedie, gy zult tyds genoeg beschouwen,</l>
+<l>Den doorgebroken muur.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab">Voor wien moest ik u houwen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Voor Graaf <hi rend="i">pour vous servir</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab"><hi rend="i">Eh bien ma Tante?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 5tab"><hi rend="i">Eh bien</hi>;</l>
+<l><hi rend="i">Couzin</hi> gy zwygt.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">'t Is waar; <hi rend="i">Mait vous ne dites rien</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Wat zoude ik zeggen?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab"><hi rend="i">Ah! Ah! La maudite jupe</hi>,</l>
+<l>Ze houden my in 't ééne en 't andere huis <hi rend="i">pour dupe</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Gy hebt 'er wél veel meer bedroogen in Parys,</l>
+<l>Zo wordt men tót zyn schande en schaade eens eind'lyk wys.</l>
+<l>Maar dat 's niet al, hier zyn twee déftige Edellieden,</l>
+<l>Waar van den één u komt zyn handschoen aan te bieden</l>
+<l>Om... Maar daar is den één, misschien dat gy hem kent.</l></sp>
+</div>
+<div type="scene">
+<pb n="88"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">François, Reinhart, Kristine, Meinsje, Stoffel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>HOe Rein een Edelman?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">O ja François, ik ben't,</l>
+<l>Van stam en deugd veel meer dan gy zoudt kunnen weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Lakei!</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Maar dat gy 't zyt bleek nimmermeer voor deezen.</l>
+<l>En dat ik 't om uw Moei niet liet. [<hi rend="i">wyzende op zynen dégen</hi>.]</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Laat hem begaan,</l>
+<l><hi rend="i">Couzin</hi>, op dat hy ons de waarheid doe verstaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Mevrouw, Heer Eelhart, die voor lang met hart en zinnen</l>
+<l>Beslooten had uw Nicht Konstantia te minnen,</l>
+<l>Kreeg door de meid, die haar tót uwent heeft gebragt,</l>
+<l>De tyding dat zy wierdt met zulk een naauwe wacht</l>
+<l>Bewaard, dat zy geen brief ontfangen kost nóch schryven,</l>
+<l>Dat zy voor altoos hier misschien zou moeten blyven;</l>
+<l>Dewyl dat gy haar aan uw Neef had toegezégd.</l>
+<l>Hy moest na Mech'len, om een zaak die daar in récht</l>
+<l>Bepleit zou worden, daar hem veel was aan gelégen.</l>
+<l>Hy vondt zich zelfs benard, zyn hart was wel geneegen,</l>
+<l>Om zyn Konstantia, zyn lieve minnaarés,</l>
+<l>Te zoeken te Amsterdam; maar dan liep zyn procés</l>
+<pb n="89"/>
+<l>Gevaar. Hy vraagt my raad in deeze zwaarighéden;</l>
+<l>Ik raad hem, dat hy trék na Mech'len om veel réden,</l>
+<l>En ik beloof hem, zélf na Amsterdam te gaan,</l>
+<l>Al aan te wenden wat my dunkt te zyn geraên.</l>
+<l>Hier komende, kon ik nooit eenig middel vinden,</l>
+<l>Om met Konstantia te spreeken, óf door vrinden</l>
+<l>Een brief te geeven, dóch 'k vond haast bekwaame stóf;</l>
+<l>'k Had voor twee jaar François gezien aan 't Franse hóf,</l>
+<l>Ik kende zyn humeur, 'k verkleê my, zoek te raaken</l>
+<l>In zynen dienst, het welk ik ligtelyk kon maaken,</l>
+<l>Met hem te pryzen, en te spreeken naar den mond.</l>
+<l>Ik was nóch naauw in huis, of ik ondék terstond</l>
+<l>My aan Konstantia, die my daar op verklaarde</l>
+<l>Hoe 't stond, en dat gy haar voor Frans alleen bewaarde:</l>
+<l>Zy stondt my toe, dat ik zoude alle list en vlyt</l>
+<l>Aanwenden, opdat zy wierdt van François bevryd;</l>
+<l>Dat ik, indien ik kost, een eerlyk middel vinden,</l>
+<l>Haar overleev'ren zoude aan Eelhart, óf zyn vrinden;</l>
+<l>Zy was verzékerd, dat haar Oom en Voogd met een,</l>
+<l>Met Eelhart's midd 'len en geslacht wél was te vreên.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Wat dunkt <hi rend="i">ma Tante?</hi></l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 1tab">Ik wist gelukkiglyk te ontdekken,</l>
+<l>Den dag, dat gy al t'faam zoudt na uw hofsteê trekken:</l>
+<l>'k Wist dat het huis hier naast had langen tyd te huur</l>
+<l>Gestaan, en met uw huis had een gemeenen muur.</l>
+<l>Ik huur het, en ik heb, gelyk het was besteeken,</l>
+<l>De muur in het vertrék uws Nichts, stil door doen breeken,</l>
+<l>Daar die door 't goude leer bedekt is, en deez' man</l>
+<l>Die vol intrigues is, en zeer veel taalen kan,</l>
+<l>Wist in dit huis zo wel de ról van Graaf te speelen,</l>
+<l>Dat ons Voorneemen is gelukt in alle deelen,</l>
+<l>Ook heeft zyn dóchter hier niet weinig toe gedaan.</l>
+<l>Maar daar komt uwe Nicht met haaren Bruigom aan.</l></sp>
+<pb n="90"/>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Haar Bruidegom?</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l rend="; 1tab">Mevrouw heb ik je non bedroogen?</l>
+<l>Ik heb niet mis ezien, nou zie je 't met jouw oogen.</l></sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste, <hi rend="i">en laatste</hi> tooneel.</head>
+<stage><hi rend="sc">Konstantia, Eelhart, Kristine, François, Reinhart, Meinsje, Jakomyn, Kruyer, Stoffel, Michiel</hi>, en <hi rend="sc">Kornelis</hi>, <hi rend="i">in Lakeis kleederen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Konstantia</hi>.</speaker>
+<l>MOei 'k bid onschuldig my, 'k verzéker u de tyd</l>
+<l>Zal toonen dat gy niet wel onderricht en zyt</l>
+<l>Van Eelhart, en François.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l rend="; 3tab">Mevrouw, gy zult niets vinden</l>
+<l>Dat u mishaagen zal, ik ben by al uw vrinden</l>
+<l>In Zeeland, wel bekénd; en ik verzoek uw woord</l>
+<l>Niet eerder voor dat gy gerust zyt zo 't behoort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Dat is ook reed'lyk, en ik zal daar over schryven,</l>
+<l>Om van de waarheid voor altoos gerust te blyven.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma Tante</hi>...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Zwyg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l rend="; 2tab">Mevrouw, 'k bid ondertusschen, dat</l>
+<l>Ik heb op deeze wys...</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 3tab"><hi rend="i">Voila ma Tanté</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Al wat</l>
+<l>Hier in mag zyn misdaan, vergeef ik u van harten.</l>
+<pb n="91"/>
+<l>Nicht heeft gelyk gehad, het zou my altyt smarten,</l>
+<l>Dat zy getrouwd was aan een kwistgoed als Couzin.</l>
+<l>'k Heb hem niet recht gekend, hy heeft my door denschyn</l>
+<l>Bedroogen: Reinhart heeft zich als een vriend gekweeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>Heer Eelhart, zult gy uw belóften ook vergeeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Eelhart</hi>.</speaker>
+<l>Gy doet my ongelyk, vergeeten! hoe myn Heer,</l>
+<l>Van wien ik zo veel gunst ontfangen heb en eer,</l>
+<l>'k Ben niet ondankbaar; 'k zal myn woord u aad'lyk houwen.</l>
+<l>Myn zuster zal met u, is 't haar verkiezing, trouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l><hi rend="i">Ma Tante</hi>...</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 1tab">Zwyg. Myn Heer, schoon ik nu heb verstaan</l>
+<l>Al 't geen door uw beleid is in dit werk gedaan,</l>
+<l>Zo wensch ik nóch, dat my de waarheid was gebleeken</l>
+<l>Van 't geen de Crediteur en de Notaris spreeken:</l>
+<l>'k Begryp niet hoe dat paar in deezen handel komt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l>'t Zyn onze knechts, Mevrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 4tab">Uw knechts? ik staa verstomd.</l>
+<l>Wat wil dat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Reinhart</hi>.</speaker>
+<l rend="; 2tab">Al het geen ze uw Neef te lasten leggen,</l>
+<l>Is waar, hy zal 'er zelf niet durven tegen zeggen,</l>
+<l>'k Bedacht die vond om u de zaak te doen verstaan,</l>
+<l>En was't in't eerst slechts spél, 't zal haast natuurlyk gaan.</l>
+<l>Met de eerste Fransche post zal hy de brieven krygen,</l>
+<l>Daar zy van spreeken, ik behoef het niet te zwygen:</l>
+<l>Hy heeft het zelf gezégd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l rend="; 3tab">Is 't waar <hi rend="i">Couzin?</hi></l></sp>
+<pb n="92"/>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 6tab"><hi rend="i">Oui</hi>,</l>
+<l><hi rend="i">Ma Tante</hi>, óf ik het al wil loochenen; <hi rend="i">je suis</hi></l>
+<l><hi rend="i">Au desespoir</hi>, indien gy my geen geld wilt geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>'k Hoor nu hoe die Messieurs in Vrankryk spoorloos leeven.</l>
+<l>Maar daar bedenk ik iets, waar door gy zéker kunt</l>
+<l>U van uw Crediteurs ontslaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 4tab">Ja, schoot gy munt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Neen, na Oostindien, wy zullen 't zien te maaken,</l>
+<l>Dat gy voor Assistent óf zo iets aan zult raaken.</l>
+<l>Zyt gy te vreên?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 2tab">Wel ja: maar <hi rend="i">par nécessité</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kristine</hi>.</speaker>
+<l>Geluk, Heer Eelhart, met Konstantia, kom treê</l>
+<l>In huis, men moet my dien doorbrooken muur eens toonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Meinsje</hi>.</speaker>
+<l>Ai Juffrouw, bid Mévrouw, dat ik mag blyven woonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Konstatia</hi>.</speaker>
+<l>Ik zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi> <hi rend="i">tegen François</hi>.</speaker>
+<l rend="; 1tab">Wel spreekt gy uw Gravin nu niet eens aan?</l>
+<l>Is uw genegenheid, myn Heer, zo haast vergaan?</l>
+<l>Ik blyf uw dienaarés tót allen tyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 5tab">Kanaalje!</l>
+<l><hi rend="i">Mais je te payerai</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 3tab">Wat koeterje, wat maalje?</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi> <hi rend="i">tegen den Kruyer</hi>.</speaker>
+<l>Hoe rékel, komje nou eerst weêr?</l></sp>
+<pb n="93"/>
+<sp>
+<speaker><hi rend="sc">Kruyer</hi>.</speaker>
+<l rend="; 3tab">Neen, 'k hebje al lang</l>
+<l>Gewacht, myn Heer, maar ik was al te schrik'lyk bang</l>
+<l>Om jou te steuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l rend="; 1tab">Jy meugt voor den duivel bruyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l>'t Is béter dat jy jou laat naa het dolhuis kruyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>O varken! Vlégel breng myn equipagie weer</l>
+<l>In huis. Moffinne pels!</l></sp>
+<sp>
+<speaker><hi rend="sc">Jakomyn</hi>.</speaker>
+<l rend="; 2tab">Ik lach met jou, men Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">François</hi>.</speaker>
+<l>Van elk bespót, veracht, is 't niet om te creveeren?</l>
+<l>Maar'k zal my, zo ik ik kan, dat zweer ik, revengeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Stoffel</hi>.</speaker>
+<l>Monsieur François heeft hier natuur'lyk wel verbeeld</l>
+<l>De dwaaze en slechte ról, die meenig lósból speelt.</l></sp>
+<stage><hi rend="i">Einde van't Vyfde en laatste Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="chapter">
+<pb n="94"/>
+<head rend="h3">Copy van de privilegie.</head>
+<p>DE Staaten van Holland en Westvriesland, <hi rend="i">Doen te weeten</hi>, Alzo ons vertoond is by die van het <hi rend="i">Kunstgenootschap</hi> NIL VOLENTIBUS ARDUUM, tot Amsterdam, hoe dat zy Supplianten, op 't voorbeeld van Italiaansche, Engelsche, en Fransche Academien, voor veele Jaaren, met zorg, moeiten, en ongemeene kosten, hun Kunstgenootschap hadden opgerecht tot opbouwing en voortsetring van de Nederduitfche Taale en Dichtkonst; ten welke einde de Supplianten, en hun Kunstgenootschap, door ons op <hi rend="i">den</hi> 14. <hi rend="i">van Maart</hi>, 1692. was beganitigt by continuatie van hunne voorgaande Privilegie of Octroy, om geduurende den tyd <hi rend="i">van vyftien Jaaren</hi>, alle hunne Werken, en die deizelver Leden, als toen reeds gemaakt, gedrukt, en ingevolge van tyd verder te maaken, te drukken, herdrukken, uit te geeven, en te verkoopen, en zulks by uitsluiting van alle anderen, onder wat pretext dat het ook zouden mooge weezen, alleen te mogen drukken, herdrukken, uitgeeven, en verkoopen <hi rend="i">in zodaanigen formaat, en Taalén</hi>, als het den Supplianten geraaden zouden vinden, en dat op zulke straffen, of peenen voor de Contraventeurs als breeder by 't voorgaan de Octroy uitgedrukt stont. En dewyl de gemelde Onze Privilegie op den 14. <hi rend="i">deezer Maand Maart</hi>, stont te expireeren, en zy Supplianten gaarne in hunnen arbeid en yver zonden volharden, en groote onkosten hadden gedaan, dagelyks doen, en vervolgens doen zouden, onder andere met het uitgeeven van eene Nederduitsche Grammatica, gelyk ook met hunne werken te vercieren met titelprenten, en andere kopere kunstplaaten, en Muzykstukken, naar vereisch der zaaken: En beducht zynde, niet zonder reden, dat eenige baatsoekonde Menschen, op de oene of de andere wyze, tot ontluistering hunner werken en groote schade en nadeel der Supplianren, ben daar in zouden zoeken te onderkruipen, met hunne werken in 't geheel of ten deelen, met, of zonder net Muzyk, en
+de kunittitels, en andere prenten na te doen maken, drukken, verkoopen, of verruilen; vinden de Supplianten zich genootzaakt haar wederom te keeren tot ons, verzoekende dat het onze goede geliefte mogte zyn, de Supplianten met onze privilegie als boven gemeld te begunstigen voor den tyd van <hi rend="i">Vyftien cerst komende Jaaren</hi>, om gedurende den zelven tyd alle de voorlchreven werken, in zodanigen formaar en taale, reeds gemaakr, gedrukr, en ingevolge van tyd verder te maaken, alleen te mogen drukken, herdrukken, uit te geeven en te verkoopen, en zulks by <hi rend="i">uitsluitinge van aile anderan</hi>, onder wat pretext dat het ook zoude mogen weezen, en dat op zulke straffe en peene, en Confiscatien van alle zodanige nagedrukre Exemplauren, tegens de Contraventcurs te stellen, als wy zouden achten te behooren, en vereischt te zyn, ten einde de Supplianten in toekomende mogen erlangen volstrekter effect van ons voorschreeven Octroy, als zy tot nog toe hadden genoten, ter zaake van baatzuchtige lieden, niet tegenstaande onze voorige verleende Octroyen, haar niet hadden ontzien verscheiden van 's Kunstgenootschaps werken en derzalver Leden,
+<pb n="95"/>te hebben doen nadrukken, en de Contraventeurs daar over door de Supplianten niet gecalangeert, en in rechten betrokken waaren, om in geen zwaarder kosten te vervallen, als de boeten als toen daar op gesteld hadden kunnen goet maken. ZO IS'T, dat wy de zaake en 't verzoek voorschreven overgemerkt hebbende, en genegen wezende ter beede van de Supplianten uit onze rechte wetenschap, Souveraine magt en Authoriteit dezelve Supplianten geconsenteert, geaccordeert en geoctroyeert hebben, Consenteeren, Accordeeren, en Octroyeeren mits deezen, dat zy geduurende den tyd van <hi rend="i">vyftien eerst achter een volgende Jaren</hi>, alle de voorschreven werken by continuatie binnen den voorsz, onze Lande alleen zullen mogen drukken, uitgeven, en verkopen, verbiedende daarom alle en een iegelyken <hi rend="i">alle dezelve werken in 't geheel of ten deelen</hi> naar te drukken, ofte elders nagedrukt, binnen den zelven onzen Lande te brengen, uit te geven of verkoopen; op de verbeurte van alle de naargedrukte, ingebragte, ofte verkochte Exemplaaren, en een boete van drie hondert guldens daar en boven te verbeuren, te appliceeren een derde part voor den Officier, die de calangie doen zal, een derde part voor den Armen der plaatse daar 't casus voorvallen zal, en't resterende derde part voor de Supplianten; In dien verstande, dar wy de Supplianten met deezen onze Octroye alleen willende gratificeeren tot vergoeding van haare schade, door 't nadrukken van alle de voorschreven werken, daar door in geenigen deele verstaan den inhoude van dien te authorizeeren ofte te advoueren en veel min 't selve onder onze protectie en bascherminge, eenig meerder credit, aanzien, ofte reputatie te geeven, nemaar de Supplianten, in cas daar inne iets onbehoorlyks zoude influeeren, alle het zelve tot haren lasten zullen gehouden wezen te verantwoorden, tot dien einde wel expresselyk begeerende, dat by aldien zy dezen onzen Octroye voor alle de voorschreven werken zullen willen stellen,
+daar van geen geabbrevieerde ofte gecontraheerde mentie zullen mogen maaken, nemaar gehouden wesen, het selve Octroy in 't geheel en zonder eenige omissie daar voor te drukken, ofte doen drukken, ende dat zy gehouden zullen zyn een Exemplaar van de voorschreve werken, gebonden en wel geconditioneert, te brengen in de Bibliotheek van onze Universiteit tot Leiden, en daar van behoorlyk te doen blyken; alles op peene van 't effect van dien te verliezen; Ende ten einde de Supplianten deze onze Consente en Octroye mogen genieten, als naar behooren, lasten wy alle en iegelyken die 't aangaan mag, dat zy de Supplianten van den inhoude van deeze laaten, en gedoogen, rustelyk, vredelyk en volkomentlyk genieten en gebruiken, Cesserende alle belet tex contratie. Gedaan in den Hage onder onzen grooten zeegele hier aan doen hangen, op <hi rend="i">den</hi> 14. <hi rend="i">Maart</hi>, in 't Jaar onzes Heeren en Saligmakers, zeventien hondert en zeven.</p>
+<p>A. <hi rend="spat">HEINSIUS</hi>. Vt.</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>SIMON <hi rend="sc">van</hi> BEAUMONT.</p>
+</div>
+</body>
+</text>
+
+</TEI.2>

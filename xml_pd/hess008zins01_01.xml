@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Zinspeelende liefdens gezangen</title>
+               <author>Willem Hessen</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Zinspeelende liefdens gezangen</hi> van Willem Hessen uit 1741.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 6</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">hess008zins01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2010 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar  Meertens Instituut, signatuur: 3978 Gesloten Kast: C 29</idno>
+               </bibl>
+               <p>Willem Hessen, <hi rend="i">Zinspeelende liefdens gezangen</hi>. Izaak van Hulkenroy, Haarlem 1741</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Zinspeelende liefdens gezangen</title>
+               <author>Willem Hessen</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Zinspeelende liefdens gezangen</title>
+               <author>Willem Hessen</author>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2010-08-24</date>
+               <respStmt>
+                   <name type="person">AS</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf><div type="chapter">
+<pb n="I"/>
+<p>ZINSPEELENDE</p>
+<p>LIEFDENSGEZANGEN.</p></div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3">Verklaaring Van de print verbeelding.</head>
+<lg type="poem">
+<l><hi rend="b">D</hi>it Kunstryk Mintafreel, verbeeld de <hi rend="sc">Liefde</hi>, daar</l>
+<l rend="; 1tab">Zy op haar Bergthroon op het schoonste pronkt, by haar</l>
+<l>De drie bevalligheên die als de <hi rend="sc">Kinders</hi> speelen,</l>
+<l>En haar minzieke Borst op 't allerzoetste streelen,</l>
+<l>Terwyl een Hemels vier dat uit haare oogen straald,</l>
+<l>'t Heelal bezield en ook op alles Zeegepraald,</l>
+<l>Gods <hi rend="sc">Kruiskerk</hi>, in haar ligt aan 't Spaaren opgeheeven,</l>
+<l>Komt voor Gods Tortelduif veel schooner glans te geeven,</l>
+<l>Wiens heldre weêrligt rold en schiet haar straalen neêr,</l>
+<l>Tot op 's <hi rend="sc">Stads Kapitool</hi>, waarop de vryheids speer</l>
+<l>Al juichende opwaards groeid, en komt 't <hi rend="sc">Geloof</hi> te omarmen,</l>
+<l>Om door haar Godlyk Vier Astrea te Verwarmen,</l>
+<l>Zy als Beschermster van de Godsdienst, voerd haar Wet,</l>
+<l>Ten nutten van de Kunst op haare Loftrompet,</l>
+<l>En blaast op Libans Choor, haar kragt en grootvermoogen,</l>
+<l>Waarop de <hi rend="sc">Dichtkunst</hi> met een Starkleed overtoogen,</l>
+<l>Haar fiere Luchtbazuyn ten Hemel heft en kweeld;</l>
+<l>De <hi rend="sc">Zang</hi>- en <hi rend="sc">Speelkunst</hi>, met Muzyk en Bas verbeeld,</l>
+<l>Verheffen met elkaar op godgeweiden Nooten,</l>
+<l>Hoe 't al door <hi rend="sc">Liefde</hi> is gevoed en overgooten,</l>
+<l><hi rend="sc">Welsprekenheid</hi>, verheft op haare goude Lier,</l>
+<l>De werking van de Min met aangenaamen zwier.</l>
+<l>De <hi rend="sc">Starrekunde</hi> en de <hi rend="sc">Schilderkunst</hi>, vertoonen,</l>
+<l>Hoe <hi rend="sc">Liefde</hi> in 't eeuwig Ligt der Godheid komt te woonen,</l>
+<l><hi rend="sc">Beeldhouwery</hi>, verbeeld aan Adams nageslagt,</l>
+<l>Dat al het Sigtbaare is uit <hi rend="sc">Liefde</hi> voortgebragt,</l>
+<l>Schoon <hi rend="sc">Laster, Nied, Bedrog</hi> en <hi rend="sc">Haat</hi>, daar teegen streeven,</l>
+<l>Nog blyft de <hi rend="sc">Liefde</hi> in top van Zions Rots, verheeven.</l></lg>
+<pb n="IV"/>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill01.gif"/></p></figure></p></div>
+<cf><div type="chapter">
+<pb n="V"/>
+<p>ZINSPEELENDE</p>
+<p>Liefdens Gezangen.</p>
+<p><hi rend="i">Verdeeld in Acht-en-twintig Stukken door</hi></p>
+<p>Willem Hessen,</p>
+<p><hi rend="i">En op Muzyk gebragt door</hi></p>
+<p>WILLEM VERMOOTEN,</p>
+<p><hi rend="i">Voor twee Stemmen</hi></p>
+<p>CANTUS en BASSUS.</p>
+<p>CANTUS.</p>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill02.gif"/></p></figure></p>
+<p>IZAAK van HULKENROY,</p>
+<p>Te Haarlem, Gedrukt by in de Lange Beggynestraat, in de Konings Hulk 1741.</p></div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="verm053"/>
+</interpGrp>
+<pb n="VII"/>
+<head rend="h3">Toeeigening Aan den Eerwaarden Heere Jacobus Barnaart <hi rend="i">Junior</hi>.
+<lb/>En zyn E: E: Zuster Mejufvrouwe Jacoba Barnaart.</head>
+<p><hi rend="b">I</hi>k neeme de vryheid, om de agting die uw Eed: voor de Zang en Speelkunde hebben; met een blymoedig gelaat deeze <hi rend="i">Zinspeelende Liefdensgezangen</hi> aan uw Eed: op te offeren, tot een blyk van myne oprechte Dankbaarheid, die uit een welmeenend hart opwelt, gelyk de Liefde die uw Eed: om de Kunst voor my altoos hebt laaten blyken, en die ik by ondervindinge gezien heb, dat zo weergaloos en kragtig was, dat ik daar door aangemoedigd wierd, deeze <hi rend="i">Zinspeelende Liefdensgezangen</hi>, te verheerlyken met uw Eed: naamen aan het voorhoofd van dezelven te plaatsen, en dewyl Uw: Eed: de Musica zo veel Liefde toe draagt, zo vleide ik my, dat, als de Nyd Uw: Eed: Naamen op 't voorhoofd zag pron-<pb n="VIII"/>ken, zy gerusten veilig omzwerven zouden, want de Naam van BARNAART praalt aan ons kronkelende Spaarne, met zo veel luister, en leeft al juichende op zo veel Tongen, als 'er Golfjes in zynen Zilvervlietenden Stroom omwentelen, als zynde van ouds in deugd, en weetenschap in Pallas Kunst, opgekweekt en groot gemaakt, daar gy als twee heldre Starren, van zulk een groote Zon bestraald, uw Eed: glanssen spreyd, in wier vrolyke schaduw ik my nedervleye, en deeze <hi rend="i">Zinspeelende Liefdensgezangen</hi> aanbiede, om dezelve met uw Eed: zo lang te kweelen, tot wy dit tydelyke voor de Eeuwigheid zullen verwisselen, en dan op Engelen Toonen op nieuws in de Eeuwigheid, voor 't Lam, de liefde volmaakt ter eere zingen met het Zaalige Choor der Cherubynen, wenschende dit</p>
+<p>&nbsp;</p>
+<p><hi rend="i">VW: Eed: Toegeneegen Dienaar</hi>,</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Willem Vermooten</hi>.</p>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill03.gif"/></p></figure></p></div>
+<div type="chapter">
+<pb n="IX"/>
+<head rend="h3">Zang-, Speel en Dichtlievende leezer.</head>
+<p>'t <hi rend="b">I</hi>s de Liefde, die my door haare inwendige schoonheid zodanig bezielde, dat ik deeze <hi rend="i">Zinspeelende Liefdens Gezangen</hi>, haar ter eere op een welklinkende Cyter uitgalmen, om daar door meer en meer in haare zaalige minprieelen, de werking van haar God'lyk Vuur deelagtig te worden, waar door ik al speelend de Rey volgen, die van een weêrgalooze Liefde al juichend zingen, en zig vermaaken, daar zy door 't Geloof, de Bruid aan 's Konings Regtehand, in 't fynste goud van Ofir gekleed, op een veldtapeit van Roozen, zig spiegeld in haar alvoedend zonnevuur en smeld in een eeuwige Liefde, en zouw myn Dichtlust niet verlieft zyn, op zulken aanminnig voorwerp als de Liefde is, te meêr daar zy aangemoedigd, door den geestryken Zang- en Speelkonstenaar WILLEM VERMOOTEN, van wiens begaafde geest, Neerlands Zangberg daaverd, en kaast met een zuiver geluit zyn Lof alom, wiens schelle Lofbazuin my het hart doorboorden en aanmoedigde, deeze <hi rend="i">Zinspeelende Liefdens Gezangen</hi>, zo als ze jeegenswoordig het Ligt zien, te onderneemen, een Dichtstof, die als een reyke Schat gehaald uit de Oceaan van Gods doordringende Liefde, ten toon gesteld word op een spits van straalend Diämant, daar een Waereldling wars voor zy, en met bedekte aangezichten als door onweetenheyd verblind, niet teegen op kan zien, om de Liefde als een schoone Ryksvorstin, te zien uytmunten, derhalven zyn deeze myne <hi rend="i">Zinspeelende Liefdens Gezangen</hi>, voor den geenen, die met een vrindelyk hart, altoos van een zuivere Liefde zingen, en als andere Cherubeinen, zig koesteren in de klaarheid van die Hemelsche Liefde. Treê dan in deeze zaalige minwarande, en verlustig u in de schoonheid van haar aanbiddelyk schoon.</p>
+<p><hi rend="i">WILLEM HESSEN</hi>.</p></div>
+<div type="chapter">
+<pb n="X"/>
+<head rend="h3">Afbeelding, Van de nevensgaande zinspeelende Liefdens Gezangen,</head>
+<lg type="poem">
+<l><hi rend="b">E</hi>en ander mag om 's Vorsten oor te streelen,</l>
+<l>De schoonheid daar de Liefde op roemt en pronkt</l>
+<l>Vertoonen, op Romeinse Schouwtoneelen,</l>
+<l>Daar zy 't heelal, met Paphos vuur ontvonkt,</l>
+<l>Een schoon, dat past voor Grieken en Romeinen,</l>
+<l>Te vieren, met een dartle drift en lust:</l>
+<l>Weg Oudheid! weg wy schuyven de Gordynen</l>
+<l>Hier open, daar de Liefde in Jezus Armen rust,</l>
+<l>Wat zegge ik, daar zy rust in Jezus Armen,</l>
+<l>Neen daar zy zit verheerlykt op den Troon,</l>
+<l>Daar duyzenden van Cherubeins zig warmen,</l>
+<l>In 't Godlyk vier, dat straald uit haare kroon,</l>
+<l>Die schoonheid pronkt en weet de Serafeinen</l>
+<l>Te ontvonken, door haar albezielend vier,</l>
+<l>Dat elk met vreugd voor haare Troon verscheinen,</l>
+<l>En galmen steeds haar Majesteit met zwier,</l>
+<l>Als kennende, haar schoon en deugd en luister,</l>
+<l>Gekweekt, gevoed, en leven door haar kragt,</l>
+<l>Daar wy alhier geteeld in 's waerelds duister,</l>
+<l>Maar stamelen, van liefdens schoon en magt.</l>
+<pb n="XI"/>
+<l n="1"><hi rend="b">G</hi>y zit, ô Liefde! als op een trits van wolken,</l>
+<l>Mund booven al, by and're schoonheit uit,</l>
+<l>En zegevierd, voor 't oog der Hemelvolken,</l>
+<l>Gelyk een Maagd en overschoone Bruid,</l>
+<l n="2">Waar door gy 't Ondermaans door uw vermoogen,</l>
+<l>Doet op zien na uw heerelyke staat,</l>
+<l>Terwyl gy haar met vrindelyke Ogen</l>
+<l>Belonkt, en troost door uwe schooncieraad,</l>
+<l n="3">Daar de Eendragt uit uw hartpaleis ontslooten,</l>
+<l>Bezield den geen, die uw beschouwen daar</l>
+<l>Gy heerst, en woond by Jezus Bondgenooten,</l>
+<l>En alles buigd voor uwe Liefdealtaar</l>
+<l n="4">ô Schoone! die Standvastig komt te praalen,</l>
+<l>Geen ondermaans, bezield met ebbe of vloed</l>
+<l>En kan voor u in 't minst geen preis behaalen,</l>
+<l>Gy weet in 't minst van voor of teegenspoet,</l>
+<l n="5">Gy trekt den mens uit dees verwaande Waereld,</l>
+<l>En doet hem zien, daar gy met Majesteit</l>
+<l>Uw schattrezoor met Hemelgoed bepaereld</l>
+<l>Ontsluit; voor die alhier uw schoon verbreid,</l>
+<l n="6">Of steunen op uw sterkte en vermoogen,</l>
+<l>Vertrouwende, Gods Bruid, op uw geluk,</l>
+<l>Daar uw bannier in vreede als opgetoogen</l>
+<l>Al de Aarde ontlast, van al haar ramp en druk,</l>
+<l n="7">Daar Liefde zoekt 't afdrukzel van de Liefde</l>
+<l>Te vinden, in den mens, door haare kragt,</l>
+<l>Zo trouw, zo heus gelegt, en haar doorgriefde,</l>
+<l>Als met een vonk bezield van Liefdens magt,</l>
+<pb n="XII"/>
+<l n="8">Zy overwind door haar bekoorde schatten</l>
+<l>Alle aardse schat bestuuwd met Diämant</l>
+<l>Of paarlen, die het Zeestrant komt te omvatten,</l>
+<l>Met al het goud, dat in een goudvuur brand,</l>
+<l n="9">Waar door zy 't al zo heerlyk weet te buygen,</l>
+<l>En boeid door min en Liefde voor haar troon,</l>
+<l>Daar de Engelen voor Eeuwig van getuygen,</l>
+<l>Dat buiten haar geen schoonheid is of schoon,</l>
+<l n="10">'t Barmhartig hart, dat altoos is ontslooten,</l>
+<l>Lókt alles steeds na Goëls Zonnestad,</l>
+<l>Haar bórst en mond van Liefde als overgooten,</l>
+<l>Kust den geen die haar zuiver streeld en vat,</l>
+<l n="11">Die laaft zy uit de goudbron der genaaden,</l>
+<l>Met zo veel heil, dat hy het grootst geluk</l>
+<l>Deelagtig word, en pronkt met haar Cieraaden</l>
+<l>Dat hy vertoond het puik van Liefdens meesterstuk,</l>
+<l n="12">Ja Liefde! gy geeft blyheid om te praalen,</l>
+<l>Waarin uw vrind al juichend speelemeid,</l>
+<l>En sterkt hem door de gloed van uwe straalen,</l>
+<l>Waarin hy kust, uw schoon en heerlykheid,</l>
+<l n="13">ô Konings Bruid! die leeft in Jezus Hooven,</l>
+<l>Zo een verlangt, met een oprecht gemoed</l>
+<l>En zuiver hart, dat hy verlangt na booven,</l>
+<l>Daar de Englen in uw glans zyn opgevoed,</l>
+<l n="14">En zegepraald, van alles met behaagen,</l>
+<l>Het Zonnewoud gevormt uyt rein Agaat,</l>
+<l>Weergalmd alom, daar ge op een zeegewaagen</l>
+<l>Van Cherubeins vertoond, uw fier gelaat,</l>
+<pb n="XIII"/>
+<l n="15">De weisheid, róld van uw Robeinen Lippen,</l>
+<l>Waar door gy geeft de wysheid, aan die geen,</l>
+<l>Wiens ziel, zo vaak staroogende laat slippen,</l>
+<l>De zugten voor uw zielsbekoorlykheen,</l>
+<l n="16">Om in uw Ryk, met blyde vryheids straalen</l>
+<l>Te pronken, voor uw luisterryken Troon,</l>
+<l>En vryheid die in uwe Hemelzaalen</l>
+<l>Te omhelzen, die daar altoos staan ten toon,</l>
+<l n="17">Wiens straalen dat een ieder zo verkwikken,</l>
+<l>Gelyk de Zon, met haar alvoedend licht,</l>
+<l>Het kruid en groen versterkt alle ogenblikken,</l>
+<l>Zo is elk een aan uwe Zon verpligt</l>
+<l n="18">Waar door gy ons, voerd opwaards na uw Troonen,</l>
+<l>Daar 't eeuwig straald van schittrend morgenroot,</l>
+<l>Gelyk een Bruid, vercierd met maagde Kroonen,</l>
+<l>Die 't hart ontvonkt, van haar beminde echtgenoot,</l>
+<l n="19">En alles brengt door haare gloed te regten,</l>
+<l>Haar Wierookvlam die altoos opwaards brand,</l>
+<l>Verbind en weet de aarde aan haare troon te hegten,</l>
+<l>Dat elk hier scheind, gelyk een vuur van Diämant,</l>
+<l n="20">Daar 't ondermaans, ja het Heelal voor zwigten,</l>
+<l>Terwyl gy die ontvonkt, die voor uw wet</l>
+<l>Met hart en ziel, aan uw zig gaat verpligten,</l>
+<l>Inwendig troost door uwe Boettrompet,</l>
+<l n="21">En staat hem by, in nood en veegen rampen,</l>
+<l>Ja schoon dat de aard en bulderende Oceaan</l>
+<l>Hem dreigt, en op het aller wreest aan klampen,</l>
+<l>Hy blyft door uw geharnast moedig staan,</l>
+<pb n="XIV"/>
+<l n="22">Geen wonder, want ô Liefde! gy rechtvaardig,</l>
+<l>Versterkt den geen, met vrugt van 't Paradys,</l>
+<l>Gy schenkt uw heil, die al uw heil is waardig,</l>
+<l>En kroont hem, die by uw behaald den preis,</l>
+<l n="23">ô Rykvorstin! langmoedig in uw werken,</l>
+<l>'t Is Zion, die verheeven door uw gloed,</l>
+<l>Ziet hemelhoog, de luister van haar kerken,</l>
+<l>En treên daar gy woond in haar rein gemoed,</l>
+<l n="24">Als kennende uw zagtmoedigheid, wiens oogen</l>
+<l>Van liefde brand, en flonkerd steeds van min,</l>
+<l>ô Konings Bruid! die pronkt op marm're boogen,</l>
+<l>Gy dringd met vreugd, zelfs tot Gods troonwagt in,</l>
+<l n="25">Ja gy ontvonkt de Cherubeins en Engelen!</l>
+<l>Uw Loftrompet weergalmt in Zions Choor,</l>
+<l>Daar elk uw hals met Zarons Roozen streng'len,</l>
+<l>En strooyen zaam de bloempies op uw spoor,</l>
+<l n="26">Terwyl uw ziel, mildaadig voortgedreeven,</l>
+<l>Uw dierb're schat; gelyk een goude zee</l>
+<l>Doet stroomen, voor die na uw Troonwet leeven,</l>
+<l>En kust hem steeds, genoopt door lieverlee;</l>
+<l n="27">Dan brand zyn hart van kuisse minnevonken,</l>
+<l>Daar Liefde kuis, zyn kuisheid door de min</l>
+<l>Aan Liefde vast, voor altoos houd geklonken,</l>
+<l>En by hem staat, als zyne hartvrindin,</l>
+<l n="28">ô Heilfontein! die dus in stilheid neergedooken,</l>
+<l>Uw schoon en lof, bespiegeld voor en na,</l>
+<l>Staat als een Roos op Zions veld ontlooken</l>
+<l>En galmd met vreugd op 't schoonst, <hi rend="i">Halleluja</hi>.</l></lg></div>
+<cf><div type="chapter">
+<pb n="XV"/>
+<p><hi rend="spat">BLADWYZER</hi>.</p>
+<p>
+<table>
+<row>
+<cell role="header"/>
+<cell role="header"><hi rend="spat">VOORZANG</hi>.</cell>
+<cell role="header"><hi rend="i">Bladz:</hi></cell></row>
+<row>
+<cell cols="2"><hi rend="i">O Godes Zoon! ô Pronkbeeld van hier boven!</hi></cell>
+<cell>1</cell></row>
+<row>
+<cell/>
+<cell>Liefde ontfonkt al 't Ondermaans.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O hoe zoet is het te streeven!</hi></cell>
+<cell>6</cell></row>
+<row>
+<cell/>
+<cell>Liefde maakt Eendragt.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Kan de Hoogmoed twist verwekken</hi></cell>
+<cell>8</cell></row>
+<row>
+<cell/>
+<cell>Liefde is stantvastig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Myn Oog te lang misleid</hi>,</cell>
+<cell>10</cell></row>
+<row>
+<cell/>
+<cell>Liefde trekt ons van de Waereld.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O lieflyk Beeld! dat my als opgetoogen</hi></cell>
+<cell>12</cell></row>
+<row>
+<cell/>
+<cell>Liefde is 't allersterkst.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Geen schooner Zuil, geen vaster Róts</hi>,</cell>
+<cell>14</cell></row>
+<row>
+<cell/>
+<cell>Liefde zoekt Liefde.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Wanneer in 's Waerelds mórgenstond</hi></cell>
+<cell>16</cell></row>
+<row>
+<cell/>
+<cell>Liefde Overwind door haar Schatten.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Laat een ander, tróts op schatten</hi></cell>
+<cell>18</cell></row>
+<row>
+<cell/>
+<cell>Liefde buigt alles.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Liefde straalen</hi>.</cell>
+<cell>20</cell></row>
+<row>
+<cell/>
+<cell>Liefde is Barmhertig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Myn schoone! die door uw gelaat</hi></cell>
+<cell>22</cell></row>
+<row>
+<cell/>
+<cell>Liefde geeft ons het grootste geluk.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Gelukkig die de Liefde mint</hi>,</cell>
+<cell>24</cell></row>
+<row>
+<cell/>
+<cell>Liefde geeft blyheid.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O zuiv're Liefde! die om hoog</hi></cell>
+<cell>26</cell></row>
+<row>
+<cell/>
+<cell>Liefde verlangt na boven.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O hoe schoon staat gy hier boven!</hi></cell>
+<cell>28</cell></row>
+<row>
+<cell/>
+<cell>Liefde Zégepraalt over alles.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Door Liefde staat het al te praalen</hi></cell>
+<cell>30</cell></row></table></p>
+<pb n="XVI"/>
+<p>
+<table>
+<row>
+<cell/>
+<cell>Liefde geeft wysheid.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Kom Hémelmaagd, bestraal myn Hart</hi></cell>
+<cell>32</cell></row>
+<row>
+<cell/>
+<cell>Liefde geeft ons vryheid.</cell>
+<cell/></row>
+<row>
+<cell cols="2">'<hi rend="i">t Is de Liefde die ons geeft</hi></cell>
+<cell>34</cell></row>
+<row>
+<cell/>
+<cell>Liefde Straalen verkwikken ons.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O held're Zon!</hi></cell>
+<cell>36</cell></row>
+<row>
+<cell/>
+<cell>Liefde voert ons opwaards.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O zuiver Beeld! die met uw mórgenglansen</hi></cell>
+<cell>38</cell></row>
+<row>
+<cell/>
+<cell>Liefde brengt alles te regt.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O Liefde Zon die alles hier kunt binden</hi>.</cell>
+<cell>40</cell></row>
+<row>
+<cell/>
+<cell>Liefde doet alles zwigten.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Vaar wel! vaar wel bedroefde Waereld!</hi></cell>
+<cell>42</cell></row>
+<row>
+<cell/>
+<cell>Liefde staat ons by in nood.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Als Hémel Aard en Océaan</hi></cell>
+<cell>44</cell></row>
+<row>
+<cell/>
+<cell>Liefde is rechtvaardig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Een' die door Liefde is steeds ontvonkt</hi>,</cell>
+<cell>46</cell></row>
+<row>
+<cell/>
+<cell>Liefde is Langkmoedig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Ja, waar is grooter Min</hi></cell>
+<cell>48</cell></row>
+<row>
+<cell/>
+<cell>Liefde is Zagtmoedig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">O weergalooze Liefde band</hi>!</cell>
+<cell>50</cell></row>
+<row>
+<cell/>
+<cell>Liefde ontfonkt zelf de Engelen.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Hoe vrolyk juicht Góds Eng'lenschaar</hi>,</cell>
+<cell>52</cell></row>
+<row>
+<cell/>
+<cell>Liefde is mildaadig.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Tweedragt mag den Vórst behaagen</hi></cell>
+<cell>54</cell></row>
+<row>
+<cell/>
+<cell>Liefde baart Kuisheid.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Liefde die steeds Kuisheid baart</hi></cell>
+<cell>56</cell></row>
+<row>
+<cell/>
+<cell><hi rend="spat">SLOTZANG</hi>.</cell>
+<cell/></row>
+<row>
+<cell cols="2"><hi rend="i">Zo zingen wy in stilheid neer gedooken</hi>,</cell>
+<cell>58</cell></row></table></p></div></cf>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0001"/> </interpGrp>
+<pb n="1"/>
+<head rend="h2">Sinspeelende liefdens gezangen.</head>
+<head rend="h3"><hi rend="i">Liefde boven al</hi>.</head>
+<head rend="h4">Voorzang.
+<lb/><hi rend="i">Cantvs</hi>.</head>
+<lg type="poem">
+<l>O Godes Zoo - - - - n! o Pron - - - kbeeld</l>
+<l>van hier bo - - - ven! Die op ons gloeid als straa</l>
+<l>- - - - - - - - - - - - - - - - -</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill04.gif"/></p></figure></l>
+<pb n="2"/>
+<l rend="; 2tab">- lend <hi rend="i">Esmarout</hi>, Die door uw glans de Koningk-</l>
+<l rend="; 1tab">lyke Hoven Verlicht, als met een vuur van Zonne-</l>
+<l rend="; 1tab">goud; En doe - - - t de Koo - - r ju-</l>
+<l rend="; 1tab">weelen En <hi rend="i">Cherubynen</hi> staan: Om 't zaa - - - lig</l>
+<l>Lied voor u te speelen, dusbieden ze u haar achting aan.</l>
+<l rend="; 2tab">O Pronkkleinood! gy ziet voor uw vermogen</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill05.gif"/></p></figure></l>
+<pb n="3"/>
+<l rend="; 1tab">Al 't Geestendom, zo voor als na, Gebukt, en zin - -</l>
+<l rend="; 2tab">- - - - - - gen lieflyk opgetoogen:</l>
+<l rend="; 1tab"><hi rend="i">Halléluja</hi>, - - - - - - - - <hi rend="i">Halléluja</hi>,</l>
+<l rend="; 3tab"><hi rend="i">Halléluja, Halléluja</hi>,</l>
+<l rend="; 1tab">- - - - - - <hi rend="i">Halléluja, Halléluja, Hal</hi>-</l>
+<l><hi rend="i">léluja, Halléluja</hi>, - - - - - - - - - -</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill06.gif"/></p></figure></l>
+<pb n="4"/>
+<l>- - - - - - - - - - - - - - <hi rend="i">Hal</hi>-</l>
+<l><hi rend="i">léluja</hi>, - - - - - - - <hi rend="i">Halléluja</hi>.</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill07.gif"/></p></figure></l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill08.gif"/></p></figure></p></div>
+<div type="chapter">
+
+<pb n="5"/>
+<head rend="h3">Liefde boven al.</head>
+<head rend="h4">Voorzang.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> Godes Zoon! ô Pronkbeeld! van hier boven</l>
+<l rend="; 2tab">Die op ons gloeid als straalend <hi rend="i">Esmarout</hi>,</l>
+<l>Die door uw glans de Koningklyke Hoven</l>
+<l rend="; 2tab">Verlicht, als met een vuur van Zonnegoud;</l>
+<l rend="; 3tab">En doet de Koorjuweelen</l>
+<l rend="; 4tab">En <hi rend="i">Cherubynen</hi> staan:</l>
+<l rend="; 3tab">Om 't zaalig Lied voor u te speelen</l>
+<l rend="; 4tab">Dus bieden ze u haar' achting aan.</l>
+<l>ô Pronkkleinood! gy ziet voor uw vermogen</l>
+<l rend="; 1tab">Al 't Geestendom, zó voor als na,</l>
+<l>Gebukt, en zingen lieflyk opgetoogen:</l>
+<l rend="; 3tab"><hi rend="i">Halléluja</hi>.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Welzaalig Hóf! daar liefde zit te praalen,</l>
+<l rend="; 2tab">Gy voert den Mens na <hi rend="i">Salems</hi> Beekchristal,</l>
+<l>Daar liefde schoon bestarnd met zilvre straalen</l>
+<l rend="; 2tab">Den Rykstaf zwaait als <hi rend="i">Liefde Boven Al</hi>.</l>
+<l rend="; 3tab">Wien 't lust de min te streelen</l>
+<l rend="; 4tab">Ontsluit deez' minwarand,</l>
+<l rend="; 3tab">Daar liefde de eer van Gódsjuweelen</l>
+<l rend="; 4tab">Op zuiv're weederliefde brand.</l>
+<l>Deez' schoone zal uw ziel met Hémelgaaven</l>
+<l rend="; 1tab">Als uit de Bronaêr van genâ</l>
+<l>Zo ryk gehaald met Eng'len voedsel laaven</l>
+<l rend="; 3tab"><hi rend="i">Halléluja</hi>.</l></lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0002"/> </interpGrp>
+<pb n="6"/>
+<head rend="h3">Liefde ontfonkt al 't Ondermaans.</head>
+<lg type="poem">
+<l rend="; 2tab">O hoe zoet is het te streeven! Daar de</l>
+<l>Liefde 't al regeert, En zy vro - - - lyk, en zy</l>
+<l rend="; 1tab">vro - - - - lyk, En zy vro - lyk triumfeer - - -</l>
+<l rend="; 1tab">- - - - t, Al- les doet op nieuws herleeven; Daar zwigt</l>
+<l rend="; 1tab">tweedragt haat en nyd ://: Liefde blyft in eeuwigheid. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill09.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="7"/>
+<head rend="h4">Liefde ontvonkt al 't Ondermaans.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> hoe zoet is het te streeven!</l>
+<l rend="; 1tab">Daar de Liefde 't al regeert,</l>
+<l rend="; 1tab">En zy vrolyk Triumfeert,</l>
+<l>Alles doet op nieuws herleeven;</l>
+<l rend="; 1tab">Daar zwigt tweedragt, haat en nyd</l>
+<l rend="; 1tab">Liefde blyft in eeuwigheid.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Liefde laat zig niet misleiden</l>
+<l rend="; 1tab">Door den glans van 't Kroonegoud;</l>
+<l rend="; 1tab">Daar zo meenig op vertrouwd:</l>
+<l>Wie zou Liefde dan benyden?</l>
+<l rend="; 1tab">Daar haar hert zo zuiver staat</l>
+<l rend="; 1tab">Als de glans van haar gelaat.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Laat de waereld met haar' lusten</l>
+<l rend="; 1tab">Streelen om dit Pronkkleinood.</l>
+<l rend="; 1tab">Liefde acht Rykdom, lust nóch Dood:</l>
+<l>Want zy veilig hier kan rusten.</l>
+<l rend="; 1tab">Niets standvaster dan haar' min;</l>
+<l rend="; 1tab">Die streeft zelf den Hémel in.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0003"/> </interpGrp>
+<pb n="8"/>
+<head rend="h3">Liefde maakt eendragt.</head>
+<lg type="poem">
+<l rend="; 1tab">Kan de Hoogmoed twist verwekken En ontsteeken 't</l>
+<l>Oorlógsvuur; Zelf een ondergang verstrekken, Van de</l>
+<l rend="; 2tab">sterkste Stad en Muur. Lief - - de Lief - -</l>
+<l rend="; 1tab">- de Liefde bouwt het alles weêr; ://: Alles buigt voor</l>
+<l rend="; 2tab">Liefde neer. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill10.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="9"/>
+<head rend="h4">Liefde maakt eendragt.</head>
+<lg type="poem">
+<head>1</head>
+<l><hi rend="b">K</hi>an de Hoogmoed twist verwekken</l>
+<l rend="; 1tab">En ontsteeken 't Oorlógsvuur;</l>
+<l>Zelf een ondergang verstrekken</l>
+<l rend="; 1tab">Van de sterkste Stad en Muur.</l>
+<l>Liefde bouwt het alls weêr;</l>
+<l>Alles buigt voor Liefde neêr.</l></lg>
+<lg type="poem">
+<head>2</head>
+<l>Zy belommerd met Olyven,</l>
+<l rend="; 1tab">Lach haar' Vrinden vrolyk aan,</l>
+<l>En zal steeds in Eendragt blyven</l>
+<l rend="; 1tab">By die op haar' wégen gaan.</l>
+<l>Liefde bouwt het alles weêr;</l>
+<l>Alles buigt voor Liefde neêr.</l></lg>
+<lg type="poem">
+<head>3</head>
+<l>O hoe zoet is het te woonen!</l>
+<l rend="; 1tab">Daar de Liefde Liefde stigt,</l>
+<l>En haar minnaars zal bekroonen</l>
+<l rend="; 1tab">Met een vrolyk aangezigt,</l>
+<l>Liefde bouwt het alles weêr;</l>
+<l>Alles buigt voor Liefde neêr.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill11.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0004"/> </interpGrp>
+<pb n="10"/>
+<head rend="h3">Liefde is standvastig.</head>
+<lg type="poem">
+<l>Myn oog te lang misleid, Door 's waerelds ydelheit, Heeft</l>
+<l>ondervon - - - den: Dat al haar pragt en schynsieraa - -</l>
+<l rend="; 1tab">d, Gelyk een roo - - - k en dam - p vergaat, Hoe</l>
+<l rend="; 1tab">vas - - t gebonden. De Lief - - - de, de</l>
+<l>Lief - - - de, de Lief - - - de, de Liefde bouwt haar</l>
+<l>Troo - n alleen ://: Op waarheid en beval - - ligheên. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill12.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="11"/>
+<head rend="h4">Liefde is standvastig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">M</hi>yn Oog te lang misleid,</l>
+<l>Door 's waerelds ydelheid,</l>
+<l rend="; 1tab">Heeft ondervonden:</l>
+<l>Dat al haar pragt en schynsieraad,</l>
+<l>Gelyk een rook en damp vergaat,</l>
+<l rend="; 1tab">Hoe vast verbonden.</l>
+<l>De Liefde bouwt haar' Troon alleen</l>
+<l>Op waarheid en bevalligheên.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Zy blaast een' Ambergeur,</l>
+<l>Gemengd met Roozekleur,</l>
+<l rend="; 1tab">Van haare Lippen.</l>
+<l>Haar leên gepronkt in <hi rend="i">Ofirs</hi> Goud,</l>
+<l>Haar <hi rend="i">Tempel</hi> is van Ced'renhout,</l>
+<l rend="; 1tab">En laat daar glippen</l>
+<l>Genade daar 't onnaakb're Licht,</l>
+<l>Maakt dat des waerelds schynschoon zwigt.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>O hoe verheugd en zoet!</l>
+<l>Verkwikt in ons gemoed,</l>
+<l rend="; 1tab">Dat zig zal buigen.</l>
+<l>Geen Troonjuweel of <hi rend="i">Cherubyn</hi>,</l>
+<l>Geen Hemelgeest of <hi rend="i">Serafyn</hi>,</l>
+<l rend="; 1tab">Kwam ooit te zuigen,</l>
+<l>Meer Hémelzoet en Lekkerny</l>
+<l>Zy maakt den Mens van zonden vry.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0005"/> </interpGrp>
+<pb n="12"/>
+<head rend="h3">Liefde trekt ons van de Waereld.</head>
+<lg type="poem">
+<l rend="; 1tab">O lieflyk Beeld! dat my als opgetoogen Voert,</l>
+<l rend="; 1tab">van deez' Aard, na uwe Tempelboogen; Dat,</l>
+<l>als ik overweeg uw schoonheids schoon, Moet ik bekennen:</l>
+<l>dat gy span - - t de Kroon Van al de glan - - - -</l>
+<l rend="; 1tab">- - - s en Majesteit ://: Die in de Waereld</l>
+<l rend="; 2tab">zig verspreid. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill13.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="13"/>
+<head rend="h4">Liefde trekt ons van de Waereld.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> lieflyk Beeld! dat my als op getoogen</l>
+<l>Voert, van deez' Aard, nauwe Tempelboogen;</l>
+<l>Dat, als ik overweeg uw schoonheids schoon,</l>
+<l>Moet ik bekennen: dat gy spant de Kroon</l>
+<l rend="; 1tab">Van al de glans en Majesteit,</l>
+<l rend="; 1tab">Die in de Waereld zig verbreid.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Standvastigheid pronkt in uw Minbanieren,</l>
+<l>En zal uw' Kruin met Sarons Keurloof sieren,</l>
+<l>Wiens glans vereeuwigd groeit en nooit veroud</l>
+<l>Waar voor hier zwigt al het vergangklyk Goud.</l>
+<l rend="; 1tab">O Liefde! ryk van Deugd en Schat,</l>
+<l rend="; 1tab">Standvastig pronkt gy in Góds Stad.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Al de Aard en alles wat zy kan bevatten</l>
+<l>Vergaat en knaagt tót niet haar' ryke Schatten;</l>
+<l>Daar Liefde pal en onbeweeglyk staat;</l>
+<l>Zelf groeit en bloeit als 't al tót niet vergaat.</l>
+<l rend="; 1tab">Gelukkig die standvastig streeft,</l>
+<l rend="; 1tab">Daar Liefde met haar heilgoed leeft.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill14.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0006"/> </interpGrp>
+<pb n="14"/>
+<head rend="h3">Liefde is 't allersterkst.</head>
+<lg type="poem">
+<l rend="; 2tab">Geen schooner Zui - l geen vaster Róts, Als</l>
+<l rend="; 1tab">Liefde die de Lie - fde Góds, Komt op een' pronkboog,</l>
+<l>tróts van Diaman - - - ten, Voor een démoedig hert te plan-</l>
+<l>ten: Om als het in des waerelds Océaa - - - n Ziet</l>
+<l rend="; 1tab">alles hard en wreed ter néder slaan; Het Schip van zyne</l>
+<l>Ziel mag stuuren ://: Na <hi rend="i">Sion's</hi> hoog verhé - - - - - -</l>
+<l rend="; 1tab">- ve - - muuren ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill15.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="15"/>
+<head rend="h4">Liefde is 't allersterkst.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">G</hi>een schooner Zuil, geen vaster Róts,</l>
+<l>Als Liefde die de Liefde Góds</l>
+<l>Komt op een' pronkboog, tróts van Diämanten,</l>
+<l>Voor een démoedig hert te planten:</l>
+<l>Om als het in des Waerelds Océaan</l>
+<l>Ziet alles hard en wreed ter néder slaan;</l>
+<l>Het Schip van zyne Ziel mag stuuren</l>
+<l>Na <hi rend="i">Sion's</hi> hoog verhéven' Muuren.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Daar vind het door een' zuiv're gloed,</l>
+<l>Verkwicking in zyn' tégenspoed,</l>
+<l>En laat door schyn nog schat zieh niet beroeren:</l>
+<l>Maar daar 't Geloof het op zal voeren</l>
+<l>Veel hooger als daar wel de goude Zon</l>
+<l>Den hoogste tóp beschynt van <hi rend="i">Libanon</hi>;</l>
+<l>Of zilv're Maan, en flonker Starren</l>
+<l>Die aan 't <hi rend="i">Lazunr</hi> op 't schoonste warren.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Nóg hooger ryst zyn groot geluk,</l>
+<l>Het acht op Aard geen ramp nóch druk;</l>
+<l>Maar komt zo schoon en lieflyk te verschynen</l>
+<l>Daar Liefde zingt met <hi rend="i">Cherubynen</hi></l>
+<l>En óffer Engelen, zo voor als na,</l>
+<l>Het Eeuwig Lóf, als ook <hi rend="i">Halléluja</hi>.</l>
+<l>Daar zweeft zyn Ziel op blanke veêren</l>
+<l>En zingen lof tot Godes eeren.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0007"/> </interpGrp>
+<pb n="16"/>
+<head rend="h3">Liefde zoekt Liefde.</head>
+<lg type="poem">
+<l rend="; 2tab">Wanneer in 's Waerelds mórgenstond, Het alles in het</l>
+<l>nieuw kwam pronken, En 't eerste paar door 't Trouwver-</l>
+<l rend="; 1tab">bond De herten deed in min ontvonken; Daar Lie - -</l>
+<l rend="; 1tab">- fde van haar Liefde troon Kwam met haar' Tortelduifjes</l>
+<l rend="; 1tab">daa - - - - - - - - - - len, En zetten zelf de</l>
+<l rend="; 1tab">Min - nekroon ://: Op beider hoof - - - d, om meê</l>
+<l rend="; 3tab">te praalen. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill16.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="17"/>
+<head rend="h4">Liefde zoekt Liefde.</head>
+<lg type="poem">
+<head>1.</head>
+<l rend="; 1tab"><hi rend="b">W</hi>anneer in 's Waerelds mórgenstond</l>
+<l>Het alles in het nieuw kwam pronken,</l>
+<l>En 't eerste paar door 't Trouwverbond</l>
+<l>De herten deed in min ontvonken;</l>
+<l>Daar Liefde van haar' Liefdetroon</l>
+<l>Kwam met haar' Tortelduyfjes daalen,</l>
+<l>En zetten zelf de Minnekroon</l>
+<l>Op beider Hoofd, om meê te praalen.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Terwyl het vers ontlooken groen</l>
+<l>Hen voor een Bruiloftsdis verstrekte,</l>
+<l>En zy, als op een Bloemfestoen,</l>
+<l>Een kuise Liefdegloed verwekte,</l>
+<l>Daar 't Pluimgedierte op zuiv're vreugd</l>
+<l>Het vrolyk Egtlied kwam te kweelen,</l>
+<l>En Bos en Beemden als verheugd</l>
+<l>Al ruisend kwam van min te speelen.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">De Goude Zon, des Waerelds Oog,</l>
+<l>Kwam uit de Oranje mórgendeuren</l>
+<l>Langs eenen Diamanten boog,</l>
+<l>En aamde duizend frisse geuren,</l>
+<l>Op Moeder <hi rend="i">Evaas</hi> lélieschoon;</l>
+<l>Waarop haar <hi rend="i">Ega</hi> stond te bloozen,</l>
+<l>En boog voor Liefden 's Liefdetroon,</l>
+<l>En plukte daar de ontlooken Roozen.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0008"/> </interpGrp>
+<pb n="18"/>
+<head rend="h3">Liefde overwint door haare Schatten.</head>
+<lg type="poem">
+<l rend="; 1tab">Laat een ander, tróts op schatten, <hi rend="i">Ganges</hi> goud <hi rend="i">Ri</hi>-</l>
+<l rend="; 1tab"><hi rend="i">vier</hi> omvatten, En bepronkt met <hi rend="i">Paktools</hi> zweet,</l>
+<l rend="; 1tab">Vry - - - van leed En van zórgen onbekommerd,</l>
+<l>Leeven in zyn' schat belommerd Als een <hi rend="i">Kré</hi> - - - -</l>
+<l rend="; 1tab">- - <hi rend="i">zus</hi> op zyn Troon ://: Daar hy pronkt met</l>
+<l rend="; 2tab">Staf en Kroon. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill17.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="19"/>
+<head rend="h4">Liefde Overwint door haare Schatten.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">L</hi>aat een ander, tróts op schatten,</l>
+<l><hi rend="i">Ganges</hi> Goud <hi rend="i">Rivier</hi> omvatten,</l>
+<l>En bepronkt met <hi rend="i">Paktools</hi> zweet,</l>
+<l rend="; 1tab">Vry van leed</l>
+<l>En van zórgen onbekommerd,</l>
+<l>Leeven in zyn Schat belommerd</l>
+<l>Als een <hi rend="i">Krézus</hi> op zyn' Troon,</l>
+<l>Daar hy pronkt met Staf en Kroon.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Laat een ander, tróts op Stéden,</l>
+<l>Zien dat hy werd aangebéden,</l>
+<l>Daar hy op zyn Zégekar</l>
+<l rend="; 2tab">Als een Star</l>
+<l>Op het schoonste schiet zyn' straalen,</l>
+<l>Onder 't vrolyk zégepraalen,</l>
+<l>En zien vrolyk zynen naam</l>
+<l>Hoog verhéven door de Faam.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Al die Aardse roem moet wyken,</l>
+<l>Liefde doet die trótsheid stryken:</l>
+<l>Want zy is het die vertoond</l>
+<l rend="; 2tab">Dat 'er woont</l>
+<l>By haar een veel ryker Léven:</l>
+<l>Dat zy als een schat zal geeven</l>
+<l>Aan die geen die haar bemind:</l>
+<l>En door haar eens <hi rend="i">Jezus</hi> vind.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0009"/> </interpGrp>
+<pb n="20"/>
+<head rend="h3">Liefde buigt alles.</head>
+<lg type="poem">
+<l rend="; 2tab">Liefde straa - - - len Die daar daa - - - len</l>
+<l rend="; 1tab">Uit uw oogen schoon Schenkt de Liefdekroon Aan myn</l>
+<l>zuiv're zin, Vol - - - van eerb're min. Laaten wy nu</l>
+<l>zoet Streelen het gemoed: Om te blaaken En te smaaken</l>
+<l>Trouwe liefde zonder smart, Tot verkwikking van myn hart</l>
+<l rend="; 1tab">Want ik zwem als in een' Bron - - ://: Als ik zie myn</l>
+<l rend="; 2tab">Liefde zon. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill18.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="21"/>
+<head rend="h4">Liefde buigt alles.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">L</hi>iefde straalen</l>
+<l>Die daar daalen</l>
+<l>Uit uw' Oogen schoon.</l>
+<l>Schenkt de Liefdekroon</l>
+<l>Aan myn' zuiv're zin,</l>
+<l>Vol van eerb're min.</l>
+<l>Laaten wy nu zoet</l>
+<l>Streelen het gemoed:</l>
+<l>Om te blaaken</l>
+<l>En te smaaken</l>
+<l>Trouwe liefde zonder smart,</l>
+<l>Tot verkwikking van myn hart:</l>
+<l>Want ik zwem als in een' Bron:</l>
+<l>Als ik zie myn' Liefdezon.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Liefde trekster,</l>
+<l>Morge wekster,</l>
+<l>Tot een liefden gloet,</l>
+<l>Die ons laafd en voet,</l>
+<l>Met een hémels zoet,</l>
+<l>Dat ons kweelen doet</l>
+<l>Op een zagte toon</l>
+<l>Want gy spant de kroon,</l>
+<l>Hier op aarde,</l>
+<l>Groot van waarde,</l>
+<l>Die steeds Liefde op Liefde boud</l>
+<l>En op Liefde vast vertrouwd,</l>
+<l>Wekt een lieflyk straalend oog</l>
+<l>Van de glans en liefde omhoog.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">'t Westewindje</l>
+<l>Lieflyk vrindje</l>
+<l>Van haar Roozegaard,</l>
+<l>Heeft nooit meer gebaard</l>
+<l>Zo veel glans en schoon,</l>
+<l>Als de Minnekroon</l>
+<l>Spreijen zal op 't groen</l>
+<l>Streelen 't hardfestoen;</l>
+<l>Dat zy bloeijen</l>
+<l>Onder 't groeijen,</l>
+<l>Om haar' hertverkwikb're vrugt,</l>
+<l>In de geur van Liefdelugt</l>
+<l>Bloozend schoon legt reeds gespreid.</l>
+<l>Liefde kroont met majesteit.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0010"/> </interpGrp>
+<pb n="22"/>
+<head rend="h3">Liefde is Barmhertig.</head>
+<lg type="poem">
+<l rend="; 3tab">Myn schoone die door uw gelaa - - - - t Myn</l>
+<l rend="; 2tab">ziel bekleed met eer sieraad, Om eens te moogen</l>
+<l rend="; 2tab">stree - - - - ven Daar 't alles voor myn heiland</l>
+<l>buigd En vro - - - - - lyk zingt en eeuwig</l>
+<l rend="; 2tab">juigd, En lieffyk komt te leeven Uw schoo - n En</l>
+<l>Troo - n Doen myn streele, Dat ik kweelen Van uw Lie - -</l>
+<l rend="; 2tab">- fde ://: Die myn hart zo zoet doorgriefde ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill19.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="23"/>
+<head rend="h4">Liefde is Barmhertig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">M</hi>yn schoone! die door uw gelaat</l>
+<l>Myn ziel bekleed met Eersieraad:</l>
+<l>Om eens te mogen streeven</l>
+<l>Daar 't alles voor myn' Heiland buigt,</l>
+<l>En vrolyk zingt en eeuwig juigt,</l>
+<l>En lieflyk komt te leeven.</l>
+<l rend="; 1tab">Uw schoon En Troon</l>
+<l>Doen my streelen, Dat ik kweele</l>
+<l rend="; 2tab">Van uw Liefde,</l>
+<l>Die myn hert zo zoet doorgriefde.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">O Pronkbeeld! vol Barmhertigheid,</l>
+<l>Gy hebt my weêr de plaats bereid,</l>
+<l>Daar ik was uitgetreeden;</l>
+<l>Als 't eerste Paar, in Edens woud,</l>
+<l>Te roekeloos, te wreed en stout</l>
+<l>Uw Wet schond en uw Réden;</l>
+<l rend="; 2tab">Maar gy, Toont my</l>
+<l>Dat na deezen, Weêr zal weezen</l>
+<l rend="; 3tab">Met die Liefde,</l>
+<l>Daar gy 't schoonste Paar meê griefde.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">O Liefde! daar zal ik altyd</l>
+<l>Voor uw gezag en Majesteit</l>
+<l>Uw roem en lóf verkonden.</l>
+<l>Myn Lóf-Cimbaal zal met geweld</l>
+<l>Zyn van uw zuiv're min gesteld,</l>
+<l>Waaraan ik ben verbonden:</l>
+<l rend="; 2tab">Tót dat, Góds stad</l>
+<l>My ontvange, Met verlangen</l>
+<l rend="; 3tab">Om te praalen</l>
+<l>In Vórst <hi rend="i">Jézus</hi> Hémelzaalen.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0011"/> </interpGrp>
+<pb n="24"/>
+<head rend="h3">Liefde geeft ons het grootste geluk.</head>
+<lg type="poem">
+<l rend="; 2tab">Gelukkig die de liefde mint, En streel - d haar</l>
+<l rend="; 1tab">lieflyk in zyn armen, Daar hy door liefde</l>
+<l>Lie - - fde vind En kan door Liefde zig ver-</l>
+<l>war - - - men Zo ee - - n, streeft met een</l>
+<l rend="; 2tab">rein gemoed ://: Daar 't al van Liefde</l>
+<l rend="; 1tab">word gevoed. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill20.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="25"/>
+<head rend="h4">Liefde geeft ons het grootste geluk.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">G</hi>elukkig die de Liefde mint,</l>
+<l>En streeld haar Lieflyk in zyn armen,</l>
+<l>Daar hy door Liefde Liefde vind,</l>
+<l>En kan door Liefde zig verwarmen,</l>
+<l>Zo een streeft met een rein gemoed,</l>
+<l>Daar 't al van Liefde word gevoed.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Zy is de spiegel die hem toont</l>
+<l>Het groot geluk en zaalig wonder,</l>
+<l>Daar <hi rend="i">Jézus</hi> wierd zó fel gehoond,</l>
+<l>Of hoe die Heilzon eêr ging onder;</l>
+<l>En Golgota met bloed bestraald:</l>
+<l>Waar door de Zondaar zégepraald.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Zy voerd hem opwaards langs een boog</l>
+<l>Van klaar Ivoor en goud gedreeven,</l>
+<l>Al juichend, daar het voor God's oog</l>
+<l>In vreugd en blydschap steeds zal zweeven,</l>
+<l>En wyst op <hi rend="i">Jézus</hi> als een zon</l>
+<l>Die eeuwig straald op Libanon.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill14.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0012"/> </interpGrp>
+<pb n="26"/>
+<head rend="h3">Liefde geeft blyheit.</head>
+<lg type="poem">
+<l rend="; 3tab">ô Zuiv're Liefde! die om hoog Op 't al - - - ler</l>
+<l rend="; 1tab">schoonste steeds zal pron - - - ken, Gy blaas - - -</l>
+<l rend="; 2tab">- - - t als langs een ree - - - genboog Uw alver-</l>
+<l>kwik - b're min - nelonken En voerd in die ver-</l>
+<l rend="; 1tab">liefde brand ://: Gods Koorkoraalen hand aan hand. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill21.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="27"/>
+<head rend="h4">Liefde geeft blyheid.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi>zuiv're Liefde! die om hoog</l>
+<l>Op 't allerschoonste steets zal pronken,</l>
+<l>Gy blaast als langs een' Régenboog,</l>
+<l>Uw' alverkwikb're minnelonken;</l>
+<l>En voert in dien verliefden brand</l>
+<l>Góds koorkoraalen hand aan hand.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Gy die van eeuwigheid uw licht</l>
+<l>Zag flonk'ren in Góds dierb're straalen,</l>
+<l>Waaraan u de Eng'len zyn verpligt,</l>
+<l>En vrolyk voor uw zétel praalen;</l>
+<l>Ja waarvoor de Outerzonnen staan</l>
+<l>En voeren 't Heir by beurten aan.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">O hoe volmaakt juicht alles daar!</l>
+<l>Als Liefde Liefde kan hervórmen,</l>
+<l>En Liefde voor Góds Troonaltaar</l>
+<l>De bron der Liefde zal bestórmen;</l>
+<l>En spreekt voor <hi rend="i">Jézus</hi> heerschappy</l>
+<l>Den Mens van schuld en straffen vry.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill14.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0013"/> </interpGrp>
+<pb n="28"/>
+<head rend="h3">Liefde verlangt na boven.</head>
+<lg type="poem">
+<l rend="; 3tab">ô Hoe schoon staat gy hier bo - - - - ven, Myn Konings</l>
+<l>Bruid in <hi rend="i">Jézus</hi> ho - - ven En blaa - - st een Liefde geuralom</l>
+<l rend="; 1tab">Alles buigd daar voor uw straa - - - - len Gods Eng'len ziet men</l>
+<l rend="; 3tab">vrolyk daa - - len, En zwee - - ven in uw heiligdom! Daar</l>
+<l rend="; 2tab">zy verheug - - - d en schoon Omhelzen uw geboon En - - -</l>
+<l rend="; 2tab">- uw - eeren ://: Daal Konings Brui - - - d Met zoet ge-</l>
+<l rend="; 2tab">lui - - - d Dat zelf de vreug - - - d ten Hemel stuit. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill22.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="29"/>
+<head rend="h4">Liefde verlangt na boven.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> hoe schoon staat gy hier boven!</l>
+<l>Myn Konings Bruid! in <hi rend="i">Jezus</hi> Hoven,</l>
+<l rend="; 1tab">En blaast een' Liefdegeur alom;</l>
+<l>Alles buigt daar voor u straalen;</l>
+<l>Góds Eng'len ziet men vrolyk daalen</l>
+<l rend="; 1tab">En zweeven in uw Heiligdom,</l>
+<l rend="; 2tab">Daar zy verheugd en schoon</l>
+<l rend="; 2tab">Omhelzen uw' Geboon,</l>
+<l rend="; 3tab">En u eeren.</l>
+<l>Daal Konings Bruid, Met zoet geluid:</l>
+<l>Dat zelf de vreugd ten Hémel stuit.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Ja myn Ziel! spring op met lusten:</l>
+<l>Om eenmaal in uw' schoot te rusten,</l>
+<l rend="; 1tab">Daar 't al van Liefde blaakt en brand.</l>
+<l>Liefde komt Góds Zoon t'omarmen.</l>
+<l>En Liefde smelt zelf door 't verwarmen</l>
+<l rend="; 1tab">In straalen van Góds Diämant,</l>
+<l rend="; 2tab">En schiet door 't zonnewoud</l>
+<l rend="; 2tab">Een vuur van eeuwig Goud,</l>
+<l rend="; 3tab">Langs de wanden,</l>
+<l>Waarin het al, Smaakt Hémelval,</l>
+<l>En vrolyk juicht met zoet geschal.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Dan staan zelf Góds Troonjuweelen</l>
+<l>Het eeuwig Lóf en prys te speelen.</l>
+<l rend="; 1tab">Dan buigt voor Liefde 't alles neêr.</l>
+<l>Dan zal Liefde Triumfeeren,</l>
+<l>O! ieder moet Góds Liefden eeren,</l>
+<l rend="; 1tab">Als 't puik van haare Zielsbegeer:</l>
+<l rend="; 2tab">Om in de minnegloed</l>
+<l rend="; 2tab">Te werden opgevoed,</l>
+<l rend="; 3tab">En te zingen</l>
+<l>Voor 's Konings Bruid, Met zoet geluid,</l>
+<l>Dat zelf alom de weêrklank stuit.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill23.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0014"/> </interpGrp>
+<pb n="30"/>
+<head rend="h3">Liefde Zégepraalt over alles.</head>
+<lg type="poem">
+<l rend="; 1tab">Door Lie - fde door Lie - fde staat het al te</l>
+<l rend="; 2tab">praa - - - - len En on - - derhoud Gods zon -</l>
+<l rend="; 2tab">- - newoud, Als méde 's Hémels ruime zaa - -</l>
+<l rend="; 2tab">- - - - - - len En Zon - - - en Maan, En</l>
+<l>Ster - - ren staan Te flon - - - - k'ren op haar'</l>
+<l rend="; 3tab">wyze wetten ://: Waardoor me als ziet, waar door me als</l>
+<l>ziet Gods lof - Trompet - - - - ten. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill24.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="31"/>
+<head rend="h4">Liefde zégepraalt over alles.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">D</hi>oor Liefde staat het al te praalen</l>
+<l rend="; 1tab">En onderhoud</l>
+<l rend="; 1tab">Góds Zonnewoud,</l>
+<l>Als méde 's Hémels ruime zaalen</l>
+<l rend="; 1tab">En Zon en Maan,</l>
+<l rend="; 1tab">En Sterren staan</l>
+<l>Te flonk'ren op haar' wyze wetten:</l>
+<l>Waardoor me als ziet Gods Lof Trompetten.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Haar' Liefde-schakel weet te boeijen</l>
+<l rend="; 1tab">Het groot Heelal,</l>
+<l rend="; 1tab">Zo vast en pal.</l>
+<l>Zie Liefde steeds uit Liefde groeijen;</l>
+<l rend="; 1tab">Op zulk een' wys.</l>
+<l rend="; 1tab">Zal 't Paradys</l>
+<l>Haar' vrugtb're werking nóg getuigen,</l>
+<l>Als alles zal door Liefde buigen.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Deez' Paarel schoon, zo hoog verhéven,</l>
+<l rend="; 1tab">Zend van haar' Troon</l>
+<l rend="; 1tab">Haar' Ryksgeboôn:</l>
+<l>Opdat de Mensen daar na leeven.</l>
+<l rend="; 1tab">En voert de smert</l>
+<l rend="; 1tab">Van 't zugtend hert</l>
+<l>Weêr op, daar zy door haar' gebéden</l>
+<l>Den Mens verwerft Góds heil en vréde.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0015"/> </interpGrp>
+<pb n="32"/>
+<head rend="h3">Liefde geeft wysheid.</head>
+<lg type="poem">
+<l rend="; 3tab">Kom Hémelmaagd, bestraa - - - -</l>
+<l rend="; 2tab">- - - - - - - - - l myn Har - - t Met</l>
+<l rend="; 1tab">wysheid uit uw' Schattrezooren, Waarmeê gy Aard en</l>
+<l rend="; 1tab">Hémel tart En alles na uw' Wet - doet hooren, Waar-</l>
+<l>door gy alles dwing - t en boeit. ://: ô Wysheid! die door</l>
+<l rend="; 1tab">Lief - de groeit. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill25.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="33"/>
+<head rend="h4">Liefde geeft Wysheid.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">K</hi>om Hémelmaagd, bestraal myn Hart</l>
+<l>Met wysheid uyt uw' Schattrezooren,</l>
+<l>Waarmeê gy Aard en Hémel tart</l>
+<l>En alles na uw' Wet doet hooren,</l>
+<l>Waardoor gy alles dwingt en boeit.</l>
+<l>O Wysheid! die door Liefde groeit.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Verlicht myn Geest opdat ik mag</l>
+<l>Den Luister van uw schoon beschouwen.</l>
+<l>O Dageraad van zulken Dag!</l>
+<l>Op wien ik al myn Heil kan bouwen;</l>
+<l>Waarin de Liefde heerlyk bloeit,</l>
+<l>Daar Wysheid steeds door Liefde groeit.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">O Hémelgaaf! waardoor ik my</l>
+<l>Zie als met <hi rend="i">Cherubynen</hi> Veêren</l>
+<l>Bekleed: om, voor uw' Heerschappy,</l>
+<l>U steeds als Onderdaan zal eeren,</l>
+<l>En woonen by u onvermoeid</l>
+<l>Daar wysheid steeds door Liefde groeit.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill14.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0016"/> </interpGrp>
+<pb n="34"/>
+<head rend="h3">Liefde geeft ons vryheid.</head>
+<lg type="poem">
+<l rend="; 1tab">'t Is de Liefde die ons geeft Dat de vry - - - -</l>
+<l rend="; 1tab">- - - - - - heid vrolyk leeft, En verkwikt ons dag op</l>
+<l rend="; 1tab">dag Met een heilverkwikb're lac - - h, En zy</l>
+<l>doet ons opwaards stree - - - - ven, ://: Daar zy op</l>
+<l rend="; 1tab">haaren Troon in lui - - - - - - - ster</l>
+<l rend="; 1tab">staat verhéven. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill26.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="35"/>
+<head rend="h4">Liefde geeft ons vryheid.</head>
+<lg type="poem">
+<head>1.</head>
+<l rend="; 2tab"><hi rend="b">'T</hi>is de Liefde die ons geeft</l>
+<l rend="; 1tab">Dat de Vryheid vrolyk leeft,</l>
+<l rend="; 1tab">En Verkwikt ons dag op dag</l>
+<l rend="; 1tab">Met een heilverkwikb're lach.</l>
+<l rend="; 1tab">En zy doet ons opwaards streeven,</l>
+<l>Daar zy op haaren Troon in Luister staat verhéven.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 2tab">Zou de Liefde door het schoon</l>
+<l rend="; 1tab">Van de blanke vryheids Kroon,</l>
+<l rend="; 1tab">Ons niet zoet verheugd en bly</l>
+<l rend="; 1tab">Voeren voor haar Heerschappy?</l>
+<l rend="; 1tab">Om de vryheyds vrugt te plukken.</l>
+<l>Wie hier door Liefde leeft zal alles wel gelukken.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 2tab">Vryheid die door uwen schat</l>
+<l rend="; 1tab">My voert na Góds Zonnestad,</l>
+<l rend="; 1tab">Daar de Liefde juichend speelt,</l>
+<l rend="; 1tab">En een Hémel zelf verbeeld,</l>
+<l rend="; 1tab">Met meer schoon als duizend zonnen.</l>
+<l>Ik dank den Hémel die myn Hert heeft overwonnen.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0017"/> </interpGrp>
+<pb n="36"/>
+<head rend="h3">Liefde Straalen verkwikken ons.</head>
+<lg type="poem">
+<l rend="; 2tab">ô Held're Zon! - - - - Die my verwon, - -</l>
+<l rend="; 1tab">En voort deed gaan Op uwe Baan. Uw schoon ge-</l>
+<l rend="; 1tab">zig - - t, Daar 't al voor zwig - t, Heeft my be-</l>
+<l>koor - - - t Dat ik nu voor - t Van Liefde</l>
+<l rend="; 2tab">kwy - n: Waardoor gy my - n Op 't zoetste</l>
+<l rend="; 2tab">too - - - - - - - - - - nt Wat in uw</l>
+<l rend="; 1tab">woo - - nt Wat in uw woont.</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill27.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="37"/>
+<head rend="h4">Liefde Straalen verkwikken ons.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> held're Zon!</l>
+<l>Die my verwon,</l>
+<l>En voort deed gaan</l>
+<l>Op uwe Baan.</l>
+<l>Uw schoon gezigt,</l>
+<l>Daar 't al voor zwigt,</l>
+<l>Heeft my bekoort,</l>
+<l>Dat ik nu voort</l>
+<l>Van liefde kwyn:</l>
+<l>Waar door gy myn</l>
+<l>Op 't zoetste toont</l>
+<l>Wat in u woont.</l></lg>
+
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Alwaar gy zyt</l>
+<l>Met majesteit</l>
+<l>Gehuld, geëerd</l>
+<l>En daar men leert</l>
+<l>Met Eng'lentaal</l>
+<l>In <hi rend="i">Jézus</hi> zaal,</l>
+<l>Hoe steets uw schoon</l>
+<l>De Hémelkroon</l>
+<l>Met glans versierd,</l>
+<l>En daar men zwiert</l>
+<l>Voor 't eeuwig Lam</l>
+<l>Uit <hi rend="i">Jessés</hi> stam.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Daar zit gy tróts</l>
+<l>Op <hi rend="i">Sions</hi> Róts</l>
+<l>Om ieder één</l>
+<l>Vol plegtigheên</l>
+<l>t' Ontvangen, daar</l>
+<l>Wy voor en naar</l>
+<l>(In 't zaalig Hóf</l>
+<l>Met prys en lóf</l>
+<l>En dank bereid</l>
+<l>In Eeuwigheyd)</l>
+<l>U looven voort,</l>
+<l>In <hi rend="i">Salems</hi> Poort.</l></lg>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill29.gif"/></p></figure></p></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0018"/> </interpGrp>
+<pb n="38"/>
+<head rend="h3">Liefde voert ons opwaards.</head>
+<lg type="poem">
+<l rend="; 4tab">O zuiver Beeld! ô zuiver Beeld! die met uw mórgen-</l>
+<l rend="; 2tab">glan - - - - - sen Myn zie - - - - l ontsluit, En</l>
+<l rend="; 4tab">opwaards voert En opwaards voert na <hi rend="i">Sion's</hi> Hemel-</l>
+<l rend="; 3tab">tran - - - - - - - - sen, Gely - - - - - k een</l>
+<l>Bruid Die met - - haar' gloe - ten pragtige eersieraa - - -</l>
+<l rend="; 2tab">den Het Di - - aman - t Verdoof - d, voor 't lich - t van</l>
+<l rend="; 1tab">haa - - re Fees - tgewaaden, ://: Dat hel - - - der brand. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill30.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="39"/>
+<head rend="h4">Liefde voert ons opwaards.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> zuiver Beeld! die met uw mórgenglansen</l>
+<l rend="; 1tab">Myn ziel ontsluit,</l>
+<l>En opwaards voert na <hi rend="i">Sions</hi> Hémeltransen,</l>
+<l rend="; 1tab">Gelyk een Bruid</l>
+<l>Die met haar gloet en pragtige eersieraaden,</l>
+<l rend="; 1tab">Het Diamant</l>
+<l>Verdoofd, voor 't licht van haare Feestgewaaden,</l>
+<l rend="; 1tab">Dat helder brand.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Hoe lieflyk staat zy in haar schoon te pronken!</l>
+<l rend="; 1tab">En weet door min</l>
+<l>Góds dienaars al op 't allerzoetst t' ontvonken;</l>
+<l rend="; 1tab">O Minvorstin!</l>
+<l>Gy hoog en ryk gezételd op Góds troonen,</l>
+<l rend="; 1tab">Daar d'Eng'lenwagt</l>
+<l>U als haar Bruid met zégenwensen kroonen,</l>
+<l rend="; 1tab">Zo hoog geacht.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>O Konings Bruid! verlicht my met uw' straalen,</l>
+<l rend="; 1tab">En laat myn Hart</l>
+<l>Op al uw schoon in vollen luister praalen,</l>
+<l rend="; 1tab">Waardoor ik tart</l>
+<l>Al 't Ondermaans, hoe hoog en ryk van waarde;</l>
+<l rend="; 1tab">Daar gy alleen</l>
+<l>My opwaards voert; zo zal ik van deeze aarde</l>
+<l rend="; 1tab">Na <hi rend="i">Jézus</hi> treên.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0019"/> </interpGrp>
+<pb n="40"/>
+<head rend="h3">Liefde brengt alles te regt.</head>
+<lg type="poem">
+<l rend="; 2tab">O Lie - fde Zon! ô Lie - fde Zon! ô Liefde</l>
+<l rend="; 2tab">Zon! die alles hier kunt bin - - - den Door Liefde-</l>
+<l rend="; 1tab">zeelen ryk alom - vermaard, Den hoogen Hémel zelf hier</l>
+<l rend="; 1tab">aa - - n deeze aard Dat el - k ge - rust by u zyn toevlugt</l>
+<l rend="; 1tab">vinden. ://: Laat <hi rend="i">Si - - nai</hi> laat <hi rend="i">Si - nai</hi> laat</l>
+<l rend="; 1tab"><hi rend="i">Si - - nai</hi> - - Góds lof - Trompet - - - ten. 't Buigt al - voor</l>
+<l><hi rend="i">Si - ons</hi> Lie - - - f de-wet - - - ten. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill31.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="41"/>
+<head rend="h4">Liefde brengt alles te regte.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> Liefde Zon die alles hier kunt binden</l>
+<l>Door Liefde-zeelen, ryk alom vermaard,</l>
+<l>Den hoogen Hémel zelf hier aan deeze aard:</l>
+<l>Dat elk gerust by u zyn toevlugt vinden.</l>
+<l>Laat <hi rend="i">Sinaï</hi> Góds lof trompetten.</l>
+<l>'t Buigt al voor <hi rend="i">Sions</hi> Liefde-wetten.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Het Mórgenrood daagt vrolyk met genaade,</l>
+<l>Waarvoor de nagt der duist're schaduw zwigt.</l>
+<l>Door liefde ryst het Evangélielicht;</l>
+<l>Den Hémel is met liefde zelf beladen,</l>
+<l>En stort een daauw van liefde néder,</l>
+<l>Waarin hy vind zyn Heiland wéder.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Een Liefde vol van gloed en Wierookvlammen;</l>
+<l>Die na het Hémels zweeft zo mild van geur:</l>
+<l>Die weêr ontsluit Gods reine Tempeldeur,</l>
+<l>Veel meer als 't kon door Arons Offerrammen.</l>
+<l>ô Liefde Zon uw minwaranden,</l>
+<l>Staan van een zuiver vuur te branden.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0020"/> </interpGrp>
+<pb n="42"/>
+<head rend="h3">Liefde doet alles zwigten.</head>
+<lg type="poem">
+<l rend="; 1tab">Vaar wel - vaar wel vaar wel - vaar wel - bedroefde</l>
+<l>Wae - - - reld! Hoe ry - - - k gy zyt met glans be-</l>
+<l>paa - - - reld. Uw vals bedrieglyk schyn heeft my Te-</l>
+<l>lan - - g, voor uwe heerschappy, Doen bui - - - gen Nu</l>
+<l>buigen wy in ootmoed né - - - - - der, Gely - -</l>
+<l>k een hoo - - - - g opgaande Céder, Voor 't rui - -</l>
+<l>- - - - - sen van een' snel - - len wind; Voor Lie - -</l>
+<l rend="; 1tab">fde dat ik als haar vrind ://: ge - tui - - - gen. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill32.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="43"/>
+<head rend="h4">Liefde doet alles zwigten.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">V</hi>aar wel! vaar wel bedroefde Waereld!</l>
+<l>Hoe ryk gy zyt met glans bepaareld.</l>
+<l rend="; 1tab">Uw vals bedrieglyk schyn heeft my</l>
+<l rend="; 1tab">Te lang, voor uwe heerschappy,</l>
+<l rend="; 2tab">Doen buigen.</l>
+<l>Nu buigen wy in ootmoed néder,</l>
+<l>Gelyk een hoog opgaande Céder,</l>
+<l rend="; 1tab">Voor 't ruisen van een snellen wind;</l>
+<l rend="; 1tab">Voor Liefde dat ik als haar vrind</l>
+<l rend="; 2tab">Getuigen.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Daar ondervind ik 't elke stonden</l>
+<l>De vrugt van haare Trouwverbonden;</l>
+<l rend="; 1tab">Zy is waarachtig in al 't geen</l>
+<l rend="; 1tab">Zy uit door haar Orakelreên,</l>
+<l rend="; 2tab">Met vreugden.</l>
+<l>Met vreugden gaat zy my besproeijen:</l>
+<l>En doet me als Sarons Roozen groeije,</l>
+<l rend="; 1tab">Of Wil'gen by een zilv're bron,</l>
+<l rend="; 1tab">Gekoesterd door de middagzon,</l>
+<l rend="; 2tab">In Deugden.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Ik smaak alhier reeds Hemelgaven:</l>
+<l>Want Liefde kan myn hert hier laaven</l>
+<l rend="; 1tab">Met <hi rend="i">Jezus</hi> zaaligmakend nat,</l>
+<l rend="; 1tab">Dat uit zyn heilig Ligchaam spat,</l>
+<l rend="; 2tab">Met lusten.</l>
+<l>Met lusten kan ik opwaarts streeven</l>
+<l>Daar gy o Liefde! my doet leeven;</l>
+<l rend="; 1tab">En zeg: vaar eeuwig wel, aan dat</l>
+<l rend="; 1tab">Niet aêrs als Ydelheid omvat,</l>
+<l rend="; 2tab">En rusten.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0021"/> </interpGrp>
+<pb n="44"/>
+<head rend="h3">Liefde staat ons by in nood.</head>
+<lg type="poem">
+<l rend="; 3tab">Als Hémel, Aarde en Océaan In wraak verbolgen zullen</l>
+<l rend="; 2tab">stry - - - en, En alles dreig - - t om neê - - -</l>
+<l rend="; 3tab">- - - - r te slaan, En hoo - - ge slooten gaan ra-</l>
+<l rend="; 3tab">mei - - - jen; En Wind en Stórmen o - veral Op 't</l>
+<l rend="; 2tab">schrik - - - - - - - kelyksten naarste huilen, En</l>
+<l>maakt het al tót Puin: waar zal ://: 't Angstvallig Men - - -</l>
+<l rend="; 1tab">- - - - - sdom dan - - - - ver - schui - len? ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill33.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="45"/>
+<head rend="h4">Liefde staat ons by in nood.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">A</hi>ls Hémel, Aard en Océaan</l>
+<l>In wraak verbólgen zullen stryên,</l>
+<l>En alles dreigt om neêr te slaan,</l>
+<l>En hooge Slóten gaan ramyen,</l>
+<l>En Wind en Stórmen overal</l>
+<l>Op 't schrikkelykst en naarsten huilen</l>
+<l>En maak het al tót Puin: waar zal</l>
+<l>'t Angstvallig Mensdom dan verschuilen?</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Waar anders als daar Liefde woont?</l>
+<l>In <hi rend="i">Salems</hi> min- en lustwaranden,</l>
+<l>Zo ryk met vlammend Goud gekroond,</l>
+<l>Daarop steeds duizend Starren branden:</l>
+<l>En staat daar met een groot begeer</l>
+<l>Al juichende met zielsverlangen:</l>
+<l>Om het boetvaardig Mensdom weêr</l>
+<l>Door Liefde in haaren arm te ontvangen.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Hoe vrolyk juicht haar Troonpaleis!</l>
+<l>Als zy dat uurtje ziet geboren;</l>
+<l>Dan klinkt de vreugde reis op reis,</l>
+<l>En Heil en Troost komt elk te vooren;</l>
+<l>Daar 't driemaal zaalig Geestendom,</l>
+<l>Met <hi rend="i">Cherubyns</hi> en Koorjuweelen,</l>
+<l>Op 't allerzoetst die vreugd alom,</l>
+<l>Op Lugtbazuinen moedig speelen.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0022"/> </interpGrp>
+<pb n="46"/>
+<head rend="h3">Liefde is regtvaardig.</head>
+<lg type="poem">
+<l>Een' die door Liefd' is steeds ontvonk - - - t, En voeld haar</l>
+<l>Troonwet in zy - n herte stree - - - - - - - - -</l>
+<l>len: Bevind dat zy rechtvaardig pronkt, En ziet zyn</l>
+<l>smart met dubb'le vreugd - - - d weêr heelen, ://: En</l>
+<l rend="; 1tab">heeft. de voorsmaak reis op reis, Van 't eeu - - - wig</l>
+<l>bloeyend Pa - radys. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill34.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="47"/>
+<head rend="h4">Liefde is rechtvaardig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">E</hi>en' die door Liefd' is steeds ontvonkt,</l>
+<l>En voeld haar Troonwet in zyn herte streelen:</l>
+<l>Bevind dat zy regtvaardig pronkt,</l>
+<l>En ziet zyn smart met dubb'le vreugd weêr heelen,</l>
+<l rend="; 1tab">En heeft de voorsmaak reis op reis</l>
+<l rend="; 1tab">Van 't eeuwig bloeyend Paradys.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Haar gloed die steeds zyn hert bestraald,</l>
+<l>Daar hy om hoog op <hi rend="i">Cherubynen</hi> wieken</l>
+<l>Heen streeft, daar Liefde Zégepraald,</l>
+<l>En ryk van éd'le specery zal rieken;</l>
+<l rend="; 1tab">En tuimelt daar, ten spyt van druk,</l>
+<l rend="; 1tab">In Roozen van een groot geluk.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Daar spelemeit hy schoon op Aard,</l>
+<l>In <hi rend="i">Sions</hi> Hóf en zaal'ge Lustprieëlen,</l>
+<l>Daar hy door Liefde werd verklaard,</l>
+<l>En zingt op 't schoonst terwyl Góds Eng'len speelen:</l>
+<l rend="; 1tab">Tót dat hy smelt in Liefdevuur,</l>
+<l rend="; 1tab">Gelyk een Vrind van <hi rend="i">Sion's</hi> Muur.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0023"/> </interpGrp>
+<pb n="48"/>
+<head rend="h3">Liefde is Lankmoedig.</head>
+<lg type="poem">
+<l rend="; 1tab">Ja, waar is grooter min Dan by uw Ryksvorstin,</l>
+<l rend="; 2tab">Die nim - mer weet van Haat of nei - - - d tespree-</l>
+<l>ken, Veel min - - - - van wree - - ken, Uw</l>
+<l>zui - - ver Lie - fdegloed Ontsteek - - t uw bor - -</l>
+<l>- - - - - st zo zoet, Dat gy langkmoedig al - toos</l>
+<l>komt te praa - - - - - - len, En agt - geen aard - ze</l>
+<l>zorg van schandig smaa - - - - - - - - - - - len.</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill35.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="49"/>
+<head rend="h4">Liefde is Langmoedig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">J</hi>a, waar is grooter Min</l>
+<l>Dan by uw Ryksvorstin,</l>
+<l>Die nimmer weet van haat of neid te spreeken,</l>
+<l>Veel min van wreeken,</l>
+<l>Uw zuivre Liefdegloed</l>
+<l>Ontsteekt uw Borst zo zoet,</l>
+<l>Dat gy Langmoedig altoos komt te praalen,</l>
+<l>En agt geen aardse zorg van schandig smaalen;</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Gy altoos wel te vreên,</l>
+<l>Praald vol onzaglykheên,</l>
+<l>Daar 't ondermaans u nimmer kan ontrusten</l>
+<l>In uwe lusten,</l>
+<l>En of gy ziet uw schoon</l>
+<l>Besmet met schand en hoon,</l>
+<l>Zo weet de glans van uw Langmoedigheeden,</l>
+<l>U weer te cieren na uw eygen Reeden.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">ô Hoe gelukkig hy!</l>
+<l>Die voor uw Heerschappy</l>
+<l>Mag buigen, om daar door uw schoon te leeren,</l>
+<l>En 't aards te ontbeeren,</l>
+<l>Om door Langmoedigheit,</l>
+<l>Voor Liefdens Majesteit,</l>
+<l>Op 't schoonst te streeven voor uw heldre straalen,</l>
+<l>Daar wy in vreugd vereeuwigd zeegepraalen,</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0024"/> </interpGrp>
+<pb n="50"/>
+<head rend="h3">Liefde is Zagtmoedig.</head>
+<lg type="poem">
+<l rend="; 3tab">O weergaloo - ze Liefdeband! O pron - - - kzuil!</l>
+<l>daar myn ziel op boogen, Gy stree - - - - ld my doo - r uw</l>
+<l rend="; 3tab">Hémeloo - - - - - - - - - gen, Waar</l>
+<l rend="; 1tab">doo - r myn har - t van weer - min brand, Dan zie - ik</l>
+<l rend="; 1tab">in - - uw Lus - tprieë - - len, Hoe gy Gods Englen</l>
+<l>Komt te stree - - - - len, Die voo - - r uw lof - - - - en</l>
+<l rend="; 2tab">Mayesteit, Bazui - - - - - nen uw ://: zagtmoedigheit. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill36.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="51"/>
+<head rend="h4">Liefde is zachtmoedig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">O</hi> Weergalooze Liefdeband!</l>
+<l>ô Pronkzuil daar myn ziel op boogen,</l>
+<l>Gy streeld my door uw Hemeloogen</l>
+<l>Waar door myn Hart van weermin brand,</l>
+<l>Dan zie ik in uw Lustprieëlen,</l>
+<l>Hoe gy Gods Englen komt te streelen,</l>
+<l>Die door uw lof en Majesteit,</l>
+<l>Bazuinen uw zagtmoedigheit.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l rend="; 1tab">Wat is de Waereld, by uw schat,</l>
+<l>Daar zy van haat en twist bezeeten,</l>
+<l>Geen ramp van vrinden kan vergeeten,</l>
+<l>Heel anders pronkt gy in Gods Stad!</l>
+<l>Uw zagten aard en goeilykheeden,</l>
+<l>Baard wellust, heil, vermaak en vreeden,</l>
+<l>Ja vest uw eygen Tempelslot,</l>
+<l>In 't eeuwig licht van Zions God,</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l rend="; 1tab">Door u is 't dat Gods zonnehof</l>
+<l>Zagtmoedig staat in min te blaaken,</l>
+<l>Daal Hemelmaagd! daal van uw Daaken!</l>
+<l>En ciert ons hart met Jezus lof,</l>
+<l>En laat ons by uw Choorjuweelen,</l>
+<l>Uw schoon op 't allerschoonste streelen,</l>
+<l>En kussen uwe Majesteit</l>
+<l>Met vreuchd door uw zagtmoedigheid.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0025"/> </interpGrp>
+<pb n="52"/>
+<head rend="h3">Liefde ontvonkt zelf de Engelen.</head>
+<lg type="poem">
+<l>Hoe vro - - - - lyk juich - t Góds Eng'lenschaar! O</l>
+<l>Lie - fde! daar gy 't hoogst zult pron - - - ken Op</l>
+<l>uw verhéven Troonaltaar, En doetze op u met</l>
+<l rend="; 1tab">Lóf ontvonken, En zetten op haar vreug - -</l>
+<l>- - - - - - d Trompet ://: De lusten van uw</l>
+<l rend="; 2tab">reine wet. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill37.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="53"/>
+<head rend="h4">Liefde ontvonkt zelf de Engelen.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">H</hi>oe vrolyk juicht Góds Eng'lenschaar,</l>
+<l>O Liefde! daar gy 't hoogst zult pronken</l>
+<l>Op uw verhéven Troonaltaar,</l>
+<l>En doetze op u met Lóf ontvonken,</l>
+<l>En zetten op haar' vreugd Trompet</l>
+<l>De lusten van uw reine wet.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Gòds Hóftrawanten staan als dan</l>
+<l>Op rein Agaat en Goude vloeren,</l>
+<l>En kneeden voor u Hemels <hi rend="i">Mann</hi>'</l>
+<l>Terwyl de <hi rend="i">Cherubynen</hi> snoeren</l>
+<l>Om uwen Hals het pronkivoor,</l>
+<l>Gehaald uit <hi rend="i">Sions</hi> Tempelchoor.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Hoe juicht en speelt Góds Engelwagt.</l>
+<l>Als Liefde smelt in Liefdevonken,</l>
+<l>En daalt met <hi rend="i">Cherubynen</hi> pragt:</l>
+<l>Om weêrgâloos by Gód te pronken;</l>
+<l>Om 't Hoofd betulband met een Kroon:</l>
+<l>Wie is de Liefde? dan Góds Zoon;</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0026"/> </interpGrp>
+<pb n="54"/>
+<head rend="h3">Liefde is mildaadig.</head>
+<lg type="poem">
+<l>Tweedragt mag den Vórst behaa - - - gen,Daar hy op 't</l>
+<l>Oorlogsveld Gely - - - k een Hel - - - - - -</l>
+<l rend="; 1tab">d, Mag de groene Lauwren draa - - gen, En al-</l>
+<l>om - - - Met Bas en Bom, - - - - Lofbazui - - -</l>
+<l rend="; 1tab">- nen, Veldschalmeyen, ://: Eerezui - - - - - -</l>
+<l rend="; 2tab">- - - - len zie - t bereyen. ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill38.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="55"/>
+<head rend="h4">Liefde is Mildaadig.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">T</hi>weedragt mag den Vórst behaagen,</l>
+<l rend="; 2tab">Daar hy op 't Oorlogsveld</l>
+<l rend="; 3tab">Gelyk een Held,</l>
+<l>Mag de groene Lauren draagen,</l>
+<l rend="; 4tab">En alom</l>
+<l rend="; 3tab">Met Bas en Bom,</l>
+<l rend="; 1tab">Lofbezuinen, Veldschalmeyen,</l>
+<l rend="; 1tab">Eerezuilen ziet bereyên.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Maar dat Tweedragt doet verkwisten</l>
+<l rend="; 2tab">Daar de Onderdaan om zugt,</l>
+<l rend="; 4tab">En voor bedugt,</l>
+<l>Altoos jammert voor haar listen</l>
+<l rend="; 4tab">En geweld</l>
+<l rend="; 3tab">Ja schoon zy meld</l>
+<l rend="; 1tab">Overwinning, zegepraalen;</l>
+<l rend="; 1tab">Liefde zal doch 't veld behaalen.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Liefde bouwt de maadschappyen,</l>
+<l rend="; 2tab">En stort haar schatten neêr,</l>
+<l rend="; 3tab">Daar zy met eer</l>
+<l>Straald op <hi rend="i">Sions</hi> Burgeryen,</l>
+<l rend="; 4tab">En haar wet</l>
+<l rend="; 3tab">Op een Trompet</l>
+<l rend="; 1tab">Uitbazuint, zelfs in het duister</l>
+<l rend="; 1tab">Hartverkwikbre roem en luister.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0027"/> </interpGrp>
+<pb n="56"/>
+<head rend="h3">Liefde baart kuisheit.</head>
+<lg type="poem">
+<l rend="; 1tab">Lie - - - - fde Liefde die steeds kuisheit baar - - -</l>
+<l rend="; 2tab">t Hie - - r op Aard; Maar daar zy op haare Troonen</l>
+<l>Kom - - t te woonen Praa - - - - It zy met veel</l>
+<l rend="; 4tab">reiner licht, Voo - - - r 't gezigt, ://: Die geen</l>
+<l rend="; 2tab">sterfling kan beschou - - wen Noch ontvouwen noch ont-</l>
+<l rend="; 3tab">vouwen.</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill39.gif"/></p></figure></l></lg>
+<div type="section">
+<pb n="57"/>
+<head rend="h4">Liefde baart Kuisheid.</head>
+<lg type="poem">
+<head>1.</head>
+<l><hi rend="b">L</hi>iefde die steeds Kuisheid baart</l>
+<l rend="; 1tab">Hier op Aard;</l>
+<l>Maar daar zy op haare Troonen</l>
+<l rend="; 1tab">Komt te woonen</l>
+<l>Praalt zy met veel reiner Licht,</l>
+<l rend="; 1tab">Voor 't gezigt,</l>
+<l>Die geen Sterfling kan beschouwen</l>
+<l rend="; 1tab">Nóch ontvouwen.</l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>Kuisheid staat daar met de Kroon</l>
+<l rend="; 1tab">Lief en schoon,</l>
+<l>Waar voor steeds Góds Hémelingen</l>
+<l rend="; 1tab">Vrolyk zingen,</l>
+<l>En verheugen zig met vlyt,</l>
+<l rend="; 1tab">Daar zy spreit</l>
+<l>Duizend glansen, duizend straalen</l>
+<l rend="; 1tab">Om te praalen.</l></lg>
+<lg type="poem">
+<head>3.</head>
+<l>Daal dan Kuisheid! op my neêr,</l>
+<l rend="; 1tab">Schenk my weêr</l>
+<l>Zo een Hert gelyk voor deezen</l>
+<l rend="; 1tab">Dat u vreezen:</l>
+<l>Opdat ik hier na mag staan</l>
+<l rend="; 1tab">Op de Maan,</l>
+<l>En uw' Heerlykheid beschouwen</l>
+<l rend="; 1tab">Met vertrouwen.</l></lg></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="hess008zins01_0028"/> </interpGrp>
+<pb n="58"/>
+<head rend="h3">Slotzang.</head>
+<lg type="poem">
+<l rend="; 2tab">Zo zin - gen wy zo zin - gen wy in stilheid neê - -</l>
+<l rend="; 1tab">- - - r gedooken In Rooze - schaduw by een' Bron, Van</l>
+<l>'t bloe - - m - ryk <hi rend="i">Libanon</hi>, Zo haast de Morgenzon ont-</l>
+<l>looken, En schiet haar straa - - - - - - - - - - len</l>
+<l rend="; 2tab">o - ver - al, ://: Langs Berg en Bos langs Berg en</l>
+<l rend="; 3tab">Bos - - - - en Beemd en Dal, en Beemd en Dal ://:</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill40.gif"/></p></figure></l>
+<pb n="59"/>
+<l rend="; 2tab"><hi rend="i">Halléluja</hi> - - - - - - - - <hi rend="i">Halléluja Hallélu</hi>-</l>
+<l><hi rend="i">ja Hallé - luja Halléluja</hi> - - - <hi rend="i">Hallélu</hi>-</l>
+<l rend="; 1tab"><hi rend="i">ja</hi> - - - <hi rend="i">Halléluja</hi> - - - - <hi rend="i">Hallé - lu</hi>-</l>
+<l rend="; 1tab"><hi rend="i">ja Hallé - luja Hallé - luja</hi>.</l>
+<l>
+<figure>
+<p><xptr to="hess008zins01ill41.gif"/></p></figure></l></lg>
+<lg type="poem">
+<head>2.</head>
+<l>O heil Fontyn! ik zal uw eeuwig danken,</l>
+<l>Nu ik, bestraald van Hémels vuur,</l>
+<l>U heb ter goeder uur</l>
+<l>Gevólgd op 't zoetst met laage klanken:</l>
+<l>Op hoop hiernaa met hooger Toon</l>
+<l>Te zingen, voor uw Liefde Troon.</l>
+<l rend="; 1tab"><hi rend="i">Halléluja</hi>.</l>
+<l rend="; 2tab"><hi rend="spat">EYNDE</hi>.</l></lg></div>
+<cf><div type="chapter">
+<pb n="60"/>
+<p><hi rend="i">By de Drukker deezer Sinspeelende Liefdens Gezangen, is mede Gedrukt en te bekomen, deeze naavolgende Werkjes, alle voorzien met Muzyk</hi>.</p>
+<p>&nbsp;</p>
+<p>Davids Psalmen, berymt door JAN van BELLEN, op de gewoone Zangwyzen en tot gemak der Leerlingen, die op Instrumenten speelen, op de G. Sleutel daar by gesteld.</p>
+<p>J. van ELSLANDS Dankbaare Naagedagten en Geboorte Gezangen, op de blyde en heylryke verschyninge, van 't licht der genade Jezus Christus; of de Geboorte van onzen Heiland en Zaligmaaker, begreepen in twintig Zangslukken, met Zangkunst verrykt door C: Cauwenberg en W: Vermooten. Tweede Druk.</p>
+<p>G: van MATERS Kruysgezangen; op het Lyden van onzen Heiland Jezus Christus, met Zangkunst verrykt door W: Vermooten. Tweede Druk.</p>
+<p>Stichtelyke Mengelzangen, verzameld uit veelerhande Schriften, en op Muzyk gebragt door C: Cauwenberg, W: Vermooten, en andere voornaame Meesters. Tweede Druk.</p>
+<p>J: van ELSLANDS Gezangen of het vrolyk Gezelschap der Negen Zanggodinnen, vierde Druk met 6 nieuwe Stukjes vermeerdert.</p>
+<p>Zang- en Speel-Oeffening, zeer dienstig voor die zig aan de Zang of Speelkonst begeeven, waar by gevoegt zyn eenige fraaye aardige Zang- en Speelstukjes.</p>
+<p>
+<figure>
+<p><xptr to="hess008zins01ill42.gif"/></p></figure></p></div></cf>
+</body>
+</text>
+
+</TEI.2>

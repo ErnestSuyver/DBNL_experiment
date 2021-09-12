@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Zeemanslied. Welkom, welkom, Vaderland</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Zeemanslied. Welkom, welkom, Vaderland</hi> uit ca. 1840.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>pagina 1 en 2 ontbreken.</corr>
+                       <corr>p. 2: het foutieve strofenummer 4 is verbeterd in 3.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_zee006zeem01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 08236</idno>
+               </bibl>
+               <p><hi rend="i">Zeemanslied. Welkom, welkom, Vaderland</hi>. F. W. Vislaake, Amsterdam ca. 1840</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Zeemanslied. Welkom, welkom, Vaderland</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Zeemanslied. Welkom, welkom, Vaderland</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-29</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="3"/>
+<p><figure>
+<p><xptr to="_zee006zeem01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_zee006zeem01_0001"/> </interpGrp>
+<head rend="h3">Zeemanslied.</head>
+<lg type="poem">
+<l rend="; 2tab">Welkom, welkom Vaderland</l>
+<l rend="; 1tab">Wij zijn nu weer op Hollands strand</l>
+<l rend="; 1tab">Niets kan meer genoegen geven</l>
+<l>Hoera! Hoera! het zeemansleven</l>
+    <l rend="; 1tab">Het varen is zeker goed &nbsp;&nbsp;&nbsp;bis.</l>
+<l rend="; 1tab">Het geeft ons geld in overvloed.</l>
+</lg>
+<lg type="poem">
+<head>2,</head>
+<l rend="; 2tab">Zie ik dan mijn ouders hier</l>
+<l rend="; 1tab">Dat is voor mij een groot plaisier</l>
+<l rend="; 1tab">zij heeft haar maandgeld juist ontvangen</l>
+<l>Dat is ook ons grootst verlangen</l>
+    <l rend="; 1tab">Het doet een zeeman altijd goed, &nbsp;&nbsp;&nbsp;bis.</l>
+<l rend="; 1tab">Als hij zijn ouders weer ontmoet.</l>
+</lg>
+<pb n="4"/>
+<lg type="poem">
+<head>3</head>
+<l rend="; 2tab">Wat de zeeman vaak ondervindt,</l>
+<l rend="; 1tab">Door de meisjes teer bemind,</l>
+<l rend="; 1tab">Want zij weten er van te halen,</l>
+<l>De zeeman kan het maar betalen,</l>
+    <l rend="; 1tab">zoo zingen wij bij wijn en bier &nbsp;&nbsp;&nbsp;bis.</l>
+<l rend="; 1tab">Hoera de meisjes van plaizier.</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l rend="; 2tab">Ja door regen storm en wind</l>
+<l rend="; 1tab">Dat is de zeeman zijn beste vrind</l>
+<l rend="; 1tab">Om te gaan varen, op de baren</l>
+<l>Wij trotseren ook de gevaren</l>
+    <l rend="; 1tab">Maar komen wij dan weer op ree &nbsp;&nbsp;&nbsp;bis.</l>
+<l rend="; 1tab">Dan brengen wij veel duitjes mee.</l>
+</lg>
+<lg type="poem">
+<head>5.</head>
+<l rend="; 2tab">Is ons geld dan weer verteerd</l>
+<l rend="; 1tab">En ons lijfje goed gesmeerd</l>
+<l rend="; 1tab">Vaarwel dan lieve vrouwen</l>
+<l>wij gaan ons op de baren nu vertrouwen</l>
+    <l rend="; 1tab">Het varen is voor ons het best &nbsp;&nbsp;&nbsp;bis</l>
+<l rend="; 1tab">Vivat een reisje naar oost of west</l>
+</lg>
+<cf><p>Gedrukt bij F.W. Vislaake, Amsterdam.</p></cf>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Manlius Capitolinus</title>
+               <author>Antoine de La Fosse</author>
+               <editor role="translator">Philip Malfait de Jonge</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Manlius Capitolinus</hi> van Antoine de La Fosse, in een vertaling van Philip Malfait de Jonge uit 1711.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 4, 64</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">foss005manl01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 12: 4</idno>
+               </bibl>
+               <p>Antoine de La Fosse, <hi rend="i">Manlius Capitolinus</hi> (vert. Philip Malfait de Jonge). J. Lescailje (erven), Amsterdam 1711</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Manlius Capitolinus</title>
+               <author>Antoine de La Fosse</author>
+               <editor role="translator">Philip Malfait de Jonge</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Manlius Capitolinus</title>
+               <author>Antoine de La Fosse</author>
+               <editor role="translator">Philip Malfait de Jonge</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-23</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="itali01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p><figure>
+<p><xptr to="foss005manl01ill0001.gif"/></p>
+</figure></p>
+
+<pb n="3"/>
+<p>MANLIUS CAPITOLINUS;</p>
+<p><hi rend="i">TREURSPEL</hi>.</p>
+<p><figure>
+<p><xptr to="foss005manl01ill0002.gif"/></p>
+</figure></p>
+<p>TE AMSTELDAM,</p>
+<p>By de Erfgen. van J. Lescailje, op den Middeldam, op de hoek van de Visch-markt, 1711.</p>
+<p>Met Privilegie.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">Aan den heer Ludolf Schouten.</head>
+<p><hi rend="i">MYN HEER</hi>,</p>
+<p>&nbsp;</p>
+<p><hi rend="b">O</hi>nze onderlinge vriendschap, en UE doorzichtig oordeel, aangaande de Dichtkunde, zyn de redenen die ons aansporen om dit Treurspel, genaamd <hi rend="sc">Manlius Capitolinus</hi>, aan UE op te dragen. Wy meenen, schoon het juist niet van woord tot woord naar het Fransche van den Heer <hi rend="sc">De la Fosse</hi>, (want het is maar eene vertaling) is gevolgd, dat wy echter ten naasten by de zin hebben getroffen. Indien het UE eenigzints kan behagen zyn wy voldaan, die d'eer hebben van ons te mogen noemen,</p>
+<p>&nbsp;</p>
+<p>MYN HEER,</p>
+<p>&nbsp;</p>
+<p><hi rend="i">UE. Vrienden</hi></p>
+<p>&nbsp;</p>
+<p>P: M: de Jonge, en N: L:</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Tousjours Malfait.</hi></p>
+</div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland doen te weten, alsoo ons vertoont is by de Regenten van het Burger Weeshuys ende Oude Mannenhuys oer Stad Amsterdam, en, in die qualiteyt, te samen eygenaers, midsgaders Regenten van den Schouburg aldaer, dat sy. Supplianten, sedert eenige Jaren hebbende gejouisseert van onsen Octroye of Privilegie van dato den 19. September 1684. waar by wy aen de Regenten van den selven Schouburg, in die tyt, hadden gelieven te consenteren, accordeeren ende octroijeren, dat sy, gedurende den tyd van vyftien eerst achter een volgende Jaren, de Werken, die doenmaals ten dienste van het Toneel reets gedrukt waren, ende van tyt tot tyt, nog verder in het ligt gebracht, ende ten Toneele gevoert soude werden, alleen soude mogen drucken, uytgeven en verkopen, nu ondervonden, dat de Jaren, by het voorgemelde onse Octroy of Privilegie genaemt, op den 19. September 1699. souden komen te expireren; ende dewyl de Supplianten ten meesten dienste van de Schouburg, waer van hunne respective Godshuysen onder andere mede moesten werden gesubcenteert, de voorgemelde Wercken, soo van Treurspellen, Blyspellen, als Kluchten, als anders, die reets gedrukt en ten Toneele gevoert en ten Toneele gevoert waeren, of in het toekomende gedruckt, en ten Toneele gevoert souden mogen werden, geerne alleen, gelyk voorheenen, souden blyven drucken, doen drucken uytgeven en verkopen, ten eynde deselve Wercken, door het nadrucken van anderen, haer luyster, soo in tael, als spelkonst, niet mogten komen te verliezen, dog dat sulcx aen haer, na de expiratie van het bovengemelde ons Octroy, en sulcx nae den 19. September 1699. niet gepermitteert soude wesen, soo vonden de Supplianten hun genootsaekt sig te keeren tot ons, onderdanig versoekende, dat wy aen de Supplianten, in hare bovengemelde qualiteyt, geliefden te verleenen prolongatie van het voorsz. Octroy of Privilegie, omme alsoo de voorsz. Wercken, soo van Treurspellen, Blyspellen, Kluchten, als andere, reeds gemaeckt
+en ten Toneele gevoert, en als nog in het ligt te brengen, den tyt van vyftien eerst achter een volgende Jaren, alleen te mogen drucken en verkopen, of doen drucken en verkopen, met verbod aen allen andere op seeckere hoge penen, by U Ed. Groot Mog. daer toe te stellen, en voorts in communi forma; so is 't dat wy de saecke, ende 't versoeck voorsz. overgemerkt hebbende, ende genegen wesende, ter bede van de Supplianten, uyt onse rechte werenschap, Souveraine magt en authoriteyt, deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren, mits desen, dat sy, by continuatie, de voorsz. Wercken, soo van Treurspellen, Blyspellen, Klugten als
+<pb n="7"/>andere, reets gemaekt en ten Tooneele gevoert, en als nog in het licht te brengen, den tyt van vyftien eerst achter een volgende Jaren, alleen binnen onsen landen, sullen mogen drucken, doen drucken, uyt geven en verkopen, verbiedende daerom allen en een ygelyk, de voorsz. werken, in 't geheel ofte ten deele, naer te drucken, ofte elders naergedruckt, binnnen den selven onsen lande te brengen, uyt te geven ofte verkopen, op de verbeurte van alle de naergedruckte, ingebrachte, ofte verkogte exemplaren, ende een boete van drie honden guldens, daer en boven, te verbeuren, te appliceren een darde part voor den Officier, die de calangie doen sal, een darde part voor den Armen der Plaersen daer 't casus voorvallen sal, en het resterende darde part voor de Supplianten, alles in dien verstande, dat wy de Supplianten met desen onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het naedrucken van de voorsz. Wercken, daer door in genigen deele verstaen den inhoude van dien te authoriseren, ofte te advoueren, ende, veel min het selve onder onse protextie en de bescherminge eenigh meerder credit, aensien, of reputatie te geven, nemaer de Supplianten in cas daer inne iets onbehoorlyks soude influeren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden, tot dien eynde wel expresselyk begeerende, dat by aldien sy dese onse Octroje voor de voorsz. Wercken sullen willen stellen, daer van geen geabbrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaar gehouden sullen welen het selve Octroy in 't geheel, en sonder eenige Omissie, daer voor te drucken, ofte te doen drucken, ende dat sy gehouden sullen syn een exemplaer van alle de voorsz. Werken, gebonden en wel geconditioneert, te brengen in de Bibliotheecq van onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken, alles op pene van het effect van dien te verliesen, ende ten eynde de Supplianten desen onsen Octroye ende consente-mogen genieten als naer
+hehooren, lasten wy allen ende een ygelyk, die 't aengaen mag, dat sy de Supplianten van den inhoude van desen doen lasten ende gedogen, rustelyk, vredelyk ende volkomentlyk genieten ende gebruyken, cesserende alle belet ter contrarie gedaan. Gedaen in den Hage, onder onsen grote Zegele, hier onder aen doen hangen op den een en twintigste May in 't Jaer onses Heer en Zaligmakers, een duysent ses honden negen en negentigh.</p>
+<p>&nbsp;</p>
+<p>A. HEINSIUS.</p>
+<p>&nbsp;</p>
+<p>Ter ordonnantie van de Staten</p>
+<p>&nbsp;</p>
+<p>SIMON <hi rend="sc">van</hi> BEAUMONT.</p>
+<p>&nbsp;</p>
+<p>De Regenten van het Wees en Oude Mannenhuis hebben, in haar voorsz. qualiteit. het recht van deze Privilegie, voor MANLIUS CAPITOLINUS, <hi rend="i">Treurspel</hi>, vergund aan de Erfgen. van <hi rend="i">J. Lescailje</hi>.</p>
+<p><hi rend="i">In Amsterdam, den</hi> 10<hi rend="sup">den</hi> <hi rend="i">November</hi>, 1710,</p>
+</div>
+<div type="chapter">
+<pb n="8"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Manlius Capitolinus</hi>.</item>
+<item/>
+<item><hi rend="sc">Servilius</hi>, Vriend van Manlius.</item>
+<item/>
+<item><hi rend="sc">Valeria</hi>, Ondertrouwde van Servilius, en Dochter van Valerius.</item>
+<item/>
+<item><hi rend="sc">Valerius</hi>, Burgermeester en Raadsheer van Romen.</item>
+<item/>
+<item><hi rend="sc">Rutilus</hi>, Medehoofd van het Eedgespan van Manlius.</item>
+<item/>
+<item><hi rend="sc">Albinus</hi>, Vertrouwde van Manlius.</item>
+<item/>
+<item><hi rend="sc">Tullia</hi>, Vertrouwde van Valeria.</item>
+<item/>
+<item><hi rend="sc">Prokulus</hi>, Dienaar van Manlius.</item>
+</list>
+<p>&nbsp;</p>
+<p><hi rend="i">Het Tooneel is in Rome, in het Huis van Manlius, gelegen op het Kapitool.</hi></p>
+</div>
+<div type="act">
+<pb n="9"/>
+<head rend="h2">Manlius Capitolinus;
+<lb/>
+<hi rend="i">treurspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Manlius, Albinus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l><hi rend="b">G</hi>ewicht van zulk een groot geheim is u bewust,</l>
+<l>Albinus, en ik stel me op uwe trouw gerust.</l>
+<l>Dit tuigd de wraakzucht, die ge in myn gezicht ziet blaken.</l>
+<l>Gerechte Goôn! wanneer zal eens dat uur genaken,</l>
+<l>Dat ik de ondankb're Raad van Rome, die zo vaak</l>
+<l>My te onregt hoonde, zal gevoelen doen myn wraak?</l>
+<l>Hun wangunst echter heeft my noch tot dank bewogen,</l>
+<l>Wyl zy myn ziel daar door van 't laffe mededogen</l>
+<l>Bevrydende, my reeds erin'ren doet den val,</l>
+<l>Die hen door myne hand op 't felste treffen zal:</l>
+<l>Ja, nu moet myne wraak, lang smeulende, eens ontbranden,</l>
+<l>Ik wil, niets sparende, aan die trotze Dwingelanden</l>
+<l>Doen zien, hoe Manlius gevoelig is dier smaad,</l>
+<l>'t Zy dat hy overwind of sneuveld in dien staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Niet zonder reên word gy door deze drift gedreven,</l>
+<pb n="10"/>
+<l>Myn heer; maar welk een hoop kan u uwe aanhang geven?</l>
+<l>Een ongestadig volk vol opgeblazenheid,</l>
+<l>Dat hun beschermers staâg met hunne bystand vleid,</l>
+<l>En in het minst gevaar, schoon trots en gants verwaten,</l>
+<l>Straks beeft en vlucht; kund ge u op zulk een Volk verlaten?</l>
+<l>Gy, die door weldaân hen zo vaak betoond, met regt</l>
+<l>Hun lot aan 't uwe moest voor eeuwig zien gehegt.</l>
+<l>Toen Dwingland Quintus u in keet'nen had gesloten,</l>
+<l>Wie was 'er toen gereed, wie van dees hulpgenoten,</l>
+<l>Om uw belang te zaam gespannen, die voor hem</l>
+<l>U dorst beschermen, en niet beefde voor zyn stem?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Zy dwongen echter noch den Raad om my dier banden</l>
+<l>Te ontslaan, en hun berouw deed weêr hun moed ontbranden,</l>
+<l>Myn ketenen door hen geslaakt, heeft hen doen zien,</l>
+<l>Wat door hun magt, als zy niet vrezen, kan geschiên,</l>
+<l>En dat, om ons te ontslaan van 't juk dat ons koomt prangen,</l>
+<l>Alleen van hunne trouw en bystand af zal hangen.</l>
+<l>Wat ondernemingen zyn tot hun roem en eer,</l>
+<l>Zelf zonder Opperhoofd, niet uitgevoerd? noch meêr,</l>
+<l>Zy stelden Staatsliên aan, wier steun hen kon verstrekken.</l>
+<l>Een breidel, om daar meê 's Raads hoogmoed in te trekken.</l>
+<l>Men draagt zelf aan hen op bedieningen van staat,</l>
+<l>De fierste Romers zyn, ten spyt van Romens Raad,</l>
+<l>Door hen gebannen: ja, zy dwongen zelf de Groten,</l>
+<l>Om hunne kind'ren te doen huwen aan hun Loten.</l>
+<l>Ook moet men onder hen verdelen, alles wat</l>
+<l>Den Vyand hier en daar ontweldigt word; zo dat,</l>
+<l>Om hen noch meêr te doen bestaan, niets schynd te ontbreken,</l>
+<l>Als slegts een Opperhoofd, die zich meê poogt te wreken,</l>
+<pb n="11"/>
+<l>Die, door een edle drift gedreven, vol van moed,</l>
+<l>Hen ondersteunen wil ten kosten van zyn bloed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>'t Is dan op deze hoop dat gy alom de Wetten</l>
+<l>Des Raads verdoemende, haar magt poogt te beletten?</l>
+<l>Maar vreest gy niet dat deze uw fierheid, des te meêr</l>
+<l>Hun aller achterdocht vermeerd'ren zal, myn heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Neen, hunne hoogmoed, die my daaglyks komt te honen,</l>
+<l>Denkt dat 'k myn spyt slechts kan met ydle woorden tonen,</l>
+<l>En, Manlius, geheel onbuigzaam hen bekend,</l>
+<l>Was wis verdacht, had hy tot stilzyn zich gewend:</l>
+<l>Dies hoe ik minder veins, hoe meêr zy zyn bedrogen,</l>
+<l>Albinus; myne trots verblind hun aller ogen.</l>
+<l>Ja, 't geeft myn hart noch vreugd in 't brouwen van hun val,</l>
+<l>Dat niets myn edle wraak in 't minst beletten zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Ik zwyg, gy hebt zo wel op alles acht genomen,</l>
+<l>Dat ge alle tegenstand wel zult te boven komen.</l>
+<l>Wat zaal'ge tekenen voor uw gerechte haat!</l>
+<l>Dit heerlyk Kapitool, der Goden toeverlaat,</l>
+<l>Dees klip der Gallen; ja, het heil der Roomsche landen,</l>
+<l>Daar zyt gy meester van, 't staat alles in uw handen.</l>
+<l>En wat verhoopt men niet van de edle en fiere moed,</l>
+<l>Van zo veel Vrienden t'zaam gespannen, om hun bloed</l>
+<l>Voor u en uw belang gantsch onbeschroomd te wagen?</l>
+<l>Voor al van Rutilus, dien krygsheld, die zyn dagen</l>
+<l>Had moeten eindigen in kerkers, elk ten spot,</l>
+<l>Had gy hem niet bevryd van dat rampzalig lot.</l>
+<l>Ook is, Servilius, op gist'ren weêr te Romen</l>
+<l>By u op 't Kapitool gants onverwacht gekomen.</l>
+<l>Hoe iev'rig kwyt hy zich omtrend de vriendenplicht:</l>
+<l>Hy, vluchtende van hier, kreeg naauwelyks bericht,</l>
+<pb n="12"/>
+<l>Dat u den Raad weêr hield in ketenen gevangen,</l>
+<l>Of keerd te rug, om u zyn hulp te doen erlangen:</l>
+<l>Valeria, door hem uit 's Bruigoms arm geschaakt,</l>
+<l>Noch hare tranen, niets heeft zyn besluit gestaakt.</l>
+<l>En welk een grote vreugd bespeurde elk in zyn wezen,</l>
+<l>Toen hy u weder zag bevryd en buiten vrezen.</l>
+<l>Hoe moet uwe aanslag hem niet hebben opgewekt,</l>
+<l>Om, nevens u, vol moed....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 2tab">'k Heb hem noch niets ontdekt.</l>
+<l>Ik wilde, schoon ik hem ten volle moog vertrouwen,</l>
+<l>Dit groot geheim aan hem dees morgen eerst ontvouwen.</l>
+<l>Maar had gy 't oit gedacht? Valeria, vol schrik,</l>
+<l>Is hem op 't spoor gevolgt, en op dit ogenblik</l>
+<l>Gelukkig, zonder dat het iemand heeft vernomen,</l>
+<l>Meê, by haar Bruidegom, op 't Kapitool gekomen.</l>
+<l>Ik ga, om aan myn Vriend de gantsche zaak te ontleên;</l>
+<l>Maar wie....</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Prokulus, Manlius, Albinus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Prokulus</hi>.</speaker>
+<l rend="; 1tab">Valerius, myn heer, komt herwaards treên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Valerius! wat reên, wat ongemeene zorgen,</l>
+<l>Doen dezen Raadsheer hier verschynen dezen morgen?</l>
+<l>Of weet hy reeds dat zyne ontvoerde Dochter, na</l>
+<stage><hi rend="i">tegen Prokulus.</hi></stage>
+<l>Servilius, hier mede is aangekomen? ga,</l>
+<l>En zeg hen uit myn naam, dat zy in 't minst niet schromen.</l>
+<stage><hi rend="i">tegen Albinus.</hi></stage>
+<l>Gy, naar dit onderhouwd, doet Rutilus hier komen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="13"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Valerius, Manlius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wat moet ik denken van een vreemd gerucht, myn heer,</l>
+<l>Dat zich alom verspreid tot kwetzing van uw eer?</l>
+<l>Men zegt, Servilius, in deze Stad gekomen,</l>
+<l>Heeft zyn verblyf by u op 't Kapitool genomen:</l>
+<l>Zich zelve vleijende, dat gy voor myne wraak</l>
+<l>Hem zult beschermen, en handhaven zyne zaak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>'t Is waar, myn heer, dat hy zich zelf met die gedachten</l>
+<l>Durft strelen, en ik zou 't voor schande en oneer achten,</l>
+<l>Indien 'er iemand aan dorst twyffelen; neen, neen,</l>
+<l>'k Weet my te wel te ontslaan dier dwaling zo gemeen,</l>
+<l>Dat 'k hen, die van 't geluk verraân zyn zou verraden.</l>
+<l>Ik weet, gy noemd, 't geen hy bestond, snode euveldaden;</l>
+<l>Doch zo ge een ogenblik zyn reên in de evenaar</l>
+<l>Wilt leggen, zult gy hem haast anders kennen: maar</l>
+<l>'t Zy eindlyk ook hoe 't zy, met 't geen hy kwam verrichten,</l>
+<l>Zeg, welk een wet moet my noodzaken of verplichten,</l>
+<l>Te houden schuldig, hen, die gy voor schuldig kend?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Die Wet, die elk waardeerd en is in 't hart geprent,</l>
+<l>Dat hem geen Vriend zo waard, als 't Vaderland, moet wezen;</l>
+<l>Ja, goed en bloed daar voor op te off'ren zonder vrezen;</l>
+<l>Uw Vriend, heeft deze Wet geschonden; des moet hy,</l>
+<l>Van u zo schuldig zyn gehouden als van my.</l>
+<l>Hoe lang, onaangezien ons heim'lyk achterdenken,</l>
+<l>Zult ge aan misnoegden noch uw hulp, uw bystand schenken?</l>
+<l>Aanvaarden hun belang? een toeleg, eigen aan,</l>
+<pb n="14"/>
+<l>Die naar 't eenhoofdige gezag van Rome staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wat middel om u van dit heimlyk misvertrouwen,</l>
+<l>Te ontslaan? op welk een grond kund gy uwe argwaan bouwen?</l>
+<l>Moet ik voor vyanden erkennen, die de haat,</l>
+<l>Te onregt, gevoelen van een wrede ontmenschten Raad?</l>
+<l>En ben ik schuldig, als 'k door hen myn hulp te bieden,</l>
+<l>Hun gramschap stil, die door 's Raads hoogmoed raakt aan 't zieden?</l>
+<l>Ik ben 't, die hen verstrek een steun in 't Roomsch gebied:</l>
+<l>Gy vraagd, hoe één Romein, één man zich niet ontziet,</l>
+<l>Gewillig in de ramp van andere te delen,</l>
+<l>Zyn hand te bieden, om hunne aller smart te heelen.</l>
+<l>Beklaagd ge u over myn meêlyden? hoe! indien</l>
+<l>'t Een deugd is, die me in my moet vrezen en ontzien;</l>
+<l>Wyl ik daar door het Volk doe aan myn zyde hellen,</l>
+<l>Waarom ben ik 't alleen, die dit in 't werk koom stellen.</l>
+<l>Om welke reên word my dit voordeel niet benyd?</l>
+<l>Myn weldaân moesten u opwekken, my ten spyt,</l>
+<l>Om hen, die ik daar door myn vrienden wist te maken,</l>
+<l>Door de uwe meê te doen naar uwe vriendschap haken.</l>
+<l>Of moet men, om den Raad van achterdocht te ontslaan,</l>
+<l>'t Gesmeek verachten van een klagende Onderdaan?</l>
+<l>De heblust, hovaardy, en de allerwreedste plagen,</l>
+<l>Zyn dat de Zuilen thans om 't heil eens Staats te schragen?</l>
+<l>Myn goedheên maken my by elk van u verdacht,</l>
+<l>En niemand vreesd Kamil, noch zyne grote macht.</l>
+<l>In 't Leger overal waar hy zich komt vertonen,</l>
+<l>Zie 'k hem voor myn gezicht met staat en eer bekronen.</l>
+<l>Het Oorlog, en de Vrêe hangt van hem af alleen;</l>
+<l>Zyn medehoofden, met een yd'le naam te vreên,</l>
+<l>Die schynen zelf, wyl elk 't bewind steld in zyn handen,</l>
+<l>Zyn hoop tot groter macht noch meêr te doen ontbranden.</l>
+<pb n="15"/>
+<l>Van waar komt de achting die men heeft voor zyn beleid?</l>
+<l>De vlucht der Gallen, word op zyne naam verbreid;</l>
+<l>In uw loftuiting, hoord men hem alleenig noemen;</l>
+<l>Maar welke reden had ge om op zyn daân te roemen,</l>
+<l>Toen Rome scheen gesteld in der Barbaren magt,</l>
+<l>Door vlam en stromend bloed op 't uiterste gebragt,</l>
+<l>Verwachtende vergeefsch dat hy hen zou bespringen,</l>
+<l>En dat men 't Kapitool zag door hun magt omringen?</l>
+<l>Ik ben 't, die, buiten uw verwachting, vol van moed,</l>
+<l>Hen, van het Kapitool deed smoren in hun bloed,</l>
+<l>Kamil, hoe fier, kwam eerst naar my te zegepralen,</l>
+<l>En Vyanden met schrik bevangen, te achterhalen:</l>
+<l>Zyn overwinning, is door my in 't werk gesteld,</l>
+<l>En veele hadden deel in de eer van uwen held.</l>
+<l>De myne, is voor my zelf; wyl 'k heb alleen gestreden:</l>
+<l>En nu Kamillus hier van elk word aangebeden,</l>
+<l>Zie ik my door den Raad, die 'k in dees jongste nood,</l>
+<l>Voor ballingschap bevryde, of voor een wrede dood,</l>
+<l>Weêr opgeofferd aan hun eerste misvertrouwen,</l>
+<l>Toen ik voor myne dienst in kerkers wierd gehouwen,</l>
+<l>Ja, 'k zie door bitt're smaad, en onverdraagb're hoon,</l>
+<l>De luister van myn naam verdoven, my ten loon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Schoon gy onze argwaan doemd, zoud ge echter min ontsteken</l>
+<l>In gramschap, van die zaak met meerder oordeel spreken.</l>
+<l>Myn heer, 't dunke u niet vreemd, dat elk Kamillus eerd,</l>
+<l>Elk weet, wat heldendrift dat zyn gemoed beheerd:</l>
+<l>Die zyn bevelen volgt, gehoorzaamd zelf de Goden,</l>
+<l>Wyl hy niets doet als 't geen hem word van hen geboden:</l>
+<l>Strekt dees gehoorzaamheid ons nu tot schand, wanneer</l>
+<l>We onze Oppermacht daar door zien groeijen, meêr en meêr?</l>
+<pb n="16"/>
+<l>Moet ieder waar Romein niet altyd daar naar haken,</l>
+<l>'t Zy dan door welk een arm hy daar toe kan geraken?</l>
+<l>Gy blaakt van 't zelfde vuur voor 't heil der Roomsche staat,</l>
+<l>'k Geloof ook dat het u als hem ter harte gaat;</l>
+<l>Maar, ongeveinst, kund gy 't wel voor onreed'lyk achten,</l>
+<l>Dat Rome van u heeft hele andere gedachten?</l>
+<l>Wat heimlyke achterdocht verwekte niet dien dag,</l>
+<l>Toen elk gedwongen u voor ons verschynen zag?</l>
+<l>Uw talryke aanhang, en die van den Raad, geleken</l>
+<l>Twe legers tot den stryd gereed gantsch onbezweken.</l>
+<l>Wat had 'er bloed gestroomd, had elk van uwe kant,</l>
+<l>U tot het uiterste beschermd in deze stand?</l>
+<l>Wy dachten toen gy zelf dees twedracht kwaamt te storen,</l>
+<l>Dat dit onze argwaan ook voor eeuwig zou doen smoren:</l>
+<l>Maar nu Servilius, wiens trotsheid van den Raad,</l>
+<l>En van gants Rome, word gevloekt en fel gehaat,</l>
+<l>Door u word ondersteund....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 1tab">Ik zie hem herwaards komen:</l>
+<l>Indien ge uw gramschap nu een weinig kund betomen,</l>
+<l>Zult gy hem mogelyk rechtvaardigen; 'k ga heen,</l>
+<l>En laat u om elkaâr te spreken, beide alleen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wat of dien snode, dien Verrader zal begeren?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Servilius, Valerius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Zo 'k my, door u te zien, van schrik laat overheren,</l>
+<l>'t Dunke u niet vreemd, myn heer: ik weet door welk een daad,</l>
+<l>'k My zelve heb ten doel gesteld voor uwe haat;</l>
+<pb n="17"/>
+<l>Doch de oorzaak dat ik hier koom voor uw oog verschynen,</l>
+<l>Is deze, om wederom uw haat te doen verdwynen,</l>
+<l>Dit zwere ik, by de Goôn, zo gy me een ogenblik,</l>
+<l>(Uw toorn bedwingende) wilt horen spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l rend="; 1tab">Ik!</l>
+<l>Zoude ik u, zonder my te ontroeren, kunnen horen?</l>
+<l>Hoe durft gy 't wenschen? zoude ik reeds 't geheugen smoren,</l>
+<l>Van dien onzaal'gen dag, toen gy voor 't echtaltaar</l>
+<l>(Verzekert van de wil van myne dochter,) haar</l>
+<l>Uit 's Bruigoms armen hebt geschaakt, zelf voor myn ogen?</l>
+<l>Veel eer moest ik uw straf bereiden, als gedogen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Bedwing uw toorn, myn Heer, en oordeel zelf, of gy</l>
+<l>Myn medeminnaar 't loon mogt schenken, dat aan my</l>
+<l>Alleen behoorde: neen, wil beter overwegen,</l>
+<l>Wat ik rechtvaardig door myn daden heb verkregen.</l>
+<l>Zo u 't herdenken aan dien dag ontroerd, myn Heer,</l>
+<l>Zo denk ook aan die nacht zo vol gevaar, wanneer</l>
+<l>Ge uw dochter (wyl de vlam en moord elks hart deed beven,</l>
+<l>En niemand 's Gallers woên, in 't minst, dorst tegenstreven,)</l>
+<l>Door hen voor uw gezicht met ketens zaagt belaân.</l>
+<l>Myn medeminnaar, zeg, wat heeft die toen gedaan?</l>
+<l>Hy diende Romen, en volbragt daar zyne plichten:</l>
+<l>Maar ik kwam wederzyds myn trouwe dienst verrichten,</l>
+<l>Ik, strydende voor de een, heb de and're meê bevryd.</l>
+<l>En, met myn bloed bevlekt, voor 't uwe, in zulk een tyd,</l>
+<l>Gestort, dorst ik u 't loon voor myne diensten vergen;</l>
+<l>Maar toen uw weigering myn ed'le ziel kwam tergen,</l>
+<l>Hebbe ik dien minnaar, dien vermetelen doen zien,</l>
+<l>'t Geen zich den vyand eerst zag door myn arm geschiên.</l>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Om dat gy, fier en stout, de Gallen aan dorst randen,</l>
+<l>En myne dochter, weêr ontrukte uit hunne handen,</l>
+<l>Is 't of gy reden meend te hebben, om de wet</l>
+<l>Aan my te stellen, die aan and're palen zet;</l>
+<l>Ja 't schynd, wyl gy op hen de zege kwaamt behalen,</l>
+<l>Dat gy daarom ook waand van my te zegepralen.</l>
+<l>Doch wat hebt gy voor my verricht in deze tyd?</l>
+<l>Ik miste haar door hen, en 'k raak door u haar kwyt.</l>
+<l>Vergeefsch was 't, dat ik haar wilde aan een ander schenken;</l>
+<l>Want gy verbeelde u, toen gy 's Gallers magt kwaamt krenken,</l>
+<l>En de overwinning tot uw roem behaalde, dat</l>
+<l>Ge op myn gemoed alreeds het zelfde voordeel had.</l>
+<l>Maar, schoon gy waande reên te hebben om te klagen,</l>
+<l>Toen ik Valeria een ander op kwam dragen,</l>
+<l>Haar Zuster, die 'k u schonk, myn weldaân u getoond,</l>
+<l>Verdiende dit aldus van u te zyn beloond?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Met hoe veel weldaân gy me ook kwaamt als overstromen,</l>
+<l>Myn Heer, 't was alles niets, by 't geen my wierd ontnomen:</l>
+<l>Valeria was reeds meestresse van myn hart,</l>
+<l>En myn begeerte in haar aanloklykheên verward.</l>
+<l>Zo dat, in plaats van my voldoeninge te geven,</l>
+<l>Verstrekte uw weldaad... Maar, waar word ik toe gedreven?</l>
+<l>Myn reên doen slechts uw haat aangroeijen, meêr en meêr;</l>
+<l>Des neme ik thans tot u myn toevlucht, ja, myn Heer;</l>
+<l>Om, indien 't mooglyk is, weêr in uw gunst te raken,</l>
+<l>Herroep uw goedheid, gy kund my gelukkig maken:</l>
+<l>En hoe ik meerder heb verdiend, uw toorn en haat,</l>
+<l>Hoe edelmoediger u ook 't vergeven staat.</l>
+<l>'k Hoop, dat ge dit my zult op myn beê vergunnen;</l>
+<pb n="19"/>
+<l>Want, schoon ge ons huwlyk wraakt, uwe en myne</l>
+<l rend="; 1tab">Oud'ren kunnen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wel, zo ge my voldoet, in 't geen dat ik begeer,</l>
+<l>Zult gy myn haatzucht doen verdwynen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 3tab">Ach! myn Heer,</l>
+<l>'k Geniet te groten gunst, om u te wederstreven:</l>
+<l>Spreek, spreek, wil uw begeerte aan my te kennen geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Uwe af komst, uwe deugd, uw groote dapperheid,</l>
+<l>'k Beken, dat alles tot uw roem en voordeel pleit;</l>
+<l>Maar de achting, die 'k voorheen u droeg, was straks verdwenen,</l>
+<l>Toen u de vriendschap kwam met Manlius verëenen,</l>
+<l>Met dien hoogmoedigen, by Romens Staat verdacht.</l>
+<l>Toon, toon hem vry uw hulp in 't geen daar hy na tracht;</l>
+<l>Maar wil voor 't minst myn bloed van 't wrede lot ontheffen,</l>
+<l>'t Geen, door zyne euveldaân, u mede eerlang kon treffen.</l>
+<l>Breek nu vernoegt dat ge eerst hebt met geweld gedaan.</l>
+<l>Of om te beter my aan u te doen verstaan,</l>
+<l>'k Wil, dat gy Manlius zult om myn dochter haten,</l>
+<l>Of haar noch dezen dag, om Manlius, verlaten.</l>
+<l>Nu heb ik myn begeerte u klaar genoeg gemeld,</l>
+<l>Kies, kies nu zelf waar na uw meeste neiging held;</l>
+<l>Door deze keur kund gy me alleen te vreden stellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Indien uw voorstel my in 't minst deed overhellen,</l>
+<l>Naar de ene of de and're, ik zou voor uw gezicht, myn Heer,</l>
+<l>Me opoff'ren door dit staal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l rend="; 2tab">Ik zegge u des niet meêr.</l>
+<l>Vaar wel.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="20"/>
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 1tab">Barbaar! zoude ik, om uwe haat te slissen,</l>
+<l>Myn waarde Vriend verraân, of uwe dochter missen?</l>
+<l>O wreede! dit besluit, weêrgâloost al uw haat,</l>
+<l>Neen, neen, door welk een drift ge u ook vervoeren laat,</l>
+<l>Noit zult gy me een van beide als door de dood ontrukken:</l>
+<l>Span vry uw krachten t'zaam, uw wit zal u mislukken,</l>
+<l>Maar 'k zie Valeria. kom, oordeel zelf, o Goôn!</l>
+<l>Of 'k immer deê te veel voor dat aanbid'lyk schoon.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Valeria, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Gy kwaamt myn Vader in dit ogenblik te spreken,</l>
+<l>Is noch zyne oude wrok aan u, myn Heer, gebleken?</l>
+<l>Of ziet hy nu onze echt met gunstige ogen aan?</l>
+<l>Heeft hy Valeria, in haren wensch, voldaan?</l>
+<l>Maar hoe, myn Heer! wat ramp komt me uw gezigt te</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Aanschouw, dit stryd'bre Rome, alwaar zo vele helden melden?</l>
+<l>Zyn voortgebragt, Mevrouw: ja, daar nog eens 't Heelal,</l>
+<l>Gelyk 't Orakel meld, de wet ontfangen zal.</l>
+<l>In 't kort, dit Rome, al waar wy beide 't licht genoten,</l>
+<l>Van 't Godendom, zo vaak met weldaân overgoten,</l>
+<l>Wy hebben geen meêr deel aan dit ons Vaderland;</l>
+<l>Ons lot bestaat alleen nu in des Vyands hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>'k Versta u, Heer, niets kon de drift myns Vaders smoren,</l>
+<l>Wy moeten, om zyn haat te ontgaan, en zyne toren,</l>
+<l>Uit Rome wyken, 'k ben, des niet ontzet; 't geluk</l>
+<l>Eens sterv'lings was te groot was 't niet verzeld met druk.</l>
+<l>Verhaasten we ons, myn Heer, ontvliên wy de ongelukken,</l>
+<l>En rampen, die eerlang op 't felste u konden drukken:</l>
+<pb n="21"/>
+<l>Laat ons, door langer hier te blyven, zyne haat</l>
+<l>Niet meêr verwekken, neen, men neme een kort beraad;</l>
+<l>Niets houde ons langer hier, kom, vluchten wy uit Romen.</l>
+<l>En is 't, dat ons door 't Lot veel rampen overkomen,</l>
+<l>Wy lyden, maar verëend, wy vluchten, maar te zaam.</l>
+<l>In alle plaatzen zyn (voor harten die de naam,</l>
+<l>En daad bezitten van elkander trouw te minnen)</l>
+<l>Aanloklykheên, om 't hart te strelen en de zinnen.</l>
+<l>Noit word men hier te regt van 't waar geluk gestreeld,</l>
+<l>Ten zy men heeft voorheen in tegenspoed gedeeld:</l>
+<l>Den Raad heeft Manlius ook wederom ontslagen,</l>
+<l>Des zyt gerust, en laat myn voorstel u behagen:</l>
+<l>Verlaat met my een vriend, die gy zo teder mind,</l>
+<l>Op dat ge u des te meêr daar door aan my verbind.</l>
+<l>Ontvluchten wy een plaats, zo haat'lyk aan onze ogen,</l>
+<l>Myn Heer, op dat myn trouw, zo krachtig van vermogen,</l>
+<l>U tone, dat 'k met u vcrzeld zynde, overal,</l>
+<l>Myn heil, myn Vaderland, en Goôn, ontmoeten zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>O weêrgâloze trouw! o liefde noit volprezen!</l>
+<l>Geen ramp, noch ballingschap zal my met u doen vrezen,</l>
+<l>Niets wensche ik meêr, ik acht reeds myn geluk te groot,</l>
+<l>De liefde eens minnaars, drage ik u als echtgenoot,</l>
+<l>Mevrouw; wat zeg ik? ja, uw deugden doen myn zinnen</l>
+<l>Steeds neigen, om hoe langs hoe meerder u te minnen.</l>
+<l>Myn hart, gestaâg verrukt door uw bekoorlykheên,</l>
+<l>Vind al wat wenschlyk is in u, Mevrouw, alleen:</l>
+<l>Ja kom,Valeria, wy moeten t'zaam vertrekken;</l>
+<l>Doch laten we eêr wy gaan dit aan myn vriend ondekken:</l>
+<l>Op dat hy, ziende ons thans gebragt in dezen staat,</l>
+<l>Ons zyne bystand tone, en diene met zyn raad.</l>
+</sp>
+<stage><hi rend="i">Einde van het Eerste Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="22"/>
+<head rend="h3">Twede bedryf.</head>
+<head rend="h4">Eerste tooneel,</head>
+<stage><hi rend="sc">Manlius, Servilius.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Neen, vriend, dees twede vlucht moet myne keur ontberen,</l>
+<l>'t Verand'ren van uw lot, moet uw gedrag doen keren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat heim? lyke oorzaak, Heer, maakt my by u verdacht?</l>
+<l>Hoe! meend ge, dat 'k met vreugde uw laast vaar wel verwagt?</l>
+<l>Of dat 'k myn vriendschap u zo menigmaal gebleken,</l>
+<l>En my zo waard, zoude om Valeria verbreken?</l>
+<l>Behaagden 't aan de Goôn, ons t'zamen voor altoos...</l>
+<l>Maar, ydel denkbeeld! ach! dees wensch is vruchteloos.</l>
+<l>Gy weet, door welk een magt, Valerius, ontsteken</l>
+<l>In gramschap, zich van my op 't onverwachst' kan wreken.</l>
+<l>Gy kund me onmogelyk beschermen voor zyn haat,</l>
+<l>Wyl hy word ondersteund van Romens trotzen Raad.</l>
+<l>En als ik door myn vlucht, in stilte, ver van Romen,</l>
+<l>Een veil'ge schuilplaats voor hun haatzucht kan bekomen,</l>
+<l>Zoude ik dan zonder nood, in 't mingevaar, een vriend</l>
+<l>Betrekken, die my staâg zo edelmoedig diend?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Maar zult gy, vluchtende van hier, uw heil ontvluchten?</l>
+<l>En, elk Romein ten spot, in vreemde landen zuchten?</l>
+<l>Waar waand ge een veil'ge plaats te ontmoeten tot uw rust?</l>
+<l>Is 't jongst' besluit des Raads aan u noch wel bewust?</l>
+<l>En wat Valerius, dien trotzen, kon gehengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Neen: wat heeft hy bestaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 1tab">Al 't geen hy kon volbrengen.</l>
+<pb n="23"/>
+<l>Gering is 't, dat den Raad voor eeuwig, te uwer schand,</l>
+<l>U heeft gebannen uit uw eigen Vaderland:</l>
+<l>Men heeft, op dat terwyl ge als balling om zult zwerven,</l>
+<l>U ieder dag ten plaag zou strekken, voor uw sterven,</l>
+<l>U van uw goederen beroofd, en waardigheên;</l>
+<l>Ja, zelf uw ad'lyk huis, zo prachtig, dat elk een</l>
+<l>Wie 't komt te aanschouwen tot verwond'ring op moet wekken,</l>
+<l>Zal mede eerlang ten prooy, aan 't plund'rend graauw verstrekken,</l>
+<l>Om door dien menigte, op 't verwoesten afgerecht,</l>
+<l>Als in een ogenblik, ten gronde toe geslecht</l>
+<l>Te worden, dit bevel heeft reeds den Raad gegeven,</l>
+<l>En door Valerius, dien wrede, is 't onderschreven:</l>
+<l>Hy haakt naar uwen val, in 't kort, myn vriend, gy zyt</l>
+<l>(Dus verre strekt zyn haat en wraakzucht) alles kwyt,</l>
+<l>Des wil u langer met geen yd'le hoop meêr strelen;</l>
+<l>Maar oordeel, of gy mede in 't overschot wilt delen</l>
+<l>Dier goed'ren, die 'k voor dees ondankb'ren Raad, wel eer,</l>
+<l>Ten kosten van myn bloed opofferde, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ontaarde Vader, wilt ge, om my uw haat te tonen,</l>
+<l>Uw eige dochter dan, o wreedheid! niet verschonen?</l>
+<l>Haar lot aan 't myn' gehecht, moest... ach! gy ziet, myn vrind,</l>
+<l>In welk een staat zich thans Servilius bevind:</l>
+<l>Gy weet ook dat 'k voorheen de wreedste noodlotsplagen</l>
+<l>Kloekmoedig, zonder my te ontzetten, kon verdragen:</l>
+<l>Maar, als ik overdenk, wat dodelyke smart,</l>
+<l>Ommyne rampen, zal doorpynigen het hart</l>
+<l>Van haar, wiens zuiv're trouw, die zy my staâg komt tonen,</l>
+<l>'k Door myne erkentenis, onmooglyk kan belonen,</l>
+<l>Verdwynt myn fierheid. Ach! vergeef aan myn gemoed,</l>
+<l>Dees zwakke drift die my geheel verand'ren doet:</l>
+<l>En, wyl myn ziel zich reeds voorspeld veel ramporkanen,</l>
+<l>Gedoog dat ik voor u moog storten myne tranen.</l>
+</sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Hoe! tranen! grote Goôn! neen, dat uwe arm veel eer,</l>
+<l>In hunner aller bloed zich bade. hoe, myn Heer!</l>
+<l>Hoe tranen! kund ge u aan die zwakheid overgeven?</l>
+<l>Een ed'ler middel word u aan de hand gegeven,</l>
+<l>Een heerlyk voorrecht; ja, een voorrecht, dat elk een,</l>
+<l>Uit ad'lyk bloed geteelt, heeft met de Goôn gemeen,</l>
+<l>De wraak, myn vriend, myn arm zal de uwe kragt verlenen.</l>
+<l>Ons beider lot dwingt ons, dat wy te zaam verëenen.</l>
+<l>Men wend zich steeds tot my, en in Servilius,</l>
+<l>Waand men de fiere moed en trots van Manlius</l>
+<l>Te fnuiken. doch laat ons hen, die gestadig doelen</l>
+<l>Op ons bederf, op 't felst' doen onze wraak gevoelen.</l>
+<l>Laat ons, ons wrekende dier aangedane smaad,</l>
+<l>Ons baden in het bloed van Romens gantschen Raad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ik moet bekennen, dat uw redenen, en wezen,</l>
+<l>Myn moed herwekken, en verbannen 't laffe vrezen.</l>
+<l>Gy schynd te peinzen op een zaak van groot gewicht,</l>
+<l>Ene edle heldendrift bespeur 'k in uw gezicht:</l>
+<l>Vaar voort, myn vriend, vaar voort om myne moed te wekken,</l>
+<l>Wil uw geheimen aan Servilius ondekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>In een en zelfde staat met my gesteld, moest gy</l>
+<l>Reeds meê beseffen 't geen de wraak lust leerde aan my.</l>
+<l>Weet dan, dat Rome door de dood dier dwingelanden,</l>
+<l>Haar lot eerlang zal zien gesteld in myne handen.</l>
+<l>'k Heb vele vrienden door myn zorg zo ver gebragt,</l>
+<l>Dat elk van hen naar 't uur, om 't uit te voeren, wagt.</l>
+<l>Zy hebben Rutilus, wiens trouw en schranderheden</l>
+<l>Gy kend, als Medchoofd in myn belang doen treden.</l>
+<l>'k Heb, om onze aanslag te verhaasten, hem ontboôn,</l>
+<l>'k Verwagt hem aanstonds hier. Gedankt zyn de Oppergoôn,</l>
+<l>Het streeld my alles; ja, niets kan my, in 't voltrekken</l>
+<l>Van myn gerechte wraak, meêr tot verhind'ring strekken.</l>
+<pb n="25"/>
+<l>'k Heb vele middelen, waar van dat eene alleen</l>
+<l>Genoechis, om den Raad, als op den nek te treên.</l>
+<l>En zo my dit gelukt, geve ik u te overdenken,</l>
+<l>Wat heil dat ik daar door aan u, myn vriend, zal schenken;</l>
+<l>Dan zult ge u zien hersteld in 't geen gy thans ontbeerd.</l>
+<l>Nu weet gy welk een drift dat myn gemoed beheerd,</l>
+<l>En pok op wien ge uw hoop, vol wett'lykheid, kund gronden:</l>
+<l>Doch denk niet dat ik my zo ver hebbe onderwonden</l>
+<l>Van trots te wanen, dat 't eenzinnige geval,</l>
+<l>Myne ondernemingen staâg ondersteunen zal:</l>
+<l>O neen, 'k ken haar te wel, ze is vol veranderingen;</l>
+<l>Maar, is 't niet beter, vriend, dat Rome my ziet dingen</l>
+<l>Al stervend' naar de wraak, als dat 'k my snô, en laf,</l>
+<l>In 't leven blyvende, ten doel dier smaadheên gaf?</l>
+<l>Gy zelf, u wrekende van 's Noodlots felle plagen,</l>
+<l>Zoudge, om uw leven te behouden, die verdragen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Neen, Manlius; dit is 't daar ik met u naar haak;</l>
+<l>Uw herelyk besluit aanhore ik met vermaak.</l>
+<l>Ja, myne rampen doen my noch dees vruchten smaken,</l>
+<l>Dat ik myne iever voel in ed'le gramschap blaken.</l>
+<l>Wil maar gebieden, wie 'k van deze ondankb're hoop</l>
+<l>Moet straffen, op dat hy het met de dood bekoop.</l>
+<l>Of moet ik, ondersteund van myn gevolg, hen allen</l>
+<l>Als zy vergadert zyn kloekmoedig overvallen?</l>
+<l>De Hofpoort bry zelen, op dat tot meerder straf,</l>
+<l>Het afgeworpen' puin hen strekke tot hun graf?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>'k Wil, dat ik u 't geheim ondekte, eerst kenbaar maken</l>
+<l>Aan Rutilus, wiens zorg ons diend in vele zaken:</l>
+<l>Hy is zeer keurig; des is 't nodig dat ge uw pligt,</l>
+<l>Gelyk wy alle, door een eed aan hem verrigt.</l>
+<l>Dan zult gy weten wat ge op 't tederst' moet betrachten,</l>
+<l>Dat gen, van 't minste woord te melden, diend te wachten,</l>
+<l>En staâg beducht zyn, of uw wezen, of gedrag,</l>
+<pb n="26"/>
+<l>Een schyn vertoond van 't geen dat niemand weten mag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Gy kend my reeds te wel, dan dat ge in 't minst zoud schromen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Ga voor een ogenblik ter zyde, ik zie hem komen.</l>
+<l>Verschoon my dat ik u dit vergen moet, myn Heer;</l>
+<l>Myn plicht vereischt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Ik ga.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Rutilus, Manlius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 2tab">Vertoeven wy niet meêr:</l>
+<l>Wy wisten, zo door list, als zorg, 't zo ver te brouwen,</l>
+<l>Dat 't wrevele geval in teugel word gehouwen.</l>
+<l>'t Is lang genoeg beraân, 't uitvoeren dezer daad,</l>
+<l>Vereischt ons noodlot, en het heil van Romens Staat:</l>
+<l>'t Uitstellen is veeltyds, in diergelyke zaken,</l>
+<l>Een oorzaak, dat men niet kan tot zyn oogwit raken:</l>
+<l>Men moet zich van't geluk, als ze ons haar gunst ondekt,</l>
+<l>Bedienen, eer dat ze ons die wederom ontrekt.</l>
+<l>Wat tyd, wat plaats, kan ons tot meerder voordeel strekken,</l>
+<l>Myn Heer, om ons besluit, zo heerlyk, te voltrekken?</l>
+<l>Tot zulk een aanslag wierd noit beter grond gelegt;</l>
+<l>Den Raad, die 't Oorlog heeft den Vyand aangezegt,</l>
+<l>Moet, om de zege van de Goden af te wachten,</l>
+<l>Hier, op het Kapitool, in 't kort, een offer slachten.</l>
+<l>Een tyd, dat ze alle zyn by een vergadert, en</l>
+<l>Een plaats, daar ik alleen volkomen meester ben:</l>
+<l>Ja, zulk een plaats, daar 't lot dier snode dwingelanden,</l>
+<l>Ontbloot van wapenen, zal staan in onze handen.</l>
+<l>Dees tyd is echter noch niet vastgesteld, myn Heer;</l>
+<l>Intusschen moet men 't volk ophitzen, meêr en meêr,</l>
+<l>En Romens Raad, wiens macht dat ieder schynd te wraken,</l>
+<pb n="27"/>
+<l>Door onze zorg aan hen noch hatelyker maken.</l>
+<l>Om niet verdacht te zyn, ontziet zich ieder een,</l>
+<l>Met my te spreken, des vertrouwe ik 't u alleen,</l>
+<l>Wil, om hun aller haat, en wraakzugt op te wekken,</l>
+<l>Aan hen 's Raads euveldaân, en gruwelen ondekken.</l>
+<l>Dit 's 't noch niet alles; 'k moet, opvolgende myn plicht,</l>
+<l>Aan u noch eene zaak meêdeelen van gewicht;</l>
+<l>Ik wil niet twyffelen, of gy hebt wel vernomen,</l>
+<l>Dat hier Servilius, op gist'ren, is gekomen:</l>
+<l>En dat ikonbeschroomd hem alles openbaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>Hoe! weet hy dan door u onze aanslag reeds?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 2tab">Ja; maar</l>
+<l>Hoe dus verwondert?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l rend="; 1tab">'k Moet, genoodzaakt, u doen horen</l>
+<l>Eene agterdocht, die'k wel voor eeuwig wilde smoren,</l>
+<l>Zo, door de ondekking van dit groot geheim, alleen</l>
+<l>Myn leven wierd gewaagt, dan ware ik wel te vreên:</l>
+<l>Maar, nu zo vele aan my hun nood lot toevertrouwen,</l>
+<l>Heb ik veel redenen om hem verdacht te houwen.</l>
+<l>Doch denk niet dat ik ben te payen met zyn bloed.</l>
+<l>Ik ken uw vriend, en weet de drift van zyn gemoed,</l>
+<l>En dat hy, tonende ons zyn hulp, zich kan ontheffen,</l>
+<l>Van 't ongelukkig lot, dat hem te wreed koomt treffen:</l>
+<l>Maar, 'k weet ook dat hy is aan 't bloed verbonden van</l>
+<l>Een trotzen Raadsheer, reeds gedoemd door 't Eedgespan,</l>
+<l>Die hem, schoon smekende om zyn vriendschap, dorst verachten,</l>
+<l>Van wien hy nimmer heeft de minste gunst te wachten.</l>
+<l>Acht gy nu zyne ziel zo trots, zo vol van moed,</l>
+<l>Dat hy, om zyne wraak, Verzaken zal dat bloed?</l>
+<l>Met hoe veel recht ge u op zyn vriendschap moogt vertrouwen,</l>
+<l>Valeria zal hem gewislyk wederhouwen;</l>
+<l>Hy is geen meester van zyn liefde, neen, ô neen.</l>
+<l>En stel eens, zo 't geval al wilde, dat hy 't een</l>
+<pb n="28"/>
+<l>Of't ander kiezen moest, myn Heer, zoud gy geloven</l>
+<l>Dat hy zyn minnevlam zoude, om zyn vriendschap, doven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Om u, van de achterdocht, die hem dus hoond, te ontslaan,</l>
+<l>Vinde ik, dat gy hem zelf hoord spreken, 't best geraân.</l>
+<l>Kom hier, Servilius.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Servilius, Manlius, Rutilus.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Wat heil komt my te voren!</l>
+<l>En welk een heerlyk lot is ons te zaam beschoren!</l>
+<l>Het grootsch besluit aan my ondekt, moet ieders pligt..</l>
+<stage><hi rend="i">Tegen Rutilus</hi>.</stage>
+<l>Maar, welk een koelheid, Heer, bespeur 'k in uw gezigt?</l>
+<l>Verdenkt gy my? of kan iets anders u mishagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>Gy hebt my reeds verstaan, waarom my meêr te vragen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>In plaatze dat ik my hier door beledigt acht,</l>
+<l>Ben ik verheugd, myn Heer, dat gy my houd verdacht.</l>
+<l>'k Verwerp, zo wel als gy, het al te vast vertrouwen,</l>
+<l>Van eenen vriend, die my kwam dit geheim ontvouwen:</l>
+<l>Doch denk niet, dat ik hier door eeden, schoon gemeen,</l>
+<l>Het Godendom voor my ten borg zal stellen; neen,</l>
+<l>Voor een meineedige, zyn dat te losse banden.</l>
+<stage><hi rend="i">Wyzende op Manlius</hi>.</stage>
+<l>'k Heb and're middelen, myn Heer. 'k zal in zyn handen,</l>
+<l>Ten teken myner trouw, iets stellen, 't geen van my</l>
+<l>Veel hoger word geschat, dan 's waerelds heerschappy;</l>
+<l>Het eenige dat my door 't Lot niet is ontnomen:</l>
+<l>Valeria, die hier naar my is aangekomen,</l>
+<l>Die wil ik leev'ren in bewaring van een vrind,</l>
+<pb n="29"/>
+<l>Die alzo teder word van my als u bemind.</l>
+<l>En, om noch krachtiger verzek'ring u te geven,</l>
+<l>Myn Heer, stel ik voor haar ten borg myn eige leven.</l>
+<l>Spoor al myn gangen na, en zo 'k niet t' eenemaal</l>
+<l>Standvastig blyf, neem dan vry onbeschroomd dit staal,</l>
+<l>En laat Valeria, voor 't laast, dees woorden horen,</l>
+<l>Als gy daar mede 't hart dier schone zult doorboren.</l>
+<l><hi rend="i">Tot loon van uwe deugd, en weêrgâloze trouw</hi>,</l>
+<l><hi rend="i">Doorstoot Serviel u 't hart, door myne hand, Mevrouw</hi>.</l>
+<l>En wil, naar dit bestaan, my mede niet verschonen,</l>
+<l>Ontruk my 't snode hart, en wil het elk vertonen,</l>
+<l>Gelyk een harte met meineedigheid bevlekt,</l>
+<l>Ja, maak dat het ten proy aan 't wild gevogelt' strekt.</l>
+<stage><hi rend="i">Tegen Manlius</hi>.</stage>
+<l>Gy, Heer, wilt midlerwyl haar harte gaan bereiden,</l>
+<l>Wyl 't Lot my dwingt van haar een weinig tyds te scheiden:</l>
+<l>Zeg haar uit myne naam, vaar wel, om my te ontslaan</l>
+<l>Van hare tranen, die 'k onmoog'lyk kan weêrstaan.</l>
+<l>Ga, troost die schone Vrouw, in 't geen haar ziel zal kwellen,</l>
+<l>Myn hart durft zich gerust op uwe vriendschap stellen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Servilius, Rutilus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>'k Erken myn dwaling; 'k heb u zonder reên mistrouwd,</l>
+<l>Uwe ed'le en fiere moed, hebbe ik met vreugde aanschouwd.</l>
+<l>Gy kost ons van uw trouw geen meer verzek'ring geven,</l>
+<l>Genoeg is 't, dat ge word door deze drift gedreven:</l>
+<l>'k Had ook geen and're borg van u begeerd, myn Heer,</l>
+<l>Indien 't niet nodig was om anderen, die meêr</l>
+<l>Als ik met achterdocht behebt zyn, en staâg vrezen,</l>
+<l>Daar door van uwe trouw te doen verzekert wezen.</l>
+<pb n="30"/>
+<l>Want ons besluit, waar aan dat ons onze eed verbind,</l>
+<l>Is van dien aard, dat elk mistrouwd zyn eigen vrind:</l>
+<l>Elks moed zoude in 't gevaar aan 't wankelen geraken,</l>
+<l>Indien men ieder niet van 't zelfde vuur zach blaken.</l>
+<l>Inmiddels van uw trouw, en fiere moed, bewust</l>
+<l>En overtuigd, myn Heer, stel ik me op u gerust.</l>
+<l>Wil u, met Manlius, beraân; op dat gy t'zamen,</l>
+<l>De plaats, daarge ons uw hulp zult bieden, moogt beramen.</l>
+<l>'k Zal ondertusschen gaan verrichten, 't geen hy my</l>
+<l>Belaste, op dat dit tot ons aller heil gedy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>En ik, om my te ontslaan van nodeloze zuchten:</l>
+<l>Ik wil Valeria niet spreken, maar ontvluchten:</l>
+<l>Verbannende uit myn hart alle yd'le tederheên,</l>
+<l>Ik stel my, op de zorg van Manlius, te vreên,</l>
+<l>Die zal haar in haar druk en ramp tot troost verstrekken:</l>
+<l>Ja, 'k wil, om myne moed noch meerder op te wekken,</l>
+<l>Me allenig strelen met die vaste hoop, myn Heer,</l>
+<l>Dat ons onze aanslag zal gelukken, tot onze eer.</l>
+<l>Vaar wel.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 1tab">Eene ed'le drift bespeurde ik in zyn wezen,</l>
+<l>Doch 'k moet, onaangezien dit alles, echter vrezen,</l>
+<l>Of dees beweging niet veroorzaakt is, alleen</l>
+<l>Door 't levendig gevoel van zyne ramp. hy scheen,</l>
+<l>Om de aanslag in het werk te stellen, straks geneegen,</l>
+<l>Zelf zonder 't groot gevaar daar van eens te overwegen:</l>
+<l>Laat ons, weêrkerende, beproeven, of zyn ziel,</l>
+<l>'t Gewicht dier zaak beseft die hem zo wel geviel.</l>
+</sp>
+<stage><hi rend="i">Einde van het Twede Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="31"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Valeria, Tullia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>In deze ontroering kan my niets tot troost verstrekken;</l>
+<l>Hoe komt het dat Serviel dus heim'lyk wil vertrekken?</l>
+<l>Dat my een ander zyn, vaar wel, brengt? ach! wat is</l>
+<l>Toch 't wit van zyn vertrek, zo vol geheimenis?</l>
+<l>Wat heeft hy voor, nu hem 's Raads wraaklust is gebleken?</l>
+<l>Hy komt met Manlius, en Rutilus, te spreken,</l>
+<l>Is 't ook door hunnen raad, dat hy zich van my wend,</l>
+<l>Op dat zyne aanslag my zou blyven onbekend?</l>
+<l>Doch, nu gy zeker weet, dat hy zig heeft begeven</l>
+<l>By Manlius, is my dees hoop noch by gebleven,</l>
+<l>Dat ik hem spreken zal, eer hy van hier vertrekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullia</hi>.</speaker>
+<l>Wat heeft in u, Mevrouw, deze onrust toch verwekt?</l>
+<l>Hoe! vreest gy dat een Held, daar 't alles voor moet bukken,</l>
+<l>U dus opoff'ren zal aan 't lot, dat u koomt drukken?</l>
+<l>Kend gy zo kwalyk noch eene edelmoedige aard?</l>
+<l>Verban, verban die vrees, zyn zuiv're liefde onwaard.</l>
+<l>Uw ramp moet, van zyn trouw, u zelf ten borg verstrekken:</l>
+<l>Maar hoe kund gy hier uit de minste twyff'ling trekken,</l>
+<l>Gy, die aan ieder doet aanschouwen, dezen dag,</l>
+<l>Hoe weinig 't Lot, op een verliefde ziel, vermag?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>'k Beken, 'k heb reeds myn vrees veroordeeld, door uw reden:</l>
+<l>Doch naauw'lyks ben 'k gerust, of voel my weêr bestreden,</l>
+<l>Door nieuwe zorgen, die op 't allerfelst' myn hart</l>
+<l>Doorpynigen, met eene al te onverdraagb're smart.</l>
+<pb n="32"/>
+<l>Ach! Tullia, 't is my niet moog'lyk dus te leven,</l>
+<l>Hy moet, eer hy vertrekt, my daar van op'ning geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullia</hi>.</speaker>
+<l>Ik zie hem naderen, Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 3tab">Laat ons alleen.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Servilius, Valeria</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ja, trotze Raad, ik zal uw hoogmoed haast vertreên:</l>
+<l>De plaats is reeds bestemd, daar ik in toorne ontsteken....</l>
+<l>Maar, ach! wat zie ik? Goôn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 2tab">Myn Heer, ei, hoor my spreken.</l>
+<l>Wilt gy Valeria? ontvlugten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 3tab">Ach! Mevrouw,</l>
+<l>Komt gy, door uw vaar wel, vermeerd'ren myne rouw?</l>
+<l>Of beeld ge u in, dat ik myne eeden zal verkrachten,</l>
+<l>Om uwe tranen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">Neen: 't zy ver dat 'k myn gedachten,</l>
+<l>Zou streelen met die hoop. 'k weet, dat uw hart, voorheen,</l>
+<l>Al myn begeertens staâg opvolgde, wel te vreên,</l>
+<l>Zich altyd wachtende van my te wederstreven:</l>
+<l>Maar nu moet ik 't de naam van wederspannig geven;</l>
+<l>De Huwlyksgod verleend dit hart te groote magt,</l>
+<l>Dit's de oorzaak dat het thans myn zoete rust verkracht.</l>
+<l>Hy geeft my over aan ontelbare ongenuchten,</l>
+<l>Als ongevoelig van myn ramp, laat hy my zuchten,</l>
+<l>Ja, toond, ô wrede smart! zo trotze en fiere moed,</l>
+<l>Of hy zich wreekte van een vyand gantsch verwoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat hoor 'k? zou dit verwyt, zo dood'lyk, my ook raken?</l>
+<pb n="33"/>
+<l>Wat komt gy, door uw min vervoerd, my kenbaar maken?</l>
+<l>Ben ik weêrspannig? hoe! Mevrouw, ben ik die geen,</l>
+<l>Die ongevoelige voor uwe tranen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 2tab">Neen;</l>
+<l>'k Herroep weêr alles, nu ik u heb horen spreken:</l>
+<l>Myn Heer, myne achterdocht is t'eenemaal geweken,</l>
+<l>Uw byzyn schenkt weêr rust aan myn ontroerd gemoed:</l>
+<l>Maar, om 't vertrouwen, 't geen myn liefde teuwaards voed,</l>
+<l>Niet wederom te doen aan 't wankelen geraken,</l>
+<l>Zo wilme, eer ik u koom te missen, kenbaar maken,</l>
+<l>Om welke reên ge my ontvlugten wilt; wel aan,</l>
+<l>Ontveins my niets, nu gy verlangt om weg te gaan;</l>
+<l>Meld my....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Hou op, Mevrouw, en weet, schoon 'k uw geboden,</l>
+<l>Kome op te volgen, als de wil der Hemelgoden,</l>
+<l>Dat'k u niets melden moog; 't geheim..</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 2tab">Stel u te vreên:</l>
+<l>Laat myne kunne u niet misleiden; neen, o neen!</l>
+<l>Kom my hier niet als zulk een laffe ziel te aanschouwen,</l>
+<l>Die niets, uit vreze voor gevaar, geheim durft houwen:</l>
+<l>Maar, zie my aan als eene uit Romers bloed geteeld,</l>
+<l>Als uwe wederhelft, die in uw rampen deeld,</l>
+<l>Die zich van jongs af wende uw deugden na te volgen,</l>
+<l>En nimmermeer bezweek voor 't lot, hoe zeer verbolgen,</l>
+<l>Altyd standvastig, zelf tot in de jongste nood:</l>
+<l>Ja, myn grootmoedig hart, braverende de dood,</l>
+<l>Kan, wyl 't verëenigt is aan 't uwe, ook al de plagen,</l>
+<l>En rampen, nevens u, met kloeke moed verdragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Gy toond my zo veel blyk van uwe liefde en trouw,</l>
+<l>Dat ik 't onmoog'lyk u vergelden kan, Mevrouw.</l>
+<pb n="34"/>
+<l>Maar, waarom my gevergt u een geheim te ontvouwen,</l>
+<l>'t Geen ik aan niemand, als my zelve, moog vertrouwen?</l>
+<l>Des sta my te dat ik uw grote magt bepaal.</l>
+<l>'t Geheim, dat ik voor u verberg... Maar, ach! waar dwaal</l>
+<l>'k Met myn gedachten? 'k moet... Vaar wel, ik moet vertrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Vergeefsch wilt gy me entvliên; ik kwam genoeg te ondekken:</l>
+<l>Uw wederkomst te Rome, uw toom die heim'lyk blaakt,</l>
+<l>En uwe vlugt, daar gy met zo veel drift naar haakt,</l>
+<l>Het strekt my alles tot een overtuigbaar teken,</l>
+<l>Dat ge u, o wreed besluit! wilt van myn vader wreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Hoe! ik, Mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">Ja gy: onnut is 't dat gy veinst,</l>
+<l>Myne ongerustheid ziet te klaar waar gy op peinst:</l>
+<l>Gy zyt met Manlius, en Rutilus, door eeden</l>
+<l>Verbonden, en alreeds in hun belang getreden:</l>
+<l>Dit 's de oorzaak, dat ge my ontvluchten wilt, myn Heer,</l>
+<l>Hierom word zonder my geraadpleegd; ja, noch meêr,</l>
+<l>Zo vele wapenen, die ik hier koom te aanschouwen,</l>
+<l>Die Manlius voor my verborgen tragt te houwen,</l>
+<l>En alles wat men van hem zegt, is niet alleen,</l>
+<l>Om eene Raadsheer te verdelgen; neen, o neen!</l>
+<l>Hy, door de smaadheên hem getoond, in toorne ontsteken,</l>
+<l>Wil ongetwyffeld van den gantschen Raad zich wreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat durft gy melden? Goôn! ach! is u wel bewust,</l>
+<l>Wat grote ramp u dreigd? en dat gy tot uw rust,</l>
+<l>En veiligheid, dit, in 't toekomende, moet smoren?</l>
+<l>Want, zo men 't minste kwam van deze uw reên te horen,</l>
+<l>Wy liepen t'zaam gevaar; want 'k heb u voor myn trouw,</l>
+<l>En my, voor de uwe, hier ten borg gesteld, Mevrouw;</l>
+<l>Des overweeg..</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">o Goon! wat koomt ge my ontdekken?</l>
+<l>Moet ik hier dan ten borg dier doodlyke aanslag strekken,</l>
+<l>Waar door myn Vaderland en Vader zal vergaan?</l>
+<l>Wat hoor ik! Hemel! ach! ik schrik voor zulk bestaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ach! zwyg, Mevrouw. Is dit nu dat grootmoedig harte?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Ja, dat, om uwent wil, de onlydelykste smarte</l>
+<l>Kan trotzen: maar ook beefd voor zulk een daad, myn Heer.</l>
+<l>Hoe! wiltge aan uwe wraak opoff'ren al uw eer?</l>
+<l>En, tegen 't Vaderland, zo snode een aanslag smeden,</l>
+<l>Omin myn. Vaders bloed, ô wrede onmenschlykheden!</l>
+<l>Uw hand te baden? ik beken wel dat zyn haat</l>
+<l>Ons beide heeft gesteld in een rampzaal'ge staat;</l>
+<l>Maar, 't is myn Vader. Ach! wat hebt gy voorgenomen?</l>
+<l>Zult gy een bloed, daar 't myne uit oorsprong nam, doen stromen?</l>
+<l>Dat zelf verbonden is aan 't gene u heeft gebaard?</l>
+<l>Vreesd gy niet voor de naam van moorder gantsch ontaard?</l>
+<l>O neen! uw hart wel eer zo grootsch, zo edelmoedig,</l>
+<l>Peinst nu, met vreugde, op al wat yslyk is, en bloedig.</l>
+<l>Denk echter, dat die geen (wat vreugd de wraak hem geeft,)</l>
+<l>Het minst voldaan is, die zich 't best gewroken heeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Gy oordeeld kwalyk; 't geen ik thans heb voorgenomen,</l>
+<l>Is minder om my zelf te wreken, als om Romen</l>
+<l>Van 't slafsche juk te ontslaan: want ik begeer den Staat</l>
+<l>Alleen te zuiv'ren van een bloed, by elk gehaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Wat bloed is zuiverder, als 't geen gy tracht te plengen?</l>
+<l>Ik beef wanneer ik denk aan 't geen gy wilt volbrengen.</l>
+<l>Wilt ge, om uw Vaderland van dwinglandy te ontslaan,</l>
+<pb n="36"/>
+<l>Den Raad, die by 't gemeen gevloekt word, doen vergaan?</l>
+<l>Helaas! zult gy de drift van 't spoorloos graauw dan volgen?</l>
+<l>Ach! schoon gy op den Raad met reden zyt verbolgen,</l>
+<l>Om de aangedane smaad, en wederwaardigheên;</l>
+<l>Was 't niet roemruchtiger voor ons, dat we ons alleen</l>
+<l>Opofferde aan het lot, dan dat gy 't heerlyk Romen,</l>
+<l>Ons beider Vaderland, door bloed deed overstromen?</l>
+<l>Denk nochtans niet, schoon ik uw toeleg doem, myn Heer,</l>
+<l>Dat 'k immer een geheim zal melden, daar uw eer,</l>
+<l>Ja zelf uw leven aan verknocht is; neen, dat leven</l>
+<l>Is my te waard, niets kan my meêr vernoeging geven:</l>
+<l>Maar, zo ge onwrikbaar blyft, als doof voor myn gebeên,</l>
+<l>En dat 'k op uw gemoed, door smeeken, noch geween,</l>
+<l>Niets tot behoudenis myns Vaders kan verwerven,</l>
+<l>Zult gy zyn dochter met en nevens hem zien sterven.</l>
+<l>Wil u hier op beraân, eer ge uw besluit voltrekt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>Door welk een toeval Goôn! heeft zy 't geheim ontdekt,</l>
+<l>'t Ontkennen was vergeefsch, en buiten myn vermogen;</l>
+<l>Des achte ik 't raadzaamst' haar te stellen klaar voor ogen,</l>
+<l>Wat groot gevaar ons dreigde, indien zulks wierd gemeld;</l>
+<l>En haar gebleek'ne trouw heeft my gerust gesteld:</l>
+<l>Maar ach! 'k mistrouw my zelf, myn fierheid schynd geweken,</l>
+<l>Hoe wierd myn hart ontroerd, toen ik haar hoorde spreken!</l>
+<l>Ik wierd inwendig als bewogen met den Raad,</l>
+<l>Schoon reeds ten val gedoemd, by onzer aller haat.</l>
+<l>Maar hoe! zoude ik dus laf myn ed'le wraak dan smoren?</l>
+<l>Geenzints, ondankb'ren, neen, ik heb uw val gezworen,</l>
+<l>Het vonnis is geveld, niets wederhouwd me, o neen!</l>
+<l>Laat ons met Manlius.... Maar 'k zie hem herwaards treên.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="37"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Manlius, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Myn Vriend, wy zullen t'zaam haast tot ons oogwit raken;</l>
+<l>Den Raad laat alles reeds voor morgen vaardig maken,</l>
+<l>Om, op het plechtigste, tot heil van 't Vaderland,</l>
+<l>Op te off'ren aan de Goôn een prachtige offerhand.</l>
+<l>Op morgen zullen we ons van die tierannen wreken;</l>
+<l>Intusschen moogt ge met Valeria weêr spreken;</l>
+<l>O ja, gy moogt die schone alle ogenblikken zien:</l>
+<l>Dat ik haar, als ten borge aanvaarde, moest geschiên</l>
+<l>Op dat alle argwaan zou van Rutilus verdwynen,</l>
+<l>Om zynent wil moetge u... Maar 'k zie dien held verschynen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Rutilus, Manlius, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>. <hi rend="i">ter zyden</hi>.</speaker>
+<l>‘'k Zie hem met Manlius, dit was myn wensch; wel aan,</l>
+<l>Beproeven wy zyn moed, eer dat wy verdergaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wat grote vreugd komt ge ons, door uw gezigt, te melden?</l>
+<l>In welk een staat vond gy de t'zaamgezwoorne helden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>Naar wensch, myn Heer: het streeld ons alles in dees tyd,</l>
+<l>Zo dat onze aanslag nu geen langer uitstel lyd.</l>
+<l>Een ieder trachte op 't meest' myne iever op te wekken,</l>
+<l>Wyl hen bekend was, dat men 't offer zou voltrekken:</l>
+<l>Ik stond geheel verzet van vreugde, toen ik zag,</l>
+<l>Dat elk, met ongeduld, verlangde naar dien dag.</l>
+<l>Ja, helden, zeide ik, ja, Romeinen, waard geboren,</l>
+<l>'t Lot eindigt haast de hoop, die u koomt aan te sporen:</l>
+<l>'t Is alles vaardig, om op morgen, vol van moed,</l>
+<pb n="38"/>
+<l>Der dwingelanden trots te smoren in hun bloed.</l>
+<l>'s Vooroud'rens dwaasheid strekke ons nu ten baak, myn vrinden,</l>
+<l>Die wisten, door een groot en heerlyk onderwinden,</l>
+<l>Zich de Oppermacht te ontslaan van ene Koning; maar,</l>
+<l>In eene mind're staat verkoren te ieder jaar</l>
+<l>Weêr twee Tierannen, die elkand'ren evenaarden,</l>
+<l>En ons te lastig juk, van tyd tot tyd, verzwaarden.</l>
+<l>'k Zag, dat hunne aller moed hier door wierd opgewekt,</l>
+<l>Des heb 'k hen alles, wat ik nodig achte, ontdekt.</l>
+<l>'k Bragt hen 's Raads euveldaân, op't haat'lykste, in gedachten,</l>
+<l>En wat een ieder op het iev'rigst' moest betrachten:</l>
+<l>'k Zei, hoe onze aanslag wierd door eenige uit den Raad,</l>
+<l>In 't heim'lyk ondersteund, dooringekropte haat;</l>
+<l>Wat ieder moest ten dienst van 't Vaderland verrichten,</l>
+<l>Wyl uw zoldaten, op het Kapitool, hun plichten</l>
+<l>Volvoeren zouden; ja, wat plaats dat door geweld</l>
+<l>Moest overweldigt, en wat sterktens neêrgeveld;</l>
+<l>Wie dat men door het staal, op 'twreedste, zou doen sneven,</l>
+<l>Wat huizen aan 't gemeen ten plund'ringe overgeven,</l>
+<l>En welke tot den grond verteeren, door den gloed:</l>
+<l>Men laat door medely, onwaardig elks gemoed,</l>
+<l>Geen wrekers naar hun dood; neen, kind'ren, vaders, vrouwen,</l>
+<l>Zyn alle schuldig, niets moet onze wraak weêrhouwen,</l>
+<stage><hi rend="i">Tegen Servilius.</hi></stage>
+<l>Men moet... Maar, hoe! myn Heer, wat is het dat u let?</l>
+<l>Het schynd of myn verhaal u t'eenemaal ontzet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Verwondering, en vreugd komt dus myn hart ontroeren;</l>
+<l>Wyl 't morgen is detyd, om de aanslag uit te voeren:</l>
+<l>En, minder zynde ontzet, zo zoude ik nimmermeer,</l>
+<l>Naar eisch, gevoelen zulk een groot geluk, myn Heer.</l>
+</sp>
+<pb n="39"/>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>Verschoon myn misslag. 'k Kwam toen verder hen te ontvouwen,</l>
+<l>Hoe ze alle onkundig zyn, van 't geen hen word gebrouwen;</l>
+<l>En wyl hun hoogmoed hen van alle vrees ontbloot,</l>
+<l>Dat hen de wraak ontwake op de oever van de dood,</l>
+<l>Dus sprak ik; dan zal elk, zyn lust tot wraak verzaden,</l>
+<l>En ieder zich in 't bloed dier dwingelanden baden:</l>
+<l>Ja, 't neêrgestorte puin van hun Paleizen, zal</l>
+<l>Ons eeuwig strekken tot getuigen hunner val.</l>
+<l>De burger rechters zelf, die dagelyks de klagten,</l>
+<l>Der droeve onnozelen verwerpen en veragten,</l>
+<l>En nimmer luist'ren naar een smekende onderdaan.</l>
+<l>Een zelfde lot moet elk van hen mede ondergaan.</l>
+<l>Dan zy de schrik en moord alom als uitgelaten,</l>
+<l>En elk moet sneuvelen door woedende soldaten.</l>
+<l>Bedenkt dan, vrienden, in die wrede stond met my,</l>
+<l>Dat niets bestendigs by de stervelingen zy,</l>
+<l>Dat hunne pogingenzyn vol veranderingen;</l>
+<l>En dat me alleen, naar zo veel tegenstribbelingen,</l>
+<l>Door wraak te nemen, van een trotze en wrede Raad,</l>
+<l>De rust kan schenken aan dees waggelende Staat.</l>
+<l>Deze aanspraak, die hun moed en iever koomt te strelen,</l>
+<l>Doet hen verlangen om mede in uw wraak te delen;</l>
+<l>Dit tuigd hunne aller vreugd en drift die hen beheerd,</l>
+<l>Wyl ieder u op nieuws weêr heilige eeden zweerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>'t Gaat alles wel; 't geluk begunstigd ons volkomen:</l>
+<l>Op morgen zien wy 't bloed van die tierannen stromen;</l>
+<l>'k Heb noch maar eene dag hun smaad, en tieranny,</l>
+<l>Ten doel te staan. Maar door wat weldaân zal ik my</l>
+<l>Best kwyten omtrend u, wiens zorg...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l rend="; 1tab">'k Zal 't niet verzwygen;</l>
+<l>Gy kund me een kleene gunst doen van uw hand verkrygen,</l>
+<pb n="40"/>
+<l>Maar nodig is 't, dat ik u zulks alleen ontdek;</l>
+<l>'k Wil geenzints twyff'len of uw vriend zal ons...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 3tab">'k Vertrek.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Manlius, Rutilus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Waar mede kan ik ooit uw trouwe dienst belonen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>My dienende, koomt ge aan u zelve dienst te tonen,</l>
+<l>Myn Heer. 't Gedenkt u nog hoe dat ge my bevond,</l>
+<l>Toen'k voor uw vrienden me aan uw groot belang verbond:</l>
+<l>Ik zwoer, dat by aldien me een broeder was gegeven,</l>
+<l>Aan my veel waardiger, dan zelf myn eigen leven;</l>
+<l>Op eene stond met my geboren, uit een bloed,</l>
+<l>En met een zelfde zorg met my staâg opgevoed;</l>
+<l>Ja, schoon den Hemel zelf ons had zo naauw verbonden,</l>
+<l>Dat tusschen ons geen haat, noch twedracht wierd gevonden,</l>
+<l>Maar onze vreugde, en ramp, ja alles waar gemeen;</l>
+<l>Dat ik nochtans zyn bloed, om de allerminste reên,</l>
+<l>Of schyn van ontrouw, straks zou voor uw oog doen stromen,</l>
+<l>Om zyne schande, en ons bederf dus voor te komen:</l>
+<l>Gy roemde in my dees drift op 't hoogste, en ieder deed</l>
+<l>Beneffens u, myn Heer, naar my, dien zelfden eed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wel nu?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l rend="; 1tab">Nu is de tyd geboren, dat ge uw plichten,</l>
+<l>Tot aller welzyn, moet op 't heerlykste verrichten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Op wien?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l rend="; 2tab">Op uwen vriend. 'k Heb alles u voorspeld:</l>
+<pb n="41"/>
+<l>Toen hy my hoorde wierd zyn ziel geheel ontsteld,</l>
+<l>'t Ontroerd gelaat kwam zelf, in weêrwil, my ontdekken,</l>
+<l>Hoe 't laf berouw hier van slechts de oorzaak kon verstrekken.</l>
+<l>'t Verhaal van Romens lot, ontzette hem vol schrik:</l>
+<l>Maar zaagt gy 't mede niet, myn Heer, zo wel als ik?</l>
+<l>Want dit was alzo min voor u, als my, verholen,</l>
+<l>En, volgens ieders eed, is 't elk duur aanbevolen.</l>
+<l>Wy kwamen overeen, dat ieder, in dees staat,</l>
+<l>De wantrouw houden moest voor de uitgevoerde daad:</l>
+<l>En dat het beter was, hen, die onschuldig waren,</l>
+<l>Op 't felst' te straffen, dan de schuldigen te sparen.</l>
+<l>Servilius heeft dit zelf toegestemd, vol moed,</l>
+<l>En gaf daar voor ten borg zyn, en zyn egaas bloed;</l>
+<l>Doch zo ons 't medely zo verre kwam te ontzetten,</l>
+<l>Dat ze aan een vrouw de wraak, schoon woedend, wou beletten,</l>
+<l>Dat ze in een zeek're plaats bewaard word; maar, dat hy,</l>
+<l>Die dus zyne eeden breekt, gerechte straffe ly.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wie zou hem straffen? gy? wat durft ge my ontdekken?</l>
+<l>Wat argwaan komt in u dees woede en toorn verwekken?</l>
+<l>Weet, zo een ander hem dus hoonde in myn gezicht,</l>
+<l>De wraak zag door dees hand alreeds volvoerd haar plicht.</l>
+<l>Maar ik rechtvaardig u, en wil alleen besluiten,</l>
+<l>Dat deze daad uit een te groten drift koomt spruiten.</l>
+<l>Doe my die zelfde gunst, en stel uw hart gerust</l>
+<l>Op myne vrienden, van wier trouw ik ben bewust:</l>
+<l>Denk, dat de wantrouw u dus zonder reên doet vrezen,</l>
+<l>En dat het u niet voegd met vrees verzeld te weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rutilus</hi>.</speaker>
+<l>Neen, neen, 'k ben niet gerust, schoon gy van hier vertrekt,</l>
+<l>Ten zy ik dit geheim heb, nevens u, ontdekt.</l>
+</sp>
+<stage><hi rend="i">Einde van het Derde Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="42"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel,</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>Waar dwaal ik? in wat plaats? Waar ben ik? Welke reden</l>
+<l>Doen my, nu 'k alles moet bestaan, teruggetreden?</l>
+<l>Wat wederhouwd me in't geen daar ik zo zeer na haak?</l>
+<l>Goôn! wat verandering! o toorn! o ed'le wraak!</l>
+<l>Zult gy me aan wroegingen, vol laf heid, overgeven?</l>
+<l>En moet ik, straffende myn trotze hoonders, beven?</l>
+<l>Helaas! ik tragt vergeefsch te ontvonken myne moed:</l>
+<l>Indien het bloot verhaal my noch ontroeren doet;</l>
+<l>Wat zoude ik zyn, o Goôn! wanneer ik, voor myn ogen,</l>
+<l>Dit deerlyk schouwspel kwam te aanschouwen? 'k wierd bewogen.</l>
+<l>Wel aan, ontvluchten wy veel eer deze euveldaân:</l>
+<l>Maar, ach! waar heen gevlucht? waar bergen we ons voortaan,</l>
+<l>Daar ieder ogenblik, ons Vaderland, dit Romen,</l>
+<l>Gelyk een bloedbad ons niet zal tevoren komen?</l>
+<l>Zo gy 't verdelgen laat, verraad ge uw Vaderland;</l>
+<l>Ja, zelf uw vrienden, die gy zwoerd uw onderstand,</l>
+<l>Uw vlucht zal wederzyds een snode misdaad strekken;</l>
+<l>Doch een van beide moet u we ed'le moed voltrekken:</l>
+<l>Uw eed betrachtende, moet ge alles sneuv'len doen;</l>
+<l>Of alles melden, om gantsch Rome te behoên.</l>
+<l>Doen sneuvelen? daar toe zult ge u te zwak bevinden,</l>
+<l>En alles melden, is te laf een onderwinden.</l>
+<l>Naar welk een zyde of thans uw deugd zich wenden zal?</l>
+<l>Tweklippen dreigen haar, met een gewisse val;</l>
+<l>Want, zo zy de eene ontslipt, zal zy op de and're stranden.</l>
+<l>Gy, wier genade ons hart van 't zelfde vuur doet branden,</l>
+<l>Gy, die de wet der deugd ons voorschryst, wier geboôn,</l>
+<l>Wy met eerbiedigheid opvolgen, grote Goôn,</l>
+<pb n="43"/>
+<l>Gedoogd gy, dat een ziel, zo naauw aan de eer verbonden,</l>
+<l>In weêrwil van zich zelf, misdadig word bevonden?</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Valeria, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>‘O Hemel! die my dit hebt ingestort, verleen</l>
+<l>Ten einde toe me uw hulp. Myn Heer, ik kan de reên</l>
+<l>Van uwe rust'loosheid klaar uit uwe ogen lezen,</l>
+<l>En de oorzaak, waarom gy dus tracht alleen te wezen.</l>
+<l>Ik weet wat zorgen u doorpynigen het hart:</l>
+<l>Maar wilt ge u wederom ontlasten van die smart?</l>
+<l>Wilt gy op heden, door een heerlyk onderwinden,</l>
+<l>Ons beider Vaderland behouwden, en uw vrinden?</l>
+<l>Wy kunnen 't onbeschroomd verrichten; ja, myn Heer.</l>
+<l>Uw vriendschap wederhouwd u mogelyk: maar de eer,</l>
+<l>De plicht, het medely, noopt ons dat wy 't voltrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat moet men dan bestaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">Den aanslag gaan ontdekken:</l>
+<l>Maar niet voor dat men is verzekerd, dat den Raad</l>
+<l>De t'zaamgezwoor'nen wil kwytschelden deze daad;</l>
+<l>Door onze zorg behoed, myn Heer, is 't wel te denken,</l>
+<l>Dat me ons een minder loon, voor zulk een dienst, zal schenken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat zegt ge? hoe! Mevrouw, voor wie ziet gy my aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Voor die, aan wien het heil van ieder een zal staan.</l>
+<l>'k Weet, door wat eeden ge aan uw vrienden zyt verbonden,</l>
+<l>Door uw gezicht, doet gy me uw hartsgeheim doorgronden;</l>
+<l>Ik weet, wat namen ge u, van hunne toorn, voorspeld:</l>
+<l>Maar is 't wel billik, dat ge u zelve daarom kweld?</l>
+<pb n="44"/>
+<l>Of is 't een misdaad, als men komt een eed te breken,</l>
+<l>Die me al te driftig zwoer, in gramschap zynde onsteken?</l>
+<l>Is 't dan verboôn berouw te hebben? hoe! myn Heer,</l>
+<l>Om niet beschaamd te zyn voor vrienden, die te zeer</l>
+<l>Door dolle drift geleid, 's Raads ondergang te zamen</l>
+<l>Besloten, zoud gy u veel liever wil len schamen,</l>
+<l>Voor heel de waereld? kund ge u noch een ogenblik</l>
+<l>Beraden aan wat kant gy hellen wilt? ik schrik.</l>
+<l>Wil 't een en 't ander toch eens beter overwegen;</l>
+<l>Gantsch Rome word verwoest, indien dit word verzwegen:</l>
+<l>Maar door de ontdekking zien we ons vaderland bevryd,</l>
+<l>En Romens Raad scheld elk der t'zaamgezwoor'nen kwyt.</l>
+<l>En, als dees weldaad word vereeuwigt, ja gantsch Romen,</l>
+<l>Van uwe lof weêrgalmd, van vreugde als ingenomen,</l>
+<l>Zult ge, onder dit gejuich, als elk u eerd en roemd,</l>
+<l>Wel immer horen, dat u 't Eedgespan verdoemd?</l>
+<l>Erinner u toch eens 't tafreel dier gruweldaden,</l>
+<l>Geschildert met het bloed, waar in ge uw hand wilt baden.</l>
+<l>Verbeeld u, dat gy reeds 't gekerm der kind'ren hoord,</l>
+<l>Als't een naar't ander word 't onnozel hart doorboord;</l>
+<l>De moeder, fel gewond, haar beulen zynde ontweken,</l>
+<l>U, tonende u haar zoon, koomt om genade smeken,</l>
+<l>Voor uwe voeten neêrgebogen; wyl het wicht,</l>
+<l>Zyn ramp onkundig, u noch toond een bly gezicht:</l>
+<l>Vermindert dan uw woede? of blyst gy onbewogen?</l>
+<l>Een wrede ontmenschte doet haar sneuv'len voor uw oogen,</l>
+<l>Ontrukt haar 't jongske, dat hy 't staal in 't harte dringt,</l>
+<l>Waar uit dat melk, en bloed u tegen 't voorhoofd springt;</l>
+<l>Zal zulk een schouwspel u niet aan het harte raken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ik zweer, by de Oppergoôn, die staâg dit Ryk bewaken,</l>
+<l>Dees woorden treffen my, gelyk, een blixemschigt:</l>
+<pb n="45"/>
+<l>De schrik, doorsnyt my 't hart, en myne gramschap zwigt</l>
+<l>Voor 't medely. Maar hoe! zou dan 't ondankbaar Romen</l>
+<l>Haar heil, van hen, die zy op 't felste haat, bekomen?</l>
+<l>Zoude ik de weldaân van myn waarde vriend verraân?</l>
+<l>Hem dwingen... Neen, Mevrouw, ik zal dit noit bestaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Hebt gy een waarder vriend, als my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Neen, myn beminde;</l>
+<l>Uw liefde doet me in u, al myn vernoeging vinden.</l>
+<l>Gy, gy voldoet alleen myn wenschen, in myn druk:</l>
+<l>Maar waarom, grote Goôn, is zulk een groot geluk,</l>
+<l>My niet met minder leed, en met meêr rust gegeven?</l>
+<l>Ach! welke rampen doet ons 't wrede lot beleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>En waarom u, myn Heer, daar van dan niet bevryd?</l>
+<l>Gy moet besluiten; neem een kort beraad, 't is tyd:</l>
+<l>Vrees nergens voor, en wyl 't niet langer diend gezwegen.</l>
+<l>'k Heb van den Raad, al wat ik wenschen kon, verkregen.</l>
+<l>Uit vrees voor meêr gevaar, is me alles toegestaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat hebt ge, zonder myn toestemming, Goôn! gedaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>'k Beloofde u, dat ik noit van deze zaak zou spreken,</l>
+<l>Uit vreze, of 't eedgespan zich eens van u mogt wreken:</l>
+<l>Maar 't woord des Raads steld ons in volle zekerheid.</l>
+<l>Ik, ik alleen, myn Heer, heb dit geheim verbreid,</l>
+<l>Als wel bewust dat gy zulks nimmer zoud ontdekken;</l>
+<l>Des moet ik ook alleen hun haat ten doel verstrekken.</l>
+<l>En, schoon 'k u noemende, gepleit heb voor ons tweên,</l>
+<l>Kund ge echter my voor hen beschuldigen alleen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ach! wat hebt gy verricht? hoe zullen zy, vol toren,</l>
+<l>My vloeken! wat verwyt zal ieder my doen horen!</l>
+<l>U te beschuldigen, was vruchteloos; ik zou</l>
+<pb n="46"/>
+<l>Hen maat bespotten, nu zy zyn verraân, Merrouw.</l>
+<l>Zal elk niet aanstonds zien, dat ik u kwam verklaren</l>
+<l>'t Geheim, dat ge aan den Raad, o spyt! kwaamt te openbaren.</l>
+<l>En wie zal twyff'len aan ons onderling verstand?</l>
+<l>Wel aan, ontvlucht hun toorn, verlaat uw Vaderland,</l>
+<l>Ontwyk dien ramporkaan, vol doodlyke onweêrvlagen,</l>
+<l>De stel my bloot, ik wil myn hoofd alleenig wagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Verban uw vrees, myn Heer. Maar iemand naderd; een</l>
+<l>Die men verdacht houwd, moet men myden; ik ga heen:</l>
+<l>Dat wy, ons wachten iets van deze zaak te ontvouwen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>Wie kome ik hier, in deze ontroering, noch te aanschouwen?</l>
+<l>Zou hy reeds weten dat hy eerloos is verraân?</l>
+<l>Op welk een wys zal ik zyn gramschap best weêrstaan?</l>
+<l>Men blyve: ja, laat ons, wyl niets ons kan verschonen,</l>
+<l>Ons echter moedig, naar ons medelyden, tonen.</l>
+<l>Maar, welk een diep gepeins beheerd hem? ach! ik vrees.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Manlius, servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Kend gy het handschrift wel van Rutilus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 2tab">Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 3tab">Lees.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">leest</hi>.</speaker>
+<l><hi rend="i">Gy laakte, 't geen ik kwam rechtvaardig te mistrouwen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Wy zyn verraân door hem, die by ray was verdacht.</hi></l>
+<pb n="47"/>
+<l rend="; 1tab"><hi rend="i">Een uit den Raad door ons, in ons belang gebragt,</hi></l>
+<l><hi rend="i">Komt in dit ogenblik my dit geheim ontvouwen;</hi></l>
+<l rend="; 1tab"><hi rend="i">Des vlucht naar Vejum toe, daar ons ons lot geleid:</hi></l>
+<l><hi rend="i">Maar om de rampspoed, die ons treft noch iets te strelen,</hi></l>
+<l><hi rend="i">Laat hem de vruchten noit van zyne misdaad delen;</hi></l>
+<l rend="; 1tab"><hi rend="i">Zyn sterfuur zy door u, eer gy vertrekt, bereid.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wat zegt ge 'er van?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 2tab">Stoot toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 3tab">Goôn! wat kome ik te horen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ik zeg noch eens, stoot toe. 't kome u niet vreemd te voren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wat zegt ge, onzalige? wat maakt u dus verwoed?</l>
+<l>O Hemel! weet gy wel wat voorstel gy my doet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ja 'k weet, myn Heer, indien ge uw eeden zult betrachten,</l>
+<l>Dat gy 't meineedig hart, u aangeboôn, moet slachten,</l>
+<l>En dat uwe aanslag is door my ontdekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 4tab">O smart!</l>
+<l>En ik dring noch myn staal niet door uw trouwloos hart?</l>
+<l>Waarom moet ik my noch die lafheid aangewennen,</l>
+<l>Dat 'k een meinëdige moet voor myn vriend erkennen?</l>
+<l>Hoe! gy verraad my? gy? heb ik u wel verstaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ja, Manlius, 't is waar; myn tong heeft u verraân.</l>
+<l>Nu denkt ge mooglyk, dat u, zonder my, 't voltrekken</l>
+<l>Dier aanslag tot veel roem en eer had kunnen strekken:</l>
+<l>Maar alles wat ik u voorstelle in deze tyd,</l>
+<l>Is kracht'loos, om te doen verminderen uw spyt;</l>
+<l>En 'k acht het weinig dat my Rome gunst wil tonen,</l>
+<l>Myn Heer, indien ik my voor u niet kan verschonen.</l>
+<l>'k Verwacht dan, van uw hand, de straf van dit bestaan,</l>
+<pb n="48"/>
+<l>Stoot toe; ik sterf vernoegt, 'k ben van myn lot voldaan,</l>
+<l>Wyl myn verraad, waar door ik Rome kwam bewaren;</l>
+<l>Uw leven en uw eer ook teffens koomt te sparen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Gy spaard my 't leven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Ja: en zelf het dierbaar bloed</l>
+<l>Van al uw vrienden, elk is voor gevaar behoed,</l>
+<l>Den Raad spreektze alle vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 2tab">Maar, wie heeft u verkoren</l>
+<l>Tot rechter van ons lot? wie deed u immer horen,</l>
+<l>Dat my dit leven oit behaagde, of heeft voldaan?</l>
+<l>Wat wilt gy dat 'k nu doe? wat kan ik thans bestaan?</l>
+<l>Zal ik, o schand! ten spot van elk Romein verstrekken?</l>
+<l>Het droevig noodlot van myn rampen zien voltrekken?</l>
+<l>Of wederom 't belang handhavenen, o spyt!</l>
+<l>Van een ontaarde vriend, zo trouwloos, als gy zyt?</l>
+<l>O Goôn! wat bate my 't gestadig misvertrouwen,</l>
+<l>En al 't gevaar, dat ik my kwam voor ogen houwen,</l>
+<l>Indien myn aanslag thans door u moest zyn verraân?</l>
+<l>'t Geen u de onwaardste drift van liefde deed bestaan;</l>
+<l>Want gy kwaamt zekerlyk naar deze drift tehoren.</l>
+<l>Onwaardige Romein, lafhartige, geboren</l>
+<l>Tot slaverny, bescherm tierannen, en verraad</l>
+<l>Uw trouwe vrienden, die, door een beroemde daad,</l>
+<l>U wilden wreken. Hoe zal elk door toorn gedreven,</l>
+<l>My haten? Ik dorst hen van u verzeek'ring geven:</l>
+<l>Hun wantrouw wierd bespot; ja, 'k wederhiel de slag,</l>
+<l>Die men rechtvaardig u dacht toe te brengen. Ach!</l>
+<l>Waarom hun trouwe raad niet meer in acht genomen,</l>
+<l>En uw meinëdig bloed, voor elks gezicht, doen stromen?</l>
+<l>Dan had myn toeleg my verstrekt tot eer: maar nu</l>
+<l>Zou'k my bevlekken met eenbloed, waar voor ik gruw;</l>
+<l>Te heilloos is 't, om myn gerechte toorn te slissen;</l>
+<l>Des laat; ik u myn wraak in 't knagende gewissen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="49"/>
+<head rend="h4">Vyfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>Hoe wierd ik overheerd van schaamte, op dit verwyt!</l>
+<l>Wat maakt myn zinnen dus bedwelmd in deze tyd?</l>
+<l>Wat zal ik doen? hy komt me, als een gedrocht, te schuwen:</l>
+<l>Zal ik hem weêr doen zien, waar voor dat hy moet gruwen?</l>
+<l>O welgegronde toorn! O dodelyke taal!</l>
+<l>Gehate namen, thans gehoord voor de eerstemaal!</l>
+<l>Ik trouwloos! ik ontaard! en zoude ik langer leven?</l>
+<l>'k Verdoem, zo wel als hy het gene, ik heb bedreven:</l>
+<l>Hy heeft zelf tegen my zyn woede in my verwekt:</l>
+<l>Wel aan, ontlasten we ons van 't geen onze eer bevlekt;</l>
+<l>Laat ons, in 's afgronds nacht, dees schand voor eeuwig smoren,</l>
+<l>En hem, in weêr wil zelf van zyn gerechte toren,</l>
+<l>Doen twyffelen, wat my het meest ter harte gaat,</l>
+<l>De knaging, of veel eer dees trouweloze daad.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Servilius, Albinus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Onze aanslag is ontdekt, myn Heer; wy zyn verloren:</l>
+<l>Gantsch Rome, in oproer, kwam reeds dit gerucht ter oren.</l>
+<l>'k Wou dit aan Manlius ontdekken, doch te laat,</l>
+<l>Wyl dat Valerius, vol drift in deezen staat,</l>
+<l>(Die, om dit groot gevaar te beter voor te komen,</l>
+<l>'t Bevel van Romens Raad had op zich zelf genomen,)</l>
+<l>Met zyn gevolg, reeds was in zyn vertrek geraakt,</l>
+<l>Daar hy zich meester van dien krygsheld heeft gemaakt,</l>
+<l>Zelf in dat ogenblik, dat hy, door spyt gedreven,</l>
+<l>Met eige hand, zich zelf den doodsteek dacht te geven:</l>
+<l>Men laat hem dit paleis ten kerker. Dit 's al 't geen</l>
+<l>Ik hoorde; ik volg de loop van zyn rampzaligheên.</l>
+<pb n="50"/>
+<l>Behoed u zelve; ga, en wil vooral betrachten,</l>
+<l>'t Geen gy, ten beste van uw vriend, zult nodig achten.</l>
+<l>Ik waarschuw hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">En ik zal ondertusschen... maar</l>
+<l>Ik zie Valerius verschynen, dien Barbaar!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Valerius, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Wat tyding, heb ik in dit ogenblik bekomen?</l>
+<l>Is Manlius weêr in verzekering genomen?</l>
+<l>Waar door heeft hy zich zelf die schande tog behaald?</l>
+<l>Heb ik zyn vryheid noch niet duur genoeg betaald?</l>
+<l>Is elks vergiffenis, door u, niet onderschreven?</l>
+<l>Herroept den Raad dan weêr haar woord, aan ons gegeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>'k Geef u geen reên, myn Heer, van 't geen 'er is geschied:</l>
+<l>'t Zy u ook evenveel of gy dat weet of niet;</l>
+<l>Wyl gy voor hen geen vrees behoefd in 't hart te dragen,</l>
+<l>Hun gunst begeerd, dat ge u in 't minst niet zult beklagen.</l>
+<l>De Raad, die kend u vry, en wil, van nu af aan,</l>
+<l>Uw schuld vergetende, u van uwen ban ontslaan:</l>
+<l>Men geeft u alles weer: en 't geen gy kwaamt verrichten,</l>
+<l>Daar van zal elk in 't hart 't onsterff'lyk denkbeeld stichten.</l>
+<l>Dit 's alles wat ik uit hun aller naam, myn Heer,</l>
+<l>U had te melden; en, wat my belangt, 'k begeer</l>
+<l>Myn vriendschap, als voorheene, u weder op te dragen,</l>
+<l>Ik dank het Godendom, wiens zorg het kon behagen,</l>
+<l>Dat thans uw Echt, daar ik my tegens heb gekant,</l>
+<l>Zou strekken tot behouwd van 't lieve Vaderland.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>En dit 's het eenigste, dat ik met recht moet doemen;</l>
+<l>Ja, ik vervloek den Raad, die my dus koomt te roemen.</l>
+<l>'k Geef hen hun weldaân weêr, die 'k maar ten deel geniet,</l>
+<pb n="51"/>
+<l>En u, uw vriendschap. O onlydelyk verdriet!</l>
+<l>Dit moet my des te meêr tot myne schand gedijen,</l>
+<l>Nu dat ik Manlius, myn vriend, niet kan bevrijen.</l>
+<l>Noit was myn toeleg, hem verradende, zyn bloed</l>
+<l>Te plengen, om my zelf daar door te zien behoed;</l>
+<l>Neen, 'k heb,om zyn belang, uw aller heil gebrouwen,</l>
+<l>En myn meêlyden wilde u wederzyds behouwen.</l>
+<l>Zou myn verraad, waar van ik thans de wroegingly,</l>
+<l>De vrucht u schenken, en de schande slechts aan my?</l>
+<l>Zou 'k alles missen, nu 'k, gantsch Rome koom te sparen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>'k Kwam u reeds alles wat ik zeggen moest verklaren:</l>
+<l>Bedwing de drift, waar door ge u dus vervoeren laat.</l>
+<l>Wy gaan ons van zyn lot beraden in den Raad;</l>
+<l>En 't zy men hem verwyst, of 't leven koomt te schenken,</l>
+<l>Uw plicht vereischt noit meêr aan uwen vriend te denken:</l>
+<l>Gy moet u zyn belang ontrekken, en alleen</l>
+<l>Behartigen 't belang, en 't welzyn, van 't gemeen.</l>
+<l>'k Moet gaan; vaar wel.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 1tab">Hoe word myn ziel door deze reden,</l>
+<l>Met eene onzek're hoop, vol onrust, thans bestreden!</l>
+<l>Hoe! zou den Raad... Maar ach! waar twyffeld gy noch aan?</l>
+<l>Wie kan u eeren, na uw eereloos bestaan?</l>
+<l>Uw vriend, is uw verraad, uw 's vyands, u gebleken;</l>
+<l>Hy breekt de zelfde band, die gy eerst kwaamt te breken.</l>
+<l>Zoude ik, wyl Manlius my zyne dood verwyt,</l>
+<l>Noch zien. neen, dat men hem bescherme in deze tyd.</l>
+<l>Laat ons noch leven, om zyn leven te bewaren;</l>
+<l>En 't zy, dat de uitkomst met myn wensch koomt te evenaren,</l>
+<l>Of dat het my mislukt, laat ons, in deze nood,</l>
+<l>Ons mede opoff'ren, door een herelyke dood:</l>
+<l>Voor al, laat ons zyn haat niet meê ten grave rukken.</l>
+<l>Daar komt de bronâar van myn ramp, en ongelukken.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="52"/>
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Valeria, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Ik sprak myn Vader, Heer; en 't is me onmogelyk,</l>
+<l>Dat ik u melden kan, wat ongemene blyk,</l>
+<l>Van Vaderlyke gunst my is van hem gebleken.</l>
+<l>Hy scheide van my af, wyl hy met u moest spreken:</l>
+<l>lk twyffel niet, of hy heeft u als my voldaan.</l>
+<l>Hoe! zwygt ge? ik beef: helaas! zie my zo wreed niet aan.</l>
+<l>Wat onverwachte ramp heb ik op nieuws te schromen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Laf hartige, durft gy voor myn gezicht noch komen?</l>
+<l>Ziet gy 't gevaar dan niet, dat gy vermetel tart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Wat zegt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">Hoe treft my uw snood bedryf aan 't hart!</l>
+<l>Waar is held Manlius? ach! wat hebt gy bedreven?</l>
+<l>Gy koomt nu, maar vergeefsch, voor myne toorn te beven.</l>
+<l>Waarom, eer gy 't bestond, niet beter u bedacht?</l>
+<l>Hy ziet zich nu, door u, op 't uiterste gebragt:</l>
+<l>Ten spot van elk gehoond, beledigt en gevangen,</l>
+<l>Is zyne dood alleen zyn eenigste verlangen.</l>
+<l>Gy stelde my zyn haat ten doelwit, my ten straf:</l>
+<l>Maar weet, toen ik me aan zyn belangen overgaf,</l>
+<l>Dat ik u k wam, ten borg van onze trouw, verpanden,</l>
+<l>En, tot verzekering, u stelde in zyne handen.</l>
+<l>Nu hebt gy hem verraân, uw zorg voor Rome lukt,</l>
+<l>Wat mart myn hand, dat ze u myn woede noch ontrukt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Ach! waar toe dit verwyt, en deze drift vol toren,</l>
+<l>Myn Heer, indien myn bloed, uw woede kan doen smoren?</l>
+<l>Heb ik 't u oit ontzeid? 't is alles u, myn Heer.</l>
+<l>Ik ly de dood; maar uw verwoedheid nimmermeer.</l>
+<pb n="53"/>
+<l>Wil tonder wraaklust zulk een teder offer slachten,</l>
+<l>Op dat dees daad alleen zy edelmoedig te achten.</l>
+<l>Wil my niet haten, als ge my het hart doorstoot;</l>
+<l>Beklaag veel eer dit hart, dat zelf tot in de dood</l>
+<l>U minde; en slechts alleen gestraft wierd in uw woede,</l>
+<l>Om dat 't myn Vader, en myn Vaderland, behoede.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>O Hemel! Ik u 't hart doorstoten; ach! Mevrouw,</l>
+<l>Geef my dan wederom het myne, zo getrouw,</l>
+<l>Als ik 't u eertyds schonk, om 't uwe weêr te erlangen:</l>
+<l>Maar, 't wierd meinëdig, alzo dra gy 't had ontfangen;</l>
+<l>En hoe 't my ook tot wraak, en ed'le gramschap wekt,</l>
+<l>'t Is echter 't zelfde hart, dat u myn woede ontrekt:</l>
+<l>Wel aan, 't is dan naar u, dat ik my heb te voegen,</l>
+<l>Mevrouw, om alles wat me in u oit kon vernoegen,</l>
+<l>Om uwe aantreklykheên, en tranen, door wier kragt,</l>
+<l>Ge u hebt de straf ontrukt, toon noch die zelfde magt,</l>
+<l>Om eene vriend 't gevaar, het geen hem dreigd, te ontrekken,</l>
+<l>En wil, terwyl ik hem ten voorspraak ga verstrekken,</l>
+<l>Uw wrede Vader gaan ontmoeten, werp u neêr</l>
+<l>Voor zyne voeten; smeek, stort tranen, ja noch meêr,</l>
+<l>Doe hem de wreedheid van ons beider lot bezeffen;</l>
+<l>Gy zult hem moog'lyk 't hart door medelyden treffen:</l>
+<l>Hy make, dat 's Raads haat eens eind'lyk zy voldaan;</l>
+<l>Dat Manlius toch leve, of dat wy t'zaam vergaan.</l>
+</sp>
+<stage><hi rend="i">Einde van het Vierde Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="54"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel,</head>
+<stage><hi rend="sc">Manlius, Albinus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Anbinus</hi>.</speaker>
+<l>'k Beken dat reeds de vrees beheerde myn gedachten,</l>
+<l>Toen 'k hoorde dat den Raad haar woord niet kwam betrachten,</l>
+<l>Zich 't recht behoudende, vergevende ieder een,</l>
+<l>Behalven u, myn Heer, en Rutilus. Met reên</l>
+<l>Was ik bekommerd, wyl dien held hen was ontkomen,</l>
+<l>Dat gy daarom hun haat te meerder had te schromen:</l>
+<l>Maar nu den Raad zich van die zorg ontslagen heeft,</l>
+<l>En zelf het recht, om u te oordeelen, overgeeft</l>
+<l>Aan and'ren, toond, datze u niet durvende bezwaren,</l>
+<l>Beschaamd zyn om u weêr onschuldig te verklaren.</l>
+<l>Hun vrees, u wyzende tot Rechters min gehaat,</l>
+<l>Noopt deze om u de wraak te ontrukken van den Raad.</l>
+<l>Servilius, myn Heer, kwam dit zo ver te brengen;</l>
+<l>Want nu gy wederom zyn byzyn wilt gehengen,</l>
+<l>Durf ik hem noemen, ver van de allerminste hoon...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Moest hy my dwingen hem te haten? grote Goôn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Hoe! Heer, komt gy my noch van haat en toorn te spreken,</l>
+<l>Nu zyn oprecht berouw zo klaar u is gebleken?</l>
+<l>Wie dorst als hy uw recht, voor Romens wreden Raad,</l>
+<l>Verdadigen, ten trots van hunner aller haat?</l>
+<l>Wyl elk van 't Eedgespan, door ydle vrees gedreven,</l>
+<l>U afviel, en vol schrik scheen voor de straf te beven.</l>
+<l>Elk u verlatende, dacht door dit laf bestaan,</l>
+<l>Zyn onschuld tonende, de wrede straf te ontgaan.</l>
+<l>Maar hy, wyl ieder zweeg, ja zelf uw naaste vrinden,</l>
+<l>Dorst zich, voor 't straf gerecht, uw voorspraak onderwinden.</l>
+<pb n="55"/>
+<l>Hy toonde, hoe ge eertyds, tot uwe onsterf'lyke eer,</l>
+<l>Vier honderd Burgeren hebt vrygekocht, myn Heer;</l>
+<l>En hoe veel and'ren gy in 't oorlog kwaamt bevryden,</l>
+<l>Wat roem gy staâg behaalde in sterktens te bestryden:</l>
+<l>Tien kronen, 't loon van tien veldslagen; en in 't kort,</l>
+<l>Hoe menigmaal ge uw bloed hebt in hun dienst gestort.</l>
+<l>Voor al, wat heldendrift bespeurde elk in zyn wezen!</l>
+<l>En welk een schaamte kon men uit hun ogen lezen!</l>
+<l>Toen hy hen wees dien berg, waar van dat gy vol moed,</l>
+<l>Der Gallen grote magt neêrblixemde als verwoed:</l>
+<l>Ja, daar gy onze Goôn beschermde, en hunne wetten;</l>
+<l>Die stem kon in hun hart de wraakzucht palen zetten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>O ydle hulp en troost, in myn rampzaal'gen staat!</l>
+<l>Schoon zyne zorg my al bevryde voor hun haat,</l>
+<l>Zal ik door hem wel oit myn doelwit zien herboren?</l>
+<l>En kan ik leven, nu 'k myne ed'le wraak zie smoren?</l>
+<l>Maar wat kan 't baten u te ontveinzen, dat 'k my vind</l>
+<l>Gedwongen, hem als noch te erkennen voor myn vrind:</l>
+<l>'k Beken aan u die drift, waar door 'k my laat vervoeren,</l>
+<l>En dat myn hart zig voelt om een trouwloze ontroeren:</l>
+<l>En, schoon ik alles wat hy onderneemd veracht,</l>
+<l>Ja zelf vervloek, daar hy met zo veel drift naar tracht,</l>
+<l>Komt echter zyn bestaan, in weêrwil myner zinnen,</l>
+<l>Myn welgegronde haat ontwaap'nen, en verwinnen.</l>
+<l>Denk echter niet, schoon ik myn gramschap stil, dat ik</l>
+<l>Reeds ben voldaan; neen, neen, 'k wil in dit ogenblik</l>
+<l>Betonen... maar hy komt, Albinus, wil vertrekken;</l>
+<l>Op dat ik voor zyn oog myn zwakheid moog bedekken.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Servilius Manlius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Gy tracht dan eind'lyk, my ten trots, in dezen staat,</l>
+<l>Te zegepralen van myn gramschap, en myn haat?</l>
+<pb n="56"/>
+<l>'k Zie, hoe een waar berouw uw moed koomt aan te zetten,</l>
+<l>Om, door veel pogingen, myn rampspoed te beletten:</l>
+<l>Maar, zo 't geluk zich niet verzeld met uw bestaan,</l>
+<l>Strekt me alles maar tot schand, nu gy my hebt verraân.</l>
+<l>Ja 't schynd dat ik, wyl gy dus zorg draagt voor myn leven,</l>
+<l>My zelf verneder, en koom voor den Raad te beven,</l>
+<l>Uw drift, stelt my ten doel dier schande; en zelf kunt gy</l>
+<l>Myn vriendschap niet te recht waarderen, naar waardy;</l>
+<l>Doch, zo haar derving u het minste kan ontroeren,</l>
+<l>Moet gy noch iets, dat ik u vergen zal, volvoeren,</l>
+<l>'t Geen my van uwe trouw verzek'ren zal, veel meêr</l>
+<l>Dan alles wat gy oit verrichten kund, myn Heer.</l>
+<l>Mag ik dit, voor het laatst', aan u noch toevertrouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>'k Verdiende, dat gy my dus komt verdacht te houwen:</l>
+<l>Maar, zonder dat ik my weêr ydel voor u uit,</l>
+<l>En eeden zweer, daar gy voortaan uw hart voor sluit;</l>
+<l>Indien 'k noch weinig deê, tot mind'ring uwer smarte,</l>
+<l>Zoo denk alleen, dat in een edelmoedig harte,</l>
+<l>Dat staâg een wroeging voeld, de schande zyner val,</l>
+<l>Zyne eerste deugd op nieuws weêr ondersteunen zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wel aan dan, hoor, gy weet door welk een drift gedreven,</l>
+<l>Steeds aangenoopt, den Raad me ontrukken wil dit leven,</l>
+<l>Dat zy, verbrekende hun ondertekend woord,</l>
+<l>U komt te schenken, 't geen my mede toebehoord.</l>
+<l>Men steld me aan 't Burgerrecht, en myn beslote sterven,</l>
+<l>Zal hen hier door de haat van 't blind gemeen doen derven.</l>
+<l>Den Roomschen Raad, myn Vriend, benydende myn eer,</l>
+<l>Zal deze tegens my ophitzen, meêr en meêr;</l>
+<l>Die zullen niets als 't geen den Raad begeerd voltrekken,</l>
+<l>En 't slaafsche volk durft hen tot geen verhind'ring strekken.</l>
+<l>Wat waand uw zorg dan nog tot nut van myn behouwd?</l>
+<pb n="57"/>
+<l>Hoe! meend gy dat den Raad zich op uw woord betrouwd?</l>
+<l>En nu myn aanslag my tot tweêmaal kwam mislukken,</l>
+<l>Zich noch beraân zal, om het leven my te ontrukken?</l>
+<l>Neen, neen, Servilius, myn lot zy haast volbragt:</l>
+<l>Maar, welk een schand voor my! wat hoon voor myn geslagt!</l>
+<l>Myn trotze vyanden, naar wensch, te zien verkiezen</l>
+<l>De straf, waar door dat ik myn leven zal verliezen!</l>
+<l>Zult gy, uw vriend dan zien voleinden, elk ten spot,</l>
+<l>Door een ontmenschte hand, dit herelyke lot?</l>
+<l>Want eind'lyk moet ik u als de oorzaak hier aanschouwen</l>
+<l>Dier schandelyke dood; gy kwaamt my die te brouwen;</l>
+<l>Des moet ge ook wederom dier schande my ontslaan;</l>
+<l>Ontwapend, en bewaakt, kan ik niets meêr beslaan;</l>
+<l>Myn wachters hebben zelf u uw geweer ontnomen:</l>
+<l>Maar, om hun waakzaamheid, op 't beste voor te komen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>'k Versta u. Maar men komt.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Manlius, Servilius, Albinus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l rend="; 1tab">Een van uw Rechters, Heer,</l>
+<l>Wil u verslag doen van 't beslotene.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l rend="; 2tab">Wanneer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Hy treed op 't Kapitool, verlangende u te spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Manlius</hi>.</speaker>
+<l>Wat baat me een ydle zorg, wyl alles is gebleken?</l>
+<l>Gy ziet, dat nu door u iets grootsch moet zyn volbragt,</l>
+<l>Men neem, na zyn vertrek, de tyd toch wel in agt.</l>
+<l>En denk, dat zonder dit, al wat ge ook moogt voltrekken,</l>
+<pb n="58"/>
+<l>My wederom op nieuws tot schande zal verstrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Ga; 'k tal meêr, als gy wenscht, verrichten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Servilius</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 2tab">Ja, 't is tyd;</l>
+<l>Ik moet my dezen dag van 't hatelyk verwyt</l>
+<l>Ontheffen, 't geen myn naam voor eeuwig zou besmetten,</l>
+<l>Op dat den Naneef nooit... maar wie komt my beletten?</l>
+<l>Goôn! 't is Valeria. Men hoor haar zonder schrik;</l>
+<l>Dit is voor myne min het doodlykste ogenblik.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Valeria, Servilius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>'k Stel my gewillig nu ten doel voor uwe toren,</l>
+<l>Myn Heer; wel aan, stoot toe, en wil my 't hart doorboren,</l>
+<l>Verhaast myn sterven, tot ontlasting myner smart;</l>
+<l>Wyl ik door tranen niets, op 't onbeweeglyk hart</l>
+<l>Myns Vaders....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 1tab">'k Dacht zulks wel: maar weet ook, myn beminde,</l>
+<l>Dat ge, in 't herdenken aan myn leed, geen wraak zult vinden.</l>
+<l>'k Ben met myn vriend verzoend. Wy hadden beide schuld;</l>
+<l>Des hebt gy mede u deel aan zyn vergiff'nis. Duld,</l>
+<l>Dat ik uwe iever dank, Mevrouw, en uwe tranen,</l>
+<l>Waar door ge, op 's Vaders hart, 't behouwd dier vriend dorst wanen.</l>
+<l>Verschoon dan ook de drift van myne razerny.</l>
+<l>De magt van 't Noodlot streefd alle andre magt voorby;</l>
+<l>Gy ziet, hoe dat het kan de naauwste banden slaken,</l>
+<pb n="59"/>
+<l>En tevens ons, als 't wil, af hank'lyk weet te maken.</l>
+<l>Maar staak eens, eindelyk, uw zuchten, en geween;</l>
+<l>Toon nu die ed'le moed, een Roomsche ziel gemeen,</l>
+<l>En hoor grootmoedig aan, 't geen ik u zal ontdekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Ik zal, is 't in myn magt, myn Heer, uw wil voltrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Herdenk eens aan dien dag, en dat rampzalig uur,</l>
+<l>Waar op der Goden haat ontvonkte ons minnevuur.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Rampzalig! Hemel! ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l rend="; 2tab">Is reeds uw moed geweken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Is 't my wel mogelyk u dus te horen spreken?</l>
+<l>Dien dag, getuigen van myn opperste geluk,</l>
+<l>Noemd gy rampzalig? ach! wat lyd myn ziel al druk.</l>
+<l>Hoe vaak, kwam uwe min, door zachter drift gedreven,</l>
+<l>Heele and're namen aan dit ogenblik te geven!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Die min, te spoorloos, zag zig zelf maar aan, Mevrouw,</l>
+<l>En dacht niet welke ramp u 't Noodlot brouwen zou,</l>
+<l>Van die tyd af dat hy ons huwlyk zag voltrekken,</l>
+<l>Noch dat hy zelf daar van het werktuig moed verstrekken,</l>
+<l>Dat gy verlaten zoud een lot, vol van geluk,</l>
+<l>Om u te hechten aan myn lot, vol ramp en druk;</l>
+<l>Dat gy, door hem, om hem, zoud smaken zulke vruchten,</l>
+<l>De schande van een ban, de moeite van het vluchten,</l>
+<l>En, eind'lyk, dat 'k dees dag, door eene drift verwoed,</l>
+<l>Zou worden opgehitst, om op uw eige bloed</l>
+<l>Te woeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">Groote Goôn! moet ik 't herhaal dan horen</l>
+<l>Eens denkbeelds, 't geen ik dacht steeds in myn hart te smoren?</l>
+</sp>
+<pb n="60"/>
+<sp>
+<speaker><hi rend="sc">Servilius</hi>.</speaker>
+<l>Myn vriend is, als gy weet, in 't uiterste gevaar;</l>
+<l>Zyn rechters zullen hem in 't kort verwyzen: maar,</l>
+<l>'k Zal hem allenig gaan beschermen, voor elks ogen;</l>
+<l>Doch by aldien myn hoop, door de uitkomst, word bedrogen,</l>
+<l>Moet ge u bereiden my, na zo veel ongeluk,</l>
+<l>Als de oorzaak van uw ramp te derven, zonder druk.</l>
+<l>Vaar wel.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Valeria</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 1tab">Wat zegt hy my? dit doet my weder beven;</l>
+<l>Aan welk een wrede smart wil hy my overgeven?</l>
+<l>Ik my bereiden hem te derven, op dees dag,</l>
+<l>Nu alles onze min op 't meest begunstigd? ach!</l>
+<l>Wat heeft hy voor? wil hy onze echteband verbreken?</l>
+<l>Me ontvliên? of, met zyn hand, zyn eige noodlot wreken?</l>
+<l>Wat rampspoed dreigd my noch? ik trachte vrucht'loos, uit</l>
+<l>Zyn mond te horen, zyn tedodelyk besluit.</l>
+<l>Ach! welk een koelheid, liet hy blyken voor myn ogen!</l>
+<l>Zyn al te onwrikbaar hart wierd niet in 't minst bewogen.</l>
+<l>Zou hy my, onder dit voorwendzel, grote Goôn!</l>
+<l>Het eeuwige vaar wel ook hebben aangeboôn?</l>
+<l>Indien dit waarheid was, en dat ik myne zinnen...</l>
+<l>Maar laat ons eerst...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Valeria, Tullia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 2tab">Kom, volg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullia</hi>.</speaker>
+<l rend="; 3tab">Wat wilt gy gaan beginnen,</l>
+<pb n="61"/>
+<l>Mevrouw? uw Echtgenoot heeft de uitgang u belet;</l>
+<l>Want hy heeft dit paleis rontom met wacht bezet,</l>
+<l>Ik hoorde zelf de last, die hy hen heeft gegeven,</l>
+<l>Wanneer, Albinus, vol van iever aangedreven,</l>
+<l>Hem zei, dat Manlius verlangde om hem te zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Wat zegt ge? ach! Tullia, wat zal hier noch geschiên?</l>
+<l>Weet ge of zyn vonnis reeds...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullia</hi>.</speaker>
+<l rend="; 1tab">Dit kon my niemand melden:</l>
+<l>Maar, een der rechters my het hart geheel ontstelde;</l>
+<l>Hy klom op 't Kapitool, en bragt elk in die waan,</l>
+<l>Dat de ondervraging maar alleen aan hem zou staan:</l>
+<l>Uit vreze of eenig volk, dien krygsheld noch genegen,</l>
+<l>Mogt trachten hem te ontslaan, heeft hy de meeste wegen</l>
+<l>Met zyn soldaten doen bezetten overal,</l>
+<l>Die elk ook aanstonds zag vermeerd'ren in getal,</l>
+<l>Door hen, die Manlius reeds naar de vierschaar sleuren,</l>
+<l>Wiens deerlyk noodlot elk in 't harte moet betreuren.</l>
+<l>Servilius, wiens ziel hierom in toorne blaakt,</l>
+<l>Week van my af, en is uit myn gezicht geraakt,</l>
+<l>Ik twyffel niet, of hy zal zich daar tegen zetten,</l>
+<l>Mevrouw, en de ondergang van zynen vriend beletten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>O Hemel! sta my by, in myn rampzaal'ge staat.</l>
+<l>Wat zal hy niet bestaan, zo Manlius vergaat!</l>
+<l>'k Schrik voor dit denkbeeld. Ach! myn lot te zeer verbolgen....</l>
+<l>Maar hoe! blyve ik noch hier? neen, neen, ik moet hem volgen:</l>
+<l>Ik moet in dit paleis, braverende al 't gevaar,</l>
+<l>Grootmoedig sneuv'len, of een open banen; maar,</l>
+<l>Ik zie Albinus, vol verbaastheid, herwaards treden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="62"/>
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Albinus, Valeria, Tullia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Wat is 'er gaans? waar heene, Albinus? welke reden,</l>
+<l rend="; 1tab">Doen u...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l rend="; 2tab">Ei, vraag my niets, ik ben te zeer ontsteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l>Is Manlius ter dood verweezen? spreek en meld</l>
+<l>My alles; heeft Serviel... Wilt niets voor my versmoren;</l>
+<l>Myn vrees zegt my reeds meêr, als gy my zult doen horen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Albinus</hi>.</speaker>
+<l>Vergeefsch wil ik voor u verbergen, 't geen met my</l>
+<l>Zo veele, o droef gezicht! met schrik en medely,</l>
+<l>Aanschouwden; ja, Mevrouw, 'k zal u de uitwerking melden,</l>
+<l>Van eene deugd, zo grootsch als heerlyk, in twee helden.</l>
+<l>Men zag Servilius, Mevrouw, niet ver van hier,</l>
+<l>Zich by Held Manlius vervoegen, vol van vier,</l>
+<l>By die beroemde plaats, getuigen van de zegen,</l>
+<l>Die hy op 't Kapitool roemruchtig heeft verkregen.</l>
+<l>Maar die dien krygsheld nu, in 't aanzien zelf der Goôn,</l>
+<l>Met keet'nen ziet geboeid, tot zyne schande en hoon.</l>
+<l>Op dit gezicht, wierd uw Gemaal in toorne ontsteken:</l>
+<l>Maar Manlius, altyd de zelfde en onbezweken,</l>
+<l>Heeft zich naar hen, die hem geleiden, straksgewend,</l>
+<l>En zei, dat hem een groot geheim noch was bekend,</l>
+<l>'t Geen hy Servilius alleen wilde openbaren,</l>
+<l>Om 't aan den Raad, en aan gantsch Rome te verklaren,</l>
+<l>Terstond treed elk te rug, en geen van allen vind</l>
+<l>Zich ongerust, dat hem een wapenloze vrind</l>
+<l>Koomt nad'ren. Ik alleen bleef by hen, en ik hoorde,</l>
+<pb n="63"/>
+<l>Wat drift held Manlius beheerde, in weinig woorden.</l>
+<l>Het is gedaan, sprak hy, men twyff'le geenzints meêr.</l>
+<l>Myn rechters hebben my ter dood gedoemd, myn Heer.</l>
+<l>Zo nu myn ramp u treft, en 't lot my thans beschoren,</l>
+<l>Bevry my dan dier schand van 't uit hun mond te horen:</l>
+<l>Treed met me op 't Kapitool, tot aan dien uithoek, daar</l>
+<l>'k Der Gallen magt besprong, in 't uiterste gevaar.</l>
+<l>Dat Rome toch voor al die smet draag, te allen tyden,</l>
+<l>Dat zy my sneuv'len zag, daar ik haar kwam bevryden.</l>
+<l>h, sprak uw Echtgenoot, door zulk eene ed'le daad,</l>
+<l>Zal 'k u uw haat'lyk lot ontrukken, hoe 't ook gaat:</l>
+<l>Maar 't is my niet genoeg u deze schand te ontrekken,</l>
+<l>Uw eer zou myne naam voor eeuwig maar bevlekken.</l>
+<l>'k Wil, u naarvolgende, u ook wreken dezen dag.</l>
+<l>Dustreden zy te zaam op de uithoek; maar, o slag!</l>
+<l>Zy storten neder, elk schiet toe; doch 't was verloren.</l>
+<l>Men ziet hen in hun bloed, noch zynde omarmd, versmoren.</l>
+<l>O schouwspel, al te wreed! daar elk de vriendschap ziet</l>
+<l>Opoff'ren aan de woede.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 2tab">O al te zwaar verdriet!</l>
+<l>Onmenschlyk lot, gy kwaamt uw woede dan voltrekken?</l>
+<l>En zoude ik 't speeltuig noch van uwe haat verstrekken?</l>
+<l>Neen, 'k wist my heimelyk te wapenen, voor al</l>
+<l>De rampen, die gy my voorspeld hebt; ja, ik zal</l>
+<l>Me, in weêrwil zelf van u, door deze pook, bevryden,</l>
+<l>Dier wreedheên, die gy een rampzalige doet lyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullia</hi>.</speaker>
+<l>Goôn! welk een drift...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valeria</hi>.</speaker>
+<l rend="; 1tab">Beklaag my niet; met hem, die 'k derf,</l>
+<l>Ga ik voor eeuwig my verëenigen: ik sterf.</l>
+</sp>
+<stage><hi rend="i">Einde van het Vyfde en Laatste Bedryf.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

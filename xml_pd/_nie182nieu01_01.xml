@@ -1,0 +1,3375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">De Nieuwe Domburgsche speel-wagen</title>
+                <title type="subordinate">vermeerdert met de Nieuwe Vlissingsche tyd-korter of Verbeterde snaakje</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">De Nieuwe Domburgsche speel-wagen, vermeerdert met de Nieuwe Vlissingsche tyd-korter of Verbeterde snaakje</hi> in de eerste druk uit 1767.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 6, 22, 36, 44, 52, 76: een aantal in het origineel slecht leesbare tekens zijn in deze digitale editie tussen vierkante haken geplaatst.</corr>
+                        <corr> p. 57: p. 36: bjoempje → bloempje, ‘Komt laet ons jagen, daer de bloempjes staen’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- 2 --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">_nie182nieu01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2012 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: 6 G 61</idno>
+                </bibl>
+                <p> <hi rend="i">De Nieuwe Domburgsche speel-wagen, vermeerdert met de Nieuwe Vlissingsche tyd-korter of Verbeterde snaakje</hi>. Wed. Hendrik van der Putte, Amsterdam 1767</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">De Nieuwe Domburgsche speel-wagen</title>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">De Nieuwe Domburgsche speel-wagen</title>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2012-07-09</date>
+                <respStmt>
+                    <name type="person">AZ</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <cf><div type="chapter">
+
+        <pb n="1"/>  
+        <p><hi rend="i">De Nieuwe Domburgsche Speel-Wagen, vermeerdert met de nieuwe Vlissingsche Tyd-Korter of verbeterde Snaakje.</hi></p>
+        <p>&nbsp;</p>
+        <p><hi rend="i">Voortbrengende</hi></p>
+        <p>&nbsp;</p>
+        <p>Veelderhande Vermakelyke Minne, Herders en Drink - Liederen</p>
+        <p>&nbsp;</p>
+        <p><hi rend="i">Nooyt voor deze zoo Gedrukt</hi></p>
+        <p>&nbsp;</p>
+        <p><hi rend="i">Tot Amsterdam,</hi></p>
+        <p>&nbsp;</p>
+        <p>By d' Wed: <hi rend="i">Hendrik vander Putte</hi>, Boekdrukster Boek- en- Papier-Verkoopster, op 't Water, in de Lootsman, 1767.</p>
+    </div></cf>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0001"/> </interpGrp>
+<pb n="3"/>
+<head rend="h2"><hi rend="i">De nieuwe Domburgsche Speel-Wagen, of verbeterde Snaakje.</hi></head>
+<head rend="h3"><hi rend="i">Lied voor de Smeltvangers.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Van de Blaauwe Vlagge, &amp;c.</hi></head>
+<lg type="poem"><l>Buurman is uw Wagen klaer,</l>
+<l>En u volkje by malkaer,</l>
+<l>Koom laet ons niet langer toeven:</l>
+<l>Is het alles wel besteld,</l>
+<l>Al het geene wy behoeven:</l>
+<l>Tot het vangen van de Smelt.</l>
+<l rend="; 1tab">Het is nu al op de been,</l>
+<l>Ryk' en arme, groot en kleen,</l>
+<l>Na de Strand al met behagen,</l>
+<l>Yder neerstig heenen sneld;</l>
+<l>Keyk, wat ryd 'er menig Wagen;</l>
+<l>Tot het vangen van de Smelt.</l>
+<l rend="; 1tab">Za: kom aen dat gaet u voor,</l>
+<l>En die Paerden steeken door;</l>
+<l>Wagtje daer voor ongelukken;</l>
+<l>Laet dat Rytuig maer voorby,</l>
+<l>Of daer raekt ligt iets aen stukken,</l>
+<l>En dan kwamen wy in Ly.</l>
+<pb n="4"/>
+<l>Laet ons dese weg inslaen;</l>
+<l>Want het zal hier beter gaen,</l>
+<l>Laet dien dollen Theun maer ryden:</l>
+<l>Wy zullen hem hier door 't Land:</l>
+<l>Makkelyk den weg afsnyden,</l>
+<l>En wy komen eerst op strand.</l>
+<l rend="; 1tab">'t Is hier wonder fraey in 't houd,</l>
+<l>Kyk dien Boomgaerd eens aenschouwt:</l>
+<l>Daer zyn, Appelen en Peeren;</l>
+<l>Yder Boom is vol gelaen,</l>
+<l>Wagt; Ik moet ter zeyd' wat keeren,</l>
+<l>Want daer komt een Wagen aen.</l>
+<l rend="; 1tab">Daer kryg ik den Duyn in 't oog,</l>
+<l>Maer myn keel die word zoo droog;</l>
+<l>Saertje kryg de Bortelflesse,</l>
+<l>Ziet eens hoe 't daer is gesteld,</l>
+<l>Elk een druppeltje vyf zesse;</l>
+<l>Want wy reyden dog om Smelt.</l>
+<l rend="; 1tab">Nu het Doosje uit de zak,</l>
+<l>En daer op een pijp Toebak;</l>
+<l>Dan nog eens een poos aen 't Loopen;</l>
+<l>Want ik denke voor gewis,</l>
+<l>En ik durve vastelyk hoopen,</l>
+<l>Dat 'er Smelt te vangen is.</l>
+<l rend="; 1tab">Lustig Neeltje met ons Saer,</l>
+<l>Zingt een Deuntje met malkaer:</l>
+<l>Laetje stemmetjes eens klinken,</l>
+<l>Dat het schatert door het Veld:</l>
+<l>Of kom wilje nog eens drinken?</l>
+<l>Want wy reyden dog om Smelt.</l>
+<l rend="; 1tab">Ziet: hier zyn we daer 't behoord,</l>
+<l>Zet de Wagen nog wat voort,</l>
+<l>O wat is hier een krioelen!</l>
+<l>Wat al menschen ziet men daer:</l>
+<pb n="5"/>
+<l>Schielyk door malkander woelen,</l>
+<l>Of het een heel Leger waer.</l>
+<l rend="; 1tab">Zet de Paerden aen den Ploeg,</l>
+<l>'t Water is al laeg genoeg;</l>
+<l>Laet ons ook eens gaen probeeren,</l>
+<l>Een: twee: drie: ô dat zal gaen!</l>
+<l>Smelt genoeg na ons begeeren,</l>
+<l>Maer ziet wat daer wagens staen.</l>
+<l rend="; 1tab">Yder wagen met een Ploeg,</l>
+<l>Wel myn dunkt het is genoeg,</l>
+<l>Een, twee, drie, vier, vijf, zes, zeven,</l>
+<l>Och ik word' het tellen moe;</l>
+<l>Daer nog twee, dat's agt, dat is negen,</l>
+<l>Het staet vol tot ginter toe.</l>
+<l rend="; 1tab">Daer, kyk daer: aen wederzyd,</l>
+<l>Reptje wat je bentse kwyt;</l>
+<l>Hebje vloyen leren vangen:</l>
+<l>Zeker 't komtje hier te pas,</l>
+<l>Want dit goedje wagt niet lange,</l>
+<l>'t Is 'er en 't is weg al ras.</l>
+<l rend="; 1tab">'t Komt hier alles op de baen,</l>
+<l>Zo met Schoppen als met spaen,</l>
+<l>Yder doet op 't meest geweld,</l>
+<l>Om een Visje te vervolgen,</l>
+<l>'t Is dog al te doen om Smelt.</l>
+<l rend="; 1tab">Lustig raept maer wakker aen,</l>
+<l>Want het zal haest zyn gedaen,</l>
+<l>'t Water is al fraey aen 't wassen;</l>
+<l>Lustig; gaeuw, gaeuw: past daer op,</l>
+<l>Zoo zou men ze ligt verrassen,</l>
+<l>Daer is weer een heele Trop.</l>
+<l rend="; 1tab">Ginder slepen zy het Net;</l>
+<l>Met een Paerd daer voor gezet,</l>
+<pb n="6"/>
+<l>Om de Carrebot te halen,</l>
+<l>Uyt de stroomen met geweld,</l>
+<l>Maer ik laetse in 't water dwalen,</l>
+<l>En ik vange liever Smelt.</l>
+<l rend="; 1tab">Hier en ben ik niet vervaerd:</l>
+<l>Van te vallen van het Paerd,</l>
+<l>Hoe ligt kan der yets mankeeren,</l>
+<l>Aen het Net of aen het wand,</l>
+<l>En dan raek men in verseeren,</l>
+<l>'k Visse liever in het Zand.</l>
+<l rend="; 1tab">'t Is oft ook die Meid verstaet,</l>
+<l>Om te vangen den Garnaet;</l>
+<l>Tot het middellyf in 't water,</l>
+<l>En tot boven 't hooft besteld,</l>
+<l>Als een half versope Kater,</l>
+<l>Neen ik vange liever Smelt.</l>
+<l rend="; 1tab">Wilje Garnaet vangen dan;</l>
+<l>Wagtje voor den Pieterman,</l>
+<l>Dat ge niet en word gesteeken,</l>
+<l>En je hand of vinger zweld,</l>
+<l>En dan waer de dans verkeeken,</l>
+<l>Komt en vangt veel liever Smelt.</l>
+<l rend="; 1tab">Ziet daer hebje nog een deun,</l>
+<l>Daer gaet onsen ouden Theun,</l>
+<l>Kaetje in het water brengen:</l>
+<l>En zy laet het zagt geschien,</l>
+<l>Ziet haer door de stroomtjes plengen,</l>
+<l>Ia tot verr' boven haer kn[ien].</l>
+<l rend="; 1tab">Maer wy hebben smelt genoeg,</l>
+<l>Hael maer uit; Hael uit de Ploeg,</l>
+<l>Brengt de Paerden aen de wagen;</l>
+<l>Straks na 't houte Kraentje toe,</l>
+<l>Want de maeg begint te gragen,</l>
+<l>En de Paerden die zyn moe.</l>
+<pb n="7"/>
+<l rend="; 1tab">Symen hoe zal dit hier gaen?</l>
+<l>Hier is schier geen plaets om staen,</l>
+<l>Zit hier onder dese Bomen,</l>
+<l>Reptje, kom wat wakker aen,</l>
+<l>Want daer mogt een ander komen,</l>
+<l>En de plaetse zelf beslaen.</l>
+<l rend="; 1tab">Kom myn Beesjes rust nu wat:</l>
+<l>Gy hebt een harde togt gehad;</l>
+<l>'t Is hier beter by het Eeten,</l>
+<l>Als op 't zand en ziltig veld,</l>
+<l>Maer dat moetje nu vergeten,</l>
+<l>Want wy hebben lustig smelt.</l>
+<l rend="; 1tab">Kreeg dat goed geen tegenstand,</l>
+<l>Och zy boorden door de Strand,</l>
+<l>Met haer scherp geslepen bekken,</l>
+<l>Door de duynen stout en styf,</l>
+<l>En zy kwamen 't land intrekken!</l>
+<l>En de Zee kwam ons op 't lyf.</l>
+<l rend="; 1tab">Daerom elk zyn best moet doen</l>
+<l>Yder als een Kampioen:</l>
+<l>Maer we zullenze als vyanden,</l>
+<l>Al te zamen hand voor hand,</l>
+<l>Malen tusschen onse tanden,</l>
+<l>Als Voorstanders van het land.</l>
+<l rend="; 1tab">Piet hoe staet het met jou maeg,</l>
+<l>Benje mee als ik zo graeg:</l>
+<l>Neeltje wat is in die mande?</l>
+<l>Lang nu eens die Krentekoek,</l>
+<l>Met wat boter: repje handen:</l>
+<l>Met dat daer is in den doek.</l>
+<l rend="; 1tab">Maer my dunkt het ziltig zand:</l>
+<l>Zit my tusschen lip en tand,</l>
+<l>Dat ik niet zeer geerne voele:</l>
+<l>Had men hier een glas met wyn:</l>
+<pb n="8"/>
+<l>Om de mond en keel te spoelen:</l>
+<l>Dat en zou zoo vreemd niet zyn.</l>
+<l rend="; 1tab">Loop Ian Iooze met een snap,</l>
+<l>Met de Kanne na den tap;</l>
+<l>Om het Eeten te doen zinken:</l>
+<l>Soo myn Vriend, ziet daer is geld,</l>
+<l>Laet ons nu eens Wyntje drinken,</l>
+<l>Want wy hebben lustig Smelt.</l>
+<l rend="; 1tab">Vrouwtjes lustje nou eens Thee,</l>
+<l>Siet hier hebje z' ook alree,</l>
+<l>Theetje zalje wat vervrissen:</l>
+<l>Schoonje qualyk waer gesteld;</l>
+<l>'t Gaet zoo als men gaet uit vissen,</l>
+<l>Of wanneer men reyd om Smelt.</l>
+<l rend="; 1tab">'t Is op alle plaetsen maer:</l>
+<l>Eenmael Kermis in het Iaer,</l>
+<l>Maer 't is hier een ander baentje,</l>
+<l>Hier gaen weinig dagen mis;</l>
+<l>'t Is zo vers in het houte kraentje,</l>
+<l>Als 'er Smelt te vangen is.</l>
+<l rend="; 1tab">Ziet elk is nu wel gemoed,</l>
+<l>Want de Smeltvangst die is goed,</l>
+<l>Yder een is nu een haentje,</l>
+<l>Om te eeten van dit dier:</l>
+<l>'t Is hier gaet in 't houte Kraentje,</l>
+<l>Want hier drinkt men wyn en bier.</l>
+<l rend="; 1tab">Kom en spand de wagen aen,</l>
+<l>Want het is nu tyd om gaen,</l>
+<l>Phebus die begind te schuylen,</l>
+<l>En verbergt het aengezigt,</l>
+<l>En by donker loopt men buylen,</l>
+<l>Daerom waegt men dat niet ligt</l>
+<l rend="; 1tab">'t Wyl wy reyden: eens gepraet;</l>
+<l>Vanons lekker Smelt-gebraed,</l>
+<pb n="9"/>
+<l>Ik verlang hoe dat we zullen:</l>
+<l>Als we zitten aen den dis,</l>
+<l>'t Zaemen met malkander smullen,</l>
+<l>Uan onz' vers gevangen Vis.</l>
+<l rend="; 1tab">'t Is een Visje dat wel smaekt;</l>
+<l>Als het van geen zand en kraekt,</l>
+<l>Maekt ook neerstig op te passen,</l>
+<l>Datje het zuivert van zyn gal,</l>
+<l>En dan drie, viermael gewassen,</l>
+<l>Soo het smakelyk wesen zal.</l>
+<l rend="; 1tab">Kook en braed dat met vermaek,</l>
+<l>Yder na zyn zin en smaek:</l>
+<l>Laet dan weer de smeltjes zwemmen,</l>
+<l>In een glaesje frissche Wyn,</l>
+<l>O dat zal te beter klemmen!</l>
+<l>En het zal gesonder zyn.</l>
+<l rend="; 1tab">Ziet daer ginder eens voor uyt,</l>
+<l>Wat of dat gewoel beduid,</l>
+<l>'t Is als ofze zyn in nood:</l>
+<l>Reyd maer toe: ik moet eens vraegen,</l>
+<l>'t Is geen wonder, want de Wagen,</l>
+<l>Leid te midden in de sloot.</l>
+<l rend="; 1tab">'t Is geen wonder want den drop,</l>
+<l>Zit den Voerman in den kop,</l>
+<l>Hy en is niet te beklagen;</l>
+<l>Zoo daer niemand is beseerd,</l>
+<l>Al kosten 't zyn heele Wagen,</l>
+<l>Voor dees reis is hy geleerd.</l>
+<l rend="; 1tab">Nu ons Reis is wel vergaen,</l>
+<l>En met veel playzier gedaen:</l>
+<l>'t Is gemeuglyk om te ploegen,</l>
+<l>Als 'er is zoo menig Smelt,</l>
+<l>Ik voor my ik heb genoegen:</l>
+<l>Veel Vis voor weinig geld.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0002"/> </interpGrp>
+    <pb n="10"/>
+<head rend="h3"><hi rend="i">Trouweloze Wreedheid.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Lieve Dogters vol van jeugden.</hi></head>
+<lg type="poem"><l>Een jong Meisje schoon en aerdig,</l>
+<l>Een zeer deftig Borgers kind,</l>
+<l>Om haer deugden zeer bemind:</l>
+<l>Was haer moeder zoo veel waerdig,</l>
+<l>Dat ze zeyd' dat van haer Trouw,</l>
+<l>Heel de Stad nog wagen zou.</l>
+<l rend="; 1tab">Zeker Iongman braef van zeden,</l>
+<l>Die men ryk en deugdig agt;</l>
+<l>Wel ter tael: van goed geslagt:</l>
+<l>Fris en aerdig schoon van leden,</l>
+<l>Die wind door zyn vryens kunst,</l>
+<l>'t Meisje in haer ouders gunst.</l>
+<l rend="; 1tab">Zyn onkuisheid bleef verholen,</l>
+<l>Want hy in oneerbaerheid,</l>
+<l>Vaek had by zyn Meid geleid:</l>
+<l>Die door schoon beloft' aen 't dolen,</l>
+<l>Door dien Linkaert was geraekt;</l>
+<l>En ook zwanger was gemaekt.</l>
+<l rend="; 1tab">Och! hoe ging haer dit berouwen:</l>
+<l>Doen men zeide vast rondom,</l>
+<l>Dat haer Heer (als Bruidegom)</l>
+<l>Met die schoone Maegt zou trouwen,</l>
+<l>Dies zy hem door groote spyt,</l>
+<l>Zyn ontrouw te bars verwyt.</l>
+<l rend="; 1tab">Hy zoekt haer met schoon te praten:</l>
+<l>Neer te zetten wat hy kan:</l>
+<l>Maer zy houd 'er gansch niet van:</l>
+<l>Seid dat zey niet na wil laten,</l>
+<l>Om hem als een snoode guyt,</l>
+<l>Over al te roepen uit.</l>
+<pb n="11"/>
+<l rend="; 1tab">Zy werd heel tot eigen wraken:</l>
+<l>Onbescheiden aengevoert:</l>
+<l>'t Welk den Linkert heel beroert,</l>
+<l>Ia hy gaet het erger maken,</l>
+<l>En heeft op het hoogst verstoort:</l>
+<l>Zyn bevrugte Meid vermoord.</l>
+<l rend="; 1tab">By zyn trapdeur gaet hy delven,</l>
+<l>Een begraefplaets voor het Lyk;</l>
+<l>En bestopt het in de slyk:</l>
+<l>Hy begraeft het Vrouwtje zelven,</l>
+<l>Daer zy schier dreef in het bloed:</l>
+<l>Dies haer Kind ook smoren moet.</l>
+<l rend="; 1tab">Ondertusschen hoord hy kloppen:</l>
+<l>Haestig aen zyn buiten deur:</l>
+<l>Hy loopt heel verbaest na veur:</l>
+<l>Wist zoo haest niet in te kroppen,</l>
+<l>Eenes Moordenaers gebaer,</l>
+<l>Maer men word geen Moord gewaer.</l>
+<l rend="; 1tab">Dit bleef tot dien dag verhoolen,</l>
+<l>Dat die Ionkman was getrouwt;</l>
+<l>d' Eerste dat men Bruyloft houd,</l>
+<l>Doen ontfonkten weer de kolen</l>
+<l>Van de Moord, korts uitgedaen,</l>
+<l>Als hy zou te bedde gaen.</l>
+<l rend="; 1tab">Daer hy zou zyn Bruid om-ermen,</l>
+<l>Toond' hy niet dan ongenugt,</l>
+<l>En gaf stadig zugt op zugt:</l>
+<l>Och! hy ging inwendig kermen,</l>
+<l>Toonde hy de schoone Bruid,</l>
+<l>Anders niet dan naer geluyd.</l>
+<l rend="; 1tab">Zy en kon hem niet vermaken,</l>
+<l>Is als Maegt weer opgestaen,</l>
+<l>Na haer Moeders Bed gegaen,</l>
+<l>En verteld haer al de zaken,</l>
+<pb n="12"/>
+<l>Hoe de Bruydegom dien nagt,</l>
+<l>Heeft in droefheid doorgebragt.</l>
+<l rend="; 1tab">'s Morgens gingen de gerugten,</l>
+<l>Door de Stad van dese moord,</l>
+<l>Als de Bruydegom dit hoord;</l>
+<l>Hy staet op, gaet heym'lyk vlugten,</l>
+<l>Als een Fielt ter poorten uit;</l>
+<l>En verlaet zyn schoone Bruyd.</l>
+<l rend="; 1tab">Waer zal nu de Moorder vlieden?</l>
+<l>Och zyn plager loopt met hem:</l>
+<l>En houd staeg hem in de klem,</l>
+<l>Wie zal hem nu hulpe bieden?</l>
+<l>Daer hy steeds moet op de pees,</l>
+<l>Met een hert vol angst en vrees.</l>
+<l rend="; 1tab">Ook moet hy uitlandig zwerven,</l>
+<l>Om dit snood Moordadig stuk!</l>
+<l>Laet zyn Vrouwtje mee in druk!</l>
+<l>Die moet Houwelyks vreugde derven;</l>
+<l>Alle Vriende zyn in rouw;</l>
+<l>Yder een beklaegt de Vrouw.</l>
+<l rend="; 1tab">'t Geen de Moeder eerstmael zeide,</l>
+<l>Van haer Dogter is geschied,</l>
+<l>Niet in vreugd; maer in verdriet,</l>
+<l>Door de Stad men staeg verbreyde,</l>
+<l>Van dit schoonste Meisjes Trouw,</l>
+<l>Blyde Bruid en droeve Vrouw.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0003"/> </interpGrp>
+<pb n="13"/>
+<head rend="h3"><hi rend="i">Beklag van de Onnozele Haas.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Vooys.</hi></head>
+<lg type="poem"><l>Dat arme Haesje in 't groene woud,</l>
+<l>Dat word verjaegt al door het gestoud,</l>
+<l>Voor alle de Lieden,</l>
+<l>Zoo moet hy vlieden,</l>
+<l>Wel is hy niet een onnosel dier,</l>
+<l>Ter wereld en vind hy tog geen plysier.</l>
+<l rend="; 1tab">Hy eter tog niet als een Grasje groen:</l>
+<l>Wat kan hy dan minder schade doen,</l>
+<l>Als de groene bladen,</l>
+<l>Om hem wat te versaden,</l>
+<l>En drinkt eens op zyn plysier,</l>
+<l>Schoon Water uit een klaer Rivier.</l>
+<l rend="; 1tab">De digte Haeg en 't groene Wilt,</l>
+<l>Dat is zyn toevlugt en zyn schild,</l>
+<l>Daer gaet hy met lusten,</l>
+<l>Neder legge ruste,</l>
+<l>Hy maekt zyn Beddetje klein aldaer,</l>
+<l>Onder de blaeuwe Hemel klaer.</l>
+<l rend="; 1tab">De Iagers die zoeken hem zo te vaen;</l>
+<l>Veel Honden jagen hem agter aen,</l>
+<l>In Bosse en in hoeken,</l>
+<l>Zy op hem zoeken,</l>
+<l>Zy bennen op hem zoo zeer verwoet,</l>
+<l>En dorste na zyn onnosel bloed.</l>
+<l rend="; 1tab">Dan loopt hy op den Berg zeer snel,</l>
+<l>Hy wagt hem voor de Honden fel,</l>
+<l>Maer in 't nederdalen,</l>
+<l>Zy hem agterhalen,</l>
+<l>Zy vange hem met zo'n groot geweld,</l>
+<l>Denkt eens hoe dat beesje dan is ontsteld.</l>
+<pb n="14"/>
+<l rend="; 1tab">Wel als de honde hem hebben gevaen,</l>
+<l>Dan zegge zy wiens honden hebbe het gedaen,</l>
+<l>Den eene zegt de zyne,</l>
+<l>Den andere zegt de myne,</l>
+<l>Maer wie het gedaen heeft ofte niet,</l>
+<l>Dat arm Haesje is in 't verdriet.</l>
+<l rend="; 1tab">Zy loere op hem zoo zeer,</l>
+<l>Zy scheuren en zy breken zyn lede teer,</l>
+<l>Zy brommen en zy morren:</l>
+<l>Zy gromme en zy knorre;</l>
+<l>Zy waren op hem zo zeer verstoort,</l>
+<l>En door de honde wier hy vermoord.</l>
+<l rend="; 1tab">De Valkenier is mee in het Veld,</l>
+<l>Hy is 'er ook een jagers Held,</l>
+<l>Hy is daer met zyn Valk,</l>
+<l>Die Politike schalk.</l>
+<l>Het Land doorkruissen heen en weer,</l>
+<l>Het arme Haesje heeft geen schuilplaets meer.</l>
+<l rend="; 1tab">Den valk ziet men in het Land,</l>
+<l>En hy verspiet hem aen alle kand,</l>
+<l>Ken hy hem vast krygen,</l>
+<l>Hy zal het niet laten blyve?</l>
+<l>Het is voor hem een groote eer,</l>
+<l>Voor Koning, Prins of Vorst of Heer.</l>
+<l rend="; 1tab">Den Havik al met zyn snelle schigt,</l>
+<l>Den valk al met zyn scherp gesigt,</l>
+<l>Gaet hy hem daer voor mieden,</l>
+<l>Zy gaen het tog verspieden,</l>
+<l>Zy vangen hem met een stout bedryf!</l>
+<l>Met bekken en klaeuwe al in zyn Lyf.</l>
+<l rend="; 1tab">Den eenen klau in 't lyf den anderen in 't Zand,</l>
+<l>Zo staet hy genagelt aen alle kant,</l>
+<l>Met klagen ende kermen,</l>
+<l>Dan schreeuwt hy og ermen,</l>
+<pb n="15"/>
+<l>Wraek, ik ben een onnosel dier,</l>
+<l>Ter wereld envind ik tog geen plysier.</l>
+<l rend="; 1tab">Hy pryst de Iagers van de jagt,</l>
+<l>Die komen by dagen maer niet by nagt,</l>
+<l>Gelyk veel goede lieden,</l>
+<l>Die hem zo verspieden,</l>
+<l>Met gaern, strikke en nette groot,</l>
+<l>Onnosel brengen zy my ter dood.</l>
+<l rend="; 1tab">Ik arreme Haesje ik schep weer moet,</l>
+<l>Om dat ik word gegeten van het edele bloet,</l>
+<l>Met hare bankette,</l>
+<l>Zy myn op zette,</l>
+<l>En drinken eens een glaesje wyn,</l>
+<l>Wat kan 'er dan nobelder diertje zyn.</l>
+<l rend="; 1tab">Hy is een diertje dat zo wel smaekt,</l>
+<l>Tot Menschen behoeven is hy gemaekt,</l>
+<l>In de pastyen,</l>
+<l>Sy hem doen bereijen,</l>
+<l>Of een zoucie van zoo menigerley,</l>
+<l>Sulker of andere specery.</l>
+<l rend="; 1tab">Nog menige Madam of edele Iuffrouw,</l>
+<l>Die drage myn velletje ook voor de kou,</l>
+<l>Om handen en om arme,</l>
+<l>Om alles te verwarme,</l>
+<l>Wat draegt ter menige moije hoet,</l>
+<l>Al van der myn haertje zagt en goed.</l>
+<l rend="; 1tab">Oorlof gy Iagers van het groene wout,</l>
+<l>Wel als gy hebt gegeten van myn hase bout,</l>
+<l>Sa lustig wilt eens drinke,</l>
+<l>En wilt dan om hem denke,</l>
+<l>Ter eeren van dat Haesje jent,</l>
+<l>Hier hoor je nou zyn Testament.</l>
+<l rend="; 1tab">Hy pleeg te lopen in 't groene veld,</l>
+<l>Zyn hertje dat was altyd ontsteld,</l>
+<pb n="16"/>
+<l>Daer stond hy te klage,</l>
+<l>Al in de groene hagen,</l>
+<l>En dat al by een watervliet,</l>
+<l>En hier besluit hy zyn verdriet.</l>
+<l rend="; 1tab">ô Sentum, zentum,</l>
+<l>Akker elementum,</l>
+<l>Keertum en wentum,</l>
+<l>Akketentum,</l>
+<l>En brentum,</l>
+<l>Dat ik van middag vrentem.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0004"/> </interpGrp>
+<head rend="h3"><hi rend="i">Liedeken van de Soldaten van het Regiment, van de Overleden Heer Generaal Prins van Holstynbeek, nu geheeten Generaal Mojor Swanke.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op de Wys: Alzoo.</hi></head>
+<lg type="poem"><l>Meisjes van vlissingen weest verblyd,</l>
+<l>Wy krygen haest een ander tyd,</l>
+<l>De Prince-kinders trekken nu haest van kant,</l>
+<l>Nu slepen wy een ander liefste op ons hand.</l>
+<l rend="; 1tab">Trommel ende fluyt za slaet maer toe,</l>
+<l>En brengt de Prince-kinders na Zirkzee toe,</l>
+<l>Naer Zirkzee in het Garnizoen,</l>
+<l>Daer vinden wy mooy Meisjes naer het nieu[w] fatzoen.</l>
+<l rend="; 1tab">Als het dan immers wesen moet,</l>
+<l>Dat ik moet scheyden van myn liefste zoet,</l>
+<l>Geeftze dan een zoentje voor haren Mond,</l>
+<l>Daer mede maekt gy haer jonkhert gezond.</l>
+<l rend="; 1tab">Pen ende Inkt is goede hoop,</l>
+<l>Schryft dan een briefken wel alzoo groot,</l>
+<pb n="17"/>
+<l>Schriftse dan een Briefke al uit u hert;</l>
+<l>Het zal 'er doen verdwynen al haer pyn en smert.</l>
+<l rend="; 1tab">Komt Prinse kinders en gy moet gaen,</l>
+<l>Want al u vryagie is nu gedaen,</l>
+<l>Een braef Zoldaet en heeft maer een Lief,</l>
+<l>Maer al waer hy komt daer vind hy zyn gerief.</l>
+<l rend="; 1tab">Kom 'er dan een kindje klein,</l>
+<l>De Prinse kinders zullen den Uaders wel zyn,</l>
+<l>De Prinse kinders trekken Zirkzee uit,</l>
+<l>De Meisjes blyven zitten met den besten buyt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0005"/> </interpGrp>
+<head rend="h3"><hi rend="i">Vryagie tusschen een Heer en een Herderin.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Gardamens Montons.</hi></head>
+    <lg type="poem"><l>Wel wat maekt gy hier ô myn schoon bruynette &amp;</l>
+<l>Buyten in het Ueld met uwe Schaepjes al,</l>
+<l>Daer gy na de Wey gaet u voeten zetten,</l>
+<l>Ik bid u laet my wesen in dat groene Dal,</l>
+<l>Wild op mynen dienst en myn trouwheld letten,</l>
+<l>Want ik u voor eenen Herder dien zal.</l>
+<l rend="; 1tab">Neen myn Heer geen Herder kan myn behagen,</l>
+<l>Ik kan wel bewaren myn Schaepjes hier,</l>
+<l>Ik heb myn vermaek in dees groene Hagen,</l>
+<l>Buyten in het Ueld neem ik myn pleysier,</l>
+<l>Daer ik ga alleen treeden alle dagen,</l>
+<l>Met myn lieve Uee by een klaer Rivier.</l>
+<l rend="; 1tab">Kom dog naer het Hof ô myn schoon Beminde,</l>
+<l>Laet het groene Ueld ende Lommers staen,</l>
+<l>Daer ik u eer als een Beminde,</l>
+<l>En gy zult gekleed in 't Zyde gaen:</l>
+<l>Want gy schoon Bruynet waerdig zyt te minnen,</l>
+<l>Ik bid u Lief, neemt myn voor u Dienaer aen.</l>
+<pb n="18"/>
+<l>Meent gy dat ik agt al u Zijde Kleeren,</l>
+<l>Parels en Gesteente al u Pronkery,</l>
+<l>Al ben ik een Meisje jonk en teere,</l>
+<l>Ik weet wel waer toe diend dat gevry:</l>
+<l>'t Is maer om de Bloem van myn maegdoms eere</l>
+<l>En te brengen my in slaverny.</l>
+<l rend="; 1tab">	Schoonste Lief de Hemel zou 't nooit gedogen,</l>
+<l>Dat ik zou verloochenen aen u myn Trouw,</l>
+<l>Eerder zou de Vloed van de Zee verdroogen,</l>
+<l>Eer ik zoeten Engel u verlaten zou:</l>
+<l>Ach myn tweede Ziel, staet na my u oogen,</l>
+<l>Want ik u verkies voor myn Echte Vrouw.</l>
+<l rend="; 1tab">	Myn Heer in het Hof kan ik my niet vermaken,</l>
+<l>Ik leef hier gerust in myn eensaemheid:</l>
+<l>Liever wil ik buyten met myn Schaepjes waken,</l>
+<l>Dan van uwe liefde te zyn verleid:</l>
+<l>Ik zeg u dan adieu, wilt my niet meer naken,</l>
+<l>'t Is verloren moeyte, u van my dog scheid.</l>
+<l rend="; 1tab">	Wel myn schoon Princes mag ik u niet minnen,</l>
+<l>Wilt gy niet eens horen na myn klagt?</l>
+<l>Zoo moet ik van droefheid missen myn zinnen,</l>
+<l>Want myn Ziel alleenig na u liefde tragt,</l>
+<l>Ach hoe pynt gy my schoone Herderinne;</l>
+<l>Zoo gy myne trouwheid en myn min veragt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0006"/> </interpGrp>
+<head rend="h3"><hi rend="i">Op het Verongelukken van het Schip Pylswaard voor de Kamer Enkhuysen Uitgevaren, naby Batavia door de Blixem in de Brand geslagen, en alsoo door zyn eygen Kruid verteert.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Daer was een Magetje vol benouwen.</hi></head>
+<lg type="poem"><l><hi rend="i">V</hi>erwonderlyk zyn 's Heeren werken!</l>
+<l>Die hy doet zien op Zee of Land:</l>
+<pb n="19"/>
+<l>Uoor ieder wyze op te merken,</l>
+<l>Als groote kragten van zyn hand:</l>
+<l>Men stevent af met groot verblyden,</l>
+<l>Naer Iavaes vaderlandsche kust,</l>
+<l>En raekt door onluk in veel lyden,</l>
+<l>Dat menig Weeuw en Wees ontrust.</l>
+<l rend="; 1tab">Ik heb het uit de Crand vernomen,</l>
+<l>Den zestiende van dese Maent;</l>
+<l>Het is my droevig voorgekomen!</l>
+<l>Aen myn verstand waer om men traent,</l>
+<l>En houd zyn ogen na den Hemel,</l>
+<l>Met veele neergeslagentheid:</l>
+<l>Gods wond'ren zyn veel op 't gewemel,</l>
+<l>Die hy uitwerkt op wyz' en tyd.</l>
+<l rend="; 1tab">Een Blixem vlam die veel kan knelle,</l>
+<l>Deed Pylswaert vliegen in de brand,</l>
+<l>Ueel honderd zielen en geselle;</l>
+<l>Zyn door die droeve vlam van kant,</l>
+<l>Het kruyd daer elk zig voor moet wagte:</l>
+<l>Bragt Schipper Eggers in den nood,</l>
+<l>Zyn Stuurman trof de blixem kragte,</l>
+<l>En zy zyn alle beide dood.</l>
+<l rend="; 1tab">Uan honderd drie-en-tagtig zielen;</l>
+<l>Zyn door de vlam helaes verteert!</l>
+<l>Het groot Gevaer met Mast en Kielen;</l>
+<l>Zyn al in gruys en asch verkeerd,</l>
+<l>Den Ingeneur is nog in 't leven,</l>
+<l>Onderstuurman en Assistent,</l>
+<l>Schieman en Schiemans-maet daer neven,</l>
+<l>Het leven hielden vol elend.</l>
+<l rend="; 1tab">Aenmerklyk is Gods werk verheven,</l>
+<l>Wyl de Ingeneur nog is geret!</l>
+<l>En op een Tafel voortgdreven,</l>
+<l>En aen het vaste Land geset,</l>
+<l>'k hoop hy den Hemel daer voor danke,</l>
+<pb n="20"/>
+<l>Die hem genadig heeft behoed,</l>
+<l>Dat hy geret door Hout en Planken,</l>
+<l>Altoos des Heeren wille doet.</l>
+<l rend="; 1tab">Constapel, Quartiermeester beide,</l>
+<l>Twee Botteliers, een Boteliers maet:</l>
+<l>En Bootsmans-maet zyn buiten lyden,</l>
+<l>Gebleven in gesonden staet;</l>
+<l>En tweemael zeventien en even</l>
+<l>Matrozen buiten dit geval,</l>
+<l>En een Soldaet zyn nog in 't leven</l>
+<l>Bewaerd, en legt aen Iavaes Wal.</l>
+<l rend="; 1tab">De schade die de Maetschappyen,</l>
+<l>Daer door geleden heeft is groot,</l>
+<l>Maer Weeuw en Wesen zijn in 't lyen,</l>
+<l>En van haer onderstand ontbloot!</l>
+<l>Wie weet hoe dat het zit te klagen,</l>
+<l>En vol van kommer en verdriet!</l>
+<l>Gedugt is 's Heeren wel behagen,</l>
+<l>Als ieder op zyn Werken ziet.</l>
+<l rend="; 1tab">Uit zulke droeve ongevallen,</l>
+<l>Soo moest den Zeeman leren gaen:</l>
+<l>Dat Godt vertoornt op ons allen,</l>
+<l>Ons kan met Brand of Blixem slaen,</l>
+<l>Het Schip Pylswaerd dat doet ons denken,</l>
+<l>Aen Gods gevreesde Oppermagt;</l>
+<l>Die haestig kan ons leven zwenken,</l>
+<l>En 't onderbrengen door zyn magt.</l>
+<l rend="; 1tab">Obdam een Admirael voor desen,</l>
+<l>In 't weren van des Uyands magt,</l>
+<l>Had ook 't ongeluk zoo wy lesen:</l>
+<l>Dat hy door 't kruid wierd omgebragt,</l>
+<l>Zyn Schip is in de Lugt gesprongen,</l>
+<l>Het Kruid dat is een groote plaeg,</l>
+<l>Dien Held verging met oud en jongen;</l>
+<l>En rust met een in 's Gravenhaeg.</l>
+<pb n="21"/>
+<l rend="; 1tab">Heeft God niet menschen in zyn hande,</l>
+<l>De Blixem, Donder en onweer!</l>
+<l>Wanneer hy wil kan 't al verbranden,</l>
+<l>Niemand weerstaet den Opperheer:</l>
+<l>Hy speeld op Aerd de Straf toneelen,</l>
+<l>En kan het smelten in een gloed,</l>
+<l>En doen vergaen vier Wereld-delen,</l>
+<l>Om 's Menschen bosen euvelmoet.</l>
+<l rend="; 1tab">Leerd menschen die de Zee bebouwen,</l>
+<l>Dat Godt de Stuurman is en 't Roer,</l>
+<l>Hy kan in druk u zaem behouwen!</l>
+<l>En als u nood eens wedervoer:</l>
+<l>Soo denkt aen zyn Almogendheden!</l>
+<l>Hebt zyn Alwetenheid in 't oog,</l>
+<l>En als u nood eens wedervoer:</l>
+<l>Regeert op 't Aerdsche rond beneden,</l>
+<l>Soo wel als aen den Hemel-boog.</l>
+<l rend="; 1tab">Al die de groote Zee bevaren,</l>
+<l>En Kielen stieren van Neyphtuyn,</l>
+<l>Wil hy zaem doen behouden varen;</l>
+<l>En sterken hunne Levens-kruyn,</l>
+<l>Op dat zy na lang zwerven komen,</l>
+<l>En wond'ren gezien op Zee;</l>
+<l>Eens Ankeren na Wind en Stromen,</l>
+<l>In 't Uaderland op goede ree.</l>
+<l rend="; 1tab">Zoo hoog als mind're Officieren,</l>
+<l>Die op de houte kielen vaert,</l>
+<l>Elk tragt zyn Ampten zoo te stieren,</l>
+<l>Dat hy kloekmoedig en bedaerd;</l>
+<l>Het Scheeps-werk mag met lust verrigten,</l>
+<l>En houden Godt gestaeg in 'toog,</l>
+<l>Beware u voor Blixem schigten,</l>
+<l>En geve u 't goede van om hoog.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0007"/> </interpGrp>
+<pb n="22"/>
+<head rend="h3"><hi rend="i">Naam. Lied van zyn Doorlugti[ge] Hoogheid Willem van Vyfde.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: ô Holland schoon gy leeft in Vreê.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>ie eert onze Prins Willem niet,</l>
+<l>In majesteid verscheenen:</l>
+<l>Die door des Hemels hooggebiedt,</l>
+<l>Tot welk ons is gegeven:</l>
+<l>Een Helt van 't lieve Uaderland,</l>
+<l>Den Hemel dek hem door zyn hand;</l>
+<l>En wil hem onder schraegen;</l>
+<l>In lange Levens daegen.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">I</hi>n Godt zoo zien wy hem vereerd,</l>
+<l>Naer tweemael Negen Iaeren:</l>
+<l>Uan ons gewenst, verlangt, begeerd,</l>
+<l>Lang moet dien Prins welvaeren,</l>
+<l>In hem leeft het Oranje-Bloed,</l>
+<l>Dat onse Landen deed veel goed,</l>
+<l>Men moet het altoos prysen:</l>
+<l>En Nassouw eer bewysen.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">L</hi>eef roept een yder Patriot,</l>
+<l>Den lande tot een Segen,</l>
+<l>Een zegen was 't van onzen God:</l>
+<l>Dat men U heeft verkregen,</l>
+<l>En zien geklommen tot den trap,</l>
+<l>Uan 't Erflyk Stadt-houderschap,</l>
+<l>Lang moet zyn glorie duuren,</l>
+<l>Soo Iaeren Dag en Uuren.</l>
+<pb n="23"/>
+<l><hi rend="i">L</hi>ang zag men die plaets open staen,</l>
+<l>Met Willem overlyden,</l>
+<l>Maer naer een wys en wel beraen,</l>
+<l>En wisseling van tyden,</l>
+<l>De Hemel die het alles schikt,</l>
+<l>Die heeft na druk het Land verkwikt,</l>
+<l>En ons die Zon gegeven,</l>
+<l>Waer by men wenscht te leven.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">Ee</hi>r hebbe het Oranje Huys,</l>
+<l>En hare Heldedaden,</l>
+<l>In alles even trouw en kuys,</l>
+<l>Ter weering van veel quaede,</l>
+<l>Een Eerste Willem vol van moet,</l>
+<l>Die waegde Leven, Goed en Bloed,</l>
+<l>En sterkte zig met banden:</l>
+<l>Tegen duc dalf zyn handen.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">M</hi>et meerdre van dagen tyd,</l>
+<l>Zoo zag men Maurits Bloeyen,</l>
+<l>Die door zyn onvermoeide vlyt,</l>
+<l>Het Land hielp uit zyn Boeyen,</l>
+<l>En met zyn trouw en Helden aerd,</l>
+<l>Ueel duysent wond'ren heeft gebaert,</l>
+<l>Gewapent met Gods kragten,</l>
+<l>By dagen en by nagten.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">D</hi>e hooge Godt heeft hem bewaerd,</l>
+<l>In Uree en Oorlogs dagen!</l>
+<l>Uoor hagel kruyd en bom gespaert:</l>
+<l>En Eyndelyk neer geslagen;</l>
+<l>Het was de wille van den Heer,</l>
+<l>Dat Maurits stierf op 't Bed van Eer:</l>
+<l>Beroemd in Legertogten,</l>
+<l>En oud en afgevogten.</l>
+<pb n="24"/>
+<l>Een Frederik in zyn plaets verscheen,</l>
+<l>Een Man zeer groot in Daden:</l>
+<l>Die op den Uyand veel tropheen,</l>
+<l>Ueld won en Louwerbladen,</l>
+<l>Behaelden door zyn Heldenmoed,</l>
+<l>Willem de Tweede had ook moed,</l>
+<l>Dog is het Land ontvaren,</l>
+<l>In zyne jonge Iaren.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">V</hi>an zyne Telg zoo leest men veel,</l>
+<l>In Boeken en Kronyken,</l>
+<l>Door zyn magt was hy geheel:</l>
+<l>Besitter van vier Ryken,</l>
+<l>Met Maria zyn Huis-Urindin,</l>
+<l>Uereenigt, lief en eens van zin,</l>
+<l>Zyn zy naer hare Iaren,</l>
+<l>Ten Hemel in gevaren.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">Y</hi>der die 't in Geheugen is,</l>
+<l>Uergeet niet Groote Uader,</l>
+<l>Uan onse lieve Prins gewis:</l>
+<l>Gewis was Hy een dader!</l>
+<l>Een vegter voor het vaderland!</l>
+<l>Dog onversiens door 's Hemels hand,</l>
+<l>Kwam hy by Moerdyk sneven,</l>
+<l>En liet tot scha zyn leven.</l>
+<l>&nbsp;</l>
+<l><hi rend="i">Fr</hi>is vaerdig en in levens kragt:</l>
+<l>Zag men Friso regeeren,</l>
+<l>Bescheiden oordeel ryk en zagt,</l>
+<l>Was hy het Land ter eere:</l>
+<l>Dog na Regeering van vier Iaer:</l>
+<l>Zoo heeft Hem Godt zeer wonderbaer:</l>
+<l>Uit deese aerdsche dalen,</l>
+<l>Geset in 't Hemels Zalen.</l>
+<pb n="25"/>
+<l><hi rend="i">De</hi> vyfde Willem leven lang,</l>
+<l>Tot Heil van Stad en Staten,</l>
+<l>De Godheid stier zyn pad en gang,</l>
+<l>Tot vreugt der ondersaten:</l>
+<l>Bekroon zyn voogt met heil en Eer,</l>
+<l>En wil myn Prins en hem al meer:</l>
+<l>Met Geest en Zegen kronen,</l>
+<l>En met Gods volk belonen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0008"/> </interpGrp>
+<head rend="h3"><hi rend="i">Op het Inhaalen van zyn Doorlugtige Hoogheyd Willem de Vyfde, Prince van Oranje en Nassouw, binnen de Vermaarde Koopstad Dordregt 1766.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Hoe zoet is 't daer de Vriendschap woond.</hi></head>
+<lg type="poem"><l>1.</l>
+<l><hi rend="i">M</hi>en Kroon alom de Burgery:</l>
+<l>Uan Hollands Oudste Stad,</l>
+<l>Wat waren zy niet alle Bly,</l>
+<l>Om dat d' Oranje-Schat:</l>
+<l>Ontfangen wierd in hare Schoot,</l>
+<l>Men Wellekomde Kleyn en Groot?</l>
+<l>Den Prins, den Prins, den Prins.</l>
+<l>&nbsp;</l>
+<l>2.</l>
+<l>Behalven dat de Burgerry:</l>
+<l>In order was Geschaert,</l>
+<l>Met blanke Degens op de zy:</l>
+<l>En Pieken zaem Gepaert,</l>
+<l>En Fraeije Linten op den Hoed?</l>
+<l>Zoo riep een yder een vol moet?</l>
+<l>Uiva, Uiva, Uiva.</l>
+<pb n="26"/>
+<l>3.</l>
+<l>Zoo zag men in het Algemeen:</l>
+<l>De Stad alom Uerligt,</l>
+<l>Met Eereboogen Groot en Kleen:</l>
+<l>Op Dordsche Grond Gestigt,</l>
+<l>De Uiesen waren zonder Tal?</l>
+<l>Uoor Glas en Deuren overal?</l>
+<l>Uiva, Uiva, Uiva.</l>
+<l>&nbsp;</l>
+<l>4.</l>
+<l>Den Oud-raed die was uitgedoft,</l>
+<l>In Cierlyk Prael-Gewaed?</l>
+<l>'t Kanon wierd van d' Wal gelost,</l>
+<l>De Ureugd was boven maet?</l>
+<l>Men haelden met een Blyden Zin,</l>
+<l>Willem de Uyfde treffelyk in,</l>
+<l>Met Ureugt, met Ureugt, met Ureugt.</l>
+<l>&nbsp;</l>
+<l>5.</l>
+<l>Wat maekten niet het Klok-Gebrom?</l>
+<l>Een Urolyk Feest Geluyd,</l>
+<l>Men sloeg Uerheugt op Bas en Trom?</l>
+<l>'t Gedreun dat vloog voor uit,</l>
+<l>Tot aen den ruimen Hemel-Boog,</l>
+<l>De Blydschap straelde uit Oor en Oog:</l>
+<l>En Mond, en Hert, en Hert.</l>
+<l>&nbsp;</l>
+<l>6.</l>
+<l>Bareuth die wakk're Predikant?</l>
+<l>In veel Geleerdheid schrap,</l>
+<l>Had al voorheen als Afgezant?</l>
+<l>Het Erf-Stad-Houderschap,</l>
+<l>Beschreven met zyn Fenix veer,</l>
+<l>Zyn Preek op zyn Uerheffing weer,</l>
+<l>Heeft Lof, heeft Lof, heeft Lof.</l>
+<l>&nbsp;</l>
+<l>7.</l>
+<l>Wie weet hoe hy hem heeft gegroet?</l>
+<l>Met zyn Collegaes zaem,</l>
+    <pb n="27"/>
+<l>En Waels en Engles hem ontmoet,</l>
+<l>Al Leeraers groot in Naem,</l>
+<l>De Kerkenraed hem Bly ontving,</l>
+<l>Erkenden deese Zegening,</l>
+<l>En Eer, en Eer, en Eer.</l>
+<l>&nbsp;</l>
+<l>8.</l>
+<l>Uan Balen die deez' Stad Beschreef:</l>
+<l>Herleeft door deesen tyd,</l>
+<l>En wat Oranje al bedreef,</l>
+<l>Welks Glorie Naem nooit flyt,</l>
+<l>Kwam Beverwyk eens voor den Dag,</l>
+<l>En dat hy deez' Ureugden zag?</l>
+<l>Gaf stof, Gaf stof, Gaf stof.</l>
+<l>&nbsp;</l>
+<l>9.</l>
+<l>Tot zyne wel Besneden Pen,</l>
+<l>Nog nuttig voor den Mensch,</l>
+<l>Zyn Werken yden Loflyk ken,</l>
+<l>'t Heeft algemeene Wensch,</l>
+<l>Hy schreef gewis van deeze Ureugt,</l>
+<l>Dat al de Dortenaers verheugt,</l>
+<l>Deez' tyd, deez' tyd, deez' tyd.</l>
+<l>&nbsp;</l>
+<l>10.</l>
+<l>Elk die het Las met veel Uerstand,</l>
+<l>En Oordeel opgeklaerd,</l>
+<l>Uit eene net Gedrukte Crand,</l>
+<l>Uerheft haer roem van d' Aerd,</l>
+<l>Tot aen het ruyme Sterredak,</l>
+<l>Zy wenschen dat het altoos vlak,</l>
+<l>Uoor Hem, Uoor Hem, Uoor Hem.</l>
+<l>11.</l>
+<l>Uerblyd met allen Roem en Eer</l>
+<l>Leef roepen, Zy Nassouw:</l>
+<l>Den Lande wys en wel Regeer,</l>
+<l>God geef u haest een Urouw:</l>
+<pb n="28"/>
+<l>Die met u Zy, Gezind en wel;</l>
+<l>Tot heil van Neerlands Israël,</l>
+<l>Altoos, Altoos, Altoos.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0009"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Aardig Klugtig Lied van een Manhaftig Vrouwsperzoon, die de Staaten van Holland vyf Jaaren en 6 Maanden heeft gediend.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Wat doet my ontstellen.</hi></head>
+<lg type="poem"><l><hi rend="i">N</hi>u Urienden hoord zingen,</l>
+<l>Een Lied Capitael,</l>
+<l>Het zyn vreemde dingen,</l>
+<l>Geschied in Breda,</l>
+<l>Een Dogter by mate</l>
+<l>Uol eer als een Held,</l>
+<l>Die trok voor de Staten,</l>
+<l>Kloekmoedig te veld,</l>
+<l>Ik zal 't u verklaren,</l>
+<l>Zy heeft met Plaszier</l>
+<l>Gediend daer zes Iaren,</l>
+<l>Als kloek Granadier.</l>
+<l rend="; 1tab">Zy heeft eerst in Breda,</l>
+<l>Gediend als een meyd:</l>
+<l>Nam van haer Iuffrouw dra,</l>
+<l>Met vreeden af scheid,</l>
+<l>Zy kogt voor haer huur geld,</l>
+<l>Een schoon mans habyt,</l>
+<l>Trok zoo na Deventer:</l>
+<l>Al in korten tyd,</l>
+<l>Waer zy informeerden,</l>
+<pb n="29"/>
+<l>Na een Capiteyn,</l>
+<l>En haer engageerden</l>
+<l>Om Zoldaet te zyn.</l>
+<l rend="; 1tab">Zy quam als een Parel,</l>
+<l>Uoor den Capetey</l>
+<l>Noopt schoonder een Karel,</l>
+<l>Dogt hem daer te zyn:</l>
+<l>Hy zeyde wel Borstje</l>
+<l>Wat wilt gy op de hand,</l>
+<l>Den quant zonder worstje,</l>
+<l>Die zyt heel galant;</l>
+<l>Uoor twintig Rykdaelders</l>
+<l>Ben ik u Zoldaet,</l>
+<l>Capiteyn Rehaelders</l>
+<l>De Koop haest toeslaet.</l>
+<l rend="; 1tab">Zy pronkten firabel,</l>
+<l>Met haer nieuw montuur,</l>
+<l>Den zwier van den zabel,</l>
+<l>Sloeg front en postuur,</l>
+<l>Op een hoed een Cocarde,</l>
+<l>En 't hayr gefrizeert</l>
+<l>Met zwarte moestuchen,</l>
+<l>Haer niet en mankeerd:</l>
+<l>Zy deed de exercitie,</l>
+<l>Pront met Pleysier</l>
+<l>Als een Heer offizier:</l>
+<l>Of een Granadier.</l>
+<l rend="; 1tab">	In 't Ueld en Pataille,</l>
+<l>In den Franschen tyd</l>
+<l>Was zy voor een talle</l>
+<l>In 't minst niet vermeid,</l>
+<l>Men heeft haer zien lopen</l>
+<l>Twee reysen aenstonds,</l>
+<l>Eens door de spitsgarde;</l>
+<pb n="30"/>
+<l>Eens door de Cardons,</l>
+<l>Hoe menig zoldaet</l>
+<l>Brutael en de kloek,</l>
+<l>Was hy voor dees daed</l>
+<l>Hy scheet in zyn broek.</l>
+<l rend="; 1tab">In de Krygs-fatiquen,</l>
+<l>Dien de Collonel,</l>
+<l>Als de domestiquen</l>
+<l>Geheel huys en snel,</l>
+<l>Zo dat zy changeerde</l>
+<l>Met het Regiment,</l>
+<l>Na Breda in vreede,</l>
+<l>Dat zy wierd bekend,</l>
+<l>Daer ging zy uit vryen</l>
+<l>By een hapze meyd,</l>
+<l>Om den klap te meyden,</l>
+<l>Die daer wierd geseyt.</l>
+<l rend="; 1tab">Zy trouwden het Meisje,</l>
+<l>Al in korten tyd</l>
+<l>En heeft haer een reisje</l>
+<l>De zaek uitgeleid:</l>
+<l>Ik ben als u Lieden</l>
+<l>Ook een Urouwsperzoon,</l>
+<l>Ik stel myn gebieden</l>
+<l>Tot straf of tot loon:</l>
+<l>Ik ben eenen stuurman,</l>
+<l>Die vaert zonder mast,</l>
+<l>Wy halen daer eer van</l>
+<l>Maer wel opgepast.</l>
+<l rend="; 1tab">De Bruid viel aen 't wenen;</l>
+<l>En riep wreede Maegt,</l>
+<l>Hier moet aen de stenen</l>
+<l>Den nood zyn geklaegt,</l>
+<l>Uw schand ach verborgen</l>
+<pb n="31"/>
+<l>Die brengt my in schand;</l>
+<l>Ach Lief wilt niet zorgen,</l>
+<l>Blyft my maer Constant!</l>
+<l>Ik moet het ook derven;</l>
+<l>Daer gy zoo na tragt,</l>
+<l>De Liefde moet zwerven</l>
+<l>Daer Cupido wagt.</l>
+<l rend="; 1tab">Zy liet haer berade,</l>
+<l>En leefde getrouw,</l>
+<l>Maer wierden verraden</l>
+<l>Al door de Iuffrouw,</l>
+<l>Waer by zy te vooren,</l>
+<l>Als Meyd had gedient,</l>
+<l>Die dit quam te hooren,</l>
+<l>En brouden een vind,</l>
+<l>Zy heeft ras ontboden</l>
+<l>Den Heer Capiteyn:</l>
+<l>Den Collonel doen noden,</l>
+<l>Om vrolyk te zyn.</l>
+<l rend="; 1tab">Den Creyn is gekomen,</l>
+<l>Uan alle de Officiers:</l>
+<l>Iuffrouw die ging roemen</l>
+<l>Op de Musquettiers,</l>
+<l>Den Collonel roemden,</l>
+<l>Uan mooy en precies,</l>
+<l>Dat hy niemand schroomen,</l>
+<l>Uan schoone Granadiers;</l>
+<l>Myn Heer dat is wonder,</l>
+<l>Ik zweer by de Kroon:</l>
+<l>Ik zeg daer is onder</l>
+<l>Een schoon Urouwspersoon.</l>
+<l rend="; 1tab">Men heeft haer doen komen,</l>
+<l>Uoor dien Collonel;</l>
+<l>De zaek ondernomen;</l>
+<pb n="32"/>
+<l>Aenhoord eens dit spel,</l>
+<l>Wel Carel wat wonder,</l>
+<l>Wat is my gezeid:</l>
+<l>Als dat gy van onder</l>
+<l>Fel gebroken zyt;</l>
+<l>Myn Heer 't is een Fabel,</l>
+<l>Die my zo blameert,</l>
+<l>Dat hy trekt den Zabel</l>
+<l>En zig defendeert.</l>
+<l rend="; 1tab">Za wilt protesteeren</l>
+<l>Met den medicyn,</l>
+<l>Ik doe u visiteeren,</l>
+<l>Door den Chirurgyn,</l>
+<l>Gy zyt hier bekend;</l>
+<l>Uoor een Urouwspersoon,</l>
+<l>Uoor 't gansch Regiment!</l>
+<l>Krygt gy uwen Loon,</l>
+<l>Gy brengt door den Trouwe</l>
+<l>Een dogter in schand,</l>
+<l>Wat zeid dan uw vrouwe,</l>
+<l>Uan zoo eenen Quand,</l>
+<l rend="; 1tab">Ach wy zyn verraden,</l>
+<l>ô Nyd wreed en Fel!</l>
+<l>Ik smeek om genade,</l>
+<l>U goeden Collonel,</l>
+<l>Zo ras wilt hun zetten,</l>
+<l>Beiden in Cachot,</l>
+<l>En straf doen opletten?</l>
+<l>Uolbreng myn Gebod:</l>
+<l>Den Prins van Oranjen,</l>
+<l>Die gaf haer Pardon:</l>
+<l>Uoor haer vroom Companje,</l>
+<l>Kwam zy uit Prison.</l>
+<l rend="; 1tab">Sa dogters en vrouwen,</l>
+<pb n="33"/>
+<l>Dit dient tot u Eer,</l>
+<l>Wilt dit wel onthouden,</l>
+<l>Uan dees Dogter teer,</l>
+<l>Manhaftig in reden,</l>
+<l>Kloekmoedig in bloed,</l>
+<l>En eerbaer in zeden,</l>
+<l>Standvastig in moed,</l>
+<l>Ueel Iongmans die grysen,</l>
+<l>Als zy zyn Zoldaet,</l>
+<l>Wilt de meisjes prysen,</l>
+<l>Om haer kloeke daet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0010"/> </interpGrp>
+<head rend="h3"><hi rend="i">Lof van de Jenever.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: van Liereboela.</hi></head>
+<lg type="poem"><l><hi rend="i">F</hi>oeselbroeders allegaer,</l>
+<l>Za komt hier eens by malkaer,</l>
+<l>Wilt met my de deugd volprysen,</l>
+<l>Des Ienevers hoog geagt,</l>
+<l>Die voor Zotten en voor Wysen,</l>
+<l>Is van wonderlyke kragt.</l>
+<l rend="; 1tab">'t Is een deftig Medicyn,</l>
+<l>Heeft 'er ymand groote pyn,</l>
+<l>Straks moet 'er Ienever wesen,</l>
+<l>Die terstont de smert versagt;</l>
+<l>Daerom word zy zeer gepresen,</l>
+<l>En by veele hoog geagt.</l>
+<l rend="; 1tab">Altyd is Ienever goed,</l>
+<l>Want is 'er een drooge bloed;</l>
+<l>Die byna geen woord kan spreeken,</l>
+<l>Geeft hem maer een hallef oort;</l>
+<l>Dan blyft hy niet in gebreeken,</l>
+<l>Maer voerd straks het hoogste woord.</l>
+<pb n="34"/>
+<l rend="; 1tab">Des Ienevers groote kragt,</l>
+<l>Behoord niet te zyn veragt,</l>
+<l>Want zy doed de bloedaers vegten,</l>
+<l>Daer anders geen hert in is,</l>
+<l>Maekt zy dappere Krygsknegten,</l>
+<l>Dat 's voorseker en gewis.</l>
+<l rend="; 1tab">z' Is ook goed voor een Ionkman,</l>
+<l>Die zyn woord niet doen en kan,</l>
+<l>En geen Meisje aen durft spreeken,</l>
+<l>Als hy wel gedronken heeft;</l>
+<l>Dan zal hy het niet laten steken,</l>
+<l>Maer wel toonen dat hy leeft.</l>
+<l rend="; 1tab">Zoo daer eenig Ambagtsman,</l>
+<l>Niet met zyn werk voort en kan:</l>
+<l>'t Zy een Snyder of een Wever,</l>
+<l>Dan zoo zyn zy drommels quaed:</l>
+<l>Geeft haer maer een Fles Ienever</l>
+<l>Dat is de alderbeste raed.</l>
+<l rend="; 1tab">Als men op de reyse gaet,</l>
+<l>Of des morgens vroeg op staet,</l>
+<l>Wis moet 'er Ienever wesen:</l>
+<l>Uoor een quade Lugt of damp,</l>
+<l>Dan behoeft men niet te vresen,</l>
+<l>Uoor een ongemak of ramp.</l>
+<l rend="; 1tab">By aldien dat onse Maeg</l>
+<l>Is tot Eeten niet heel graeg,</l>
+<l>Dese weg is lang gewesen,</l>
+<l>Dat Ienever honger maekt,</l>
+<l>Daerom word zy hoog gepreesen,</l>
+<l>Zy maekt dat de spys wel smaekt.</l>
+<l rend="; 1tab">Zoo je u Maeg hebt overlaen,</l>
+<l>Door veel spysen, ja wel aen,</l>
+<l>Maer een Glaesje vol geschonken,</l>
+<l>Met Ienever, dat terstond,</l>
+<l>Tot den grond toe uitgedronken,</l>
+<pb n="35"/>
+<l>'t Sal u maken weer gesond.</l>
+<l rend="; 1tab">Is des Urouwtje Hoofd ontsteld,</l>
+<l>Of dat haer het Moetspel queld,</l>
+<l>Soo moet 'er Ienever wesen:</l>
+<l>Ia al hebben zy buykpyn,</l>
+<l>Sy zullen terstond genesen,</l>
+<l>Door dit deftig Medicyn.</l>
+<l rend="; 1tab">Pryst dan deez' Ienevers kragt,</l>
+<l>Soo by dage als by nagt,</l>
+<l>En wild ze geduerig drinken:</l>
+<l>'s Morgens vroeg en 's Avonds laet,</l>
+<l>'t Ulees zal in u Kuyp niet stinken,</l>
+<l>Soo gy maer volgt desen raed.</l>
+<l rend="; 1tab">Speeld op Bas, Fiool en Fluyt,</l>
+<l>En roept zamen vrolyk uit,</l>
+<l>Hy za, viva, Ienever;</l>
+<l>Daer is geen beter drank op Aerd,</l>
+<l>Sy is voor een drooge Lever,</l>
+<l>Meer als Goud en zilver waerd.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0011"/> </interpGrp>
+<head rend="h3"><hi rend="i">De Klagende Kermis Gasten, over het verteeren van haer Geld.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Van de Wolfze Jagt.</hi></head>
+<lg type="poem"><l><hi rend="i">N</hi>U zit ik in benouwen,</l>
+<l>De Kermis is voorby,</l>
+<l>Ik mag myn Hoofd wel klouwen,</l>
+<l>'t Playzier is aen een zei;</l>
+<l>Het Geld dat is verteert,</l>
+<l>En 't Keel-gat is gesmeert,</l>
+<l>Ik moet zorgen,</l>
+<pb n="36"/>
+<l>Ik kan niet borgen;</l>
+<l>By de Weerd.</l>
+<l rend="; 1tab">Ik was vrolyk in myn zaken,</l>
+<l>En daer toe ryk van schat,</l>
+<l>Ik ging een Pantje maken;</l>
+<l>Ik nam myn Hembt van 't gat,</l>
+<l>Ik zag ieder zwieren gaan,</l>
+<l>Dat stont myn heel wel aen,</l>
+<l>Ik ging zamen,</l>
+<l>Door de Kramen,</l>
+<l>Met 'er gaen.</l>
+<l rend="; 1tab">	Om vreugde te aenschouwen,</l>
+<l>'t Was lustig op de loop,</l>
+<l>Uan Kinders, Mans en Urouwen,</l>
+<l>Dienst-meisjes by de hoop,</l>
+<l>Die zag ik zwieren gaen,</l>
+<l>Dat stond my heel wel aen,</l>
+<l>Ik ging vragen,</l>
+<l>Met behagen</l>
+<l>Om mee te gaen.</l>
+<l rend="; 1tab">Sy zei wel lieve Guytje,</l>
+<l>Bent gy dat zoo gezint,</l>
+<l>Of hebt gy dikke duptjes,</l>
+<l>Ik roemde op myn splint,</l>
+<l>Ik dronk een Glaesje Wyn,</l>
+<l>Maer 't mogt geen Fl[e]sje zyn,</l>
+<l>Ik kogt een Koekje,</l>
+<l>Al in het hoekje</l>
+<l>Uoor onse Tryn.</l>
+<l rend="; 1tab">'t Was Kermis nog naer wenschen,</l>
+<l>Ik zag de Spullen staen,</l>
+<l>Uan Paerden en van Menschen,</l>
+<l>Ueel Klugten zynder gedaen,</l>
+<l>'t Was alles met fatzoen,</l>
+<l>Maer om dubbeltjes te doen,</l>
+<pb n="37"/>
+<l>'t Was goede Urientje,</l>
+<l>Hebje Splintje,</l>
+<l>Dan krygje een zoen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0012"/> </interpGrp>
+<head rend="h3"><hi rend="i">Zamen-Spraak tusschen een Frans Generaal en de Gouverneur van Doornik.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangenamen Wys.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Fransche Generaal.</hi></l>
+<l><hi rend="i">D</hi>oornik schoon met u sterke Wallen,</l>
+<l>Siet een Urind, die u mind,</l>
+<l>Staet op het Ueld:</l>
+<l>Op u Schoonheid is myn Oog gevallen,</l>
+<l>'k Kom u bekyken met menig Held,</l>
+<l>Want ik zoek u schoon Ionkvrouw;</l>
+<l>Te krygen tot de Trouw!</l>
+<l>Dat door het speelen,</l>
+<l>Uan myn Grof Cartouw.</l>
+<l rend="speaker"><hi rend="i">Gouverneur.</hi></l>
+<l rend="; 1tab">Wat voor een minnaer spreekt hier van Trouwen;</l>
+<l>Daer men hier,</l>
+<l>Met pleysier, In vreede leeft,</l>
+<l>Hy dreigt my met zyn bom en Cartouwe,</l>
+<l>Siet hoe veel knegten dat hy by zig heeft,</l>
+<l>'k Heb zyn komst lang gehoord,</l>
+<l>Sa sluyt Barier en Poort,</l>
+<l>'k Sal hem dan vragen,</l>
+<l>Uan waer hy komt voort.</l>
+<l rend="; 1tab">Segt eens Francoize, wat is u verlangen;</l>
+<l>Of wild gy; myn de Mey,</l>
+<pb n="38"/>
+<l>Schenken in 't Groen;</l>
+<l>Soekt gy de fleur van vlaenderen te vangen</l>
+<l>My dunkt het is u daerom te doen;</l>
+<l>'k Uersoek gy weder keerd,</l>
+<l>Eer men u loopen leerd,</l>
+<l>Gy zult niet vangen,</l>
+<l>'t Geen gy begeerd.</l>
+<l rend="speaker"><hi rend="i">Franschen Generaal.</hi></l>
+<l rend="; 1tab">Gouverneur wilt zo spytig niet spreken,</l>
+<l>Geeft de Stad, Over rad;</l>
+<l>Eer het Mey vuur word aen gesteken:</l>
+<l>Want ziet u woord maekt my verstoord:</l>
+<l>Siet voor u eer ik aenval,</l>
+<l>Storm, op Stad en wal,</l>
+<l>Gy zult genieten zwaer ongeval.</l>
+<l rend="speaker"><hi rend="i">Gouverneur.</hi></l>
+<l rend="; 1tab">U grote magt: kan my niet vervaren,</l>
+<l>Gaet uw gang,'k Ben niet bang,</l>
+<l>Doet vry u best,</l>
+<l>Men zal geen kruid of kogels sparen:</l>
+<l>Tot een bevryding van de vest,</l>
+<l>Ik zal u doen tegenstand:</l>
+<l>Het was te groote schand,</l>
+<l>Dat ik niet verweerde,</l>
+<l>De Stad plyzand.</l>
+<l rend="speaker"><hi rend="i">Franschen Generaal.</hi></l>
+<l rend="; 1tab">Yperen, Uuurne, wou zig ook verweeren</l>
+<l>Menen ras, op het pas;</l>
+<l>Het duurden niet lang,</l>
+<l>Nu 't Fort de knok dat kan ons niet keren;</l>
+<l>Want voor ons Grof geschut, waren zy bang</l>
+<l>Eer 't Canon en Mortier,</l>
+<l>Donderd' hun vlam en vier:</l>
+<l>Wilt Capituleeren,</l>
+<l>Soo hebt g' Quartier.</l>
+<pb n="39"/>
+<l rend="speaker"><hi rend="i">Gouverneur.</hi></l>
+<l rend="; 1tab">Met al uw magt van Bom en Cartouwen,</l>
+<l>Urees ik niet, voor verdriet,</l>
+<l>Maer als een Held,</l>
+<l>Zal ik op u een wakens oog houwen;</l>
+<l>Zoo gy wild stormen,</l>
+<l>Met een groot geweld,</l>
+<l>Ik heb menig onderzaet;</l>
+<l>Die zullen voor den Staet,</l>
+<l>Wagen hun leven, Als een Zoldaet.</l>
+<l rend="speaker"><hi rend="i">Franschen Generael.</hi></l>
+<l rend="; 1tab">Myn sterke magt zal u wel haest dwingen:</l>
+<l>Gouverneur met getreur!</l>
+<l>Houd u Constand,</l>
+<l>Men zal u wel een ander toon doen zingen,</l>
+<l>Het wit vaendel word wel haest geplant,</l>
+<l>Om te maken accoort,</l>
+<l>Het volk moest haest voort:</l>
+<l>Op 't Kasteel begeven,</l>
+<l>Tot 'er kwam antwoord.</l>
+<l rend="; 1tab">Za Bombardiers, en kloeke Zoldaten,</l>
+<l>Schiet de Stad, wallen plat,</l>
+<l>Uan alle kand,</l>
+<l>Zouden wy Doornik moeten verlaten:</l>
+<l>Het waer ons heele Leger een schand;</l>
+<l>Liever den laetsten man,</l>
+<l>Wil ik wagen daer an,</l>
+<l>Eer ik zal scheiden,</l>
+<l>Met schande daer van.</l>
+<l rend="speaker"><hi rend="i">Besluit.</hi></l>
+<l rend="; 1tab">Agt dagen tyd; was daer nog gegeven,</l>
+<l>Met stilstand, aen weerkand,</l>
+<l>Toen kwam 't bevel:</l>
+<l>Dat kosten menig Iongman zyn leven,</l>
+<l>Eer dat over ging de Citadel,</l>
+<pb n="40"/>
+<l>Want men hiel ons Constand,</l>
+<l>Schoon men was overmand;</l>
+<l>Nog twintig dagen,</l>
+<l>Heel Figeland.</l>
+<l rend="; 1tab">Toen ging men daer nog Capituleren</l>
+<l>Dat men trouw, Trekken zou,</l>
+<l>Uit met veel eer;</l>
+<l>Want men konden niet meer verweren,</l>
+<l>En men had geen Bommen meer,</l>
+<l>Men trok t' zamen voort,</l>
+<l>Na Holland was 't accoord,</l>
+<l>Daer men in vreede,</l>
+<l>Leeft onverstoord.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0013"/> </interpGrp>
+<head rend="h3"><hi rend="i">Klugtige Vryagie, tusschen Bregje van Zaendyk en Krelis uit de Wyk.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Van 't Muyse Valletje.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>el zoete Bregje van Zaendyk,</l>
+<l>Gy zyt een Meisje uit de kyk,</l>
+<l>Gy zyt zoo netjes, en bend zo pretjes:</l>
+<l>En ook zoo bolletjes en vetjes,</l>
+<l>Was gy een Lombart ô schone Ionkvrouw,</l>
+<l>Ik versette myn beste pand by jou.</l>
+<l rend="; 1tab">Ey zeker Uriend gy zyt niet mal,</l>
+<l>Wat is dat voor een raer geval,</l>
+<l>Weg met dat rukken, Foey is dat drukke</l>
+<l>Neen zeker Kees dat zal niet lukken:</l>
+<l>Wat meent gy zelder leitse vend:</l>
+<l>By wat Geselschap dat gy bent.</l>
+<pb n="41"/>
+<l rend="; 1tab">Laet ik het jou hier in het groen,</l>
+<l>Lief je eens op zyn Steemans doen,</l>
+<l>Tegen dit hegje, kindje wat zegje,</l>
+<l>Myn lieve schaepje wel wat legje,</l>
+<l>Myn dus te brusse jou malle pret,</l>
+<l>Laet Lubbertje eens in de wei.</l>
+<l rend="; 1tab">Ik wil 't doen wel wat geruk,</l>
+<l>Gy scheurt 'er my mooye goed aen stuk</l>
+<l>Laet los myn bande, foey het is schande,</l>
+<l>Gekje wat doet gy met jou handen:</l>
+<l>Myn zoo te fromle wat een gesoek,</l>
+<l>Wat doeje onder myn schorteldoek.</l>
+<l rend="; 1tab">Ach zoete meisje word niet quaed;</l>
+<l>Ik voel maer hoe gy der mee staet,</l>
+<l>Laet ik een reisje, wel zoete meisje:</l>
+<l>Iou poesel zoet en blanke vleysje,</l>
+<l>Ey met permissie dog niet grof,</l>
+<l>Evetjes maer 't is met verlof.</l>
+<l rend="; 1tab">Wel nou gekje doet het maer:</l>
+<l>Ik zal 't mooy zeggen tegen u Vaer:</l>
+<l>En tegen u Moertje, dat gy jou loertje,</l>
+<l>Uan myn ô Ietje maekt een Hoertje:</l>
+<l>En my hier in dees Wei verkragt,</l>
+<l>Had gy dat schobbertje wel gedagt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0014"/> </interpGrp>
+<pb n="42"/>
+<head rend="h3">De Waaragtige Beschryvinge uit het dorp Schevelinge, van een Visschers Vrouw, dewelke zes Kinderen in een Dragt heeft ter Wereld gebragt, waar van der 5 het Doopzel hebben ontfangen, zijnde 3 Zoonen en 2 Dogters, en het Zesde is Dood ter Wereld gekomen, zijnde Geboren op Nieuwe-Jaars-Dag.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Van 't Gestolen Kind van Utregt.</hi></head>
+<lg type="poem"><l><hi rend="i">A</hi>anhoord eens Urienden waerdig,</l>
+<l>Na dit Waeragtig Lied,</l>
+<l>Een stuk aenmerkens waerdig,</l>
+<l>In Holland nooit Geschied,</l>
+<l>'t Geen ik zal brengen voort</l>
+<l>Dus luystert met aendagt,</l>
+<l>Tot Schevelingen hoord,</l>
+<l>Zes Kinders t' eenderdragt.</l>
+<l rend="; 1tab">	Het is een wonder teken,</l>
+<l>In Holland nooit gehoord,</l>
+<l>Waer van dat men zal spreken,</l>
+<l>Als dat een Urouw bragt voort,</l>
+<l>Zes Kinders in een keer,</l>
+<l>Zoons en Dogters gelyk,</l>
+<l>Uan leden fris en teer,</l>
+<l>Gelyk men zag publyk.</l>
+<l rend="; 1tab">De Man en Urouw te zamen,</l>
+<l>Leefden zeer kuysch en vroom,</l>
+<l>Maer nu dat zy moest Kramen,</l>
+<l>Zoo was de Urouw wat loom,</l>
+<l>En mogelyk in die tyd,</l>
+<l>In 't dragen van haer Urugt,</l>
+<l>Ueel tranen die zy schreid,</l>
+<l>Met droefheid en gezugt.</l>
+<pb n="43"/>
+<l>ô Heer, het valt myn bangen,</l>
+<l>En zy wist uur nog tyd;</l>
+<l>Was stadig in verlangen,</l>
+<l>Na de uur van de arrebeyd,</l>
+<l>Maer als het was vervuld,</l>
+<l>En ten eynde van haer dragt,</l>
+<l>Zoo heeft zy met geduld,</l>
+<l>Zes Kinders voort gebragt.</l>
+<l rend="; 1tab">Haer banden die ontsloten,</l>
+<l>Daer ware Urouwen by,</l>
+<l>'t Heeft de Kraemvrouw verdroten,</l>
+<l>Zy maekten Groot Geschrey,</l>
+<l>Tien uuren na malkaer,</l>
+<l>Heeft deesen nood geduurd,</l>
+<l>Zes Kinders d' een na d' aer,</l>
+<l>Heeft zy eylaes bezuurt.</l>
+<l rend="; 1tab">Uyf Kinders zag men leven,</l>
+<l>Het zesde dat kwam dood,</l>
+<l>Den Moeder daer beneven,</l>
+<l>Was door de Arrebeid groot,</l>
+<l>Uermoeyt en afgemat,</l>
+<l>Het kon niet anders zyn,</l>
+<l>Als ieder wel bevat,</l>
+<l>Door wee en groote pyn.</l>
+<l rend="; 1tab">Ueel Menschen quamen kyken,</l>
+<l>Na deese Kinders dree,</l>
+<l>Armen zoo wel als Ryken,</l>
+<l>Uit Dorp en Stee op Stee,</l>
+<l>Ueel Rykdom uit nieusgier,</l>
+<l>Die gaven mildelyk,</l>
+<l>Waer door de Kraemvrouw wier,</l>
+<l>Gesegent rykelyk.</l>
+<l rend="; 1tab">Dit heeft men zien geschieden,</l>
+<l>Tot Schevelingen dan!</l>
+<l>Een Uisscher hoord bedieden,</l>
+<pb n="44"/>
+<l>Die is Uader daer van,</l>
+<l>Hy is geworden ryk,</l>
+<l>Door 't baren van zyn Wyf,</l>
+<l>Dit moet staen in de Kronyk,</l>
+<l>Zoo lang de Weereld blyf.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0015"/> </interpGrp>
+<head rend="h3"><hi rend="i">Geschiedenis voorgevallen in de Wij[t] beroemde Koopstad Amsterdam.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Wys.</hi></head>
+    <lg type="poem">
+<l><hi rend="i">W</hi>el wat heeft de min vermogen,</l>
+<l>ô Wat heeft de liefde kragt:</l>
+<l>Meenig Magetje onbedagt,</l>
+<l>Werd door Uenus wigt bedrogen,</l>
+<l>Dat men zomtyds niet verwagt.</l>
+<l rend="; 1tab">Gelyk heeden is gebleken,</l>
+<l>In de Koopstad Amsterdam:</l>
+<l>Hoe dat eenen Graef daer quam:</l>
+<l>Die een maget vervoert door streken,</l>
+<l>En mee na zyn land toenam.</l>
+<l rend="; 1tab">'t Was een meisje van vyftien jaren:</l>
+<l>En van eerlyk geslagt,</l>
+<l>Was dit bloemtje voortgebragt:</l>
+<l>Nog onmondig om te paren,</l>
+<l>Zy stond onder haer voogden magt.</l>
+<l rend="; 1tab">Zy was ontrend agtien jaren,</l>
+<l>Als men haer bragt in Amsterdam,</l>
+<l>Seer onnozel als een Lam:</l>
+<l>Door Nephtunes woeste baren,</l>
+<l>Zy heel uit Oost-Indien quam.</l>
+<l rend="; 1tab">Haer ouders die zyn overleeden,</l>
+<pb n="45"/>
+<l>Zy i sryk van Capitael,</l>
+<l>En men zegt na dit verhael:</l>
+<l>Desen Graef door min bestreeden:</l>
+<l>Wierd, op 't Magetje princepael.</l>
+<l rend="; 1tab">Dese Graef die quam logeeren,</l>
+<l>Digt by daer de Maegt was t'huis,</l>
+<l>Dog hy hield zyn min confuys:</l>
+<l>Niemand wist van karizeeren,</l>
+<l>Kort daer na hoorde men gedruis.</l>
+<l rend="; 1tab">'t Was zavonds dat men eens zou ryden,</l>
+<l>Om Masiton zyn kunst te zien:</l>
+<l>Daer men zag veel Edelieden,</l>
+<l>Om haer geest wat te verblyden,</l>
+<l>Men zeid wonder hoe kan 't geschien.</l>
+<l rend="; 1tab">Als het spel was uytgegangen,</l>
+<l>Geeft zig ieder na de Stad,</l>
+<l>De Graef met Meisje in een Koets zat,</l>
+<l>'t Welk was na zyn verlangen,</l>
+<l>Ulugten met haer alzo rad.</l>
+<l rend="; 1tab">De Graef die liet zyn Paerde draven,</l>
+<l>Sonder rust den gantschen nagt,</l>
+<l>'t Was om dees Minnelyke Uragt:</l>
+<l>Daer hy mee zyn lust wou laven:</l>
+<l>Wanneer hy had de reys volbragt.</l>
+<l>	Het Meisje was daer mede te vreeden,</l>
+<l>Door onnozele eerste Min,</l>
+<l>Trok zy met hem Duytsland in,</l>
+<l>Om daer in den Echt te treeden:</l>
+<l>Uaert dan wel gy jonge Gravin.</l>
+<l rend="; 1tab">Wagt u Dogtertjes te garen,</l>
+<l>Dat gy tog niet word verleid,</l>
+<l>Maer altoos voorzigtig zyt,</l>
+<l>Ueele die onnozel paren,</l>
+<l>Dat haer in de kennis speid.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0016"/> </interpGrp>
+<pb n="46"/>
+<head rend="h3"><hi rend="i">Een Nieuw Waale Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Weg, Weg, Capotje, Capotje.</hi></head>
+<lg type="poem"><l><hi rend="i">J</hi>uffrouw ik kom hier verkoped,</l>
+<l>Al die zoort van Zavonet:</l>
+<l>Skhoon ik met een Kruk mot loped,</l>
+<l>Ik bid daer niet eens op let,</l>
+<l>'K Eb veel zoort van Wateren,</l>
+<l>Om te Was de snateren,</l>
+<l>Eb ik mooije Zavonette,</l>
+<l>Eb ik mooije Zavonet.</l>
+    <l rend="; 1tab">2.	Uouler vous l'eau d'Orange,</l>
+<l>Sekke my ik ebze bon:</l>
+<l>Ou vouler vous l'eau d'Almange,</l>
+<l>Die zoo Klaer is als de zon;</l>
+<l>'t Is Kemaekte in Parys,</l>
+<l>Het maek al de Kekken wys,</l>
+<l>Maer nok meer myn Zavonette;</l>
+<l>Maer nog meer myn Zavonet.</l>
+    <l rend="; 1tab">3.	L'eau de Reine eb ik skonen,</l>
+<l>Ook Pumand voor de Madaem:</l>
+<l>Om te Kryk een Ionke zonen,</l>
+<l>Eb ik ook wat in myn Kraem,</l>
+<l>Er dat is zoo delieaet,</l>
+<l>'t Eerst in k'eel keen bien nok kraet:</l>
+<l>En dat is die Zavonette,</l>
+<l>En dat is die Zavonet.</l>
+    <l rend="; 1tab">4.	Wilke Moesjes van my koped,</l>
+<l>Om te zetten op de Kin:</l>
+<l>Neem die doosjes maek jy oped:</l>
+<l>Daer zyn al de Moesjes in,</l>
+<l>Mais vous prenis rjen de tout,</l>
+<l>Dittes mooi que vouler vous:</l>
+<pb n="47"/>
+<l>Mais je crooi mon Zavonette,</l>
+<l>'t Is van die Zavonet.</l>
+    <l rend="; 1tab">5. Voila daer eb jy ze allen,</l>
+<l>Die ik eb in myne Kraem:</l>
+<l>'k Eb maer twee van dese Ballen:</l>
+<l>Daer eb jy ze nou Madaem,</l>
+<l>Maer kebruikze niet te veel,</l>
+<l>'t Breekt zuur op by myn Keel,</l>
+<l>Want dat het die Zavonette,</l>
+<l>Want dat het die Zavonet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0017"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Lied van de Haagse Officiertjes.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Ach wat doet gy my verdriet.</hi></head>
+<lg type="poem"><l><hi rend="i">K</hi>loris die myn herte rooft,</l>
+<l>Ziet myn Pinki langs de Baren,</l>
+<l>Wel gelade na strant toe varen:</l>
+<l>Ik heb myn gunst aen u belooft,</l>
+<l>Komt myn Liefje rykt my u hand,</l>
+<l>Ik heb in Phenis naem de netten:</l>
+<l>Buiten een Uaertuig laten zetten,</l>
+<l>Kloris kom ga mee na Strant.</l>
+    <l rend="; 1tab">2. Kloris die ik teer bemin,</l>
+<l>Door u schoonheid aen gedreven:</l>
+<l>Ik zal wat raers aen Cloris geven</l>
+<l>Gespaert voor u myn Engelin,</l>
+<l>Ik heb een kraele Snoer gereed,</l>
+<l>Net een Parelen doorregen:</l>
+<l>Galate wou myn bewegen,</l>
+<l>Dat ik die aen haer over dee.</l>
+    <l rend="; 1tab">3.	Maer dat Meisje raekt het niet,</l>
+<l>Schoon in hoogen staet verheven,</l>
+<pb n="48"/>
+<l>Ik zalse liever aen Cloris geven,</l>
+<l>Gy zyt die myn Ziel gebied:</l>
+<l>Daer is de Ketting neemt die aen:</l>
+<l>Wilt daermee u Hals vercieren,</l>
+<l>En na de mode maer gaen zwieren,</l>
+<l>Die Galate te boven gaet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0018"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: komt Orpheus.</hi></head>
+<lg type="poem"><l><hi rend="i">I</hi>k lag laest op een Morgenstond,</l>
+<l>Te dromen op myn Bed,</l>
+<l>Dat aen myn zy lag Roose mond</l>
+<l>Heel naekend blank en vet:</l>
+<l>Haer oogjes waren als vergit,</l>
+<l>Haer Kaekjes als een Roos,</l>
+<l>Geplant op zuyver lely wit,</l>
+<l>Die ik voor 't beste koos...bis.</l>
+    <l rend="; 1tab">2. Haer Cantjes ware Parlemoer,</l>
+<l>Een klooftje had haer kin;</l>
+<l>Uerdubbeld met een Peerelsnoer,</l>
+<l>Uan Uenus min Godin,</l>
+<l>Haer Borsjes ware Appelrond;</l>
+<l>Gelyk als melk en room,</l>
+<l>Op elk een robyntje stond:</l>
+<l>Die kuste ik zonder schroom... bis.</l>
+    <l rend="; 1tab">3.	Haer schoone Lichaem nederwaerd,</l>
+<l>Was net als een Albast;</l>
+<l>Niet lager dan twee spanne ras,</l>
+<l>Een aerdig kloofje was,</l>
+<pb n="49"/>
+<l>Haer buikje my een Kruidberg scheen,</l>
+<l>In Uenus Tempel staen,</l>
+<l>Op 't Pilias van 't wit Elpenbeen,</l>
+<l>Beplant met Lely blaen ... bis.</l>
+    <l rend="; 1tab">4.	De Tempel daer men offer doet:</l>
+<l>Uan 't beste dat men heeft,</l>
+<l>Ia zelfs daer men vlees en bloed,</l>
+<l>En al ten besten geeft,</l>
+<l>Daer vroeg ik of ik in mogt gaen,</l>
+<l>En doen myn offerhand,</l>
+<l>Zy lokte my zeer vriendelyk aen;</l>
+<l>En drukte my myn hand ... bis.</l>
+    <l rend="; 1tab">5.	Ik boog myn voor haer Min altaer,</l>
+<l>Ik krooper digt by in,</l>
+<l>Gestrengelt kuste wy elkaer:</l>
+<l>Met Kusjses vol van min,</l>
+<l>Maer doen myn Offer was volbragt,</l>
+<l>In 't binnenst Tempel koor,</l>
+<l>Ontwaekt ik heel onverwagt,</l>
+<l>Die schoone ik verloor ... bis.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0019"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Vermakelyk Minnuet, of het Feest van Flora.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Wys.</hi></head>
+<lg type="poem"><l><hi rend="i">M</hi>en moet steets Floris gunste roemen,</l>
+<l>Want door haer zorg en teed're vlyt:</l>
+<l>Heeft zy versiert dees Tuyn met bloemen,</l>
+<l>Wiens geur en kleur elk een verbleid,</l>
+<l>Wie in dees tuyn een Roos wil plukken,</l>
+<l>Weet dat haer Doorne stekens zyn,</l>
+<l>Bemind haer trouw dan zal 't u lukken,</l>
+<l>En blaekt opregt van Minne pyn.</l>
+<pb n="50"/>
+<l rend="; 1tab">Ach! wat schoone lente dagen,</l>
+<l>Heeft Flora zorg myn niet versierd:</l>
+<l>Al wie myn aensiet schept behaegen,</l>
+<l>Wyl Floraes Feest hier werd gevierd,</l>
+<l>Al wie myn liefkoost en wil agten:</l>
+<l>Hier vast op regte tederheid,</l>
+<l>Al wie myn Weermin wil betragten,</l>
+<l>Moet myn niet plukken voor die tyd.</l>
+<l rend="; 1tab">'k Ual vry keurig in het Minne,</l>
+<l>De stok Roos is te groot van stuk:</l>
+<l>Papafer is te doef van zinnen,</l>
+<l>De Zonneblom volgd het geluk:</l>
+<l>Het Tulpje kan myn niet vermaken</l>
+<l>De Roos met scherpe doorne steekt,</l>
+<l>Dies kan myn bloempje 't best vermaken,</l>
+<l>Als men 't aen raekt het steeltje breekt.</l>
+<l rend="; 1tab">Wilt aen de Min u overgeven,</l>
+<l>In 't bloeye van u teed're Ieugt:</l>
+<l>Kiest dog de lente voor u leven,</l>
+<l>Die is 't bekwaem tot Minne vreugt,</l>
+<l>Want als de Herfst u komt genaken,</l>
+<l>Denkt dat voor zeker en gewis:</l>
+<l>Dat met het eind van u vermaken,</l>
+<l>De Winter tyd voor handen is.</l>
+<l rend="; 1tab">Schoon dat een buy van Nuwigheden</l>
+<l>Een drift gelyk een felle Orcaen,</l>
+<l>Dit Lust-hof tragte te vertreeden;</l>
+<l>En al de bloempjes wert te slaen:</l>
+<l>Ziet men Nochtans die haest verresen,</l>
+<l>Die als zesier van uwe gunst,</l>
+<l>Blaekt op den ouden en de wesen,</l>
+<l>Dan bloeid voor yver waerde kunst.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0020"/> </interpGrp>
+<pb n="51"/>
+<head rend="h3"><hi rend="i">Een Lied tusschen Philida en Damon.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Wys.</hi></head>
+<lg type="poem"><l><hi rend="i">P</hi>hilida lag neer gezegen,</l>
+<l>In de Schaduw van de Zon,</l>
+<l>Met haer keurslyf half ontregen,</l>
+<l>Digt by een klaer Waterbron</l>
+<l>En zy droomden overluid,</l>
+<l>Dat zy met den Herder Damon was de Bruid</l>
+<l>Damon Kust: Naer u Lust</l>
+<l>Want zyn Minne-brand moet zyn geblust.</l>
+    <l rend="; 1tab">2. Damon die dat soete dromen,</l>
+<l>Had verstaen van woord tot woord,</l>
+<l>Is terstond by haer gekomen,</l>
+<l>Dat heeft zyn jonghert bekoord,</l>
+<l>En zyn jong hertje dat lilt en beeft,</l>
+<l>Om dat hy de Assurantie niet en heeft,</l>
+<l>En hy zugt, dat de lugt</l>
+<l>Wedergalmt van zyn ongenugt.</l>
+    <l rend="; 1tab">3.	Wel sprak hy wie heeft zyn Leven,</l>
+<l>Zulk een blooyheid meer gezien:</l>
+<l>Waerom in 't Uerdriet gebleven;</l>
+<l>Blooyheid wilt dog van myn vlien,</l>
+<l>Hier op bekeek hy zyn Philida,</l>
+<l>Adieu Schoonste zei hy zonder weerga,</l>
+<l>Mogt myn lust, zyn geblust:</l>
+<l>Dan was Damon zyn jong hert gerust.</l>
+    <l rend="; 1tab">4.	Hier op ging hy haer lief koosen,</l>
+<l>Zy ontwaekte met angst belaen,</l>
+<l>Schaemte pronkt met rosen;</l>
+<l>Als zy Damon daer zag staen:</l>
+<l>Ach! zei zy Herder Damon ziet,</l>
+<l>Ik ben tegenwoordig watje wil gebied,</l>
+<pb n="52"/>
+<l>Net bezweek, z' aen de beek,</l>
+<l>En haer roode Kaekjes wierden bleek.</l>
+    <l rend="; 1tab">5.	Straks met honderd duyzend Kusjes,</l>
+<l>Heeft hy zynen brand geblust:</l>
+<l>En voldoed zyn Minnelusjes;</l>
+<l>Doe was zyn Ionghert gerust,</l>
+<l>Zy drukte beid' haer Borsjes bloot:</l>
+<l>En haer rodermond hem weer een Kusje bood;</l>
+<l>Toen de zon, ondergong,</l>
+<l>Scheiden dese beide van de Bron.</l>
+    <l rend="; 1tab">6.	Philida begon te zugten,</l>
+<l>Ag! ag wat is my geschied;</l>
+<l>Damon sprak Lief wilt niet dugten,</l>
+<l>Gy zyt die myn Ziel gebied,</l>
+<l>Ik zal u eeuwig zyn getrouw,</l>
+<l>Daer en boven Eeren, als een Man zyn Urouw</l>
+<l>Zoo dat zy, alle by,</l>
+<l>Stelden de zwarigheid aen een zy.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0021"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Vermakelyk Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Wys.</hi></head>
+    <lg type="poem"><l>'t <hi rend="i">G</hi>aetje nooit wel alsje Meisjes wil dwingen</l>
+<l>Want veelryds is het geweld zonder ba[et]</l>
+<l>Met zoet gevley moet gy 't in dringen,</l>
+<l>Want dan zoo mist gy ook zelden. bis.</l>
+<l rend="; 1tab">2.	'k Geloof dat medoogen is van u geweken</l>
+<l>Want voor myn klagen zyn u Ooren doof:</l>
+<l>Mogt ik myn hand in u Boezemtje steeken,</l>
+<l>Zoo raekten ik wel haest in u. bis.</l>
+        <l rend="; 1tab">3.	Kond gy uw jong hert tot myn liefde neigen</l>
+<l>En geneesen 't hert dat gy hebt doorwond,</l>
+<pb n="53"/>
+<l>'t Zou wel haest in Top van Liefde stygen,</l>
+<l>En scheppen geen vermaak als in u. bis.</l>
+        <l rend="; 1tab">4.	Worst is in 't Najaer een Heerlyk Eeten,</l>
+<l>Maer zy verwekt veeltyds wel wat dorst:</l>
+<l>Meisje wil gy ze by my kome Eeten,</l>
+<l>'k Uereer u daedelyk een end van myn. bis.</l>
+        <l rend="; 1tab">5. Hol dan vry Maget door Bossen en Bergen,</l>
+<l>En tiert u vry aen gelyk rasend en dol,</l>
+<l>Of zoekt gy veel eer de Liefde te tergen,</l>
+<l>Al is hy wat groot hy kruypt dog in u. bis.</l>
+        <l rend="; 1tab">6. Kees die stond laest met zyn Meisje te praten,</l>
+<l>Ag zy hy, zoet Lief en hebje geen vrees;</l>
+<l>Goden mogt ik 'er jou Roosje eens plukken,</l>
+<l>'k Greep u zoo dadelyk vlak by jou. bis.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0022"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Lied van een Jonkman, die de Schoonheid van zyn Lief pryst.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Vois.</hi></head>
+    <lg type="poem"><l><hi rend="i">E</hi>en Meisje pertinent,</l>
+<l>Zeer vriendelyk boven maten:</l>
+<l>Staet in myn Hert geprent;</l>
+<l>Met Goud en Zilver platen,</l>
+<l>Het is een schoone Maegd,</l>
+<l>Die myn jong hert behaegt:</l>
+<l>Og 'k hoop zy ook Liefde draegt.</l>
+<l rend="; 1tab">Zy heeft twee Borsjes rond;</l>
+<l>Als appelen van Granaten:</l>
+<l>Haer azem uit haer mond,</l>
+<l>Ruikt zoeter als Muskaten:</l>
+<l>Uan alles is zy wel,</l>
+<l>Om te vermaken een jong gesel:</l>
+<l>Ach en hoe schoon blinkt haer dat vel.</l>
+<pb n="54"/>
+<l rend="; 1tab">Haer tanden in haer mond,</l>
+<l>Zyn witter als yvoren,</l>
+<l>Uan herten is zy gesond;</l>
+<l>Daer toe scherp van ooren,</l>
+<l>Haer oogen die zyn klaer,</l>
+<l>Als kristalyn voorwaer:</l>
+<l>Och en hoe schoon krult haer dat hair.</l>
+<l rend="; 1tab">Haer Kleeren aen haer Lyf,</l>
+<l>Daer mee zoo gaet zy zwieren,</l>
+<l>Uan Goud en Zilver styf:</l>
+<l>Zeer fraey met goe manieren:</l>
+<l>Mogt ik het Meisje maer,</l>
+<l>Zoo wierden wy zamen een Paer:</l>
+<l>Het geschieden al binnen 't Iaer.</l>
+<l rend="; 1tab">Myn Urienden vraegden nu,</l>
+<l>Wat voor een Maegd is dese,</l>
+<l>Die door de mond van u:</l>
+<l>Zoo mindelyk word gepresen:</l>
+<l>Uan eerlyk Geslagt,</l>
+<l>Is zy ter aerd gebragt:</l>
+<l>Ag ik hoor van de Maegd geen geklag.</l>
+<l rend="; 1tab">Adieu schoon Lief Adieu,</l>
+<l>'k Moet na Oostindje varen:</l>
+<l>'t Moet eens gescheiden zyn,</l>
+<l>Een reisje voor zeven Iaeren,</l>
+<l>Als ik leg op de Ree:</l>
+<l>Zoo meenig myl in Zee,</l>
+<l>Zoo denk ik op myn Liefje mee.</l>
+<l rend="; 1tab">Adieu my Lief adieu:</l>
+<l>Uoor 't laest moeten wy scheiden,</l>
+<l>Als 't eens gescheiden moet zyn,</l>
+<l>Een kusje onder ons beide:</l>
+<l>Adieu myn lieve Meid,</l>
+<l>Tot op een ander tyd:</l>
+<l>Tot uwen wille ben ik bereid.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0023"/> </interpGrp>
+<pb n="55"/>
+<head rend="h3"><hi rend="i">Minaars-Klagt.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Hou Voerman van de Hel.</hi></head>
+<lg type="poem"><l><hi rend="i">O</hi>ntwaekt myn Lief, ontwaekt,</l>
+<l>Wil uit u venster kyken:</l>
+<l>Want ik doe myn beklag,</l>
+<l>In 't naerste van de nagt:</l>
+<l>Geen Tyger: Leeuw of Beer;</l>
+<l>Die my kan doen verschrikken;</l>
+<l>Geen hagel wind of weer,</l>
+<l>Die my kan doen afkeer.</l>
+<l rend="; 1tab">Maer 'k doe hier myn beklag:</l>
+<l>Over uw wreede vonken;</l>
+<l>Die gy ô schoone Maegd:</l>
+<l>Uan dag tot dag toe draegd,</l>
+<l>Maer ik bid u Liefje zoet,</l>
+<l>Wil my maer eens toelonken!</l>
+<l>En haest u schoon Ionkvrouwe,</l>
+<l>Of ik versmelt van rouw.</l>
+<l rend="; 1tab">Hoe lang is 't wel geleen?</l>
+<l>Myn Lief teld maer de Weken:</l>
+<l>Dat ik kwam voor u deur,</l>
+<l>Met oogen vol getreur:</l>
+<l>Door hagel, sneeuw en wind,</l>
+<l>Om u myn Lief te spreken:</l>
+<l>Maer gy blyft wreed verhart,</l>
+<l>En houd myn Min verwart.</l>
+<l rend="; 1tab">Ik wensch dat ik myn bloed:</l>
+<l>Het zou my niet verdrieten;</l>
+<l>Uoor u mogt storten uit,</l>
+<l>En dat op staende voet,</l>
+<pb n="56"/>
+<l>En dat gy my dan maer,</l>
+<l>Uw trouwe Dienaer hieten:</l>
+<l>Uw slaef of uwen knegt;</l>
+<l>Ik diende u opregt.</l>
+<l rend="; 1tab">Ik wenste dat myn bloed,</l>
+<l>Door dwang van 's Hemels Goden:</l>
+<l>Op dat u wreede Ziel,</l>
+<l>Gedwongen wierd met min:</l>
+<l>Of dat uw Ieugdig Hert,</l>
+<l>My eens tot Liefde nooden;</l>
+<l>Zoo vloog myn Hert en Zin,</l>
+<l>Met u ten Hemel in.</l>
+<l rend="; 1tab">Maer ik zie wel wreede Maegd,</l>
+<l>Dat ik u niet kan bewegen,</l>
+<l>Met myn trouwe Minnaers hart:</l>
+<l>En door een zoet gevley,</l>
+<l>Zo moet ik treuren gaen,</l>
+<l>Tot het einde van myn Leven;</l>
+<l>Adieu ik vertek van hier:</l>
+<l>Ik wensch u veel pleysier.</l>
+<l rend="; 1tab">Wat hoor ik voor Geluid;</l>
+<l>Wie of my hier komt wekken,</l>
+<l>Uit mynen zoeten slaep:</l>
+<l>Wie of het wesen mag?</l>
+<l>Ik moet op zyn afscheid,</l>
+<l>Eens uit myn Uenster kyken:</l>
+<l>My dunkt zyn stem verlaet,</l>
+<l>'t Is of hy henen gaet.</l>
+<l rend="; 1tab">Gy trouwe Minnaer staet,</l>
+<l>En wilt eens weder keeren,</l>
+<l>De liefste daer gy om treurt,</l>
+<l>Die lag vast in haer rust:</l>
+<l>Ik droomde eenen droom,</l>
+<l>Dat myn Ionk-hert doet treuren:</l>
+<l>Als ik hem heen liet gaen:</l>
+<pb n="57"/>
+<l>Dus blyft een weinig staen.</l>
+<l rend="; 1tab">Ontfangt van my den Trouw,</l>
+<l>Myn Engel vol van waerden:</l>
+<l>Die voor zyn zoetste Lief,</l>
+<l>Zyn lyf en bloed steld bloot:</l>
+<l>De Goden uit den Throon,</l>
+<l>Die roep ik tot getuigen:</l>
+<l>Dat ik zal zyn Getrouw:</l>
+<l>Als eenen Man zyn Urouw.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0024"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Zomer-Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Lestmaal ging ik op &amp;c.</hi></head>
+<lg type="poem"><l><hi rend="i">D</hi>e Winter is voorby gestreeken,</l>
+<l>De Zomer die staet voor de deur,</l>
+<l>Die ons zoo Lieffelyk komt kweeken,</l>
+<l>Uan Bloemkens also zoet van geur:</l>
+<l>De warme dagen: Lief die komen aen,</l>
+<l>Komt laet ons jagen, daer de bloempjes staen,</l>
+<l>Die Cierlyk open gaen.</l>
+<l rend="; 1tab">De Mey die toond zyn beste dagen,</l>
+<l>Uan Bloemen, Kruiden, en van Gras,</l>
+<l>Hy doet uytloopen de groene bladen,</l>
+<l>Uan al 't lieffelyk boomgewas,</l>
+<l>Waer op het diertje met een zoete tael,</l>
+<l>Zingt tiereliertje, Maer de Nagtegael,</l>
+<l>Uerciert het altemael.</l>
+<l rend="; 1tab">In 't veld hoord men de Leeuwerk zingen,</l>
+<l>Al kwelende vliegt hy na de Lugt,</l>
+<l>In 't duin ziet men de konyntjes springen,</l>
+<l>Zy leven daer in zoet genugt,</l>
+<l>Het Mosse prytje roept staeg dief, dief, dief,</l>
+<l>Dat Honig-bytje, heeft de bloempjes lief,</l>
+<l>Zy staen tot zyn gerief.</l>
+<pb n="58"/>
+<l rend="; 1tab">'t Swaveltje met zijn snelle wieken,</l>
+<l>Uliegt als een schim straks hier en daer</l>
+<l>Zoo dra den dag begint te krieken,</l>
+<l>Komt den gebekten Opevaer,</l>
+<l>Na buiten vliegen, om te zoeken aes,</l>
+<l>Hy gaet bedriegen, Den kikvors, die den baes,</l>
+<l>Speeld met een groot geraes.</l>
+<l rend="; 1tab">Twee Schaepjes aen een juk gestrengeld,</l>
+<l>Die trekken zamen eenen lyn,</l>
+<l>Wat verder zitter een en hengelt,</l>
+<l>Daer dient pacientie by te zyn,</l>
+<l>Al zyn verlangen, Is na snoek of baers,</l>
+<l>Kon hy die vangen, hy houdse voor wat raers,</l>
+<l>Maer meest vangt hy wat aers.</l>
+<l rend="; 1tab">'s Morgens kraeyt den boer zyn haentje,</l>
+<l>Maer komt eens aen de waterkant,</l>
+<l>Daer ziet men 't wit geveerde zwaentje,</l>
+<l>Langs de willige abondant,</l>
+<l>De Uogeltjes zingen, boven in 't geboomt,</l>
+<l>De visjes springen, daer 't water stroomt,</l>
+<l>'t Is lust onder 't geboomt.</l>
+<l rend="; 1tab">'t Is lust om hem te gaen vermeiden</l>
+<l>Wanneer den dag komt krieken aen,</l>
+<l>Ziet men de koeykens in de weiden,</l>
+<l>Met zoete melk zwaer belaen,</l>
+<l>Waer op het Boertje met zyn huisvrouw past,</l>
+<l>Hy neemt een snoertje, bind haer beentjes vast,</l>
+<l>Ontslaet haer van de last.</l>
+<l rend="; 1tab">Nu wil ik 't eens gaen besluiten,</l>
+<l>Uan al 't geen ik heb gezien',</l>
+<l>Die meer wil kyken die gaet na buiten,</l>
+<l>Ury met u tween, Ik was alleen:</l>
+<l>'t Komt al van boven, dese zoetigheid,</l>
+<l>Laet ons gaen loven, Godes Majesteid,</l>
+<l>Tot in der eeuwigheid.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0025"/> </interpGrp>
+<pb n="59"/>
+<head rend="h3"><hi rend="i">De Hedendaagze Mooden.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Komt hier gy jonge Meisjes.</hi></head>
+    <lg type="poem">
+<l><hi rend="i">N</hi>u heb ik lust tot zingen,</l>
+<l>Uan d' hedendaegse Swier,</l>
+<l>En wat al raere dingen,</l>
+<l>Men nu houd voor Pleizier,</l>
+<l>Heel anders als voor deesen,</l>
+<l>Is 't jonge volk by een,</l>
+<l>Dat eertyds goed kon weesen,</l>
+<l>Dat is nu heel gemeen.</l>
+<l rend="; 1tab">Uoor vyftig, zestig Iaeren,</l>
+<l>Zoo daer of daer ontrent</l>
+<l>Was in dat zoet vergaeren,</l>
+<l>Het Kaertspel onbekend,</l>
+<l>De heeren van die dagen,</l>
+<l>Die wisten daer niet van</l>
+<l>Men kon geen Juffers vragen,</l>
+<l>Allon wie wil 'er an.</l>
+<l rend="; 1tab">Het Gansje was de Moode,</l>
+<l>Het Dambord stond gereed,</l>
+<l>Meer was 'er  niet van nooden,</l>
+<l>Zoo wierd de tyd besteed,</l>
+<l>Of was men by Serrieusse,</l>
+<l>Of by de Geestelykheid,</l>
+<l>Uan Lutherse of Geusen,</l>
+<l>Daer wierd het Spel gemeid.</l>
+<l rend="; 1tab">De fyne mennooos Kind'ren:</l>
+<l>Die schuwen als de Pest,</l>
+<l>Dien Ydelheid kon hind'ren,</l>
+<l>Nu is 't meest als de rest,</l>
+<l>Het stigtelyke zingen</l>
+<pb n="60"/>
+<l>Dat was 't gewoone werk,</l>
+<l>Of diergelyke dingen</l>
+<l>In huis of in de Kerk.</l>
+<l rend="; 1tab">Daer liet de Fluyt zig hooren,</l>
+<l>Geen dertele Fiool</l>
+<l>Kon iemand ooit bekooren,</l>
+<l>Dat was uit 's Waerelds School,</l>
+<l>Maer ach waer zyn die tyden,</l>
+<l>Sprak laest myn oud Oom Ian,</l>
+<l>Die zeedert zyn verscheiden,</l>
+<l>Men weet daer niet meer van.</l>
+<l rend="; 1tab">Nu is het al Quadrielje,</l>
+<l>Of omb're, kenje 't niet,</l>
+<l>Met basta en Spandielje,</l>
+<l>Zes in de Favoriet,</l>
+<l>En zoo wat franse Namen,</l>
+<l>Door Waelbuur hier gebragt,</l>
+<l>Met andere prullen kramen,</l>
+<l>Door 't vreemde volk bedagt.</l>
+<l rend="; 1tab">Dan praet men onder 't speelen,</l>
+<l>Charlot dat staet charmant,</l>
+<l>'k Sou uw bousquiere stelen,</l>
+<l>Waer koopje dog die kant?</l>
+<l>Kyk wat een fraeije Algrette,</l>
+<l>Wat heerlyk Agrement,</l>
+<l>Die Neu d'Amour lizette,</l>
+<l>Die is nog onbekend.</l>
+<l rend="; 1tab">Ia roepter 'er weer een ander,</l>
+<l>Die Tabelje staet schoon,</l>
+<l>Soo volgt men dan elkander,</l>
+<l>En zingt den hoogsten Toon,</l>
+<l>Uan Cocluchons mantieljes,</l>
+<l>Pelices Negliger.</l>
+<l>Ergeres en Chinieljes,</l>
+<l>Soltanes en Colier.</l>
+<pb n="61"/>
+<l>Madame Petit Pierre,</l>
+<l>Die is thans nu premier,</l>
+<l>Gratieuze Salitaires,</l>
+<l>Ruban, Grosse baute,</l>
+<l>De Geus de Pompadour,</l>
+<l>Uerkoopt zy Abondant,</l>
+<l>Pomade voor de Toure,</l>
+<l>Na d' hedendaegste Trand.</l>
+<l rend="; 1tab">Dan schemt men op de heeren,</l>
+<l>Anthonie is een Uil,</l>
+<l>Ik zou hem niet begeren,</l>
+<l>En henry die is vuil,</l>
+<l>Deeze is een kaele Ionker,</l>
+<l>En die een malle Gek,</l>
+<l>En Iaques is een Pronker,</l>
+<l>Ian heeft een scheeve Nek.</l>
+<l rend="; 1tab">En Ferdinand zou Trouwen,</l>
+<l>Met een van myn Salet,</l>
+<l>Maer 't zal die zoo berouwen,</l>
+<l>Zyn voogt heeft hem belet,</l>
+<l>Daer is de vader tegen,</l>
+<l>Mama zou 't niet verstaen,</l>
+<l>Die had zyn wil verkregen,</l>
+<l>Met deese zal 't wel gaen.</l>
+<l rend="; 1tab">Zoo geeft men dan Sententies,</l>
+<l>In 't honderd by 't douzyn,</l>
+<l>En trekt 'er Conzequentes,</l>
+<l>Heel mis en sonder schyn,</l>
+<l>De Waereld is verwilderd,</l>
+<l>Daer Pallas pleeg te staen,</l>
+<l>Is nu een Uil geschilderd,</l>
+<l>Het is met ons gedaen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0026"/> </interpGrp>
+<pb n="62"/>
+<head rend="h3">Liedeken of Beschryvinge van een Juffrouw uyt Londen, dewelke 7 Kinderen in eender Dragt heeft gebaard.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Te Ryssel in 't Vergulde Rad.</hi></head>
+<lg type="poem"><l><hi rend="i">H</hi>oord wat de Brieven en Courand,</l>
+<l>Uit Engeland ons nu verklaren,</l>
+<l>Het is bekend door geheel het Land,</l>
+<l>Men hoorde nooit zo wonder maren;</l>
+<l>Binnen de Stad Londen publyk</l>
+<l>Woond een Iuffrouw magtig en ryk.</l>
+<l rend="; 1tab">	Zy was pragtig en hoog van staet</l>
+<l>Maer vrek en gierig tot de Armen,</l>
+<l>Want niemand en vond by haer genaed,</l>
+<l>Of zy en wist van geen ontferme,</l>
+<l>Zy gaf de arme Menschen niet;</l>
+<l>Maer hoord wat 'er is geschied.</l>
+<l rend="; 1tab">Daer quam een arme Weduvrouw:</l>
+<l>Aen dees Madam haer deur te vragen;</l>
+<l>Om een stuk brood met droevig rouw</l>
+<l>Met vier Kinderkens droevig klagen</l>
+<l>Iuffrouw toond u barmhertigheid</l>
+<l>God zal 't loonen in d'eeuwigheid.</l>
+<l rend="; 1tab">Dees Iuffrouw sprak spytig en quaed</l>
+<l>Ik en geef geen Bedelaer myn Leven,</l>
+<l>Gaet werkt als andere vroeg en laet,</l>
+<l>Ik zou het liever aen myn honden geven</l>
+<l>Daerom zeg ik gaet strak van hier;</l>
+<l>Met u hoere kinderen alle vier.</l>
+<l rend="; 1tab">Het is een straffe zoo ik meen:</l>
+<l>De Bedelaers veel Kinders baren:</l>
+<l>En ik die ryk ben hebber geen,</l>
+<pb n="63"/>
+<l>Het is een spyt ik moet verklaren,</l>
+<l>Ik ben zeven jaren getouwt,</l>
+<l>Ik heb geen Kind dat my wel rouwt.</l>
+<l rend="; 1tab">Gaet van myn deur in korte tyd;</l>
+<l>Ik laet u van myn hond verscheuren</l>
+<l>Gy hebt Kinders maer geleid,</l>
+<l>Uan daer Ouders met droevig treuren,</l>
+<l>Daerom geef ik nooit een oord;</l>
+<l>Die zoo met leugens komen voort.</l>
+<l rend="; 1tab">Dees arme Urouw weenden van spyt</l>
+<l>Over dees lasterlyke reden,</l>
+<l>Die dees Iuffrouw sprak tot verwyt!</l>
+<l>Aen dese arme Urouw op heden,</l>
+<l>Godt weet dat dit myn Kinders zyn</l>
+<l>Die ik heb gebaerd met veel pyn.</l>
+<l rend="; 1tab">ô Godt van Hemel en van aerd:</l>
+<l>Hoord myn Gebed, ô Heer der Heeren,</l>
+<l>Straf zoo een valsche tong op d' aerd</l>
+<l>Die myn zoo schandig gaet blameren,</l>
+<l>Dat zy baerd zoo veel Kinders klein;</l>
+<l>Als zy jaren getouwt mag zyn.</l>
+<l rend="; 1tab">Och ziet wat wonder lieve Mensch,</l>
+<l>Het is een korte tyd geleden,</l>
+<l>Dat dees arme Urouw gaf desen wensch</l>
+<l>Aen dees Iuffrouw met droeve reden,</l>
+<l>Zy wierd bevrugt en wonder dik,</l>
+<l>Waer van een ieder had een schrik.</l>
+<l rend="; 1tab">Zy kreeg een zwaren arbeid:</l>
+<l>Sat zeven dagen met zugten en weenen,</l>
+<l>Men bad Godt om barmhertigheid:</l>
+<l>Dat haer mogt een vrugt verleenen,</l>
+<l>Doen bragt men voort met droef geklagt,</l>
+<l>Seven Kinders tot eender dragt.</l>
+<l rend="; 1tab">'t Waer schromelyk en wonderbaer,</l>
+<l>Uan deese Schepsels te aenschouwen,</l>
+<pb n="64"/>
+<l>En ieder had een teken daer</l>
+<l>Uan Gods gramschap wilt dit onthouwen</l>
+<l>Gelyk gy haer ziet pertinent,</l>
+<l>In deez' Figuren afgeprent.</l>
+<l rend="; 1tab">Het eerste Kind had om zyn hoofd:</l>
+<l>Een schoon Fontagie naer het Leven:</l>
+<l>Het tweede Kind was my vry gelooft,</l>
+<l>Een varkens hooft wie zou niet beven,</l>
+<l>Het derde Kind was fris en kloek,</l>
+<l>Dat had twee hoorens als een bok.</l>
+<l rend="; 1tab">Aensiet het vierde kind eens wel;</l>
+<l>Het scheen een Tyger van koleuren,</l>
+<l>Met alle plekken op zyn vel;</l>
+<l>Uan wit en zwart wie zou niet treure,</l>
+<l>Het vyfde Kind is wel bekend,</l>
+<l>Houd in zyn hand een wreed Serpent.</l>
+<l rend="; 1tab">Het zesde Kind ik zeg u dat,</l>
+<l>Gruwel: voor de zonden schromen</l>
+<l>Had op zyn borst een levende Pad,</l>
+<l>Soo het te Weereld is gekomen:</l>
+<l>Het zevenste Kind wilt my verstaen:</l>
+<l>En had geen voeten om te gaen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0027"/> </interpGrp>
+<head rend="h3"><hi rend="i">Vermakelyk Kermis-Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Voys.</hi></head>
+<lg type="poem"><l><hi rend="i">J</hi>aepje sta stil: Iaepje sta stil:</l>
+<l>Hoord eens wat ik u moet vertellen:</l>
+<l>Iaepje sta stil: Iaepje sta stil:</l>
+<l>Hoord eens wat ik u zeggen wil,</l>
+<l>Laest liep ons Kaetje met Krelis:</l>
+<l>Zo zoetjes door de kramen men in 't stil,</l>
+<pb n="65"/>
+<l>'k Geloof zy gingen aen den dril,</l>
+<l>Wat dunkje van Iaepje sta stil.</l>
+<l rend="speaker"><hi rend="i">Jaapje.</hi></l>
+<l rend="; 1tab">	Malle Zottin: 't Is de min:</l>
+<l>Die de Ionkheid trekt te zamen:</l>
+<l>Malle Zottin: 't Is de min:</l>
+<l>Sta stil en doet 'er myn zin,</l>
+<l>Gy bent zoo een aerdig Meisje,</l>
+<l>Willen wy 't zamen ook eens doen,</l>
+<l>Gaen om een zwiertje met fatsoen,</l>
+<l>Sta stil of je maekt my groen.</l>
+<l rend="speaker"><hi rend="i">Truitje.</hi></l>
+<l rend="; 1tab">Iaepje wat praet, Iaepje wat praet,</l>
+<l>Ik durf het zeker niet wagen,</l>
+<l>Iaepje wat praet: Iaepje wat praet,</l>
+<l>Sta stil: 't Is nu te laet,</l>
+<l>Myn Moertje zou zeker kyven,</l>
+<l>Als ik by tyds niet thuys en was,</l>
+<l>De Buuren quamen 'er aen te pas,</l>
+<l>Ey Iaepje sta stil wat ras.</l>
+<l rend="speaker"><hi rend="i">Jaapje.</hi></l>
+<l rend="; 1tab">Truitje zoet: onnoselen bloed:</l>
+<l>Wat Bruytje dat oude Besje:</l>
+<l>Truitje zoet: onnoselen bloed:</l>
+<l>Sta stil wat hebje weer spoet,</l>
+<l>Kom Meisje ik zal u Tracteren,</l>
+<l>Op Wyn en Bier al watje lust,</l>
+<l>En stellen jou Moertje wel gerust,</l>
+<l>Sta stil voldoet 'er myn lus.</l>
+<l rend="speaker"><hi rend="i">Truitje.</hi></l>
+<l rend="; 1tab">Aerdige Iaep, wat benje een Knaep,</l>
+<l>Waer zou ik met u lopen,</l>
+<l>Aerdige Iaep, wat benje een Knaep,</l>
+<l>Sta stil jou lossen aep,</l>
+<l>Maer willen wy eens gaen keyken,</l>
+<pb n="66"/>
+<l>Om Magito zyn konst te sien:</l>
+<l>En wat 'er voorders zal geschien,</l>
+<l>Sa stil Iaep wil ter niet vlien.</l>
+<l rend="speaker"><hi rend="i">Jaapje.</hi></l>
+<l rend="; 1tab">'t Is naer de pret van Marionet:</l>
+<l>Het spelletje van Ian Klaese,</l>
+<l>'t Is naer de pret van Marionet:</l>
+<l>Sta stil Truy met een set,</l>
+<l>Daer hebje de klugt al gaende,</l>
+<l>Zy kruypen uit en in de Zak,</l>
+<l>Ziet eens wat is Ian Klaese zwak,</l>
+<l>Sta stil nu Truitje tot strak.</l>
+<l rend="speaker"><hi rend="i">Truitje.</hi></l>
+<l rend="; 1tab">Ia zoo waer, dat is wel raer:</l>
+<l>Zy slaen malkaer met stokken,</l>
+<l>Ia zoo waer, dat is wel raer,</l>
+<l>Sta stil myn lieve Uaer:</l>
+<l>De droes wie kan hier scheiden,</l>
+<l>Ik wagt 'er aen 't gaet zoo 't wil,</l>
+<l>Al sloeg myn Moertje my op myn bil;</l>
+<l>Kom lustig nou Iaepje sta stil.</l>
+<l rend="speaker"><hi rend="i">Jaapje.</hi></l>
+<l rend="; 1tab">Zoete Meid: wat ben ik verblyd,</l>
+<l>Nu gy my 't Iawoord hebt gegeven:</l>
+<l>Zoete Meid, wat ben ik verblyd,</l>
+<l>Sta stil nu is het tyd:</l>
+<l>Wy zullen Zaem eens dansen,</l>
+<l>Gy weet wel wat ik zeggen wil,</l>
+<l>Gy gaet met Iaepje nu aen den dril,</l>
+<l>Het deuntje van Iaepje sta stil.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0028"/> </interpGrp>
+<pb n="67"/>
+<head rend="h3">Een Afscheid Lied van een Jonkman die na Oost-Indien ging, en van zyn Liefste een minnelyk afscheid nam.</head>
+<div type="section">
+<head rend="h4"><hi rend="i"> Stem: Adieu myn Vriendin.</hi></head>
+<lg type="poem"><l><hi rend="i">A</hi>urora brengt dien klaren dag,</l>
+<l>Ryst op myn Lief wilt wekken,</l>
+<l>Want ik moet vertrekken,</l>
+<l>Hier baet geen geklag:</l>
+<l>Den ligter leid wild hooren,</l>
+<l>Aen den Boom met vlyd,</l>
+<l>Koomt brengt my aen de toren;</l>
+<l>'t Is nu moytjes tyd,</l>
+<l>Weent niet; maer weest verblyd.</l>
+<l rend="; 1tab">Hoe zou ik kunnen zyn verblyd,</l>
+<l>Daer gy gaet henen zwerven,</l>
+<l>Wie weet hoe menig werven,</l>
+<l>Naest de dood gy zyt,</l>
+<l>Men zal u moeten missen,</l>
+<l>Mogelyk komt de dood:</l>
+<l>Dan smyt men u voor de vissen:</l>
+<l>En dan leef ik in nood,</l>
+<l>In angst en droefheid groot.</l>
+<l rend="; 1tab">De dood die volgt ons over al,</l>
+<l>Niemand is hier geseten,</l>
+<l>Die van te voren kan weten,</l>
+<l>Waer hy sterven zal:</l>
+<l>'t Is altyd droevig scheiden,</l>
+<l>Lief gunt my maer een bee;</l>
+<l>Dat ik u mag geleiden,</l>
+<l>Door de woeste zee:</l>
+<l>Lief laet ik varen mee.</l>
+<pb n="68"/>
+<l rend="; 1tab">Schoon kind dat voor u niet en past,</l>
+<l>Dat gy zou door de baren,</l>
+<l>Na Oost-Inje varen,</l>
+<l>Daer de peper wast,</l>
+<l>Myn lief houd op met klagen,</l>
+<l>Droogt uw tranen-vloed:</l>
+<l>Gy zult in korte dagen,</l>
+<l>Door een brief vol moed,</l>
+<l>Uan my worden gegroet.</l>
+<l rend="; 1tab">Schoon kind als 't aers niet wesen kan,</l>
+<l>Zoo wil u God behoeden,</l>
+<l>Op Neptunus vloeden,</l>
+<l>Draegt u als een Man:</l>
+<l>Borias laet zyn winden,</l>
+<l>Blasen na uwen zin;</l>
+<l>Dat gy havens moogt vinden,</l>
+<l>Daer gy om gewin,</l>
+<l>Haest hoop te komen aen.</l>
+<l rend="; 1tab">'k Hoop wy vinden nog wel een Ree:</l>
+<l>Maer eerst moeten wy zeilen,</l>
+<l>Wel drie duisend mylen,</l>
+<l>En drie hondert mee:</l>
+<l>Dan varen wy met lusten,</l>
+<l>Al na Batavia,</l>
+<l>Na d' een of d' ander kusten,</l>
+<l>Met ons Scheepje dra,</l>
+<l>Naer 't goudryk Asia.</l>
+<l rend="; 1tab">Lief als gy komt in 't warme land,</l>
+<l>Zoo wilt u niet vermengen,</l>
+<l>Met die zwarte krengen;</l>
+<l>Of gy raekt van kant:</l>
+<l>Haer oogen vol van lonken,</l>
+<l>Die zoeken een blank gesel;</l>
+<l>Het zyn maer geile vonken;</l>
+<pb n="69"/>
+<l>Met haer bruine vel,</l>
+<l>Zy lyken de drommel wel.</l>
+<l rend="; 1tab">Soete Lief leeft dog na myn bevel:</l>
+<l>Laet dobbelen en spelen,</l>
+<l>Uegten en krakeelen?</l>
+<l>Leeft dog niet rebel,</l>
+<l>Begeeft u niet tot zuypen,</l>
+<l>Gelyk een dronkaerd doet,</l>
+<l>Die als een zwyn gaet kruipen:</l>
+<l>In den drek hy vroet,</l>
+<l>En verteerd al zyn goed.</l>
+<l rend="; 1tab">Ik zal my dragen huys en koen;</l>
+<l>Wilt u betraende oogen,</l>
+<l>Zoete Lief af drogen,</l>
+<l>En voor 't laest een zoen:</l>
+<l>Myn Lief wilt zorge dragen:</l>
+<l>Uoor u maegdom fris;</l>
+<l>Een dief zal 't noyt behagen,</l>
+<l>Dat hy steeld de vis,</l>
+<l>Die niet vergald en is.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0029"/> </interpGrp>
+<head rend="h3"><hi rend="i">De Schip-breuk van de Engelsche Matroos.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Een zingende Pantomine.</hi></head>
+<lg type="poem"><l><hi rend="i">O</hi>ch wat is my overkomen,</l>
+<l rend="; 1tab">Op myn laetste tocht die 'k dee,</l>
+<l>Yder mensch zou daer voor schroomen,</l>
+<l>Zoo ik 't verhael hem deelde mee:</l>
+<l>Naeuwelyks waren zy gevaren,</l>
+<l>Drie etmalen ver in zee,</l>
+<l>Door een onweer op de baren,</l>
+<pb n="70"/>
+<l>Brak de groote mast aen twee;</l>
+<l>'t Schip dat rysde, 't Schip dat daelde;</l>
+<l>Eindelyk kreeg het zulk een smak,</l>
+<l>Dat het op een klip verdwaelde,</l>
+<l>En aen duisend stukken brak.</l>
+<l rend="; 1tab">Toen was het mannen berg jou luize,</l>
+<l>Zwemmen was het alderbest:</l>
+<l>'k Moest als een End verhuisen,</l>
+<l>Dat gestoord word in zyn nest:</l>
+<l>Maer wanneer ik zwom in 't water,</l>
+<l>Ag ik zal 't nooit vergeten,</l>
+<l>Dat, Haest een Haey met zyn' snater,</l>
+<l>In den Box gebeten had:</l>
+<l>'k Ben tot na de wal gezwommen,</l>
+<l>En aldus 't gevaer ontsnapt;</l>
+<l>Straks ben ik aen land geklommen,</l>
+<l>En tot hier toe voortgestapt.</l>
+<l rend="; 1tab">Wat zal ik nu gaen beginnen,</l>
+<l>Nat en koud in desen staet,</l>
+<l>Maeg en beurs is schrael van binnen:</l>
+<l>Ag hoe raek ik van de straet:</l>
+<l>Zoo de hospes nu wil borgen,</l>
+<l>En maer tappen op crediet,</l>
+<l>Dan zoo ben ik buiten zorgen,</l>
+<l>En ik denk om geen verdriet;</l>
+<l>Hoe geen zwarigheid voor desen,</l>
+<l>Heb ik daer de poen verteerd,</l>
+<l>'k Wed hy zal zoo boos niet wesen,</l>
+<l>Dat hy nu niet crediteerd.</l>
+<l rend="; 1tab">'k Heb de moed nog niet verloren:</l>
+<l>Het couragie dat is gang,</l>
+<l>Sagt den hospes mogt het hooren,</l>
+<l>Die zong wis den babokzang,</l>
+<l>Scheerje wil van hier vertrekken,</l>
+<pb n="71"/>
+<l>Of ik zalje op u pens,</l>
+<l>Met een Beesemstok toedekken,</l>
+<l>Datje lykend na geen mensch:</l>
+<l>Daer is 't Wyf die is veel zagter,</l>
+<l>Bloed zy heeft my in de Neus,</l>
+<l>'k Wed ze my roept aenstonds agter,</l>
+<l>Het daer geeft ze reeds de leus.</l>
+<l rend="speaker"><hi rend="i">(De Waardin zingende tegen Piet)</hi></l>
+<l rend="; 1tab">Wel Uriend wat 's u begeer,</l>
+<l>Wel Uriend wat 's u begeer,</l>
+<l>Maekt haest my dat te zeggen;</l>
+<l>Want 't volk hier binnen wagt my daer,</l>
+<l>Ook heb ik niet lang tyd myn vaer,</l>
+<l>Hoe ziet gy zoo bedroeft en naer,</l>
+<l>Komt zegt 't my maer.</l>
+<l rend="speaker"><hi rend="i">(Piet)</hi></l>
+<l rend="; 1tab">Wel hoe nou Iuffrouw Griet,</l>
+<l>Wel hoe nou Iuffrouw Griet,</l>
+<l>Hebt gy my zoo vergeten,</l>
+<l>Beste my wel, kend gy my niet,</l>
+<l>Ik ben jou ouwe kland jou Piet,</l>
+<l>Die hier veel geld spandeerde en liet.</l>
+<l rend="speaker"><hi rend="i">(Griet tegen Piet)</hi></l>
+<l rend="; 1tab">Gy Piet ik zag u nooit,</l>
+<l>Gy Piet ik zag u nooit,</l>
+<l>Zoo arm en zoo pover;</l>
+<l>Ik loof jou Geld en Goed,</l>
+<l>Uerspeeld verhoerd als gy meer doet,</l>
+<l>Daerom gaet maer van hier heel zoet,</l>
+<l>Iou naekten bloed.</l>
+<l rend="speaker"><hi rend="i">(Piet)</hi></l>
+<l rend="; 1tab">Wel Griet wat praet is dat,</l>
+<l>Wel Griet wat praet is dat,</l>
+<l>Is 't ernst of is 't gekken:</l>
+<pb n="72"/>
+<l>Ik zeg dat ik niet wil van hier,</l>
+<l>Uoor dat ik spreek jou Man of Knier,</l>
+<l>Ga tapt terstond een kan oud bier,</l>
+<l>En roept heur hier.</l>
+<l rend="speaker"><hi rend="i">(Griet)</hi></l>
+<l rend="; 1tab">Wel schoft nu wil ik niet,</l>
+<l>Wel schoft nu wil ik niet,</l>
+<l>Myn Man of Knier gaen roepen,</l>
+<l>Gy zult niet komen in myn huis,</l>
+<l>Ik merk je hebt geen munt nog kruis,</l>
+<l>Daerom maekt hier geen gedruis:</l>
+<l>Weg naekte Luis.</l>
+<l rend="speaker"><hi rend="i">(Piet)</hi></l>
+<l rend="; 1tab">Weest toch zoo haestig niet,</l>
+<l>Weest toch zoo haestig niet,</l>
+<l>'k Zal u myn reis verhalen:</l>
+<l>Maer zy is doorgegaen heel kwaed,</l>
+<l>En laet my staen hier op de Straet;</l>
+<l>Maer wie komt daer in ryk gewaed,</l>
+<l>Ha't is myn maet.</l>
+<l><hi rend="i">Zyn Maat geeft hem Geld, en zy gaan zamen</hi></l>
+    <l rend="; 1tab"><hi rend="i">In de Herberg, daer Piet toen welkom was,</hi></l>
+<l><hi rend="i">En zong met een glas Wyn het besluit.</hi></l>
+<l rend="; 1tab">Laet ons vrolyk zyn,</l>
+<l>By de meisjes en de Frisse Wyn;</l>
+<l>Hei wakker aen 't Glas grypt ras,</l>
+<l>Lustig aen, Laet de wyn na binnen gaen,</l>
+<l>Komt schenkt nog eens in,</l>
+<l>En klinken wy verheugt van zin.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0030"/> </interpGrp>
+        <interpGrp>
+            <interp type="secundair" value="17660916"/>
+        </interpGrp>   
+<pb n="73"/>
+<head rend="h3">Het Regt gedaan binnen Middelburg, den 16 September 1754. aan Pieter de Waal, dewelke zyn Slaapbaas met een Mes heeft Dood gestoken, waar voor dezelve, na alvorens een zwaar berouw en hertelyk leetwezen getoont en beleden te hebben, door den Scherprechter met het Zwaart is Onthalst.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: ô Holland schoon gy leeft in Vreê.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>anneer de Mensch den Heer verlaet,</l>
+<l>Die van hem is geweken,</l>
+<l>Uervalt hy wis tot alle kwaed,</l>
+<l>Tot Zonden en Gebreken;</l>
+<l>Dan speeld den Zatan zynen Rol,</l>
+<l>En 't Hert dat is van Boosheid vol,</l>
+<l>Om alderley Misdaden,</l>
+<l>Te dryven vroeg en spade.</l>
+<l rend="; 1tab">Zoo is het ook met my gegaen;</l>
+<l>Ik heb den Heer verlaten,</l>
+<l>Ik liet my niet ten goede raen,</l>
+<l>Ik was voor 't ydel praten,</l>
+<l>Ik sloeg, als eenweerspannig Kind,</l>
+<l>De goede lessen in de Wind,</l>
+<l>En ging myn Ieugdig leven,</l>
+<l>Tot Zonden overgeven.</l>
+<l rend="; 1tab">Ik die in 't lieve Uaderland,</l>
+<l>Bevryd van Zee en Baren,</l>
+<l>Naeuw uit het Oosten was geland,</l>
+<l>In 't bloeijen van myne jaren:</l>
+<l>In plaets dat ik des Hemels Heer,</l>
+<l>Daer voor zou geven lof en eer;</l>
+<l>Ging ik myn Geld verteeren,</l>
+<l>Met brassen en met smeeren.</l>
+<pb n="74"/>
+<l rend="; 1tab">Maer was 't eilaes daer mee gedaen,</l>
+<l>En waer 't daer mee gebleven:</l>
+<l>Ik had geen grooter kwaed gedaen,</l>
+<l>Zoo als ik heb bedreven;</l>
+<l>Maer ach! ik heb in toorne groot,</l>
+<l>Myn Slaepbaes onverwagt gedood,</l>
+<l>En hem een steek gegeven,</l>
+<l>Waer door hy kwam om 't leven.</l>
+<l rend="; 1tab">En schoon ik nam terstond de vlugt;</l>
+<l>Op Huysen en op Daken,</l>
+<l>Het bloed dat tot den Hemel zugt,</l>
+<l>En van de Moord eischt wraeke,</l>
+<l>Gedoogde niet dat ik niet ontkwam,</l>
+<l>Zoo dat men my gevangen nam,</l>
+<l>Door 's Heeren Dienaers handen;</l>
+<l>Die my boeiden met banden.</l>
+<l rend="; 1tab">Zy bragten my op 's Gravensteen,</l>
+<l>Daer ik ras heb beleden,</l>
+<l>Myn snood bedryf en Gruwelheen,</l>
+<l>Uoor d'Edele Agtbaerheden:</l>
+<l>Die my om myne misdaed groot</l>
+<l>Uerwesen hebben tot de dood;</l>
+<l>Myn levensdraed te kerven,</l>
+<l>En door het Zwaert te sterven.</l>
+<l rend="; 1tab">Nu sta ik hier op het schavot,</l>
+<l>Om Loon naer 't werk t' ontgangen,</l>
+<l>Uergeef genaderyke God,</l>
+<l>Al myne boose gangen;</l>
+<l>Gedenkt tog niet myn zonden schuld,</l>
+<l>Myn hert met waer gena vervuld,</l>
+<l>Wascht my heel rein en schoone,</l>
+<l>In 't bloed van uwen Zoone.</l>
+<l rend="; 1tab">Gy hebt wel meer Heer uw gena,</l>
+<l>Aen moordenaers bewesen,</l>
+<pb n="75"/>
+<l rend="; 1tab">['t] Opregt berouw kwam nooit te spa,</l>
+<l>Gunt my dat ook mits desen,</l>
+<l>Ontfangt in desen bangen stand:</l>
+<l>Myn geest ô Uader in uw hand,</l>
+<l>En laet my by u komen,</l>
+<l>In 't Paradys der Uromen.</l>
+<l rend="; 1tab">Komt hier gy oud en jong te zaem,</l>
+<l>'k Zal u een leerbeeld geven,</l>
+<l>Ureest voor des Heeren grooten Naem,</l>
+<l>En beterd toch uw leven:</l>
+<l>Steld Zyne alwetenheid voor 't oog,</l>
+<l>Gy zyt beneen, en Hy om hoog,</l>
+<l>Hy beschouwt met zyne oogen,</l>
+<l>Al uw doen uit den Hoogen.</l>
+<l rend="; 1tab">En zyn 'er misschien in den hoop,</l>
+<l>Die op myn einde merken,</l>
+<l>Wier snood bedryf en levensloop,</l>
+<l>Uerr' overtreft myn werken:</l>
+<l>Schoon gy 't aerdsch gericht ontvlied,</l>
+<l>De Heer die uwe wegen ziet,</l>
+<l>Beterd gy niet uw leven,</l>
+<l>Zal u eens straffe geven.</l>
+<l rend="; 1tab">Uaerwel nu al de Urienden myn,</l>
+<l>Adieu myn Welbekende,</l>
+<l>Ik ga vol moed, Schoon met veel pyn,</l>
+<l>Myn dierbaer leven enden,</l>
+<l>Uergeef my heb ik u misdaen,</l>
+<l>Stil u gesugt en droef getraen,</l>
+<l>Wil u in God versterken,</l>
+<l>Ik kryg maer loon na werken.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0031"/> </interpGrp>
+    <interpGrp>
+        <interp type="secundair" value="17660520"/>
+    </interpGrp>
+<pb n="76"/>
+<head rend="h3">De Delftsche Burgery Verheugt, by het Verwellekommen van hunne Doorlugtige Hoogheid Willem de Vyfde, Prince van Oranje en Nassauw, Erf-Stadhou-houder &amp; c. den 20. Mey 1766.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: ô Holland schoon gy leeft in vreê.</hi></head>
+<lg type="poem"><l><hi rend="i">M</hi>en roeme vry Heer Goverts Stad,</l>
+<l>Geboud voor Delvenaeren,</l>
+<l>Zoo als Heer Blyswyks Schrift bevat;</l>
+<l>Een roem der Burgerschaeren!</l>
+<l>'t Geslagt van hem daer triomfeert,</l>
+<l>De Grooten zyn met hem vereert;</l>
+<l>En hy blyft aldaer leven,</l>
+<l>Door 't Boek van hem geschreeven.</l>
+<l>2.</l>
+<l>Haer oudheid over lang bekent,</l>
+<l>In alle Wereld-streeken;</l>
+<l>Wel waerdig in 't Uerstand geprent,</l>
+<l>Als 't yder is gebleeken,</l>
+<l>Ik zal op haelen van haer lof;</l>
+<l>Die klinkt aen 't hooge Sterren hof,</l>
+<l>En zal de tyd verduuren,</l>
+<l>Beroemd om Uest en Muuren.</l>
+<l>3.</l>
+<l>De Kerken aldaer wys geboud,</l>
+<l>Doen duyzend derwaerts streeven,</l>
+<l>En 't geen myn zang daer in ontvout,</l>
+<l>Moet lof en glorie geven,</l>
+<l>Daer leggen Helden in haer Graf;</l>
+<pb n="77"/>
+<l>De tyd veegt nooit haer glorie af,</l>
+<l>Piet Heyn en and're Helden!</l>
+<l>Mag men haer Glorie melden.</l>
+<l>4.</l>
+<l>Marnix zyn Dochter legt alhier:</l>
+<l>Een Raed van Prins Oranje,</l>
+<l>Die nevens Hem vol moed en vier:</l>
+<l>Zig kanten tegen Spanje:</l>
+<l>Een Man die met zyn Pen en Hand,</l>
+<l>Ten Lof Schreef van de Protestand:</l>
+<l>Zyn Bykorf wys Geschreven,</l>
+<l>Zal eeuwig blyven Leven.</l>
+<l>5.</l>
+<l>Maer meerder maekt deez' Stad vermaerd,</l>
+<l>Door der Nassouwer Helden!</l>
+<l>Prins Willem van een Ed'len Aerd:</l>
+<l>Wiens deugt men moet vermelden:</l>
+<l>Om dat Hy Leven Goed en Bloed,</l>
+<l>Met eene wakk're Heldenmoed,</l>
+<l>Uoor Godsdienst en Uryheden,</l>
+<l>Den Landen kwam besteden.</l>
+<l>6.</l>
+<l>Uervloekte Gerards die hem schoot,</l>
+<l>Door het Pistool baldadig,</l>
+<l>Met hy in 't nypen van dien noot,</l>
+<l>Riep hy voor 't laest Genadig,</l>
+<l>Bewaerd ô Heer! het arme Uolk,</l>
+<l>Goedhals daer naer Gods Hemel-tolk:</l>
+<l>Zal 't in zyn Boek getuygen!</l>
+<l>Waer uit wy honing zuigen.</l>
+<l>7.</l>
+<l>Benevens Willem leggen hier,</l>
+<l>Zyn Nazaten begraven,</l>
+<l>Die op het Oorlogs-Paerd zeer sier,</l>
+<pb n="78"/>
+<l>Hun Glorie deden draven,</l>
+<l>Held Maurits regt der Spaenzen schrik,</l>
+<l>Zyn dapp're broeder Frederik,</l>
+<l>Te vroeg voor 't Land gesloten,</l>
+<l>Moet men haer Naem vergrooten.</l>
+<l>8.</l>
+<l>De Trompen Mannen groot in Naem:</l>
+<l>Hier rusten onder zerken,</l>
+<l>Sy Leven nog door hunne Faem,</l>
+<l>Op uit Gespreyde Ulerken,</l>
+<l>Nooit wist men uit het Uroom Gemoed;</l>
+<l>Zoo Tromp als het Oranje bloed,</l>
+<l>De roem doet het ontvouwen:</l>
+<l>Om 't Graf van haer te schouwen.</l>
+<l>9.</l>
+<l>Men roem u Delftsche Burgery,</l>
+<l>Op het Ge-eert onthalen,</l>
+<l>Uan onsen Willem: die men bly,</l>
+<l>Zag in uw Uesten pralen:</l>
+<l>Men roem uw Min uw Liefdeblyk,</l>
+<l>Uerdiend vereeuwigt in Kronyk:</l>
+<l>Uw Lof werd op de Tongen,</l>
+<l>Uan duyzende gesongen.</l>
+<l>10.</l>
+<l>Wat stond gy zaem niet trouw geschaerd,</l>
+<l>Om Willem te ontfangen,</l>
+<l>Met zyne Uoogt t' zaem Gepaert,</l>
+<l>Elk spoorde 's Princen gangen,</l>
+<l>Het was viva lang leeft de Prins,</l>
+<l>Elk was in liefde heel van zins,</l>
+<l>Om hem te Wellekommen?</l>
+<l>Met Klok en Keteltrommen.</l>
+<l>11.</l>
+<l>Men riep lang leev' d' Oranje spruyt,</l>
+<l>Ons lieve Graef van Buuren,</l>
+<pb n="79"/>
+<l>Wy wenschen hem een ed'le Bruyd,</l>
+<l>Dan steekt men vreugdevuuren,</l>
+<l>Zoo was het hert van hen gesteld,</l>
+<l>De Ureugt was meer verheven,</l>
+<l>Om Willem ons gegeven.</l>
+<l>12.</l>
+<l>Een elk regtmatig Onderdaen,</l>
+<l>Die kwam den Hemel smeken,</l>
+<l>Dat lang Oranjes Ureeden-Uaem,</l>
+<l>Het Zegel mote steken,</l>
+<l>Door Gods Genaderyke hand,</l>
+<l>Tot Heil van Kerk en Uaderland:</l>
+<l>Zoo wensten de Gemeene,</l>
+<l>En Groot en Kleyn met eene.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0032"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Lied, van de Mechelze Kermis.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aangename Wys.</hi></head>
+    <lg type="poem"><l><hi rend="i">L</hi>est op een tyd, was ik verblyd,</l>
+<l>Binnen Mechelen ben ik getreden,</l>
+<l>Spoedig en ras, net op zyn pas;</l>
+<l>Alwaer het kermis was,</l>
+<l>Daer vond ik veel Iong gesellen,</l>
+<l>Aerdige klugten en sprookjes vertellen,</l>
+<l>Het was het van Ionker omen koezyn,</l>
+<l>Urinden gy weet wel wat ik meen,</l>
+<l>Het zal der u aengenaem zyn.</l>
+<pb n="80"/>
+<l rend="; 1tab">Alles is wel al wat hy dee,</l>
+<l>Ionker trok met zyn Lief na buyten,</l>
+<l>Wyt van de kant, Fris figeland,</l>
+<l>Daer hy zyn netje uit spand,</l>
+<l>En haer beentjes met groot behagen;</l>
+<l>Lustig al op dat fluytje geslagen,</l>
+<l>Dan ging dat fluytje al kwak, kwak, kwak,</l>
+<l>Al door dat hussele tegen de Zak,</l>
+<l>Dat 'er de Liefde uit brak.</l>
+<l rend="; 1tab">Hy sprak Godin, ontsiet myn min:</l>
+<l>Dat op u poeselde Lonkende Oogen:</l>
+<l>Hy sprak zoete Meyd, het is nu tyd,</l>
+<l>Dat gy u beentjes uit spreid,</l>
+<l>En u beentjes met groot behagen,</l>
+<l>Lustig al op dat fluytje geslagen,</l>
+<l>Dan ging dat fluytje al kwak, kwak, kwak,</l>
+<l>Al door dat hussele tegen de Zak,</l>
+<l>Dat 'er de Liefde uit brak.</l>
+<l rend="; 1tab">Maer een Boer, lag op zyn loer,</l>
+<l>Zelfs de Meester van dat kooren;</l>
+<l>Zyder wel vrind, benje gesind,</l>
+<l>Dat gy u netje op bind,</l>
+<l>Zoekt gy myn zoo te veragten?</l>
+<l>Daer ik een heel Iaer na moet wagten,</l>
+<l>Gy zyt nog kenbaer, ag Uogeltje fijn;</l>
+<l>Gy zyt een Ionkertje van omen koesijn,</l>
+<l>Het zal u niet aengenaem zyn.</l>
+<l rend="; 1tab">Hy sprak wel Baes, maekt geen geraes,</l>
+<l>Ziet myn Godin, die vlugt in 't Koren,</l>
+<l>Klapt het tog niet, tot myn verdriet!</l>
+<l>Wat dat 'er van daeg is geschied,</l>
+<l>Want ziet myn Papaetje zou zeker kyven,</l>
+<l>Ik zal der wel uit u Korenland blyven,</l>
+<l>Wel wat gaf hy de Boer figeland,</l>
+<pb n="81"/>
+<l>Wel vier schellingen in zyn hand;</l>
+<l>Stak 'er zyn schuytje van kand.</l>
+<l rend="; 1tab">Deze Boer styf, liep na zyn Wyf,</l>
+<l>Wyf ik moet u wat nieuws verhalen,</l>
+<l>Agter ons Hek, op het vertrek,</l>
+<l>Daer zag een ik aerdig overleg,</l>
+<l>Daer waren 'er twee om quartele te vangen,</l>
+<l>Ik hebze vier schellinge of doen langen,</l>
+<l>Maer zyn Godinne die vlugten met spoed,</l>
+<l>Ik hadze met zelfde water begroet,</l>
+<l>Zy zei hajue dats goed.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0033"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Lied, op het Arriveeren, van de Oost-Indische Retour-Vloot, voor het Jaar 1766.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Komt Zwierbollen en gy ligte Knape.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>at ziet men nu een vreugt en glorie,</l>
+<l>In ons lieve Hollands dal,</l>
+<l>Het geeft ons op nieuw Uictorie,</l>
+<l>In 't Iaer Ses-en-Zestig al:</l>
+<l>Een schoone Uloot van 24 Schepen,</l>
+<l>Den Hemel bewaertse voor Storm en Onweers knepen,</l>
+<l>Datze met vreugde Florizant,</l>
+<l>Behouwe komen in het Uaderland.</l>
+<l rend="; 1tab">Wie ons Commandeur zal wesen,</l>
+<l>De Heer Marcus Tetting heel bekwaen,</l>
+<pb n="82"/>
+<l>Hy voert het Schip Lapienenburg wel gepresen,</l>
+<l>Het is een vreugd voor ons te zaem,</l>
+<l>Kaptein Ian van Daelen, komt mee zoo meenig mylen,</l>
+<l>Met Keukenhof mee door de Zee heen-zylen,</l>
+<l>Tulpenburg, met Pieter Klement, mee zylen kwam,</l>
+<l>Alle drie met glorie voor Amsterdam.</l>
+<l rend="; 1tab">Uoor Zeeland ziet men binnen komen,</l>
+<l>Het Schip Zuydbeveland heel bekwaem,</l>
+<l>Kaptein Huybert van der Kneu, al zonder schromen,</l>
+<l>God is haer leysman al te zaem,</l>
+<l>De Admirael de Ruyter heel verblyd van zinnen,</l>
+<l>Sylt mee met vreugd voor Zeeland binnen,</l>
+<l>God is haer leydsman al op de Zee,</l>
+<l>Dat ze behouwe komen op een goede Ree.</l>
+<l rend="; 1tab">Kaptein Ian Moorland ziet men voor Delft komen,</l>
+<l>Met het Schip Schravezande, wel bekwaem,</l>
+<l>Die voor geen storm of wind en schromen,</l>
+<l>God is haer leysman al te zaem,</l>
+<l>De Urouw Eliezabeth ziet men de wint beminne,</l>
+<l>Kaptein Pieter Beugels voor Rotterdam komt binnen,</l>
+<l>Zoo volgt de Uloot agter malkaer,</l>
+<l>God is haer leysman van alle gaer.</l>
+<l rend="; 1tab">Het Schip de Barrezande ziet men aen komen ruyse,</l>
+<l>Met volle lusten door de Zee,</l>
+<l>Met Kaptein Bartels voor de Kaemer van Enkhuyzen,</l>
+<l>God behoetse op een goede Ree;</l>
+<pb n="83"/>
+<l>Kaptein Uolhart Groenweg, komt mee veel Duysend mylen;</l>
+<l>Uoor Amsterdam niet door de Zee heen Zylen,</l>
+<l>Met het Schip Schoonsigt heel bekwaem,</l>
+<l>God is haer Leytsman al te zaem.</l>
+<l rend="; 1tab">Zeeland krygt mee de vreugt te hooren,</l>
+<l>Uan het Schip Neijenburg zoo men zegt,</l>
+<l>Dat door de Muytery haest was verloren,</l>
+<l>Kaptein Christoffel hars brengt het nu te regt,</l>
+<l>Men ziet dat Gods hand blieft te bewaren,</l>
+<l>Al was de Muytery op de woeste baren,</l>
+<l>De Kaptein met veel volk die raekte aen een kant,</l>
+<l>Evenwel zoo bleeft het schip in stant.</l>
+<l rend="; 1tab">Over China ziet men met vreugde komen,</l>
+<l>Kaptein Sybrantse Flout,</l>
+<l>Met het Schip Bossenhoven zonder schromen,</l>
+<l>Matroosjes al op God vertrout,</l>
+<l>Het schip Damsigt ziet men met vreugd aen komen,</l>
+<l>Al over Cylon al zonder schromen:</l>
+<l>Met Kaptein Lodewyk Tomazyn al door de Zee,</l>
+<l>God behoetse alle op een goede Ree.</l>
+<l rend="; 1tab">De Barbara Theodora ziet men met vreugde komen,</l>
+<l>Over Cylon met grote lust,</l>
+<l>Met Captein Albert Aelders God verleentse een goede rust,</l>
+<l>Het Lymuyde ziet men met vreugde komen,</l>
+<l>Over Cylon al zonder schroomen,</l>
+<l>Met Kaptein Antonie de Iong heel bekwaen,</l>
+<l>God is haer Leytsman alle te zaem.</l>
+<l rend="; 1tab">Uoor Amsterdam ziet men met vreugd aen komen dalen,</l>
+<l>Het Schip Scholtenborg met grote vreugd,</l>
+<pb n="84"/>
+<l>Met Kaptein Iacob Meijer over Bengale,</l>
+<l>Waer van dat menig is verheugt,</l>
+<l>Leendert van de Linde ziet men de wind beminnen,</l>
+<l>Dat hy over Cylon voor Zeeland nu komt binnen:</l>
+<l>Met het Schip Kattendyk,</l>
+<l>Het is een vreugt voor jonk out arm en ryk.</l>
+<l rend="; 1tab">Uoor Delft ziet men met vreugde komen,</l>
+<l>Het Schip Blyswyk heel bekwaem,</l>
+<l>Over Bengalen zonder schromen,</l>
+<l>Is Capteyn Klaes Stuyver aengenaem,</l>
+<l>Kapteyn Klaes Aerens zylen mee met lust te vooren,</l>
+<l>Over Bengalen voor de kamer van Hoorn,</l>
+<l>Met het schip Schage wel bemant,</l>
+<l>Godt doetse alle in de Noot bystand.</l>
+<l rend="; 1tab">Uredenhof ziet men met lust de wind beminne,</l>
+<l>Komt over China met grote pragt,</l>
+<l>Met Kaptein Willem van Braem zal de stryd overwinnen,</l>
+<l>Zyn Uolk werkt mee dag en nagt,</l>
+<l>Noort-Beveland ziet men met de last aen komen dragen,</l>
+<l>Al over China met groot behagen:</l>
+<l>Met Kaptein Simon Both al door de Zee,</l>
+<l>God behoetse alle op een goede Ree.</l>
+<l rend="; 1tab">Het Schip de Pallas ziet men met vreugde komen,</l>
+<l>Over China met grote lust,</l>
+<l>Met Kaptein Iacob Boekhout al zonder schromen,</l>
+<l>Om het te brengen tot goede rust.</l>
+<l>Het Schip Walenburg ziet men ook met vreugt aenkomen;</l>
+<pb n="85"/>
+<l>Al over China zonder schromen,</l>
+<l>Met Kaptein Eraszemus de Uries heel wel bekwaem:</l>
+<l>God is haer Leitsman al te zaem.</l>
+<l rend="; 1tab">Uoor het laest wil ik my digte gaen besluyten,</l>
+<l>God is haer bystant in de nood,</l>
+<l>Het Schip Lycogton laet ik 'er ook niet buyte,</l>
+<l>Bragt ons de blydschap van de Uloot,</l>
+<l>Met Kaptein Daniel Nieuman voor de Kamer van Hoorn,</l>
+<l>Het klonk veel vrouwetjes en liefjes in de ooren:</l>
+<l>En ook veel Hoertjes van de baen;</l>
+<l>Die met de Matroosjes zwiere gaen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0034"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een Nieuw Lied.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aengename Wys.</hi></head>
+<lg type="poem"><l><hi rend="i">I</hi>k wil de min gaen zoeken,</l>
+<l>Langs Bos, Bergen en hoeken,</l>
+<l>Want de min myn altyd jaegt;</l>
+<l>Om dat ik niet kan vinden,</l>
+<l>Myn zeer wel beminden,</l>
+<l>Die myn liefde draegt.</l>
+<l rend="; 1tab">Ik heb zoo menigen nagt,</l>
+<l>Aen de Echo myn min geklaegt,</l>
+<l>Om dat ik niet kan vinden,</l>
+<l>Myn zeer wel beminden,</l>
+<l>Die myn Liefde draegt.	</l>
+<l rend="; 1tab">Cuppedo die kwam myn geleiden,</l>
+<l>En met Min bestryden,</l>
+<pb n="86"/>
+<l>Weest gegroet myn schoon Godin,</l>
+<l>En al wat in de Wereld is,</l>
+<l>Dat is gepaert, het is nog vleesch of vis,</l>
+<l>Wilt van my wederkeren;</l>
+<l>De tyd zal het nog leeren,</l>
+<l>Wat de liefde is.</l>
+<l rend="; 1tab">Adieu zarmante Bloemen,</l>
+<l>Ik leg vast gebonden,</l>
+<l>Aen een ketting vol van min,</l>
+<l>Komt met u waerde handen:</l>
+<l>Maekt los myn banden,</l>
+<l>Myn schoon Engelen.</l>
+<l rend="; 1tab">Dan zal myn pyn,</l>
+<l>Uan myn Ionkhert verschoten zyn,</l>
+<l>Waer dwalen al u zinnen,</l>
+<l>Door Cuppedoos Minne,</l>
+<l>Schoone Maget reyn.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0035"/> </interpGrp>
+<head rend="h3">Merkwaardig Verhaal van een Dienstmaagd, genaamt Anna Katryn, die het Fortuyn wat is tegen gelopen in 't Dienen, en dienvolgens by een Zielverkooper in de Vinkestraat te Amsterdam, de rezolutie nam,voor Matroos na Oost-Indiën te varen; wat deselve op het Schip Sloten, Uitgevaren voor de Kamer van Amsterdam naar China, haar en haar Beminde de Commandeur is overgekomen, zeer Droevig om te Zingen.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Indien ooyt Maagd haar droeve klagten.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>at hoord men niet al vreemde dingen,</l>
+<l>Een Dienstmaegd hier uit Amsterdam,</l>
+<pb n="87"/>
+<l>Het disfortuin haer tegen gingen,</l>
+<l>Soo straks een resolutie man.</l>
+<l>2.</l>
+<l>Tot een Zielverkoper treeden,</l>
+<l>Alhier juist in de Uinkestraet,</l>
+<l>Nam dienst voor een Matroos op heden,</l>
+<l>En weer op 't Schip voor een Zoldaet.</l>
+<l>3.</l>
+<l>Zy op het Schip dan heen getreden,</l>
+<l>Word voor een Urouwsperzoon bekend,</l>
+<l>Aen Borsten en aen Urouwe Leeden:</l>
+<l>Den Capitein deed daer omtrent.</l>
+<l>4.</l>
+<l>Haer kleede als een Amezoone,</l>
+<l>En opgeschikt in 't openbaer,</l>
+<l>De Commandeur verlieft op 't Schoone,</l>
+<l>Die wou haer hebben tot een paer.</l>
+<l>5.</l>
+<l>Op Nieuw Iaer ging men haer tracteren,</l>
+<l>Men at en dronk braef in het rond;</l>
+<l>Maer ziet de dagvreugt kan verkeren,</l>
+<l>In een bedroefde Avondstond.</l>
+<l>6.</l>
+<l>Zy midden in dit vreugd geklater,</l>
+<l>Is op het Dek genomen ree,</l>
+<l>Om haer te wassen met Zee-water;</l>
+<l>Soo struykelt zy, verdronk in zee.</l>
+<l>7.</l>
+<l>Den Commandeur nu had vernomen,</l>
+<l>Dat zy verdronken was in zee,</l>
+<l>Is daedlyk op het Dek gekomen,</l>
+<l>En nam des rezolutie mee.</l>
+<l>8.</l>
+<l>Uan hem op 't deftigst aen te kleeden,</l>
+<l>Ley Goudbeurs, Uurwerk in zyn hoed,</l>
+<pb n="88"/>
+<l>En volgde zyne liefste meede,</l>
+<l>Met hem te werpen in de Uloet.</l>
+<l>9.</l>
+<l>Onthou dit Lied gy klein en grooten,</l>
+<l>Uan 't geen zoo droevig is geschied,</l>
+<l>Op 't Schip na China genaemt Slooten,</l>
+<l>En vreest Gods hoogheid en gebied.</l>
+<l>10.</l>
+<l>Zy door de dood van een gescheiden,</l>
+<l>En neergedompelt in den vloet,</l>
+<l>Die konnen weer bereenen beiden,</l>
+<l>In 't Hemelhof, ons hoogste goed.</l>
+<l>11.</l>
+<l>De Liefde heeft de sterkste banden,</l>
+<l>Geloof en hoope volgt zy mee,</l>
+<l>Als Koningin van alle Landen,</l>
+<l>Heerst zy alom op 't Land en zee.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0036"/> </interpGrp>
+    <interpGrp>
+        <interp type="secundair" value="17660625"/>
+    </interpGrp>
+<head rend="h3">Treur-Zang, wegens de Schrikkelyke en Felle Brand; die 'er op Woensdag den 25 Juny 1766 te Hilversum is ontstaan; waer door meer dan 200 Huyzen, als mede de Kerk, het Rechthuis en veel andere Voorname Gebouwen tot de grond toe zijn Afgebrand.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stem: Toen ik laast myn Geitjes Weiden.</hi></head>
+<lg type="poem"><l><hi rend="i">W</hi>at is de Heere in zyn werken,</l>
+<l rend="; 1tab">	Zyn hand is kragtig van om hoog!</l>
+<l>Wie kan des Heere wegen merken?</l>
+<l>	Wie staet in Gods besluyt zyn oog?</l>
+<pb n="89"/>
+<l>De Mensch gansch zwak in 't wel bevatten,</l>
+<l rend="; 1tab">Of: in 't beschouwe 't geen hy ziet;</l>
+<l>Maer die't geheim der Bybelschatten</l>
+<l rend="; 1tab">Doorleest, weet waerom zulks geschied.</l>
+<l>2.</l>
+<l>Waerom Hy 't eene Uolk doet lyden,</l>
+<l rend="; 1tab">Door Schriklykheên en Watervloed!</l>
+<l>En 't and're wil door Brand kastyden;</l>
+<l rend="; 1tab">'t Zyn dingen die de Heere doet,</l>
+<l>Na zyn Urymagtig welbehagen,</l>
+<l rend="; 1tab">Hy schept het kwade en het goed,</l>
+<l>De duysternis en 't ligt der dagen,</l>
+<l rend="; 1tab">Godt is 't die zulks alles doet.</l>
+<l>3.</l>
+<l>De Lugt weergalmt door 't naere kermen!</l>
+<l rend="; 1tab">Nog zoekte in dien droeve stand,</l>
+<l>Een ieder 't zyne te beschermen;</l>
+<l rend="; 1tab">Maer ach! helaes! de felle Brand,</l>
+<l>Sloeg als vergramt in uwe Tenten,</l>
+<l rend="; 1tab">Dus zag g'uw hoop in dese tyd,</l>
+<l>Beknelt door al te naere Lenten:</l>
+<l rend="; 1tab">ô Uolk door my met regt beschreid.</l>
+<l>4.</l>
+<l>Ontbloot van Eygendom en Haeve,</l>
+<l rend="; 1tab">Ia in uw hart met druk bezwaert,</l>
+<l>Myn wensch is dat geen liefde gaeve,</l>
+<l rend="; 1tab">Word in uw hooge nood gespaert,</l>
+<l>Gy die in schat en hooge waerde,</l>
+<l rend="; 1tab">En Aerdsche welstand welig wast:</l>
+<l>Doet wel: terwyl gy leeft op Aerde,</l>
+<l rend="; 1tab">Zoo word uw heilig toegepast.</l>
+<l>5.</l>
+<l>Wel zalig is de Man die wyslyk</l>
+<l>	Hem draegt, omtrent een droef gemoed,</l>
+<pb n="90"/>
+<l>Diens wandel is by God zelfs pryslyk,</l>
+<l rend="; 1tab">Die hebben Aerds en Hemels Goed,</l>
+<l>Schept moed gy die nu zit te treuren!</l>
+<l rend="; 1tab">Denk 't is het Lyden deser tyd;</l>
+<l>Godt zal uw Hooft weêr eens opbeuren,</l>
+<l rend="; 1tab">In Tyd: Ia zelfs in Eeuwigheid.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="_nie182nieu01_0037"/> </interpGrp>
+    <interpGrp>
+        <interp type="secundair" value="17660611"/>
+    </interpGrp>
+<head rend="h3"><hi rend="i">Treur-Zang: op 't Verongelukken van een Beurt-Schip; Vaarende van Amsterdam op Hasselt, het welk door een ander Vaartuig tusschen Durgerdam ende Vuur-Toorn, Overzeild is: waar door van de 130 Zielen, byna 60. hun Leven hebben verlooren,en de overige door andere Vaar-Tuygen geret, Den 11 Juny 1766.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op de Wijs: ô Holland schoon.</hi></head>
+<lg type="poem"><l>1.</l>
+<l><hi rend="i">O</hi> Hemel welk een ongeluk!</l>
+<l>Op Y- en Zoute stromen,</l>
+<l>De Hemel voegt by vreugd ook druk,</l>
+<l>Gevolgt van angst en schromen:</l>
+<l>Naer eene zware en felle brand,</l>
+<l>Te Hilverzum in het gooit Land,</l>
+<l>Zoo hoord men droeve maren:</l>
+<l>Op Y- en Watre baren.</l>
+<l>2.</l>
+<l>De Beurtman die op Hasselt vaert,</l>
+<l>Was nauw van Land gestoken,</l>
+<l>Of ziet Nephtuin met kros en Paerd,</l>
+<l>Kwam fel op 't Water roken,</l>
+<pb n="91"/>
+<l>En schudde braef zyn maen en kop,</l>
+<l>En joeg door 't vlugtig bruysen zop,</l>
+<l>En deed 'er veele smore,</l>
+<l>Gelyk wy zullen horen.</l>
+<l>3.</l>
+<l>Hy met een groote vragt bemand,</l>
+<l>Uan Honderd dertig Zielen,</l>
+<l>Was nauw daer de Uuur-toren brand,</l>
+<l>Genaekt met Mast en Kielen,</l>
+<l>Naer by het Dorp van Durgerdam:</l>
+<l>Of ziet hy haest een gat bekwam?</l>
+<l>En naer de grond ging eylen,</l>
+<l>Door 't vinnig overzeylen.</l>
+<l>4.</l>
+<l>De Maeijers met hun loon belaen,</l>
+<l>Dat de Arbeid kwam vergoeden,</l>
+<l>Zyn in de Hasselaer gegaen,</l>
+<l>En ziet wat tegenspoeden,</l>
+<l>Zy leggen zich gerust ter neer!</l>
+<l>Op hunne bols en bed en veer;</l>
+<l>En met zy kwamen ronken,</l>
+<l>Zyn veel daer door verdronken.</l>
+<l>5.</l>
+<l>Het Schip dat raekten na de grond,</l>
+<l>Door 't Water in te sneeven,</l>
+<l>De doode Lyken men daer vond,</l>
+<l>Wie moet van schrik niet beeven,</l>
+<l>Een ramp en droevig ongeval:</l>
+<l>Uersmoorden veele Menschen al,</l>
+<l>En lieten laes het leven,</l>
+<l>Door 't Water ras omgeven.</l>
+<l>6.</l>
+<l>Wie kan wanneer het toeval wil,</l>
+<l>De rampen wederstreven:</l>
+<pb n="92"/>
+<l>De zaek raekt daer door in 't verschil:</l>
+<l>Wat dat het regt zal geven,</l>
+<l>En wat de oorsaek daer van zal zyn,</l>
+<l>Naer waerheid of naer gis of schyn,</l>
+<l>Dat zal den uitkomst leeren,</l>
+<l>Hoe dat de zaken keeren.</l>
+<l>7.</l>
+<l>'t Is Iammer droevig vol elend,</l>
+<l>Uan deese arme Zielen:</l>
+<l>Die niet in de agterboeg zig wend,</l>
+<l>Ueel Menschen deed vernielen,</l>
+<l>Zy smoren alle in de Uloed,</l>
+<l>Door het Zee-water zeer verwoet,</l>
+<l>En zyn straks omgekomen,</l>
+<l>Gelyk men heeft vernomen.</l>
+<l>8.</l>
+<l>De Hemel doet altoos zyn magt,</l>
+<l>Daer is niets bygevallen,</l>
+<l>Op Zee en Land zoo blykt zyn kragt,</l>
+<l>Aen muur en sterke wallen,</l>
+<l>Een snel en schielyk oogenblik,</l>
+<l>Ueroorsaekt veel en groote schrik,</l>
+<l>En doet ons veeltyds klagen,</l>
+<l>In veel benaeude dagen.</l>
+<l>9.</l>
+<l>Men leer hier uit hoe meenig Man;</l>
+<l>Haest aen zyn eynd' kan komen,</l>
+<l>Met dat de Heemel nu en dan,</l>
+<l>Gebied de Waterstromen,</l>
+<l>Cool de brulderende Wind,</l>
+<l>En Mensch, en Uee, en goed verslind.</l>
+<l>En met hy komt te woeden,</l>
+<l>Brengt hy veel tegenspoeden.</l>
+<pb n="93"/>
+<l>10.</l>
+<l>De Zielen zestig in 't getal,</l>
+<l>Komt men aldaer begroten,</l>
+<l>Door zulk een gat en Waterval,</l>
+<l>Heeft het hem aen gestoten,</l>
+<l>En zy zyn onverwagt gesmoort,</l>
+<l>Gelyk men uit de Tyding hoord,</l>
+<l>En zyn door 't nat verslonden,</l>
+<l>Gelyk men heeft bevonden.</l>
+<l>11.</l>
+<l>Niemand van hunner had verwagt:</l>
+<l>Soo'n haest en schielyk sneven,</l>
+<l>Het water dat heeft groote kragt,</l>
+<l>Als het komt aengedreven,</l>
+<l>En boord door dyk en gaten heen,</l>
+<l>Maekt vrouwe en kinders in 't geween,</l>
+<l>Wie weet hoe dat zy kermen:</l>
+<l>Wilt Heer ze al ontfermen.</l>
+<l>12.</l>
+<l>Bewaer ô Heer ons Nederland,</l>
+<l>Uoor brand en watervloeden,</l>
+<l>En toon voor al uw goede hand:</l>
+<l>In zulke tegenspoeden,</l>
+<l>En dek ons al in ongeval,</l>
+<l>Wees ons een muur en sterke Wal,</l>
+<l>Leer ons op u betrouwen,</l>
+<l>Zoo zyn wy vast behouwen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+
+<pb n="94"/>
+<head rend="h3"><hi rend="i">Register.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">A</hi>.</head>
+<table>
+<row><cell><hi rend="i">Aurora brengt den klaren dag.</hi></cell><cell>67</cell></row>
+<row><cell><hi rend="i">Aenhoord eens Vrienden waardig.</hi></cell><cell>24</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">B.</hi></head>
+<table>
+<row><cell><hi rend="i">Buurman is uw Wagen klaar.</hi></cell><cell> 3</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">D</hi>.</head>
+<table>
+<row><cell><hi rend="i">Dat arme Haasje in 't groene Woud.</hi></cell><cell>13</cell></row>
+<row><cell><hi rend="i">Doornik schoon met u sterke Wallen.</hi></cell><cell>37</cell></row>
+<row><cell><hi rend="i">De Winter is voorby gestreeken.</hi></cell><cell>57</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">E.</hi></head>
+<table>
+<row><cell><hi rend="i">Een jong Meisje schoon en aardig.</hi></cell><cell>10</cell></row>
+<row><cell><hi rend="i">Een Meisje pertinent.</hi></cell><cell>53</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">F.</hi></head>
+<table>
+<row><cell><hi rend="i">Foeselbroeders allegaar.</hi></cell><cell>33</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">G.</hi></head>
+    <table>
+<row><cell><hi rend="i">'t Gaatje nooit wel alsje Meisjes, &amp;c.</hi></cell><cell>52</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">H.</hi></head>
+<table>
+<row><cell><hi rend="i">Hoord wat de Brieven en Courant.</hi></cell><cell>62</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">I.</hi></head>
+    <table>
+<row><cell><hi rend="i">Ik lag laast op een Morgenstond.</hi></cell><cell>48</cell></row>
+<row><cell><hi rend="i">Ik wil de min gaan zoeken</hi>.</cell><cell>85</cell></row>
+</table>
+</div>
+<div type="section">
+<pb n="95"/>
+<head rend="h4"><hi rend="i">K.</hi></head>
+<table>
+<row><cell><hi rend="i">Kloris die myn herte rooft.</hi></cell><cell>47</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">L.</hi></head>
+<table>
+<row><cell><hi rend="i">Lest op een tijd, was ik verblijt.</hi></cell><cell>79</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">M.</hi></head>
+<table>
+<row><cell><hi rend="i">Meisjes van vlissingen weest verblyd.</hi></cell><cell>16</cell></row>
+<row><cell><hi rend="i">Men Kroon alöm de Burgery.</hi></cell><cell>25</cell></row>
+<row><cell><hi rend="i">Men moet steeds Floris gunste roemen</hi>.</cell><cell>49</cell></row>
+<row><cell><hi rend="i">Men roeme vry Heer Goverts Stad.</hi></cell><cell>76</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">N.</hi></head>
+<table>
+<row><cell><hi rend="i">Nu Vrienden hoord zingen.</hi></cell><cell>28</cell></row>
+<row><cell><hi rend="i">Nu zit ik in benouwen.</hi></cell><cell>35</cell></row>
+<row><cell><hi rend="i">Nu heb ik lust tot zingen.</hi></cell><cell>59</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">O.</hi></head>
+<table>
+<row><cell><hi rend="i">Ontwaakt mijn Lief, ontwaakt.</hi></cell><cell>55</cell></row>
+<row><cell><hi rend="i">Och wat is my overkomen.</hi></cell><cell>69</cell></row>
+<row><cell><hi rend="i">O Hemel welk een ongeluk.</hi></cell><cell>51</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">P.</hi></head>
+<table>
+<row><cell><hi rend="i">Philida lag neer gezegen.	</hi></cell><cell>51</cell></row>
+</table>
+</div>
+<div type="section">
+<pb n="96"/>
+<head rend="h4"><hi rend="i">V.</hi></head>
+<table>
+<row><cell><hi rend="i">Verwondelyk zyn 's Heeren werken!</hi></cell><cell>18</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">W.</hi></head>
+<table>
+<row><cell><hi rend="i">Wel wat maakt gy hier ô myn schoon Bruynette.</hi></cell><cell>17</cell></row>
+<row><cell><hi rend="i">Wie eert onze Prins Willem niet.</hi></cell><cell>22</cell></row>
+<row><cell><hi rend="i">Wel zoete Bregje van Zaandyk.</hi></cell><cell>40</cell></row>
+<row><cell><hi rend="i">Wel wat heeft de min vermogen.</hi></cell><cell>44</cell></row>
+<row><cell><hi rend="i">Wanneer de Mensch den Heer verlaat.</hi></cell><cell>73</cell></row>
+<row><cell><hi rend="i">Wat ziet men nu een vreugd en glorie.</hi></cell><cell>81</cell></row>
+<row><cell><hi rend="i">Wat hoord men niet al vreemde dingen.</hi></cell><cell>86</cell></row>
+<row><cell><hi rend="i">Wat is de Heere in zijn werken.</hi></cell><cell>88</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">J.</hi></head>
+<table>
+<row><cell><hi rend="i">Juffrouw ik kom hier verkoped.</hi></cell><cell>44</cell></row>
+<row><cell><hi rend="i">Jaapje sta stil.</hi></cell><cell>66</cell></row>
+</table>
+<p>&nbsp;</p>
+<p><hi rend="i">Eynde.</hi></p>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

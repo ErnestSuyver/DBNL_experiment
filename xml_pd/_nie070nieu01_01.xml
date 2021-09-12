@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Nieuw Wilhelmus-lied</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Nieuw Wilhelmus-lied</hi>, uitgegeven tussen 1830 en 1840.
+               </edition>
+               <respStmt>
+                   <resp>                       
+                       <corr>p. 1: ‘osrlog’ → ‘oorlog’: ‘Wat oorlog hen deed leijen’.</corr>
+                       <corr>p. 2: ‘Deu’ → ‘Den’: ‘Den eedlen WILLEM hoont’.</corr>
+                       <corr>p. 2: ‘hunnd’ → ‘hunne’: ‘U hunne trouw en moed’.</corr>
+                       <corr>p. 2: ‘ous’ → ‘ons’: ‘De burg van ons vertrouwen’.</corr>                       
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie070nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 04086</idno>
+               </bibl>
+               <p><hi rend="i">Nieuw Wilhelmus-lied</hi>. Z.p., ca. 1830-1840</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Nieuw Wilhelmus-lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Nieuw Wilhelmus-lied</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-22</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie070nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section"> <interpGrp> <interp type="song" value="_nie070nieu01_0001"/> </interpGrp>
+<head rend="h3">Nieuw Wilhelmus-lied</head>
+<head rend="h4">Wijs Wilhelmus van Nassouwen.</head>
+<lg type="poem">
+<l><hi rend="i">Wilhelmus van Nassouwen!</hi></l>
+<l rend="; 1tab"><hi rend="i">Was onder 't grievendst leed</hi></l>
+<l><hi rend="i">Dat ooit hen mogt benauwen</hi></l>
+<l rend="; 1tab"><hi rend="i">Der Vadren leus en kreet</hi></l>
+<l><hi rend="i">Wat oorlog hen deed leijen</hi></l>
+<l rend="; 1tab"><hi rend="i">Wat muitzucht derst bestaan</hi></l>
+<l><hi rend="i">Men zag aan 't hoofd der reijen</hi></l>
+<l rend="; 1tab"><hi rend="i">Een telg van Nassou staan.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">Zou ons de moed ontzinken</hi></l>
+<l rend="; 1tab"><hi rend="i">Nu weer het oproer woede</hi></l>
+<l><hi rend="i">Nu wij het staal zien blinken</hi></l>
+<l rend="; 1tab"><hi rend="i">Dat dorst naar Hollands bloed</hi></l>
+<pb n="2"/>
+<l><hi rend="i">Nu België verwaten</hi></l>
+<l rend="; 1tab"><hi rend="i">Zich in haar naaktheid toont</hi></l>
+<l><hi rend="i">En 't schuim der onderzaten</hi></l>
+<l rend="; 1tab"><hi rend="i">Den eedlen WILLEM hoont.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">De band is losgereten</hi></l>
+<l rend="; 1tab"><hi rend="i">Die Bat en Belg verbond</hi></l>
+<l><hi rend="i">Wee die 't zich dorst vermeten</hi></l>
+<l rend="; 1tab"><hi rend="i">En heilige eeden schond</hi></l>
+<l><hi rend="i">Oud Neerlands dappre telgen</hi></l>
+<l rend="; 1tab"><hi rend="i">Verachten 't wust gebroed</hi></l>
+<l><hi rend="i">Zij toonen lage Belgen!</hi></l>
+<l rend="; 1tab"><hi rend="i">U hunne trouw en moed.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">Wilhelmus van Nassouwen</hi></l>
+<l rend="; 1tab"><hi rend="i">Gij blijft wat ons verbeid</hi></l>
+<l><hi rend="i">De burg van ons vertrouwen</hi></l>
+<l rend="; 1tab"><hi rend="i">De star die ons geleidt</hi></l>
+<l><hi rend="i">Wij achten geen gevaren</hi></l>
+<l rend="; 1tab"><hi rend="i">Wij duchten geen verraad</hi></l>
+<l><hi rend="i">Zoolang ge aan 't hoofd der scharen</hi></l>
+<l rend="; 1tab"><hi rend="i">Van 't oude Neerland staat.</hi></l>
+</lg>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>
+

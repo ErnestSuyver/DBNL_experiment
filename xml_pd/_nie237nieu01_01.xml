@@ -1,0 +1,5442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Nieuw vermeerdert konincklijck lied-boeck, versien met verscheyden lof en triumphgesangen</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Nieuw vermeerdert konincklijck lied-boeck, versien met verscheyden lof en triumphgesangen</hi> in de zesde druk uit 1703.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>Een deel van de tekst is moeiljk leesbaar. Dat is hier tussen vierkante haken aangegeven.</corr>
+                        <corr>p. 31: vyauts → vyants: ‘Voor het Vyants gewelt’.</corr>
+                        <corr>p. 31: sterven → streven: ‘Van Seyl die sagh men streven’.</corr>
+                        <corr>p. 36: wederstant → wederstaen: ‘Hebben kloek wederstaen’.</corr>
+                        <corr>p. 36: Nu → Na: ‘Na Engelant gevaren’.</corr>
+                        <corr>p. 50: Scheepken → Scheen: ‘'t Scheen dat Londen stond in brand’.</corr>
+                        <corr>p. 53: samen → saem: ‘Bid dan al te saem’.</corr>
+                        <corr>p. 60: quatier → quartier: ‘Gaf hy daer niet een quartier’.</corr>
+                        <corr>p. 67: Een deel van de tekst is moeilijk leesbaar. Dat is tussen vierkante haken aangegeven.</corr>
+                        <corr>p. 86: zijt → ziet: ‘Ghy ziet hoe mijn’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">_nie237nieu01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>ebook</note>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">Koninklijke Bibliotheek Den Haag, signatuur: 3 E 40</idno>
+                </bibl>
+                <p><hi rend="i">Nieuw vermeerdert konincklijck lied-boeck, versien met verscheyden lof en triumphgesangen</hi>. Wed. van Gijsbert de Groot, Amsterdam 1703 (zesde druk)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Nieuw vermeerdert konincklijck lied-boeck, versien met verscheyden lof en triumphgesangen</title>
+                <title type="subordinate"></title>
+                <author></author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Nieuw vermeerdert konincklijck lied-boeck, versien met verscheyden lof en triumphgesangen</title>
+                <title type="subordinate"></title>
+                <author></author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-11-19</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <interpGrp><interp type="secundair" value="will019"/>
+        <interp type="secundair" value="mari039"/></interpGrp>
+<body>
+    <cf><div type="chapter">
+
+<pb n="1"/>
+<p><hi rend="i">Nieuw vemeerdert Konincklijck </hi></p>
+<p><hi rend="i">LIED-BOECK,</hi></p>
+<p><hi rend="i">Versien met verscheyden Lof en Triumph</hi></p>
+<p><hi rend="i">gesangen, op de uytsteekende Helden-daden van haer</hi></p>
+<p><hi rend="i">gezegende Majesteyte WILLIAM en MARIA, Koning en </hi></p>
+<p><hi rend="i">Koninginne van Engelant, Schotlant, Vranckrijck en Yerlant:</hi></p>
+<p><hi rend="i">Uytgegalmt so voor als na des zelfs overgaen en Kroning.</hi>  </p>
+<p>Als mede </p>
+<p>Eenige hedendaegsche in gebruyck zijnde Amoureuse</p>
+<p>Liederen: Alle na de nieuwste en aengenamste Voysen.</p>
+<p>De seste Druck, van nieuws oversien, vermeerdert en verbetert.</p>
+        <figure>
+            <p><xptr to="_nie237nieu01ill0001.gif"/></p>
+        </figure>
+<p>t'Amsterdam, by de Wed: van <hi rend="i">Gijsbert de Groot, 1703</hi></p>
+        <pb rend="blank" n="2"/>
+        
+        </div></cf>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0001"/></interpGrp>
+    <pb n="3"/>
+    <figure>
+        <p><xptr to="_nie237nieu01ill0003.gif"/></p>
+    </figure>
+    <div type="section">
+<head rend="h3"><hi rend="i">Viva Oranje</hi>: Hoedanigh dat sijn konincklijcke Hoogheyt den Heere Prince van Oranjen loffelijk is ontfangen geweest van de Protestantse, binnen Torbay aen 't Lant komende.</head>
+
+<head rend="h4">Op de Voys: <hi rend="i">Nederlanders, &amp;c. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Za maeckt vreughd aen allen kant,</l>
+<l>Al door ons gantsche Nederlandt,</l>
+<l>Onsen Prins is aen Landt getreden,</l>
+<l>Jn Engelandt vol dapperheden,</l>
+<l>&nbsp;</l>
+<l>Binnen Torbay aenhoort dit aen,</l>
+<l>Soo is den Prins aen 't Landt gegaen:</l>
+<l>Stracks quamen al de groote Heeren,</l>
+<pb n="4"/>
+<l>Uyt de Stadt om Prins te eeren.</l>
+<l>&nbsp;</l>
+<l>Sy riepen al, och wellekom,</l>
+<l>Wellekom schoon Oranjen Blom,</l>
+<l>Die ons komt helpen uyt bezwaren.</l>
+
+<l>&nbsp;</l>
+<l>De Protestantse kleyn en groot,</l>
+<l>Ons komen helpen uyt de nood;</l>
+<l>Lang leev' den beminder verheven:</l>
+<l>Van Gods Woort riepen sy daer neven.</l>
+<l>&nbsp;</l>
+<l>De Ambachts Luyden quamen daer,</l>
+<l>Voeghden haer by de Prins te gaer:</l>
+<l>Met haer geweer als vroome knechten,</l>
+<l>Willen met Oranjen vechten.</l>
+<l>&nbsp;</l>
+<l>Wel dertigh duysent in 't getal:</l>
+<l>Zijn by den Prins gekomen al,</l>
+<l>Met ootmoet en  veel reverentie:</l>
+<l>Al uyt veel verscheyde Proventie.</l>
+<l>&nbsp;</l>
+<l>Om sijn hoogheyt by te staen,</l>
+<l>Dat sy 't Geweer gaen nemen aen,</l>
+<l>Om dat sy sien nu allegader,</l>
+<l>Dat den Prins komt als eenen vader.</l>
+<l>&nbsp;</l>
+<l>Om sijn Kinders in rust en vree,</l>
+<l>Te stellen doet oranje mee;</l>
+<l>Daerom wilt borgers ende boeren,</l>
+<l>Oranjen in 't herte nu gaen voeren.</l>
+<l>&nbsp;</l>
+<l>So lieten sy gelijckerhandt:</l>
+<l>op Wallen, Toorens t'allen kant,</l>
+<l>De Prince Wimpels met pleysiere,</l>
+<l>Laten sy in Brittanjen zwieren.</l>
+<l>&nbsp;</l>
+<l>Want yder een is bly van moet,</l>
+<l>Pm den komst' van Oranje bloedt;</l>
+<l>'t Js al Oranjen wat sy dragen,</l>
+<l>Van Lint om den Prins te behagen.</l>
+<l>&nbsp;</l>
+<l>Kleyn, groot, roept daer even gou,</l>
+<l>Viva Wilhelmus van Nassou,</l>
+<l>Die ons alegaer komt ontfermen,</l>
+<l>Om ons Religie te beschermen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0002"/></interpGrp>
+<pb n="5"/>
+<head rend="h3">Aen-Klagten van den Koning Jacobus van Engelant over de droeve staet van sijn Rijck aen de Koning van Vrankrijck</head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Venus kind gy ,</hi> et<hi rend="i">c.</hi> <hi rend="i"></hi></head>
+<lg type="poem"><l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koningh van Engelandt.</hi></l>
+<l>Bjen Roy Louis wat gaet mijn aen,</l>
+<l>Jck staen nu heel verstelt,</l>
+<l>Eylaes wat heb ick nu gedaen?</l>
+<l>De Prins die komt te veld,</l>
+<l>En soeckt de Wetten van mijn Landt,</l>
+<l>Te houden in sijn fleur,</l>
+<l>Dat sy weer zijn in d'oude stant:</l>
+<l>Dus sit ick in 't getreur.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vranckrijck.</hi></l>
+<l>Jacobus Britsen Koninck stout,</l>
+<l>Geen saeck als op het laetst berout,</l>
+<l>Als men niet meer en kan,</l>
+<l>Treckt aen het blancke harrenas,</l>
+<l>En 't helmet fijn van Gout,</l>
+<l>Toont u kloeck als ghy eertijds was,</l>
+<l>Maeckt hem sijn komst benout.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Engelandt.</hi></l>
+<l>O Francen Koninck machtigh Heer,</l>
+<l>Jck kan 't niet wederstaen,</l>
+<l>Of ick hem al bied tegenweer:</l>
+<l>Mijn volck en wil niet aen;</l>
+<l>De Schotten bieden hem de handt</l>
+<l>Roepen wellekom Prins,</l>
+<l>Doen hem met goet en bloedt bystant:</l>
+<l>'t Gaet heel na sijnen  wensch.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vranckrijck.</hi></l>
+<l>Ghy zijt haer heer en opper-hooft:</l>
+<l>Van Engels, Schot en Yer,</l>
+<l>Haer moetwil straft: en heel verdooft,</l>
+<l>Dwingt haer op dees manier;</l>
+<l>Dat sy wagen haer Lijf en goed</l>
+<l>Voor u haer Majesteyt,</l>
+<l>Perst haer tot 't laetste druppel bloedt,</l>
+<l>Tot alle dienstbaerheyt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Eng.</hi></l>
+<l>Louis mijn hert dat barst van nijd</l>
+<pb n="6"/>
+<l>Op den moetwill'gen Schot,</l>
+<l>Die met den Prins tot mijnder spijt,</l>
+<l>En Staet te samen rot;</l>
+<l>Daer by so komt het Lager-huys,</l>
+<l>En geeft mijn geen larsjan,</l>
+<l>Voor my is geen munt of kruys,</l>
+<l>Jck weet al nergens van.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vranckrijck.</hi></l>
+<l>Hoe speelt Jan  Hagel dus den baes,</l>
+<l>Hebt ghy u niet voorsien,</l>
+<l>Dat ghy nu sit in dit geraes,</l>
+<l>Met al u Edel-lien:</l>
+<l>Had ghy de Opper-hoofden al,</l>
+<l>Gebragt voor eerst aen kant,</l>
+<l>So waert ghy niet tot dese val,</l>
+<l>En stont in beter stant.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Engelant.</hi></l>
+<l>Bourbon ick socht met listigheyt,</l>
+<l>De Wetten na mijn sin,</l>
+<l>Te verkeeren met stilligheyt,</l>
+<l>En soo te dringen in,</l>
+<l>Het Roomsche Catholijcks Geloov'</l>
+<l>'k Meynden die Kettery, </l>
+<l>Te brengen tot een buyt en roof:</l>
+<l>Maer 'k sit nu selfs in ly.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vranckrijck.</hi></l>
+<l>Gy moet met kracht en groot gewelt,</l>
+<l>Haer treden onder voet,</l>
+<l>Eer ghy 't Rijck in vreden stelt,</l>
+<l>Vernielen 't Geuse Bloedt:</l>
+<l>Soeckt hulp aen d'een of d'ander Vorst:</l>
+<l>Volvoert u wreede lust,</l>
+<l>Die mee na Ketters woeden dorst,</l>
+<l>So raeckt ghy 't eynd' in rust. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Engelant.</hi></l>
+<l>'k Verwacht mijn hulp van u Louis,</l>
+<l>Mijn hoop en toeverlaet,</l>
+<l>Jck u, en niemant anders kies,</l>
+<l>'k Bid u komt mijn te baet,</l>
+<l>En helpt mijn in dees droeven noot,</l>
+<l>Laet mijn niet in 't verdriet.</l>
+<l>Anders sterf ik van rouw de doot,</l>
+<pb n="7"/>
+<l>So is mijn hulp geschiedt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vranckrijck.</hi></l>
+<l>Jacobus, 'k heb so veel te doen,</l>
+<l>Aen d'een en d'ander kant,</l>
+<l>'k Kan u niet helpen met fatsoen,</l>
+<l>Yder een toont my vyandt,</l>
+<l>De Keyser, Spanjaert, Pool en Zweed,</l>
+<l>Soecken mijn ondergangh,</l>
+<l>De Duytse vorsten zijn gereet,</l>
+<l>Dat maeckt mijn hert so bangh.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Engelant.</hi></l>
+<l>O Roy Louis dat klemt mijn hart,</l>
+<l>'k Had my op u vertrouwt,</l>
+<l>Laet ghy my nu in druck en smart,</l>
+<l>Dat maeckt mijn geest benouwt;</l>
+<l>Die op een vleeschen arm steunt,</l>
+<l>En vind geen Medecijn,</l>
+<l>Maer loos en broos, op ried hy leunt:</l>
+<l>En raeckt in druck en pijn.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0003"/></interpGrp>
+<head rend="h3">Een nieuw Lied, over de tegenwoordige toe-rustinge van Oorlog:</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Schoon Amarant. <lb/>Op Batavier.</hi></head>
+<lg type="poem">
+
+<l>Hollanders ende Zeeuwe,</l>
+<l>Toont u moedigh kloeck als Leeuwe,</l>
+<l>Met het Fries quartier</l>
+<l>Sticht Uytrecht mee,</l>
+<l>Groeningen en d'Omlanden,</l>
+<l>Over-Yssel ree:</l>
+<l>Gelderse Stee,</l>
+<l>Wilt d'Engelsman aenranden,</l>
+<l>Treckt u Swaert uyt schee.</l>
+<l>&nbsp;</l>
+<l>Den Franschen Haen,</l>
+<l>Komt op de Zee te kraeijen,</l>
+<l>Met Schepen zwaer gelaeijen,</l>
+<l>Om ons te verslaen,</l>
+<l>Hy en de Steert,</l>
+<l>Soecken ons te bederven,</l>
+<l>Maer weest niet verveert,</l>
+<l>U lustigh weert,</l>
+<pb n="8"/>
+<l>Met hacken en met kerven:</l>
+<l>Want u niemant deert.</l>
+<l>&nbsp;</l>
+<l>Gy krijgt te baet,</l>
+<l>Veel duysent Duytse Knechten,</l>
+<l>Die sullen helpe vechten,</l>
+<l>Als een braef Soldaet,</l>
+<l>Dus weest verblijdt,</l>
+<l>Wy sullen gaen floreeren,</l>
+<l>Nu in desen tijdt,</l>
+<l>Dus wie ghy zijt,</l>
+<l>Wilt lustigh aen 't marseeren,</l>
+<l>Toont u in den Strijdt.</l>
+<l>&nbsp;</l>
+<l>Ons Prins dien held:</l>
+<l>Komt met sijn oorlogs machten,</l>
+<l>Om te toonen nieuwe krachten,</l>
+<l>Dapper in het veldt,</l>
+<l>d'Oranje Spruyt,</l>
+<l>Sal sijn verheven tacken,</l>
+<l>Nu weer schieten uyt,</l>
+<l>En maken buyt,</l>
+<l>Met schieten en met hacken,</l>
+<l>Met Roer lood en kruyd.</l>
+<l>&nbsp;</l>
+<l>Ons Generaels;</l>
+<l>Cornellen en Capiteynen,</l>
+<l>Siet men weer in  't veld certeynen,</l>
+<l>Met 't twee snijdigh staels:</l>
+<l>Veel Luytenants:</l>
+<l>En Vendrigs 't vendel zwieren,</l>
+<l>En daer by veel,</l>
+<l>Corporaels constants,</l>
+<l>Soetelaers hoort men tieren,</l>
+<l>Met veel Proviants.</l>
+<l>&nbsp;</l>
+<l>De Ruytery:</l>
+<l>Met Trommels en Trompette:</l>
+<l>Om den Vyant te verplette:</l>
+<l>En Soldaet daer by;</l>
+<l>Veel grof Kanon,</l>
+<l>om lustigh te sien dond'ren,</l>
+<l>Op Louis bourbon:</l>
+<l>De Oranje son,</l>
+<l>Rijst tot yders verwond'ren,</l>
+<l>Als een dau of bron.</l>
+<l>&nbsp;</l>
+<pb n="9"/>
+<l>Tromp d'Admirael,</l>
+<l>Sal met sijn grijse hayre,</l>
+<l>Lustigh op Nephtunis bare,</l>
+<l>Met sijn blancke stael:</l>
+<l>d'Engelse fier,</l>
+<l>Verjagen en vernielen,</l>
+<l>Door roock, vlam en vyer:</l>
+<l>Met groot pleysier,</l>
+<l>Voor sijn bezeylde kielen,</l>
+<l>Maken gezwier.</l>
+<l>&nbsp;</l>
+<l>Matroose kloeck,</l>
+<l>En lustige Marine,</l>
+<l>Wilt nu weer in Zee verschijne,</l>
+<l>Sa komt uyt den hoeck,</l>
+<l>U Schepen fijn,</l>
+<l>Wilt die weder verklaren,</l>
+<l>Suyver ende reyn,</l>
+<l>Dat sy weer zijn,</l>
+<l>Lustigh om te bevaren,</l>
+<l>Treckt t'saem een lijn.</l>
+<l>&nbsp;</l>
+<l>Roept nu gelijck,</l>
+<l>Viva viva Oranje,</l>
+<l>Viva die nu in Companje,</l>
+<l>Treckt nu voor ons publijck,</l>
+<l>Viva ons staet,</l>
+<l>Die ons door haer Regeering,</l>
+<l>En haren wijsen Raedt,</l>
+<l>Vroegh en laet,</l>
+<l>Bestieren ons in neering,</l>
+<l>Loonen 't goet en 't quaet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0004"/>
+    </interpGrp>
+<head rend="h3">Een Nieu Liedt van den gepubliseerde oorlog die de Koning van Vranckrijck tegen den Roomschen Keyser heeft gedaen, door 't breeken van de 20 Jarige Trevus.</head>
+<div type="section">
+<head rend="h4">Op de Stemme: <hi rend="i">Van de Trompet Marijn.</hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Men hoort den Trommel slaen,</l>
+<l>Op der Hollantsche baen,</l>
+<pb n="10"/>
+<l>Dat men strijdt sal gaen,</l>
+<l>Om Vranckrijck t'atakere:</l>
+<l>Sa vecht dan nu met spoet,</l>
+<l>Strijdt voor 't Oranjen bloet,</l>
+<l>Op dat ghy mooght floreeren.</l>
+<l>&nbsp;</l>
+<l>Keur-Vorsten t'alle kant,</l>
+<l>Doet Vranckrijck wederstant,</l>
+<l>En jaeght hem uyt u Landt,</l>
+<l>Wilt 't Keyser-rijck bewaren;</l>
+<l>Vat vrij het stael gereet,</l>
+<l>Want hy daer al blockeert,</l>
+<l>Veel steden komt vervaren.</l>
+<l>&nbsp;</l>
+<l>Spiers heeft hy in pasant</l>
+<l>Genomen in Duytslandt,</l>
+<l>En heeft noch beplant,</l>
+<l>Met twee duysent Soldaten,</l>
+<l>Heeft hy de Stadt beset:</l>
+<l>Heel Duytslant staet verplet,</l>
+<l>Wat sal 't hem mogen baten.</l>
+<l>&nbsp;</l>
+<l>Want 't is nu op de handt,</l>
+<l>De vrede met Duytslandt,</l>
+<l>Al met den Turck pleysant,</l>
+<l>Om dat hy komt braveeren,</l>
+<l>Al in het Duitsch gebiedt,</l>
+<l>Dat den Keyser verdriet,</l>
+<l>Wilt hem doen retireren.</l>
+<l>&nbsp;</l>
+<l>Coninck van Spanjen goet,</l>
+<l>Vreeckt oock 't onnoosel bloet </l>
+<l>Aen Vranckrijck metter spoet,</l>
+<l>Dat in de Nederlande</l>
+<l>Al van het Fransch gebroedt,</l>
+<l>Gestort is metter spoet,</l>
+<l>Door moorden en door brande. </l>
+<l>&nbsp;</l>
+<l>Den Leeuw al van Hollandt,</l>
+<l>Sal men houden constant,</l>
+<l>Orangien voort geplant,</l>
+<l>Jn 't hert van veel Soldaten,</l>
+<l>Die voor het vaderlandt,</l>
+<l>'t Stael nemen in de handt,</l>
+<l>Haer leven willen laten.</l>
+<l>&nbsp;</l>
+<l>Sa komt nu oock te Veldt,</l>
+<l>Lotteringh ghy vroomen Heldt,</l>
+<pb n="11"/>
+<l>U tegen Vranckrijck stelt,</l>
+<l>En wilt oock prentenderen,</l>
+<l>U Vaders Hartogdom,</l>
+<l>Dat den Haen wederom</l>
+<l>Daer uyt wilt retireeren.</l>
+<l>&nbsp;</l>
+<l>Sa komt van alle kant,</l>
+<l>Van Noord en Zuyd-Hollant,</l>
+<l>Komt mede heel Brabant,</l>
+<l>Laet standaers, trommels roeren,</l>
+<l>Neemt zabels in de hand,</l>
+<l>Strijdt voor ons Vaderland,</l>
+<l>Om Oorelogh te voeren.</l>
+<l>&nbsp;</l>
+<l>Sa Constapels met macht,</l>
+<l>Toont mede u vroome kracht,</l>
+<l>Den Franschen haen verwacht  </l>
+<l>En wilt dan lustigh donderen,</l>
+<l>Al met het grof Canon,</l>
+<l>Tegen Louis Bourbon,</l>
+<l>Dat s'haer mogen verwond'ren.</l>
+<l>&nbsp;</l>
+<l>Mijn Zeeuw met Verstant,</l>
+<l>Strijd mee voor 't Vaderlant,</l>
+<l>En komt gelijckerhandt,</l>
+<l>Met al u Oorlogs-machten,</l>
+<l>Van kruyt ende van loot,</l>
+<l>En schroomt niet voor de doodt,</l>
+<l>En wilt geen Vyand achten.</l>
+<l>&nbsp;</l>
+<l>Mijn Vriesen kloeck van aert,</l>
+<l>Die noyt en zijn vervaert,</l>
+<l>Sa nu geen moeyten spaert,</l>
+<l>Om buyten roof te halen,</l>
+<l>Van 't Vyandsche gebied:</l>
+<l>Sa toont nu geen verdriet,</l>
+<l>Jck sal 't u wel betalen.</l>
+<l>&nbsp;</l>
+<l>Sa, sa, Matroosen al,</l>
+<l>Aen boort met groot getal,</l>
+<l>En steeckt nu van de Wal,</l>
+<l>En wilt de Zee bevrijen,</l>
+<l>Voor al 't Vyands gespuys,</l>
+<l>En dondert met gedruys;</l>
+<l>Godt wil ons al bevrijen.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0005"/></interpGrp>
+    <pb n="12"/>
+    <figure>
+        <p><xptr to="_nie237nieu01ill0012.gif"/></p>
+    </figure>
+    <div type="section">
+<head rend="h3"><hi rend="i">Ziele sucht</hi>. Gedaen aen onse Godt, om vergevinge van onse sonden, en Zegen over de Scheeps-Vloot en Armee, soo te Water als te Lande. </head>
+
+<head rend="h4"><hi rend="i">Stemme: Troosje mijn Lief, </hi>et<hi rend="i">c</hi>. <hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>O Grooten God op u Troon zijt geseten,</l>
+<l>Oppersten Keyser hoog van vermeten</l>
+<l>Ghy bent die onse werck siet en daet,</l>
+<l>Oock onse woord en alle ons praet:</l>
+<l>Ja ons gedachte: </l>
+<l>o groot van Machte,</l>
+<l>Weet ghy het alles, en wel verstaet.</l>
+<l>&nbsp;</l>
+<l>O Godt als u Arm is op geheven,</l>
+<l>Alle vorsten schudden en beven,</l>
+<l>Van 't Aerdrijk, als u gramschap komt aen</l>
+<l>Ghy kunt allenigh alles verslaen:</l>
+<l>Door onse dade,</l>
+<l>Maer uwe Genade,</l>
+<l>O goede Godt houdt ons noch staen.</l>
+<l>&nbsp;</l>
+<l>Wy bidden laet u barmhertigheyd dalen</l>
+<l>En slaet u oogen op onse Palen,</l>
+<l>Want onsen Veld-heer is nu in Zee,</l>
+<l>En leyd met al sijn Scheepen ree;</l>
+<l>Veel duysent ziele:</l>
+<l>Zwerven met haer kiele</l>
+<l>O Godt wilt se bewaren mee.</l>
+<l>&nbsp;</l>
+<l>Voor storm en windt en voor de bare;</l>
+<l>O Godt wilt ons Neerlands vloot beware,</l>
+<l>Want ghy weet wie het nu gelden sal:</l>
+<pb n="13"/>
+<l>Bewaert ons Vloot voor ongeval,</l>
+<l>Oock onsen Lande,</l>
+<l>voor 's vyands brande,</l>
+<l>Behoed doch Heer ons Hollands dal. </l>
+<l>&nbsp;</l>
+<l>Behoed doch onsen Veld-heer verheven</l>
+<l>Die op de Zee gaet wagen sijn leven,</l>
+<l>Den vroomen Held aen allen kant,</l>
+<l>Gaet soecken sijnen  vyand,</l>
+<l>God wil hem geven</l>
+<l>een goe haef daer neven</l>
+<l>Om so te samen komen aen landt.</l>
+<l>&nbsp;</l>
+<l>Daer gaet de vader van alle lands vader</l>
+<l>Op zee begint sijn vyand te nader,</l>
+<l>Daer gaet den beste van ons Land,</l>
+<l>Men siet Oranjes wal en strant,</l>
+<l>Ons Heere State,</l>
+<l>Gaet hy al verlate:</l>
+<l>God geev' Oranje de overhandt.</l>
+<l>&nbsp;</l>
+<l>Daer gaet dan onse Heldt der Helde,</l>
+<l>Over de zee met groot gewelde,</l>
+<l>Hy soeckt ons vyand te verslaen,</l>
+<l>Om ons allegaer by te staen,</l>
+<l>Den Held verheven,</l>
+<l>Sal nu gaen geven,</l>
+<l>Sijn Lijf en Bloed ten besten gaen.</l>
+<l>&nbsp;</l>
+<l>God geev' dien Held geluk in sijn wapen</l>
+<l>Dat wy met Oranje vreugt mogen rapen,</l>
+<l>En dat wy onsen held met pleysier,</l>
+<l>Mogen kroonen met Lauwerier,  </l>
+<l>En moghen brande:</l>
+<l>Door ons Lande,</l>
+<l>Tot sijnder eere vol vreughde vyer. </l>
+<l>&nbsp;</l>
+<l>Vaert wel Edel Prins van Oranje,</l>
+<l>God geev' u voorspoet oock tot Brittanje:</l>
+<l>Vaert wel, o puyckste van ons Landt,</l>
+<l>Jck hoop dat ghy heel Triumphant,</l>
+<l>Jn korte dagen,</l>
+<l>Na ons behagen,</l>
+<l>Sult overwinnen ons vyandt.</l>
+<l>&nbsp;</l>
+<l>Oorlof laet ons dan allegader,</l>
+<l>Bidden ons Godt den Hemelschen Vader,</l>
+<l>Dat hy onsen Prins met ootmoet,</l>
+<l>Wil bewaren sijn Lijf en Bloedt,</l>
+<l>O God wilt geven,</l>
+<l>Den Prins lanck leven,</l>
+<l>Bidden wy dan metter spoet. </l>
+</lg><p><hi rend="i">R.V.H.</hi></p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0006"/></interpGrp>
+<pb n="14"/>
+<head rend="h3">De ontsteltenis van Europa, of de ontroering der Christen Potentaten.</head>
+<div type="section">
+<head rend="h4"><hi rend="i"></hi>Stemme:<hi rend="i"> Van de Brabantsche Lichtmis. </hi></head>
+<lg type="poem"><l>'t Schijnt de Werelt is in roer,</l>
+<l>Met een groot rumoer,</l>
+<l>Koopluy, Burgers ende Boer,</l>
+<l>Hoort men praten,</l>
+<l>By der straten,</l>
+<l>Jn dees tijdt,</l>
+<l>van de strijdt. </l>
+<l>&nbsp;</l>
+<l>Keyser, Pool en Venetiaen,</l>
+<l>Vallen dapper aen,</l>
+<l>Op de Turcksche halve Maen,</l>
+<l>Hoort men brallen,</l>
+<l>Op haer wallen,</l>
+<l>Hongary,</l>
+<l>Js in ly. </l>
+<l>&nbsp;</l>
+<l>Brandenburgh, Sacx, Beyer, Trier,</l>
+<l>Daer is veel getier:</l>
+<l>Keuls-landt sit in groot getier,</l>
+<l>Veel vorsten: </l>
+<l>t'Samen dorsten</l>
+<l>Om den Haen,</l>
+<l>Te verslaen.</l>
+<l>&nbsp;</l>
+<l>Den hooghmoed'ge trotse Frans,</l>
+<l>Die siet noch geen kans,</l>
+<l>Omdat Spanje komt ten dans,</l>
+<l>D'Heeren Staten,</l>
+<l>Niet verlaten,</l>
+<l>Den Spanjaert,</l>
+<l>Kloeck van aert.</l>
+<l>&nbsp;</l>
+<l>De Lely tot sijn hulp verkoos,</l>
+<l>De Harp en de Roos,</l>
+<l>Te vernielen het gebloos</l>
+<l>Van Gods wetten,</l>
+<l>Te verpletten,</l>
+<l>Maeckt 't Geloof,</l>
+<l>Tot een roof. </l>
+<l>&nbsp;</l>
+<l>Om de Protestantse Leer,</l>
+<l>Doen sy dapper weer,</l>
+<l>Haer met kracht te drucken ne'er,</l>
+<l>Maer veel Heeren,</l>
+<l>Haer verweeren,</l>
+<l>Want Schotlant,</l>
+<l>Blijft constant.</l>
+<l>&nbsp;</l>
+<l>En ons Prins d'Oranjen Heldt,</l>
+<l>Komt met moet te veldt,</l>
+<l>Om met kracht en groot gewelt,</l>
+<l>Godes Kercken:</l>
+<l>Te verstercken,</l>
+<l>Blijft aen 't Licht, </l>
+<l>vast verplicht.</l>
+<l>&nbsp;</l>
+<l>Men hoort nu in Nederlandt,</l>
+<l>Vreugt aen allen kant,</l>
+<l>Voor ons Prins kloeck en valjant,</l>
+<pb n="15"/>
+<l>De Tamboeren,</l>
+<l>Trommel roeren,</l>
+<l>Die wil mee,</l>
+<l>Maeckt hem ree.</l>
+<l>&nbsp;</l>
+<l>Van Wilhelmus van Nassou,</l>
+<l>Wilt u spoeden gou,</l>
+<l>Die ons helpt uyt druck en rouw:</l>
+<l>t'Sa Hollander,</l>
+<l>En al d'ander,</l>
+<l>Vries en Zeeuw:</l>
+<l>vecht als Leeuw.</l>
+<l>&nbsp;</l>
+<l>t'Sa valt aen met volle macht,</l>
+<l>Hout aen met eendracht,</l>
+<l>Wilt krencken de vyands kracht,</l>
+<l>En de Franssen,</l>
+<l>Braef doen danssen,</l>
+<l>Door 't Canon,</l>
+<l>Roy Bourbon.</l>
+<l>&nbsp;</l>
+<l>Dus Matrosen kloeck en sterck,</l>
+<l>Tijt nu braef te werck,</l>
+<l>En Soldaten hout u perck,</l>
+<l>Wilt niet wijcken,</l>
+<l>Laten blijcken,</l>
+<l>Voor den Frans,</l>
+<l>Hout u kans.</l>
+<l>&nbsp;</l>
+<l>Roept nu viva over al, </l>
+<l>vrolik met geschal,</l>
+<l>Met den vyand op haer wal,</l>
+<l>Oranje,</l>
+<l>Die 't Companje,</l>
+<l>Nu regeert,</l>
+<l>En extimeert. <hi rend="i"></hi></l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0007"/></interpGrp>
+<head rend="h3">Een nieu Wiege-deuntje, gesongen door de minne-Moer van de Prince van Wallis, leggende in sijn France Apartement.</head>
+<div type="section">
+<head rend="h4"><hi rend="i"></hi>Stemme<hi rend="i">: Nu wiegen, nu wiegen, en nu wiegen wy. </hi></head>
+<lg type="poem"><l>Wel Prinsje van Wallis, hoe! slaept gy niet? </l>
+<l>U wiegen, u wiegen: en u wiegen wy,</l>
+<l>Waerom maeckt gy ons sulck verdriet?</l>
+<l>Dat segget my,</l>
+<l>wat let u te schreeuwen,</l>
+<l>Te gapen en te geeuwen</l>
+<l>dat komt niet by.</l>
+<l>&nbsp;</l>
+<l>Wat schorter gewaende Konings Soon?</l>
+<l>U wiegen, u wiegen en u wiegen wy:</l>
+<l>Of krijtje dus om u Vaders Troon,</l>
+<l>Die is hy al quijt;</l>
+<l>Oranjen verheven,</l>
+<l>Js die gegeven,</l>
+<l>Dat ons seer spijt.</l>
+<l>&nbsp;</l>
+<l>Wel sus, sus, mijn lieve Koninckje sus,</l>
+<l>U wiegen, u wiegen en u wiegen wy,</l>
+<l>Gesupponeert Prinsje hoe beer je dus;</l>
+<pb n="16"/>
+<l>Ghy zijt immers,</l>
+<l>De France Heeren,</l>
+<l>U seer respecteren,</l>
+<l>Dus weest maer bly. </l>
+<l>&nbsp;</l>
+<l>Wel lieve schaepje hoe krijtje dus slap,</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Jck sal u voederen met France pap,</l>
+<l>Kom etet maer vry,</l>
+<l>geen engelse podding</l>
+<l>Noch Schotse hodding:</l>
+<l>Maer France bry.</l>
+<l>&nbsp;</l>
+<l>Wel mag het niet helpen al wat ik begin,</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Het Molenaers hoofje dat steekter noch in,</l>
+<l>Jck hadde gedacht,</l>
+<l>De France Pottagie,</l>
+<l>Had beter couragie,</l>
+<l>Jn u gebraght.</l>
+<l>&nbsp;</l>
+<l>Jck bidd' u kleyn Wallisje weest dog stil</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Ey doet het om Pater Peters wil,</l>
+<l>Die stont u mee by:</l>
+<l>Doen ghy gebooren</l>
+<l>Wierdt ofte verkoren,</l>
+<l>Gelooftme vry.</l>
+<l>&nbsp;</l>
+<l>Hier staet een jongh Fransje, ghy kleyne druyt,</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Dat sal met u speelen, als 't slaepje is uyt,</l>
+<l>Dus slaept als een man,</l>
+<l>Een kleyn half uurtje,</l>
+<l>een soet avontuertje</l>
+<l>Vertel ick dan.</l>
+<l>&nbsp;</l>
+<l>Wel soete Prinsje weest dan verblijdt,</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Om dat gy nu niet in Engelandt zijt,</l>
+<l>Want 't Parlement:</l>
+<l>Met al sijn Heeren,</l>
+<l>Dat soud' u doen keeren</l>
+<l>na u vaders tent.</l>
+<l>&nbsp;</l>
+<l>Sacht, sacht, want wordt het de Koning gewaer,</l>
+<l>U wiegen, u wiegen, en u wiegen wy,</l>
+<l>Hy jaegt u wel weer na u eygen vaer,</l>
+<l>Dus hout u gemack,</l>
+<l>En wilt niet krijten,</l>
+<l>De Paters Jesuyten</l>
+<l>die komen hier strak.</l>
+<l>&nbsp;</l>
+<l>Wilje niet slapen, kleyn kleuter segh?</l>
+<l>U wiegen, u wiegen en u wiegen wy,</l>
+<l>Of krijtje om dat u Meuletje is wech?</l>
+<l>'t En is geen noodt:</l>
+<l>Jk ging 't wech steken,</l>
+<l>Om dat 't niet sou breken:</l>
+<l>Komt op mijn schoot.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0008"/></interpGrp>
+    <pb n="17"/>
+    <figure>
+        <p><xptr to="_nie237nieu01ill0017.gif"/></p>
+    </figure>
+    <div type="section">
+<head rend="h3">Een nieuw Liedt, hoe de Engelse, Schotten, Yren, sijn Koninklijke Hoogheyt <hi rend="i">Willem Hendrick</hi> Prince van Orangien quamen noodigen, om haer te verlossen uyt de slaverny des Pausdoms.</head>
+
+<head rend="h4">Stem: <hi rend="i">Hemels Opper-Voogt</hi>: of <hi rend="i">Aldersoetste Lam.</hi></head>
+<lg type="poem"><l>Ach ick sie een poel vol van smerten,</l>
+<l>'t Zijn bedroefde saken,</l>
+<l>Want het Roomsche rijck,</l>
+<l>Soeckt Christus Kerck geheel tot niet te maken,</l>
+<pb n="18"/>
+<l>Want Gods dienaers nemen eylaes de wijk,</l>
+<l>Uyt ons Kerck en Land veele gevangen,</l>
+<l>Tot der doodt veroordeelt en gehangen,</l>
+<l>En ons Test en wet,</l>
+<l>Werdt geheel verplet,</l>
+<l>O bangen.</l>
+<l>&nbsp;</l>
+<l>Ons Collegiers en onse scholt verheven,</l>
+<l>Daer de Jeugt groeyt even</l>
+<l>als de wijngaerd ranck,</l>
+<l>Js de Jesuyten nu tot proy gegeven,</l>
+<l>Daer men dorst na mensen bloet als dranck,</l>
+<l>Eylaes mijn bange ziel leyt geheel verslagen,</l>
+<l>Maer ick sal mijn noodt Oranje klagen,</l>
+<l>Die sijn lijf en bloedt,</l>
+<l>Voor Gods Kerck en goedt,</l>
+<l>wil wagen.</l>
+<l>&nbsp;</l>
+<l>Hy is van een doorluchte stam gesproten,</l>
+<l>S'hebben onverdrooten,</l>
+<l>'t Edel bloedt gewaegt,</l>
+<l>Wanneer dat Nederlandt wiert overgoten,</l>
+<l>Met d'Jnquisitie greep hy onvertsaegt,</l>
+<l>'t Swaert manhaftig op tegen de papauwen</l>
+<l>En bragt kerck en landt uyt haer benouwen,</l>
+<l>Door Godts stercke handt,</l>
+<l>Vochten vry dat landt,</l>
+<l>Getrouwe.</l>
+<l>&nbsp;</l>
+<l>Komt doorluchtigh vorst, d'Edel Heldt Nassouwen,</l>
+<l>Wilt ons Kerck herbouwen,</l>
+<l>Pylaer van Godes huys,</l>
+<l>Jck stel op u naest Godt, held mijn vertrouwen,</l>
+<l>Komt helpt ons van al het Rooms gespuys,</l>
+<l>Jck klaeg mijn herten leet dapper heldt wilt hooren,</l>
+<l>Koninck Jamus soeckt ons te versmoren,</l>
+<l>En ons goedt en bloedt,</l>
+<l>Vrye Godsdienstig goedt,</l>
+<l>Te stooren. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Prins van Oranjen. </hi></l>
+<l>Wel wie hoor ick daer ach so droevig klagen</l>
+<l>Met een geest verslagen</l>
+<l>dat mijn hert ontstelt</l>
+<l>'s Js Engelant en schot en Yr, die vragen,</l>
+<l>Of ick haer wil redden van 't geweldt,</l>
+<l>Mijn hert verschrickt seer als my quam ter oore,</l>
+<pb n="19"/>
+<l>Dat men uwe wetten wil verstoren,</l>
+<l>En Godes Kerck en Leer,</l>
+<l>Tot den afgront neer,</l>
+<l>versmoren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Engelandt. </hi></l>
+<l>Ach machtigh vorst, Godt heeft u voorouders,</l>
+<l>Als Herders en op-bouwers</l>
+<l>van sijn Kerck gestelt,</l>
+<l>Sy waren lichten, schilden en behouders,</l>
+<l>S'streeden voor gods waerheyt in het velt,</l>
+<l>Was haer herte lust, als sy met haer knechte<hi rend="i">n</hi></l>
+<l>Voor godes eer en vryheyt mochten vechten,</l>
+<l>En Godes Kerck en Landt,</l>
+<l>Jn een vrije stant,</l>
+<l>Te rechten.</l>
+<l>&nbsp;</l>
+<l>Komt oranje prins wilt ons helper wesen,</l>
+<l>O laetste spruyt gepresen</l>
+<l>van 't beroemt geslacht,</l>
+<l>Voor Pater Peters moeten wy vreesen,</l>
+<l>Met sijn Jesuwijten, o droeve klacht,</l>
+<l>Want door haer vuyl practijck is een kindt gebooren,</l>
+<l>Die nu Prins van Wallis hiet, wilt horen,</l>
+<l>Die tot kroon en staf,</l>
+<l>Erfgenaem ver af,</l>
+<l>Gebooren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Prins van Oranje. </hi></l>
+<l>Ach! mijn ziel ontroert als ik u hoor klagen</l>
+<l>Met een Geest verslagen</l>
+<l>door u droefheydt groot,</l>
+<l>Jck wil voor u mijn edel bloed gaen wagen,</l>
+<l>O Heer, helpt haer uyt haer droeve noodt,</l>
+<l>Jck stel mijn leven Heer voor u woort en eere</l>
+<l>Spreeckt tegen mijn ziel is 't u begeeren,</l>
+<l>Geeft ons en ons staet,</l>
+<l>Eendracht en u raet,</l>
+<l>o Heere.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Engelandt. </hi></l>
+<l>O gy doet ons hert, Heldt van vreugt opspringen,</l>
+<l>U woorden in ons dringen</l>
+<l>door 't beleyt seer wijs,</l>
+<l>Wy sullen God nu en voor alle dingen,</l>
+<l>Bidden dat ghy Vorst behaelt den prijs,</l>
+<pb n="20"/>
+<l>En dat de Heeren Staten u sullen senden,</l>
+<l>Om ons druck en droeftheyt af te wenden,</l>
+<l>Dat ons ongeval,</l>
+<l>Mach in blijdtschap al,</l>
+<l>Vol-ende.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Prins van Oranje. </hi></l>
+<l>Gy edel Staten, Hoog-mogende Heere,</l>
+<l>Ons Broeders die begeeren</l>
+<l>hulp en bystant</l>
+<l>Wil u Achtbaerheyt dat ik tot Godes eere?</l>
+<l>Haer magh helpen uyt des vyands handt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Staten. </hi></l>
+<l>Ontsiet ghy niet <hi rend="i">ô</hi> Heldt, storm noch snee vlagen,</l>
+<l>Voor ons vryheydt noch geen zware slagen,</l>
+<l>Wy sullen Volck en Vloot,</l>
+<l>Voor ons Vryheyt groot,</l>
+<l>mee wagen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Prins van Orangien. </hi></l>
+<l>Jk sal voor 't waer geloov' en voor Godes eere,</l>
+<l>Wagen mijn bloedt teere,</l>
+<l>en voor 't Vaderlandt,</l>
+<l>Vroome zielen bidt dat Godt mijn wil vermeere,</l>
+<l>Met Victorie moedigh en valjant,</l>
+<l>Gods vyanden verjaeg, Heer wilt met my trecken,</l>
+<l>Machtig God slaet haer op 't kinnebecken</l>
+<l>Beschermt u Kerck Heer, </l>
+<l>op dat 't tot U eer</l>
+<l>mach strecken.</l>
+</lg></div>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="secundair" value="jame003"/>
+        <interp type="secundair" value="lode034"/>
+        <interp type="song" value="_nie237nieu01_0009"/></interpGrp>
+<head rend="h3">Een t'Samenspraek, tusschen Jacobus Stuwaert, Pater Peters, Pater la Chaise, en den Koning van Vrankrijck. </head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">'s Hertogenbos</hi>.  </head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> Jacobus Stuwaert. </hi></l>
+<l>O Pater Peters uwen raedt,</l>
+<l>Die heeft my seer bedrogen,</l>
+<l>Mijn Kroon, Mijn Staf, En groten staet,</l>
+<l>Js my geheel ontvlogen,</l>
+<l>Gy dacht de saken waren vast,</l>
+<l>Maer nu helaes ick ben in last,</l>
+<l>Waer is nu mijn vermogen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Pater Peters. </hi></l>
+<l>Had ghy dat harde ketters rot,</l>
+<pb n="21"/>
+<l>Gelijck ick wel seyde,</l>
+<l>Op eenen dag met zwaert en strot,</l>
+<l>Door moort en bitter leyden,</l>
+<l>Door uwen Yeren omgebragt,</l>
+<l>Gy sat nu niet in dese klagt,</l>
+<l>Wat baet u droevigh schreijen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Pater La Chaise. </hi></l>
+<l>Dat 's waer confrater, Jacob Oom,</l>
+<l>Die wilde ons niet hooren,</l>
+<l>Doch 't is voor my nu als een droom,</l>
+<l>Jch wensch my noyt gebooren,</l>
+<l>Had ick de Scepter in de handt,</l>
+<l>De Prins zou weer uyt Engelandt,</l>
+<l>'k Sou van mijn kracht doen hooren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jacobus Stuwaert. </hi></l>
+<l>Ja Vader, dat is wel geseydt,</l>
+<l>Maer wat sou ick gaen beginnen,</l>
+<l>Daer den Prins in soo korten tijdt,</l>
+<l>Mijn Landt quam overwinnen,</l>
+<l>Mijn Adel en de Geest'lijckheyt,</l>
+<l>Hebben my hare hulp ontseydt, </l>
+<l>Het gaet my aen de sinnen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranckrijck. </hi></l>
+<l>Houdt moet Cousijn, ick sal mijn kracht</l>
+<l>Een yder doen gevoelen,</l>
+<l>Jck sal met mijne Oorlogs macht</l>
+<l>U wraeck-lust wel verkoelen,</l>
+<l>Jck treck nu vast op Hollandt aen,</l>
+<l>Haer meeste macht is daer van daen,</l>
+<l>Mijn Volck sal lustigh woelen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jacobus Stuwaert. </hi></l>
+<l>Ach! had ick doch in Engelan[d]</l>
+<l>De Wetten niet verbroocken,</l>
+<l>Jck was nu niet in dese standt</l>
+<l>Maer eens te recht gesproken:</l>
+<l>Louys gy hebt my desen draet</l>
+<l>Ontwonden, maer mijn lieve Maet,</l>
+<l>De Prins wil zijn gewroocken.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Pater Peters. </hi></l>
+<l>Helaes mijn Heer, wat droeve maer,</l>
+<l>Komt my daer weer ter ooren,</l>
+<l>De Prins is hoort mijn verklaer,</l>
+<pb n="22"/>
+<l>Jn Engelandt verkoren</l>
+<l>Tot Koning over 't gantsche Rijck;</l>
+<l>Sy roepen lustigh al gelijck,</l>
+<l>Leev' langh gy Hoog-geboren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Pater La Chaise. </hi></l>
+<l>O Ramp, dit is een groote slagh!</l>
+<l>Wat sal men nu beginnen?</l>
+<l>Dit is voor ons een droeven dag,</l>
+<l>Jck sie nu niets te winnen,</l>
+<l>Jck vrees dat ons Collegie al</l>
+<l>Sal vallen een seer zwaren val;</l>
+<l>Mijn hert dat klopt van binnen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranckrijck. </hi></l>
+<l>Wat seght ghy Vader is de Prins</l>
+<l>Tot Koningh uyt-verkoren?</l>
+<l>Dat was mijn vreesen allesins!</l>
+<l>Nu is 't met ons verlooren,</l>
+<l>Nu is de kans met ons gedaen,</l>
+<l>Heel Vranckrijck sal in prijckel staen,</l>
+<l>De Prins is vol van tooren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jacobus Stuwaert. </hi></l>
+<l>O ja Bourbon, dat 's wis en klaer,</l>
+<l>Hy sal van alle zijden,</l>
+<l>U brengen in een groot gevaer,</l>
+<l>Want hy sal u bestrijden,</l>
+<l>So wel te Water als te Landt,</l>
+<l>Al schoot gy moord en brand,</l>
+<l>Gy sult 'er weer voor lijden.</l>
+<l>&nbsp;</l>
+<l>So ghy gehouden had u eed,</l>
+<l>En Holland niet beledigt,</l>
+<l>En door u Moorderijen wreed</l>
+<l>Heel Christen-rijck ontvredigt,</l>
+<l>Had gy my niet door uwe list,</l>
+<l>Tegen mijn volck my op-gehitst,</l>
+<l>Jck hoefde niet verdedigt. </l>
+<l>&nbsp;</l>
+<l>Nu moet ick dwalen over al,</l>
+<l>En weet geen rust te vinden,</l>
+<l>Helaes ick val een droeve val,</l>
+<l>Wat sa lick onderwinden?</l>
+<l>Tracht ich nu weer na Kroon en Staf,</l>
+<l>Bereyt ick voor mijn self een graf,</l>
+<l>Jck loop als den uytsinden.</l>
+<l>&nbsp;</l>
+<pb n="23"/>
+<l>Oorlof ghy vorsten wie ghy zijt,</l>
+<l>Tracht nimmermeer de wetten,</l>
+<l>Die in u Landt van oude tijdt,</l>
+<l>Gestelt zijn af te setten,</l>
+<l>So raeckt ghy niet in mijne standt,</l>
+<l>Adieu mijn heerlijck Engelandt,</l>
+<l>Dat ick dacht te verpletten.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0010"/>
+    <interp type="secundair" value="16890421"/></interpGrp>
+<head rend="h3">Een Loffelijck Liedt, hoedanigh ons Edel Prins van Oranjen in Engelant voor haren Koningh is aengenomen, en sijn Edel Princes voor Coningin, die alle beyde den 21 April, 1689. zijn gekroont.</head>
+<div type="section">
+<head rend="h4">Voys: <hi rend="i">Van 't Lollepotje.</hi> </head>
+<lg type="poem"><l>Sa komt Faem met u Trompet gedreven</l>
+<l>Blaest den lof van onsen Prins verheven</l>
+<l>Van Wilhelmus de derde hoog gebooren,</l>
+<l>Die in Engelant nu is verkoren.</l>
+<l>&nbsp;</l>
+<l>Voor Koning van 't heel Brittanse rijcke,</l>
+<l>Looft dan Godt gy menschen al gelijcke,</l>
+<l>Dat gy den Oranjen Tack siet groeyen,</l>
+<l>God laet hem in eer en deugden bloeyen,</l>
+<l>&nbsp;</l>
+<l>Want 't is ons vermaeck en verlangen</l>
+<l>Dat een Prins nu heden heeft ontfangen,</l>
+<l>d'Edel Kroon en staf van groot Brittanjen,</l>
+<l>Js nu voor den Prins al van Oranjen.</l>
+<l>&nbsp;</l>
+<l>'t Js een vreugt voor ons lien om te horen</l>
+<l>Dat Maria Stuaert is verkoren,</l>
+<l>Jn Engelant uyt een pure minne,</l>
+<l>Van drie Rijcken is sy nu Coninginne.</l>
+<l>&nbsp;</l>
+<l>Nu siet Oranjen triumpheeren,</l>
+<l>Jn Engelant vol lof ende eeren,</l>
+<l>Dat de gantsche werelt is verwondert,</l>
+<l>En met geschut dan lustigh dondert.</l>
+<l>&nbsp;</l>
+<l>Jn Yrlandt, schotlant, Engelant mede,</l>
+<l>So toont al u dapperheden,</l>
+<l>Om uwe Koning nu te gaen wenschen,</l>
+<l>Veel geluck tot vreugt van yder menschen.</l>
+<l>&nbsp;</l>
+<l>Sa laet ons dan met reverentie,</l>
+<l>Vreugde maken door onse Proventie,</l>
+<l>Om dat onse Spruyt al van Oranjen,</l>
+<pb n="24"/>
+<l>Js geworden Koningh van Brittanjen.</l>
+<l>&nbsp;</l>
+<l>Die ons sal behouden en bewaren,</l>
+<l>Tegens al de France Leger-scharen,</l>
+<l>En die altijdt onse Nederlanden,</l>
+<l>Sal beschermen met sijn vroome handen.</l>
+<l>&nbsp;</l>
+<l>Vranckrijck staet verstelt van dese saken,</l>
+<l>Die altijdt getracht heeft om te smaken,</l>
+<l>Den Oranjen Appel soet van geure,</l>
+<l>Maer hy valt den Fransman al te seure.</l>
+<l>&nbsp;</l>
+<l>Oorlof laet ons dan allegader,</l>
+<l>Bidden aen Godt den Hemelschen Vader,</l>
+<l>Dat ons Edel Prins nu langh magh leven</l>
+<l>Met sijn Edel Princes oock daer neven.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0011"/></interpGrp>
+<head rend="h3">Een Nieuw Liedt, aen sijn Koninklijke Majesteyt van groot Brittanje. </head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Als Oranje in Companje, &amp;c.</hi></head>
+<lg type="poem"><l>Komt Oranje vol kloeckhede,</l>
+<l>Komt manhaftigh Heldt valjant,</l>
+<l>Komt herstelt de wetten mede,</l>
+<l>Jn 't vermaerde Schottenlandt,</l>
+<l>Verheft ons nu ydoon,</l>
+<l>Want u komt toe de kroon,</l>
+<l>William </l>
+<l>d'Orangje stam,</l>
+<l>Met Maria Stuaert schoon.</l>
+<l>&nbsp;</l>
+<l>Ons Orangie heel kloeckmoedigh,</l>
+<l>Met een groote dapperheydt,</l>
+<l>Jn Brittanje seer voorspoedigh,</l>
+<l>Jn roem-ruchtigh Engels Rijck,</l>
+<l>Met macht van Kielen groot,</l>
+<l>Vijf hondert in den Vloot,</l>
+<l>Om Protestant, </l>
+<l>Religie kant,</l>
+<l>Te helpen uyt den noodt.</l>
+<l>&nbsp;</l>
+<l>Al de Jesuwijte Uylen,</l>
+<l>Loopen nu geheel verwoet,</l>
+<l>Van schaemloosheydt schier huylen,</l>
+<l>'t Js voor haer een tegenspoet,</l>
+<l>Dat onse Vorst valjant,</l>
+<l>Nu binnen Engelandt,</l>
+<l>Ontfangt soo'n eer,</l>
+<l>'t Js haer hertseer,</l>
+<pb n="25"/>
+<l>Nu vluchten sy met schandt.</l>
+<l>&nbsp;</l>
+<l>Waer is nu de hoer van Babel,</l>
+<l>Daer ghy op steunde met magt,</l>
+<l>Pater Peters den verrader,</l>
+<l>Heeft dees fabel voort gebragt,</l>
+<l>Dien snooden die seer vals,</l>
+<l>Selt voor een Prins van Wals,</l>
+<l>Maer nu tot loon,</l>
+<l>Verwacht hy schoon,</l>
+<l>Sijn recht verdiende loon.</l>
+<l>&nbsp;</l>
+<l>Maer wat baet nu al haer liste,</l>
+<l>Tegens ons nu allegaer,</l>
+<l>Meenden sy dat wy 't niet wiste,</l>
+<l>O ja 't brengt haer in 't bezwaer,</l>
+<l>Haer valsheyt boos en snoot,</l>
+<l>Dat brengt haer in den noodt, </l>
+<l>So sal 't noch gaen,</l>
+<l>al met den Haen,</l>
+<l>Want God haer doen verstoot. </l>
+<l>&nbsp;</l>
+<l>Gaet nu by Bourbon hooghmoedigh,</l>
+<l>Om bystant tegen 't Geuse bloet,</l>
+<l>Maer wy zijn oock overvloedigh,</l>
+<l>Vol couragie en vol moet,</l>
+<l>Want wy Hollanders trouw,</l>
+<l>En de zeeuwe seer gouw,</l>
+<l>Gelijckerhandt,</l>
+<l>Vechten Valjant,</l>
+<l>Voor het huys van Nassouw. </l>
+<l>&nbsp;</l>
+<l>Francen Koningh wilt vry schroomen,</l>
+<l>Als ons Prins in u Rijck komt,</l>
+<l>Dat sult ghy niet konnen droomen,</l>
+<l>Ghy sult staen gelijck verstomt,</l>
+<l>Daerom vry metter spoet,</l>
+<l>Valt uwen Godt te voet,</l>
+<l>En laat vry af,</l>
+<l>U valsheyt straf,</l>
+<l>Daerom siet wat ghy doet.</l>
+<l>&nbsp;</l>
+<l>Waerom gaet ghy rebelleeren,</l>
+<l>Tegen Godt en sijn gebodt,</l>
+<l>En gaet stom afgoden eeren,</l>
+<l>En houdt met Gods Woort de spot;</l>
+<l>Hooghmoet is selden goedt,</l>
+<l>Sy meenigh suchten doet,</l>
+<l>Het doet voortaen,</l>
+<l>Jorck vluchten gaen,</l>
+<l>Heel toornigh en verwoet.</l>
+<l>&nbsp;</l>
+<l>Valt nu met dien Heldt te gader,</l>
+<pb n="26"/>
+<l>Op Vranckrijck heel strengh en straf,</l>
+<l>En geeft nu dien vals verrader</l>
+<l>Sijn verdiende loon en straf,</l>
+<l>Hy heeft met listen quaet,</l>
+<l>aen ons betoont in daed,</l>
+<l>Dat hem voor-al </l>
+<l>Berouwen sal,</l>
+<l>Waer dat hy gaet of staet.</l>
+<l>&nbsp;</l>
+<l>t'Sa Hollandtsche Batavieren,</l>
+<l>Strijdt kloeckmoedigh voor ons Landt,</l>
+<l>Laet Kanon en wimpels zwieren,</l>
+<l>Doet ijn Hoogheyt trouw bystandt,</l>
+<l>U leven niet verschoont,</l>
+<l>ons Prins heeft nu de Kroon,.</l>
+<l>Door 't Parlement,</l>
+<l>Seer wel bekent,</l>
+<l>Met sijn Koningin schoon.</l>
+<l>&nbsp;</l>
+<l>Daerom wilt nu vreughde rapen,</l>
+<l>Vol blijdtschap aen alle kant,</l>
+<l>Boent uyt 't Land nu al de Papen,</l>
+<l>Die tegens hem zijn gekant;</l>
+<l>Steeck Picktonnen in brandt,</l>
+<l>En roept gelijckerhandt,</l>
+<l>Komt singt Godts lof,</l>
+<l>En roemt er of,</l>
+<l>Als David dee playsant.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0012"/></interpGrp>
+<head rend="h3">Een heerlijck Victorie Lied, van het verkiesen van sijn Koninklijke Hoogheyt en Prince van Orangie, voor Coningh van Engelant, Schotlant en Yrlant, en sijn Gemalin voor Coninginne, </head>
+<div type="section">
+<head rend="h4">Op de Stemme: <hi rend="i">De Hont achter de Haes</hi>. </head>
+<lg type="poem"><l>Sa roept Victorie t'allen kant,</l>
+<l>Wy Borgers, Boer en Heer,</l>
+<l>Al door het gantsche Nederlant,</l>
+<l>Dat ons Princesse weer,</l>
+<l>Al van sijn Hoogheyt is gewis,</l>
+<l>Nu voor de laatste mael,</l>
+<l>Dat sy nu geen Princes meer is</l>
+<l>Maer Coningin royael.</l>
+<l>&nbsp;</l>
+<l>Haer Hoogheyt met een kloeck beleydt,</l>
+<l>Onbiedt de Damens al,</l>
+<l>Daer sy van alle neemt afscheyt,</l>
+<l>En haer den Heer beval,</l>
+<l>Men roept door 't heel Hollands gebiedt,</l>
+<l>O Godt geeft doch voorspoet,</l>
+<l>Dat ons edel Princesse niet,</l>
+<l>Op zee geen quaet ontmoet.</l>
+<l>&nbsp;</l>
+<l>O Pronck beelt van 't Brittanjens Rijck,</l>
+<l>Begeeft ghy u op de Zee, </l>
+<l>Met macht van Adel blijdelijk,</l>
+<l>Die u convoyen mee,</l>
+<l>Men roept door 't heel Hollands gebiedt,</l>
+<l>O Godt geeft doch voorspoet, </l>
+<l>Dat ons Edel Princesse niet,</l>
+<l>op Zee geen quaet ontmoet. </l>
+<l>&nbsp;</l>
+<l>De preparatie wort bereyt,</l>
+<l>Van Eng'lant, Schot en Yr,</l>
+<l>Hoe dat sy hare Majesteyt,</l>
+<l>Ontfangen sullen hier,</l>
+<l>Om daer de kroon op 't edel Hooft</l>
+<l>Te planten, op den Throon,</l>
+<l>Waer van veel Rijken staen verdooft</l>
+<l>En Coningh van sijn Soon.</l>
+<l>&nbsp;</l>
+<l>Wilhelmus Prins d'Oranjen Helt,</l>
+<l>Den vierden kloeck van moet,</l>
+<l>Die heeft kloeckmoedig in het velt, </l>
+<pb n="27"/>
+<l>Getoont van wat voor Bloet,</l>
+<l>Gesprooten uyt Stuwaerden Stam,</l>
+<l>En oock sijn Gemalin,</l>
+<l>Waer door ons Lant in vryheyt quam,</l>
+<l>En nu wort Koningin.</l>
+<l>&nbsp;</l>
+<l>Sijn Hoogheyt kloek vroom van verstant,</l>
+<l>Js voor een Scherrem heer </l>
+<l>verkosen Van gantsch Engelant, </l>
+<l>Ey siet wat groote eer,</l>
+<l>Ook word de Kroon hem toegeleyt,</l>
+<l>Al van het Parlement,</l>
+<l>Die hem vereert door kloeck beleyt.</l>
+
+<l>&nbsp;</l>
+<l>Den lof is niet te spreken uyt,</l>
+<l>Die men bedrijven  siet,</l>
+<l>Ja meer als doen sy was de Bruydt,</l>
+<l>Niemant toont geen verdriet,</l>
+<l>Maer roepen over al met vreugt,</l>
+<l>Singt een Oranjen Stam,</l>
+<l>Een yder toont hem seer verheught,</l>
+<l>Ons Landt in vryheyt quam.</l>
+<l>&nbsp;</l>
+<l>Het vreugde vuur dat word bereyt,</l>
+<l>Door heel Engels Gebiedt,</l>
+<l>Al door sijn Hoogheyts kloeck beleyt,</l>
+<l>Niemant toont geen verdriet, </l>
+<l>Maer roepen 't is Stuwaerder Soon,</l>
+<l>Uyt Keyserlijck Geslacht,</l>
+<l>Niemant behoort anders de Kroon,</l>
+<l>Als Prins Willem bedacht.</l>
+<l>&nbsp;</l>
+<l>De Kroon en Staf die wort geplant,</l>
+<l>Op de Oranjen Spruyt,</l>
+<l>Men roept de vreught door heel Hollant,</l>
+<l>Met alle blijtschap uyt, </l>
+<l>Men roept daer al dien kloeken Helt,</l>
+<l>Doe door sijn vroome daet,</l>
+<l>De Kroon voort op het Hooft gestelt,</l>
+<l>Door toedoen van den Staet.</l>
+<l>&nbsp;</l>
+<l>Roept nu victorie voor gewis,</l>
+<l>Door 't heel Christen Gebied,</l>
+<l>Dat onsen Prins nu Coningh is,</l>
+<l>Ten vollen is geschiedt,</l>
+<l>Al van Brittanjens Republijck,</l>
+<l>Roept viva Coningh nou,</l>
+<l>Drinckt de gesontheyt blijdelijck </l>
+<l>Van Coningin getrouw.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0013"/></interpGrp>
+<head rend="h3">Oranjens verheerlikte staet in Engelant, Schotlant en Yrlant,</head>
+<div type="section">
+<head rend="h4">op de Voys: <hi rend="i">Moeder myn</hi>.  </head>
+<lg type="poem"><l>t'Sa Nederlant, </l>
+<l>Victorie brant,</l>
+<l>Voor den Prins van Nassouwe,</l>
+<l>Sijn Gemalin,</l>
+<l>Js Coningin,</l>
+<l>Laet nu geen moet verflouwen,</l>
+<l>Want onsen Heldt,</l>
+<l>Gingh kloeck te Veldt,</l>
+<l>Jn 't Coninckrijk Brittanje,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen.</l>
+<l>&nbsp;</l>
+<l>Neerlantse Jeugt,</l>
+<l>Wilt nu met vreugt,</l>
+<l>Ons Prins sijn hooft versieren</l>
+<l>d' Oranje Spruyt,</l>
+<l>Vlegt Mirrhe kruyt,</l>
+<l>Met Palm en Lauwerieren</l>
+<l>Voor onsen Helt,</l>
+<l>Die kloeck in 't Velt,</l>
+<l>Trock in 't Rijck van Brittanje,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen. </l>
+<l>&nbsp;</l>
+<l>Maekt nu goet sier,</l>
+<l>Gy Batavier,</l>
+<l>Laet Bas, Fiolen klincken,</l>
+<l>Maeckt soet geluyt</l>
+<l>Op Harp en Fluyt,</l>
+<l>Wilt de gesontheyt drincken,</l>
+<l>Van onsen Helt,</l>
+<l>Die kloeck te Velt,</l>
+<l>Trock in 't Rijck van Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen. </l>
+<l>&nbsp;</l>
+<l>Den Protestant,</l>
+<l>Sal triumphant</l>
+<l>Jn Engelandt, weer floreeren,</l>
+<l>De Schot en Yr,</l>
+<l>Met groot getier,</l>
+<l>Roept tot ons Prins sijn eere,</l>
+<l>Lang leef die Helt,</l>
+<l>Die kloeck te Velt,</l>
+<l>Trock in 't Rijck van Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>gaf prijs en eer,</l>
+<l>Viva Prins van Oranje. </l>
+<l>&nbsp;</l>
+<l>Sijn kloeke moet,</l>
+<l>En sochte geen bloet,</l>
+<l>Jn Engelant te vergieten,</l>
+<l>Den grooten Vorst, </l>
+<l>Na vreden dorst</l>
+<l>Liet hem geen tijt ontschieten,</l>
+<l>Lang leef dien helt</l>
+<l>Die kloek te velt,</l>
+<l>Trok in 't Rijck van Brittanje,</l>
+<l>Daer</l>
+<pb n="28"/>
+    <l>hem de Heer</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranje. </l>
+<l>&nbsp;</l>
+<l>Sijn dapperheyt,</l>
+<l>En kloeck beleyt,</l>
+<l>Stelt Eng'lants recht en Wetten, </l>
+<l>En Godes Kerck,</l>
+<l>Weer vast en sterck,</l>
+<l>Geen Mensch kan 't hem beletten,</l>
+<l>Langh leeft dien Helt,</l>
+<l>Die kloeck te Velt,</l>
+<l>Trock in 't Rijck van Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen. </l>
+<l>&nbsp;</l>
+<l>Schoon Lodewijck,</l>
+<l>Door vals pracktijck,</l>
+<l>Ons docht te ruineeren,</l>
+<l>Sijn snoode list,</l>
+<l>Heeft hem gemist</l>
+<l>Prins Willem gaet dit keeren.</l>
+<l>Langh leeft dien helt,</l>
+<l>Die kloeck te Velt,</l>
+<l>Trock in 't Rijck van Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins, etc. </l>
+<l>&nbsp;</l>
+<l>Den trotsen Frans,</l>
+<l>Siet nu geen kans,</l>
+<l>Maer geeft de moet verloren,</l>
+<l>Om dat Nassouw,</l>
+<l>Sijn Edel vrou</l>
+<l>Coningin is verkoren,</l>
+<l>Langh leeft dien helt,</l>
+<l>Die kloeck te Velt,</l>
+<l>Trock in 't Rijck van Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranje. </l>
+<l>&nbsp;</l>
+<l>De Francen haen,</l>
+<l>Moet vluchten gaen,</l>
+<l>En voor sijn hoogheyt wijcken,</l>
+<l>Nu dat ons Prins,</l>
+<l>So onversins</l>
+<l>Wort Meester van drie Rijcken,</l>
+<l>Want 't Parlemendt,</l>
+<l>Maeckt hem Regendt</l>
+<l>Van Schot en Yr ende Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen. </l>
+<l>&nbsp;</l>
+<l>Hoe sal de faem,</l>
+<l>Ons helt sijn naem,</l>
+<l>Jn snelheyt gaen verbreijen,</l>
+<l>Aen 's werelts ent,</l>
+<l>Wort het bekent,</l>
+<l>Jn 't ront aen alle syen,</l>
+<l>Dat onsen Helt,</l>
+<l>kloeck trock te velt,</l>
+<l>Jn 't Koninckrijck Brittanjen,</l>
+<l>Daer hem de Heer,</l>
+<l>Gaf prijs en eer,</l>
+<l>Viva Prins van Oranjen. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0014"/></interpGrp>
+<head rend="h3">Wilhelmus kloeck beleyt in Engelandt.</head>
+<div type="section">
+<head rend="h4">Voys: <hi rend="i">Ay schoone Nimph aensiet een magtig Koning.</hi> </head>
+<lg type="poem"><l>Op Hollandts Volk vereende Nederlanden,</l>
+<l>Ras kloecke Bataviers,</l>
+<l>Vlecht voor ons Vorst een Krans met eygen handen,</l>
+<l>Van groene Lauwerier,  </l>
+<l>Verciert het hooft van ons Helt der helden,</l>
+<l>Die voor ons waegt sijn vleys en bloedt,</l>
+<l>En voor ons druck en tegenspoet,</l>
+<l>Sijn leven stelden. </l>
+<l>&nbsp;</l>
+<l>d'Oranjen Spruyt die sijn voorouders daden,</l>
+<l>Volvoert uyt liefde puur,</l>
+<l>Red Eng'lants rou alleen door Gods genaden,</l>
+<l>vervolgens de natuur,</l>
+<l>Geteelt en uyt des Keysers stam gesprooten,</l>
+<l>En uyt een Konincklijck geslacht,</l>
+<l>Heeft 't Roomsch gebiedt ende helsche nacht,</l>
+<l>Om veer gestoren.</l>
+<l>&nbsp;</l>
+<l>Dien Jesuwijt die langh socht t' overrompelen,</l>
+<l>De Protestantsche leer,</l>
+<l>Barst nu van spijt om dat hy selfs moet domp'len,</l>
+<l>En sonder tegenweer,</l>
+<l>Verlaten het Hof soecken een ander wooning,</l>
+<l>En vluchten voor de Prins met schant,</l>
+<l>Moet loopen in een ander Land, </l>
+<l>Tot sijn verschooningh.</l>
+<l>&nbsp;</l>
+<l>Ons edel Vorst kloeckmoedigh in het strijen,</l>
+<l>Heeft sonder groot gewelt,</l>
+<l>Engelandts val en onheyl gaen bevrijen,</l>
+<l>En haer in rust gestelt,</l>
+<l>Sijn edel hert kan geen pracktijck verdragen,</l>
+<l>So dat hy door Gods goedigheyt,</l>
+<l>Den twist bedrog en nijt </l>
+<l>heeft gaen verjagen.</l>
+<l>&nbsp;</l>
+<l>Het Engels Volck juyght nu met volle monden,</l>
+<pb n="29"/>
+<l>'t Roept al met herten bly,</l>
+<l>Dien Josua, dien van man Godt gesonden,</l>
+<l>Helpt ons uyt druk en ly,</l>
+<l>Dien Gideon die voor ons heeft gestreden,</l>
+<l>Door hulp en segen van den Heer,</l>
+<l>Behaelt dien Helt lof prijs en eer</l>
+<l>Sijn dapperheden.</l>
+<l>&nbsp;</l>
+<l>Zijn waert gekroont, wie kan te recht uytspreken,</l>
+<l>Den roem die hem toebehoort;</l>
+<l>By wie kan dese Vorst zijn vergeleken,</l>
+<l>Die strijd voor Godes Woort;</l>
+<l>Sijn helden daen blijft eeuwig in memorie,</l>
+<l>Die ons in vryheyt heeft gebragt,</l>
+<l>En ons herstelt door Godes kracht,</l>
+<l>Roept nu victorie.</l>
+<l>&nbsp;</l>
+<l>t'Sa maeckt nu vreught Vereenighde Provincien</l>
+<l>Met Eng'landt, Schot en Yr,</l>
+<l>Nu onsen Prins het heeft gebracht na wenschen,</l>
+<l>Ontsteeckt het vreughde-vier,</l>
+<l>Vuur-wercken laet kraecken de Musquetten,</l>
+<l>Doet blaecken 't donderend Canon,</l>
+<l>Tot spijt van Louis de Bourbon,</l>
+<l>Blaest de Trompetten.</l>
+<l>&nbsp;</l>
+<l>Den grooten lof viva Prins van Oranjen,</l>
+<l>Dien dapp'ren Oorlogs Helt, </l>
+<l>Die voor ons vocht kloeckmoedigh in campanjen,</l>
+<l>So dat hy hout het Velt,</l>
+<l>Dit maeckt Louis en Jacob seer verlegen,</l>
+<l>Omdat haer aenslagh is gemist,</l>
+<l>Die Prins Wilhelmus heeft geslist,</l>
+<l>Door Godes zegen.</l>
+<l>&nbsp;</l>
+<l>Nu sal de Faem sijn Helden naem versenden,</l>
+<l>By Moor en Jndiaen, </l>
+<l>By Tarter Turck en aen des Werelts enden,</l>
+<l>Oock by den Persiaen,</l>
+<l>Hoe wort zijn daet nu over al gepresen,</l>
+<l>Om dat hy yder vryheyt geeft</l>
+<l>Js dapper vriend'lijk en beleeft,</l>
+<l>'t doet vrankrijk vrese<hi rend="i">n</hi>. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0015"/></interpGrp>
+<head rend="h3">Vranckrijcks Klaght, over 't gedreyghde quaet dat hem is nakend door alle Vorsten en Potentaten.</head>
+<div type="section">
+<head rend="h4">Voys: <hi rend="i">'s Hartogenbosch</hi>, et<hi rend="i">c.</hi></head>
+<lg type="poem"><l>Eylaes wie sal mijn Helper zijn,</l>
+<l>Jn al mijn groot elenden,</l>
+<l>Jck ben vol anghst verdriet en pijn,</l>
+<l>Waer ick mijn keer of wenden,</l>
+<l>Die heele Werelt valt op my,</l>
+<l>Ach ach ick sit nu in de ly,</l>
+<l>'k Heb Vrienden noch bekenden.</l>
+<l>&nbsp;</l>
+<l>De Sweet die valt my op mijn Lijf,</l>
+<l>Om dat 'k hem heb bedrogen,</l>
+<l>Al door mijn list en snoo bedrijf,</l>
+<l>Dat hem veel Ste'en ontvlogen,</l>
+<l>Door Denemerken Brandenborgh,</l>
+<l>Die hem brachten in druck en sorgh,</l>
+<l>Druypt nu in mijn oogen.</l>
+<l>&nbsp;</l>
+<l>'k Meenden ick had den Deen te vrient,</l>
+<l>Die heeft mijn oock verlaten,</l>
+<l>En heeft een ander weer bemint,</l>
+<l>De Keyser en de Staten,</l>
+<l>Die soeken maer tot mijnder schant,</l>
+<l>My te verjagen uyt Duytslant,</l>
+<l>Wat mag mijn schrab'len baten.</l>
+<l>&nbsp;</l>
+<l>Den Keurvorst Beyer valt mijn straf,</l>
+<l>Doet mijn sijn Proefjens smaken,</l>
+<l>Slaet dickwils van mijn volk af</l>
+<l>Die stroopen branden blaken,</l>
+<l>Jn 't Roomsche Rijck en ook de Palts,</l>
+<l>Hierom zijn al de Vorsten vals,</l>
+<l>Wat sal ick mogen maken.</l>
+<l>&nbsp;</l>
+<l>Den Keurvorst Brandenburg en Trier,</l>
+<l>Driegen my met haer machten,</l>
+<l>Den Saer komt ook et groot getier,</l>
+<l>Om mijn al t'saem met krachten,</l>
+<l>Te drijven uyt het Duyts gebied,</l>
+<l>'k Leef vol elenden en verdriet.</l>
+<l>Wat baten nu mijn klachten.</l>
+<l>&nbsp;</l>
+<pb n="30"/>
+<l>Geheel Europa is in roer,</l>
+<l>Door tromlen en trompetten,</l>
+<l>En yder maeckt een groot rumoer,</l>
+<l>Om mijn t'saem te verpletten,</l>
+<l>Den Spanjaert Pool, Venetiaen,</l>
+<l>Den Zwitser wil my niet bystaen,</l>
+<l>Jck kan 't haer niet beletten.</l>
+<l>&nbsp;</l>
+<l>Den Keyser sent een groot gewelt, </l>
+<l>Van Ruiters ende Lants-knechten,</l>
+<l>Mewt Ducq d'Loreyn die vroomen helt,</l>
+<l>Om my mee te bechten,</l>
+<l>Jck weet die Vorst is machtigh gram,</l>
+<l>Om dat ick hem sijn Land ontnam, </l>
+<l>Wat sal ick veel uytrechten.</l>
+<l>&nbsp;</l>
+<l>Niemant en hout hem neuterael,</l>
+<l>Maer willen my bestrijen,</l>
+<l>Oock den Coning van Portugael,</l>
+<l>Brenght mijn in druck en lyen,</l>
+<l>En heeft my d'Oorlog aengeseyt</l>
+<l>'t Komt al door miojn meynedigheyt,</l>
+<l>Hoe sal ick my bevryen.</l>
+<l>&nbsp;</l>
+<l>Jacobus Stuart is gevlught,</l>
+<l>En hem sijn Land ontnomen,</l>
+<l>Jck docht het was een loos gerucht,</l>
+<l>Maer doen ick hem selfs sag komen, </l>
+<l>En wist dat Willem van Nassou,</l>
+<l>Hem had gebracht in desen rou,</l>
+<l>Begon mijn hert te schroomen.</l>
+<l>&nbsp;</l>
+<l>Jck ken Prins Willems dapperheyt,</l>
+<l>Jn 't vechten en in 't strijden,</l>
+<l>Hoe hy my door sijn kloek beleyt,</l>
+<l>Weer deed ten Land uyt rijden,</l>
+<l>'k Had drie Provintien overmant,</l>
+<l>Die 'k hem weer stellen most ter hant,</l>
+<l>Jck dorst hem niet verbeyden.</l>
+<l>&nbsp;</l>
+<l>Nu heeft hy driemael meerder macht,</l>
+<l>Om my te destrueren,</l>
+<l>Of ick al toon mijn groote kracht,</l>
+<l>Om my te defenderen,</l>
+<l>Den Stuaart, Schot, Yer en Engelsman, </l>
+<l>Die vallen t'samen op mijn an,</l>
+<l>'k Sal moeten haseleren.</l>
+<l>&nbsp;</l>
+<l>Dees val die is mijn eigen schult,</l>
+<l>Mijn dogt 't was al gewonnen,</l>
+<l>Ach ach mijn tijdt is vervult,</l>
+<l>'k Heb mijn niet wel versonnen,</l>
+<l>Maer voor gedaen en na bedacht,</l>
+<l>Heeft meenig in 't verdriet gebracht;</l>
+<l>Had ick dit noyt begonnen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0016"/></interpGrp>
+<head rend="h3">Een nieuw Liedt, van de Zee-slagh voorgevallen van 22 Oorlogh Schepen, so Hollanders als Engelse, tegen een manhaftige France Oorlogs Vloot van 82 Capitale Oorloghs Schepen, </head>
+<div type="section">
+<head rend="h4">op de Stemme: <hi rend="i">Wilhelmus van Nassouwen</hi>. </head>
+<lg type="poem"><l>Wanneer men heeft geschreven,</l>
+<l>Duysent ses hondert Jaer,</l>
+<l>Tnegentig daer beneven,</l>
+<l>Den 3 July klaer,</l>
+<l>Seylde hy met genuchte,</l>
+<l>Van Portsmuyden de Ree,</l>
+<l>Men hoorde vreemt geruchte,</l>
+<l>Wanneer men quam op Zee.</l>
+<l>&nbsp;</l>
+<l>'t Was op Bedag wilt weeten,</l>
+<l>Dat men de Vyant sagh,</l>
+<l>'t En dient oock niet vergeeten,</l>
+<l>Terstont den blaeuwe Vlagh,</l>
+<l>die joegh haer seer spoedigh,</l>
+<l>Tot Sonnen onderganck,</l>
+<l>Den 10 July spoedigh,</l>
+<l>Sag mense in een ranck. </l>
+<l>&nbsp;</l>
+<l>Elck ginck sijn Ancker lichten,</l>
+<l>Het schut raeckte te Boort,</l>
+<l>Men gingh ons onderrichten,</l>
+<l>Gelijck als dat behoort,</l>
+<l>En seilde met genuchte,</l>
+<l>Na de Fransman verstaet,</l>
+<l>'t Welck ons dede suchten,</l>
+<l>Door Harpers boos verraet.</l>
+<l>&nbsp;</l>
+<pb n="31"/>
+<l>Ons Admirael met manieren,</l>
+<l>Die heeft als een vroom Helt,</l>
+<l>Sijn Vloot daer doen rangieren,</l>
+<l>Jn slagorder gestelt,</l>
+<l>Ons Vies-Admirael wilt weten,</l>
+<l>Was Calenbergh dien Helt,</l>
+<l>Hy heeft hem wel gequeeten,</l>
+<l>Al op Nephtunis Velt.</l>
+<l>&nbsp;</l>
+<l>En Carel van Putten,</l>
+<l>Ons Vies-Admiraal,</l>
+<l>Om Vyands te stutten,</l>
+<l>Vreest hy geen vuur of stael,</l>
+<l>'k Hoop God sal hem bewaren,</l>
+<l>Voor het Vyants gebroet,</l>
+<l>Die hem uyt bezwaren,</l>
+<l>Genadigh heeft behoedt.</l>
+<l>&nbsp;</l>
+<l>O Schey ik moet u roemen,</l>
+<l>Als een vroom Schout by nacht,</l>
+<l>Daer sag men u af komen</l>
+<l>Tegen de Blaeuwe vlagh,</l>
+<l>Men hoorden u Kartouwe, </l>
+<l>So meenigh slagh op slagh,</l>
+<l>'t Was om te aenschouwen, </l>
+<l>Als men hem wijcken sagh.</l>
+<l>&nbsp;</l>
+<l>De Dood moet ick beklagen,</l>
+<l>Van onse Schout by nacht,</l>
+<l>'t Was Brakel oud van dagen,</l>
+<l>Die Vuur nog vlam ontsagh,</l>
+<l>Maar den Vyand bloed-gierig,</l>
+<l>Heeft hem ter neer gevelt,</l>
+<l>God wil sijn Ziel bestieren,</l>
+<l>Boven in 's Hemels velt.</l>
+<l>&nbsp;</l>
+<l>Jk moet oock nu verklaren,</l>
+<l>Van dese vroomen Helt,</l>
+<l>Die op Nepthunis baren,</l>
+<l>Hem in slagh-order stelt,</l>
+<l>Het was Jan Dirck van Hooren,</l>
+<l>Die vroomen Held seer groot,</l>
+<l>'t Leven heeft hy verlooren,</l>
+<l>Door een droevige Schoot.</l>
+<l>&nbsp;</l>
+<l>En van der Zaen wilt weten,</l>
+<l>Als een vroom Man getrouw,</l>
+<l>Die heeft hem wel gequeten,</l>
+<l>Al voor het Huys Nassouw,</l>
+<l>En Kuyper van gelijcken,</l>
+<l>Die heeft hem wel gestelt,</l>
+<l>Zonder een streeck te wijcken</l>
+<l>Voor het Vyants gewelt.</l>
+<l>&nbsp;</l>
+<l>Taelman vocht mee seer moedigh:</l>
+<l>Sijn lof diendt ook geseyt,</l>
+<l>Daer op quam Zwaen seer spoedig</l>
+<l>Sijn Vleugels wijt uitspreyt</l>
+<l>En Decker oud van dagen,</l>
+<l>Lief-hebbers van Nassouw,</l>
+<l>Noorthey moet ick beklagen,</l>
+<l>Sijn Dood maeckt grooten rouw.</l>
+<l>&nbsp;</l>
+<l>Van der Goes wil het weten,</l>
+<l>Den vroomen Held valjant,</l>
+<l>Sijn Lof dient niet vergeten,</l>
+<l>Hy sloegh aan elcken kant,</l>
+<l>So langh hy wiert genomen,</l>
+<l>Al van de France Haen,</l>
+<l>So dertigh Mans is 't ontkomen,</l>
+<l>De andere sijn gevaen.</l>
+<l>&nbsp;</l>
+<l>Van Seyl die sagh men streven,</l>
+<l>Tot 't eynde van den dach,</l>
+<l>Het Kalf daer beneven,</l>
+<l>Den Beer niemant ontsagh,</l>
+<l>En Pieterson verheven</l>
+<l>En Jan Convent en Snel,</l>
+<l>Hebben 't op gegeven,</l>
+<l>Maar sloegen even fel.</l>
+<l>&nbsp;</l>
+<l>Cale sach men seer moedig,</l>
+<l>Al op het Houte Paert</l>
+<l>En van der Poel seer bloedigh,</l>
+<l>Toonden hem onvertsaegt,</l>
+<l>Mosselman van gelijcke,</l>
+<l>Also dit Lied vermelt,</l>
+<l>En sag men niet bezwijke,</l>
+<l>Voor het vyant gewelt. </l>
+<l>&nbsp;</l>
+<l>By de Engelse ontrouwen,</l>
+<l>Was eenen Admirael,</l>
+<l>Men mogt het wel aenschouwen,</l>
+<l>Hy vocht niet principael,</l>
+<l>Harbert als een verrader,</l>
+<l>Die liet ons in den noot,</l>
+<l>Jn plaets van onse Vader,</l>
+<l>So schoot hy niet een schoot.</l>
+<l>&nbsp;</l>
+<l>Want hy had voorgenomen,</l>
+<l>Ons te brengen in rou,</l>
+<pb n="32"/>
+<l>Maar God door sijn vermoge,</l>
+<l>Redde ons uyt benou;</l>
+<l>Doen sag men hem verflouwen,</l>
+<l>Soo ras hy quam te lant,</l>
+<l>Daer wiert hy vast gehouwen,</l>
+<l>Als een Hont aen de bant.</l>
+<l>&nbsp;</l>
+<l>Wilt God den Heere looven,</l>
+<l>Voor sijn getrouwigheyt:</l>
+<l>Want hy quam haest van boven,</l>
+<l>Die Ziel en Lichaem scheyt,</l>
+<l>Hy redde ons uyt haer handt,</l>
+<l>Al van de vyant snoodt,</l>
+<l>Heer brengt ons te lande,</l>
+<l>Al in ons Vaders schoot.</l>
+<l>&nbsp;</l>
+<l>Beroemde Bataviere,</l>
+<l>Al van het huys Nassouw</l>
+<l>En blijft met goe manieren,</l>
+<l>Het Vaderlant getrouw,</l>
+<l>By van der Saen wilt weten,</l>
+<l>Js 't Lied ter neer gestelt</l>
+<l>Schips naem dient niet vergete<hi rend="i">n</hi>,</l>
+<l>De Agatha vermelt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0017"/></interpGrp>
+<head rend="h3">Minne-klacht van een Jongman, </head>
+<div type="section">
+<head rend="h4">Op de Stem: Van een nieuwe Voys.</head>
+<lg type="poem"><l>Schoon Jsabel, </l>
+<l>Verstaet mijn reden wel,</l>
+<l>Helpt uwe Dienaer uyt het droef gequel,</l>
+<l>Die dagh en nacht,</l>
+<l>Met suchten en geklag,</l>
+<l>Voor u deurtje heeft gestaen so meenige nacht.</l>
+<l>&nbsp;</l>
+<l>Al wat gy doet,</l>
+<l>'t Js al verlooren moet,</l>
+<l>Vertreckt van hier och Minnaer metter spoet,</l>
+<l>Blijft die gy zijt,</l>
+<l>Jck hou mijn eenigheyt,</l>
+<l>Want ick ben te schamel en gy veel te rijck.</l>
+<l>&nbsp;</l>
+<l>Maer schoon Goddin,</l>
+<l>Laet uwe stuurse sin,</l>
+<l>Als ben ick rijck toont my maer wedermin,</l>
+<l>Mijn hert en goet</l>
+<l>Geef ick u metterspoet,</l>
+<l>Als een rechte Minnaer aen sijn Liefste doet.</l>
+<l>&nbsp;</l>
+<l>Wel kammeraet,</l>
+<l>Segt my eens metterdaet,</l>
+<l>Waerom dat gy u oogen op mijn slaet,</l>
+<l>Of ist om mijn eer,</l>
+<l>Soo waer ick in 't verseer,</l>
+<l>Daerom wilt vertrecken en komt nimmermeer. </l>
+<l>&nbsp;</l>
+<l>Bruyn Maeghdelijn,</l>
+<l>'t Js om u soet aenschijn,</l>
+<l>Want u bruyn oogen als twee sterren sijn,</l>
+<l>Uwe borsjes blanck,</l>
+<l>En uwe roder mont,</l>
+<l>Hebben mijn jonck hert so seer verwont.</l>
+<l>&nbsp;</l>
+<l>U soete tael,</l>
+<l>Als eenen Nachtegael,</l>
+<l>Jck weet so doen de Jongmans altemael,</l>
+<l>'t Js maer om de blom</l>
+<l>Van de dochters Maegdom,</l>
+<l>En dan gaen de Jonghmans dragen haren roem.</l>
+<l>&nbsp;</l>
+<l>Mijn Lief playsant,</l>
+<l>Jck liet u niet in schant,</l>
+<l>Daer is eenen rinck van Diamant;</l>
+<l>En laet het daerom niet,</l>
+<l>Het is wel meer geschiet,</l>
+<l>Want je bent de bant van alle mijn verdriet.</l>
+<l>&nbsp;</l>
+<l>Weest nu verheugt,</l>
+<l>Minnaert in eer en deugt,</l>
+<l>Daer is mijn Trou en oock mijn jonge jeugt,</l>
+<l>Komt laet ons gaen,</l>
+<l>Al u droefheyt is gedaen</l>
+<l>Want door al u klagen hebje troost ontfaen.</l>
+<l>&nbsp;</l>
+<l>Blaest overluyt,</l>
+<l>Jsabel is de Bruyt,</l>
+<l>Roert nu Schalmeien Trommel ende Fluyt</l>
+<l>Wens nu dit Paer,</l>
+<l>Geluck in 't openbaer,</l>
+<l>Die in eer en deughden komen by malkaer.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0018"/></interpGrp>
+<pb n="33"/>
+<head rend="h3">Een nieuw vermakelijk Liet, van een vrijer tot een Vrijster, </head>
+<div type="section">
+<head rend="h4">op de Stemme: <hi rend="i">Als 't begint.</hi>  </head>
+<lg type="poem"><l>Ick gingh lest wandelen langhs de groene heyden,</l>
+<l>Jck gingh lest wandelen op mijn playsier,</l>
+
+<l>Buyten in 't Velt al langs de klare Revier.</l>
+<l>&nbsp;</l>
+<l>Al daer ick sat onder de groene Boomen,</l>
+<l>Aldaer ick sat in het bedoude gras,</l>
+<l>Van verre sag ick klare Water-stroomen,</l>
+<l>Daer meenig visjen in den Vijver was. </l>
+<l>&nbsp;</l>
+<l>Aldaer ick sat onder de groene Hagen,</l>
+<l>Songen de Vogeltjes al in 't Paradijs,</l>
+<l>Jck ben seer soetjes in den slaep gevallen,</l>
+<l>Mijn docht het was een Hemelsch Paradijs.</l>
+<l>&nbsp;</l>
+<l>Jck sag van verre een Jonghman komen,</l>
+<l>Mijn docht dat hy mijn overschoonheyt was,</l>
+<l>Jn bey sijn armen heeft hy my genomen,</l>
+<l>En hy leyde my al door het groene Gras.</l>
+<l>&nbsp;</l>
+<l>Hy noemde my sijn schoone Velt Goddinne,</l>
+<l>Hy schonk mijn duysent Paerlen en Gout fijn,</l>
+<l>Wy waren met malkanderen wel te vreden,</l>
+<l>Jck scheen aldaer een Coningin te zijn. </l>
+<l>&nbsp;</l>
+<l>Jck docht wel duysentmael op Leeuwen en Beeren,</l>
+<l>Jck docht wel duysentmael verscheurt te zijn,</l>
+<l>Maer mijn jong hartje had noch geen deeren,</l>
+<l>Het was maer om de schoone Bloeme van mijn.</l>
+<l>&nbsp;</l>
+<l>Oorlof gy Maeghdekens jongh ende teeren,</l>
+<l>En stelt u sinnen op de droomen niet,</l>
+<l>So sullen u droomen niet in droefheyt keeren,</l>
+<l>Gelijk aen dese Dochter is geschiet. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0019"/>
+    <interp type="secundair" value="16900712"/></interpGrp>
+<head rend="h3">Een nieuw Liedt over de groote Victorie in Yerlant, die sijn Konincklijcke Majesteyt van Groot Brittanje, Wilhelmus de 3, Prins van Orangie, aldaer bevochten heeft, op den 12 July, 1690. </head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Mijn schoon Godin wat gaet u aen.</hi>  </head>
+<lg type="poem"><l>Maeckt vreugde nu aen alle kant,</l>
+<l>En weest te saem verblijd,</l>
+<l>Om dat gewonnen is Yerlandt,</l>
+<l>Al nu ter rechter tijd,</l>
+<l>Van onsen Helt en Majesteyt,</l>
+<l>Van Engeland, Schot en Yer,</l>
+<l>Die door zijn moet en dapperheyd</l>
+<l>Ons doet verquicken hier.</l>
+<l>&nbsp;</l>
+<l>Dien Helt, dien geboren Held voorwaer,</l>
+<l>Heeft 's vyands stercke macht,</l>
+<l>Verbroken, nu in Yerland daer,</l>
+<l>'t Geen veel niet had gedacht,</l>
+<l>Maer God den Heer die alles siet,</l>
+<l>Die heeft sijn wil gedaen,</l>
+<pb n="34"/>
+<l>Dat hy ons vorst de handt so biedt,</l>
+<l>Om niet onder te gaen.</l>
+<l>&nbsp;</l>
+<l>Sijn Majesteyt die quam daer aen,</l>
+<l>Soo moedigh als een Heldt,</l>
+<l>En heeft de vyand aengedaen,</l>
+<l>Gedreven uyt het veldt,</l>
+<l>En waegde soo sijn leven bloot,</l>
+<l>Aen 't hooft van sijn Armee,</l>
+<l>Dat selfs sijn lijf-wacht in die noodt,</l>
+<l>Haer alle schricken dee.</l>
+<l>&nbsp;</l>
+<l>Maer God heeft hem so bewaert,</l>
+<l>Dat ons verstant niet vroegh,</l>
+<l>Ja God alleen heeft hem gespaert,</l>
+<l>Want het was na genoegh,</l>
+<l>Den kogel quam so pertinent,</l>
+<l>Voorby hem schieten stijf,</l>
+<l>Dat een stuck van sijn rock en hembt,</l>
+<l>Wech nam, en 't vel van 't lijf.</l>
+<l>&nbsp;</l>
+<l>De selfde kogel trof een aer,</l>
+<l>Die kort achter hem stondt,</l>
+<l>En schoot die door 't lijf aldaer,</l>
+<l>Dat hy viel doodt te grondt, </l>
+<l>Wel goeden God wat liefde groot,</l>
+<l>Hebt ghy voor ons en hem,</l>
+<l>Dat ghy hem redd' uyt so een nood,</l>
+<l>Daer hy was in de klem.</l>
+<l>&nbsp;</l>
+<l>Dit evenwel baerd hem geen quaed,</l>
+<l>Hy drijft sijn volck aen,</l>
+<l>Sa lustigh Kinders altemael,</l>
+<l>Het sal haest zijn gedaen,</l>
+<l>Mijn dunckt de Yren deynsen al,</l>
+<l>Sa sa wacker nu an,</l>
+<l>Die mijn Pardon niet aen en val</l>
+<l>Hackt die maer in de pan.</l>
+<l>&nbsp;</l>
+<l>Maer al de France die ghy vindt,</l>
+<l>Soldaet of Officier,</l>
+<l>Verstaen ick dat ghy die verslint,</l>
+<l>'k Heb daar voor geen quartier,</l>
+<l>Maer Schot, Yer ofte Engelsman,</l>
+<l>Doet die niet meer aen pijn,</l>
+<l>Doch datse eerst belooven dan,</l>
+<l>Mijn gehoorsaem te zijn.</l>
+<l>&nbsp;</l>
+<l>Het Leger van Jacobus dan,</l>
+<pb n="35"/>
+<l>Dat raeckt aen lager wal:</l>
+<l>Yder van ons toont hem  als een man,</l>
+<l>'t Was die niet staet die val,</l>
+<l>Als Leeuwen drongen sy met genucht,</l>
+<l>Op France en Yren groot</l>
+<l>tot dat den eenen vlucht,</l>
+<l>En d'ander wierd gedood.</l>
+<l>&nbsp;</l>
+<l>Geschut, Bagasy, Tent en vaen,</l>
+<l>En al het geen daer was,</l>
+<l>Dat moesten sy daer laten staen:</l>
+<l>Wouden sy lopen ras,</l>
+<l>So dat den ouwen Koning daer</l>
+<l>Sprack met een droef gesucht,</l>
+<l>Nu leyt mijn heele macht voorwaer,</l>
+<l>En ginck soo op de vlucht.</l>
+<l>&nbsp;</l>
+<l>Geeft nu de Prins de Sleutels vry</l>
+<l>Over van 't hele Land,</l>
+<l>Jck heb mijn  best ten allen ty</l>
+<l>gedaen, Foey wat een schand,</l>
+<l>Nu is het al gedaen :</l>
+<l>Mijn Leger is nu buyten staet,</l>
+<l>'k Magh weer na Louis toe gaen.</l>
+
+<l>&nbsp;</l>
+<l>Men kreegh drie duysent man voorwaer,</l>
+<l>En duysenden gequetst;</l>
+<l>En vijfthien hondert lagen daer</l>
+<l>Gedood, en voorts de rest,</l>
+<l>Die smeeten het geweer van haer neer</l>
+<l>En liepen metter spoed,</l>
+<l>En so raekt al sijn macht om veer</l>
+<l>En 't Leger gants in roer. </l>
+<l>&nbsp;</l>
+<l>Maer 't meesten is dat 'er dien Held</l>
+<l>Schomburrigh is gedood, </l>
+<l>Die man die wierd so zwaer gevelt,</l>
+<l>Twee houwen, en een schoot,</l>
+<l>Die kreegh hy in sijn hals seer zwaer,</l>
+<l>Dat hy opstaende voet</l>
+<l>Sijn geest moest geven toen voorwaer,</l>
+<l>En stickten in sijn bloed.</l>
+<l>&nbsp;</l>
+<l>Maer anders zijnder weynigh daer</l>
+<l>Officieren gedoodt, </l>
+<l>En so hebben wy also klaer</l>
+<l>De victory nu groot,</l>
+<l>Daer voor gedanckt moet zijn den Heer</l>
+<l>Voor 't geen hy heeft gedaen;</l>
+<l>Had die genomen ander keer,</l>
+<l>'t Zou droevig zijn vergaen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0020"/>
+    <interp type="secundair" value="16900710"/></interpGrp>
+<pb n="36"/>
+<head rend="h3">Een Nieuw Liedt, van de Zee-slag die op den 10 July 1690, tussen de Hollanders en France is voorgevallen.  </head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Hoe werckje niet</hi>, et<hi rend="i">c.</hi>  </head>
+<lg type="poem"><l>Wie biedt mijn nu de handt,</l>
+<l>Om Lof en Eer te geven,</l>
+<l>Aen die voor 't Vaderlant,</l>
+<l>So wagen lijf en leven,</l>
+<l>Mijn tong kan niet vermelden,</l>
+<l>Om uytbreyden de stof,</l>
+<l>Die men d' Hollandsche helden,</l>
+<l>Moet toeschrijven tot lof.</l>
+<l>&nbsp;</l>
+<l>Daer heeft men blijken van</l>
+<l>Gesien in veel Zee-slagen,</l>
+<l>En nu getoont ook dan,</l>
+<l>Dat d' heele werelt wagen,</l>
+<l>Hoe zy met kleyne machten,</l>
+<l>Hebben kloek wederstaen,</l>
+<l>Alle de France krachten,</l>
+<l>Die met haer vloot quam aen.</l>
+<l>&nbsp;</l>
+<l>Wy zijn met ons vloot dan,</l>
+<l>Na Engelant gevaren</l>
+<l>Om met den Engelsman,</l>
+<l>Te samen daer te paren,</l>
+<l>So sou men sonderlingen,</l>
+<l>Malkander doen bystant,</l>
+<l>En sien onder te brengen,</l>
+<l>&nbsp;</l>
+<l>Den Francen dwingelant.</l>
+<l>&nbsp;</l>
+<l>Den thienden July dan,</l>
+<l>Zijn de Francen gekomen,</l>
+<l>Met haer vloot op ons an,</l>
+<l>maer dede niet eens schromen,</l>
+<l>Ons helden al te gare,</l>
+<l>Die vochten daer so koen,</l>
+<l>En meenden oock voorware,</l>
+<l>Dat d'Engelsman sou doen.</l>
+<l>&nbsp;</l>
+<l>Maer laes die lieten daer,</l>
+<l>d'Hollanders alleen vechten,</l>
+<l>Op drie vier schepen naer,</l>
+<l>Van Engelse oprechte,</l>
+<l>Die bleven haer getrouwe,</l>
+<l>En settent alles by,</l>
+<l>d'Ander 't is een grouwe,</l>
+<l>Lieten haer al in ly.</l>
+<l>&nbsp;</l>
+<l>De France vochten daer,</l>
+<l>Met in de tachtig schepen</l>
+
+<l>En wy saten benepen,</l>
+<l>Met noch geen dertig zeylen,</l>
+<l>Die 't saem vochten verwoet,</l>
+<l>Dat 'er liep ongefeyle,</l>
+<l>Van scheeps boort af het bloet.</l>
+<l>&nbsp;</l>
+<l>Brakel dien vromen helt,</l>
+<l>Sagh men nu so verlaten,</l>
+
+<l>O mannen laet ons weeren,</l>
+<l>Wy zijn verraden hier,</l>
+<l>God hoop ik sal het keeren,</l>
+<l>'t Zy op wat voor manier.</l>
+<l>&nbsp;</l>
+<l>Daerop so kreeg die Held,</l>
+<l>Aen sijn been een quetsure</l>
+
+<l>'t Sal der noch anders suere,</l>
+<l>Set mijn op een stoel bloote,</l>
+<l>Want ick niet van u blijf,</l>
+<l>Maer wiert doen laes doorschoten,</l>
+<l>Met een kogel door 't lijf.</l>
+<l>&nbsp;</l>
+<l>De fury was so groot,</l>
+<l>Van al sijn maets verheven,</l>
+<l>Dat zy haer liever doodt,</l>
+<l>Wou vechten als opgeven,</l>
+<l>Neen riepen de Matroosen,</l>
+<l>Wy vechtender op an,</l>
+<l>Al sou men 't bloet uythoosen</l>
+<l>Van onse Schepen dan.</l>
+<l>&nbsp;</l>
+<l>Jan Dick mee Vies Admirael,</l>
+<l>Van 't Noort quartier verheven,</l>
+<l>Dien held met 't blancke stael,</l>
+<l>Swaeyde tot 't eynd sijns levens,</l>
+<l>Die riep voor 't lest te gaer,</l>
+<l>Mannen weert u vyandt,</l>
+<l>'k Voel my de dood komt naer,</l>
+<l>Vecht doch voor 't Vaderlant.</l>
+<l>&nbsp;</l>
+<l>Den Capiteyn Northey,</l>
+<l>Deed oock van desgelijke,</l>
+<l>Maer in haer goet beleyt,</l>
+<l>Quamen de kogels strijken,</l>
+<l>En velden so ter neer,</l>
+<l>Die helden daer gewis,</l>
+<l>Maer kan men doch keeren,</l>
+<l>Daer men verlaten is. </l>
+<l>&nbsp;</l>
+<l>O ja verlaten is,</l>
+<l>Had d'Engelsman gevochten,</l>
+<l>Men had victorie wis,</l>
+<l>Maer nu is om een lochten,</l>
+<l>Verscheyde brave schepen,</l>
+<l>En volck van alle kant,</l>
+<l>Het zijn al zware neepen,</l>
+<l>So te water als te Lant.</l>
+<l>&nbsp;</l>
+<l>Het waer noch droever noodt,</l>
+<l>Hadden wy oock verschroken,</l>
+<l>Den Frans had heel ons vloot, </l>
+<pb n="37"/>
+<l>Genomen of verbroken,</l>
+<l>O Hollands Bataviere,</l>
+<l>Zee-helden metter daet,</l>
+<l>U lof die sal men ciere,</l>
+<l>So lang de wereldt staet.</l>
+<l>&nbsp;</l>
+<l>Staeckt uwe droefheyt dan,</l>
+<l>Arme Weduw en Wesen,</l>
+<l>Js van u bloed of Man,</l>
+<l>Jn dit gevecht gebleven</l>
+<l>Denckt dat s' als Helden trouwe,</l>
+<l>Gestorven zijn voor 't lant,</l>
+<l>God sal u onderhouwe,</l>
+<l>Stelt alles in sijn hant.</l>
+<l>&nbsp;</l>
+<l>Voor al de trouwigheyt,</l>
+<l>Dat u mans lieten 't leven</l>
+<l>So heeft haer Majesteyt,</l>
+<l>De Koningin gegeven,</l>
+<l>duysent Guinees aen Weeuwen,</l>
+<l>En Wees te deelen fijn,</l>
+<l>Om dat uw' mans gepresen,</l>
+<l>Dees slag gebleven zijn.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0021"/></interpGrp>
+<head rend="h3">Een Samen-spraek, tusschen Koning William, en sijn Koningin, wegens het vertrek na Hollant. </head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Als begint. Koninck William</hi>.  </head>
+<lg type="poem"><l>Myn waerde Pant, </l>
+<l>Mijn koningin verheven,</l>
+<l>Jck gaen mijn op reys begeven,</l>
+<l>Na mijn Vaderlant,</l>
+<l>'t Soet Hollands dal,</l>
+<l>Daer ick mijne Staten,</l>
+<l>Mee vermaken sal,</l>
+<l>Steeck van de wal. </l>
+<l>Jck hoor mijn ondersaten,</l>
+<l>Maken groot geschal.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningin. </hi></l>
+<l>Och lieve Man, </l>
+<l>Gaet ghy de reys aenvaren,</l>
+<l>Jck hoop God sal u bewaren,</l>
+<l>En behoeden </l>
+<l>van 't Vyands groot gewelt,</l>
+<l>Dien mogten ontmoeten</l>
+<l>Op Nepthunis velt,</l>
+<l>Jck ben ontstelt,</l>
+<l>Maer 'k hoop God sal 't versoeten,</l>
+<l>Mijnen Oorloghs-helt. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koning Will. </hi></l>
+<l>Koningin soet, </l>
+<l>Jck gaen de reys aenspannen,</l>
+<l>Met veel gewapende mannen,</l>
+<l>Na Hollant met spoet,</l>
+<l>Want geen vyant,</l>
+<l>Kan mijn maken vervaert,</l>
+<l>Te water of te Lant,</l>
+<l>Aen alle kant,</l>
+<l>Sal ick heel onbedaert,</l>
+<l>Ten strijd gaen vigelant.</l>
+<l>&nbsp;</l>
+<l>Jn 's Gravenhaegh, </l>
+<l>Staense met groot verlangen,</l>
+<l>Lief om daer te ontfangen,</l>
+<l>Yder een is graegh,</l>
+<l>Om mijn Persoon,</l>
+<l>Met blijdschap te aenschouwen,</l>
+<l>Nu ick draeg de Kroon,</l>
+<l>Van Engelant schoon,</l>
+<l>Duysende Mans en Vrouwen,</l>
+<l>Staen op strant ten toon.</l>
+<l>&nbsp;</l>
+<l>Sy kijcken uyt, </l>
+<l>Van Toorens t'allen zijden,</l>
+<l>Lief te ontfangen met verblijden,</l>
+<l>Haer Oranje Spruyt,</l>
+<l>d'Oranje Son,</l>
+<l>Sal stadigh voor haer waken,</l>
+<l>Dat Louis Bourbon,</l>
+<l>d'Hollantse Bron,</l>
+<l>Niet en mag genaken</l>
+
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningin. </hi></l>
+<l>Mijn Koning siet, </l>
+<l>Jck weet u Heldendaden,</l>
+<l>Doen den Leeuw het hert versaden,</l>
+<l>Want ghy staegh met vliet,</l>
+<l>Dagh ende nacht,</l>
+<l>Bent stadigh in de Wapen,</l>
+<l>Tegen 's vyands macht,</l>
+<l>Gy doet met kragt</l>
+<l>De Roos en Leeu ontslapen;</l>
+<l>En houd stadig wagt.</l>
+<l>&nbsp;</l>
+<l>Daerom vertoont</l>
+<l>U aen de Heren Staten,</l>
+<l>Wat sy hooren stadigh praten;</l>
+<l>Dat veel word verschoont;</l>
+<l>Dat gy soud' doodt,</l>
+<l>Jn Yerland zijn gebleven,</l>
+<l>Door een Cogel-schoot,</l>
+<l>Mijn Lief minjoot,</l>
+<l>Dus gaet vertoont u leven,</l>
+<l>Jn Holland seer bloot. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koning William. </hi></l>
+<l>Wel is dat waer: </l>
+<l>Adieu Lief ick gaen zeylen,</l>
+<l>Sa Loots past wel op peylen,</l>
+<l>Dat wy komen daer;</l>
+<l>Adieu nu al,</l>
+<l>Mijn Parlements Heeren</l>
+<l>Jck steeck van de Wal,</l>
+<l>Met God ick sal</l>
+<l>Weer blijdschap gaen vermeeren,</l>
+<l>Jn het Hollands Dal.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0022"/></interpGrp>
+<pb n="38"/>
+<head rend="h3">Een heerlik Lied, over 't verwelkomen van sijn konincklijcke Majesteyt binnen Londen, uyt Yerlant, bestaende in eene t'samen-spraek, tusschen de koning en de koningin.</head>
+<div type="section">
+<head rend="h4">Voys: <hi rend="i">Amarant</hi>.  </head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> Koningin. </hi></l>
+<l>Weest wellekom mijn Coning uytverkooren,</l>
+<l>Jck dacht dat ghy waert verlooren,</l>
+<l>Mijn Oranje Blom ich ben verblijd,</l>
+<l>Dat ick magh aenschouwen,</l>
+<l>Met gesontheydt,</l>
+<l>Mijn Majesteyt,</l>
+<l>Denckt hoe dat ick was in rouwen,</l>
+<l>Doen gy waert in strijd. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningh. </hi></l>
+<l>Koningin soet ick kon niet nalaten,</l>
+<l>Dat ick voor mijn Ondersaten,</l>
+<l>Met een kloecken moet trock na Yrland,</l>
+<l>Om daer te attaqueeren,</l>
+<l>So mijnen vyand,</l>
+<l>door Gods bystant,</l>
+<l>Deed' ick haer retireren,</l>
+<l>Uyt het veld valjant.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningin. </hi></l>
+<l>Mijn koning siet doen ik hoorden gerugten</l>
+<l>Dat mijn vaer door u most vluchten,</l>
+<l>Uyt Yrlandt met vlijt,</l>
+<l>maer op die stond,</l>
+<l>Hoorden ick geruchten,</l>
+<l>Dat gy waert doorwondt,</l>
+<l>Jck liep in 't rond,</l>
+<l>mijn hert was vol suchten,</l>
+<l>Dat ick viel te grondt.</l>
+<l>&nbsp;</l>
+<l>En op die daedt hoorden ick het alarmen,</l>
+<l>Jong en oud hoorden ick kermen,</l>
+<l>Over verraed als dat valjant,</l>
+<l>De Francen wouden landen,</l>
+<l>Hier in Engelandt,</l>
+<l>Met moordt en brandt,</l>
+<l>My hier komen aenranden,</l>
+<l>En brengen in schandt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningh. </hi></l>
+<l>Mijn lief ydoon, God sal het niet gehengen,</l>
+<l>Dat sy ons ten onder brengen,</l>
+<l>Jck ga in Persoon,</l>
+<l>Nu na Hollant,</l>
+<pb n="39"/>
+<l>Om daer mijn Heeren Staten,</l>
+<l>Te doene onderstant,</l>
+<l>'k Sal haer valjant,</l>
+<l>Jn geenen noodt verlaten</l>
+<l>,Maer bieden mijn handt.</l>
+<l>&nbsp;</l>
+<l>Jn 's Gravenhage staense met groot verlangen,</l>
+<l>Lief om mijn daer te ontfangen,</l>
+<l>Yeder een is graegh om mijn persoon,</l>
+<l>Met blijdschap te aenschouwen.</l>
+<l>Nu ik draeg de kroon,</l>
+<l>Van Engelant schoon</l>
+<l>Duysenden Mans en Vrouwen</l>
+<l>Staen op straet ten toon.</l>
+<l>&nbsp;</l>
+<l>Schoon Loduwijck victorie heeft doen branden,</l>
+<l>Met veel spot tot mijnder schanden,</l>
+<l>Rontom in sijn Rijck over mijn doodt,</l>
+<l>Jck zweer ick sal het wreken</l>
+<l>Door mijn kruyt en loodt,</l>
+<l>Dat hy in noodt </l>
+<l>noch raken sal bezweken,</l>
+<l>Met sijn machten groot.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningin tot een Besluyt. ]</hi></l>
+<l>Och lieve Man gaet gy weer van mijn scheyden,</l>
+<l>Jck hoop Godt sal u geleyden</l>
+<l>En behoeden voor eenigh verraet,</l>
+<l>Dat u niet magh ontmoeten,</l>
+<l>Weest doch vroegh en laet,</l>
+<l>By uwen Staet,</l>
+<l>'k Hoop God sal versoeten,</l>
+<l>Al ons twist en haet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0023"/></interpGrp>
+<head rend="h3">Een nieu Liedt, gemaeckt tot lof en eere van sijn Koninklijke Majesteyt van Groot Brittanjen over de groote Victorie die hy bevochten heeft in Yerlandt.</head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Wel wat sal ick gaen maken.</hi></head>
+<lg type="poem"><l>Sa vereenigde Nederlanden,</l>
+<l>Laet nu vry pick-tonnen branden,</l>
+<l>Jn dees tijdt,</l>
+<l>Jn dees tijdt,</l>
+<l>Ter eeren van sijn Majesteyt,</l>
+<l>Koning William van Brittanjen,</l>
+<pb n="40"/>
+<l>Onse Edel vorst van Oranjen,</l>
+<l>Heeft gebraght,</l>
+<l>Heeft gebraght,</l>
+<l>'t Heel Yerlandt nu sijn macht.</l>
+<l>&nbsp;</l>
+<l>Ons edel Oranje Bloeme,</l>
+<l>Quam daer als een Leeuw vol roeme,</l>
+<l>Jn Yerlant,</l>
+<l>Jn Yerlandt, </l>
+<l>Voor de oogen van onsen vyandt,</l>
+<l>O ghy tweeden Alexander,</l>
+<l>Ghy bent als een Salmander,</l>
+<l>Niet vervaert,</l>
+<l>Niet vervaert,</l>
+<l>Voor geen vuur of voor geen zwaert.</l>
+<l>&nbsp;</l>
+<l>Voor 't Hooft van u heel Armade,</l>
+<l>Quaemt ghy William vol genade,</l>
+<l>Jn Persoon,</l>
+<l>Jn Persoon,</l>
+<l>En riep met blijden toon,</l>
+<l>Sa couragie mijn Hollanders,</l>
+<l>Waegt u leven voor malkanders,</l>
+<l>Want Yerlandt,</l>
+<l>Want Yerlandt,</l>
+<l>Moet nu komen in mijn handt.</l>
+<l>&nbsp;</l>
+<l>Sa couragie nu als vroomen,</l>
+<l>Tast nu vry toe sonder schroomen,</l>
+<l>Wilt voortaen,</l>
+<l>wilt voortaen,</l>
+<l>Uwen Koningh trouw bystaen.</l>
+<l>Sy sloegen vol ongenuchte,</l>
+<l>Dat sy dreven op de vluchte,</l>
+<l>Uyt het veld,</l>
+<l>Uyt het veldt,</l>
+<l>Jacob Stuwaert sijn gewelt. </l>
+<l>&nbsp;</l>
+<l>Jacob Stuwaert was vol schromen,</l>
+<l>Stracks heeft hy den vlucht genomen,</l>
+<l>So hy sagh,</l>
+<l>So hy sagh,</l>
+<l>Dat verlooren was de slagh;</l>
+<l>Och hy ginck hem stracks verbergen,</l>
+<l>Al tusschen die hooge bergen,</l>
+<l>'k Segh voorwaer,</l>
+<l>'k Segh voorwaer,</l>
+<l>Als een arme kluysenaer.</l>
+<l>&nbsp;</l>
+<l>Soo haest als hy had vernomen,</l>
+<l>Dat Dublin was overkomen,</l>
+<l>Aen William,</l>
+<l>Aen William,</l>
+<l>Aen ons schoon Oranje stam,</l>
+<l>So moest hy met groot hertseeren,</l>
+<l>Wederom naer Vranckrijck keeren,</l>
+<l>Om te plant,</l>
+<l>om te plant,</l>
+<pb n="41"/>
+<l>Nieuwe wijngaert op het landt.</l>
+<l>&nbsp;</l>
+<l>Wat sal ons Lodivicus dincken,</l>
+<l>Dat Oranje nu gaet blincken,</l>
+<l>Jn Yerlandt,</l>
+<l>Jn Yerlandt,</l>
+<l>En dat Stuwaert is van kant,</l>
+<l>Williams vruchten soet van geure,</l>
+<l>Ruyckt men de heele werelt deure,</l>
+<l>'k Segh vol roem,</l>
+<l>'k Segh vol roem,</l>
+<l>d'Appels voor de Lelien Bloem.</l>
+<l>&nbsp;</l>
+<l>Danckt nu de Hemelsch Vader</l>
+<l>Menschen vry allegader,</l>
+<l>t' Allen kant,</l>
+<l>t'Allen kant,</l>
+<l>Door ons gantsche Nederlandt,</l>
+<l>Nu ghy siet d'Oranje stralen,</l>
+<l>Overdeckt de Yersche palen,</l>
+<l>Drinckt eens om,</l>
+<l>Drinckt eens om,</l>
+<l>Ter eeren van ons Orangjen Blom.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0024"/></interpGrp>
+<head rend="h3">Drinck-Liedt. </head>
+<div type="section">
+<head rend="h4">Voys: <hi rend="i">Lestmael als ick lag en sliep.</hi> </head>
+<lg type="poem"><l>1. Laet ons nu eens na de zwier,</l>
+<l>Drincken een dronck helder bier,</l>
+<l>Dat is voor den dorst,</l>
+<l>Als 't ter degen</l>
+<l>Js belegen,</l>
+<l>Dat is voor den dorst,</l>
+<l>'t Smeert de keel, en salft de borst.</l>
+<l>&nbsp;</l>
+<l>2. Wijn die is van lichte stof,</l>
+<l>Dat is oock heel Vranckrijcks lof,</l>
+<l>Beer, bier, helder bier,</l>
+<l>Js van krachten,</l>
+<l>Hoogh te achten,</l>
+<l>Bier, bier, helder bier,</l>
+<l>Dat maeckt ons de brouwer hier. </l>
+<l>&nbsp;</l>
+<l>3. Wijn is oorsaeck van 't krackeel,</l>
+<l>Bier is daer toe veel te eel,</l>
+<l>Wijn die toont wel net,</l>
+<pb n="42"/>
+<l>Voor de Franssen,</l>
+<l>Schrale hansen,</l>
+<l>Wijn die toont wel net,</l>
+<l>Maer het Bier maeckt dick en vet.</l>
+<l>&nbsp;</l>
+<l>4. Bier dat is de kracht van 't Mout,</l>
+<l>Daer een yder veel van hout;</l>
+<l>Siet eens wat het doet,</l>
+<l>'t Kan by teugen,</l>
+<l>U verheugen,</l>
+<l>Siet eens wat het doet,</l>
+<l>'t Voed het lijf, en sterckt het bloed. </l>
+<l>&nbsp;</l>
+<l>5. Bier wanneer m'er wel op acht,</l>
+<l>Geeft het lichaem groote kracht,</l>
+<l>Siet eens na een Mof,</l>
+<l>Grof van leden,</l>
+<l>En van Seden,</l>
+
+<l>'t Js een vent gants dick en grof. </l>
+<l>&nbsp;</l>
+<l>6. Bier is voor 't vergif van wijn,</l>
+<l>'s Anderdaegs een Medecijn,</l>
+<l>En van krachten rijck,</l>
+<l>Wie soud' 't trachten,</l>
+<l>Te verachten,</l>
+<l>'t Js van krachten rijck,</l>
+<l>En den Nector schier gelijck.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0025"/></interpGrp>
+<head rend="h3"> Een nieuwe samen-spraek, tusschen de Koninginne, en de drie Bevelhebbers, die gekoosen zijn om het Oppergesagh van de Engelsche vloot te hebben, als namentlijk: den Ridder Richard Haddok, den Vice-Admirael Killigrew, en de Ridder John Aschby, die nu alle haer afscheyt van haer Majesteyt de Koninginne genomen hebben, het welck men in dit volgende Lied kan lesen of singen.</head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Wel wat hoor ick al voor plagen</hi>. </head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> De Bevel-hebbers. </hi></l>
+<l>Wy komen met eerbiedigheden,</l>
+<l>Tot u O Majesteyt getreden,</l>
+<pb n="43"/>
+<l>En versoecken van u te gaer,</l>
+<l>Also dat onse vloot leyt klaer,</l>
+<l>Dat gy naer begeeren,</l>
+<l>Wilt consenteeren</l>
+<l>Om 'er mee uyt te Zeylen maer. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Koninginne. </hi></l>
+<l>Daer is alleen na mijn verlange,</l>
+<l>Want 'er ons welvaert heel aenhange,</l>
+<l>Maer de Hollandse helden vry,</l>
+<l>Och waren die der nu oock by,</l>
+<l>De France Cadette,</l>
+<l>Die soecken te lette,</l>
+<l>Want sy passen daer op seer bly. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Bevelhebbers. </hi></l>
+<l>Wy sullen daer met Gods genade,</l>
+<l>Op haer desseynen wel slaen gade,</l>
+<l>En waert dat zy ons quamen by,</l>
+<l>Eer de Hollanders by ons zy,</l>
+<l>So sullen wy toonen,</l>
+<l>Voor 't Rijck en Kroone,</l>
+<l>Om het te helpen uyt de ly. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Koninginne. </hi></l>
+<l>Wel laet geen uur of ty verloopen,</l>
+<l>Jck sal op u stellen mijn hoope,</l>
+<l>En loonen u wel naer waerdy,</l>
+<l>En so gy siet verradery,</l>
+<l>Van d'een of d'ander,</l>
+<l>Hangt dan malkander,</l>
+<l>Datelijck op, wie dat het zy.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Bevelhebbers. </hi></l>
+<l>Wy sullen al ter goeder trouwe,</l>
+<l>Uwe geboden onderhouwe,</l>
+<l>O Majesteyt en Koningin,</l>
+<l>Zijt vry versekert dat u zin,</l>
+<l>En order genome, </l>
+<l>Men sal nakome, </l>
+<l>So men dan die Verraders vind.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Koninginne. </hi></l>
+<l>Wel toont u dan als trouwe helden,</l>
+<l>Gy weet hoe mijn Gemael hem stelde,</l>
+<l>Voor sijn Vyanden heel ontbloot,</l>
+<l>Wat is 'er niet meenige schoot.</l>
+<pb n="44"/>
+<l>Al naer hem gegeven,</l>
+<l>Maer God heeft hem 't leve,</l>
+<l>Gespaert in de uytterste noodt.</l>
+<l>&nbsp;</l>
+<l>Js het niet schrickelijck om hooren,</l>
+<l>Dat die tot hullip ons had verkooren,</l>
+<l>En door haer klagten en gebeen,</l>
+<l>So gingen wy naer Engelandt heen,</l>
+<l>Om daer te versette,</l>
+<l>Die droevige wette,</l>
+<l>Nu willen zy ons selfs vertreen.</l>
+<l>&nbsp;</l>
+<l>Maer God die dese valse daden weet,</l>
+<l>Die sal ons met sijn genaden,</l>
+<l>Oock hellepen aen alle kant,</l>
+<l>Jck stel het alles in sijn handt,</l>
+<l>Wat hy ons mag geve,</l>
+<l>Dus waegter u leve,</l>
+<l>Voor sijn Leer, en voor 't Nederlandt.</l>
+<l>&nbsp;</l>
+<l>De Kroon begeerde wy niet te dragen,</l>
+<l>Was het niet om te onderschragen,</l>
+<l>De Protestanten ware leer,</l>
+<l>Die men socht te helpen om veer,</l>
+<l>Daer sal men met moede,</l>
+<l>Voor vechten ten bloede,</l>
+<l>En houden die staen tot Godes eer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Bevel-hebbers. </hi></l>
+<l>Wy sullen daer ons vlijt voor throone,</l>
+<l>Voor Godes kerck, U staf en Kroone</l>
+<l>Sal men daer mee oock houwen staen,</l>
+<l>God wildet laten ons na vergaen,</l>
+<l>So wy niet trouwe,</l>
+<l>Het daer mee houwe,</l>
+<l>Moet ons de Heer tot mortels slaen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> De Koninginne. </hi></l>
+<l>Wel gaet dan in des Heeren name, </l>
+<l>Doet so op dat u eer en faeme</l>
+<l>Uytroept van u Manhaftigheyt,</l>
+<l>Dat gy bent die door wijs beleyt,</l>
+<l>Ons Zee en strande,</l>
+<l>Van de vyande,</l>
+<l>Verlost hebt en haer magt verspreyt. </l>
+<l>&nbsp;</l>
+<l>O Godt wilt nu u zegen geven,</l>
+<l>Op onse vloot, en t'aller wegen,</l>
+<pb n="45"/>
+<l>Ons hellepen aen alle kant,</l>
+<l>Och hoe veel zijn in Engelandt,</l>
+<l>Die 't met de vyande,</l>
+<l>Te water en te lande,</l>
+<l>Tot ons verderf zijn aengespant.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Besluyt. </hi></l>
+<l>Sa wacker dan Hollanders en Zeeuwen,</l>
+<l>Laten wy voor  het geloof als Leeuwen</l>
+<l>Te Landt en water strijden gaen,</l>
+<l>Het leyter nu eerst recht op aen,</l>
+<l>Want so wy verflouwe,</l>
+<l>So sal het ons rouwe,</l>
+<l>En Vrouw en kind'ren doen vergaen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0026"/></interpGrp>
+<head rend="h3">Een nieu Lied, gemaeckt van de groote preparatie, en van alle de Poorten Die in den Haeg gemaekt zijn om den Koning William, met groote magnificentie te ontfangen. </head>
+<div type="section">
+<head rend="h4">Op de Voys: <hi rend="i">Van Pater Peters.</hi> </head>
+<lg type="poem"><l>Sa komt nu van alle kant,</l>
+<l>Vrienden van ons Nederlandt,</l>
+<l>Als na 's Graven-haegh getreden,</l>
+<l>En siet nu met groot verblijd,</l>
+<l>De Poorten vol van wonderheden,</l>
+<l>Die nu heden zijn bereyt.</l>
+<l>&nbsp;</l>
+<l>Voor de komst van Wiliam,</l>
+<l>Ons edel Oranje stam;</l>
+<l>Komt dan vry nu al gelijcke,</l>
+<l>En besiet dit werck eens aen,</l>
+<l>Noyt en sagh men desgelijcke,</l>
+<l>Als gy daer sult vinden staen.</l>
+<l>&nbsp;</l>
+<l>Komt en siet eens voor het Hof,</l>
+<l>Daer staet een Poort vol van lof,</l>
+<l>Onthoud het in u memorie,</l>
+<l>Al wat daer geschildert staet,</l>
+<l>Het zijn veel schoonder Historie,</l>
+<l>Die dees Poort uyt melden gaet.</l>
+<l>&nbsp;</l>
+<l>Wilt op dees Poort wel op let,</l>
+<l>Want sy staet heel Wonder net, </l>
+<l>Op sesthien schoone Pylaren,</l>
+<l>Wel verciert van alle kant,</l>
+<l>Noch moet ick u openbaren,</l>
+<pb n="46"/>
+<l>Wat daer boven is geplant.</l>
+<l>&nbsp;</l>
+<l>'t Js sijn Edel Majesteyt,</l>
+<l>Van Engelandt weest verblijdt,</l>
+<l>Op een gulden paert seer schoone,</l>
+<l>Curieus om t'aenschouwen daer,</l>
+<l>Al met sijn Scepter en Kroone,</l>
+<l>Of hy puur in 't leven waer.</l>
+<l>&nbsp;</l>
+<l>Komt dan by de Vyver hoort,</l>
+<l>Buyten de Gevangen-poort,</l>
+<l>Op de Plaets daer sult ghy vinden,</l>
+<l>De tweede Poort hoort dit aen,</l>
+<l>'t Js een werckje lieve vrienden,</l>
+<l>Dat ghy sult verwondert staen.</l>
+<l>&nbsp;</l>
+<l>Onsen Prins staet met pleysier,</l>
+<l>Met een Kroon van Lauwerier,</l>
+<l>De Poort vol beelden behangen,</l>
+<l>Jck segh u mijn lieve Maet,</l>
+<l>'t Js om den Koning t'ontfangen,</l>
+<l>Met sijn adel hoogh van staet.</l>
+<l>&nbsp;</l>
+<l>Loopt dan voort na de Groen-merckt,</l>
+<l>Daer vind gy een wonder werck, </l>
+<l>Een Poort die staet hoog verheve,</l>
+<l>Met de Werelt opgeplant,</l>
+<l>En natuurlijck na 't leven,</l>
+<l>Staet een Engel triumphant.</l>
+<l>&nbsp;</l>
+<l>Komt dan na de Vyver ras,</l>
+<l>Daer sult gy op 't selve pas,</l>
+<l>Vinden een schoone Theater,</l>
+<l>Met een Mast daer op geplant,</l>
+<l>Wat verheven boven 't water,</l>
+<l>Die ons sal geven den brandt.</l>
+<l>&nbsp;</l>
+<l>Van vuur-wercken met der daedt,</l>
+<l>Die op den Theater staet,</l>
+<l>'t En is niet om te beschrijven,</l>
+<l>En te spreken met de mondt,</l>
+<l>Dat het vuur-werck sal bedrijven,</l>
+<l>Al op eenen korten stondt.</l>
+<l>&nbsp;</l>
+<l>Dertigh stucken vol van lof,</l>
+<l>Sijn gestelt hier voor het Hof</l>
+<l>Twee-en-dertigh schoonder staken,</l>
+<l>Jn de vyver zijn geplant,</l>
+<l>Om Wilhelmus te vermaken,</l>
+<pb n="47"/>
+<l>Jn ons lieve Vaderlandt.</l>
+<l>&nbsp;</l>
+<l>'t Js tot lof en eer hoort aen,</l>
+<l>Dat dit alles wort gedaen,</l>
+<l>Voor Koningh William heden,</l>
+<l>Dat dees wercken zijn bereydt,</l>
+<l>Roep dan al gelijck met reden,</l>
+<l>Viva edel Majesteyt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0027"/></interpGrp>
+<head rend="h3">Vreughde Liedt, gemaeckt over de groote preparatien in ons Nederlandt, om ons prins van Orangien, Koning van Engelandt, SChotlant en Yerlant, die in ons Nederlant in 't kort verwacht wordt. </head>
+<div type="section">
+<head rend="h4">Op de wijs<hi rend="i">: Ick Melck hier</hi> et<hi rend="i">c.</hi>  </head>
+<lg type="poem"><l>Sa, sa gelijck,</l>
+<l>Maeckt vreugt door onse Landen,</l>
+<l>Sa, sa gelijck, </l>
+<l>Al in ons Republijck,</l>
+<l>Om onsen vrint,</l>
+<l>Ons edel van Oranje,</l>
+<l>Die ons seer bemint,</l>
+<l>Hy komt valjant,</l>
+<l>Gevare uyt Brittanje,</l>
+<l>Na ons Nederlant,</l>
+<l>&nbsp;</l>
+<l>Daerom wordt hier, </l>
+<l>Gemaeckt veel preparatie,</l>
+<l>Daerom  wert hier,</l>
+<l>Gemaeckt met groot pleysier,</l>
+<l>Veel schoonder Beelt,</l>
+<l>Vuur-wercken met verlangen,</l>
+<l>Ach om onsen Held,</l>
+<l>Van alle kant,</l>
+<l>Om hem te gaen ontfangen,</l>
+<l>Jn ons Vaderlant.</l>
+<l>&nbsp;</l>
+<l>Een goude Kroon,</l>
+<l>Wort in den Haegh nu hede,</l>
+<l>Een goude Kroon,</l>
+<l>Gemaeckt voor sijn Persoon,</l>
+<l>Vol Diamant,</l>
+<l>Om William te vereeren,</l>
+<l>So hy komt te Land,</l>
+<l>Hier wel op let,</l>
+<l>Word gemaeckt vol eeren,</l>
+<l>Sijn edel Portret.</l>
+<l>&nbsp;</l>
+<l>Veel Bogen klaer,</l>
+<l>En Arcke triumphale,</l>
+<l>Veel Bogen klaer,</l>
+<l>Worden gemaeckt aldaer,</l>
+<l>Veel Poorten schoon,</l>
+<pb n="48"/>
+<l>Waer de Koningh sal trede,</l>
+<l>Staen aldaer ten toon,</l>
+<l>Ach vol cieraed,</l>
+<l>Staen Arcke, boogen heden,</l>
+<l>'t Midden van de straet.</l>
+<l>&nbsp;</l>
+<l>Gelooft het vry,</l>
+<l>Daer is ordre gegeven,</l>
+<l>Gelooft het vry,</l>
+<l>Aen d'Edele Borgery,</l>
+<l>Al om te staen,</l>
+<l>Jn 't geweer met verlange,</l>
+<l>So William komt aen,</l>
+<l>Al in den Haeg,</l>
+<l>om de Koning t'ontfangen,</l>
+<l>Die ons liefde draegt.</l>
+<l>&nbsp;</l>
+<l>Noch veel cieraed,</l>
+<l>Van Beelde en Fonteynen,</l>
+<l>Noch veel cieraed,</l>
+<l>Die sulle op de straet,</l>
+<l>Lopen ter tijd, </l>
+<l>om William te befiere,</l>
+<l>Om sijn Majesteyt </l>
+<l>Van Engeland</l>
+<l>t'Ontfange met pleysiere,</l>
+<l>Jn ons Nederland.</l>
+<l>&nbsp;</l>
+<l>Och siet hy gaet,</l>
+<l>Al uyt sijn Rijck gevare,</l>
+<l>Och siet hy gaet,</l>
+<l>Vrienden tot onser baet,</l>
+<l>Die vrome Held, </l>
+<l>Om ons van alle hoeken,</l>
+<l>Hem in prijckel stelt, </l>
+<l>Om ons voortaen</l>
+<l>Vriendelijck te besoecke,</l>
+<l>Laet geen vreugde staen.</l>
+<l>&nbsp;</l>
+<l>Sijn herte brand,</l>
+<l>op ons luy allegader,</l>
+<l>Sijn herte brand,</l>
+<l>Op 't lieve Vaderland,</l>
+<l>Ach is 't daerom,</l>
+<l>Dat onsen Prins nu hede,</l>
+<l>Ons Oranje blom,</l>
+<l>Verlate gaet </l>
+<l>sijn Coningin op hede,</l>
+<l>Al tot onser baet.</l>
+<l>&nbsp;</l>
+<l>Ach onse vriend,</l>
+<l>Veel geluck ende zege,</l>
+<l>Ach onse vrind,</l>
+<l>Vader die ons bemint:</l>
+<l>Och vroome Held,</l>
+<l>'k Hoop God sal u bewaren,</l>
+<l>Op Nephtunus veld,</l>
+<l>Van Engelant</l>
+<l>Komt hy also gevaren,</l>
+<l>Na ons Nederland.</l>
+<l>&nbsp;</l>
+<l>Wat liefde groot, </l>
+<pb n="49"/>
+<l>Draegt William verheve,</l>
+<l>Wat liefde groot,</l>
+<l>Dat ghy steld in nood,</l>
+<l>Om na ons landt</l>
+<l>Te vare sonder schrome:</l>
+<l>Ghy vreest geen Vyand,</l>
+<l>Jn dese tijd,</l>
+<l>Om na Hollant te komen,</l>
+<l>Edel Majesteyt.</l>
+<l>&nbsp;</l>
+<l>Jck hoop God sal,</l>
+<l>Williams Leydsman wese,</l>
+<l>Jck hoop God sal,</l>
+<l>Behoede over al,</l>
+<l>Ach onse vrucht</l>
+<l>O Koningh hoog verheve,</l>
+<l>Voor storm en wind;</l>
+<l>Och waerde Pand,</l>
+<l>God wil sparen u leven,</l>
+<l>Aen alle kant.</l>
+<l>&nbsp;</l>
+<l>Dat wy met vreught,</l>
+<l>Noch eens mogen aenschouwen,</l>
+<l>Dat wy met vreught,</l>
+<l>U Edel vol van deught,</l>
+<l>Hier metter daed,</l>
+<l>O Edel van oranje,</l>
+<l>Onse toeverlaet:</l>
+<l>U soet Aenschijn,</l>
+<l>Edel Vorst van Brittanje,</l>
+<l>Helpt ons uyt de pijn.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0028"/></interpGrp>
+<head rend="h3">Nieuw Vreughde-Liede, over de inkomste van den Koningh <hi rend="i">William</hi> binnen Londen:</head>
+<div type="section">
+<head rend="h4"><hi rend="i"></hi>Stemme<hi rend="i">: Ick sag Lestmael om een hoeck. </hi></head>
+<lg type="poem"><l>Sa maeckt blijdtschap t'alle kant,</l>
+<l>Door ons gantsche Nederland,</l>
+<l>En sing nu met volle monde</l>
+<l>Van u re mi fa sol la,</l>
+<l>Onsen Prins is binnen Londen,</l>
+<l>Sa brand nu Victoria.</l>
+<l>&nbsp;</l>
+<l>Als de Burgers daer vernam</l>
+<l>Dat de schoon Oranjen stam,</l>
+<l>Sou in Londen binnen treden,</l>
+<l>'t Was u re mi fa sol la,</l>
+<l>Wellekom uyt Yerland heden,</l>
+<l>Riepen sy daer voor en na.</l>
+<l>&nbsp;</l>
+<l>Yder een was daer verblijdt,</l>
+<l>Als daer quam sijn Majesteyt,</l>
+<l>Kleyn en groot wou vreugde toonen</l>
+<l>Al om sijn komst heel dra,</l>
+<pb n="50"/>
+<l>Ter eeren van sijn Persone</l>
+<l>Branden sy Victoria.</l>
+<l>&nbsp;</l>
+<l>'t Scheen dat Londen stond in brand,</l>
+<l>Door 't Vuurwerck t'allen kant:</l>
+<l>'t Was ter eeren van Oranjen:</l>
+<l>En van sijn komste heel dra,</l>
+<l>Dat sy schoten in Brittanjen:</l>
+<l>En branden Victoria.</l>
+<l>&nbsp;</l>
+<l>De Klocke van alle kant</l>
+<l>Luyde al in Engeland,</l>
+<l>Waer dat den Koninck quam trede,</l>
+<l>Riepen sy met groot pleysier,</l>
+<l>Langh leeft onsen Koninck heden</l>
+<l>Sa steeckt aen het vreughde vyer.</l>
+<l>&nbsp;</l>
+<l>Veel Fonteynen metter daed</l>
+<l>Van Wijn, sprongen op de straet;</l>
+<l>De Vuur-pijlen sag men zwieren,</l>
+<l>Al door de luchte met vlijt,</l>
+<l>Tot vermaek en pleysiere,</l>
+<l>Van sijn Edel Majesteyt.</l>
+<l>&nbsp;</l>
+<l>Al de Edele Burgeren,</l>
+<l>Waren vrolijck ende bly;</l>
+<l>Soo den Koningh aen quam treden,</l>
+<l>Soo riepen sy gelijckerhand</l>
+<l>Godt bied onsen Koningh op heden,</l>
+<l>Wellekom in Engelandt.</l>
+<l>&nbsp;</l>
+<l>Hy wierd so geconvoyeert,  </l>
+<l>Binnen Withal vol van eer:</l>
+<l>Sijn Koningin met verlangen:</l>
+<l>Quam hem te gemoet voor 't Hof,</l>
+<l>Heeft hem vriendelijck ontfangen,</l>
+<l>Met sijn Adel vol van lof.</l>
+<l>&nbsp;</l>
+<l>Wellekom so moet jy zijn;</l>
+<l>Wellekom riep groot en kleyn;</l>
+<l>Wellekom Bloem van Oranje</l>
+<l>Riep Maria Stuwaert aen:</l>
+<l>Groten Koningh van Brittanjen:</l>
+<l>God wil u altijd bystaen.</l>
+<l>&nbsp;</l>
+<l>Oorlof Menschen al gelijck:</l>
+<l>Door ons gantsche Republijck:</l>
+<l>Wilt William altijd beminnen:</l>
+<l>Ach 'tis onse pand,</l>
+<l>Met sijn Edele Koninginne,</l>
+<l>Behoeder van 't Nederland.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0029"/>
+    <interp type="secundair" value="16910205"/></interpGrp>
+<pb n="51"/>
+<head rend="h3"><hi rend="i">Oranjens lof</hi>, Uytgegalmt voor de Liefhebbers van de seven Provintien, over het heerlijk inhalen binnen 's Graven-hage, van sijn Koninklijke Majesteyt van Engelandt Wilhelmus de derde, Prince van Orangien, Stad-houder van Hollandt <hi rend="i">et</hi>c. op den 5 February, 1691. <hi rend="i">M.de H</hi>.</head>
+<div type="section">
+<head rend="h4"><hi rend="i"></hi>Stemme<hi rend="i">: Edel Princes.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Hollandt.</hi></l>
+<l>Roept nu viva </l>
+<l>Gy vrije Nederlanden</l>
+<l>Roept nu viva</l>
+<l>Met vreugden voor en na:</l>
+<l>Maeckt bly geschal:</l>
+<l>Nu is ons Prins Oranje,</l>
+<l>Jn ons Hollands Dal:</l>
+<l>Hy is seer soet</l>
+<l>Gekomen uyt Brittanje,</l>
+<l>Jn den Haegh met spoet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Zeelandt.</hi></l>
+<l>d'Hollandtsen Staet</l>
+<l>Quam hem complimenteeren,</l>
+<l>d'Hollandsen Staet</l>
+<l>Quam met een groot cieraet,</l>
+<l>De Borgery </l>
+<l>sag men dapper cerseeren:</l>
+<l>Tot aen 't Hof seer bly:</l>
+<l>Daer men vernam:</l>
+<l>Het lustig cannonneren,</l>
+<l>Voor d'Oranje Stam.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">'t Sticht Uytrecht. </hi></l>
+<l>Een grooten Toer</l>
+<l>Karossen met ses Paerden,</l>
+<l>Een grooten Toer:</l>
+<l>Daer by sijn Garde Coer:</l>
+<l>Sestien planteyt:</l>
+<l>Zwitsers met Hellebaerden:</l>
+<l>Die sijn Majesteyt:</l>
+<l>Jn dit geschal</l>
+<l>So trouwelijck bewaerden:</l>
+<l>Voor een ongeval.</l>
+<l>&nbsp;</l>
+<pb n="52"/>
+<l rend="speaker"><hi rend="i">Gelderlandt.</hi></l>
+<l>Met grooten lof,</l>
+<l>Wiert hy geleyt met vreugden,</l>
+<l>Met grooten lof,</l>
+<l>Tot in zijn Princen Hof,</l>
+<l>Daer onsen Staet,</l>
+<l>Met hem gingen playsieren,</l>
+<l>Maer des avonds laet,</l>
+<l>Sag men verblijt,</l>
+<l>Branden de vreugde-vieren,</l>
+<l>Voor sijn Majesteyt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vrieslant.</hi></l>
+<l>So komt dien Helt,</l>
+<l>Sijn leven ons vertoonen,</l>
+<l>So komt dien Helt,</l>
+<l>Weer in ons Hollands veld,</l>
+<l>En breeckt de Nijd,</l>
+<l>Van andere Persone,</l>
+<l>Die riepen altijdt,</l>
+<l>Met blijdschap groot,</l>
+<l>Wat baet hem nu Kroonen,</l>
+<l>King William is dood. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Over-Yssel. </hi></l>
+<l>Maeckt u mee klaer,</l>
+<l>Zeelandt 't Sticht Utrecht meede</l>
+<l>Maeckt u mee klaer,</l>
+<l>Want onse Prins komt daer,</l>
+<l>Gy Gelders Hof,</l>
+<l>Verciert met uwe Steden</l>
+<l>Tot Oranjens lof,</l>
+<l>Die dag en nacht,</l>
+<l>Voor ons te velde gaet, </l>
+<l>Tegen 's vyands magt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Groeningen.</hi></l>
+<l>Gy Vriesen al,</l>
+<l>En over-Yssel moedig, </l>
+<l>Gy Vriesen al,</l>
+<l>Groeningen maeckt geschal:</l>
+<l>Houd u mee vroom,</l>
+<l>Om te ontfangen spoedig</l>
+<l>Den Oranje-Boom,</l>
+<l>Dien Gideon:</l>
+<pb n="53"/>
+<l>Die ons bewaert kloeckmoedig:</l>
+<l>Voor Louis Bourbon.</l>
+<l>&nbsp;</l>
+<l>Bid dan al te saem:</l>
+<l>Den grooten God verheven,</l>
+<l>Bid dan t'saem,</l>
+<l>Den groten Opper-heer bequaem,</l>
+    <l>Dat onsen Prins behouwen,</l>
+<l>Magh lang leven:</l>
+<l>O Heer 't is ons wens,</l>
+<l>Dat hy met kragt,</l>
+<l>Sijn vyand mag doen beven,</l>
+<l>Die hem staegh veracht.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0030"/></interpGrp>
+<head rend="h3">Een nieu Liedt van den admirael Tromp, hoe dat hy in 't jaer 1691 in Zee sou gaen, beneffens de Zee-Capiteynen die met hem sullen gaen, de welcke alle met Namen hier gestelt zijn.</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Wat of den Bisschop overquam</hi>.<hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Nu gaet onsen Hollandsen held,</l>
+<l>Weer treden na Nephtunis Veld, </l>
+<l>Om ons de holle Oceaen,</l>
+<l>De Lely-Vorst te tasten,</l>
+<l>En om de France Beeren,</l>
+<l>t' Attaqueeren.</l>
+<l>&nbsp;</l>
+<l>'t Js onsen Tromp die niet en vreest,</l>
+<l>Of noyt en is vervaert geweest,</l>
+<l>Voor Sweeden, Deen of Engelsman,</l>
+<l>Of Francen die hem quamen an:</l>
+<l>Noyt sagh men Tromp bezwijcken:</l>
+<l>Voor die Rijcken.</l>
+<l>&nbsp;</l>
+<l>Allemonde en Gillis Schey:</l>
+<l>Die sullen hem doen uyt geley,</l>
+<l>Met 't Schip de Prins en Princes:</l>
+<l>Om den Francen Haen een les</l>
+<l>Te geven onder water:</l>
+<l>Met geklater.</l>
+<l>&nbsp;</l>
+<l>Van der Goes een vroom Capiteyn,</l>
+<l>Met 't Schip de Brandenburgh fijn,</l>
+<l>Sal hy met Tromp steecken in Zee,</l>
+<l>Sa, sa Matroosjes maeckt u ree,</l>
+<l>Wilt voor Oranjen vechten,</l>
+<l>Nu als knechten.</l>
+<l>&nbsp;</l>
+<l>De Graef van Nassouw wel bemant,</l>
+<pb n="54"/>
+<l>Sal voeren het Schip Gelderlandt;</l>
+<l>Van Zijl met 't Schip Hollandia,</l>
+<l>Wil hy Tromp mee volgen na,</l>
+<l>Decker wil met 't Schip Leyden,</l>
+<l>Met gaen strijden.  </l>
+<l>&nbsp;</l>
+<l>Den vromen Capiteyn van der Saen,</l>
+<l>Sal met 't Schip Amsterdam uytgaen,</l>
+<l>En Manart 't Schip Haerlem bekant,</l>
+<l>En Draeck sal voeren Gasterlant,</l>
+<l>Stilte strijd met den Rijger,</l>
+<l>Als een Tijger.</l>
+<l>&nbsp;</l>
+<l>En Capiteyn Kuyper wijckt niet ver,</l>
+<l>Gaet uyt met 't Schip de Comeet-star,</l>
+<l>Om met ons vromen Tromp getrouw,</l>
+<l>Te strijden voor het huys Nassouw,</l>
+<l>Hy sal de Haen mee raecken,</l>
+<l>Dat sal kraecken.</l>
+<l>&nbsp;</l>
+<l>Van der Dussen is me gepaert,</l>
+<l>Met het Schip Kalants-oog vermaert,</l>
+<l>De Graef van Benthem hups en fijn,</l>
+<l>Sal mee Trompen geselschap zijn;</l>
+<l>Hy gaet met 't Schip Nimwegen:</l>
+<l>De Zee vegen.</l>
+<l>&nbsp;</l>
+<l>De Veer met 't Schip de Agatha,</l>
+<l>So wil hy Tromp mee volgen na,</l>
+<l>Al om de wreedheyt van Bourbon.</l>
+<l>Te straffen door sijn grof Kanon,</l>
+<l>Dat hy uyt Zee moet wijcken,</l>
+<l>En gaen strijcken.</l>
+<l>&nbsp;</l>
+<l>De Heer van Wassenaer seer stout,</l>
+<l>Jn 't strijden heeft hy noyt verflout,</l>
+<l>Met Schaters-hoef soo gaet hy voort,</l>
+<l>Lijn-slager die gaet mee na boort,</l>
+<l>'t Schip Stad en Lande spoedigh,</l>
+<l>strijd heel moedigh.   </l>
+<l>&nbsp;</l>
+<l>Varckvisser een vroom Commandeur,</l>
+<l>Met 't Schip de Paeuw so gaet hy veur;</l>
+<l>De Huybert komt mee op de baen,</l>
+<l>Met de Kraen-vogel om de Haen</l>
+<l>Sijn staert mee uyt te plucken,</l>
+<l>Met sijn stucken.</l>
+<l>&nbsp;</l>
+<l>De Vriesen en Noorder-quartier,</l>
+<l>Spouwen mee vlam en vyer,</l>
+<pb n="55"/>
+<l>En Kallenburgh uyt de Maes,</l>
+<l>Sal weer maken groot geraes,</l>
+<l>Met sijn Metael Kartouwen.</l>
+
+<l>&nbsp;</l>
+<l>Karel van der Putten is een Zeeuw,</l>
+<l>Hy toont hem mee gelijck een Leeuw,</l>
+<l>Hy is onsen Vies-Admirael;</l>
+<l>Den Boer ontsiet geen vuur noch stael;</l>
+<l>Maer wil met de Franssen,</l>
+<l>Aen het danssen.</l>
+<l>&nbsp;</l>
+<l>Matroosjes vreest voor geen verraed,</l>
+<l>Nu Vader Tromp met u uytgaet:</l>
+<l>Dus looft den heer gelijcker-hand,</l>
+<l>Door ons gantsche Nederland:</l>
+<l>Dat onsen Tromp krijgt glorie,</l>
+<l>En Victorie. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0031"/></interpGrp>
+<head rend="h3">Een nieu Lied, of t'Samenspraek tussen de gewesen koning Jacobus Stuaert en Maria Stuaert sijn Dochter, in haer leven Koningin: weghens de Oorlogh die sy tegens malkander voeren:</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een Nieuwe Voys </hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Vader.</hi></l>
+<l>Ach Maria wat moet ik hooren</l>
+<l>Dat u Man tot Koning is verkooren,</l>
+<l>Ende gekroont is van mijn Rijck,</l>
+<l>Hy wordt verheven:</l>
+<l>En ick moet zweven:</l>
+<l>Voor de Gemeynte publijck,</l>
+<l>Het welck mijn spijt seeckerlijck.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Doch.</hi></l>
+<l>Ach Vader dat komt door u dade, </l>
+<l>Waerom liet gy u so oprade,</l>
+<l>En dat al van dien Lodewijck,</l>
+<l>Om op te staen tegen u Rijck:</l>
+<l>Gy ging versette,</l>
+<l>En brack de wette,</l>
+<l>En dat al door sijn loos practijck.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vader.</hi></l>
+<l>Ach kind het spijt my nog op hede,</l>
+<l>Dat ick u aen William ging bestede:</l>
+<pb n="56"/>
+<l>Want hy doet als een Absolon,</l>
+<l>Die tegen sijn vader opston:</l>
+<l>Die hem te velde,</l>
+<l>Tegen sijn Vader opstelde,</l>
+<l>Dochter dat is immers geen reson.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Vader dat sijn al ergernisse.</l>
+<l>Dit is immers geen gelijckenisse,</l>
+<l>Want mijn Man die quam hier te Landt</l>
+<l>Door liefde, maer niet als Vyand;</l>
+<l>Hy heeft verheven, </l>
+<l>g' Salveert u leven,</l>
+<l>Anders waert ghy al langh van kant.</l>
+<l>&nbsp;</l>
+<l>Hadder een ander Veldheer gekomen,</l>
+<l>U leven waer al lang benomen,</l>
+<l>Dat ick u seg dat is certeyn;</l>
+<l>Daerom Vader wilt danckbaer zijn,</l>
+<l>En wilt God loven,</l>
+<l>Die u van boven,</l>
+<l>So bewaert heeft in 's Werelts pleyn.</l>
+<l>&nbsp;</l>
+<l>Och waer meught gy my af spreken,</l>
+<l>Had gy gelaten de loose streecken,</l>
+<l>Die gy met Lodewijck voor had,</l>
+<l>En met meer ander, ick zweer u dat,</l>
+<l>Gy waert niet in lijden,</l>
+<l>Noch al dit strijden,</l>
+<l>Ghy brengt u selver in de mat.</l>
+<l>&nbsp;</l>
+<l>Gy had immers u voorgenomen,</l>
+<l>Om met Louys in Holland te komen,</l>
+<l>En dat ghy die same met ontrou,</l>
+<l>Te vuur en te zwaerrt omsetten wou,</l>
+<l>Maer Gods medogen,</l>
+<l>Heeft hem bewogen</l>
+<l>Die ons bewaert heeft voor sulck grou.</l>
+<l>&nbsp;</l>
+<l>Noch beschreef gy my ten boven,</l>
+<l>Dat ick eylaes sou gaen berove,</l>
+<l>Het leven van mijn lieven Man;</l>
+<l>Maer vader waer spreeckt ghy doch van,</l>
+<l>So men kan mercken,</l>
+<l>Aen al u wercken,</l>
+<l>So zijt gy een wreeden Tyran.</l>
+<l>&nbsp;</l>
+<l>Die Predikanten liet ghy vangen,</l>
+<l>En liet haer sonder rede op-hangen,</l>
+<l>En dat alleen om haer Geloof:</l>
+<l>Vader hoe zijt ghy so berooft!</l>
+<l>Denckt dat de Heere,</l>
+<l>Die al siet hier neere,</l>
+<l>Die hier na lonen sal yder Hoofd. </l>
+<l>&nbsp;</l>
+<pb n="57"/>
+<l>Vader ghy word al oud van dagen,</l>
+<l>Jck bidd' u mijd' doch al die plagen,</l>
+<l>Het is best dat gy u geeft neer,</l>
+<l>En dat ghy aen Godt den Heer,</l>
+<l>Laet al dat strijden,</l>
+<l>Doch aen een zijden,</l>
+<l>En moeyt u met geen Oorlogh meer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vader.</hi></l>
+<l>Dochter en wilt my so niet praten,</l>
+<l>Jck sal het doch daer niet by laten;</l>
+<l>Jck heb noch t'sestigh duysend Man.</l>
+<l>So Yren en France op de baen,</l>
+<l>Brave Lands-knechten,</l>
+<l>Die willen wel vechten,</l>
+<l>'t En sal daer niet by blijven staen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ach Vader laet my niet beleve,</l>
+<l>Dat ghy u meer tot strijden  gaet geven:</l>
+<l>Want komt ghy noch eens in het net,</l>
+<l>So blijft ghy seker in het privet:</l>
+<l>Verhoort mijn klachten,</l>
+<l>Wilt mijn doch wachten,</l>
+<l>Want siet de pas is vast beset.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vader.</hi></l>
+<l>Dochter meent gy my doen schromen,</l>
+<l>Laet u Man vry te Velde komen,</l>
+<l>En dat hy my aen doet den strijd:</l>
+<l>Jck ben tot sijn dienst wel bereyt,</l>
+<l>Laet hem vertonen,</l>
+<l>Jck sal hem wel lonen,</l>
+<l>Al is de pas noch so beleyt.</l>
+<l>&nbsp;</l>
+<l>Dochter 't is waer ick moet het belijden,</l>
+<l>Jck heb mijn seer laten verleyden,</l>
+<l>Van Lodewijck en mijn Biecht-vaer,</l>
+<l>Wy waren seer slecht allegaer,</l>
+<l>Jck sie voor ogen,</l>
+<l>dat ick ben bedrogen; </l>
+<l>Maer het is nu te laet voorwaer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Ja vader, wel meught ghy dat seggen,</l>
+<l>Had ghy met haer niet aen gaen leggen,</l>
+<l>En niet gebroken het Parlement,</l>
+<l>So waert gy nu niet in dit ellend,</l>
+<l>Siet dat sijn trecken</l>
+<l>Die geen goet verwecken:</l>
+<l>Vader ick heb vrees voor een quaed end.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0032"/></interpGrp>
+<pb n="58"/>
+<head rend="h3">Een nieuw Liedt van sijn Konincklijcke Majesteyt van Groot-Brittanjen, hoe dat de borgery hem is komen in-halen in Hollandt.</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Ey schoone Nimph</hi>.<hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Weest wellekom Edelen Prins Oranjen,</l>
+<l>&nbsp;</l>
+<l>O gy Nassoussen Helt,<lb/>
+Die door Gods heyl in 't machtig Rijk Brittanje,</l>
+<l>De Wetten heeft herstelt,</l>
+<l>Hoe hebbe<hi rend="i">n</hi> wy gestaeg met groot verlange<hi rend="i">n</hi></l>
+<l>Gekeeken van Torens en Duyn,</l>
+<l>Om u in den Hollandschen Thuyn,</l>
+<l>Weer te ontfangen.</l>
+<l>&nbsp;</l>
+<l>Ons Burgery sag men staeg murmureeren,</l>
+<l>Dat gy soudt wesen doodt,</l>
+<l>Nu siet men hoe den Opper Heer der Heeren,</l>
+<l>U red uyt alle nood,</l>
+<l>Schoon dat' er veel zijn die u staegh benijen</l>
+<l>Komt weder in u Princen-Hof,</l>
+<l>Ziet de Triumph bogen vol lof,</l>
+<l>Aen alle sijen.</l>
+<l>&nbsp;</l>
+<l>Ey siet de Plaets en 't Buyten-hof eens proncken,</l>
+<l>Verciert met Boogen schoon,  </l>
+<l>Die van den Staet u Hoogheyt zijn geschonken, </l>
+<l>Tot lof van u Persoon,</l>
+<l>God behoed u dat kan me<hi rend="i">n</hi> klaerlijk merken,</l>
+<l>Door hem verdrijft gy 's Vyands Rot,</l>
+<l>Die stadigh met haer schemp en spot,</l>
+<l>Lasteren ons Kercken.</l>
+<l>&nbsp;</l>
+<l>Siet de Paneeltjes uwen lof verkonden</l>
+<l>Verciert met Spreucken schoon,</l>
+<l>U Star die schijnt de Werelt nu in 't ronden</l>
+<l>U Vyanden tot hoon,</l>
+<l>Die u uyt Yerlant meenden te doen vluchten</l>
+<l>Die moest selfs wijken voor u Son,</l>
+<l>En loopen na Louis Bourbon,</l>
+<l>Klagen en suchten.</l>
+<l>&nbsp;</l>
+<l>Gezegent Held die door Gods macht herstelden,</l>
+<pb n="59"/>
+<l>Ons Waggelend' Nederland,</l>
+<l>Doen ons den trotse Lodewijk seer quelden,</l>
+<l>Met Roven, Moord en Brand,</l>
+<l>U kloeckheyt dee den Lely haest verdwijnen,</l>
+<l>Dat hy met sijne France Son,</l>
+<l>Op onse Nederlandse Bron,</l>
+<l>Niet meer kon schijnen.</l>
+<l>&nbsp;</l>
+<l>Dus roept viva gy Nederlandse Volken</l>
+<l>Viva den kloecken Held,</l>
+<l>Wiens dapperheydt dringt boven deur de wolken,</l>
+<l>Want hy hem stadig stelt,</l>
+<l>Tegen den Vyand die ons soekt te krencken</l>
+<l>Dus wilt de Opper-Heer van al,</l>
+<l>(Die hem bewaert voor ongeval)</l>
+<l>Gebeden schencken.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Besluyt Gebedt gewijs.</hi></l>
+<l><hi rend="i">ô</hi> Groten God <hi rend="i">ô</hi> Heere der Heyr-scharen</l>
+<l>Wy vallen u te voet,</l>
+<l>En bidden u dat ghy doch wilt bewaren,</l>
+<l>Jn geluck en voorspoet,</l>
+<l>Ons Prins valjant,</l>
+<l>Nu Koning van Brittanjen,</l>
+<l>Geeft Heer dat sijn Vyand onvroom,</l>
+<l>Gestaegh moet vluchten door den Boom,</l>
+<l>Al van Oranjen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0033"/>
+    <interp type="secundair" value="jame003"/>
+    <interp type="secundair" value="lode034"/></interpGrp>
+<head rend="h3">Het beklagh, gedaen by de Gewesen Koning van Engelandt, klagende sijn noodt aen de Coningh van Vranckrijck, op het groot verlies van de slagh in Yerlandt, bestaende in een t'Samen-spraeck, tussen Louis Bourbon en Jacobus Stuaert.</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">De dans van Venon.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Jacobus Koningh van Engelandt.</hi></l>
+<l>Ach Cousijn Louis Bourbon,</l>
+<l>Jck kom mijn nood u klagen,</l>
+<l>Hoe mijn Soon d'Oranje Zon,</l>
+<l>Mijn uyt Yrland heeft geslagen;</l>
+<l>Hy quam so fel op my aen,</l>
+<l>Jck kost hem niet wederstaen,</l>
+<l>&nbsp;</l>
+<pb n="60"/>
+<l rend="speaker"><hi rend="i">Koninck van Vranckrijck.</hi></l>
+<l>Och Cousijn ick ben ontstelt,</l>
+<l>Dat ghy my dit stelt te vooren,</l>
+<l>Dat ghy hebt so meenig Heldt,</l>
+<l>Jn het Yerse Rijck verlooren,</l>
+<l>Och sijn Soldaten dan,</l>
+<l>Daer gehackt so in de pan?</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck Jacobus.</hi></l>
+<l>Ja door Williams vlam en vier,</l>
+<l>En door sijn kloeckmoedigh streven,</l>
+<l>Gaf hy daer niet een quartier,</l>
+<l>Maer hy bragtse al om 't leven;</l>
+<l>Ja, 'k had selfs dit gelooft,</l>
+<l>Daer te raken quijt mijn hooft:</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck van Vranckrijck.</hi></l>
+<l>Wel is 't daer so toegegaen,</l>
+<l>Js Orangie so kloeckmoedigh,</l>
+<l>Dat hy u uyt veld gingh slaen,</l>
+<l>En ghy vluchten moest so spoedigh?</l>
+<l>Ach Cousijn het mijn wel spijt,</l>
+<l>Dat ghy bent u volck quijt.</l>
+<l>&nbsp;</l>
+<l>Wilt ghy nu als Generael</l>
+<l>Jn Brabandt gaen Commanderen,</l>
+<l>Of ter Zee als Admirael,</l>
+<l>'k Kan u niet meer presenteeren,</l>
+<l>Doet so het u best behaegt,</l>
+<l>Op dat ghy 't u niet beklaegt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck Jacobus.</hi></l>
+<l>Neen Louis dat waer my schant,</l>
+<l>Dat ick sou Dienaer wesen,</l>
+<l>'k Wil te water of te Landt</l>
+<l>My niet meer stellen in vresen,</l>
+<l>Daer ick plagh Scepter en Kroon</l>
+<l>Te dragen als u persoon.</l>
+<l>&nbsp;</l>
+<l>Jck blijf by mijn koningin,</l>
+<l>Om met haer in rust te leven;</l>
+<l>Jck sal my niet na u sin</l>
+<l>Onder u Commando geven,</l>
+<l>Jck ben moe den Oorlogs-brant</l>
+<l>Eer ick raeck in groter schant.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck van Vranckrijck.</hi></l>
+<l>Wel waerom kiest ghy u rust?</l>
+<pb n="61"/>
+<l>Daer wy het hebben aengevangen,</l>
+<l>'k Bid u grijpt doch moet met lust,</l>
+<l>Wilt de Geusen met verstrangen,  </l>
+<l>Gaen bestrijden t'allen kant,</l>
+<l>Sa treckt maer na 't Nederlant.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck Jacobus.</hi></l>
+<l>Cousijn dat staet my niet aen,</l>
+<l>Want Wilhelmus van Oranje,</l>
+<l>Sal in Hollandt gaen,</l>
+<l>Trecken daer selfs in Companje:</l>
+<l>Ach mijn hert dat wort ontstelt,</l>
+<l>Als ick denck op sijn gewelt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Koninck van Vranckrijck.</hi></l>
+<l>Foutre gy en bent geen man</l>
+<l>Gaet gy so den strijt opgeven,</l>
+<l>Daer gy hoort te gaen voor an,</l>
+<l>Om te trachten na zijn leven,</l>
+<l>Par ma foy Jacobus maet,</l>
+<l>Gy en bent geen braef Soldaet.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0034"/></interpGrp>
+<head rend="h3"> Een Nieuw Lied, op het Bombarderen van Lemmerick:</head>
+<div type="section">
+<head rend="h4">Op de Voys: <hi rend="i">Mars geeft my patientie, &amp;c.</hi></head>
+<lg type="poem"><l>Maeckt vreughden gelijcke,</l>
+<l>Vry nu rondom,</l>
+<l>Jn ons Republijke,</l>
+<l>Voor d'Oranje Blom,</l>
+<l>Die nu heeft geplante,</l>
+<l>Sijn Appels soet,</l>
+<l>Jn dat schoon Yrlande,</l>
+<l>Sa schept goede moet.</l>
+<l>&nbsp;</l>
+<l>Het Rijck van Yrlande,</l>
+<l>Sal haest zijn gebragt,</l>
+<l>Al door Godes handen,</l>
+<l>Jn Williams macht;</l>
+<l>Men siet nu de Yren,</l>
+<l>Vallen met ootmoet,</l>
+<l>Voor Williams Banieren,</l>
+<l>En sijn Edel bloedt. </l>
+<l>&nbsp;</l>
+<l>Ja veel groote Heeren,</l>
+<l>Komen in Yrlant</l>
+<l>Na Londen marcheeren,</l>
+<l>Van allen kant,</l>
+<l>Om so in Brittanjen</l>
+<l>Daer te leggen of,</l>
+<l>Haer Eed voor Oranjen,</l>
+<pb n="62"/>
+<l>Op sijn Koning Hof.</l>
+<l>&nbsp;</l>
+<l>Jck hoop God sal geven,</l>
+<l>Geluck, voorspoet,</l>
+<l>Aen William daer neven,</l>
+<l>Jn overvloet,</l>
+<l>Sa Limmerick heden,</l>
+<l>Gy moet aen ons kant,</l>
+<l>Komt vry nu ter stede</l>
+<l>Jn Wilhelmus handt.</l>
+<l>&nbsp;</l>
+<l>U Susters te gader,</l>
+<l>Zijn nu aen sijn zy:</l>
+<l>Al aen uwen Vader</l>
+<l>Gekomen by:</l>
+<l>Sy leven geruste</l>
+<l>By d'Oranje Blom:</l>
+<l>Sy schuylen met lusten</l>
+<l>Onder sijnen boom.</l>
+<l>&nbsp;</l>
+<l>Hy sal u ontfermen;</l>
+<l>Wilt niet langer wacht;</l>
+<l>Komt ras in sijn armen,</l>
+<l>Eer hy u verkracht</l>
+<l>Door het canonneeren</l>
+<l>Sal hy heel valjant,</l>
+<l>U doen bombarderen</l>
+<l>Komt vry in sijn hand.</l>
+<l>&nbsp;</l>
+<l>Wilt hem dan ontfange,</l>
+<l>En roept overluit</l>
+<l>Nu met groot verlangen,</l>
+<l>Viva d'Edel spruyt,</l>
+<l>Dat hy mach lang leven,</l>
+<l>Al tot onser baet</l>
+<l>Dat wil God ons geven,</l>
+<l>Voor ons Land en Staet.</l>
+<l>&nbsp;</l>
+<l>God geeft dat Oranje,</l>
+<l>Met een wijs beleit</l>
+<l>Regereen mag Brittanje, </l>
+<l>Een langen tijd,</l>
+<l>Tot sijn grijse hayren</l>
+<l>Na ons wensch en sin;</l>
+<l>God wil hem bewaren</l>
+<l>Met sijn koningin.</l>
+<l>&nbsp;</l>
+<l>'k Hoop dat god sijn zegen,  </l>
+<l>Laten dalen sal</l>
+<l>Op Bane en Wegen,</l>
+<l>Hier en over al;</l>
+<l>Op sijn vrome Wapen,</l>
+<l>Dat wy mogen hier</l>
+<l>Lustig vreugde rapen, </l>
+<l>Tot ons groot pleisier. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0035"/></interpGrp>
+<head rend="h3">Rouw-klagt, gemaeckt van den Roomschen Keyser, over de dood van den Hartog van Lotharingen</head>
+<div type="section">
+<head rend="h4">Op de Voys: <hi rend="i">Eylaes ick ben van droefheyt sieck</hi>.<hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Ick Leopoldus mag my wel beklagen:</l>
+<l>Eylaes, eylaes in dese droeve nood,</l>
+<l>Dat ik nu sien mijn helt der helden verslagen</l>
+<l>Eylaes al van de bitterlijcke dood;</l>
+<l>Mijn rechter-hand,</l>
+<l>Heb ick verlooren,</l>
+<pb n="63"/>
+<l>Mijn waerde Pant,</l>
+<l>Mijn uytverkoren,</l>
+<l>Ben ick quijt,</l>
+<l>Jn desen tijd.</l>
+<l>&nbsp;</l>
+<l>Daer leydt mijn Held den vroome Lotharingen,</l>
+<l>Die my so trouwelijck heeft bygestaen,</l>
+<l>Die so menigen Turk heeft doen springen;</l>
+<l>Al voor sijn Wapen moest de halve Maen,</l>
+<l>Vluchten met schand,</l>
+<l>Waer hy quam treden</l>
+<l>Kloeck en valjant,</l>
+<l>Vol dapperhede</l>
+<l>Was dese held,</l>
+<l>Altijdt in 't Veld.</l>
+<l>&nbsp;</l>
+<l>Eylaes och dood wat heb ik u misdreven,</l>
+<l>Dat ghy mijn alder-kostelijckste Pand,</l>
+<l>So haest ging rucken van sijn leven,</l>
+<l>De schoonste parel van mijn gantsche Land</l>
+<l>Hebt ghy berooft</l>
+<l>En oock verslonden</l>
+<l>Jck ben berooft,</l>
+<l>Jn 's Werelts ronde,</l>
+<l>Js voor mijn dan,</l>
+<l>Noch geen Man! </l>
+<l>&nbsp;</l>
+<l>Die soo het Edel huys van Oostenrijcke</l>
+<l>Getrouwelijcke soo sal dienen gaen,   </l>
+<l>Eylaes waer sal ick vinden sijns gelijcken:</l>
+<l>Die spo kloeckmoedelijck sal wederstaen,</l>
+<l>Den Ottoman,</l>
+<l>Vranckrijck mede,</l>
+<l>Alwaer hy quam,</l>
+<l>Voor Schans of Stede:</l>
+<l>Al door sijn kracht,</l>
+<l>Quam in mijn macht.</l>
+<l>&nbsp;</l>
+<l>'t Js noch in mijn gedacht doen de Barbaren,</l>
+<l>En Turcken waren voor mijn Stad van Ween,</l>
+<l>Ghy Lotharingen redd' my uyt bezwaren</l>
+<l>Stelpen mijn tranen en al mijn geween,</l>
+<l>Noch Buda schoon</l>
+<l>en ander Stede:</l>
+<l>Voor mijn Persoon,</l>
+<l>Sijn dapperheden,</l>
+<l>Bracht hy valjant,</l>
+<l>Stracks in mijn hand.</l>
+<l>&nbsp;</l>
+<l>Moest gy dan dood in dese Oorlogs tijden,<hi rend="i"> </hi></l>
+<l>Vernielen gaen alsoo een held met spoed,</l>
+<l>Die voor het Christenrijcke van alle zijden,</l>
+<l>En voor Godts Wet ginck wagen Lijf en Bloedt,</l>
+<l>'t Valt my soo suur, </l>
+<l>Och Puyck der Vroomen.</l>
+<l>Waer door ick schroome,</l>
+<l>Ach uwen dood,</l>
+<l>Brengt mijn in nood.</l>
+<l>&nbsp;</l>
+<pb n="64"/>
+<l>Mijn hert dat barst als ick kom 't overdincken,</l>
+<l>De daden die ghy voor my hebt gedaen;</l>
+<l>O felle doodt hoe dat ghy quaemt krincken,</l>
+<l>Het leven die my soo quam bystaen,</l>
+<l>Wat doen ik nu,</l>
+<l>O droeve dagen:</l>
+<l>Jck ben in rouw,</l>
+<l>Hy is verslagen:</l>
+<l>Den vromen Held,</l>
+<l>'t Geen dat my quelt.</l>
+<l>&nbsp;</l>
+<l>O Lotharingen ick had voorgenomen</l>
+<l>Al door Gods macht, en spijt van Vrankrijk</l>
+<l>Dat ik sou door mijn Wapen sonder schromen</l>
+<l>U stellen gaen weder in u Rijck,</l>
+<l>Maer 't is om niet,</l>
+<l>Mijn droevigh klagen</l>
+<l>En sal nooyt zijn,</l>
+<l>Uyt 't hert van mijn.</l>
+<l>&nbsp;</l>
+<l>Hoe moet nu Lodewijck lacchen ter stede</l>
+<l>Al in sijn vuyst als hy dit heeft gehoort,</l>
+<l>Dat Lotharingen soo is overleden</l>
+<l>Die hem voor Ments quam stoutelijck aen boort;</l>
+<l>Eylaes sijn dood,</l>
+<l>Js mijn oorsake,</l>
+<l>Jn dese nood,</l>
+<l>Dat ick moet maken,</l>
+<l>Vrede met spoedt,</l>
+<l>Met 't Turcks Gebroet.</l>
+<l>&nbsp;</l>
+<l>Adieu Carolus oorsaek van mijn lijden,</l>
+<l>Jck segh adieu tot in der eeuwigheyd,</l>
+<l>Mijn hart dat barst als u moet geleyden,</l>
+<l>Al na den Graf, eylaes bedroefden tijd!</l>
+<l>Sal al gelijck,</l>
+<l>Jn dese dagen</l>
+<l>Door 't Oosten-rijck,</l>
+<l>Wilt nu vry dragen</l>
+<l>Rou t'allen kant,</l>
+<l>Door 't gantsche Landt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0036"/></interpGrp>
+<head rend="h3">De gewaende Franse Victory, die sy geviert hebben over sijn Majesteyt van Groot Brittanjens doodt, die sy seyden dat in de slagh van Yerland gebleven was.</head>
+<div type="section">
+<head rend="h4">Op de Voys: <hi rend="i">Van de Maen-blussers. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Wel wat komt ons al te vooren,</l>
+<l>Wilje de Victory horen,</l>
+<l>Van de Frans, van de Frans,</l>
+<l>Die de basseton speelt thans;</l>
+<l>Want van Yerlandt 't is een schande</l>
+<l>Gingh hy oock Victory brande,</l>
+<pb n="65"/>
+<l>Allesins, Allesins,</l>
+<l>En roept dood is onse Prins. </l>
+<l>&nbsp;</l>
+<l>Het geschut let men daer brommen,</l>
+<l>De Vuur-wercken en Peck-tonnen,</l>
+<l>t'Allen kant, t'Allen kant,</l>
+<l>Stack men over al in de brand:</l>
+<l>Al de Gildens gingen teeren,</l>
+<l>En die Grooten aen het smeeren:</l>
+<l>De Wijn klaer, De Wijn klaer,</l>
+<l>Die liep voor yder een daer.</l>
+<l>&nbsp;</l>
+<l>Monnicken en Cordilieren:</l>
+<l>Vergaten oock niet te vieren,</l>
+<l>Daer so groot, Daer so groot:</l>
+<l>En dat op de Prins sijn dood;</l>
+<l>Sy riepen daer met verblijden,</l>
+<l>Laten wy ons Met-getijden,</l>
+<l>Nu wat staen, Nu wat staen,</l>
+<l>Dese vreugd moet zijn gedaen.</l>
+<l>&nbsp;</l>
+<l>Het gepeupel op de strate,</l>
+<l>Die schenen als uytgelate,</l>
+<l>'t Riep alsins, 't Riep alsins,</l>
+<l>Doodt is den Oranjen Prins;</l>
+<l>En gingen doen met verstrange,</l>
+<l>Sijn Afbeeldsel doen op hange:</l>
+<l>And're weer: And're weer,</l>
+<l>Die sloegen 't aen stuck ter neer. </l>
+<l>&nbsp;</l>
+<l>En duysende Vysevase,</l>
+<l>Die sy malkaer in blase:</l>
+<l>d'Een maeckt dit, d'aer maekt dat, </l>
+<l>Voor Afbeeldsels, 'k weet niet wat,</l>
+<l>En stelden 't daer letterlijcke,</l>
+<l>Als men in de Prent kon kijcke,</l>
+<l>Siet eens aen, Siet eens aen,</l>
+<l>Waer op dese Monsters slaen.</l>
+<l>&nbsp;</l>
+<l>Maer hoe dees Victory-gaste:</l>
+<l>Haer verheughden en verbraste,</l>
+<l>Soo komt daer, Soo komt daer,</l>
+<l>Haer een droeve tijdingh naer,</l>
+<l>Dat de Prins noch was in 't leven,</l>
+<l>En dat gantsch Yerland 't moest geve,</l>
+<l>Onder hem, Onder hem,</l>
+<l>Dat daer gaf een donder-stem.</l>
+<l>&nbsp;</l>
+<pb n="66"/>
+<l>Brieve waren oock gekome,</l>
+<l>Dat Waterfort en Athelone,</l>
+<l>Stonden aen, Stonden aen,</l>
+<l>Tot den Prins moest over gaen;</l>
+<l>Want sy kunnen 't niet meer houwen,</l>
+<l>Doen begon men 't hooft te klouwen,</l>
+<l>Men riep uyt, Men riep uyt,</l>
+<l>Dees Victory niet en stuyt.</l>
+<l>&nbsp;</l>
+<l>Van Dublin heeft men ook toning,</l>
+<l>Dat hy daer voor wettigh Coning,</l>
+<l>Js verklaert, Js verklaert,</l>
+<l>En yder sijn gunst aenvaert,</l>
+<l>Wel hoe drommel kan dat wese,</l>
+<l>Hier dood, en gunter weer verrese,</l>
+<l>Wel wat nood, Wel wat nood,</l>
+<l>De Prins die vecht dan na sijn dood.</l>
+<l>&nbsp;</l>
+<l>Men heeft Brieve oock vernome,</l>
+<l>Dat hy in Engeland sal kome,</l>
+<l>Ongefaelt, Ongefaelt,</l>
+<l>'k Wou dat haer de duyvel haelt,</l>
+<l>Die ons sulcke bagetelle:</l>
+<l>Van sijn dood komen voor-stellen,</l>
+<l>Wat een schand, Wat een schand,</l>
+<l>Men daer van Victory brand.</l>
+<l>&nbsp;</l>
+<l>En was oock de Prins in 't leven,</l>
+<l>Waerom Jacob niet gebleve,</l>
+<l>Jn sijn Rijck, Jn sijn Rijck?</l>
+<l>Dit is oock een klare blijck,</l>
+<l>'t Js maer om ons te doen dutten,</l>
+<l>Van de beursen uyt te putten,</l>
+<l>Jae wel vriend, Jae wel vriend,</l>
+<l>So maeckt men de siende blind.</l>
+<l>&nbsp;</l>
+<l>Men deed' dan Arrest make,</l>
+<l>Om die vreugde heel te stake,</l>
+<l>'t Geen vermel, 't Geen vermel,</l>
+<l>Dat het was een leugen snel:</l>
+<l>Dat men haer had geschreven;</l>
+<l>Want de Prins is noch in 't leve;</l>
+<l>Dat men daer, Dat men daer,</l>
+<l>Heel gants in bedwongen waer.</l>
+<l>&nbsp;</l>
+<l>En dat men voor dese schande,</l>
+<l>Niemand mocht Victory brande,</l>
+<pb n="67"/>
+<l>Op de praet, Op de praet;</l>
+<l>Ma[er] als 't waer was metter daedt,</l>
+<l>S[oo sou] men 't dan gaen aflese,</l>
+<l>Al[wae]r yder hem na dese,</l>
+<l>Voege moet, Voege moet,</l>
+<l>Op dat geen soet, Keert in het roet.</l>
+<l>&nbsp;</l>
+<l>Hier mee moest een yder scheyde,</l>
+<l>En d'een tegen d'ander seyde,</l>
+<l>Ha Pardu, Ha Pardu,</l>
+<l>Js Yerland en Engeland nu,</l>
+<l>Wel de drommel hael de glory,</l>
+<l>Met het branden der Victory,</l>
+<l>By malkaer, By malkaer,</l>
+<l>'k Wou datter noch twee by my waer.</l>
+<l>&nbsp;</l>
+<l>Maer de twee dorst men niet segge,</l>
+<l>Doch daer zijn die dit uytlegge,</l>
+<l>Dat voorwaer, Dat voorwaer,</l>
+<l>Sy Louis en Jacob daer</l>
+<l>Wel te rechte mee soude dencke,</l>
+<l>Want de twe doen yder krenke,</l>
+<l>Jk ontbloot, Jck ontbloot,</l>
+<l>U maer een Victory bloot.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0037"/></interpGrp>
+<head rend="h3">Een Nieuw Liedt, ghemaeckt in de Vloot wegens de Zee-slag die 'er is voorgevallen in de Canael, tusschen de Hollanders, en de Francen.</head>
+<div type="section">
+<head rend="h4">Op de Stemme: <hi rend="i">Eer de Son sijn kracht gekregen heeft.</hi> <hi rend="i"> </hi>  <hi rend="i"></hi></head>
+<lg type="poem"><l>Luystert toe al sonder falen,</l>
+<l>Wat ick u verhalen sal,</l>
+<l>Van 't Gevecht is voorgevallen</l>
+<l>Jn 't gesicht van d'Engelsche wal,</l>
+<l>Voor het Bevesier in de Kniel,  </l>
+<l>Dit streng gevecht voorviel:</l>
+<l>Van onse kant, </l>
+<l>Op de vyand,</l>
+<l>Gaven wy lustigh vyer. </l>
+<l>&nbsp;</l>
+<l>'t Geschiede op een Maendagh eeven,</l>
+<l>Julius den thienden dagh,</l>
+<l>Doen sagh men de France vlagh streven:</l>
+<l>Men dicht by den vyand lagh,</l>
+<l>De moet was lustigh groot,</l>
+<l>Jn dese Hollandse vloot;</l>
+<l>Men lieper in,</l>
+<l>Verstaet de sin,</l>
+<pb n="68"/>
+<l>Wy gaven d'eerste schoot.</l>
+<l>&nbsp;</l>
+<l>Van het schip de Seven-wolde,</l>
+<l>Spoogh men niet als vyer ern vlam,</l>
+<l>Karel van der Putten mede,  </l>
+<l>Toonde hem als een Krijghsman,</l>
+<l>En Mosselman van Ter Veer,</l>
+<l>Schoot lustigh op de Beer,</l>
+<l>Maer d'Engelsche vlag,</l>
+<l>Gelijck men sag,</l>
+<l>En stelden haer niet te weer.</l>
+<l>&nbsp;</l>
+<l>Voort so sag men Braeckel vechten,</l>
+<l>Kallenburgh en Gillis Schey,</l>
+<l>En so heb ick gesien ten rechten,</l>
+<l>Was 'er Kalf van Medenblick by;</l>
+<l>Het Wapen van Alckmaer,</l>
+<l>Die schoot seer fel op haer;</l>
+<l>d'Enkhuyser Maegt,</l>
+<l>Was onvertsaegt,</l>
+<l>Al viel het haer wat zwaer.</l>
+<l>&nbsp;</l>
+<l>Van der Goes dient niet vergeten,</l>
+<l>En Capiteyn Decker van Edam,</l>
+<l>Hebben haer seer braef gequeten,</l>
+<l>En 't schip Groeningen daer an,</l>
+<l>Reygersbergh en van Saen,</l>
+<l>Die vielen dapper aen,</l>
+<l>Op den vyand; </l>
+<l>Maer wat schand:</l>
+<l>Eylaes wy waren verraen!</l>
+<l>&nbsp;</l>
+<l>Van d'Engelse ons bond-genooten,</l>
+<l>Sy lagen te loef-waert van de Vloot,</l>
+<l>Hebben niet een schoot geschooten;</l>
+<l>Hielpen ons niet uyt de nood,</l>
+<l>Behalven de Blaeuwe vlagh,</l>
+<l>Die men lustigh schieten sagh,</l>
+<l>Van achteren an,</l>
+<l>Op de Fransman,</l>
+<l>Vocht hy den heelen dagh.</l>
+<l>&nbsp;</l>
+<l>Ons Schout by nacht die wiert geschoten</l>
+<l>Jn het laetste van de Slagh,</l>
+<l>Dat heeft ons seer verdroten,</l>
+<l>Dat dien Held ter neder lagh:</l>
+<l>Ons Capiteyn Luytenant,</l>
+<l>Greep 't zwaerd weer in de hand;</l>
+<l>'t Gevecht was strang,</l>
+<l>En 't viel ons bang; </l>
+<l>Wy hadden te veel we'erstand.</l>
+<l>&nbsp;</l>
+<l>'s Vyands macht was onbegrepe<hi rend="i">n</hi>, </l>
+<pb n="69"/>
+<l>Twee-en-tachtigh Schepen groot:</l>
+<l>En wy met ons dertigh Schepen,</l>
+<l>Sloegen tegen de heele Vloot,</l>
+<l>Smorgens de klock van acht,</l>
+<l>Tot 's avonds toe met macht,</l>
+<l>De klok was vier,</l>
+<l>Op d' Hollandse manier</l>
+<l>Heeft elck sijn dienst betracht.</l>
+<l>&nbsp;</l>
+<l>Hadden de Engelse ter degen,</l>
+<l>Ons geholpen in den Slagh,</l>
+<l>Wy hadden met God victorie gekregen:</l>
+<l>Maer men het verraed doen sagh,</l>
+<l>Van Herbert seer ontrou,</l>
+<l>Hadde ons verkocht als nou,</l>
+<l>Aen die vyand,</l>
+<l>Heel Engeland,</l>
+<l>Dat is 'er van in rouw.</l>
+<l>&nbsp;</l>
+<l>Oorlof ghy Helden verheven,</l>
+<l>Als gy gaet Aen den slag,</l>
+<l>Bid God den heer te degen,</l>
+<l>En maeckt geen groot gewagh;</l>
+<l>Vecht vry met Godes hand,</l>
+<l>Te Water en te Land;</l>
+<l>Belieft den Heer,</l>
+<l>Hy sal u weer,</l>
+<l>Brengen in 't Vaderland.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0038"/>
+    <interp type="secundair" value="jame003"/></interpGrp>
+<head rend="h3">Een Nieuw Liedt, ofte Samen-spraeck, tussen den Koningh William, en den Koninck van Vranckrijck, en de gewesene Koninck Jacobus, ofte hertog van Jorck:</head>
+<div type="section">
+<head rend="h4">Op de Stemme: <hi rend="i">Edel Princes. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> Hertogh van Jorck.</hi></l>
+<l>Ik ben benout, </l>
+<l>Hoe sal het met mijn enden, </l>
+<l>Jk ben benout </l>
+<l>Mijn moet geheel verflout</l>
+<l>Jck hoor gerucht, </l>
+<l>Mijn soon wil met mijn kampen,</l>
+<l>Jck moet op de vlucht,</l>
+<l>Jck ben beducht,</l>
+<l>Eylaes dees droeve rampen,</l>
+<l>Doen mijn sucht op sucht.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningh William.</hi></l>
+<l>Jk in Persoon</l>
+<l>Sal selfs commandeeren</l>
+<l>Jck in Persoon,</l>
+<l>Wil stellen mijn ten toon,</l>
+<l>Den wilden Yer,</l>
+<l>Sal ick wel haestigh temmen,</l>
+<l>Op een nieuwe zwier,</l>
+<l>Met groot getier,</l>
+<l>Sal ick haer doen verzwemmen,</l>
+<pb n="70"/>
+<l>Door mijn vlam en vyer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Hertogh van Jorck.</hi></l>
+<l>Ach laes Louis,</l>
+<l>Wilt my haest seconderen</l>
+<l>Ach laes Louis,</l>
+<l>Jk vrees voor groot verlies</l>
+<l>Den stouten Quant,</l>
+<l>Of William de Swijger</l>
+<l>Nadert Yerlant,</l>
+<l>Blijft mijn constant;</l>
+<l>Of desen stouten krijger:</l>
+<l>Doet my in den bandt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranckrijck.</hi></l>
+<l>Mijn vloot is klaer,</l>
+<l>'t Secours is nu op handen,</l>
+<l>Mijn vloot is klaer,</l>
+<l>Dat seg ik u voorwaer;</l>
+<l>Hou moet ter spoet,</l>
+<l>Jck sal u haest helpen,</l>
+<l>Op den ouden voet,</l>
+<l>Hou moet ter spoet,</l>
+<l>Jck jaeg hem in sijn schelpen,</l>
+<l>Die u dit aendoet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningh William.</hi></l>
+<l>Jk William</l>
+<l>Uyt 't edel Huys Nassouwe,</l>
+<l>Jck William,</l>
+<l>De laetste van mijn Stam,   </l>
+<l>Sal u gront Bourbon,</l>
+<l>Noch schudden doen en beven,</l>
+<l>Door mijn grof Canon;</l>
+<l>d'Oranje Son</l>
+<l>Sal stralen op u leven,</l>
+<l>Als den Horisont. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranckrijck.</hi></l>
+<l>Wel stouten Quant:</l>
+<l>Meent ghy my te vervaren,</l>
+<l>Wel stouten Quant,</l>
+<l>Trekt gy nu na Yrland:</l>
+<l>Sa sa ter baen,</l>
+<l>Ruyters en Musqueterren;</l>
+<l>Soeckt nu te verstaen:</l>
+<l>Sa sa val aen,</l>
+<l>U val sien ick van verre</l>
+<l>Komen, treckt maer aen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koningh William.</hi></l>
+<l>O Lodewijck,</l>
+<l>U Lely sal haest deynsen,</l>
+<l>O Lodewijck,</l>
+<l>Vertrekt en laet dit Rijk,</l>
+<l>Aen mijn Persoon,</l>
+<l>Of al u kracht en Rijken</l>
+<l>Hecht ik aen mijn Kroon,</l>
+<l>Pranjen schoon</l>
+<l>Sal u de vlagg' doen strijcken,</l>
+<l>En de Lely doo'n.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranckrijck.</hi></l>
+<l>'k En pas geen haer,</l>
+<l>Op al u dreygementen,</l>
+<pb n="71"/>
+<l>'k En pas geen haer,</l>
+<l>Op dat is voorwaer;</l>
+<l>De Spaense Bruydt,</l>
+<l>Wil ick ten roof wegh slepen</l>
+<l>Tot een prooy en buyt;</l>
+<l>Jck u wel stuyt,</l>
+<l>Mijn Macht en Vloot van Schepen:</l>
+<l>Zijn al op haer uyt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koning William.</hi></l>
+<l>Dat Edel Pant,</l>
+<l>Tyran sal u niet wesen,</l>
+<l>Dat Edel Pant,</l>
+<l>Sal komen haest te Land,</l>
+<l>By haer Gemael,</l>
+<l>'t Gekroonde Hooft van Spanjen</l>
+<l>Vreest sijn vuur en stael,</l>
+<l>U Vloot egael</l>
+<l>Sal Spanjen met Oranjen,</l>
+<l>Slepen wegh van prael.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Koninck van Vranck.</hi></l>
+<l>Zo mijn dees Bruyt</l>
+<l>Ontslipt, dan weer een ander,</l>
+<l>So mijn dees Bruyt,</l>
+<l>Ontslipt dan op en uyt,</l>
+<l>En slaen u macht,</l>
+<l>Die u wil overschepen,</l>
+<l>Vang aen met kragt,</l>
+<l>By dag en nagt,</l>
+<l>Al gantsch mijn breyn gesleepen,</l>
+<l>Nemen hier op acht.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Konings Williams besluyt.</hi></l>
+<l>Couragie dan,</l>
+<l>Jk ook daer weer in tegen,</l>
+<l>Couragie dan,</l>
+<l>Vreest voor Petijt Flaman:</l>
+<l>Den Schot Brittan,</l>
+<l>Sal u wel haest benouwen,</l>
+<l>Vliet en beeft Fransman, </l>
+<l>Hollanders dan</l>
+<l>Doet hem den moet verflouwen,</l>
+<l>Sa sa sa val an.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0039"/></interpGrp>
+<head rend="h3">Een nieuw Lied, 't Samen-spraek gehouden tussen Maria Koninginne van Engelandt, Schotlandt, Vranckrijck, en Yerland, en den Admirael Tromp; aengaende het Zee gaen van dien Heldt:</head>
+<div type="section">
+<head rend="h4">Stem. <hi rend="i">Ick gae na 't peekel-veldt</hi>.<hi rend="i"></hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>Weest wellekom mijn Tromp verheven</l>
+<l>Jck sal u het Commando geven,</l>
+<l>Ghy sult wesen mijn Admirael,</l>
+<l>Gouverneur oock principael;</l>
+<l>Want ghy moet vechten,</l>
+<pb n="72"/>
+<l>En werck uyt rechten;</l>
+<l>Maer van God komt altemael.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Tromp.</hi></l>
+<l>Wel Edel Hoog-geboren verheven</l>
+<l>Gy bent een Koninginne daer neven,</l>
+<l>Jck kom hier op mijn oude dag,</l>
+<l>En ick sal hebben het geheel gesag;</l>
+<l>Sal zijn getrouwe,</l>
+<l>Voor 't Lant Mevrouwe</l>
+<l>Van God men het al verwacht.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>Jk geve 't Commando al in uw' handen,</l>
+<l>God bewaer ons en onse Landen:</l>
+<l>Jck val dan op mijn knyen neer,</l>
+<l>Als die van Ninive teer:</l>
+<l>Dit is bevonden,</l>
+<l>Dat onse sonden,</l>
+<l>Roepen wraeck al tot den Heer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Tromp.</hi></l>
+<l>Jck sal, sa laet ons maer Godt behage,</l>
+<l>De vyand uyt de Zee gaen jagen:</l>
+<l>Jck sal niet steunen op mijn macht,</l>
+<l>Maer al door Godes groote kracht,</l>
+<l>Kom ick de Franse,</l>
+<l>Jck laetse danse,</l>
+<l>Dat al met haer groote pracht.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>De eere hebt gy al lang genoten,</l>
+<l>Want gy sloegh beyde de Vlooten,</l>
+<l>Driemael uyt de Zee confuys;</l>
+<l>Waer bleef doen het Frans gespuys?</l>
+<l>Gy gingt haer plagen,</l>
+<l>En gaeft haer slagen,</l>
+<l>Dat sy vluchten na haer huys.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Tromp.</hi></l>
+<l>God de Heere die is mijn getuyge,</l>
+<l>Vranckrijck sal ick doen buyge</l>
+<l>Past maer op gy Capiteyns,</l>
+<l>Jck waerschouw ieder in 't gemeyn,</l>
+<l>Gy sult vechten,</l>
+<l>Als lands knechten,</l>
+<l>Dat beveel ick u certeyn.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>Edel Tromp wilt na mijn hooren</l>
+<l>Seventien heb ick doen dooden,</l>
+<l>Want sy waren my ontrouw,</l>
+<l>Daerom wil ick bevelen jou,</l>
+<l>Wilt niemant spare,</l>
+<l>Hoort mijn verkooren:</l>
+<l>Edel Tromp dat segh ick nouw. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Tromp.</hi></l>
+<l>De Heere State van Nederlande,</l>
+<l>Hebben 't gestelt oock in mijn hande;</l>
+<pb n="73"/>
+<l>Jck sal voeren galg en rad,</l>
+<l>Past op Capiteyns ick segh u plat:</l>
+<l>Maer gaet vry vechten,</l>
+<l>Als lands-knegten</l>
+<l>Men sal u vereeren wat.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>God wil u Edel tromp bewaren,</l>
+<l>Komt ghy op de Zee, al op de baren,</l>
+<l>Dat al in het pekel-veld:</l>
+<l>Vranckrijck dat sal wesen ontstelt,</l>
+<l>Wilt avancieren,</l>
+<l>Jn goe manieren,</l>
+<l>Sa wilt u toonen als een Krijghs-held. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Tromp.</hi></l>
+<l>God de Heer wil u bespare,</l>
+<l>En Koning William oock beware,</l>
+<l>Dat hy magh krijge de overhand;</l>
+<l>Brengen Jacobus geheel van kant;</l>
+<l>Komt hy gevangen,</l>
+<l>Jn Wilhelmus handen,</l>
+<l>Hy sal hem brenge in Engeland.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Maria.</hi></l>
+<l>God beware u in u oude dage,</l>
+<l>Dat ghy de Franse mooght gaen plage;</l>
+<l>Hy heeft gedaen als een Antichrist,</l>
+<l>Den Turck al tegen den Keyser hist,</l>
+<l>Hy ging verbreken</l>
+
+<l>Tegen alle Rijcks-Vorsten, dat is gewis.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Capiteyns in 't Generael. </hi></l>
+<l>Edel Heer Tromp wy hebbe vernome,</l>
+<l>Dat ghy zijt oock aengenome,</l>
+<l>Onse Opper-Admirael,</l>
+<l>Want ghy bent een man van stael,</l>
+<l>Wy sullen ons weeren,</l>
+<l>Oock defendeeren,</l>
+<l>Beloven wy u altemael. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0040"/>
+    <interp type="secundair" value="jame003"/></interpGrp>
+<head rend="h3">De Fransche Vlieger, opgeschooten door den Francen Koningh, Cardinael van Furstenbergh, Jacobus Stuwaert, en den grooten Turck; door den Koningh van Engeland, de Hertog van Lotteringen, de Ceurvorsten van Brandenburg, Saxen en Beyeren, en de Hollanders, &amp;c. aen stucken gescheurt.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Stemme: Als 't begint. </hi></head>
+<lg type="poem"><l>Aenhoort Liefhebbers al te gaer,</l>
+<l>Wat geschiet is in dit Jaer;</l>
+<pb n="74"/>
+<l>Een Fransche vlieger onverdrooten,</l>
+<l>Js door Bourbon nu opgeschooten.</l>
+<l>&nbsp;</l>
+<l>Dees vlieger na de nieuwe zwier,</l>
+<l>Die was geplackt van Frans Papier,</l>
+<l>Romtom versien met gulde bloemen,</l>
+<l>Waer op Louis wel stout durft roemen.</l>
+<l>&nbsp;</l>
+<l>Op 't neusje stont een Turckse Maen</l>
+<l>Van goud, en blonck een yder aen,</l>
+<l>Om als het spel begon te stincken,</l>
+<l>Louis als Leydsman voor te blincken.</l>
+<l>&nbsp;</l>
+<l>Den grooten Turck-Vorst Soliman,</l>
+<l>Quam met sijn Turckse gaeren an,</l>
+<l>En presenteert den Fransche Koning,</l>
+<l>Dit tot een vlieg-touw tot belooning</l>
+<l>&nbsp;</l>
+<l>De staert brogt Jems van over ze,</l>
+<l>En  dus so quam de Vlieger ree,</l>
+<l>Den Furstenburger onverdrooten,</l>
+<l>Heeft hem in Ceuls-land in geschooten.</l>
+<l>&nbsp;</l>
+<l>Toen vloog de Vlieger seer gezwind,</l>
+<l>Wel twintigh mijlen in de wind,</l>
+<l>Maer Furstenbergh kon 't tou niet houwen,</l>
+<l>Hoe hy het maken mogt of brouwen.</l>
+<l>&nbsp;</l>
+<l>Hy daght voor Lodewijks bedrijf,</l>
+<l>De Bisschops stoel was sijn bedrijf,</l>
+<l>Maer doen hy meende 't was gewonnen, </l>
+<l>So was het werck pas eerst begonnen.</l>
+<l>&nbsp;</l>
+<l>Keur Beyerens Broeder seer valjant,</l>
+<l>Jaegt Furstenbergh uyt 't Ceulsche lant;</l>
+<l>Die sijne Vlieger wierdt ontnomen,</l>
+<l>En vluchten moest met angst en schroomen.</l>
+<l>&nbsp;</l>
+<l>Louis gelijck een moedigh held,</l>
+<l>Een and're Vlieger we'er toestelt:</l>
+<l>Die hy laet vliegen in Brittanje,</l>
+<l>Tot spijt van 't Edel huys Oranje.</l>
+<l>&nbsp;</l>
+<l>Jacobus Stuart als een man</l>
+<l>Vat den Franschen Vlieger an,</l>
+<l>En laet Vaer Peters seer getrouwe,</l>
+<l>Het touw in sijne handen houwen.</l>
+<l>&nbsp;</l>
+<l>Dit touw dat had by na geen bogt,</l>
+<l>Soo vloogh de vlieger in de logt,</l>
+<l>En klom tot buyten 's menschen oogen,</l>
+<l>Ja is tot aen de Son gevloogen.</l>
+<l>&nbsp;</l>
+<pb n="75"/>
+<l>Vaer Peters was geheel verblijd,</l>
+<l>Dat 't Touw so door sijn handen glijd:</l>
+<l>Maer op het lest was hy bedrogen,</l>
+<l>Want hem de Vlieger is ontvlogen.</l>
+<l>&nbsp;</l>
+<l>Hy had sijn touw niet vast gemaeckt;</l>
+<l>Dus is sijn Vlieger los geraeckt;</l>
+<l>Doe stont hy als een aep te kijken,</l>
+<l>En 't scheen dien bloed die sou bezwijken.</l>
+<l>&nbsp;</l>
+<l>Een goede sterke Ooste wind,</l>
+<l>Bragt Vorst Wilhelmus seer gezwind,</l>
+<l>Met sijne Helden in Brittanjen,</l>
+<l>En ys're Bussen van Oranjen.</l>
+<l>&nbsp;</l>
+<l>Het touw Vaer Peters vallen laet,</l>
+<l>En vlucht na Vranckrijck desperaet,</l>
+<l>Oom Jacob wist niet wat te maken,</l>
+<l>En socht oock uyt het Rijck te raken.</l>
+<l>&nbsp;</l>
+<l>Hy vlucht en soeckt sijn Vlieger weer,</l>
+<l>Die in Parijs quam vallen neer,</l>
+<l>Geheel door-regent en aen flerden,</l>
+<l>Het welck de Fransche Vorst benarden.</l>
+<l>&nbsp;</l>
+<l>Die Stuaert met sijn vlieger send,</l>
+<l>Na Londonderry wel bekent,</l>
+<l>Doch wind en weer dat wou niet lucken,</l>
+<l>Dees Vlieger raeckt aen duysent stucken.</l>
+<l>&nbsp;</l>
+<l>Want siet onsen Nassousschen held,</l>
+<l>Send brave herders in het veld, </l>
+<l>Matrosen en kloecke Soldaten,</l>
+<l>Daer sig een Vorst mag op verlaten.</l>
+<l>&nbsp;</l>
+<l>Sy quamen ook in 't Yrsche Rijck,</l>
+<l>En jagen Stuart al gelijck,</l>
+<l>Met sijn Yren en loose Franschen,</l>
+<l>Van voor de Stadt en doen haar danssen.</l>
+<l>&nbsp;</l>
+<l>Een schone Engelsche Galjard,</l>
+<l>Het welk de Jesuwijten smart,</l>
+<l>Het schendig rot moet retireren,</l>
+<l>De Protestanten Triumpheren.</l>
+<l>&nbsp;</l>
+<l>Colonel Kirck de Stad ontset,</l>
+<l>En heeft haer boose wil belet,</l>
+<l>Van Stuart en de Fransche Gasten,</l>
+<l>Die noch op woord of eeden pasten.</l>
+<l>&nbsp;</l>
+<l>Den hartog Schomberg treckt vast aen,</l>
+<l>Om met dit Papen rot te slaen,</l>
+<pb n="76"/>
+<l>Kolonel Kirck met groot genoegen,</l>
+<l>Gaet sijne helden by hem voegen.</l>
+<l>&nbsp;</l>
+<l>So Schomberg dese Yren slaet,</l>
+<l>So is voor Jacob gantsch geen raed,</l>
+<l>Als weer na Vranckrijck toe te pueren,</l>
+<l>Eer hem dees hoorders nog verscheuren.</l>
+<l>&nbsp;</l>
+<l>Schoon dat Louis tot sijn bedrijf,</l>
+<l>Heeft menig hondert duysent lijf,</l>
+<l>Die hy hoogmoedig gaet regeeren,</l>
+<l>Een is 'er die hem kan verneeren.</l>
+<l>&nbsp;</l>
+<l>Maer nog een Franschen Vlieger Vals,</l>
+<l>Wiert opgeschooten in de Pals,</l>
+<l>Daer Melak last hadt 't touw te houwen,</l>
+<l>Geen snpoder kon hy 't toe vertrouwen. </l>
+<l>&nbsp;</l>
+<l>Want hy spoog niet als vier en vlam,</l>
+<l>Daer hy maer voor of binnen quam:</l>
+<l>Het Duytsche Rijck sal 't wel gedenken,</l>
+<l>Hoe desen brander haer quam krenken.</l>
+<l>&nbsp;</l>
+<l>Gelijck een dol en rasend beest,</l>
+<l>Js desen Franschen beer geweest,</l>
+<l>Tot dat den Keyser door sijn magten,</l>
+<l>Hem jaegt van d'een en d'and're grachten.</l>
+<l>&nbsp;</l>
+<l>Hartog Lorijn toont in het veld,</l>
+<l>Te zijn een dapper oorlogs Held,</l>
+<l>De Turcken het seer wel gevoelde,</l>
+<l>Als hy sijn lusten op haer koelde. </l>
+<l>&nbsp;</l>
+<l>Nu heeft hy Ments die stercke Stadt,</l>
+<l>Den Frans ontweldigt, en een schat,</l>
+<l>Van groote rijckdom daer gevonden,</l>
+<l>Maer veel bedorven en geschonden.</l>
+<l>&nbsp;</l>
+<l>Dus sal den Franschen dwingelandt,</l>
+<l>Het veld noch ruymen tot sijn schant,</l>
+<l>Men sal hem 't woelen wel verleeren,</l>
+<l>Keur Brandenbprg komt ook marcheeren.</l>
+<l>&nbsp;</l>
+<l>En heeft hem Keyserswaert ontruckt,</l>
+<l>Dat voor sijn Bomben is gebukt,</l>
+<l>Bon heeft hy ook met kracht doen dwingen </l>
+<l>En na sijn pijpen leren singen.</l>
+<l>&nbsp;</l>
+<l>So raeckt den Brander uyt het Rijck,</l>
+<l>Keur Sax en Beyren te gelijck,</l>
+<l>Die komen oock den haen besoecken,</l>
+<l>'k Geloof hy sal haer komst vervloecken.</l>
+<l>&nbsp;</l>
+<pb n="77"/>
+<l>Want hunne zwaerden scherp gewet,</l>
+<l>Zijn reeds met Franse bloed besmet;</l>
+<l>Hun dapperheydt doet hem verschricken,</l>
+<l>En schier van bangigheyd versticken.</l>
+<l>&nbsp;</l>
+<l>De Prins van Waldeck wel ge-aard,</l>
+<l>Speelt een Hollandse Galjaard,</l>
+<l>Jn Braband met de lichte Franssen,  </l>
+<l>Waer na sy lustigh konnen danssen. </l>
+<l>&nbsp;</l>
+<l>By Walkoer heeft den Haen gesmaeckt,</l>
+<l>Dat Holland oock pottagie maeckt,</l>
+<l>Daer van sijn Volck wel purgeeren,</l>
+<l>En alomme retireeren.</l>
+<l>&nbsp;</l>
+<l>Den Spaenschen Held Don d'Argourio</l>
+<l>Js oock den Fransman veel te snoo;</l>
+<l>Hy jaeght haer uyt sijn snoode wallen,</l>
+<l>En schenckt haer Spaensche vuur'ge ballen<hi rend="i">.</hi></l>
+<l>&nbsp;</l>
+<l>Soo is een yder op de been,</l>
+<l>Om Louis te brengen tot re'en;</l>
+<l>Sy soecken den Franschen bedrieger,</l>
+<l>Te ontrooven sijn vergulde Vlieger.</l>
+<l>&nbsp;</l>
+<l>Oock siet Bourbon dat sijn practijck,</l>
+<l>Gantsch is vervallen in den slijck!</l>
+<l>Dewijl sijn Vlieger door sijn mallen,</l>
+<l>De staert is van sijn gat gevallen.</l>
+<l>&nbsp;</l>
+<l>Oorlof Louis tot een besluyt,</l>
+<l>Uw heele Vlieg-werck is verbruyt:</l>
+<l>Wilt ghy een ander weer toe stellen,</l>
+<l>So maeckt de Staert van Fransche vellen.</l>
+<l>&nbsp;</l>
+<l>En schiet hem op daer ghy de wind,</l>
+<l>Vry beter voor u Vlieger vind,</l>
+<l>Tegen de Turck of sijn supoosten,</l>
+<l>Soo kan een Christen hem vertroosten.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0041"/></interpGrp>
+<head rend="h3">Een t'Samen-spraeck tussen een Jonckman, en een Jonge Dochter: </head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een bekende Voys. </hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Jonckman.</hi></l>
+<l>Liefste Lief hoe sal 't meer wesen,</l>
+<l>Dat gy my eens sult genesen</l>
+<l>Van de smart, Van de smart,</l>
+<l>Dien ick voel in mijn Jonck hart;</l>
+<pb n="78"/>
+<l>Sullen noyt mijn droeve klachten,</l>
+<l>Uw wraeck-gierigh hart versachten?</l>
+<l>Sult gy dan, Sult gy dan,</l>
+<l>Noyt van mijn maken u Man:</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Jonghman staeckt uw droevigh Minnen,</l>
+<l>Ghy en sult geen troost verwinnen;</l>
+<l>Want ik ken, want ik ken,</l>
+<l>Noch wel blijven dien ick ben:</l>
+<l>Soud' ick in mijn jonge Jaren</l>
+<l>Alree dencken om te paren:</l>
+<l>Jonckman siet, Jonckman siet,</l>
+<l>Ik houd' mijn uyt 't verdriet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonckm.</hi></l>
+<l>Geen verdriet sal u geschieden,</l>
+<l>Lief en wilt van mijn niet vlieden,</l>
+<l>Jck sal jou, Jck sal jou,</l>
+<l>Blijven als een Man getrouw;</l>
+<l>Alle druck en zware plagen,</l>
+<l>Sullen wy te samen dragen;</l>
+<l>Liefste soet, Liefste soet,</l>
+<l>Staeckt doch eens 't wreed gemoet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Docht.</hi></l>
+<l>U en baet geen presentatie,</l>
+<l>Jck en vind in u geen gratie,</l>
+<l>Om te zijn, Om te zijn,</l>
+<l>Uw' vrouw hier in 't Werelts pleyn,</l>
+<l>Al u aerdigh vleijen</l>
+<l>Js maer om mijn te verleijen:</l>
+<l>Van mijn eer, Van mijn eer,</l>
+<l>En mijn dan verlaten weer.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonckm.</hi></l>
+<l>Och ik zweer mijn lief Klarinden,</l>
+<l>Soo ghy mijn ontrouw sult vinden,</l>
+<l>Dat de doodt, Dat de dood,</l>
+<l>Mijn wegh ruckt in Carons schoot,</l>
+<l>En dat al de helsche Zielen</l>
+<l>Mijn terstond komen vernielen,</l>
+<l>Dat ick magh, Dat ick magh,</l>
+<l>Noyt weer komen voor den dagh.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Doch.</hi></l>
+<l>Door u eedt en trouwigheden:</l>
+<l>Die ghy aen mijn komt besteden</l>
+<l>Sal ick dan, Sal ick dan,</l>
+<l>Zijn u Vrouw, en gy mijn Man,</l>
+<pb n="79"/>
+<l>Wilt daer op mijn Trouw ontfangen,</l>
+<l>Daer na is al mijn verlangen</l>
+<l>Laet ons gaen, Laet ons gaen,</l>
+<l>Jn den Echt van stonden aan.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonck.</hi></l>
+<l>Jk ontfangh uw trouw mijn schoone,</l>
+<l>‘k Sal weder min betoonen,</l>
+<l>Met een pant, Met een pant,</l>
+<l>En een Ringh van Diamant,</l>
+<l>Nu is al mijn droevigh klagen,</l>
+<l>Heel verkeert in blijde dagen,</l>
+<l>Komt mijn Bruydt, Komt mijn Bruydt,</l>
+<l>Laet ons 't lof verbreyden uyt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0042"/></interpGrp>
+<head rend="h3">Een Samen-spraeck, tusschen een Jonkman en een Dochter,</head>
+<div type="section">
+<head rend="h4">op de Stem: <hi rend="i">Ick Louis mach nu wel suchten</hi>.<hi rend="i"></hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Jonckman.</hi></l>
+<l>Och Klarind mijn Uytverkooren,</l>
+<l>Wilt doch eens mijn klacht aenhooren,</l>
+<l>Schone Meyt, Schone Meyt, </l>
+<l>Uyt een rechte suyverheyd,</l>
+<l>Want de stralen van uw' ogen</l>
+<l>Hebben mijn altijdt bewogen,</l>
+<l>Tot de min, Tot de min,</l>
+<l>Och mijn overschoon Godin.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Jonkman, vertrekt met u Lammeren,</l>
+<l>Want u persoon staet my niet aen,</l>
+<l>Ghy gaet een and're Maeght karesseren,</l>
+<l>Die u wil beter ten antwoord staen;</l>
+<l>Jck heb geen lust</l>
+<l>om u te trouwen,</l>
+<l>Laet mijn gerust,</l>
+<l>‘t Mocht mijn berouwen</l>
+<l>Gaet Minnaer daar ghy u voncken blust.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonckman.</hi></l>
+<l>Lief verhoort doch eens mijn smeecken,</l>
+<l>O van rouw mijn hert moet breecken,</l>
+<l>Engel soet, Engel soet, </l>
+<l>Ghy bent die my treuren doet;</l>
+<l>Altijd ben ik vol elenden,</l>
+<l>Moet ick so mijn leven enden;</l>
+<pb n="80"/>
+<l>Dagh en nagt, Dagh en nagt,</l>
+<l>Stort ik voor u uyt mijn klacht:</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Minnaar, u vleije en magh niet baten,</l>
+<l>‘t Js al verlooren wat ghy begint,</l>
+<l>Gy zwiert by nacht altijdt over straten,  </l>
+<l>Met ‘t een of 't ander Venus kind;</l>
+<l>Ghy zoud mijn mee</l>
+<l>brengen in schande,</l>
+<l>Jn druck en wee:</l>
+<l>Jck sou mijn brande;</l>
+<l>Daerom gaat heen en laat mijn in vree.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonckman.</hi></l>
+<l>O ghy zijt als een wreede Tygerinne,</l>
+<l>Laet ghy my nu geen troost verwinne,</l>
+<l>Blijft ghy straf, Blijft ghy straf,</l>
+<l>Soo moet ick dalen in het graf;</l>
+<l>Al de Goden sullen neder tuygen,</l>
+<l>Hoe ick voor u neder buygen;</l>
+<l>Schoone vrouw, Schoone vrouw: </l>
+<l>Ghy doet mijn sterven van rouw.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Jonkman gy doet mijn hert ontvonken</l>
+<l>Daerom wilt staken u verdriet,</l>
+<l>Cupidoos pijle: en minlijck loncken,</l>
+<l>Die hy my staegh in mijn boesem schiet;</l>
+<l>Daer is mijn trouw  </l>
+<l>wilt laten varen,</l>
+<l>Al uwen rouw,</l>
+<l>wy sullen paren, </l>
+<l>Wilt mijn ontfangen voor u Vrouw. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Besluyt.</hi></l>
+<l>Sang-Goddinnen wilt vercieren,</l>
+<l>Mijn Klarind' met Lauwerieren,</l>
+<l>Want sy gaet, Want sy gaet,</l>
+<l>Met mijn in den Echten-staet,</l>
+<l>Nu ben ick uyt het bezwaren,</l>
+<l>Speelt op Fluyten ende Snaren,</l>
+<l>Maeckt geluyt, Maeckt geluyt,</l>
+<l>Tot lof van mijn lieve Bruydt.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0043"/></interpGrp>
+    <pb n="81"/>
+    <figure>
+        <p><xptr to="_nie237nieu01ill0081.gif"/></p>
+    </figure>
+    <div type="section">
+<head rend="h3">Het beklagh van de Meysjes van onse landen, over het vertrecken van alle Soldaten en Matroosen.</head>
+
+<head rend="h4">Op de Stemme: <hi rend="i">Philia</hi>.<hi rend="i"></hi></head>
+<lg type="poem"><l>Hoort ghy niet de Trommels roeren,</l>
+<l>Meysjes wat sult ghy uytvoeren,</l>
+<l>Jn dees tijdt, Jn dees tijd,</l>
+<l>Nu ghy raeckt u Vrijers quijt, </l>
+<l>Die u plachten te behagen,</l>
+<l>Siet ghy nu den Deegen dragen,</l>
+<l>t'Allen kant, t'Allen kant,</l>
+<l>'t Js voor 't lieve Vaderland.</l>
+<l>&nbsp;</l>
+<l>Wel wat sult ghy nu gaen maken;</l>
+<l>Ghy sult moeten leggen braken;</l>
+<l>Dese keer, Dese keer;</l>
+<l>Want ghy krijght geen Vrijers meer;</l>
+<l>Meysjes ghy meught nu wel suchten,</l>
+<l>Nu ghy siet u Vrijers vluchte,</l>
+<l>Van u al, Van u al,</l>
+<l>Hier al uyt ons Hollandts dal.  </l>
+<l>&nbsp;</l>
+<l>Want sy worden al Soldaten,</l>
+<l>Ten dienst van ons Edel Staten:</l>
+<l>Meysjes nu, Meysjes nu,</l>
+<l>Seght u Vrijers dan adieu;</l>
+<l>Want alle haer karesseeren,</l>
+<pb n="82"/>
+<l>Sal u heden gaen manqueeren;</l>
+<l>En daer by, En daer by,</l>
+<l>Een kusjen gelooft het vry.</l>
+<l>&nbsp;</l>
+<l>Want ghy siet veel Vryers varen</l>
+<l>Al over Nephtunis Baren:</l>
+<l>Nu heel kloeck, Nu heel kloeck,</l>
+<l>Met een vuyl bepeckte Broeck,</l>
+<l>Sy' hebben liever te gaen strijden,</l>
+<l>Als gestadigh u te vrijden,</l>
+<l>Want de Min, Want de Min, </l>
+<l>Maeckt ons somtijds dol van sin,</l>
+<l>&nbsp;</l>
+<l>Daerom en wilt doch niet treure;</l>
+
+<l>Krijgen gaen, Krijgen gaen,</l>
+<l>Stilt alleen u droef getraen;</l>
+<l>Wilt u aengename oogen,</l>
+<l>Meysjens terstondt of gaen droogen:</l>
+<l>'k Segh u dan, 'k Segh u dan,</l>
+<l>Ghy raeckt noch wel aen een Man.</l>
+<l>&nbsp;</l>
+<l>Maer alle de Jonge Quante,</l>
+<l>Zijn te Water en te Lande,</l>
+<l>Die u sou, Die u sou,</l>
+<l>Van u maecken haest een vrouw:</l>
+<l>'k Raed u Meysjes uytgelesen,</l>
+<l>Komt 'er een wat oud van wesen,</l>
+<l>By u staen, By u staen,</l>
+<l>Tast vry toe laet hem niet gaen.</l>
+<l>&nbsp;</l>
+<l>Die na een Jonghman wil trachten,</l>
+<l>Die moet seeckers noch wat wachten,</l>
+<l>Hoort dit aen, Hoort dit aen,</l>
+<l>Als de Companje is gedaen;</l>
+<l>Gy sult dan krijgen u keure,</l>
+<l>Als ghy maer komt aen de deure;</l>
+<l>Met fatsoen, Met fatsoen,</l>
+<l>Als sy zijn in 't Garnisoen.</l>
+<l>&nbsp;</l>
+<l>Oorlof Meysjes nu ten tijde;</l>
+<l>Het geen dat ghy hier moet lijden;</l>
+<l>'k Segh publijck, 'k Segh publijck,</l>
+<l>Dat komt al door Vranckrijck,</l>
+<l>Die ons den Oorlogh ginck zweeren,</l>
+<l>Daerom moest yder marcheeren:</l>
+<l>'t Js te spijt, 't Js te spijt,</l>
+<l>Dat ghy bent u Vryers quijt.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0044"/></interpGrp>
+<pb n="83"/>
+<head rend="h3">Een Nieuwe vermakelijke Klugt, tot een spiegel van alle Jonckheydt, van Pieter en Juffrouw Cathalijn.</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Jonckheyt staet by. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Ach Vrienden hoort,</l>
+<l>Naer mijnen droeven rouw,</l>
+<l>Ach vrienden hoort,</l>
+<l>Hoe ik beklaeg mijn trou</l>
+<l>Jck ben verbrast,</l>
+<l>En seker wel geschooren; </l>
+<l>Denckt my hoe dat past,</l>
+<l>Met Juffrou Lijn</l>
+<l>De Drommel moetse halen, </l>
+<l>Sy wil meester zijn.</l>
+<l>&nbsp;</l>
+<l>Maer siet eens aen,</l>
+<l>Hoe dat ick ben bedrogen,</l>
+<l>Maer siet eens aen,</l>
+<l>Wat sy al heeft gedaen,</l>
+<l>Als ick haer nam,</l>
+<l>Kreeg sy vier hondert gulden! </l>
+<l>O dat soete Lam,</l>
+<l>Jn haren schoot:</l>
+<l>Het was de Patrimonie </l>
+<l>Van mijn Moeders doodt. </l>
+<l>&nbsp;</l>
+<l>Sy had het vlack,</l>
+<l>En speelden met de schijven;</l>
+<l>Sy had het vlack,</l>
+<l>Den speelman sat op 't ack:</l>
+<l>En ick voorwaer,</l>
+<l>Was oock seer wel tevreden </l>
+<l>Met mijn soete klaer,</l>
+<l>Het gaet van gat,</l>
+<l>Kom ick t'huys noen of avont, </l>
+<l>Juffrou Lijn is sat.</l>
+<l>&nbsp;</l>
+<l>Wat groot verdriet,</l>
+<l>Jck mag het wel betreuren</l>
+<l>Wat groot verdriet,</l>
+<l>Dat my door haer geschiedt:</l>
+<l>Sy drinckt de Wijn,</l>
+<l>En ick Bier en Water </l>
+<l>'k Moet tevreden zijn,</l>
+<l>Js 't niet een schand,</l>
+<l>Jck moest haer lest t'huys halen, </l>
+<l>Jn een Lijnwaet mandt.</l>
+<l>&nbsp;</l>
+<l>Heel sat en krom,</l>
+<l>Lagh sy daer in gedouwen,</l>
+<l>Heel sat en krom,</l>
+<l>En door den dronck oock stom,</l>
+<pb n="84"/>
+<l>Met droef gebaer,</l>
+<l>Op eenen Korde wagen, </l>
+<l>Kruyden ick in mijn  kaer,</l>
+<l>Daer by den stanck,</l>
+<l>En sal ick noyt vergeten, </l>
+<l>Jn den lijnwaet mant.</l>
+<l>&nbsp;</l>
+<l>Neemt hier op agt,</l>
+<l>Sy bleef daer leggen slapen,</l>
+<l>Neemt hier op agt,</l>
+<l>En so den gantsche nacht:</l>
+<l>Den dag quam aen,</l>
+<l>Toen quam sy uyt gekropen </l>
+<l>En viel my aen 't slaen,</l>
+<l>Met boosheyt groot,</l>
+<l>Jk moest voor haer gaen vlugte: </l>
+<l>Of ick waer al doot. </l>
+<l>&nbsp;</l>
+<l>Het geld is op,</l>
+<l>En al mijn beste kleeren,</l>
+<l>Het geld is op,</l>
+<l>Al door de Kermis Pop:</l>
+<l>Juffrouw Catholijn,</l>
+<l>By alle kermissen, </l>
+<l>Moet sy seeker zijn,</l>
+<l>Die lichte spil, </l>
+<l>Sy maeckt aen gelt te raken, </l>
+<l>En loopt op den dril.</l>
+<l>&nbsp;</l>
+<l>Met groot pleysier,</l>
+<l>Moest Juffrou gaen bekijke</l>
+<l>Met groot pleysier,</l>
+<l>Die kerremis van Lier,</l>
+<l>Sy liet my t'huys:</l>
+<l>'k had geen brood om t'eten, </l>
+<l>Daer toe munt of kruys,</l>
+<l>En op dit pas,</l>
+<l>Jck meende wat te krijgen, </l>
+<l>Maer sy schuldig was. </l>
+<l>&nbsp;</l>
+<l>Den backer siet,</l>
+<l>Vraegden om twintig gulden,</l>
+<l>Den backer siet,</l>
+<l>Jck beefden als een riet,</l>
+<l>Aen d'ander zy,</l>
+<l>Quam my het vrouken tegen,</l>
+<l>Uyt de vette bry:</l>
+<l>Met eenen lag,</l>
+<l>En sey lieven Peter,</l>
+<l>'k Wensch u goeden dag.</l>
+<l>&nbsp;</l>
+<l>Mijn kammeraet,</l>
+<pb n="85"/>
+<l>Kunt gy my niet betalen,</l>
+<l>Maer kammeraet,</l>
+<l>Daer sesthien guldens staet,</l>
+<l>Van kaes sout smout,</l>
+<l>Met brandewijn en boter,</l>
+<l>Noch twee honderd hout,</l>
+<l>Jck sey voorwaer,</l>
+<l>Mijn vrouw sal u betalen,</l>
+<l>Met een droef gevaer.</l>
+<l>&nbsp;</l>
+<l>Jk gonk ter strack,</l>
+<l>Met disperate sinnen</l>
+<l>Jck gonck ter strack,</l>
+<l>En maeckten so een pack,</l>
+<l>Ja in der daet,</l>
+<l>Jk maeckten negen gulden,</l>
+<l>Van mijnen huysraet,</l>
+<l>Sonder getier,</l>
+<l>Ginck ick met schicken vieren,</l>
+<l>Juffrouw was te liet. </l>
+<l>&nbsp;</l>
+<l>Adieu Cathlijn:</l>
+<l>Gy sult my niet meer krouwe</l>
+<l>Adieu Cathlijn:</l>
+<l>Gy meugt nu vrolijck zijn.</l>
+<l>Ach Jongmans siet:</l>
+<l>Wagt kael Juffrouwen:  </l>
+<l>Gelijk my geschiet</l>
+<l>Trout een boerin</l>
+<l>Liever met slechte kleeren,</l>
+<l>Als soo een Goddin.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0045"/></interpGrp>
+<head rend="h3">Een schoone Samen-spraeck tussen een Jongman ende een Dochter.</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Edel Princes. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i"> Jongman.</hi></l>
+<l>Adieu schoon Lief,</l>
+<l>Jck gaen ten Oorlogh varen,</l>
+<l>Adieu schoon Lief,</l>
+<l>Jck gaen voor 's Lands gerief,</l>
+<l>Om den vyand,</l>
+<l>Op de woeste Zee-baren,</l>
+<l>Bieden wederstant:</l>
+<l>Als ick weer kom</l>
+<l>Sullen wy samen paren,</l>
+<l>Over schone blom.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Dochter.</hi></l>
+<l>Wel lieve Maet,</l>
+<l>Gy doet mijn hert verflouwen,</l>
+<l>Wel lieve  Maet,</l>
+<l>Daer al mijn troost op staet,</l>
+<l>Gaet gy nu heen,</l>
+<pb n="86"/>
+<l>En laet mijn hert in rouwen,</l>
+<l>Jn druck en geween:</l>
+<l>Jck meenden siet,</l>
+<l>Jn't kort met u te trouwen,</l>
+<l>Maer gy van mijn vlied.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jonckman.</hi></l>
+<l>O schoon Catrijn,</l>
+<l>Wilt niet so treurig wesen,</l>
+<l>O schoon Catrijn,</l>
+<l>Wilt niet so droevigh zijn:</l>
+<l>Voor ontrouheyt:</l>
+<l>En hoeft gy niet te vresen</l>
+<l>Over schoone Meyt,</l>
+<l>Gy sult geen nacht,</l>
+<l>Als ick op 't Schip sal wesen,</l>
+<l>Zijn uyt mijn gedacht.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Dochter.</hi></l>
+<l>Jck ben beducht,</l>
+<l>Och, och mijn uytverkooren,</l>
+<l>Jk ben beducht,</l>
+<l>Om dat ick ben bevrucht,</l>
+<l>Want van mijn Moer</l>
+<l>Jck staegh sal moeten hooren,</l>
+<l>Dat ick ben u hoer;</l>
+<l>Mijn lieve Jan,</l>
+<l>Laet mijn niet gaen verlooren,</l>
+<l>Trouwt eerst als een Man.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jonckman.</hi></l>
+<l>Mijn tijd genaeckt,</l>
+<l>Och Lief dat ick moet scheyden,</l>
+<l>Mijn tijd genaeckt,</l>
+<l>Och al u droefheyt staeckt,</l>
+<l>Adieu 'k moet gaen,</l>
+<l>Jck kan niet langer beyden,</l>
+<l>Stilt u droef getraen:</l>
+<l>Och Engel soet,</l>
+<l>Stelt u druck ter zijden,</l>
+<l>Want het wesen moet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Dochter.</hi></l>
+<l>Ga jy nu heen,</l>
+<l>'k Hoop God sal u behoeden;</l>
+<l>Ga jy nu heen,</l>
+<l>En laet mijn in geween, </l>
+<l>Ghy ziet hoe mijn</l>
+<l>De bracke tranen vlooden,</l>
+<l>Och uyt mijn aenschijn!</l>
+<l>Wel hoe kond ghy</l>
+<l>Jonckman u so ras spoeden,</l>
+<l>Om te gaen van my.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Jonckman.</hi></l>
+<l>Kaetje ick moet,</l>
+<l>Mijn tijd begint te naken;</l>
+<l>Kaetje ick moet,</l>
+<l>Aen Boort op staende voet</l>
+<l>Jck hoop den Heer,</l>
+<l>Sal u bly Moeder maken:</l>
+<pb n="87"/>
+<l>Hout u Kintjen reet:</l>
+<l>Doch wel in waert:</l>
+<l>Adieu u rooder kaken:</l>
+<l>Lief doch voor mijn spaert.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i"> Dochter.</hi></l>
+<l>Mijn Lief getrouw,</l>
+<l>Sal ick mijn voor u dragen:</l>
+<l>Mijn lief getrou,</l>
+<l>Ach of ick was u vrou,</l>
+<l>Dat gy nu gaet,</l>
+<l>Doet mijn conscientie knagen</l>
+<l>Stadig vroeg en laet;</l>
+<l>Jck hoop God sal</l>
+<l>U hoeden in dees dagen,</l>
+<l>Voor een Lager-wal.</l>
+</lg><p><hi rend="i">M. de HAEN.</hi></p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0046"/></interpGrp>
+<head rend="h3">Een Minnaers klacht,</head>
+<div type="section">
+<head rend="h4">Op de stemme: <hi rend="i">Als begint.</hi> <hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>O Schoon Goddin wat gaet u aen,</l>
+<l>Wat hebt gy doch gedaen,</l>
+<l>Dat ghy van hem die u bemint,</l>
+<l>Nu so bent wech gegaen,</l>
+<l>Och had ik doch maer het geluck</l>
+<l>By u te mogen zijn,</l>
+<l>Soo waer ick uyt den druck verlost,</l>
+<l>En mijn bedroefde pijn.</l>
+<l>&nbsp;</l>
+<l>Gy hebt mijn hert en sin berooft</l>
+<l>Jn soete slaverny, </l>
+<l>Daerom sal ick niet zijn gerust,</l>
+<l>Voor dat ik by u zy,</l>
+<l>Want ick met Eed verklaren kan,</l>
+<l>Dat gene dag noch nacht,</l>
+<l>Na dat ghy lief zijt weg geweest,</l>
+<l>Jn vreugt heb door gebracht.</l>
+<l>&nbsp;</l>
+<l>U schoonheyt en u soet gelaet:</l>
+<l>Verwecken my tot min,</l>
+<l>Daertoe u aengename praet,</l>
+<l>Trecken mijn hert en sin,</l>
+<l>Tot u mijn overschoone Blom,</l>
+<l>Jck maeck het u bekent,</l>
+<l>Als dat gy uyt mijn 's herten gront,</l>
+<l>Staet in mijn ziel geprent.</l>
+<l>&nbsp;</l>
+<l>Juffrouw mocht ick maer by u zijn,</l>
+<l>Dat sou ick zijn gerust,</l>
+<l>Als ick met u op 't sachte Bed,</l>
+<pb n="88"/>
+<l>Mijn brant eens had geblust,</l>
+<l>Jck sou tot groote danckbaerheyt,</l>
+<l>Kussen u rooder mont,</l>
+<l>Dan sou mijn quetst genesen zijn,</l>
+<l>Die gy my hebt gewont.</l>
+<l>&nbsp;</l>
+<l>Soet Lam wat sout gy segge dog,</l>
+<l>Als ik eens by u quam,</l>
+<l>En dat ik van u eens versogt,</l>
+<l>'t Geen 'k niet wel noemen kan,</l>
+<l>Jk bid laet my genaken dan,</l>
+<l>U lieve lipjes root,</l>
+<l>Daer toe u ronde Borsjes blanck,</l>
+<l>Schoon Lief door min ontbloot.</l>
+<l>&nbsp;</l>
+<l>Och Engel mogt ick nog eenmael,</l>
+<l>Genaken uwe schoot,</l>
+<l>Dat sou ick mijn gewilliglijck,</l>
+<l>Begeven totter doodt,</l>
+<l>Gedenckt mijn overschone Bloem,</l>
+<l>Hoe dat wy meenig nagt,</l>
+<l>Te samen keerden ons,</l>
+<l>En oock met vreugt volbragt.</l>
+<l>&nbsp;</l>
+<l>Doe hebt gy my mijn tweede ziel,</l>
+<l>Genesen van mijn pijn,</l>
+<l>Och Liefste komt doch een mael,</l>
+<l>Met uwe Medecijn,</l>
+<l>Want my niemant genesen kan,</l>
+<l>Als gy mijn schoon goddin,</l>
+<l>Om dat gy 't hert gesloten hebt,</l>
+<l>Door uwe soete min.</l>
+<l>&nbsp;</l>
+<l>Daerom noch eens daer aen gedenckt,</l>
+<l>Mijn dertel Venus dier,</l>
+<l>Hoe wy te saem met groot pleysier</l>
+<l>Blusten ons minnevier,</l>
+<l>Daer gy laegt aen mijn zy soet Lam,</l>
+<l>Waer vrolijck ende bly,</l>
+<l>Segt mijn overschone Blom,</l>
+<l>Waerom verlaet gy my.</l>
+<l>&nbsp;</l>
+<l>Vergunt dat ick mach by u zijn,</l>
+<l>Jn plaets van mijn gedagt,</l>
+<l>Geneest my van minnepijn,</l>
+<l>Eer ick in min versmacht,</l>
+<l>Maer so gy dan schoon Engelin,</l>
+<pb n="89"/>
+<l>Noch lang van mijn blijft af,</l>
+<l>Sult gy alleen de oorsaeck sijn,</l>
+<l>Dat ick dael in het graf.</l>
+<l>&nbsp;</l>
+<l>Daerom en laet u soete hert,</l>
+<l>Niet meer afkeerigh zijn,</l>
+<l>Weest geen meer oorsaeck van mijn smert,</l>
+<l>Noch duldelose pijn,</l>
+<l>Verquickt mijn leven door u Trou,</l>
+<l>Op dat ick zy verblijt,</l>
+<l>Streckt my een steun en vaste bouw,</l>
+<l>Slaept altijt aen mijn zy.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0047"/></interpGrp>
+<head rend="h3">Een Vermaeckelijcke Klucht, Van een boer, die de voys van liere boela wou leeren, en heeft het geleert voor hondert Ducatons:</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Op een aengename Voys</hi>.<hi rend="i"> </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Lestmael so quam ick getreden,</l>
+<l>Met mijn maet soet als een lam,</l>
+<l>Uyt de Treck-schuyt hoort mijn reden,</l>
+<l>Binnen de Stadt Amsterdam,</l>
+<l>Daer sagh ick seer fray van leden,</l>
+<l>Moye Meysjes hey sa, sa, </l>
+<l>Op de straten voor my treden,</l>
+<l>Om te speelen liere boela. </l>
+<l>&nbsp;</l>
+<l>Dan als een pijntje drincke,</l>
+<l>Jn den kroegh met mijnen Maet,</l>
+<l>En vraegden aen lichte Fincken,</l>
+<l>Wees men na de Kalver-straet,</l>
+<l>Daer ick savonds in ging treden,</l>
+<l>'k Von d'een voor en d'ander na,</l>
+<l>Meysjes moy en net van leden,</l>
+<l>Om te speelen liere boela. </l>
+<l>&nbsp;</l>
+<l>Jck quam 'er een aen te spreecken,</l>
+<l>Die en was voorwaer niet pluys,  </l>
+<l>Want sy was vol slimme treecken,</l>
+<l>Sy brogt my in een Speel-huys,</l>
+<l>Daer ick ginck drincken en zwieren,</l>
+<l>d'Een soop voor en d'ander na,</l>
+<l>De Fiool ging tiereliere,</l>
+<l>Liere boeliere liere boela. </l>
+<l>&nbsp;</l>
+<l>'k Heb noch honderd Ducatonnen,</l>
+<l>Sprack den Boer den armen Gast,</l>
+<pb n="90"/>
+<l>Die en heb ick niet gewonnen,</l>
+<l>Maer ick nams' uyt Moeders kas,</l>
+<l>Om eens fraey te dommineeren,</l>
+<l>Met de moye Meysjes viva,</l>
+<l>Jck wil leven als een Heere,</l>
+<l>Liere boeliere liere boela. </l>
+<l>&nbsp;</l>
+<l>Den Boer sprack al sonder gecken,</l>
+<l>My dunckt het word haest dagh,</l>
+<l>Nu wil ick eens gaen vertrecken,</l>
+<l>En betalen mijn gelagh;</l>
+<l>Maer nademael dat ick zwiere,</l>
+<l>Speelt noch eens van liere boela,</l>
+<l>Jck sal danssen met manieren,</l>
+<l>Liere boeliere liere boela. </l>
+<l>&nbsp;</l>
+<l>Door het danssen en het springen,</l>
+<l>Wierd hy droncken als een Swijn,</l>
+<l>Veel te suypen lustigh springen,</l>
+<l>Dat en kan niet minder zijn;</l>
+<l>En sy seyde sa Cousijntje,</l>
+<l>Ghy kunt niet langer staen,</l>
+<l>Drinckt haestigh uyt u Pintje,</l>
+<l>Liere boela, wy sullen gaen.</l>
+<l>&nbsp;</l>
+<l>Sy leyde de Boer doe mede,</l>
+<l>Yder een die dee daer sijn best,</l>
+<l>Hebben voor eerst sijn Beurs gesneden,</l>
+<l>Gesp en Kleeren en de rest,</l>
+<l>Gouden Knopen uyt sijn hembden,</l>
+<l>d'Een so voor en d'ander na,</l>
+<l>Sy den wilden boer so tembden,</l>
+<l>Liere boeliere liere boela. </l>
+<l>&nbsp;</l>
+<l>Sy sijn stillekens wegh gekomen,</l>
+<l>Den Boer daer al-eenigh lagh,</l>
+<l>Slapen, sluymeren en dromen:</l>
+<l>Smorgens vroegh als quam den dagh,</l>
+<l>Veeghden hy bedroeft sijn ogen,</l>
+<l>En riep lieven Heer genae,</l>
+<l>Hier ben ick leelijck bedrogen,</l>
+<l>Dat al van de liere boela. </l>
+<l>&nbsp;</l>
+<l>wel laet ick my so beschijten,</l>
+<l>Nu is het best dat ick gae:</l>
+<l>Noch en sou het my niet spijten,</l>
+<l>Had ick gespeelt Liere boela:</l>
+<pb n="91"/>
+<l>Jongmans als gy gaet uyt vrijen,</l>
+<l>En volgt my altijd niet na;</l>
+<l>Want gy kunt so niet bedijen, </l>
+<l>Adieu liere, liere boela. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0048"/></interpGrp>
+<head rend="h3">Een Nieu Amoureus Liedeken</head>
+<div type="section">
+<head rend="h4">Stemme: <hi rend="i">Liefste lief wanneer sal't wesen. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Schoon Godin mijn uytgelesen,</l>
+<l>Laet ick eens u lieflijck wesen,</l>
+<l>Schouwen aen, Schouwen aen,</l>
+<l>En ick magh voor u dienaer gaen,</l>
+<l>Van mijn liefste lief op Aerden,</l>
+<l>Komt dan Liefste, kom dan waerden,</l>
+<l>Kom dan dra, Kom dan dra,</l>
+<l>En toont uwe Lief genae.</l>
+<l>&nbsp;</l>
+<l>Wat een vreugd en een behagen,</l>
+<l>Was in dees voorleeden dagen,</l>
+<l>Dan voor my, Dan voor my,</l>
+<l>Wy waren doen t'saem heel vry.</l>
+<l>Jck ginck doen mijn Brand eens blussen,</l>
+<l>Door veel hondert duysent kussen,</l>
+<l>Van haer mond, Van haer mond,</l>
+<l>Dat maeckt mijn hert gesond.</l>
+<l>&nbsp;</l>
+<l>Wat heb ick al meenigh nachten,</l>
+<l>Na mijn waerde Lief staen wachten,</l>
+<l>Met playsier, Met playsier,</l>
+<l>Na mijn waerde Nimphjen fier:</l>
+<l>Waerde Liefste soet van Minne;</l>
+<l>Laet my eens u liefde winne:</l>
+<l>Soete Ziel, Soete Ziel,</l>
+<l>Die my wonder wel beviel.</l>
+<l>&nbsp;</l>
+<l>Uwe lieve kaeckjes bloosen,</l>
+<l>Roder als de schone Roosen,</l>
+<l>Staen op 't veldt, Staen op 't veldt:</l>
+<l>Siet ghy hout mijn ziel gequelt:</l>
+<l>Uwe Tantjes als Albaster,</l>
+<l>En u Aensicht sonder laster,</l>
+<l>Roem ick siet, Roem ick siet: </l>
+<l>Maer gy stadigh van my vliet.</l>
+<l>&nbsp;</l>
+<l>Waerste Liefje mijn voogdesse,</l>
+<l>Laet u dit zijn tot een lesse,</l>
+<l>Van mijn pijn, Van mijn pijn,</l>
+<pb n="92"/>
+<l>Liefste geeft mijn Medecijn.</l>
+<l>Geeft gy dan geen Medecijne,</l>
+<l>So sal al mijn vreugt verdwijne,</l>
+<l>Jn dees tijdt, Jn dees tijdt,</l>
+<l>Heel beproeft of seer verblijdt. </l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0049"/></interpGrp>
+<head rend="h3">De stantvastige Liefde, van een Jongman, aen sijn Klarinde.</head>
+<div type="section">
+<head rend="h4">Op de Wijse: <hi rend="i">Lest als ick lagh en sliep, &amp;c.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Klarinda Lief verhoort mijn droevigh klagen,</l>
+<l>Dat ick gestadigh doe al voor de deur,</l>
+<l>Klarinde helpt my uyt getreur,</l>
+<l>En wilt doch oock u liefde tot my dragen,</l>
+<l>Dat ick genieten magh u soete geur.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Klarinde.</hi></l>
+<l>Wel Jongman komt ghy mijn al weder quellen,</l>
+<l>Daer ick so dickwils hebbe neen geseyt,</l>
+<l>Jck bid u soeckt een ander Meyt,</l>
+<l>En wilt mijn jonger hert niet meer ontstellen</l>
+<l>Want ik tot trouwen noch niet ben bereyt. </l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Klarinde uytverkoren schoon vriendinne</l>
+<l>Dat gy eens wist mijn rechte liefden-gront</l>
+<l>Gy soud dan met u rooder-mond</l>
+<l>My so beloonen mijn standvaste minne,</l>
+<l>Want siet mijn sinnen op u zijn gegront.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Klarinde.</hi></l>
+<l>'t Js waer Jongman gy hebt u trou gedragen,</l>
+<l>Soo ick bespeurt heb wel twee jaren langh,</l>
+<l>Maer siet ick ben noch in bedwangh,</l>
+<l>Jongman gy moest het aen mijn Ouders vragen,</l>
+<l>Dat wy dees dage gaen ons trouwens-gang.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Jonghman.</hi></l>
+<l>Och Lief wat troostigh woorden komen spruyten,</l>
+<l>Al uyt u aengename mondt:</l>
+<l>Een kusje, ick tree toe terstont;</l>
+<pb n="93"/>
+<l>Jck sal u Ouders mijnen min ontsluyten,  </l>
+<l>En hoe mijn hert van liefden is doorwond.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Den Jongman treed by den Vader.</hi></l>
+<l>Jk wens u goeden dag Vader verkooren</l>
+<l>Dat ick soo stout u hier kom spreken aen;</l>
+<l>Och wilt mijn gunste niet versmaen,</l>
+<l>Jck heb u Klarinde tot mijn Bruyd verkooren, </l>
+<l>Vergunt mijn dat ick met haer te trouwen gaen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vader.</hi></l>
+<l>Wel Jongman spreekt gy mijn dochter van paren,</l>
+<l>Sout gy gaen trouwen soo een jonger kind,</l>
+<l>Ey Jongman u wel versint;</l>
+<l>Want sy is maer een Spruyt van vijfthien jaren,</l>
+<l>Jck loof voorseecker dat ghy zijt verblind.</l>
+<l>&nbsp;</l>
+<l>Men sagh den Jongman in sijn sinnen dwalen,</l>
+<l>En men sagh nat over sijn wangen gaen:</l>
+<l>En hy stort een droef getraen,</l>
+<l>Den Vader dee aldaer sijn Dochter halen,</l>
+<l>En hy sprack haer met dese woorden aen.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vader en Dochter.</hi></l>
+<l>Wel dochter sult gy trouwen in dees dagen<hi rend="i"></hi></l>
+<l>En u alreeds begeven in droefheyd,</l>
+<l>'t Js by u niet wel beleyt,</l>
+<l>Dat ghy soo groote Liefde hebt gedragen,</l>
+<l>Aen een jongman vol van getrouwigheyd.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Dochter.</hi></l>
+<l>Vader hy heeft sijn liefde my gedragen,</l>
+<l>Soo ick bespeurt heb wel twee jaren lang,</l>
+<l>Och den tijd viel mijn soo bangh,</l>
+<l>Doe hy sijn grote liefde my quam klagen,</l>
+<l>Jck heb hem dees dagen,</l>
+<l>Voor mijn Lief ontfaen.</l>
+<l>&nbsp;</l>
+<l>Wel sprak den vader ick sie het moet wesen,</l>
+<l>God geev' u t'samen geluck en voorspoet,</l>
+<l>Den Jonghman daer sijn Liefste groet:</l>
+<l>Och kinders sprak de Moeder, wilt Godt vreesen,</l>
+<pb n="94"/>
+<l>Dat gy by desen leeft in weelde soet.</l>
+<l>&nbsp;</l>
+<l>Men liet terstont hare Geboden leesen,</l>
+<l>Men sagh dit soete Paer te trouwen gaen,</l>
+<l>De Bruyloft wierd gehouden daer,</l>
+<l>En yder was vrolijck daer by desen,</l>
+<l>Maer ach eylaes! ick moest achter staen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="song" value="_nie237nieu01_0050"/></interpGrp>
+<head rend="h3">Een aerdigh Minne-Deuntje</head>
+<div type="section">
+<head rend="h4">Stem: <hi rend="i">Het Maentje scheen so helder, </hi>et<hi rend="i">c. </hi><hi rend="i"></hi></head>
+<lg type="poem"><l>Ach soete Philidaetje,</l>
+<l>Jk kom weer om een praetje,</l>
+<l>Of ghy beraden zijt;</l>
+<l>U lodderlijcke oogen,</l>
+<l>Hebben mijn Ziel ontogen,</l>
+<l>En ben schier 't leven quijt.</l>
+<l>&nbsp;</l>
+<l>Want zedert wy lest waren</l>
+<l>Met 't Schuytjen uyt-gevaren</l>
+<l>Na Maes en Waelse plas,</l>
+<l>En 't Zeyltjen lustigh zwelden,</l>
+<l>Jck u mijn min voorstelden,</l>
+<l>Die in mijn boesem was. </l>
+<l>&nbsp;</l>
+<l>Soo dat ick gantsche nachten</l>
+<l>Verslijt in droeve klachten,</l>
+<l>Om u mijn Philida;</l>
+<l>Om u is al mijn dencken;</l>
+<l>Och wilt mijn eenmael schencken</l>
+<l>Het suyker woordtjen Ja.</l>
+<l>&nbsp;</l>
+<l>Ey wilt weer liefde toonen,</l>
+<l>Och Philida mijn schoone,</l>
+<l>Mijn Lief, mijn waerste pand,</l>
+<l>Mijn vreugt op deser Aerden,</l>
+<l>Wil eens dees Trouw aenvaerden,</l>
+<l>En draegtse aen u handt.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Vryster.</hi></l>
+<l>'k Danck u mijn lief vol eeren,</l>
+<l>God wil ons Liefd' vermeren,</l>
+<l>'k Ontfang daer op u Trouw.</l>
+<l rend="speaker"><hi rend="i">Vryer.</hi></l>
+<l>En ick Godin gepresen,</l>
+<l>Sal uwen Adam wesen:</l>
+<l>Ghy Eva tot mijn Vrouw. </l>
+</lg><p><hi rend="b">EYNDE.</hi></p>
+</div>
+</div>
+<div type="chapter">
+
+<pb n="95"/>
+<head rend="h3"><hi rend="i">Register.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">A.</hi></head>
+<table>
+<row><cell>Ach ick sie een poel vol smerten.</cell><cell>17</cell></row>
+<row><cell>Ach Maria wat moete ick horen.</cell><cell>55</cell></row>
+<row><cell>Ach Cousijn Loys Bourbon.</cell><cell>59</cell></row>
+<row><cell>Aenhoort nu Lief-hebbers al te gaer.</cell><cell>73</cell></row>
+<row><cell>Ach vrienden hoort.</cell><cell>83</cell></row>
+<row><cell>Adieu schoon lief.</cell><cell>85</cell></row>
+<row><cell>Ach soete Philidaetje.</cell><cell>94</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">B.</hi></head>
+<table>
+<row><cell>Bien Roy Louijs wat gaet mijn aen.</cell><cell>5</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">E.</hi></head>
+<table>
+<row><cell>Eylaes wie sal mijn helper zijn.</cell><cell>29</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">H.</hi></head>
+<table>
+<row><cell>Hollanders ende Zeeuwen.</cell><cell>7</cell></row>
+<row><cell>Hoort ghy niet de Trommels slaen.</cell><cell>81</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">I.</hi></head>
+<table>
+<row><cell>Jck leopoldus magh mijn beklagen.</cell><cell>62</cell></row>
+<row><cell>Jck ben benouwt, hoe sal het met mijn enden.</cell><cell>69</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">K.</hi></head>
+<table>
+<row><cell>Komt Oranje vol kloeckheden.</cell><cell>24</cell></row>
+<row><cell>Klarinde lief hoort mijn droevigh, <hi rend="i">et</hi>c.</cell><cell>29</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">L.</hi></head>
+<table>
+<row><cell>Laet ons nu eens na de zwier.</cell><cell>41</cell></row>
+<row><cell>Luystert toe al sonder falen.</cell><cell>67</cell></row>
+<row><cell>Liefste Lief hoe neer sal 't wesen.</cell><cell>77</cell></row>
+<row><cell>Lestmael quam ick getreden.</cell><cell>89</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">M.</hi></head>
+<table>
+<row><cell>Men hoort de Trommnel slaen.</cell><cell>9</cell></row>
+<row><cell>Maeckt vreughde nu aen alle kant.</cell><cell>33</cell></row>
+<row><cell>Mijn waerde Pandt.</cell><cell>37</cell></row>
+<row><cell>Maeckt vreughden gelijcke.</cell><cell>61</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">N.</hi></head>
+<table>
+<row><cell>Nu gaet onsen Hollandschen Held.</cell><cell>53</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">O.</hi></head>
+<table>
+<row><cell>O groten God op uwen Troon geseten.</cell><cell>12</cell></row>
+<row><cell>O Paters Peters uwen Raed.</cell><cell>20</cell></row>
+<row><cell>Op hollands volk, beroemde Nederland.</cell><cell>28</cell></row>
+</table>
+    <pb n="96"/>
+    <table>
+<row><cell>Och Klarind mijn uytverkooren.</cell><cell>79</cell></row>
+<row><cell>O schoon Goddin wat gaet u aen.</cell><cell>87</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">R.</hi></head>
+<table>
+<row><cell>Roept nu viva, Gy vrye Nederlanden.</cell><cell>51</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">S.</hi></head>
+<table>
+<row><cell>'t Schijnt de Werelt is in roer.</cell><cell>14</cell></row>
+<row><cell>Sa komt Faem met u Trompet gedrev.</cell><cell>23 </cell></row>
+<row><cell>Sa roept Victoria t'allen kant.</cell><cell>26</cell></row>
+<row><cell>Sa Nederland Victoria brand.</cell><cell>27</cell></row>
+<row><cell>Schoon Jsabel, verstaet mijn reden wel.</cell><cell>32</cell></row>
+<row><cell>Sa vereende Nederlanden.</cell><cell>39</cell></row>
+<row><cell>Sa komt nu van alle kant.</cell><cell>45</cell></row>
+<row><cell>Sa, sa gelijck.</cell><cell>47</cell></row>
+<row><cell>Sa maeckt blijdtschap t'allen kant.</cell><cell>49</cell></row>
+<row><cell>Schoon Goddin mijn uytgelesen.</cell><cell>91</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">V.</hi></head>
+<table>
+<row><cell>Verheught u nu te samen.</cell><cell>26</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">W.</hi></head>
+<table>
+<row><cell>Wel Prinsje van Wallis, hoe slaept ghy niet?</cell><cell>15</cell></row>
+<row><cell>Wanneer men heeft geschreven.</cell><cell>30</cell></row>
+<row><cell>Wie bied my nu de hand.</cell><cell>36</cell></row>
+<row><cell>Wees welkom mijn koning uytverkore<hi rend="i">n</hi>.</cell><cell>38</cell></row>
+<row><cell>Wy komen met eerbiedigheden.</cell><cell>42</cell></row>
+<row><cell>Weest welkom Edelen Prins Orangien.</cell><cell>58 </cell></row>
+<row><cell>Wel wat komt ons al vooren.</cell><cell>64</cell></row>
+<row><cell>Wees welkom mijn Tromp verheven.</cell><cell>71</cell></row>
+</table>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Z.</hi></head>
+<table>
+<row><cell>Za maeckt vreugd aen alle kant.</cell><cell>3</cell></row>
+</table>
+
+</div>
+</div>
+</body>
+</text>
+</TEI.2>
+

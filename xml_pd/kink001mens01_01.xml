@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">De menschheid in het Lazarushuis</title>
+               <author>Johannes Kinker</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">De menschheid in het Lazarushuis</hi> van Johannes Kinker uit 1801.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. V: de kop 'Woord vooraf' is tussen vierkante haken toegevoegd.</corr>
+                       <corr>p. 13: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de regel hier, met bijbehorende accolade, herhaald.</corr>
+                       <corr>p. 28: zick → zich: ‘<hi rend="sc">de menschheid</hi> <hi rend="i">en</hi> <hi rend="sc">de rede</hi> <hi rend="i">plaatsen zich op eene hoogte</hi>’.</corr>
+                       <corr>p. 29: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">kink001mens01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2017 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: 116 L 15</idno>
+               </bibl>
+               <p>Johannes Kinker, <hi rend="i">De menschheid in het Lazarushuis</hi>. Abraham Mars, Amsterdam 1801</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">De menschheid in het Lazarushuis</title>
+               <author>Johannes Kinker</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">De menschheid in het Lazarushuis</title>
+               <author>Johannes Kinker</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2017-11-01</date>
+               <respStmt>
+                   <name type="person">NdG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="I"/>
+<p>DE</p>
+<p>MENSCHHEID</p>
+<p>IN 'T</p>
+<p>LAZARUSHUIS.</p>
+<pb rend="blank" n="II"/>
+<pb n="III"/>
+<p>DE</p>
+<p>MENSCHHEID</p>
+<p>IN 'T</p>
+<p>LAZARUSHUIS,</p>
+<p>BY DEN</p>
+<p>AANVANG DER NEGENTIENDE EEUW.</p>
+<p><hi rend="i">ZINNEBEELDIGE VOORSTELLING</hi>.</p>
+<p>DOOR</p>
+<p><hi rend="i">Mr. J. KINKER</hi>.</p>
+<p><figure>
+<p><xptr to="kink001mens01ill0001.gif"/></p>
+</figure></p>
+<p><hi rend="i">Te AMSTELDAM, by</hi></p>
+<p>ABRAHAM MARS, 1801.</p>
+<p><hi rend="i">Met Privilegie</hi>.</p>
+<pb rend="blank" n="IV"/>
+</div>
+</cf>
+<div type="chapter">
+<pb n="V"/>
+<head rend="h3">[Woord vooraf]</head>
+<p><hi rend="i">Aan iemand die inziet dat eene Parodie, in dien zin genomen, dien men er thands vry algemeen aan hecht, daarin bestaat, dat men het een of ander onderwerp uit een tegenovergesteld gezichtspunt beschouwt en behandelt</hi> (<hi rend="i">waartoe de burleske styl het beste geschikt is</hi>) <hi rend="i">zal het zeker niet vreemd voorkomen, dat men den inval kan krygen om zyn eigen werk te</hi> parodieeren. <hi rend="i">Niets immers kan meer toebrengen om het oorspronglyke in het oog van andersdenkende te doen uitkomen, dan wanneer de Schryver zelve zich op het standpunt stelt, waarop zyn tegenstrevers of berispers zich plaatsten om zyn' arbeid te beoordeelen. Ook voor anderen en voor het geparodieerde stuk zelve kan dit zyn nut hebben: want aan verscheiden duistere plaatsen</hi> (<hi rend="i">gelyk het toch niet anders kan, of men moet die in</hi> Allegorien <hi rend="i">hier en daar aantreffen</hi>) <hi rend="i">wordt daar door meer licht toegebracht. Men zal toch niet willen ontkennen, dat het eene goede hoedanigheid in een' onderwyzer is, wanneer hy dezelfde zaak op onderscheidene wyzen en verschillend ingekleed aan zyne leerlingen voorstelt. En waarom zou een Dichter zich dan van dat zelfde voordeel, ten opzichte van zyne Lezers, niet mogen bedienen?</hi></p>
+<p>‘<hi rend="i">Maar het</hi> <hi rend="sc">eeuwfeest</hi>, <hi rend="i">zulk een ernstig en zedelyk stuk, in het Lazarushuis!....’</hi></p>
+<p><hi rend="i">En waarom toch niet? - Kwam de negentiende eeuw niet zoo wel voor dwazen als wyzen te voorschyn; of hebben
+<pb n="VI"/>de eersten er minder belang by? Was het ook niet meer een vroome wensch, dan een dadelyk geloof, toen ik</hi> <hi rend="sc">de menschheid</hi>, <hi rend="i">op den raad van</hi> <hi rend="sc">den priester des tyds</hi>, <hi rend="i">aan de hand der</hi> <hi rend="sc">rede</hi>, <hi rend="i">dien wysgeerigen berg deed opklouteren, dien zoo vele menschen nog als een' leêlyken</hi> staindenweg <hi rend="i">beschouwen; en is het ook niet waar, dat de</hi><hi rend="sc">jorisvaar</hi> <hi rend="i">van</hi> Europa <hi rend="i">het Lazarushuis weder in gereedheid laat brengen, om er de Menschheid, zoo al niet voor eene geheele eeuw, ten minste voor een</hi> decennium, <hi rend="i">te inkwartieren? Ik durf op alle deze vragen geen</hi> neen <hi rend="i">antwoorden. Van deze zyde beschouwd, kon het niet anders, of de</hi> Critische <hi rend="i">Wysgeerte moest er zelf, al lachende en met een burlesk kleedjen, in voorkomen, zich verwonderende over hare vroegtydige geboorte, in een tydvak waarin het er, aan zoo vele kanten, nog zoo</hi> oncritiesch <hi rend="i">uitziet</hi>.</p>
+<lg type="poem">
+<l>- - - Ridendo dicere verum,</l>
+<l>Quis vetat? - -</l>
+</lg>
+<p><hi rend="i">Voor 't overige acht ik het niet noodig, tot opheldering van dit stukjen, hier meer by te voegen. De loop van het Eeuwfeest is, gelyk men zien kan, in deze</hi> Parodie <hi rend="i">dezelfde gebleven; alleen is er een klein byvoegzel achter de vierde afdeeling gekomen. De nieuwe titel, namelyk</hi>, <hi rend="sc">de menschheid in 't lazarushuis</hi>, <hi rend="i">gaf my, tot het nemen van deze vryheid, aanleiding</hi>.</p>
+<cf>
+<pb n="VII"/>
+<q rend="bq">Geen exemplaren zullen voor echt gehouden worden, dan die door den <hi rend="i">Secretaris</hi> van den <hi rend="i">Stads Schouwburg</hi> onderteekend zyn.</q>
+<p><figure><p><xptr to="kink001mens01ill0002.gif"/></p>
+</figure></p>
+</cf>
+</div>
+<div type="chapter">
+<pb n="VIII"/>
+<head rend="h3">Sprekende en zingende vertooners.</head>
+<list>
+<item><hi rend="sc">de menschheid</hi>.</item>
+<item><hi rend="sc">de rede</hi>.</item>
+<item><hi rend="sc">de deugd</hi>.</item>
+<item><hi rend="sc">de ondeugd</hi>.</item>
+<item><hi rend="sc">de verbeelding</hi>.</item>
+<item><hi rend="sc">de geschiedenis</hi>.</item>
+<item><hi rend="sc">het geheugen</hi>.</item>
+<item><hi rend="sc">de genius van de agttiende eeuw</hi>.</item>
+<item><hi rend="sc">de priester van den tyd</hi>.</item>
+<item><hi rend="sc">eenige jongelingen</hi> <hi rend="i">met Pruikenbollen</hi>.</item>
+<item><hi rend="sc">jorisvaar</hi>.</item>
+<item><hi rend="sc">een menigte gekken</hi> <hi rend="i">uit het Lazarushuis</hi>.</item>
+<item><hi rend="sc">apollo</hi>.</item>
+<item><hi rend="sc">drie genietjens</hi>, <hi rend="i">te weten</hi>, <hi rend="sc">de eigenliefde, de roemzucht</hi> <hi rend="i">en</hi> <hi rend="sc">de naiever</hi>.</item>
+</list>
+<div type="section">
+<head rend="h4">Stemmen.</head>
+<list>
+<item><hi rend="sc">een stem</hi> <hi rend="i">uit den Afgrond</hi>.</item>
+<item><hi rend="sc">een stem</hi> <hi rend="i">uit de Hoogte</hi>.</item>
+<item><hi rend="sc">de hoop</hi> <hi rend="i">en</hi> <hi rend="sc">de vrees</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Zwygende vertooners.</head>
+<list>
+<item><hi rend="sc">de driften</hi> <hi rend="i">van 't menschlyk Hart, voortgeleid door</hi> <hi rend="sc">de geestdrift</hi>.</item>
+<item><hi rend="sc">de negentiende eeuw</hi>, <hi rend="i">een eerstgeboren Kind</hi>.</item>
+<item><hi rend="sc">de vier schoone kunsten</hi>.</item>
+<item><hi rend="sc">de schoonheid</hi>, <hi rend="i">eene Negerin</hi>.</item>
+</list>
+</div>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">De menschheid in 't Lazarushuis.
+<lb/>
+<hi rend="i">Zinnebeeldige voorstelling</hi>.</head>
+<head rend="h3"><hi rend="i">Eerste afdeeling</hi>.</head>
+<stage><hi rend="i">Het tooneel is eene plaats in de nabyheid van 't Lazarushuis. Hier en daar ziet men eenige stukken hout en steen, oude overblyfzels van gebouwen voorstellende. Op den voorgrond ziet men een klein huisjen. Het is nacht. Men hoort van tyd tot tyd zware donderstagen. Eenige personaadjen, de dristen van 't menschlyk hart verbeeldende, komen, in eene zeer woeste houding, ter linker zyde van het tooneel, op en gaan ter rechter af. Achter dezelven volgt de Krygsgod, in een wagentjen, door twee bokjens voortgetrokken, gevolgd door eenige vrouwen</hi>, <hi rend="sc">de wanhoop</hi> <hi rend="i">verbeeldende. Kort daarna komt</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">van de tegenovergestelde zyde, gedurig achterwaards ziende, op. Zy wil zich in 't huisjen verbergen, doch vliegt verschrikt te rugg', op 't zien van</hi> <hi rend="sc">de geestdrift</hi>, <hi rend="i">die er zich in verscholen heeft en met hare toorts</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">voor de oogen</hi>
+<pb n="2"/><hi rend="i">zwaait, die daarop, op eene hoogte, die daarby geplaatst is, nedervalt; terwyl</hi> <hi rend="sc">de geestdrift</hi> <hi rend="i">den weg instaat, langs welken de driften vertrokken zyn. Gedurende dit alles speelt het orchest het</hi> <hi rend="sc">air</hi> <hi rend="i">van de Carmagnolen</hi>.</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de menschheid</hi>, <hi rend="i">alleen</hi>.</l>
+<l rend="; 1tab"><hi rend="b">W</hi>aar of ik loop of niet, dit naar en mal gespuis</l>
+<l rend="; 1tab">Vervolgt my overal, zelfs by dit laz'rushuis.</l>
+<l>'t Is afgesproken werk: ze doen 't er om. Wat hamer;</l>
+<l>'t Janhagel volgt my na, tot op de beste kamer!</l>
+<l rend="; 1tab">Ook daar, helaas, ook daar blyft my geen schuilplaats meer,</l>
+<l rend="; 1tab">Daar, in dat naar verblyf,waar 'k niets dan rust begeer!</l>
+<l><stage>(<hi rend="i">Opstaande</hi>.)</stage></l>
+<l>Zoo eindigt dan deze eeuw! - Haar voorste deel was vrolyk:</l>
+<l>'t Beloofde veel; maar ach, haar achterste was olyk.</l>
+<l rend="; 1tab">Ik had het nooit gedacht: het was zoo'n mooi verschiet!</l>
+<l>'t Is of men 't altyd eerst van achteren moet merken.</l>
+<l>Maar waarom volgde ik ook dien jongen, met zyn vlerken,</l>
+<l rend="; 1tab">Die my ellendig op de blaâren zitten liet? -</l>
+<l><stage>(<hi rend="i">Terwyl</hi> <hi rend="sc">de genius</hi> <hi rend="i">van de agttiende eeuw met een blaker in zyn hand, in een turfmand afgelaten wordt, vervolgt</hi> <hi rend="sc">de menschheid</hi>.)</stage></l>
+<l>Maar welk een licht, wie komt me in 't donker hier verrassen?</l>
+<l><stage>(<hi rend="i">Tegen</hi> <hi rend="sc">den genius</hi>, <hi rend="i">die haar nadert en dien zy van zich afstoot</hi>.)</stage></l>
+<l>Neen, 'k laat me nu niet weêr... Daar hoop ik op te passen.</l>
+<pb n="3"/>
+<l rend="; 1tab">Gy doet my, by de kaars, uw' voddenboêl bezien.</l>
+<l rend="; 1tab">Voort! zeg ik; foei gy moest u schamen voor de liên!</l>
+<l rend="speaker"><hi rend="sc">de genius</hi>.</l>
+<l>Gy hebt geen ongelyk: (ik moet de waarheid zeggen)</l>
+<l>Dewyl ik het met u gemeen heb laten leggen;</l>
+<l rend="; 1tab">Maar 't is myn schuld niet. Kyk, 't is alles lotery!</l>
+<l rend="; 1tab">Gy kreegt een <hi rend="i">niet</hi>, en zelfs geen <hi rend="i">premie</hi> was er by.</l>
+<l>Maar gy zyt boven kans en lotery verheven:</l>
+<l>'t Hangt van u af, u-zelf het hoogste lot te geven.</l>
+<l rend="; 1tab">'t Is waar, het volkjen, dat gy aanstonds hebt gezien,</l>
+<l rend="; 1tab">Is nog de baas, en speelt nog lang den beest misschien;</l>
+<l>Maar houw je groot; schoon 'k hen geen mores meer kan leeren;</l>
+<l>(Want 'k heb myn' tyd gehad, ik slacht de suikerpeeren)</l>
+<l rend="; 1tab">Maar...</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 2tab">Houw je bakhuis, vent! loop met je blaker heen,</l>
+<l rend="; 1tab">Brandstichter! Hoor, ik vind jou prulëeuw heel gemeen.</l>
+<l>Met rooije letters (ja je moogt er wel op letten)</l>
+<l>Zal ik haar in den krant en nieuwpost laten zetten.</l>
+<l rend="speaker"><hi rend="sc">de genius</hi>.</l>
+<l rend="; 1tab">Nu zal 'k je krygen! Kan ik 't helpen, dat de droes</l>
+<l rend="; 1tab">Uit spyt het spul bederft, en dat hy my goeds moeds</l>
+<l>In alles naäapt; en, expres om my te zarren,</l>
+<l>Het kluwen, dat ik dacht te ontwinden, komt verwarren?</l>
+<l rend="; 1tab">'t Is alles, door die spin vergistigd, naar ik zie.</l>
+<l rend="; 1tab">De drommel maakte van de deugd een parodie;</l>
+<pb n="4"/>
+<l>Maar wacht! -</l>
+<l><stage><hi rend="i">Na een' zwaren donderslag en en akelig geschreeuw, zegt</hi></stage></l>
+<l rend="speaker"><hi rend="sc">een stem</hi>, <hi rend="i">die verbeeld wordt uit den afgrond te komen:</hi></l>
+<l rend="; 2tab">Wie waagt het den gebraden haan te spelen?</l>
+<l>Ik hoor hier t'huis, en doe wat 'k wil. Kant 't jou wat scheelen.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 1tab">Daar hebt ge 't al! Ik heb hem duidelyk verstaan.</l>
+<l><stage>(<hi rend="i">Zy werpt zich in zyne armen</hi>.)</stage></l>
+<l rend="speaker"><hi rend="sc">de genius</hi>.</l>
+<l rend="; 1tab">Kom, goede sukkel van een menschheid, laat ons gaan!</l>
+<l>Ik zie het al; het is de rookwolk van de dwaling.</l>
+<l>Ga: anders brengen ze u nog leêlyk in de maling.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 1tab">Och, voel, hoe kraakt de grond!</l>
+<l rend="speaker"><hi rend="sc">de genius</hi>.</l>
+<l rend="; 3tab">Ja, 'k merk het wel; 't is mis.</l>
+<l rend="; 1tab">Doch let maar op myn kaarsj' in deze duisternis,</l>
+<l>En volg me schielyk: want daar komen ze al die guiten!</l>
+<l>Maar 't licht brandt in de pyp: ik zal het eerst eens snuiten.</l>
+<l><stage>(<hi rend="i">Hy begeeft zich in de mand, die langzaam opgetrokken wordt, en zegt vervolgends, met zeer veel deftigheid</hi>.)</stage></l>
+<l rend="; 1tab">Pas op je zakken, leg de handen op je tas:</l>
+<l rend="; 1tab">De weg is niet heel pluis. Voor uit! Maar hou je kras!</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>, <hi rend="i">alleen</hi>.</l>
+<l>Gy hebt het in die mand heel makkelyk voor 't zeggen.</l>
+<pb n="5"/>
+<l>Die wentlende eeuwenweg is moeilyk af te leggen.</l>
+<l><stage>(<hi rend="i">Bevreesd rondziende</hi>.)</stage></l>
+<l rend="; 1tab">'t Is zoo gedurig van het walletj' in de floot</l>
+<l rend="; 1tab">En van de floot weer op den wal, tot aan je dood!</l>
+<l>'t Pad, dat ik loop, is niet veel beter, by myn zoolen!</l>
+<l>Als van een paard, dat blind is, in een gruttersmolen.</l>
+<l><stage>(<hi rend="i">Na zich een oogenblik bedacht te hebben</hi>.)</stage></l>
+<l rend="; 1tab">Maar, wat is nu het best? Zal 'k blyven, of zal 'k gaan?</l>
+<l rend="; 1tab">Ik weet het waarlyk niet.</l>
+<l rend="speaker"><hi rend="sc">een stem</hi>, <hi rend="i">welke, aan de zyde van de mand, uit de hoogte voortkomt</hi>.</l>
+<l rend="; 2tab">Kom, scheerje voort!</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 3tab">Welaan!</l>
+</lg>
+<stage><hi rend="i">Zy vertrekt. De driften komen weder op het tooneel, voeren, onder 't zelfde muziek, een' kleinen dans uit; en vertrekken eindelyk, na het tooneel, voor de volgende afdeeling, in gereedheid gebracht te hebben, op dezelfdewys, als zy te voren opgekomen zyn, gevolgd van den wagen van den Krygsgod</hi>.
+<lb/>
+<hi rend="i">Einde van de eerste Afdeeling</hi>.</stage>
+</div>
+<div type="act">
+<pb n="6"/>
+<head rend="h3"><hi rend="i">Tweede afdeeling</hi>.</head>
+<stage><hi rend="i">In 't verschiet ziet men een bouwvallig kapelletjen, op den voorgrond een altaar, waarop gelezen wordt:</hi> ‘<hi rend="sc">aan den tyd</hi>,’ <hi rend="i">ter rechter zyde een ladder, die tegen een hoogte rust</hi>.
+<lb/>
+<hi rend="i">Eenige jongelingen komen met pruikenbollen, waarop verschillende soorten van pruiken, op het tooneel, met hoeden en andere hoofdbekleedzels, eenigzins overëenkomende met de kleeding der Priesters, die in</hi> <hi rend="sc">het eeuwfeest</hi> <hi rend="i">voorkomen. Zy komen, op, onder het spelen van</hi> ‘'t Is nacht, de wacht komt hier voorby.’</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">een</hi> <hi rend="i">uit de</hi> <hi rend="sc">jongelingen</hi>.</l>
+<l>ô <hi rend="b">T</hi>yd! waaraan wy de eeuwen rygen,</l>
+<l rend="; 1tab">Als kleine paarlen aan een snoer,</l>
+<l>Haast zult gy weêr een kleintjen krygen,</l>
+<l rend="; 1tab">Maar uit een schulp van paarlemoer.</l>
+<l>Haast zal het agttiental van eeuwen,</l>
+<l rend="; 1tab">De negentiende doen ontstaan.</l>
+<l>Komt, laat ons daarom eerst wat schreeuwen,</l>
+<l rend="; 1tab">En dan weer zoet naar huis toe gaan!</l>
+<l><stage><hi rend="i">BEURTZANGEN</hi>. <hi rend="i">Op de Wys van</hi> Dans un verger, Colinette.</stage></l>
+<l rend="speaker"><hi rend="sc">eerste jongeling</hi>. <hi rend="i">Deze heeft eenig speelgoed in de handen</hi>.</l>
+<l rend="; 2tab">In een' winkel, vol met pruiken,</l>
+<l rend="; 3tab">Zagen wy die kapzels staan,</l>
+<pb n="7"/>
+<l>Die de menschen nog gebruiken,</l>
+<l rend="; 1tab">Om meê naar de kerk te gaan.</l>
+<l>Lieve tyd! och, neem die pruiken</l>
+<l rend="; 1tab">Voor een kermisgiftjen aan.</l>
+<l rend="speaker"><hi rend="sc">allen</hi>.</l>
+<l>Neem die ouderwetsche pruiken</l>
+<l rend="; 1tab">Voor een kermisgiftjen aan!</l>
+<l rend="speaker"><hi rend="sc">tweede jongeling</hi>, <hi rend="i">die een' leiband in zyn hand houdt</hi>.</l>
+<l>Op deze aarde is niets bestendig:</l>
+<l rend="; 1tab">Alles komt; en gaat weêr heen,</l>
+<l>Hoe onhandig of behendig,</l>
+<l rend="; 1tab">Alles heeft dit lot gemeen;</l>
+<l>En schoon braafheid blyft bestendig,</l>
+<l rend="; 1tab">Gaan haar kapzels echter heen.</l>
+<l rend="speaker"><hi rend="sc">allen</hi>.</l>
+<l>En schoon braafheid enz.</l>
+<l rend="speaker"><hi rend="sc">derde jongeling</hi>, <hi rend="i">met een' valhoed op</hi>.</l>
+<l>Braafheid heeft geen pruiken noodig,</l>
+<l rend="; 1tab">En draagt best haar eigen hair;</l>
+<l>Zelfs een toertj' is overbodig,</l>
+<l rend="; 1tab">Als men 't duidlyk inziet; maar...</l>
+<l>Maar een kaalhoofd heeft ze noodig:</l>
+<l rend="; 1tab">Anders loopt hy groot gevaar.</l>
+<l rend="speaker"><hi rend="sc">allen</hi>.</l>
+<l>Maar een kaalkop enz.</l>
+<l rend="speaker"><hi rend="sc">algemeen choor</hi>, <hi rend="i">eenigzins schielyker</hi>.</l>
+<l>In een' winkel, vol met pruiken, enz.</l>
+</lg>
+<stage><hi rend="i">Onder dit laatste choor, brengt ieder zyn pruik op het altaar, en gaat vervolgends weder op zyn vorige plaats staan</hi>.</stage>
+<pb n="8"/>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de priester van den tyd</hi> <hi rend="i">komt uit het Kapelletjen en geleidt</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">by het altaar</hi>.</l>
+<l rend="speaker"><hi rend="sc">de priester van den tyd</hi> <hi rend="i">tegen</hi> <hi rend="sc">de menschheid</hi>.</l>
+<l>Kom, kom! hoe staat ge zoo, als of ge uw zondagsch oortjen</l>
+<l>Versnoept had; houd u wel en spreek ook eens een woordjen!</l>
+<l rend="; 1tab">Hoe is het metje? Hebje tandpyn? Arme meid!</l>
+<l rend="; 1tab">Gy ziet in't rond en hoort geen woord van'tgeen men zeid:</l>
+<l>'t Is of ik grieksch spreek! Pak je krachten by elkander;</l>
+<l>Je lykt wel simpel en men houdt u voor zoo schrander.</l>
+<l rend="; 1tab">Gy doet aan 't <hi rend="sc">eeuwfeest</hi>, naar 't my toeschynt, weinig eer.</l>
+<l rend="; 1tab">Hoe kykt ge zoo? Kent gy die klanten dan niet meer?</l>
+<l rend="; 2tab">Hoe dikwils hebbenze op hunne armen</l>
+<l rend="; 3tab">U, toen gy een klein meisjen waart,</l>
+<l rend="; 2tab">(My dunkt ik zie het nog) gedragen</l>
+<l rend="; 3tab">En voor de hette en koû bewaard?</l>
+<l rend="; 1tab">Zie daar uw' leîband, daar uw' valhoed';</l>
+<l rend="; 3tab">Die draagt uw speelgoed in zyn hand;</l>
+<l rend="; 2tab">En daar, daar liggen hunne pruiken:</l>
+<l rend="; 3tab">Dat heele boêltjen wordt verbrand.</l>
+<l><stage><hi rend="i">(Met vuur.)</hi></stage></l>
+<l rend="; 1tab">Maar foei! gy zyt nu groot: je moet niet huilen: want</l>
+<l rend="; 2tab">'t Is waar, de pruiken gaan en komen;</l>
+<l rend="; 3tab">Maar eigen hair houdt altyd stand.</l>
+<pb n="9"/>
+<l rend="speaker"><hi rend="sc">choor</hi> <hi rend="i">van</hi> <hi rend="sc">jongelingen</hi>.</l>
+<l rend="; 2tab">Op deze aarde is niets bestendig,</l>
+<l rend="; 3tab">Alles komt maar gaat ook heen,</l>
+<l rend="; 2tab">Al is 't nog zoo mooi, uitwendig,</l>
+<l rend="; 3tab">En tot nut van 't algemeen;</l>
+<l rend="; 2tab">Maar die pruiken, hoe ellendig,</l>
+<l rend="; 3tab">Gaan toch niet heel maklyk heen.</l>
+<l><stage><hi rend="i">Onder dit choor worden de pruiken met eer' zwavelstok aangestoken, waar naar de jongelingen vertrekken. Vervolgends zegt</hi></stage></l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">den priester van den tyd</hi>.</l>
+<l rend="; 1tab">Nu hebt ge 't mooi gemaakt; daar gaan zy één voor één,</l>
+<l rend="; 1tab">En laten my hier met zoo'n smeerlap heel alleen.</l>
+<l>Gy lykt den dood wel, met dat uurglas in je handen.</l>
+<l><stage>(<hi rend="i">Op zyn baard wyzende</hi>.)</stage></l>
+<l>Zeg, waarom liet gy toch, dien sik niet meê verbranden?</l>
+<l rend="; 1tab">Wie zal my nu, wanneer me iets hindert, helpen?</l>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l rend="; 4tab">Jy!</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 1tab">Ik?... 't Scheeltje waarlyk in den bol; geloof dat vry.</l>
+<l>Ach, mogt ik met myn bel en rateltjen nog spelen!</l>
+<l>Dan zou de volgende eeuw my niet zoo zeer vervelen,</l>
+<l rend="; 1tab">Als deze my, vooral op 't einde, heeft gedaan.</l>
+<l><stage>(<hi rend="i">Overal naar een zitplaats rondziende</hi>.)</stage></l>
+<l rend="; 1tab">Maar ik ga zitten: want ik kan niet langer staan.</l>
+<pb n="10"/>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l>Ik leerde u dan vergeefs, op uwe lotgevallen,</l>
+<l rend="; 1tab">Een leerzaam oog slaan in dit Heiligdom?...</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>. <hi rend="i">Zy gaat op den grond zitten</hi>.</l>
+<l rend="; 8tab">Wie? Ik?...</l>
+<l>ô Neen, dat hebt ge mis: 'k herinner my die allen.</l>
+<l>Maar noem me een eenige, waarby 'k zoo diep gevallen,</l>
+<l rend="; 1tab">Zoo diep vernederd ben, als op dit oogenblik.</l>
+<l>Helaas, zy lieten my niet eens een' stoel, die schurken.</l>
+<l>Daar zit, op 't lest van de eeuw, de Menschheid op haar hurken!</l>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l rend="; 1tab">Ach, dat er iemand kwam, die haar weêr op deed staan!</l>
+<l rend="; 1tab">De Rede komt. -</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 5tab">Zy kan, voor myn part, wel weêr gaan.</l>
+<l><stage>(<hi rend="i">Zy valt achter over</hi>.)</stage></l>
+<l rend="; 2tab"><hi rend="i">Terwyl</hi> <hi rend="sc">de rede</hi> <hi rend="i">naar beneden komt, zingt</hi></l>
+<l rend="speaker"><hi rend="sc">de priester</hi> <hi rend="i">op de wys van</hi></l>
+<l rend="; 4tab">Climeen, waar heen, enz.</l>
+<l rend="; 7tab">1.</l>
+<l rend="; 6tab">Kom gaauw! Ze is flaauw,</l>
+<l rend="; 3tab">Ze is niet wel by haar zinnen.</l>
+<l rend="; 3tab">Wat zal ik nu beginnen?</l>
+<l rend="; 6tab">Ze zit in 't naauw.</l>
+<l rend="; 4tab">Kom toch, lieve Rede:</l>
+<l rend="; 5tab">'t Is by haar niet pluis.</l>
+<l rend="; 4tab">Kom, en neem haar mede</l>
+<l rend="; 5tab">In het gekkenhuis.</l>
+<pb n="11"/>
+<l rend="; 8tab">2.</l>
+<l rend="; 7tab">De tyd verslyt</l>
+<l rend="; 4tab">De harssens en de kleêren.</l>
+<l rend="; 4tab">Och, kom haar toch eens leeren,</l>
+<l rend="; 7tab">Dat gy het zyt,</l>
+<l rend="; 5tab">Die de wet zult geven,</l>
+<l rend="; 6tab">Met zeer veel verstand,</l>
+<l rend="; 5tab">Aan de laaste neven,</l>
+<l rend="; 6tab">Naar de leer van Kant!</l>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l><stage><hi rend="i">RECITATIEF</hi>.</stage></l>
+<l>Ja, 'k zal, wanneer gy wilt, met twaalf <hi rend="i">categorien</hi>,</l>
+<l rend="; 1tab">En met twee <hi rend="i">formen</hi> van uw zuivre zinlykheid,</l>
+<l>Dwars door het doolhof van de vier <hi rend="i">antinomien</hi>,</l>
+<l rend="; 1tab">U brengen, waar men u nog nimmer heeft geleid.</l>
+<l>Gy moet vooral u aan een zeekre taal gewennen,</l>
+<l rend="; 1tab">Die Jan en allen man, het geen hy doen moet, toont.</l>
+<l>Die <hi rend="i">Cathegorische Imp'ratief</hi> zal 'k u doen kennen:</l>
+<l rend="; 1tab">Zoo heet de Jorisvaar, die binnen in u woont.</l>
+<l><stage><hi rend="i">ARIA</hi>.</stage></l>
+<l><stage><hi rend="i">Op de wys van</hi> Hier van daan naar moeder Mallet!</stage></l>
+<l rend="; 4tab">Hier van daan naar boven toe!</l>
+<l rend="; 3tab">Kanje wat klimmen? Kanje wat klimmen?</l>
+<l rend="; 4tab">Hier van daan naar boven toe!</l>
+<l rend="; 2tab">Kanje wat klimmen, of wordtje gaauw moê?</l>
+<l rend="; 4tab">Maar hoe zit je zoo verzuft?</l>
+<pb n="12"/>
+<l rend="; 2tab">Benje bevreesd voor spooken of schimmen?</l>
+<l rend="; 4tab">Voor spooken of schiramen? (<hi rend="i">bis</hi>)</l>
+<l rend="; 2tab">Ik ben (moetje weten) <hi rend="i">het reine Vernuft</hi>.</l>
+<l><stage>(<hi rend="i">Hier staat</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">op</hi>.)</stage></l>
+<l><stage><hi rend="i">RECITATIEF</hi>.</stage></l>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l>Zie zoo! dat lykt er naar: de zaak is al beklonken.</l>
+<l>Je hebt, uit hartzeer, maar een weinigjen gedronken;</l>
+<l rend="; 1tab">Dat is het al. Je bent zoo mal niet, als het lykt.</l>
+<l rend="; 1tab">Gy wilt, en dat's genoeg.</l>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l rend="; 6tab">Kom schielyk: zy bezwykt.</l>
+<l>Vervul, kan 't zyn, de plaats dier ouwerwetsche pruiken,</l>
+<l>Die zy wel noodig heeft, maar niet meer kan gebruiken.</l>
+<l rend="; 1tab">'k Zal niets meer zeggen: want waarom den tyd verspild.</l>
+<l><stage>(<hi rend="i">By 't altaar genaderd zynde, legt hy hunne handen in elkander</hi>.)</stage></l>
+<l rend="; 1tab">Kom, geef elkaâr de hand!</l>
+<l><stage>(<hi rend="i">Ter zyde, tegen</hi> <hi rend="sc">de rede</hi>.)</stage></l>
+<l rend="; 6tab">Ze is over 't paard getild.</l>
+<l><stage><hi rend="i">TRIO</hi>.</stage></l>
+<l><stage><hi rend="i">Wys:</hi> ‘Een brave jager en vreest geen koû.’</stage></l>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l rend="; 3tab">Zy liep wat al te sterk vooruit.</l>
+<l rend="speaker"><hi rend="sc">allen drie</hi>.</l>
+<l rend="; 5tab">En ha, ha!</l>
+<l rend="speaker"><hi rend="sc">de priester</hi>.</l>
+<l rend="; 3tab">En daar meê heeft ze 't spel verbruid.</l>
+<pb n="13"/>
+<l rend="speaker"><hi rend="sc">allen drie</hi>.</l>
+<l rend="; 4tab">En ha, ha!</l>
+<l rend="speaker"><hi rend="sc">de rede</hi> <hi rend="i">en</hi> <hi rend="sc">de menschheid</hi>.</l>
+<l>Maar laat {my} nog een honderd jaar,</l>
+    <l>Maar laat {haar} nog een honderd jaar,</l>
+<l>In 't hospitaal by Jorisvaar.</l>
+<l rend="speaker"><hi rend="sc">allen drie</hi>.</l>
+<l rend="; 2tab">Dan is, dan is zy klaar!</l>
+</lg>
+<stage><hi rend="i">Terwyl</hi> <hi rend="sc">de rede</hi> <hi rend="i">en</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">vertrekken</hi>, <hi rend="i">gaat</hi> <hi rend="sc">de priester van den tyd</hi> <hi rend="i">in den tempel. Drie</hi> <hi rend="sc">genietjens</hi>, <hi rend="i">te weten</hi>, <hi rend="sc">de eigenliefde</hi> <hi rend="i">met een spiegeltjen</hi>, <hi rend="sc">de roemzucht</hi> <hi rend="i">met een trommeltjen en</hi> <hi rend="sc">de naïever</hi> <hi rend="i">met een mandjen met lekkers, komen al zingende op.</hi></stage>
+<stage><hi rend="i">TRIO.</hi></stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">te samen</hi>.</l>
+<l rend="; 2tab">Wy zullen haar speelgoed,</l>
+<l rend="; 2tab">In overvloed, geven;</l>
+<l rend="; 1tab">En haar, in het laz'rushuis,</l>
+<l rend="; 3tab">Vrolyk doen leven!</l>
+<l rend="speaker"><hi rend="sc">de roemzucht</hi>.</l>
+<l rend="; 2tab">Ik zal haar trompetjens</l>
+<l rend="; 2tab">En trommeltjens maken.</l>
+<l rend="speaker"><hi rend="sc">de naïever</hi>.</l>
+<l rend="; 4tab">Met printjens</l>
+<l rend="; 4tab">En lintjens,</l>
+<l rend="; 2tab">En andere zaken.</l>
+<pb n="14"/>
+<l rend="speaker"><hi rend="sc">de eigenliefde</hi>.</l>
+<l rend="; 1tab">En vullen</l>
+<l rend="; 1tab">Met prullen</l>
+<l rend="; 2tab">haar hand,</l>
+<l>Zoo komt zy misschien nog weêr by haar verstand.</l>
+</lg>
+<stage><hi rend="i">Einde van de tweede Afdeeling.</hi></stage>
+</div>
+<div type="act">
+<pb n="15"/>
+<head rend="h3"><hi rend="i">Derde afdeeling.</hi></head>
+<stage><hi rend="i">Het tooneel is het plein voor 't Lazarushuis. Twee gekken komen</hi>, <hi rend="i">met een driekoningenstar</hi>, <hi rend="i">uit het huis</hi>, <hi rend="i">waarop een gedeelte van eer' cirkel geschilderd is</hi>, <hi rend="i">even als in de derde afdeeling van het Eeuwfeest. Het agttien getal is op denzelven zichtbaar. Onder het zingen van een menigte gekken</hi>, <hi rend="i">die de star komen bekyken</hi>, <hi rend="i">doen de twee eersten haar draaien.</hi></stage>
+<stage><hi rend="i">CHOOR</hi>.</stage>
+<stage><hi rend="i">Wyze:</hi> ‘Faut attendre avec patience.’</stage>
+<lg type="poem">
+<l><hi rend="b">D</hi>e agtriende eeuw zal straks verdwynen;</l>
+<l rend="; 1tab">En de eeuw, die volgt, is een mooie eeuw,</l>
+<l>Gy zult haar aanstonds zien verdwynen,</l>
+<l rend="; 1tab">Met veel misbaar en veel geschreeuw.</l>
+<l rend="speaker"><hi rend="sc">een stem</hi>.</l>
+<l>Mag ik myne oogen wel gelooven?</l>
+<l rend="; 1tab">Komt daar de ronsebons niet aan?</l>
+<l rend="speaker"><hi rend="sc">choor</hi>.</l>
+<l>Haast zyn er honderd jaar geklooven?</l>
+<l rend="; 1tab">Dan zal het toch wel beter gaan. (<hi rend="i">bis.</hi>)</l>
+</lg>
+<stage><hi rend="i">Op 't einde van dat choor komt</hi> <hi rend="sc">de verbeelding</hi>, <hi rend="i">met een ronsebonskas</hi>, <hi rend="i">op het tooneel: aan haar rechter zyde staat</hi> <hi rend="sc">het geheugen</hi>, <hi rend="i">met een' tambourin</hi>, <hi rend="i">en</hi>, <hi rend="i">aan de linker</hi>, <hi rend="sc">de geschiedenis</hi>, <hi rend="i">met een draaiorgel; terwyl de menigte zingt:</hi></stage>
+<pb n="16"/>
+<lg type="poem">
+<l rend="; 2tab">Zie, daar heb je de Historie,</l>
+<l rend="; 3tab">Falderalderire, (<hi rend="i">bis.</hi>)</l>
+<l rend="; 2tab">En aan dien kant de Memorie.</l>
+<l rend="; 3tab">Falderaldera.</l>
+<l rend="speaker"><hi rend="sc">de verbeelding</hi> <hi rend="i">tegen de menigte.</hi></l>
+<l rend="; 1tab">Wie wil nog eens van 't jaar al de agttien eeuwen zien</l>
+<l rend="; 1tab">Zoo als ze volgen op elkaêr? Kom, goeje liên?</l>
+<l>'t Is waarlyk fraai, curieus en wel de moeite waardig;</l>
+<l>En, voor den geen, die 't nooit gezien heeft, drommels aartig.</l>
+<l rend="speaker"><hi rend="sc">de verbeelding</hi>, <hi rend="i">terwyl de agttien eeuwen boven in de kas vertoond worden</hi>, <hi rend="i">in diezelfde orde</hi>, <hi rend="i">waarin zy in 't Eeuwfeest voorkomen.</hi></l>
+<l rend="; 1tab">Daar hebje de eerste drie, met witte jurken aan!</l>
+<l rend="; 1tab">Daar is nog niets meer aan te zien, dan dat ze gaan!</l>
+<l>&nbsp;</l>
+<l>Maar kyk! daar zie je ze met scepters en met kroonen.</l>
+<l>Die komen zich met veel meer staatsie te vertoonen.</l>
+<l rend="; 1tab">De zesde houdt een <hi rend="i">corpus juris</hi> in haar hand.</l>
+<l rend="; 1tab">Die worden nu door heel de waereld voortgeplant.</l>
+<l>&nbsp;</l>
+<l>Maar ja! - Daar komen ze die 't alles weêr bederven.</l>
+<l>Ik vrees: dit Noordsche volk zal 't jong plantzoen doen sterven;</l>
+<l rend="; 1tab">En 't geen zy ongemoeid nog hebben laten staan,</l>
+<l rend="; 1tab">Daar valt de groote Turk met zyn' Profeet op aan.</l>
+<l>&nbsp;</l>
+<l>Doch, dat is niets: het zal zich alles wel weêr schikken.</l>
+<l>Dit vierde drietal zal de Turken doen verschrikken;</l>
+<l rend="; 1tab">Maar komen leêlyk met de kous op 't hoofd, weêrom.</l>
+<l rend="; 1tab">Ja, laatze maar begaan: die Turken zyn niet dom.</l>
+<pb n="17"/>
+<l>Kyk maar recht uit! Daar krygt ge nu geblindoekte eeuwen.</l>
+<l>Dat is kwaadäartig goed: ze zien er uit als leeuwen.</l>
+<l><stage>(<hi rend="i">Naar de kas toetredende en de dertiende, veertiende en vyftiende eeuwen aansprekende</hi>.)</stage></l>
+<l rend="; 1tab">Zegt eens - wat doe je toch met fakkels? Geef ze hier!</l>
+<l rend="; 1tab">'t Is immers malligheid? Jeluy ziet toch geen zier.</l>
+<l><stage>(<hi rend="i">Tegen de menigte</hi>.)</stage></l>
+<l>Kykt voor je menschen! 't Is waarachtig om te beven.</l>
+<l>Och, waren die maar in 't voorledene gebleven!</l>
+<l rend="; 1tab">Zy houden ieder in haar linkerhand een' dolk.</l>
+<l rend="; 1tab">Zoo waar! hoe later op den dag, hoe schooner volk!</l>
+<l>&nbsp;</l>
+<l>Daar zyn de laaste drie, met <hi rend="i">incroiable</hi> kleêren,</l>
+<l>En sterren op het hoofd. Nu zal de kans verkeeren.</l>
+<l rend="; 1tab">Dat gaat, zoo regelregt, naar de verlichting toe!</l>
+<l rend="; 1tab">De laaste meent het, met haar mooie kiereboe.</l>
+<l><stage>(<hi rend="i">Tegen</hi> <hi rend="sc">het geheugen</hi>.)</stage></l>
+<l>Maar hoe? 't Is of gy niet veel zin hebt in de leste.</l>
+<l>Gy houdt, naar 'k zien kan, haar in lang niet voor de beste.</l>
+<l rend="; 1tab">Hoe zet gy, by haar komst, zoo'n drommelsch scheef gezicht?</l>
+<l rend="speaker"><hi rend="sc">het geheugen</hi>.</l>
+<l>De beste? hum! Dan moet de slechtste niet veel deugen.</l>
+<l>De beste! - Neen, dat is een ditendatsche leugen!</l>
+<l rend="; 1tab">Ik kan het vrouwmensch wel; zy is brutaal en ligt;</l>
+<l>En daarom laatze zich ook de verlichte noemen.</l>
+<l rend="; 1tab">Ze is tusschen mal en vroed en slaat aan niets geloof;</l>
+<l rend="; 1tab">Ook gaat ze mank, en is aan 't rechter oor wat doof;</l>
+<pb n="18"/>
+<l>En op haar eerlykheid valt waarlyk niet te roemen.</l>
+<l rend="; 1tab">Prys haar, zoo veel gy wilt en kunt! Wat my belangt;</l>
+<l>'k Wensch haar geluk op reis. Ze kan vry op gaan kruiën,</l>
+<l>Die wysneus! Ja, zy heeft de klok wel hooren luiën;</l>
+<l rend="; 1tab">Maar, sla me dood, zy weet niet waar de klepel hangt.</l>
+</lg>
+<stage><hi rend="i">Na dat de agttiende eeuw, die op een' wagen zit, vertrokken is, ziet men boven aan de star het negentien getal. De menigte heft het volgende algemeene choor aan, en het Geheugen gaat met zyn' tambourin onder de menigte om duiten op te halen, waar na</hi> <hi rend="sc">de verbeelding, de geschiedenis</hi> <hi rend="i">en 't</hi> <hi rend="sc">geheugen</hi> <hi rend="i">met de ronsebonskas weder vertrekken.</hi></stage>
+<stage><hi rend="i">CHOOR.</hi></stage>
+<stage><hi rend="i">Wys:</hi> Chantons l'hymen, &amp;c.</stage>
+<lg type="poem">
+<l rend="; 3tab">Kom danssen wy, verheugd en bly!</l>
+<l rend="; 4tab">Wy zingen, dat het klatert,</l>
+<l rend="; 3tab">Op dezen stond, de waereld rond,</l>
+<l rend="; 4tab">En lachen, dat het schatert.</l>
+<l rend="speaker"><hi rend="sc">een stem</hi>.</l>
+<l rend="; 4tab">'t Jaar nul is afgeloopen,</l>
+<l rend="; 5tab">'t Jaar één is ingegaan!</l>
+<l rend="; 2tab">Kom, laten wy loopen, met hoopen:</l>
+<l rend="; 5tab">Dat's al weêr afgedaan!</l>
+<l><stage><hi rend="i">CHOOR.</hi></stage></l>
+<l rend="; 3tab">Kom, danssen wy, verheugd en bly, enz.</l>
+</lg>
+<stage><hi rend="i">De menigte vertrekt en de twee gekken met de star gaan weder in 't lazarushuis. Achter dezelven komen</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">en</hi> <hi rend="sc">de rede</hi> <hi rend="i">of het tooneel, voorgegaan door</hi> <hi rend="sc">de</hi>
+<pb n="19"/><hi rend="sc">drie genietjens</hi>, <hi rend="i">die aan</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">speelgoed en lekkers presenteeren</hi>.</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">de rede,</hi> <hi rend="i">in 't opkomen.</hi></l>
+<l>Ik wil geen woord meer van die malle dingen hooren:</l>
+<l>Veel liever zat ik, voor een strafwacht, op de toren,</l>
+<l rend="; 1tab">Dan op jou hooge duin, waarop men duiz'lig wordt.</l>
+<l rend="; 1tab">Neen, voor die studie is myn leven nog te kort.</l>
+<l>Wel ja! 'k zou goed doen, zonder loon; dat kanje denken!</l>
+<l>Een mensch is toch zoo niet... Och, leg maar niet te wenken!</l>
+<l rend="; 1tab">Ik weet, zou 'k meenen, ook, waar Bart de mostert haalt.</l>
+<l>Neen, 'k vind die jongens, met hun kleine printenboekjens,</l>
+<l>Dat speelgoed en die mand met lekkers en met koekjens</l>
+<l rend="; 1tab">Veel aartiger. - Die werkt, die wil ook zyn betaald! -</l>
+<l>Om jou plesier te doen, zou ik myzelve haten,</l>
+<l>En zeggen: ‘'k Dankje!’ 't Is te mal om van te praten.</l>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l rend="; 1tab">Nu zie ik duidelyk, dat gy 't niet hebt gevat;</l>
+<l rend="; 1tab">Zy moeten u - niet gy hen - loopen achter 't gat.</l>
+<l>Maar daarom magje (mits niet al te lang te toeven)</l>
+<l>By tyd en wyle wel een pruimentaartjen proeven. -</l>
+<l rend="; 1tab">Ik wil maar, dat zy u niet hindren in uw taak.</l>
+<l rend="; 1tab">Zy zyn jou knechts.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 2tab">Loop heen! 't zyn praatjens voor de vaak!</l>
+<l>Myn knechts? Wel ja!</l>
+<pb n="20"/>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l rend="; 4tab">Maar, hoor dan!</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 5tab">Tut, tut, tut, Ariaantjen!</l>
+<l><stage>(<hi rend="i">Zingende.</hi>)</stage></l>
+<l rend="; 2tab">Wie gaat er meê naar de uilenboomen toe?</l>
+<l rend="; 3tab">Jou wacht ik achter 't laantjen.</l>
+<l><stage>(<hi rend="sc">de genietjens</hi>, <hi rend="i">die tot op den voorgrond van het tooneel genaderd zyn</hi>, <hi rend="i">gaan weder te rugg'</hi>; <hi rend="sc">de menschheid</hi> <hi rend="i">wil hen volgen;</hi> <hi rend="sc">de rede</hi> <hi rend="i">weerhoudt haar, doch onder 't zingen wringt zy zich los. Zy wil</hi> <hi rend="sc">de genietjens</hi> <hi rend="i">volgen</hi>, <hi rend="i">doch dezen ontvluchten haar</hi>.)</stage></l>
+<l rend="speaker"><hi rend="sc">de rede</hi> <hi rend="i">tegen</hi> <hi rend="sc">jorisvaar</hi>, <hi rend="i">die zich een oogenblik aan het eerste zyscherm laat zien</hi>.</l>
+<l rend="; 1tab">Het is maar boter aan de galg gesmeerd, myn vrind! -</l>
+<l rend="; 1tab">Ik weet nog maar een kuur, als gy het dienstig vindt. -</l>
+<l>Wy moeten haar de deugd en ondeugd eens doen kyken,</l>
+<l>De laaste in 't mannenpak: want daaruit moet eerst blyken,</l>
+<l rend="; 1tab">Of zy geneeslyk is of niet; maar 'k vrees er voor:</l>
+<l rend="; 1tab">Want aan myn redenen verleent zy geen gehoor.</l>
+<l><stage>(<hi rend="i">Beiden vertrekken</hi>.)</stage></l>
+</lg>
+<stage><hi rend="i">Einde van de derde Afdeeling.</hi></stage>
+</div>
+<div type="act">
+<pb n="21"/>
+<head rend="h3"><hi rend="i">Vierde afdeeling.</hi></head>
+<stage><hi rend="i">Het tooneel verandert met. Alleen wordt er een rustbankjen voor</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">op het tooneel geschooven.</hi></stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">alleen</hi>.</l>
+<l>'k <hi rend="b">B</hi>iyf dan, eeuw in eeuw uit, spyt al myn malle glorie,</l>
+<l>Met <hi rend="i">reden</hi> of met <hi rend="i">drift</hi>, de <hi rend="i">dupe</hi> van d' historie,</l>
+<l rend="; 1tab">'t Kind van de rekening! Nooit tel ik met den waard.</l>
+<l rend="; 1tab">Dan tilt <hi rend="i">de rede</hi> dan <hi rend="i">de drift</hi> my over 't paard.</l>
+<l>En 'k merk niet dat ik, als een naald, word voort gedreven,</l>
+<l>Die aan den zylsteen, die het hardste trekt, blyft kleven:</l>
+<l rend="; 1tab">Dat is toch dom! - 'k Weet van myzelf haast niet met al.</l>
+<l rend="; 1tab">'t Zal my benieuwen, wie me nu weêr foppen zal.</l>
+<l>Vast loert men weêr, om my eens deerlyk te betrappen.</l>
+<l>&nbsp;</l>
+<l>Maar, 'k heb nu toch den tyd; 'k Zal eerst een uiltjen knappen.</l>
+</lg>
+<stage><hi rend="i">Men hoort een zacht muziek van blaasinstrumenten achter de schermen. Twee vrouwen stemmen</hi>, <hi rend="sc">de hoop</hi> en <hi rend="sc">de vrees</hi> <hi rend="i">voorstellende, doen zich vervolgends by dat muziek hooren</hi>, <hi rend="i">'t welk</hi> <hi rend="sc">fortissimo</hi> <hi rend="i">eindigt om</hi> <hi rend="sc">den schrik</hi> <hi rend="i">aan te duiden. Onder het zingen valt</hi> <hi rend="sc">de menschheid</hi>, <hi rend="i">op het rustbankjen</hi>, <hi rend="i">in slaap en schrikt op 't einde wakker.</hi></stage>
+<stage><hi rend="i">DUO</hi>.</stage>
+<stage><hi rend="i">Wys:</hi> Reveillez vous belle endormie.</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de hoop</hi> <hi rend="i">en</hi> <hi rend="sc">de vrees</hi>.</l>
+<l rend="; 2tab">Kom laten wy een deuntjen zingen:</l>
+<l rend="; 3tab">(Want daartoe wordt u tyd vergund)</l>
+<pb n="22"/>
+<l rend="; 2tab">Waardoor ge, in uw bespiegelingen,</l>
+<l rend="; 3tab">Een oogenblikjen droomen kunt.</l>
+<l rend="speaker"><hi rend="sc">de hoop</hi>.</l>
+<l rend="; 3tab">Wy houden u altyd verward.</l>
+<l rend="speaker"><hi rend="sc">de vrees</hi>.</l>
+<l rend="; 3tab">In 't midden van de vreugd en smart.</l>
+<l rend="speaker"><hi rend="sc">te samen</hi>.</l>
+<l rend="; 3tab">Slaap vry: wy waken in uw hart.</l>
+<l rend="; 4tab">2.</l>
+<l rend="; 2tab">Wy doen u naar de toekomst turen,</l>
+<l rend="; 3tab">Als naar een donker slaapvertrek.</l>
+<l rend="; 2tab">Wy jagen, in uw domme kuren,</l>
+<l rend="; 3tab">Zeer dikwils nog de kat van 't spek.</l>
+<l rend="speaker"><hi rend="sc">de hoop</hi>.</l>
+<l rend="; 3tab">Want slaapt gy door my rustig voort.</l>
+<l rend="speaker"><hi rend="sc">de vrees</hi>.</l>
+<l rend="; 3tab">Dan wordt door my uw' slaap gestoord.</l>
+<l rend="speaker"><hi rend="sc">beiden</hi>.</l>
+<l rend="; 3tab">Slaap vry: wy waken vlytig voort.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">met schrik wakker wordende.</hi></l>
+<l>Daar hebje 't weêr! - Ik kan myne oogen naauwlyks sluiten.</l>
+<l>'k Word overal geplaagd, van binnen en van buiten.</l>
+<l><stage>(<hi rend="i">Hier hoort men het begin van 't choor uit de vorige afdeeling</hi>.)</stage></l>
+<l rend="; 1tab">Nu hoor ik weêr dat naar gelol, dat langs de straat.</l>
+<l rend="; 1tab">By d' aanvang van deze eeuw den kwaden smaak verraadt.</l>
+<l>Ach waarom kan <hi rend="i">de deugd</hi> zich niet met <hi rend="i">schoonheid</hi> paren.</l>
+<l>Maar 't zyn twee vrouwen, dat is jammer. 'k Wou zoo garen</l>
+<l rend="; 1tab">Die twee getrouwd zien... Maar, ei kyk, daar zynze net.</l>
+<l rend="; 1tab">Zy hebben 't er van daag, wil 'k wedden, op gezet.</l>
+</lg>
+<pb n="23"/>
+<stage><hi rend="sc">De deugd</hi> <hi rend="i">en</hi> <hi rend="sc">de ondeugd</hi> <hi rend="i">komen uit twee kasjens te voorschyn, die van wederszyden op 't tooneel geschoven worden.</hi></stage>
+<stage><hi rend="i">DUO.</hi></stage>
+<stage><hi rend="i">Wys:</hi> Vive le vin, vive l'amour!</stage>
+<stage><hi rend="i">En</hi>, Tous les hommes sont bons.</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">de ondeugd</hi>.</l>
+<l rend="; 2tab">Lang leev' de min, lang leev' de wyn!</l>
+<l rend="; 2tab">De laaste leert ons vrolyk zyn</l>
+<l rend="; 1tab">En de eerste doet ons hart verlangen.</l>
+<l rend="; 1tab">Maar als die twee elkaâr vervangen;</l>
+<l rend="; 2tab">Dan maakt de gantsche driftenstoet</l>
+<l rend="; 2tab">Een' vastenavond in 't gemoed:</l>
+<l rend="; 1tab">Wat kan men boven dien verlangen?</l>
+<l rend="speaker"><hi rend="sc">de deugd</hi>.</l>
+<l rend="; 4tab">ô Wat vreugd, geeft de deugd,</l>
+<l rend="; 4tab">Als ze recht moedig vecht;</l>
+<l rend="; 4tab">Schoon ze lydt, in den stryd!</l>
+<l>Maar gantsch bloed! Al het goed, dat ze doet, ô, dat moet</l>
+<l rend="; 5tab">Zy verrichten,</l>
+<l rend="; 3tab">Niet om voordeel ginds of hier,</l>
+<l rend="; 3tab">Niet om Neef, of voor 't plesier</l>
+<l rend="; 5tab">Van de Nichten.</l>
+<l rend="speaker"><hi rend="sc">de ondeugd</hi>.</l>
+<l rend="; 1tab">Eet wat gy lust, lydt wat gy kunt:</l>
+<l rend="; 1tab">'t Is u, van harte graag, gegund.</l>
+<l>Nooit moet ge u in uw' smaak bedwingen.</l>
+<l>En krygt gy trek in mooie dingen,</l>
+<l rend="; 1tab">Die by uw' buurman zyn in huis,</l>
+<l rend="; 1tab">Zoek dan, maar zonder veel gedruis,</l>
+<l>U zachtjens by hem in te dringen.</l>
+<l rend="speaker"><hi rend="sc">de deugd</hi>.</l>
+<l rend="; 1tab">Neen, ô neen, maar alleen,</l>
+<l rend="; 1tab">Wyl het goed wezen moet;</l>
+<l rend="; 1tab">Schoon het kwaad meerder baat.</l>
+<l rend="; 1tab">'t Is geen kunst, in de gunst</l>
+<l rend="; 1tab">Van het lot, en 't genot</l>
+<l rend="; 2tab">Der vermaken,</l>
+<l>Als het ons geen oortjen kost</l>
+<l>Goed te doen, en op zyn' post,</l>
+<l rend="; 2tab">Trouw te waken.</l>
+<pb n="24"/>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">de deugd</hi>.</l>
+<l><stage>(<hi rend="i">Zy werpt zich in de armen van</hi> <hi rend="sc">de ondeugd</hi>, <hi rend="i">op het oogenblik dat</hi> <hi rend="sc">de deugd</hi> <hi rend="i">haar wil omhelzen</hi>.)</stage></l>
+<l rend="; 1tab">Voort vrouwmensch, pak je weg; of zie ik er van daag</l>
+<l>Zoo gek en mislyk uit, dat gy zoudt kunnen meenen,</l>
+<l>Dat ik een oogenblik het oor zou willen leenen</l>
+<l rend="; 1tab">Aan zulke malle praat? Wat denkje menschenplaag?</l>
+<l>Wie meen je toch wel, dat je voor hebt? Laat eens hooren.</l>
+<l rend="; 1tab">Een dagelyksche vrouw? Neen, 'k ben de menschheid, kind.</l>
+<l rend="; 1tab">En jy, jy bent een wyf, dat nergends schuilplaats vindt.</l>
+<l>Je ziet er waarlyk ook wel uit, om te bekooren!</l>
+<l rend="; 1tab">Ik heb je lang; maar nooit zoo stug en stuursch, gekend.</l>
+<l><stage>(<hi rend="i">Tegen</hi> <hi rend="sc">de ondeugd</hi>.)</stage></l>
+<l>Maar kyk - Jy ziet er dan van daag uit om te stelen!</l>
+<l>Wat benje dik en vet en kloek in al je deelen.</l>
+<l rend="; 1tab">Neen, jy bevalt me recht: je bent een knappe vent.</l>
+<l rend="speaker"><hi rend="sc">de ondeugd</hi>, <hi rend="i">zingende</hi>.</l>
+<l rend="; 3tab">Een vogelvanger, ben ik, ja!</l>
+<l rend="; 3tab">Ik ken de menschheid - hob za, za!</l>
+<l rend="; 3tab">Ik ben bekend by ieder een,</l>
+<l rend="; 3tab">By groote lut en by 't gemeen.</l>
+<l rend="; 3tab">Een ieder loopt my achterna,</l>
+<l rend="; 3tab">En zoekt my, waar ik ga of sta.</l>
+<l rend="; 3tab">Waar of ik ook myn netten span,</l>
+<l rend="; 3tab">Word ik bezocht door vrouw en man.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">jorisvaar</hi>, <hi rend="i">die met een telhout op het tooneel komt, met</hi> <hi rend="sc">de rede</hi>.</l>
+<l><stage><hi rend="i">Wys:</hi> Ah maman que je l'ai echappé belle!</stage></l>
+<l rend="; 2tab">Ach, papa! wat ben ik het mooi ontkomen;</l>
+<pb n="25"/>
+<l>Die ouwe totebel had my haast met zich meêgenomen!</l>
+<l rend="; 2tab">Ach, papa! wat ben ik het mooi ontkomen:</l>
+<l rend="; 4tab">'t Scheelde maar een hair;</l>
+<l rend="; 3tab">Och ja; de zaak was al reeds klaar.</l>
+<l rend="speaker"><hi rend="sc">jorisvaar</hi>.</l>
+<l rend="; 2tab">Kom maar t' huis; kyk, dat zal ik je verleeren!</l>
+<l>Ik zal je met dit hout eens drommels mooi de ribben smeeren.</l>
+<l rend="; 2tab">Kom maar t' huis; kyk, dat zal ik je verleeren.</l>
+<l><stage>(<hi rend="i">Tegen</hi> <hi rend="sc">de rede</hi>.)</stage></l>
+<l rend="; 4tab">'t Scheelde zoo veel niet,</l>
+<l rend="; 3tab">Of 't was geschied, gelyk je ziet.</l>
+<l rend="speaker"><hi rend="sc">de rede</hi> <hi rend="i">tegen</hi> <hi rend="sc">de menschheid</hi>.</l>
+<l rend="; 2tab">Nu zult gy by de laaste pret niet wezen.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l>Wie zal dan, in myn plaats, het nieuwejaarsvers komen lezen?</l>
+<l rend="speaker"><hi rend="sc">de rede</hi> <hi rend="i">tegen</hi> <hi rend="sc">jorisvaar</hi>.</l>
+<l rend="; 2tab">Jorisvaar! nu moet jy haar maar genezen.</l>
+<l rend="speaker"><hi rend="sc">jorisvaar, de menschheid</hi> <hi rend="i">met het telhout op den rug slaande.</hi></l>
+<l rend="; 4tab">Voor een endjen dag</l>
+<l rend="; 3tab">Heeft zy nog al het meeste ontzag.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">de rede</hi>.</l>
+<l>Ja, 'k voel dat doet me goed; zoo kan ik het begrypen.</l>
+<l>Een mensch heeft daarby zyn verstand zoo niet te slypen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Kom, breng me nu by 't feest, dan zal ik, met fatsoen,</l>
+<l rend="; 1tab">Aan die 't maar hooren wil, een plechtige aanspraak doen.</l>
+</lg>
+<stage><hi rend="i">Einde van de vierde Afdeeling.</hi></stage>
+</div>
+<div type="act">
+<pb n="26"/>
+<head rend="h3">Vyfde afdeeling.</head>
+<stage><hi rend="i">Er worden eenige schragen en planken op 't tooneel gebracht, waarvan een stellaadjen gemaakt wordt, op 't welk</hi> <hi rend="sc">apollo</hi>, <hi rend="i">in een' leuningstoel, gaat zitten. De vier schoone kunsten staan op stoven vooraan. Het beeld der schoonheid (eene Negerin) ligt, op de rustbank van de vorige afdeeling, met een wit laken overdekt. Vervolgends wordt er een altaartjen en een byënkorf gebracht; alles om zoo veel mogelyk het gordyn van den Amsterdamschen Schouwburg naar te bootsen.</hi></stage>
+<stage><hi rend="i">De personen, welke daarby voorkomen, blyven eenigen tyd onbeweeglyk, terwyl 't orchest speelt:</hi> ‘Bien noir; mais pas si diable.’</stage>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">apollo</hi>, <hi rend="i">met een rommelpot in zyne handen.</hi></l>
+<l><stage>(<hi rend="i">Onder het spreken wordt het laken van de zwarte</hi> <hi rend="sc">schoonheid</hi> <hi rend="i">weggetrokken</hi>.)</stage></l>
+<l rend="; 1tab"><hi rend="b">W</hi>at vuur ontvonkt myn' geest en maakt myn hoofd op hol!</l>
+<l rend="; 1tab">Ik zit hier hoog en droog. My dunkt ik zuizebol.</l>
+<l>Zie 'k daar Pandora niet? Och ja: daar is haar doosjen. -</l>
+<l><stage>(<hi rend="i">Tegen 't beeld, dat langzaam bezield wordt</hi>.)</stage></l>
+<l>'k Zal u bezielen, als ik kan. Wacht maar een poosjen!</l>
+<l><stage>(<hi rend="i">Tegen de schoone kunsten</hi>.)</stage></l>
+<l rend="; 1tab">Wat ziet zy er van daag dan overheerlyk uit!</l>
+<l>Maar neen, zy is het niet; het is het beeld der schoonheid,</l>
+<l>Dat, by 't begin van de Eeuw, voor ieder een ten toon leyt.</l>
+<pb n="27"/>
+<l rend="; 1tab">En wat is ze opgeschikt? 't Lykt wel een jonge bruid.</l>
+<l><stage><hi rend="i">Hier is het beeld geheel zichtbaar en wordt</hi>, <hi rend="i">door de schoone kunsten</hi>, <hi rend="i">voor op het tooneel gebracht</hi>. (<hi rend="i">Op eet' zwellenden toon</hi>.)</stage></l>
+<l rend="; 3tab">Natuur is in haar schoone trekken,</l>
+<l rend="; 3tab">Als in een' winternacht te ontdekken,</l>
+<l rend="; 4tab">By vochtig weêr en donkre maan.</l>
+<l rend="; 3tab">Last zy als gy, door drank verwilderd,</l>
+<l rend="; 3tab">Eens rymt, of zingt, of danst, of schildert,</l>
+<l rend="; 4tab">Gestadig aan uw zyde staan.</l>
+<l rend="speaker"><hi rend="sc">apollo</hi>, <hi rend="i">de schoone kunsten naderende</hi>.</l>
+<l rend="; 2tab">'k Heb al lang met de rommelpot geloopen,</l>
+<l rend="; 5tab">Om het lieve brood te koopen.</l>
+<l rend="; 6tab">Maar van jeluy</l>
+<l rend="; 6tab">Geef ik den brui:</l>
+<l rend="; 5tab">'k Wil niet langer loopen.</l>
+<l><stage><hi rend="sc">de menschheid</hi>, <hi rend="i">geleid door</hi> <hi rend="sc">de rede</hi>, <hi rend="i">vergezeld van</hi> <hi rend="sc">de deugd</hi> <hi rend="i">en van verre door</hi> <hi rend="sc">de ondeugd</hi> <hi rend="i">gevolgd, komt ter rechter zyde van het tooneel op</hi>.</stage></l>
+<l rend="speaker"><hi rend="sc">de rede</hi> <hi rend="i">tegen</hi> <hi rend="sc">de menschheid</hi>.</l>
+<l>Neem hier een slokj', om u een weinig te verfrissen;</l>
+<l>Maar niet te veel: 't is sterk: gy moet u niet vergissen.</l>
+<l rend="; 1tab">Daar zieje God Apol; het spel gaat aanstonds aan.</l>
+<l rend="; 1tab">Hy wacht naar u, om met zyn kunsten voort te gaan.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi>.</l>
+<l>Wat is hier alles mooi! Zyn dat nu de drie Kroonen?</l>
+<l>Ik ben nieuwsgierig, wat men ons hier zal vertoonen.</l>
+<pb n="28"/>
+<l rend="; 1tab">En die zwartin... is dat een furie? -</l>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l rend="; 3tab">Wordt ge mal?</l>
+<l rend="; 1tab">Dat is de Patrones van de eeuw, die volgen zal.</l>
+<l rend="speaker"><hi rend="sc">apollo</hi>, <hi rend="i">spytig.</hi></l>
+<l>Als gy zoo voortgaat met verdiensten hoog te schatten,</l>
+<l>Gelyk welëer, dan zal ze een bron voor u bevatten,</l>
+<l rend="; 1tab">Die onuitputlyk is, van fyne lekkerny</l>
+<l rend="; 1tab">Voor Redenrykers, en van keur van rymery.</l>
+<l>Zy zal u uit haar doos, zoo gy het mogt verkiezen,</l>
+<l>Doen snuiven...</l>
+<l><stage>(<hi rend="sc">de schoonheid</hi> <hi rend="i">presenteert haar doos aan</hi> <hi rend="sc">de menschheid</hi> <hi rend="i">en</hi> <hi rend="sc">apollo</hi> <hi rend="i">vervolgt</hi>.)</stage></l>
+<l rend="; 2tab">...dat gy u half dood zult moeten niezen.</l>
+<l rend="; 1tab">Zy zal den ouden smaak weêr helpen op de been,</l>
+<l rend="; 1tab">En zingen in de kerk de psalmen van Datheen!</l>
+<l rend="speaker"><hi rend="sc">de rede</hi>.</l>
+<l>Ga zitten; neem je plaats; t' en zy 't u mogt gelusten</l>
+<l>Te liggen. Gy moogt om de honderd jaar wel rusten:</l>
+<l rend="; 1tab">Dat's niet te veel. Gy ziet, dat ik geen stiefmoêr ben,</l>
+<l rend="; 1tab">En dat ik, 't geen je goed of kwaad doet, heel wel ken.</l>
+</lg>
+<stage><hi rend="sc">de menschheid</hi> <hi rend="i">en</hi> <hi rend="sc">de rede</hi> <hi rend="i">plaatsen zich op eene hoogte, ter zyde van het tooneel. Zoodra</hi> <hi rend="sc">de ondeugd</hi>, <hi rend="i">op een' korten afstand</hi>, <hi rend="sc">de menschheid</hi> <hi rend="i">genaderd is, wordt zy door een' Oost-Indischvaâr weggejaagd. De Negentiende Eeuw, door een eerstgeboren kind voorgesteld, wordt door de agttiende, in een' parel</hi>
+<pb n="29"/>
+<hi rend="i">d'amouren schulp, voor op het tooneel gebracht. Hier op komt de menigte uit de derde Afdeeling op, zingende, op de wys van</hi> ‘de Carmagnolen.’</stage>
+<lg type="poem">
+<l rend="; 3tab">I.</l>
+<l rend="; 1tab">Kom, zingen wy, verheugd en bly; } <hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Zet nu de droef heid aan een zy'! } <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">'t Kleine Eeuwtjen is geboren.</l>
+<l><stage><hi rend="i">(Het Eeuwtjen begint te schreeuwen.)</hi></stage></l>
+<l rend="; 2tab">En laat zich nu al hooren.</l>
+<l rend="; 2tab">Kom, laat ons danssen, springen.</l>
+<l rend="; 1tab">Van de galjon, van de galjon!</l>
+<l rend="; 2tab">Kom, laat ons danssen, springen.</l>
+<l rend="; 1tab">Van de galjon, rommentom!</l>
+<l rend="; 3tab">2.</l>
+<l><stage>(<hi rend="i">Hier ziet men de maan, in 't verschiet, boven het Lazarushuis opgaan.</hi>)</stage></l>
+<l rend="; 1tab">Wy zien de maan, naar boven gaan, } <hi rend="i">bis.</hi></l>
+    <l rend="; 1tab">Zy brengt ons wel verlichting aan. } <hi rend="i">bis.</hi></l>
+<l rend="; 2tab">Maar zy geeft, onder 't klimmen,</l>
+<l rend="; 2tab">Veel minder licht dan schimmen.</l>
+<l><stage>(<hi rend="i">Hier wordt gedanst</hi>.)</stage></l>
+<l rend="; 2tab">Wy zullen nogthands springen:</l>
+<l rend="; 1tab">Want zie zie wy gaan, want zie wy gaan -</l>
+<l rend="; 2tab">Wy zullen luidkeels zingen:</l>
+<l rend="; 1tab">Want zie wy gaan naar de maan.</l>
+</lg>
+<lg type="poem">
+<l rend="speaker"><hi rend="sc">be rede</hi> <hi rend="i">tegen</hi> <hi rend="sc">de menschheid</hi>.</l>
+<l>ô Ja, zy klimt en kyk het is reeds volle maan!</l>
+<l>Zy klimt; maar blyft toch op het Laz'rushuis lang staan. -</l>
+<pb n="30"/>
+<l>Vrees niet, schoon gy 't misschien weêr donkre maan ziet worden.</l>
+<l rend="; 1tab">Daar is niets aan te doen: 't Is altyd geen mooi weêr.</l>
+<l rend="; 1tab">Maar als de zon eens schynt; ja dan... ik zeg niet meer...</l>
+<l>Dan gaan de zaken vast in een veel beter orden.</l>
+<l rend="speaker"><hi rend="sc">de menschheid</hi> <hi rend="i">tegen</hi> <hi rend="sc">de rede</hi>.</l>
+<l rend="; 1tab">Kom aan! gy steekt my daar een ossenrib in 't lyf;</l>
+<l>'k Heb weêr een' kleinen roes en zal, met nieuwe krachten,</l>
+<l>Hier in den maaneschyn, myn naadrend lot verwachten;</l>
+<l rend="; 1tab">En vechten met de ramp, al waait het nog zoo styf.</l>
+<l>En zinkt myn scheepjen door een' ballast kwaaie kanssen,</l>
+<l>Of valt er aan myn disch niets meer dan hoop te schranssen;</l>
+<l rend="; 1tab">'k Zal denken: ‘De eeuwenfruit, waar naar ik daaglyks gryp,</l>
+<l rend="; 1tab">Wordt (als hy maar niet rot) in 't laaste najaar ryp.</l>
+<l><stage>(<hi rend="i">Voorwaards tredende</hi>.)</stage></l>
+<l>Europa! - Weetje wel, dat gy die klucht bedacht hebt</l>
+<l>En, in de plaats van zon, dit maanlicht ons gebracht hebt?</l>
+<l rend="; 1tab">Van daar kwam op uw' grond dat vreeselyk gemaal;</l>
+<l rend="; 1tab">Maar eindlyk riep het volk: ‘dat jou de duivel haal!’</l>
+<l>En vocht, als wilden zy elkaâr van de aarde boenen.</l>
+<l>Met één woord! - gy verkocht ons knollen voor citroenen!</l>
+<l rend="; 1tab">Ook zaagt gy zelf, op 't lest van de eeuw, de lieve maan,</l>
+<l rend="; 1tab">Als op meyavond, voor uw nieuwe woonplaats, aan. -</l>
+<l>Zy kan het evenwel niet helpen; - neen, Mynheeren:</l>
+<l>Gy moet er, op myn ziel, uw zelf voor debiteeren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Doch nu - ik schaam 't my-zelf - nu Jan Crediet is dood,</l>
+<pb n="31"/>
+<l rend="; 1tab">Schuwt gy den regen en loopt zachtjens naar de sloot.</l>
+<l>Te hei! of al te fy! 't Is stilstaan, of 't is hollen.</l>
+<l>Thands tuurt gy weêr verzuft op gindsche pruikenbollen.</l>
+<l><stage>(<hi rend="i">Het Eeuwtjen in haar armen nemende</hi>.)</stage></l>
+<l rend="; 1tab">Kyk naar dat platjen - zie! het knikt u toe, en wenkt.</l>
+<l rend="; 1tab">Courage! 't gaat misschien nog beter als gy denkt!</l>
+<l><stage>(<hi rend="i">Het Eeuwtjen terugg' gevende</hi>.)</stage></l>
+<l>En gy, ô Amstelstad, wat ligt gy thands te pruilen?</l>
+<l>(Nu wordt het ernstig) Neen, ik kan je niet zien huilen.</l>
+<l rend="; 1tab">Gy zyt de stad, die ik het meeste heb bemind.</l>
+<l rend="; 1tab">'k Heb u gekend, toen gy zoo groot waart, als dat kind.</l>
+<l>Hoe dikwils zag ik u niet in het water plompen</l>
+<l>En op uw koussen door een plas gaan, zonder klompen!</l>
+<l rend="; 1tab">Toen paste gy braaf op (ik heb het meer gezeid)</l>
+<l rend="; 1tab">Maar op het lest wierd gy een groote stoute meid!</l>
+<l>My dunkt, ik zie u op den buitenkant nog spelen,</l>
+<l>Met scheepjens. ô Toen ging het wel in alle deelen.</l>
+<l rend="; 1tab">Kom nu eens! - Maar het geen voorby is, is voorby:</l>
+<l rend="; 1tab">We zetten nu die muizennesten aan een zy'.</l>
+<l><stage>(<hi rend="i">Een uit de menigte reikt haar een' roemer wyn over</hi>.)</stage></l>
+<l>Op je gezondheid! - Kom! je moet je nu niet kwellen!</l>
+<l><stage>(<hi rend="sc">de vrede</hi> <hi rend="i">in 't verschiet op een' schop zittende wordt door</hi> <hi rend="sc">mars</hi> <hi rend="i">voortgestuwd</hi>.)</stage></l>
+<l>Daar is de Vrede - die kan alles weêr herstellen! -</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Maar och, ze zit nog op den schop, en die Mynheer</l>
+<l rend="; 1tab">(Ik meen God Mars) jaagt haar nog telkens heen en weêr.</l>
+<pb n="32"/>
+<l>Doch laten wy (ik vrees het mogt nog malder loopen)</l>
+<l>Provisioneel (uit joks) het kermende eeuwtjen doopen;</l>
+<l rend="; 1tab">En noemen haar, in de eerste opwelling onzer vreugd,</l>
+<l rend="; 1tab">De eeuw van de <hi rend="i">waarheid</hi>, van de <hi rend="i">schoonheid</hi> en der <hi rend="i">deugd!</hi></l>
+<l>&nbsp;</l>
+<l>Maar... als we naderhand dien naam verandren moeten,</l>
+<l>En inzien, dat wy haar zoo niet meer kunnen groeten...</l>
+<l rend="; 1tab">ô Jee - Maar, dat is niets, dan hebben we ons vergist;</l>
+<l rend="; 1tab">En zeggen aan de luy: ‘het eeuwtjen is Menist.’</l>
+<l>Die gekheid kan men, by een' tweeden doop, verbloemen.</l>
+<l>Wy zullen haar dan, by verkorting, Roeltjen noemen.</l>
+</lg>
+<stage><hi rend="i">EINDE.</hi></stage>
+</div>
+</body>
+</text>
+
+</TEI.2>

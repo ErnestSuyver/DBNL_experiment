@@ -1,0 +1,2876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bethlehem dat is het broodhuys</title>
+                <title type="subordinate">te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi</title>
+                <author>Karel van Mander</author>
+             </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Bethlehem dat is het broodhuys, te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi</hi> van Karel van Mander in de eerste druk uit 1613.</edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 11: Heeere → Heere: ‘Quetse en v<hi rend="i">er</hi>derf wort niet op s'Heere<hi rend="i">n</hi> Berg’.</corr>
+                        <corr>p. 13: lusttn → lusten: ‘Hy vanght de doot die nae zijn lusten jaeght’.</corr>
+                        <corr>p. 35: Isael → Israel: ‘Heeft dan verlost t'droef Israel betraend’.</corr>
+                        <corr>p. 35: Hederinnen → Herderinnen: ‘Geeft ons de<hi rend="i">n</hi> choor, van Herders Herderinnen’.</corr>
+                        <corr>p. 51: het nummer van het lied is van 10 verbeterd naar 11: ‘Het 11. Veld-Lied’.</corr>
+                        <corr>p. 54: weggevallen letter aangevuld: ‘En quaed noch goed en comt uyt s'hooghsten [m]ond’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">mand001beth01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: OTM: OK 62-9620 (2)</idno>
+                </bibl>
+                <p>Karel van Mander, <hi rend="i">Bethlehem dat is het broodhuys, te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi</hi>. Barent Otsz., Amsterdam 1613</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Bethlehem dat is het broodhuys</title>
+                <title type="subordinate">te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi</title>
+                <author>Karel van Mander</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Bethlehem dat is het broodhuys</title>
+                <title type="subordinate">te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi</title>
+                <author>Karel van Mander</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-06-10</date>
+                <respStmt>
+                    <name type="person">CB</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+   <cf> <div type="chapter">
+<pb n="1"/>
+<p>BETHLEHEM</p>
+<p>§ Dat is het Broodhuys inhoudende den Kerstnacht, te weten gheestlicke Liedekens ghedichten of Leyssen, die de Herderen by Bethlehem snachts hun Vee wakende singen met verlanghen na de comste Christi.</p>
+<p>&nbsp;</p>
+<p>Hier is oock in begrepen t'boec Trenum, of de Klaeghlieden Ieremie.</p>
+<p>&nbsp;</p>
+<p>Ghemaeckt door K. V. Mandere, maer nu eerst in t'licht gebracht.</p>
+<p>&nbsp;</p>
+<p>[vignet]</p>
+<p>&nbsp;</p>
+<p>t'AMSTELREDAM.</p>
+<p>&nbsp;</p>
+       <p>By Barent Otsz. Boecdrucker, woonende buyten d'oude Regeliers Poort inde Nieuwe Druckerij. 1613.</p>
+   </div></cf>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0001"/>
+        </interpGrp>
+<pb n="3"/>
+<head rend="h2">Bethlehem oft Broodhuys.</head>
+<head rend="h3">T'eerste Veld-Lied </head>
+
+<head rend="h4">nae de wijse Psalm 74. </head>
+<lg type="poem"><l rend="speaker">Hebreus. Proselytus. Salomon. Adon.</l>
+<l>H. T'Groot dagh-licht schoon des Weerelts ooghe claer,</l>
+<l>Verborghen is, t'aerdsch aenschijn swart bespannen,</l>
+<l>Met t'nachtsche cleed. P. uyt d'ooghen wilt dan bannen</l>
+<l>Den doodschen slaep, o Herders nu eenpaer.</l>
+<l rend="; 1tab">S. Des Winters nacht die coude is langh en swaer</l>
+<l>Verdrietigh vald ons Herders op den Velde</l>
+<l>Doch goe toesicht dient ons dat van t'ghetelde,</l>
+<l>Schaep-kudde wy niet een en worden quijt.</l>
+<l rend="; 1tab">A. Den wolf of Leeu die gaet rontom altijt</l>
+<l>En loerd met vlijt of loos hy mocht betrape<hi rend="i">n</hi>,</l>
+<l>Ons traeg en luy als die de wacht verslapen,</l>
+<l>Der schapen moord en scheynding is sijn lust.</l>
+<l rend="; 1tab">A. Dat niema<hi rend="i">n</hi>t dan in hutt of bedd' en rust</l>
+<l>Maer laet elck voort ter wacht ghewapend commen,</l>
+<l>Ons Honde<hi rend="i">n</hi> trau dat die ooc niet verstomme<hi rend="i">n</hi></l>
+<l>Want daer aen is oock veel gheleghen siet.</l>
+<l rend="; 1tab">P. Hebreus vriend. H. wat ist. P. singht ons een Lied,</l>
+<l>Op dat den tijd te minder ons verlanghe.</l>
+<l>Ghy Salomon met geest verweckschen sange</l>
+<l>V snaren soet oock paren doet accoort.</l>
+<l rend="; 1tab">S. Iabel brocht ons eerstmael de hutte<hi rend="i">n</hi> voort</l>
+<l>Sijn broer Iubal de soet gheluydsche Vedel,</l>
+<l>En fluyt oock mede om onse sinnen edel,</l>
+<l>Verlichten in traendals doorlijden hier.</l>
+<l rend="; 1tab">A. Verhaelt in sang hoe t'loose valsche dier</l>
+<l>Ons voordees laes, bedroogh en dede sneven,</l>
+<l>Met loghentael en hoe sy zijn verdreven,</l>
+<l>Wt wellust soet in jammerlijck verseer.</l>
+<pb n="4"/>
+<l rend="speaker"><hi rend="i">Hebreus singht op de wijse des 1.Psal.</hi></l>
+<l rend="; 1tab">H. O Herder groot o Davidt die al meer,</l>
+<l>Als David of zijn Zoon zijt, Davids Heer,</l>
+<l>En wortel self, u Harpe wilt my leenen:</l>
+<l>Dat ick ons yet van Eden singh met eenen,</l>
+<l>Ons ouders hoe dat hen te deele wert,</l>
+<l>Voor t'blijdste hof het droefste dal vol smert.</l>
+<l rend="; 1tab">Een aerde<hi rend="i">n</hi> klo<hi rend="i">m</hi>p heeft God besielt bespraect,</l>
+<l>Een aerde<hi rend="i">n</hi> klomp hem tot een beeld gemaect</l>
+<l>Een aerden klomp die doch so veel wil wesen,</l>
+<l>Denckt wat ghy waert, en wat ghy wert nae desen,</l>
+<l>Mensch kent u self uw's selfs kennisse wis,</l>
+<l>Een goed begin om Godt te kennen is.</l>
+<l rend="; 1tab">Maer wat God is gheen menschen tongen vroed,</l>
+<l>En konnen dat ghenoegh uytspreken, goed</l>
+<l>Is hy alleen en niemant meer waerachtigh,</l>
+<l>Wijs, trauw, oprecht ja heylig en almachtig,</l>
+<l>Dan die yet deugt heeft, dat van Godt allee<hi rend="i">n</hi>,</l>
+<l>Waer's u beroem o Mensch ghy hebt doch gheen.</l>
+<l rend="; 1tab">Siet tot sulck beeld ghy mensch gheschapen waerd,</l>
+<l>Maer nijdicheyt van Satan oud ghebaerd</l>
+<l>Een dochter self doods moeder door de sonde</l>
+<l>Heeft ons ghebaerd t'wreed schepsel in voorstonde,</l>
+<l>Want schepsel Gods en is de dood doch niet,</l>
+<l>Maer door de sond' is komen al't verdriet.</l>
+<l rend="; 1tab">Gheen Tempe noyt versierd Elisi veld,</l>
+<l>En was so schoon alst hof waer in ghesteld,</l>
+<l>Den Mensche was om bewaren en bauwen,</l>
+<l>Godt gaf hem daer sijn woort om op betrauwen,</l>
+<l>T'ghebod was t'brood en sijnder zielen aes,</l>
+<l>T'welck hy verliet en wert des doods eylaes,</l>
+<l rend="; 1tab">Der Slanghen woordt t'Sirenigh valsch geluyd,</l>
+<l>Bedroogh Adams sijd-ribsche nieuwe bruyd</l>
+<pb n="5"/>
+<l>Dats' onbedacht haer bruydegom dede eten,</l>
+<l>De bitter dood eylaes sonder haer weten,</l>
+<l>Aen t'lustigh fruyt als aen vergiftigh brood.</l>
+<l>Des duyvels nijd invoerde aldus dood.</l>
+<l rend="; 1tab">Dit ging recht toe als man die in zijn land,</l>
+<l>Claer tarwe zaeyt maer nijdigh zijn vyand,</l>
+<l>Ter wijlen dat de Mensche<hi rend="i">n</hi> slapen traeglijc,</l>
+<l>Sijn o<hi rend="i">n</hi>cruyt fel hy daer in zaeyt t'is klaeghlijc,</l>
+<l>Aldus int hert der menschen t'loghen saet,</l>
+<l>Gesayt brenght voort ter weerelt alle quaet.</l>
+<l rend="; 1tab">Of ghelijck een die van Ierusalem</l>
+<l>Na Iericho reyst onbedacht/ en hem,</l>
+<l>Vind inde hand der wreede moordenaren,</l>
+<l>Ter dood ghewond berooft sijnen dierbaren</l>
+<l>Schat, daer toe noch naeckt uytgetogen bloot</l>
+<l>Dus quaem den mensch door sonden in den nood.</l>
+<l rend="; 1tab">Sijn eerst verderf uyt hoogmoed is o<hi rend="i">n</hi>tstae<hi rend="i">n</hi>,</l>
+<l>Want lust als Godt te zijn in hoogheyt saen,</l>
+<l>Iae goed en quaed te weten Eva sinnen,</l>
+<l>Trock van t'gebod dat sy moste beminnen:</l>
+<l>Gheloofde licht uyt jonsten sonder haet,</l>
+<l>En goed te zijn, verradelijcken raed.</l>
+<l rend="; 1tab">Benijdster van Gods werc ghy oude draeck</l>
+<l>De Vrouwe slecht ooc met uw's vals oorsaec</l>
+<l>Ghy loos bevocht en socht oock wel de beste</l>
+<l>Gheleghentheyd, en d'alderswackste veste,</l>
+<l>Als schalck vyand om comen in de stad,</l>
+<l>Tot roof gheneyght en tot vernielen plat.</l>
+<l rend="; 1tab">Seer schadigh is met Satans boden loos,</l>
+<l>Te houden spraeck als Eva want altoos,</l>
+<l>Een stadt die sprac gaet met de<hi rend="i">n</hi> vyand plegen</l>
+<l>Wort van hem haest in sijn geweld gecregen,</l>
+<l>T'schalcks tongh is vuyr en kancker is zijn woord,</l>
+<l>In Ioabs mond was vrede, int herte moord.</l>
+<l rend="; 1tab">Vermond vyand tscheen Eva niet en wist,</l>
+<l>Hoe groot t'nijts vuyr in u was noch wat list</l>
+<l>In uwen sin om t'mensch gheslacht vernielen</l>
+<l>En moorder van d'onsterffelijcker zielen</l>
+<pb n="6"/>
+<l>Veelsins den mensch soect ghy door listen snel</l>
+<l>Den Hemel noch te wislen voor de Hel.</l>
+<l>S'vleesch swackheydt noch u voor een Eva dient,</l>
+<l>Daer door ghy loct te zijn des weerelts vrie<hi rend="i">n</hi>d,</l>
+<l><note place="margin">apo.18.17</note>En maeckt tot haer lust appelen gheneghen</l>
+<l>Soo Esau verhongerd niet den seghen,</l>
+<l>Noch voor gheboort aensagh maer t'moes gherecht,</l>
+<l>Alsoo vaert oock hier menigh sondaer slecht.</l>
+<l rend="; 1tab">Eva sagh aen den boom hoe dat van dien</l>
+<l>Goed g'eten waer en was lieflijck t'aensien,</l>
+<l>Om dat hy wijs con maken veel doen weten,</l>
+<l>Sy nam sy at sy gaf, haer man heeft g'eten</l>
+<l>Ooc vande vrucht twelc dra gedae<hi rend="i">n</hi> was maer </l>
+<l>T'heeft lang gesmert om de nasmake swaer.</l>
+<l rend="; 1tab">Ghy twee maer een dijn oogh seghel is los</l>
+<l>En zijt geverft met schaemtigh wangen blos</l>
+<l>V gruwt u selfs en vlecht u vijg-blaerschoote<hi rend="i">n</hi></l>
+<l>Ghy bergt u voor diens oogen t'al ontblooten</l>
+<l>Misdaed u wroegt strafweerdigh vreest ghy seer</l>
+<l>Voor t'schoonste schoon aenschijn, u vreughd wel eer.</l>
+<l rend="; 1tab">Den soetste<hi rend="i">n</hi> troost (doe ghy stont int gebod)</l>
+<l>Ia een ghemeen t'saem-spreker was u Godt!</l>
+<l>Tot groot vermaeck, en jonstighe dienaren</l>
+<l>V t'alder tijd Gods suyver Enghels waren</l>
+<l>Int soetste Hof waer buyten all' onvreught,</l>
+<l>Ghebannen was en vloeyde in volle jeught.</l>
+<l rend="; 1tab">Dit was te recht de gulden weereld wel,</l>
+<l>Vol alles goeds maer hebt lichtveerdig snel,</l>
+<l>Eylaes o mensch dees Heerlijckheyd verloren</l>
+<l>Daer toe wat noch wort uyt u bloed geboren,</l>
+<l>S'doodts fellen strael te lijden onderdaen,</l>
+<l>Is worden laes, niemant mach voorby gae<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">Den Vader goed als een recht rechter cloec</l>
+<l>Voor vierschaer roept en doet eerst ondersoec,</l>
+<l>Der slanghen vloeck gaet eerst om t'eerst verleyden,</l>
+<l>t'Wijfs vonnis volght daer nae word onderscheyden,</l>
+<pb n="7"/>
+<l>Den man zijn straffe: onschuld nae menschen aerd</l>
+<l>Hielp niet, elck hooft bleef met zijn schuldt beswaerd.</l>
+<l rend="; 1tab">Groot moeder van dees groote weereldt bracht,</l>
+<l>Hebt ghy in noot u self en u gheslacht,</l>
+<l>T'wijl negenmael nieu hoornich wordt Dyane<note place="margin">De Maene</note></l>
+<l>Veel bangigheyt en smert is onderdane,</l>
+<l>Die stoc vrauw is van haer kinds vangenis,</l>
+<l>Haer prickelt veel wanschapen langenis.</l>
+<l rend="; 1tab">Maer als d'uyr is en dat den mensche dan</l>
+<l>Den kercker ruymt en comt soo hy best can,</l>
+<l>Dat ongewoon schoon sonne<hi rend="i">n</hi>licht ae<hi rend="i">n</hi>schauwe<hi rend="i">n</hi></l>
+<l>Al t'vrauwe<hi rend="i">n</hi> Lijf lijd doods pijnig benauwen</l>
+<l>Bedochtet Kind dit zijn Moeders gedoogh,</l>
+<l>Ten sage haer geen tijdt met onweerd' oogh.</l>
+<l rend="; 1tab">Dan is de Vrouw s'Mans onderworpsel noch,</l>
+<l>Met will' en macht, maer al int goede doch,</l>
+<l>T'gaet quaelijck daer beleeftheydt is verschoven,</l>
+<l>En t'onverstand de Reden gaet te boven,</l>
+<l>D'een d'ander moet een hulpe zijn bequaem,</l>
+<l>Want veel drucs erft de<hi rend="i">n</hi> man ooc van Adam</l>
+<l rend="; 1tab">Gy beste Vaer groot herder en aertsch Heer'</l>
+<l>Dat Engelijc broodhuys spijs de u niet meer,</l>
+<l>T'veldt dat vervloeckt is, draecht voor u ghebrekigh,</l>
+<l>Fel doorns scherp, en distelen stijf stekigh,</l>
+<l>Dus tege<hi rend="i">n</hi> t'land moet gy met commer groot,</l>
+<l>En aenschijns sweet betalen daeglicx brood,</l>
+<l rend="; 1tab">Ay aerden klomp, ellendighen slijckhoop,</l>
+<l>Na dat voleynd is u kort levens loop,</l>
+<l>Moet weer tot eerd' aldaer u wormen eten,</l>
+<l>Dus ghy bevreest in dootsschaduw geseten,</l>
+<l>Als ballingh zijt in nachtsche duysterheyd,</l>
+<l>Daer alle dingh is ydel en arbeyd.</l>
+<l rend="; 1tab">O groot versuym o mangelinge onvroet,</l>
+<l>De bitter doodt in plaets van 'tleven soet,</l>
+<l>Verdriet voor vreugt veel sieckte<hi rend="i">n</hi> voor gesonde</l>
+<pb n="8"/>
+<l>Noch in't ghemoed de smertelijckste wonde,</l>
+<l>Dat Godt verwrocht ghepaeyt sijn niet en magh:</l>
+<l>Vliet droeve nacht, en haest u blijden dagh.</l>
+</lg>
+<div type="section">
+<head rend="h4">Wijse des 74. psalms.</head>
+    <lg type="poem">
+<l>P. <hi rend="i">H</hi>Ebreus vriendt, u droef sangigh gheclagh,</l>
+<l>Geeft my vermaec en vald my onverdrietigh</l>
+<l>Als wandel-gast die ruyschend borne vlietigh</l>
+<l>En koele schaeuw ghevonden heeft tot rust.</l>
+<l rend="; 1tab">S. Al meer en meer groeyd in my hoorens lust,</l>
+<l>Soo Bye nae tijm is guls om garen honigh,</l>
+<l>Nae sulcken sangh den Herders ongewonigh</l>
+<l>Verlanght mijn hert o Heber lieve vriend.</l>
+<l rend="; 1tab">A. Ee<hi rend="i">n</hi> droncxke<hi rend="i">n</hi> uyt mijn vles hebdy v<hi rend="i">er</hi>dient</l>
+<l>Waert Nectar soet ic sout u geeren schencken</l>
+<l rend="; 1tab">S. Wt mijn snapsack een beetken kaes daer t drincken,</l>
+<l>Seer wel opsmaect wil ick u schincken mild,</l>
+<l rend="; 1tab">P. Als dichter goed voor niemand swichte<hi rend="i">n</hi> wilt</l>
+<l>Heman Calchal Ethan des Israhyte<hi rend="i">n</hi>,</l>
+<l>Noch Darda oock en doen u geen verwijten,</l>
+<l>Dat ghy daerom van sangh soud sijn gestild.</l>
+</lg><p>Eynde des eersten Veld-Lieds.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0002"/>
+        </interpGrp>
+<head rend="h3">Tweede Veld-Lied </head>
+<div type="section">
+<head rend="h4">nae de Wijse des 104. Psalm. </head>
+<lg type="poem"><l rend="speaker">Achitop. Adon. Raguel.</l>
+<l><hi rend="i">S</hi>Cheert af en weyd o Schaepkens sacht van aerd,</l>
+<l>De Kruyde<hi rend="i">n</hi> groe<hi rend="i">n</hi> ontgraeft t'veld ongespaert,</l>
+<l>Bijsonder soeckt de groente in den valleyen,</l>
+<l>Mijdt Bergen steyl ghy vinter niet te weyen,</l>
+<l rend="; 1tab">An T'hoog woest gebergt sneedrichtig is te kout</l>
+<l>Ons gonne<hi rend="i">n</hi>t selfs de wolc doorcliefsche toppe<hi rend="i">n</hi></l>
+<l>Dan wilden pijn met langh onnutte knoppe<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">R. Int lage dal den Winter dwinge-lant,</l>
+<l>Queld minder nu ons arm schaepke<hi rend="i">n</hi>s want,</l>
+<l>Den vlieten snel dwingt hy met ijsche toome<hi rend="i">n</hi></l>
+<pb n="9"/>
+<l>Noord wint onteert, ald' alderswacste boome<hi rend="i">n</hi></l>
+<l rend="; 1tab">Ach. Klijf Palm' Olijf soet rokigen Cypres</l>
+<l>En vreesen niet of wel met t'scherpste Mes,</l>
+<l>De koude snijd datsy soude doen dalen,</l>
+<l>Hun groene hayr en ruyghe hoofden kalen</l>
+<l rend="; 1tab">Ad. Wegh zijn uyt t'veldt de Lente Bloemkens schoon,</l>
+<l>T'gesang uyt t'bosch, de<hi rend="i">n</hi> acker mist zijn croon</l>
+<l>En d'armen swac des wijnstocx zijn ontlade<hi rend="i">n</hi></l>
+<l>In d'aerde derft de schaduw van zijn bladen,</l>
+<l rend="; 1tab">R. Onlanghe duert hier yet in eenen staet,</l>
+<l>Ten baet gesucht all' eerdsche dingh vergaet,</l>
+<l>Te zijn al blind moet d'eerd' eylaes gedooge<hi rend="i">n</hi>,</l>
+<l>Daer boven blinckt den Hemel al vol oogen.</l>
+<l rend="; 1tab">Ach. De do<hi rend="i">n</hi>cker sonde en boosheyt t'aerdsch aenschijn.</l>
+<l>Doen vuyl besmuert ja kout en doncker zijn,</l>
+<l>Nijdt, toorn, twist, uyt onverstandt gheresen,</l>
+<l>Als kouden mist doent hier al doncker wesen.</l>
+<l rend="; 1tab">Ad. Maer s'Hemels troon heeft schoon te wesen claer,</l>
+<l>Oorspronc des deughs en alles goeds is daer</l>
+<l>De liefde self een vuyr en licht waerachtigh,</l>
+<l>God goed allee<hi rend="i">n</hi> in t'suyver licht woonachtig,</l>
+<l rend="; 1tab">Ach. Wie sal ons nu met sangh verdrijven vaeck</l>
+<l>Het overhand te singen is vermaeck, </l>
+<l>Nu Raguel singht yet begint al vooren // </l>
+<l>Ghy Adon laet u antwoord oock dan hooren.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Raguel singht op de wijse des 2.Psal.</hi></l>
+<l rend="; 1tab">R. Dagh sterre claer oprechte wijsh<hi rend="i">eyt</hi> reyn,</l>
+<l>Wilt mijn verstandt en sinnen doch verclaren</l>
+<l>Laeft mijnen geest o wijn en melck Fonteyn,</l>
+<l>Op dat ick magh de waerheyt openbaren,</l>
+<l>Och wijsheyd groot hoe ghy hebt willen spare<hi rend="i">n</hi></l>
+<l>Die Vader is der gantscher weerelt wijt:</l>
+<l>En hem ghebracht uyt sondigh fel beswaren</l>
+<l>Te recht ghetoond dat ghy ghenadigh zijt,</l>
+<l rend="; 1tab">A. De oude draeck' oorsprongh van haet en nijd,</l>
+<l>Ghecomen loos tot haer nijdigh, vermeten,</l>
+<pb n="10"/>
+<l>Sy meende wel ghewonnen was den strijd,</l>
+<l>Den Mensch was nu in haer geweld geseten</l>
+<l>Als arem slaef voor s'doodts grousame beten</l>
+<l>In vrees' en angst in pynelijck verdriet,</l>
+<l>Zijn leven langh maer God heeft raed geweten</l>
+<l>Tot s'Menschen Troost voorseggingh is geschiet,</l>
+<l rend="; 1tab">R. Hem is belooft: den Salighmaker siet,</l>
+<l>Sal t'slanghen hooft vertreden en bederven,</l>
+<l>Des Duyvels werck de zonde doen te niet,</l>
+<l>De dood haer macht beneme<hi rend="i">n</hi> self door sterve<hi rend="i">n</hi>,</l>
+<l>Iae door zijn dood verwinninghe verwerven,</l>
+<l>En rooven hem zijn macht die in gheweld,</l>
+<l>Des doods macht hadd' en meend' eeuwigh doen swerven,</l>
+<l>Den mensch in s'doods gevangenis ghesteld,</l>
+<l rend="; 1tab">A. Beloofde zaet wonderlijck raed en held,</l>
+<l>Lof moet u zijn licht troostbarigh verschijne<hi rend="i">n</hi>,</l>
+<l>Voor t'droeve volck met duysternis gequeld,</l>
+<l>In doodts verschrick, den kercker swardt vol pijnen.</l>
+<l>Ghy zijt een licht dat niet en sal verdwijnen,</l>
+<l>Want ghy zijt niet van eerdsche stoffe swack:</l>
+<l>Of sulck en licht dat maer geduerd termijne<hi rend="i">n</hi>,</l>
+<l>Maer t'licht dat noyt geen claerheyt en ontbrack,</l>
+<l rend="; 1tab">R. Ghy zijt dat licht dat van begin aenstac</l>
+<l>De lichten al die d'eerde claerheyt gheven</l>
+<l>Van boven an dat rond asurich dack,</l>
+<l>Ghy blijft als sy te valle, al sullen sneven,</l>
+<l>Als vijgen vroeg van stercken windt gedreven</l>
+<l>Lof eeuwig licht seer heerlijc schoon en groot,</l>
+<l>Des weerelds licht zijt ghy en s'mensche<hi rend="i">n</hi> leve<hi rend="i">n</hi>,</l>
+<l>Waerachtigh licht en t'ware Hemels brood.</l>
+<l rend="; 1tab">A. Eva verstond uyterlijck door een bloot,</l>
+<l>Haer eygen zaet oft vrucht uyt haer gheresen,</l>
+<l>Te worden los van Duyvel zond en dood,</l>
+<l>Ghelijck als wel ghebleken is nae desen:</l>
+<l>Maer Gods voorsegh ghehoord of oock ghelesen,</l>
+<pb n="11"/>
+<l>Is dickwils wel gheschiedt gheweest jae eer</l>
+<l>Als welverstaen, en oorsake mach wesen,</l>
+<l>Dat ons verstand is in't begrijpen teer.</l>
+<l rend="; 1tab">R. Maer laes de<hi rend="i">n</hi> mensch en heeft van selfs niet meer,</l>
+<l>Da<hi rend="i">n</hi> swacheyt, zonde, ellend verderf ooc mede,</l>
+<l>Vermagh, noch is niet sonder Godt de Heer,</l>
+<l>De vyandschap houd onghedoodt haer stede,</l>
+<l>Noch tussche<hi rend="i">n</hi> Iode en Heyde<hi rend="i">n</hi> vremt van sede,</l>
+<l>De wet als tuyn of wand is tusschen tween,</l>
+<l>Maer t'rechte zaet dat sal den rechten vrede,</l>
+<l>Wel maken oock hem uyt twee volcken een.</l>
+<l rend="; 1tab">A. Messias sal uyt alle volck ghemeen,</l>
+<l>Versamen he<hi rend="i">m</hi> een volck volmaeckt ter degen,<note place="margin">Luc.14.</note></l>
+<l>Een arm slecht verblijf een volck dat gheen</l>
+<l>Loghenen sal spreken noch boosheyt pleghen,<note place="margin">Eph.3.11</note></l>
+<l>Het crom sal recht zijn, Bergen hoog gestegen<note place="margin">Luce.3.5.</note></l>
+<l>Vernedert slecht vervult werd alle dal,</l>
+<l>T'oneffen vlack tot eenen wegh gheleghen,</l>
+<l>En alle vleesch Gods Salicheyt sien sal.</l>
+<l rend="; 1tab">R. Siet Davids hutte als nu zijnde in v<hi rend="i">er</hi>val<note place="margin">Amo.9.11</note></l>
+<l>Werd opgherecht de Berghen sullen vloeyen,<note place="margin">Ioel.3.18</note></l>
+<l>Van soeten wijn de heuvels van melck al,<note place="margin">Amo.9,14</note></l>
+<l>Israel sal ghelijck een roose bloeyen,<note place="margin">Hose.13.5.</note></l>
+<l>En t'woud ghelijck de Lelye sal groeyen,</l>
+<l>In dorre zand daer Slangen lagen eerst,</l>
+<l>Ter weyde gaen de Beyren met den Koeyen,</l>
+<l>Sullen, en t'saem hen Iongen legghen meest.</l>
+<l rend="; 1tab">A. Ia dan sal by dat felle Luypaerd beest,</l>
+<l>Hem vry den Bock neer legge<hi rend="i">n</hi>, en gaen weyde<hi rend="i">n</hi></l>
+<l>De Lammers by den Wolven onbevreest,</l>
+<l>Een knechtken cleen sal drijven en gheleyden,<note place="margin">Esa.11.7.</note></l>
+<l>Den Leeuwen jong en Kalvers onverscheyde<hi rend="i">n</hi></l>
+<l>T suyg kind sal lust hebbe<hi rend="i">n</hi> aen t'slang hol erg</l>
+<l>T'gespeend zijn hand in Basilisk cuyl spreyde<hi rend="i">n</hi></l>
+<l>Quetse en v<hi rend="i">er</hi>derf wort niet op s'Heere<hi rend="i">n</hi> Berg,</l>
+<l rend="; 1tab">R. Eerdworm mensch v<hi rend="i">er</hi>worpe<hi rend="i">n</hi> arm dwerg</l>
+<l>Wilt ancker hope in Gods beloften vesten</l>
+<l>Een droeve Zee vol onrustigh ghetergh,</l>
+<l>Ontmoet u hier in des' aerdsche ghewesten,</l>
+<pb n="12"/>
+<l>O weerelds Heer ghy hebt nu niet ten besten,</l>
+<l>Dan rocken slechs van dieren vellen rouw,</l>
+<l>Die Borger waert van t'Paradijs, ten lesten</l>
+<l>Sijn Boer die he<hi rend="i">m</hi> geneerd met land gebauw.</l>
+<l rend="; 1tab">A. Treckt ghy dus heen Monarche met u Vrauw,</l>
+<l>Met croon noch staf van goudt op ros noch wielen,</l>
+<l>Ter weereld in my dunct ick niet aenschauw</l>
+<l>Na u tot pracht een hoop van dienaers criele<hi rend="i">n</hi></l>
+<l>Dan voet in stap u snellijck, is op d'hielen,</l>
+<l>De bleecke dood jae seer belust is sy,</l>
+<l>Soo't schijnt om dy en dijn geslacht vernielen</l>
+<l>Ghy spit of graeft sy is u altijds by.</l>
+<l rend="; 1tab">R. Naer t'ongheluck u over comen vry,</l>
+<l>Magh een dingh dy wel dienen tot vermaken,</l>
+<l>Dats dat ghy hebt ee<hi rend="i">n</hi> hulpster schier als ghy,</l>
+<l>Dan al meer sacht van wesen aerd en sprake<hi rend="i">n.</hi></l>
+<l>Die nacht en dag u swaerheyt sal ontschake<hi rend="i">n</hi>,</l>
+<l>Haer lieflijckheyt en suycker woorden puyr,</l>
+<l>Gesaust hier mede u soet sal drincken smaken</l>
+<l>Dit kort, en quaed arbeydigh leven suyr.</l>
+<l rend="; 1tab">A. Adam en vind me borgher noch gebuyr,</l>
+<l>Huys dack noch muyr gheen Stad noch dorpsche Kercken,</l>
+<l>Als Herder wijs der dieren, aerd, natuyr</l>
+<l>En nae<hi rend="i">m</hi> hy kent, en speurd met wijs opmerke<hi rend="i">n</hi></l>
+<l>Welck tembaer is tot suyvel, nut of wercken.</l>
+<l>Eva bevrucht van Adam heeft onsacht,</l>
+<l>Kain ghebaerd sprack vreughdigh om verstercken</l>
+<l>Ick hebbe voort des Heeren Man gebracht.</l>
+<l rend="; 1tab">R. T'beloofde saet tot breuck van s'vyants macht,</l>
+<l>T'schijnt wel sy dacht hy wesen soude, en moeder,</l>
+<l>Wert sy daer na van Habel welcken placht,</l>
+<l>(Gelijck als wy) te zijn een schapen hoeder,</l>
+<l>En (soo de nood tot arbeyd pord) sijn broeder,</l>
+<l>Ee<hi rend="i">n</hi> bauwer word der eerde als eertsch gesint,</l>
+<pb n="13"/>
+<l>Maer Habel vroom godsvruchtiger en vroeder</l>
+<l>T'schaephoedig La<hi rend="i">m</hi> was Gods vercore<hi rend="i">n</hi> kind</l>
+<l rend="; 1tab">A. Int offeren siet Kains toorn begind,</l>
+<l>Want hy bevind sijn gift is niet bequaemigh,</l>
+<l>Maer God die gee<hi rend="i">n</hi> quaedwillicheyd bemindt</l>
+<l>Wijst hem waerom en vraeght hem seer minsamigh,</l>
+<l>Ist niet alsoo dat ghy zijt aenghenamigh,</l>
+<l>Als ghy zijt vroom, maer zijt ghijs niet, soo rust,</l>
+<l>Die sonde voor u deure, dus betamigh,</l>
+<l>Verheerschapt haer dwingt hare<hi rend="i">n</hi> boosen lust.</l>
+<l rend="; 1tab">R. Nijd-sonde fel bedrieghlijck lockt en rust</l>
+<l>Smeeckt ongesust en terght desen gestoorden</l>
+<l>Sy blaest hem vuyr in zijn herte ongheblust,</l>
+<l>T'onvroom ghemoedt als baenst oft lonte koorden,</l>
+<l>Ontsteekt seer licht wraeckgierigh om te moorden,</l>
+<l>De sonde vindt cleen wederstand aldaer,</l>
+<l>Hy gaet en lockt met schoon geveynsde woorden,</l>
+<l>Sijn broeder uyt, en wort zijn moordenaer.</l>
+<l rend="; 1tab">A. Geen moeyelijck dingh so quellijck noch so swaer,</l>
+<l>Als wesen maer in slaverny der sonden,</l>
+<l>Met al den hoop verlusten wisselbaer,</l>
+<l>Die recht ghelijck zijn woeste gulse honden,</l>
+<l>Die hunnen knecht dick hebben gantsch verslonden.</l>
+<l>Wel geluckigh is die van hun is ontplaeght,</l>
+<l>Maer houdtse in toom der vreesen Godts ghebonden,</l>
+<l>Hy vanght de doot die nae zijn lusten jaeght.</l>
+<l rend="; 1tab">R. Kain eylaes voor S'Heere<hi rend="i">n</hi> roep versaegt</l>
+<l>Wilt noch gevraeght met leugen sonde decken,</l>
+<l>Wanhoop hem vanght t'ghemoed dat wroegigh knaeght,</l>
+<l>Tsy waer hy vlucht vervolgt he<hi rend="i">m</hi> talle<hi rend="i">n</hi> plecken,</l>
+<l>Vervolgers veel hem tot navolgers strecken,</l>
+<pb n="14"/>
+<l>In dwangh geloof hem meenigh onderwind</l>
+<l>En gaet met bloed noch sijnen pad bevlecken,</l>
+<l>Ghedreven meest (als hy) door yver blind.</l>
+<l rend="; 1tab">A. Nu hoort na my dit raetsel ons o<hi rend="i">n</hi>tbind,</l>
+<l>Waer was het kind gheboren voor den vader,</l>
+<l>En wie den Man soo nijdigh fel ghesind,</l>
+<l>Die t'derdendeel der Mannen self te gader,</l>
+<l>Versloeg alleen, want condy als goed rader,</l>
+<l>Gheraden dit dat ick te raden gaf,</l>
+<l>V wijsheyd dan en werd ick geen versmader,</l>
+<l>Ick schinck u siet dees pijp en herder staf.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Achitop weder op de wijse des</hi> 104. Psalms.</l>
+<l>Veel vraghen hoogh laet dalen diep int graf,</l>
+<l>Want elck can daer gheen Oordeel geven af,</l>
+<l>Dan dit weet ick dat beyde ghy int singhen,</l>
+<l>Prijs weerdigh zijt, van niemandt wel te dwinghen.</l>
+</lg><p>T'weede Veld-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0003"/>
+        </interpGrp>
+<head rend="h3">Het derde Veld-Lied </head>
+<div type="section">
+<head rend="h4">nae de wijse des 8.Psalm.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Hebreus, Proselytus. Lamech.</hi></l>
+<l><hi rend="i">DIt</hi> was den Boom droogh toppig hel gespleten,</l>
+<l>Daer t'swerm Byen in ruyschte als wy gheseten,</l>
+<l>Daer onder eens aenhoorden maegder sang,</l>
+<l>En t'bosch rontom antwoorde in wedercla<hi rend="i">n</hi>c.</l>
+<l rend="; 1tab">P. Doe Anna jongh en Agar Herderinnen</l>
+<l>Van t'suyver vuyr der houwelijcker minnen,</l>
+<l>Des Bruydegoms tot Sion en zijn Bruyd,</l>
+<l>Ontkeelden ons een gheestigh soet gheluyd.</l>
+<l rend="; 1tab">L. Wt Maeghdenborst de stemme is uytghelesen,</l>
+<l>Soo dat een Lied een ander schijnt te wesen,</l>
+<l>Alst comt soo uyt een Hemel keelden fijn,</l>
+<l>Met niet veel const maer aerdig sonder pijn.</l>
+<l rend="; 1tab">H. Witt' winde bloems'lijf-schoonheyt en wel singhen,</l>
+<pb n="15"/>
+<l>Zijn alle drie verganckelijcke dinghen,</l>
+<l>Wel singht hy die met singhen hem verlicht,</l>
+<l>Iae die God eerd en sijnen Naesten sticht.</l>
+<l rend="; 1tab">P. De Heydenschap met sangh verweckt Gods tooren,</l>
+<l>Haer vreught verwaerdt recht, Isralytische ooren,</l>
+<l>S'vleeschs vuylen lust sy liefde noemt en daer</l>
+<l>Is haer ghevlect der lieden van eenpaer,</l>
+<l rend="; 1tab">L. Doch wie daer in hier wandeld sal gheslaghen</l>
+<l>Sijn aldermeest, ten jongsten dag der dagen,</l>
+<l>In eeuwicheyt. Ock ist niet wonder dan,<note place="margin">2.Pet.2.9</note></l>
+<l>Dat yemant daer spreect geeren of singt van?</l>
+<l rend="; 1tab">H. Can water soet uyt bitter ader spruyte<hi rend="i">n</hi>, <note place="margin">Iac.3.11.</note></l>
+<l>Een herte daer God met zijn woord is buyte<hi rend="i">n</hi></l>
+<l>Hoe can dat in den Heere maken vreughd,</l>
+<l>In rechten geest vercondighen zijn deughd?<note place="margin">1.Pet.2.9</note></l>
+<l rend="; 1tab">P. Nu Heber da<hi rend="i">n</hi> en ghy ooc Lamech beyde</l>
+<l>Singht gheestlijcx yet om onser zielen weydt,</l>
+<l>Een traentgen most uyt den wijn-kelder soet,<note place="margin">Cant.2.4.</note></l>
+<l>Brenght voort en schenckt tot Troost van ons ghemoet.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">De wijse des 74. Psalms.</head>
+    <lg type="poem">
+<l rend="; 1tab">H. Van Adam noch te singe<hi rend="i">n</hi> dunct my goed</l>
+<l>Nu hulpe doet o God Heer der Heyrscharen,</l>
+<l>Als Adam oud was honderd dertich jaren,</l>
+<l>Doen wan hy Seth een Beeld ghelijck als hy</l>
+<l rend="; 1tab">Seth hiet hy want Eva sprac God heeft my,</l>
+<l>Ghesteld nu by een ander zaed verheven,</l>
+<l>Voor Abel die van Kain doodt is bleven,</l>
+<l>Siet van dit zaet Gods kinders quamen af.</l>
+<l rend="; 1tab">L. Noch ee<hi rend="i">n</hi> geslacht qua<hi rend="i">m</hi> voort va<hi rend="i">n</hi> Kain straf</l>
+<l>Het welc men gaf naem kindere<hi rend="i">n</hi> der mensche<hi rend="i">n</hi></l>
+<l>Een volc dat volgde al na zijn s'herte<hi rend="i">n</hi> we<hi rend="i">n</hi>sche<hi rend="i">n</hi></l>
+<l>Welcx oeffening al tydelijck was meest,</l>
+<l rend="; 1tab">Maer t'ander volck van Seth heeft Godt gevreest,</l>
+<l>T'liet s'Heeren geest hem straffen en bewege<hi rend="i">n</hi></l>
+<l>Want Seth heeft siet ee<hi rend="i">n</hi> sone oprecht gecrege<hi rend="i">n</hi></l>
+<l>Wiens naem is sone alsmen te rugghe speld,</l>
+<pb n="16"/>
+<l rend="; 1tab">H. Nu Enos vroom den godvruchtighen Held,</l>
+<l>Heeft ingesteld Godtsdie<hi rend="i">n</hi>stigheyd bequame,</l>
+<l>Doe riepmen aen des Heeren hooge<hi rend="i">n</hi> Name,</l>
+<l>Ghepredickt werd van sijnen wille en raed,</l>
+<l rend="; 1tab">Dit Geestelijck puyr Godts kinder-barig zaed,</l>
+<l>Dat n<hi rend="i">iet</hi> vergaet maer eeuwig blijft in wesen,</l>
+<l>Wert mondelinge al voort gesaeyt na desen,</l>
+<l>Want by Gods-volck heeft oydt geweest zijn woord,</l>
+<l rend="; 1tab">L. Getuychnis claer wel weerd te zijn gehoord</l>
+<l>Wist Adam voort wt s'Heere<hi rend="i">n</hi> mond te bre<hi rend="i">n</hi>ge<hi rend="i">n</hi>,</l>
+<l>Wat heerlijck schoon geselschap ouderlingen</l>
+<l>Was daer vergaerd somen wel dencken can.</l>
+<l rend="; 1tab">Adam voor eerst, Seth, Enos en Kainan,</l>
+<l>Daer toe den man Mahalaleel oock mede,</l>
+<l>Iared, hier by, en<hi rend="i">de</hi> Enoch goed van zede,</l>
+<l>Met ander veel meer vrome in groot getal.</l>
+<l rend="; 1tab">H. Wie ist die ons te recht betuyghen sal,</l>
+<l>Wie eerst voor al aenving de letter conste?</l>
+<l>Of Enoch niet te schryven eerst begonste</l>
+<l>Al zijn voorseg in Boecken soomen acht.</l>
+<l rend="; 1tab">Hy heeft voorseyd va<hi rend="i">n</hi>t goddeloos geslacht,</l>
+<l>Dat onbedacht niet op de<hi rend="i">n</hi> Heer wil schaffen,</l>
+<l>Hoe dat den Heer oordelen sal en straffen,</l>
+<l>Hun wercken quaet en boose woorden herd,</l>
+<l rend="; 1tab">L. Hy leydend' hier een godlijck leven werd</l>
+<l>Wt d'eerdtsche smert van Gode wech ghenomen,</l>
+<l>Mathusal quam van hem, van wie<hi rend="i">n</hi> is come<hi rend="i">n</hi></l>
+<l>Den vader van Noe die Lamech hiet.</l>
+<l rend="; 1tab">En Lamech sprack van Noe desen siet</l>
+<l>In ons verdriet ons troosten sal eenpaerlijc,</l>
+<l>Ia in ons moeyte<hi rend="i">n</hi> en arbeyd groot beswaerlijck,</l>
+<l>Gy d'eerde die vervloeckt is van den Heer.</l>
+<l rend="; 1tab">H. Nae t'rechte zaedt verlangt was dickwils seer.</l>
+<l>Maer meer en meer in Noes tijd v<hi rend="i">er</hi>minderd</l>
+<pb n="17"/>
+<l>Is Gods gemee<hi rend="i">n</hi>te en met afval verhinderd</l>
+<l>Doorlust des vleeschs en o<hi rend="i">n</hi>reyn buyte<hi rend="i">n</hi>-trauw</l>
+<l rend="; 1tab">Al t'mensch-opset was boos in Godts anschauw,</l>
+<l>Hy creech berauw dat hy hier op der eerde,</l>
+<l>Den mensche schiep, den welcken hy begeerde,</l>
+<l>Te met te doen met alderley gediert.</l>
+<l rend="; 1tab">L. Maer Noe heeft Godts-woort altijds geviert,</l>
+<l>En hier verciert dees doncker erge wereld,</l>
+<l>Gelijc ee<hi rend="i">n</hi> licht met deuchde<hi rend="i">n</hi> schoon bepeereld,</l>
+<l>Gantsch onvermengt met boose duysterheyd</l>
+<l rend="; 1tab">Een Godlijck goed leven heeft hy geleyd,</l>
+<l>Godlijc geseyd, is een groot woord gesproke<hi rend="i">n</hi>,</l>
+<l>Gods goeden aerd is hier al in beloken,</l>
+<l>Noch bleef hy staen als al de Weerelt viel.</l>
+<l rend="; 1tab">H. Met zijn gesin in het gemeen verniel,</l>
+<l>Hem God behiel, en voor t'verderven seker.</l>
+<l>Wel hondert Iaer en twintig hy een preker</l>
+<l>Der boeten was, en der vroomheyd oprecht.</l>
+<l rend="; 1tab">Maer t'volc versteend en acht niet wat hy segt,</l>
+<l>Niemant en legt sijn boosheyd af besijden,</l>
+<l>Soo dat den Heer niet langer en wilt lijden,</l>
+<l>Dat sijn genaed' het volck tot weelde treckt.</l>
+<l rend="; 1tab">L. Sijn rechter ha<hi rend="i">n</hi>d ter wrake<hi rend="i">n</hi> hy uytstrect</l>
+<l>Die lang verweckt door Toorn was geheve<hi rend="i">n</hi>,</l>
+<l>T'nat Element word lossen Toorn gegeven,</l>
+<l>In den afgrond en quam daer uyt geschorst.</l>
+<l rend="; 1tab">De borne<hi rend="i">n</hi> al verschoorde<hi rend="i">n</hi> d'eerd' haer borst</l>
+<l>En als verlost, is t'wat cruyt gesprongen,</l>
+<l>Dat boven is gecarckert en bedwongen,</l>
+<l>En hangt gestopt in Hemels sluysen groot.</l>
+<l rend="; 1tab">H. Athon Atlas noch Pelion ter nood,</l>
+<l>En mochte<hi rend="i">n</hi> bloot, hun hoofde<hi rend="i">n</hi> uyt den golven</l>
+<l>Niet steken op, maer lagen overwolven,</l>
+<l>Van desen vloed wel vijfthien ellen diep.</l>
+<l rend="; 1tab">Den Dolphijn snel int swemmen vreugt nu schiep,</l>
+<pb n="18"/>
+<l>Daer voortijdts liep licht voetschen hart om hooghe,</l>
+<l>Ia t'selfs wie weet of doe ter tijd ooc drooge,</l>
+<l>Haer hoornen hiel die Phebe heeft den naem</l>
+<l rend="; 1tab">L. Thetis als doe was met haer dochter t'saem</l>
+<l>Maer ee<hi rend="i">n</hi> lichaem, v<hi rend="i">er</hi>mengt was onder ander</l>
+<l>Elck vliet of beke en oock den cleenen mander</l>
+<l>Zijn bedde crom mocht wesen elck ghemeen.</l>
+<l rend="; 1tab">Den Oceaen versmolten al in een,</l>
+<l>Vind nergens geen baerschutsche strand noch sponde,</l>
+<l>Der Eerden cloot hy over al int ronde,</l>
+<l>In zijn blauw cleet verberghende bevanght.</l>
+<l rend="; 1tab"><note place="margin">Sap.10.4.</note>H. Siet een slecht houdt dat wonder veel belanght,</l>
+<l>Hoe't drijft en hangt op t'water al waer binnen,</l>
+<l>De Borghers zijn, met al de Borgherinnen,</l>
+<l>Der Weerelt vrijd, en sweven hier en daer.</l>
+<l rend="; 1tab">Al Kains zaed der menschen kinderschaer,</l>
+<l>En oock die haer van Seths gheslacht aenhinghen,</l>
+<l>In sonden siet hoe zy al t'saem verginghen,</l>
+<l>Een ongheteld ontalbaer volck planteyt.</l>
+<l rend="; 1tab"><note place="margin">rom.5.19.</note>L. Want door eens mans eerste ongehoorsaemheyd,</l>
+<l>Wijt uytghebreyd al veel sondaren waren,</l>
+<l>Maer uytgheroeyt, hoe ist eylaes ghevaren,</l>
+<l>Der slangen zaet haest weder wasdom nam.</l>
+<l rend="; 1tab">Een vervloect zaet van den bespotter Ham</l>
+<l>Ghesproten quam t'geslacht der Cananyten,</l>
+<l>T'groot Babels rijc en ooc der Sodomyten,</l>
+<l>Vijf steden zijn van dit volck al bewoont.</l>
+<l rend="; 1tab">H. Maer siet omhoog wat spits hem daer vertoond,</l>
+<l>Die ongehoont den Hemel schijnt te dreygen,</l>
+<l>Int ruyme veldt Sineac, wat is eyghen,</l>
+<l>T'voornemen doch van al dit volcx bestaen.</l>
+<l rend="; 1tab">Den Hemel hoog, wat, willen zy hem gae<hi rend="i">n</hi></l>
+<l>Beclimmen saen of ist uyt een beduchten,</l>
+<pb n="19"/>
+<l>Der wedercomst des zondtvloedts om opvluchten,</l>
+<l>Waer door zijn sy aldus int werck vervroyt,</l>
+<l rend="; 1tab">L. T'is om een nae<hi rend="i">m</hi> eer sy worde<hi rend="i">n</hi> verstroyt,</l>
+<l>En sooder noyt niet dan Hebreeusche sprake</l>
+<l>Ghebruyckt en was, gheviel een wonder sake.</l>
+<l>Die gladt af sneedt al t'voornemens bedrijf.</l>
+<l rend="; 1tab">Tspraecks werring als des Menschen ongerijf,</l>
+<l>Is stracx al stijf daer onder t'volck gedronge<hi rend="i">n</hi></l>
+<l>D'een d'ander con zijn herte met der tonghen,</l>
+<l>Niet toonen meer al was hy noch soo schalck</l>
+<l rend="; 1tab">H. Riep een om steen men bracht mortel of calck,</l>
+<l>En stijl voor balck en wildemen een stellingh,</l>
+<l>Doen steylen op (siet wat een groote quelling.)</l>
+<l>Men brackse al af in plaets' van hooge<hi rend="i">n</hi> meer</l>
+<l rend="; 1tab">Riep yemant om een boor of avegeer,</l>
+<l>Hy creegh veel eer een beytel of een schave,</l>
+<l>Of voor een bijl en schoppe, spa of grave.</l>
+<l>Daer bleef dan t'werck men moster scheyden uyt,</l>
+<l rend="; 1tab">L. D'een track naer Oost met volc van sijn gheluyd,</l>
+<l>En d'ander Zuydt een ander volck wiens woorden,</l>
+<l>Gheleken best nae West of som nae Noorden,</l>
+<l>Wel honderd-fout verstroyt ter weerelt in,</l>
+<l rend="; 1tab">Maer Heber hiel de sprake in sijnen sin,</l>
+<l>Die haer begin hadde in den hof van Eden,</l>
+<l>(Ist somen acht) soo doen oock diemen heden</l>
+<l>Hebreeuwen noemt als afcomstich van hem.</l>
+<l rend="; 1tab">H. Een Vader van al Hebers kinders Se<hi rend="i">n</hi>,<note place="margin">Ge.10.22.</note></l>
+<l>Is soo de stem der schrift getuyght van desen,</l>
+<l>Quam Abram af die eerst hadde sijn wesen,</l>
+<l>t'Vr in Caldeen en naemaels tot Haran.</l>
+<l rend="; 1tab">Wt Godts bevel vertrock hy oock daer<note place="margin">Gen.12.4.</note></l>
+<l>van,</l>
+<l>Tot in Canaan want Godt had he<hi rend="i">n</hi> bejegend,</l>
+<l>Met schoon belofte als dat in hem gesegend,<note place="margin">Gen.12.4.</note></l>
+<l>Alle gheslacht op Eerde soude zijn.</l>
+<pb n="20"/>
+<l rend="; 1tab"><note place="margin">Ge.22.18</note>L. Nu her belooft is t'licht van eeuwich schijn</l>
+<l><note place="margin">Gen.26.4</note>Wt rechter Lijn van Abraha<hi rend="i">m</hi> te dale<hi rend="i">n</hi>,</l>
+<l><note place="margin">Gen.28.14</note>Bevesticht noch is op verscheyden malen,</l>
+<l><note place="margin">Ge.49.10</note>Toesegh geschiedt van t'Saligmakig zaedt,</l>
+<l rend="; 1tab"><note place="margin">Nu.24.17</note>O Sterre schoon al s'Mensche<hi rend="i">n</hi> toeverlaet,</l>
+<l>Comt op en gaet wt Iacob haest geresen,</l>
+<l>Och wie sal dan int leven mogen wesen,</l>
+<l><note place="margin">Nu.24.23</note>Als dit geschiedt waer toe ons hope staet.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Proselytus zinget weder op de wyse </hi>des 8. Psalms.</l>
+<l><hi rend="i">Z</hi>Oo brood verslaet den hongher groot becleven,</l>
+<l>Op zulcker maet hebt t'samen ghy verdreve<hi rend="i">n</hi>,</l>
+<l>Verlangh met sangh en tijds vervelen my,</l>
+<l>Van herten danck u daer van t'samen zy.</l>
+</lg><p>Derde Veld-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0004"/>
+        </interpGrp>
+<head rend="h3">Het vierde Veld-Lied </head>
+<div type="section">
+<head rend="h4">nae de wijse, des 119. Psalms</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Adon.</hi></l>
+<l><hi rend="i">H</hi>Oe gingh dit Lied weet niemand zijn begin,</l>
+<l>Dat Iethro sang daer he<hi rend="i">m</hi> twee kleene knechten,</l>
+<l>Zijn Neven jong, Saul en Benjamin,</l>
+<l>Toe dwongen vaste en dat met goede rechte<hi rend="i">n</hi>,</l>
+<l>Hy had belooft: de wijse en oock den sin,</l>
+<l>Valt my daer in, ten was niet van den slechten.</l>
+<l rend="; 1tab">Can ick ons dat rechte singen op sijn maet,</l>
+<l>So acht ick my en mijn toehoorders saligh,</l>
+<l>Dat yemand doch mijn Schaepkens gade slaet,</l>
+<l>Op datse niet twijlen verstroyen dwaligh,</l>
+<l>En missick yet, van niemand wil ick smaet,</l>
+<l>Want int gemeen zijn alle menschen saligh.</l>
+<l rend="; 1tab">T'ghedenckt my wel doe hy dit sangh hy sat,</l>
+<l>Hier by de spits die Iacob dede bauwen,</l>
+<l>Op Rachels graf hier t'Ephrata de Stad,</l>
+<l>Daer moeder zy en lijck werd in benauwen</l>
+<pb n="21"/>
+<l>Doe Benjamin het eerdsche schoon licht-vat,</l>
+<l>Quam sien, en sy ophiel dat meer t'aenschauwen.</l>
+<l rend="; 1tab">Nu Herders my (al sittend') hier omringt,</l>
+<l>En wilt mijn stem met stem te hulpe comen,</l>
+<l>Want sang met sang ee<hi rend="i">n</hi>drachtig ondermengt</l>
+<l>Wort van t'ghehoor veel liever aengenomen,</l>
+<l>De bloodicheyd queld die alleene singt,</l>
+<l>T'gheselschap doet 'tghemoed oock min verschromen.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">De wijse, Psalm 27.</head>
+<l>Godt blijft altijd by zijn opset te deghen,</l>
+<l>Hy wil den Mensch gantsch Godlijck zy ghesind,</l>
+<l>Hy maeckt niemand tot sondighen ghenegen.</l>
+<l>Ia geen onrecht noch quaed uyt hem begind,<note place="margin">Psal.5.6.</note></l>
+<l>Quaed-doender haet hy, vromen hy bemind,</l>
+<l>Wie quaed-aerds of valsch is vald hem af,<note place="margin">Deu.32.5</note></l>
+<l>Schand-vlec genaemt word hy en niet Gods kind,</l>
+<l>Maer Gods partye oncruyd en onnut kaf.</l>
+<l rend="; 1tab">Aen t'Mensch verderf lust Godt met zond'<note place="margin">Hese.18.32</note></l>
+<l>hy hatet<note place="margin">Psal.95.7</note></l>
+<l>Den Mensch van t'selfs zijn eyghen hert verstockt,<note place="margin">Hebr.3.7.</note></l>
+<l>Van t'selfs hy Godt en zijn ghebodt verlatet,<note place="margin">Iac.1.14.</note></l>
+<l>En zonde doet, door eyghen lust ghelockt,<note place="margin">2.Par.15.2.</note></l>
+<l>Dan hem oock Godt verlaet, en dan berockt</l>
+<l>De zonde loos de straffe der misdaed,</l>
+<l>Dees na verdienst oock God de roeden plockt</l>
+<l>En t'godloos hert v<hi rend="i">er</hi>blind m<hi rend="i">et</hi> blindheyt slaet.</l>
+<l rend="; 1tab">Dus dat den dwaes ghelust dat doet hem sterven,</l>
+<l>De vrucht zijns weeghs eet hy so hy verkoos,<note place="margin">Pro.31.2.</note></l>
+<l>Want van hem selfs heeft den Mensch zijn verderven,<note place="margin">Ose.13.9.</note></l>
+<l>Maer zijn behoed staet by den Heer altoos.</l>
+<l>Merckt Sodoma hoe zy wert goddeloos,<note place="margin">eze.16.49.</note></l>
+<l>Godt sy verliet vervallende in hooghmoed,</l>
+<l>En hooghmoed drijft tot allen zonden boos,<note place="margin">Tob.4.10</note></l>
+<l>Wie daerin steeckt veel grouwelen hy doet.<note place="margin">syr.10.15.</note></l>
+<pb n="22"/>
+<l rend="; 1tab"><note place="margin">gen.13.13</note>Soo dede sy met haer ghebuyrsche steden,</l>
+<l><note place="margin">Pro.16.18</note>Sy waren stout en stoutheyd comt voor val,</l>
+<l>T'behoeftich volck gheen hulpe sy en deden,</l>
+<l>Maer Godt al eer hy uyt wil roepen al,</l>
+<l><note place="margin">Eze.16.49</note>Tot beteringh' hy eenich waerschouw sal,</l>
+<l>Of minder straff voorseynden als oock hier,</l>
+<l>Het is gheschiet, vijf Coninghen int dal</l>
+<l><note place="margin">Gen.14.9</note>Siddim den strijd verloren teghen vier.</l>
+<l rend="; 1tab">Sodom, en oock Gomora nu gheslaghen,</l>
+<l>Van s'Heere'n hand door crijg ja roof en moort</l>
+<l>En van Abram verlost, t'volck sonder vraghen,</l>
+<l><note place="margin">Eze.16.49</note>Nae God, hem vind rijck vredigh ongestoord</l>
+<l>T'gaet wederom in grouwlijck leven voort,</l>
+<l>Dat t'wraeck geroep der zonden fel en swaer,</l>
+<l>Tot boven in den Hemel werd ghehoort,</l>
+<l><note place="margin">Gen.18.20.</note>Voor Godt de Heer den rechter openbaer.</l>
+<l rend="; 1tab">Hoe can ick doch verberghen Abrahame,</l>
+<l><note place="margin">Ge.18.17</note>Wat dat ick doe, heeft den Heere gheseyd,</l>
+<l>Ghemerckt dat hy toenemen sal bequame,</l>
+<l>Tot een seer groot en machtich volck verbreydt,</l>
+<l>En dat op Eerde alle volcken verspreyd,</l>
+<l>Sullen in hem werden ghebenedijd,</l>
+<l>Ick weet hy salt met goeder neersticheyd,</l>
+<l>Bevelen voord in toecomender tijd.</l>
+<l rend="; 1tab">Hy sal wanneer hy kinders heeft ghecreghen,</l>
+<l>In zijn ghesin nae hem doen sulck bevel,</l>
+<l>Dat sy oprecht houden des Heeren weghen,</l>
+<l><note place="margin">Amo.3.7.</note>En doen wat recht en goet is weet ick wel.</l>
+<l>Nu merckt hoe Godt als vriend of meghesel,</l>
+<l><note place="margin">syr.44.12.</note>De vromen houd, en sijnen raed ontdeckt,</l>
+<l>Want Abraham bewees hem altijds snel,</l>
+<l>In Godts gebodt uyt lust daer toe verweckt,</l>
+<l rend="; 1tab">Hem was voorheen van Godt gheboden, wandeld,</l>
+<l>Voor my, zijt vroom, t'zijn korte woorde<hi rend="i">n</hi>, jaet</l>
+<l><note place="margin">Gen.17.2</note>Hy heeft daer naer voor Godt oock recht gehandeld,</l>
+<pb n="23"/>
+<l>Niet teghen God ghewandeld metter daed,<note place="margin">Lev.26.19 21.27.</note></l>
+<l>Voor Sodoma, doe hy vernam Gods raed,</l>
+<l>Dat Godt de heer haer sparen wild' hy badt,</l>
+<l>En t'waer gheschiet, hadd' Godt in vroomen staet,</l>
+<l>Thien mensche<hi rend="i">n</hi> maer gevonden in der Stad.<note place="margin">gen.18.32.</note></l>
+<l rend="; 1tab">Abrahams Neef sijn vierder is ghevloden.</l>
+<l>Door s'Heeren hulp, maer onder ander een,</l>
+<l>Is niet ontvlucht, want siet daer was gheboden,</l>
+<l>En siet niet om behoedt u ziel ghemeen,<note place="margin">gen.19.27.</note></l>
+<l>De vrauw sach om ter stond haer vleesch en been,</l>
+<l>Verandert is, (een wonderlijcke saeck)</l>
+<l>Sy bleef ghevest aen d'aerde, en eenen steen,</l>
+<l>Sy worden is van bracke en soute smaeck.</l>
+<l rend="; 1tab">Een grouwsaem dingh geschied' oock buyten t'pleghen,</l>
+<l>Want siet den Heere af van den Hemel sandt</l>
+<l>Sulfer en vuyr gantsch onghewonen reghen,</l>
+<l>Sodom en oock Gomora wort verbrand,</l>
+<l>Tot asschen al en al tom ligghend land,<note place="margin">2.Pet.2.4</note></l>
+<l>Met t'velds gewas afgrondich omgekeerd,</l>
+<l>T'godloose volck nakomstigh s'Heeren hand,</l>
+<l>Te vreesen wort door dese straff' gheleerd.</l>
+<l rend="; 1tab">Merct hoe de zond' haer dienaers doet beloonen,</l>
+<l>Die sy door lust aenlockt met valschen schijn:</l>
+<l>En hoe dat God den vromen wil verschoonen</l>
+<l>Siet voort hoe dat verstand-beroover wijn,</l>
+<l>Loth vader dede en beste vader zijn,</l>
+<l>Bloedschandich van zijn kinders, onbewist.</l>
+<l>Wijn dijn onmaet vol van onkuysch fenijn,</l>
+<l>Oorsaeckt veel quaeds soo doet der vrauwen list.</l>
+<l rend="; 1tab">Twee volcken arg uyt dit vuyl pare<hi rend="i">n</hi> resen,<note place="margin">Gen.19.37</note></l>
+<l>Den Moabijt en oock den Ammonijt,</l>
+<l>Sy mochten noyt in s'Heeren Tempel wesen<note place="margin">deut.23.3.</note></l>
+<l>Om hun misdaed, want zy den Israelijt,<note place="margin">2.Es.13.2</note></l>
+<l>Wel meenden doen gantsch zijn vermaledijt,</l>
+<pb n="24"/>
+<l>Door Bileam. Den selven Bileam</l>
+<l>Die door Gods gheest heeft over langen tijt,</l>
+<l>Messias comst voorsien in Iacobs stam.</l>
+<l rend="; 1tab"><note place="margin">Num.24.23.</note>Wt Iacob sal met claerheyt uytgheborsten</l>
+<l>De sterre opstaen daer langhe op is gewacht</l>
+<l>Wt Israel den Cepter die den Vorsten</l>
+<l>Van Moab sal verslaen, en oock met cracht<lb/>
+Den kinders Seths verstoore<hi rend="i">n</hi>. Onsen nacht.</l>
+<l>Hoe langh' eylaes sal hy noch dueren dicht,</l>
+<l>So do<hi rend="i">n</hi>cker swart och wa<hi rend="i">n</hi>neer wert volbracht</l>
+<l>De comste van dat seer begheerde licht.</l>
+<l rend="; 1tab">Claer warm zon doyt t'mensch liefdig vercouwen,</l>
+<l>Verdrijft onrecht dat nachtsche doncker seyl,</l>
+<l>Hemelen ghy van boven wilt af dauwen,</l>
+<l><note place="margin">Esa.45.8</note>Gherechtigheyt stort af ghy wolcken steyl,</l>
+<l>Ghy Eerde ontsluyt voortbrengende ons den heyl,</l>
+<l>Gherechtigheyt daer by oock wasse groen.</l>
+<l>Ock wie sal doch van alle swaerheyd veyl,</l>
+<l>Int leven zijn, als Godt dit sal doen.</l>
+<l>&nbsp;</l>
+</div>
+<div type="section">
+    
+<head rend="h4">Weder op de wijs des 119. Psalms.</head>
+    <lg type="poem">
+<l>Nu al ghenoegh mijn vlijt ick hier bewees,</l>
+<l>Een ander magh zijn tweeder of zijn derder</l>
+<l>Oock singen wat, want song ic meer ic vrees</l>
+<l>Ick mochte haest ghelijcken eenigh Herder,</l>
+<l>Eerst van den Wolf ghesien, en worden hees:</l>
+<l>Den gangher mat wenschst ruste al moet hy verder.</l>
+</lg><p>T'vierde Veld-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0005"/>
+        </interpGrp>
+<head rend="h3">Het 5. Veld-Lied </head>
+<div type="section">
+<head rend="h4">wijse 116. Psalm.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Achitop Lamech.</hi></l>
+<l><hi rend="i">T</hi>'Komt op ons aen o Lamech laet ons stellen,</l>
+<l>Ons dat wy tsaem yet singhen of vertellen,</l>
+<l>Fraey overhandt misschien werd onsen loon,</l>
+<l>Een altijds groen gebeyerd' yesten croon.</l>
+<l rend="; 1tab">L. Als t'veld is schoon om sien, en soet om riecken,</l>
+<pb n="25"/>
+<l>De Bye en ooc vijfwonter bont van wiecke<hi rend="i">n</hi>,</l>
+<l>T'ghebloeyde hof door vlichlen in ghedwael,</l>
+<l>Sy wislen bloem en rusten menighmael.</l>
+<l rend="; 1tab">A. De Nachtegael der vlercksche sanghers besten,</l>
+<l>Doet clincke<hi rend="i">n</hi> t'wout, da<hi rend="i">n</hi> dauwt zijn lieve neste<hi rend="i">n</hi></l>
+<l>T'ghevoghelt al om teelen voort ghepaert?</l>
+<l>Gheprickelt van de liefd' en des tijds aerd.</l>
+<l rend="; 1tab">L. Als dit verjaerd verjaren sal met eenen,</l>
+<l>Dat Amon wijt buyt' alle Herders meenen,</l>
+<l>Creegh Melcha Iong de schoone Herderin,</l>
+<l>Daer Korytes op hadde sulcken sin</l>
+<l rend="; 1tab">A. Aen sijnen kin had hy maer eerst gecrege<hi rend="i">n</hi></l>
+<l>Een wolle als wy te sien aen persen pleghen,</l>
+<l>Doe hy haer sach en van liefd oock verdween</l>
+<l>Soo dat hy met meer Korytes en scheen.</l>
+<l rend="; 1tab">L. Want Amon een rijck Herder zijn ontvryder,</l>
+<l>Die won den strijd en s'maeghds hert en geen blijder,</l>
+<l>Bruygom noyt was noch blijder bruylof-feest</l>
+<l>Ons Boersche jeughd verweckte daer elckx gheest.</l>
+<l rend="; 1tab">A. De steenkens meest der Herderinne<hi rend="i">n</hi> waren,</l>
+<l>Oorsuycker soet en sausse tot den snaren</l>
+<l>Der holde Luyt en der dry-hoeckte Herp,</l>
+<l>Dit al v<hi rend="i">er</hi>mengt schoon t'sae<hi rend="i">n</hi> geluyt uytwerp.</l>
+<l rend="; 1tab">L. Maer al te scherp en luyde<hi rend="i">n</hi> dunckt my rasen,</l>
+<l>Crom hooren, fluyt, sac-pijp, al wat met blasen,</l>
+<l>Moet slaen geluyd het welc den sang v<hi rend="i">er</hi>dooft,</l>
+<l>En t'lieds verstand of woorden ons berooft,</l>
+<l rend="; 1tab">A. Soo menigh hooft soo menigh zin verscheyden,</l>
+<l>Daer werdt ghedacht noch Roomsch noch Grieckschen Heyden,</l>
+<l>Thalassus noch oock Hymeneus niet,</l>
+<l>Sulck vreugde<hi rend="i">n</hi> roep en was in Bruyloft-liet.</l>
+<l rend="; 1tab">L. Maer Iacob siet, ja Iacob Iacob t'elcken</l>
+<l>Ia Iacob ja, ja Iacob Iacob welcke<hi rend="i">n</hi></l>
+<l>Gheluckigh was, want hy zijn ouders recht</l>
+<pb n="26"/>
+<l>Gehoorsaem eerde, en t'ging hem wel in echt.</l>
+<l rend="; 1tab">A. Wech gingh hy knecht met Herder staf en keerde</l>
+<l>Heer wederom die heyren twee verheerde,</l>
+<l>De voorgheboort en s'vaders seghen quam</l>
+<l>Op hem, en God in hoed' hem altijds nam.</l>
+<l rend="; 1tab">L. voor Edom gram was hy ter vlucht geweken,</l>
+<l>Aen een Fonteyn daer comt hem by gestreke<hi rend="i">n</hi></l>
+<l>Een Herderin die hy soo haest oock steld,</l>
+<l>Int hert als wel t'gesicht haer schoonh<hi rend="i">eyt</hi> melk.</l>
+<l rend="; 1tab">A. Zijn woord verseld met kus en vreughdsche tranen,</l>
+<l>Hem openbaerd te wesen van soodanen</l>
+<l>Gheslacht als sy, als tacken van een boom</l>
+<l>Gesproten want haer Vader was zijn Oom.</l>
+<l rend="; 1tab">L. Saegt ghy oyt stroom der beken van de<hi rend="i">n</hi> berghen</l>
+<l>Af storten snel, denckt dat dat water nerghen,</l>
+<l>Nae niet en vloeyt, soo licht als dese maeghd,</l>
+<l>na huys toe loopt, en dees bly tijding draegd,</l>
+<l rend="; 1tab">A. Haer herte jaegd de milte werd te steke<hi rend="i">n</hi>,</l>
+<l>Te seer vermoeyd den aesse<hi rend="i">m</hi> weygerd spreken,</l>
+<l>Veel woorden uyt, soo seer sy hijght en blaest,</l>
+<l>Al haren geest is door nieuw vreugd verbaest.</l>
+<l rend="; 1tab">L. En also haest den Syrier hoord' verhale<hi rend="i">n</hi>,</l>
+<l>Van sijnen Neef hy loopt in huys hem halen,</l>
+<l>Onthaeld hem wel, de<hi rend="i">n</hi> jong'ling seer v<hi rend="i">er</hi>fraeyd,</l>
+<l>Doort vuyr dat meer en meer inwe<hi rend="i">n</hi>dig laeyd.</l>
+<l rend="; 1tab">A. Soo goudt-bloem draeyd of bloem van Cykoreyen,</l>
+<l>Nae volght de Zon, de schoone Rachel leyen,</l>
+<l>En trecken na haer Iacobs ooghen con,</l>
+<l>Sy was hem oock een claer en lieve Zon.</l>
+<l rend="; 1tab">L. Liefd' hem verwon en soo de liefd om draghen,</l>
+<l>Geen ding is swaer, hem dochte weynig daghen,</l>
+<l>Den Herder-dienst die hy om winnen haer</l>
+<l>Met lust aen gingh, den tijd van seven Iaer.</l>
+<l rend="; 1tab">A. Wat strijd hoe swaer' of wat ghestade </l>
+<pb n="27"/>
+<l>zinnen,</l>
+<l>Of wat een cracht so grooten vuyr verwinne<hi rend="i">n</hi></l>
+<l>Met kuysch ghemoed te lijden dervens pijn,</l>
+<l>En altijds by t'gheliefde goet te zijn.</l>
+<l rend="; 1tab">L. Nu ter woestijn int veld en dan geseten,</l>
+<l>By borne int schaeuw of waer't is wel te wete<hi rend="i">n</hi></l>
+<l>Gods vrees en dulde in hoe seer eensaem wout</l>
+<l>Hert hand noch mond yets yet te wesen stout.</l>
+<l rend="; 1tab">A. Och voortijd oud' seer ong lijck desen laetsten,</l>
+<l>Hoe all dingh veranderd is ten quaetsten,</l>
+<l>Bedroch ontrauw en onghebonden lust,</l>
+<l>De Weereld al nu stellen in onrust.</l>
+<l rend="; 1tab">L. Was doe ghekust in t'samen-comst of scheyden,</l>
+<l>T'was sonder arg, de Maegd met minnaer weyden,</l>
+<l>T'gewolde kudde als met haer broeder ging,</l>
+<l>Soo vry als met haer Vaer of Ouderlingh.</l>
+<l rend="; 1tab">A. Hoe goed een dingh is Ouders t'uwer vreughden,</l>
+<l>V kinders wel te voeden op in deughden,</l>
+<l>Dees jeughd ter deugd in den oprechten pad,</l>
+<l>Was wel ghestierd de vruchten toonden dat.</l>
+<l rend="; 1tab">L. Wat eerst int vat dat nieuw is wort gegoten,</l>
+<l>Den reuck daer van blijft lange in hem besloten,</l>
+<l>Ieugds hert aldus behoud oock soet of suyr,</l>
+<l>Ghewoonte allenghs veranderd in Natuyr.</l>
+<l rend="; 1tab">A. Wijnbrauwen stuer' hard tongh' en hert sachtmoedigh,</l>
+<l>Een dreygsae<hi rend="i">m</hi> hand met Roe gewapent vroedigh,</l>
+<l>En stagen dwangh, goe voorgangh boven al,</l>
+<l>In kinder tucht goe vrucht u baren sal.</l>
+<l rend="; 1tab">L. Licht al te mal m<hi rend="i">et</hi> kinders ca<hi rend="i">n</hi> me<hi rend="i">n</hi> wesen</l>
+<l>Of ernst is het straffen, aen het wesen,</l>
+<l>Can met opmerck bet onderscheyden t'kind,</l>
+<l>Als Schipper grijs kend aen t'Compas den wind,</l>
+<l rend="; 1tab">Maer ouders blind waenliefdig al ontsteke<hi rend="i">n</hi>,</l>
+<l>Roesparigh ghy die dult kinds quade treken,</l>
+<pb n="28"/>
+<l>T'gaet u als boer die n<hi rend="i">iet</hi> de<hi rend="i">n</hi> wijngaerd snoeyd</l>
+<l>Daer wilde vrucht en bitter hem da<hi rend="i">n</hi> groeyd.</l>
+<l rend="; 1tab">A. T'zy of het gloeyd van hit, of kild van vriesen,</l>
+<l>Te seer verlieft den Herder niet verliesen,</l>
+<l>Can moed, hy teld jae scheld traeg maent en dag</l>
+<l>Dat hy verdiende<hi rend="i">n</hi> loon niet erven mag</l>
+<l rend="; 1tab">L. Maeckt gee<hi rend="i">n</hi> verdrag de Maegt eyscht hy ten tijde,</l>
+<l>De Feest gedae<hi rend="i">n</hi>, t'word doncker des hy blijde</l>
+<l>Ter camer gaet, daer hem de bruyd v<hi rend="i">er</hi>wacht,</l>
+<l>T'bruyd bedde doch gemist de rechte vracht.</l>
+<l rend="; 1tab">A. Den blinden Nacht van morgen-stond verdreven,</l>
+<l>Ter vensters in comt dag, die wel can geven</l>
+<l>Goed onderscheyd van schoon en leelick wis,</l>
+<l>Hier s'weers bedrog blijct, ooc t'beloone<hi rend="i">n</hi> mis.</l>
+<l rend="; 1tab">L. Dat' Lea is swac oogig Rachels suster</l>
+<l>Siet hy en gaet tot Laban die geruster</l>
+<l>Hem steld, en gheeft hem als de weke is uyt,</l>
+<l>Voor seven Iaer nieu die<hi rend="i">n</hi>st zijn liefste bruyd.</l>
+<l rend="; 1tab">A. Nieuw vreugds geluyd in Hara<hi rend="i">n</hi> t'aller wegen,</l>
+<l>Wt Labana huys v<hi rend="i">er</hi>stroyt doet clincke<hi rend="i">n</hi> tegen</l>
+<l>Huys borg en clip den Herder crijgt te deel,</l>
+<l>Sijn lieve Schaep genoegt' en hert juweel.</l>
+<l rend="; 1tab">L. God heeft hem heel rijck worden boven maten,</l>
+<l>En weder t'huys met vreden comen laten,</l>
+<l>Want zijn geloft gedaen tot Lus de Stad,</l>
+<l>Die Bethel heet den Heer niet en vergat.</l>
+<l rend="; 1tab">A. Ist (seyde hy) dat God wil mijn reyse spoeden,</l>
+<l>Ia cleers om t'lijf te decke<hi rend="i">n</hi> brood om voede<hi rend="i">n</hi>,</l>
+<l>My geven oock te keeren vredig tot</l>
+<l>Mijn Vader t'huys soo werd de Heer mijn God.</l>
+<l rend="; 1tab">L. Want doe t'gebod zijns ouders gehoorsaem hy</l>
+<l>Wt Barsaba trock na Mesopotamy,</l>
+<l>Om trauwen daer in t'moederlijck geslacht,</l>
+<pb n="29"/>
+<l>Heeft hy tot Lus op dat gheberght vernacht.</l>
+<l rend="; 1tab">A. Een roodtse onsaght zijn bedd' is wien soud lusten,</l>
+<l>Oock is een steen zijn peulwe om t'hooft op rusten,</l>
+<l>T'blaeu Hemel welf vol sterren zijn huys dac</l>
+<l>Die reyst en vind niet altijd zijn ghemack</l>
+<l rend="; 1tab">L. Den slaep in brac en dreef de sorge buyte<hi rend="i">n</hi></l>
+<l>En door vergeet d'oogschelen deed' hy sluyte<hi rend="i">n</hi>,</l>
+<l>Nu comt den droom een groot gheheymigh werck,</l>
+<l>Bewerpt hy daer in s'geests inbeeldigh perck.</l>
+<l rend="; 1tab">A. Met goed opmerck den Hemel rond hy maeckte,</l>
+<l>Op d'eerd' een Leer' ooc die den Hemel raecte</l>
+<l>Daer op en af Gods Eng'len clommen saen,</l>
+<l>En Iacob sag den Heer op t'hoogst ooc staen.</l>
+<l rend="; 1tab">L. Hem zijn ghedaen beloften schoon om hooren,</l>
+<l>Zijn saed en hem sal Canaan t'lant toe hoore<hi rend="i">n</hi></l>
+<l>Zijn saed als stof sal zijn op Eerden uyt,</l>
+<l>Ghebreyd seer wijd West Oost oock Noord en suyd.</l>
+<l rend="; 1tab">A. Noch tot besluydt een g'lof van hooghe weerden</l>
+<l>Door u en door u zaed sal zijn op Eerden,</l>
+<l>Gheseghend al het mensch gheslacht eenpaer,</l>
+<l>T'beloofde zaed van nieuws belooft is daer.</l>
+<l rend="; 1tab">L. Geseyt is maer in een, niet in veel saden,<note place="margin">Gal.3.16.</note></l>
+<l>Werd s'mensch geslacht gesegend uyt genade<hi rend="i">n</hi></l>
+<l>Den Heyden door t'gheloof in Christo magh,</l>
+<l>Rechtveerdich zijn ooc so de Schrift voor sag.<note place="margin">Gala.3.8.</note></l>
+<l rend="; 1tab">A. Snel troostich dach comt snellijck ons u bieden,</l>
+<l>Maer tergh ghemoed, nacht vleugheld u om vlieden,</l>
+<l>In Tartars kuyl swijmdieptigh ongewoon,</l>
+<l>En sonder keer verberghd u daer ghevloon.</l>
+<l rend="; 1tab">L. Nu Isaacs soon ontwaeckt en heen gevloghen,</l>
+<l>Den Droom, hy sprack den Heer is ongeloge<hi rend="i">n</hi>,</l>
+<l>Te deser plaetse en t'was my onbekend,</l>
+<l>Een coude vreese in hert hem quam gherent.</l>
+<pb n="30"/>
+<l rend="; 1tab">A. Och hier ontrent dees plaets hoe seer vervaerlijck,</l>
+<l>Iae heyligh ist niet al en ist hier waerlijck</l>
+<l>Als ee<hi rend="i">n</hi> huys Gods en hier is s'Hemels poort,</l>
+<l>D' Eerdsz-vader sprac dus, staende op na dit woord</l>
+<l rend="; 1tab">L. Vroeg ging hy voort de<hi rend="i">n</hi> stee<hi rend="i">n</hi> zijns hoofts oplichten</l>
+<l>En tot een merck der plaetsen daer oprichte<hi rend="i">n</hi>,</l>
+<l>Den steen gesalft heeft hy met Oly flus,</l>
+<l>En noemd de stad nu Bet El die hiet Lus.</l>
+<l rend="; 1tab">A. Noch sprack hy dus den steen van my gheresen</l>
+<l>Om hoog hier tot een teecken die sal wesen,</l>
+<l>Noch een huys Gods, dit opgericht merck,</l>
+<l>Wijst ons nu aen een heylig wonder werck.</l>
+<l rend="; 1tab">L. Gods huys de Kerck jae Syon Gods Ghemeente,</l>
+<l>Sal staen gebauwt op Christum t'dier ghesteente,</l>
+<l>Hy een met haer, in haer als open baen,</l>
+<l>Werd selfde Leere om tot den Vader gaen.</l>
+<l rend="; 1tab">A. Eens op te staen om gaen na Beth-El henen</l>
+<l>Te woonen, daer hem God so was v<hi rend="i">er</hi>schene<hi rend="i">n</hi></l>
+<l>Dit heeft de Heer bevolen Israel,</l>
+<l>Een Altaer oock moest hy daer bauwen snel.</l>
+<l rend="; 1tab">L. Stracks doet bevel hy aen zijn huysch boden</l>
+<l>Van onder u doet wegh de vremde goden,</l>
+<l>Iae reynigd u veranderd oock u cleyd,</l>
+<l>Staet op om op te trecken weest bereyd.</l>
+<l rend="; 1tab"><note place="margin">Esa.2.5.</note>A. Comt werd geseyd laet ons te<hi rend="i">n</hi> berg des Heeren</l>
+<l><note place="margin">Ier.31.6.</note>Op gaen, tot t'huys van Iacobs God vol eeren,</l>
+<l><note place="margin">mich.4.2.</note>Wy sullen gaen in s'Heeren huys dit soet</l>
+<l><note place="margin">Psa.122.1</note>Blymarig woort v<hi rend="i">er</hi>heugd ooc Davids moed.</l>
+<l rend="; 1tab">L. Ae<hi rend="i">n</hi> rechte boet sal Christi Leer beginne<hi rend="i">n</hi></l>
+<l>Die heet opstaen d'afgoden onser sinnen,</l>
+<l>Begraven, wegh al moeten zijn gedaen,</l>
+<l>t'Cleed Adam oud moet uyt en Christus ae<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">A. Oock sal bestaen tot s'weerelds eynd in</l>
+<pb n="31"/>
+<l>'t midden</l>
+<l>Der kinder Gods ee<hi rend="i">n</hi> Altaer daer t'recht bidden,</l>
+<l>En al t'goed werck opg'offert Gode werd,</l>
+<l>T'reuc-vat werd van t'reyn geloofvig liefdig hert.</l>
+<l rend="; 1tab">L. Wien t'quaed-doen smert en voord al wil versaken,</l>
+<l>Ten altaer gae hy vind dan soet vermaken,</l>
+<l>Iae sonder geld al veel goeds werd ter veyls,</l>
+<l>Hier salmen dan versoenen oock veel feyls.</l>
+<l rend="; 1tab">A. O steen des heyls o toegang vry ten leve<hi rend="i">n</hi></l>
+<l>O Altaer groot en Offer soet beseven,<note place="margin">deu.32.15</note></l>
+<l>Wanneer sult ghy verschijnen doch wanneer<note place="margin">heb.10.19</note></l>
+<l>Van Syon sal uytgaen u Wet o Heer.<note place="margin">Esai.1.3.</note></l>
+<l rend="; 1tab">Daer hebben nu veel Coningen, Prophete<hi rend="i">n</hi>,</l>
+<l>En Mannen Gods van overlang geweten,</l>
+<l>En seer ghewenscht Heer u toecomsten dagh,</l>
+    <l>Och saligh hy, die hem beleven magh.</l></lg>
+<p>Eynd des 5. Veld Lieds.</p>
+
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0006"/>
+        </interpGrp>
+<head rend="h3">Het Seste Veld-lied, </head>
+<l>&nbsp;</l>
+<div type="section">
+<head rend="h4">Psal. 116.</head>
+<l>&nbsp;</l>
+<lg type="poem"><l rend="speaker"><hi rend="i">Proselytus, Salomon.</hi></l>
+<l>P. WIe sal ons nu met singen doen gerijf,</l>
+<l>Terwijlen wy hier onse kudde waken</l>
+<l>By Bethlehem de Stad die wy ghenaken,</l>
+<l>En zijn ontrent met al ons Vee bedrijf.</l>
+<l rend="; 1tab">S. Tot Bethlehe<hi rend="i">m</hi> vergaerd is man en wijf</l>
+<l>Iae alle man uyt David huys bedeghen,</l>
+<l>Om daer gheschat zijn van Augusto weghen,</l>
+<l>De weereld door ghegaen is zijn ghebod</l>
+<l rend="; 1tab">P. D'herbergen al elck huys ja stal en kot,</l>
+<l>Nu crielen vol niet isser ledigh bleven,</l>
+<l>Elc in zijn stadt moet schatting comen geven</l>
+<l>Sijnde onderdaen t'Roomsch Keysers groot gheweld.</l>
+<l rend="; 1tab">S. Nu Proselijt met my u keele steld,</l>
+<l>Te singen wat ick sal beginnen vooren</l>
+<l>Elc hoor met vlijt want waer lust is om hooren,</l>
+<l>Daer voeghd wel yet ghesonghen of verteld.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Salomon singt aen hem volgt Proselytus</hi> op de wijse vanden Psalm 23.</l>
+<pb n="32"/>
+<l><hi rend="i">A</hi>Braham vroom Isaack en Iacob t'same</l>
+<l>Van Gods beloft versekerde erfghename</l>
+<l>In ee<hi rend="i">n</hi> vreemd la<hi rend="i">n</hi>d in hutte<hi rend="i">n</hi> slecht woonachtig</l>
+<l>Een beter stad en Vader-land verwachtigh,</l>
+<l>In Hemel hoog: op Eerden wel te vreden,</l>
+<l>Te wesen vremd en gasten hun beleden.</l>
+<l rend="; 1tab">P. Sy Gaende met verganckelijcke voete<hi rend="i">n</hi></l>
+<l>Op Eerden dus t'gemoed dat nam versoete<hi rend="i">n</hi></l>
+<l>Den Heer ontrent te wandelen hier boven.</l>
+<l>Ten lesten word in slaverny verschoven,</l>
+<l>T'volck Israels in Egypten gedreven,</l>
+<l>Om vinde<hi rend="i">n</hi> brood den steun-stoc van dit leve<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">S. Nijd t'wreede dier, dreef Ioseph daer te vooren,</l>
+<l><note place="margin">Act.7.10.</note>Die zijnd' een Vorst seven goe jaren t'cooren</l>
+<l>Hadde al vergaerd, in schuyren als de<hi rend="i">n</hi> cloecke<hi rend="i">n</hi></l>
+<l>T'brood-huys was in Egypte<hi rend="i">n</hi> doe<hi rend="i">n</hi> te soecken</l>
+<l>De dierte groot was swaer in alle landen,</l>
+<l>Al t'geld voor brood geraecte in Ioseph ha<hi rend="i">n</hi>de<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">P. Oock t'Vee en land werd Pharao al ten besten</l>
+<l>Lijf eygenschap van al het volck ten lesten.</l>
+<l><note place="margin">gen.50.19</note>D'eerds-vaders doch die dachte<hi rend="i">n</hi> quade sake<hi rend="i">n</hi>,</l>
+<l>Met Ioseph doen: maer God dacht wel te maken,</l>
+<l>Gelijc altijds, op dat veel volcke<hi rend="i">n</hi> zoude<hi rend="i">n</hi></l>
+<l>Voor s'hongers nood met voedsel zijn behouden.</l>
+<l rend="; 1tab">S. Een Coningh die van Ioseph niet en wiste,</l>
+<l>Socht ons geslacht te niet en doen met liste,</l>
+<l>Met arbeyd swaer in dienstbarig benauwe<hi rend="i">n</hi>,</l>
+<l>Gebood Siphra en Pua twee vroe-vrauwe<hi rend="i">n</hi>,</l>
+<l>Wat manlijck was in der geboort t'onlyven,</l>
+<l>Sy hetent na en God deed' hen beclijven.</l>
+<l rend="; 1tab">P. Pharao ghebood zijn volck dat sy versmoorden,</l>
+<l>Den sonen jong, och wat Tyrannig moorde<hi rend="i">n</hi>,</l>
+<l>Wat waren daer doe al mistrooste moeders,</l>
+<l>O wreed gebod d'onnoosel jonge bloeders,</l>
+<l>Al in s'Nijlsvloed geworpen t'hebben wille<hi rend="i">n</hi>,</l>
+<pb n="33"/>
+<l>Een deerlijck aes, voor gulse Krokodillen.</l>
+<l rend="; 1tab">S. Wt Levi stam werd doe een soon gebore<hi rend="i">n</hi></l>
+<l>Die namaels een verlosser werd vercoren,</l>
+<l>Zijn moeder hem niet langher berghen wiste</l>
+<l>En wierp hem wegh in een bepeckte kiste,</l>
+<l>Van riet ghemaeckt, uyt t'water hy getogen,</l>
+<l>Heeft moeder-soch uyt voesters borst gesoge<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">P. Want siet hem vand' de Dochter van den Coningh</l>
+<l>Sy nam hem voor haer soon aen in haer woningh,</l>
+<l>Hy zijnde groot dood' een Egypter welcken,</l>
+<l>Sloeg een Hebreer, t'geruchte liep voor elcke<hi rend="i">n</hi>,</l>
+<l>Tot Pharao oock, en die socht hem te doode<hi rend="i">n</hi>,</l>
+<l>Hy is bevreest tot Midian ghevloden.</l>
+<l rend="; 1tab">S. Daer werd zijn sweer Iethro, daer hy de wachte,</l>
+<l>Der Schapen nam, ter wijlen ons geslachte,</l>
+<l>Aenriep den Heer benauwt in swaer arbeyde<hi rend="i">n</hi></l>
+<l>God goedertier gedacht als sy dus schreyden,</l>
+<l>Ae<hi rend="i">n</hi> zijn verbond, daer Mosis t'Vee bewaerde</l>
+<l>Stracks in der vlam he<hi rend="i">m</hi> d'Engel openbaerde.</l>
+<l rend="; 1tab">P. Daer sagh hy t'bosch in brande en met verteeren,</l>
+<l>God sprac hem aen en seyd' hem zijn begeeren</l>
+<l>Hoe hy ons volck wilde onder zijn gheleyde,</l>
+<l>Verlossen: maer siet wat hem Mosis seyde,</l>
+<l>Na meer onschuld en socht het van hem wenden,</l>
+<l>Och seynd mijn Heer den welcken ghy wilt senden,</l>
+<l rend="; 1tab">S. O Heer o God de comst onses behoeders</l>
+<l>Gheschieden laet, en wilt uyt onse broeders,</l>
+<l>Moysem gelijc den Propheet ons verwecken<note place="margin">deu.18.15</note></l>
+<l>Dien yeghelijck moet hooren, dat hy trecken<note place="margin">Acto.7.37</note></l>
+<l>Com uyt verdriet die in doods schadu sitten,</l>
+<l>Verschijnd o licht ons met liefdigher hitten,</l>
+<l rend="; 1tab">P. Comt dagheraed o schoon blinckenden Oosten,</l>
+<l>Opgang verschijnd comt uyt der hoogde ons Troosten,<note place="margin">Luc.1.37.</note></l>
+<l>De duysterheyd comt heldigh overwinnen,</l>
+<l>Dagh sterre claer verwect ons hert en sinne<hi rend="i">n</hi>,</l>
+<pb n="34"/>
+<l>Met Moysem oock wy sulcken wensch voor weynden,</l>
+<l>Och seynd mijn Heer den welcken ghy wilt seynden.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">Weder op de wijse des 116. Psalms.</head>
+    <lg type="poem">
+<l rend="; 1tab">S. Een ander nu die beter can hy magh,</l>
+<l>Oock t'beste doen, en singhen vry met lusten,</l>
+<l>By beurten want, soo ondertusschen rusten,</l>
+<l>Den arbeyd oyt wel te verlichten plagh.</l>
+</lg><p>Eynd des 6. Veld-Liedt.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0007"/>
+        </interpGrp>
+<head rend="h3">Het 7. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">de wijse Psal. 50. God die der goden.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Hanan. Mathan.</hi></l>
+<l>H. <hi rend="i">M</hi>Enig nu slaept al houde<hi rend="i">n</hi> wy de wacht</l>
+<l>S'doodts broeder slaep, druckx vriend, en gast der nacht</l>
+<l>Slaep die t'gedacht zin onthoud en versta<hi rend="i">n</hi>d,</l>
+<l>Vernieuwt en voedt, verdriet en sorghe vand,</l>
+<l>V prijs ick want ghy steld soo wel te vreden,</l>
+<l>Van s'daeghs arbeyd s'menschen vermoeyde leden.</l>
+<l rend="; 1tab">M. Nut schepsel Gods dat dier en mensch gerijft,</l>
+<l>Slaep die uyt t'hooft vee mijmele<hi rend="i">n</hi>s verdrijf,</l>
+<l>T'lichaem beclijft door u in rusten soet,</l>
+<l>Der sieckten cracht verminderen ghy doet,</l>
+<l>En ons gemoed beschildert ghy met droome<hi rend="i">n</hi>,</l>
+<l>Der Godt somtijd door waerschauwt yet de<hi rend="i">n</hi> vroomen.</l>
+<l rend="; 1tab">H. Maer te vergeefs de<hi rend="i">n</hi> trage<hi rend="i">n</hi> ghy v<hi rend="i">er</hi>knaept</l>
+<l>Die wakens tijd onachtsaem veel verslaept,</l>
+<l>Hy geeuwt en gaept, tot u hy hem soo gheeft,</l>
+<l>Dat hy de helft schier die hy heeft gheleeft,</l>
+<l>Geslapen heeft wanneer de dood comt henen,</l>
+<l>Den kalven tijd zijns levens dood geschreven.</l>
+<l rend="; 1tab">M. Maer slaep ons met uwen droomspieghel vlied,</l>
+<l>Daermen t'voorheen en oock toecomstig siet,</l>
+<l>Doch bauwt hier niet de gronde<hi rend="i">n</hi> zijn te cranc:</l>
+<pb n="35"/>
+<l>Te houden wacht is ons hooghste belangh,</l>
+<l>Daerom met sangh laet ons de Schaepkens weyden,</l>
+<l>Den blijden dach langmoedich so verbeyden.</l>
+<l>&nbsp;</l>
+<l rend="speaker"><hi rend="i">Hanan singht op de wijse des 2.Psal.</hi></l>
+<l>H. <hi rend="i">E</hi>En die int veld verkoos een Herders naem,</l>
+<l>Veel liever dan in Pharao<hi rend="i">n</hi>s hof seer prachtig</l>
+<l>Geheeten t'zijn des Conincks Neef eersaem:</l>
+<l>Doe hy Gods volck zijn maegschap was gedachtich:</l>
+<l>Hy die was in d'Egyptische wijsh<hi rend="i">eyt</hi> machtig,</l>
+<l>In al Gods huys werd een getrauwe knecht:</l>
+<l>Ia een Propheet in zijn voorseg waerachtich,</l>
+<l>Tot groote<hi rend="i">n</hi> staet quam hy als Vorst oprecht.<note place="margin">Syr.45.4.</note></l>
+<l rend="; 1tab">M. God sprack hem aen van aen tot aenschijn vry,</l>
+<l>Mond teghen mond niet door drooms openbaren,</l>
+<l>Ghelijck als wel met ander dede hy,</l>
+    <l>Maer soo een vriend zijn vriend yet gaet verclaren,<note place="margin">Nu<hi rend="i">m</hi>.12.18</note></l>
+<l>Nu Moses siet uyt slaef-dienstig beswaren,</l>
+<l>Heeft dan verlost t'droef Israel betraend,</l>
+<l>Dweers door de zee mids door de wilde bare<hi rend="i">n</hi>,</l>
+<l>Heeft God de Heer hem eenen wech gebaend.</l>
+<l rend="; 1tab">H. De Iordaen ooc stil houdend' hare<hi rend="i">n</hi> loop</l>
+<l>Liet Israel t'beloofde land in treden,</l>
+<l>Ter eender syd' haer vloed steylde over hoop,</l>
+<l>Ter soute Zee liep t'ander af beneden,</l>
+<l>De Priesters zijn al vooren door gheleden,</l>
+<l>Met d'Arcke Gods en al t'volck volghde naer,</l>
+<l>Maer niet dan twee van die met Mosem deden</l>
+<l>Den uytgangh, zijn int land ghecomen daer.</l>
+    <l rend="; 1tab">M. Siet wat het is als God de hand aftreckt,<note place="margin">Nu<hi rend="i">m</hi>.14.24</note></l>
+<l>Door s'menschen zonde Israel mocht wel weten,</l>
+<l>Van t'land bespien heeft elcken dag bestreckt,</l>
+<l>Een volle Iaer om t'morrigh boos vermeten</l>
+<l>Veertigh Iaer langh heeft Israel versleten</l>
+<pb n="36"/>
+<l>Tijd, leven oock, in een dorre woestijn,</l>
+<l>Maer God en heeft hem genen dag vergete<hi rend="i">n</hi>,</l>
+<l><note place="margin">Psa.78.25</note>Der Eng'len brood zijn spijse heeft ghesijn.</l>
+<l rend="; 1tab"><note place="margin">Iosu.5.11</note>H. Maer s'Hemels brood hiel op als sy int land</l>
+<l>Canaan t'gewas, en van t'lands koren aten.</l>
+<l>Och Hemels brood oprecht daeld neder want,</l>
+<l>Ons hope zijt ghy, wilt ons niet verlaten,</l>
+<l>Beloofde zaed dat alle crancke vaten:</l>
+<l>Tot voedsel dient, en s'weerelds leven zijt,</l>
+<l>Och wanneer sult ghy comen t'onser baten,</l>
+<l>Wel hem die magh beleven sulcken tijd</l>
+<l rend="; 1tab"><note place="margin">Ios.18.10</note>M. Als Iosua was dood, die Israel</l>
+<l>Hadd' uytgedeyld, t'beloofde land met loten,</l>
+<l>En t'oude volck ghestorven was, is snel</l>
+<l><note place="margin">Iud.2.10</note>Een nieuw gheslacht, een ander volck gesproten,</l>
+<l>Welck niet en heeft Gods kennisse ghenoten,</l>
+<l>Maer afgodisch gheleeft al meer en meer,</l>
+<l>Dus heeft de Heer met Toorn hun begoten,</l>
+<l>Huns vyands hand die drucktese wel seer.</l>
+<l rend="; 1tab"><note place="margin">Iud.2.17</note>H. Ganschs gheen ghehoor, als volck seer hard gheneckt,</l>
+<l>En gaven sy den Rechters uytghelesen,</l>
+<l>Maer God altijd, doe hy hadde verweckt,</l>
+<l>Een Rechter was hem toegedaen, door desen</l>
+<l>Verloste hyse en den Rechter ghepresen,</l>
+<l>Wanneer hy sterf sy weke<hi rend="i">n</hi> sonder toef, </l>
+<l>Daerom liet God noch t'Heydensch volck in wesen</l>
+<l>Romtom zijn volck ghesteld als tot een proef.</l>
+<l rend="; 1tab"><note place="margin">Ose.13.11</note>M. Naer Israels begheerte gaf God siet,</l>
+<l>Hem een Coningh, hoe wel in sijnen Tooren,</l>
+<l>In zijn gramschap hy desen oock verliet,</l>
+<l><note place="margin">1.Reg.16.13.</note>Doe werd ghestort der salf olyen hooren,</l>
+<l>Op een jongh held een Herder uytvercooren,</l>
+<l><note place="margin">1.Reg.16.18.</note>Een dichter cloeck Propheet en Herper soet,</l>
+<l>Die oock het kudde al hier ontrent te vooren,</l>
+<l>Te hoeden plagh ghelijckmen nu noch doet.</l>
+<l rend="; 1tab">H. Gelijckmen speeld met bockskens gingh hy om</l>
+<pb n="37"/>
+<l>Met Leeuwe<hi rend="i">n</hi> fel met Beyre<hi rend="i">n</hi> als met La<hi rend="i">m</hi>me<hi rend="i">n</hi>,</l>
+<l>In zijnder jeughd des Reusen stouten rom,</l>
+<l>Deed hy te met tot blijschap der twaelf stammen,</l>
+<l>Tien duysent weerd (den Coninck tot vergrammen)</l>
+<l>De vraukens hem hoogh presen met gesangh,</l>
+<l>Maer Saul dede ontsteken heet als vlamme<hi rend="i">n</hi><note place="margin">1.Par.11.13.</note></l>
+<l>Den Toorn Gods tot zijn self ondergangh.</l>
+<l rend="; 1tab">M. Doe David nu voor Saul onbesorgt,</l>
+<l>In Israel een Coningh was verheven,</l>
+<l>En dat hy woonde op Syon Davids borght,<note place="margin">2.Reg.23.15.</note></l>
+<l>Werd sijnen gheest seer lustigh in ghedreven,</l>
+<l>Och wie sal my te drincken wille gheven,<note place="margin">1.Par.12.17.</note></l>
+<l>Van t'water goed te Bethlehem uyt den put,</l>
+<l>Onder de poort, och sal ick by mijn leven,</l>
+<l>Niet smaken noch dat water soet en nut.</l>
+<l rend="; 1tab">H. Op sulcken sin met s'Heeren geest doorviert,</l>
+<l>Sprac David want sijn ziele kreesch te degen</l>
+<l>(Ghelijck den hert na t'versche water tiert<note place="margin">Psal.42.1</note></l>
+<l>Na een Fonteyn vry open aller weghen,</l>
+<l>Iae die zijn huys noch hebben sal, die teghen<note place="margin">Sac.13.1</note></l>
+<l>De zonde en alle onreynicheyd werd goed,</l>
+<l>Daer naer zijn ziel' verlanghde seer genegen,</l>
+<l>En dorstigh nae die suyver water vloed</l>
+<l rend="; 1tab">M. O borne claer berst uyt te Bethlehem</l>
+<l>Onder de poort, doorgangh ten leven steylig,</l>
+<l>O Borghers al binnen Ierusalem,</l>
+<l>Haeckt na dees vry open Fonteyne heyligh,</l>
+<l>Maer ghy behoeft drie helde<hi rend="i">n</hi> welcke u veylig,</l>
+<l>Dit water doen ghenieten onghequeld,</l>
+<l>Gheloove hope en liefde u mededeyligh</l>
+<l>Geschoncken wijn en melck werd sonder geld.<note place="margin">Esa.55.1.</note></l>
+<l rend="; 1tab">H. David die hopte en stond vast onbeducht</l>
+<l>Op Gods beloft en eed (alst was te prijsen)</l>
+<l>Dat sijnen stoel noch van zijn lenden vrucht<note place="margin">2.Re.7.12</note></l>
+<l>Beseten werd, dit heeft hy als den wijsen</l>
+<l>Propheet voorsien en voorseyd op't verrijsen,<note place="margin">Act.2.30.</note></l>
+<l>Des Messiams dat de ziele van dien,</l>
+<l>Ghelaten niet en werd in Helsch afgrijsen,</l>
+<pb n="38"/>
+<l>Noch zijn vleesch gheen verrotten en sal sien.</l>
+<l rend="; 1tab"><note place="margin">Mich.5.1.</note>M. Och comt haest uyt Bethlehem Ephrata,</l>
+<l>De Heere werd in Israel met namen,</l>
+<l>Ghy Bethlehem die cleen zijt in Iuda,</l>
+<l>Ia teghen al de duysenden te samen,</l>
+<l>Wt u sal doch na des Propheten ramen,</l>
+<l><note place="margin">Esa.53.11.</note>Ons comen voord, wiens uytgang is geweest,</l>
+<l><note place="margin">Collos.5.</note>Van aen begin, in eeuwicheyd, och amen,</l>
+<l>V comst gheschie daermen soo veel af leeft.</l>
+<l rend="; 1tab"><note place="margin">1.Pet.1.</note>H. Door s'Heeren gheest Propheten ondersocht,</l>
+<l>Vast hebben na den tijd, en neerstich rieden,</l>
+<l><note place="margin">Dan.9.24</note>Wanneer de comst Messie wesen mocht,</l>
+<l>Maer wie sal de weken ons bedieden,</l>
+<l>Ia van 'ghetal den zin ontsloten bieden,</l>
+<l><note place="margin">Dan.2.44</note>Daer Daniel heeft langhe van voorseyd,</l>
+<l>Wanneer sal ons dat vredich Rijc geschieden,</l>
+<l>Dat niet en sal vergaen in eeuwicheyd.</l>
+</lg>
+</div>
+<div type="section">
+    <lg type="poem">
+<head rend="h4">De wijse 50. Psalm.</head>
+<l>M. <hi rend="i">N</hi>V Hanan vriend dus worden wy vast quijt,</l>
+<l>Den droeven nacht, en onweer keerschen tijd,</l>
+<l>Maer eer verwijt, tot ons hier neme gangh,</l>
+<l>Van ander dat wy't maken al te langh,</l>
+<l>Dit Lieds gesang, laet ons nu stilte maken,</l>
+<l>Want stilte soet, en is doch niet te laken.</l>
+<l rend="; 1tab">H. Wel aen Mathan des ben ic wel gesind</l>
+<l>De stilheyd soet is van my oock bemind,</l>
+<l>Eerme<hi rend="i">n</hi> begint met tonge slaen geluyd,</l>
+<l>Hoeft wel beproeft t'woord binne<hi rend="i">n</hi> t'mo<hi rend="i">n</hi>ds besluyt</l>
+<l>Oft in of uyt best diend, en of ons spreken,</l>
+<l>Is weerdich om stil-swijghen mede breken.</l>
+</lg><p>Het 7. Veld-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0008"/>
+        </interpGrp>
+<head rend="h3">Het 8. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">nae de wijse: des 57. Psalms.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Raguel. Achitob.</hi></l>
+<l>R. <hi rend="i">O</hi>P Achitob laet ons aen desen cant,</l>
+<l>Yet singhen t'saem oock naer ons best verstand,</l>
+<pb n="39"/>
+<l>Ter wijlen wy in stem ghenoech ghelijcken.</l>
+<l>Ons Schaepkens zijn al in behouder hand,</l>
+<l>Sy sullen ons niet uyt der weyde ontwijcken.</l>
+<l rend="; 1tab">A. Het gae soot mag ick volge singt ghy voor</l>
+<l>Wy singhen niet voor doove, goed ghehoor</l>
+<l>Geeft ons de<hi rend="i">n</hi> choor, van Herders Herderinnen</l>
+<l>Bergh bosch en dal elck leend ons oock de oor,</l>
+<l>T'saem met gehoor weerclincken zy beginne.</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">De wijse des 69. Psalms.</head>
+<l>R. <hi rend="i">O </hi>Herder groot, s'heylich wachter goed,</l>
+<l>Der weereldt wijdt heerschapper aller<note place="margin">Dan.4.13.</note></l>
+<l>dinghen,</l>
+<l>Leerd ons altijd op rechte waerheyd singhen,</l>
+<l>So ghy u knechts Davids Herp snaren soet,</l>
+<l>Deed beven, wilt inwendich ons ghemoed,</l>
+<l>Verwecken reyn, en onse tonghe dwinghen,</l>
+<l>Ia gheeft dat wy als David moghen vroed,</l>
+<l>Den dienst uws wils ten eynde toe volbringe<hi rend="i">n</hi><note place="margin">Act. 13.16</note></l>
+<l rend="; 1tab">A. Voor elck Gods werck, met een schoon Lied eerbaer,</l>
+<l>Wt herten grond heeft David hoog gepresen,</l>
+<l>De<hi rend="i">n</hi> Schepper groot, en seer bemind' hy desen<note place="margin">Syr.47.9</note></l>
+<l>Den Altaer by bestelde hy sanghers daer</l>
+<l>Zijn Lieden soet, te singhen t'gantsche Iaer,<note place="margin">1.Par.26.1.</note></l>
+<l>Op elcke Feest dat s'Heeren nae<hi rend="i">m</hi> mocht wesen</l>
+<l>Seer hoogh gelooft, in somma David naer,</l>
+<l>Des Heeren hert en man was uytghelesen.</l>
+<l rend="; 1tab">R. God spreect door hem tot Syons Bruydegom,</l>
+<l>Ghy zijt mijn Soon gebaerd heb ick u heden,</l>
+<l>Eyscht soo sal ick u gheven d'onbesneden,</l>
+<l>Ia d'Heydens tot een erfnis t'eendersom,</l>
+<l>En s'weerelds eynd' oock tot een eyghendom,</l>
+<l>Met yser staf sult ghyse hier beneden,</l>
+<l>Te morsel slaen dus Coninghen hier om,</l>
+<l>Laet u doch doen goed onderwijs met reden.</l>
+<l rend="; 1tab">A. Ia Richters ooc hier op der Eerden ghy</l>
+<l>Berispen laet u, diend den Heer verheven,</l>
+<l>Met vreesen dan weest vrolijc doch met beve<hi rend="i">n</hi></l>
+<l>Ia kust den soon dat hy niet gram en sy.</l>
+<pb n="40"/>
+<l>Veel Prophecyen heeft noch ghesonghen hy,</l>
+<l>Door s'Heeren gheest, int Psalter boeck beschreven.</l>
+<l>Oock Salomon naer hem van desen vry,</l>
+<l>Sijn tot vermaec schoon Liedekens gebleve<hi rend="i">n</hi>,</l>
+<l rend="; 1tab">R. Een vredigh rijck siet Salomon besat,</l>
+<l>Des Heeren huys dat bauwd' hy t'meeste wonder,</l>
+<l>Der weereld want God had als ee<hi rend="i">n</hi> besonder,</l>
+<l>Bauw-meester groot ghevoorbeeld selve dat</l>
+<l>Een constig werck, een heerlijck, seldsaem vat</l>
+<l>Noyt geen Mausool noch Ctesiphons werc-konder</l>
+<l>Ghewedden mede in const als oock in schat,</l>
+<l>Want t'was al Goud van bove<hi rend="i">n</hi> af tot onder.</l>
+<l rend="; 1tab">A. In wijsheyd groot ghy Israels cieraet,</l>
+<l>Hoe hebt ghy laes so dwaes u gaen besmetten</l>
+<l>En laten vaen in wel bekende netten,</l>
+<l>S'vleesch weelde sot rijckdom en lust onmaet</l>
+<l>Door ledicheyd u t'seer gheliefde quaed,</l>
+<l>T'onkuysche vuyr int herte ginghen setten,</l>
+<l>Ia voeden soo dat soete vrauwen raed,</l>
+<l>Ghy steldet voor des Heeren wijse wetten.</l>
+<l rend="; 1tab">R. Dus hebt ghy laes vernuftige edel ziel,</l>
+<l>Vertoornd Godt door dwaesheyd onberadig,</l>
+<l>T'rijc werd v<hi rend="i">er</hi>scheurd, maer in beloft gestadig</l>
+<l>Den wortel noch van David God behiel,</l>
+<l>Doe Israel af met thien stammen viel.</l>
+<l>Van Roboam een man dwaes ongenadigh,</l>
+<l><note place="margin">Syr.47.25.</note>Niet doend' ee<hi rend="i">n</hi> gantsch uytroeyich fel verniel,</l>
+<l>T'lief-hebbers saed bewaerde hy weldadigh.</l>
+<l rend="; 1tab">A. Hoe wel dit zaed in wandel niet behaegt</l>
+<l>Als David heeft den Heere der Heyrscharen,</l>
+<l>Int tiende lit van David God de maren,</l>
+<l>Van zijn beloft vernieuwt heeft en gewaeght</l>
+<l>Tot Ahas, dus ontfanghen sal een Maeght,</l>
+<l><note place="margin">Esa.7.15.</note>Een Maeght bevrucht sal eenen sone baren,</l>
+<l>Immanuel werd sijnen naem (wie't vraeght)</l>
+<l>Dats God m<hi rend="i">et</hi> o<hi rend="i">n</hi>s om t'voort te recht v<hi rend="i">er</hi>clare<hi rend="i">n</hi>.</l>
+<l rend="; 1tab"><note place="margin">Esai.9.5.</note>R. Noch Amos soon Esaias' Heere<hi rend="i">n</hi> knecht</l>
+<pb n="41"/>
+<l>Heeft breeder ons van des geboort geschreve<hi rend="i">n</hi>.</l>
+<l>Een kind is ons gheboren jae ghegheven,</l>
+<l>Is ons een sone op wiens schouders geleght,</l>
+<l>Sijn heerschappye is sijnen naem hy seght,</l>
+<l>Wonderlijck, Raed, ja Held en cracht v<hi rend="i">er</hi>heve<hi rend="i">n</hi>,</l>
+<l>Een Vader oock die eeuwigh is ja recht</l>
+<l>Goed vreden Vorst, des namen he<hi rend="i">m</hi> aencleven.</l>
+<l rend="; 1tab">A. Noch vorder siet een Roede sal op gaen.</l>
+<l>Van Isai de stamme uytghelesen,</l>
+<l>Een spruyt sal uyt zijn wortel opgheresen:<note place="margin">Esai.11.1.</note></l>
+<l>Vrucht brenge<hi rend="i">n</hi> voord daer rustend op sal staen</l>
+<l>Des Heere<hi rend="i">n</hi> geest des wijsheyt geest, daer aen,</l>
+<l>Oock des verstants den gheest des Raeds tot desen</l>
+<l>Der sterckten oock des kennis gheest gedaen,</l>
+<l>Daer toe de<hi rend="i">n</hi> geest oock van des Heere<hi rend="i">n</hi> vreesen.</l>
+<l rend="; 1tab">R. Immanuel verlosser niet vertreckt,<note place="margin">esa.59.20.</note></l>
+<l>V comst voor die tot Syon op u wachten,</l>
+<l>Comt heerlijck licht, verlicht alle geslachten,<note place="margin">Esa.60.1.</note></l>
+<l>Die nu dus zijn met donckerheyd bedeckt,</l>
+<l>Comt rechte vrucht van David opgheweckt,<note place="margin">Iere.23.5</note></l>
+<l>Comt Coningh heerscht op Eerden wel met crachten,</l>
+<l>Dat over al gherechticheyd haer streckt,</l>
+<l>Wilt Iuda doch te helpen haest betrachten.</l>
+<l rend="; 1tab">A. Ghesalfden comt en predickt openbaer,</l>
+<l>T'ellendigh volck, oock allen die ghebroken<note place="margin">Esa.61.1.</note></l>
+<l>Van herten zijn verbindingh, al t'beloken,</l>
+<l>Ghevangen volck verlost uyt banden swaer,</l>
+<l>Comt predickt ons een soet ghenadigh Iaer,</l>
+<l>Cieraet voor assche, en cleeren soet van roken,</l>
+<l>Gheeft voor getreur, ja vreughden Oly claer,</l>
+<l>Laet zijn gebaud t'v<hi rend="i">er</hi>woeste alst is voorsproke<hi rend="i">n</hi>.</l>
+<l>&nbsp;</l>
+</div>
+<div type="section">
+<head rend="h4">Weder op de wijse des 57. Psalms</head>
+    <lg type="poem">
+<l rend="; 1tab">R. <hi rend="i">G</hi>Oddanck ons Lied ten eynd is nu gebracht,</l>
+<l>Van Gods beloft daer lange op is gewacht,</l>
+<l>Ten deel verhaeld och of de comst des Heere<hi rend="i">n</hi>,</l>
+<l>Gheschiede nu, dat desen droeven nacht,</l>
+<l>Alsoo in vreughd op t'leste mocht verkeeren.</l>
+<pb n="42"/>
+<l rend="; 1tab">A. O Raguel den tijd is God bekend,</l>
+<l>Of wy noch zijn van daer verre of ontrent,</l>
+<l>Maer dits gewis dit can ons niet bedriege<hi rend="i">n</hi>,</l>
+<l>Gods toesegh sal geschreven noch int eynd,</l>
+<l>Onmooglijc waert dat God eens soude liege<hi rend="i">n</hi>.</l>
+</lg><p>Het 8. Veld-lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0009"/>
+        </interpGrp>
+<head rend="h3">Het 9. Veld-Lied,</head>
+<div type="section">
+<head rend="h4">op de wijse des 57. Psalms.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Lamech. Hebreus. Salomon.</hi></l>
+<l>L. <hi rend="i">D</hi>At door eens Mans eerste ongehoorsaemheyd,</l>
+<l>Veel sondaers zijn ter weereld uytgebreyd,</l>
+<l>Daer hebben wy voor henen afgesongen,</l>
+<l>De zonden zijn seer wijd en breed verspreydt,</l>
+<l>Iae zijn oock in Ierusalem ghedronghen.</l>
+<l rend="; 1tab">H. Ierusalem de stad die God verkoos,</l>
+<l>Om sijnen naem te stellen, werd gansch door,</l>
+<l>Ieremias die preeckte daer veel Iaren,</l>
+<l>Maer 'tvolck eylaes bleef al versteend godloos,</l>
+<l>Hy werd vervolghd gebracht in groot beswaren.</l>
+<l rend="; 1tab">S. Maer t'is geschiedt in Zedekias tijd,</l>
+<l>Dat op dees stad de Chaldeen voerden strijd,</l>
+<l>En na twee Iaer verwinders zijn bedeghen,</l>
+<l>Zedekias die vluchte maer niet wijd,</l>
+<l>Hy werd int veld by Iericho ghecreghen.</l>
+<l rend="; 1tab">L. Te Babel voor den Coning hy na dien,</l>
+<l>Te Riblath quam ghevanghen en most sien,</l>
+<l>Sijn kinders daer verworghen, fel ontlijven,</l>
+<l>Doe stack m'hem uyt zijn ooghen (droef gheschien)</l>
+<l>Zijn leven lang moest hy gekerckerd blijven.</l>
+<l rend="; 1tab">H. Des Heeren huys ja yder huys en stad</l>
+<l>Werd laes verbrand en al stads mueren plat</l>
+<l>Geveld, ooc zijn van s'Heeren huys de vaten,</l>
+<l>Al wech ghevoerd ja oock al t'volck, dan wat</l>
+<l>Slecht are<hi rend="i">n</hi> volc tot land-bauw word gelaten.</l>
+<l rend="; 1tab">S. Ierusalem nu woest' en Israel,</l>
+<l>Om zijn misdaed ghevanghen in Babel,</l>
+<pb n="43"/>
+<l>Ieremias heeft met betraende wanghen,</l>
+<l>De stad beweend in bitter siel ghequel,</l>
+<l>En haer beclach dus droeflijck aengevangen.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0010"/>
+        </interpGrp>
+<head rend="h3">Hier volghen de Claeghlieden Ieremie.<lb/>Het eerste Capittel </head>
+<div type="section">
+<head rend="h4">op de wijse des 51. Psalms.</head>
+<lg type="poem"><l>L. <hi rend="i">H</hi>Oe ligt eylaes so jammerlijck als mag</l>
+<l>De stad verwoest die volck rijck was voor desen,</l>
+<l>Een Weduw maer en schijnt ze die gheresen,</l>
+<l>Sat een Vorstin' hier voortijds menig dagh,</l>
+<l>Int midden al der Heydenen, en plagh</l>
+<l>Een Coningin te wesen in de Landen,</l>
+<l>Dees moet eylaes met hinderlijck verdragh,</l>
+<l>Zijn onderdaen en dienen haer vyanden.</l>
+<l rend="; 1tab">H. Sy weent des nachts soo dat haer aenschijn claer,</l>
+<l>Van tranen vloeyd haer toegedane vrienden,</l>
+<l>En comen niet dat sy haer troost aen diende<hi rend="i">n</hi>,</l>
+<l>Haer naeste selfs verachtense, en zijn haer</l>
+<l>Vyandich nu, jae Iuda is in een swaer</l>
+<l>Ellendicheyd, en dienstbaerheyd gevanghen,</l>
+<l>Sy woonde vy mids onder Heydens maer</l>
+<l>Sy vind gee<hi rend="i">n</hi> rust noch vrede in al haer gange<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">S. Het quelle<hi rend="i">n</hi> haer al haer vervolgers seer,</l>
+<l>Het ligghen woest na Syon alle straten,</l>
+<l>Haer poorten al staen eensaem en verlaten,</l>
+<l>Op dat niemand opcomt ter Feesten meer,</l>
+<l>Haer Priesters al vervluchten en haer teer,</l>
+<l>Iong-vrauwen sien seer deerlijck daer beneve<hi rend="i">n</hi></l>
+<l>En sy is oock seer droef terwijl in Eer</l>
+<l>Verheven hoogh, al haer benijders sweven.</l>
+<l rend="; 1tab">L. De sake wel met haer vyanden gaet,</l>
+<l>Want God de Heer heeft om haer groote sonden,</l>
+<l>Vol jammers haer gemaect, en dus geschonden,</l>
+<l>Haer kinders zijn voor hen vyanden quaed,</l>
+<l>Ghevanghen heen ghetoghen, al t'cieraet,</l>
+<pb n="44"/>
+<l>Glad weg is van Syons dochter gestreken,</l>
+<l>Haer Vorsten laes zijn oock in droeven staet,</l>
+<l>Gedreven wegh, den Rammen w'el-geleken.</l>
+<l rend="; 1tab">H. Ia Ramme<hi rend="i">n</hi> voor den dryver gaende mat</l>
+<l>En nergens niet en mogen vinden weyde.</l>
+<l>Ierusalem gedenckt met onderscheyde,</l>
+<l>Hoe zy nu ligt verwoest ellendig plat,</l>
+<l>En hoe veel goeds zy voortijds heeft gehadt,</l>
+<l>Gemerckt haer volck nu daer so gantsch ter neder</l>
+<l>Ligt onder haer vyanden, ja en dat,</l>
+<l>Daer niemand is die haer op helpet weder.</l>
+<l rend="; 1tab">S. T'sien hunne<hi rend="i">n</hi> lust, aen haer na zins gerijf,</l>
+<l>Zy al die haer vyandich haet nu dragen,</l>
+<l>Zy lachen ooc nu met haer Sabbath-dagen</l>
+<l>Ierusalem heeft haer besondigt stijf,</l>
+<l>Des moetse gelijck een onreyn wijf.</l>
+<l>T'Versmaden haer al diese plegen eeren,</l>
+<l>Om datse dus nu sien haer schaemtig lijf,</l>
+<l>Maer zy verzucht, en moet den rugge keere<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">L. Haer vuylicheyd ae<hi rend="i">n</hi> hare<hi rend="i">n</hi> soom nu cleeft</l>
+<l>Sy hadde niet gedacht dat haer ten laetsten,</l>
+<l>Soud' hebben dus vergae<hi rend="i">n</hi> geheel ten quaetste<hi rend="i">n</hi></l>
+<l>Te grouwlijck zy t'onderghestooten sneeft,</l>
+<l>En daer toe noch sy gheenen Trooster heeft,</l>
+<l>O Heere wilt mijn Ellend overvloedigh,</l>
+<l>Aenschauwen doch want den vyand nu leeft,</l>
+<l>In vreugden hy verheft he<hi rend="i">m</hi> seer hoogmoedig.</l>
+<l rend="; 1tab">H. Den vyand heeft zijn hand geslagen aen</l>
+<l>Al haer begheerde en costelijcke dinghen,</l>
+<l>Sy most sien dat de Heydenen inginghen,</l>
+<l>Haer heylichdom daer ghy van hebt gedaen,</l>
+<l>Bevel dat sy gheen tijd en souden gaen,</l>
+<l>In u Gemeynt, haer volck sucht al met beve<hi rend="i">n</hi></l>
+<l>Sy gaen om brood seer hongherigh belaen,</l>
+<l>Al hun Kleynood sy wegh voor spijse gheven.</l>
+<l rend="; 1tab">S. Op datse slechts hun zielen laven vry,</l>
+<l>O Heer aensiet wilt met opmerck aenschauwen,</l>
+<l>Hoe jammerlijck ick worden ben vol rauwe<hi rend="i">n</hi></l>
+<pb n="45"/>
+<l>V segh ick ghy al die hier gaet voorby,</l>
+<l>Aenmerckt en siet, of erghens smerte zy,</l>
+<l>Ghelijck de smert die my treft nu ten tijden,</l>
+<l>Want gemaect heeft den Heer vol jammers my,</l>
+<l>Op sijnen dagh des toorens swaer om lijden.</l>
+<l rend="; 1tab">L. In mijn gebeent' hy uyt der hoogte<hi rend="i">n</hi> goot</l>
+<l>Een vuyr en liet dat rijsen met ghewelde,</l>
+<l>Een Net ghespreyd, hy mijnen voeten stelde,</l>
+<l>En wierp my om te rugghe met ghestoot,</l>
+<l>Hy maeckte my tot een woestijne bloot,</l>
+<l>Des daeglijcks moet ick druck en treuren pleghen,</l>
+<l>Mijn zonde swaer door zijn straffinge groot,</l>
+<l>Die zijn ontweckt met hoopen opghesteghen</l>
+<l rend="; 1tab">H. Op mijnen hals zijn zy ghecomen dan,</l>
+<l>So dat mijn cracht hier door al is verdreven,</l>
+<l>Den Heer heeft my alsoo bereyd in sneven,</l>
+<l>Als dat ick my niet opgherechten can,</l>
+<l>Den Heer vertrad my yder heldich man,</l>
+<l>Hy riep een Feest over my en verdede,</l>
+<l>Mijn manne<hi rend="i">n</hi> jong, der maechde<hi rend="i">n</hi> dochter van</l>
+<l>Iuda gaf hy, dat sy de persse trede.</l>
+<l rend="; 1tab">S. Daerom ween ick soo dat ghelijck een vliet,</l>
+<l>Van water nu mijn ooghen beyde leken,</l>
+<l>Om dat seer wijd den Trooster my ontweke<hi rend="i">n</hi></l>
+<l>Is, die mijn ziel soude helpen uyt verdriet,</l>
+<l>Mijn kinders laes zijn wech den vyand siet,</l>
+<l>Heeft met gheweld nu d'overhand ghecregen,</l>
+<l>En Syon streckt de handen uyt voor niet,</l>
+<l>Want niemand haer te Troosten is genegen.</l>
+<l rend="; 1tab">L. Den Heer gebood den vyanden int rond,</l>
+<l>Om Iacob dat Ierusalem soud wesen,</l>
+<l>Als wijs onreyn rechtveerdich is in desen,</l>
+<l>Den Heere, want ick hebbe sijnen mond</l>
+<l>Gehoorsaem niet gheweest, nu hoort terstond</l>
+<l>Ghy volcken al, en siet mijn smertig quellen,</l>
+<l>In vangenis zijn gegaen met druck gewont.</l>
+<l>Mijn maegden jong en jonge fraey gesellen.</l>
+<pb n="46"/>
+<l rend="; 1tab">H. Mijn vrienden riep ick aen (wie had betrauwt)</l>
+<l>Sy hebben my eylaes ter nood bedroghen,</l>
+<l>Mijn Priesters zijn v<hi rend="i">er</hi>smacht in onvermoge<hi rend="i">n</hi>,</l>
+<l>Mijn oudste in t'stad sy gae<hi rend="i">n</hi> om brood benaut</l>
+<l>Om lave<hi rend="i">n</hi> slegs hun ziele, o Heer aenschauwt</l>
+<l>Hoe bange ick ben en hoe benauwt ick blijve,</l>
+<l>T'lijf doet my wee van binne<hi rend="i">n</hi> seer verflauwt,</l>
+<l>Inwendigh slaet my t'herte in mijnen lijve.</l>
+<l rend="; 1tab">S. Want gantschs bedroeft ben ick, van buyten t'sweerd,</l>
+<l>In huys de dood, my weduw gingen maken</l>
+<l>Men hoord my wel versuchten maer genake<hi rend="i">n</hi>,</l>
+<l>Comt niemand my die my te troosten geerd,</l>
+<l>Mijn ongheluck is mijn vyanden weerd,</l>
+<l>Ia waer sy dat aenschauwen of aenhooren,</l>
+<l>T'is hun een vreugd al t'lijden dat my deerd,</l>
+<l>Dits doch u werck o Heer mijn God vercore<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">L. Laet comen voord den troost-dag dien ick wacht.</l>
+<l>Dat hun gheschie, als my ten desen stonden,</l>
+<l>Gedenct doch ooc hun boosh<hi rend="i">eyt</hi> ja hun zonden</l>
+<l>En maecktse toe soo ghy my hebt ghebracht,</l>
+<l>Om mijn misdaed, te gronde aldus veracht,</l>
+<l>Dat sy oock zijn benauwt te sulcken keere,</l>
+<l>Mijn suchten nu seer vele is dagh en nacht,</l>
+<l>Mijn herte is seer bedroeft o God mijn Heere.</l>
+</lg><p>Eynd des 1. Capittels.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0011"/>
+        </interpGrp>
+<head rend="h3">Het 10. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">weder op de wijse des 57. Psalms</head>
+<lg type="poem"><l>H. WEl over een comt Ieremie sangh,</l>
+<l>Met onsen nacht die droef is vol verlang</l>
+<l>Op de beloft daer stadig wy na wachte<hi rend="i">n</hi></l>
+<l>Dat uyt des doods fel schaduwig bedwang,</l>
+<l>Eens mochten zijn verlost alle gheslachten.</l>
+<l rend="; 1tab">S. Zijn clachten hy in Ierusalems naem,</l>
+<l>Wel aerdig doet geen claeg-wijven bequaem,</l>
+<l>Hoe constigh oock en mochtent beter connen,</l>
+<l><note place="margin">Ier.9.16</note>Ierusalem o stad van ouder faem,</l>
+<pb n="47"/>
+<l>Van t'Roomsch geweld ghy nu oock zijt verwonnen</l>
+<l rend="; 1tab">L. V overwon Pompeius den Romeyn,</l>
+<l>Die s'Heeren huys ontwijdde maer hiel reyn</l>
+<l>Zijn handen, noch van de heylighe vaten,</l>
+<l>Maer Kassius die quam als Capiteyn,</l>
+<l>Van t'Roomsche volc en heefter niet gelaten.</l>
+<l rend="; 1tab">H. Ierusalem den staet daer ghy in zijt,</l>
+<l>En hebt ghy noyt beleeft in uwen tijd,</l>
+<l>Dat Coning vremd in u heerschapt met luste<hi rend="i">n</hi></l>
+<l>Herodes groot zijnd' een Ascalonijt,</l>
+<l>Ghesteld is door Octaviaen Augusten.</l>
+<l rend="; 1tab">S. T'voorseggen van Iacob Eerts-vader<note place="margin">Ge<hi rend="i">n</hi>.49.10</note></l>
+<l>bloot,</l>
+<l>Moet nu gheheel vervullen haest t'is noot,</l>
+<l>Christus den held, behoorde wel te comen,</l>
+<l>Ter wijle dat den Coningh-Scepter groot,</l>
+<l>Van Iuda nu versteld is en ghenomen.</l>
+<l rend="; 1tab">L. Daer is een Man nu in Ierusalem,</l>
+<l>Godsvruchtich, Recht, den gheest Gods is in hem,</l>
+<l>Israels Troost verwacht hy alle daghe,</l>
+<l>Hem is belooft door s'geests inspraecsche stem</l>
+<l>Te sterven niet, voor dat hy Christum saghe</l>
+<l rend="; 1tab">H. Dats Symeon so ons t'gerucht verteld,</l>
+<l>Och mochten wy oock mede sien den Held,</l>
+<l>Die comen sal, en mochten hem aenhangen,</l>
+<l>Nu laet ons noch te samen hier verseld,</l>
+<l>Verhalen voord s'Propheten droeve sangen.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0012"/>
+        </interpGrp>
+<head rend="h3">Het tweede Capitel der Claegh-Lieden Ieremie.</head>
+<div type="section">
+<head rend="h4">De wijse des eersten Psalms.</head>
+<lg type="poem"><l>S. <hi rend="i">O</hi>Ch hoe de Heer, de Dochter Syons snel,</l>
+<l>Heeft overschudt, met sijnen Tooren fel,</l>
+<l>De heerlijckheyd Israels groot van weerde,</l>
+<l>Va<hi rend="i">n</hi> Hemel af wierp hy gantsch plat ter eerde</l>
+<l>En op den dagh sijns Toorens seer onsacht,</l>
+<l>Op sijn voet-banck, en heeft hy niet gedacht.</l>
+<pb n="48"/>
+<l rend="; 1tab">L. De Heere heeft sonder barmherticheyd,</l>
+<l>Van Iacob al de wooningen geleyd,</l>
+<l>Vlack in den grond in zijn toornig aenstoke<hi rend="i">n</hi>,</l>
+<l>Der Maegd Iuda, haer Vesten al gebroke<hi rend="i">n</hi>,</l>
+<l>Ter Eerden af, hy heeft haer Koningrijck</l>
+<l>Ontwijd, en oock haer Vorsten van gelijck.</l>
+<l rend="; 1tab">H. De Hoornen al hy Israel onsoet</l>
+<l>Gebroken heeft, in sijnen grammen moet,</l>
+<l>Zijn rechter hand heeft hy achter getogen,</l>
+<l>Doe den vyand aen quam met zijn vermoge<hi rend="i">n</hi>,</l>
+<l>In Iacob hy aenstoockte eenen brand,</l>
+<l>Siet al verteert, rondom aen elcken cant.</l>
+<l rend="; 1tab">S. Hy spien en trock sijne<hi rend="i">n</hi> boge als vyand,</l>
+<l>Als een party veerd' hy zijn rechter hand,</l>
+<l>En heeft verworgd, wat lieflijck was t'aenschauwen,</l>
+<l>Zijn gra<hi rend="i">m</hi>schap groot heeft hy om seer benauwen,</l>
+<l>Gegoten uyt, als een vuyr tot verniel</l>
+<l>T'welck in der hutt' Dochter Syons viel.</l>
+<l rend="; 1tab">L. De Heer is Recht of hy ee<hi rend="i">n</hi> vyand waer,</l>
+<l>Hy heeft vermeld, Israel openbaerd,</l>
+<l>Ia Israels Palleysen schoon en Vesten,</l>
+<l>Gescheynden niet gelaten meer ten besten,</l>
+<l>De dochter Iuda al neder plat geveld,</l>
+<l>Heeft hy vol rauwe, en vol geklag gesteld.</l>
+<l rend="; 1tab">H. Zijn Tenten om weeld' hy als eenige erf,</l>
+<l>Int Hof, en oock zijn wooning hy verderf,</l>
+<l>In Syon siet, den Heer vergeten dede,</l>
+<l>Beyde te zaem Vier-dag en Sabbath mede,</l>
+<l>Den Coning oock den Priester t'samen siet,</l>
+<l>Hy scheynden in zijns Toorns yver liet</l>
+<l rend="; 1tab">S. Zijn Altaer heeft de<hi rend="i">n</hi> Heer geworpen om</l>
+<l>Verbannen oock daer toe zijn eygendom,</l>
+<l>De mueren van haer Palleysen verheven,</l>
+<l>Den vyand hy in handen heeft gegeven,</l>
+<l>Zo datme<hi rend="i">n</hi> kreesch in s'Heere<hi rend="i">n</hi> huys alst plag,</l>
+<l>Voormaels te doen op eenigen Vier-dag.</l>
+<l rend="; 1tab">L. De Heere dacht van Syons dochter al,</l>
+<l>De mueren gantsch te niet doen in den val,</l>
+<pb n="49"/>
+<l>T'rechtsnoer hy toog daer ov<hi rend="i">er</hi>end' en weynde,</l>
+<l>De hand niet of, voor hyse gants al scheynde,</l>
+<l>Seer klaeglijck al de Bolwercken daer staen,</l>
+<l>En jammerlijck ligt daer den muer vandaen.</l>
+<l rend="; 1tab">H. Haer poorten diep in d'eerde liggen daer</l>
+<l>Haer grendels hy ghebroken heeft, en haer,</l>
+<l>Coninghen met haer Vorsten, die zijn onder</l>
+<l>T'heydensche volck sy comen Gods bysonder</l>
+<l>Instellingh niet ghehouden, van den Heer,</l>
+<l>Ghesichten gheen sien haer Propheten meer.</l>
+<l rend="; 1tab">S. Die oudste van de dochter Syon, vlack</l>
+<l>Op d'Eerde stil nu ligghen, eenen sack,</l>
+<l>Heeft elck aen t'lijf gedaen om geen vermoyen</l>
+<l>En op t'grijs hayr zy stof en asschen stroyen,</l>
+<l>De Maeghden van Ierusalem vermaerd,</l>
+<l>Die laten t'hooft hanghen ter Eerde waerd.</l>
+<l rend="; 1tab">L. Van veel gewee<hi rend="i">n</hi> mijn ooge<hi rend="i">n</hi> schier uyt zijn</l>
+<l>Des is mijn lijf inwendigh vol ghepijn,</l>
+<l>Mijn lever is gestort uyt op der Eerd,</l>
+<l>Om t'v<hi rend="i">er</hi>driet d<hi rend="i">at</hi> mijns volcx dochter most herden</l>
+<l>Doe inder stad op straten zonder kracht,</l>
+<l>Die arm cleyn soogh kinders zijn versmacht.</l>
+<l rend="; 1tab">H. Doe sy benauwt van honger riepen mijn</l>
+<l>Moeder waer is nu brood, en waer is wijn?</l>
+<l>Ia doe sy wel ghewonde volck gheslachten,</l>
+<l>En midden op stads strate<hi rend="i">n</hi> daer versmachte<hi rend="i">n</hi>,</l>
+<l>En hunnen gheest op-gaven alsoo flauw,</l>
+<l>In d'armen van de moeders al vol rauw.</l>
+<l rend="; 1tab">S. Ierusalem dochter wien sal ick dy</l>
+<l>Ghelijcken, doch waer voor sal ick u ghy</l>
+<l>Dochter Syon o Maegd houdende wesen,</l>
+<l>Wien sal ick dy ghelijcken om door desen,</l>
+<l>Te Troosten dy, want u schade als de Zee</l>
+<l>Is groot, wie kan gheheelen al dijn wee?</l>
+<l rend="; 1tab">L. Slechts hebbend dijn Propheten eylaes</l>
+<l>Ghepredickt veel ydel ghesichten dwaes.</l>
+<l>Zy stelden dy niet dijn misdaed voor ooghen</l>
+<l>Om keeren dijn ghevanghenisse moghen</l>
+<l>Met ydel sot ghepreeck, vol soet gheluyd,</l>
+<l>Hebben zy dy ghepreeckt ten lande uyt.</l>
+<pb n="50"/>
+<l rend="; 1tab">H. De hande<hi rend="i">n</hi> slaen al die den weg hier gaen</l>
+<l>Voor by, en sy pijpen u schimpigh aen,</l>
+<l>Ia schudden t'hooft op Ierusalems dochter,</l>
+<l>Is dit de stad, daer men van seyde, mochter,</l>
+<l>Ee<hi rend="i">n</hi> schoonder zijn, ja daerm' afroemde wijd,</l>
+<l>En waer va<hi rend="i">n</hi> dat t'ga<hi rend="i">n</hi>sch land ooc was v<hi rend="i">er</hi>blijd.</l>
+<l rend="; 1tab">S. Elc dijn vyand speert op de<hi rend="i">n</hi> mond, en hy </l>
+<l>Fluyt over u, jae toond zijn Tanden dy,</l>
+<l>Segghende hey, wy hebbense ter Eerden,</l>
+<l>Te mael vernield, dit is onsen begheerden.</l>
+<l>Gewenschten dag, wy hebben ymmers dien,</l>
+<l>Vercreghen nu beleeft en noch ghesien,</l>
+<l rend="; 1tab">L. Den Heere deed' het gee<hi rend="i">n</hi> hy heeft bedacht</l>
+<l>Vervuld heeft hy zijn woorden, die in cracht,</l>
+<l>Van ouds hy heeft gheboden in voor Iaren,</l>
+<l>Hy heeft vernield verdorven zonder sparen,</l>
+<l>Dijn vyands vreughd hy over u ghedooghd,</l>
+<l>En dijn party den hoorn hy verhooghd.</l>
+<l rend="; 1tab">H. Haer herte riep tot de<hi rend="i">n</hi> Heere, Odu muer,</l>
+<l>Der dochter van Syon laet met ghetruer,</l>
+<l>t'Sy nacht of dagh u tranen stadigh leken,</l>
+<l>En vloeyen af ghelijck als water beken,</l>
+<l>En rust oock niet noch dijn oogh-appel claer,</l>
+<l>Niet af en laet noch sy niet still' eenpaer,</l>
+<l rend="; 1tab">S. In d'eerste waec staet op snachts maect gheluyd,</l>
+<l>Roept schudt den Heer u herte als water uyt,</l>
+<l>V handen heft tot hem, om al de zielen,</l>
+<l>Dijns kinders cleyn, die in ee<hi rend="i">n</hi> swaer vernielen</l>
+<l>Des hongers fel versmachten, vroegh en laet,</l>
+<l>Over al aen t'begin, van elcker straet.</l>
+<l rend="; 1tab">L. Heer siet en merckt, wie ghy dus hebt ghescheynd,</l>
+<l>Wat sullen dan, de vrauwen in den eynd,</l>
+<l>De<hi rend="i">n</hi> lichaems vrucht, ja kinders eender spanne<hi rend="i">n</hi></l>
+<l>Langh eten noch, en die heylighe mannen,</l>
+<l>Propheten, oock Priesters sullen die om</l>
+<l>Ghebracht zijn, dan in s'Heeren heylighdom</l>
+<l rend="; 1tab">H. In straten daer, ter Eerden menigfoud,</l>
+<l>Lagh neergheveldt, te samen jongh en oud,</l>
+<pb n="51"/>
+<l>Mijn maeghden jongh, en Iongelingen alle,</l>
+<l>Zijn door het Sweerd gecomen tot den valle,</l>
+<l>Gheworghd hebt ghy, in uwen Toorn dagh,</l>
+<l>Sonder ghenaed', hebt ghy gedaen den slagh.</l>
+<l rend="; 1tab">S. Ghy riept rondom, al mijn vyande<hi rend="i">n</hi> snoo</l>
+<l>Iae recht ghelijck, als t'eender Feeste, soo</l>
+<l>Dat op den dag, van s'Heeren Toorn geenen,</l>
+<l>Ontloopen is, noch overbleven eenen,</l>
+<l>Den vyand heeft verdaen, in groot verniel,</l>
+<l>De ghene die ick voedde, en onderhiel.</l>
+</lg><p>Eynd des 2. Claeg-lieds Ieremie.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0013"/>
+        </interpGrp>
+<head rend="h3">Het 11. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">57. Psalms wijse.</head>
+<lg type="poem"><l rend="; 1tab">L. WAt yv'rig man was in des Heere<hi rend="i">n</hi> pad,</l>
+<l>Ieremias hoe droeflijck hy oock sat,</l>
+<l>Ierusalems verderf, aensiende in trueren,</l>
+<l>Ierusalem wat heerlijckheyd, en wat</l>
+<l>Veranderingh heeft oyt besocht, u mueren.</l>
+<l rend="; 1tab">H. Melchisedech, hiel sijnen Coningh stoel,</l>
+<l>In u, en waerd (soo is t'ghemeen ghevoel)</l>
+<l>Van hem ghesticht, en Salem eerst geheeten,</l>
+<l>Of Salom welck is vrede, dus t'ghewoel,</l>
+<l>Des tweedrachts, dan Ierusale<hi rend="i">m</hi> wilt veeten.</l>
+<l rend="; 1tab">S. Morea berg, waer op de<hi rend="i">n</hi> Tempel staet,</l>
+<l>De plaetse was, daer God wille voor daed,</l>
+<l>In Abraham aennam, doe hy te slachten,</l>
+<l>Sijn eenigh Sone, en lief beloftigh zaed,</l>
+<l>Wel meende voor s'geloofs, oprechte crachte<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">L. Ierusalem gheseyd, vredigh ghesicht,</l>
+<l>Vast aen den voet Syon waert ghy gesticht,</l>
+<l>Mids in Iudeen, Iebus na Iebusyten,</l>
+<l>Hiet ghy (me<hi rend="i">n</hi> acht) doch niet om winne<hi rend="i">n</hi> licht,</l>
+<l>Langh derfden dy hun deel de Benjamijten</l>
+<l rend="; 1tab">H. Dry honderd Iaer en t'seventig of meer</l>
+<l>Tot David quam, die wierd u over-Heer,</l>
+<l>Doe wierd ghy rijc gebauwt en wo<hi rend="i">n</hi>d' schoone</l>
+<l>Maer Salomon bracht u ter hooghster Eer,</l>
+<l>Met soeten staf des vreeds, en wijse croone.</l>
+<l rend="; 1tab">S. Maer Roboam verlatende Gods wet,</l>
+<pb n="52"/>
+<l>Den Coningh van Egypten Sisak met</l>
+<l><note place="margin">2.par.12.2.</note>Ontallijck heyr quam, en heeft u geplondert,</l>
+<l>Na desen, noch Ioas sonder belet,</l>
+<l>Heeft u ter tijd, Amasia verondert</l>
+<l rend="; 1tab"><note place="margin">2.par.25.23.</note>L. Van uwen muer vier-honderd ellen wel</l>
+<l>Hy brack, daer na quam Salmanasser fel,</l>
+<l><note place="margin">4.Re.18.9</note>Die t'land verdorf, en maecte gants te schande<hi rend="i">n</hi></l>
+<l>Samaria, oock t'Rijck van Israel</l>
+<l>Ten eynd', en t'volck verstroyd' in alle lande<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">H. Sennacherib Assyrischs Coning, dy </l>
+<l>Oock heeft benauwt, maer op de vlucht most hy</l>
+<l>Den Engel Gods heeft al zijn heyr verslage<hi rend="i">n</hi>,</l>
+<l>Maer doch ter tijd Manasse most noch ghy,</l>
+<l>Belegh en oock inneminghe verdraghen.</l>
+<l rend="; 1tab">S. De zonde bracht u altijds inden druck,</l>
+<l><note place="margin">4.Re.21.14</note>V overblijf een roof, werd een ghepluck</l>
+<l><note place="margin">4.Re.25.9</note>Voor alle dijn vyanden wreed van zede,</l>
+<l><note place="margin">2.par.36.19</note>Noch over dy quam, t'groot swaer ongeluck,</l>
+<l rend="; 1tab"><note place="margin">Ier.52.12</note>L. Oock Iason valsch verwon u onversien,</l>
+<l><note place="margin">2.mach.5.5.</note>En Antioch u met geweld, van dien,</l>
+<l>Niet waren vry d'onnosel in de wieghen.</l>
+<l><note place="margin">2.Mach.5.12.</note>Apolloni een boef vol Tyrannyen,</l>
+<l>Op den Sabbath quam fel u oock bedriegen.</l>
+<l rend="; 1tab"><note place="margin">2.Mach.5.24.</note>H. Dits al voor by meer als 2.honderd jaer</l>
+<l>Maer nu her bloeyt ghy vredig wonderbaer,</l>
+<l>Door t'heerschen wijs Herodi onvervolghen,</l>
+<l>In voorspoed groot, genoegh van desen, maer</l>
+<l>Laet ons al voord de claeg-lieden vervolgen.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0014"/>
+        </interpGrp>
+<head rend="h3">Het derde Claeg-Lied Ieremie,</head>
+<div type="section">
+<head rend="h4">Op de wijse des 103. Psalms. Mijn ziele wilt, etc.</head>
+<lg type="poem"><l>S. <hi rend="i">I</hi>Ck ben een Man ellendig die in rauwe<hi rend="i">n</hi>,</l>
+<l>De Roede van zijn gramschap moet ae<hi rend="i">n</hi>schauwen,</l>
+<l>Gheleyd heeft hy my, int duyster doen gaen,</l>
+<l>En niet in t'licht, en zijn hand heeft hy reghen</l>
+<l>My nu gekeerd, hy handeld buyten t'plegen,</l>
+<l>Met my altijds, dan hy eer heeft ghedaen.</l>
+<pb n="53"/>
+<l rend="; 1tab">L. Mijn vleesch en huyd heeft hy in vroege daghen</l>
+<l>Verouderd, mijn ghebeente in twee geslagen,</l>
+<l>En my rondom betimmerd breed en wijd,</l>
+<l>Met galle en moeyt' heeft hy my al omvange<hi rend="i">n</hi></l>
+<l>En my gheleyd in duysterheyds bedwangen,</l>
+<l>Als dooden in de weereld t'aller tijd.</l>
+<l rend="; 1tab">H. Besingelt heeft hy my in swaer v<hi rend="i">er</hi>moeye<hi rend="i">n</hi></l>
+<l>Dat ick niet uyt en mag, hy heeft mijn boeye<hi rend="i">n</hi></l>
+<l>Beswaerd, al roepe ick en al schrey ick mat,</l>
+<l>Zijn ooren stopt hy, voor mijnen ghebede,</l>
+<l>Mijnen weg heeft hy, met grond-steene<hi rend="i">n</hi> mede</l>
+<l>Bemetst, en al toeghestopt, mijnen pad.</l>
+<l rend="; 1tab">S. Hy loerde op my, als Beyr doet om verworghen,</l>
+<l>En als een Leeuw, die ergens ligt verborge<hi rend="i">n</hi>,</l>
+<l>Hy laet den wegh my missen, en te mids</l>
+<l>Verscheurd' hy my, en maeckte my te nieten,</l>
+<l>Hy spien den boge, en stelde om na te schieten,</l>
+<l>My tot een wit of teecken, voor den Flits.</l>
+<l rend="; 1tab">L. Wt sijnen tros, liet hy mijn niere treffen</l>
+<l>Een spot mijns volcs ben ic, en als' aenheffen</l>
+<l>Sang, dan ben ick daeghlijcs hun lied gemeen,</l>
+<l>Met bitterheyd, heeft hy my gaen versaden,</l>
+<l>En drencte my, met Alssem t'mijnder schade<hi rend="i">n</hi>,</l>
+<l>Mijn tanden sloeg hy, al in stuckskens cleen.</l>
+<l rend="; 1tab">H. Hy winteld my in d'asschen, daer beneve<hi rend="i">n</hi></l>
+<l>Is oock mijn ziel', uyt den vrede gedreven,</l>
+<l>Vergheten ick de goede daghen moet,</l>
+<l>Ick sprack, nu is van my, al mijn vermogen,</l>
+<l>En op den Heer, mijn hope wegh ghetoghen,</l>
+<l>Ghedenckt o Heer, mijn ellendigh onspoed.</l>
+<l rend="; 1tab">S. Hoe seer ic ben verlaten, doch gedencket</l>
+<l>Met Alssem oock, en bitter gall' gedrencket,</l>
+<l>Ghy sult daer aen, ymmer ghedencken doch,</l>
+<l>Want het mijn ziel, inwendig my gaet segge<hi rend="i">n</hi>,</l>
+<l>Ia dit moet ick, ter herten stadigh legghen,</l>
+<l>En hierom leeft in my, de hope noch.</l>
+<l rend="; 1tab">L. S'Heeren genade, is oorsake van desen,</l>
+<l>Dat wy niet ga<hi rend="i">n</hi>ts te niet zijn, maer in wesen,</l>
+<pb n="54"/>
+<l>Gee<hi rend="i">n</hi> eynde en heeft, noch zijn bermherticheyd,</l>
+<l>Maer sy gedenckt, en is nieuwe alle morgen,</l>
+<l><note place="margin">Psal.16.6</note>Dijn trauwe is groot, en waero<hi rend="i">m</hi> soud ic sorge<hi rend="i">n</hi></l>
+<l>D'Heere is mijn deel, soo my mijn ziele seyd?</l>
+<l rend="; 1tab">H. Daerom wil ic, op hem hopen gestadig,</l>
+<l>Want vriendelijck de Heer is, en ghenadigh,</l>
+<l>Die op hem wacht, der ziel oock die hier naer</l>
+<l>He<hi rend="i">m</hi> vraegt en speurd, t'is ce<hi rend="i">n</hi> ding groot va<hi rend="i">n </hi>weerde<hi rend="i">n</hi></l>
+<l>Lijdsaem te zijn, en altijds met volheerde<hi rend="i">n</hi> </l>
+<l>Te hopen, op des Heeren hulp' eenpaer.</l>
+<l rend="; 1tab">S. T'is goed den man, t'Iock in zijn jeugd te draghen,</l>
+<l>Dat een die is verlaten, zonder claghen</l>
+<l>Verduldigh sy, als hem yet teghen gaet,</l>
+<l>Hy steke vry, de mond int stof, en wachte</l>
+<l>Op goede hope, en lijde datm' onsachte</l>
+<l>Hem noch, daer toe op t'kinnebacken slaet.</l>
+<l rend="; 1tab">L. Hy laet' hem doe<hi rend="i">n</hi>, al veel v<hi rend="i">er</hi>smaedh<hi rend="i">eyt</hi> treke<hi rend="i">n</hi></l>
+<l>Want eeuwigh niet, en wil de Heer versteken,</l>
+<l>Maer hy bedroeft, en is dan weder (siet)</l>
+<l>Bermhertig naer sijn goedh<hi rend="i">eyt</hi> groot te we<hi rend="i">n</hi>sche<hi rend="i">n</hi>,</l>
+<l>Want hy en plaegt, noch hy bedroeft de<hi rend="i">n</hi> menschen</l>
+<l>Niet geern, hy en doet van herte<hi rend="i">n</hi> niet.</l>
+<l rend="; 1tab">A. Als of hy wou, t'gevaen volc al beneden,</l>
+<l>Laten op Eerde, onder zijn voeten treden,</l>
+<l>En laten voor den Oppersten s'mans recht,</l>
+<l>Krom buygen, ooc een s'mensche<hi rend="i">n</hi> saeck v<hi rend="i">er</hi>kere<hi rend="i">n</hi></l>
+<l>Al eveleens, als of den Heer der Heeren</l>
+<l>Sulcs n<hi rend="i">iet</hi> en saeg', en niet en overlegt.</l>
+<l rend="; 1tab"><note place="margin">Amos.3.6</note>S. Wie derf dan noch gheseggen, dat dees dinge<hi rend="i">n</hi></l>
+<l>Gheschieden al zonder s'Heeren ghehenghen,</l>
+<l>En quaed noch goed en comt uyt s'hooghsten [m]ond,</l>
+<l>Hoe moghen dus de lieden in dit leven,</l>
+<l>Een yder wil veel liever hem begheven,</l>
+<l>Te morren op zijn zonde t'elcker stond.</l>
+<l rend="; 1tab">L. Laet ons doch wel betaste<hi rend="i">n</hi> al ons wegen</l>
+<l>Laet ons den Heer' oock soecken en te degen,</l>
+<l>Ons tot hem waerts bekeeren, nae zijn Wet.</l>
+<l>Tot den Heere in den Hemel na s'betamen.</l>
+<pb n="55"/>
+<l>Ons herten laet ons metten handen t'samen,</l>
+<l>Op heffen hoogh, als vierigh int ghebedt.</l>
+<l rend="; 1tab">H. Wy hebbe<hi rend="i">n</hi> Heer in ongehoorsaem plegen<note place="margin">Dan.9.5.</note></l>
+<l>Qualijck ghedaen, en ginghen u beweghen,</l>
+<l>Tot toornicheyd, en daerom onghespaerd,</l>
+<l>Ghy ons te recht met toornicheyd verbolgen,</l>
+<l>Hebt overschudt en ons met swaer vervolge<hi rend="i">n</hi>,</l>
+<l>Gedoot als of ghy ongenadigh waert.</l>
+<l rend="; 1tab">S. Ghy gingt o' Heer u m<hi rend="i">et</hi> ee<hi rend="i">n</hi> wolc bedecke<hi rend="i">n</hi></l>
+<l>Dat gheen ghebed tot u door soude trecken,</l>
+<l>Tot dreck en vuyl verworpsel ons doen zijn,</l>
+<l>Int midden van den volcken al int ronde,</l>
+<l>Elck ons vyand met opgespeerden monde,</l>
+<l>Steld tegen ons, uyt spot oock sijn aenschijn.</l>
+<l rend="; 1tab">L. Wy zijn verdruckt geplaegt met angstig schromen,</l>
+<l>Mijn oogen laes, als water beken stromen,</l>
+<l>Over t'v<hi rend="i">er</hi>driet mijns volcks dochters misval</l>
+<l>Mijn ooge vloeyd, zy sal niet rusten mede,</l>
+<l>Tot alder tijd, dat van des Hemels stede,</l>
+<l>Hier in de<hi rend="i">n</hi> Heer sien met opmercke<hi rend="i">n</hi> sal</l>
+<l rend="; 1tab">H. Mijn ooge scheyndt my t'leve<hi rend="i">n</hi>, geen tijd stille</l>
+<l>En dat alleen om mijn stads dochters wille,</l>
+<l>Oock hebben my mijn vyanden belaegd,</l>
+<l>Gelijck men doet een vogel, sonder sake,</l>
+<l>Zy hebben my het leven t'ongemake,</l>
+<l>Tot in den kuyl gebracht, t'zy u geklaegd.</l>
+<l rend="; 1tab">S. Noch hebbe<hi rend="i">n</hi> zy op my geworpen steene<hi rend="i">n</hi></l>
+<l>Met water ooc, mijn hooft bedeckt met eene<hi rend="i">n</hi></l>
+<l>Doe zeyd ick t'is met my nu al gedaen,</l>
+<l>Maer ick aenriep Heer' uwen naem benede<hi rend="i">n</hi>,</l>
+<l>Wt den kuyl diep, ghy hoordet mijn gebeden,</l>
+<l>Mijn stemme wierd van u noch wel verstae<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">L. Wanneer ick suchte en schreye o Heer daer vooren,</l>
+<l>En wilt doch dan verbergen niet u ooren,</l>
+<l>Maer neygt tot my, als ick aenroepe dy,</l>
+<l>En segt tot my, en wilt u niet verschricken.</l>
+<l>Wilt selve doch mijns ziels sake beschicken,</l>
+<l>En voere<hi rend="i">n</hi> uyt verlost mijn leve<hi rend="i">n</hi> ghy. </l>
+<pb n="56"/>
+    <l rend="; 1tab">H. Hoe my onrecht gheschiedt o Heer wilt mercke<hi rend="i">n</hi></l>
+<l>En helpt my tot mijn recht tot mijn v<hi rend="i">er</hi>stercke<hi rend="i">n</hi>,</l>
+<l>Hun wraecke, en hun ghedachten teghen my,</l>
+<l>Die siet ghy al, en over my verachten,</l>
+<l>Dat hoord ghy al te samen, hun ghedachten,</l>
+<l>De lippen oock van mijn weder party.</l>
+<l rend="; 1tab">S. Ia tegen my hun daeglijcx loos, v<hi rend="i">er</hi>siere<hi rend="i">n</hi>,</l>
+<l>Int ligghen Heer' en opstaen singhen tieren,</l>
+<l>Een lied van my, gheeft hun verdienden loon,</l>
+<l>Verschrict hun hert, laets' uwe<hi rend="i">n</hi> vloeck bevoele<hi rend="i">n</hi></l>
+<l>Vervolgd vernields', hier in uws toorns woelen,</l>
+<l>Ia onder al, den Hemel s'Heeren troon.</l>
+</lg><p>Het 3.Claeg-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0015"/>
+        </interpGrp>
+<head rend="h3">Het 12. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">weder op de wijse 57.Psal.</head>
+<lg type="poem"><l>H. <hi rend="i">T</hi>E vooren wel sag, David wonderbaer,</l>
+<l>Hoe Israel te Babel, zonde swaer</l>
+<l><note place="margin">Psa.137.1</note>Ghevangen zijnde, onlustigh zijn om singen,</l>
+<l>Int vremde land, aen Babels waters daer,</l>
+<l>De Herpen sy, aen wilghe boomen hinghen.</l>
+<l rend="; 1tab">L. Den Heere heeft seer heerlijc oock altoos </l>
+<l>Ghehandeld met de stad, die hy verkoos,</l>
+<l>Bewijsend' hem rechtveerdich, oock genadich</l>
+<l>Vermaende, en straft' haer alsse was te boos,</l>
+<l><note place="margin">2.par.36.21.</note>Hy sloeg', en heeld' haer wederom weldadich.</l>
+<l rend="; 1tab">S. Ierusalem tien-seven Iaren lagh</l>
+<l><note place="margin">Ier.25.12</note>Vernederd, woest, den Heer als-doe aensach</l>
+<l><note place="margin">Dan.9.25</note>Zijn woord, en ging de<hi rend="i">n</hi> geest van Cyrus wecke<hi rend="i">n</hi></l>
+<l><note place="margin">1.Esd.1.1</note>Die over al zijn rijck, met goed verdrach,</l>
+<l>Gedood ons volck, al vry na huys te trecken.</l>
+<l rend="; 1tab"><note place="margin">1.Es.3.10</note>H. Doe word van nieuws, des Tempels grond gheleyd,</l>
+<l>De Ieugd sa<hi rend="i">n</hi>g blijde, en 'twijle<hi rend="i">n</hi> heeft geschreyd</l>
+<l>Den ouderdom, ja die voor henen saghen,</l>
+<l>T'voorleden werck, van meerder heerlijcheyt,</l>
+<l>D'ee<hi rend="i">n</hi> riep m<hi rend="i">et</hi> vreugd en d'and' droef m<hi rend="i">et</hi> clage<hi rend="i">n</hi>.</l>
+<l rend="; 1tab">L. T'welck werd voldaen, na veel en swaer belet,</l>
+<l><note place="margin">2.Esd.9.3</note>Viermael des daegs, me<hi rend="i">n</hi> las in boec der Wet</l>
+<l>Viermael des daeghs, werd Godt den Heer </l>
+<pb n="57"/>
+<l>aenbeden<note place="margin">2.es.13.23</note></l>
+<l>Ia mannen oock met strafte, om dat zy met</l>
+<l>De vremde wijfs, vuyl buyten trauwe deden.<note place="margin">2.Es.6.15</note></l>
+<l rend="; 1tab">S. Nu was dat huys des Heere<hi rend="i">n</hi> al volsticht</l>
+<l>En al de stad beringht, met mueren dicht,</l>
+<l>Die daer so lag vertreden onder voete<hi rend="i">n</hi>, </l>
+<l>Doe Gods Propheet haer heeft, met droef gesicht</l>
+<l>Bewee<hi rend="i">n</hi>d, waer van t'vervolg wy singe<hi rend="i">n</hi> moete<hi rend="i">n</hi>.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0016"/>
+        </interpGrp>
+<head rend="h3">Het vierde Claeg-Lied Ieremie, </head>
+<div type="section">
+<head rend="h4">op de wijse des 2.Psalms.</head>
+<lg type="poem"><l rend="; 1tab">H. <hi rend="i">O</hi>Ch hoe geheel verdonckerd is nu t'goud</l>
+<l>Dat fijnste goud, so eyslijc boven mate<hi rend="i">n</hi>,</l>
+<l>Des heylighdoms ghesteenten menighfoud,</l>
+<l>Die ligghen nu verstroyd, op alle straten,</l>
+<l>D'eel kinders self, van Syon hoog in staten,</l>
+<l>Voortijds by goud gheleken, groot gheacht,</l>
+<l>Hoe zijn zy nu gheleken Eerden vaten.</l>
+<l>Die slechts zijn va<hi rend="i">n</hi> potbackers ha<hi rend="i">n</hi>d gewracht.</l>
+<l rend="; 1tab">L. Het soogen doch, hen jongen overvloed,</l>
+<l>Met eyghen borst, de wilde felle draken:</l>
+<l>Ong'nadig mijns volcs dochter, nu zijn moet</l>
+<l>Ghelijck een struys, int wilde ter oorsaken,</l>
+<l>Den suyglijng cleen zijn tong in dorstig snake,</l>
+<l>In sijnen mond dorr' aen t'verhemelt cleeft,</l>
+<l>De kinders cleen, vereyschen eens te smaken,</l>
+<l>ee<hi rend="i">n</hi> weynig broods, maer niema<hi rend="i">n</hi>d hun yet geeft</l>
+<l rend="; 1tab">S. Die voormaels van het lecker aten sat,</l>
+<l>Op straten mat versmachten, daer geleghen,</l>
+<l>Ia t'ligghen in den dreck, verlaten plat,</l>
+<l>Die op gevoedt, in syde wesen pleghen,</l>
+<l>De misdaed fel, van mijns volcx dochter tege<hi rend="i">n</hi></l>
+<l>Des Sodoms zonde al grooter is bekend,</l>
+<l>Doch omgekeerd, die stad was aller weghen,</l>
+<l>Seer snel, en daer en was geen hand ontrent.</l>
+<l rend="; 1tab">H. Reyn boven sneeu en melc wit ware<hi rend="i">n</hi> claer</l>
+<l>In voortijd al haer suyver Nasareenen,</l>
+<l>Roo'r als korael, haer aenschijn was, en haer</l>
+<l>Aenschauwe<hi rend="i">n</hi> was, gelijck als Saphir-steene<hi rend="i">n</hi></l>
+<l>Maer haer gedaente op t'strate en word van</l>
+<pb n="58"/>
+<l>geenen,</l>
+<l>Gekeerd, om dat soo doncker is en swart,</l>
+<l>Haer huyd dat hangt en slingert om de beene<hi rend="i">n</hi></l>
+<l>De welcke zijn, als een hout dorre en hard.</l>
+<l rend="; 1tab">L. T'ging beter, met die door t'Sweerd bleven dood,</l>
+<l>Dan die versmacht, van honger moste<hi rend="i">n</hi> blijve<hi rend="i">n</hi></l>
+<l>Door het gebreck der Acker-vrucht, ter nood</l>
+<l>Het mosten noch de barmhertigste wyven,</l>
+<l>Hen kinders self, om koken gaen ontlijven,</l>
+<l>Int ja<hi rend="i">m</hi>mer mijns volcks dochter seer onsacht</l>
+<l>Om leven by, den Heere om t'boos bedrijve<hi rend="i">n</hi>,</l>
+<l>Die heeft aldus zijn toornigheyd volbracht.</l>
+<l rend="; 1tab">S. De<hi rend="i">n</hi> Heer heeft uytgestort, ja hy vergoot</l>
+<l>M<hi rend="i">et</hi> yver heet, zijn gra<hi rend="i">m</hi>schap swaer om herde<hi rend="i">n</hi></l>
+<l>Tot Syon hy een vuyr aenstack seer groot,</l>
+<l>Dat ooc daer van haer gronde<hi rend="i">n</hi> al verteerde<hi rend="i">n</hi>,</l>
+<l>Ten hadden noyt, de Koning op der Eerden,</l>
+<l>Gelooft noch oock, als s'weerelds lieden dat</l>
+<l>De weerpartye, en vyand soud' aenveerden,</l>
+<l>Intocht ter poort Ierusalem der stad.</l>
+<l rend="; 1tab">H. Maer door misdaed va<hi rend="i">n</hi> haer Prophete<hi rend="i">n</hi></l>
+<l>Is dit geschiet, en om haers Priesters sonde,</l>
+<l>Die t'vromer bloed, daer in vergoten boos,</l>
+<l>Ia gins en weer, op straten al int ronde,</l>
+<l>Daer gingen heen, als blinde t'allen stonde,</l>
+<l>En waren al bevleckt, met bloede siet,</l>
+<l>Zoo datmen niet, hun kleeren raken conde,</l>
+<l>Men riep al om wijckt ghy onreyne vliet</l>
+<l rend="; 1tab">L. En roeres niet dus waren zy gestrijd,</l>
+<l>Men vlooter voor, so datmen seggen hooren,</l>
+<l>Mocht onder t'volc der Heydens, lange<hi rend="i">n</hi> tijd</l>
+<l>En sullen zy daer blijven, s'Heeren Tooren</l>
+<l>Heeft z'oock daerom verstroyd, hy wilse als vooren</l>
+<l>Niet meer aensien, want zy zijn Priesters</l>
+<l>En eerden niet den ouders uytvercoren,</l>
+<l>Zy deden geen barmhertighede soet.</l>
+<l rend="; 1tab">S. Op ydel hulpe ons oogen gaepte<hi rend="i">n</hi> noch,</l>
+<l>Tot zy vermoeyd zijn worden boven maten,</l>
+<pb n="59"/>
+<l>Doe op een volck wy wachten dat ons doch</l>
+<l>Gantsch niet en mocht gehelpe<hi rend="i">n</hi> noch gebate<hi rend="i">n</hi>,</l>
+<l>men jaegde ons soo, dat wy op onse straten,</l>
+<l>Niet dorsten gae<hi rend="i">n</hi>, doe quam ons eynde schier</l>
+<l>Ons dagen zijn nu uyt gantsch af-gelaten,</l>
+<l>Ia ons eynde is gecomen, t'is nu hier.</l>
+<l rend="; 1tab">H. Veel snelder als hier ond's'Hemels dat</l>
+<l>Die arends zijn oock ons vervolgers bleken,</l>
+<l>Tot op t'gebergt, daer wy niet ongemack,</l>
+<l>Op vloden hoogh, zijn zy ons na gestreken,</l>
+<l>Beloerden ons, ter woestijn in geweken,</l>
+<l>Gevangen was, des Heers gesalfden snel,</l>
+<l>Hy onsen troost, die most ons oock ontbreken,</l>
+<l>Ter tijd, doe zy ons zo verstoorden fel.</l>
+<l rend="; 1tab">L. Wy woude<hi rend="i">n</hi> doch wel, ond't'schaeuws bevrijd</l>
+<l>Van hem te mids den Herders geeren leven,</l>
+<l>O dochter ghy, Edom weest nu verblijd,</l>
+<l>Wilt vrolijck dy, tot vreugden gaen begeven,</l>
+<l>Ghy die daer woond, int la<hi rend="i">n</hi>d Uz nu verheve<hi rend="i">n</hi>,</l>
+<l>Want siet den kelck, sal u oock zijn genoodt,</l>
+<l>Ia hy, sal dy oock comen haest beneven,</l>
+<l>Ooc worde<hi rend="i">n</hi> moet ghy droncke, en al gebloot.</l>
+<l rend="; 1tab">S. Maer dijn misdaed, o Syo<hi rend="i">n</hi>s dochter nu</l>
+<l>Heeft haren eynd, die Toorn plag verwecke<hi rend="i">n</hi>,</l>
+<l>De straff' is uyt, de Heer en sal voords u</l>
+<l>Niet laten meer verveeren, noch vertrecken,</l>
+<l>Maer dochter ghy Edom, de boose vlecken</l>
+<l>Van u misdaed, haest werden openbaer,</l>
+<l>Besoecken sal de Heere, en bloot ontdecken,</l>
+<l>V wercken boos, en al u sonden swaer.</l>
+</lg><p>Eynd des 4.Treur-lieds Ieremie.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0017"/>
+        </interpGrp>
+<head rend="h3">[Het klaeg gesang, het welc in veerzen staet]</head>
+<div type="section">
+<head rend="h4">De wijse Psalm 57.</head>
+<lg type="poem"><l>H. <hi rend="i">H</hi>Et klaeg gesang, h<hi rend="i">et</hi> welc in veerze<hi rend="i">n</hi> staet</l>
+<l>Hebreeusch gedicht, op A,B,C en maet</l>
+<l>Is nu voleynd, nu laet ons des Propheten</l>
+<l>Klaeglijck gebedt verhalen metter daed,</l>
+<l>Terwijl wy zijn, om singen t'saem geseten.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0018"/>
+        </interpGrp>
+<head rend="h3">Het klachtig gebed Ieremie, het 5. Capittel</head>
+<div type="section">
+<head rend="h4">op de wijse des 45.Psalms.</head>
+<pb n="60"/>
+    <lg type="poem">
+<l>L. <hi rend="i">G</hi>Edenckt o Heer, hoe't met ons gaet in rauwen,</l>
+<l>Wilt met opmerck, ons versmaedheyd aenschauwen,</l>
+<l>Ons erve is nu gheworden, t'vremder deel,</l>
+<l>Ons huysen zijn, den uytlandighen heel.</l>
+<l rend="; 1tab">Weesen zijn wy, wy'n hebben genen Vader,</l>
+<l>Ons Moeders, zijn, als weduwen algader,</l>
+<l>Wy drincken laes, ons selfs water om geld,</l>
+<l>Ons hout word ons, tot dieren prijs besteld.</l>
+<l rend="; 1tab">S. Wy worden swaer, nu over hals gedreve<hi rend="i">n</hi></l>
+<l>En hoe vermoeyd, geen rust word ons gegeve<hi rend="i">n</hi></l>
+<l>Egypten oock, Assur wy ons ter nood,</l>
+<l>Opgaven, om te moghen eten brood.</l>
+<l rend="; 1tab">Ons voorders siet, die hebbe<hi rend="i">n</hi> hun ter schande<hi rend="i">n</hi></l>
+<l><note place="margin">Ier.31.29</note>Besondigt, des zijn sy niet meer voorhanden,</l>
+<l><note place="margin">Ezec.18.2</note>En hun misdaed, ontgelden wy eenpaer,</l>
+<l>Wy zijn in dwang, verheerd va<hi rend="i">n</hi> knechte<hi rend="i">n</hi> maer.</l>
+<l rend="; 1tab">H. En niemand comt ons, uyt hun hand bevrijden,</l>
+<l>Wy moeten oock in nood, de dood te lijden,</l>
+<l>Hale<hi rend="i">n</hi> ons brood, voor t'sweerd in der woestijn</l>
+<l>Ons huyd dat schijnt, geheel verbrand te zijn.</l>
+<l rend="; 1tab">Van hongher fel, ghelijck in eenen oven,</l>
+<l>S'hebben gescheynd, tot Syon daer en bove<hi rend="i">n</hi>,</l>
+<l>De wijven oock, onteerd sonder ghena,</l>
+<l>De Maeghden jongh, in den steden Iuda.</l>
+<l rend="; 1tab">L. Den Vorsten weerd, zy schandelijc ophingen:</l>
+<l>Sy eerden niet den ouden, Iongelinge<hi rend="i">n</hi> </l>
+<l>Mosten ghelaen, met muelen-steenen gaen.</l>
+<l>De knechtkens jong, vielen met t'hout gelae<hi rend="i">n</hi>.</l>
+<l>Onder de poort, en sitten noch vergaeren,</l>
+<l>D'ouders niet meer: de jongers op de snaren</l>
+<l>Spele<hi rend="i">n</hi> niet meer, ons herte<hi rend="i">n</hi> vreugd is g'eynd,</l>
+<l>Ons reyen is in droefheyd na gheweynd.</l>
+<l rend="; 1tab">S. De croone ons hoofts gevallen ligt ten gronde,</l>
+<l>Och wee, dat wy soo onachtsaem in zonde</l>
+<l>Hebben gheleeft, daerom is nu ons hert,</l>
+<l>Gheworden al vol droef, en bitter smert,</l>
+<pb n="61"/>
+<l>Duyster zijn oock ons ooghen nu bedeghen,</l>
+<l>Om Syons Berg, dat sy soo woest ghelegen</l>
+<l>Is nu ter tijd, als dat de Vossen koen,</l>
+<l>Daer over vry den loop nu henen doen.</l>
+<l rend="; 1tab">H. Maer Heere ghy die in eeuwich<hi rend="i">eyt</hi> blijvet,</l>
+<l>En eeuwich oock uwen Toorn beclijvet,</l>
+<l>Waerom wilt ghy ons vergheten eenpaer,</l>
+<l>Soo langhen tijd ons oock verlaten swaer.</l>
+<l rend="; 1tab">Herberght ons Heer tot u, dat wy by desen,</l>
+<l>Oock weder t'huys ghecomen mogen wesen.<note place="margin">Ier.31.16</note></l>
+<l>Gelijc van ouds vernieuwt ons dagen voord</l>
+<l>Ghy verwierpt ons, tot seer op ons gestoord.</l>
+    </lg><p>Eynd der Claeg-Lieden Ieremie.</p>
+
+</div>
+<div type="section">
+    <interpGrp>
+        <interp type="song" value="mand001beth01_0019"/>
+    </interpGrp>
+<head rend="h4">Weder op de wijse des 57. Psalms.</head>
+<lg type="poem"><l>L. <hi rend="i">N</hi>V hebdy t'lest van des Prophete<hi rend="i">n</hi> // lied,</l>
+<l>Vrec sangig t'zijn, dient ons v<hi rend="i">er</hi>wete<hi rend="i">n</hi> // n<hi rend="i">iet</hi></l>
+<l>Laet ander nu met sanghe boeten // lusten,</l>
+<l>Wy hebben doch ons wel ghequeten // siet,</l>
+<l>Wy slachte<hi rend="i">n</hi> oock de boge, en moeten // rusten.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0020"/>
+        </interpGrp>
+<head rend="h3">Het 13. Veld-Lied, </head>
+<div type="section">
+<head rend="h4">nae de wijse: des 116. Psalms.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Achitob. Raguel. Salomon.</hi></l>
+<l>A. <hi rend="i">G</hi>Hy Raguel en Salomon wilt oock,</l>
+<l>Te samen ons wat singen sonder beyde<hi rend="i">n</hi></l>
+<l>Terwijle<hi rend="i">n</hi> dat de Schaepkens noch wel weyde<hi rend="i">n</hi></l>
+<l>Dat onsen vaeck vergae ghelijck als roock.</l>
+<l rend="; 1tab">R. Och Achitob siet wat een helder licht,</l>
+<l>Het schijnt dat al den Hemel is ontsloten,</l>
+<l>Och siet hoe snel het neder comt gheschoten,</l>
+<l>Ick ben verschrict, van t'wonderlijck gesicht.</l>
+<l rend="; 1tab">S. Mijn hert is ooc vol vreesen t'eenemael</l>
+<l>Soo dat gheheel mijn leden ancxstigh beven,</l>
+<l>Och siet wat comt daer blinckende afgedreve<hi rend="i">n</hi></l>
+<l>Heerlijck om sien, en claer als Blixem-strael.</l>
+<l rend="; 1tab">A. Och help ons God, t'is s'Heeren Enghel schoon,</l>
+<l>Hy comt ons by, wat sal ons doch geworden,</l>
+<l>Wilt ons gemoed met cracht o Heer begorde<hi rend="i">n</hi>,</l>
+<pb n="62"/>
+<l>Die u ghesandt, ons schickt uyt uwen troost.</l>
+<l rend="; 1tab">R. Och siet hy comt ons slaen beneve<hi rend="i">n</hi> haest</l>
+<l>Omschenen zijn wy, van des Heeren claerh<hi rend="i">eyt</hi>,</l>
+<l>Des mijne<hi rend="i">n</hi> geest geswact door grove swaerh<hi rend="i">eyt</hi></l>
+<l>Des vleeschs benauwt is grouwsaem seer verbaest.</l>
+<l rend="speaker">Den Enghel.</l>
+<l rend="; 1tab">Weest niet bevreest gy Herders hier v<hi rend="i">er</hi>gaerd</l>
+<l>Een blijschap groot, ick u als nu verkonde,</l>
+<l>Die alle volck' hier binnen s'weerelds ronde,</l>
+<l>Gheschieden sal, en weest doch niet vervaert.</l>
+<l rend="; 1tab">Vervaerd u n<hi rend="i">iet</hi>, want siet ee<hi rend="i">n</hi> blijschap groot,</l>
+<l>Als tijdingh goed, kom ick u nu bedieden,</l>
+<l>Die over al, seer Troostelijck gheschieden,</l>
+<l>Sal alle volck' hier, op der Eerden bloot.</l>
+<l rend="; 1tab">Want Herders hoord, u oyt beter boodschap schoon</l>
+<l>Gheboren, is u den behouder heden,</l>
+<l>Den welcken self is Christus, Vorst des vrede<hi rend="i">n</hi></l>
+<l>De<hi rend="i">n</hi> Heere self, van bove<hi rend="i">n</hi> uyt den Troon</l>
+<l rend="; 1tab">In Davids stad, maer merct dits u voorseyd</l>
+<l>Tot teecken claer, in doecken siet bewonden,</l>
+<l>Werd een kleen kind, van u aldaer gevonden,</l>
+<l>Te Bethlehem, in een kribbe gheleyd.</l>
+<l>&nbsp;</l>
+<l rend="speaker">De menichte der Hemelscher Scharen singhen.</l>
+<l><hi rend="i">L</hi>Aet ons te saem, hier loven God eerbaer,</l>
+<l>Lof moet hem zijn, ja Eere groot becleve<hi rend="i">n</hi>,</l>
+<l>Sy God altijd, in eeuwicheyd verheven,</l>
+<l>Hier boven in dat alderhooghst' eenpaer.</l>
+<l rend="; 1tab">Vrede moet zijn, hier op dit eerdsche pleyn,</l>
+<l><note place="margin">Eph.2.16</note>Dat van twee, een nieuw mensche sy geschepe<hi rend="i">n</hi></l>
+<l>Door Christum self, in hem selven begrepen,</l>
+<l>Versoend met God, beyd' in ee<hi rend="i">n</hi> lichaem reyn.</l>
+<l rend="; 1tab">Vrede met God op eerden, wenschen wy</l>
+<l>T'me<hi rend="i">n</hi>schlijc geslacht, en daer toe onverschillig</l>
+<l>In't opset Gods, te wesen gants goedwillig,</l>
+<l>Sulck eenen lust, hier allen menschen zy.</l>
+<l rend="; 1tab">S. Och wonder werc, ons is geopenbaerd,</l>
+<l>Den Engel self, met den Hemelschen Schare<hi rend="i">n</hi>,</l>
+<pb n="63"/>
+<l>Een menicht groot, en ziet d'Engelen varen,</l>
+<l>Van ons om hoog, ten soeten Hemel waerd.</l>
+<l rend="; 1tab">A. Wy slapen niet gewis, ten is gee<hi rend="i">n</hi> droom</l>
+<l>Daer hoorde<hi rend="i">n</hi> wy, so soet geluydsche stemmen</l>
+<l>Om Dieren woest, in't luysteren te temmen,</l>
+<l>En stillen doen, der vlieten snellen stroom.</l>
+<l rend="; 1tab">R. Hoe lustigh soet, moet inden Hemel zijn,</l>
+<l>Daer sulcken Choor, van sanghers vreugd ontsluyten,</l>
+<l>My docht ick was, my selven gants te buyte<hi rend="i">n</hi></l>
+<l>Och s'wereldsvreugd, is al maer druc en pijn.</l>
+<l rend="; 1tab">S. Och wat gheluck, wat Gods ghenade groot,</l>
+<l>Geschied ons doch, wy arem cleen verworpe<hi rend="i">n</hi>,</l>
+<l>Slecht boerig volck, dat ons hier op de dorpe<hi rend="i">n</hi></l>
+<l>Verkondight zijn, soo groote dinghen bloot.</l>
+<l rend="; 1tab">A. Komt Herders ghy, en Herderinne<hi rend="i">n</hi> saen,</l>
+<l>Laet ons terstond, de Schape<hi rend="i">n</hi> doen ter koye<hi rend="i">n</hi>,</l>
+<l>Op datse niet, int ongheree verstroyen,</l>
+<l>En laet ons t'saem, na Bethlehem toe gaen.</l>
+<l rend="; 1tab">R. Iae laet ons gaen besien, het ghene dat<note place="margin">Luc.2.17.</note></l>
+<l>Daer is gheschied, en dat den Heere milde,</l>
+<l>Ons hier op t'Veld, te kennen gheven wilde,</l>
+<l>Christi gheboort, hier by in Davids stad.</l>
+</lg><p>Het 13.Veld-Lieds eynd.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0021"/>
+        </interpGrp>
+<head rend="h3">Het 14.Veld-Lied,</head>
+<div type="section">
+<head rend="h4">nae de wijse des 45.Psalms.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Hebreus, Prosolytus</hi><hi rend="i">. Lamech.</hi></l>
+<l>H. <hi rend="i">O </hi>Proselijt wel blijde wy zijn moghen,</l>
+<l>Vergeefs wy n<hi rend="i">iet</hi> te Bethlehem en togen,</l>
+<l>Wy vonden daer in een vernederd stal,</l>
+<l>Des weerelds licht, en s'menschen grooten al.</l>
+<l rend="; 1tab">Wy vonden daer een Maeghd, en die was moeder,</l>
+<l>Wat wonder werck? haer kind, haer Heer, en broeder,</l>
+<l>En leven was, ghemaeckt was sy door hem,<note place="margin">Ioan.1.3</note></l>
+<l>Wy toghen niet vergheefs te Bethlehem.<note place="margin">Eph.3.9.</note></l>
+<l rend="; 1tab">P. Daer sagen wy Maria soet oodmoedig</l>
+<pb n="64"/>
+<l>Va<hi rend="i">n</hi> wesen reyn, haer ma<hi rend="i">n</hi> ooc Ioseph vroedig</l>
+<l>Die stadig kuysch, wel Ioseph heeten mocht,</l>
+<l>Gelijck, die van zijn broeders was verkocht.</l>
+<l rend="; 1tab">Dit lieve paer end' desen grooten Coning,</l>
+<l>En vonden wy niet, in een rijcke wooningh,</l>
+<l>Maer in een stal, om Beesten stallen in,</l>
+<l>Niet getapijt, dan met vuyl cop-gespin.</l>
+<l rend="; 1tab">L. Gee<hi rend="i">n</hi> marmer welf gedrage<hi rend="i">n</hi> op dorijcken</l>
+<l>Colomnen noch Corinthen noch Ionijcken,</l>
+<l>En was aldaer te sien, van schoon gebauw,</l>
+<l>Veel eer ee<hi rend="i">n</hi> dack gevurst, met russchen rouw.</l>
+<l rend="; 1tab">Nu Ioseph van Davids huys en geslachte</l>
+<l>Om Davids stad int land Iudea dachte,</l>
+<l>Zijn schatting daer te geven quam hy heen,</l>
+<l>Van Nazareth een stad in Galileen </l>
+<l rend="; 1tab">H. Oock quam met hem Maria zijn getraude</l>
+<l>Die selve maegd, die hy al vroeg aenschaude,</l>
+<l><note place="margin">mat.1.18</note>Bevrucht, doch t'was vanden heyligen geest,</l>
+<l>Te nemen haer, tot hem heeft hy ghevreest.</l>
+<l rend="; 1tab">Maer inde<hi rend="i">n</hi> droom qua<hi rend="i">m</hi> de<hi rend="i">n</hi> Engel des Heere<hi rend="i">n</hi></l>
+<l><note place="margin">mat.2.20.</note>Va<hi rend="i">n</hi> deses maegds wonder bevrucht zijn leere<hi rend="i">n</hi></l>
+<l>En dat het kind, most Iesus heeten hy,</l>
+<l>Want t'sal zijn volck, van sonden maken vry.</l>
+<l rend="; 1tab">P. Dits al geschied, op dat volbracht zy t'gene,</l>
+<l>Dat den Heer sprac, door den Propheet voor hene,</l>
+<l><note place="margin">Esa.7.15.</note>Een maegd ontfaen, en bare<hi rend="i">n</hi> sal (merckt wel)</l>
+<l>Een Sone, en werd genaemt Emanuel.</l>
+<l rend="; 1tab">Dats God met ons, nu dit dan overslege<hi rend="i">n</hi>,</l>
+<l>Met sijn wijf quam Ioseph oprecht genege<hi rend="i">n</hi>,</l>
+<l>Tot s'vaders stad, daer wou de<hi rend="i">n</hi> Heer van al,</l>
+<l>Geboren zijn, in een vernederd stal.</l>
+<l rend="; 1tab">L. O Co<hi rend="i">n</hi>ing groot, Almachtig Heere nerge<hi rend="i">n</hi></l>
+<l>En wasser plaetse al daer in den herbergen,</l>
+<l>Voor u dat in een stal, o menschen siet,</l>
+<l>S'heeren oodmoet, in zijn geboort geschiet.</l>
+<l rend="; 1tab">Van God voorsien, den tijd van T'Maegdig baren,</l>
+<l>Quam juyst gepast, daer zy in de stad ware<hi rend="i">n</hi>,</l>
+<l>Dat doe voor by tijd negen-maendigh ging,</l>
+<pb n="65"/>
+<l>Dat Gods die<hi rend="i">n</hi>st-maegd zijn woord m<hi rend="i">et</hi> wille ontfingh. <note place="margin">Luc.1.34.</note></l>
+<l rend="; 1tab">H. God can zijn woord, en zijn beloft voorsproken,</l>
+<l>Volcomen dus, volcomen ongebroken:</l>
+<l>Van Davids zaed is t'woord volcome<hi rend="i">n</hi> mids</l>
+<l>Dat Ioseph is van t'zaed en huys Davids.</l>
+<l rend="; 1tab">Wa<hi rend="i">n</hi>t in echts ba<hi rend="i">n</hi>d was hy va<hi rend="i">n</hi> in voorstonde<hi rend="i">n</hi></l>
+<l>Met hand en woord ae<hi rend="i">n</hi> dese maegd v<hi rend="i">er</hi>bonde<hi rend="i">n</hi>,</l>
+<l>Met suyver vuyr bevrucht, he<hi rend="i">m</hi> niet gepaerd,</l>
+<l>Nochta<hi rend="i">n</hi>s m<hi rend="i">et</hi> haer, naer al des werelds aerd.</l>
+<l rend="; 1tab">P. Lof God, nu is den droeven nacht verdwenen,</l>
+<l>Door t'vrolijck licht, te Bethlehem verschene<hi rend="i">n</hi>,</l>
+<l>Wa<hi rend="i">n</hi>t t'licht, waer door al s'werelds lichte<hi rend="i">n</hi> zijn</l>
+<l>Vol claerheyd, heeft ter weereld sijnen schijn.</l>
+<l rend="; 1tab">De<hi rend="i">n</hi> opgang schoon, rijst blosende inde<hi rend="i">n</hi> ooste<hi rend="i">n</hi></l>
+<l>Dy groeten wy, o dagh om ons vertroosten,</l>
+<l>Oprechte So<hi rend="i">n</hi>n' hooftlicht, des werelds claer</l>
+<l>Waerachtigh licht, verschijnende openbaer.</l>
+<l rend="; 1tab">L. De lang verwacht', claer morgen-sterre schoo<hi rend="i">n</hi>e</l>
+<l>Wt Iacob voord gecome<hi rend="i">n</hi>, ligt te<hi rend="i">n</hi> too<hi rend="i">n</hi>e, </l>
+<l>In doecken nu gewonden, en geleyd</l>
+<l>In eender kribbe, alsoo ons was voorseyd.</l>
+<l rend="; 1tab">Den meeste<hi rend="i">n</hi> Heer, en heeft gee<hi rend="i">n</hi> gulde<hi rend="i">n</hi> wiege</l>
+<l>O mensch siet toe, dat u niet en bedriege</l>
+<l>De<hi rend="i">n</hi> hoogmoed, maer verklee<hi rend="i">n</hi>d u als dit kind,</l>
+<l>Want in oodmoed, men t'zieler ruste vind.</l>
+<l rend="; 1tab">H. V eygen selfs behagen, wilt vernielen,</l>
+<l>Komt soect, m<hi rend="i">et</hi> ons het broodhuys uwer siele<hi rend="i">n</hi></l>
+<l>Dat u gemoed, mag reyn zijn en gespijst,</l>
+<l>En dan gesterckt, den besten gever prijst.</l>
+<l rend="; 1tab">T'broodhuys oprecht, is Bethlehe<hi rend="i">m</hi>, va<hi rend="i">n</hi> dese<hi rend="i">n</hi></l>
+<l>Moet eeuwich lof, den alderhoogsten wesen,</l>
+<l>Zijn woord is vleesch geworde<hi rend="i">n</hi>, ja recht vroed</l>
+<l>Het welck geneest, de menschen van der dood.</l>
+<l rend="; 1tab">P. Den hooghsten, woond seer geeren met behagen,</l>
+<l>By die daer zijn, oodmoedig en verslagen,<note place="margin">esa.37.73</note></l>
+<l>Van herte en gheeft, waerom vercoren werd,</l>
+<l>In Israel een reyn vernederd hert.</l>
+<pb n="66"/>
+<l rend="; 1tab"><note place="margin">Syr.3.20.</note>Veel dingen groot, doet God door den oodmoeden</l>
+<l>Dies Gabriel, den Engel hem most spoeden,</l>
+<l><note place="margin">Luc.1.22.</note>Door Gods bevel, na t'Galileetsche land,</l>
+<l>Te Nazareth, ae<hi rend="i">n</hi> Maria als gesand.</l>
+<l rend="; 1tab">L. Zijn groet gedae<hi rend="i">n</hi>, en bodschap nu volcomen</l>
+<l>Gebood men most, den Zone Iesus nomen,</l>
+<l>Siet desen sal, groot wesen ongewoon,</l>
+<l>En werd genoemd, des alderhoogsten soon.</l>
+<l rend="; 1tab"><note place="margin">2.reg.7.13</note>God sal he<hi rend="i">m</hi> t'stoel zijns vaders David geve<hi rend="i">n</hi></l>
+<l><note place="margin">Psal.45.7.</note>En over t'huys Iacobs, eeuwigh verheven</l>
+<l><note place="margin">Ier.23.5.</note>Heerschappen sal hy, en zijns Coninghrijcks</l>
+<l><note place="margin">Dan.2.44.</note>Dagh, sal gheen eynd af wesen desghelijcks.</l>
+<l rend="; 1tab">H. Hoe salt toegaen, gevraeght, antwoorde weder,</l>
+<l>Van boven af, sal in u comen neder,</l>
+<l>D'heylige gheest, des alderhooghsten kracht,</l>
+<l>Van boven sal, u oock omschynen sacht.</l>
+<l rend="; 1tab">En daerom werd t'heyligh, uyt u geboren,</l>
+<l>Te recht genoemd, de<hi rend="i">n</hi> Zone Gods verkoren,</l>
+<l>Dit mocht ons al, d'een voor d'ander na</l>
+<l>Verteld zijn, van Ioseph en Maria.</l>
+<l rend="; 1tab">P. Maer Heber vriend, doe wy het kind nu vonde<hi rend="i">n</hi></l>
+<l><note place="margin">Luc.2.17.</note>Hoe seer al t'volc, aldaer door ons verconde<hi rend="i">n</hi>,</l>
+<l>Verwonderd was, als wy vertelde<hi rend="i">n</hi> t'woord,</l>
+<l>Wat wy va<hi rend="i">n</hi> t'kind in veld, al hadde<hi rend="i">n</hi> g'hoord.</l>
+<l rend="; 1tab">Maria self t'scheen ae<hi rend="i">n</hi> haer wesen reynig,</l>
+<l>Ons reden ging, ter herte<hi rend="i">n</hi> haer niet weynig,</l>
+<l>Zy sagh beschaemd ons aen, en hoorde snel</l>
+<l>Ons voor haer doen, de<hi rend="i">n</hi> Engel Gods vertel.</l>
+<l rend="; 1tab">L. Dat dit kind is, den Christ ons Saligmaker,</l>
+<l><note place="margin">Luc.2.11.</note>Den Heere self, des vrolijckheyds oorsaker,</l>
+<l>Van alle volck, het teecken oock daer by,</l>
+<l>Dat in een kribb' hem zouden vinden wy.</l>
+<l rend="; 1tab">Ic Lamech seg laet ons God va<hi rend="i">n</hi> hier bove<hi rend="i">n</hi></l>
+<l>(Die ons vertoond heeft waerh<hi rend="i">eyt</hi>) hooge love<hi rend="i">n</hi>,</l>
+<l rend="; 1tab">Wy vonden doch, in een vernederd stal,</l>
+<l>Des Weerelds licht, en s'mensche<hi rend="i">n</hi> grooten al.</l>
+</lg><p>Het 14.Veld-Lieds eynt.</p>
+</div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0022"/>
+        </interpGrp>
+<pb n="67"/>
+<head rend="h3">Het 15.Veld-Lied,</head>
+<div type="section">
+<head rend="h4">op de wijse: des 119.Psalms.</head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Achitob' Adon, Raguel.</hi></l>
+<l>A. <hi rend="i">O</hi> Adon vriend, en ghy oock Raguel,</l>
+<l>Wat soeter troost, en tydinge om verblijde<hi rend="i">n</hi></l>
+<l>Is ons geschied, en waer bevonde<hi rend="i">n</hi> wel</l>
+<l>Va<hi rend="i">n</hi> Christi comst: wie zoud' hem doch v<hi rend="i">er</hi>myden?</l>
+<l>Te singen lof, den God van Israel,</l>
+<l>Die ons zijn volck besoeckt, als nu ten tyden.</l>
+<l rend="; 1tab">Ad. O Achitob, wat liever kind hoe soet,</l>
+<l>Daer in een kribbe, in doecken lag gewonde<hi rend="i">n</hi>?</l>
+<l>Door t'schoon aensien, mijn herte en mijn gemoed,</l>
+<l>In zachte vreughd was Troost'lijck gantsch verslonden.</l>
+<l>Och nieuwen tijd, genadig' eeuwe ick groet,</l>
+<l>V menigfoud, meer als ick can vermonden.</l>
+<l rend="; 1tab">R. O Hemels ghy juygt eerde weest v<hi rend="i">er</hi>heugd</l>
+<l>Ghy berge<hi rend="i">n</hi> looft met juychen, God de<hi rend="i">n</hi> Heere,</l>
+<l>Want siet de Heer' heeft, nu tot volle vreugd,<note place="margin">esa.49.13.</note></l>
+<l>Zijn volc vertroost, he<hi rend="i">m</hi> heeft gejammert seere</l>
+<l>Ons swaer elle<hi rend="i">n</hi>de, en heeft des suyver jeugd,</l>
+<l>Gesonden hier, dat elck tot hem bekeere.</l>
+<l rend="; 1tab">A. Ghy Bethlehem, o Ephrata vermaerd,</l>
+<l>Micheas woord is waer in u gebleken,</l>
+<l>In Iuda ghy die tegens duysend waerd,<note place="margin">Mich.5.1</note></l>
+<l>Wel kleene: maer men sal van u nu spreken,</l>
+<l>In u is voord gecomen ons gebaerd,</l>
+<l>Israels Heer', het eeuwigh licht ontsteken.</l>
+<l rend="; 1tab">Ad. Va<hi rend="i">n</hi> aenbegin siet is doch zijn uytgang</l>
+<l>En is geweest van eeuwigheyd te vooren,</l>
+<l>Hier van zy God lof prijs, en eeuwigh danck,</l>
+<l>Die opgerecht heeft s'heyls verheven hooren,</l>
+<l>In Davids huys, alsoo hy overlang,</l>
+<l>Heeft toegheseyd, om s'vyands macht v<hi rend="i">er</hi>stooren.</l>
+<l rend="; 1tab">R. Nu sal den val van Adam zijn geheeld,</l>
+<l>En t'slangen hooft, te morselinge wesen:</l>
+<l>Gevangenis hoe sterck oock gecasteeld,</l>
+<l>Gebroken werd, t'vry Iaer comt opgeresen,</l>
+<l>Het schepsel sal niet blijven afgedeeld,</l>
+<pb n="68"/>
+<l>Van sijnen God, en Schepper meer na desen.</l>
+<l rend="; 1tab">A. Lof onsen Christ, ons nu verschenen hy,</l>
+<l>T'licht teecken claer des dolendens berader.</l>
+<l>In eenen geest, door hem verwachten wy,</l>
+<l>Ten Hemel hoog, tot zijn Almachtig Vader,</l>
+<l>Een open deur, en eenen toegang vry,</l>
+<l><note place="margin">Eph.1.12</note>Die verre zijn, die sal hy roepen nader.</l>
+<l rend="; 1tab">Ad. Die nu zijn vree<hi rend="i">m</hi>d, in Gods belofte<hi rend="i">n</hi> al,</l>
+<l><note place="margin">Eph.2.12</note>Die sullen zijn, Gods lieve huysgenooten,</l>
+<l>T'lam Herder werd, en deur va<hi rend="i">n</hi> t'schape<hi rend="i">n</hi>-stal</l>
+<l>Ia t'Lam den wolf verlossen uyt den poote<hi rend="i">n</hi>,</l>
+<l>Verwinninge cloeck de<hi rend="i">n</hi> roof der Schapen sal,</l>
+<l>En brenge<hi rend="i">n</hi> t'saem, dat dwalig is verstooten.</l>
+<l rend="; 1tab">R. T'La<hi rend="i">m</hi> Herder sal t'gequetste heele<hi rend="i">n</hi>, naer</l>
+<l><note place="margin">Eze.34.12</note>T'verlooren om te soecken neerstigh draven.</l>
+<l>Wat vet en sterck is wel bewaren, waer</l>
+<l>Hy nemen sal, dat swack is om begaven,</l>
+<l><note place="margin">esa.40.11.</note>Hy werd de spijs' ja weyd' en borne claer,</l>
+<l><note place="margin">ioa<hi rend="i">n</hi>.10.11</note>Die t'kudde self wel voeden sal, en laven.</l>
+<l rend="; 1tab">A. Hy is het Lam, t'Lam Gods is hy het welck,</l>
+<l><note place="margin">ioan.1.29</note>Daer nemen weg, sal al des weerelds zonde<hi rend="i">n</hi>,</l>
+<l>Zijn woord sal zijn, soet ongevalschte melck,</l>
+<l>Voor lammers teer, ee<hi rend="i">n</hi> voedsel nut bevonde<hi rend="i">n</hi>,</l>
+<l>Nu laet ons noch, by buerten singen elck,</l>
+<l>En sijnen lof, met nieuwen sangh oorconden.</l>
+</lg></div>
+</div>
+<div type="chapter"><interpGrp>
+            <interp type="song" value="mand001beth01_0023"/>
+        </interpGrp>
+<head rend="h3">Een A,B,C.</head>
+<div type="section">
+<head rend="h4">Op de wijse des 116.Psalm.</head>
+<lg type="poem"><l>Ad. <hi rend="i">A</hi>Cht Bemind Christ, Door Een Fijn G'loovig Hert,</l>
+<l>Inwe<hi rend="i">n</hi>dig Kleyn Liefds Mildige Natuyre,</l>
+<l>Oeffenen Pooght, Quaed Raed Schouwt T'elcker Vyre,</l>
+<l>Xprs Yeg'lijcks Ziel, het een noodigst werd.</l>
+<l rend="; 1tab">R. Bemind dit kind, zijt als dit kind gesind</l>
+<l>Elck wie ghy zijt, zijt in u eygen oogen,</l>
+<l>Vernedert cleyn, soo sal u God verhoogen,</l>
+<l>Wt al u ziel, den Heer Christum bemind.</l>
+<pb n="69"/>
+<l rend="; 1tab">A. Christ g'ope<hi rend="i">n</hi>baerd, int vleesch hier als ee<hi rend="i">n </hi>kind</l>
+<l>Te zijn gelijck, en volgen werd bevolen.</l>
+<l>Zachtmoedigh<hi rend="i">eyt</hi>, comt leerd al t'sijner schole<hi rend="i">n</hi>,</l>
+<l>Komt leerd ae<hi rend="i">n</hi> he<hi rend="i">m</hi>, veracht' oodmoedigheyd.</l>
+<l rend="; 1tab">Ad. Door dees wijsh<hi rend="i">eyt</hi> en lessen, haest geseyd</l>
+<l>Maer traeg geleerd va<hi rend="i">n</hi> me<hi rend="i">n</hi>sche<hi rend="i">n</hi> na t'betame<hi rend="i">n</hi>,</l>
+<l>Doet dit jong kind te niet, en can beschame<hi rend="i">n</hi>,</l>
+<l>De wijsheyd groot, der gantse weereld wijd.</l>
+<l rend="; 1tab">R. Ee<hi rend="i">n</hi> yder elck tot elck sachtmoedig zijt,</l>
+<l>Na dit kinds aerd, stierd al u zins gedachten</l>
+<l>Siet sijnen geest die leerd den Naesten achte<hi rend="i">n</hi>,</l>
+<l>Al hooger als u selven, dit verstaet.</l>
+<l rend="; 1tab">A. Fijn lustig waer't, waer dit so inder daed</l>
+<l>De weereld door beleeft. In soet stil swijgen,</l>
+<l>Lage alle twist, men soude niet meer krijge<hi rend="i">n</hi>,</l>
+<l>Wa<hi rend="i">n</hi>t hoogmoed maect de weereld vol v<hi rend="i">er</hi>driet.</l>
+<l rend="; 1tab">Ad. G'loovig oprecht, en can gewesen niet,</l>
+<l>Wie hier v<hi rend="i">er</hi>stockt blijft, in hooveerdig wesen,</l>
+<l>Want God veracht, en staet oock tege<hi rend="i">n</hi> desen,</l>
+<l>Maer zijn genaed', hy den ootmoeden geeft.</l>
+<l rend="; 1tab">R. Hert sin en moed, dees kinder less' aenkleeft,</l>
+<l>Ziel-rust ons sal volcome<hi rend="i">n</hi> zijn beneven, </l>
+<l>Daer heyde<hi rend="i">n</hi>s blind, wys-gier al veel va<hi rend="i">n</hi> schreven</l>
+<l>Dit kind, ons in twee woorden beter leerd.</l>
+<l rend="; 1tab">A. Inwendig mensch, om s'geests verciere<hi rend="i">n</hi> keerd,</l>
+<l>Tot desen schat der wijsheyd vlijt en poogen:</l>
+<l>Wa<hi rend="i">n</hi>t heerlijc, hoog, gereke<hi rend="i">n</hi>d voor Gods oge<hi rend="i">n</hi><note place="margin">1.Pet.3.4</note></l>
+<l>Is hy, hoe seer de weereld hem veracht.</l>
+<l rend="; 1tab">Ad. Kleyn romt hem groot, swack stuend' op eyghen macht,</l>
+<l>Zot wae<hi rend="i">n</hi>wijs pocht, blind, naect, mismaect ellendigh,</l>
+<l>Meent siet wel scherp, is rijck v<hi rend="i">er</hi>ciert behe<hi rend="i">n</hi>dig</l>
+<l>So kreftig crom is s'weerelds loop eenpaer.</l>
+<l rend="; 1tab">R. Liefds schijn, hier mede is nijd v<hi rend="i">er</hi>mond jae daer</l>
+<l>Is schier, noch trauw, noch vroo<hi rend="i">m</hi>heyd, meer te vinden,</l>
+<pb n="70"/>
+<l>De loghen door gheweld, en loose winden,</l>
+<l>Voor waerh<hi rend="i">eyt</hi> word gevierd en groot genae<hi rend="i">m</hi>t,</l>
+<l rend="; 1tab">A. Mildige Heer t'was groot tijd dat ghy quaemt,</l>
+<l>De slange<hi rend="i">n</hi> macht, ja raed en werc verniele<hi rend="i">n</hi></l>
+<l>Welcomen zijt gheneser onser zielen,</l>
+<l>Klaer morge-sterre en ons voorbeeldig beeld.</l>
+<l rend="; 1tab">Ad. Natuere Gods sal wesen toegedeeld,</l>
+<l><note place="margin">2.Pet.1.4</note>Die u gelooft, jae vlied hier sonder rusten,</l>
+<l>Des weerelds snoo vergangelijcke lusten,</l>
+<l>En al wat ons o Heer van u afleyd.</l>
+<l rend="; 1tab">R. Oeffene<hi rend="i">n</hi> deugd int t'geloof met wete<hi rend="i">n</hi>h<hi rend="i">eyt,</hi></l>
+<l>V volger moet m<hi rend="i">et</hi> maet en duld bermhertig,</l>
+<l><note place="margin">2.Pet.1.5</note>Zijn broeder hy beminnen moet goethertig,</l>
+<l>Ia zijn vyand, en elcken int gemeyn.</l>
+<l rend="; 1tab">A. Pooght hy aldus in u kennisse reyn,</l>
+<l>Vruchtbaer, hem werd vry sonder valle<hi rend="i">n</hi> spoedigh,</l>
+<l>Vws rijckz ingang, bereyd seer overvloedig,</l>
+<l>Iae Heer u Rijck soet onverganklijck Rijck.</l>
+<l rend="; 1tab">Ad. Quaed doenders Heer, doen al van u af-wijck,</l>
+<l><note place="margin">Mat.25.11.</note>Ghy kentse niet, wat zy voor henen schenen,</l>
+<l>Of waren oock ghy wijstse al van u henen,</l>
+<l><note place="margin">luc.13.25.</note>Ten zy dat zy in tijds bekeeren recht.</l>
+<l rend="; 1tab">R. Raed is nu dan voor yder sonde<hi rend="i">n</hi> knecht</l>
+<l>Dat hy keer om va<hi rend="i">n</hi> lust des vleeschs na jage<hi rend="i">n</hi>,</l>
+<l>En soeckt dit kind, dat om zijn self behagen,</l>
+<l>Hier niet en komt, maer dienstig elck te goe.</l>
+<l rend="; 1tab">A. Schuwt ooc uw's self behagen, merckt eens hoe</l>
+<l>Om dy o mensch, den alderhoogste<hi rend="i">n</hi> Koning,</l>
+<l>Zijn heerlijckheyd verliet, en na<hi rend="i">m</hi> zijn woning</l>
+<l>Op Eerden hier, in eenen aermen straet.</l>
+<l rend="; 1tab">Ad. T'elcker reys dat men dit bedencken gaet,</l>
+<l>Met Hester wy voor onsen Koningh mogen,</l>
+<l>Als in onmacht ghevallen, ja ghebogen,</l>
+<l>Met herten knyen, gestadigh dancken hem.</l>
+<l rend="; 1tab">R. Vre en tijd in t'Broodhuys Bethlehem</l>
+<pb n="71"/>
+<l>Vry noch te gae<hi rend="i">n</hi>, wie hongerd wordt geroepe<hi rend="i">n</hi>,</l>
+<l>T'brood is de deur, welck roept en staet noch open,</l>
+<l>Voor die he<hi rend="i">m</hi> soeckt sachtmoedig in oodmoed.</l>
+<l rend="; 1tab">Xprs is ons Schoolmeester, recht boet,</l>
+<l>Is t'kruysken A, met t'gloof aen sijne<hi rend="i">n</hi> name</l>
+<l>Een School recht wijs, t'begin van zijn bequaeme,</l>
+<l>Geleerdheyd groot, in t'vreedsaem nieu verbond.</l>
+<l rend="; 1tab">Yegelijcks bauw stae vast op desen grond,</l>
+<l>Van t'huys Gods hy de<hi rend="i">n</hi> hoeck-stee<hi rend="i">n</hi> is vercore<hi rend="i">n</hi></l>
+<l>T'huys wast uyt hem, elck lit uyt he<hi rend="i">m</hi> geboren</l>
+<l>Zal tot een lijf aenhanghen hem als hooft.</l>
+<l rend="; 1tab">Ziel oock al wat in my is, danckt en looft</l>
+<l>God, die o<hi rend="i">n</hi>s dus besocht heeft uyt de<hi rend="i">n</hi> hoogte<hi rend="i">n</hi>,</l>
+<l>Vergroenen sal, men sien de woeste droogten,</l>
+<l>Soo vroeden nacht, in blyden dagh nu eynd.</l>
+<l rend="; 1tab">Etlijcken tijd, jae wel so langh bekend, </l>
+<l>Werd desen nacht gedacht, en g'acht in weerde<hi rend="i">n</hi></l>
+<l>Als nacht den dag sal volge<hi rend="i">n</hi> om der Eerden,</l>
+<l>En voor geen doove en werd ooc onsen sang.</l>
+<l rend="; 1tab">Ee<hi rend="i">n</hi> ander magh de weke en tempel gangh,</l>
+<l>Voord singe<hi rend="i">n</hi> ooc t'besnijdens dag verclaren,</l>
+<l>M<hi rend="i">et</hi> geestig dicht, hoe wijs' wt oost ooc ware<hi rend="i">n</hi>,</l>
+<l>Gheleyd met licht, en wat elcks Offer was.</l>
+<l rend="; 1tab">Noodigst hier toe is s'geests v<hi rend="i">er</hi>borge<hi rend="i">n</hi> blas,</l>
+<l>Wie<hi rend="i">n</hi>s dicht wel sticht, en is bequae<hi rend="i">m</hi> om hoore<hi rend="i">n</hi></l>
+<l>Maer mensch vernuft, m<hi rend="i">et</hi> ydel sang de<hi rend="i">n</hi> oore<hi rend="i">n</hi>,</l>
+<l>Des jeughds seer quetst, en t'hert oock veel ontsticht.</l>
+<l rend="; 1tab">Werd lauwer croon hier loon voor die so dicht.</l>
+<l>Zijn Eer eerlang v<hi rend="i">er</hi>gaet, en keert tot scha<hi rend="i">n</hi>de<hi rend="i">n</hi>,</l>
+<l>Ee<hi rend="i">n</hi> noodig is, om van Gods soon in hande<hi rend="i">n</hi>,</l>
+<l>Den Palm groen ontfaen in't eeuwigh licht.</l>
+</lg><p>AMEN.</p>
+</div>
+</div>
+<div type="chapter">
+<pb n="72"/>
+<head rend="h3">Tafel: oft Inhoud der Veld-Lieden.</head>
+<table>
+<row><cell>1. <hi rend="i">V</hi>An 't Hof Eden, ende Adams val.</cell><cell>3.</cell></row>
+<row><cell>2. Van 't beloofde zaed, Evas hope, ende geschiedenis van Kain ende Abel</cell><cell>8.</cell></row>
+<row><cell>3. Van d'eerste Weereld, Zond-vloed, ende Babylonschen Toren.</cell><cell>14.</cell></row>
+<row><cell>4. Va<hi rend="i">n</hi> Sodoma, en<hi rend="i">de</hi> Loth m<hi rend="i">et</hi> sijn dochters.</cell><cell>20.</cell></row>
+<row><cell>5. Vanden Eerds-Vader Iacob, verscheyden geschiedenissen.</cell><cell>24.</cell></row>
+<row><cell>6. Van d'Isralyten in Egypten.</cell><cell>31.</cell></row>
+<row><cell>7. Va<hi rend="i">n</hi> Israels uyttocht, en<hi rend="i">de</hi> comst int beloofde land, tot David toe</cell><cell>34.</cell></row>
+<row><cell>8. Van David en<hi rend="i">de</hi> ander Coninge<hi rend="i">n</hi> in Israel, oock voorsegsels van Christi comst.</cell><cell>38.</cell></row>
+<row><cell>9. Zedekias gevangenis, ende t'eerste klaeglied Ieremie.</cell><cell>42.</cell></row>
+<row><cell>10. Ierusalem onder de Romeyne<hi rend="i">n</hi>, en<hi rend="i">de</hi> tweede klaeg-lied Ieremie.</cell><cell>46.</cell></row>
+<row><cell>11. Ierusalems bau, wel en<hi rend="i">de</hi> quaelijc vaert, en<hi rend="i">de</hi> derde klaeg-lied Ieremie.</cell><cell>51.</cell></row>
+<row><cell>12. Gevange<hi rend="i">n</hi>is in Babel, Ierusale<hi rend="i">m</hi>s wederbau, oock 4. en<hi rend="i">de</hi> 5. klaeg-lieden Ier.</cell><cell>56.</cell></row>
+<row><cell>13. De Herdere<hi rend="i">n</hi> sien t'gesicht, den Engel verschijnt haer met de Hemelsche scharen.</cell><cell>61.</cell></row>
+<row><cell>14. Herderen t'samen spraek, wat zy te Bethlehem gesien hebben.</cell><cell>63.</cell></row>
+<row><cell>15. Herderen lofsangh, over de comste Christi.</cell><cell>67.</cell></row>
+<row><cell>Een A,B,C. op des 116.Psalms wijse.</cell><cell>68.</cell></row>
+</table>
+</div>
+</body>
+</text>
+</TEI.2>

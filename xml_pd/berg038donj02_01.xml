@@ -1,0 +1,3794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Don Jeronimo, maerschalk van Spanjen</title>
+               <author>Adriaen van den Bergh</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Don Jeronimo, maerschalk van Spanjen</hi> van Adriaen van den Bergh uit 1713. De eerste druk dateert uit 1638.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 3: bedrye → bedryf, ‘Eerste bedryf’</corr>
+                       <corr>p. 12: de kop ‘Tweede Bedryf’ is tussen vierkante haken toegevoegd.</corr>
+                       
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>71</extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>72</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">berg038donj02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 29 A 31: 6</idno>
+               </bibl>
+               <p>Adriaen van den Bergh, <hi rend="i">Don Jeronimo, maerschalk van Spanjen</hi>. Gysbert de Groot (erven), Amsterdam 1713 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Don Jeronimo, maerschalk van Spanjen</title>
+               <author>Adriaen van den Bergh</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Don Jeronimo, maerschalk van Spanjen</title>
+               <author>Adriaen van den Bergh</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-19</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="spanj01"/>
+<interp type="primair" value="portu01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>DON</p>
+<p>JERONIMO,</p>
+<p>Maerschalk van Spanjen,</p>
+<p><hi rend="i">TREURSPEL</hi>.</p>
+<p>Vertoont op d' Amsterdamsche Schouburg.</p>
+<p>
+<figure>
+<p><xptr to="berg038donj02ill0001.gif"/></p></figure></p>
+<p>Tot AMSTERDAM,</p>
+<p>By de Wed. van Gysbert de Groot, Boeckverkoopster op den Nieuwen-dijk, 1713.</p>
+</div></cf>
+<div type="chapter">
+<pb n="2"/>
+<head rend="h3">Personagien.</head>
+<list>
+<item><hi rend="i">Den Koning</hi> van Spanjen.</item>
+<item><hi rend="i">Don Ieronimo</hi>, Maerschalks van Spanjen.</item>
+<item><hi rend="i">Don Lorenzo</hi>, Prins van Portugael.</item>
+<item><hi rend="i">Don Pedro</hi>, Prins van Kastilien.</item>
+<item><hi rend="i">Don Oratius</hi>, des Maerschalks Soon.</item>
+<item><hi rend="i">Bellemperia</hi>, Princesse van Kastilien.</item>
+<item><hi rend="i">Den Koning</hi> van Portugael.</item>
+<item><hi rend="i">De Bode</hi>.</item>
+<item><hi rend="i">Pedron Gano</hi>, dienaer van Bellemperia.</item>
+<item><hi rend="i">Serberijn</hi>, dienaer van Don Lorenzo.</item>
+<item><hi rend="i">Isabella</hi>, huysvrouw van Jeronimo.</item>
+<item><hi rend="i">Twee Soldaten</hi>.</item>
+<item><hi rend="i">Pagie</hi>, van Don Pedro.</item>
+<item><hi rend="i">Scherp-rechter</hi>.</item>
+<item><hi rend="i">Hertog</hi> van <hi rend="i">Kastilien</hi>.</item>
+<item><hi rend="i">Bosardo</hi>, Schilder.</item>
+<item><hi rend="i">Wraek</hi>.</item>
+<item><hi rend="i">Bedrog</hi>.</item></list>
+<div type="section">
+<head rend="h4">In de Tragedie speelt</head>
+<p>
+<table>
+<row>
+<cell><hi rend="i">Don Pedro</hi></cell>
+<cell>voor</cell>
+<cell><hi rend="i">Soliman</hi>.</cell></row>
+<row>
+<cell><hi rend="i">Don Lorenzo</hi></cell>
+<cell>voor</cell>
+<cell><hi rend="i">Erastuts</hi>.</cell></row>
+<row>
+<cell><hi rend="i">Bellemperia</hi></cell>
+<cell>voor</cell>
+<cell><hi rend="i">Perseda</hi>.</cell></row>
+<row>
+<cell><hi rend="i">Ieronimo</hi></cell>
+<cell>voor</cell>
+<cell><hi rend="i">Mustapha</hi>.</cell></row></table></p>
+</div>
+</div>
+<div type="act">
+<pb n="3"/>
+<head rend="h3">Eerste bedryf.</head>
+<stage><hi rend="i">Koning van Spanjen, en Don Ieronimo met eenige anders Edelen uytkomende, spreekt aldus</hi></stage>
+<sp>
+<speaker><hi rend="i">K.v. Spanjen.</hi></speaker>
+<l>DAt de rechtveerdigheit in 't end met goude kroonen</l>
+<l rend="; 1tab">En Scepters, deugd beloont, dat kan men nu betoonen,</l>
+<l rend="; 1tab">En 't blijkt hier openbaer: Jeronimo, gy weet,</l>
+<l>Dat ik dees Oorlog heb begonnen, doch met leet,</l>
+<l>En tegen sin, en roep den Hemel tot getuige,</l>
+<l>Voor wien ik voor 't geluk gansch onderdanig buige:</l>
+<l>Dat, zoo ik niet met kragt daer toe wierd aengeport,</l>
+<l>Den Oorlog was by my voor lang al opgeschort.</l>
+<stage><hi rend="i">Don Pedro en Oratius uyt, hebbende Don Lorenzo gevangen, en tusschen beyden elk by een Bragoen gevat</hi>.</stage>
+<l>Maer wat brengt Don Pedro en Oratius behangen</l>
+<l>Met buyt van Portugael?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>My dunkt 't is een gevangen</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spanj.</hi></speaker>
+<l>Wat of dit wesen zal?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Heer Koning met verlof.</l>
+<l>Schoon of dit nootlot heeft tot rampspoet uitverkoren</l>
+<l>Ons Portugeesen, die tot lijden zijn geboren,</l>
+<l>Soo tuigt noch deugd in my, dat 't adelijke geboren,</l>
+<l>In eindeloose druk, heeft eindeloose moedt.</l>
+<l>Tot spijt van Spanjen roem ik, dat wy Portugeesen,</l>
+<l>Ten waer de nootdwang ons verwon.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spany.</hi></speaker>
+<l>Wel wat zal desen</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>'t Is mijn gevangen die ik in den slag verwon.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Hy is de mijne.</l></sp>
+<sp>
+<speaker><hi rend="i">D Ped.</hi></speaker>
+<l>Hoe! de uwe?</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Soo ik kon</l>
+<l>Was ik als gy, ik zou het sonder schaemt ontkennen,</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Soo doenik.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Schaemteloos sich tot bedrog te wennen,</l>
+<l rend="; 1tab">Is eereloos.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Gy weet hoe ik hem onversaegt</l>
+<l rend="; 1tab">Den teugel heb ontrukt.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Segt moedeloos ontjaegt,</l>
+<pb n="4"/>
+<l>Doen mijn gevelde speer hem repten uit den zadel:</l>
+<l>En moedelijk tot eer van al den Spaanschen Adel,</l>
+<l>Hem mijn verharde kling, met dees verstaelde vuist,</l>
+<l>Den hellem op het hooft ontgespte.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>En dat juist</l>
+<l>Als ik hem sijn geweer soo mannelijk ontmanden.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Ontmanden? segt doen hy 't liet vallen uit sijn handen,</l>
+<l>Gedoodt-verwt en beswijmt van d'alderlaetste slag;</l>
+<l>Die ik hem gaf.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ten waer het Koninglijk ontsag,</l>
+<l>Mijn handt was vaerdig om u hoogheit in te korten.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Den degen scheidt ons.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Sp.</hi></speaker>
+<l>Houdt, wilt u we toorne schorten,</l>
+<l>En blijft aan mijn gewijs van uwen Ridders twist.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Ik ben te vreên.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>En ik.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spanj.</hi></speaker>
+<l>Gevange Prince is 't</l>
+<l>Dat Koninglijke bloedt in desen tegenspoeden,</l>
+<l>U moedigt, en de ziel kan onbeweeglijk voeden:</l>
+<l>Soo spreekt vrymoedigh uit, wie dat van dese twee</l>
+<l>U overwon, en wie dat u de nootdwang deê?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Ontsagchelijke Vorst, de Ridderlijke deugden</l>
+<l>Mijns overwinnaers sijn mijn overwonnen vreugden,</l>
+<l>Dat soo ik tuygen sal, ick tuyg haer beyder macht</l>
+<l>My overwon, en dat haer deugt my onder bracht.</l></sp>
+<stage><hi rend="i">Hy wijst eerst op Don Pedro, daer na op Oratius</hi>.</stage>
+<sp>
+<speaker><hi rend="i">K.v. Sp.</hi></speaker>
+<l>Hoort Overwinners dan, gy zult u zegen vieren</l>
+<l>Met de betoomde ros: en gy met de papieren,</l>
+<l>Die d'verwonnen u in wissel voor 't rantsoen,</l>
+<l>Van d'overwinninge voort datelijk zal doen.</l>
+<l>En gy gemoedige Vorst, hoewel de dorperheden</l>
+<l>Van uwen Vader my veel ongelijks aendeden,</l>
+<l>En hy, in u ellend' rechtvaerdig wort gestraft,</l>
+<l>En my gelegentheit tot wreede wraek beschaft:</l>
+<l>Soo heeft nochtans de kragt van 't Koninglijk medogen,</l>
+<l>Ten aensien van u deugt, tot weldoen my bewogen,</l>
+<l>U vryheit sta ick toe, mits dat gy zult voldoen,</l>
+<l>Na gy bespreeken zult, u Ridderlijk rantsoen,</l>
+<l>En noopt u Vader, dat hy de gebrooken trouwe</l>
+<l>Weer oprecht, en 't verbont oprecht'lijk onderhouwe,</l>
+<pb n="5"/>
+<l>En gy, zijt luftig en vermaek u in mijn hof,</l>
+<l rend="; 1tab">Met Spaensche Jufferschap en Ridderlijke lof.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Soo onbewegelijk als gy in tegenspoeden,</l>
+<l rend="; 1tab">Gehartigt hebt gesien, soo eerlijk van gemoeden,</l>
+<l rend="; 1tab">Verseekert u te zijn der Portugesen naem,</l>
+<l rend="; 1tab">Om in beleeftheit u te wijcken niet; de Faem</l>
+<l rend="; 1tab">En ick, zijn bey verstrikt verwonnen in de banden</l>
+<l rend="; 1tab">Van u beleeft heit meer als van de stale handen:</l>
+<l rend="; 1tab">Dies mijn vermogen is, ten dienste van die geen,</l>
+<l rend="; 1tab">Die my met wapens en met deugden heeft bestreen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>U vrientschap neigt tot my, de grootste van u vrinden.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Gy zult al eveneens my in u vrientschap vinden,</l>
+<l rend="; 1tab">Mijn Ridderlijke moet verbint my t'uwen dienst.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Mijn ramp verkeert in luk, en dat op 't onversienst.</l>
+<l rend="; 1tab">Den Hemel gunt my, dat ick na de wil 't vermogen</l>
+<l rend="; 1tab">Heb om u heusheit eens uit dankbaerheit te togen.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Sp.</hi></speaker>
+<l>Den Hemel geeft dat vree, oprechtigheit en trouw.</l>
+<l rend="; 1tab">U altijdt in de wil van vriendschap onderhouw.</l></sp>
+<stage><hi rend="i">Don Pedro, en Don Lorenzo</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Versekert van mijn gunst weest seeker, en de Goden</l>
+<l rend="; 1tab">Begunstigen u soo.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Des hemels goede boden</l>
+<l rend="; 1tab">Die tuigen haer, hoe 't vuur van mijn gestraelde Son</l>
+<l rend="; 1tab">Mijn ziele stack aen brandt, die moedeloos niet kon</l>
+<l rend="; 1tab">Noch wil haer weerstaen, om dat zy in 't vinnig blaeken</l>
+<l rend="; 1tab">Haer soetste wellust vont, en aengenaem vermaeken.</l>
+<l rend="; 1tab">O eindeloosen vlam! ick sterf in uwe gloet,</l>
+<l rend="; 1tab">Indien ick hoopeloos noch langer branden moet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Nadien het noodig quaet u ziele heeft beseten,</l>
+<l rend="; 1tab">Soekt raedt om tegen gift van 't quade selfs te weten:</l>
+<l rend="; 1tab">Kom gaen wy na haer Hof, haer vinden, en verklaer</l>
+<l rend="; 1tab">U lijden, en u min.</l>
+<stage><hi rend="i">Oratius en Bellemperia uyt</hi>.</stage>
+<l rend="; 4tab">Maerholla, sien ick daer</l>
+<l rend="; 1tab">Oratius? Hy is 't: versteek u.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>'t Is waerachtig;</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>O Hemel! maekt mijn rouw een goede end deelachtig,</l>
+<l rend="; 1tab">Maer segt met wat omftand, hoe 't toegink met fijn dood.</l></sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Den viandt, die in 't eerst den rugge vluchtig boodt,</l>
+<l>Na dat hy was verstrooyt, weer metter haest vergaerden,</l>
+<l>Een Ruiter-bende van ontrent de tachtig Paerden</l>
+<l>Stiet tot ons troupen in, die gretig op de buit</l>
+<l>Meer als voorsichtig vast de dooden trocken uit.</l>
+<l>En werden reddeloos van dese overrompelt:</l>
+<l>Waer door de glory scheen van onse macht gedompelt</l>
+<l>In 't onderspit, dies hy schier vlammende van spijt,</l>
+<l>Sijn paerdt de spooren gaf, den teugel derwaerts smijt,</l>
+<l>Gevolgt van my, en noch ontrent van dertig and'ren,</l>
+<l>En liept den viandt toe: Daer raekten aen malkand'ren,</l>
+<l>De braefste Helden, die men ooit in 't Leger zach:</l>
+<l>Des viandts Troup die scheur, nooit mannelijker slach,</l>
+<l>Noch strijdt en zachmen: In 't gevecht op onser zijden</l>
+<l>Scheen d'overwinning; doch in 't heetste van het strijden,</l>
+<l>Soo werden hand-gemeen den Prins van Portugael</l>
+<l>En Don Andreas, 't scheen een vlamme uit haer Stael,</l>
+<l>En uit haer helmen vloog, zoo vreeselijke slagen</l>
+<l>Als elk den ander gaf, en zach ik nooit mijn dagen,</l>
+<l>Na dat elk sijn Pistool gelost had, en dat meê</l>
+<l>Elk lemmer en slings en rechts sijn viant hieuw en sneê:</l>
+<l>'t Bloet uit haer aed'ren sprong, haer kragten die besweken,</l>
+<l>De arme flauden. en de rossen, van het breeken</l>
+<l>Der Speeren moedeloos, die loemden, en 't geluk</l>
+<l>Viel tot den Portugees, tot uwe leedt en druk.</l>
+<l>Andreas, die ontbloot, in 't draeijen met sijn degen</l>
+<l>Doorstiet den Portugees, en hy is voorts gezegen</l>
+<l>Aemmoedig uit de zael, bleef hangen met de voet,</l>
+<l>Daer 't Paert, door't hobblen hem te veldwaertsleept bebloet</l>
+<l>Waer in een dorre struik dees roode sluyer hechte.</l>
+<stage><hi rend="i">Oratius haelt een roode sluyer, die verscheurt is, uyt sijn sak</hi>.</stage>
+<l>(En scheurde van sijn arm.</l></sp>
+<sp>
+<speaker><hi rend="i">Bel.</hi></speaker>
+<l>Dees sluyer die ik vlechte)</l>
+<l>Met minnestrikjes, zoo verwert, en zoo verstrikt,</l>
+<l>Aen sijn gevreesde arm, soo cierlijk opgeschikt,</l>
+<l>Komt die my soo weer t'huis? verscheurt en so geschonden</l>
+<l>Uitbeeldend' het gestalt van mijn Andreas wonden!</l>
+<l>Den Hemel zy mijn troost: de Goden geven wraek.</l>
+<pb n="7"/>
+<l>Van de wreetheit, en soo Goddeloosen saek.</l>
+<l>Ev Vrouwelijcke ziel, wat raet? u hoop is heenen,</l>
+<l>U Zon is duister, en u leidtstar is verdweenen.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Zijt moedig, en de tijdt besorgt u in u druck,</l>
+<l>Een ander trooster die u dient tot meerder luck.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Vertrek Oratius, ick sie mijn broeder komen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>O goede Suster,'k wensch gemeene vreugt doet tomen</l>
+<l>U sonderlinge rouw, die niet en doet, dan dat</l>
+<l>Sy u de ziele knaegt en jammerlijk op 't pat</l>
+<l>Van wanhoop voeren zal.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Mijn rouw zy sonder ende,</l>
+<l>En hoope troost my, dat den Hemel wraek zal senden</l>
+<l>Op die, die my mijn hoop soo eerloos heeft ontrukt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Vorst'lijke Vrouwe, siet een, die onderdrukt</l>
+<l>Van alle rampen door sijn tegenspoet verslagen,</l>
+<l>Onmoog'lijk waer de last van dese smert te dragen:</l>
+<l>Ten waer hem eene hoop niet trooste, hy en zouw</l>
+<l>Niet langer leven: maer aenlockelijke Vrouw,</l>
+<l>U hoope voed hem zoo, dat hy die ongelucken</l>
+<l>Als voesters oordeelt van sijn seer gewenste lucken.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Een tegenspoets gesel is trooslig, dan ik kan</l>
+<l>Niet denken hoe mijn hoop u voeden, en waer an</l>
+<l>Dat gy u troosten kont: vermits gy zijt rechtvaerdig</l>
+<l>Gestraft, daer ik beschrey een zake straffens waerdig:</l>
+<l>Vermits sijn edel bloedt soo Godloos is verstoort.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>U schoonheid voet my lief, en heeft my op een kort</l>
+<l>De ziele soo beroert, dat ik u lief verwerven,</l>
+<l>Of hoopeloos in 't kort moet om u liefde sterven.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>O Goden wat of my noch overnomen zal?</l>
+<l>Ik zwijm, ik zijg, ik sterf.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Hoe zuster, is 't van 't mal?</l>
+<l>Of is 'et errenst, grijpt een moed, en recht u weder.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ik zal, ey recht my op, en set my gints weer neder.</l>
+<l>Houd gy u handen t'huis, of mijn verbolgen sin.</l>
+<l>Die streft op staende voet u reuckeloose min.</l>
+<stage><hi rend="i">Sy toent de Slayer</hi>.</stage>
+<l>Moordadig Prins, siet hier het teeken van de trouwe</l>
+<l>Die ik Andreas swoer, zoo lang ik dit aenschouwen,</l>
+<l>Sal eindeloose wraek my sitten in de ziel,</l>
+<pb n="8"/>
+<l>Om eens te wreeken dat hy door u handen viel;</l>
+<l>Gy soekt mijn minne, zeg, wat waent gy dat de reden,</l>
+<l>Om u schoon aensicht my drijft buiten spoor te treden?</l>
+<l>Andreas had ick lief, hy liefde my, sijn hart,</l>
+<l>En 't mijne waren een, sijn smarte, was mijn smart,</l>
+<l>Sijn vreugde was mijn vreugt, wy waren eens van sinnen,</l>
+<l>Hy swoer my, ick hem weer, in eeuwigheit te minnen;</l>
+<l>En hier komt gy bespat, besmeurt; en gy aenbiedt</l>
+<l>My de bebloede vuist, daer gy hem mee deurstiet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>'t Geval des oorlogs was sijn dood, en mijn bederven.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>U moortluft deed hem soo ellendelijcken sterven.</l></sp>
+<sp>
+<speaker><hi rend="i">D.L.</hi></speaker>
+<l>Ik bid ootmoedig hoort mijn onschult.</l></sp>
+<sp>
+<speaker><hi rend="i">Bel.</hi></speaker>
+<l>Niet eenwoort</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Geliefde Suster blijft.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Los, los, want ik moet voort,</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Oratius die gaet, en siet niet eenmael om.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wat of hem herwaerts drijft?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Hy speelt soo iets voor mom.</l>
+<l>Dit 's vreemt, doch sal de tijt ons alles openbaren,</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Ellendige, ick drijf in 't noodtweer op de baren</l>
+<l>Van die verbolgen Zee, daer tegenspoet van min</l>
+<l>Mijn bracke stroomen stort ter enger keelen in:</l>
+<l>Ik smacht van dorst, ik stik, ik bijg, en jaeg van binnen,</l>
+<l>En swelge (tegens dank) de zoute water inne;</l>
+<l>O lijdeloose vlam! ô hopeloose strijdt!</l>
+<l>O onweer zonder ent! my doch genadig zijt,</l>
+<l>Of troost my spoedig, of verslint my in u rampen</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Dat moed'loos klagen, Heer, dat sijn maer sware dampen</l>
+<l>Die grillig op het hart u vallen door de min:</l>
+<l>Dan 't zal wel beteren, gaen wy te samen in.</l></sp>
+<stage><hi rend="i">Hier moet het Tooneel Lisbona in Portugael zijn, tot de Konink binnen gaet</hi>.</stage>
+<sp>
+<speaker><hi rend="i">K.v. Por.</hi></speaker>
+<l>Die op den hoogsten top der heerlijkheden klimmen</l>
+<l>Door toedoen van geluk, die vallen vaek door schimmen.</l>
+<l>Door risseling van windt, door waen, of yd'le schrik</l>
+<l>Weer in der schanden poel: Maer iemandt die als ik</l>
+<l>Standtvastig van gemoedt, en wettig is gebooren</l>
+<l>Tot heerschappy, en heeft de deugt tot wit verkooren,</l>
+<l>Die zal in voorspoedt niet verheffen zijn gemoet,</l>
+<l>Noch hem ontsetten in een windt van tegenspoet,</l>
+<pb n="9"/>
+<l>Maer onbeweeglijck in luck ongelucken</l>
+<l>Stantvastig blijven, en 't geval zijn eer ontrucken.</l>
+<l>Mijn heir, mijn macht, mijn eer, mijn glory en mijn Kindt</l>
+<l>Had ick verlooren, soo ick om een tegen-windt</l>
+<l>Van Oorlogs rampen my ontsette, en verslagen</l>
+<l>Den moed liet vallen, in dees mijne oude dagen:</l>
+<l>Maer neen, stantvastigheit blijft eeuwig, en sy zal</l>
+<l>Mijn Raedts-vrouw wesen in soo swaer een ongeval.</l></sp>
+<sp>
+<speaker><hi rend="i">Bedo.</hi></speaker>
+<l>De Posten zijn besteld, ick koom hier om de Brieven.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v.P.</hi></speaker>
+<l>Daer zijnse.</l></sp>
+<sp>
+<speaker><hi rend="i">Bode</hi></speaker>
+<l>Machtig Vorst, ik ga met u believen.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v.P.</hi></speaker>
+<l>Soo doet; maer siet wel toe dat met geen Spaense vlieg</l>
+<l>Na 't rantsoeneeren, men de Prince en bedrieg.</l>
+<stage><hi rend="i">Don Pedro uyt</hi>.</stage>
+<l>Ik heb vast overleit, in 't lang, in 't kort, in 't breede</l>
+<l>Mijn Susters toorne, en wat oorsaek dat haer hede</l>
+<l>Soo ongebonden voert tot soo een stuurse sin;</l>
+<l>Na 't overwegen, is 't mijns oordeels nieuwe Min,</l>
+<l>Die aengestookt, door gunst van d'oude Minne-vrienden</l>
+<l>Van hare vriendt, in hare Liefde kan verbinden:</l>
+<l>Dan op 't onseker iet te bouwen, en als 't mist</l>
+<l>Dat geeft berouwen, en meer onheils dan men gist:</l>
+<l>Dies moet ik henen na haer Dienaer, die haer sinnen</l>
+<l>Haer wil, genegentheit, haer hart, en wat daer binnen</l>
+<l>Of goet, of quaedt berust, vertrouwt is; en ik zal</l>
+<l>Met giften of met dwang de oorsaeck weten al.</l>
+<l>Houdt, holla!</l>
+<stage><hi rend="i">Pedron Gano uyt, en spreekt</hi>.</stage>
+<l>Heer, hoe dus? kom binnen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Neen, kom buiten,</l>
+<l>Vriendt Pedron Gano gy die weet hoe hoofsche guiten</l>
+<l>Sijn licht van woorden, leeg van deugden, swaer van tong,</l>
+<l>En onvertrouwbaer, siet dies hoe de noot my drong</l>
+<l>In een verlegen zaek, tot u, die ik vertrouwe</l>
+<l>In alle vruntschap my te voegen.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Heer, Me-vrouwe</l>
+<l>U Suster, en gy zelfs hebt ondervonden, dat</l>
+<l>In desen boesem steekt een dienaer, die de schat</l>
+<l>Van swijgen, hulp, en trou gevonden heeft; u woorden</l>
+<pb n="10"/>
+<l>Maekt kort, en spreekt vry uit.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Ik vrees of 't iemant hoorden.</l></sp>
+<sp>
+<speaker><hi rend="sc">p. g</hi>:</speaker>
+<l>Ten doet.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Mijn Suster treurt, ey segt my wat haer schort.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Andreas doot.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Wat noch?</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Niet anders.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Segt en wor</l>
+<l>Sy niet genegen met een brandt van nieuwe minne?</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Mijns wetens niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Gy veinst.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>'k En doe.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p</hi>,</speaker>
+<l>Hoe zijn u sinne.</l>
+<stage><hi rend="i">Don Pedro treckt Pedron Ganos degen uyt</hi>.</stage>
+<l>Dus schigtig?</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Heer gy mist.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>t'Sa schellem segt nu op</l>
+<l>En spreekt de waerheit, of ick schend dy voort den kop.</l>
+<l>Gy weet hoe dat ick u twee reisen deed verlossen</l>
+<l>Van 't galgen asen, in dit loose vel der vossen;</l>
+<l>De derde-mael is hier, waer in gy sterven sult,</l>
+<l>Ten zy gy nu voldoet u over oude schult.</l>
+<l>Mijn Suster lieft, segt op, wie lieft zy?</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Wie kan 't weten;</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Gy booswicht, voort spreek op.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Oratius.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Vermeten</l>
+<l>Verwaenden en verwijfde Oratius, u doodt</l>
+<l>Die is besloten: nu de vriendschap die is groot</l>
+<l>Die gy my hier niet meé deed, noch groter sal zijn desen,</l>
+<l>En u profijtelijck, wilt gy my dienstig wesen,</l>
+<l>En hulpsaem,</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Heer waer in?</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Oratius bederf.</l>
+<l>Besluit ick, wijst my aen, hoe ick dat best verwerf.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Wat loon?</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Bey goedt en staet.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Dat dient my.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Wilt u uitten.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Haer Vriery geschiet hier achter, en daer buiten</l>
+<l>In sijn Heer Vaders Hof, die komt aen onsen Hof</l>
+<l>Met een verborgen deur, daer heb ick sleutels of;</l>
+<l>En wilt gy, Heer, gy kondt daer na u wel-hagen</l>
+<l>De Vogel op de mat gemackelijck bejagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Den aenslag die is goet, 't gevalt my, maeckt u ree,</l>
+<l>En komt de klocke elf hier weer op defe stee.</l></sp>
+<sp>
+<speaker><hi rend="sc">p.g.</hi></speaker>
+<l>Ik zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">d.p.</hi></speaker>
+<l>Houd daer, vertrekt. O y dele gedachten!</l>
+<stage><hi rend="i">Hy geeft hem sijn degen weer</hi>.</stage>
+<l>O roeckeloose lust! ô sterckheit sonder krachten!</l>
+<l>O jonkheit siet eens om! en mercht eens in wat staet</l>
+<pb n="11"/>
+<l>Dat u de minne bracht, en oordeelt eens hoe quaet</l>
+<l>Dat zy door u, in u, en anderen kan werken.</l>
+<l>'t Is hier geschapen soo, na dat ick kan bemerken,</l>
+<l>Dat moordery, verraet, en borger-twist ontsta,</l>
+<l>Of dat Castilien in oneer valle: ja</l>
+<l>Ick sie het soo in, dat mijn Suster sal verliesen</l>
+<l>Haer minnaer, hy sich selfs, en ick voor vlugt verkiesen</l>
+<l>Een tweede moort, en sla die, die ick niet vertrouw,</l>
+<l>Vermits ick in mijn selfs my maer versekert houw.</l></sp>
+<stage><hi rend="i">Den Lorenze uyt</hi>, <hi rend="i">swervande voor Bellemperias deur</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Wie daer: Oratius? hy is 't, of zou ick missen?</l>
+<l>Ik dek my.</l></sp>
+<sp>
+<speaker><hi rend="i">D.L.</hi></speaker>
+<l>Is 't hier klaer? wat sien ik? kon ik gissen.</l>
+<l>Ik ried een vryer.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Neen, hy is 't niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wie of 't is?</l>
+<l>Ick ken hem, ick en doe, ick neem hem by de gis.</l>
+<stage><hi rend="i">Treckt van leer</hi>.</stage>
+<l>Hy zy dan wie hy zy.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Rust Prince.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Is 'er kennis?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Soo is 'et.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>'k Bid u Heer verschoont doch dese schennis.</l>
+<l>De jalouzy besit soo mijn verliefde sin,</l>
+<l>Dat ick geen macker kan verdragen in de min.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Nochtans soo is 'er een die gy zult moet dragen.</l></sp>
+<sp>
+<speaker><hi rend="i">D.L.</hi></speaker>
+<l>Wie doch?</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Oratius.</l></sp>
+<sp>
+<speaker><hi rend="i">D.L.</hi></speaker>
+<l>O Hemel! uwe plagen</l>
+<l>Stort neder, overstelpt, bedeckt hem, en bederft</l>
+<l>Hem in sijne minne, eer mijn ziel van rouwe sterft.</l>
+<l>Geef dat sijn ondergang my op helpt, en dat beiden</l>
+<l>Sijn lijf en liefde van der aerden moeten scheiden</l>
+<l>Oratius! niet vreemt quam laestmael u in 't sin</l>
+<l>Dat hy voor momme speeld'.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Een voordeel is 'es in.</l>
+<l>De grijns die is ontdekt, de gunst die ick u drage,</l>
+<l>Deed my doorsoecken met veel list en loose lage</l>
+<l>Wat vander saecken was; ick vondt het, en ick weet</l>
+<l>Waer dat het vast is, en waer dat 'et sich ontleet.</l>
+<l>Mijn Susters dienaer heb ick stracks hier voor genomen,</l>
+<l>Na val en opstaen heb ick eind'lijck dit bekomen:</l>
+<l>Mijn Susters liefde, en Oratius die vrijt,</l>
+<l>En zijn haer harten, en gy zijt uw liefste quijt.</l>
+<pb n="12"/>
+<l>'t En zy gy soo gehardt, als ick, my wilt belooven,</l>
+<l>Haer tot u eigen nut, dees middel te berooven.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wat raet daer toe</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Een raet die seer bequaem is, en</l>
+<l>Die menschelijcker wijs ons niet ontgaen en ken.</l>
+<l>Haer vry-plaets is den hof van sijnen ouden Vader,</l>
+<l>Met een verborgen deur komt die achter te gader</l>
+<l>Hier met mijn Susters hof, en Pedron Gano siet,</l>
+<l>Die heeft de sleutels; nu en schort'er anders niet,</l>
+<l>Dan dat gemoedigt wy malkanderen geleiden,</l>
+<l>En haer, en hare liefd' maer van malkaud'ren scheiden.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Die raedt gevalt my wel, maer toestel en wanneer?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Komt hoort het binnen, eer het ymant hoort van veer.</l></sp>
+    </div>
+    <div type="chapter">
+        <head rend="h3">[Tweede bedryf]</head>
+<stage><hi rend="i">Oratius en Bellemperia in den Hof</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Soo iemant van geluk, ooit oorsaek had te roemen</l>
+<l>In liefde, dat ben ick, dies ick my luckig noemen,</l>
+<l>En meer als luckig, en ick kenne dat ick niet</l>
+<l>In al mijn voorspoet meer dan uwe min geniet.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Beleefde jongeling, om met beveinsde grillen</l>
+<l>Mijn liefd' te decken, en mijn minsuchtige willen</l>
+<l>Voor u te bergen, ben ick tegens, want ick weet</l>
+<l>Oprechte trouwe swoer u zicle my,</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Den eedt,</l>
+<l>De trouw, en al het geen dat ick u heb gesworen</l>
+<l>Blijft eenwig, of ick blijf in eeuwigheit verlooren.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ik ben daer mee vernoegt.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Niet anders quelt my dan</l>
+<l>Dat ick na uwen staet u niet voldoen en kan.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>En my niet anders dan, dat afgunst en mijn staten</l>
+<l>Ons houwlijk schorten, en de voortgank niet toelaten,</l>
+<l>Op dat ick na mijn lust, en na mijn wenschen mocht</l>
+<l>Mijn sugt eens uitten</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Ey, siet daer van dauw bevocht,</l>
+<l>Het lieffelijcke groen, de botten en de bloemen</l>
+<l>En al wat in den hof men aengenaem mach noemen,</l>
+<l>Dat blijft beslooten, schoon of 't lieffelijcke nat</l>
+<l>Des dauws, het om end' om met sijne vocht bespat.</l>
+<l>Wat is de reden? dit, stuursheit, en het donker</l>
+<l>Der nare nacht, de koude en 't killig star-geflonker,</l>
+<l>Die zijn haer tegen; maer wanneer de Sonne komt,</l>
+<l>En met haer stralen in, en op het aerdrijck bromt,</l>
+<pb n="13"/>
+<l>En geeft haer hitte, dan soo fiet men schoon ontluiken</l>
+<l>En botten en de bloem, op hare telg en struiken,</l>
+<l>In spijt der nagt: soo ook, ons zal noch met 'er tijdt</l>
+<l>Een Son verrijsen, ja ten ondank van de nijdt.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Dat gun den Hemel ons.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Kom laet u zorge varen,</l>
+<l>En sit wat neder in de schaduw van de blaren,</l>
+<l>En weest blymoedig.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Lief.</l></sp>
+<sp>
+<speaker><hi rend="i">Or.</hi></speaker>
+<l>Beminde.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Helt, mijn schat,</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Mijn Engel.</l></sp>
+<sp>
+<speaker><hi rend="i">Bel.</hi></speaker>
+<l>O mijn zon.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Verkoren harte-blad.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Mijn trooster.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Troosteres.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ey zoent my.</l></sp>
+<stage><hi rend="i">Don Pedron</hi>, <hi rend="i">Pedron Gano. Don Lorenso komen in den Hof</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Kom al sachjes.</l>
+<l>Kom in. weest stil.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Wat soo.</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>U hartelijke lachjes</l>
+<l>Die souden klappen,</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Sus.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>'t Is tijt, treet toe.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Hou daer,</l>
+<l>Voldoet u lust,</l></sp>
+<sp>
+<speaker><hi rend="i">Orat.</hi></speaker>
+<l>Ik sterf.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Vlugt in der yl met haer,</l>
+<l>Terwijlen dat ick hem aen desen boom verhange.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Moort, moort, help, help.</l></sp>
+<sp>
+<speaker><hi rend="i">D.L.</hi></speaker>
+<l>Laet ikse maer omvange,</l>
+<l>En vlugten met haer heen.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Nu wacker dan.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Wat soo</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Jeronimo help! help! help! help Jeronimo!</l>
+<stage><hi rend="i">Alle binn</hi>.</stage></sp>
+<stage><hi rend="i">Ierenimo ontkleet</hi>, <hi rend="i">met een toorts en degen in sijn handt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Ieron.</hi></speaker>
+<l>Wie roept my daer om hulp? wie hoor ik droevig klagen</l>
+<l>Met een besweeken stem! waer zijt gy? spreek, ik vrage</l>
+<l>Wie roept Jeronimo? wel dut ik? daer is niet,</l>
+<l>Of warent spooken? neen: 't spreekt vry uit, is 'er yet</l>
+<l>Dat kome voor dendag: dat's vreemt, en 't dunkt my wonder</l>
+<l>Soo als ick my ontkleed', te bedde gaende, onder</l>
+<l>En was ick nauw: of straks riep een benauwde Geest,</l>
+<l>Jeronimo; ik stack de toorts aen, onbevreest</l>
+<l>Vloog ick ten huyse uit, en nu ick herwaerts komen</l>
+<l>En is 'er niet: noch eens doorsoek ick al de boomen,</l>
+<l>De schaduw', lommers; en de enteryen? sus,</l>
+<l>Hier is een mensch, zeg op wat is 'er datmen flus</l>
+<l>My riep? wat drijft u hier, wat soekt gy? zegt, wilt spreken</l>
+<pb n="14"/>
+<l>En speelt geen stomme, of ik zal u voortdoorsteken,</l>
+<l>Hy spreekt noch roert sich niet: spreek schelm, zeg ik, of</l>
+<l>Dijn beenen dragen dy niet levend uit den hof.</l>
+<l>Hy is besturven, stil; hy is verhangen, Goden?</l>
+<l>Wat zal dit wesen; Moort, de Moorders zijn gevloden.</l>
+<l>Help, help, 't is al vergeefs. Wat is 't voor een? ô Goôn!</l>
+<l>Het is Oratius, Oratius mijn Soon;</l>
+<l>Mijn Soon verhangen, ramp! hoe zal het my lucken?</l>
+<l>Wat oorsaek, waerom doch, waer toe dees loose stucken?</l>
+<l>Wat wanhoop dreef u zoo om uwe jonge ziel</l>
+<l>Te moorden? hemel help! ach, of den hemel viel,</l>
+<l>En mijn rampsaliger tot morselen verpletten:</l>
+<l>Mijn soon, mijn saet, mijn kint, die breekt het regt der wetten,</l>
+<l>En maekt sich schuldig aen de straf van eigen moordt:</l>
+<stage><hi rend="i">Hy neemt Oratius af</hi>.</stage>
+<l>Ik neem hem af; maer siet, gewondt, en met de koort</l>
+<l>Verworgt. Verleide sin, wat deivel maekt u krachtig</l>
+<l>Dit uit te voeren; nooyt was eenig mensche machtig</l>
+<l>Twee dooden uit te staen, Waer is de kling, waer meê</l>
+<l>Hy zoo zijn zellefs griefd: den degen in de schee!</l>
+<l>En nergens eenig scherp. Gewont en opgehangen!</l>
+<l>Hier schuilt iets, Hemel help! ik flauw, my wort so bange?</l>
+<l>Hy is vermoort, verworgt, en schandelijk omgebragt:</l>
+<l>Ten kan niet wesen, neen, 't is nu schier middernacht,</l>
+<l>De poort die is in slot, en niemandt is hier binnen</l>
+<l>Dan hy alleen: maer stil, my speelt noch in de sinnen</l>
+<l>Dat my een stemme riep, wie was het? Hy? ô neen:</l>
+<l>Hy is vermoort, verworgt, en kan niet roepen: reên</l>
+<l>En oordeel mis ik, Goôn! de Moorders zijn gevloden,</l>
+<l>En hebben door 't gerucht, my zoo de moort ontboden.</l>
+<l>Mijn twijfel staet ter zy, 't is zeker, en ik zal</l>
+<l>Niet aers besorgen, dan der Moordenaren val.</l>
+<l>Maer wie of 't is? Ik weet, 'k en doe, het is hier donker,</l>
+<l>Hier staen ik weer, ey my! het yselijk geflonker.</l>
+<stage><hi rend="i">Begint te rasen</hi>.</stage>
+<l>Der sterren wijst my iets: dan ik kan niet verstaen</l>
+<pb n="15"/>
+<l>Door haer beduidenis, wie dat zy wijsen aen.</l>
+<l>Tuigt bomen, bloemen tuigt, tuigt diefsche en strenge koorde:</l>
+<l>Wie wat u Meester? wie? die soo mijn Soon vermoorde?</l>
+<l>En weet gy 't niet? al neen: seg Hemel dan wie 't is?</l>
+<l>Is 't Izabelle? hoe, ô neen! ick heb gemist.</l>
+<l>Het is een ander? ja als 't is, het zijn de struiken,</l>
+<l>Van roode Roosen, die zoo aengename ruiken.</l>
+<l>Oratius zegt gy, wie is 'et? is 'et niet</l>
+<l>Den Koning? tonge swijgt, swijg zeg ick, hoger niet.</l>
+<l>Mijn hoop is henen, Goôn! mijn Soon die is gesturven,</l>
+<l>Ick en mijn huis, en al wat mijn is, is bedurven,</l>
+<l>En uit den stoel geschopt, mijn ampten en mijn staet</l>
+<l>Vervremden; want mijn stam met hem te gronde gaet,</l>
+<l>Ach droetheit, ach verderf, ach jammer sonder weerga!</l>
+<stage><hi rend="i">Loopt heen en weer</hi>, <hi rend="i">vat een boom</hi>.</stage>
+<l>Sta moorders, moorders sta, dat u den donder neer sla,</l>
+<l>U vlugt is ydel, komt, dat is de rechte man.</l>
+<l>Segt booswicht, wat verderf, wat Duivel raed' u an,</l>
+<l>Om jong en edel bloet soo schelms uit te storten?</l>
+<l>Spreek schelm, zeg ick, eer ick dy de vleugels korte,</l>
+<l>En spreekt gy niet? ick sweer, ick sal van lit tot lit</l>
+<l>U voort ontleeden: want de wraek mijn ziel besit.</l>
+<l>Gy wilt niet? neen: hout daer, en noch eens daer, het vlochten</l>
+<l>Is hem benomen, soo, en noch eens soo, het suchten</l>
+<l>Noch kermen gelt hier niet, kom reukeloose kop.</l>
+<stage><hi rend="i">Hy vat een tack</hi>.</stage>
+<l>Kom bloedtsuchtige tong, verslaet u in het sop,</l>
+<l>Dat uit sijn aders sprong, en wilt u niet verquicken</l>
+<l>In 't bloet te swelgen, en in 't swelgen te versticken.</l>
+<l>Komt hier Orarius, en schouwt noch eenmael aen</l>
+<l>Den moode loosen kop, van die u heeft verraen:</l>
+<l>Siet hoe hy hem begrimt, fijn oogen schieten vlammen,</l>
+<l>Mijn voorhooft rimpelt, en sijn aensicht schijnt te grammen.</l>
+<l>Siet Soone hier den man, van die, die u doorstiet,</l>
+<l>En overtollig noch uit moort-zucht hangen liet.</l>
+<l>De moort aen u begaen, die heb ick soo gewrooken,</l>
+<pb n="16"/>
+<l>Dat mijne Vaders plicht blijft eeuwig onbesprooken:</l>
+<l>Dan sit u in het hart noch iets, dat u tot wraek</l>
+<l>Kan dienen? of tot rust, oft innerlijck vermaek?</l>
+<l>Dat openbaert my nu, en ick en zal niet rusten</l>
+<l>Voor dat u zijn voldaen uw wraekgierige lusten.</l></sp>
+<stage><hi rend="i">Isabella met licht in de hand</hi>, <hi rend="i">soekt Ieronimo in den Hof</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Jeronimo.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Wat is 't?</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Jeronimo, ach man!</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Dit is de stem van flus, wat duivel gaet my an?</l>
+<l>Ik weet niet wat'er is, het schijnt dat helsche spooken</l>
+<l>Om my te plagen heeft de grendels op gebrooken.</l>
+<l>O! helsche deuren sluit, en schiet u grendels toe:</l>
+<l>Want uwe borgery maekt mijn het leven moe.</l>
+<l>Sluit, bid ick, of is 't park van u verborgentheden</l>
+<l>Ten einde, soo ontsteekt u vlamme van beneden,</l>
+<l>Het Aerdtrijck, en u vuur brandt eeu wig, op dat my</l>
+<l>In tegenspoet elck een troost en geselschap zy.</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Jeronimo mijn lief, ach! waer zijt gy gevlooden?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Beleefde Vrouw, wat druk, wat droefheit, leet, wat nooden</l>
+<l>U quellen om mijn hulp, terstont en nu weerom?</l>
+<l>Te willen, weet ick wel: maer ick sta stil en stom,</l>
+<l>Te putten, mits ick niet begrijpen kan die dingen</l>
+<l>Die hier gebeurt sijn.</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Hoe?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>U passy te bed wingen</l>
+<l>Is nodeloos.</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Wat is 't?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Gaet ront, en schreumt doch niet,</l>
+<l>Want my is openbaer de moort aen hem geschiet.</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Wat revel-kal is dit?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier</hi></speaker>
+<l>Segt heeft mijn Soon u heden</l>
+<l>Uit heete vriendschap niet in mijnen hof gebeden,</l>
+<l>Om daer sijn minne vuur te blusschen? en is hy</l>
+<l>Door uwe Pollen niet uit haet en jalouzy</l>
+<l>Doorsteken?</l></sp>
+<sp>
+<speaker><hi rend="i">Isa.</hi></speaker>
+<l>Man gy raest.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Neen hoeren, hoeren tongen</l>
+<l>En hebben noit mijn hart met hare list bedwongen:</l>
+<l>'t Is seeker dat mijn Soon u minde, en dat gy</l>
+<l>Hem liefde, dat een aêr versot op snoepery</l>
+<l>U gangen heeft verspiet, en gy hebt dese boomen</l>
+<l>Als veilig sijnde rot u snoepery genomen:</l>
+<l>En daer heeft jalouzy van uwe Pollen hem</l>
+<pb n="17"/>
+<l>Vermoort, en uwe sucht die staet hier in de klem,</l>
+<l>En weet niet hoe zy wil, sijn wonden doen u smarte:</l>
+<l>Dies roept u tonge moort, maer weder in u harte</l>
+<l>Bedenkt gy u, mids gy meer voordeel siet te moet</l>
+<l>Van die noch leeft, dan die versmoort leid in sijn bloedt:</l>
+<l>Maer dese saek vereist, dat gy uit uwe sinne</l>
+<l>Stelt uwe hoerery, en wulpse loose minne;</l>
+<l>En segt de waerheid, want uwe vryery, u min,</l>
+<l>En wat daer aen kleeft, heeft niet op sich in mijn sin:</l>
+<l>Dies slaet dat over, en bekent wie dat zy waren,</l>
+<l>Die hem verhingen, aen dees eycke dicht van blaren:</l>
+<l>En die daer na zo schelms, zoo moort-siek en soo snood,</l>
+<l>Met veele wonden hem doorstieten tot 'er dood?</l>
+<l>Soo zal ik rijklijk en dankbaer u beloonen:</l>
+<l>Of anders tot u straf my reedt en veerdig toonen.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Jeronimo gy raest, de dompezware lucht</l>
+<l>Heeft u bevallen.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Ja, u loosen hoeren-sucht.</l>
+<stage><hi rend="i">Sleept haer by 't hayr</hi>.</stage>
+<l>Mackt dat haer Pollen wijs, maer my niet. Dese vlegten</l>
+<l>Sijn goede stroppen, om u aen een boom te hegten.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Ay my, ay my, ik sterf!</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Sterf heenen, of beken,</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Jeronimo bedaert, en siet eens wie ik ben.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Wie zijt gy?</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Isabel, u Vrouw, die al haer dagen</l>
+<l>U kuische min genoot, in wien u welbehagen</l>
+<l>Vernoegde.</l></sp>
+<stage><hi rend="i">Hy bedaert:</hi></stage>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Ach! ik raes, ô Hemel stuurt mijn sin</l>
+<l>Oprechte kennis en bescheiden reden in.</l>
+<l>Staet op Me-vrouw, kom siet wat oorsaek dat my heden</l>
+<l>De herssens rasen deed', en voerde buiten reden:</l>
+<l>En wacht u dat den damp, die mijn verstandt verdooft,</l>
+<l>U geest niet meê besmet, en u de reden rooft.</l>
+<l>Siet Vrouwe, hy, die gy hebt onder 't hert gedragen,</l>
+<l>Leidt hier ellendig in fijn eigen bloedt verslagen.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Ay my! Oratius, Oratius mijn Kindt,</l>
+<l>U Moeder sterft met u, u Moeder die bemindt</l>
+<l>De doodt voor 't leven, nu de hoope is verlooren</l>
+<l>Die zy in u had, tot haer meeste wens gebooren,</l>
+<l>Ey tranen, uwe vloedt bestelpt my als de Zee,</l>
+<pb n="18"/>
+<l>En voert my tot de doot, als tot een goede reê.</l>
+<l>Ey vlegten, komt, verstrekt my dweylen om te droogen</l>
+<l>Dit bloedig aenschijn, en dees nat beweende oogen;</l>
+<l>Ach Zone! Zone ach! ik sturf, en soo terstoot,</l>
+<l>Ten waer my uwe wrack tot leven noch verbont:</l>
+<l>Ontfangt mijn tranen dan voor 't laetste als getuygen</l>
+<l>Van uwe Moeders liefd, die nimmermeer sal buygen</l>
+<l>Voor dat u leyde dood door ons gewrooken zy;</l>
+<l>Ontfangt dees laetste kus, als 't pandt hier op, van my.</l>
+<l>Verhaelt my, hoe, en waer, van wie, en om wat reden</l>
+<l>Hy om gekomen is.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Dat weet ik niet.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Mijn beden</l>
+<l>Bewegen u, seg op.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Ik kan niet zeggen.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Man,</l>
+<l>Mijn moed fied over.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Vrouw, dat ik niet zeggen kan</l>
+<l>Dat moet ik zwijgen.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Spreekt, of 't slot van mijn meulen</l>
+<l>Wort los, ik raek op hol, en mijne sinnen speulen.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Bedaert, en luystert toe: van al wat gy my vraegt</l>
+<l>En weet ik niet, maer hoort: daer ginder daer gy saegt</l>
+<l>Dien afgehouwen boom, daer vond ik aengebonden</l>
+<l>Mijn Zoon Oratius, met dese zijne wonden,</l>
+<l>Ik sneed hem af, ik riep, en socht den boomgaert door;</l>
+<l>Maer ik en vond daer niet, noch niemant gaf gehoor;</l>
+<l>Ik voel dat my de rouw is om het hert geslagen,</l>
+<l>En dat noch gy, noch ik, zijn machtig om te dragen</l>
+<l>Dees onverwachten slag; want mijne sinnen zijn</l>
+<l>Als onrust-raders, los, en d'uwe als de mijn:</l>
+<l>Dies laet ons samen 't leet verkroppen, en bedaren;</l>
+<l>Verseekert zal de tijdt ons alles openbaren.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Ik voel (soo als gy segt) mijn sinnen op ter loop:</l>
+<l>Mijn wraek heeft mijne ziel beseten.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Lief ik hoop</l>
+<l>Dat de rechtvaerdigheyt des Hemels onse zaeke</l>
+<l>Begunstigt, en besorgt een ongemeene wracke:</l>
+<l>Dan of den Hemel iet of niet om ons en gaf</l>
+<l>Soo zy den afgront my een eeuwigduurend graf:</l>
+<l>Mits dat ik maer verwerf, dat dese mijne handen</l>
+<l>De wraek-lust boeten, van mijn droefheit en mijn schanden.</l>
+<stage><hi rend="i">Steekt een deek in Oratius bloet</hi>.</stage>
+<l>En dese doek gedoopt in het onnoosel bloedt,</l>
+<pb n="19"/>
+<l>Sal mijn een prikkel zijn om mijn ontrust gemoedt</l>
+<l>Tot eindeloose wraek te tergen: want ik sweere</l>
+<l>Dat d'Asse eerder zal ontschieten 's Hemels Spheere,</l>
+<l>Dat 't Acrdrijk keert en draeyt veel eerder als de Son,</l>
+<l>Dat Pluto, Jovis rijk, en Jupijn, Acheron</l>
+<l>Eer zal beheersen, eer ik sonder my te wreeken</l>
+<l>Dees doek verlate.</l></sp>
+<sp>
+<speaker><hi rend="i">Isab.</hi></speaker>
+<l>Man, den Hemel geeft een teeken,</l>
+<l>En knikt u gunstig toe.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Oratius die staet</l>
+<l>Aen 't Hemelse gewelf, in blinkende gewaet</l>
+<l>Van 't Star-geflicker: fiet hoe dat sijn oogen branden,</l>
+<l>Als of hy zeggen wou: ik wacht van uwe handen,</l>
+<l>O Vader! uwe wraek, en soo die niet geschiet,</l>
+<l>Soo plaegt uw eeuwig leet, ziel knaging en verdriet.</l>
+<l>Komt Vrouwe, laet ons 't lijk in dragen, en verbergen</l>
+<l>Ons droefheid, op dat wy geen achterdenken vergen</l>
+<l>Aen iemandt van ons huys: want veel gebeurt het, dat</l>
+<l>Een quaet bedenken, 't quaet uit iemands aenschijn vat.</l></sp>
+<stage><hi rend="i">Don Pedro uit</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Die willens zijn gemoet verkragt en wil bestrijden,</l>
+<l>En sijn geweeten tergt in iemandt te benijden:</l>
+<l>En voort den teugel viert aen sijn verborgen sin,</l>
+<l>Die wickelt sich verderf en eeuwig knagen in:</l>
+<l>En raekt ook op het spoor van wanhoop in de sonden,</l>
+<l>En maek sich meed' genoot van Moorders ongebonden:</l>
+<l>En die dan noch op eer, uit grootsheid, of uit schrik,</l>
+<l>Sorgvuldelijken fiet, die raekt gelijk als ik,</l>
+<l>Van quaet tot erger: want om eenen moort te decken,</l>
+<l>Soo moet de tweede my weer voor een deksel strecken.</l>
+<l>Ik heb my desen nacht door noodt gedient, met dien</l>
+<l>Daer ik bey 't rouw noch eer noch voordeel aen kan sien.</l>
+<l>Sijn met-gesel en hy sijn zielen, die haer handen</l>
+<l>Om puer genot alleen, aen ieder een verbranden.</l>
+<l>Dus loop ik prijkel, zoo ik hare holle ziel</l>
+<l>Niet op en vul met goudt: en of al schoon de kiel</l>
+<l>Van haer verboomde hulk den afgrondt quam te raken,</l>
+<l>Sy souden Schip en goet gelijk te soeken maken.</l>
+<l>Dies heb ik tot mijn rust en voordeel overdacht.</l>
+<l>Den eenen door den aêr te rucken uit de vacht.</l>
+<pb n="20"/>
+<stage><hi rend="i">Pedron Gano uyt</hi>.</stage>
+<l>Daer komt hy.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Heer de zaek is stil en soo verborgen,</l>
+<l>Dat wy, noch gy voortaen iets hebben meer te zorgen.</l></sp>
+<sp>
+<speaker><hi rend="i">D Ped.</hi></speaker>
+<l>Ons Hofgesin, de Stadt, 't Gemeen des Maerschalks Hof</l>
+<l>Is al te samen stil.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Ja niemant weet daer of:</l>
+<l>U Suster in de zael van Lopes kan haer suchten</l>
+<l>Niet uitten.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Eene zaek staet ons dan maer te vrugten.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Wat is dat?</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Serberijn, die ik niet weet noch gy</l>
+<l>Of hy of vroom, of schelm, of stil, of klappert zy,</l>
+<l>Die vrees ik: en om vast en seeker onse zaeken</l>
+<l>Gantsch zorgeloos en vry van alle vrees te maeken,</l>
+<l>Soo vind ik noodig dat u mannelijke handt</l>
+<l>Hem, tot ons aller rust, ook helpe van een kant</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>'t Heeft prijkel.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Ten doet niet.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Sijn Heer die zal hem wreken.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Hoe weet hy 't;</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Weet hy 't niet, de steenen sullen spreken.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Hoor hier, dat 's Vrouweklap.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>'t Doet niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Indien u tong</l>
+<l>Maer zwijgen kan, gaet voort, en alle wedersprong</l>
+<l>Die u bestormen kan, die zal ik met mijn machten</l>
+<l>Soo 't aensicht bieden, dat gy die niet hebt te achten.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>U woordt en uwe macht onfeilbaer ik vertrouw:</l>
+<l>Geeft last, en uwen wil ik voor een wet behouw.</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Houd u de klocke drie met twee gelaen Pistolen,</l>
+<l>Dicht voor het buyten hof: stil swijgend, en verscholen,</l>
+<l>Daer zal ik door een trek hem doen verschijnen, siet</l>
+<l>Dat gy u zelven redt, en dat gy hem deurschiet.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>'t Verga dan zoo het wil, ik zal den aenslag wagen,</l>
+<l>Engaen met u verlof</l></sp>
+<sp>
+<speaker><hi rend="i">D.P.</hi></speaker>
+<l>Ik zal de hinder-lagen</l>
+<l>En 't noodigste bestel bestellen op den tijdt:</l>
+<l>En daer meê raek ik haer en al mijn zorge quijt.</l>
+<stage><hi rend="i">Bellemperia uyt</hi>.</stage>
+<l>De vriendschap en de min vereysschen in 't besonder</l>
+<l>Twee dingen ongemeen, en voor 't gemeen een wonder:</l>
+<l>Het eerst is, dat een vriendt de vriendschap in de noot</l>
+<pb n="21"/>
+<l>Bewijse aen sijn vriendt; ja zelfs tot in der doot.</l>
+<l>Het tweede, dat de Min zy door de liefd' verbonden</l>
+<l>Aen voor- of tegen spoet, en daer wert in bevonden</l>
+<l>Soo machtig, zoo gereet, en zoo gemoedigt, dat</l>
+<l>Hy sijns geliefdens staet geheel de sijne schat.</l>
+<l>Dat onderscheidt van min en vriendschap overwogen</l>
+<l>Heb ik, bedroefde Maegt, en vind my van vermogen</l>
+<l>Gansch iedel, dan van moed zoo krachtig, dat ik my</l>
+<l>In liefd en vriendschaps pligt van laster wel bevry:</l>
+<l>Maer 't middel om de zaek te drijven en te vatten</l>
+<l>Ontbreekt my; en mijn rouw met tranen en met pratten</l>
+<l>Te uiten, helpt my niet; maer hindert: veinsery</l>
+<l>Dunkt my, dat metter tijdt noch eens mijn hulpe zy.</l>
+<l>Dan lief Oratius, vergeef my doch de schanden,</l>
+<l>Dat ik my selver niet met dese mijne handen</l>
+<l>Het leven heb berooft, tot glory van u ziel,</l>
+<l>Die in mijn lieve schoot zoo ongeluckig viel:</l>
+<l>Ik ken mijn schult, maer weet dat alle mijn gedachten</l>
+<l>Benevelt zijn met zorg, en kragtelijk betrachten</l>
+<l>Een heerelijke wraek van u, en mijn bederf,</l>
+<l>Op dat ik in mijn door niet ongewrook en sterf.</l>
+<l>Soo lang gy hebt geleeft, heb ik gewenscht te leven,</l>
+<l>Doodt zijnde, heb ik meé my tot de doodt begeven;</l>
+<l>Maer had tot desen dach, noch middel, noch de macht</l>
+<l>Om uit te voeren 't geen dat ik wel heb bedacht.</l>
+<l>Rust sinnen, sinnen rust, bedaert u, al dit klagen</l>
+<l>Is iedel, grijpt een moet, en neemt een wel-behagen.</l>
+<stage><hi rend="i">Sy ontbloot haer arm, en opent een ader</hi>.</stage>
+<l>Het geene dat tot wraek u 't beste dienen kan:</l>
+<l>Kom ader, komt mijn bloet, kom, kom, gy moet'er an,</l>
+<l>Gy moet in dese noodt my voor de Inct verstrecken:</l>
+<l>Mijn dunkt ik veel het bloet al van mijn herte trecken.</l>
+<stage><hi rend="i">Sy stopt de ader meer toe</hi>.</stage>
+<l>Ik stop, en metter haest, terwijl den iever brandt</l>
+<l>Schrijft ik Jeronimo met omstant, hoe ontmandt,</l>
+<l>Hoe machteloos, hoe zwaer mijn ziele in de banden</l>
+<pb n="22"/>
+<l>Van hechten, wrake soekt, hoe liefde my doet branden</l>
+<l>In sijn Oraty min; hoe staet sucht in mijn Broer,</l>
+<l>En in den Portugees de jalouzye voer;</l>
+<l>Hoe zy in onsen Hof ons eereloos beloerden,</l>
+<l>Sijn Zoon vermoorden, en my voort gevangen voerden;</l>
+<l>Hoe Vader-plicht hem raedt tot eerelijke wraek,</l>
+<l>Sijn Zone tot de rust, mijn ziele tot vermaek.</l>
+<stage><hi rend="i">Sy schrijft</hi>.</stage>
+<l>Jeronimo, de stem die laestmael in 't gelommert</l>
+<l>Der Eykken, in den Hof, u oude ziel bekommert,</l>
+<l>En uit den Bedde joeg, die komt u hier weer toe</l>
+<l>Wel ffemmeloos, maer heet en brandend van gemoe:</l>
+<l>En eyscht u uit tot wrack, tot straf, en tot verderven,</l>
+<l>Tot moordery, tot haet, en tot wraekgierig sterven.</l>
+<l>U Zoon en ik verlieft, min-suchtig minne-vrucht</l>
+<l>Genooten in u Hof, daer mijnes Broeders sucht</l>
+<l>Tot staat en...</l>
+<stage><hi rend="i">Sy houd op van lesen</hi>.</stage>
+<l>Wie sucht daer? is 't spook, of zyn 't maer yd'le grillen,</l>
+<l>Die my beletten om mijn wille niet te willen?</l>
+<l>'t Is niet met al: ik mis, dies zal ik soo ik ken</l>
+<l>Jeronimo tot wraek verwecken met mijn Pen.</l>
+<stage><hi rend="i">Sy begint weer te lesen</hi>.</stage>
+<l>Tot staet en jalouzy van hem, die most verdragen</l>
+<l>Dat hy van uwen Soon wierd in den strijd verslagen,</l>
+<l>Ons hebben met geweldt, in 't midden van de nacht,</l>
+<l>Soo eereloos als schelms, in alle leet gebracht:</l>
+<l>Oratius u Soon doorsteeken, is gehangen,</l>
+<l>En ik sit hier op 't Hof in Lopes Zael gevangen.</l>
+<l>En leve maer alleen op hoop dat ik verwerf</l>
+<l>Een ongemeene wraek, eer dat ik met hem sterf.</l>
+<l>Ik maen u in den naem van Vader, dat gy even</l>
+<l>Gelijk ik my als Vrouw verbindt, u wilt begeven</l>
+<l>Tot grouwelijke straf, en dat de wreede wraek</l>
+<l>U moedigt u gemoed, gelijk als my: de zaek</l>
+<pb n="23"/>
+<l>Vereyscht dat kort en scherp men alles moet volvoeren,</l>
+<l>Eer dat de Macht ten Hoof haer stelt in rep en roeren,</l>
+<l>Weest hartig, soo als ik, die met een fieren moet</l>
+<l>Dit, by gebrek van Inkt, schreef met mijn eygen bloet.</l></sp>
+<stage><hi rend="i">Bellemperia</hi>.</stage>
+<stage><hi rend="i">Oratii geeft suchtende, uyt sijn hant op de pen, haer sterk aenfiende soe als sy hem ook doet: de Geeft vluchtende, springt sy op, loopt hem na, moeds zijnde, en hem missende, komt klagende</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Bell</hi>,</speaker>
+<l>Ay my! ach lieve Geest! wat vlugt gy? ey komt weder,</l>
+<l>En troost my in den rouw, en set mijn droefheyt neder,</l>
+<l>En vlugt doch niet voor my, maer nadert, op dat ik</l>
+<l>Mijn herte u ontsluyt; blijft, maer een oogenblik.</l>
+<l>Ik heb hem: ey! ik mis, ô neen! hy is gevlooden.</l>
+<l>Waer blijf ik? Hemel help! ey help, ik ben in nooden.</l>
+<l>Hy volgt, hy houdtme vast: neen Geest, ey denkt dat niet</l>
+<l>Dat ik om uwent wil mijn verwe soo verschiet:</l>
+<l>Ik wil in eeuwigheyt u byzijn niet verlaten,</l>
+<l>Maer sluyt u in mijn arm; u vlugten kan niet baten.</l>
+<l>Noch is hy heenen, siet ik meend' dat ik hem hadt:</l>
+<l>En in de plaets van hem, heb ik maer wint gevat.</l>
+<l>Wat mach ik om een droom ontstellen en verschrik ken:</l>
+<l>'t Is best dat ik mijn werk voltrek, en ga beschikken.</l></sp>
+<stage><hi rend="i">De Geest weder uyt</hi>, <hi rend="i">en haer aensiende en suchtende als te voeren</hi>, <hi rend="i">entrukt haer de Brief</hi>, <hi rend="i">seggende</hi> (<hi rend="i">terwijl sy verhaest op springt en vlucht</hi>.)</stage>
+<sp>
+<speaker><hi rend="i">Orat. Geest.</hi></speaker>
+<l>Verschrikt niet, maer houd moet, lief Bellemperia,</l>
+<l>Want u Oratii geest die volgt u schaduw na.</l>
+<l>Ey vlugt niet, maer aenhoort mijn klagen, en mijn sugten;</l>
+<l>Blijf staen, en neemt een moet in plaets van schrikkig vlugten</l>
+<l>Ik ben Oratii geest, die 't duyvelsche besluyt</l>
+<l>Van uwen Broeder, moort in d'armen van fijn Bruyt:</l>
+<l>Aensiet my vry, en let op strop, op swaert, op wonden.</l>
+<l>Die my ter quader uur ter hellen heenen sonden:</l>
+<l>Aenschen mijn bloeke schim, aensiet dit naer gesicht,</l>
+<pb n="24"/>
+<l>Dat star-oogt in de glans van 't belder Hemels-licht.</l>
+<l>Die dienstbaerheid die ik u schoone in mijn leven</l>
+<l>Met hooge eeden zwoer, zal nimmer u begeven:</l>
+<l>Dies kom ik hier tot u, in dit bebloede Kleedt,</l>
+<l>Al suchtende ontrust, om dat ik seeker weet,</l>
+<l>Dat u gemoedigt hert door 't Hemelsche bestuuren.</l>
+<l>Besluit door wreede wraek mijn ziele offer vuuren</l>
+<l>Te stooken, en de vlam van uwen heeten moet</l>
+<l>Te blusschen in de beek van ons vyanden bloet:</l>
+<l>Soo weet dat het besluit des Hemels, dat u dagen,</l>
+<l>En doen, hier tijdt en maet gestelt heeft, goet behagen</l>
+<l>En wel-gevallen heeft in uwe trouw, en my</l>
+<l>Hier schikten, op dat ik u hulp en bystandt zy:</l>
+<l>Dus kom ik hier tot u, wel met een onvermogen</l>
+<l>Van vlees, maer met den Geest als Caesar opgetogen,</l>
+<l>Om u, tot troost en dienst te wesen, en nadien</l>
+<l>Dat u beslooten wraek niet wel en kan geschien</l>
+<l>Ten zy met mijne hulp; zo sal ik al mijn klagten</l>
+<l>Aenvoeren; om de wraek, en 't wit van u gedagten</l>
+<l>Te dryven; dan de doodt, die zal daer na het graf</l>
+<l>Vervullen met u lijf, en met een Konings staf.</l>
+<l>Ik voel het noodt-lot my weer trecken na beneden,</l>
+<l>Met grilling, trecking en met siddering van leden,</l>
+<l>Ik ga, ik drijf, ik slijt, ik schuil en ik verdwijn.</l>
+<l>Den Hemel moet u hulp, en wraek u trooster zijn.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ach Geest! komt wederom, en hoort na mijne reden,</l>
+<l>En helpt my, doch het schijnt dat tranen noch gebeden</l>
+<l>In mijn besloten wraek vermogen niet met al;</l>
+<l>Maer dat den Hemel my met errenst wreeken zal:</l>
+<l>Dus houd' ik my gerust, en sal de tijdt verwagten,</l>
+<l>Die eind'lijk zal voldoen het wit van mijn gedagten,</l>
+<l>Ik zal de veinsery gebruiken als mijn schilt,</l>
+<l>Tot dat het nootlot my in defe wrake spilt.</l>
+<stage><hi rend="i">Don Pedro uit</hi>.</stage>
+<l>Wie komt daer in 't vertrek? my dunkt het is mijn Broeder</l>
+<l>Ik veins my.</l></sp>
+<sp>
+<speaker>D <hi rend="i">Ped.</hi></speaker>
+<l>Suster segt, en wordt gy noch niet vroeder,</l>
+<pb n="25"/>
+<l>En leert u noch de tijdt en d'ondervinding niet</l>
+<l>Dat uwe dwafe min maer op u schade siet?</l>
+<l>Dat gy in staet, en goed, in bloedt en in geslachten,</l>
+<l>U af-komst reukeloos verkleint en gaet verachten,</l>
+<l>Dat gy Kastilien en d'Aragonsche stam,</l>
+<l>Die heugeloos van ver uit Konings af-komst quam:</l>
+<l>Soo onbedacht verkleint, en door u slecht verkiesen</l>
+<l>De glory en de naem van groetheid doet verliesen?</l>
+<l>Of is de reden ook door uwe dwase min</l>
+<l>Gebannen uit u hart?</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Noit redeloose sin,</l>
+<l>Noch dwaesheid heeft mijn hert beseeten in 't verkiefen;</l>
+<l>Maer deugd en sinlijkheid die deden my verliesen</l>
+<l>Beid' stact en macht, waer door ik heb verlooren, die,</l>
+<l>Die ik gewilliglijk mijn Lijf en Leyen biê.</l>
+<l>De tijdt heeft my geleert, dat liefd' door leet te missen,</l>
+<l>Verliefde Zielen pijnt, meer als daer veele gissen;</l>
+<l>En dat verkiesing meer, aen een verliefde Maegd,</l>
+<l>Als Konings Scepter zway, haer keurig oog behaegd.</l>
+<l>Wat schand heb ik begaen? wat eer heb ik vergeten?</l>
+<l>Wat Stam heb ik verkleent? wat grootheid doch versmeten?</l>
+<l>Wat staet, wat goet, wat bloet verkort ik met mijn min?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ach Suster! 't is my leet, dat u vervoerde fin</l>
+<l>Soo ongevoeglijk schoort de voortgank van de reden,</l>
+<l>Ik bid u wilt doch eens tot overlegging treden,</l>
+<l>Bedenkt hoe gy verkoost een Jongeling, die niet</l>
+<l>Dan na sijn eigen eer, en sijne afkomst siet:</l>
+<l>En wederom verwerpt een Prins, die van geslachten</l>
+<l>In eigen deugden, meer als iemant is te achten,</l>
+<l>Nu legt eens over, of door d'eene uwe staet</l>
+<l>Niet tot den Hemel rijst, en heel te gronde gaet</l>
+<l>Door d'ander?</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Soud het so, so was 't een slegt verkiesen:</l>
+<l>Maer waerom soud' ik doch, door d'een mijn staet verliesen,</l>
+<l>En door den and're die verheffen? wat is deugt</l>
+<l>De edele afkomst, daer gy dus van spreeken meugt?</l>
+<l>Oratius, wiens deugt en kragten in hem zelven</l>
+<l>Soo blonken, dat hy daer den snorkers in kon delven,</l>
+<l>Die tuigen dat hy was van Adel, en van bloct</l>
+<pb n="26"/>
+<l>Doorluchtig, en in deugt een heer van sijn gemoet.</l>
+<l>Daer tegens, die gy prijft, hoeft schandelijk verlaten</l>
+<l>De deugd, en't voorbeeld van sijn Edele Voor-zaten.</l>
+<l>Gevangen, en verlost, ge-eert, geyvert, gevrient</l>
+<l>Heeft hem Oratius, dat heeft hy weer verdient</l>
+<l>Met grouwelijke Moord, en eereloose troeken:</l>
+<l>En dit is van sijn deugd en d'edelheid een teeken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>De zucht vervoert u ziel.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Soo doet zy, en zy zal</l>
+<l>My voeren in het graf.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>My deert u ongeval:</l>
+<l>Ik bid u stelt ter zy de droefheid, en de reden</l>
+<l>Laet die eens tot u nut, haer ampt in u besteden</l>
+<l>Schoon of gy hadt gelijk, wat baet u het getreur?</l>
+<l>Het is doch al geschiet, en moet 'er nu meê deur.</l>
+<l>De Wijsen leeren ons 't verleden te vergeten,</l>
+<l>Doet ook soo, quelt u ziel noch innerlijk geweten</l>
+<l>Met het voorleden niet: maer overlegt wat raedt</l>
+<l>U Redde: van u werdt het opgebeven quaet.</l>
+<l>Gy weet wat ongedult, noch hoopeloose sugren</l>
+<l>'t Verleden niet herdoen: en oock, hoe die gerugten</l>
+<l>Van u afwesen zijn in 't Koninklijke Hof,</l>
+<l>En elk die mompelt wel: maer niemant weet 'er of.</l>
+<l>Indien u reed'lijk heyt wil wijs'lijk overwegen</l>
+<l>Wat nurst en dienstig is, soo wikt doch eens ter degen:</l>
+<l>Of dit niet best en was, dat gy al metter tijdt,</l>
+<l>U schadelijke Min en sotte droefheyd slijt;</l>
+<l>En dat gy onder eedt, van niet te openbaren</l>
+<l>Van 't geen daer is geschiet, ontslagen wert?</l></sp>
+<sp>
+<speaker><hi rend="i">Bell</hi></speaker>
+<l>Seer garen;</l>
+<l>Soud' ik, indien ik kon vergeten mijn verdriet;</l>
+<l>Maer dat het slijten zal, dat dunkt my nimmer niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ik bid u neemt een moet.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ten schort niet aen mijn willen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Geselschap en de tydt u droefheyt sullen stillen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell</hi></speaker>
+<l>Geselschap walgt my, en de tydt verdriet my.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Hoort,</l>
+<l>De eensaemheyt brengt zorg en alle quelling voort,</l>
+<l>Dies voegt u by het volk</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Niet als een eensaem wesen,</l>
+<l>En kan van quelling en van droefheyt my genesen.</l></sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ey zuster, laet u raen, geloost, en doet mijn sin,</l>
+<l>Want d'eene droetheid stort u d'ander droefheid in:</l>
+<l>Dus bid ik neemt een moed.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>En of ik my liet raden?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Soo was ik van verdriet en alle zorg ontladen,</l>
+<l>En noch te meer, soo gy gaeft soo veel plaets mijn raet,</l>
+<l>Dat gy u voegen kondt tot meerdering van staet,</l>
+<l>Die u geluckig biedt de Prins der Portugeesen.</l>
+<l>Die gy geboeyt hebt aen u schoon en deftig Weesen;</l>
+<l>Wat luk, wat sekerheid, wat grootheid, en wat magt</l>
+<l>Sou sulk een Hou welijk toebrengen ons geslagt?</l>
+<l>Beraet u, neemt een moet, en laet het u gevallen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Gy springt van 't een op 't aer, en soekt het soo te kallen</l>
+<l>Dat ik na uwen sin maer my begeven zou:</l>
+<l>En of ik my bedogt, en met 'er tijdt de rou</l>
+<l>Soo veel ik kon verjoeg, wat sekerheid van 't geene</l>
+<l>Dat gy my hebt belooft?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Gy moet voorseker meene,</l>
+<l>Dat list mijn tong regeert: ik sweer u by mijn kap.</l>
+<l>Ik sweer u by mijn Swaert, en by mijn Ridderschap,</l>
+<l>Dat alles wat ik u belooft heb, zal geschieden,</l>
+<l>Indien u maer belieft de Prince te gebieden:</l>
+<l>Sijn wil is vaerdig, en hy zal u soo voldoen,</l>
+<l>Dat sijne trouw by u blijft buiten quaet vermoen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Wel aen, ik ben te vreên, ik zal my na u voegen,</l>
+<l>En u met staet, en hem in sijne liefd' vernoegen:</l>
+<l>Mids dat hy my belooft, noch nu, noch nimmermeer</l>
+<l>Het geene is voorby te molden, noch mijn eer,</l>
+<l>Noch my daerom in 't minst te wraken of te laken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ik zal voor hem my zelfs u onderdanig maken.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>En ik zal al mijn kragt aenwenden, om mijn leet</l>
+<l>Te dempen in sijn liefd'.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>U rouwe dan vergeet.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Laet hy al zoet en sacht, van tijdt tot tijdt beginnen,</l>
+<l>Ik hoop hy door de tijdt mijn hart en liefd' zal winnen,</l>
+<l>En dat een goede grondt geleidt, het heel gebouw</l>
+<l>Stantvastelijke sticht, en voor den val behouw.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Indien 't u zoo gelieft, en dunkt het u geraden,</l>
+<l>Ik vind het ook al goet, en 't kan voor al niet schaden:</l>
+<l>Dus ley ik u ten Hoof, op dat het niemand siet,</l>
+<l>Of quaet bedenken vat, van dat 'er is geschiet.</l></sp>
+</div>
+<div type="act">
+<pb n="28"/>
+<head rend="h3">Derde bedryf.</head>
+<stage><hi rend="i">Ierenimo uyt.</hi></stage>
+<l>O Rouw! ô herten-leet! ô droefheid! ô gedachten!</l>
+<l rend="; 1tab">Die mijn verslagen ziel door haer gewelt verkrachten:</l>
+<l rend="; 1tab">Hoe lange zult gy noch doorknagen mijn gemoedt?</l>
+<l>En door u groote kragt verteeren vleesch en bloedt?</l>
+<l>Hoe lange zult gy noch ontvleischt met bloote schonken,</l>
+<l>My laten 't valsche licht van Plutoos hol belonken?</l>
+<l>Daer waen een ieder een soo buiten reden voert;</l>
+<l>Dat hy voor waerheid schim, en galm voor spraek beloert?</l>
+<l>Hoe lange zal ik noch in duisternis besloten</l>
+<l>Vermissen 't Hemels licht, als Plutoos Hel-genoten?</l>
+<l>Hoe lange zal ik noch berooft van alle lust,</l>
+<l>Verteeren sin, en wit, en leven zonder rust?</l>
+<l>Gy weet ook Hemel, hoe dat Vaderlijk medogen</l>
+<l>My heeft met rouw, en leet, tot straf, en wraek bewogen:</l>
+<l>Ik quel my soo verwart, en soo ontsint hier in,</l>
+<l>Dat nimmer slaep, noch rust, ik in mijn herte vin;</l>
+<l>Het is nu al geleen drie dagen, dat verslagen</l>
+<l>Ik heb mijn Soon vermoort, uit mijnen Hof gedragen:</l>
+<l>Sijn Lichaem leidt in rust, in een besloten Kist</l>
+<l>Op mijn Studoir bedekt, daer niemant op en gift:</l>
+<l>En ik, die sijnen doodt te wreeken heb gesworen,</l>
+<l>Heb hoop, en moedt, en al wat dat ik heb verloren,</l>
+<l>Vermits ik iet of niet daer af vernemen kan,</l>
+<l>Waerom hy is vermoort, veel minder van de Man,</l>
+<l>Of van de Moorders die hem in den Hof verhingen:</l>
+<l>Ik denk, en overleg soo veelderhande dingen</l>
+<l>Dat ik daer in verwar, en vaek daer door verstom:</l>
+<l>En waer ik ga of sta, en werwaerts dat ik kom</l>
+<l>Moet ik mijn droeve geest met voordacht noch verkragten,</l>
+<l>En toonen bly gelaet uit droevige gedagten:</l>
+<l>Op dat uit mijn gesicht doch niemant niet en merkt</l>
+<l>Wat binnen in 't gemoet my soo veel droefheids werkt:</l>
+<l>Dus schijnt dat voor een wijl den Hemel zal verdragen</l>
+<l>Dees grouwel, doch ik hoop dat zy in korte dagen</l>
+<l>My uitkomst geven zal; ik voel een sware geest</l>
+<pb n="29"/>
+<l>Mijn herssens overvalt, en 't lichaem aldermeest,</l>
+<l>Mijn oogen trecken toe, mijn hert dat schijnt te slapen,</l>
+<l>Ik leg my wat te rust, het dunkt my soo geschapen</l>
+<l>Dat ik wat rusten zal; ô Hemel geeft my rust!</l>
+<l>En uytkomst in de zaek, waer na mijn herte luft.</l>
+<stage><hi rend="i">Oratius Geest met een Swaert in de rechter en een Brief in de slinker hand, met een strop om den hals, spreekt</hi>:</stage>
+<l rend="; 1tab">Ontwaekt Jeronimo, en siet hier voor u oogen</l>
+<l>Oratii Geest, door dwang uit Plutoos rijk getoogen:</l>
+<l>Erbarmt u over my, niet minder, dan het volk</l>
+<l>Van Styx: wiens vlamme scheurt 't gehemelt van de kolk</l>
+<l>Van Acheron, om my een open weg te banen,</l>
+<l>Tot u Waerts, daer ik kom, niet om u aen te manen</l>
+<l>Tot vreugde, of tot lust, of tot gemeen vermaek;</l>
+<l>Maer tot 't besorgen van een ongemeene wraek.</l>
+<l>Aenschouwt my, dese kling die gaf my dese wonden</l>
+<l>En dese koorde heeft ter hellen my gesonden.</l>
+<l>En dat in uwen Hof: daer mijn verliefde ziel</l>
+<l>Onluckig in de schoot van mijn beminde viel;</l>
+<l>Des Hertogs Dochter die my had tot Man verkoren,</l>
+<l>Heeft daer haer Bruidegom, en gy u Soon verloren.</l>
+<l>De oorsack van de moort was jalouzy, die 't hart</l>
+<l>Van een verliefde boef heeft eereloos verwart.</l>
+<l>Ik ben gansch zonder rust, en sy is ook gevangen,</l>
+<l>En heeft, als ik, na wraek een rusteloos verlangen.</l>
+<l>Dus moedigt u gemoedt met Vaderlijke trek,</l>
+<l>En treedt maer sonder zorg de zorge op den nek,</l>
+<l>En wilt met u verstandt en alle uwe kragten</l>
+<l>Een heerelijke wraek, tot mijnder rust betragten:</l>
+<l>Want ik van tijdt tot tijdt, tot dat ik ben voldaen,</l>
+<l>U zal met moeylijkheid steets op de hielen gaen.</l>
+<l>De Moord'naers zijn Lorens en Pedro, die haer handen</l>
+<l>Besmetten met mijn bloedt, tot haer bederf en schanden:</l>
+<l>Dies eisch ik noch eens wraek, ja ongemeene wraek;</l>
+<l>En zal u op uw ziel beveelen dese zaek.</l>
+<stage><hi rend="i">Laer de Brief vallen, en gaet biesmen</hi></stage>
+<pb n="30"/>
+<stage><hi rend="i">Ierenimo ontwaekt.</hi></stage>
+<l>Ey my! ey my! wat is 't? zijn 't droomen, of zijn 't spooken.</l>
+<l>Die mijn beladen hart dus grouwelijk bestooken?</l>
+<l>My docht Oratii Geest hier voor mijn oogen stondt,</l>
+<l>Met strop, en swaert, en scheen soo vreefselijk gewondt,</l>
+<l>Dat schrik mijn hart beving; en dat sijn holle oogen</l>
+<l>Met bleeke lippen, vast tot wraeke my bewogen,</l>
+<l>En dat hy magteloos my klaegden! hoe hy doodt</l>
+<l>Door jalouzye viel in sijn bemindens schoot.</l>
+<l>Dat Bellemperia hem had tot Man verkoren.</l>
+<l>Dat Pedro en Lorens, beid' sijnen val besworen,</l>
+<l>En dat in mijnen Hof door haer de moord geschag,</l>
+<l>En fijn beminde Bruid ook selfs gevangen lag;</l>
+<l>En dat met moeyelijkheid, tot dat ik sou volvoeren</l>
+<l>Sijn wraeke, hy my staeg sou het gemoed ontroeren.</l>
+<l>O Hemel! is 't een droom? of is het doch geweeft</l>
+<l>De arme bleeke schim en mijn Oratii geest?</l>
+<l>Hoe meugt gy dus in druk mijn oude ziel beproeven,</l>
+<l>En soo geweldig dog een Vaders hart bedroeven,</l>
+<l>Is 't een droom? of is 't waer? geeft uitkomst, op dat ik</l>
+<l>My eens na 't een of 't aer, in noot gevallen schik.</l>
+<l>Dan 't schijnt den Hemel my de waarheit houd verborgen,</l>
+<l>En quelt my nu met hoop, en nu weerom met forgen:</l>
+<l>Dus zy mijn eigen raed een leidsman, en ik gis</l>
+<l>Dat het voorwaer de Geest van mijnen Soone is.</l>
+<l>O moorders! die van Stam, en van soo groote namen,</l>
+<l>U billik van die daedt voor ieder een moet schamen!</l>
+<l>Wat is doch u besluit en uwen raedt geweest,</l>
+<l>Heeft uwe grootsche moedt Oratius gevreest?</l>
+<l>Om dat hy medgesel in liefde als in wapen,</l>
+<l>Tot uwer beider schandt scheen heerlijk geschapen.</l>
+<l>Heeft fijn gevreesde arm, u doen de moedt ontgaen.</l>
+<l>Om u gerechtigheid met wapens voor te staen?</l>
+<l>Don Pedro, heeft u hart, door hovaerdy gedreven,</l>
+<l>Sich toomeloos uit spijt tot dese moort begeven?</l>
+<l>Om dat hy in de slaeh u daden overtreft,</l>
+<l>En boven uw en naem, fijn name zoo verheft?</l>
+<pb n="31"/>
+<l>En hebt Lorenzo, gy die schandig waert verslagen,</l>
+<l>U kragten tegens hem niet eens noch durven wagen,</l>
+<l>Uyt vrees dat niet alleen sijn wapen, dan daer by</l>
+<l>Sijn schoonheit by de Maegt, u ook nadeelig zy?</l>
+<l>Soo zal met meerder recht mijn wreek lust haer beraden,</l>
+<l>Met listen door bedrog u beiden te verraden:</l>
+<l>Niet uit lichtvaerdigheit, met schrik of met de vrees,</l>
+<l>Die uwen laffen moet soo eereloos bewees:</l>
+<l>Maer moedig en gehart, alleen om te verrassen</l>
+<l>U en de wachten, die op u bewaring passen.</l>
+<l>Ik sweer u, dat ik niet zal rusten eer mijn handt</l>
+<l>U laffe zielen heeft geholpen aen een kant.</l>
+<l>Maer evenwel de reên, die spreeken my weêr tegen,</l>
+<l>En raden my dit stuk zorgvuldig t'overwegen,</l>
+<l>Of ik gelooven sal, de droom, en dit gespook</l>
+<l>Die mijne ziel in wraek doet branden, en als rook</l>
+<l>Door toorne dempen doet; want door der spooken logen,</l>
+<l>Vondt meenig in de schijn van waerheit sich bedrogen:</l>
+<l>En of de Vadersucht verblint wort, en verleid</l>
+<l>Doorydel spooken, en door wraek en hevigheid;</l>
+<l>Soo liep mijn eer gevaer, van opsprack door de landen,</l>
+<l>Dat ik mijn selfs bevlek met moort tot mijner schanden.</l>
+<l>Dus ben ik buiten raedt, en weet niet wat ik wil,</l>
+<l>Of wraek den teugel vier: of mijnen toorne stil,</l>
+<l>Tot dat de seekerheid des tijdts my openbaren</l>
+<l>De waerheid van de zaek: ik stel my te bedaren.</l>
+<l>En voeg my onder 't juk van waerheid overtuygt,</l>
+<l>En toone dat mijn hert sich onder reden buygt</l>
+<l>Maer wat beduyt den den Brief hier op ter aerdt gesmeten;</l>
+<l>Nieuwsgierigheid my drijft om haren sin te weten.</l>
+<stage><hi rend="i">Brief.</hi></stage>
+<l>Jeronimo de stem die laetstmael in 't gelommert</l>
+<l>Der Eyken in den Hof u oude ziel bekommert,</l>
+<l>En uit den bedde joeg: die komt u hier weer toe,</l>
+<l>Wel stemmeloos, maer heet en brandend' van gemoe:</l>
+<l>En cyscht u uit tot wraek, tot straffen, rot verderven.</l>
+<l>Tot moordery, tot haet, en tot wraekgierig sterven.</l>
+<pb n="32"/>
+<l>U Zoon en ik verlieft, min-suchtig minne-vrucht</l>
+<l>Genooten in u Hof, daer mijnes Broeders sucht</l>
+<l>Tot staet en jalouzy van hem, die most verdragen</l>
+<l>Dat hy van uwen Soon wierdt in den strijd verslagen,</l>
+<l>Ons hebben met gewelt, in 't midden van de nacht,</l>
+<l>Soo eereloos als schelms, in alle leet gebracht:</l>
+<l>Oratius u Soon doorsteeken, is gehangen,</l>
+<l>En ik sit hier op 't Hof in Lopes Zael gevangen,</l>
+<l>En leve maer alleen op hoop dat ik verwerf</l>
+<l>Een ongemeene wraek, eer dat ik met hem sterf.</l>
+<l>Ik maen u in den naem van Vader, dat gy even</l>
+<l>Gelijk ik my als Vrouw verbindt, u wilt begeven</l>
+<l>Tot grouwelijke straf; en dat de wreede wraek</l>
+<l>U moedigt u gemoedt, gelijk als my: de zaek</l>
+<l>Vercischt dat kort en scherp men alles moet volvoeren,</l>
+<l>Eer dat de macht ten Hoof haer stelt in rep en roeren,</l>
+<l>Weest hartig, zo als ik, die met een fieren moet</l>
+<l>Dit, by gebrek van Inkt, schreef met mijn eigen bloet.</l>
+<stage><hi rend="i">Eynde des Briefs</hi>.</stage>
+<l rend="; 1tab">Sal nimmer mijne ziel gerust, en zal mijn sin</l>
+<l>Noyt rusten, maer altijdt verwerren uit en in?</l>
+<l>Sal nimmer hoop of vrees, of waerheid, of de logen;</l>
+<l>Sal nimmer wraek, of vreê, by my soo veel vermogen,</l>
+<l>Dat, of het een of 't aer my seeker zy bewust?</l>
+<l>Op dat ik my gehardt op 't een of 't ander rust:</l>
+<l>Soo ben ik op der aerdt ellendig, of bedurven,</l>
+<l>En wensch in mijne jeugd voor lang te zijn gesturven.</l>
+<l>Hier schijnt Rechtvaerdigheid my weer te raden aen</l>
+<l>De wraeke, die de reên terstondt deed stille staen:</l>
+<l>Hier maent my de Princes op Vader-plicht, te wreeken</l>
+<l>De moort, door haren Broer, aen mijnen Soon besteeken,</l>
+<l>Sy maent my niet alleen, maer tuygt ook met haer bloedt</l>
+<l>Dat haer Oratii doodt in toorne branden doet,</l>
+<l>En dat zy in de wraek gemoedigt is, haer leven</l>
+<l>Beneffens my (is 't noodt) ten offer op te geven:</l>
+<l>Wat uitkomst, ô mijn Ziel! wat raet? of zal de wraek,</l>
+<l>Of de Kleinmoedigheid beslechten dese zaek?</l>
+<l>De wraek zo aengevoert, doer maegdens schoon exempel,</l>
+<pb n="33"/>
+<l>Stelt my haer heerlijkheid ten toon in deugdens tempel.</l>
+<l>De vrees niet van mijn lijf, maer van mijn eer te slaen,</l>
+<l>Die doet my wederom verbaest en stille staen.</l>
+<l>Wat oorzack heeft de Maegt haer Broeder aen te klagen?</l>
+<l>Genomen 't waer alsoo, dat hy een welbehagen</l>
+<l>Hier in genomen had, en dat hy oorzaek waer</l>
+<l>Van al de Schelmery, zou zy dan daerom haer</l>
+<l>Aenklaegster maken van haer Broeders Schelmeryen?</l>
+<l>O neen! 't is maer bedrog: ik moet my zelven myen?</l>
+<l>Want 't zijn maer netten voor den Vogelaer in 't velt,</l>
+<l>Om my te vangen, vals en listig uitgestelt:</l>
+<l>Dus om my in de zack rechtvaerdelijk te wreeken,</l>
+<l>Soo zal ik noch mijn eer noch wraek in prijkel steeken,</l>
+<l>Maer met gedult den tijdt, de waerheid en de zaek</l>
+<l>Bevelen, op dat ik my niet besprooken maek.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+<stage><hi rend="i">Don Lorenzo uyt</hi>.</stage>
+<l>De uure my beraemt, om mijne ziel te groeten,</l>
+<l>Is om, en doet de hoop mijn lijden wat versoeten,</l>
+<l>Vermits ik hier ter stee de Sonneschijn verwacht,</l>
+<l>Die my verdwijnen doet het duister en de nacht.</l>
+<l>De klocke die is elf, en dat is juyst en even</l>
+<l>Den tijdt by haer beraemt, om my gehoor te geven,</l>
+<l>Dies gaen ik na haer toe, om sien of ik haer vindt,</l>
+<l>Die my met alle macht aen hare schoonheid bindt.</l>
+<stage><hi rend="i">Hy klopt, Pedron Gano uyt</hi>.</stage>
+<l>Vriendt Pedron Gano hoe is 't?</l>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Wel, gaet vry na binnen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Maer is de locht al klaer?</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Ja Heer, stelt uwe sinnen</l>
+<l>Gerust en wil te vreên.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor</hi></speaker>
+<l>En schuilt 'er niemant niet</l>
+<l>Die onse vryery en mijne gank bespiet?</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Daer is geen zorge voor, gaet gy maer recht na boven</l>
+<l>De breede trappen op, van daer voort in de hoven</l>
+<l>Van lusten en vermaek, daer vindt gy die u druk</l>
+<l>Van goeder herten wenscht te keeren tot geluk.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Ik ga dan op u woort.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. C.</hi></speaker>
+<l>Doet zoo, maer het vertrouwen</l>
+<pb n="34"/>
+<l>Dunkt my is niet te groot, wat doet de lust tot vrouwen?</l>
+<l>Wat werkt de minne gal al wonders in de man?</l>
+<l>Wat recht hy gruwel, en wat recht zy prijkel an?</l>
+<l>Wat heeft van lange tijdt' de min niet al bedreven?</l>
+<l>Wat heeft haer ydelheid Historien beschreven?</l>
+<l>En des blijft niet te min dat oude landt-bederf,</l>
+<l>Ons jonge Princen by als aengebooren erf?</l>
+<l>Het blijk hier van is klaer in dese jonge Princen.</l>
+<l>Die maer na mins genot, en elks bederven winsen.</l>
+<l>Die om haer liefs genot, vrouw Beilemperia,</l>
+<l>Niet nutter als den dienst van moorders komt te sta.</l>
+<l>Oratius, wiens liefd' haer ziele had beseten,</l>
+<l>Heb ik vermoort: 't welk my Don Pedro heeft verweten,</l>
+<l>Met dreiging dat hy my zou straffen metter doodt,</l>
+<l>Ten zy ik Serberijn met eenen ook doorschoot,</l>
+<l>De tirdt daer toe beraeme die zal wel haest verschijnen,</l>
+<l>Want 't is de Klocke drie, maer duisent pijn der pijnen</l>
+<l>En zorgen mijne zielbesitten, en mijn hart,</l>
+<l>Dan 't moet 'er nu mee deur, ik bender in verwart,</l>
+<l>Ik ga na binnen toe en lâ de twee Pistolen,</l>
+<l>En neem terwijlen waer de wacht my hier bevolen;</l>
+<l>Op dat ik noch in 't een of 't ander niet en fael,</l>
+<l>En mijn bederf in 't einc' hier op mijn hals en hael.</l></sp>
+<stage><hi rend="i">Bellemperia, met Don Lorenze</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>'t Is te laet, mijn Heer, dies gaet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Ik moet, en kan niet willen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>'t Is u beleeftheid, en het zijn maer hoofse grillen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>'t Is liefde die my houd.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>'t Is u welspreekentheit</l>
+<l>Die alles wat gy wilt tot uwen voordeel vleit.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Mijn tong en herte beyd' mijn liefde u betuigen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ik moet het loven, gaet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>U wil ik onderbuigen</l>
+<l>En gaen met u verlof.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Verlof genoeg, gaet heen.</l>
+<stage><hi rend="i">Binnen.</hi></stage>
+<l>En komt maer nimmer weer of breekt cerst hals en been.</l></sp>
+<stage>2. <hi rend="i">Soldaten uyt, bestelt zijnde door Don Pedro, om Pedron Gane te vatten, als hy Serherijn sal doorschoten hebben</hi>.</stage>
+<sp>
+<speaker>1 <hi rend="i">Sold.</hi></speaker>
+<l>Ja Roelandt dat is waer, en duisent and're stucken</l>
+<l>Heb ik my baken dian noch luckig doen gelucken,</l>
+<pb n="35"/>
+<l>En als ik overdenk hoe dat manhaftigheid</l>
+<l>Romeinen, Grieken, en al d'Helden heeft geleid</l>
+<l>Tot eer, tot staet, tot goed: soo dunkt my dat ik mede</l>
+<l>(Gelijk als zy) behoor de deugden na te treden.</l></sp>
+<sp>
+<speaker>2 <hi rend="i">Sold.</hi></speaker>
+<l>Dat 's waer, maer gy en ik verbannen uit ons sin</l>
+<l>De eer en staet, want die heeft nu wat anders in,</l>
+<l>Soldaten zoo als wy, schoon of wy zonder schroomen,</l>
+<l>Met dapperheid veel roem en ook veel lof bekoomen;</l>
+<l>Indien wy als de luy ons voegen niet na 't hof;</l>
+<l>Dat wy niet konnen doen, wy zijn te plomp, te grof,</l>
+<l>Soo is 't om sunst, want nu, het geld, of vriendt, of staten,</l>
+<l>Verkrijgen vroomigheid, en 't kan geen slechter baten,</l>
+<l>Als tot een kleinigheid, dat is tot Adelborst,</l>
+<l>Of Korporael, of min, indien men 't zeggen dorst.</l></sp>
+<sp>
+<speaker>1 <hi rend="i">Sold.</hi></speaker>
+<l>En dat begeer ik niet, of ik 't al mogt verkrijgen,</l></sp>
+<sp>
+<speaker>2 <hi rend="i">Sold.</hi></speaker>
+<l>Wy komen by de plaets, dies laet ons nu wat swijgen</l></sp>
+<stage><hi rend="i">Pedron Gano met twee Pistolen uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Ped G.</hi></speaker>
+<l>Soo ik my niet bedrieg, zoo is de Klok al drie,</l>
+<l>Daer ik my met een moed en met geweer versie,</l>
+<l>En ga, soo wel gemoedt als of my niet en schorten,</l>
+<l>Het bloet van mijne vrient, maer om mijn voordeel, storten.</l></sp>
+<stage><hi rend="i">Serberijn uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Serb.</hi></speaker>
+<l>Drie slaet de Klok, en dat is even nu de stondt</l>
+<l>Die my mijn Heer geboodt, doen hy my herwaerts sondt:</l>
+<l>Om op sijn wille hier met goedt gedult te passen.</l>
+<l>Dies wacht ik.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Is hy 't ja, ik wil hem gaen verrassen,</l>
+<l>Of wil ik niet, 't is best dat ik hem seek er vat,</l>
+<l>En houw my, os ik iets met hem te spreeken hadt.</l>
+<l>Vrient Serberijn.</l></sp>
+<sp>
+<speaker><hi rend="i">Serb.</hi></speaker>
+<l>Mijn vrient ter rechter tijt, het wachte</l>
+<l>Verdroot my schier.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Soo haest?</l></sp>
+<sp>
+<speaker><hi rend="i">Serb.</hi></speaker>
+<l>Wel ja, ik achte</l>
+<l>Dat het iet sonders is. en haestig, dat by nacht</l>
+<l>Men my en u zoo laet deed' passen op de wacht.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Hoort toe, ik zal in kort u alles gaen vertrecke</l>
+<l>Wat my mijn Heer geboodt aen u hier te ontdecken:</l>
+<l>Hy en u Heer zijn eens om de verborgen zaek</l>
+<pb n="36"/>
+<l>Van den Oratius te dempen, en de wraek</l>
+<l>Sijns Vaders buiten zorg, te brengen, en zy konnen</l>
+<l>Niet rusten, voor al eer dat gy ook zijt verwonnen.</l></sp>
+<stage><hi rend="i">Hy doorschiet hem</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Serb.</hi></speaker>
+<l>O schelm.</l></sp>
+<sp>
+<speaker>1 <hi rend="i">Sold.</hi></speaker>
+<l>Verrader sta.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Ruym op</l></sp>
+<stage><hi rend="i">Hy schiet de ander Pistool ook los</hi>.</stage>
+<sp>
+<speaker>2 <hi rend="i">Sold.</hi></speaker>
+<l>'t Is mis, sta vast,</l>
+<l>Of 't gaet 'er deur.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped G.</hi></speaker>
+<l>Hoe nu? ik doe niet sonder last.</l></sp>
+<sp>
+<speaker>1 <hi rend="i">Sold.</hi></speaker>
+<l>Met last of zonder last, gy blijft doch ons gevangen.</l></sp>
+<sp>
+<speaker><hi rend="i">P.G.</hi></speaker>
+<l>Ik ben nog dief, nog schelm.</l></sp>
+<sp>
+<speaker>2 <hi rend="i">Sold.</hi></speaker>
+<l>Dat waren schelmse gangé</l>
+<l>Dat gy so sonder woort of weert-woort eë doorschiet</l>
+<l>Die u noch plomp, noch scherp tot zijn verweering biet.</l></sp>
+<sp>
+<speaker><hi rend="i">Ped. G.</hi></speaker>
+<l>Soldaten bindt my niet, tracteert my als Soldaten.</l></sp>
+<sp>
+<speaker>1 <hi rend="i">Sold.</hi></speaker>
+<l>Hier helpt geen dreygement, nog ook geen vleiend praten:</l>
+<l>Kom na de Marschalk toe, en zijt gy zonder schult,</l>
+<l>Siet of gy daer u zelfs met praten redden zult.</l></sp>
+<stage><hi rend="i">Alle binnen</hi>.</stage>
+<stage><hi rend="i">Don Pedro uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Die ziel en lijf beswaert om staet-sucht, in 't bederven</l>
+<l>Sich wickelt door verraet, of sterf, of moet doen sterven</l>
+<l>Dien, daer hy op vertrouwt 't geheim van sijne sin,</l>
+<l>En 't een zoo wel als 't aer heeft veel beswaring in:</l>
+<l>Dit ondervind ik, die tot staet-zucht wordt gedreven,</l>
+<l>Mijn ziel een volle loop tot het verraedt te geven:</l>
+<l>Want ik, of die ik heb mijn zaeken toe vertrouwt,</l>
+<l>Moet sterven, dies ik my uit noodt in 't quaed verstout.</l>
+<l>Nu ondervind ik, hoe gevaerlijk t'samen sweeren</l>
+<l>Meer als aen een vertrouwt, 't geluk kan doen verkeeren,</l>
+<l>En stadelijk den sin van den verrader drukt</l>
+<l>Met zorg, of haer geheel in haer verderven rukt.</l>
+<l>Oratius u ziel, die staet-zucht deed verscheiden,</l>
+<l>Schijnt my tot rechte wraek weer in 't verderf te leiden:</l>
+<l>Het rouwt my, dat ik u zoo onrechtvaerdig, maer</l>
+<l>Om staet en afgunst heb verslagen, en 't gevaer</l>
+<l>Van lijf en eer my zelfs heb op den hals getogen,</l>
+<l>En onder hoop en vrees mijn flauwe ziel gebogen:</l>
+<pb n="37"/>
+<l>Want die iet quaeds begint, en die het niet volvoert,</l>
+<l>Vind lijf en ziel door vrees van achterklap beroert;</l>
+<l>Soo is het ook met my; dit moet ik ook voltrecken,</l>
+<l>Om 't eene quaet door 't aer te bergen en te decken.</l>
+<stage><hi rend="i">Pagie zyt</hi>.</stage>
+<l>Lakey.</l></sp>
+<sp>
+<speaker><hi rend="i">Pag.</hi></speaker>
+<l>Wat is u wil?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Gaet daed'lijk zoo terstont</l>
+<l>Na de gevangenis, en spreekt daer mondt aen mondt</l>
+<l>Met Pedron Gano, die den Marschalk houdt gevangen:</l>
+<l>Segt hem, dat hy niet zeer en vreese, noch verlange,</l>
+<l>Maer dat hy lustig zy, en met een frisse moet</l>
+<l>Sich zelfs met tractement vry wat ten goede doet:</l>
+<l>En geeft hem dese Beurs, daer in zijn hondert Kroonen,</l>
+<l>En wilt hem ook met een dan dese Busse toonen,</l>
+<l>Daer in is sijn Pardon: zegt dat hy niet en schroomt,</l>
+<l>Tot dat hy voor het Sant op het Schavot en koomt.</l>
+<l>Maer gy, op uwen hals, en doet de Bus niet open,</l>
+<l>Osanders zult gy 't zelfs met uwen hals bekoopen.</l>
+<l>Gaet haestig voort, en als gy 't alles hebt bestelt,</l>
+<l>Komt by my op 't Salet, op dat gy 't my vertelt.</l></sp>
+<stage><hi rend="i">Binnen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Pagie</hi></speaker>
+<l>Te rechte wordt geseid dat Jongers en de Vrouwen</l>
+<l>Men niet als sprookjes van 't rood Kousje moet vertrouwen,</l>
+<l>En hier bevindtmen 't waer; want siet mijn Heer gebiet</l>
+<l>Dat ik, noch niemant niet de Busse en besiet.</l>
+<l>Nieuwagierigheid besit ons en der Vrouwen hatten:</l>
+<l>Want als men ons verbiedt, soo schijnt men ons te tarten;</l>
+<l>Ik moet eens kijcken wat hier in verborgen is?</l>
+<l>Een groote niet, ô bloedt! dat gaet my uit de gis.</l>
+<l>Is dat Pardon? het mach de Drommel sijn moet wesen.</l>
+<l>Wie heeft sijn leven oyt van zulken trek gelesen:</l>
+<l>Dan hei, wat roert het my, wat dat het is, of nïet;</l>
+<l>Ik ga, en doe het geen dat my mijn Heer gebiet.</l></sp>
+<stage><hi rend="i">Binnen</hi>.</stage>
+<div type="scene">
+<head rend="h4"><hi rend="i">Eerste Vertooning</hi>.</head>
+<p>Waer in Pedron Gano, van den Beul tot sterven vermaant wort. Pedron Gano wijst de Beul op de Bus van Don Podro, met het beloofde Pardon.</p>
+</div>
+<div type="scene">
+<pb n="38"/>
+<head rend="h4"><hi rend="i">Tweede Vertooning</hi>.</head>
+<p>Daer hy onthald zijnde, van de Beul bespot wort, over de valsche inbeelding van sijn Pardon. En hoe dat de Pagie hem mede bespottende, vertrekt.</p>
+<sp>
+<speaker><hi rend="i">Don Pedro verbaest wijkende, wort gevolgt van den geest van Serberijn, met een Pistool; en van den geest van Pedron Gano, met den Buydel en het Pardon; en van den geest van Oratius, met den strik en een dagge in de eene, en elk met een fackel in d' andere handt, hem dreygende, spreekt Oratii Geest</hi>.</speaker>
+<l>Wee Hertogs Sone, wee! wee Prince, wee en wraek!</l>
+<l>Wraek, wraek, den Hemel neemt ter herten onse zaek!</l>
+<l>Wraek, wraek, en eeuwig wee ontseg ik u, en 't leven</l>
+<l>Daer door u staet-sucht tot dit schelmstuk was gedreven;</l>
+<l>En vlucht niet, want u vlugt is vrugteloos voor my.</l>
+<l>Des Hernels straf genaekt, die meugt gy niet voorby,</l>
+<l>Siet hier mijn wonden; siet mijn hert, 't welk door u handen</l>
+<l>Ver moort is, roept om wraek: wee, wee, en eeuwig branden.</l>
+<l>Het onderaerdsche volk dat eeuwig branden moet</l>
+<l>Ver wacht u komst, en haekt na u bloetdorstig bloet.</l>
+<l>Den Afgrondt is beweegt, en vaerdig om u zielen</l>
+<l>Met eindeloose pijn en plagen te vernielen.</l>
+<l>Wee Spanjen, Spanjen wee! u ondergang die naekt,</l>
+<l>Den Hemel dreigt u Rijk, welks grootheid wort gestaekt</l>
+<l>Door 't valsen van u Hof, en aldergrootste Zuilen.</l>
+<l>Gaet en beschreid u val in d'alderdiepste kuilen</l>
+<l>Des Algrondts, en beklaegt u onbegrijp'lijk leet:</l>
+<l>Bereid u, want u val is nader als gy weet.</l>
+<l>Wee Princen, Princen wee! siet dese maeg're schonken,</l>
+<l>Dees holle oogen, die u vreeselijk belonken.</l>
+<l>En dit ontzielde rif, 't welk tree op tree in 't bloet</l>
+<l>Een brandmerk op u hart gaer stellen met sijn voet,</l>
+<l>Dat daegt u voor de stoel des Rechters, die rechtvaerdig</l>
+<l>En Zonder gunsten recht: Maekt uwe zielen vaerdig,</l>
+<l>Want a wen tijdt genaekt. Dees toortsen, dese vlam,</l>
+<l>Dit wreek-vuur, dat om hoog uit d'argronta hitte quam.</l>
+<pb n="39"/>
+<l>Ontseggen u de wraek, en dorven haer vermeeten</l>
+<l>Te schenden uwe ziel, te zengen u geweten,</l>
+<l>Gelijkerwijs als wy, die roepen wraek om vree.</l>
+<l>Wee, wraeke, straffe wraek, wee uwe ziele wee.</l>
+<stage><hi rend="i">bin.</hi></stage>
+<stage><hi rend="i">Don Pedro.</hi></stage>
+<l>Ach! hoe mijn harte slaet: wat moch ik doch beginnen?</l>
+<l>Hoe kan eergierigheid den brossen mensch verwinnen?</l>
+<l>Ac't! was het noch te doen, ik volgde beter raet;</l>
+<l>Maer wat zal 't wesen? het berouwen komt te laet:</l>
+<l>Ik moet 'er ou meê deur? maer kon het klagen helpen,</l>
+<l>Het zou dit droevig hart met droefheid overstelpen.</l>
+<l>Fy staet sucht, die en mensch soo van sich felfs vervoert:</l>
+<l>My dunkt dat my de wraek aen alle kant beloert.</l>
+<stage><hi rend="i">bin.</hi></stage></sp>
+<sp>
+<speaker><hi rend="i">De Beul gevonden hebbende den Brief in Pedron Ganos sak, en verbaest daer mede tot den Maerschalk gekomen zijnde, komen t' samen uyt, en leronimo spreekt:</hi></speaker>
+<l>Weest gy maer wel gerust, en stelt u vry te vreden.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>ik zouw dat wel doen, lieve Heer Maerschalk; maer mijn lijf, mijn leden,</l>
+<l>Die lillen en trillen, zoo dat ik niet rusten kan.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Dat is maer bloote wees, en stoot u daer niet an.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Neen soeve Heer Maerschalk ik sou my daer aen niet stoten</l>
+<l>Maer dat Pardon, dat Pardon, daer leggen de koten,</l>
+<l>Dat jaegt my de doot op 't lijf, want in sijn eind seid hy nog</l>
+<l>Dat het my den hals sou kosten; en nu, och, och, och, och!</l>
+<l>Nu selt 'er toe komen, en mijn Wijf en mijn Kinderen zijn bedurven,</l>
+<l>En voor my was 't gien swarigheid, was ik maer gesturven</l>
+<l>Maer dat sterven, dat sterven, potslapperment dat is de dood.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Ik zag u, vreest gy niet; want gy en hebt geen nood:</l>
+<l>Ik zal u van de doodt en alle straf bevryen:</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Lieve Heer Maerschalkje selje dat doen, soo selje mijn verblijen,</l>
+<l>Dan zou ik daer op wel gerust mogen t'huys gaen?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Ja zeg ik, gaet na huis, en laet 'et daer op staen.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Soo gaen ik dan heel gerust na huis, en zal al mijn vertrouwen op jou zetten.</l></sp>
+<pb n="40"/>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Deet soo.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Maer soete Heer Marschalk, je most'er wel op letten,</l>
+<l>En doet zoo niet, als eens een andere Heer Marschalk deê:</l>
+<l>Die eens een Man troosten zou, als jy my nu meê doet, en hy was niet van de steê</l>
+<l>Of sijn party quam, die belas hem so met Pistolen en Pistolen,</l>
+<l>Dat hy den eerst' getrooste kort daer na den Beul heeft bevolé</l>
+<l>Want, so dat my meê overkomen sou, so hadje my verleit.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Gaet heenen zeg ik jou, en eens voor al geseid!</l>
+<l>Want gy en hebt geen noodt, en ik zal 't op my nemen:</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Selje dat zeker doen, lieve Heer Marschalk?</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Hoe staere dus te temen?</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Soo gaen ik dan na huis van alle zorg ontlast:</l>
+<l>Hadieu mijn soete Heer Marschalk, hadieu mijn goede Heer</l>
+<l rend="; 1tab">Marschalk, maekt dat j'er wel op past,</l>
+<l>Op dat mijn dat Pardon niet aen de keel koomt stooken.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Gaet heenen, zorgt gy niet.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Maer Heer Marschalk gy hebt een woordt gesprooken,</l>
+<l>En soo 't niet vast gaen zou, soo wou ik dat ik doot was.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Een endt houts om jeu lenden, schoon oft al vry groot was</l>
+<l>Dat souje passen, gaet, gaet zeg ik zonder vreesen,</l>
+<l>En ik zal voor de doot uwen bescherm-heer wesen.</l></sp>
+<sp>
+<speaker><hi rend="i">Beul.</hi></speaker>
+<l>Soo gaen ik dan eens voor al, heel vry en los van zorg,</l>
+<l>Want ik heb de Marschalks keel voor de gal tot mijn waerborg</l>
+<l>Maer Heer Marschalk, dat Pardon, dat Pardon, dat breekt my de moet weer.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Fluks maekt u weg van hier, wat plaegt my desen bloet meer.</l></sp>
+<stage><hi rend="i">Beul. binnen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Mijn sinnen zijn verwert, 't gemoedt is my ontstelt,</l>
+<l>En immers weet ik niet, wat dat my 't harte quelt.</l>
+<l>De wraeke heeft mijn sio, door hare vlam ontsteeken,</l>
+<l>Die door onzekerheid my doet met twijffel spreeken,</l>
+<l>Dus tusschen iet en niet, verw ar ik in, en uit,</l>
+<l>En kom noch tot het een noch tot het aer besluit.</l>
+<l>Dan 't menschelijk bestuur schijnt ydel in de measchen,</l>
+<l>Dus van den Hemel ik een goede uitkomst werschen:</l>
+<l>Maer evenwel de vrees van desen plompen bloet,</l>
+<pb n="41"/>
+<l>Van dit gevreest Pardon ik eens bekijcken moet:</l>
+<l>Of iet of niet beduyt, het opschrift aen Don Pedro!</l>
+<l>Dit 's vreemt, my dunkt ik schrik, voor zeeker, ja ik ben so</l>
+<l>Vry in 't gemoet ontroert, maer evenwel de schrik</l>
+<l>Die stel ik aen d'een zy, en let maer op het stik.</l></sp>
+<sp>
+<speaker><hi rend="i">Hy leest den Brief door Pedron Gano aen Don Pedro geschreeven, waer in de moort van Oratius met al 't gevelg van dien, verhaelt wort</hi>.</speaker>
+<p><hi rend="i">Mijn Heer, volgens uwen last heb ik my begeven om Serberijn om te brengen, dan tot mijn ongeluk ben ik in de handen des Marschalks dienaers gevallen, en in sijne gevankenisse gebracht. Het perykelmijns kel mijns levens dat bedwingt my om aen u te schrijven, en ten anderen, wat wy om de dood van Oratius schuldig zijn, van welken, indien ik door pijne gedwongen wordt te klappen, u oneere, my een harde doodt te vreesen staet. Gy weet dat ik den aenslach op u belofte alleen gewaegt hebbe, ik vertrouw u woort, en verwacht op het spoedighste u hulpe, u verseekerende dat de noodt my dwingt u desen te schrijven, op dat ik mach blijven, mijn Heer, uwen getrouwen dienaer</hi>.</p></sp>
+<stage><hi rend="i">Pedron Gano</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Gelesen hebbends spreekt:</hi></speaker>
+<l>Mijn twijffel staet ter zy, hier blijke het wis en zeeker,</l>
+<l>Wel op Jeronimo, weest nu zoo straf een wreeker</l>
+<l>In u rechtvaerdigheid, als dese moorders zijn</l>
+<l>Geweest, zoo vals en wreet in vriendelijke schijn.</l>
+<l>Wel op mijn ziel, wel op, omvangt nu al den tooren</l>
+<l>Alleen, die schijnt gemeen de werelt toe te hooren,</l>
+<l>Ontsteekt in my het vuur, dat door de soelle vlam,</l>
+<l>Des blixems aldereerst hier op de werelt quam,</l>
+<l>Op dat ik zonder schrik, en zonder iets te falen,</l>
+<l>De wrack doen op den kop van dese Vorsten dalen.</l>
+<l>War zeg ik? Vorsten! neen, ten zijn geen Vorsten meer,</l>
+<l>Die toommeloos den lust tot vrouwen, of om eer</l>
+<l>Van staten, laten los en ongebonden swerven,</l>
+<l>En daerom niet ontsien noch landt noch volk bederven,</l>
+<pb n="42"/>
+<l>Dan 't zijn maer grouwelen, die 't menschelijk geslagt</l>
+<l>Slegts hind'ren, en onnut ter wereld zijn gebragt,</l>
+<l>'t Sijn Monsters die Natuur geset heeft boven allen,</l>
+<l>Om uit 'er hoogten weer te swaerder val te vallen</l>
+<l>In diepe duysternis der dooling, in den grondt</l>
+<l>Van Styx, ja in de poel zelfs van den Helschen mondt,</l>
+<l>En of schoon rechtsgewijs van wettig of onwettig</l>
+<l>Dér Vorsten goet of quaedt geoordeelt wort; opsettig</l>
+<l>Gaen ik daer tegen aen, en volg de reetste Wet</l>
+<l>Die ons de Priesterschap in Spanjen heeft geset,</l>
+<l>Die is, wanneer een Prins bewandelt slibber wegen,</l>
+<l>En blijft niet op het padt der Vaders: maer daer tegen</l>
+<l>In 't Geestelijke feilt, in 't wereltlijke dwaelt;</l>
+<l>Soo is 'et noodig dat hy voort ter Hellen daelt;</l>
+<l>En dit is rechts genoeg: ik zal my zelven rechten,</l>
+<l>En als de Priesterschap mijn eigen zaek beslechten.</l>
+<l>Dus moedigt mijn verstant, begrijpt maer tijt en stont</l>
+<l>Om met een friffen moed te uitten uwen gront.</l></sp>
+<stage><hi rend="i">Binnen</hi>.</stage>
+<stage><hi rend="i">Hier moet wederom een deuntjee gespeelt zijn</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<head rend="h3">Vierde bedryf.</head>
+<stage><hi rend="i">Hartog van Castilien, Don Pedro, en Don Lorenzo uyt</hi>.</stage>
+<l>ONzalig leven! hoe onrustig zijn de Troonen</l>
+<l rend="; 1tab">Als haet en jalouzy in Princen Hoven woonen,</l>
+<l rend="; 1tab">En als het ongeluk, gebakent aen de kant</l>
+<l>Van 't Koninglijk gevolg, ons dreigt van-hoger hant</l>
+<l>Als nijdt, gespitst op deugt der oude silv're haren,</l>
+<l>De jonge domme jeugt komt in de ziele varen,</l>
+<l>En meer als toommeloos de reden haer ontglijt,</l>
+<l>En losse domme waen haer in de harssens rijt:</l>
+<l>Wat heb ik vaek gesien? wanneer den Hemel dreigden</l>
+<l>Of 't een of 't ander Rijk, dat eerst te groots fich neigden</l>
+<l>Tot nijt, tot twist, tot wraek, tot staet sucht, of tot haet,</l>
+<l>En dat daer volgden op 't verderven van dien Staet?</l>
+<l>En dit is 't dat my drukt, en doet omsichtig vreesen,</l>
+<l>De twist om 't Rijk een Heer, en 't volk een hulp te wesen:</l>
+<pb n="43"/>
+<l>Dus wensch ik dat de nijdt, gebannen uit het rijk,</l>
+<l>Doch nimmer in het hert van onse grooten blijk.</l>
+<l>Maer Soone zegt my eens en weet gy niet wat zaeken</l>
+<l>Dat doch des Marschalks hooft dus doen op rollen raeken.</l>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Heer Vader neen ik doch.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>My deert zijn ongeval.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>En my.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Meer als my zelfs ik hem beklagen zal;</l>
+<l>Want d' oude vriendschap, en de dienst die hy de Koning</l>
+<l>Getrouwelijken dee, die eischen meer belooning;</l>
+<l>En sijnen goeden raedt, met sijn ervarentheid,</l>
+<l>Vercifschen meerder eer, en meerder achtbaerheid</l>
+<l>Dan immer hy genoot: en fijne grijse hairen</l>
+<l>Die zijn in staet van 't Rijk vry meer als wel ervaren:</l>
+<l>Dies wensch ik wel dat vreê, en rust, sijn oude sin</l>
+<l>Tot sijn genoegen weer met blijtschap name in</l>
+<l>Maer Sone, na 't gerugt, soo schijnt het of zijn plagen</l>
+<l>Met onlust, meest op u haer onvernoegen dragen;</l>
+<l>En soo dat oorzack hadt, 't waer my van herten leet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Heer Vadter is 'et soo, 't is meerder als ik weet.</l>
+<l>Want nimmer hebben wy van al ons leve dagen,</l>
+<l>Mijns wetens, oit elkaer of haet of nijt gedragen:</l>
+<l>Dus of hy onlust heeft op my, dat weet ik niet,</l>
+<l>Dan met mijn wil, of raet, is hem noyt leet geschiet.</l>
+<l>Dan evenwel de staet, die hy bedient tot schanden</l>
+<l>Van 't machtig Spaensche Rijk, waer beter voor de Landen</l>
+<l>Een ander toe vertrouwt, op dat sijn raserny</l>
+<l>Het landt niet tot bederf, en 't volk tot spot gedy:</l>
+<l>Wat kindtsche Koningen, en oude sotte Raden,</l>
+<l>Die konnen maer tot soot, of tot verderven schaden.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Was 't so, so was het quaet, dan sulks en gaet niet vast,</l>
+<l>En daerom laet die zorg maer tot des Konings last,</l>
+<l>Dat 't geene dat ik u gevraegr heb, zou betreffen</l>
+<l>Niet u alleen, meer ook u Prins, die ik verheffen</l>
+<l>En maegschap maeken zou aan my en mijn geslagt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Op haet, op nijdt, noch twist, en heb ik noit gedagt.</l>
+<l>En 't komt my wonder voor, dat hier in dese Landen,</l>
+<l>Daer ik met vreê en gunst ootmoedig zoek de banden</l>
+<l>Van houwlijk en vreugd te binden, daer de trouw</l>
+<pb n="44"/>
+<l>My onderdanig maekt de wetten van een Vrouw,</l>
+<l>Dat daer de logen-tael haer tonge derf ontbinden,</l>
+<l>Om my in 't warrig net van achterdocht te winden.</l>
+<l>Neen Vorst, vertrouwt my dat, ik sweer u dat ik ben</l>
+<l>Onschuldig, en een vriend des Marschalks.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ik beken</l>
+<l>Dat ik sijn zotheid haet; maer buiten dat, ik sweere</l>
+<l>Dat ik onschuldig ben, en sijne gunst begeere.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>En evenwel 't gerugt dat seid het; en men seid,</l>
+<l>Dat in gemeen gerugt de meeste waerheid leid,</l>
+<l>Dan siet daer komt hy zelfs, gy zult te samen swijgen,</l>
+<l>Ik moet de waerheid sien uit zijnen mondt te krijgen.</l></sp>
+<stage><hi rend="i">Ieronimo half kranksinnig al wandelende heen en weer</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De Vorsten sijn by een, 't is best dat ik vertrek,</l>
+<l>Of mijnen toorne berg, en mijne wraek bedek.</l></sp>
+<stage><hi rend="i">Hy maekt mijne of hy weg gaet</hi>.</stage>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Jeronimo.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Mijn Heer.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Hoe keert gy dus?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Met reden;</l>
+<l>Want gecken dienen niet by wijse luy geleden:</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Hoe gecken?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Soo als ik, die van 't verstant berooft,</l>
+<l>De harssens reut'len; en gequelt zijn met het hooft.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Gy doet u zelfs te kort, en acht u zelfs te luttik;</l>
+<l>Bedaert u, en houd moed.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>O neen, mijn Heer, dat schut ik.</l>
+<l>My schort noch moed, noch hart, wie veel sich zelven acht,</l>
+<l>Die hebben gy en ik voor desen wel belacht.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Wat deert u?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Niet met al.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Gy zijt nochtans onlustig.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>'t Gemoedt is wat ontstelt, en 't hooft is wat onrustig,</l>
+<l>De herssens zijn geraekt, de sinnen zijn ontroert,</l>
+<l>En speelen nu met ernst, daer na weerom met boert.</l>
+<l>En anders let my niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Dat 's pas om ons te strecken.</l>
+<l>Een Nar in plaets van Raedt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Daer schorten zulke gecken</l>
+<l>Daer wijsheid in den Raedt veelvoudig overvloeit.</l></sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Don Pedro zijt bedacht dat gy u tong besnoeit,</l>
+<l>En swijgt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Met u verlof.</l></sp>
+<stage><hi rend="i">Hy maekt weer mijne om weg te gaen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Jeronimo waer heenen!</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Maer over al.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Blijft hier.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De Princen moeten meenen</l>
+<l>Dat ongevoelijkheid mijn koude ziel besit.</l>
+<l>Dan 't is 'er ver van daen, ik heb een ander wit.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Ik bidt u, segt, wat wit heeft nu uw hert beseten?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Indien het u gelust mijn hert en sin te weren,</l>
+<l>Soo weet ik ben belust op 't schoonste schepsel dat</l>
+<l>Den Hemel immer schiep, of 't Aerdrijk oit besat.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Hoe, quelt u minne-vuur?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Soo doet het.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Lust tot Vrouwen</l>
+<l>Bragt menig ten verderf, en veel te laet berouwen;</l>
+<l>Besadigt uwe lust.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Schoon of mijn oude sin</l>
+<l>Berouwen en bederf kon speuren in de min,</l>
+<l>En dat het ongeluk van goedt, van bloet, van staten,</l>
+<l>My dreigden niet alleen t'ontsetten, maer te laten</l>
+<l>Vervallen in de strik van schande, en van smaet,</l>
+<l>Noch waer 't onmogelijk dat ik mijn liefd' verlaet.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Heer Marschalk uwe lust strijt tegens uwe jaren.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Al ben ik oudt, ik ben in 't minnen meer ervaren</l>
+<l>Dan dese losse jeugt, die sonder reden mint,</l>
+<l>Vermits zy toom noch dwang tot hare lusten vint:</l>
+<l>En zonder onderscheid de Wetten zoo ontheiligt,</l>
+<l>Dat zy de trouwe breekt, en 't echte bedt ontveiligt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ik ken my zelven vry.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>En ik.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Ha, ha, ha, ha,</l>
+<stage><hi rend="i">Spreekt en lacht ter xyden</hi>.</stage>
+<l>Een overtuigt gemoedt beklapt sich zelfs zoo dra</l>
+<l>Als het beschuldigt wort. dan Hemel is 'et mogelijk</l>
+<l>Soo schout mijn droefheid aen, en toont u doch medogelijk.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Jeronimo my deert u droevig ongeval.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Sy zeggen ook zoo, en zoo zeit men over al.</l>
+<stage><hi rend="i">Spreekt weder ter zijden</hi>.</stage>
+<l>Maer dat en helpt my niet; de Geeft van die verslagen,</l>
+<l>Heb ik met Isabel uit mijnen Hof gedragen.</l>
+<pb n="46"/>
+<l>Die prickelt mijn gemoet, het swaert dat hem doorstrak,</l>
+<l>Die strop die hem de nek en ook het harte brak,</l>
+<l>Die stemme die my riep, en 't bloedt uit sijne wonden</l>
+<l>Die hebben my met eed tot sijne wraek verbonden,</l>
+<l>Maer hier van al genoeg tot op een ander tijdt,</l>
+<l>'t Is best dat ik vertrek en op mijn tonge bijt:</l>
+<stage><hi rend="i">Maekt mijnen om te gaen</hi>.</stage>
+<l>De Vorsten varen wel.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Jeronimo keert weder,</l>
+<stage><hi rend="i">Gaet sitten</hi>.</stage>
+<l>En set u eens gerust hier aen mijn zijde neder;</l>
+<l>Betoomt u hestigheid, en antwoordt op den eedt</l>
+<l>Die gy met overleg aen mijne handen deedt;</l>
+<l>'t Gerucht loopt overal, ten Hof en in de Steeden</l>
+<l>Dat u ontroerde sin gestoort is en t' onvreeden</l>
+<l>Op dese Princen, en dat uwe quelling meest</l>
+<l>Door haer of haer bedrijf veroorsaekt is geweest.</l>
+<l>Soo 't waer is, en soo zy met recht daer aen zijn schuldig,</l>
+<l>Bekent het en vertrout dat ik soo onverduldig</l>
+<l>Het onrecht straffen zal als gy oyt zelver soud..</l></sp>
+<stage><hi rend="i">Ieronimo springt haestig op, en spreekt tot de Princen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De quelling staetter zy die mijn gemoedt benout,</l>
+<l>De Hemel laet niet toe dat trouw en dienstbaerheiden,</l>
+<l>In noot en ongelijk van uwen dienaer scheiden,</l>
+<l>Neen Princen, schoon of nijt en ongunst my ontset</l>
+<l>Van eer en van verstant, in eeuwigheid de wet</l>
+<l>Van onderdanigheict my niet en zal begeven:</l>
+<l>Ik lief de Vorsten, ja, en zal haer al mijn leven</l>
+<l>In onderdanigheid gehoorsaem zijn.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Het geen</l>
+<l>Dat u gevraegt wort is niet of gv in 't pemeen,</l>
+<l>Gelijk als d'and're doen, gehoorsaemt, dan of desen</l>
+<l>U in 't besonder oyt of leet of quaet bewesen;</l>
+<l>En of u hart en sin door haer bewogen is</l>
+<l>Tot afgunst; of 't gerucht daer van geingen is,</l>
+<l>Dan of het waerheid zy,</l></sp>
+<sp>
+<speaker><hi rend="i">D. ler.</hi></speaker>
+<l>Der Princen achtbaerheden</l>
+<l>Die worden door 't gerucht tot haerder smaet bestreden,</l>
+<l>Den Hemel zy getuig dat ik het zeggen mach,</l>
+<pb n="47"/>
+<l>Dat my noit meerder leet en afgunst en gesach</l>
+<l>Als door 't gerucht dat haer mijn quelling maekt deelachtig,</l>
+<l>En my in haren sin verdacht en twijfelachtig:</l>
+<l>Lorenzo, uwen Vriendt en Dienaer bidt, dat hy</l>
+<l>Maer in u goede wil en gunst behouden zy.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>En twijffelt niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>O Prins! en uwe gunst, die 't leven</l>
+<l>Aen mijne oude ziel of nemen kan of geven,</l>
+<l>Die bidt ik dat my ook met hare vleug'len dekt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Waer dat ik kan of mach.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Die wangunst nu vertrekt</l>
+<l>En openhertigheid dit laet my toe met reeden</l>
+<l>Mijn dienstbaerheden aen uw voeten te besteeden.</l></sp>
+<stage><hi rend="i">Buygt aen Pedres voeten</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Geensins, dan 't is genoeg dat mynen Vader blykt</l>
+<l>Mijn onschult, en dat gy in waerheid niemant wijkt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Laet uwe heusheid dan mijn dienstbaerheid bewegen.</l></sp>
+<stage><hi rend="i">Buygt aen Lorenzos voeten</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>U vriendschap is my lief, u dienstbaerheid my tegen</l>
+<l>Dus staekt ootmoedigheid, en met een vryen sin</l>
+<l>Beelt u, mijn vrient, mijn gunst, en mijne vrientschap in.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Onwaerdig ben ik om soo grooten gunst t'ontfangen,</l>
+<l>Schoon of mijn dienstbaerheid heeft eindeloos verlangen,</l>
+<l>Haar trouw en goede wil te toonen.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>'t Is genoeg</l>
+<l>Dat my gebleeken is u vriendschap, en 't gevoeg</l>
+<l>Van beider eenigheid en beider goeder wille.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Laet afterdocht ter zy, en rust u zorge stille.</l>
+<l>Den Hemel geeft u rust soo veel als ik u wensch,</l>
+<l>En ik met u vertrek.</l></sp>
+<stage><hi rend="i">Binnen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Wat is een Mensch?</l>
+<l>Ik heb de tijdt beleeft dat hy met achtbaerheden</l>
+<l>En waardigheid een Stoel van 's Konings Raadtbekleden,</l>
+<l>En dat hy als de Son voor alle Grooten blonk.</l>
+<l>En sijnen raadt alleen in onse ooren Klonk,</l>
+<l>Hy was een Man vol raats, en dapper, maer gezeggelijk.</l>
+<l>Sijn trouw was eindeloos, sijn raadt was onweerleggelijk</l>
+<pb n="48"/>
+<l>Dan 't schijnt dat daet, nog raet, nog wijsheid nog verstant</l>
+<l>En helpen niet, als 't luk sich tegen iemant spant.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Dat heb ik nu beproeft, ô Vorst! in dese zaken,</l>
+<l>Den Hemel scheen in 't eerst voor my gemeen te maken</l>
+<l>Haer heerlijk heid en vreugt, na dat ik had getracht</l>
+<l>Na uwe gunst met troost, om onder u geslacht</l>
+<l>Als uwen Soon te zijn, dan afgunst staet my tegen,</l>
+<l>Dan schort'er dit, dan dat, en immers mijnen zegen</l>
+<l>Die struikelt hier en daer, ik weet niet waer het schort?</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>U Demon, Prins, die is 't, die doet u zelfs te kort;</l>
+<l>Dan zoo gy blijft gesint, gelijk gy waert voor desen,</l>
+<l>Gy zult mijn Dochters Man en mijnen Swager wesen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Den Hemel loont u deugt, help dank, en zijt gewis</l>
+<l>Dat hier door u en my iets groots besloten is;</l>
+<l>Wat my aengaet, ik zal u en u Rijk mijn dagen</l>
+<l>Altijdt genegentheid en trouwe vriendtschap dragen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Geluk, geluckig Prins, ik wensch 't u al ten goén,</l>
+<l>Voorts gaet, gelijk als 't hier gaet, buiten u vermoên.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Ik zal u Vader voort met heerlijke Gesanten</l>
+<l>Verzoeken, dat hy komt, om tusschen ons te planten</l>
+<l>Oneindelijke vree, en om met Majesteit</l>
+<l>En Koninglijke pracht u feest te sien bereit.</l></sp>
+<stage><hi rend="i">Alle binnen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Ieronimo in sijn Huysgewaet gekleedt zijnde, met strop en ponjaert</hi>.</speaker>
+<l>Komt hier mijn hulpers komt; wie zal my van u beiden</l>
+<l>Het beste na de poel des afgronts eerst geleiden?</l>
+<l>Gy strop, die metter haest des levens azem sluit,</l>
+<l>Gy zult my passen, en mijn spoedig redden uit</l>
+<l>Dit haestig leven: neen, het souw my gantsch niet schicken</l>
+<l>Want dieven passen best aen galgen en met stricken;</l>
+<l>Weg, weg dan,</l>
+<stage><hi rend="i">Hy werpt de strik met afkeerlikheid weg</hi>.</stage>
+<l>Maer gy Pook die gladt en heerlijk blinkt,</l>
+<l>En Caesars groote ziel ontzielde: komt bedwingt</l>
+<l>Mijn droefbeid, treft mijn hart, en helpt my uit dit leven;</l>
+<l>Steek toe, ik scheid'er uit. neen, wilt het my vergeven</l>
+<l>Gy strop en ponjaert, want ik en begeer u niet</l>
+<pb n="49"/>
+<l>Voor dat mijn ziel haer schandt en leet gewrooken siet,</l>
+<l>Wat zoudt doch baten dat ik moedeloos my selven</l>
+<l>In doodts vergetelheit ging wraekeloos bedelven;</l>
+<l>Ik zoek wat anders, en zal wachten tot de wraek</l>
+<l>My in mijn sterven troost, en eene name maek.</l></sp>
+<stage><hi rend="i">Bosardo, een vermaert Schilder, uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Wie zijt gy die my hier, in 't swaerste van mijn strijden,</l>
+<l>Den zegen en de winst van wraeke dorst benijden?</l>
+<l>Wat onluk voert u hier, om neffens my u ziel</l>
+<l>Te wagen op den weg van 't ongeluckig wiel?</l></sp>
+<sp>
+<speaker><hi rend="i">Bosardo</hi></speaker>
+<l>Ik ben u onderdaan, die in voorleden nooden</l>
+<l>Hier tot dit Heil'ge Recht kom metter haest gevlooden</l>
+<l>Om recht.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Om recht, wat recht?</l></sp>
+<sp>
+<speaker><hi rend="i">Bosardo.</hi></speaker>
+<l>Om recht, Heer, ja om recht,</l>
+<l>Mijn Soon die is vermoort in een vervloekt gevecht:</l>
+<l>En 't Vaderlijke hart, dat vol is van medogen;</l>
+<l>Is tot een rechte straf en tot de wraek bewogen;</l>
+<l>Dies wil ik dat men die, die hem vermoord', weerom</l>
+<l>Gerechtig met het Swaert tot sterven weer verdom.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Is uwen Soon vermoort, is uwen Soon verslagen?</l>
+<l>Soo hebben gy en ik gelijk en recht te klagen;</l>
+<l>Maer uwen wil van straf, is meerder als mijn macht;</l>
+<l>Die niet als wraek en zoekt, en echter klacht op klacht</l>
+<l>Soo vruchteloos versucht, en niet en kan verwerven,</l>
+<l>Dan sonder mijne wraek en sonder recht te sterven.</l>
+<l>En gy die min als ik u des beklagen moogt,</l>
+<l>En hebt geen klagens recht.</l></sp>
+<sp>
+<speaker><hi rend="i">Bosardo.</hi></speaker>
+<l>Gy Heer, die oppervoogt</l>
+<l>En stierman zijt van 't recht, indien gy hebt verloren</l>
+<l>Een Soon, die als de mijn was tot u troost geboren,</l>
+<l>Soo kom ik recht ter tijdt, om in u eigen zaek,</l>
+<l>Beneffens mijne zaek te zoeken recht en wraek.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Wat spreekt gy doch van recht, de tijdt is zoo bedurven</l>
+<l>Dat deugt en recht al sijn voor onse tijdt versturven,</l>
+<l>En dat de moedtwil meest de heerschappye voert,</l>
+<l>En door haer vrye loop de Landen heel ontroert,</l>
+<l>De roede van 't Gericht, in splinters, en aen stucken,</l>
+<l>Moet lijden dat gewelt haer onderdanen drucken.</l>
+<pb n="50"/>
+<l>Rechtvaerdigheid is heen, gewelt, en gelt is 't recht,</l>
+<l>Dat alle twisten meest in desen tijdt beslecht.</l>
+<l>Wie twist heeft, en ten Hoof zijn zaeken moet bepleiten,</l>
+<l>Of tot sijn voordeel staen ontallelijke feiten,</l>
+<l>Of klaerder als de zon sijn zeggen blijken kan,</l>
+<l>Of zelfs den Rechter weet de oorzaek, of een man</l>
+<l>Met duisent tuigen quam sijn zaeke vast te maken,</l>
+<l>Noch zal hy aen geen recht tot sijnen voordeel raken,</l>
+<l>Als gunst voor sijn party des Rechters ziel bevat,</l>
+<l>Of als daer sijn party zelfs tot sijn rechter zat:</l>
+<l>Dies komt gy veel te laet, om recht by my te zoeken.</l></sp>
+<sp>
+<speaker><hi rend="i">Bosard.</hi></speaker>
+<l>Soo mach ik u, en zulk een staet te recht vervloeken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Soo is 'et, en het zal soo blijven, tot dat ik</l>
+<l>Met errenst en met kragt de schelmery verschrik.</l>
+<stage><hi rend="i">Hy begint te rasen</hi>.</stage>
+<l>Komt spooken, spooken komt, laet ons met dese handen</l>
+<l>Het snood en schelms gedrogt met errenst aen gaen randen,</l>
+<l>Gy Tysiphon pas op, en let maer op dien schelm</l>
+<l>Die 's Konings troon besit, met een vergulde Helm.</l>
+<l>Siet gy Alecto toe, dat ons de Portugeesen</l>
+<l>Niet op de Joodsche wijs met tovery beleesen</l>
+<l>En Cerberus komt gy hier aen mijn rechter zy</l>
+<l>Driehoofdig op de wacht, als 't noot doet staet my by,</l>
+<l>En ik, ik zal als hooft, en hopman u geleiden.</l>
+<l>Ter plaetse daer men u zal Helsche vreugt bereiden.</l>
+<l>t'Sa krijgslui, t'sa treet voort, en schrikt niet, maer hout moet</l>
+<l>En volgt u Veltheer na, hy is van Konings bloet.</l>
+<l>O bloode Toveres, wat schuilt gy om het vechten</l>
+<l>t'Ontvlieden, neen, gaet voort, of anders uwe vlechten.</l>
+<stage><hi rend="i">Hy vat Posardo by den kop</hi>.</stage>
+<l>Dat zullen stricken zijn om uwen blooden hals.</l></sp>
+<sp>
+<speaker><hi rend="i">Bosard.</hi></speaker>
+<l>Ik schrik niet Heer, ik volg, u meening die is valsch.</l>
+<l>Dus laet my los.</l></sp>
+<stage><hi rend="i">Hy laet hem weer gaen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Wat zoo, met tomeloose gasten</l>
+<l>Te Krijgen, is een zaek die nimmer my en pasten.</l>
+<l>Nu Krijgsluy, krijgt een moedt, den vyant die komt aen,</l>
+<l>Lorenzo, en de Prins die sie ik 't voorste gaen.</l>
+<pb n="51"/>
+<l>Steekt de Trompetten op, en laet de Trommels hooren,</l>
+<l>Soldaten wel gemoedt, en Ruiters geeft de spooren:</l>
+<l>Alarm, alarm, val aen; die zegen die is my,</l>
+<l>'t Geluk en helsche spook die heb ik op mijn zy:</l>
+<l>Daer is Lorenzo, t'sa wilt u gevangen geven,</l>
+<l>Of ik beneem u voort op staende voet het leven.</l></sp>
+<sp>
+<speaker><hi rend="i">Bos.</hi></speaker>
+<l>Ik ben Lorenzo niet.</l></sp>
+<sp>
+<speaker><hi rend="i">Ier.</hi></speaker>
+<l>Wie zijt gy dan?</l></sp>
+<sp>
+<speaker><hi rend="i">Bos.</hi></speaker>
+<l>Mijn Heer</l>
+<l>Ik ben u onderdaan Bosardo, die van veer</l>
+<l>Hier tot u achtbaerheit alleenig ben gekomen</l>
+<l>Om hulp in mijn ellendt. <hi rend="i">Ier.</hi> Bosardo wel gekomen,</l>
+<l>Sijt gy Bosardo, die de snel-gevlekte Faem</l>
+<l>In Schilder-kunst verheft zoo dapper sijnen naem?</l>
+<l>Sijt gy dien Schilder, die de Beelden na het leven</l>
+<l>Kunt zulken schoonen trek en zulken verwe geven?</l>
+<l>Gy komt ter rechter tijdt, om door u groote kunst</l>
+<l>Aen uwen wil, mijn macht, mijn wille, en mijn gunst</l>
+<l>Gantsch en geheel en al te trecken en te binden</l>
+<l>Aen u, als aen de best' van alle mijne vrinden.</l>
+<l>Komt hier Bosardo, komt met my in desen Hof,</l>
+<l>En gaen wy t'samen zoo de paden op en of,</l>
+<l>En laet u groote geest, ontbonden, sich verkloeken,</l>
+<l>Om alles wat zy noit in konst en vont, te zoeken:</l>
+<l>Want ik beb goede stof, en Acte, die zoo streelt</l>
+<l>Een Schilders groote geest, een enberisp'lijk Beelt,</l>
+<l>Wiens schoonheit en wiens deugt heeft verre overtroffen</l>
+<l>De deugt en macht van die, die 't meeste daer van stoffen.</l>
+<l>Komt hier Bosardo, staet, en schildert na mijn sin</l>
+<l>Een stuk, brengt daer te pas dese History in:</l>
+<l>Den strijdt die Spanjen wan laetst van de Portugezen,</l>
+<l>Daer in Lorens verloor de glory van te wesen</l>
+<l>Het puyk der Ridderschap, die schildert in 't verschiet:</l>
+<l>Brengt aerdig in het klein, soo dat men 't nauwlijks siet,'</l>
+<l>Hoe hem Oratius gevangen brocht den Koning,</l>
+<l>En met Don Pedro twist, en kreeg tot een belooning</l>
+<l>De eer en zijn rantsoen; daer achter sit de Nijt,</l>
+<l>Die voor den Spaenschen Prins in sijne hielen bijt,</l>
+<pb n="52"/>
+<l>Wat nader maekt op 't schoonst en sinnelijk na 't leven</l>
+<l>Vrouw Bellemperia, wiens schoonheit ook verheven</l>
+<l>Lorenzo heeft vervoert, zoo verre, dat hy niet,</l>
+<l>Dan aen haer schoonheit maer siju ziel ten offer biet.</l>
+<l>Oratius wiens beelt in schoonheit en in deugden,</l>
+<l>Mijn oude koude ziel alleenig maer verheugden,</l>
+<l>Die speelt een droeve rol, dies voert hem op het plat,</l>
+<l>En speelt met hem alleen den inhoudt van dit Blat,</l>
+<l>Zijn liefde, sijnen loon, sijn vreugde, zijn bederven,</l>
+<l>Sijn angst, sijn lijden, en sijn al te bitter sterven,</l>
+<l>Dat beeld my levend uit; en hier aen desen boom,</l>
+<l>Verhangt hem: schildert my dat ik ook derwaeros koom</l>
+<l>Met toorts-licht in de hant, verbaest en met bewegen,</l>
+<l>Ontroert en gantsch ontstelt, angstvallig en verlegen,</l>
+<l>Verschrikt door het geluit van een benauwde stem,</l>
+<l>Die riep, Jeronimo: en dat ik in de klem</l>
+<l>Van schrik en vreese my beweegt vont, met erbarmen</l>
+<l>Hem af sneé, en beving in dese mijne armen:</l>
+<l>Dat grouwel mijne ziel omcingeld', doen ik zag</l>
+<l>Dat mijnen Soon vermoort in mijne armen lag;</l>
+<l>Dat raserny my hadt zoo vreeselijk ontfangen,</l>
+<l>Dat ik my zonder wraek schier zelver hadt verhangen,</l>
+<l>'t En waer dat Izabel, mijn Huisvrouw, mijn terstont</l>
+<l>Ter Boomgaert volgde, en in zulken lijden vondt.</l>
+<l>Daer schildert, hoe ik ween, en hoe uit dese oogen</l>
+<l>Bedroefde tramen my van enkel droefheit vloogen:</l>
+<l>Hoe Izabella treurt, hoe ik mijn handen wrong.</l>
+<l>En hoe van harde rouw mijn ziel in 't lichaem sprong.</l>
+<l>Hoe zucht op zucht verwekt beroering; hoe wy beiden</l>
+<l>Elk-aer bewegen om maer van de ziel te scheiden:</l>
+<l>Mijn oogen brandig fluks de Sterren in het Oost</l>
+<l>Met toorne dreigen doet, te straffen op het boost,</l>
+<l>Om dat zy zonder rouw mijn hartenleedt besagen,</l>
+<l>En toonden haer daer in, in 't minste niet verslagen.</l>
+<l>De Boomen, doen verschrikt, my vreesen, om dat ik</l>
+<l>Al haer bederven swoer in eenen oogenblik,</l>
+<l>Sy klapten aen 't gebergt: mijn too me doet de Bergen</l>
+<l>Mijn trillende genae, en om vergeving vergen,</l>
+<pb n="53"/>
+<l>En kennen hare schult, om dat zy omgestort,</l>
+<l>Der Moorders leven niet beroofden op een kort:</l>
+<l>Dit schildert, en daer by, hoe wraaklust mijne hayren</l>
+<l>Doet rijsen, om met u ter hellen heen te varen,</l>
+<l>Hoe Plutoos donk're Rijk, den Hemel en de lucht</l>
+<l>Met swarte nevel dekt; en hoe dat sucht op sucht</l>
+<l>De Helsche Spookery my na staet: hoe de baren</l>
+<l>Van Styx om onsent wil haar stellen in 't bedaren:</l>
+<l>Hoe wraeke op den rug van uwe Reisbroer sit,</l>
+<l>En rijdt beyd' u en my, met roed', met spoor, en bit.</l></sp>
+<stage><hi rend="i">Hy dreygt Bosardo met den Ponjaert, en loopen t'samen verbaest binnen.
+<lb/>
+De Wraeke, zynde een Vrouw met een brandende Toorts in de slinker, en een Dagge in de rechter-handt. Bedrog, ook een Vrouw met een lelijk aengesicht, en verscheurde kleederen achter, maar voor wel toegemaekt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Wraek.</hi></speaker>
+<l>O aengenaem Bedrog, ik heb vast door u tergen,</l>
+<l>Met yver op en neer de Pyreneesche bergen,</l>
+<l>En hooge steilten van de Alpes door gerost,</l>
+<l>En heb des daegs de Son, en hare macht getrost</l>
+<l>Des nachts de duisternis, en hare swarte naarheid,</l>
+<l>Om uwen aanslag: spreekt, en segt my nu de waerheid</l>
+<l>Waar dat wy zijn, en of mijn loop haast einden moet?</l>
+<l>Want mijne ziel, en dag', die dorsten beid' na bloet.</l></sp>
+<sp>
+<speaker><hi rend="i">Bedrog.</hi></speaker>
+<l>Wy zijn in Spanjen, daer de weelde, pracht, en Hoven</l>
+<l>U overvloedt van bloedt, door haet en nijdt, beloven:</l>
+<l>Dus scherpt u Dagge flux, en moedigt uwe vuist,</l>
+<l>En blust de bloed-dorst, die in uwen boesem huist.</l></sp>
+<sp>
+<speaker><hi rend="i">Wraek.</hi></speaker>
+<l>Schoon of Italien gevoelde mijn vergrammen,</l>
+<l>In Bond-genooten, of in hare Eed'le Stammen,</l>
+<l>Ja mijn genegentheid genoegsaam scheen vertuit,</l>
+<l>Doen ik haar Eed'len en haar Princen roeiden uit;</l>
+<l>Soo brand ik nog na 't bloedt van Spanjen', dat voor desen</l>
+<l>Van al mijn schelmery een oorsaak plagt te wesen,</l>
+<pb n="54"/>
+<l>Om haer te plagen met de zelfde middel, die</l>
+<l>Ik meest tot hare dienst gebruikt heb, zonder wie</l>
+<l>De werelt wel in vreê, en rust hadt konnen leven:</l>
+<l>Beraedt u kort en goedt, en wilt my uitkomst geven.</l>
+<l>Voor wie gy my gebruikt, zeg op aen wie, en waer.</l></sp>
+<sp>
+<speaker><hi rend="i">Bed.</hi></speaker>
+<l>Den Marschalk van dit Rijk die wikt en weegt het swaer,</l>
+<l>Dat sijne Soon, de bloem der Spaensche Oorlogs-helden,</l>
+<l>Door Pedro en Lorens, sijn jonge leven velden,</l>
+<l>Soo eereloos en schelms, die met de pook en koort</l>
+<l>In sijnen eigen Hof hem hebben schelms vermoort.</l>
+<l>Onzeekerheit besit zijn hart, en doet hem dugten;</l>
+<l>Of hy 't met wanhoop lijdt, of u gebruikt; gerugten</l>
+<l>Beswalken sijn verstandt, en hy en weet niet hoe:</l>
+<l>Dies geeft u op den weg, en maekt u daer na toe,</l>
+<l>En geeft hem uwen raedt, besit fijn oude zielen,</l>
+<l>Beweegt hem: doet u best om Spanjen te vernielen.</l></sp>
+<sp>
+<speaker><hi rend="i">Wraek.</hi></speaker>
+<l>Leeft Sextus wederom, die 't Koninklijk geslagt</l>
+<l>Uit Romen bannen deedt, door moorden, vrouwen-kragt,</l>
+<l>Soo moet op nieuws weerom een Brutus zijn herboren.</l>
+<l>Schrikt Spanjen, Spanjen schrikt, u Kroone gaet verloren,</l>
+<l>Een tweede Brutus u, en uw en Zetel swoer,</l>
+<l>Eer dat hy wist dat ik hem sijnen sin beroer,</l>
+<l>Dat hoon en smaedt hem quelt, en dat sijn quel en plagen</l>
+<l>Niet rusten, voor hy u siet sijne quelling dragen!</l>
+<l>U Princen, die sijn leedt door moort en schelmery</l>
+<l>Bedreven, mosten voort: maer nu ik op sijn zy</l>
+<l>Mijn gunst gesworen heb, de middel die hem misten</l>
+<l>Om uit te voeren, die zal nu door mijne listen,</l>
+<l>Een open deur, een padt ontsluiten; want mijn lust</l>
+<l>Geen teugel temmen kan, voor dat hy is geblust.</l>
+<l>Soo oit mijn macht vermocht iets machtigs uit te voeren,</l>
+<l>Soo zal zy tot haer hulp nu Son en Maen beroeren,</l>
+<l>En wat ik al vermag blijkt al de werelt door,</l>
+<l>Italien, Vrankrijk in 't bysonder neemt eens voor</l>
+<l>Het machtig Romen, dat de werelt kan betoomen,</l>
+<l>Wat heeft dat schandt en smaedt om uwent wil bekomen?</l>
+<l>Wat leê het niet, doe ik drie zielen maer besat,</l>
+<l>Waer door ik worp om veer de vryheit van de Stadt:</l>
+<pb n="55"/>
+<l>De doodt van Caesar heeft Octavius doen willen,</l>
+<l>Dat Brutus niet alleen, maer Romen zelfs zouw stillen</l>
+<l>Met haren ondergang, sijn opgeheven wraek:</l>
+<l>Doen hadt ik mijne lust, doen hadt ik mijn vermaek.</l>
+<l>Doen 't Roomsche Volk verjaegt, en hare Wet geschonden,</l>
+<l>De Vaders ballingen, doen 't krijgs-volk ongebonden</l>
+<l>Het Capitolium verwoest', en droegen uyt</l>
+<l>Den Tabbert, bijl en trots tot een verw aenden buit:</l>
+<l>Doen Tempel. Tempelsdienst, en 't heylig Autaer stooken,</l>
+<l>Tot Caesars uitvaert, most het bloed der Burgers smooken:</l>
+<l>Doen eereloos elk een sijn eedt, en trouwe brak:</l>
+<l>Doen vry-gelaten, en d'onvrye Slave strak,</l>
+<l>Als hy sijn Heer verriet, was vry en ongebonden:</l>
+<l>Doen trouw gebannen was, en Recht en Wet geschonden</l>
+<l>Doen Cicero, wiens tong en penne 't Roomsch gebiedt</l>
+<l>Een Pylaer strekten, zelfs den ouden kop daer liet.</l>
+<l>Hy meendt in 't eerst, ik was flauw, loom, en niet so vierig,</l>
+<l>Als hy my vont in 't eindt; men noemt my wraek, en gierig,</l>
+<l>Soo ben ik ook, want voort soo haest ik had de lugt,</l>
+<l>Dat hy fich over Zee wou bergen met de vlugt,</l>
+<l>En dat Neptunus hem bedwongen hadt te keeren,</l>
+<l>En hy door Cerus gunst my waenden af te weeren:</l>
+<l>Dat spook der Vogelen, als Goddelijke boon,</l>
+<l>Hem wekten daer hy sliep; en dat om gunst en loon,</l>
+<l>Sijn Huisgenoten trouw was moeylijk aen te tasten,</l>
+<l>Had ik een gaeuwe vondt, daer ik hem meê verrasten</l>
+<l>Door u bestelden ik, dat ydel vrees het hart</l>
+<l>Van sijne Wachters heeft tot vluchten toe verwart;</l>
+<l>En door de gierigheit van Laena, die hy 't leven</l>
+<l>Door sijn welspreekentheit voor desen hadt gegeven,</l>
+<l>Met een vermoeden moedt, hem by den hals gevat,</l>
+<l>Met sijnen degen treft, en miste; voorts soo spat,</l>
+<l>Het bloedt ter ader uyt: den onden grijsaert klaegden,</l>
+<l>En sloeg sijn oogen op: hy kendt hem, en hy vraegden,</l>
+<l>Met een ontroerde geest, en zijt gy Laena niet?</l>
+<l>Die ben ik, seidt hy: hoe, is my van u geschiet</l>
+<l>'t Geen ik van geen Romein gelooft had te geschieden:</l>
+<l>Dit niet alleen, maer meer, gy zult door het gebieden</l>
+<pb n="56"/>
+<l>Van Marc Antonius, sprak den vervloekten fielt,</l>
+<l>Door dese handt terstont onthalst zijn, en ontzielt.</l>
+<l>Hoe, zey den and'ren weer, is eer en schaemt verbannen</l>
+<l>Een trouw met schelmery te samen aengespannen,</l>
+<l>So is 't met my gedaen: ô eer-vergete guit,</l>
+<l>Is 't u vergeten, hoe ik laetst dy redden uit,</l>
+<l>Een schandelijke doot, doen dijne schelmeryen</l>
+<l>Dy deden voor de bank des rechters schult belyen.</l>
+<l>Hadt doen mijn tong haer konst gespaert tot u verderf,</l>
+<l>Ik leedt niet dat ik nu door uwe handen sterf.</l>
+<l>Dat vorder niet, zeidt hy, 't verleden is vergeten,</l>
+<l>En met zoo heeft hy 't hooft den ouden afgesmeten,</l>
+<l>Wiens silver hair my zelf deê schricken, doe ik zag</l>
+<l>Dat daer het wijsste hooft der Stad ter neder lag.</l>
+<l>Antonius ten dienst heb ik hem zoo verslagen.</l></sp>
+<sp>
+<speaker><hi rend="i">Bedrog.</hi></speaker>
+<l>Ik heb in al u doen een dapper welbehagen,</l>
+<l>Dan nu in dese tijdt is 't noodig dat gy gaet,</l>
+<l>En geef den Marschalk moedt, en deelt hem uwen raedt,</l>
+<l>En openbaert hem hoe en wat gelegentheiden</l>
+<l>Voor handen zijn, om wel sijn aenslag te bereiden.</l></sp>
+<sp>
+<speaker><hi rend="i">Wraek.</hi></speaker>
+<l>Ick zal hem op een kort bewegen, en daer by</l>
+<l>Ontleden stuk voor stuk van al de schelmery.</l>
+<stage><hi rend="i">Gaet binnen, en komt weder uyt sonder Dagge</hi>.</stage>
+<l>Hy heeft de leus al weg, en ook de fin gevat,</l>
+<l>En mits ik hem in 't oor iets in geluistert hadt,</l>
+<l>Soo sprong hy op verschrikt; ik stak na u gebieden</l>
+<l>Mijn dagge in fijn vuist, en stelde my tot vlieden</l>
+<l>Om u te vinden, voort, en laet ons vluchten eer</l>
+<l>Hy u gewaer wort, en in 't oog krijgt.</l></sp>
+<sp>
+<speaker><hi rend="i">Bedrog.</hi></speaker>
+<l>Spreekt niet meer,</l>
+<l>En gaet gy daer gy waent u werk te konnen geven,</l>
+<l>Ik voeg my na het Hof, daer ik gewoonlijk neven</l>
+<l>Den Koninglijken Stoel mijn beste vrunden set,</l>
+<l>Daer ik den Velt-Heer vly, den Raedt met Gelt besmet,</l>
+<l>Des Burgers beurs ontbloot, des Voorspraeks zake vulle.</l>
+<pb n="57"/>
+<stage><hi rend="i">Ieronimo uyt met de Dagge van de Wraek in de handt</hi>.</stage>
+<l>Siet ginder waer hy komt, hy maekt alreê den dullen!</l>
+<l>Ik wensch u uwen wil tot op een ander tijdt</l></sp>
+<sp>
+<speaker><hi rend="i">Wraek.</hi></speaker>
+<l>Ik wensch dat onrust u staeg in de hielen bijt.</l></sp>
+<stage><hi rend="i">binnen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Ieronimo haer siende, vlucht, en spreekt</hi>.</speaker>
+<l>Ey vlugt niet, maer blijft staen, ô raets-vrou! die met hijgen</l>
+<l>Mijn harte kloppen doet, met hoop van wraek te krijgen:</l>
+<l>Ey vlugt niet, maer ontdekt my uwe meening vry:</l>
+<l>Hoe is 't hier, is het droom, of is het spookery!</l>
+<l>Gy vlugt, en laet my staen in meerder duisteroissen</l>
+<l>Dan ik te voren was, met mijn beswaert gewissen:</l>
+<l>Wat helpt my desc Dagg', wat baet my uwen raet,</l>
+<l>Soo gy de voorder rest voor my verborgen laet.</l>
+<l>O hemel! zal dan leet op leet mijn harte quellen,</l>
+<l>En dees bekoring steets op nieu mijn geest ontstellen,</l>
+<l>Soo is mijn ongeluk veel swaerder als mijn kragt;</l>
+<l>Dan als ik my bedenk, en op haer reden acht,</l>
+<l>Soo heb ik ongelijk; ik ben, zey zy, de Wraeke,</l>
+<l>Tot u gesonden om te redden uwe zaeke,</l>
+<l>Neemt dese Dagge aen, op morgen wilt u spoen</l>
+<l>Ten Hoof, let op u stuk, ik raedt het u ten goen,</l>
+<l>Want dese Dagge zal u sonder missen morgen</l>
+<l>U droefheid einden, en een straffe wraek besorgen;</l>
+<l>Past dat gy wacker zijt, en dapperheit gebruikt,</l>
+<l>Op dat gelegentheit u aenslag niet ontduikt:</l>
+<l>En laet nieuwsgierigheit u sinnen niet bekoren,</l>
+<l>Om meerder van de zaek uit mijne mont te hooren,</l>
+<l>Maer volgt gy mijnen raedt, gaet derwaerts, en de tijdt</l>
+<l>Die leert u voor de rest: en mit was ik se quijt.</l>
+<l>Soud droom of spooken zijn? de droom bedriegt, de spoken</l>
+<l>Zijn yd'le grillen, die ik dikmael heb weersproken.</l>
+<l>Het zy dan wat het zy, voor eind'lijk besluit</l>
+<l>Ga ik ten Hoof, en sie of 't iet, of niet beduit.</l></sp>
+<stage><hi rend="i">Binnen</hi>.</stage>
+<div type="scene">
+<pb n="58"/>
+<head rend="h4">Eerste vertoning.</head>
+<stage><hi rend="i">Hoe den Koning van Portugael van de reyse komt, en van 't gantsche Hof verwelkomt wort</hi>.</stage>
+</div>
+<div type="scene">
+<head rend="h4">Tweede vertoning.</head>
+<stage><hi rend="i">Hoe Vreede tusschen beyde Koningen bevestigt wort</hi>.</stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde vertoning.</head>
+<stage><hi rend="i">Hoe het Houwelijk van Don Lorenzo en Bellemperia, in presentie van beyde Koningen en het gantsche Hof, door den Bisschop bevestigt wort</hi>.</stage>
+<stage><hi rend="i">Don Pedro, en Don Lorenzo</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Dat Bacchus desen dach ter eeren zy geheiligt,</l>
+<l>En Mars en Venus t'saam ter eeren en geveiligt</l>
+<l>In haer vereeniging te leiden tot de tent,</l>
+<l>Daer zy op 't sachte bedt het minnen zijn gewent.</l>
+<l>Nu siet gy Heer hoe 't luk met arbeit wort verkregen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Door uwe gunst, en door des Hemels milde zegen,</l>
+<l>Verkrijg ik meer als wensch; en my en schort niet, dan</l>
+<l>Dat ik my na waerdy niet dankbaer toonen kan.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>U heusheit overwint my, en u vrientschap beiden:</l>
+<l>Dan 't is nu tijdt om vreugt en blijdschap te bereiden:</l>
+<l>Ik wenschte dat men iets kon vinden om het Hof,</l>
+<l>En 't Koninglijk gevolg met vreugden en met lof</l>
+<l>Op een of and're wijs in vriendschap te vermaken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Sulks placht wel eer te sijn in diergelijke zaken:</l>
+<l>En kon men nu weerom iets vinden, 't waer een lust.</l>
+<l>Wat dunkt u aerdigst om te worden toegerust?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Ik weet niet.</l>
+<stage><hi rend="i">Ieronimo met mantel en kleeding, bedaert zijnde, uyt</hi>.</stage>
+<l>Dan siet den Marschalk, die voor desen</l>
+<l>In sijnen jongen tijdt vermaeklijk placht te wesen,</l>
+<pb n="59"/>
+<l>En yder een met vreugt en vrolijkheit verwon;</l>
+<l>Ik roep hem, of hy ons misschien iets vinden kon.</l>
+<l>Signoor Jeronimo, hoe is 't, hoe staet het leven?</l>
+<l>Solt gy u desen dach tot vreugde meé begeven.</l>
+<l>Of zal zwaermoedigheit weer quellen uwe ziel!</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Dat is na dat het quam, en na den teerling viel:</l>
+<l>'t Kon wesen dat my vreugt soo onverwacht ontmoeten,</l>
+<l>Dat ik swaermoedigheit liet finken voor mijn voeten?</l>
+<l>Of dat bekering my soo haestig overquam,</l>
+<l>Dat ik de vreugt verliet, en 't oude wesen nam:</l>
+<l>Maer wat beweegt u Heer, om my hier na te vragen?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Mijn vrage strekt een beê, ey laetse u behagen:</l>
+<l>Gy siet dat desen dach van yder een tot vreugt</l>
+<l>Geviert wert, en ik bidt, dat gy u meê verheugt.</l></sp>
+<sp>
+<speaker><hi rend="i">D.I.</hi></speaker>
+<l>Een anders vreugt is ligt, mijn droefheit swaer en magtig</l>
+<l>En geen gemeene vreugt en blijdschap is soo kragtig,</l>
+<l>Dat zy die weeren kan; dan soo ik vrolijk wort,</l>
+<l>Soo zal gemeene vreugt verand'ren op een kort.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Weg met die grillen, weg: gy siet elk een is lustig,</l>
+<l>Sijt ook soo, neemt een moedt, weest vrolijk, en sijt rustig,</l>
+<l>Ik heb soo dadelijk den Bruidegom geseit,</l>
+<l>Dat ik wel wenschte dat ik met bevalligheit</l>
+<l>Iets geestigs had, om op de Bruiloft, hem ter eeren,</l>
+<l>Te brengen voor den dach; nu zou ik wel begeeren,</l>
+<l>Alsoo gy in u tijdt vermogent waert, en mildt</l>
+<l>In zulke zaken, dat gy ons nu helpen wilt</l>
+<l>Aen iets dat vrolijk mocht de Koningen vermaken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De jaren hebben my dees dingen leeren staken,</l>
+<l>Ten is mijn werk niet meer, want ik ben out en kout.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Ik bid u weigert niet.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Indien gy my vertrout,</l>
+<l>Geloof ik ben allang die grillen af gestorven,</l>
+<l>Soo dat ik my van zulks niet onderwinden dorven.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Wy weten beter, en verzoeken voor het lest,</l>
+<l>Laet u bewegen, en zegt maer, wat dunkt u best?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ior.</hi></speaker>
+<l>Waer ik u dienst kan doen, daer ben ik toe genegen;</l>
+<l>Maer hier in dese zaek raekt gy met my verlegen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wy zorgen daer niet voor, beveelt gy ons de rest,</l>
+<pb n="60"/>
+<l>En denkt wat tot vermaek nu dienen zal voor best.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Wat dunkt u Vorsten goet?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>My dunkt een Masquerade</l>
+<l>Met statelijke dans.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Dat schijnt niet ongerade,</l>
+<l>Wanneer met goet Musijk de held're stem daer by,</l>
+<l>De snaren en de tromp maer helpt en gunstig zy:</l>
+<l>Dan wat u best gevalt, dat zal ons wel gevallen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Musijk en dient ons niet, want niemant van ons allen</l>
+<l>En dient de Boven-zang: maer zo gy immers wilt</l>
+<l>Dat uwen yver zy door mijnen raedt gestilt,</l>
+<l>Soo rae ik tot iets goets, ik rae tot een Comedy,</l>
+<l>Tot vreugt, of tot vermaek, een deftige Tragedy:</l>
+<l>Want snaren, en den dans, sijn Konsten reed'lijk zoet,</l>
+<l>Maar defe dienen bey tot wetenschappen goet.</l>
+<l>En 't was van over ouds de Koningen behagelijk,</l>
+<l>De Wijsen aangenaam, en t'aller-tijdt verdragelijk,</l>
+<l>Dat iets van ouds geschiedt, vertoont wiert als of 't was;</l>
+<l>En dat men op 't Toneel, als in een Spiegel las:</l>
+<l>En 't zal de Koningen, en al het Hof-vermaeken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Gevalt het u, ons meê, wat raet om aen te raeken?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Doen ik studeerde, heb ik eens op rijm gestelt</l>
+<l>Een Spel, dat doen ter tijdt ik wilde met gewelt</l>
+<l>Te Salamanque dat de borsten souden speelen,</l>
+<l>Om dat den Inhoudt was na mijnen sin ten deelen:</l>
+<l>Dan 't haestig sterven van mijn Vader sulks belet,</l>
+<l>En zedert heb ik dat uit mijnen sin geset:</l>
+<l>Maer zo gy lustig zijt ter bede van u beiden,</l>
+<l>Sal ik het zo terstont, tot speelen noch bereiden.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wat is den Inhoudt?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Dit: Mustapha, die de Stadt.</l>
+<l>Van Rhodis met gewelt verovert heeft gehadt,</l>
+<l>En daar een eed'le Maegt Perseda had bekomen,</l>
+<l>Die hy met sijn vertrek na Thunis heeft genomen,</l>
+<l>Wiens schoonheid dagt hem sulks, dat hy haar waerdig acht</l>
+<l>Soliman tot een Hoer te worden toegebracht:</l>
+<l>Den Turcksen Keiser, die verlieft om hare minne,</l>
+<l>Doet alles wat by mach, en kan gantsch niet verwinne.</l>
+<pb n="61"/>
+<l>Door raedt van Mustapha, neemt eenen Rhodiaen,</l>
+<l>Die, tot sijn ongeluk, in d'oorlog was gevaên,</l>
+<l>Te bruiken, om de Maegt door eenderleye sprakeen</l>
+<l>Meer te bewegen, om tot sijnen wilte raeken:</l>
+<l>Dan dese, die voor lang met haer was ondertrouwt,</l>
+<l>Vliegt in haer armen, daer zy hem beslooten houdt;</l>
+<l>Soliman doet hem daer door Mustapha door-steken.</l>
+<l>Perseda, om haer eer en Bruidegom te wreeken,</l>
+<l>In schijn van vriendschap, helpt den Keiser om den hals,</l>
+<l>En voort haer zelven ook: en Mustapha, die vals</l>
+<l>Den aenslach brouwde, is het ongeluk ontsprongen:</l>
+<l>Hier is het eindt, en dit hebt gy my af gedrongen,</l>
+<l>Gevalt het u of niet?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ler.</hi></speaker>
+<l>'t Gevalt my wonder wel.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Het is of gy u zelfs versleeten hadt in 't Spel</l>
+<l>En rymery: wat raedt om volk die 't speelen?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Heden</l>
+<l>Hebt gy my overstemt, ik wil dat u mijn beden</l>
+<l>Bewegen wederom; ik bidt dat gy, en hy</l>
+<l>My t'samen doet de eer, te speelen neffens my.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Hoe nu wy speelders zijn gelijk Comedjanten,</l>
+<l>En Kameristen, of als zulke lichte quanten?</l>
+<l>Dat past ons niet, ô neen! ik ben dat niet van sin.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Noch ik Jeronimo, en beeld u dat niet in:</l>
+<l>Maer wilt gy uit ons volk na uwen sin verkiesen</l>
+<l>Dat staet in uwe keur.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Wat mach ik tijdt verliesen</l>
+<l>In dese voddery: wat waent gy Vorsten, dat</l>
+<l>Ik my in dese konst zoo slecht en schand'lijk schat,</l>
+<l>Dat ik met Hoofs-gespuis, en zulken schuim van boeven,</l>
+<l>My en mijn Treur-spel zou om uwent wil behoeven,</l>
+<l>Te speelen? of dat gy in uwe achtbaerheit</l>
+<l>Door 't speelen zijt verkleint, en denkt dat niet; verbeit</l>
+<l>Tot dat ik u verzoek: maer houdt my dat ten goeden,</l>
+<l>Dat grooter als gy zijt, voor desen niet vermoeden</l>
+<l>Dat schandt of oneer was in 't speelen van iets goets:</l>
+<l>Maer wel dat hoovaerdy steekt in de botste bloedts.</l>
+<l>De grootste Koningen, de Keisers die voor desen</l>
+<l>Het Machtig Romen heerst', en Spanjen dede vreesen,</l>
+<pb n="62"/>
+<l>Die heest ook zelfs gerijmt, gespeelt, en ook vertoont</l>
+<l>Dat eer en konst in rijm, en by de speelen woont.</l>
+<l>En zoudt gy nu tot smaedt van haer, en mijne werken,</l>
+<l>Wanneer gy speelen zoud, vermeenen te bemerken</l>
+<l>Dat uwe achtbaerheit verkleinde: zoo is 't best</l>
+<l>Dat ik my hou gerust, adieu goenacht voor 't lest.</l></sp>
+<stage><hi rend="i">Hy maekt mijne em te gaen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Neen; neen Jeronimo, dat is 't niet dat wy willen.</l>
+<l>Bedaertu, loopt soo niet, en wilt u gramschap stillen.</l>
+<stage><hi rend="i">Sy houden hem vast</hi>.</stage>
+<l>En voorder, zoo gy wilt, wy zullen neffen u,</l>
+<l>Ons voegen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Blijft doch staen, en weest doch niet soo schu,</l>
+<l>Ik zal om uwent wil my ook hier toe gebruiken.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>En trekt soo niet, ik sal 't ontworstlen noch ontduiken:</l>
+<l>Dan zegt hoe dat gy wilt?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Wy hebben 't u geseit.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Soo is u desen dach wraek en bederf bereit.</l>
+<stage><hi rend="i">Spreekt binnens monts</hi>.</stage>
+<l>Komt dan gy Heeren, komt, hier heb ik al de rollen;</l>
+<l>Wy willen lustig zijn, en desen avont hollen,</l>
+<l>Gelijk de Paerden die te veel by haver zijn.</l>
+<l>Soo willen wy ons ook verheugen by de wijn:</l>
+<l>Komt elk verkieft sijn sin.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Schikt gy 't na u vernoegen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Neemt wat u lust, ik zal na 't overschot my voegen,</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Maekt gy 't na uwen sin.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Ik zal dan, zoo ik kan,</l>
+<l>Het schicken zoo 't behoort: speelt gy voor Soliman:</l>
+<stage><hi rend="i">Geeft Don Pedro de Rol</hi>.</stage>
+<l>Want gy van stam, tot stam, te heerschen schijnt geboren.</l>
+<l>En gy, Erastus, om de Juffers te bekoren;</l>
+<stage><hi rend="i">Hy geeft Lorenzo de Rol.</hi></stage>
+<l>Want desen dach, en meest ú daden, wijsen uit,</l>
+<l>Dat Hoofsche vleyery, en min, na mijn besluit,</l>
+<l>Met u geboren zijn.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Wat zalder voor u blijven?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Ik zal het overschot der Rollen voort bedrijven,</l>
+<pb n="63"/>
+<l>En speelen voor Mustaph: die met een straffe wraek,</l>
+<l>Solimans lijden wreekt, met ongemeen vermaek;</l>
+<l>En daer meê is het spel gemant, en heel volkomen,</l>
+<l>Maer nu ik my bedenk, ik heb wel voorgenômen</l>
+<l>Te bouwen, maer vergeet het nodigst datter is,</l>
+<l>Dat is het Fondament, en nu is alles mis:</l>
+<l>My schort een Vrouwe, om Perzedes rol te speelen:</l>
+<l>En zonder die is 't niet, en al maér werk ten deelen:</l>
+<l>Dies zoo het mooglijk waer, dat Bellemperia</l>
+<l>U Suster, en u Bruidt, met ons ter Kamer ga,</l>
+<l>Soo zal ik dan met zoo doorluchtige Persoonen,</l>
+<l>Yet ongemeens, en vreemts de Koningen vertoonen.</l>
+<l>Beweegt haer, en gy zult van desen avont fien,</l>
+<l>Dat niemant, die daer leeft, in Spanjen zach geschiên,</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Kom gaen wy na de Bruidt.</l></sp>
+<stage><hi rend="i">Billemperia uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Siet daer, zoo komt zy even.</l>
+<l>Lief Bellemperia gy moet het ons vergeven:</l>
+<l>Wy bidden dat gy ons ten goeden houd, dat wy</l>
+<l>Van desen avont ons verheugen; en daer by,</l>
+<l>Dat gy u neffens ons tot speelen laet bewegen;</l>
+<l>De Marschalk heeft ons zelfs daer toe alree verkregen.</l>
+<l>Hy is gesint, iets vreemts te brengen voor den dach,</l>
+<l>Van speelen, rymery; en zoo hy gaerne zach</l>
+<l>Dat gy u neffens ons gebruiken liet, zijn bede</l>
+<l>Is dat gy met ons speelt.</l></sp>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Ik ben daer meê te vrede:</l>
+<l>Mits dat ik neffens u daer door niet wert verleit</l>
+<l>Tot schande, of tot spot, noch buiten eerbaerheit.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Mevrouwe, zorgt dat niet: oneer, spot noch schanden</l>
+<l>En is 'er mee gemengt; 't is kortwijl, die de banden</l>
+<l>Van uwe Bruilofts-feest verstricken, mits de vreugt</l>
+<l>De liefde moedig maekt, en 't Bruilofs-bedt verheugt.</l>
+<stage><hi rend="i">Hy geeft Bellemperia de Rol</hi>.</stage>
+<l>Neemt dese Rol, en ik zal alles voort ter eeren</l>
+<l>Bestellen watter schort.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Lor.</hi></speaker>
+<l>Wy zullen vast gaen leeren</l>
+<pb n="64"/>
+<l>De rollen die gy ons bevolen hebt.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>'t Waer schant</l>
+<l>Voor Mannen zoo als gy, van herssens en verstant,</l>
+<l>Om veertig, vijftig vaersen zoo veel tijdt te slijten.</l>
+<l>Indien het iemant wist, men zou het ons verwijtent</l>
+<l>Ik heb wel eer gekent een slechte Kamerist,</l>
+<l>Dit, als hy maer de sin van een Comedy wist,</l>
+<l>En zonder missen voort zoo een Comedy speelde,</l>
+<l>En souden wy veel tijdts, fatzoens, en veel beslach,</l>
+<l>Om zoo een kleine zaek, nu halen voor den dach,</l>
+<l>Dat was een oneer ô neen! voegt u na binnen.</l>
+<l>En elk besorgt het zijn, en laet ons voort beginnen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ped.</hi></speaker>
+<l>Wy zijn te vreeden.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>t'Sa, t'sa, en elk een aen 't zijn,</l>
+<l>En sooder noch iets schort, dat legt gy maer op mijn.</l></sp>
+<stage><hi rend="i">Gaen t'samen binnen, maer Bellemperia blijft en trekt Ieronime te rug</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Bell.</hi></speaker>
+<l>Jeronimo een woort, en houd het my ten goeden,</l>
+<l>Indien het u gevalt, ik kan my niet bevroeden,</l>
+<l>Hoe dat kleinhertigheit zoo grooten ziel besit,</l>
+<l>Als d'uwe schijnt te zijn: ik bidt u, zegt my dit:</l>
+<l>Hoe kan zoo braven ziel verswelgen, en verkroppen,</l>
+<l>Dat schelmen tot haer smaet, haer eer, en luister stoppen?</l>
+<l>Hoe kan de moordt, geschiet aen zoo een Soon, als gy</l>
+<l>Verloor, dech zonder wraek vergeten zijn, en vry</l>
+<l>Van straffen ondergang, van een zoo dapp'ren Vader?</l>
+<l>Wreek u Oratii doodt; want niemant heeft hy nader</l>
+<l>Als u, en my: de moordt die heeft mijn Broer begaen,</l>
+<l>En hy, die door bedwang mijn Bruigom is; vang aen</l>
+<l>En wreekt sijn doodt- of straf, en ondergang, die dreigen</l>
+<l>U, en de moorders bey, haer tot de wraek te neigen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Eerwaerdige Princes, wiens dapperheyt betoont,</l>
+<l>Dat recht een eed'le ziel in uwen boesem woont,</l>
+<l>Verschoont mijn lang vertrek: ik hadt my al gewrooken,</l>
+<l>Hadt my de zeekerheit der misdaet niet ontbrooken:</l>
+<l>Dan nu ik zeeker ben van alles, zijt gewis,</l>
+<pb n="65"/>
+<l>Dat dit versierde spel, mijn wraek, en uitvaert is.</l>
+<l>Ik bidt u, stelt u hert gerust, en weest te vreeden:</l>
+<l>Want zoo gy moedig zijt, zoo zullen wy noch heden,</l>
+<l>Tot wraek, en straf, te saem zoo wel besteen den dach,</l>
+<l>Tot onser beiden rust, als oit geschieden mach.</l>
+<l>De moorders, en de tijdt, die konnen nu niet lijden</l>
+<l>Dat ik u meerder zeg: dan gaen wy wat ter zijden,</l>
+<l>En alles wat ik heb besloten, zal ik voort</l>
+<l>U zeggen, gaen wy in, eer dat ons iemant hoort.</l></sp>
+<stage><hi rend="i">Binnen.
+<lb/>
+De Gordijnen neer, De Koning van Spanjen, met den Koning van Portugael, worden de Stoelen geset in den uyttersten hoek van 't Toneel, aen de Zuyd-zijde, alwaer den hertog van Kastilien, met noch twee Stomme Edelen, sonder meer achter de Stoel staen.
+<lb/>
+Soliman sit als Turks Keyser. Mustapha brengt Perseda gevangen. Speelen de Tragedy</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Gy, die de Marmor-vloer, en 's Rijks verheven Tronen;</l>
+<l>Met heerlijkheid betreet, by wie de machten wonen,</l>
+<l>Die 't Christen volk verschrikt, vermits gy haer de wet</l>
+<l>Na uwen wille stelt, ter eeren Mahomet:</l>
+<l>Ik breng u zegen toe: ik heb den last voltogen,</l>
+<l>Die gy my gaeft, en siet de blijken voor u oogen,</l>
+<l>Dit is het overschot van Rhodis, dat alleen</l>
+<l>Verschoont is, om met dienst haer schoonheit te besteen</l>
+<l>Aen uwe Majesteit.</l></sp>
+<stage><hi rend="i">Sy wort los gelaten</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Sol.</hi></speaker>
+<l>Ontslaet haer uyt de banden,</l>
+<l>Die mijne ziel alreê doet in haer liefde branden,</l>
+<l>O aengename Maegt! geluckig is den dach,</l>
+<l>Dat ik u schoonheid, eer, en vriendtschap toonen mach;</l>
+<l>Weest wel te vreên, en stelt gerust u hart en sinnen:</l>
+<l>En zoekt u beil alleen in mijne gunst te winnen.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Waer ik in eerbaerheid voldoen kan, zijt gewis,</l>
+<l>Dat hier u dienares, en trouwe dienstmaegt is.</l>
+<l>Maer waer mijn eerbaerheit gevaer loopt, onverwinlijk</l>
+<pb n="66"/>
+<l>Sal ik u tegenstaen, met lijf en ziel ontsinlijk.</l></sp>
+<sp>
+<speaker><hi rend="i">Sol.</hi></speaker>
+<l>Ontslaet u alle zorg: gy zijt alleen voor mijn:</l>
+<l>En in mijn liefde kan maer eer, en voordeel zijn.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Ik ken geen liefde, noch ik wil van u geen voordeel.</l></sp>
+<sp>
+<speaker><hi rend="i">Sol.</hi></speaker>
+<l>Gy dwaelt in alle bey, en spreekt zulks sonder oordeel;</l>
+<l>Ik bidt dat uwe liefd, om mijnent wil, de brandt</l>
+<l>Wil blussen, die gy hebt in mijne ziel geplant.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Laet af, en denkt niet, dat ik my zoo zal vergeten,</l>
+<l>Dat ik om uwent wil, besmettn mijn geweten.</l></sp>
+<sp>
+<speaker><hi rend="i">Sol.</hi></speaker>
+<l>Ik zal met heerlijk heid van alles u versien:</l>
+<l>Gy zult na uwen sin beheerschen en gebien</l>
+<l>Een stoet van Hofgesin, van Maegden, en van Vrouwen,</l>
+<l>Die ik u zal ten dienst doen staen, en onderhouwen.</l>
+<l>U schoonheid zal bepronkt met Peerlen en Gesteent,</l>
+<l>Onschat baer zijn verçiert, zoo gy u sin ver-eent</l>
+<l>Met mijne liefde. <hi rend="i">Pers.</hi> Hoort, al hadt gy Craesus schatten,</l>
+<l>Ja d'aldersoetste tong, en, of gy kondt omvatten,</l>
+<l>Met uwe handen, al wat dat bekoorlijk is:</l>
+<l>Of storten in mijn schoot: wat onbehoorlijk is:</l>
+<l>En zal ik evenwel om 't leven niet gedogen.</l></sp>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Slavinne toomt dien moedt: want 't is in ons vermogen</l>
+<l>U lijf en leven, dus bedenkt waer dat gy zijt:</l>
+<l>Bedaert, bedaert u wel; en schikt u na den tijdt.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Om lijf, noch leven, zal ik d' eerbaerheid verlaten.</l></sp>
+<sp>
+<speaker><hi rend="i">Sol.</hi></speaker>
+<l>U wil is kragteloos: u weyg'ren zou niet baten,</l>
+<l>Indien ik met gewelt, niet met bescheidentheid,</l>
+<l>Mijn liefde puur en vry op u en hadt geleit;</l>
+<l>Dies bidt ik, laet de liefd, die ik u draeg, bewegen</l>
+<l>U teere borst, en zijt u eigen heil niet tegen.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Grootmachtig Keyser, laet dit Vrouwelijke hart:</l>
+<l>Onledig van de schandt, van oneer en van smart:</l>
+<l>Laet uwe grootheid doch u zelven overwinnen,</l>
+<l>En met bescheidentheid beheerschen uwe sinnen,</l>
+<l>Oeloof, ik kon met een gerust gemoet</l>
+<l>U liefde blussen, Heer, ik viel u niet te voet,</l>
+<l>Om bidden, dat gy door u sinlijkheyt, maer eerder</l>
+<l>Dat die op my gestelt, verdubbele en meerder,</l>
+<l>Maer nu mijn teere ziel beswaert is, laet doch af,</l>
+<pb n="67"/>
+<l>Indien 't u mooglijk is; of voert my in mijn graf.</l></sp>
+<stage><hi rend="i">Mustapha, de Keyser op zijde trekkende, seyt</hi>:</stage>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Indien u Majesteit gesint is haer met met woorden,</l>
+<l>En niet met strengigheid te dwingen, zoo 't behoorden,</l>
+<l>Soo dunkt my, dat een slaef, die Christen is, die ik</l>
+<l>In 't oorlog heb gevaen, waer dienstig tot dit stik,</l>
+<l>Om u een dienst te doen, vermits haer beider spraken</l>
+<l>Eens zijn, en dies te meer hem daer toe dienstig maken.</l></sp>
+<sp>
+<speaker><hi rend="i">Solim.</hi></speaker>
+<l>Indien dat helpen kan, zoo brengt hem voor den dach.</l>
+<l>Perseda zoo mijn Liefd' u niet bekoren mach,</l>
+<stage><hi rend="i">Mustapha bi nnen</hi>,</stage>
+<l>En zoo noch goedt, noch staet, u niet en kan bewegen,</l>
+<l>Laet medelijden u beroeren; weest niet tegen</l>
+<l>Dat ik met sin, en hart, u liefde dragen moet:</l>
+<l>Want 't is geen losse min, maer liefde die 't my doet.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Ik bid, verschoont my Heer, en laet mijn woorden gelden.</l></sp>
+<stage><hi rend="i">Mustapha, met den Ridder Erastus, weder uyt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Doet zoo ik heb geseit, en wilt het niemant melden:</l>
+<l>Want zoo gy daer in mist, zoo zijt gy om den hals.</l></sp>
+<stage><hi rend="i">Erastus van Perseda gesien wesende, en hy haer ook siende, loopt tot haer: sy ontfangt hem, en seyt:</hi></stage>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>O Hemel! wat zal 't zijn? 't ontmoet mijn hier van als.</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>Perseda, is 't een droom, of zal het waerheid wesen?</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Zijt gy geen spook voor my, behoeft gy niet te vreesen?</l>
+<l>Ik ben Perseda, die Erastus was getrouw,</l>
+<l>En liefde swoer.</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>En ik Erastus, die de rouw.</l>
+<l>Van dat ik missen most u schoonheit, al mijn dagen</l>
+<l>Gesworen heb met leet te einden, en met klagen.</l></sp>
+<sp>
+<speaker><hi rend="i">Solim.</hi></speaker>
+<l>Wat schelm is desen, die door valsche vryery,</l>
+<l>Met onbeschaemtheit hier zoo stoutelijk voor my,</l>
+<l>Sijn wulps en geyle min bestaen derf te ontdecken,</l>
+<l>Tot mijner smaet: doorsteekt hem, sonder te vertrecken.</l></sp>
+<pb n="68"/>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Ontstelt u niet mijn Heer, maer houd u wat gerust.</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>Hoe lang en heb ik niet dees lieve mont gekust?</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Hoe lang en was ik niet zoo lieffelijk omvangen?</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>Hoe lang heb ik geleeft met hoopeloos verlangen?</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Hoe lang heeft my de zorg, met wanhoop, sucht op sucht</l>
+<l>Om uwent wil alleen, doen senden door de lucht?</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>Hoe lange was mijn vreugt, en vrolijkheid gekluistert?</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>Hoe lange was mijn liefd', en schoonheid als verduistert,</l>
+<l>Door rouw en hertenleet, om uwent wil alleen.</l></sp>
+<sp>
+<speaker><hi rend="i">Must.</hi></speaker>
+<l>Hoe lange zal het zijn: vaert voort den Duivel heen.</l>
+<stage><hi rend="i">Mustapha door steekt hem</hi>.</stage>
+<l>En kust daer lang genoeg.</l></sp>
+<sp>
+<speaker><hi rend="i">Erast.</hi></speaker>
+<l>Ei my! ik ben verraden;</l>
+<l>Ik ben gewont, ik sterf.</l></sp>
+<sp>
+<speaker><hi rend="i">Pers.</hi></speaker>
+<l>O Hemel! vol genaden,</l>
+<l>Waer blijft rechtvaerdigheid, die uwen troon besit?</l>
+<l>Versterkt my.</l></sp>
+<sp>
+<speaker><hi rend="i">Sy keert haer naer Soliman</hi>.</speaker>
+<l>O Tyran! nu gy in 't onderspit</l>
+<l>Verdoemt hebt, die mijn hart en sinnen hadt beseten,</l>
+<l>Vermeent gy, dat gy zult bekomen u vermeten?</l>
+<l>Maer 't is 'er ver van daen, de liefde die ik hem</l>
+<l>Gedragen heb, die geeft mijn handen moet en klem,</l>
+<l>Om met dit gladde stael sijn doodt aen u te wreeken.</l>
+<stage><hi rend="i">Sy doorsteekt Soliman</hi>.</stage>
+<l>En u vervloekte borst wraekgierig te doorsteeken.</l>
+<l>Wat zoo, zoo gaet het wel: voltrocken is de wraek:</l>
+<l>Nu sterf, mijn ziele, sterf in dese goede zaek.</l></sp>
+<stage><hi rend="i">Sy doorsteekt haer selven</hi>.</stage>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>O beelt vol heerlijkheid, en roem voor alle Vrouwen!</l>
+<l>O schepsel vol van deugt! 't is my alree berouwen,</l>
+<l>Dat ik u heb gebruikt tot uw en ondergang,</l>
+<l>En in de wraek gespilt u leven, dan eer lang</l>
+<l>Soo zal ik ook met u den stroom van Styx bevaren,</l>
+<l>En u voor alle leet, en alle rouw bewaren.</l>
+<pb n="69"/>
+<stage><hi rend="i">Hy keert sich tot 'et doode lichaem van Don Pedro, daer na tot Don Lorenzo</hi>.</stage>
+<l>Dan gy ontzielde romp, die door gewelt, en macht,</l>
+<l>Mijn Soon uit haet en nijt, om 't leven hebt gebracht.</l>
+<l>En gy, wiens geyle min beseten hadt, welks tochten</l>
+<l>U op de loopbaen van verwijfde bengels brochten,</l>
+<l>En u oneed'le ziel bewogen, om als schelm</l>
+<l>En niet in 't open velt, met Schilt, met Speer, en Helm,</l>
+<l>Na 't Ridderlijk gebruik, u vyandt te bevechten:</l>
+<l>Maer door een bloode moort, u zaeken te beslechten;</l>
+<l>Ik volg u op het spoor, ik ben niet eer gerust</l>
+<l>Voor dat mijn wraek is daer, zoo wel als hier, geblust,</l>
+<l>En ganschelijk voldaen, in eeuwigheid verlegen,</l>
+<l>Oneyndelijke pijn u ziele heeft verkregen.</l>
+<stage><hi rend="i">Hy haelt een strop uyt</hi>.</stage>
+<l>Komt dan, gy strenge strop, en eindigt mijn verdriet,</l>
+<l>Eer dat mijn oude ziel noch meerder leet geschiet.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast</hi></speaker>
+<l>Jeronimo houd op, en laet de Princen rijsen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De Princen die zijn dood, daer toe der Wormen spijsen.</l>
+<l>Gy Heeren meent misschien, dat ik u boert, en spel,</l>
+<l>Tot vreugden en vermaek, u hier te voren stel:</l>
+<l>Dan 't is wat anders.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spanj.</hi></speaker>
+<l>Ha!</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Merkt, luistert na mijn reden,</l>
+<l>Ik zal u openbaer de waerheid zeggen: heden</l>
+<l>Betoon ik, dat ik heb verloren mijnen Soon,</l>
+<l>Wiens deugden blonken voor den Koninklijke Throon.</l>
+<l>Sijn moort, die heeft mijn ziel met smart, en rou beladen,</l>
+<l>Soo dat ik swoer, sijn doodt met straf en ongenaden</l>
+<l>Te wreeken, en daer by, dat ik sijn lichaem niet</l>
+<l>Begraven zou, ten waer sijn wraeke was geschiet.</l>
+<stage><hi rend="i">Hy toont het Lichaem op 't Tooneel, in een doodt-kist, overeyndt staende, achter de gordijnen, die hy opschuyft</hi>.</stage>
+<l>Siet hier sijn Lichaem, siet sijn wonden die met tranen,</l>
+<l>Van tijt tot tijt, tot wraek mijn oude ziel vermanen:</l>
+<pb n="70"/>
+<l>En siet hier is de strop, die hem het leven nam,</l>
+<l>Op mijnen hals geparst: zijn vel is kout, en klam:</l>
+<l>En lust het u, gy moogt het zelver ook wel voelen.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Waer toe dees rasery? waer toe dit vreeslijk woele</l>
+<l>Segt wat gy zeggen wilt: maer helpt de Princen op.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Ik sweer u, Hartog, by dees mijnen grijsen kop.</l>
+<l>En alles wat 'er meer is waerdig by te sweeren,</l>
+<l>Dat ik de waerheid spreek: dies luistert toe, gy Heeren:</l>
+<l>Na dat den Krijgs-godt laest Castilien anderwerf</l>
+<l>Den zegen hadt gegunt, en Don Andreas sterf,</l>
+<l>U Dochter, en mijn Soon, wiens kuisheid, ongeschonden</l>
+<l>Haer harte had met liefd tot echt en trouw verbonden,</l>
+<l>Die vryden in mijn Hof, daer desen uwen Soon,</l>
+<l>Met Don Lorenzo, meest uit haet, en nijt om loon</l>
+<l>Den schelm bewogen, die mijn Soon met dese koorde</l>
+<l>Verhing, na dat hy hem in mijnen Hof vermoorde.</l>
+<l>U Dochter, die als ik ter harte nam de zaek,</l>
+<l>Besloot toen neffens my te doen een wreede wraek;</l>
+<l>En die is nu volvoert, hier voor u aller oogen.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>O Hemel! wat is dit? hoe kunt gy toch gedogen</l>
+<l>Soo goddeloosen zaek?</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spanj.</hi></speaker>
+<l>Omset den schelm terstont.</l></sp>
+<stage><hi rend="i">Hy wort van twee Ed'len gevat</hi>.</stage>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Seg eer vergeten Mensch, wie heeft u dese vont</l>
+<l>Op desen tijdt beraemt, om 't schelmstuk uit te voeren?</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>De Wraek, die leert my op gelegentheid te loeren:</l>
+<l>En nu ik heb gevelt de moorders, is gerust</l>
+<l>Mijn ziel, die in de val der schelmen heeft haer lust.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Por.</hi></speaker>
+<l>Wat is'er in de Mensch een wonderlijk verander,</l>
+<l>Hoe drijft den eenen buy van ongeluk den ander.</l>
+<l>Kon ik, ô Hemel! dan dees rampen niet ontvlien,</l>
+<l>Dat ik mijn eenig kint, hier dus vermoort most sien.</l></sp>
+<sp>
+<speaker><hi rend="i">K.v. Spanj</hi></speaker>
+<l>Bekent wie dat u stijft, en ried tot dese dingen.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Ik heb 't u al bekent.</l></sp>
+<sp>
+<speaker><hi rend="i">H.v. Cast.</hi></speaker>
+<l>Men zal door pijne dwingen</l>
+<l>U goddeloose tong te klappen: brengt ons hier</l>
+<pb n="71"/>
+<l>De pijnbank, en beproeft met water, wigt en vier,</l>
+<l>Of sijn hartneckigheid dus niet is te versetten.</l></sp>
+<sp>
+<speaker><hi rend="i">D. Ier.</hi></speaker>
+<l>Doet wat gy wilt, ik zal u dese wil beletten.</l></sp>
+<stage><hi rend="i">Hy bijt sijn Tong af</hi>.</stage>
+<sp>
+<speaker><hi rend="i">K.v. Span.</hi></speaker>
+<l>Dat helpt u niet, gaet heen, haelt reetschap dat hy schrijft,</l>
+<l>Dat by gebrek van spraek voor ons verborgen blijft:</l>
+<l>Wat meent gy booswigt, dat u d'eene boosheid d'ander</l>
+<l>Verschoonen zal, gy dwaelt: wy zullen met malkander</l>
+<l>Eens op een ander wijs beproeven wat gy zijt:</l>
+<l>Komt hier is Pen en Inct; bekent nu, en belijt</l>
+<l>De waerheid, of men zal met pijnigen en recken,</l>
+<l>Die tegen wil en dank, u uyt den halse trecken.</l></sp>
+<stage><hi rend="i">Hy besiet de Pen, en wijst dat hy een Penne mes begeers</hi>.</stage>
+<sp>
+<speaker><hi rend="i">H.v.C.</hi></speaker>
+<l>Houd daer, daer is een mes; wat denkt gy dat de wraek</l>
+<l>Van u vermoorde Soon rechtvaerdigt uwe zaek?</l>
+<l>Indien gy waert verkort, ik heb u zelfs voor desen,</l>
+<l>Tot recht en straffe bey, den rechten weg gewesen</l>
+<l>Dan dit is 't niet alleen, daer schuilt iets meerder by.</l></sp>
+<stage><hi rend="i">Hy tusschen den Hartog, en den Koning van Spanjen staende, doorsteektse, en daer na ook hem selven</hi>.</stage>
+<sp>
+<speaker><hi rend="i">K.v. Port.</hi></speaker>
+<l>O Hemel! geeft my magt, dat ik geduldig zy,</l>
+<l>Op dat mijn ongedult mijn sinnen niet verrucken,</l>
+<l>En my in al dit doen, door rouwe onderdrucken:</l>
+<l>Maer dat rechtvaerdigheid mijn Koninklijke throon,</l>
+<l>Om straffen dese moort, een korte tijdt verschoon.</l>
+<l>Hier sienmen dat gewelt, bedreven door de Grooten!</l>
+<l>Niet ongestraft en blijft; maer dat de wraek, gesprooten</l>
+<l>Uit ongelijk en leet, den kleinen aengedaen,</l>
+<l>Haer straffen met gewelt derf buiten recht bestaen.</l></sp>
+<stage><hi rend="spat">UYT</hi>.</stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

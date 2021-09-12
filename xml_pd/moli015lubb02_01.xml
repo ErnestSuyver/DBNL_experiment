@@ -1,0 +1,3820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Lubbert Lubbertze, of De geadelde boer</title>
+               <author>Molière</author>
+               <editor role="translator">Michiel van Breda</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Lubbert Lubbertze, of De geadelde boer</hi> van Molière, in een vertaling van Michiel van Breda uit 1721. De eerste druk dateert uit 1686.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 6: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 80</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">moli015lubb02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 29 A 39: 5</idno>
+               </bibl>
+               <p>Molière, <hi rend="i">Lubbert Lubbertze, of De geadelde boer</hi> (vert. Michiel van Breda). Adriaan Bastiaansz. Amsterdam, 1721 (herdruk)</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Lubbert Lubbertze, of De geadelde boer</title>
+               <author>Molière</author>
+               <editor role="translator">Michiel van Breda</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Lubbert Lubbertze, of De geadelde boer</title>
+               <author>Molière</author>
+               <editor role="translator">Michiel van Breda</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-30</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+    <cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>LUBBERT LUBBERTZE, OF DE GEADELDE BOER: <hi rend="i">BLYSPEL.</hi></p>
+<p>Uit het Fransch van Mr. Molliere.</p>
+<p><figure>
+<p><xptr to="moli015lubb02ill0001.gif"/></p>
+</figure></p>
+<p>t' AMSTERDAM.</p>
+<p>By Adriaan Bastiaansz., Boekverkoper op de Vygendam, op de hoek van de Beurspoort. 1721.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+</div>
+    </cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland, <hi rend="i">Doen te weeten</hi>, Also ons is vertoont by de Erfgenamen van Albertus Magnus, dat zy Supplianten verkregen hebbende het regt van de Copye, ofte van de Weduwe van Albertus Magnus en desselfs Erfgenamen, by Ons den agtsten January 1698. aan haar Supplianten verleent, om alleen, met uytsluytinge van allen andere, te mogen drukken de Comedien en Liederen van Pels, breder blykende by Copye van het Octroy aan Ons geëxpireert, en also die tyd nu geëxpireert was, en zy Supplianten bedugt waren, dat eenige baarsoek ende menschen, die Comedien en Liederen van Pels souden mogen nadrucken, tot groot nadeel van de Supplianten, so keerden zy Supplianten haar tot Ons, versoekende dat Wy de goetheyt geliefden te hebben, om de Supplianten by continuatie te octroyeren, voor gelyke tyd van vyftien Jaren, de Comedien en Liederen van Pels, namentlyk, Gebruyk, en Misbruyk, de bedrogen Mof, Roeland, Pels Minnesangen, twee Deeltjes Cinna, Hollantse Fransman, Ifigenia, Filebout of Doctor. Gedwongen Huwelyk, Ju enalis tiende Berisptdigt, Otto Vaenius Bygedigt, Tiranny van Eygenbaar, Andromache, Malle Wedding, Agrippa. Spookend Weeutje, Gelyke Tweeling, Orondatus en Statura, Oratius, Berenisse, Agamemnon, Bayeset, Fedra en Hipolitus, Huwelyken Staat, Constantyn de Groot, de Debauchant, Arminius, Lubbert Lubbertse, de Vreck, Conradyn, Jodelet, Ingebeelde Zieke, Temistokles, Offe, Amadis, Cadmus Opera, Stratenisse, Plyters, Heraklius, Crispyn Medicyn, Poëet, Officier en Musikant. Didoos Dood en Jultus, Crispyn Juffrouw, en Notaris, Schilder der Liefde, Alchimist, de Vryer in de Kist, Vooren Naspel, Studente Leven, betaald Bedrog, belaghelyke Jonker, Paris en Helena, Huwelyk sluyten, de goede Vrouw, ontrouwe Voogd, de Gewaande Advocaat, de Meyd Juffrouw, de Rouw, Wanhebbelyke Liefde, ontrouwe Kantoorknegt. Romansieke Juffer, Verloore Schildwagt, de Schynheylige, de Gedigten van Pluymer, alleen te mogen
+drucken, doen drucken, uitgeven ofte verkopen, met verbod aan allen anderen, om de voorgemelde Comedien ofte Liederen, in 't geheel ofte ten deelen naar te drukken, ofte elders naargedrukt zynde, binnen dese Landen te brengen
+<pb n="4"/>of ook te doen drucken, uit te geven, ofte verkopen, op de verbeurte van de nagedrukte, ingebragte ofte verkofte exemplaren, ende verder sodanige groote poene als wy zouden gelieven daar tegens te statueren. SO IS 'T, dat wy de sake, en 't versoek voorsz overgemerkt hebbende, ende genegen wesende ter beede van de Supplianten, uit onse regte Wetenschap, Souvereine magrende Autoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteeren, accorderen ende octroyeeren haar mirsdeesen, dat zy by continuatie, gedurende de tyd van vyftien eerst agtereenvolgende jaren, de voorsz. Comedien en Liederen, genaamt het Gebruyk en Misbruyk, de bedrooge Mof, Roeland, Pels Minnesangen, twee Deeltjens, Cinna, Hollandse Fransman, Ifigenia, Filebout of Docter, Gedwonge Huwelyk. Juvenalis tiende Berisptdigt, Otto Vaenius Bygedigt, Tiranny van Eygenbaar, Andromache, Malle Wedding, Agrippa, Spookend Weeuwtje, Gelyke Tweeling, Orondatusen Starura. Oratius, Berenisse, Agamemnon, Bayeset. Fedra en Hipolitus, Huwelyken Staat, Constantyn de Groot, de Debauchant, Arminius, Lubbert Lubbertse, de Vrek, Conradyn, Jodelet, ingebeelde Zieke, Temistokles, Offe, Amadis, Cadmus Opera, Stratenisse, Plyters, Heraklius, Crispyn Medicyn, Poeët, Officier en Musikant, Didoos Dood, en Julfus, Crispyn Juffrouw en Notaris. Schilder der Liefde, Alchimist, de Vryer in de Kist, Voor en Naspel, Studente leven, betaald Bedrog, belaghelyke Jonker, Paris en Helena, Huwelyksluyten de goede Vrouw, ontrouwe Voogt, de gewaande Advocaat, de Meyd Juffrouw, de Rouw, Wanhebbelyke Liefde, ontrouwe Kantoor-knegt, Romansieke Juffrouw, Verloore Schildwagt, de Schynheylige, en de Gedigten van Pluymer, binnen de voorsz onsen Lande alleen sal mogen drukken, doen drukken, uitgeven ende verkopen, verbiedende daarom alle ende eenen igelyken de voorsz. Comedien en Liederen, in 't geheel ofte deel naar te drukken ofte elders naargedrukt binnen den selven onzen Lande te brengen, uit te
+geven ofte te verkopen; op de verbeurte van alle de nagedrukte ingebragte, of verkofte Exemplaaren, ende een boete van drie honderd guldens daar en boven te verbeuren, te apliceren een derde part voor den Officier die de Calange doen sal, een derde part voorden Armen ter plaatse daar het casus voorvallen sal, en 't resterende derde part voor de Supplianten; alles in dien verstande, dat wy de Supplianten met dezen onzen Octroye alleen willende gratificeeren tot verhoedinge van haare schaade, door 't nadrukken van de voorsz Comedien en Liederen, daar door in geenigen deele verstaan den inhouden van dien te authorizeeren ofte te advoueren, ende veel min deselve onder
+<pb n="5"/>onze protectie ende bescherminge, eenig meerder credit, aanzien, ofte reputatie te geeven, nemaar de Supplianten, in cas daar inne iets onbehoorlyks zoude influeeren, alle het zelve tot haren lasten zullen gehouden wezen te verantwoorden, tot dien einde wel expresselyk begeerende, dat by aldien zy dezen onzen Octroye voor de voorsz. Comedien, en Liederen zullen willen stellen, daar van geen geabbrevierde ofte gecontraheerde mentie zullen mogen maaken, nemaar gehouden wesen, het zelve Octroy in 't geheel ende zonder eenige omissie daar voor te drukken, ofte doen drukken, ende dat zy gehouden zullen zyn een Exemplaar van de voorsz. Comedien en Liederen, gebonden ende wel geconditioneert, te brengen in de Bibliothoek van onze Universiteyt tot Leiden, ende daar van behoorlyk te doen blyken; alles op poene van 't effect van dien te verliezen. Ende ten einde de Supplianten dezen Onsen Consente en Octroye mogen genieten als naar behooren, lasten wy allen ende een iegelyken dien 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laten ende gedongen, rustelyk, vredelyk ende volkomenlyk genieten en gebruykende, cesseerende alle belet ter contrarie. Gedaan in den Hage onder onzen grooten Zegele, hier aan doen hangen, den negentienden October, in 't jaar ouses Heeren en Saligmakers seventienhondert en dertien.</p>
+<p>A. HEINSIUS, Vt.</p>
+<p>&nbsp;</p>
+<p>Ter Ordonnantie van de Staten,</p>
+<p>&nbsp;</p>
+<p>SIMON <hi rend="sc">van</hi> BEAUMONT.</p>
+<p>&nbsp;</p>
+<p>De Erfgenamen van de Weduwe <hi rend="sc">Albert Magnus</hi>, hebben het Regt van de bovenstaande Privilegie, aangaande dit <hi rend="sc">Spel</hi>, afgestaan en getransporteert aan, en ten behoeve van <hi rend="sc">Pieter Rotterdam</hi>, Boekverkooper tot Amsterdam.</p>
+<p>Actum in Amsterdam den 18 September 1714.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Pieter Rotterdam</hi>, heeft het Regt van de bovenstaande Privilegie, aangaande dit <hi rend="sc">Spel</hi>, afgestaan en getransporteert aan, en ten behoeve van <hi rend="sc">Adriaan Bastiaansz</hi>. Boekverkooper tot Amsterdam.</p>
+<p>Actum in Amsterdam den 1. January 1721.</p>
+</div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Lubbert Lubbertze</hi>, <hi rend="i">een geweezene Boer, nu Man van Izabel</hi></item>
+<item/>
+<item><hi rend="sc">Izabel</hi>, <hi rend="i">een Adelyke Juffer</hi>.</item>
+<item/>
+<item>De <hi rend="sc">Heer</hi> } van <hi rend="sc">Hoogadel</hi> } <hi rend="i">Vader</hi> } <hi rend="i">van Izabel</hi>.</item>
+<item><hi rend="sc">Mevrou</hi> } van <hi rend="sc">Hoogadel</hi> } <hi rend="i">Moeder</hi> } <hi rend="i">van Izabel</hi>.</item>
+<item/>
+<item><hi rend="sc">Hoveling</hi>, <hi rend="i">een Edelman</hi>.</item>
+<item/>
+<item><hi rend="sc">Fransyn</hi>, <hi rend="i">Meid van Izabel</hi>.</item>
+<item/>
+<item><hi rend="sc">Lammert</hi>, <hi rend="i">Tuinman van Hoveling</hi>.</item>
+<item/>
+<item><hi rend="sc">Jan</hi>, <hi rend="i">knecht van Lubbert Lubbertze</hi>.</item>
+</list>
+</div>
+<div type="act">
+<pb n="7"/>
+<head rend="h2">Lubbert Lubbertze, of De geadelde boer.
+<lb/>
+<hi rend="i">Blyspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubbertse</hi>.</speaker>
+<l>OCh, och! hoe lastig is een Juffer tot een vrouw.</l>
+<l>Och Lubbert Lubberts! och wat kweld het naberouw!</l>
+<l>Ey! fy my! dat ik my zo schandelik liet loeren.</l>
+<l>Wat is myn huwelik een les voor alle Hoeren,</l>
+<l>Die onvoorzichtelyk, zich boven haaren staat</l>
+<l>Verheffen willen, en verachtende de raad</l>
+<l>Van heer Jeronimo en andere goede vrinden,</l>
+<l>Haar zelfs, gelijk als ik, met d'Adeldom verbinden.</l>
+<l>'k Beken, dat d'Adel voor zich goed is, ja, voorwaar</l>
+<l>Zy is aanmerkelyk, en achtens vaardig; maar,</l>
+<l>Zy is verzelschapt, met zo groote en zo veel kwade</l>
+<l>Omstandigheden, dat ik niemand licht zon raade</l>
+<l>Daar aan te komen, ik heb 't tot myn schaê geleerd;</l>
+<l>En ken de kneepen, die den Adel practiseert,</l>
+<l>Wanneer dat zy ons in haar trots geslacht ontfangen.</l>
+<l>ô Dwaaze, die na zulk een slaverny verlangen!</l>
+<l>Want haar gemeenschap, die zy maaken is zeer kleen</l>
+<l>Met ons persoonen, ô! het is ons goed alleen;</l>
+<l>Dat trouwen zy; ô ja, ik zou geruster leeven,</l>
+<l>Zo ik, hoe ryk ik was, my had in d'echt begeeven,</l>
+<l>Met een Boerin, dan dat ik voor my zocht een vrouw.</l>
+<pb n="8"/>
+<l>Die zich steld boven my, en weinig acht haar trouw,</l>
+<l>Een, die zich belgt myn naam te voeren, en hoovaardig,</l>
+<l>Zich inbeeld, welk een kruis! dat ik haar ben onwaardig;</l>
+<l>Dat ik, met al myn goed, niet duur genoeg betaal</l>
+<l>D'eer dat zy my eens noemt haar man, of haar Gemaal.</l>
+<l>O Lubbert Lubberts! mogt gy u eens van haar wreeken!</l>
+<l>O Lubbert Lubberts! hoe hebt gy u zo verkeeken!</l>
+<l>Myn eigen huis is in myn oog afschuwelik.</l>
+<l>Wat zal ik doen? het staat my alles tegen. ik</l>
+<l>Zet daar geen voeten in, of vind een nieuwe reden</l>
+<l>Tot kwelling.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Lubbert Lubberts, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubberts</hi>.</speaker>
+<l rend="; 1tab">MAar holla! ik moet ter zyden treeden.</l>
+<l>Wat duizend, of die vent tot mynent heeft gedaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Die keerel ziet my, ach! hoe zal dit hier vergaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l>Hy kend my niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Ik vrees, ik vrees, dat hy zal zeggen</l>
+<l>Dat hy my hier zag, dan zou daar een huisje leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ik wensch jou goeden dag</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Jou ook zo.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 5tab">Na ik gis,</l>
+<l>Ben jy hier niet van daan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Dat raa jy niet heel mis.</l>
+<pb n="9"/>
+<l>O neen, ik kwam hier om een Advocaat te spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Maar zeg, zo 't jou belieft, heb ik ook mis gekeeken?</l>
+<l>Kwaam jy niet uit dat huis?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Stil, stil.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 6tab">Waarom?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 9tab">Al zoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Hoe zo?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Ja wel, om dat...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Maar zo...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 7tab">Al zagt jy moet</l>
+<l>Niet roepen; 'k ben bevreest, dat ymand ons mogt hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Geen nood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Ik kwam dan hier, maar alles was verlooren,</l>
+<l>Indien de heer dit wist. myn heer sloeg my wel lam.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub</hi></speaker>
+<l>Hoe ben je slecht! wel hoe! vrees daar niet voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 8tab">Ik kwam</l>
+<l>Hier om de Juffrouw van dit huis veel goets te zeggen</l>
+<l>Van zeek er Heer, die haar, 't is zo niet uit te leggen,</l>
+<l>Verstaaje 't wel? hy maakt de vryer wat by haar.</l>
+<l>Maar 't is hoognodig, dat dit niemand werd gewaar,</l>
+<l>Gy vat het wel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Ja toch.</l>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 7tab">Daar heb jy nou de reden;</l>
+<l>Voor al is my belast, noch in, noch uit te treeden,</l>
+<l>Dan heel voorzichtig, op dat ik niet wierd gezien.</l>
+<l>Ik bid u beste maat, dat jy 't doch niet, indien</l>
+<l>Jou ymand vraagt, verklikt, 't kan ommers jou niet scheelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>'k Zal 't my wel wachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">'k Doe, gelyk zy my beveelen,</l>
+<l>Myn dingen gaarne net, behendig, in 't secreet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Zeer wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">De Juffer vreest, dat haare Man dit weet.</l>
+<l>Zy zeggen, hy 's jaloers; en hy wil geenzins lyjen,</l>
+<l>Dat andere zyn vrouw, om haare liefde vryjen.</l>
+<l>Hy zou zo tieren, als een drommel, zo hy 't noord.</l>
+<l>Jy vat het wel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Heel wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 6tab">Hy moet het minste woord</l>
+<l>Niet weeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Zekerlyk!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Men wil hem stil bedriegen.</l>
+<l>Jy vat de meening?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Ja ik zeg u zonder liegen,</l>
+<l>Dat jy noch niet een Mensch die beeter kont verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Zo jy gingt praaten, dat jy my hier uit zaagt gaan,</l>
+<l>Jy zoud het heele werk verbruien door dit snappen.</l>
+<pb n="11"/>
+<l>Zie nou verstaa jyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Wis, ik zal het hem niet klappen.</l>
+<l>Hoe noemde gy de Heer, die jou gezonden had?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Het is myn heer ... myn heer ... nou woont hy in de stad,</l>
+<l>Myn heer ... ja myn heer dings. zoet is my dit ontschooten?</l>
+<l>Hoe brabbelen zy die ook? laat zien, een van de grooten.</l>
+<l>Het is myn heer .. ho .. ho .. ja Karel hoveling.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Zo is 't die jonge heer, die woond....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Ja, naast de goude ring,</l>
+<l>Daar over.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">‘Dat zal dan de reden zeker weezen,</l>
+<l>Dat deze jonge wulp, daar huurde. 'k mogt wel vreezen,</l>
+<l>Toen ik verstond, dat hy myn buurman worden zou.</l>
+<l>‘Ik docht wel, dat hy dat alleen dee om myn vrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Werrentig waar, jy zaagt van al jou leeve daagen</l>
+<l>Geen braver heer, hy 's waard, in goud te zyn geslgen,</l>
+<l>Hy gaf myn, is 't niet mild? twee dukatons, om dat</l>
+<l>Ik Juffrouw zeggen zou, hoe lief dat hy haar had,</l>
+<l>En dat hy wenschte, en bad, met haar te moogen spreeken.</l>
+<l>Is 't niet heel wel betaald? ik moet myn leden breeken,</l>
+<l>En een geheele dag staan werken, dat ik zweet</l>
+<l>Voor zestien stuivers; 'k heb hier maar een uur besteed,</l>
+<l>En kryg twee Dukatons.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Heb jy je ook wel gekweeten?</l>
+<l>Dee jy jou bootschap recht.</l>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi></speaker>
+<l rend="; 2tab">Myn boodschap? wel te weeten.</l>
+<l>Ik vond een wakkere meid, of liever kamenier,</l>
+<l>Zy heet, zy heet Fransyn, 't is zulk een aardig dier,</l>
+<l>Die heeft ten eersten my belofte, en hoop gegeeven,</l>
+<l>Tot alles wat ik wou; z'is in dat werk bedreeven</l>
+<l>Zy bragt ten eerste my by haar Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">‘O pry!</l>
+<l>‘Karonje!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Zeker die Fransyn is koddig, zy</l>
+<l>Heeft myne vrindschap, en het zal aan haar maar houwen.</l>
+<l>Zo wy in korte tyd niet t'samen zullen trouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l>Maar welk een antwoord gaf de Juffrou voor jou heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Zy zei myn, dat ik hem, uit hare naam dit weer</l>
+<l>Zou zeggen. Maar vertoef, 't is my by na ontschoote;</l>
+<l>Dat zy hem bleef verpligt, voor d'eer, en voor de groote</l>
+<l>Genegentheid, die hy haar toonde; maar voor al,</l>
+<l>Een zaak, die ik hem op zyn keel beveelen zal;</l>
+<l>Dat hy zich wachten moet, van iets te laaren blyken.</l>
+<l>Haar Man is zulk een griek: men kend naau zyns gelyken.</l>
+<l>Zy zey my ook, dat hy een vond bedenken most,</l>
+<l>Op dat zy noch van daag met hem vry spreken kost.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>‘O looze hoer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">O my! het zal zo aardig komen.</l>
+<l>De onnoozele bloed, zal van die handeling niet droomen.</l>
+<l>Wat het moy! hy krygt een neus wel van een el,</l>
+<l>Met al zyn jaloezy. wat komt het net! ja wel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja toch.</l>
+</sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Adieu, ik ga, nou montje toe te houwen,</l>
+<l>Op dat de Man niet hoort, hy zal zyn boltje klouwen.</l>
+<l>Nou montje toe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Ja toch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Ik hou byzonder veel</l>
+<l>Van alles stil te doen, ô vrind, 'k ben in dat deel</l>
+<l>Zo fyn, en zo doortrapt, 'k versta my op de wenken.</l>
+<l>'k Hou my onnoozel, zo krygt niemand achterdenken.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubberts</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>NU Lubbert Lubbertse ziet gy op wat manier</l>
+<l>Jou vrouw, jou handeld, wat staat jou dat trouwen dier!</l>
+<l>Daar blykt nu, wat het is, in d'echt te willen treeden</l>
+<l>Met zulk een Juffrouw; och! wat heb ik al geleden!</l>
+<l>Jy werd van alle kant mishandeld, en geplaagt,</l>
+<l>Eu zonder dat jy jou van haar moogt wreeken, draagt</l>
+<l>Gy zulk een kruis. Jy voeld jou armen vast gehouwen</l>
+<l>Door d'Adeldom; wanneer wy ons gelyken trouwen,</l>
+<l>Zo blyft ten minsten noch die vryheid aan de man,</l>
+<l>Dat hy beleedigt, zich gevoelig toonen kan.</l>
+<l>En was het een Boerin, dan had jy nu jou handen</l>
+<l>Ten minsten vry, om jou, voor deze gronte schanden</l>
+<l>Van haar te wreeken, door stok slaagen; maar jy most</l>
+<l>Van d'Adel proeven; nu nu zie jy wat het kost,</l>
+<l>Jy waard al moe, 't verdroot jou, t'jouwent voogt te weezen.</l>
+<l>Ja wel, ik raas van spyt; wie heeft my zo beleezen;</l>
+<l>Ik zou myn eigen zelfs wel om myn ooren slaan.</l>
+<l>Een losse jonge wulp, ô spyt! te woord te staan,</l>
+<l>Zyn zoete minnery, zo onbeschaamt te hooren.</l>
+<pb n="14"/>
+<l>O! die gelegentheid moet zo niet gaan verlooren,</l>
+<l>'k Moet van dien handel aan haar Ouders myn beklag</l>
+<l>Zo daadlyk doen, en haar doen hooren deze dag,</l>
+<l>Wat reden van verdriet haar dochter my durft geeven.</l>
+<l>Nu kan ik haar doen zien, waarom wy kwalik leeven</l>
+<l>Maar welk een groot geluk, 't is of 't besprooken was,</l>
+<l>Ik zie haar alle bei, zy komen recht te pas.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Myn Heer, en Mevrouw van Hoogadel, Lubbert Lubbertsz.</hi></stage>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>MYn schoonzoon, wat is dit, gy schynt my heel t'onvreden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat sta ik toe, maar 'k heb daar toe wel dubbele reden,</l>
+<l>En...</l>
+</sp>
+<sp>
+<speaker>En <hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Wel myn schoonzoon, wat is uw civiliteit</l>
+<l>Ook klein? ik schaam my, gy kent geen welleeventheid.</l>
+<l>Als gy by ymand komt, de menschen niet te groeten?</l>
+<l>Weet gy niet, hoe gy my behoorlik zult ontmoeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Schoonmoeder, zeeker, 't is, dat ik nu in myn kop</l>
+<l>Wat anders heb, en...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Noch? myn schoonzoon hou doch op.</l>
+<l>Is 't moogelyk, dat gy zo weinig weet te leeven,</l>
+<l>En dat men geenzins kan, wat lessen wy u geeven,</l>
+<l>U doen begrypen, hoe met menschen van myn staat</l>
+<l>Te leeven is?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Hoe dat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Stel u noit in één graat</l>
+<l>Met my, noch wild zo veel gemeenschap aan u trekken,</l>
+<l>Dat gy Schoon-Moeder zegt, 't zou ons tot hoon verstrekken.</l>
+<pb n="15"/>
+<l>Zult gy dan nimmer u gewennen, om Mevrouw</l>
+<l>Te zeggen, tegens my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ja wel: ja wel! ik zou...</l>
+<l>Als gy my Schoonzoon noemt, dunkt my, dat ik mag</l>
+<l>Schoon-Moeder tegens jou...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Die zaak net uit te leggen</l>
+<l>Vereyscht veel tyds; hier in is zeer groot onderscheid.</l>
+<l>Leer, zoo het u belieft, ik heb 't u meer gezeid,</l>
+<l>Dat u niet vry staat, of betaamt, die naam te geeven</l>
+<l>Aan lui van myn fatzoen, aan lui zo hoog verheeven.</l>
+<l>Dat, op wat wys gy ook moogt onze schoonzoon zyn,</l>
+<l>Noch tusschen u, en ons het onderscheid zo kleyn</l>
+<l>Niets is geworden, of gy most u zelve kennen.</l>
+<l>Zult gy dan nimmermeer u tot uw plicht gewennen?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Lief, 't is genoeg, laat ons dit staaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Ai, myn heer</l>
+<l>Van Hoogenadel, gy ontschuldigt dit dan weer;</l>
+<l>Gy wild verdraagen, 't geen geen ander zou passeeren.</l>
+<l>Ons zo t'ontmoeten? wie, wie kan dat indulgeeren?</l>
+<l>Gy kont u van het volk niet geeven doen, 't geen zy</l>
+<l>U dubbeld schuldig zyn.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Geenzins, vergeef het my.</l>
+<l>Daar over heeft men my geen lessen voor te schryven.</l>
+<l>'k Heb in myn leeven, door grootmoedige bedryven.</l>
+<l>Genoeg getoont, dat ik geen man ben, om oit iet</l>
+<l>Van myn gerechtigheid te missen. wacht dat niet.</l>
+<l>'k Bewaar noch myn respect, zo wel als oit voor dezen.</l>
+<l>Maar 't is genoeg, dat gy zyn fout hebt aangeweezen.</l>
+<l>In 't kort Myn Schoon-zoon, laat ons nu ook eens verstaan</l>
+<l>Wat u ontsteld,</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Dewyl ik duidelik moet gaan,</l>
+<l>Zo zal ik duidelyk jou ook de waarheid zeggen.</l>
+<l>Heer van Hoogadel, 'k mag, na alle rechten leggen...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Zoet, zoet, myn schoonzoon, zoet, eer gy noch verder gaat,</l>
+<l>Zo leer van my eerst, dat het geenzins achtbaar staat,</l>
+<l>De luiden by haar naam te noemen, en byzonder,</l>
+<l>Wanneer gy noch u zelfs heel vergesteld ziet, onder</l>
+<l>Die, daar gy tegen spreekt; wanneer gy ymand groet,</l>
+<l>Die verre is boven u, weet, dat gy zeggen moet,</l>
+<l>Myn Heer, heel kort, zo moet gy met u meerder leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>'k Begryp de zin. zeer wel, ik zalder acht op geeven.</l>
+<l>Myn heer, heel kort, en niet heer van Hoogadel; 'k wou</l>
+<l>Jou zeggen, dat ik dag op dag, werd van myn vrouw...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Al zagt, leer ook, dat als wy van myn Dochter spreeken,</l>
+<l>Gy geenzins zeggen moet, myn vrouw...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Wel selleweken,</l>
+<l>Ik werd schier dul, is dan myn vrouw, myn vrouw niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 3tab">Ja.</l>
+<l>Ja toch myn schoonzoon, zy blyft voor zo wel als na</l>
+<l>Uw vrouw, gy moogt zelf op u huwelik wel roemen;</l>
+<l>Maar't stat u geenzins vry, haar met die naam te noemen.</l>
+<l>Wat zoud gy anders doen, dan 't geen gy hier nu zegt,</l>
+<l>Zo gy met uws gelyk getreeden waard in d'echt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ach Lubbert Lubberts! waar hebt gy u ingelaaten!</l>
+<l>Maar ik verzoek, dat gy u Adeldom en Staaten,</l>
+<l>Maar voor een oogenblik alleen ter zyde steld;</l>
+<l>En duld, dat ik u nu spreek, van het geen my kweld,</l>
+<l>Zo als ik 't beste kan. 'k wou dat die sotternyen,</l>
+<l>En al die spreukjes, die ik dagelyks moet lyen,</l>
+<l>Al die historien voor sintvelte waren. Weet</l>
+<pb n="17"/>
+<l>Dan eindeling, dat ik, ik zegt met herten leet,</l>
+<l>Zeer slecht voldaan ben van myn huwelyk.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 4tab">Gy t'onvreden?</l>
+<l>Myn schoonzoon, wat wil dat doch zeggen, welke reden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Hoe zo te spreek en van een zaak, waar uit dat gy</l>
+<l>Zulk merklyk voordeel trekt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Wat voordeel toch voor my</l>
+<l>Mevrouw? Dewyl het dan Mevrouw zal moeten heeten.</l>
+<l>Het toeval was voor jou niet kwaad; wy beide weeten,</l>
+<l>Dat jou lui zaaken, met verlof, al vry wat wyt</l>
+<l>Vervallen waaren; dat myn geld jou in die tyd</l>
+<l>Zeer wel te pas quam, en gedient heeft om die gaaten</l>
+<l>Te stoppen. Wat heb ik, als ik recht uit zal praaten,</l>
+<l>Gewonnen by dees trouw? Ik bidje, dan alleen</l>
+<l>Slechts een verlenging van een naam? daar ik voorheen</l>
+<l>Hiett' Lubbert Lubberts, heb ik nu door u daar teegen</l>
+<l>De tytel van myn Heer van Lubbertzon gekreegen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Myn schoonzoon, reekent gy, of acht gy dan niet d'eer</l>
+<l>Te zyn vermaagtschapt aan 't huis van Hoogadel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 5tab">Meer,</l>
+<l>En dat van Groothart; met eerbiedigheyd te noemen,</l>
+<l>Waar van ik d'eer heb, my een rechte tak te roemen?</l>
+<l>Een huis, in 't welk de vrouw ook Edel maakt; en 't is</l>
+<l>Door dit schoon voorrecht, dat uw kinderen gewis</l>
+<l>Ook zullen Edel zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Zie daar is 't wel; myn kind'ren</l>
+<l>Die zullen Edel zyn; en ik, kan 't niet verhind'ren,</l>
+<l>Een koekoek.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Hoe wat 's dit? wat wild gy daar meê zeggen,</l>
+<l>Myn Schoonzoon?</l>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ik zal jou dat daadlik uit gaan leggen.</l>
+<l>Dat is te zeggen, dat jou dochter haar niet draagt</l>
+<l>Gelyk 't betaamt; dat zy doed, 't geen my niet behaagt.</l>
+<l>Dat zy niet leeft, zo als een eerb're Vrouw moet leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Al zacht, wild op het geen gy zegt wel achting geeven.</l>
+<l>Myn Dochter is uit veelte deugdelyk geslacht,</l>
+<l>Om 't alderminst te doen, daar d'eer door werd verkracht.</l>
+<l>En 't is al meerder dau dry hondert jaar gebleeken,</l>
+<l>Dat ons beroemt geslagt, in eer heeft uit gesteeken;</l>
+<l>En noch in al die tyd, vond niemand in die stam</l>
+<l>Van Grootshart zelfs een vrouw, die op de tongen kwam.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Wat! in 't doorluchtig huis, waar uit ik ben geboren,</l>
+<l>'t Huis van Hoogadel, heeft noit vrouw haar roem verlooren.</l>
+<l>De koenheyd is daar niet meer erffelyk geweest</l>
+<l>Den Mans, dan d'eerbaarheid den Vrouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Ja, men leeft</l>
+<l>Van zekere Izabel in 't Grootshart, die dorst weig'ren</l>
+<l>Tot hooge staaten, door eens Prinzen min te steig'ren.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Een Margareta van Hoogadel sloeg wel eer</l>
+<l>Tien duizend ponden af; die van een zeeker heer,</l>
+<l>Ik meen een Hartog, om 't geluk van haar te spreeken,</l>
+<l>Haar wierden aangeboôn. zy hoorden na geen smeeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l>Ja wel, jou dochter is hier in geenzins zo straf.</l>
+<l>Zy is verandert, zint dat zy haar trouw my gaf.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Spreek klaar myn Schoonzoon, spreek, verhaal ons haar bedryven.</l>
+<l>Wy zyn geen lui, om in haar kwaad doen haar te styven.</l>
+<l>Wy zullen de eerste zyn, haar Moeder zelfs, en ik,</l>
+<pb n="19"/>
+<l>Die u recht zullen doen, ook in dit oogenblik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Op 't punt van d'eer, verstaan wy gansch geen boerteryen.</l>
+<l>Wy hebben steeds getracht, haar tot de deugd te lyen.</l>
+<l>En zo veel mooglyk was, met strengheid opgevoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Wel, alles dat ik jou dan zeggen kan, en moet,</l>
+<l>Is dat hier zeker wulp, of lobbes, of wel jonker,</l>
+<l>Straatslyper, Hoveling, die alle mode pronker,</l>
+<l>Die jy wel hebt gezien, op haar tot myne smaat</l>
+<l>Verlieft is, dat hy haar van liefde spreeken laat,</l>
+<l>En dat zy heel beleeft, die boodschap heeft ontfangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ja wel! van deze hand zal zy haar straf erlangen.</l>
+<l>Verworgen zal ik haar, zo zy van de eerbaarheyd</l>
+<l>Haars Moeders zo ontaard. wat gruwlyk onbescheyd!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>'k Zal, zonder dat ik iets gevoel van haare smarten,</l>
+<l>Doorstooten, met dit zwaart, haar en haars minnaars harten,</l>
+<l>Heeft zy haar eer bevlekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Ik heb jou doen verstaan,</l>
+<l>Waar uit myn klagt sproot, en wat hier is omgegaan.</l>
+<l>En 'k eysch daar reden van</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Wilt niet bekommert weezen.</l>
+<l>'k Zal ze u van alle bei doen hebben; wilt niet vreezen.</l>
+<l>Ik ben een man, om 't zy, wie dat het ook mag zyn,</l>
+<l>Die af te eischen, maar, bedriegt gy u door schyn,</l>
+<l>En zyt niet teenemaal verzekert van die dingen,</l>
+<l>Die gy ons hier verhaald.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Genoeg verzekeringen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ten minsten zie wel toe, dat gy hier in niet mist.</l>
+<l>Myn schoonzoon zorgt voor al, dat gy u niet vergist.</l>
+<pb n="20"/>
+<l>Want tusschen d'Adel zyn die zaaken kitteloorig.</l>
+<l>Wy neemen 't hoog, de wraak van ons gaat dan uitspoorig</l>
+<l>De kwestie is hier niet een flaauw procesje; maar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l>Ik heb jou niets gezeid, zeg ik je, of 't is waar.</l>
+</sp>
+<sp>
+<speaker>Hr van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Lief spreek uw Dochter, zie, hoe daar de zaaken leggen,</l>
+<l>Hoor eens, wat zy op die beschuldiging zal zeggen.</l>
+<l>'k Zal onderwylen, met myn Schoonzoon ook de man</l>
+<l>Gaan spreeken, die hier van het best getuigen kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr.</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Zou 't konnen zyn, dat zy zo zou haar plicht vergeeten,</l>
+<l>Na 't wyze voorbeeld, 't welk gy, en de vrinden weeten,</l>
+<l>Dat ik haar altyd gaf!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Wy zullen 't onderstaan.</l>
+<l>Volg my myn Schoonzoon, wil u nergens voor verslaan.</l>
+<l>'k Zal u doen zien, hoe zeer wy ons gevoelig toonen,</l>
+<l>Als y mand, 't zy, wie het zy, zich onderwind te hoonen.</l>
+<l>Een die ons toebehoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Daar is hy zelf.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Heer</hi> van <hi rend="sc">Hoogadel</hi>, <hi rend="sc">Hoveling, Lubbert Lubberts</hi>.</stage>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 5tab">MYn heer,</l>
+<l>Kend gy my ook?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Myn heer, ik weet niet dat ik d'eer</l>
+<l>Heb u te kennen?</l>
+</sp>
+<sp>
+<speaker>Hr van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">'k Ben een Edelman gebooren,</l>
+<pb n="21"/>
+<l>Heer van Hoogadel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Ik verheug my zulks te hooren.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Myn naam is in het hof bekent met groote roem.</l>
+<l>Ik had deer in myn jeugd, my onder d'eerste bloem</l>
+<l>Des Adeldoms te zien, ja daar in uit te steef en,</l>
+<l>Toen Wezel, en den Bos voor onze magt bezweeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Ter goeder uur myn heer.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Myn heer, myn vader, Jan</l>
+<l>Rudolphus, Gulliam, Henrikus, Karel van</l>
+<l>Hoogadel, had 't geluk, van zelver by te woonen,</l>
+<l>Die wytberoemde slag, toen hy de Noortze Kroonen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>'k Hoor met verwondering.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">En ik heb ook gehad,</l>
+<l>Een Vaders Vader, Phlip, heer van Hoogadel, wat</l>
+<l>Hy aan het hof verzogt, niets wierd hem afgeslaagen.</l>
+<l>De slag van Senlis kan van zyne deugd gewaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>'k Gelooft.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">My is beright myn heer, dat gy bemind.</l>
+<l>Ja zelf, dat gy vervolgt een Juffrouw; 't is myn kind</l>
+<l>Daar ik my boven al laat leggen aangeleegen.</l>
+<l>Myn plicht vereyscht van my te zorgen harent weegen,</l>
+<l>Ook voor de Man, die gy nu by my ziet; die d'eer</l>
+<l>Geniet, dat ik hem noem myn Schoon-zoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 5tab">Ik myn heer?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ja, en ik ben verheugd, dat wy te samen komen,</l>
+<l>Om, zo het u gelieft, van 't geen ik had vernoomen.</l>
+<pb n="22"/>
+<l>De rechte grond, of een verklaring te verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi></speaker>
+<l>Ach! welk een lastertong Wie heeft my dit gedaan?</l>
+<l>Wie zei u dit myn heer?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Een' die 't meend wel te weeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Die een, die liegt het. Heeft zyn plicht, en eer vergeeten.</l>
+<l>Ik ben een eerlik man. Myn heer, gelooft gy my</l>
+<l>Bekwaam, tot zulk een losse, en snoô verradery?</l>
+<l>Gelooft gy my zo los, zo onbedacht van zinnen?</l>
+<l>Ik zou een schoone? 'k zou een zoete Juffrouw minnen,</l>
+<l>En die vervolgen noch, met minnelyk geklag,</l>
+<l>Die d'eer heeft, dat zy u haar vader noemen mag?</l>
+<l>Heer van Hoogadel, ik heb veel te grooten achting</l>
+<l>Voor u, om dat te doen. Hebt nimmer die verwachting.</l>
+<l>Ik ben u dienaar Wie u dit ook mogt verhalen,</l>
+<l>Die is een zot, dien gy met slagen moet betaalen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Welnu myn Schoonzoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Wat!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Het is een deugeniet,</l>
+<l>Een guit, een schelm, wel waard, dat ik hem 't hart doorstiet.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Nu Antwoord</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Antwoord zelf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Zo ik die schobjak kende,</l>
+<l>Ik zou, met deze kling, hem voort ten grave zenden.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Doet nu de zaak gestant</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Die is gestant gedaan.</l>
+<l>'t Is waar.</l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 1tab">Uw Schoon-zoon Heer, dee die u ook verstaan,</l>
+<l>Dat...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Ja. Hy kwam hier van zich tegens my beklaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Voorwaar, 't is zyn geluk; hy mag zyn roem wel draagen</l>
+<l>Op 't voordeel, dat hy heeft, dat hy u toebehoord.</l>
+<l>'k Verzeeker u, ik zou, hem zonder dat, zo voort</l>
+<l>Op 't zuurst bekoopen doen, die schandelyke streeken.</l>
+<l>Hem leeren zulk een taal van myns gelyke spreeken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Heer, en Mevrouw van Hoogadel, Izabelle, Hoveling, Lub. Lub. Fransyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>ZO veel die zaak betreft, 'k beken, de jaloezy,</l>
+<l>Is een zeer vreemde zaak. Ik breng nu hier met my</l>
+<l>Myn Dochter, op dat zy mag opentlyk verklaaren</l>
+<l>Een zaak daar wy terstont zo in verbystert waaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Zyt gy het dan Mevrouw, die hebt u Man gemeld,</l>
+<l>Dat ik u min?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Hoe ik! ik, dat myn Man verteld!</l>
+<l>Hoe zou ik 't konnen doen? is my u min gebleeken?</l>
+<l>Ik wensch, dat ik, hier in, u hoorde waarheid spreeken,</l>
+<l>Dat ik uw liefde had. Begin, ik bid het u.</l>
+<l>Gy zult een vinden, die van uw verzoek niet schuw,</l>
+<l>Uw klachten hooren zal. Ik durf u zelf dit raaden.</l>
+<l>Stel alle list te werk in woorden, en in daaden,</l>
+<l>Die oit van minnaars zyn gebruykt in zulk een zaak,</l>
+<l>Tracht my gezanten toe te zenden, tot vermaak,</l>
+<pb n="24"/>
+<l>Tracht zoete letteren my in 't geheim te schryven;</l>
+<l>De tyd te mikken, als myn Man niet t'huis kan blyven,</l>
+<l>My waar te neemen, als ik uit myn huis zal gaan;</l>
+<l>Om my uw klachten, en uw min te doen verstaan.</l>
+<l>Bemind gy my myn heer, doe geen vergeefsche gangen,</l>
+<l>Kom maar, en ik beloof, dat ik u zal ontfangen.</l>
+<l>Gelyk 't behoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 1tab">Wel zo! wel zo Mevrouw! al zoet!</l>
+<l>Het is onnoodig, dat gy die vermaaning doet,</l>
+<l>En u zo hoond. wie zegt, dat wy u liefde draagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Weet ik het, wat men my al zeggen komt, en vraagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Men zeg u, wat men wil, maar gy weet zelf Mevrouw,</l>
+<l>Of ik met minnek lagt u kwel, en staande hou,</l>
+<l>Wanneer ik u ontmoet. Leide ik u oit te vooren...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Gy hebt het maar te doen. Ik zal u gunstig hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Geloof', ik ben geen man Mevrouw, om moejelikheid</l>
+<l>Een schoonheid aan te doen, noit wierd ik zo verleid.</l>
+<l>Ook acht ik veel te hoog, en u, en uw verheven</l>
+<l>Doorlucht geslagt, om oit die liefde plaats te geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ja wel nu hoort gy 't.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Zie u nu geheel voldaan,</l>
+<l>Myn Schoonzoon, wat zegt gy; hebt gy dit wel verstaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja toch. Maar ik zeg, dat dit spreukjes zyn, en ollen.</l>
+<l>Jy praat my niet in slaap, ik lach met al die grollen.</l>
+<l>Ik weet wel wat ik weet, en dat wy flus, nadien</l>
+<l>Ik nu recht spreeken moet, zyn boode heb gezien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik! ik ontfing een boô!</l>
+</sp>
+<pb n="25"/>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 5tab">Ik! ik een boo gezonden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Fransyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Is 't waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">Ja wel. Die leugen is gevonden.</l>
+<l>Dit is eerst liegen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Zwyg karonje, daar jy staat.</l>
+<l>Ik weet van jou geheim, en ongetrouwe daad.</l>
+<l>Jy waard het zelf, die zyn gezant in huis liet komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Jy karonje, jy, 'k hebt heele werk vernomen.</l>
+<l>Jy hoeft d'onschuldige zo niet te maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 5tab">Och!</l>
+<l>Wat is de waereld nu vol valscheid, en bedrog!</l>
+<l>My! my betichten! my! wie werd dan niet beloogen?</l>
+<l>My! daar d'onnozelheid te zien is uit myn oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>De boosheid meen jy, zwyg, jy over stoute pry.</l>
+<l>Ik ken uw noch van ouds. Jy houdje slecht, maar jy</l>
+<l>Bent ongebonden, jy....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">Mevrouw, zal ik dan moeten..</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Zwyg zeg ik, jy zout licht voor alle d'andren boeton;</l>
+<l>Heel licht, jou Vader is altoos geen Edelman.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>'t Is een bedrog zo groot, en ik ben daar zo van</l>
+<pb n="26"/>
+<l>Geraakt aan 't hert, dat om myn Antwoord hem te geeven,</l>
+<l>Geen kracht genoeg aan my meer ov'rig is gebleeven.</l>
+<l>'t Is wel afgryselik, zich aan te zien geklaagt,</l>
+<l>Van een gemaal, wanneer een Vrouw haar altyd draagt</l>
+<l>Gelyk 't betaamt. Helaas! indien ik schuld moet draagen,</l>
+<l>'t Is, dat ik te veel doe, om hem te behaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Voor zeeker!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Almyn ramp is, dat ik al te groot,</l>
+<l>En al te veel hem acht. Ik wensch, in deeze nood,</l>
+<l>Dat ik bek waam was, om, als hy my op wil stryjen,</l>
+<l>De zoete Minnek lagt van een galant te lyjen.</l>
+<l>'k Was min bek laagelik. Vaar wel, ik ga vol smert.</l>
+<l>'k Kan niet meer dulden, dat ik zo gelastert werd.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ga heen, gy zyt niet waard een vrouw van zulk geslachte,</l>
+<l>Met zo veel eerbaarheid, wild uwe plicht betrachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Hy was waarachtig waard myn heer, dat haar Mevrouw</l>
+<l>Hier na zo droeg, dat hy de waarheid zeggen zou.</l>
+<l>En was ik in haar plaats, ik zou my niet bezinnen.</l>
+<l>Myn Heer, gy moet, om hem te straffen, haar beminnen</l>
+<l>Begin, ik zeg het u, het zal wel zyn besteed.</l>
+<l>Ik bie myn hulp u aan. 'k Ben tot u dienst gereed,</l>
+<l>Dewyl hy my alreeds verdacht houd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Gy zyt waardig,</l>
+<l>Myn Schoon-zoon, dat men u zo handeld; 't is rechtvaardig.</l>
+<l>Uw handeld steld geheel de weereld tegens u</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ga, en bezorgt dat gy u wyzer draagt dan nu.</l>
+<l>Tracht dat ge een Juffrouw zo volmaakt, en wel gebooren,</l>
+<l>Vry beter handeld, als gy hebt gedaan te vooren,</l>
+<l>Voor alles wacht u, van zo groote uitspoorigheên.</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l>Ik word noch raazend dol! en met heel groote reên,</l>
+<l>Dat ik, daar 'k heb gelyk, noch ongelyk moet krygen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Myn heer gy hebt gezien, schoon ik hier van wou zwygen,</l>
+<l>Hoe valschelik, dat ik beschuldigt ben; gy zyt</l>
+<l>Een man, die weet waar in het point van eer altyd</l>
+<l>Te recht bestaat. Ik eisch, en met groot recht nu reden,</l>
+<l>Van 't groot affront, dat ik hier daadlik heb geleden.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Dat is ook billik. Kom myn Schoonzoon, geef die Heer</l>
+<l>Nu satisfactie; kom, van zyn geschonden eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Hoe! satisfactie!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Ja, dat 's billik. 't Moet zo weezen,</l>
+<l>Om dat gy t'onrecht hem beschuldigt; wil niet vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat is een zaak, die ik noch niet heb toegestaan,</l>
+<l>Dat hy onschuldig is; dat zal noch zo niet gaan.</l>
+<l>Ik weet wel, wat ik denk.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Daar is niet aangeleegen.</l>
+<l>Gy denkt ook, wat gy denkt, zyn loochning stryd daar tegen;</l>
+<l>Dat is voldoening En men kan zich noit met recht</l>
+<l>Van een beklaagen, die 't met loochnen wederlegt</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Heel wel! als ik hem by myn vrouw te bed vond leggen.</l>
+<l>Zou hy dan vry zyn, met ik loochen het te zeggen?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Dat is geen reden, doe hem uw excuses, ik zal</l>
+<l>Het u voor zeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Ik! zou ik in dit geval</l>
+<l>Hem noch excuses doen, na dat...</l>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 5tab">Doe 't geen wy u bevelen.</l>
+<l>Hier geld geen steegheid, of d'onwillige te speelen.</l>
+<l>Gy moet maar vreezen, dat gy 't niet genoeg zult doen;</l>
+<l>Dewyl ik u geley...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Ik zou! wat onfatzoen!</l>
+<l>Hem noch...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Myn schoonzoon 'k zeg, wild my hier in vernoegen.</l>
+<l>Maak my niet toornig, of ik zou my lichtlik voegen,</l>
+<l>Met uw party. Ga voort. Ik zal uw leidsman zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ach Lubbert Lubberts! ach onlydelyke pyn!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>De hoed eerst in de hand, nu zonder veel te morren.</l>
+<l>Myn heer is Edelman, gy niet; moet ik u porren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>'k Word raazend!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Volg myn heer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub Lub.</hi></speaker>
+<l rend="; 7tab">Myn heer.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>, <hi rend="i">ziende dat zyn Schoonzoon
+zwaarigheid maakt hem na te zeggen</hi>.</speaker>
+<l rend="; 6tab">Vergeef my... Wat!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Vergeef my.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">'k Zeg u, volg. Die argwaan die ik had.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Die argwaan die ik had.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">'k Had d'eer niet, u te kennen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>'k Had d'eer niet u, ô spyt!</l>
+</sp>
+<pb n="29"/>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Zult gy u noit gewennen?</l>
+<l>Te lee ven als 't betaamt, Ik ben u Dienaar heer.</l>
+<l>Nu, lustig!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Wild gy dan, dat ik my zo onteer,</l>
+<l>En Dienaar werd van een, die my wil koekoek maaken?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Wat!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 1tab">'t Is genoeg, myn heer.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Neen, neen; 'k wil dat die zaaken</l>
+<l>Gaan als 't behoord, dat hy zich tot zyn plicht gewen.</l>
+<l>Voleind; Myn heer, geloof dat ik uw Dienaar ben.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat ik je Dienaar ben.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Myn heer, 'k zal de uwe blyven,</l>
+<l>Met al myn hart; ik zal dit in 't vergeetboek schryven,</l>
+<l>En denk nu reeds niet meer, aan 't geen hier is geschied.</l>
+<l>Myn heer, wat u belangd, ik voel, met smart 't verdriet,</l>
+<l>Dat gy gehad hebt, en wensch dat gy wel moogt vaaren.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ik blyf aan u verplicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">‘Zie zo, zo moet men 't klaaren!</l>
+<l><hi rend="i">Hoveling binnen.</hi></l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Zie daar, myn Schoonzoon; zie, zo moet men met fatsoen,</l>
+<l>Een zaak pouseeren; zie zo moet men alles doen.</l>
+<l>Vaar wel; en weet, dat gy zyt in een huis getreeden,</l>
+<l>Dat u een stut zal zyn, dat nimmer heeft geleeden,</l>
+<l>Noch lyden zal, dat u geschied de minste hoon.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="30"/>
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubbertsz</hi>, <hi rend="i">allen</hi>.</speaker>
+<l>O Bloed! gy woud het zo! ô Lubbert Lubbertsz zoon!</l>
+<l>Gy woud, gy woud het zo. Het is wel uitgevallen!</l>
+<l>Zie u bericht, zo gy verdiende met zulk mallen.</l>
+<l>'t Hangt hier alleenig aan, of ik haar Ouders kan</l>
+<l>Haar oogen openen. 'k Ben een behoude man,</l>
+<l>Indien my dit gelukt. Wel aan om deeze vrinden</l>
+<l>Haar schuld te toonen, zal men licht noch wel iets vinden.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="31"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Fransyn, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>IK vreesde wel te recht, dat gy niet zwygen kost</l>
+<l>Ja, 'k heb 't wel gedogt, dat 't van jou komen most.</l>
+<l>Dat jy het zelve waard, die deeze zaak gingt zeggen</l>
+<l>Aan iemand, die het voort myn meester uit kwam leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Fransyn, 'k heb zeker maar een woord verhaald, aan een,</l>
+<l>Die my hier uit zag gaan, ik dee het maar alleen,</l>
+<l>Om dat hy zwygen zou.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 3tab">Myn heer was wel beraaden.</l>
+<l>Voorwaar, dat hy u nam tot zulken Ambassade.</l>
+<l>Heer Hoveling gebruikt een heel voorzigtig man.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Wel op een ander tyd, 'k belooft Fransyntje, dan</l>
+<l>Zal ik doortrapter zyn, en daar op beter letten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ja, ja 't zal tyd zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Laat ons dit ter zyde zetten.</l>
+<l>Ei hoor Fransyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Wat wild gy, dat ik hooren zal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Keer eens jou aangezigt na my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">Wel wordt je mal?</l>
+<l>Wat zal dat zyn?</l>
+</sp>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Fransyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 3tab">Wel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Kond gy zelf niet gissen</l>
+<l>Wat ik je zeggen wil? 't zyn geen geheimenissen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">'k Heb je zeeker lief.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">In ernst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Ja by sint felten,</l>
+<l>Geloof my, als ik zweer, myn hertje ryd op stelten,</l>
+<l>Als 'k je zie.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">'k Ben bly.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Maar zeg Fransyn, wat doed</l>
+<l>Gy om zo schoon te zyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 3tab">Al 't geene, dat ik moet.</l>
+<l>Al wat een ander doed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Men hoeft geen saus te maaken.</l>
+<l>By zulke lekkre kost Wie zou daar niet na haaken?</l>
+<l>Fransyn! 'k heb jou zo lief! dat ik niet herden kan.</l>
+<l>Wil jy myn vrouw zyn, ik werd daadelik jou man.</l>
+<l>Wy zullen Man, en Vrouw, dan alle beide weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Dan zou jy ook misschien jaloers zyn, zou ik vreezen,</l>
+<l>Gelyk myn Meester.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Neen.</l>
+</sp>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 3tab">Wat my belangd; ik haat</l>
+<l>Een achterkousig Man. 'k Wil een, die in die staat</l>
+<l>Zig aan geen dingen kreund, een, die in myn bedryven,</l>
+<l>Als of ik vryster was, myn vryheid my laat blyven;</l>
+<l>Een, die van myne trouw, en kuischeid zich zo houd</l>
+<l>Verzekert, dat hy my, en zonder vrees aanschoud,</l>
+<l>By twintig mannen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Goed! zo meen ik my te draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Het is de zotste zaak, die 'k hoorde van myn dagen,</l>
+<l>Een vrouw te plaagen, door zulk misvertrouwen; 't is</l>
+<l>Heel vreemd met deeze zaak, alle achterdocht is mis.</l>
+<l>Niets wind men zo; ja 't brengt het kwaad ons in gedachten,</l>
+<l>En 't zyn de Mannen vaak, die door die zotte klagten,</l>
+<l>En door al dat geweld, zich maaken 't geen zy zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>'t Is wel! 'k beloof, jy zult bevryd zyn van die pyn.</l>
+<l>Ik geef je vryheid, tot al wat je zult begeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Zie daar, zo moet men doen; zich geensins ombrageeren.</l>
+<l>Zo werd men nimmermeer bedrogen, als een Man</l>
+<l>'t Aan ons discretie steld, wy nemen zelve dan,</l>
+<l>Geen meerder vryheid, dan 't betaamt. 't Is met die zaaken.</l>
+<l>Al eens, als met die geen, die ons de beurs op maaken;</l>
+<l>En zeggen neem maar, wy gebruiken 't dan met maat,</l>
+<l>En met discretie, daar die zaak heel anders gaat,</l>
+<l>Met die beknibbelaars, die zoeken wy te scheeren,</l>
+<l>Van alle kanten, om die parten af te leeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Goed! Ik zal zyn als die haar beurzen open doen.</l>
+<l>Laat ons maar trouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Goed.</l>
+</sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Fransyn, mogt ik een zoen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Stil! stil! 'k hou niet van boert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Zoud gy zo van my scheiden?</l>
+<l>Neen, eeste een zoen op trouw. Wy zullen met ons beiden</l>
+<l>Haast trouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Los!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Fransyn, hoe ben jy ook zo kwaat?</l>
+<l>Wist jy hoe leelik, dat het weigeren je staat.</l>
+<l>Schaam jy je niet; zo schoon, zo fray, zo net besneden</l>
+<l>Te zyn, en tegens recht, en tegens alle reden</l>
+<l>Geenzins te willen, dat men vrindschap jou betoont?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ik sla jou op de bek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Is dat myn min beloont!</l>
+<l>O wreede! ontaarde! foey! ô my! wat vuiligheden!</l>
+<l>Wat is zy bits?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Jy bent te los in al je reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Wat zoud 't jou schaaden, had jy 't my nu laaten doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Neem jy noch wat gedult.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Fransyn, 'k bid maar een zoen,</l>
+<l>Maar een klein zoentje, 't zal hier na tot afslag strekken,</l>
+<l>Als jy en ik te saam ons huwelik voltrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ik ben je Dienaares.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Fransyn zo staande voet,</l>
+<pb n="35"/>
+<l>Ten minsten een.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Neen, denk, dat gy vertrekken moet,</l>
+<l>Men zou, en lichtelik, op 't mat ons konnen komen.</l>
+<l>Ga, zeg jou Heer, dat ik zyn brief heb aangenomen.</l>
+<l>Dat ik zal zorgen, dat 's in goede handen raakt.</l>
+<l>Adieu. Ik bid je, dat jy 't hier niet langer maakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Fransyn, al ga ik weg, myn hart blyft hier, waarachtig!</l>
+<l>Adieu dan schoonheid, straf, en vry wat ezelachtig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ik moet bekennen, jy zyt heel galant, het woord</l>
+<l>Luid wonder amoureux. Maar ga je noch niet voort?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Ik moet, maar kan niet gaan, zo houden my jou lonken.</l>
+<l>Adieu dan Keisteen, Rots uit diamant geklonken,</l>
+<l>En wat noch harder is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Nu breng ik aan Mevrouw</l>
+<l>Dees brief ... maar best is 't, dat ik my ter zyde hou,</l>
+<l>Tot zy alleenig is. Ik zie haar herwaarts treeden,</l>
+<l>Met haare Man.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Hoveling, Lubbert Lubberts, Izabel, Fransyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">NEen, neen. Ik lach met al die reden,</l>
+<l>Geensins; neen; men bedriegt my noch zo licht'lik niet.</l>
+<l>Ik weet te zeeker, dat die zaak zo is geschiet.</l>
+<l>'k Heb beter oogen, als men meent. 'k ben door jou grillen</l>
+<l>Van flus geensins verblind, dies is 't maar tyd verspillen.</l>
+</sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>, <hi rend="i">uit zyn huis komende</hi>.</speaker>
+<l>Daar is zy. Maar de Man is by haar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">'k Zie en merk,</l>
+<l>Door al je fratzen heen, de gront van 't heele werk,</l>
+<l>De waarheid van het geen men my van jou kwam zeggen,</l>
+<l>Ik zag door 't veinzen heen, hoe hier de zaaken leggen.</l>
+<l>De weinig achting, die jy hebt voor d'echte band,</l>
+<l>Die ons te samen bind. Wat bittre smaat! wat schand!</l>
+<stage><hi rend="i">Izabel nygt tegen Hoveling.</hi></stage>
+<l>Ja wel! laat staan! laat staan dit nygen en dit stuipen,</l>
+<l>'k Spreek van die eerbied niet. Ik zou myn bloed wel zuipen.</l>
+<l>Kun jy niet anders doen, dan met my spotten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Hoe!</l>
+<l>Ik met u spotten! ik! wel hoe komt dit nu toe?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ik ken jou hart, en weet, al weer al weer my kwellen?</l>
+<l>Wild my niet langer hier meer voor jou zot zo stellen.</l>
+<l>Ik weet wel, dat jy om jou Adelik gestacht,</l>
+<l>My vry veel lager, en veel minder, dan jou acht,</l>
+<l>En d'achting, en 't respect daar jy my van hoort spreeken,</l>
+<l>Raakt myn persoon niet, dat zag ik je lang verbreeken.</l>
+<l>Ik wil maar spreeken van het geen jy schuldig zyt</l>
+<l>Aan 't huwelik, 't welk ons vereenigd heeft ... ô spyt!</l>
+<l>Jy hoeft de schouders. Zo niet schamper op te haalen!</l>
+<l>Ik spreek geen zotterny. Zo van zyn plicht te dwaalen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Wie haald de schouders op?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ja wel! ik zie het klaar.</l>
+<l>Ik zeg het nu noch eens, wel ernstig, en 't is waar,</l>
+<l>d' Echt is een knoop, aan welk men moet alle achting geeven;</l>
+<pb n="37"/>
+<l>En 't is zeer kwaad gedaan, zo in die staat te leeven</l>
+<l>Gelyk gy doet, ja, ja; 't is kwaad van jou gedaan.</l>
+<l>En jy kond my hier op geensins ten antwoord staan.</l>
+<l>Niet zeggen, als my wat grimassen zo te maaken.</l>
+<l>En 't hooft te schudden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Ik! ik weet niet van wat zaaken</l>
+<l>Gy spreekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ik weet het wel. Ik weet hoe jy my acht.</l>
+<l>Ten minsten ben ik van een eerelik geslacht;</l>
+<l>Ben ik geen Adel. 't Huis der Lubberts durf ik zeggen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<stage><hi rend="i">Van achter Izabel zonder van Lubbert gezien te werden.</hi></stage>
+<l>Een woordje!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">He!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Ik zwyg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 5tab">Is dat te wederleggen?</l>
+<l>Zie wie daar om je zwiert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 4tab">Wel nu! is dat myn schuld?</l>
+<l>Wat wild gy dat ik doe?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Ik wil, dat jy doen zult</l>
+<l>Het geen een vrouw doed, die geen ander wil behaagen</l>
+<l>Dan hare Man; zo wil ik, dat jy jou zult draagen.</l>
+<l>Wat jy ook zeggen moogt, de minnaars henglen niet.</l>
+<l>Dan daar zy weeten, dat men haar graag hoort, en ziet.</l>
+<l>Daar 's zekre zachtheid, die dat volkje hoop kan geeven,</l>
+<l>Een zachtheid, die haar lokt, en na zich trekt, zo even,</l>
+<l>Gelyk de honing, of syroop de vliegen doet</l>
+<l>En kuische vrouwen, van een eerelik gemoed,</l>
+<l>Die hebben zeden, die dat volk van haar verdryven,</l>
+</sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik haar verdryven! en waarom! neen 'k laat dat blyven.</l>
+<l>'t Is my geen schande, dat ik ymants oog geval.</l>
+<l>Neen, dat verheugd my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Wel! maar op wat wyze zal</l>
+<l>Een Man zich dragen, wyl zyn vrouw die minneryjen</l>
+<l>Duld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Als een eerlyk man. Hy moet zich zelf verblyjen,</l>
+<l>Dat hy zyn vrouw van elk, zo hoog geacht ziet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Braaf.</l>
+<l>Dat 's wonder net bedacht. Ja toch. Ik blyfje slaaf.</l>
+<l>Dat is myn meening niet, wat raad jy my moogt geeven.</l>
+<l>Neen, neen, de Lubberts zyn geensins gewoon te leeven</l>
+<l>Na zulken moden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Ha! ik zeg u dat in 't kort</l>
+<l>De Lubberts zullen zien, dat dit de mode word.</l>
+<l>Weet zo veel my betreft, ik durf recht uit verklaaren,</l>
+<l>Dat ik de waereld noch niet meen te laaten vaaren;</l>
+<l>En my al levendig, gelyk als in een graf</l>
+<l>Te sluiten, by een man! 'k verdiende noit die straf.</l>
+<l>Wel hoe! om dat een Man besluit, met ons te trouwen,</l>
+<l>Moet daarom alles ook, gelyk, met ons op houwen?</l>
+<l>En moeten wy daarom, met alle menschen voort</l>
+<l>Gemeenzaamheid, en al het geen de ziel bekoort,</l>
+<l>Gelyk afsnyden? 't is een wondere methode,</l>
+<l>Ja 't is een tiranny na d'aldernieuwste mode,</l>
+<l>Van die heer Mans, en 'k vindze wonder wel beleid;</l>
+<l>Te willen, dat een Vrouw, en voor vermaaklykheid,</l>
+<l>En divertissement zal dood zyn; en maar leeven</l>
+<l>Voor haare Man; ik zal my daar toe niet begeeven.</l>
+<pb n="39"/>
+<l>Ik lach daar meede; ik zoek zo jong myn dood noch niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Voldoe jy zo de trouw, in 't openbaar geschied?</l>
+<l>Die trouw, die jy my gaaft?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Ik gaf z' u niet van herten.</l>
+<l>Geensins; zy wierd my af gedwongen, 'k deed met smerten.</l>
+<l>Hebt gy voor 't huwlik myn toestemming my gevraagt?</l>
+<l>En wanneer vroegt gy my, of gy my had behaagt?</l>
+<l>Gy hebt alleenig, met myn Ouders u beraaden.</l>
+<l>Zy zyn 't die eigentlyk, met u in 't huwelik traaden.</l>
+<l>'t Is daarom recht, dat gy aan haar uw klachte doet,</l>
+<l>Van al het geen, dat u in deeze staat ontmoet.</l>
+<l>Wat my belangt, die noit u heb myn woord gegeeven,</l>
+<l>Die nimmer heb verklaard, met u te willen leeven.</l>
+<l>Die u genomen heb, en zonder dat hier in</l>
+<l>Ik kon te raade gaan, met myne vryje zin.</l>
+<l>Ik acht my niet verplicht, om al myn leeven dagen,</l>
+<l>Als een Slavin, my na uw wil te moeten draagen.</l>
+<l>'k Wil my ook dienen van 't vermaak, 't welk myne jeugd</l>
+<l>My nu noch aanbied; ja, ja toch ik wil met vreugd</l>
+<l>De zoete vryheid, die my noch van myne jaaren</l>
+<l>Vergond werd, wyl ik kan, gebruiken. Ik zou gaaren</l>
+<l>De waereld noch wat zien, 't pleizier genieten, van</l>
+<l>My noch veel zoetigheên, en wat verheugen kan</l>
+<l>Te hooren zeggen. Wilt u zelfs dan daar na voegen;</l>
+<l>Bereid u tot die straf, noch moogt gy u vernoegen.</l>
+<l>Bedank den Hemel, dat ik niet bekwaam en ben,</l>
+<l>Tot iets dat erger is; my daar niet toe gewen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja, ja! meend gy het zo! dat is heel net gevonden!</l>
+<l>Gy zyt door d'echte trouw my eeuwiglik verbonden.</l>
+<l>Ik ben jou man, en zeg, dat ik dat niet verstaa.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik ben uw vrouw, en zeg dat ik 't zo wil, ô ja.</l>
+</sp>
+<pb n="40"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ik had wel lust, om zo haar trony toe te stellen,</l>
+<l>Dat niemand haar hier na met spookjes meer zou kwellen,</l>
+<l>Dat die strooijonkertjes, in plaats van haar te zien,</l>
+<l>Haar zoude schuwen, en als voorde nikker vlien.</l>
+<l>Ach Lubbert Lubbertze! ga, ga, wilt maar vertrekken,</l>
+<l>Want ik zou myn geduld niet langer konnen rekken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Izabel, Fransyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>MEvrouw, met ongeduld verwachte ik, dat hy ging;</l>
+<l>Om deeze brief, die ik van goeder hand ontfing,</l>
+<l>Aan jou te leveren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Laat ons die eens doorleezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Den inhoud, na ik merk, moet niet onaang'naam weezen.</l>
+<l>Holla Mevrouw! gy leest byna heel overluid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ach! ach Fransyn! wat drukt die brief zich aardig uit!</l>
+<l>Wat aangenaame zwier, wat zoete aanvalligheden</l>
+<l>Betoonen die van 't hof, alom in haare reden?</l>
+<l>Wat deftigheid verzelt haar daaden, en hoe veel,</l>
+<l>Verscheelt een Hoveling van andren in dit deel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>'k Gis dat de Lubberden uw niet heel zeer behaagen,</l>
+<l>Na dat gezigt, niet waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Fransyn! wat moogt gy vraagen!</l>
+<l>Maar hoe my Hoveling behaagt, denk echter niet,</l>
+<l>Dat tusschen hem en my iets tegen de eer geschied.</l>
+<l>Ik ben van kindsbeen af gewoongalant te leeven.</l>
+<pb n="41"/>
+<l>'k Weet wel, 'k heb aan myn Man myn hand en trouw gegeeven.</l>
+<l>Ik zal die onbevlekt ook houden; maar die trouw,</l>
+<l>Verplicht my niet, dat ik geen ander spreeken zouw.</l>
+<l>'k Bemin welleventheid, 'k hoor gaarne discoureeren</l>
+<l>Van 't geen aan 't hof passeert. Ik moet my diverteeren</l>
+<l>Door zoet gezelschap, of ik wierd melankolyk,</l>
+<l>By zulk een man; Fransyn, 'k beken, hy is heel ryk;</l>
+<l>Maar dat is 't alles. Kan ik zo myn tyd passeeren!</l>
+<l>Neen, ik zoek menschen daar ik noch wat van kan leeren.</l>
+<l>Doch zo heer Hoveling 't fatzoen te buiten gaat,</l>
+<l>Myn eer belaagen durft, 'k verzeker hem myn haat.</l>
+<l>'k Beken het schynt heel vreemd, dat ik hem stil hoor spreeken,</l>
+<l>Dat ik my zelve van zo veelderleye streeken</l>
+<l>Hier toe bedien; maar was myn man zo wonder niet,</l>
+<l>Fransyn, 't was alles in zyn byzyn zelf geschied.</l>
+<l>Maar gy kend hem zo wel als ik, hy zou voort klaagen,</l>
+<l>Dat ik myn trouw schond, hy zou hem ten huis uitjaagen.</l>
+<l>Blyf hier. Ik ga, en schryf hem antwoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Na ik vat,</l>
+<l>Is 't heel onnoodig haar tebidden, dat zy dat</l>
+<l>Wat vrindlik doed. Maar daar zie ik hem zelve komen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Hoveling, Fransyn, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>VOorwaar myn heer, jy hebt een gaauwe bôo genoomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Ik dorst geen van myn volk hier zenden, maar ik moet</l>
+<l>Vergelden al de dienst, die 'k weet dat gy my doed,</l>
+<l>Fransyntje.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Wat myn heer! wil daar niet eens van spreeken.</l>
+<l>Dat 's niet noodzaakelik, 't zal noit aan my ontbreeken.</l>
+<pb n="42"/>
+<l>Ei spaar die moeite maar, 'k ben tot je dienst myn heer,</l>
+<l>Om dat jy 't waardig zyt, ô ja; ik acht je zeer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>'k Ben u verplicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Dewyl wy samen zullen trouwen,</l>
+<l>Geef my dat geld, ik zal 't zo lang by 't myne houwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ik zal dit alzo wel bewaaren, als de zoen.</l>
+<l>'k Bedank je zeer, jy hoeft die moeite niet te doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Maar zeg, hebt gy myn brief aan uw Mevrouw gegeeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Zy schryft u antwoord, of misschien is 't al geschreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Maar is 't niet mogelik dat ik haar spreeken kan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ja, kom met my, ik zal dit maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Isser dan</l>
+<l>Geen zwaarigheid? en zou hy dit wel approbeeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Vrees niet, haar man is uit, en zal zo ras niet keeren.</l>
+<l>Ook is hy 't niet, daar wy het meest voor zyn begaan.</l>
+<l>Het zyn haar Ouders; en zo lang wy die outgaan,</l>
+<l>Is niet te vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 1tab">'k Geef my over in uw handen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>O bloemer herten! ik begin te watertanden.</l>
+<l>Bloed! Welk een aardig wyf zal ik daar krygen! zy</l>
+<l>Is zelf de droes te gaauw. Ja wel ik ben zo bly!</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="43"/>
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Lubbert Lubberts, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubberts</hi>.</speaker>
+<l>DAar is myn man van flus. Gut! kon ik hem bepreeken,</l>
+<l>Dat hy de Vader, en de Moeder mee wou spreeken,</l>
+<l>Dat hy getuignis gaf van 't geene, 't welk zy niet</l>
+<l>Gelooven willen, dat hier in myn huis geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Wel ben je daar myn heer de langtong, met je snappen,</l>
+<l>Die ik scherp verbood, dat hy 't geen mensch zou klappen,</l>
+<l>Die 't my zo heeft belooft? foey benje zulk een man,</l>
+<l>Zo grooten kaakert die geen dingen zwygen kan,</l>
+<l>Die weer zegt, dat ik jou in het secrect vertrouwde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ik!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Ja jy hebt al, dat ik jou heb voorgehouden,</l>
+<l>De Man weerom vertelt, en jy zyt d'oorzaak ook,</l>
+<l>Dat in dit huis een groot alarm is, en spook.</l>
+<l>'k Ben bly te weeten, dat je tong niet is verlooren.</l>
+<l>Dit leert my, dat jy noit iets meer van my zult hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Hoor vrindschap.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Had jy niet gaan snappen, ik had jou</l>
+<l>Gulhartig weer verhaald, al 't geene dat hier nou</l>
+<l>Zo daadlik is geschied; maar om je straf te geeven,</l>
+<l>Jy zult niets weeten, van 't geen dat hier werd bedreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Hoe! Wat geschiet'er!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Niet, niet Zie dat komt altyd</l>
+<pb n="44"/>
+<l>Van snappen, nu ben jy dit heele nieuwtje kwyt.</l>
+<l>Jy zult niet snuiven, niet het alderminste weeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Maar hoor!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Geensins!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Een woord. Ik hebt noch niet vergeeten...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Neen, neen, jy trekt my noch die kies zo licht niet vrind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat zoek ik niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Wat zot! ik wed dat jy 't niet vind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Het is iets anders, hoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Neen, neen, jy zult niet trekken.</l>
+<l>Geensins. Jy woud wel, dat ik jou nu ging ontdekken,</l>
+<l>Dat myn heer Hoveling geld aan Fransyn gaf, en</l>
+<l>Dat zy hem by Mevrouw ging brengen, maar ik ben</l>
+<l>Zo zot niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">'k Bid...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Neen, neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 6tab">Ik zal aan jou vereeren...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Poep hille!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubbertsz</hi>, <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 2tab">IK kan met die onnoosle myn begeeren</l>
+<l>Nu niet voldoen; maar 't nieuws, dat hem ontvloogen is,</l>
+<l>Zal echter 't zelve noch uitwerken. Ja gewis.</l>
+<pb n="45"/>
+<l>Indien de vryer noch tot mynent is, 'k durf hoopen,</l>
+<l>Dat ik daar door 't gezigt, nu van haar Ouders oopen;</l>
+<l>Dat ik daar door geheel haar overtuigen zal,</l>
+<l>Van d'onbeschaamtheid van haar Dochter; dit geval</l>
+<l>Geeft my nu heel gelyk. Maar, hier loopt my weer tegen,</l>
+<l>Dat ik alleen ben, ik sta hier weer heel verleegen.</l>
+<l>Wat zal ik doen, om nu van die gelegentheid</l>
+<l>My wel te dienen? Dit diend wyslik overleid.</l>
+<l>Ga ik in huis, zo zal die kwant zien weg te raaken;</l>
+<l>En wat ik ook mogt zien, hoe bont dat zy het maaken,</l>
+<l>Men zal my op myn eed geensins gelooven, light</l>
+<l>Wel zeggen, dat ik droom, en t'onrecht haar beticht.</l>
+<l>Zo ik van d'andre kant, haar Ouders hier doe koomen,</l>
+<l>Voor ik versta, of hy zyn afscheid heeft genomen,</l>
+<l>Dat zou het zelfde zyn, en 'k zou my dan al weer</l>
+<l>Op nieuws gestort zien in die ramp van flus. Wel heer!</l>
+<l>Zou 't my niet mooglik zyn, te konnen ondervinden,</l>
+<l>Of hy in huis noch is. Och waaren hier haar vrinden!</l>
+<l>O my! nu, nu kan ik niet langer twyft'len 'k hoor,</l>
+<l>Hem spreeken, och 't gaat vast! ô my! ik zie hem door</l>
+<l>De reeten van de deur! 't geval geeft in myn handen,</l>
+<l>Nu een gelegentheid, waar door ik van haar schanden</l>
+<l>Haar overtuigen kan; en om de gantschezaak</l>
+<l>Gelyk nu af te doen, vergond zy my 't vermaak,</l>
+<l>Dat ter bestemde tyd, de rechters ook verschynen,</l>
+<l>Die 'k hier toe noodig had. 'k Zie 't eind van al myn pynen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Heer, en Mevrouw van Hoogadel, Lubbert Lubbertze</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubbertze</hi>.</speaker>
+<l>WEl nu, jy woud flus niet gelooven, 't geen ik u</l>
+<l>Verhaalde, u Dochter kreeg toen noch gelyk; maar nu,</l>
+<pb n="46"/>
+<l>Nu heb ik 't in myn hand, om u te doen aanschouwen</l>
+<l>Hoe zy my handeld, hoe zy heeft haar trouw gehouwen,</l>
+<l>En, dank den Hemel! nu is myne schand zo klaar,</l>
+<l>Dat jy niet twyff'len kond; het blykt nu openbaar.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Myn Schoonzoon, hoe! zyt gy dan noch in die gedachten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja toch, en noit had ik meer recht, wil maar wat wachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Komt gy ons hooft al weer warm maken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Ja Mevrouw;</l>
+<l>Aan 't myne doet men noch vry erger. O die trouw...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l>Wel houd gy dan noit op, zo moejelik te weezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O neen. Maar ik hou op, voor jool, gelyk door deezen</l>
+<l>Geschied is, oit of oit, na dit bewys te gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Wild gy u noit van die uitspoorigheên ontslaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O neen Mevrouw; maar 'k zou wel willen, kon het lukken,</l>
+<l>My van een vrouw ontslaan, die door haar quade stukken</l>
+<l>My zo onteeren durft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Wel hoe! Myn Schoonzoon leer</l>
+<l>Doch spreeken...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 1tab">Wacht u ons te raaken, aan onze eer.</l>
+<l>Zoek andre woorden, die min haatlik zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">De zaaken</l>
+<l>Zyn noch meer haatlik, als de woorden die wy maaken.</l>
+<l>Ja toch...</l>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Denk dat gy een Juffrouw hebt getrouwt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja ik bedenk 't genoegt, en zal het zonder fout,</l>
+<l>Zo lang ik adem schep, meer dan te veel bedenken.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Zo gy't gedenkt, wild dan haar achtbaarheid niet krenken,</l>
+<l>En tracht met meer respect van haar te spreeken..</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Maar,</l>
+<l>Waarom neemt zy haar plicht niet van gelyken waar?</l>
+<l>En waarom tracht zy haar niet, als 't betaamt, te draagen?</l>
+<l>Hoe! mag zy alles vry doen, na haar wel behaagen,</l>
+<l>Met my zo handelen als 't haar gevalt, Mevrouw,</l>
+<l>Om dat ze een Juffrouw is, en zonder dat ik zou</l>
+<l>Eens moogen kikken?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 2tab">Wel! wat hebt gy doch te zeggen,</l>
+<l>Hebt gy u deeze dag niet hooren wederleggen?</l>
+<l>En hebt gy niet verstaan, dat zy ons heeft verklaard,</l>
+<l>Dat zy de Man niet kend, daar van gy klagtig waard?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja, maar wat zeg jy, zo ik jou kan daadlik toonen.</l>
+<l>Dat hy nu by haar is, kund gy dat ook verschoonen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Hoe! by haar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ja, by haar, en in myn eigen huis.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Uw eigen huis!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ja toch. 't Gaat vast, zy is niet pluis,</l>
+<l>Hy is in 't voorhuis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Wel, kont gy ons dat ontdekken,</l>
+<l>Wy zullen tegens haar, u zelf tot hulp verstrekken.</l>
+</sp>
+<pb n="48"/>
+<sp>
+<speaker>H. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ja toch, d'eer van ons huis is ons veel meerder waard,</l>
+<l>Dan alles, dies zo gy die duistre zaak verklaard,</l>
+<l>Zo gy dit toonen kond, wy zullen haar verzaaken,</l>
+<l>Ons bloed te zyn; en hoe gy 't ook met haar moogt maaken,</l>
+<l>Ons niet bekreunen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Gy hebt maar te volgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 5tab">Ziet,</l>
+<l>Dat gy u niet bedriegt.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hoogad</hi>.</speaker>
+<l rend="; 3tab">Maar doe dan weder niet,</l>
+<l>Gelyk terstond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Myn heer, jy hebt maar toe te kyken.</l>
+<l>Zie daar; lieg ik het nou? hoe kan het klaarder blyken?</l>
+<l>Zie, nu hoe dat ik werd verraaden, en verkocht!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Izabel, Hoveling, Fransyn, Heer, en Mevrouw van Hoogadel, Lubbert Lubbertze</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>VAar wel, 'k vrees dat men ons in't end verrasssen mogt.</l>
+<l>Ik heb mesures, daar 'k my na moet reguleren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Mevrouw, ik bid, dat gy my dan wild consenteeren,</l>
+<l>Dat ik u deeze nacht nog eens mag spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 6tab">'k Zal</l>
+<l>Doen, wat my moglik is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Draag toch wel zorg voor al,</l>
+<pb n="49"/>
+<l>Dat zy ons niet en zien; laat ons op 't stilste trachten</l>
+<l>Van achtren toe te treen, daar zal ze ons niet verwachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Och! och Mevrouw! het is nu t'eenemaal gedaan!</l>
+<l>Zie daar jou Vader, met jou Man, en Moeder staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>O Hemel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Houd u stil, als of wy haar niet zagen,</l>
+<l>En laat my maar begaan; ik zal wel zorge draagen.</l>
+<l>Hoe! en gy durft dan noch zo stout zyn na het geen,</l>
+<l>Flus voorgevallen is? verborgt gy dan voorheen</l>
+<l>Zo uw gevoelen? my wierd daadlik opgestreeden,</l>
+<l>Dat gy my liefde droegd, dat uw vermeetelheden</l>
+<l>Zo ver zelf gingen, dat u voorneem was, om my</l>
+<l>Te willen spreeken van u zotte minnery,</l>
+<l>'k Betoon myn spyt, en ik verklaar myn zelfs voor d'ooren.</l>
+<l>Van heelde waereld, daar het ook myn Ouders hooren.</l>
+<l>Gy loochend het zeer sterk, en durft verklaaren, dat</l>
+<l>Gy geen gedachten, om my t' offenseeren had.</l>
+<l>En op die dag, durft gy myn noch visites geeven,</l>
+<l>Gy neemd de stoutheid, door een wulpze drift gedreeven,</l>
+<l>My noch te zeggen, dat gy my van harten mind;</l>
+<l>En hondert spreukjes meer, op dat ik zo verblind</l>
+<l>U weer antwoorden zou op uwe zotternyen!</l>
+<l>Of ik een vrouw was, op die wyze te verleyen!</l>
+<l>Een die de trouw zo duur aan haare Man belooft,</l>
+<l>Zou konnen schenden, en zich zien van eer berooft,</l>
+<l>Verlaatende de deugd, waar in ik onder weezen</l>
+<l>Wierd van myn Ouderen. Gy mogt met reden vreezen,</l>
+<l>Zo dit myn Vader wist, hy zou wel maaken dat</l>
+<l>Gy noit hier na meer lust tot zulk een aanslag had.</l>
+<l>Maar wyl een eerbre vrouw niet zoekt gerucht te maaken,</l>
+<l>Zal ik hem, noch geen mensch oit spreeken van die zaaken.</l>
+<pb n="50"/>
+<l>Ik wil betoonen, dat schoon ik maar ben een vrouw,</l>
+<l>Ik moeds genoeg heb, om al die, die myne trouw</l>
+<l>Belaagen, haare straf door myne hand te geeven.</l>
+<l>De daad, die gy zo stout hebt tegens my bedreeven</l>
+<l>Is schandelik, geensins, die van een Edelman.</l>
+<l>En 'k handel u ook niet als Edel, maar verban...</l>
+</sp>
+<stage><hi rend="i">Zy neemt een stok, en slaat haar Man in plaats van Hoveling, die zich van tussen haar beide weg maakt</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>O my! ô my! ô my! ik ben schier dood geslaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O'Lubbert Lubberts.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Sla, sla; dat men hem moet draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Leid u noch iets op 't hart, myn antwoord is gereed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Ziet op een ander tyd waar jy je min besteed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Och Vader! zyt gy daar?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Ja kind, en'k zie met vreugden,</l>
+<l>Dat gy in wysheid, moed, en ia verheeve deugden,</l>
+<l>Uw van Hoogadel toondt een recht, een waare spruyt.</l>
+<l>Kom nader, dat ik u myn groote blydschap uit.</l>
+<l>Kom, dat ik u omhels.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Laat my doch myn verlangen</l>
+<l>Nu ook volbrengen, in myn armen haar ontfangen.</l>
+<l>Ach! ach! ik schrei van vreugd; ik ken, ik ken myn bloed.</l>
+<l>Ja toch myn Dochter, aan de dingen die gy doed.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Myn Schoonzoon, hoe moet gy van vreugd zyn opgetoogen!</l>
+<l>Was is dit toeval zoet, en aang'naam voor uw oogen!</l>
+<l>'k Beken het; gy had stof, om u te omstellen; doch</l>
+<pb n="51"/>
+<l>Uw voorige achterdocht verdwynt gelyk, en noch</l>
+<l>Op d'aangenaamste wys, die gy zoud konnen wenschen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Gy moet u schatten de vernoegst van alle menschen.</l>
+<l>Ja toch myn Schoon-zoon, 'k sla daar ook geen twyffel aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Voorzeker. Dat 's een vrouw! wie zag haar wederga.</l>
+<l>Gelukkig zynze, die met zulke Juffers trouwen,</l>
+<l>Gy kond haar deugden noit genoeg in weerde houwen.</l>
+<l>Ja kust vry nederig d'aard daar zy over gaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Verraderes!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Wat 's dit myn Schoonzoon? waarom staat</l>
+<l>Gy zo versteld? waarom zien wy u uwe plichten</l>
+<l>Niet by uw huisvrouw zo gelyk 't behoort verrichten?</l>
+<l>Waarom bedankt gy haar niet voor de gonst die zy</l>
+<l>Voor u getoont heeft? wat is dit? hoe komt dat by?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Neen, neen myn Vader; dat 's onnodig, 'k ben te vreden,</l>
+<l>Tot die dankzegging heeft hy niet de minste reeden,</l>
+<l>Schoon hy dat zag. Al 't geen ik daadlik heb gedaan,</l>
+<l>Deed ik om volgens plicht myn eere voor te staan.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Waar heen myn Dochter?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">'k Ga myn Vader, om te myden,</l>
+<l>Dat 'k niet verplicht ben, zyn dankzeggingen te lyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Zy heeft gelyk myn heer, dat zy vergramd, het is</l>
+<l>Een vrouw wel waardig aangebeden, ja gewis.</l>
+<l>Jy handeld haar geensins gelyk 't behoord.</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Ontrouwe!</l>
+<l>Karonje! hoe kan ik dit langer zo aanschouwen!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>'t Is een herdenking, een klein overblyfsel van</l>
+<l>'t Geen flus gebeurde. Draag u nu, gelyk een Man.</l>
+<l>'t Zal overgaan, met haar zo wat te Caresseeren.</l>
+<l>Vaar wel myn Schoonzoon, gy hebt 't geen gy kond begeeren.</l>
+<l>Gy ziet u nu in staat, om noit na deeze tyd</l>
+<l>U weer t'ontrusten; ga, en zorg met alle vlyt,</l>
+<l>Dat gy weer tusschen u de vreden maakt, wild trachten,</l>
+<l>Door u ontschuldig, haar weder te verzachten.</l>
+<l>Ga, excuseert by haar uw groote drift.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Gy moet</l>
+<l>Zeer wel bedenken, dat ze is deugdzaam opgevoed,</l>
+<l>Een jonge Juffer die niet was gewoon te hooren</l>
+<l>Dat ymand haar verdenkt of 't minste dorst verstooren.</l>
+<l>Ik ben verheugd nu ik het ende zie van al</l>
+<l>Uw twisten, en de vreugd die gy door dit geval,</l>
+<l>En door haar wys beleid, vooru nu ziet bereiden.</l>
+<l>Vaar wel myn Schoonzoon, 'k ben genootzaakt om te scheiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>'k Zeg niet een woord, want ik zou met myn spreeken doch</l>
+<l>Niet konnen winnen. Wat afgrysselyk bedrog.</l>
+<l>O Lubbert Lubbertze! Ja ik sta zelf verwonderd,</l>
+<l>Zo of ik 't hoorde dat het binnen Keulen donderd,</l>
+<l>Als ik myn leed bedenk, en het doortrapt beleid</l>
+<l>Van die Karonje, van myn wyf, die listigheid,</l>
+<l>Om my steeds ongelyk, en haar gelyk te geeven.</l>
+<l>Zal ik altyd met haar in zulk een stant dan leeven?</l>
+<l>Zal dan de schyn altyd zich wenden tegens my?</l>
+<l>En zal ik nimmer wat zy doed, en wat ik ly,</l>
+<pb n="53"/>
+<l>Zover geraaken, dat ik klaar die onbeschaamde</l>
+<l>Kan overtuigen, dat zy dee 't geen niet betaamde?</l>
+<l>O Hemel sta my by! betoon my uwe gonst,</l>
+<l>En maakt in 't eind te niet, haar zo vervloekte konst!</l>
+<l>Helpt my toch, dat ik kan aan al de waereld toonen</l>
+<l>Dat die ontrouwe my zo schandelik durft kroonen.</l>
+</sp>
+<stage><hi rend="i">Einde van het tweede Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="54"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Hoveling, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>DE tyd verloopt, het is nu reeds al middernacht,</l>
+<l>'k Vrees, dat ik al te lang heb met myn komst gewacht.</l>
+<l>Het is hel donker. Ik zie niet waar ik moet treeden,</l>
+<l>Hou Lammert!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Hei myn Heer! daar had ik haast gegleeden.</l>
+<l>Het is zo glat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Is 't hier? 'k ben noch niet wel bekend</l>
+<l>In deze nieuwe buurt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Ja hier, of hieromtrent.</l>
+<l>Wel dat 's een zotte nacht. Dunkt jou dat ook niet jonker?</l>
+<l>Men kan niet zien. Zy is gelyk een hel zo donker.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Voor zeker Lammert, zy heeft ong'lyk; maar indien</l>
+<l>Zy door haar duisterheid belet, dat wy niet zien,</l>
+<l>Zo maakt zy ook, dat ons geen andre zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 5tab">Waarachtig,</l>
+<l>Dat heb jy recht myn Heer, wel dat bewys is krachtig.</l>
+<l>Neen, zy heeft groot gelyk. maar jy bent gestudeert,</l>
+<l>Myn heer. Ik bid je, dat jy my nu ook eens leerd,</l>
+<l>Waarom dat het des nachts geen dag is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 4tab">Dat zyn zaaken</l>
+<l>Van groot belang, daar elk zo licht niet uit kan raaken.</l>
+<pb n="55"/>
+<l>Gy zyt nieuwsgierig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 2tab">Ja, zo ik geleerd was; 'k zou</l>
+<l>Aan dingen denken, daar men noit aan dagt. Maar nou</l>
+<l>Is 't niet de moeite waard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Gy zyt de studie waardig;</l>
+<l>Uw geest dunkt my subtil, doordringend, en heel vaardig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Dat 's waar myn Heer, ik kan verklaaren het Latyn,</l>
+<l>Al heb ik 't noit geleerd...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Zo dat gy gaauw moet zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Noch onlangs ziende voor een groote poort geschreeven,</l>
+<l>Collegium; docht my, dit wou te kennen geeven.</l>
+<l>Collesi.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 1tab">Treffelik, gy kond dan leezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">Ja,</l>
+<l>Gedrukte letters, als ik lang daar over sta.</l>
+<l>Maar noit, wat moeite ik deê, kon ik geschreeven leeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Gy kond heel aardig, en heel wyslik discoureeren...</l>
+<l>Maar stil, hier is het huis. Ik zie het teekep, dat</l>
+<l>Fransyn, als 't lukken zou, aan my versprooken had.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Die meid is geld waard, en 'k bemin haar ook van herten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>'k Nam u ook meê, om dat gy van uw pyn, en smerten,</l>
+<l>Haar onderhouden zoud.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Myn Heer, ik ben...</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 7tab">Zoet, zoet!</l>
+<l>Ik hoor gewach, en zie wie dat de deur opdoet.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Izabel, Fransyn, Hoveling, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Fransyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Wel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Volg, en laat de deur maar hallef open.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>'k Heb zo gedaan. Wy zyn behendig hem ontsloopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Zy zyn 't.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Sus!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 3tab">Sus!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">Sus!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>, <hi rend="i">tegen Fransyn</hi>.</speaker>
+<l rend="; 5tab">Mevrouw...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>, <hi rend="i">tegen Lammert</hi>.</speaker>
+<l rend="; 6tab">Hoe...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>, <hi rend="i">tegen Izabel</hi>.</speaker>
+<l rend="; 7tab">Myn Fransyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Wat 's dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>, <hi rend="i">tegens Fransyn</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, wat vreugd, wat ongemeene schyn.</l>
+</sp>
+<pb n="57"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>, <hi rend="i">tegens Izabel</hi>.</speaker>
+<l>Fransyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>, <hi rend="i">tegens Hoveling</hi>.</speaker>
+<l rend="; 1tab">Zoet, zoet myn heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>, <hi rend="i">tegens Lammert</hi>.</speaker>
+<l rend="; 4tab">Zo Lammert....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>, <hi rend="i">tegens Fransyn</hi>.</speaker>
+<l rend="; 5tab">Zou ik missen?</l>
+<l>Zyt gy 't Fransyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 3tab">Wel ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 4tab">En ik my ook vergissen?</l>
+<l>Ben jy 't Mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">'k Merk, Mevrouw wy zyn misleid,</l>
+<l>En hebben zo gedwaald door deeze duisterheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>'s Nagts ziet men niet een brus, waarachtig, selleweeken,</l>
+<l>Ik met Mevrouw, in plaats van met Fransyn te spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Zyt gy 't niet Hoveling?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 4tab">Mevrouw ik bent.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 6tab">Myn Man</l>
+<l>Slaapt reeds al dat hy snorkt, en weet nu nergens van.</l>
+<l>Ik neem die tyd waar, om my u t'onderhouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Ik ben u duizend maal verplicht. Wat minnaars zouden;</l>
+<l>Maar zoeken wy een plaats, om wat te zitten.</l>
+</sp>
+<stage><hi rend="i">Zy gaan na 't eind van het Tooneel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 8tab">Goed!</l>
+<l>Dat 's treffelik bedagt, ga, 'k volg u op die voet.</l>
+</sp>
+<pb n="58"/>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l>Fransyn waar benje?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Lubbert Lubberts, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">'k HEb myn vrouw strak na beneden</l>
+<l>Voor zeeker hooren gaan, dat 's om geen goede reden.</l>
+<l>Ik heb my ras gekleed, om haar te volgen. Waar</l>
+<l>Of zy gegaan is? Zo by nacht! Wel dat is raar.</l>
+<l>Zou zy wel uit zyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<stage><hi rend="i">Neemt Lubbert Luhberts voor Fransyn.</hi></stage>
+<l rend="; 2tab">Hoe! waar heb je jou versteeken,</l>
+<l>Fransyn? waar ben je? Ei waarom wil jy niet spreeken?</l>
+<l>Ha! ha! daar heb ik jou. Voorwaar, je meester is</l>
+<l>Daar wonder net bedot; die streek is ook niet mis.</l>
+<l>Ik vind die al zo schoon, en loos, als flus de slaagen,</l>
+<l>Die my verhaald zyn. 'k Zag noit frajer van myn daagen.</l>
+<l>Mevrouw zei, dat hy ronkt, gelyk een Ezel, en</l>
+<l>Niet weeten zal Fransyn, dat ik by jou hier ben,</l>
+<l>En zy by Hoveling, terwy! hy leid te slaapen.</l>
+<l>Wat mogt die bloed aan zo een Juffrouw hem vergaapen!</l>
+<l>'k Wou wel eens weeten, wat hy tegenwoordig al</l>
+<l>Voor droomen heeft; dat moet heel kluchtig zyn en mal.</l>
+<l>Wat of hy overleid? Hoe hy zyn jaloezyen?</l>
+<l>Voldoen kan; maaken dat geen andere haar vryjen?</l>
+<l>Hy is een beest, ja toch, en myn Heer Hoveling,</l>
+<l>Doed hem te grooten eer. Gy antwoord niet een ding.</l>
+<pb n="59"/>
+<l>Fransyn! kom volgen wy, wil my jou pootje geeven,</l>
+<l>Dat ik het zoen! ô bloed! dat 's lekker! van me leeven</l>
+<l>Heeft my zo niet gesmaakt, my dunkt ik eet banket.</l>
+<stage><hi rend="i">Terwyl by de hand van Lubbert Lubberts kust, sloot Lubbert hem hart voor het aangezicht</hi>.</stage>
+<l>Wat droes, hoe sloot jy zo, wat of dat vrouwmensch let!</l>
+<l>Is dat een handje! wel 't is duikers hart in 't slooten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Wie daar, he!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Niemand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Ha, ha! waaren dat de kooten!</l>
+<l>Hy vlucht, na dat hy my zeer net heeft onderricht,</l>
+<l>Hoe myn Karonje op nieuws geschonden heeft haar plicht.</l>
+<l>Wel aan, 't is noodig, dat ik zonder lang te toeven,</l>
+<l>Haar Ouders hier ontbiê, nu heb ik klaare proeven.</l>
+<l>'k Wil, dat die dienen nu tot scheiding van ons echt;</l>
+<l>Laat zy haar best nu doen, dat zy my dit ontlegt.</l>
+<l>Holla! Jan! Jan!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Lubbert Lubberts, Jan</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Jan</hi>, <hi rend="i">in 't venster</hi>.</speaker>
+<l rend="; 2tab">MYn heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Ras! ras! kom hier beneden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>, <hi rend="i">uit het venster springende</hi>.</speaker>
+<l>Ik ben hier al, men kan 't niet doen met minder treeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Wel benje daar?</l>
+</sp>
+<pb n="60"/>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 1tab">Ja heer.</l>
+</sp>
+<stage><hi rend="i">Terwyl hy hem aan de eene zy hoort spreeken, gaat Jan na de andere.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Stil! stil! stil! spreek wat zoet.</l>
+<l>Hoor, ga zo dadelik; maar dat jy 't spoedig doed,</l>
+<l>By myn Schoon-Vader, en Schoon-Moeder, jy zult zeggen,</l>
+<l>Dat ik zeer bid... Maar pas haar dit wel uit te leggen.</l>
+<l>Dat zy zo staande voet, voort, moeten komen, ga</l>
+<l>Verstaa jy 't Jan? he! Jan! ik bid je loop doch dra.</l>
+<l>Verstaat jy 't Jan? he! Jan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 2tab">Myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Wat zal dit werden.</l>
+<l>Waar drommel benje?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 2tab">Hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<stage><hi rend="i">Terwyl zy na malkanderen zoeken gaat de eene aan de eene zy, en de ander aan de andere zy</hi>.</stage>
+<l rend="; 3tab">Wel 't is niet om te herden!</l>
+<l>De pokken schend dien beest, die my ontwykt, zie daar,</l>
+<l>Ik zeg noch eens, dat gy voort gaat, zo daadlik naar</l>
+<l>Myn Vrouwen Vader, en zegt hem, van mynent weegen,</l>
+<l>Dat ik om hem, en om zyn vrouw zeer ben verleegen,</l>
+<l>Dat ik op 't ernstigst bid, dat zy zo voort met u</l>
+<l>Hier daadlik komen. Voort, zo strak, verstaa jy 't nu,</l>
+<l>Zo antwoord my. Jan! Jan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>, <hi rend="i">van de andere zyde</hi>.</speaker>
+<l rend="; 3tab">Myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">'t Is om zyn zinnen</l>
+<l>Te missen, voort kom hier, schelm! wat wil jy beginnen.</l>
+<stage><hi rend="i">Zy loopen malkanderen tegen het lyf aan</hi>.</stage>
+<pb n="61"/>
+<l>O vagebont! ô my! ô my! ik ben schier lam, en doof.</l>
+<l>Waar benje, voort kom hier, dat ik de kop je kloof,</l>
+<l>'k Geloof, dat hy my schuwt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 5tab">Wis!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">'k Vraag, of gy zult komen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l>Geensints.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ik zeg je, kom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 4tab">Neen, jy hebt voorgenoomen</l>
+<l>My af te rossen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Nou kom maar, ik zal je niet</l>
+<l>Het minste doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l rend="; 3tab">In ernst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 5tab">Ja kom maar, goed. jy zier,</l>
+<l>Ik heb je nu van doen, dat 's jou geluk, ga heenen,</l>
+<l>Bid myn Schoon-Vader, en Schoon-Moeder ook met eenen,</l>
+<l>Uit mynen naam, dat zy, zo dra het weezen kan,</l>
+<l>Haar herwaarts spoeden; zeg, dat het een zaak is van</l>
+<l>Zeer groot gevolg, en zo zy zwaarigheden maaken,</l>
+<l>Om dat het nacht is, zo moet jy 't gewicht der zaaken</l>
+<l>Haar wel voor houden, en haar dringen, dat zy voort</l>
+<l>Meê komen. Nu heb jy myn meening wel gehoort?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jan</hi>.</speaker>
+<l>Wel ja myn Heer</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Loop ras, en wild voort weder komen.</l>
+<l>'k Ga onderwyl in huis, en wacht tot 'k heb vernomen...</l>
+<l>Maar 'k hoor daar ymand, zou dat ook myn wyf wel zyn?</l>
+<pb n="62"/>
+<l>Ik moet het luisteren; al was zy noch zo fyn,</l>
+<l>Nu is zy in het net. Al was zy met'er tienen,</l>
+<l>Ik zal my zelfs wel van die duisterheid bedienen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Hoveling, Izabel, Lubbert Lubberts, Fransyn, Lammert</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>HEt werd reeds meer dan tyd dat ik my retireer.</l>
+<l>Vaar wel Heer Hoveling, in 't kort zie ik u weer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Zo ras! 'k daght niet, dat wy zo spoedig scheiden zouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Wy hebben lang genoeg elkandren onderhouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Mevrouw, ach! kan ik oir genoeg u spreeken! en</l>
+<l>In zulk een korte tyd, als ik uu by u ben!</l>
+<l>De woorden vinden, die 'k van doen heb? heele daagen</l>
+<l>Had ik van doen, om u myn hart recht uit te klaagen.</l>
+<l>En 'k heb u 't minste deel noch niet verhaald van al</l>
+<l>'t Geen ik te zeggen had, ô bitter ongeval!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>'k Zal op een ander maal u breeder konnen hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Helaas! wat donderslag dringt in myn hert door de ooren,</l>
+<l>Nu gy spreekt van vertrek. Ach! in wat bittre rouw,</l>
+<l>In wat ontroeringen, verlaat gy my Mevrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Wy zullen in het kort, tyd, en occasie vinden,</l>
+<l>Elkand'ren weer te zien. Wy zullen hem verblinden.</l>
+</sp>
+<pb n="63"/>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Ja, maar ik denk, dat gy my laatend, weer een Man</l>
+<l>Gaat vinden. Ach Mevrouw! ach! die gedachten kan</l>
+<l>My moorden. 't Voorrecht, dat de Mannen is gegeeven</l>
+<l>Is gruwlik in het oog van minnaars, die gedreeven</l>
+<l>Door yverige zucht, onlydelyke pyn...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Myn Heer, zo zoud gy dan noch zo standvastig zyn,</l>
+<l>Dat deze zorg u treft, meend gy, dat onze zinnen,</l>
+<l>Een zeeker soor van Mans, gelyk'er zyn, beminnen?</l>
+<l>Men neemtze, om dat men zich daar niet van kan ontslaan,</l>
+<l>Om dat men d'Ouders nie met kracht kan tegen gaan;</l>
+<l>Die op het geld maar zien. Doch evenwel, wy weeten,</l>
+<l>Haar haar gerechte straf genoeg ook toe te meeten.</l>
+<l>Myn Heer, men wacht zich wel, haar hooger te achten, dan</l>
+<l>Zy waardig zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">O Arm! ô ongelukkig man!</l>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">Hoe wel moet elk verklaaren,</l>
+<l>Dat hy, aan wien men u met tegenzin deê paaren,</l>
+<l>Die eer niet waardig is, die hy daar door geniet.</l>
+<l>Dat die vereeniging is tegens recht geschiet.</l>
+<l>Wat wonderlyker band! het pronkbeeld aller vrouwen!</l>
+<l>Zo schoone beeld! aan zulk een Lubbert uit te trouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ach arme Mans! Zie daar zo stellenze u ten spot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l>Ja zonder twyffel, gy verdiend een ander lot</l>
+<l>Mevrouw. De Hemel heeft u zeker niet geschapen,</l>
+<l>Om al u leeven in een Boeren arm te slaapen.</l>
+</sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ach! wou den Hemel, dat gy met haar waart getrouwd!</l>
+<l>'k Verzeeker u, dat gy heel anders praten zoud.</l>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<stage><hi rend="i">Hy gaat in huis en sluit de deur.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Mevrouw hebt g' iets te zeggen,</l>
+<l>Tot lasten van u man, zo wild het ras uitleggen?</l>
+<l>Haast u, het is reeds laat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 3tab">Fransyn! wat zyt gy wreed!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Zy heeft gelyk, 't is tyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hoveling</hi>.</speaker>
+<l rend="; 2tab">'k Moet, schoon met herten leed.</l>
+<l>Dan nademaal gy 't wild. Maar 'k zal u eerst besweeren,</l>
+<l>Dat gy op 't minst met u beklag my zult vereeren,</l>
+<l>In d'oogenblikken, die ik droevig slyt, ô ja!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Vaarwel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lammert</hi>.</speaker>
+<l rend="; 1tab">Waar benje dan Fransyn, eer ik noch ga,</l>
+<l>Moet ik je goede nacht noch wenschen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 4tab">Niet te draalen.</l>
+<l>Loop, 'k wensch jou ook zo veel, zo kan ik je betaalen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Izabel, Fransyn, Lubbert Lubbertze</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>FRansyn, nu zonder veel gerucht weer stil in huis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Holla! wat zal dit zyn? dit is een groot abuis!</l>
+<l>De deur in 't slot?</l>
+</sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Ik heb de looper, wild niet vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Doed dan stil open.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Och Fransyn! wat zal dit weezen?</l>
+<l>Zy is van binnen toe gegrendeld, och Fransyn!</l>
+<l>Hier zyn wy in het nauw, hier zyn wy in de pyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Roept stil de jongen die daar slaapt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Dat 's wel verzonnen.</l>
+<l>Jan! Jan! Jan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi> <hi rend="i">'t Hooft te venster uit steekende</hi>.</speaker>
+<l rend="; 1tab">Jan! Jan! Jan! nou heb ik 't spel gewonnen.</l>
+<l>Ik knip jou eindling dan Mevrouw, myn wyfje! ha!</l>
+<l>Terwyl ik slaap, loop jy uit krollen? fray! wel ja!</l>
+<l>'k Verheug my zeer, dat ik je voor de deur zie pronken,</l>
+<l>Zo laat al in de nacht. Ha! waaren dat de vonken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik zoek de stilheid en de koelte van de nacht.</l>
+<l>Is dat zo kwaad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Wel neen, dat is heel schoon bedacht.</l>
+<l>En 't is de rechte stond, om na de koelt te haaken.</l>
+<l>'t Is eer de warmte, die jou kon uithuizig maaken.</l>
+<l>Mejuffrouw smots, ik weet de heele handeling</l>
+<l>Van jou en jou galant, ja tot het minste ding.</l>
+<l>Ik heb jou zoet discours gehoort, die schoone dichten,</l>
+<l>Die jy tot mynen lof malkandren zeid. 'k Most zwichten.</l>
+<l>Maar myn vertroosting is. dat ik zo daadelyk,</l>
+<l>My zal gewroken zien. Nu zal ik door dit blyk,</l>
+<l>Jou Ouders klaar doen zien, dat altyd myne klachten</l>
+<l>Rechtvaardig zyn geweest, zy zullen niet lang wachten.</l>
+<l>Ik hebze ontboden, en jy zult haar daadlik zien.</l>
+</sp>
+<pb n="66"/>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>O Hemel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">Ach Mevrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Die slag had jy misschien</l>
+<l>Zo niet verwacht; gewis, nu zal ik triumpheeren.</l>
+<l>'k Zal jou die parten, en die trotsheid nu verleeren.</l>
+<l>Jy wist tot deeze tyd al myn beschuldiging,</l>
+<l>Te loor te stellen, by jou Ouders; alle ding,</l>
+<l>Een schyn te geeven, om haar d'oogen uit te steeken,</l>
+<l>Wat ik ook zeggen mogt, met welke gronden spreeken,</l>
+<l>Jou sno doortraptheid won het altyd van myn recht,</l>
+<l>En altyd heb jy 't my nu zus dan zo ontlegt.</l>
+<l>Maar 'k dank den Hemel, 't zal je nu zo niet gelukken,</l>
+<l>De heele waereld zal nu zien jou booze nukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik bid u, dat men my de deur doch open doed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Neen, neen; verwacht dat niet. Geensins, je Vader moet</l>
+<l>Jou zo laat in de nacht op straat zien, hy moet weeten,</l>
+<l>Hoe schandelyk dat jy hebt eer en plicht vergeeten.</l>
+<l>Zie dat je onderwyl, dat hy zal komen, iet</l>
+<l>Bedenkt, zoek in je kop, verzin, of jy daar niet</l>
+<l>Weer wat in vinden kond; verdicht weer nieuwe gronden,</l>
+<l>Om jou uit dit parket te redden; zoek weer vonden,</l>
+<l>Daar door 't volk werd misleid en als begoocheld, om</l>
+<l>Te schynen, zonder schuld; zeg weer myn Man is dom.</l>
+<l>Welk een waarschynelik pretext zul jy verzinnen,</l>
+<l>Van deeze nacht-reis? wie, wie doch van jou vrindinnen</l>
+<pb n="67"/>
+<l>Most kramen, en heeft jou ontbooden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 5tab">Neen, gy weet</l>
+<l>De gansche zaak, en 't is my ook van harten leet.</l>
+<l>Myn meening is geensins, om my te defendeeren,</l>
+<l>Or iets te loochnen? maar vergifnis te begeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Jy defendeert je niet, om dat je klaar ik ziet,</l>
+<l>Dat daar geen kans toe is; dat jou niets overschiet.</l>
+<l>Jy weet, dat in dees zaak, jy niets voor jou kond zeggen,</l>
+<l>Of ik zou dadelik je konnen wederleggen,</l>
+<l>En overtuigen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Ja, 'k beken, ik heb misdaan.</l>
+<l>Maar ymand, die noit valt, behoeft noit op te staan.</l>
+<l>Ik bid u, dat gy my doch aan d'oploopentheden</l>
+<l>Van d'eerste gramschap van myn Ouders, die na reden,</l>
+<l>Noch maat dan hooren, onbarmhertig overgeeft.</l>
+<l>Al! doe doch spoedig op!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Wat is ze nou beleeft!</l>
+<l>Jouw dienaar Juffrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Ei myn Man, myn uirverkooren,</l>
+<l>Myn hartje, doe doch op: Ik bid, wil my verhooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Myn hartje, ja, dat 's recht, als of jy zeggen woud,</l>
+<l>Myn hoorenbeest, niet waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 4tab">Myn liefste, deze fout...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Nou ben ik liefste man, om dat jy zyt verlegen.</l>
+<l>'k Verheug my, en heb noit voorheen die naam gekreegen.</l>
+</sp>
+<pb n="68"/>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Zie daar, ik zweer u, dat ik u na dit geval</l>
+<l>Noit zal misnoegen, en dat ik my zelve zal....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat 's allemaal maar wind. Al bad jy met je tienen,</l>
+<l>Ik moet my nu van deez' gelegentheid wel dienen.</l>
+<l>Het is noodzaak lik, dat men eens heel tot de grond</l>
+<l>Jou snoode streeken ziet. hier helpt noch list, noch vond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik bid u, dat gy dan een oogenblik wild hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Wel nu; maar maakt het kort, veel praatens is verlooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik heb gedwaald, 't is waar, 'k beken noch eens myn schuld.</l>
+<l>Dat g'u gevoelig toond is recht, 'k heb uw geduld</l>
+<l>Te veel gevergt. 'k beken, dat ik heb waargenoomen</l>
+<l>De tyd terwyl gy sliept, om uit het huis te komen,</l>
+<l>En op die wys gehoor te geeven, aan dien Heer,</l>
+<l>Die gy my zegt. Maar ik zal hier na nimmermeer</l>
+<l>Iets diergelyks bestaan; en eindling 't zyn genuchten,</l>
+<l>Die gy aan myne jeugt vergeven moet, 't zyn kluchten</l>
+<l>Van jonge menschen, die van geen ervaaring zyn.</l>
+<l>Die eerst de waereld zien, die zich licht door de schyn</l>
+<l>Misleiden laaten; 't is een losheid, die, die luiden</l>
+<l>Zo zonder dat men denkt, ymand 't kwaad kan duiden,</l>
+<l>Bedryven; zonder arg, of list, en zo men dat</l>
+<l>Recht van de grond ziet, 't geen niet schuldigs in zich vat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja toch, jy zegt het. Maar Mejuffrouw, zulke zaak en</l>
+<l>Vereischen een heel sterk geloof, om 't goed te maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik zoek my daardoor niet te ontschuldigen, ô neen</l>
+<l>Myn al derliefste Man. Ik bid u maar alleen</l>
+<l>Dat gy een fout vergeeft; waar van gy my van harten</l>
+<l>Vergiff'nis bidden hoord. Bevryd my van de smarten,</l>
+<pb n="69"/>
+<l>Die 'k zon gevoelen, door het lastige verwyt</l>
+<l>Van myn heer Vader, en vrouw Moeder, 'k Zal altyd,</l>
+<l>Zo gy my genereus dees beede wild vergonnen,</l>
+<l>U zo believen, als gy oir zoud wenschen konnen.</l>
+<l>Die goedheid zal aanstonds myn ziel zo roeren, dat</l>
+<l>Schoon noch 't vermoogen, 't welk myn vader op my had,</l>
+<l>Noch ook de band des Echts, myn hart voort u kon winnen,</l>
+<l>Ik u in eeuwigheid standvastig zal beminnen.</l>
+<l>En met een woord, die gonst zal oorzaak zyn, dat ik</l>
+<l>Geen ding ter waereld oir meer, na dit oogenblik,</l>
+<l>Beoogen zal, als uw vermaak. Ik zal steeds myden</l>
+<l>Gezelschappen, en geen galanterien lyden.</l>
+<l>Ja 'k geef u nu myn woord, dat gy van nu af aan</l>
+<l>Geen Vrouw zult zien, die meer haar Man ten diensl zal staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ha Crocodil! die't volk vleid, om den hals te breeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Bewys my deeze gonst!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Wil daar niet meer van spreeken.</l>
+<l>'k Ben onverbidlik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Toon u genereus.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Neen, neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik bid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Geenfins.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Ik zweer van herten, dat ik 't meen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Neen, neen, neen, neen; ik wil dat voor een yders oogen</l>
+<l>Nu kenbaar werd, hoe jy de waereld hebt bedroogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Wel aan, indien gy tot de hoop my nu vervoerd,</l>
+<pb n="70"/>
+<l>Ik zeg u, dat een vrouw, door deeze drift ontroerd,</l>
+<l>In zulk een staat bek waam is, alles uit te voeren,</l>
+<l>En dat ik iets zal doen, dat u zo zal outroeren,</l>
+<l>Dat u dit rou wen zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">En wat zou jy toch doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ik zou een daad bestaan, die gy niet zoud vermoôn.</l>
+<l>Door wanhoop aangevoerd, zou ik my hier het leeven</l>
+<l>Verkorten; met dit mes, my zelf de doodsteek geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Goed, goed, dat is heel wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 2tab">Niet eens zo goed voor u,</l>
+<l>Als gy u inbeeld: want de heele stad weet nu,</l>
+<l>Hoe kwalik dat wy t' saam in 't hu welik ons verdraagen,</l>
+<l>En, dat gy over my, gestadig legt te klaagen.</l>
+<l>Elk weet, dat gy een wrok hebt tegens my gevat,</l>
+<l>Zo 'k dood gevonden werd, voort zal de heele stad</l>
+<l>Voor vast gelooven, dat gy 't waard die my vermoorde</l>
+<l>Myn Vader, die terstond noch onze kwestie hoorde,</l>
+<l>Is waarelik geen Man, om zyne Dochters moord</l>
+<l>Te lyden, zouder wraak; geensins, hy zal u voort,</l>
+<l>En door de middelen, die 't recht hem zal verschaffen,</l>
+<l>En door de hitte van zyn wraak, op 't vinnigst straffen.</l>
+<l>En daar door is 't, dat ik my van u wreeken zal.</l>
+<l>Ook ben ik d'eerste niet, die in zulk noot geval,</l>
+<l>Tot zulk een weg van wraak, haar toevlucht heeft genoomee,</l>
+<l>En die op deeze wys is aan haar dood gekomen,</l>
+<l>Om stervende noch mee te sleepen in 't graf,</l>
+<l>Die tegens haar voorheen zo wreed was, en zo straf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ik blyf u dienaar. Ho! die tyd is lang vervloogen!</l>
+<pb n="71"/>
+<l>De menschen zien nu al vry beeter uit haare oogen!</l>
+<l>Men dood zwn zelve nu niet meer, dat 's lang geleên,</l>
+<l>Die moode is uit de tyd; 't geschied niet meer, neen, neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Geloof my vry, en zo gy 't langer my durst weig'ren,</l>
+<l>Zo gy niet op doed, maar myn wanhoop meer doet steig'ren;</l>
+<l>Zal ik u voort doen zien, door d'alderstoutste daad,</l>
+<l>Waar toen het woên van een, geport door wanhoop, gaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Ja, wisje wasjes!, dat is om dat ik zou vreezen.</l>
+<l>Tut! tut! ha! ha!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Welaan, dewyl het dan moet weezen,</l>
+<l>Zie daar dan eind'ling, dat ons bei vernoegen zal,</l>
+<l>En toonen of ik spot. Ai my! wat ongeval!</l>
+<l>Ach! 't is gedaan! ô Goôn! laat myne dood zo wreeken,</l>
+<l>Gelyk ik wensch! verhoor! verhoor! myn laatsle smeeken.</l>
+<l>Geef doch, dat hy, die my zo wreeden dood bereid,</l>
+<l>Gerechte straf bekom van zyn onmenschlikheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Zus! luister! zou zy wel tot zulke uitzinnigheden,</l>
+<l>Vervallen, dat zy zich zou dooden, om die reden?</l>
+<l>En om my aan een galg te helpen? welke raad!</l>
+<l>Ik neem een entje kaers, en zie eens hoe, 't 'er staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Sus! sus! stil voegen we ons zo dicht wy konnen komen,</l>
+<l>Aan bei de posten, dan de kans wel waargenoomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Zou dan de boosheid van een vrouwmensch zo ver gaan.</l>
+<stage><hi rend="i">Hy komt buiten met een endje kaers, zonder haar tezien, zy snappen agter hem in huis en doen dadelik de deur stil toe.</hi></stage>
+<l>Neen, daar is niemand, ha 'k sloeg daar wel twyffel aan.</l>
+<pb n="72"/>
+<l>Toen die Karonje zag, dat zy noch door gebeden,</l>
+<l>Noch dreigen won, is zy gevlucht. Dit maakt myn reden</l>
+<l>En klacht noch krachtiger. Haar Ouders zullen nou</l>
+<l>Haar schuld noch klaarder zien, in 't ende wreekt jy jou</l>
+<l>Noch Lubbert Lubbertze: nu zul jy hier gebieden,</l>
+<l>Hoe wat of dit zal zyn, wat zal dit weer bedieden?</l>
+<l>De deur in 't slot! holla! doe open! rasjes! dra.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi> <hi rend="i">in 't venster met Fransyn</hi>.</speaker>
+<l>Wel hoe, zyt gy 't? dat is heel net getroffen, ja.</l>
+<l>Waar nu al weer van daan; is 't nu tyd om te komen</l>
+<l>Na huis? nu? nu de dag by na reeds werd vernomen?</l>
+<l>En zulk een leeven past dat aan een eerlik Man?</l>
+<l>Foei! schaamt u.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 1tab">'t Is heel schoon, en 'k hou daar wonder van.</l>
+<l>De heele gansche nacht in kroegen, en in kuffen</l>
+<l>Te zuipen, en de vrouw in huis te laaten suffen</l>
+<l>Foei! schaam je zulk een arme, en alderliefste Vrouw,</l>
+<l>Zulk hartseer aan te doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Hoe drommel heb ik 't nou?</l>
+<l>Jy hebt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">Ga, deugeniet. Uw ongeregeldheden,</l>
+<l>En uw mishandelingen heb ik genoeg geleeden.</l>
+<l>Ik zal, en zonder meer te toeven, daadlik my</l>
+<l>Daar van beklaagen, aan myn Ouders.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Hoe, durf jy,</l>
+<l>Jou dan, zo stout...</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="73"/>
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Myn Heer, en Mevrouw</hi> van <hi rend="sc">Hoogadel, Jan, Fransyn, Izabel, Lubbert Lubberts</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<stage><hi rend="i">Heer en Mevrouw van Hoogadel zijn in nacht rokken, en werden geleyd door Jan, die een lanteerne draagt.</hi></stage>
+<l rend="; 1tab">Ik bid u, wil doch nader treeden,</l>
+<l>En komt my recht doen, van de grootste uytspoorigheden</l>
+<l>Des waerelds, van een man, wiens zinnen door de wyn,</l>
+<l>En door de jaloezy zo zeer verbystert zyn.</l>
+<l>Dat hy niet langer weet, ik moet het u nu klaagen,</l>
+<l>Noch wat hy zegt, noch doet, ik kan 't niet meer verdraagen.</l>
+<l>Ja, hy zond zelf om u, dat gy aanschouwen zoud,</l>
+<l>De buytenspoorigste, en, de schrikkelykste fout</l>
+<l>Die ooit gehoord wierd. Daar komt hy het huys eerst zoeken,</l>
+<l>Gelyk gy ziet, wie zou zulk leeven niet vervloeken!</l>
+<l>Na dat men, welk een kruis! na hem de heele nacht</l>
+<l>In duizend angsten, en half dood schier heeft gewagt.</l>
+<l>En zo gy hem gehoor wild geeven, zal hy klaagen,</l>
+<l>Van 't schriklyk ongelyk, dat ik hem doe verdraagen.</l>
+<l>Hy zal u zeggen, dat terwyl hy leid en droomd,</l>
+<l>Ik van zyn zy opstaa, om uit te gaan; hy schroomd</l>
+<l>Niet honderd spreukjes van die zelfde soort te dichten,</l>
+<l>Om my by u, en elk, op die wys te betichten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Dat 's een boosaardige Karonje!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Ja myn Heer,</l>
+<l>Hy was zo stout, dat hy wou zeggen, en noch meer,</l>
+<l>Jou doen gelooven, dat hy was in huis gebleeven;</l>
+<l>Wy waaren op de straat. Wat dunktje van dat leeven?</l>
+<pb n="74"/>
+<l>En 't is een zotheid, die geensins hem uit het hoofd</l>
+<l>Te krygen is, het is als of hy 't noch gelooft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Wat!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Hoe is 't goed te maaken</l>
+<l>Een onbeschaamtheid, die als dol, by zulke zaaken;</l>
+<l>Ons noch ontbieden durft!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Noit...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Neen myn Vader, ik</l>
+<l>Kan 't niet meer lyden, 't is voor my onmogelik</l>
+<l>Een zulke man! 't Geduld is heel met my ten enden.</l>
+<l>Hoe lasterd hy! ach! had gy hem my hooren schenden?</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Gy zyt geen eerlik man.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Het is Conscientie werk.</l>
+<l>Een arme jonge vrouw, en die noit was heel sterk,</l>
+<l>Op zulk een wys te zien mishandeld; mogt ik spreeken.</l>
+<l>Die dingen roepen wraak! het zyn geen kleine streeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Hoe kan ik...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Weg, gy most van schaamte sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Maar,</l>
+<l>Vergun my, dat ik in twee woorden jou verklaar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Ja hoord hein noch, hy zal u schoone dingen zeggen,</l>
+<l>'k Verzeker u, hy zal de schuld op my noch leggen.</l>
+</sp>
+<pb n="75"/>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O Lubbert Lubbertze! ik word noch dol.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 7tab">Hy heeft</l>
+<l>Zo veel gedronken, dat het my groot wonder geeft,</l>
+<l>Hoe ymand by hem duurd. Heb ik my ook bedroogen?</l>
+<l>Neen, neen, de wynlucht komt tot in myn neus gevloogen,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Myn heer Schoon-Vader, 'k zweer...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Weg, hier zo wat van daan.</l>
+<l>Als gy u mond op doed, kan niemand by u staan,</l>
+<l>Zo stinkt gy na den drank.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 3tab">Mevrouw, ik bid wild letten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Fy! nadert my toch niet! fy! wild my niet besmetten.</l>
+<l>Uw asem stinkt, 't is onverdraaglik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 6tab">Sta doch toe,</l>
+<l>Dat ik...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Ik zeg vertrek, ik ben die lucht al moe;</l>
+<l>Men kan niet duuren...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">'k Bid, dat jy my wild vergonnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Foey! 't hart keerd my heel om. Ik zoud 't niet harden kunnen.</l>
+<l>Spreek ons van verre, zo gy wild.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 6tab">Nu, nu wel aan.</l>
+<l>O Lubbert Lubbertze! Hoor maar en 't is gedaan.</l>
+<l>Ik zweer je, dat ik niet was uit het huis. 't Zyn zaaken,</l>
+<pb n="76"/>
+<l>Om ymand disperaat, ja raazend dol te maaken.</l>
+<l>Zy, zy was op de straat...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 3tab">Wel, is dit nu niet net,</l>
+<l>Gelyk ik heb gezeid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l rend="; 2tab">Wat schyn! ik bidje, let...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Weg, weg, gy spot met haar. Myn dochter, kom beneden.</l>
+<l>Kom, by ons hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 1tab">Ik zweer, met honderd duizend eeden,</l>
+<l>Dat ik in huis was, en...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mevrouw</hi> van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Zwyg, die uitspoorigheid,</l>
+<l>Is onverdraaglik, hier hoeft niet meer gepleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>De droes, die mag my zo...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Wild 't hooft ons niet meer breeken,</l>
+<l>Denkt om vergiffenis, voor zulke snoode streeken,</l>
+<l>Te bidden van uw vrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 4tab">Ik haar vergiffenis.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Ja gy vergiffenis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l rend="; 2tab">Hoe! ik zou, daar gewis,</l>
+<l>Zy...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Wel indien gy hier noch veel durft tegenstreeven,</l>
+<l>Ik zal u leeren, wat het is alzo te leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>, <hi rend="i">beneden gekomen zynde</hi>.</speaker>
+<l rend="; 2tab">Ik vergeeven, al het geen</l>
+<pb n="77"/>
+<l>Hy my verweeten, en gezeid heeft! Neen, ô neen!</l>
+<l>Myn Vader, ik kan dat zo niet van my verkrygen.</l>
+<l>Het is onmooglik, of wy 't zeggen, of wy 't zwygen,</l>
+<l>Met hem te leeven, 'k bid dierhalven, sta my toe,</l>
+<l>Dat ik my van hem schei, ik ben dit leeven moe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Myn Dochter, zulke zaaken</l>
+<l>Gaan ver, de gansche stad zoud gy de mond opmaaken.</l>
+<l>De echtscheiding sleept na zich zeer groote schand, en gy</l>
+<l>Moet toonen, dat gy meer verstand gebruikt, dan hy.</l>
+<l>Verdraag noch deeze reis geduldig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 4tab">Hoe geduldig!</l>
+<l>Na die onwaardigheên, die hy zo menigvuldig,</l>
+<l>My heeft betoond! neen, neen, myn Vader, och gy ziet,</l>
+<l>Myn hart weerstreeft my, en wil niet dat zulks geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>O Lubbert Lubbertze!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Denk dat wy 't u gebieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l>Dat woord sluit my de mond, het moet, het zal geschieden.</l>
+<l>Ik weet, gy hebt op my een onbepaalde magt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Wat zachtheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 1tab">'t Valt zeer hart, met die ons heeft veracht,</l>
+<l>En zo verongelykt, gelyk voorheen te leeven.</l>
+<l>Wie kan vergeeten zulk een smaad, aan hem bedreeven,</l>
+<l>Maar wat geweld, dat ik ook doen moet, ik beken,</l>
+<l>Myn plicht vereischt van my, dat ik gehoorzaam ben.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fransyn</hi>.</speaker>
+<l>Och arme sloof!</l>
+</sp>
+<pb n="78"/>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 2tab">Kom hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Izabel</hi>.</speaker>
+<l rend="; 4tab">'t Zal alles toch niet winnen,</l>
+<l>En morgen zal hy weer, op d'oude wys beginnen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>'k Verzeeker, dat ik daar in wel zal verzien,</l>
+<l>Kom voort, nu ras, en valt zo daadlik op uw knien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Op knien!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 1tab">Ja op uw knien, en zonder lang te draalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi> <hi rend="i">knielende</hi>.</speaker>
+<l>O Lubbert Lubbertze! mogt ik haar eens betaalen!</l>
+<l>Wat moet men zeggen! ô!</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 4tab">Mevrouw, ik bid, vergeef.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Mevrouw, ik bid, vergeef.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 5tab">De fout, die ik bedreef.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>De fout, die ik bedreef. <hi rend="i">ter zyden</hi>.</l>
+<l rend="; 4tab">De fout van jou te trouwen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>En ik beloof hier na, myn plicht in acht te houwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>En ik beloof, hier na myn plicht...</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 6tab">Gelyk 't behoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lub. Lub.</hi></speaker>
+<l>Gelyk 't behoord.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l rend="; 3tab">Ziet toe, en hou hier in uw woord.</l>
+<l>En weet, dit is de laatst' van uw uitspoorigheden,</l>
+<l>Die wy verdraagen, 'k heb die lang genoeg geleden</l>
+</sp>
+<pb n="79"/>
+<sp>
+<speaker><hi rend="sc">Mevr</hi>. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Voorwaar, vervalt gy weer, wy zullen, en met recht,</l>
+<l>Uw leren, wat respect gy schuldig zyt aan d'echt,</l>
+<l>Aan uwe vrouw, en die, daar zy is af gekomen.</l>
+</sp>
+<sp>
+<speaker>Hr. van <hi rend="sc">Hooga</hi>.</speaker>
+<l>Daar breekt de dag aan, nu ons afscheid noch genomen.</l>
+<l>Vaar wel, ga in uw huis, en zorg voor al, dat gy</l>
+<l>Uw wyslik draagt. En wy, myn lief, kom spoeden wy,</l>
+<l>'t Is tyd, ons weer te bed.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lubbert Lubbertze</hi>.</speaker>
+<l rend="; 1tab">Ach! 'k zal nu van haar loopen.</l>
+<l>Och Lubbert Lubbertze! wild jou maar op gaan knoopen.</l>
+<l>Wanneer men, zo als ik, heeft een kwaad wyf getroud,</l>
+<l>Het beste middel is, zo wel voor jong, als oud,</l>
+<l>Met 't hoost voor over, zich in 't water neer te storten.</l>
+<l>Alleen dit middel kan die zwaare plaag verkorten.</l>
+</sp>
+<stage><hi rend="spat">EINDE</hi>.</stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

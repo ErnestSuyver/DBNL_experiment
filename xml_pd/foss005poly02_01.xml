@@ -1,0 +1,2816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Polyxena</title>
+                <author>Antoine de la Fosse</author>
+                <editor role="translator">Matthys Bode</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de derde druk van <hi rend="i">Polyxena</hi> van Antoine de la Fosse, in een vertaling van Matthys Bode uit 1740. De eerste druk dateert uit 1703.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="pi">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan type="I">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">foss005poly02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 41:2</idno>
+                </bibl>
+                <p>Antoine de la Fosse, <hi rend="i">Polyxena</hi>. Izaak Duim, Amsterdam 1740 (derde druk)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Polyxena</title>
+                <author>Antoine de la Fosse</author>
+                <editor role="translator">Matthys Bode</editor>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Polyxena</title>
+                <author>Antoine de la Fosse</author>
+                <editor role="translator">Matthys Bode</editor>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-09</date>
+                <respStmt>
+                    <name type="person">SG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body><cf>
+<div type="chapter">
+
+
+
+<pb n="I"/>
+<p>POLYXENA,</p>
+<p><hi rend="i">TREURSPEL</hi>.</p>
+<p>Het Fransche nagevolgd,</p>
+<p>DOOR</p>
+<p><hi rend="i">M.B.</hi></p>
+<p><figure>
+<p><xptr to="foss005poly02ill0002.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By Izaak Duim, Boekverkooper, bezuiden het Stadhuis. <hi rend="i">Met Privilegie</hi>. 1740.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Holland en Westvriesland doen te weten: alzo Ons te kennen is gegeven by de Regenten van het Weesen Oude Mannenhuys der Stad Amsterdam, en in die qualiteyten te samen Eygenaars, mitsgaders Regenten van den Schouwburg aldaar, dat zy Supplianten eenige Jaaren hadden gejoüisseert van 't Octrooy of Privilegie by hen van Ons op den 23. May 1714 geobtineert, waar by Wy aan hun Supplianten goedgunstelyk hadden geaccordeert, en geoctroyeert, om, geduutende den tyd van vyftien doen eerst agter een volgende Jaaren, de Werken, die ten dienste van het Toneel teets waren gedrukt, en van tyd tot tyd nog verder in het licht gebragt, en ten Toneele gevoert zouden mogen werden, alleen te mogen drukken, doen drukken, uytgeeven ende verkoopen, en bevonden dat de Jaaren, by 't voorsz. Octroy of Privilegie genoemt, op den 22. May 1729. stonden te expireeren, en dewyle zy Supplianten ten meesten dienste van den Schouburg, waar van hunne respective Godshuyzen onder andere mede moeten worden gesustenteert, de voorgenoemde Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, die reets gedrukt, en ten Toneele gevoert waren, of in toekomen de gedrukt, en ten Toneele gevoert zoude mogen werden, gaerne alleen, gelyk voorheen, zonden Slyven drukken, doen drukken, uitgeven en verkopen, ten einde dezelve Werken, door het nadrukken van andete, haar luister, soo in taal, als in spelkonst, niet mogten komen te verliesen: en dewyle fulx haar Supplianten na de expiratie van 't bovengemelte Octroy, niet gepermitteert was, zoo keerden zy Supplianten haat tot Ons, reverentelyk verzoekende, dat Wy aan hun Supplianten in kwaliteyten voorsz, geliefden te verleenen prolongatie van het voorsz. Octroy of Privilegie, om de voorsz. Werken, zoo van Treurspellen, Blyspellen, Klugten, als anders, reets gemaakt, en ten Toneele gevoert, of als nog in het ligt te brengen, en ten Toneele te voeren, den tyd van Vyftien eerstkomende, en agtereenvolgende Jaaren, alleen te mogen drukken, en
+Verkoopen, of te doen drukken, en verkopen, met verbod aan alle andere op seekere hooge Peene by Ons daar regens te Statueeren, SOO IS 't, dat Wy, de Saake, ende 't voorsz. verzoek overgemerkt hebbende, ende geneegen weezende ter bede van de Supplianten uyt Onze regte wetenschap, Souveraine Magt ende Authoriteyt, deselve Supplianten geconsenteert; geac-<pb n="IV"/>cordeert, en geoctroyeert hebben, conscenteren, accordeeren, en octroyeeren hen by dezen, dat Zy, geduurende den tyd van Vyftien eerst Agtereenvolgende Jaaren, de voorsz. Werken, die ten diensten van het Toneel reets waren gedrukt, en van tyd tot tyd nog verder in het ligt gebragt, en ten Toneele gevoert zouden mogen werden, in dier voegen, als zulx by de Supplianten is verzogt, en hier vooren uytgedrukt staat, binnen den voorsz, Onzen Landen alleen zullen mogen Drucken, doen Drucken, uytgeven ende verkopen, verbie dende daaromme alle ende eenen ygelyken dezelye Werken, in 't geheel, ofte ten deele te Drucken, naar te Drakken, te doen Naardrukken, te Verhandelen, of te Verkopen, ofte elders Naargedrukt binnen den selven Onzen Landen te brengen, uyt te geven, of te Verhandelen en Verkopen, op Verbeurte van alle de nagedrukte, in gebragte,verhandelde of, verkogte Exemplaren, en de een boete van drie duysend guldens daar en boven te verbeuren, te Appliceeren een derde part voor den Officier, die de Calange doen zal, een derde part voor den Armen der plaatzen daar het Casus voor vallen zal, en de het resteerende derde part voor de Supplianten, ende dit t' elkens zoo meenig maal, als dezelve zullen werden agterhaalt, alles in, dien verstande, dat Wy de Supplianten met dezen onzen Octroye alleen willende gratificeeren tot verhoedinge van hunne schade door het Nadrucken van de voorsz. Werken, daar door in geenigen deele verstaan, den innehouden van dien te autoriseeren, ofte te Advotiëren, ende veel min dezelve onder onze protextie, ende bescherminge, eenig meerder Credit, aanzien ofte reputatie te
+geeven, nemaar de Supplianten in cas daar inne iets onbehoorlyks zoude inftuëren, alle het zelve tot hunne Lasten zullen gehouden weezen te verantwoorden, tot dien eynde wel expresselyk begerende, dat by aldien zy dezen onzen Octroye voor dezelve Werken zullen willen stellen, daar van geene geäbbrevieerde ofte gecontraheerde mentie zullen mogen maken, nemaar gehouden wezen, het zelve Octroy in 't geheel; en zonder eenige ommissie daar voor te drucken, of te doen drucken, ende dat zy gehou den zullen zyn, een Exemplaar van de voorsz. Werken, op Groot Papier, gebonden en wel geconditioneert te brengen in de Bibliotheek van onze Universiteyt te Leyden, binnen den tyd van zes weeken, na dat zy Supplianten dezelve Werken zullen hebben beginnen uyt te geeven, op een boete van zes honden guldens, na expiratie der voorsz. zes Weeken, by de Supplianten te verbeuren ten belioeve van de Nederduytse Armen van de plaats alwaar de Supplianten wonen; voorts op peene van met 'er daad versteeken te zyn van het effect van dezen Octroye. Dat ook de Supplianten, schoon by het ingaan van dit Octroy een Exemplaar gelevert hebbende aan de voorsz. Onse Bibliotheek, by zoo verre zy geduurende den tyd van dit Octroy deselve Werken zouden willen herdrucken met eenige Observatiën, Noten, Veranderingen, Correctiën, Vermeerderingen of anders, hoe genaamt, of ook in een ander formaat, gehouden zullen zyn wederom een andet Exemplaar van dezelve Werken, geconditioneert als voren, te brengen in de voorsz. Bibliotheek, binnen deselvre tyd, ea op de boete en penaliteyt, als
+<pb n="V"/>voren. Ende ten eynde de Supplianten desen onsen Consente ende Octroye mogen genieten als naar behooren, lasten wy allen ende een yegelyk, die 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laten, ende gedogen, rustelyk, vredelyk, ende volkomentlyk genieten ende gebruyken, cesseerende alle belet ter contrarie. Gegeven in den Hage, onder onzen Grooten Zegele hier aan doen hangen op den zevenentwintigsten Mey, in 't Jaar onzes Heeren en Zaligmakers duysend zevenhonderd agtentwintig.</p>
+<p>J.G.V. Boetzelaar.</p>
+<p>&nbsp;</p>
+<p>Onder stond, ter Ordonnantie van de Staten, was getekent</p>
+<p>&nbsp;</p>
+<p><hi rend="spat">WILLEM BUYS</hi>.</p>
+<p>&nbsp;</p>
+<p>Lager stond,</p>
+<p>&nbsp;</p>
+<p>Aan de Supplianten zyn, nevens dit Octroy, ter hand gestelt by Extract Authenticq, haar Ed. Gr. Mog. Resolutien van den 28. Juny, 1715, en 30. April, 1723, ten einde om zig daar na te reguleeren.</p>
+<p>&nbsp;</p>
+<p>De <hi rend="sc">Regenten</hi> van het <hi rend="sc">Wees</hi>- en <hi rend="sc">Oude Mannenhuis</hi> hebben in hunne voorsz. qualiteit, het Recht der bovenstaand Privilegie, alleen voor den tegenwoordigen druk, <hi rend="sc">van</hi> <hi rend="spat">POLYXENA</hi>, <hi rend="i">Treurspel</hi>; vergund aan <hi rend="sc">Izaak Duim</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">In Amsteldam, den 2<hi rend="sup">den</hi> September,</hi> 1740.</p>
+</div>
+<div type="chapter">
+<pb n="VI"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Polyxena</hi>, Dochter van Priamus, Koning van Troije, Gevangene van Pyrrhus.</item>
+<item/>
+<item><hi rend="sc">Pyrrhus</hi>, Zoon van Achilles, Koning van Epieren.</item>
+<item/>
+<item><hi rend="sc">Telephus</hi>, Koning van Mysiën, Minnaar van Polyxena.</item>
+<item/>
+<item><hi rend="sc">Ulysses</hi>, Koning van Ithaka, Afgezant der Grieken.</item>
+<item/>
+<item><hi rend="sc">Ismene</hi>, Vertrouwde van Polyxena.</item>
+<item/>
+<item><hi rend="sc">Lycas</hi>, Vertrouweling van Pyrrhus.</item>
+<item/>
+<item><hi rend="sc">Arsaces</hi>, Trojaan, van 't Gevolg van Polyxem.</item>
+<item/>
+<item><hi rend="sc">Dokis</hi>, Staatdochter van Polyxena.</item>
+<item/>
+<item><hi rend="i">Lyfwacht</hi>.</item>
+</list>
+<p>&nbsp;</p>
+<p><hi rend="i">Het Tooneel verbeeld de Legertent van Pyrrbus, voor 't verdelgde Troije</hi>.</p>
+</div>
+<div type="act">
+    <pb n="π1"/>
+    <p><figure>
+        <p><xptr to="foss005poly02ill0001.gif"/></p>
+    </figure></p>
+    <div type="scene">
+<pb n="1"/>
+<head rend="h2">Polyxena,
+<lb/><hi rend="i">treurspel</hi>.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l><hi rend="b">J</hi>A, Vorst, uw strydbaare arm bragt Ilium ten val,</l>
+<l>En stichte uw krygstropheên op de afgestrede wal.</l>
+<l>'t Zyn, naast de Goôn, uw daân, die de overwinning gaven</l>
+<l>Op 't haat'lyk Troje, in asch en smeulend puin begraaven.</l>
+<l>Uw moed verschaft ons wraak voor de onverzoeab're hoon,</l>
+<l>En 't schaaken van Heleen', door Priams laffe zoon.</l>
+<l>De Grieken zyn u dier verpligt voor zulk een zegen,</l>
+<l>Na zo veel jaaren krygs, met zo veel bloeds, verkreegen:</l>
+<l>Zy, ziende van naby, die Vesting, sterk bemuurd,</l>
+<l>Zyn niet verwonderd, dat zy 't stormen heeft verduurd,</l>
+<l>Tot aan haar jongste nacht. De Vloot van duizend schepen</l>
+<l>Valt nu te klein, om naar Mycene heen te sleepen</l>
+<l>Dien ryken oorlogsbuit: terwyl gy fier veracht pen</l>
+<l>De uitheemsche kost'lykheên, en de Asiaansche pracht.</l>
+<l>Een jonge Schoonheid kon alleen uw oog behaagen,</l>
+<l>Prinses Polyxena, wien 's nootlots wrede plaagen</l>
+<l>Beroofden, door uw staal, van Vader, Vaderland,</l>
+<l>En staaten, en gezag, en vryheid, 't waardste pand.</l>
+<l>Maar,'k vrees, met rede, dat, in spyt van uw vermogen,</l>
+<l>Vorst Agamemnon nooit goedwillig zal gedoogen,</l>
+<l>Dat Priams Dochter in uw magt blyve, als slavin:</l>
+<pb n="2"/>
+<l>Gy hebt zyn recht gekreukt; in deze keure uw zin</l>
+<l>Gevolgd, in weêrwil van 't gebied hem opgedraagen.</l>
+<l>Gy kend zyn fierheid, die eer 't uiterste zal waagen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Uw gissing stemd ook met de waarheid over een.</l>
+<l>'k Verwacht Ulysses, die my wenscht, om deeze reên,</l>
+<l>Te spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l rend="; 2tab">Zo is niets bekwaam u te overreden?</l>
+<l>'t Gevaar....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">'k Versta 't: men zegt, dat haar bekoor'lykheden</l>
+<l>Myns Vaders ondergang verhaasten: dat haar haat</l>
+<l>Ontstond uit Hectors dood, der Phrygen toeverlaat;</l>
+<l>Die, om de bange Vest, ter kwaader uur, verslaagen,</l>
+<l>Door 't stof gesleept wierd, aan Achilles oorlogswagen.</l>
+<l>Dat die gehoonde, in schyn van 't plegtig trouwverbond,</l>
+<l>Dien Krygsheld lokte, daar hy dood'lyk wierd gewond.</l>
+<l>Maar, Lycas, 'k ben te wel gewrooken: door myn woeden</l>
+<l>Is 't overwonne volk gezweept, met yz're roeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>'t Zy ver, myn Heer, dat ik uw gramschap, door myn raad,</l>
+<l>Zou wetten tegens hen, en hun bedroefde staat.</l>
+<l>Een overwinnaar kan nooit grooter roem behaalen,</l>
+<l>Als, met de wreedheid van zyn zege te bepaalen.</l>
+<l>'k Zie met genoegen, dat uw edelmoedig hert,</l>
+<l>Door medelyden met hun ramp, bewogen werd.</l>
+<l>Bescherm de Ryksprinses: laat haar niet hoop'loos klaagen:</l>
+<l>Maar, zonder aan die Schoone uw vryheid op te draagen.</l>
+<l>Dat nooit voor 't echtaltaar, tot hoon van uw geslacht,</l>
+<l>De trouw....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Uw reden heeft op myne ziel geen kracht.</l>
+<l>Eene onweêrstaanb're liefde, een vuur, nooit uit te dooven,</l>
+<l>Vervoerd my: nimmer komt myn hert die drift te boven.</l>
+<l>'k Aanbid het voorwerp, dat alleen myn oog geviel.</l>
+<l>Ontfteek geen wroegingen ia myn doorpynde ziel.</l>
+<pb n="3"/>
+<l>Ia welk gewest, en tyd, o Goôn! door wiens vermoogen</l>
+<l>Heeft my de liefde en 't lot, tot laffe min bewoogen!</l>
+<l>Wat voorbeeld heeft ons ooit zo klaar hun magt vertoond,</l>
+<l>Hun wrevelheid doen zien, die zelfs geen Vorst verschoond?</l>
+<l rend="; 1tab">Gestoord om 's Vaders dood, door Paris schicht gevallen,</l>
+<l>Vertrek ik naar 't beleg: 'k verover Trojes wallen.</l>
+<l>Herdenk met my, herdenk, in die verwarde nacht,</l>
+<l>Hoe menig Trojer door myn zwaard wierd omgebragt:</l>
+<l>Met welk een razernyë ik deed naar de afgrond daalen,</l>
+<l>Wie zich voor my vertoonde, in 't zwerven door de zaalen</l>
+<l>Van't brandend Hof, alom vervuld met moord en bloed.</l>
+<l>Ik vloog door 't vuur en doôn,van 't heet gevecht verwoed,</l>
+<l>Tot in de Hofkapel; daar, zonder zucht of klagte,</l>
+<l>Prinses Polyxena een droeve dood verwachte.</l>
+<l>Haar Moeder, Zusters, en een weerelooze schaar</l>
+<l>Van vrouwen, in die nood omhelsden 't hooge Altaar,</l>
+<l>Aan Jupiter gewyd, uit kerkpligt hunner Vad'ren:</l>
+<l>Die, ziende my, bestuuwd van Legerhoofden, nad'ren,</l>
+<l>Zich alle wierpen aan myn voeten, na een kreet,</l>
+<l>Die 't koor en galeryë alom weêrgalmen deed.</l>
+<l>Polyxena kan die verned'ring niet gedoogen;</l>
+<l>Maar roept kloekmoedig, daar zy my treed onder de oogen:</l>
+<l><hi rend="i">Een konings Dochter, door het wrev'le lot vermand,</hi></l>
+<l><hi rend="i">Leeve uw slaavinne nooit, maar sterve uw offerband.</hi></l>
+<l>Door deeze woorden, en de glans van 't heer'lyk weezen,</l>
+<l>Verflaauwde straks myn toorn, zo hoog in top gereezen.</l>
+<l>Ik, ziende myn geweer noch rookende, en bespat</l>
+<l>Van 't bloed der Trojers, dat myn arm vergooten had,</l>
+<l>Scheen een misdaadiger, op heeter daad gevangen,</l>
+<l>Die straf, of gonst verwacht, met vreezen en verlangen.</l>
+<l>'k Zocht nu myn wreed bedryf te ontschuldigen in 't end,</l>
+<l>Verrukt door eene drift, my zelf noch onbekent:</l>
+<l>Als Telephus, vervoerd door wanhoop, liefde, en toren,</l>
+<l>Ons komt bestooken, my in myn bespieg'ling stooren.</l>
+<l>Al twyfelde ik, waar door myn hert dus was ontsteld;</l>
+<l>Myn raazerny, gewekt, door de aanval van dien Held,</l>
+<pb n="4"/>
+<l>Deed my haast kennen, wat myn ziel hield opgetoogen.</l>
+<l>Ik voelde dat myne arm eens medeminnaars poogen</l>
+<l>Bestreed: zyn dood gaf me al 't genoegen, dat een hert,</l>
+<l>Als 't van een hinderpaal zyns mins ontslaagen werd,</l>
+<l>Kan smaaken. Ach! 'k heb na dien dag geen heil te wachten,</l>
+<l>Als uit de mond van haar, die heerscht in myn gedachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Maar, hoe beantwoord die Prinsesse uw tederheên?</l>
+<l>Die fiere heeft, om u te haaten, groote reên.</l>
+<l>Wilt gy, myn Heer, door 't recht van meester en verwinnaar,</l>
+<l>Haar dwingen tot uw trouw, gelyk een heerschend minnaar:</l>
+<l>Zo zy u teffens niet opofferd hert en hand,</l>
+<l>Maar sluit met wederzin die onverbreekb're band?</l>
+<l>Haare oogen zullen licht uwe ondergang bereiden.</l>
+<l>Gy weet, hoe haare list uw Vader kon misleiden,</l>
+<l>Hoe zy hem dood'lyk was, en hebt met wyzen raad</l>
+<l>Waarschynlyk onderzocht, eer dat gy u verlaat...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'t Zy een verblinde min geen wakend oog kan houwen:</l>
+<l>'t Zy een grootmoedig hart noit and'ren wil mistrouwen:</l>
+<l>In 't end, indien ze altoos myn wenschen had gevleid,</l>
+<l>Gelyk ze deede in 't eerst, 'k was lichtelyk misleid;</l>
+<l>Ja, 't dood'lyk voorbeeld van Achilles kon niets winnen</l>
+<l>Op myn betoverde, en te zeer verslaafde zinnen.</l>
+<l>Maar, 'k zie hoe myn Prinses haare eerste goedheid stremd,</l>
+<l>Myn onderhoud of schuuwd, of afbreekt. Dus beklemd,</l>
+<l>Vind ik myn vreugd en heil, met haare gonst, vervloogen.</l>
+<l>Ik lees de koelheid uit haare onverschillige oogen;</l>
+<l>Nu fier en heerschend, dan bedouwd met tranen. Ach!</l>
+<l>Myn zuchten, myn gebeên zyn vrucht'loos tot deez' dag.</l>
+<l>'k Heb my te lang gekweld, om de oorzaak na te spooren,</l>
+<l>Die myn Prinses beweegd myn zoetste hoop te smooren.</l>
+<l>'k Zal eerst Ulysses zien, aanhooren zyne reên;</l>
+<l>Dan onderzoeken.... Maar, ik zie hem herwaarts treên.</l>
+</sp>
+        </div>
+<pb n="5"/>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Ulysses</hi>, <hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>MYn Heer, gy weet reeds dat myn onderbond zal strekken,</l>
+<l>Om u't misnoegen van het Grieksche Volk te ontdekken,</l>
+<l>En u te melden, dat Vorst Agamemnons recht</l>
+<l>Gekreukt werd, nu gy 't al naar uwen zin beslecht.</l>
+<l>Gy hebt Polyxena, uit de oorlogsroof, verkooren,</l>
+<l>Zyns ondanks, ja, die Schoone uw dienst en trouw gezwooren.</l>
+<l>Zyn hoog gezag werd door die stoute keur gehoond.</l>
+<l>Hy was te vreên geweest, en had uw drift verschoond,</l>
+<l>Had ge u tot hem, om zyn toestemming, willen keeren.</l>
+<l>Maar, zegt hy, neen; gy wilt noolt zwichten, elk braveeren;</l>
+<l>Terwyl gy zyne toome en wetten fier veracht.</l>
+<l>'k Weet wel, schoon hy u kwam bestooken met zyn magt,</l>
+<l>Dat uw zeeghaftig heir u trouw in 't veld verdedigd.</l>
+<l>Maar, de and're Koningen, zo zeer, als hy, beledigd,</l>
+<l>Staan vaardig, uw slaavin te schaaken; hen ontroofd.</l>
+<l rend="; 1tab">Toen zy eendragtig hem tot Opperlegerhoofd</l>
+<l>Verkooren, was hun wil, om grooter eer te voegen</l>
+<l>By zyn gezag, dat elk hem, zonder ongenoegen,</l>
+<l>Zou geeven de eerste keur van roof, en schat, en buit.</l>
+<l>Vervolgens zoude 't lot, dus luide 't krygsbesluit,</l>
+<l>Verkiezen voor hen alle, en wrok, en onlust weeren.</l>
+<l>Hoe, zeggen zy, waarom zal Pyrrhus zyn begeeren</l>
+<l>Verkrygen, en een wet, zo plegtelyk gestaafd,</l>
+<l>Alleen verbreeken, daar zyn heerschzucht hooger draafd?</l>
+<l>'t Is waar, zyn dapperheid, befaamd in honderd slaagen,</l>
+<l>Heeft Grieken wel gediend, de zege weggedraagen.</l>
+<l>Zyne arm deed wond'ren in 't beleg: doch meend die Held,</l>
+<l>Dat dit hem boven ons, en recht, en wetten steld?</l>
+<l>Hy denk, zo niet de waan zyn hert heeft ingenomen,</l>
+<l>Dat hy tien jaaren is, na ons, in 't heir gekomen;</l>
+<pb n="6"/>
+<l>Ja, dat zyn vuist heeft neêrgebonsd een zwakke wal,</l>
+<l>Door storm op storm gebeukt, en hellende ten val.</l>
+<l rend="; 1tab">Dit is der Vorsten taal, myn Heer, dit hun gedachten.</l>
+<l>'k Heb ze ongeveinsd vertoogd, de red'nen hunner klagten</l>
+<l>Ontvouwd, ten einde gy, nu 't blykt zo middag klaar,</l>
+<l>Hulpmidd'len schikken mogt, na 't nypen van 't gevaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'k Zie klaar uit hun beklag, doch zonder my te ontroeren,</l>
+<l>Hoe ver de bitse nyd en afgonst hen vervoeren.</l>
+<l>En, schoon uw mond my meld der Grieken onbescheid,</l>
+<l>Myns Vaders voorbeeld heeft my tot die proef bereid.</l>
+<l>Na dat die Vorst zo vaak des vyands bloed deed stroomen,</l>
+<l>Door oorlogsdaân, zo kloek volvoerd, als ondernoomen,</l>
+<l>Van hen noch naauwetyks met yd'le lof beloond,</l>
+<l>Gedoogden zy, dat hy ondraag'lyk wierd gehoond,</l>
+<l>En zyne zegekroon beneveld door de schanden,</l>
+<l>Dat hy Bryseïs zag ontrooven uit zyn handen.</l>
+<l>Der Legerhoofden roem was heerlyk, op 't vertoog</l>
+<l>Van Agamemnon, die hun daaden hemelhoog</l>
+<l>Verhief, om dus den lof myns Vaders neêr te drukken.</l>
+<l>Maar, als men Hector zag naar 't Grieksche leger rukken</l>
+<l>Met kloeke benden, stout op 't afzyn van dien Held;</l>
+<l>Als hy hen vlugten deed, en sloeg, en dreef langs 't veld,</l>
+<l>Hun scheepen stak in brand, en dus op land en stroomen</l>
+<l>Hun vlugt verhinderde, en hen 't uiterte deed schroomen;</l>
+<l>Toen achte zich die Vorst, die Prinssen trots van aard,</l>
+<l>Gelukkig, dat de toorn myns Vaders wierd bedaard.</l>
+<l>Toen wierd hem recht vergund: toen kon men deugd waardeeren.</l>
+<l>Men zocht niet, als voorheen, hem in zyn min te weeren;</l>
+<l>De ontvoerde Dochter wierd hem blyd'lyk toegestaan,</l>
+<l>Een prys, te wel verdiend, door zo beroemde daân.</l>
+<l>Maar, na 't wangunstig lot dien Held het dierbaar leeven</l>
+<l>Te ontydig had ontrukt, hem in 't beleg doen sneeven;</l>
+<l>Zeg, welk een lykpligt van de ondahkb're is afgelegt?</l>
+<l>Wat prachtige eerzuil, ter gedacht' nis, opgerecht?</l>
+<l>Men laat zyn koud gebeeut veracht ten grave daalen,</l>
+<pb n="7"/>
+<l>Een slechte Tombe kan zyn diensten ruim betaalen;</l>
+<l>Die geen versiersel heeft, als de asch, en de ed'le naam</l>
+<l>Des grooten Mans, gevoerd op vteug'len van de Faam.</l>
+<l>Daar zy bekaden zyn met roof, en Trooische schatten,</l>
+<l>Die de arm van zynen Zoon zelf deed in duigen spatten:</l>
+<l>En deeze Zoon misbruikt zyn recht, naar hun besluit,</l>
+<l>Als hy wil schikken van een Maagd, zyne oorlogsbuit.</l>
+<l>Zo geen vergelding voor myn dienst zy toe te schryven,</l>
+<l>'k Eisch dan het loon, myn Heer, van 's Vaders krygsbedryven;</l>
+<l>Zyne arm won Tenedos, en Thebens hooge Vest,</l>
+<l>En Chryses, en Lyrnesse, in 't Phrygiaanch Gewest;</l>
+<l>Men voeg daar Lesbos by, en Scyros woeste stranden.</l>
+<l>Hy baande zich, door 't staal, een weg, door 't Ryk en Landen</l>
+<l>Van Telephus, die, na veel strydens, zwaar gewond,</l>
+<l>Hem doortocht laaten moest, zyn heir vergeefs weêrstond.</l>
+<l>Achilles, in 't beleg, voor Ilium, gekomen,</l>
+<l>Deed haast de Simoïs, met roodgeverfde stroomen,</l>
+<l>Opzwellen, door den drang der lyken, in zyn vloed</l>
+<l>Bedolven: 't Leger zag de uitwerksels van zyn moed.</l>
+<l>Moest niet Aurora zelf haar Memnons dood beklaagen,</l>
+<l>Dien Zoon betreuren, door zyn staal in 't veld verslaagen.</l>
+<l>Vorstin Penthesileê, al strydende aan het hoofd</l>
+<l>Der Amazoonen, wierd door hem van 't licht beroofd.</l>
+<l>Hy heeft die taaije Vest, de zwaarste krak gegeeven,</l>
+<l>Toen hy de Zuil, de hoop van Troje, in 't veld deed sneeven;</l>
+<l>En dus zyne oorlogsdaân, door Hectors dood, gekroond:</l>
+<l>Zo groote diensten zyn genooten, niet beloond.</l>
+<l rend="; 1tab">Vorst Agamemnon zegt: 'k braveer zyn hoog vermoogen.</l>
+<l>Maar hy misleid zich zelf, of werd door waan bedroogen.</l>
+<l>Myne arm en eed zyn beide ontslaagen, na Heleen</l>
+<l>In Menelaüs magt gesteld is, als voorheen.</l>
+<l>Hy is ons Hoofd niet meêr: wy niet aan hem verbonden;</l>
+<l>En Trojes felle brand heeft ook die naam vetslonden.</l>
+<l>'t Is waar; de Vorsten zyn gezind, hem, tot den dag</l>
+<pb n="8"/>
+<l>En uur van hun vertrek te laaten 't krygsgezag.</l>
+<l>Zy kunnen meêr doen: ja hun staaten, ja hun leeven</l>
+<l>Aan zyne willekeur laf hartig overgeeven.</l>
+<l>Elkeen mag schikken van het zyne, zo 't hem lust.</l>
+<l>Dat niemand, in 't bezit van 't myne, my ontrust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>'k Beken, myn Heer, dat uw vertoog op goede reden</l>
+<l>Gegrond is. Maar gy maakt door uwe hevigheden,</l>
+<l>En stuursche fierheid, meêr ontzag'lyk, als bemind,</l>
+<l>Dat zelfs uw billyke eisch, noch gonst, noch ingang vind.</l>
+<l>Die trotsche moed kon in Achilles ons mishaagen:</l>
+<l>Zyn dapperheid heeft vaak de zege weggedraagen;</l>
+<l>Maar 't voordeel, 't geen men van zo fieren geest ontfangt,</l>
+<l>Verstrekt geen weldaad, maar een boeije, die ons prangt.</l>
+<l>Zo gy de oprechte raad eens trouwen vriends wilt volgen;</l>
+<l>Zoek Agamemnons toorn te stillen, min verbolgen:</l>
+<l>Vertoon uw recht, maar met geen streng gelaat, myn Heer:</l>
+<l>Dwing dus de Grieken, u te geeven roem en eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'k Weet, dat de menschen, meêr genegen tot mispryzen,</l>
+<l>Der Helden deugd, niet als gedwongen, eer bewyzen.</l>
+<l>Dat zy, schoorvoetende, en met deeze pligt belaân,</l>
+<l>Voorwendsels zoeken, om zich van dien last te ontslaan.</l>
+<l>Maar, hoe kan de achting van de Griek myn hert bekooren,</l>
+<l>Door dwang verkreegen, door hun wrevelheid verlooren:</l>
+<l>'k Maak op dier Vorsten gonst, zo weiflend, weinig staat:</l>
+<l>En 't is niet raadzaam, dat ik te onbedacht verlaat</l>
+<l>Een zeker goed, om naar 't onzeker heil te haaken.</l>
+<l rend="; 1tab">Maar, om dit onderhoud, deez' redenstryd, te staaken,</l>
+<l>Bedenk, dat gy meêr lofs en danks behaalen zoud,</l>
+<l>Indien gy 't Grieksche Heir, 't geen te onbedacht en stout</l>
+<l>Myn recht benadeeld, wist te brengen tot bedaaren,</l>
+<l>Zelfs door myn red'nen, die, uws oordeels, billyk waaren;</l>
+<l>Als dat ge uw konst en vlyt te werk steld, regens pligt,</l>
+<l>My blood steld voor bon woede, en twist, en scheuring</l>
+</sp>
+<pb n="9"/>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>Dewyl der Grieken eisch van u werd afgeslaagen,</l>
+<l>Ben ik, uit aller naam, verpligt u voor te draagen,</l>
+<l>Dat gy verbannen moet, myn Heer, die laffe min,</l>
+<l>En overgeeven uw Prinsesse, uw Trojaanin:</l>
+<l>Of, zo die Schoone, u is te na aan 't bert gelegen,</l>
+<l>Dat haar 't verbonden heir zal vord'ren met den degen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>WEl aan, men breng terstond den krygsknecht in 't geweer.</l>
+<l>Myn volk zy op hun hoede, en kwyt' hun eed en eer.</l>
+<l>Zo heeft men, voor 't geweld der Grieken, niet te schroomen;</l>
+<l>Schoon zy met al hun magt ons dreigen op te komen.</l>
+<l>Kom, gaan wy, Lycas, om dien aanval af te staan,</l>
+<l>Al 't Leger door.... Maar myn Vorstin treed herwaards</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>'t GEjuich en vreugdekreet, waar van het veld en de over</l>
+<l>Van Troje weêrgalmd, doet my hooren, langs hoe droever,</l>
+<l>Dat uwe Vloot, bemand en zeilrede, om door't meer</l>
+<l>Te streeven, niets verwacht, als goede wind, myn Heer;</l>
+<l>Dies wensche ik, kan het zyn, in 't nypen der elenden,</l>
+<l>Door u het dood'lykst van myn rampen af te wenden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Gebiê, Mevrouw; welk groot geluk, dat, in uw smert,</l>
+<l>Uw mond myn bystand...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">'k Weet de neiging van uw hert.</l>
+<l>De fierheid van het myne is teffens u gebleeken:</l>
+<l>En, daar gy 't kend te zyn grootmoedig, onbezweeken,</l>
+<l>Zoud gy vervoeren naar uw ryken, als slaavin,</l>
+<pb n="10"/>
+<l>'t Rampzalig voorwerp van een hoopelooze min;</l>
+<l>My, van 't verdelgde strand, doen naar uw hof vertrekken,</l>
+<l>Om ten vertoog van zege aan 't Grieksche volk te strekken?</l>
+<l>Verlos my gonstig van dien doodelyken hoon.</l>
+<l>Laat my, verlaaten van de menschen, en de Goôn,</l>
+<l>Aan Xanthus boorden, myn rampzalig lot beklaagen;</l>
+<l>En slyten, afgepynd van rouw, myn leevensdagen</l>
+<l>In 't land van myn geboorte, op 't puin daar Troje stond.</l>
+<l>Zo streeve ik nimmer door de zeekolk Hellespont,</l>
+<l>Naar vreemde Volk'ren, in eene and're lucht gebooren.</l>
+<l>Myn Heer, van alles, 't geen ik heb door u verlooren,</l>
+<l>Is dit het eenigst, dat uw gonst vergoeden kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Wat spreekt gy van verdriet, en slaaverny? verban</l>
+<l>In't end uw droefheid, die u, buiten nood, doet klaagen.</l>
+<l>Zeg, welke boeijens zyn 't, die hier uw oog mishaagen?</l>
+<l>Wie van ons beide schynt te heerschen, te gebiên?</l>
+<l>Moet gy my, of ik u, Mevrouw, naar de oogen zien?</l>
+<l>Uw schoonheid boeid myn hert: zy doet my myn belangen</l>
+<l>Verzuimen, om van uw geboden af te hangen.</l>
+<l>'t Ootmoedig smeeken voegd niet aan zo lieven mond,</l>
+<l>Die door een woord het hert verrukt, en treft, en wond.</l>
+<l>De Grieken zelfs, gelyk Ulysses my deed hooren,</l>
+<l>Betwisten u 't geluk, u, door myn gonst, beschooren;</l>
+<l>Zy trachten u, Mevrouw, te rukken uit myn magt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Hoe, zy, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Ik vlieg om hun geweld met kracht</l>
+<l>Te stuiten: 'k zal voor uw behoud het uiterst waagen.</l>
+<l>Maar, Zo myne yver komt de zege weg te draagen,</l>
+<l>'t Staat dan aan u, Prinses, door gonstiger onthaal,</l>
+<l>Te stemmen in 't geluk van myne zegepraal.</l>
+<l>Op dat de Vorsten, die ons hoonen en braveeren,</l>
+<l>In u, hun Vyandin, de bruid van Pyrrhus eeren.</l>
+<l>'k Verwacht niet, dat uw gonst de aanbieding myner trouw,</l>
+<pb n="11"/>
+<l>Zelfs op deze uur, met vreugd aanvaarden zal, Mevrouw.</l>
+<l>'k Leeze uit uw oog te wel de ontroering uwer zinnen:</l>
+<l>En, zo uw fierheid, door verned'ring niet te winnen,</l>
+<l>Heeft vastgesteld, myn liefde en wenschen af te slaan;</l>
+<l>Verwacht myn wederkomste,om 't my te doen verstaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>WAt hoor ik? zal dan 't lot, nooit moê van my te plaagen,</l>
+<l>Myn leed niet einden, als door 't einde myner dagen!</l>
+<l>Myn wreede Vyanden betwisten in het veld</l>
+<l>Myn boeijen: 'k zie my dus ten pryze en loon gesteld</l>
+<l>Voor 's Overwinnaars zege. Indien, na 't bloedig vechten</l>
+<l>Held Pyrrhus nederlaag de krygskans zal beslechten;</l>
+<l>Verval ik in de magt der Grieken: zo 't geluk</l>
+<l>Zyn wensch begonstigd, vind ik nieuwe stof tot druk:</l>
+<l>Dan groeid myn leed, Ismene. Ach! 'k zal myn hand nooit geeven</l>
+<l>Aan hem, die zo verwoed myn Vader bragt om 't leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Verban 't herdenken van uw smerte, en Pyrrhus woên.</l>
+<l>Uw beider Oud'ren lot strekke uwe haat ten zoen.</l>
+<l>Gy deed zyn Vader, en hy de uwe 't leeven derven:</l>
+<l>De dood van de een verstrekt tot wraak van 's anders sterven.</l>
+<l>Zoud gy....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">Hoe kryg ik ooit voldoening van al 't leed,</l>
+<l>'t Geen hy den mynen, 't geen hy my gevoelen deed?</l>
+<l>Zo ik zyn Vader lokte in doodelyke laagen,</l>
+<l>'t Was, om hem Hectors geest ten offer op te draagen;</l>
+<l>Om hem te straffen voor zyn wreedheid, die den Held</l>
+<l>Zieltoogend noch misdeed, en sleepte 't Lyk langs 't veld.</l>
+<l>Nu staat my 's Vaders dood, en Trojes brand te wreeken:</l>
+<l>En, schoon 't me in deezen staat aan midd'len schynt te ontbreeken,</l>
+<l>Noch moet myn wraakzucht zich vernoegen na haar magt,</l>
+<pb n="12"/>
+<l>Als ik hem hoopeloos laat zuchten, hem veracht:</l>
+<l>Zyn wensch verydel, als myn hert geen laffe banden</l>
+<l>Gedoogd; maar strekt een klip, waar op zyn roem zal stranden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Welke oorzaak maakt uw geest op Pyrrhus nu gestoord?</l>
+<l>Gy hebt met minder toorn zyn zuchten aangehoord:</l>
+<l>Uw oog, min fier, ja gantsch ontwapend, scheen te zwichten...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Hoe was myn haat zo licht bez wecken in haar pligten?</l>
+<l>'k Werd schaamrood, myne Ismene, als ik myn zwakheid merk.</l>
+<l>Die lieve Vyand viel myn laffe ziel te sterk.</l>
+<l>Ach! door wat konst wist hy myn zinnen zo te ontroeren?</l>
+<l>Maar ik herwin myn deugd, en wil de wraak volvoeren.</l>
+<l>Verban die snoode drift voor eeuwig uit uw zin,</l>
+<l>Bedroefde Maagd: zoud gy, geneigd tot Pyrrhus min,</l>
+<l>Hem trouwen voor 't altaar, in 't aanzien deezer wallen,</l>
+<l>Door hem bestormd, door zyn geweld in 't end gevallen?</l>
+<l>Wat dolheid, zo myn deugd zo licht verwonnen was!</l>
+<l>O hemel! Troje legt gebliksemd in zyne asch;</l>
+<l>En dien Monarch, ten top der hoogste moogentheden,</l>
+<l>Van 't strydbaare Afiën gevierd, en aangebeden</l>
+<l>Met diep ontzag, als hy den Volk'ren wetten gaf,</l>
+<l>Verstrekt zyn brandend hof ten lykvuure, en ten graf.</l>
+<l>Myn Bloedverwanten zyn, door 't Grieksche staal, verslaagen,</l>
+<l>Of streng geboeid, en slechts gespaard tot zwaarder plaagen,</l>
+<l>Daar zy, ontbloot van hulp, in hun verdriet gesard,</l>
+<l>De wolken scheuren met hun klagten, of hun smart</l>
+<l>Opkroppen, droef te moê: terwyl ik, vry van banden,</l>
+<l>'s Verwinnaars hert beheersch in myn verwonne landen,</l>
+<l>'k Geniet alleen de vrucht van Trojes ondergang.</l>
+<l>Achilles Zoon is naauw verknocht aan myn belang:</l>
+<l>'t Vliegt alles van myn hand aan Xanthus doodsche stroomen:</l>
+<l>Hy droogd myn traanen, zoekt myn wenschen voor te komen,</l>
+<l>Ja spreekt my zelf van liefde, en echtvermaak'lykheên,</l>
+<l>Als was ik een Griekinne, en Ilium Myçeên.</l>
+<pb n="13"/>
+<l>Ach! na de val van 't Ryk moet niets myn ziel bekooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>'k Beklaag, Mevrouw, de loop der rampen, u beschooren,</l>
+<l>En 't wrange lot, dat in uw hert een min verwekt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>O blinde neiging, die de herten buigd, en trekt!</l>
+<l>Had Telephus my niet behooren te behaagen?</l>
+<l>Hy minde my, en spilde, in myne dienst, zyn dagen:</l>
+<l>Hy was myn Vaders vriend, en Held Alcides zoon,</l>
+<l>Beroemd door oorlogsdaâu, verheeven op den troon</l>
+<l>Van Mysiën; niets scheen aan zyne roem te ontbreeken,</l>
+<l>Ja alles my, ter gonst van zyne min, te spreeken.</l>
+<l>Daar, tot myn schaamte, nu de beul van myn geslacht</l>
+<l>Myn hert meêr trof, als ooit die Vorst, zo waard geächt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Zyn trouw verdiende uw gonst: maar liefde kend geen reden;</l>
+<l>Zy volgd de keur van 't hert, en eigen zin'lykheden.</l>
+<l>Hoe 't zy, hy is geweest: gy hebt, naar uwe magt,</l>
+<l>Met volle erkentenis, getoond, hoe gy hem acht.</l>
+<l>Men heeft het lyk des Helds, met vlyt, aan alle hoeken</l>
+<l>Der veste, en onder 't puin, op uwe beê doen zoeken,</l>
+<l>Op dat zyne asch met pracht bevoolen wierd aan de aard:</l>
+<l>En, schoon men hem niet vond, gy hebt doen zien, hoe waard</l>
+<l>U zyn gedacht'nis zy, door diepe rouwe en traanen.</l>
+<l>Denk nu aan Pyrrhus min, die u een weg kan baanen</l>
+<l>Tot een gelukkig lot, als gy zyn wenschen vleid.</l>
+<l>Verbreek, door zyne hulp, de boeijens, u bereid.</l>
+<l>Gy ziet, hy kan alleen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">Ismene, staak uw reden:</l>
+<l>Men spreekt van vechten; 'k vrees voor nieuwe zwaarigheeden.</l>
+<l>Ga, maak, dat Arsaces in haast naar 't heir vertrek,</l>
+<l>En, 't geen 'er voorvalt, op 't naauw keurigst, my ontdek.</l>
+<stage><hi rend="i">Einde van het eerste Bedryf.</hi></stage>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="14"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Ulysses</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>DOor Pyrrhus afzyn is het gonstige uur gehooren,</l>
+<l>Waar in geen ooggetuige ons onderhoud zal stooren:</l>
+<l>Sta toe dan, dat ik u der Grieken eisch ontdek,</l>
+<l>En mynen last volvoer; dat uw Gevolg vertrek.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>En welke zaaken heeft Ulysses my te ontdekken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>'t Zyn zaaken van belang, die tot uw welstand strekken.</l>
+<l>Is u de twist bekend en scheuring, die de band</l>
+<l>Van 't Bondgenootschap breekt door hevig misverstand?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>'k Ben onderricht, dat u de Vorsten herwaards zonden;</l>
+<l>Maar, dat uw red'nen niets op Pyrrhus winnen konden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>De Legerhoofden, door zyn weigering gestoord,</l>
+<l>Meest door 't gerucht, dat hy, van uw gezigt bekoord,</l>
+<l>Zich vleid met uwe gonst, en wenscht met u te paaren,</l>
+<l>Zyn eensgezind, die trouw te weer en, geen gevaaren</l>
+<l>Te ontzien, zyn trotsche moed te dwingen door geweld.</l>
+<l>Maar, eer dit middel werd by hen in 't werk gesteld,</l>
+<l>Wenschte ik, uit aller naam, te weeten uw gedachten.</l>
+<l>Uwe ed'le deugden, die zy eeren, en hoog achten,</l>
+<l>Zyn hen bekend, Mevrouw; maar teffens ook uw haat,</l>
+<l>Op ons gebeeten, als verdelgers van uw Staat.</l>
+<l>Wy hebben ze ook te wel verdiend, om niet te vreezen</l>
+<l>De uitwerksels van uw toorn, zo hoog in top gereezen.</l>
+<l>Gy hebt, door deeze drift, naar ons bederf getracht,</l>
+<l>En door de aanloksels van uw schoonheid, groot van kracht,</l>
+<pb n="15"/>
+<l>Vorst Telephus bekoord, uit Grieksche stam gesprooten,</l>
+<l>En hem wel eer geteld by uwe Bondgenooten:</l>
+<l>Die Zoon van Hercules, verslaafd aan uwe min,</l>
+<l>Verliet de goede zaak, en volgde een Trojaanin.</l>
+<l>Dit 's 't minst: Achilles zelf, in 't heetst der oorelogen,</l>
+<l>Betoverd door het zoet geweld van uw schoone oogen,</l>
+<l>Stond nu gereed, om af te treên van ons belang;</l>
+<l>Wanneer ter goeder uur, zyn tydige ondergang</l>
+<l>'t Voltrekken stremde van die trouw, en 't reuk'loos paaren,</l>
+<l>Daar hy gedood wierd, aan de voet der hooge Altaaren.</l>
+<l>Indien gy, ver van ons, zo veele wond'ren werkt,</l>
+<l>En uwe magt door gonst van Koningen versterkt;</l>
+<l>Wien zult gy hier in 't heir ons niet ten vyand maaken?</l>
+<l>Gy heerscht in Pyrrhus hert: vervoerd door 't hevig blaaken,</l>
+<l>Stoot hy den Griek voor 't hoofd, en toond zelf deezen dag,</l>
+<l>Als hy ons tergd, hoe veel uw oog op hem vermag.</l>
+<l>De Huuw'lyksfakkel, die uw herten zal verëenen,</l>
+<l>Ontsteekt een oorlogsvuur, dat voortslaat tot Mycenen.</l>
+<l>De Vorsten zyn eerlang voor nieuwe twist beducht.</l>
+<l>Zy haaken all' naar Vrede, en wenschen eens de vrucht</l>
+<l>Van hunne zege, na veel strydens, te genieten,</l>
+<l>Geensins het harnas, naauw ontgespt, weêr aan te schieten:</l>
+<l>En 't geen hen wraaken deed wel eer Achilles trouw,</l>
+<l>Maakt hen beducht voor de echt van zynen zoon, Mevrouw.</l>
+<l>Zy achten zich verpligt die huuw'lyksknoop te breeken,</l>
+<l>Dit ongelyk, of voor te komen, of te wreeken.</l>
+<l>In 't end, gy kund alleen de krygsramp, die ons naakt,</l>
+<l>Verhoeden, als gy fier zyne echtverbint'nis wraakt,</l>
+<l>Zo dood'lyk voor 't gemeen: en, schoon gy, door 't verkiezen</l>
+<l>Van onze zyde, zult zyn hulp en gonst verliezen,</l>
+<l>Die wiss'ling geeft geen schade, als ge ons aan u verbind;</l>
+<l>Gy wind veel vrinden, door het derven van een vrind.</l>
+<pb n="16"/>
+<l>Zy bieden alle u aan een vryplaats in hun ryken,</l>
+<l>Daar gy zyn magt, en uw gevaaren kund ontwyken.</l>
+<l>'t Geen u zyn liefde gaf, geeft hun erkentenis.</l>
+<l>Verkies slechts een verblyf, daar 't u behaag'lyk is;</l>
+<l>By Phoenix, Nestor, of by Calchas, in 't geweste</l>
+<l>Van Argos, binnen Thebe, of Elis hooge Veste.</l>
+<l>'t Was my veel eer en vreugd, zo ik Polyxena</l>
+<l>Eens mogt ontfangen op myn hof in Ithaka.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Wat is 't een roem voor my, dat, in myn slaavernijë,</l>
+<l>Na 't nederstorten der Trojaansche heerschappyë,</l>
+<l>Ulysses my begroet, als plegtig Afgezant</l>
+<l>Van 't zegepraalend en gelukkig Griekenland:</l>
+<l>Dat myn Verwinnaars, in de onlusten die hen kwellen,</l>
+<l>Aan my 't beslissen van hun Vrede en Oorlog stellen.</l>
+<l rend="; 1tab">Maar, overweegen we eens, wat uw geveinsde mond</l>
+<l>My komt verzoeken, tot wat vriendschap, of verbond.</l>
+<l>Is Grieken in gevaar: 'k heb daar voor niet te schroomen;</l>
+<l>'t Is myn belang niet, hun geschillen voor te komen.</l>
+<l>Wat raad my, dat ik zou bezorgen rust en vreê</l>
+<l>Een vyand, die my, 't geen my waardst was, derven deê.</l>
+<l>De Prinssen, zo men hun beloften mag gelooven,</l>
+<l>Zyn vaardig my eerlang te ontfangen aan hun Hoven.</l>
+<l>Hun heuschheid schynt zeer groot; maar 'k wierd dus nimmer vry;</l>
+<l>'k Veranderde van Heer, maar bleef in slaaverny.</l>
+<l>Neen, 't was myn zoetste vreugd, zo ik, door duizend wonden,</l>
+<l>Die wreede Heerschers zag naar 't duist're ryk gezonden;</l>
+<l>Terwyl hun magt en bloed gespild wierd en verkwist,</l>
+<l>Door eigen staal, en 't zaad van onderlinge twist:</l>
+<l>Ja, dat deeze aarde mogt het overschot inzwelgen</l>
+<l>Der monsters, die ik zag zo wreed dit ryk verdelgen:</l>
+<l>Op dat de naneef weet, dat Trojes hooge wal</l>
+<l>Zyne overwinnaars heeft verpletterd door zyn val.</l>
+<l>O Vader! o myn Land! 'k zou nooit myn dood beklaagen,</l>
+<l>Zo 'k u gewrooken zag, en 't Grieksche heir verslaagen.</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>De Vorsten dachten wel, dat van uw bitt're haat</l>
+<l>Niets goeds te hoopen scheen, tot rust der Grieksche Staat.</l>
+<l>Maar, om uw fiere moed gevoeliger te treffen,</l>
+<l>En u te dwingen uw gevaaren te beseffen;</l>
+<l>Weet, dat de Trojers, die zy hebben in hun magt,</l>
+<l>Zo 't steege hert niet zwicht, straks werden omgebragt;</l>
+<l>Dat op uw Moeder, op uw Zusters werd gewrooken</l>
+<l>Het vuur van tweedragt, dat gy hebt in 't heir ontstooken.</l>
+<l>Denk, als gy hen, Mevrouw, ziet smooren in hun bloed:</l>
+<l>'t Zyn de eerste gruuw'len van eene Oorlog, zo verwoed,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Uw dreigen baard geen vreeze in hun bedroefde herten;</l>
+<l>De dood alleen kan hen ontslaan van alle smerten.</l>
+<l>Zy zagen, wel getroost, hun bloed door 't staal geplengd,</l>
+<l>Indien het met een stroom van 't uwe wierd vermengd.</l>
+<l>Ik zou hen hoonen, zo myn av'rechts medelyden</l>
+<l>Hen wilde van dat lot, daar elk na haakt, bevryden.</l>
+<l>Zo die standvaste deugd in iemands borst verviel,</l>
+<l>'k Acht hem een laffe, en van zyn stam ontäarde ziel.</l>
+<l>Maar neen, uw schranderheid heeft deeze list verzonnen.</l>
+<l>Op dat myn hert door vrees beklemd wierd, en verwonnen.</l>
+<l>De wreede dwinger van dit overheerde land</l>
+<l>Zou 't meed verliezen by die dierbaare offerhand.</l>
+<l>Een Koninginne met haar Docht'ren te overlaaden</l>
+<l>Met ketens, was 't besluit der Grieksche heldendaaden.</l>
+<l>Wil nu hun onverstand, om één, die hen ontvlood,</l>
+<l>Al de and're straffen, en rampzalig zien gedood?</l>
+<l>Uw Hoofden zullen, als die Ryksvorstinnen sterven.</l>
+<l>De tuigen hunner zege, en vrucht des oorlogs derven.</l>
+<l>Indien myn haat den Griek zo zeer te duchten staat,</l>
+<l>Die wierd door zulk een moord gesard, en hield geen maat.</l>
+<l>Dat hevig woên gaf my een dubb'le stof tot wreeken,</l>
+<l>Als ik, door Pyrrhus hulp, was hun geweld ontweeken,</l>
+<l>En hy myn recht en wraak bepleitte in 't oorlogsveld.</l>
+<l>Want al hun magt is niet ontzag'lyk voor dien held,</l>
+<pb n="18"/>
+<l>Die op zyn strydb'ren arm en heir zich mag verlaaten.</l>
+<l>Hy heeft zyn Dolopers alleen: maar 't zyn Soldaaten,</l>
+<l>Onwrikbaar in 't gevecht, in krygskunde uitgeleerd:</l>
+<l>Zy hebben Hectors magt vaak op hun borst gekeerd,</l>
+<l>Daar hy ten Veste uitspatte, en 't Grieksche heir deed vlugten.</l>
+<l>Hy heeft, door 's Hemels gonst, niet voor den Griek te duchten,</l>
+<l>Als door uw heillooosheên der Goden taai geduld</l>
+<l>Eens uitbarst, en de maat dier gruuw'len is vervuld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>Mevrouw, 't is vrucht'loos, dat de sterv'ling waand te ontdekken,</l>
+<l>Welke ondaân 's Hemels roê tot wraak en straf verwekken,</l>
+<l>Of wat het Godendom kan dulden hier beneên.</l>
+<l>'t Zyn ome driften vaak, 't zyn vaak verborgentheên,</l>
+<l>Die 't schemerend vernuft beletten door te straalen.</l>
+<l>'t Licht onzer reden kan, by hooger Vierschaar, dwaalen.</l>
+<l rend="; 1tab">'t Vervoeren van Helene, en Menelaüs hoon,</l>
+<l>Heeft tegens den Trojaan gewet de wraak der Goôn.</l>
+<l>Zy hebben Paris noch beschermd na 't reuk'loos schaaken:</l>
+<l>Nu deelen ze in de straf, door 't branden hunner daken.</l>
+<l>Wy hebben hen hun haat met haat betaald gezet,</l>
+<l>Ons leed gewrooken, en hun mogentheid verplet.</l>
+<l>Zo gy 't onbillyk acht, en wreed, in uw gedachten,</l>
+<l>Dat wy in koelen moede uw volk en maagen slagten;</l>
+<l>Waarom belet gy 't niet, dewyl gy 't kund verhoên?</l>
+<l>Wyt aan u zelf de schuld dier moord, en spoor'loos woên.</l>
+<l>Indien men 't overschot der Trojers brengt om 't leeven,</l>
+<l>'t Is uwe trotsheid, die rampzalig hen doet sneeven.</l>
+<l>Waand gy, dat u de Griek moet smeeken, om uw bloed</l>
+<l>Te redden, dat hy zyn verwonne val te voet?</l>
+<l>Denk niet, dat ons de vrucht des oorlogs is benoomen.</l>
+<l>Als uw Trojaanen, door ons staal, zyn omgekomen:</l>
+<l>Hoe meêr men tot de grond verdelgd die moogentheid,</l>
+<l>Hoe verder zich 't gerucht van haare val verspreid.</l>
+<pb n="19"/>
+<l>Zo twist en staatskrakeel ons ooit verslinden konnen,</l>
+<l>Wy stierven hier in 't veld verwinnaars, gy verwonnen;</l>
+<l>En onze volkeren, zo breed aan Griekens kust</l>
+<l>Gezeten, bloeiden in eene ongestoorde rust,</l>
+<l>En hielden onze deugd in waardige gedachten.</l>
+<l rend="; 1tab">Maar, 'k zoek vergeefs, Mevrouw, uw rampen te verzachten.</l>
+<l>Door myn getrouwe raad; en myn voorzichtigheid</l>
+<l>Zwicht voor 't wangunstig lot, 't geen uwen val bereid.</l>
+<l>Myn reên zyn kracht'loos, om uw fiere moed te buigen;</l>
+<l>Doch de uitkomst zal eerlang u beter overtuigen:</l>
+<l>Vaar wel.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi> <hi rend="i">alleen.</hi></speaker>
+<l rend="; 1tab">ZOu't ernst zyn, Goôn! En zou 's Verwinnaars haat</l>
+<l>Besluiten, tegens recht, tot die ontmenschte daad?</l>
+<l>Zou 't Grieksche Leger, door myn weigering verwoeder,</l>
+<l>Zo dierb're panden, ach! myn Zusters, Broeders, Moeder,</l>
+<l>Zo veel Trojaanen, zo veel Helden, sneuv'len doen?</l>
+<l>Gedoog, myn Vaderland, dat ik den Griek verzoen,</l>
+<l>En dus hen 't leeven berg: hun dood kan toch uw wallen</l>
+<l>Niet heffen uit het puin; gy zyt en blyft, gevallen.</l>
+<l>Maar, ach! bedroefde, denk, voor wien gy hen bewaard;</l>
+<l>Voor wreede Heeren, van meêdoogentheid ontaard:</l>
+<l>Die zullen hen, ten blyk van 's oorlogs ongenaden,</l>
+<l>Naar Grieken voeren, zwaar met ketenen belaaden;</l>
+<l>Hen daar aan 't juichend volk, in zegepraal geleid,</l>
+<l>Vertoonen, met veel schimp en wederwaardigheid.</l>
+<l>Maar welk een naar geluid treft onverwacht onze ooren,</l>
+<l>Ismene?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l rend="; 1tab">'t SChynt, wy zien een blyk van 's Hemels tooren,</l>
+<pb n="20"/>
+<l>Die, door een onweêrvlaag, op 's Vyands Leger woed.</l>
+<l>Dus werd misschien bepaald der Grieken overmoed.</l>
+<l>Zy willen, met geweld, door Pyrrhus heirspits breeken,</l>
+<l>En u vervoeren: ja, in euv'le toorn, doorsteeken</l>
+<l>Uw maagen, en al 't volk, dat voor hun ketens bukt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Of eer, Ismene, ik hoop, dat haast de wraak gelukt:</l>
+<l>Dan zwichten zy met vreugd voor 't lot, op hen verbolgen;</l>
+<l>Dan duike ik bly ten grave, en wensch myn bloed te volgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Neen, leef, Mevrouw, tot straf der Grieksche heilloosheid:</l>
+<l>Vorst Pyrrhus en zyn volk, zyn tot uw dienst bereid:</l>
+<l>Het strydb're Epieren wreek de Trooische nederlaagen.</l>
+<l>Indien de trouw des Helds uw fierheid zou mishaagen,</l>
+<l>Gy kund door weigering u van zyn liefde ontslaan.</l>
+<l>Daar zyn meêr wegen, als de dood, om de Echt te ontgaan.</l>
+<l>Toen Telephus u minde, en smeekte, en zag naar de oogen,</l>
+<l>Trof u zyn zuchten niet, uw hert bleef onbewoogen.</l>
+<l>Zou 't zyn, dat Pyrrhus liefde u dieper indruk gaf?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Ismene, wend uw oog van myne zwakheid af,</l>
+<l>Die 'k voor de Goden zelf, waar 't moog'lyk, hield verhoolen.</l>
+<l>Maar Arsaces keerd weêr. De last, u aanbevoolen....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Arsaces</hi>, <hi rend="sc">Polyxena</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>ACh! welk een ongeluk meld u myn mond, Mevrouw!</l>
+<l>Wat doodelyk vertoog! o ramp! o bitt're rouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Wat treurgevallen my van 't Noodloot zyn beschooren,</l>
+<l>Myn Arsaces, ik ben getroost die aan te hooren.</l>
+<l>Heeft licht het Grieksche heir, in byst'ren overmoed,</l>
+<l>Hun Krysgevangenen doen baaden in hun bloed?</l>
+<pb n="21"/>
+<l>Is 't droevig overschot der Trojers omgekomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>'t Gerucht van dit verwoed besluit had ons doen schroomen;</l>
+<l>Maar Nestor heeft, gestyfd van Phoenix, 't onbescheid</l>
+<l>Dier Wreedaarts afgekeerd, en voor hun heil gepleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Zyn dan de Grieken reeds verwinnaars? droever maaren...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>Bezef de strengheid van 't geval, en uw gevaaren.</l>
+<l rend="; 1tab">Nu rukte al 't volk by een, en 't Bondgenootschap dacht,</l>
+<l>Dat Pyrrhus zwichten zou voor hun verëende magt.</l>
+<l>'k Zag, hoe de Benden zich, op hunne hoefslag, schaarden,</l>
+<l>Verscheenen in 't geweer by hunne Veldstandaarden:</l>
+<l>Op dat hun talryk heir, en schrik'lyk krygsvertoog</l>
+<l>Den held tot reden bragt, en tot de Vreê bewoog.</l>
+<l>Maar hy, getroost, de twist door wapens te beslechten,</l>
+<l>Schikt al de zyne in orde, en moedigd hen tot vechten.</l>
+<l>Die fiere houding wet hun gramschap langs hoe meêr:</l>
+<l>Zy branden naar den stryd, en denken, 't zou hun eer</l>
+<l>En roem benev'len nu die oorlogskans te staaken,</l>
+<l>Alleen begonnen, om den Vorst gedwee te maaken.</l>
+<l>Deeze optocht werd hen ernst, slechts aangelegt in schyn,</l>
+<l>En 't ruime slagveld zou nu haast een bloedbad zyn;</l>
+<l>Als Pyrrhus, slaande zyn gezigt, door spyt gedreeven,</l>
+<l>Naar 't graf zyns Vaders, aan het hoofd van 't heir verheven,</l>
+<l>Deez' woorden uit: <hi rend="i">O Held, die door der Grieken baat</hi></l>
+<l><hi rend="i">Te ondankbaar zyt gehoond, slerk my in deeze slaat,</hi></l>
+<l><hi rend="i">En ondersteun myne arm, op dat zy 't leed mag wreeken,</hi></l>
+<l><hi rend="i">Ons beiden aangedaan</hi>. Naauw liet hy af van spreeken,</l>
+<l>Wanneer een felle Orkaan, die 't stoutste hart ontsteld,</l>
+<l>Op 't strand en Legers woed met toomeloos geweld.</l>
+<l>Al de aarde dreund en beefd: haar boezem werd bewoogen,</l>
+<l>En zwaar geschokt: zy splyt aan reeten voor onze oogen.</l>
+<l>De winden gieren, los geborsten van hun band.</l>
+<l>De donder kraakt en rold langs rots en 't bochtig strand;</l>
+<pb n="22"/>
+<l>Dat kaatst die galm weêrom, verdubbeld in onze ooren</l>
+<l>Met naar geloei, ten lyk van aller Goden tooren.</l>
+<l>De bosschen werden van hun wortels afgescheurd;</l>
+<l>Hun kruinen duiken, als zeegolven, beurd om beurd.</l>
+<l>De rotsen van hun plaats gerukt, en 't opperste onder</l>
+<l>Gekeerd, vertoonen voor het volk een schrik'lyk wonder.</l>
+<l>De bergen storten in de leege dalen neêr.</l>
+<l>De heiren denken nu aan geene tegenweêr,</l>
+<l>Maar zyn wel haast verëend, door die geduchte rampen.</l>
+<l rend="; 1tab">Toen volgd een nieuw vertoog van vuur en helsche dampen.</l>
+<l>De grafzerk opend, met geloei, een wyde mond:</l>
+<l>Dit gaapend loch ontdekt een diepte zonder grond,</l>
+<l>En baand een doortogt naar het duister ryk der schimmen.</l>
+<l>Straks zien we Achilles geest, al morrende, opwaards klimmen.</l>
+<l>Hy komt opdond'ren, zo ontzag'lyk van gelaat,</l>
+<l>Gelyk hy zich weleer vertoonde den Soldaat</l>
+<l>Voor Trojes Veste, en vloog door onze legermagten</l>
+<l>En benden heen, en stiet, met onweêrstaanb're krachten,</l>
+<l>De helden 't staal door 't hart: daar hun vergooten bloed</l>
+<l>Neêrstroomde langs het veld, en vormde een dierb're vloed.</l>
+<l>De Grieksche Legers; ja, al de Elementen, zweegen</l>
+<l>Met diep ontzag, daar elk verbaasd stond, en verleegen.</l>
+<l>Denkt, hoe het Pyrrhus trof, wanneer zyn vader hem</l>
+<l>Dus aansprak met een heesche, en zeer verstoorde stem.</l>
+<l rend="; 1tab"><hi rend="i">Myn Zoon, gy dreigd vergeefs der Grieken oorlogsmagt:</hi></l>
+<l><hi rend="i">'k Eisch 't bloed eens vyandins, 't werd my ten zoen vergooten.</hi></l>
+<l><hi rend="i">'t Verbande heir keerd nooit in Grieken met zyn Vlooten;</hi></l>
+<l rend="; 1tab"><hi rend="i">Zo gy Polyxena niet op myn grafzerk slagt.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Helaas! Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l rend="; 2tab">Zo haast de Geest, vervoerd van tooren,</l>
+<l>Dit doodelyk bevel aan Pyrrhus heeft doen hooren;</l>
+<pb n="23"/>
+<l>Dreigd hy den Held voor 't laatst met een verwoed gezigt,</l>
+<l>En duikt in 's aardryks kloove en afgrond, schuuw voor 't licht.</l>
+<l>De Tombe sluit zich toe: maar 't minderd geen gevaaren:</l>
+<l>Want de ongestuime zee, met opgeruide baaren,</l>
+<l>Woed op 't Sigeesche strand, en rold, en bruischt, en zweld,</l>
+<l>Om de eisch van Thetis Zoon te sterken met geweld.</l>
+<l>Dus werd de Grieksche Vloot verlet door wind en stroomen,</l>
+<l>En ryd voor anker.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 2tab">En de Griek heeft voorgenoomen</l>
+<l>De uitvoering te eischen van deeze offerplegtigheên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>Hun wreedheid stemd met hun belangen over een.</l>
+<l>Zelf Agamemnon kan zyn blydschap niet betoomen:</l>
+<l>Zyn trouw'loos hart, van haat en wraakzucht ingenoomen,</l>
+<l>En onverzoenelyk gebeten op dien Held,</l>
+<l>Juicht reeds in stilte, nu 't zyn Vyand ziet bekneld.</l>
+<l>Hy wilde, dat, na hem, de Grieksche magten zwoeren,</l>
+<l>Achilles laatste wil met ernst te doen volvoeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>En Pyrrhus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l rend="; 1tab">Hy, verkropt van doodelyke rouw,</l>
+<l>Verbergd, door 't zwygen, zyne ontsteltenis, Mevrouw:</l>
+<l>En keerd, om dus 't gesprek van 't Grieksche volk te ontwyken,</l>
+<l>Naar zyne tenten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">'t Is genoeg.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l rend="; 3tab">O strenge blyken</l>
+<l>Van 's hemels ongenade! o laatste en zwaarste slag!</l>
+<pb n="24"/>
+<l>Kan 't moog'lyk zyn, Mevrouw, dat, op deez' droeve dag,</l>
+<l>In 't barnen van 't gevaar, uw hart blyft onbewoogen?</l>
+<l>'k Voel my, door 't naar verhaal, beklemd, myn hoop vervloogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Laat my het voordeel recht bezeffen van myn lot.</l>
+<l>'k Acht my gelukkig, als myn leeven werd geknot;</l>
+<l>Dan streefd myn bange ziel in 't end, bevryd voor stranden,</l>
+<l>Ten haven in, en rukt zich los uit slaafsche banden.</l>
+<l>Ik rekhals naar de dood, en zie de heuch'lyke uur</l>
+<l>Gebooren, die myn hart van 't hevig minnevuur</l>
+<l>Zal zuiv'ren, als myn bloed stroomd uit doorkurvene ad'ren.</l>
+<l>'k Ga tegentreeden myn doorluchte en groote Vad'ren,</l>
+<l>In 't zalig Zieleveld, verlost van angst en smart,</l>
+<l>En eene drift, met zorg verborgen in myn hart.</l>
+<l>Goôn! hoe veel angst en pyn voorkom ik door myn sterven!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>En, schoon gy, 't leeven wars, besloot het licht te derven,</l>
+<l>Meend gy, dat Pyrrhus zich naar de eisch der Grieksche magt</l>
+<l>Zou schikken; dat hy u, zo teêr bemind, geacht....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Doris</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Doris</hi>.</speaker>
+<l>ONtschuldig my, zo, 't geen myn mond u zal verhaalen,</l>
+<l>Uw reden stoord, Mevrouw. 'k Heb hier een Man zien dwaalen</l>
+<l>Om deeze tent, ontsteld, en droevig van gelaat;</l>
+<l>Hy sprak my aan, bewust, dat ik in deeze staat</l>
+<l>Been aan uw dienst verknocht, na 't deerelyk verbranden</l>
+<l>Der Waereldstad, de val der Asiaansche Landen:</l>
+<l>En bad, en smeekte my, met traanen in 't gezigt,</l>
+<l>Ten einde hy door my wierd van uw lot bericht;</l>
+<pb n="25"/>
+<l>Als hy, door 't naderen van Grieken, onder 't spreeken</l>
+<l>Verhinderd, door de vlugt hunne oogen is ontweeken.</l>
+<l>'k Heb niets van zyne staat ontdekt; hy is gekleed,</l>
+<l>Gelyk een Griek, hy schynd getroffen van uw leed.</l>
+<l>Uit al zyn wezen en gezigt zyn de ed'le trekken</l>
+<l>Van een doorluchtige geboorte klaar te ontdekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Ik kan niet denken wie zo zeer zich myn verdriet</l>
+<l>Zou kreunen, na ons 't lot noch hulp, noch vrienden liet.</l>
+<l>'k Hoor iemand naderen: 't is Pyrrhus: 'k moet ontvlugten</l>
+<l>Zyn droevige aanspraak, en beklaag'lyke ongenuchten:</l>
+<l>'k Moet met standvastigheid myn hart, alom bekneld,</l>
+<l>Versterken, my met moed bereiden, om dien Held</l>
+<l>Voor eeuwig, als 't myn deugd gebied, vaar wel te zeggen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>GY kund uw zielsgeheim hier open leggen.</l>
+<l>Wy zyn, in 't end, alleen: hier staat u 't klaagen vry:</l>
+<l>Beschuldig nu, myn Vorst, der Grieken raazerny,</l>
+<l>En Vaders streng bevel; terwyl geen Grieksche benden</l>
+<l>Begluuren van ter zyde uw wanhoop, uwe elenden.</l>
+<l>Waar toeuw leed verkropt door 't zwygen? dat uw smart</l>
+<l>In klagten uitbarste, en ontlaste 't angstig hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Ach! Lycas, mogt de dood, om 't wrange leed te sluiten,</l>
+<l>Myn lot bepaalen, en myn mond voor eeuwig sluiten!</l>
+<l>Wat doodsche en kille schrik spreid zich door 't leger heen!</l>
+<l>Goôn! was 't Achilles, die zo toornig my verscheen?</l>
+<l>Waart gy 't, myn Vader, die uw Zoon uw wil deed hooren?</l>
+<l>Hoe schrikkelyk, hoe naar klonk my die stem in de ooren!</l>
+<l>Dat doodelyk bevel is my door 't hart gegaan.</l>
+<l>Kan ik noch leeven, na 'k haar vonnis heb verstaan?</l>
+<l>Was 't niet genoeg, die schoone en droeve Maagd te boeijen?</l>
+<pb n="26"/>
+<l>Zoude ik zyne asch noch met zo waard een bloed besproeijen?</l>
+<l>Zoude ik Polyxena, tot vreugd myns vyands, doôn?</l>
+<l>Neen, 'k zal het nimmer doen: dat zweere ik by de Goôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>'k Neem deel in uw verdriet, myn Vorst. Zo zwaare plaagen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Rampzalige Prinses, wie moet u niet beklaagen!</l>
+<l>'t Was niet genoeg, dat Goôn en menschen, gantsch ontbloot</l>
+<l>Van mededoogen, u vervolgden in die nood.</l>
+<l>De hel, de wreede hel, is zelfs op u gebeeten,</l>
+<l>En schend de schimmen aan, en slaakt ze van hun keten.</l>
+<l>Een graf is 't naar tooneel: uwe onschuld vind geen heul.</l>
+<l>De Vader doemd u daar als Rechter; kiest tot beul</l>
+<l>Zyn Zoon, uw Minnaar. O beklaag'lyke ongelukken!</l>
+<l>Maar, 't geen myn bange ziel 't gevoeligst schynd te drukken,</l>
+<l>Trotsche Agamemnon lacht om myn bedroefde staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Kan 't moog'lyk zyn, myn Vorst, dat 's vyands bitt're haat</l>
+<l>U zo gevoelig treft? dacht gy, nooit stof te geeven</l>
+<l>Aan de afgonst, om de glans van uw doorluchtig leeven</l>
+<l>Te smetten door hun gal? dit is der helden lot.</l>
+<l>Maar, schoon der Grieken hoofd met uwe droef heid spot,</l>
+<l>Dat smarte u niet: gy kund dien trotschen Prins braveeren,</l>
+<l>Als gy Polyxena zult redden en verweeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Zo ik hem dus braveer, voldoe 'k myn pligten niet,</l>
+<l>Maar geef myn hart ten prooi voor knaaging en verdriet.</l>
+<l>Zoud gy dan vruchteloos, myn Vader, tot my spreeken.</l>
+<l>Uw rust verlaaten, en door 's afgronds boezem breeken?</l>
+<l>En heest die donderstem, die 't aardryk beeven doet,</l>
+<l>En daveren, geen kracht op myn verstaald gemoed?</l>
+<l>'k Heb vaak het Grieksche volk, met bitse taal, verweeten,</l>
+<l>Dat zy Achilles daân, en hunne pligt, vergeeten:</l>
+<pb n="27"/>
+<l>Eu nu die krygsheld uit zyn grafzerk zyn geboôn</l>
+<l>Ontvouwd, zal hy niet zyn gehoorzaamd van zyn Zoon?</l>
+<l>Zal ik de laatste wil des Helds alleen weêrstreeven?</l>
+<l>Indien ik weiger, haar, zyn schim ten zoen, te geeven,</l>
+<l>Zal Moeder Thetis toorn der Grieken oorlogsvloot</l>
+<l>Door stormen beuken, of bedelven in haar schoot.</l>
+<l>Heb ik vergeeten, hoe het Hoofd der Grieksche magten</l>
+<l>De schoone Iphigenie in Aulis zelf deed slagten,</l>
+<l>Vermurwd door 's Dochters jeugd, noch 's Moeders droef geween,</l>
+<l>En baande dus de weg voor 't heir naar Troje heen?</l>
+<l>Kan ik hun krygsmagt door de onstuime zee zien sloopen,</l>
+<l>Vervoerd door min, daar hun te rugreize is te koopen</l>
+<l>Voor 't bloed eens Vyandins? zie, hoe die reden klemd,</l>
+<l>Myn Lycas, hoe ik door my zelf werde overstemd.</l>
+<l>Het Grieksche heir zal zich, met recht, van my beklaagen:</l>
+<l>Die laf heid van hun Vorst zal zelfs myn volk mishaagen.</l>
+<l>Ja, de inspraak van myn hart heeft my te wel gezegt,</l>
+<l>Dat ik te blind'lings volg myn neiging, niet het recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>'k Beklaag uw lot, myn Heer. Wiens moed zou niet bezwyken</l>
+<l>Voor zulk een zwaaren slag? gy kund die niet ontwyken:</l>
+<l>Gy weet Achilles eisch, en wat uw pligt gebied.</l>
+<l>Gy voeld de kracht der liefde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">O wanhoop! o verdriet!</l>
+<l>Myn Vader, moet ik dan weêrstreeven uw geboden,</l>
+<l>Of myn Polyxena met eigen handen dooden!</l>
+<l>'k Gevoel voor u en haar gelyke tederheên.</l>
+<l>Myn angstig hart, alom te doodelyk bestreên,</l>
+<l>Wenscht uwe toorn zo wel, als haare val te stuiten,</l>
+<l>En 't kan voor de een niets goeds, tot 's anders leed, besluiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>'k Bezef die strenge dwang, van liefde, en pligt, en eer.</l>
+<l>Maar, gy besluit, terwyl gy niets besluit, myn Heer.</l>
+<pb n="28"/>
+<l>Dus word Achilles eisch ontzegt, door 't lang vertoeven,</l>
+<l>Zyn toorn gewet. Maar, schoon 't u dood'lyk zal bedroeven,</l>
+<l>Te volgen 't wreed bevel, wat aanslag u de min</l>
+<l>Doet waagen; 'k zie geen weg, om uwe Trojaanin</l>
+<l>Te ontrukken aan 't gevaar: terwyl de Grieksche magten</l>
+<l>Eenstemmig dringen, dat gy zult die droeve slagten.</l>
+<l>Uw Benden hebben straks hun wapens neêrgelegt,</l>
+<l>Noch onlangs wel getroost te stryden voor uw recht.</l>
+<l>Zy stemmen blind'lings, 't geen een krygsheld kan behaagen,</l>
+<l>Die van hun arm weleer zich diende, in duizend slagen</l>
+<l>En oorlogsstormen, zo zeeghaftig doorgestreên.</l>
+<l>Wat wilt gy zonder hen bestaan? uw moed alleen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Zy kunnen zonder my niet tot hun wit geraaken:</l>
+<l>Ik kan myns Vaders last alleen werkstellig maaken.</l>
+<l>Als ik myne arm weêrhouw, werd de aanslag hen belet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Maar, zo uw weigering der Grieken gramschap wet,</l>
+<l>Zo ze u bespringen, u door overmagt doen zwichten,</l>
+<l>Dan vind men licht een hand, die 't moordfeit zal verrichten,</l>
+<l>Vergeefs op u verzocht. Het woên dier oorlogsliên,</l>
+<l>In bystre onbescheid....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Men moet daar in voorzien.</l>
+<l>'k Steun op uw kloek beleid, vaak in myn dienst gebleeken.</l>
+<l>Ga, Lycas, uit myn naam, de Grieksche Vorsten spreeken;</l>
+<l>En maak, dat gy by hen een last van groot gewigt,</l>
+<l>Die ik u geeven zal, met zorg en trouw, verricht.</l>
+<stage><hi rend="i">Einde van het tweede Bedryf.</hi></stage>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="29"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Telephus</hi> <hi rend="i">alleen.</hi></speaker>
+<l>IK vind haar niet, en zoek met vreezen en verlangen.</l>
+<l>Men houd Polyxena waarschyn'lyk hier gevangen.</l>
+<l>Ik derf niet binnen treên, eer zy myne aankomst weet:</l>
+<l>Een ooggetuige kon verbreiden, tot myn leed,</l>
+<l>'t Geheim van myne komst. De ontroering myner zinnen</l>
+<l>Ontdekte my wel haast, vervoerd door 't hevig minnen.</l>
+<l>Hoe zoud ge uw drift en trouw betoomen, als gy zaagt,</l>
+<l>Rampzalig Minnaar, die aanbiddelyke Maagd,</l>
+<l>Het voorwerp uwer liefde, ontbloot van eer en staaten,</l>
+<l>Gedoemd door 's afgronds vloek, en van de Goôn verlaaten:</l>
+<l>Als gy uwe oogen hechte, op 't minnelyk gezigt,</l>
+<l>Wel haast te ontluist'ren van zyn glans en 't lieve licht.</l>
+<l>Gy smolt in traanen, op 't vertoog dier tegenspoeden,</l>
+<l>Bedroefde Tetephus: waar toe noch hoop te voeden?</l>
+<l>Moet gy Polyxena, in haare jongste nood,</l>
+<l>Zien smooren in haar bloed, en worst'len met de dood!</l>
+<l rend="; 1tab">'t Is door uw gonst, Fortuin, dat een van myne vrinden,</l>
+<l>Getroost, tot myn behoud, het uiterst te onderwinden,</l>
+<l>My, zwaar gewond, alom begruisd van bloed en stof,</l>
+<l>Heeft in een bosch gebergd, uit Trojens brandend hof;</l>
+<l>Daar zyne hulp my deed herwinnen kracht en leeven.</l>
+<l>'k Heb my, door u geleid, aan deeze kust begeeven:</l>
+<l>Gedoog, dat ik voor 't laast aan myn Prinsesse ontvouw</l>
+<l>De kracht van myne min, zo zuiver, zo getrouw:</l>
+<l>Toon my de midd'len, tot verlichting haarer kwaalen;</l>
+<l>Doe my haar redden, of met haar ten grave daalen.</l>
+<l>Door myn vermomming, door der Grieken taal en kleed,</l>
+<l>Hoop ik hun waakend oog te ontduiken: niemand weet,</l>
+<l>Dat ik behouden ben na Trojens nederlaagen.</l>
+<l>De legers zyn verward door twist en onweêrvlaagen.</l>
+<l>Dit alles geeft my moed in 't hachchelyk besluit</l>
+<l>Wel aan, wy waagen 't al, om hen die schoone buit</l>
+<pb n="30"/>
+<l>Te ontvoeren: 'k moet, door list, myns Vyands magt verkloeken.</l>
+<l>Goôn! om de Ondankb're, die ik aanbid, hier te zoeken,</l>
+<l>Verlaat ik reuk'loos Ryk, en volk'ren, door de kragt</l>
+<l>Der liefde, en stel my zelfs in myn Verwinnaars magt.</l>
+<l rend="; 1tab">Onsterflyke Oorlogsheld, en temmer der gedrochten,</l>
+<l>Alcides, 'k heb vol moed, in duizend legertochten,</l>
+<l>Na roem en eer getracht, op 't spoor, van u betreên,</l>
+<l>De deugd gehandhaafd, en myn driften 't eerst bestreên.</l>
+<l>Maar dwaaze liefde heeft uw Zoon, als u, doen zwichten:</l>
+<l>Myn minziek hart ontaard van zyne heldepligten.</l>
+<l rend="; 1tab">Maar, 'k zie myn wensch voldaan, en iemand herwaarts treên.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Telephus</hi>, <hi rend="sc">Doris</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Doris</hi>.</speaker>
+<l>'k Heb myn Prinses gezegt, hoe u de tegenheên</l>
+<l>Gevoelig treffen, die de Grieken haar bereiden;</l>
+<l>En 'k was gelast, om u in haar vertrek te leiden.</l>
+<l>Maar Pyrrhus zal hier straks verschynen: als hy is</l>
+<l>Vertrokken, keer dan weêr, om zonder hindernis....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Moet dan gestadig iets myn ongeduld weêrstreeven?</l>
+<l>Maar, meend men, dat de Vorst haar zal ten offer geeven?</l>
+<l>Of, zou zyn liefde, in spyt van eene wreede pligt...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Doris</hi>.</speaker>
+<l>Hy komt</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 2tab">Myn gramschap blaakt door 't haatelyk gezigt...</l>
+<l>Maar gaan wy, om in 't heir de zek're maar te hooren,</l>
+<l>Wat lot, welke uitkomst werd Polyxena beschooren:</l>
+<l>En, zo die wreede tot de ontmenschte moord besluit,</l>
+<l>Dan is 't vergeefs geveinsd, dan barst myn wanhoop uit,</l>
+<l>En slaat aan 't woeden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="31"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Doris</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">KAn ik uw Prinsesse spreken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Doris</hi>.</speaker>
+<l>Zy is, voor weinig tyds, in haar vertrek geweeken:</l>
+<l>Ik ga, myn Heer, om haar uw komst te doen verstaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>HEbt gy myn last met vrucht in 't Grieksche heir voldaan?</l>
+<l>Wat zegt de Bondgenoot?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l rend="; 1tab">Ik heb, door kracht van reden,</l>
+<l>Hen doen bezeffen, dat gy uw genegentheden</l>
+<l>Gedoofd hebt, en voor 't heil der Grieken zyt gezind</l>
+<l>Te slagten uw Prinses, weleer zo teêr bemind:</l>
+<l>Dat 's Vaders eisch, met diep ontzag, uw boezem griefde:</l>
+<l>Ja, dat gy wars zyt van een vruchtelooze liefde.</l>
+<l>'k Zag straks, hoe eenige met uitgelaate vreugd</l>
+<l>Myn reên geloofden, uw besluit en heldendeugd</l>
+<l>Verhieven hemelhoog. 'k Vond and're van gedachten,</l>
+<l>Dat gy, opkroppende uw verdriet, uw bitt're klagten</l>
+<l>Weêrhoudende, als gy haar zo koel ten offer doemd,</l>
+<l>Uw doodlyke ongenuchte en zwakheid dus verbloemd;</l>
+<l>Uws ondanks overgeeft, die gy niet kund behoeden.</l>
+<l>'k Heb hen gelaaten in dit gonstige vermoeden,</l>
+<l>Dat hen veel beter, als al' myne reên, misleid.</l>
+<l>De Grieken, overtuigd van uw trouwhartigheid</l>
+<l>Ten oirbaar van 't gemeen, zyn niet bedacht te sluiten</l>
+<l>Haar vlugt, en de aanslag, die de liefde u doet besluiten,</l>
+<l>Zy wachten welgemoed de uitvoering van 't verdrag,</l>
+<l>En uw belofte, met het krieken van den dag.</l>
+</sp>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Waar ben ik toe gebragt! wie had ooit kunnen denken,</l>
+<l>Dat Pyrrhus zyne roem door veinzen zoude krenken?</l>
+<l>Noch zyn 'er rampen, daar de deugd, al staat zy pal</l>
+<l>En onverwrikt, verstrekt ten speeltuig van 't geval.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>De Griek, verheugd, dat gy de elenden, hen beschooren,</l>
+<l>Zo heilzaam afwend, heeft Ulysses straks verkooren,</l>
+<l>Om u hun dankbaarheid te melden voor die gonst.</l>
+<l>Tot dus verre is de list, met schranderheid en konst,</l>
+<l>Beleid: 't staat nu aan u uw droef heid te overwinnen.</l>
+<l>Gy moet geweld doen op uwe afgepynde zinnen,</l>
+<l>En in zyn byzyn u verkloeken, als bereid</l>
+<l>Ter bloedige offerdienst, en naare plegtigheid.</l>
+<l>Ik ga, op dat ik 't volk mag met meêr schyn misleijen,</l>
+<l>'t Geen ik den Griek ontvouwde, uw Leger door verspreijen.</l>
+<l>Gy hebt noch tijd, om 't al te schikken tot haar vlugt.</l>
+<l>De nacht, die de aanslag heeld, en 't leed, waar voor gy ducht,</l>
+<l>Kan sluiten, zal voor eerst het aardryk niet bedekken.</l>
+<l>Haar schaduw....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Myn Prinses verschynd, gy kund vertrekken,</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Polyxena</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>UWs Vaders gramschap is dan niet verzacht, myn Heer,</l>
+<l>Schoon Troje legt in de asch? zyn wraakzucht eischt iets meêr</l>
+<l>Ten zoen: myn bloed alleen doet zyne wrok bedaaren.</l>
+<l>Hier baat geen uitstel: laat zyn schim niet hoop'loos waaren.</l>
+<l>Gaan wy zyne eisch voldoen: 't slachtoffer is gereed.</l>
+<l>'k Erken dus zyne keur, en de eer, die hy my deed.</l>
+</sp>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Goôn! welke red'nen? wat voorneemen? my verdenken,</l>
+<l>Dat 's Vaders wreed bevel myn zuiv're min zou krenken!</l>
+<l>Kund gy die achterdocht plaats geeven in uw hart?</l>
+<l>Of wil uw fierheid my braveeren in myn smart?</l>
+<l>Waand gy, dat iets my kan van pligt en trouw verleiden?</l>
+<l>Dat Pyrrhus lot, en 't uwe ooit zy van-een gescheiden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Ach! dit is 't eenigst, 't geen myn dood noodzaak'lyk maakt,</l>
+<l>Waarom myn veege ziel uws Vaders eisch niet wraakt.</l>
+<l>'k Heb niets, in deeze nood, zo zeer, als u, te duchten:</l>
+<l>Ja Prins, ik sterf alleen, om uw gezigt te ontvlugten;</l>
+<l>Dewyl ik, wat ik poog, niets op myn hart verwin,</l>
+<l>En al te wel gevoel dat ik u teêr bemin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Gy mind my dan, Prinsesse, en die gewenschte zegen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Myn zwakheid, hoopte ik, bleef voor eeuwig u verz weegen:</l>
+<l>Maar myne voorzorg is onnut in deeze slaat.</l>
+<l>'k Durf, van de boord des grafs, myn laatste toeverlaat,</l>
+<l>En vryburg, voor 't vervolg van eindelooze plaagen,</l>
+<l>'t Geheim ontdekken, en my van uw min beklaagen.</l>
+<l>Ja, Pyrrhus, 'k eisch van u voldoening voor die hoon.</l>
+<l>Als gy myn Vader in zyn hof bestond te doôn,</l>
+<l>Waarom zyn Dochter toen niet teffens 't staal gedreeven</l>
+<l>Ten boezem in, en haat ontrukt het haat'lyk leeven?</l>
+<l>Hebt gy myn bloed, toen gy niets spaarde, alleen gespaard,</l>
+<l>Op dar het werd besmet door driften, my onwaard?</l>
+<l>Moest dan Polyxena, vervolgd van 's hemels tooren,</l>
+<l>Na Trojes ondergang, uw minneklagten hooren?</l>
+<l>Uit zo veel Trooische, die u 't krygslot overgaf,</l>
+<l>Waarom, o Wreede! my bemind, tot myne straf?</l>
+<l>Wierd ik zo zeer van u verächt, dat gy kond waanen,</l>
+<l>U, tot myn hart, als 't z wakste, ook 't eerst een weg te baanen:</l>
+<l>Dat ik, myn Vaderland, my zelven ongetrouw,</l>
+<l>Veel eer, als andere, uw geweld vergeeten zou?</l>
+<l>Gy ziet uw wensch gelukt: 't ontveinzen kan niets bantent.</l>
+<pb n="34"/>
+<l>Maar, gy verkrygt my naauw, of moet my straks verlaaten,</l>
+<l>Dit zal voor u het ergst van alle plaagen zyn,</l>
+<l>Als gy Polyxena, schoon voor uw minnepyn</l>
+<l>Te zeer gevoelig, u voor eeuwig ziet ontrukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Gy stort my dan op nieuw in eind'looze ongelukken!</l>
+<l>Zoud gy tot zulk een straf my doemen kunnen? ach!</l>
+<l>Moet dan myn zuchten, moet myn liesde, en diep ontzag</l>
+<l>By u een teken zyn van hoonen? van verächten?</l>
+<l>Vergeet, vergeef in 't end het woên dier nacht der nachten,</l>
+<l>En 't deerlyk ondergaan der Phrygiaansche staat.</l>
+<l>Moet ik dan 't voorwerp zyn van uwe liefde en haat?</l>
+<l>Moet gy den val van 't Ryk alleen op Pyrrhus wreeken?</l>
+<l>En dooven 't vuur dier liefde, en 't door uwe oogen kweeken?</l>
+<l>Schoon zelf uw Broeder leefde, uw Hector, zou die Held</l>
+<l>Met trouwer zucht, als ik, u hoeden voor 't geweld?</l>
+<l>Ja, onderzoek, hoe zich uw Pyrrhus heeft gedraagen:</l>
+<l>En zo ik, sints de dag, dat u myne oogen zagen</l>
+<l>Ter goeder uure, u niet gediend heb, en ontzien,</l>
+<l>Niet staâg verdedigd voor het woên der Oorlogsliên,</l>
+<l>Niet diep gedeeld heb in uw rouwe, en bitt're traanen:</l>
+<l>Zo myne Volkeren my meêr, als uw Trojaanen,</l>
+<l>Ter harte gaan: zo 'k niet bescherm het overschot</l>
+<l>Der uwe, niet vervloek de dwang van 't oorlogslot:</l>
+<l>Indien ik buiten u, ô minlykste aller menschen!</l>
+<l>En uwe gonste, op aard naar vreugd of heil zou wenschen:</l>
+<l>Ja, zo gy, myn Prinsesse, in myn gedachten niet</l>
+<l>Werd aangebeden, in myn harte alleen gebied;</l>
+<l>Dan moogt gy my met recht uw snoodste vyand achten,</l>
+<l>En onverbid'lyk zyn voor myn verliefde klagten.</l>
+<l>Maar, 'k heb myn schuld geboet, door een volmaakt berouw:</l>
+<l>Waarom my dan gestraft, nu 'k niets misdoe, Mevrouw?</l>
+<l>Ach! wilt gy dan myn ziel de wanhoop overgeeven?</l>
+<l>En, door uw strenge deugd genoopt, myn hoop weêrstreeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Wat kund gy hoopen, Prins? ach! 't lot valt ons te straf;</l>
+<pb n="35"/>
+<l>En 't rukt Polyxena, uws ondanks, in het graf.</l>
+<l>De helle en hemel zyn verëend, om my te plaagen;</l>
+<l>Ja, de aarde loeid, en beefd, en weigerd my te draagen.</l>
+<l>'t Is vruchteloos getracht de raazerny te ontgaan</l>
+<l>Zo veeler Vyanden, die my naar 't leeven staan.</l>
+<l>Niets kan my tegens hen beschutten, als 't vermoogen</l>
+<l>Van u, wiens bystand nooit myn fierheid zal gedoogen.</l>
+<l>Uw hulp zou myne naam bezoedelen, myn Heer,</l>
+<l>Ja, gy benadeeld zelfs daar door uwe eigene eer.</l>
+<l>Uw Vader, daar hy rust, in 's afgronds nacht gedooken,</l>
+<l>Waakt op, en vloekt uw liefde, en werd in toorne ontstooken:</l>
+<l>Zyn stem, hoe gy 't ontveinsd, heeft u de ziel geraakt:</l>
+<l>Die indruk doove 't vuur, waar in uw boezem blaakt.</l>
+<l>Hoe kund gy, zonder schaamte, en wroeging uwer zinnen,</l>
+<l>My, de oorzaak van zyn val, beschermen en beminnen?</l>
+<l>Gy vleid uw min vergeefs: verzoen door myne dood</l>
+<l>U met Achilles geest, en uwen Bondgenoot.</l>
+<l>En, zo 't verliefde hart, te zeer met my bewoogen,</l>
+<l>Myn val, zo heilzaam voor uw rust, niet kan gedoogen;</l>
+<l>Maar myn verlossing wenscht, schoon 't nergens uitkomst</l>
+<l>'t Is uw Polyxena, die 't u voor 't laast gebied,</l>
+<l>Ik heb uw roem, en gy de myne, een vlek gegeeven, ziet;</l>
+<l>Nooit uit te wisschen, als ten koste van myn leeven.</l>
+<l>Het heer'lykst middel, tot herstelling onzer eer,</l>
+<l>Is, dat ik 't vonnis velle, en gy 't volvoerd, myn Heer.</l>
+<l>Want, denk niet, dat uw liefde, in weêrwil van het woeden</l>
+<l>Des lots, myn veege ziel voor sterven kan behoeden.</l>
+<l>Eén van ons beiden moet my dooden, hem ten zoen!</l>
+<l>Indien 't uwe arm ontzegt, zo zal 't de myne doen.</l>
+<l>Verkies: uw Vader wil, dat gy my 't licht doet derven:</l>
+<l>Zyn last blyft onvoldaan, doet my een ander sterven.</l>
+<l>Dan is myn dood onnut voor zyn gestoorde geest;</l>
+<l>En uw Polyxena, zich slagtende onbevreesd,</l>
+<l>Sterft des niet min voor u.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Dewyl 't u kan behaagen;</l>
+<pb n="36"/>
+<l>Wel aan, dat wy dan beide een eind zien onzer dagen.</l>
+<l>'k Ga u verzellen naar het moordaltaar, naar 't graf</l>
+<l>Eens wreeden Vaders. Daar leg Pyrrhus 't leeven af:</l>
+<l>Daar zal myne arm uw hand een dood'lyk voorbeeld</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Ach! 't was uw lot, noch pligt, voor my op aard te leeven, geeven.</l>
+<l>En 't is ook niet voor my, dat Pyrrhus sneuv'len moet.</l>
+<l>Gy kund my niet behoên, al plengd ge uw dierbaar bloed.</l>
+<l>Hoe verre, o Wreede! kan de liefde uw ziel vervoeren?</l>
+<l>Was 't u dan niet genoeg, myn leevensloop te ontroeren?</l>
+<l>Benyd gy my 't geluk en zoetheid van myn dood?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Om u te volgen, Schoone, om, in de jongste nood,</l>
+<l>Te deelen in uw lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">Neen! Prins.... Maar, ach! myn pligten</l>
+<l>Bezwyken voor de kracht der liefde: zie my zwichten</l>
+<l>Met schaamte voor een drift, zo dood'lyk aan myne eer.</l>
+<l>'k Zag onlangs al myn bloed ten val gedoemd, myn Heer:</l>
+<l>'k Zag hunne en myne dood standvastig onder de oogen.</l>
+<l>Nu ysd myn angstig hart; nu is myn moed vervloogen,</l>
+<l>Als de eenige oorzaak van hun rampen sneuv'len moet.</l>
+<l>Beef, Prinse, beef, dat gy te wel my voelen doet</l>
+<l>De zwakheid van myn hart, waar op gy hebt de zegen,</l>
+<l>Door onweêrstaanb're magt, my zelf ten spyt, verkreegen.</l>
+<l>Ik ga my, voor het laatst, beraaden met dat hart:</l>
+<l>En, zo 'k vergeefs myn deugd herroep, in min verward;</l>
+<l>Zo 't vrucht'loos zy gepoogd die drift te wederstreeven,</l>
+<l>Dat dan Polyxena en Pyrrhus teffens sneeven.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi> <hi rend="i">alken.</hi></speaker>
+<l>GOôn! zyn dat red'nen van een Vrouwe, een ted're</l>
+<l>Maagd!</l>
+<l>Gestoorde Goden, die haar onverzoen'lyk plaagd,</l>
+<l>Weêrhoud uw roede, en wilt in myn Vorstinne spaaren</l>
+<l>Die deugden, die we in u aanbidden voor de altaaren,</l>
+<pb n="37"/>
+<l>Ter aarde neêrgeknield. En gy, die haare dood</l>
+<l>Zo toornig vorderd, keer uit 's afgronds bange schoot;</l>
+<l>Keer, strenge Vader, en herroep uw wreede wetten;</l>
+<l>Of haar volmaakte deugd zal uwe roem besmetten,</l>
+<l>Al mort ge in 't duist're ryk, en hitst de Grieken aan.</l>
+<l>Maar in uw plaats zal my uwe eer ter harte gaan;</l>
+<l>'k Zal haar beschermen, en, door dubb'le zucht gedreeven,</l>
+<l>In 't veld....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel</head>
+<stage><hi rend="sc">Telephus</hi>, <hi rend="sc">Pyrrhus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 1tab">HOu stand: gy moet my hier voldoening geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Wat onverlaat durfd.... Maar, wat wond'ren zien we in 't end?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Uw grootste Vyand in uw leger, in uw tent.</l>
+<l>'k Ben Telephus.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Goôn! is dan de yz're slaap gebrooken</l>
+<l>Van al de dooden, die my leevend hier bestooken?</l>
+<l>En welke is de oorzaak, die u reuk'loos herwaards leid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Ik tragt de waarheid van 't gerucht, alom versbreid,</l>
+<l>Te hooren uit uw mond. Uw wreede onmensch'lykheden</l>
+<l>Zyn my te wel bekend, tot ondergang der steeden</l>
+<l>Van 't bloeijende Asiên: maar ik had nooit gedacht,</l>
+<l>Dat ge een Vorstin, gedaald uit Koninklyk geslacht,</l>
+<l>Uws Vaders dolle schim ten offer op zoud draagen;</l>
+<l>Na 't u mislukt was haar schoone oogen te behaagen.</l>
+<l>'t Versmaaden van uw min, waar voor zy gruuwen moet,</l>
+<l>Maakt dat uw heilloos hart zo spoor'loos, zo verwoed?</l>
+<l>Spreek, en voldoe me: is 't waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 3tab">En waand gy, dos beledigd,</l>
+<l>Dat gy haar beter in dit leger hier verdedigd,</l>
+<pb n="38"/>
+<l>Als binnen Trojes wal, in 't aanzien uwer Goôn?</l>
+<l>Zult gy alleen den Griek beletten haar te doôn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Neen: maar 'k wil deelen in haar dood'lyke ongelukken,</l>
+<l>En, als wy sneuv'len, u met ons ten afgrond rukken.</l>
+<l>'k Stel ten dien einde my vrywillig in uw magt.</l>
+<l>En, schoon men heil noch gonst van 's vyands hand verwacht,</l>
+<l>'k Denk, dat gy tegens my geen voordeel zult begeeren</l>
+<l>Van schandige overmagt, maar u door 't staal verweeren:</l>
+<l>Dat gy geen tweestryd zult ontzeggen aan een Zoon</l>
+<l>Van Hercules, die 't recht der Phrygiaansche Kroon</l>
+<l>Handhaavende, aan de boord der Landstroom, zyne velden</l>
+<l>Het eerst besproeid heeft met het bloed der Grieksche Helden;</l>
+<l>Die nooit verbonden met hun volk heeft aangegaan;</l>
+<l>Die, met zyne arm en magt, hun heerschzucht heeft weêrstaan:</l>
+<l>Die u, al waart ge in 't diepst van Griekenland geweeken,</l>
+<l>Zou zoeken onvermoeid, om zyn Prinses te wreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Gy oordeeld recht van my, en 't jongste nachtgevecht</l>
+<l>Deed u gevoelen, hoe 'k alleen 't geschil beslecht.</l>
+<l>Ik vind uwe aanslag goed: gy moet me, op hoop van zegen,</l>
+<l>De Trooische Schoonheid staâg betwisten met den degen.</l>
+<l>Maar, 't is geen vechtens tyd: wy moeten beide haar</l>
+<l>Voor eeuwig derven, of verlossen van 't gevaar.</l>
+<l>De dood van u, noch my, verzekerd haar het leeven.</l>
+<l>Laat my begaan, Prins: wil myne aanslag niet weêrstreeven:</l>
+<l>Vlugt uit dit leger: red uw leeven uit de nood:</l>
+<l>Verwacht niet, dat de Griek uw stoutheid met de dood...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Neen, neen! wat rampen my de hemel heeft beschooren,</l>
+<l>Ik vrees niets, als de dood van myn Prinses te hooren,</l>
+<l>'k Zal niet vertrekken, als verzekerd van haar lot.</l>
+<pb n="39"/>
+<l>'t Zy zy 't ontkoome, of dat haar leeven werd geknot,</l>
+<l>'k Wil hier....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Lycas</hi>, <hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Telephus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l rend="; 1tab">MYn Heer, men ziet Ulysses herwaards treeden:</l>
+<l>Hy zal hier aanstonds zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Staak uwe hevigheden.</l>
+<l>Vertrek; ontwyk in haast zyn oog en razerny.</l>
+<l>Ten einde in 't leger uw verblyf verhoolen zy,</l>
+<l>Werd u myn woord ten pand, myn tent ten wyk gegeeven.</l>
+<l>Stel u gerust, terwyl ik insta voor uw leeven.</l>
+<l>Gy, Lycas, breng den Prins in myn geheim vertrek</l>
+<l>In veiligheid; zorg, dat geen mensch zyn komste ontdek.</l>
+<l>Men dien hem, als my zelf, en eer zyn rang en staaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Ik ga, en zal my op 's Meêminnaars trouw verlaaten.</l>
+<l>Zyne edelmoedigheid werd dus beantwoord: maar</l>
+<l>Bedenk, dat gy u haast moet uiten, hoe gy haar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Ulysses komt: 'k zal u voldoen: houd u verborgen.</l>
+<l>O lastig onderhoud voor myn verliefde zorgen!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Ulysses</hi>, <hi rend="sc">Pyrrhus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>‘'k MOet vlytig letten op zyn houding en gezigt.</l>
+<l>Hoe zeer is 't Grieksche volk, myn Heer, aan u verpligt!</l>
+<l>Hoe kan 't, naar waarde, uw deugd, uw zucht voor Grieken roemen?</l>
+<l>Wy zien u dan gereed uw Minnares te doemen</l>
+<pb n="40"/>
+<l>Ter straffe, op 's Vaders eisch: ja, uw standvastigheid</l>
+<l>Toond zich voor 't heil des volks tot deeze proef bereid?</l>
+<l>O ed'le pooging, van een hart, als 't uw, te wachten!</l>
+<l>Toen Agamemnon zag zyn lieve Dochter slagten,</l>
+<l>En storten 't dierbaar bloed, trof hem die wreede pligt</l>
+<l>Zo smart'lyk niet; zy was ons minder van gewigt.</l>
+<l>Want zonder u, myn Heer, zou Grieken moeten zwichten</l>
+<l>Voor haar Geweldenaars, die Burgeroorlog slichten,</l>
+<l>Ten kosten van 't gemeen, en dingen naar den staf.</l>
+<l>Zy wierpen nimmer 't juk van hunne halzen af;</l>
+<l>Maar wachten vrucht'loos naar hun Vorsten, naar hun Vlooten,</l>
+<l>Hier marrende aan de kust, door 't onweêr ingeslooten,</l>
+<l>Wy zouden, zonder u, langs dit rampzalig strand</l>
+<l>Omzwerven, afgepynd tot wraak van Trojes brand:</l>
+<l>En, tusschen 't ak'lig puin der neêrgestorte wallen,</l>
+<l>Betreuren, raazende en verwoed, onze ongevallen.</l>
+<l>Der Grieken zege werd voltooid door u alleen.</l>
+<l>Gy kund verzekerd zyn van hun genegentheên,</l>
+<l>En dankb're erkentenis. Zy zullen altyd trachten</l>
+<l>Te toonen, door hun daân, hoe hoog ze uw deugden achten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'k Wist dan in 't end, myn Heer, het groot geheim en konst</l>
+<l>Te ontdekken, om my diep te wikk'len in hun gonst?</l>
+<l>Gy ziet, dat, die zyn dienst noodzaak'lyk weet te maaken,</l>
+<l>Veel wint. Hun trotsheid.... Maar, 't is best de twist te staaken.</l>
+<l>Men moet vergeeten, 't geen misdreeven wierd voorheen,</l>
+<l>Op dat deez' droeve dag ons voor altoos verëen’.</l>
+<l>Der Vorsten vriendschap kan alleen de rouw verzachten</l>
+<l>Van myn beneepen hart, en stremmen myne klagten</l>
+<l>'t Is een geluk, Prins, dat voor my meêr zoetheid heeft,</l>
+<l>Dewyl gy 't zyt, die van hun gonst my kennis geeft.</l>
+<l>'k Ga dan der Vorsten wensch volvoeren, en moet scheiden,</l>
+<l>Om, tot die laatste pligt, 't vereischte te bereiden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="41"/>
+<head rend="h4">Tiende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>'k GEloof het echter niet: hy staat bedeest, en vlugt</l>
+<l>Een haatelyk gesprek: zyn bange boezem zucht.</l>
+<l>Hy vreest, door toorne of rouw, te ontdekken zyn gepeinzen,</l>
+<l>Zyn fiere en wrev'le geest is niet gewoon te veinzen.</l>
+<l>'t Is veel te koel gezegt, voor een verliefde ziel,</l>
+<l>Die niet zo licht begeefd, 't geen eens aan 't oog geviel.</l>
+<l>Hy stemd niet, op de kreet eens geests, en zyn gebooden,</l>
+<l>'t Beminde Voorwerp, hem zo waard, als 't licht, te dooden.</l>
+<l>Zou Pyrrhus waanen, dat Ulysses listigheid,</l>
+<l>En schrand're voorzorg, door 't verbloemen wierd misleid?</l>
+<l>'t Zou schande zyn, dat my een Held, zo jong van jaaren,</l>
+<l>Verkloeken zoude, in staat- en krygsbeleid ervaaren,</l>
+<l>Daar ik weleer de list der Goden heb ontdekt;</l>
+<l>En held Achilles tot de heirtocht opgewekt,</l>
+<l>Als hy in 't vrouwekleed, by 't Jufferschap verborgen,</l>
+<l>Het krygsgevaar ontdook, door Moeder Thetis zorgen.</l>
+<l>Schoon hy den Grieken deed verzek'ren, dat zyn min</l>
+<l>Verkoeld was, hy bereid te slagten zyn Staavin;</l>
+<l>'t Was echter ver, dat ik zyn listen zou gelooven,</l>
+<l>Gesmeed, zo 't schynt, om ons 't Slagtoffer dus te ontrooven.</l>
+<l>Des wilde ik, uit hun naam, hem danken, volgens pligt,</l>
+<l>Myn gissing van naby versterken door 't gezigt.</l>
+<l rend="; 1tab">Wel aan, wy moeten hen verklaaren ons vermoeden;</l>
+<l>Hem, met een waakend oog, bespieden, en verhoeden,</l>
+<l>Dat hy zyns Vaders eisch, ons ondanks, niet verächt,</l>
+<l>Waar aan 't bederf hangt, of 't behoud der oorlogsmagt.</l>
+<stage><hi rend="i">Einde van het derde Bedryf,</hi></stage>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="42"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Lycas</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>MEn heeft uw last voldaan: elk zal zyn pligt betrachten,</l>
+<l>De Prins gevierd zyn, en gediend naar zyn gedachten.</l>
+<l>Maar 't eenigst, 't geen hy wenschte, is, dat hy mogt alleen</l>
+<l>In vryheid peinzen aan zyn smarte en zwarigheên,</l>
+<l>Verwachtende, dat hy uit uwe mond zal hooren,</l>
+<l>De verdere opening van 't geen hem werd beschooren.</l>
+<l>Hy ongeduldig... Maar, myn Heer, wat nieuwe smart</l>
+<l>Noopt u tot zuchten, en benaauwd, en prangd uw hart?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Gy kend niet te eenemaal de dood'lyke ongenuchten,</l>
+<l>Die my bedroeven. Ach! 'k beproef te wrange vruchten</l>
+<l>Van 's noodlots ongenade, en myn standvaste moed</l>
+<l>Braveerd vergeefs haar toorn, die des te feller woed.</l>
+<l>Ik dacht, myn liefde zou met beter schyn misleiden</l>
+<l>Ulysses argwaan, nu ik zelf liet toebereiden,</l>
+<l>Voor aller Grieken oog, het zoenaltaar, en 't geen</l>
+<l>Eens Wich'laars brein verzind ter offerplegtigheên,</l>
+<l>Om, met het ryzen van het licht, de Maagd te slagten.</l>
+<l>Maar, 'k hoor wel haast, dat zy 't geheim te ontdekken trachten;</l>
+<l>Dat ik verdacht werd; dat men myn bedryf bespied;</l>
+<l>Ja, dat Ulysses, die met honderd oogen ziet,</l>
+<l>Rondom dit leger heen, of ik de vlugt mogt waagen,</l>
+<l>Verspreide Benden heeft gelegt in hinderlagen.</l>
+<l>Gaf echter 't Godendom, dat ik slechts was beducht,</l>
+<l>Hoe 'k veiligst myn Prinses zou bergen door de vlugt!</l>
+<l>Dan bleef zy moog'lyk voor Ulysses oog verschoolen,</l>
+<l>Of zy ontdook 't gevaar door wegen, elk verhoolen.</l>
+<l>Maar, ach! vergeefsche hoop, en pooging, niet geacht!</l>
+<pb n="43"/>
+<l>'k Zoek haar vergeefs, met zorg, een vryplaats voor hun magt.</l>
+<l>Ik moet haar voor zich zelf, niet voor den Griek, behoeden:</l>
+<l>My vlugt ze alleen, my schuuwd ze in zo veel tegenspoeden.</l>
+<l>Zy bied zich moedig ten vrywillige offer aan,</l>
+<l>Bereid voor 't vonnis van myn Vader in te slaan:</l>
+<l>Zy onderschryft zyne eisch; tracht ik 't besluit te breeken,</l>
+<l>Straks wil die Schoone zich met eigen hand doorsleeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Dewyl die Fiere vliegd, dus troost'loos, in haar val;</l>
+<l>Hoe overreed gy haar, dat zy u volgen zal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'t Is vrucht'loos, Lycas, en ik laat dien aanslag vaaren;</l>
+<l>Maar 'k onderneem iets, dat u zal verwond'ring baaren.</l>
+<l>Gy zaagt my heden, met een onverschrokke moed,</l>
+<l>'t Geweld braveeren van een vyaud, zo verwoed.</l>
+<l>Maar dit besluit, waar toe myn hart zich voeld gedreven,</l>
+<l>Steld me een gevaar ten doel, 't welk my van schrik doet beeven:</l>
+<l>Geene onspoed trof my ooit zo smart'lyk tot deeze uur.</l>
+<l>Ach! 'k red het leeven der Prinses, maar 't staat my duur.</l>
+<l>Ik moet, op dat myn trouw volkoomen haar zou blyken,</l>
+<l>Myn min geweld doen, ja myn deugd zelf doen bezwyken.</l>
+<l>'k Wend van haar af op my de rampen haar bereid;</l>
+<l>'k Strek zelf 't slagtoffer van Achilles grimmigheid:</l>
+<l>En, tot voltooijing van die hartsplaag, my beschooren,</l>
+<l>Heb ik de wreedste van myn vyanden verkooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Vervoerd de wanhoop u zo ver, en de ongenâ...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Zie, of ik de Prinses kan spreeken, Lycas; ga:</l>
+<l>'k Zal, na ons onderhoud, u die geheimen uiten.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi> <hi rend="i">alleen.</hi></speaker>
+<l>GOôn! tot wat doodsangst moet myn liefde in 't end besluiten!</l>
+<pb n="44"/>
+<l>Wat strenge proef moet ik u geeven van myn min!</l>
+<l>Ach! mogt ik, door myn dood, volmaakte Trojaanin,</l>
+<l>Den loop verkorten van zo bitt're tegenspoeden!</l>
+<l>Maar, nu ik tot dien prys alleen u kan behoeden,</l>
+<l>Moet ik stantvastig, als 't betaamd Achilles zoon,</l>
+<l>Zyn deugden volgen, zelfs als ik zyn wetten hoon.</l>
+<l>O hemel! zo de stryd dier Liefde u wekt tot toren,</l>
+<l>En my uw gonste ontrekt; wil echter my verhooren:</l>
+<l>Verschoon myn z wakheid, die uit zulk een oorzaak sproot,</l>
+<l>En help my myn Prinses verlossen van de dood!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Lycas</hi>, <hi rend="sc">Pyrrhus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>POlyxena verschynd, van droef heid ingenoomen.</l>
+<l>Zy wenscht in stilte....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Ga, doe Telephus hier koomen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Pyrrhus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>MYne yver heeft, in 't end, een nieuwe weg ontdekt,</l>
+<l>Waar door gy veilig u aan 't doodsgevaar onttrekt,</l>
+<l>Ver van uw glorie, die u doet myn min verachten,</l>
+<l>In 't minst te kreuken. Zo die zucht in uw gedachten</l>
+<l>My niet vergeeven kan een zegen, op uw hart,</l>
+<l>En Stad, en volk behaald, zal ik door eene smart,</l>
+<l>Veel wreeder, als de dood, haar volle wraak verschaffen;</l>
+<l>My, voor myn misdaân en geweld, gevoeligst straffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Hoe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">'t Is my leed, en 't baard me een dood'lyke ongenncht,</l>
+<l>Nu ik u raaden moet, dat gy 't gevaat ontvlugt.</l>
+<pb n="45"/>
+<l>Ik moest u zelf door 't staal een vryë doortocht baanen</l>
+<l>Door 't Grieksche leger, u hunne afgestreede vaanen</l>
+<l>Ten krygsbuit schenken, die Verwinnaars, zelfs op 't veld</l>
+<l>Van hunne zegepraal doen buigen voor 't geweld;</l>
+<l>Ja u, den Griek ten spyt, op mynen troon verhoeven,</l>
+<l>'t Beloop verzekeren van een doorluchtig leeven.</l>
+<l>Maar, ach! gy ziet, hoe fel zich 't lot hier tegen kant.</l>
+<l>Ik werd verlaaten van de myne aan 't Trooische Strand:</l>
+<l>De zeekolk Hellespont, aan 't woên, houd ons beslooten,</l>
+<l>En stopt het zeespoor naar Epieren voor myn Vlooten.</l>
+<l>Gelukkiger gewest moet uwe schuilplaats zyn.</l>
+<l>'t Moet daar, in weêrwil van myn hart, met schaamte en</l>
+<l>Voor weinig tyds u aan eens anders zorg beveelen.</l>
+<l>'k Stel noch myn heil daar in, al zal 't myn smart niet heelen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Deeze aanslag zou myn naam voor opspraak, voor gevaar</l>
+<l>My redden? neen, dus bleek myn schande middagklaar</l>
+<l>Voor 's waerelds oog: zy zou myn roem te dood'ryk krenken.</l>
+<l>Zou niet het last'rend volk, met schyn van reden, denken.</l>
+<l>Dat ik, de wisselbeurt van gonstiger geval</l>
+<l>Afwachtende, elders voor uw min my spaaren zal?</l>
+<l>Dat denkbeeld kwetst myne eer: myn zwakheid u te ontdekken,</l>
+<l>Heeft dan gediend, om daar uw voordeel uit te trekken,</l>
+<l>En uwe zoetste hoop in my te bergen? 't bleek,</l>
+<l>Dat ik u viel in de arm, als ik den Griek ontweek.</l>
+<l rend="; 1tab">En eindelyk, myn Heer, waar zoude ik toevlugt vinden?</l>
+<l>Wat prinse zou zich myn bescherming onderwinden?</l>
+<l>Is 't een der Grieken, der Verdelgers van dit Ryk?</l>
+<l>'k Verkoos veel eer de dood, als ooit by hen een wyk.</l>
+<l>Is 't een der Koningen, Nabuuren deezer staaten?</l>
+<l>Die hebben, teffens met de voorspoed, ons verlaaten.</l>
+<l>Die laffe Vorsten, om 's verwinnaars wraak te ontgaan,</l>
+<l>Verraaden ons, en zien verbond noch eeden aan.</l>
+<l>Hoe kan ik veilig hun gegeeven woord gelooven?</l>
+<pb n="46"/>
+<l>'k Zag my wel haast, zo 'k my begaf aan vreemde Hoven,</l>
+<l>Geleverd aan den Griek. Wy zien hun trouwloosheid.</l>
+<l>Want Polymnestor zelf heeft ons te schelms misleid.</l>
+<l>Die wreede Thraciër had naauwelyks vernoomen,</l>
+<l>Hoe 't met deez' Moogentheid in 't end was omgekoomen;</l>
+<l>Wanneer hy Polydoor, myn Broeder, hem betrouwd,</l>
+<l>Verlokt door 's Grieken gonste, en zucht naar schat en goud,</l>
+<l>Te schendig heeft vermoord, 'k Leer uit zyn versche wonden,</l>
+<l>Hoe 't ons zou gaan, zo we aan verraaders ons verbonden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>'k Voorzag reeds 't ongeval, waar voor gy zyt beducht.</l>
+<l>Gy hebt verraad noch hoon te schroomen in uw vlugt:</l>
+<l>En, in 't gebied des Vorsts, aan wien we u overgeeven,</l>
+<l>Is teffens uwe roem verzekerd, en uw leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Wie is die Vorst, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Daar komt hy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 2tab">Kan 't geschiên?</l>
+<l>Welk wonder! Goôn! is 't droom of waarheid, 't geen wy zien?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Telephus</hi>, <hi rend="sc">Polyxena</hi>, <hi rend="sc">Pyrrhus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>O Ja, Mevrouw, ik ben 't, dien hier de Goden zonden,</l>
+<l>Om erger ramp, als 't vuur, dat Troje heeft verslonden,</l>
+<l>Te aanschouwen in uw nood. Ik ben 't, die al de vrucht</l>
+<l>Van 't lastig leeven, naauw gered, uit zuiv're zucht</l>
+<l>Tot uw benoud'nis wensch te waagen, u te toonen</l>
+<l>Myne onverbreekb're trouwe aan u, en uwe kroonen.</l>
+<l>Zie my bereid uw lot te volgen in 't gevaar,</l>
+<l>Met u te sterven voor het heilloos moordaltaar.</l>
+</sp>
+<pb n="47"/>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Wy kennen Telephus aan die doorluchte blyken</l>
+<l>Van waare heldenmoed, voor 't heil der Trooische Ryken</l>
+<l>Zo heerelyk getoond. Ik dank de goede Goôn,</l>
+<l>Die, op deeze uur vermurwd, u, onlangs by de doôn</l>
+<l>Geteld...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 3tab">De dierb're tyd eischt, dat we ons kort beraaden,</l>
+<l>Om u te veiligen voor 's Grieken ongenaden.</l>
+<l>Vergun my dan, Mevrouw, dat zich myn reden keer</l>
+<l>Naar deezen Vorst, op dat men 't naakend onheil weer.</l>
+<l rend="; 1tab">De liefde, Prins, doet ons op 't zelve Voorwerp doelen:</l>
+<l>Des kan de dood alleen die vyandschap verkoelen.</l>
+<l>Maar, zonder deeze haat te dooven, eischt de nood,</l>
+<l>Dat wy bezorgd zyn, om Polyxena de dood</l>
+<l>Te ontrukken, dat wy haar in veiligheid geleiden:</l>
+<l>Onze yver zy verëend, al blyft ons hart gescheiden.</l>
+<l>Hoor dan myn voorstel aan. Uit zorg en ted're zucht,</l>
+<l>Wilde ik Polyxena verzellen in haar vlugt.</l>
+<l>Maar 's Grieken achterdocht zal my't vertrek verbieden:</l>
+<l>'k Weet, dat zy heimelyk al myn bedryf bespieden,</l>
+<l>Zelf door myn eigen Volk. Des moest in deeze staat,</l>
+<l>Terwyl hun zorg alleen myn houding gadeslaat,</l>
+<l>Een ander, min verdacht, eer dat zy kondschap kreegen,</l>
+<l>Door 't bosch van Ida, haar, langs onbekende weegen,</l>
+<l>Vervoeren; 't dierb're Pand voor 's Grieken razerny</l>
+<l>Met zorg bewaaren: en die and're, Prins, zyt gy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Ik?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Ja, 't mishaage u niet dat we aan uw zorg vertrouwen</l>
+<l>Een hach'lyke aanslag, daar wy ons geluk op bouwen.</l>
+<l>'t Zy ver, dat dus uwe eer gekreukt werd, of gehoond:</l>
+<l>'t Zy ver, dat dus myn hart zich onbekommerd toond,</l>
+<l>Of 's Medeminnaars moed en pooging durft verächten:</l>
+<l>Uw liefde en ed'le deugd, geroemd in myn gedachten,</l>
+<l>Maakt, Prinse, dat gy myn geduchtste Vyand zyt.</l>
+<pb n="48"/>
+<l>Maar, wat my dreigen mag, in deze bange stryd,</l>
+<l>Is haare dood voor my het toppunt aller plaagen.</l>
+<l>Ja, 'k durf dit dierbaar Pand in uw bescherming waagen,</l>
+<l>Zelfs om uw liefde en deugd, waar voor ik duchten moet,</l>
+<l>Dat zy by myn Prinsesse een gonstige indruk doet.</l>
+<l>Hoe meêr 'k u vrees voor my, hoe meêr ik heb te hoopen</l>
+<l>Voor haar: ja, uw belang zal best uwe yver noopen.</l>
+<l>Maar, als gy haar, myn Heer, hebt in uw hof geleid,</l>
+<l>'k Eisch dan een gonste van uwe edelmoedigheid,</l>
+<l>Die gy van my verzocht, dat gy my wilt vergunnen</l>
+<l>Een tweestryd, die alleen 't geschil zal eff'nen kunnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Ja, Prins, 'k beloof 't u; 'k zal my kwyten van myn pligt.</l>
+<l>'t Zal blyken, dat de Zoon van Hercules niet zwicht</l>
+<l>In heldendeugd voor u: 'k zweer 't by de hooge Magten</l>
+<l>Des hemels, van wier gonst we alleen verlossing wachten.</l>
+<l>Wat de aangenaame last betreft, my toevertrouwd;</l>
+<l>'k Sterk die met by stand, daar gy minst op denken zoud.</l>
+<l>In 't herwaarts koomen wist ik eene troep te leggen</l>
+<l>Van dapp're Mysiërs, gedekt door ruigte en heggen,</l>
+<l>In 't afgeleegen bosch, onzeker van 't beleid</l>
+<l>Der aanslag. 't Werd vereischt, dat ze in de duisterheid</l>
+<l>Dit leger nad'ren, en al strydende vertraagen</l>
+<l>'t Vervolg der Grieken, zo zy onze vlugt en laagen</l>
+<l>Ontdekten. 'k Moet hen zelf het bogtig spoor doen zien,</l>
+<l>Waar langs ik veiligst met Polyxena zal vliên.</l>
+<l>Ik weet alleen de weg, zo moeilyk, te onderscheiden,</l>
+<l>Die my door 't naare bosch kan naar myn benden leiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Ja, 't is, den Goôn zy dank, te wonder wel bedacht.</l>
+<l>'k Ga zelf bezien, langs welk een weg gy deeze nacht,</l>
+<l>Door 't leger heen, by hen gelukkig kund geraaken.</l>
+<l>'t Staat dan aan u, Prins, hen 't besluit bekend te maaken.</l>
+<l rend="; 1tab">'k Heb uw toestemming niet verzocht in dit geval,</l>
+<l>Prinsesse: 'k weet hoe licht ik die verwerven zal.</l>
+<l>Gy volgd met vreugde een Prins, zo teêr, door uwe klagten</l>
+<pb n="49"/>
+<l>En traanen... Maar, hoe kweld dit denkbeeld myn gedachten!</l>
+<l>'k Verban 't: ten einde niet die pooging werd gestuit,</l>
+<l>Waar toe 't verliefde hart met angst en smart besluit.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Polyxena</hi>, <hi rend="sc">Telephus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>GOôn! welk een vreugd! wie zon die gonst van Pyrrhus wachten?</l>
+<l>Hoe vleid deeze aanslag, my zo wensch'lyk, myn gedachten!</l>
+<l>Gy storte my, Fortuin, ten diepen afgrond neêr;</l>
+<l>En heft my onverwacht ten hoogsten top van eer.</l>
+<l>Bekoor'lyke Prinsesse, als myne hoop vervloogen,</l>
+<l>Uw val bestemd was, als ik zag uw dood voor oogen,</l>
+<l>En my niets ov'rig scheen in deeze jongste nood,</l>
+<l>Dan u te volgen in een smartelyke dood:</l>
+<l>Mag 't my gebeuren, u dien Vyand, zo verbolgen,</l>
+<l>Te ontvoeren, nu gy my zult in myn Staaten volgen.</l>
+<l>Eens medeminnaars zorg beveeld u in myn magt,</l>
+<l>En zelfs zyn liefde steld myn voorspoed in haar kracht</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Vergeef 't my, Prins, indien myn hart, te zeer bewoogen</l>
+<l>Door 't vremd geval, door zo veel wond'ren opgetoogen,</l>
+<l>Myn mond dus lang de spraak ontzegt, en stremd myn reên.</l>
+<l>Op welk een tyd en plaats, na zo veel tegenheên,</l>
+<l>Zien wy u weder? ach! 'k betreurde uw droevig sterven.</l>
+<l>Uw komste is de eerste gonst, die wy van 't lot verwerven:</l>
+<l>Maar ze is met smart vermengd; terwyl gy hier versmaad</l>
+<l>Der Goden bystand, die u 't leeven in dien staat</l>
+<l>Verlengden, en u durfd in 's vyands leger waagen.</l>
+<l>Ach! vlugt van hier, myn Heer, ontwyk des Hemels plaagen.</l>
+<l>Behoed my voor dien ramp, dat uwe liefde u niet</l>
+<l>Het leeven koste, na ze u storte in veel verdriet</l>
+</sp>
+<pb n="50"/>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Die vreeze is ongegrond: waar toe uw geest te ontroeren....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Hoe ver, myn Heer, kan u een dwaaze drift vervoeren?</l>
+<l>Zoud ge onderneemen my te bergen in uw Ryk?</l>
+<l>De Grieken volgden my, gestoord om 't ongelyk,</l>
+<l>Tot op uw grenzen: nooit kan 't Bondgenootschap derven</l>
+<l>De prys der weêrkomst, hen verzekerd door myn sterven.</l>
+<l>En, schoon gy streed voor my met onverwinb're kracht;</l>
+<l>Ach! Trojes nootlot is veel sterker, als uw magt.</l>
+<l>Zoude ik, tot ondergang der Asiaansche kroonen,</l>
+<l>Eene and're Helena den Mysiërs vertoonen;</l>
+<l>En de oorlogstoorts op nieuws ontsteeken in uw Staat,</l>
+<l>Myn vryplaats delven tot een graf voor de onderzaat?</l>
+<l>Heeft niet hun bloed genoeg geverwd de Trooische stroomen?</l>
+<l>Heb ik van uwe min niet blyks genoeg bekoomen</l>
+<l>In 't zwaar beleg? is door uw daân, alom verbreid,</l>
+<l>Myn hart niet overtuigd van groote ondankbaarheid?</l>
+<l>Vertrek: ach! 't staat aan my een vryplaats zelf te keuren:</l>
+<l>Ik weet 'er een, die my ontheft van angst en treuren;</l>
+<l>Daar myne deugd ontduikt de slaagen van 't geval,</l>
+<l>En daar geen vyand ooit myn rust verstooren zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Hoe! zoude ik zonder u my op de vlugt begeeven,</l>
+<l>Of wenschen zonder u een oogenblik te leeven?</l>
+<l>Nooit stemd myn hart, Prinsesse, in die bedroefde raad.</l>
+<l>Beklemd de vreeze uw ziel in uw verleege staat?</l>
+<l>Gy waand, het Leger van de Griek staat ons te duchten,</l>
+<l>Bykans gesmolten door hun zegen, door de vruchten</l>
+<l>Des oorlogs: ze achten zich gelukkig, van dit strand</l>
+<l>Te moogen zeilen, gaf 't hen 't lot, naar Griekenland.</l>
+<l>Eer zy dit krygsverlies herstellen, zich versterken,</l>
+<l>Hoop ik, door myn gezag en vrienden, uit te werken,</l>
+<l>Dat wy, verbonden met der Nagebuuren magt,</l>
+<l>Den Griek niet schromen, schoon hy zich beledigd acht.</l>
+<pb n="51"/>
+<l>Maar, zonder uwe dood, die zy zo wreed begeeren,</l>
+<l>Is 't hen onmoogelyk door zee naar huis te keeren.</l>
+<l>Leef, leef, ten einde zy nooit Grieken wederzien:</l>
+<l>Leef, Schoone, om in myn Ryk en Staaten te gebiên.</l>
+<l>Waar kund ge u veiliger, als op myn Rykstroon, achten?</l>
+<l>Gy hebt daar 't slinks geval van Troje niet te wachten:</l>
+<l>Die nooddwang is gehecht aan dat bedroefd Gewest.</l>
+<l>Gy volgd een ander lot, als gy uw Zetel vest</l>
+<l>In myn gebied. Indien der Goden toorn deed vallen</l>
+<l>De magt van Phrygiën, en Trojes hooge wallen:</l>
+<l>Licht schikt des Hemels wil, dat ik verdiende straf</l>
+<l>Aan haar verdelgers en geweldenaars verschaf;</l>
+<l>Dat ik de wraak voltrek, in 't geesselen dier snooden,</l>
+<l>Van koningsmoord, en 't boos verachten aller Goden.</l>
+<l>'t Blykt reeds, hoe 't streng geval zyn toorne en wrevelheid</l>
+<l>Bezadigd, nu het my ter goeder uure leid</l>
+<l>Tot uwe hulp, en myn geluk. Wel aan, Vorstinne,</l>
+<l>Begonstig de aanslag; dat myn liefde uw hart verwinne;</l>
+<l>Dat u myne yver niet mishaage in uwen dienst.</l>
+<l>Licht keerd de kans, door gonst der Goôn, op 't onvoorzienst.</l>
+<l>Kom aan myn juichend Volk de schoone Dochter toonen</l>
+<l>Eens grooten Konings, aan wiens hoog Geslacht en kroonen</l>
+<l>Het naauw verknocht is. Uw behoudenisse, uw deugd</l>
+<l>Voorspel hen 's Hemels gonste, en oorlogszege, en vreugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Ach! Prins, uw min beloofd meêr, als zy durst verwachten.</l>
+<l>Maar, schoon 't zich alles naar uw wensch schikte en gedachten,</l>
+<l>Hoe meêr gy my verpligt, u wond'ren onderwind</l>
+<l>Tot myn behoud'nis, hoe 'k my minder waardig vind</l>
+<l>Uw liefde. In 't end, gy kund myn weêrmin nooit verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>En wie, Mevrouw, en wie kan my die hoop doen derven?</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>Uwe eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 2tab">Myne eer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 4tab">Ja, ken my beter, trouwe Held.</l>
+<l>'t Is tyd, dat u myn mond zelf haare schanden meld.</l>
+<l rend="; 1tab">Na dat het streng geval gesloopt had deeze wallen,</l>
+<l>De Waereldstad verdelgd, den brand ten deel gevallen:</l>
+<l>Scheen haar verwinning niet volmaakt, terwyl myn hart</l>
+<l>Het lot braveerde, en bleef onwrikbaar in die smart.</l>
+<l>Des wist zy, op dat niets zoude aan haar zege ontbreeken,</l>
+<l>Myn deugd te kreuken, eer standvastig, nu bezweeken.</l>
+<l>In 't end, dit fiere hart, dat uwe heldenmoed,</l>
+<l>Gebleeken in 't beleg ten koste van uw bloed;</l>
+<l>Ja, dat uw liefde, uw trouw niet heeft beweegen konnen,</l>
+<l>Is zelfs van een Uitheemsche, is van een Griek verwonnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Van Pyrrhus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 3tab">Ja, bezef, na die bekentenis,</l>
+<l>Of noch Polyxena uw liefde waardig is;</l>
+<l>Of myn besmette deugd u kan verzek'ring geeven</l>
+<l>Van 's Hemels gonst, nu 't hart zo heftig werd gedreeven</l>
+<l>Door snoode driften. Denk met ernst aan myne reên.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>WAt hoor ik? Goden! nu myn heilstand heer'lykst scheen,</l>
+<l>Werd ik gebliksemd door die schrikkelyke woorden,</l>
+<l>Die my het angstig hart doorsnyden: die my moorden.</l>
+<l>Wat eind'loos zielsverdriet volgd na een korte vreugd?</l>
+<l>Ga nu, rampzalig Prins, uit zuiv're trouwe en deugd,</l>
+<l>Uw Medeminnaar, door gedreigde doodsgevaaren,</l>
+<l>Zelfs in uw Hof, het loon van zyne min bewaaren.</l>
+<pb n="53"/>
+<l>Waag u voor eene ondankb're. O spyt! o ongunst! neen,</l>
+<l>Zy is niet waard myn liefde, en zo veel tederheên.</l>
+<l>De reden win weêr veld in myn verslaafde zinnen.</l>
+<l>'k Verbreek, dus fel gehoond, de boei van 't laffe minnen,</l>
+<l>En vlugt de Wreede, die my fier haar gonste onttrekt.</l>
+<l rend="; 1tab">Maar, waarom dit geheim, zo haat'lyk, my ontdekt?</l>
+<l>Licht is haar min verzierd, licht doet zy 't my gelooven,</l>
+<l>Om in myn hart een gloed, die haar verveeld, te dooven.</l>
+<l>Wat zou 'k gelukkig zyn in myn verdriet, zo zy</l>
+<l>Myn Medeminnaar niet beminde, al haat ze my.</l>
+<l>Doch, nu zy 't zegt, waar toe getwyfeld aan haar reden?</l>
+<l>'k Zie, hoe haar hart van pligt en liefde werd bestreeden.</l>
+<l rend="; 1tab">Wel aan, versterken wy, door onze zorg en raad,</l>
+<l>Haar deugd en glory: en, schoon pligt noch reden baat,</l>
+<l>Noch zal 't me een troost zyn, in de driften, die me ontroeren,</l>
+<l>Dat ik myn Vyand zyn Prinsesse kan ontvoeren;</l>
+<l>En dat hy, schoon zy hem begonstigd, my verstoot,</l>
+<l>De vrucht myns poogens nooit geniet, als door myn dood.</l>
+<stage><hi rend="i">Einde van het vierde Bedryf.</hi></stage>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="54"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>'k DAcht Telephus van myn belangen af te trekken,</l>
+<l>Met hem myn dwaaze liefde en zielsgeheim te ontdekken.</l>
+<l>Ik hoopte, dat zyn min, door gonst noch hoop gevoed,</l>
+<l>Zou zwigten; dat de spyt zou dooven zynen gloed.</l>
+<l>Maar vrucht'loos: hy volhard in zyn rampzalig minnen;</l>
+<l>Die neiging heerscht te sterk in zyn verliefde zinnen.</l>
+<l>Hy vliegd in zyn bederf, ten zy ik met hem vlugt.</l>
+<l>Ik veinsde in zyn besluit te stemmen: hy, uit zucht</l>
+<l>Tot myn behoudenis, gaat alles vaardig maaken.</l>
+<l>Deeze uur is wensch'lyk, om myn boeijens eens te slaaken:</l>
+<l>'t Lot zelf begonstigd my in deeze onnoz'le list.</l>
+<l>Ik achte 't noodig, dat Ulysses de aanslag wist:</l>
+<l>Hy zal, arglistig, voor 't volvoeren zorge draagen:</l>
+<l>'k Heb hem ontbooden; wat doet zyne komst vertraagen?</l>
+<l rend="; 1tab">Begonstigd myn besluit; verhaast, verhaast myn dood,</l>
+<l>Gestoorde Goden, die myne ondergang besloot:</l>
+<l>Gy zelf deeld in myn drift, om my in 't graf te rukken.</l>
+<l>Zie uw Slagtoffer voor uw haat gewillig bukken.</l>
+<l>Ik wil uw vonnis, en myn roem voor Pyrrhus magt</l>
+<l>Verzek'ren, nu de dood alleen myn leed verzacht.</l>
+<l rend="; 1tab">En gy, nootlottig Prins, dien ik te veel geloofde;</l>
+<l>Wyk uit dit hart, 't welk gy van rust en eer beroofde.</l>
+<l>Maar, ach! bezef, hoe zeer gy daar wierd aangebeên,</l>
+<l>Zelfs uit die pooging, uit myne angst en tederheên.</l>
+<l>Zie uw Polyxena bereid, door 't staal, te sneeven,</l>
+<l>Dewyl zy, zonder u te minnen, niet kon leeven:</l>
+<l>Haar heil en vreugd hing af van u alleen: maar de eer,</l>
+<l>En pligten....</l>
+</sp>
+<div type="scene">
+<pb n="55"/>
+<head rend="h4">Tweede Tooneel.</head>
+<stage><hi rend="sc">Ulysses</hi>, <hi rend="sc">Polyxena,</hi></stage>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 1tab">'k WAchte u reeds met ongeduld, myn Heer.</l>
+<l>'t Behaagde u onlangs my een trouwe raad te geeven,</l>
+<l>Waar aan de welstand scheen te hangen van myn leeven.</l>
+<l>Nu zal ik, achtende aan uw yver my verpligt,</l>
+<l>Die raad vergelden met een noodiger bericht:</l>
+<l>Verwierp ik de uwe, gy zult myne beter volgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>Hoe, gy, Mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l rend="; 2tab">Ja, 't lot, de Koningsstam verbolgen,</l>
+<l>Veranderd myn besluit, tot heil der Grieksche Staat.</l>
+<l>'k Bevorder hun geluk, in weêrwil van myn haat.</l>
+<l>Weet, dat uw Volk in my de zoete hoop zou derven</l>
+<l>Van hun te rug reis, die zy baanen door myn sterven;</l>
+<l>Dat ik hen licht'lyk zoude ontkoomen door de vlugt,</l>
+<l>Zo 't leeven my behaagde in dood'lyke ongenucht.</l>
+<l>Men zou deeze aanslag, die wy u oprecht ontdekken,</l>
+<l>Terwyl u Pyrrhus vleid, ter middernacht, voltrekken.</l>
+<l>Ik vlood naar Myfiën, door 't bosch van Ida heen.</l>
+<l>En, zo gy twyfeld aan de waarheid myner reên,</l>
+<l>Kund gy, ik sta 't u toe, om u gerust te stellen,</l>
+<l>Tot voor de Tombe van Achilles my verzellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>'k Wil niet ontkennen, dat myne yver voor 't belang</l>
+<l>Des Volks, my stemmen deed, Mevrouw, uwe ondergang:</l>
+<l>Dat ik beducht was, dat u Pyrrhus mogte slaaken;</l>
+<l>Uw schoonheid vieren, en 't bevel zyns Vaders wraaken.</l>
+<l>Maar, wie zou denken, dit vermoeden, zo gegrond.</l>
+<l>Te zien bekrachtigd, en gesterkt, zelfs door uw mond?</l>
+<l>O deugd, van 't lot gedrukt! o moed, tot sterven vaardig!</l>
+<l>Versmaading van de dood, het schoonste leeven waardig!</l>
+<pb n="56"/>
+<l>Ach! was Achilles toorn, die zo uitspoorig brand,</l>
+<l>Naar wensch te stillen door eene andere offerhand!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Polyxena</hi>.</speaker>
+<l>'k Zoek uw meêlyden niet, en veel te koele klagten.</l>
+<l>Wy sterven niet voor u, als we ons ten offer slagten.</l>
+<l>Ik had reeds, als ik my doorstiet met eigen hand,</l>
+<l>De hoop verydeld van 't benaauwde Griekenland;</l>
+<l>En dus Achilles geest, verkropt van toorn, gebrooken</l>
+<l>Uit 's afgronds kerker, aan den oever laaten spooken,</l>
+<l>Eu waaren, daar hy schreeuwde, en dorste naar myn bloed.</l>
+<l>Maar, 'k vond veel zoeter, dat ik dus onschuldig boet,</l>
+<l>En 't vonnis onderga, zo heilloos uitgesprooken.</l>
+<l>'k Werd, door myn dood, van hem op 't heerelykst gewrooken.</l>
+<l>'k Wil, dat myn dood zyn roem eene eeuwige eervlek zy,</l>
+<l>Een schandige overmaat der Grieksche razerny;</l>
+<l>Waar door de Naneef, eens in laatere eeuw bewoogen,</l>
+<l>Vervloeken zal uw naam, en woede, en oorelogen.</l>
+<l>Dus werd, naar myne hoop, dit wreede gruuwelstuk,</l>
+<l>Waar op Achilles dringt, myn voordeel, myn geluk.</l>
+<l>'t Is vruchteloos, al werde ik fel naar 't hart gestooken:</l>
+<l>De dood voldoet myn wensch: des blyft hy ongewrooken.</l>
+<l>Maar, zonder Pyrrhus hand, kan nooit de Griek voldoen</l>
+<l>Aan 's Vaders eisch: hy moet my slagten, hem ten zoen.</l>
+<l>Men trachte des alleen my uit zyn magt te rukken:</l>
+<l>Zo zal 't volvoeren, naar der Grieken wensch, gelukken.</l>
+<l>Dat hy daar na my by Achilles Grafsteê zoek,</l>
+<l>En, voor dat altaar, tot het moordfeit zich verkloek.</l>
+<l>'k Zal daar, met beter schyn, den Minnaar overtuigen,</l>
+<l>Hoe hy genoodzaakt is voor 's Vaders wil te buigen.</l>
+<l>Wel aan, volbrengen wy dit doodelyk besluit,</l>
+<l>Eer hy te rug keerd: want wy wierden straks gestuit</l>
+<l>Door 's Vorsten razerny, ontroerd van geest en zinnen.</l>
+<l>Maar hy verschynd. Wat zal ik in deeze angst beginnen?</l>
+<l>Hou gy hem op, myn Heer; en vlei 't ontstelde hart:</l>
+<pb n="57"/>
+<l>'k Bezorg het ov'rig. Prins, waarde oorzaak van myn smart,</l>
+<l>Door wien myn rampen zyn ten hoogsten top gestegen;</l>
+<l>Uw ongeluk zal haast myn plaagen overweegen!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Ulysses</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>KEerd gy zo haast, myn Heer? zyn 't reên van staat, of pligt,</l>
+<l>Waar door gy onverwacht verschynd voor myn gezigt?</l>
+<l>Heb ik, uit trouwe zugt tot 's Volks behoud gedreeven,</l>
+<l>Hen tegens morgen niet door u myn woord gegeeven?</l>
+<l>Is 't uitstel u te lang? of koomt gy 't ampt bekleên,</l>
+<l>Om myn standvastigheid te sterken door uw reên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>Dit 's de oorzaak niet, myn Heer: wy kunnen licht bezeffen</l>
+<l>Dat traagheid billyk is in pligten, die zo treffen:</l>
+<l>En vinden des te meêr uw lot beklaagens waard,</l>
+<l>Dewyl 't tot veinzen dwingd u, zo oprecht van aard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Hoe!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l rend="; 2tab">Myne komst strekt niet, om 't diep geheim te leezen</l>
+<l>Van uw voorneemens uit uwe oogen, uit uw wezen;</l>
+<l>Noch uw beangste geest te kwellen met die pyn,</l>
+<l>Dat gy 't bekennen moet, of wel meineedig zyn.</l>
+<l>Men heeft ons de oogen reeds geopend door berichten,</l>
+<l>Die zeker gaan, die ons dit nachtgeheim verlichten.</l>
+<l>'k Weet, dat Polyxena naar Mysiën vertrekt</l>
+<l>Door heimelyk verstand....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 3tab">‘Wie hęeft zo schelms ontdekt</l>
+<l>‘'t Besluit....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l rend="; 1tab">'t Is vruchteloos, myn Heer, uw hart te ontroeren.</l>
+<pb n="58"/>
+<l>De list is uitgelekt: gy kund die nooit volvoeren.</l>
+<l>Bezorg dan 't heil des staats: kwyt, zonder veinzery....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Die laffe reden wet myn woede en razerny.</l>
+<l>Is de aanslag my ontlegt; 'k zweer, dat uw valsche listen</l>
+<l>Mislukken zullen: 'k zal haar, tot myn dood, betwisten</l>
+<l>Aan dat bloeddorstig Volk. Ik kan alleen voldoen</l>
+<l>Myns Vaders last: hy wil, dat ik zyn schim verzoen.</l>
+<l>Des zoude eens anders hand zyn gramschap niet verzachten....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>Zo hy misnoegd blyft, gy hebt zynen toorn te wachten,</l>
+<l>Geensins het Grieksche Volk; 't geen klaar hem zal doen zien,</l>
+<l>Dat zyne laatste wil volkoomen zou geschiên;</l>
+<l>Indien zyn Zoon door zo veel zucht en yver blaakte</l>
+<l>Tot dienst des Helds, als zy, die 't off'ren der Geschaakte</l>
+<l>Eenpaarig stemmen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 1tab">Ja, 'k merk 's Grieken wreed besluit</l>
+<l>Niet dan te klaar. Wel aan, hy zoek myne Oorlogsbuit</l>
+<l>In deeze Tent, verhit op moord en gruuwelstukken,</l>
+<l>Indien hy moed heeft, haar uit myne magt te rukken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Ulysses</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>STeld gy Polyxena, myn Heer, in 's vyands magt?</l>
+<l>Ach! is 't uw wil, dat zy rampzalig werd geslagt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Wat zegt ge, Ismene?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l rend="; 1tab">Ik trad, op 't hooren van geruchten,</l>
+<l>En eene kreet des Volks, die my voor ramp deed duchten,</l>
+<l>Ter Tente uit in het veld. 'k Zie myn Prinsesse treên</l>
+<pb n="59"/>
+<l>Recht naar Achilles Tombe, en 't dood'lyk altaar heen;</l>
+<l>Verzeld op deeze tocht van eene drang van menschen,</l>
+<l>Die haar, naar gonste of haat, straffe of verlossing wenschen.</l>
+<l>Zy wierd van Arsaces gevolgd: hy spreekt my aan:</l>
+<l>Ga, zegt hy, vlieg, Ismene, en doe den Vorst verstaan</l>
+<l>Dit dood'lyk ongeval. Ik hoopte, uit deeze reden,</l>
+<l>En zo veel blyken van uwe edelmoedigheden,</l>
+<l>Dat zy, uws ondanks, licht der Grieken onbescheid...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Trouw'looze, ach! 't is uw list, die my zo schelms misleid;</l>
+<l>Terwyl uw valsche mond my ophoud onder 't spreeken!</l>
+<l>Gy zyt gelukkig, dat myn arm zich niet kan wreeken</l>
+<l>Met u te straffen: dat myn tyd te dierbaar is;</l>
+<l>Terwyl ik vliegen moet tot haar behoudenis.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Ulysses</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ulysses</hi>.</speaker>
+<l>HEt heil van 't Vaderland moet by my 't zwaarste weegen.</l>
+<l>De hach'lyke uitkomst maakt nochtans myn geest verleegen.</l>
+<l>Hoe red zich Pyrrhus in die barning van gevaar?</l>
+<l>Kan hy haar slagten, of beschermen voor 't altaar?</l>
+<l>Goôn! welk een staatstorm schynt ons boven 't hoofd te hangen?</l>
+<l>Hoe 't zy, ik ga, en kwyt myn pligt, voor 's Volks belangen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="60"/>
+<head rend="h4">Zesde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>, <hi rend="i">alleen.</hi></speaker>
+<l>UW strengheid, wreed geval, heeft onze hoop geknot!</l>
+<l>Maar, zien wy de uitslag van 's Prinsessen leevenslot.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Telephus</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>WAar spoed gy heen? wat kan uw wezen zo ontroeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>Wat zoekt gy hier, myn Heer, en laat u dus ontvoeren....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Is, in myn afzyn, iets gebeurd, Ismene? ik dacht</l>
+<l>Te melden uw Prinses, hoe veilig deeze nacht,</l>
+<l>Wyl alles vaardig is....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l rend="; 1tab">Helaas! 't is al verlooren:</l>
+<l>Zy is in 't Grieksche heir.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 2tab">O Hemel! wat wy hooren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ismene</hi>.</speaker>
+<l>'k Zie Arsaces. Die weet de zaak met zekerheid;</l>
+<l>Dewyl hy zelf, myn Heer, haar derwaards heeft geleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Ach! onverzoenb're Goôn, zal zy onschuldig boeten?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Arsaces</hi>, <hi rend="sc">Telephus</hi>, <hi rend="sc">Ismene</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>TEr goeder uur, myn Heer, koome ik u hier te ontmoeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Hebt gy Polyxena verzeld uit deeze Tent?</l>
+</sp>
+<pb n="61"/>
+<sp>
+<speaker><hi rend="sc">Arsaces</hi>.</speaker>
+<l>'t Geheim van haare vlugt, myn Heer, was me onbekend.</l>
+<l>En, toen ik eind'lyk zag, dat zy zich scheen te spoeden</l>
+<l>Naar 't Grafgesticht, kon ik 't onmoogelyk verhoeden;</l>
+<l>Nog haar besluit en wil weêrstreeven door myn raad,</l>
+<l>In eene drang des volks van hooge en laage staat.</l>
+<l rend="; 1tab">Maar alle hoop, myn Heer, heeft ons noch niet begeeven;</l>
+<l>Want Pyrrhus in der yl, tot haar behoud gedreeven,</l>
+<l>Heeft, in zyn grimmigheid, het dood'lyk zoenaltaar,</l>
+<l>Gewyde Vaten, ja den gryzen Offeraar</l>
+<l>Ter aarde neêrgebonsd, en, onder 't hevig woeden,</l>
+<l>Alom ruimbaan gemaakt. Hy kan haar noch behoeden,</l>
+<l>En doet het Grieksche Volk verstuiven, waar 't hem naakt.</l>
+<l>Een deel der Dolopers, wiens hart van yver blaakt</l>
+<l>Voor 's Konings welstand,is bereid met hem te sneeven,</l>
+<l>En bied den Griek het hoofd. Maar 't zal niet lang weêrstreeven</l>
+<l>Die overmagt van volk, als 't in hun rang geschaard,</l>
+<l>Door hunne Hoofden, hen zal dwingen door het zwaard.</l>
+<l>Kom, in die nood, myn Heer, kom, met uwe oorlogsknegten,</l>
+<l>Uw Mysiërs, den Vorst beschermen, onder 't vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Wel aan, Getrouwe, 'k zal, met versche magt, de hoon...</l>
+<l>Maar, zie ik Pyrrhus niet verschynen? groote Goôn!</l>
+<l>De schrik beklemd myn hart: wat maakt hem zo verlegen?</l>
+<l>Hy schynd mistroostig, slaat aan 't woeden, zonder degen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Negende tooneel</head>
+<stage><hi rend="sc">Pyrrhus</hi>, <hi rend="sc">Telephus</hi>, <hi rend="sc">Arsaces</hi>, <hi rend="sc">Lycas</hi>. <hi rend="i">Lyfwacht.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>ACh! wreede Vrienden, laat my sterven. 'k Heb te snood,</l>
+<pb n="62"/>
+<l>Te schelms misdreeven. 'k Vlieg wanhoopende in myn dood.</l>
+<l>Weêrstreef my niet: ik moet de straf van 't moordfeit boeten.</l>
+<l>Myn dolle drift... Ach! Prins, moet ik u dus ontmoeten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Wat maakt u dus ontsteld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 3tab">Men heeft myn arm met kracht</l>
+<l>Ontwapend, dat zy niet een heilloos ondier slagt,</l>
+<l>Tot wraak van myn Prinses.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 4tab">Zy is dan omgekomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Dat tuigd myn wanhoop, en myn rouw, niet in te toomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Wraak! Goden! geeft ons kracht in deeze jongste nood.</l>
+<l>Wel aan, Prins, draag u kloek, en wreek met my haar dood.</l>
+<l>Wien moet men straffen? wie bestond haar aan te randen?</l>
+<l>Wie heeft de schoone Maagd vermoord met helsche handen?</l>
+<l>Is 't Calchas?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Neen, ik ben 't: stoot toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l rend="; 5tab">Hoe! gy, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Ik ben dat monstendier, ontaard van deugd en eer,</l>
+<l>'t Onzalig speeltuig van 't geval, en 's Hemels toren.</l>
+<l rend="; 1tab">De Grieken stonden nu geschaard, om in te booren,</l>
+<l>En haar, myns ondanks, my te ontrooven met geweld.</l>
+<l>'k Zie Agamemnon van zyn Lyfstaffiers verzeld,</l>
+<l>Daar hy voor uit treed, om haar uit myne arm te rukken.</l>
+<l>In deeze stant, verwoed, verkropt van ongelukken,</l>
+<l>Nu voor de reden doof, val ik den Wreedaard aan.</l>
+<pb n="63"/>
+<l>Maat, ach! Polyxena, toeschietende onder 't slaan,</l>
+<l>Vliegd moedig tusschen beide, als 't lot en dolle woede</l>
+<l>Myn blinde zinnen zo verrukt? in euv'len moede,</l>
+<l>Dat in haar lieve borst, helaas! myn heilloos staal...</l>
+<l>Ach! Prins, stoot toe, en strem dit doodelyk verhaal,</l>
+<l>Dat my het hart doorsnyd. Gy moet myne ondaân straffen,</l>
+<l>En aan haar lieve Geest gerechte wraak verschaffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Telephus</hi>.</speaker>
+<l>Neen, 't was genade en gonst, zo 'k u de doodsteek gaf.</l>
+<l>Leef, leef, rampzalig Prins, maar leef tot uwe straf!</l>
+<l>Nootlottige oorzaak van haare eindelooze plaagen,</l>
+<l>Of dood'lyk-werktuig tot verkorting haarer daagen.</l>
+<l>Leef, maar gepynigd, ja, verscheurd van bitt're smart,</l>
+<l>En wroegend naberouw, een geessel voor uw hart.</l>
+<l>Die indruk stelle u staâg 't bebloed taf 'reel voor oogen</l>
+<l>Van uwe onmenschlykheên, en heillooze oorelogen;</l>
+<l>Hoe gy de aloude Vest ten grond hebt omgewroed,</l>
+<l>Op 't Koninglyk geslagt met vuur en staal gewoed;</l>
+<l>Den gryzen Priamus doorstooken voor de altaaren,</l>
+<l>Zyn Zoonen omgebragt in 't bloeijenst hunner jaaren:</l>
+<l>Hoe, door uw dolle liefde, uw Vader is gedaagd</l>
+<l>Uit zyne Grafzerk, om de aanbiddelyke Maagd</l>
+<l>Te doemen: hoe gy hebt volvoerd met booze handen</l>
+<l>Een moord, die eeuwig u op 't knaagend hart zal branden.</l>
+<l rend="; 1tab">Daar my de onsterf'lyke eer gebeurd, dat zich myn min</l>
+<l>Onkreukbaar heeft gewyd die schoone Trojaanin;</l>
+<l>Dat ik voor haar belang heb 't uiterste ondernoomen,</l>
+<l>Haar aangebeden, in haar dienst myn bloed zien stroomen:</l>
+<l>Terwyl ik van myn hand een zoete rust verwacht,</l>
+<l>En eeuwig met haar Schim vereene in 's afgronds nacht.</l>
+<stage><hi rend="i">Hy doorsteekt zich, en valt in de armen van Arsaces: waar op Lycas de degen van Telephus wegrukt, waar mede zich Pyrrhus dooden wil.</hi></stage>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l>Wel aan, door 't zelve staal zal ik myn tegenspoeden...</l>
+</sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>Ach! Vorst, wat gaat u aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pyrrhus</hi>.</speaker>
+<l rend="; 2tab">Moet gy myn dood verhoeden?</l>
+<l>Waar toe myn veege ziel, haars ondanks, 't licht gespaard?</l>
+<l>Met myn Polyxena vervloog myn vreugd van de aard.</l>
+<l rend="; 1tab">Ontmenschte Vader, rys; verschyn de Grieksche Magten,</l>
+<l>En eisch, met grooter recht, dat zy uw Pyrrhus slagten.</l>
+<l>Myn arm heeft zwaar gedoold: 'k heb u, en my verraân:</l>
+<l>Ja, 'k heb, in weêrwil van myn hart, het feit begaan.</l>
+<l>Haat gy dan 't bloed zo zeer,waar uit zy is gesprooten,</l>
+<l>Dat het u niet verschild, hoe 't werd ten zoen vergooten?</l>
+<l>Zo zyt in 't end voldaan: 'k heb myn Prinses geslagt.</l>
+<l>Maar, toen gy 't eischte, heeft uw wreedheid wel gedacht,</l>
+<l>Dat haare dood uw Zoon zou kosten rust en leven.</l>
+<l>Wel aan, 'k moet sterven, en uw wil niet wederstreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lycas</hi>.</speaker>
+<l>De wanhoop sleept hem weg. Men trooste, en sta hem by,</l>
+<l>Tot de eerste ontroering van zyn geest bezadigd zy.</l>
+<stage><hi rend="i">Einde van het vyfde, en laatste Bedryf.</hi></stage>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

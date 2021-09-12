@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Een nieuw lied van Chassé</title>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Een nieuw lied van Chassé</hi> uit ca. 1820.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 1: ‘Hoezəé’ → ‘Hoezeé’: ‘Wys: Vivat Oranje Hoezeé’.</corr>
+                       <corr>p. 2, in de noot: ‘Cassé’ → ‘Chassé’: ‘Papa Chassé is de naam, welke de Krygslieden hunne geliefde Generaal gewoon zyn te geven’.</corr>
+                       <corr>p. 4: ‘Blyfliefde’ → ‘Blyf liefde’: ‘Blyf liefde en trouw blyf hoop en moed, hoezee’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">_nie076nieu01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: Lbl KB Wouters 05008</idno>
+               </bibl>
+               <p><hi rend="i">Een nieuw lied van Chassé</hi>. Z.p., ca. 1820</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Een nieuw lied van Chassé</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Een nieuw lied van Chassé</title>
+               <idno></idno>
+               <imprint>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-06-24</date>
+               <respStmt>
+                   <name type="person">MP</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body>
+<div type="chapter">
+ 
+<pb n="1"/>
+<p><figure>
+<p><xptr to="_nie076nieu01ill01.gif"/></p>
+</figure></p>
+<div type="section"><interpGrp> <interp type="song" value="_nie076nieu01_0001"/> </interpGrp>
+<head rend="h3">Een nieuw lied, van Chassé.</head>
+    <head rend="h4">Wys: Vivat Oranje Hoezeé.</head>
+<lg type="poem">
+<l>Wie praalt aan 't hoofd der heldenstoet? Chassé</l>
+<l>Wie heeft gewroken Hollands bloed? Chassé</l>
+<pb n="2"/>
+<l>Wie spreekt uit monden van metaal,</l>
+<l>Der Trompen en de Ruiters taal,</l>
+    <l rend="; 1tab">Chassé, Chassé, Chassé. &nbsp;&nbsp;&nbsp;(bis)</l>
+</lg>
+<lg type="poem">
+<head>2.</head>
+<l>Wie heeft gestraft het snoodst verraad, Chassé</l>
+<l>Wie redde 't bolwerk van den staat, Chassé</l>
+<l rend="; 1tab">Wie toonde wat de Leeuw vermag,</l>
+<l rend="; 1tab">Die voormaals de aard nooit sluim'ren zag</l>
+    <l rend="; 2tab">Chassé, Chassé, Chass. &nbsp;&nbsp;&nbsp;(bis)</l>
+</lg>
+<lg type="poem">
+<head>3.</head>
+<l>Wie heeft de muitzucht perk gezet? Chassé</l>
+<l>Wie 't monster in zyn nest verplet? Chassé</l>
+<l rend="; 1tab">Wie is als Neerlands oudste Zoon,</l>
+<l rend="; 1tab">De hechtste steun van 's Konings troon</l>
+    <l rend="; 2tab">Chassé, Chassé, Chassé. &nbsp;&nbsp;&nbsp;(bis)</l>
+</lg>
+<lg type="poem">
+<head>4.</head>
+<l>Oud-Neerland zyt gy dier en waard, Chassé</l>
+<l>Uw heldenroem klinkt luide op aard, Chassé</l>
+<l rend="; 1tab">Voor U ryst onze zegenbee,</l>
+<l rend="; 1tab">Wy zingen met het leger mee,</l>
+    <l rend="; 2tab">Vivat Papa<note n="[*]" place="foot">Papa Chassé is de naam, welke de Krygslieden hunne geliefde Generaal gewoon zyn te geven.</note> Chassé. &nbsp;&nbsp;&nbsp;(bis)</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+ <interpGrp> <interp type="song" value="_nie076nieu01_0002"/> </interpGrp>
+<pb n="3"/>
+<head rend="h3">Een nieuw lied, van den generaal Van Geen.</head>
+<head rend="h4">Wys: Vivat Oranje Hoezeé.</head>
+<lg type="poem">
+<l>Wie voert 't mobile leger aan, van Geen!</l>
+<l>Wie waarborgt ons ons volksbestaan, van Geen</l>
+<l rend="; 1tab">wie heeft in de Oost 's lands roem gestaafd,</l>
+<l rend="; 1tab">Met ware kundigheen begaafd,</l>
+<l rend="; 2tab">van Geen! van Geen! van Geen!</l>
+<l>&nbsp;</l>
+<l>wie paart aan grysheid leeuwenmoed, van Geen</l>
+<l>wie is het die ons leiden moet, van Geen!</l>
+<l rend="; 1tab">wie staat in 't veld onwrikbaar vast,</l>
+<l rend="; 1tab">En stryd gelyk 't een krygsman past,</l>
+<l rend="; 2tab">van Geen, van Geen, van Geen.</l>
+<l>&nbsp;</l>
+<l>wie is in 't oorlogsveld gehard, van Geen,</l>
+<l>wie heeft daar by een menschlyk hart, van Geen</l>
+<l rend="; 1tab">wie is 't die menig veldslag won,</l>
+<l rend="; 1tab">Doch spaarde wat hy sparen kon,</l>
+<l rend="; 2tab">van Geen, van Geen, van Geen.</l>
+<l>&nbsp;</l>
+<l>wy gaan gerust met u ten stryd, van Geen</l>
+<l>wy bieden u gehoorzaamheid, van Geen</l>
+<l rend="; 1tab">wy gaan met onverschrokken moed,</l>
+<l rend="; 1tab">En sterven als men sterven moet,</l>
+<l rend="; 2tab">Aan uwe zy van Geen.</l>
+<l>&nbsp;</l>
+<l>Ons dankbaar hart klopt voor u warm, van Geen</l>
+<l>wy bouwen op uw helden arm, van Geen</l>
+<l rend="; 1tab">En voert ge ons winnend' uit den stryd,</l>
+<l rend="; 1tab">Dan zingt me in Holland wyd en zyd,</l>
+<l rend="; 2tab">Vivat vivat van Geen.</l>
+</lg>
+<pb n="4"/>
+<lg type="poem">
+    <interpGrp> <interp type="song" value="_nie076nieu01_0003"/> </interpGrp>
+<head>1.</head>
+<l>Daar waait de Nederlandsche vlag, hoezee</l>
+<l>Die nooit zich strafloos hoonen zag, hoezee</l>
+<l rend="; 1tab">Daar waait zy van den hoogen trans,</l>
+<l rend="; 1tab">En heft de kruin in zonnen glans,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee!</l>
+<l>&nbsp;</l>
+<l>Hoe heerlyk pronkt en wappert zy, hoezee</l>
+<l>Als deelende in een feestgety, hoezee!</l>
+<l rend="; 1tab">En rolt in breede plooijen uit,</l>
+<l rend="; 1tab">'s Lands kleuren als een jonge bruid,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee!</l>
+<l>&nbsp;</l>
+<l>Sla 't oog ô volk van Nederland, hoezee!</l>
+<l>Sla 't oog slechts naar den bovenkant, hoezee</l>
+<l rend="; 1tab">Daar ziet gy in den rooden gloed,</l>
+<l rend="; 1tab">De kleur der liefde en heldenmoed,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee!</l>
+<l>&nbsp;</l>
+<l>wat lager toont een breede lyn, hoezee!</l>
+<l>De kleur der onschuld blank en rein, hoezee</l>
+<l rend="; 1tab">Daar ziet gy in het midden wit,</l>
+<l rend="; 1tab">Dat Neêrlands trouw in 't harte zit,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee!</l>
+<l>&nbsp;</l>
+<l>En 't onderdeél toont aan uw oog, hoezee</l>
+<l>De zuivre kleur van 's Hemels boog, hoezee</l>
+<l rend="; 1tab">Daar blykt u in 't azuren veld</l>
+<l rend="; 1tab">Op wien ons land zyn hope stelt,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee!</l>
+<l>&nbsp;</l>
+<l>Blyf liefde en trouw blyf hoop en moed, hoezee</l>
+<l>De ringmuur dan die 't land behoed, hoezee</l>
+<l rend="; 1tab">Zoo blyve ook Neerlands vlag bewaard,</l>
+<l rend="; 1tab">En wy 't gelukkigst volk der aard,</l>
+<l rend="; 2tab">Hoezee! hoezee! hoezee.</l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>
+
